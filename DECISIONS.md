@@ -94,9 +94,17 @@ Ich habe die Runden vom 13., 14. und 15. November so gespielt, wie sie im Spiel 
 - **Live-Vorschau bis dahin:** als private claude.ai-Seite (siehe README). Dort laufen der Service Worker und Duell-Links mit `#/duell/...` nicht (Sandbox), alles andere schon.
 - `noindex, nofollow` ist gesetzt.
 
+### Nachtrag: Live auf GitHub Pages (13. 11. 2026)
+
+Repo `asator-git/emdw-spiel`, deployt per Actions-Workflow. Gegen die echte URL geprüft:
+- Playwright: alle Modi auf iPhone 13 und Pixel 7, keine JS-Fehler
+- Offline: Der Service Worker ist aktiv, die Tagesrunde lädt ohne Netz
+- Duell-Link: `#/duell/<datum>/<punkte>` zeigt die Herausforderung
+- **Lighthouse Mobile (live, mit gzip):** Startseite **98 / 100 / 100**, Fragebildschirm **97 / 100 / 100**, Sternenhimmel **98 / 100 / 100**. FCP 1,0 s, LCP 2,3–2,6 s im gedrosselten Slow-4G-Profil, Startseite 206 KB übertragen. Auf normalem 4G liegt der erste Aufruf damit unter 2 s.
+
 ## 6. Offene Punkte
 
-1. **Repo anlegen und Pages aktivieren**, 2 Minuten (siehe README → Deployment). Danach funktionieren PWA-Installation, Offline-Modus und Duell-Links.
+1. ~~Repo anlegen und Pages aktivieren~~ – erledigt, live unter https://asator-git.github.io/emdw-spiel/. **Zur Freigabe für Fans:** in `web/index.html` die Zeile `<meta name="robots" content="noindex, nofollow">` löschen und pushen.
 2. **Schriftlizenz prüfen:** UT Glasgow Grotesk und Gedankenstrich liegen als Webfont-Subsets im öffentlichen Repo. Erlaubt die Lizenz Web-Einbettung? (Die CI liefert WOFF/WOFF2, das spricht dafür.)
 3. **Dropbox → Brand Assets** war nicht erreichbar. Kurz checken, ob dort etwas Neueres als im Drive liegt.
 4. **Restliche Prüfungen:** Stand und Pool-Größe stehen in `data/pool_report.md`. Ein weiterer `update.sh`-Lauf mit API-Schlüssel prüft automatisch alles, was noch fehlt.

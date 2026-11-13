@@ -15,7 +15,7 @@ async function playQuestion(p, shot) {
   await p.click('#next');
 }
 (async () => {
-  const b = await chromium.launch();
+  const b = await chromium.launch(process.env.HTTPS_PROXY && process.argv[2] && !process.argv[2].includes('localhost') ? { proxy: { server: process.env.HTTPS_PROXY } } : {});
   for (const [name, dev] of [['iphone', devices['iPhone 13']], ['android', devices['Pixel 7']]]) {
     const ctx = await b.newContext({ ...dev, deviceScaleFactor: 1 });
     const p = await ctx.newPage();

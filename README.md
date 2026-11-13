@@ -4,7 +4,7 @@ Jeden Tag fünf Fragen aus über 400 Folgen „Erklär mir die Welt“. Man sch�
 
 - **Spiel:** statische PWA in `web/` (Vanilla JS, kein Build, kein Backend, kein Login, Fortschritt in `localStorage`)
 - **Daten:** aus den Transkripten aller Folgen, über eine dreistufige Claude-Pipeline gezogen, geprüft und kuratiert
-- **Live:** siehe Abschnitt „Deployment“ (vorerst `noindex`)
+- **Live:** https://asator-git.github.io/emdw-spiel/ (vorerst `noindex`, bis Andreas freigibt)
 
 ## Aufbau
 
@@ -91,6 +91,6 @@ node tests/e2e.js http://localhost:8765/ tests/shots   # spielt alle Modi auf iP
 
 **Live-Vorschau jetzt:** https://claude.ai/artifact/EXT4UuoSDSrKd7BJToMtko (privat; Andreas kann sie über „Share“ freigeben). Service Worker (Offline) und Duell-Links laufen dort wegen der Sandbox nicht, alles andere schon.
 
-**GitHub Pages (Ziel):** Neues Repo `asator-git/emdw-spiel` anlegen, den Inhalt von `emdw-spiel/` als Wurzel hineinpushen (`git subtree split --prefix emdw-spiel -b emdw && git push git@github.com:asator-git/emdw-spiel.git emdw:main`), dann unter Settings → Pages die Quelle „GitHub Actions“ wählen. Der Workflow `.github/workflows/pages.yml` deployt `web/` bei jedem Push. URL danach: https://asator-git.github.io/emdw-spiel/
+**GitHub Pages (live seit 13. 11. 2026):** https://asator-git.github.io/emdw-spiel/ – so wurde es eingerichtet: Neues Repo `asator-git/emdw-spiel` anlegen, den Inhalt von `emdw-spiel/` als Wurzel hineinpushen (`git subtree split --prefix emdw-spiel -b emdw && git push git@github.com:asator-git/emdw-spiel.git emdw:main`), dann unter Settings → Pages die Quelle „GitHub Actions“ wählen. Der Workflow `.github/workflows/pages.yml` deployt `web/` bei jedem Push. URL danach: https://asator-git.github.io/emdw-spiel/
 
 GitHub Pages, Repo `asator-git/emdw-spiel`, Branch `gh-pages` (Inhalt von `web/`). `update.sh` macht das am Ende automatisch. Beim ersten Mal muss das Repo existieren und Pages auf `gh-pages` / Root stehen. Wie es zum ersten Deploy kam und was noch offen ist, steht in DECISIONS.md. Bis Andreas freigibt, steht `<meta name="robots" content="noindex">` in `index.html`.
