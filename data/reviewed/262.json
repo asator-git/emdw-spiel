@@ -1,0 +1,284 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zehn Jahre so im Transkript, als Aussage der Gästin belegt; zeitgebunden.",
+   "stand_note": "Stand 2023",
+   "statement": "Eine Frau in Tirol kann laut Statistik Austria mit rund zehn gesunden Lebensjahren mehr rechnen als eine Frau im Burgenland.",
+   "question": "Wie viele Jahre länger gesund lebt eine Frau in Tirol im Schnitt als eine Frau im Burgenland?",
+   "answer": "Rund zehn Jahre",
+   "distractors": [
+    "Rund zwei Jahre",
+    "Rund fünf Jahre",
+    "Rund fünfzehn Jahre"
+   ],
+   "aha": "Zehn Jahre, innerhalb eines kleinen Landes. Maria findet, dass diese Unterschiede zwischen den Bundesländern viel zu wenig Aufmerksamkeit bekommen – und sie sind wirklich bedrückend.",
+   "quote_clean": "Eine Frau in Tirol kann erwarten, dass sie zehn Jahre länger gesund leben kann als eine Frau im Burgenland.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Kernaussage belegt; Begründung im Aha war nicht im Ausschnitt, Distraktor 'minus zehn Jahre' unplausibel.",
+   "stand_note": "Stand 2023",
+   "statement": "Die gesunde Lebenserwartung in Österreich hat sich über die letzten Erhebungen der Statistik Austria nicht verbessert.",
+   "question": "Wie hat sich die gesunde Lebenserwartung in Österreich zuletzt entwickelt?",
+   "answer": "Sie hat sich nicht verbessert",
+   "distractors": [
+    "Sie ist stark gestiegen",
+    "Sie hat sich fast verdoppelt",
+    "Sie wächst gleich schnell wie die Lebenserwartung"
+   ],
+   "aha": "Wir werden zwar immer älter, aber die Jahre in guter Gesundheit wachsen nicht mit. Wir können die zusätzliche Zeit also nicht so genießen, wie es möglich wäre.",
+   "quote_clean": "Die gesunde Lebenserwartung, die die Statistik Austria gerade erst wieder neu berechnet hat – es gibt mittlerweile drei Zeitpunkte, wo wir das anschauen können –, hat sich nicht verbessert.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt: näher bei Deutschland, Schweden und Frankreich deutlich höher; bezieht sich nur auf diese Kennzahl.",
+   "stand_note": "Stand 2023",
+   "statement": "Bei der gesunden Lebenserwartung liegt Österreich deutlich hinter Schweden und Frankreich und eher in der Nähe von Deutschland.",
+   "question": "Welchem Land ist Österreich bei der gesunden Lebenserwartung am ähnlichsten?",
+   "answer": "Deutschland",
+   "distractors": [
+    "Schweden",
+    "Frankreich",
+    "Spanien"
+   ],
+   "aha": "Trotz hoher Gesundheitsausgaben landet Österreich bei den gesunden Lebensjahren nur im Mittelfeld. Schweden ist weit voraus, wir hängen eher mit Deutschland zusammen.",
+   "quote_clean": "Schweden ist durchaus ein geeignetes Referenzland für Österreich aus verschiedensten Gründen, obwohl sie ein anderes Wohlfahrtsstaatsmodell haben als Österreich. Aber auch Frankreich hat eine viel höhere gesunde Lebenserwartung als Österreich, wir sind näher bei Deutschland.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Transkript holprig; Antwort auf das ASVG und die Zweite Republik präzisiert.",
+   "stand_note": "",
+   "statement": "Erst seit Anfang der Zweiten Republik, mit dem ASVG, zahlt die soziale Krankenversicherung auch für die Spitäler mit.",
+   "question": "Seit wann finanziert die Krankenversicherung in Österreich auch Spitäler mit?",
+   "answer": "Seit dem ASVG in der Zweiten Republik",
+   "distractors": [
+    "Seit der Monarchie",
+    "Seit dem EU-Beitritt",
+    "Seit der Kassenfusion 2019"
+   ],
+   "aha": "Ursprünglich war die Krankenversicherung für Haus- und Fachärzte da. Erst das Allgemeine Sozialversicherungsgesetz nach dem Krieg hat die Spitäler mit ins Boot geholt – deshalb ist die Finanzierung bis heute so zweigeteilt.",
+   "quote_clean": "Erst seit Anfang der Zweiten Republik ist festgehalten, dass die soziale Krankenversicherung auch für die Spitäler etwas finanziert.",
+   "quality": 2
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat belegt, Kontext passt.",
+   "stand_note": "",
+   "statement": "Gesundes und aktives Altern beginnt schon in der Schwangerschaft.",
+   "question": "Wo beginnt laut der Gesundheitsökonomin gesundes Altern?",
+   "answer": "In der Schwangerschaft",
+   "distractors": [
+    "Mit der Pensionierung",
+    "Mit dem 50. Geburtstag",
+    "Mit dem Schuleintritt"
+   ],
+   "aha": "Klingt paradox, ist aber gut belegt: Wer gesund aufwächst, wird eher gesund alt. Deshalb will Maria einen Bogen von der Familiengesundheit über Kindergarten und Schule bis ins Alter.",
+   "quote_clean": "Gesundes und aktives Altern beginnt in der Schwangerschaft. Wenn Kinder zur Geburt geführt werden, geht es einmal um Familien- und Müttergesundheit.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Mischung aus Pauschale und Einzelleistungen belegt; Antwort passt.",
+   "stand_note": "",
+   "statement": "Kassenärzt:innen bekommen für einzelne Leistungen oft nur kleine Beträge; das System rechnet sich über die große Zahl an Patient:innen.",
+   "question": "Wie verdienen Kassenärzt:innen in Österreich hauptsächlich ihr Geld?",
+   "answer": "Über viele Patient:innen und Einzelleistungen",
+   "distractors": [
+    "Über ein fixes Monatsgehalt",
+    "Über Zahlungen der Patient:innen bar",
+    "Über Prämien für gesunde Patient:innen"
+   ],
+   "aha": "Pauschale fürs Kommen plus kleine Beträge pro Handgriff – zehn Euro fürs Abklopfen klingt fürchterlich, rechnet sich aber über die Masse. Kein Wunder, dass man sich manchmal wie am Fließband fühlt.",
+   "quote_clean": "Das ganze System ist darauf abgestellt, dass sich diese 10 Euro durch die große Anzahl an Patientinnen, die durch eine Praxis gehen, vermehren.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aussage belegt; im Aha stand Blutbild statt Blutdruck.",
+   "stand_note": "",
+   "statement": "Voruntersuchungen vor einer Operation werden im Spital oft trotzdem noch einmal gemacht.",
+   "question": "Was passiert oft mit den Voruntersuchungen, die man vor einer Operation mitbringen muss?",
+   "answer": "Sie werden im Spital wiederholt",
+   "distractors": [
+    "Sie werden direkt digital übernommen",
+    "Man muss sie selbst bezahlen",
+    "Sie ersetzen die Aufnahme"
+   ],
+   "aha": "EKG, Lungenröntgen, Blutdruck – erst draußen, dann im Spital nochmal. Das kostet Geld und Nerven, und laut Maria wollen auch Labors und Fachärzt:innen am Kuchen mitnaschen.",
+   "quote_clean": "Da sind wir schon beim Thema der Doppelgleisigkeiten: dass fast alle Untersuchungen dann in den Krankenanstalten noch einmal gemacht werden.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext",
+    "transkription"
+   ],
+   "note": "Unklar, ob 17 Mrd. die Hälfte der Länder oder die Gesamtausgaben meint; zeitgebunden.",
+   "stand_note": "",
+   "statement": "Die Ausgaben für Krankenanstalten in Österreich betragen insgesamt rund 17 Milliarden Euro, etwa die Hälfte zahlen die Länder.",
+   "question": "Wie viele Milliarden Euro kosten die Krankenanstalten in Österreich insgesamt pro Jahr ungefähr?",
+   "answer": "Rund 17 Milliarden Euro",
+   "distractors": [
+    "Rund 4 Milliarden Euro",
+    "Rund 35 Milliarden Euro",
+    "Rund 60 Milliarden Euro"
+   ],
+   "aha": "Die Spitäler gehören den Ländern, so steht's in der Bundesverfassung. Die andere Hälfte – und mittlerweile oft mehr – kommt aus unseren Krankenversicherungsbeiträgen.",
+   "quote_clean": "Die Länder zahlen ca. die Hälfte der Ausgaben für Krankenanstalten, das sind ungefähr 17 Milliarden Euro insgesamt österreichweit.",
+   "quality": 1
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "1997 belegt; quote_clean war ein abgebrochener Satz und wurde vervollständigt.",
+   "stand_note": "",
+   "statement": "Seit 1997 muss die soziale Krankenversicherung einen fixen, mit den Beitragseinnahmen wachsenden Geldtopf an die Spitäler abliefern.",
+   "question": "Seit welchem Jahr zahlt die Krankenversicherung einen fixen Topf an die Spitäler?",
+   "answer": "1997",
+   "distractors": [
+    "1955",
+    "1975",
+    "2010"
+   ],
+   "aha": "Maria nennt es das Baggerl: Die Kasse schnürt jedes Jahr ein Paket, das mit den Beiträgen mitwächst, und schiebt es zu den Ländern. Mitreden, wofür es ausgegeben wird, kann sie dann nicht.",
+   "quote_clean": "Die Krankenversicherung ist seit 1997 verpflichtet, ein bestimmtes Bündel Geld, das mit dem Wachstum der Beitragseinnahmen wächst, an die Spitäler abzuliefern.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Distraktor 'Aufenthaltsdauer' ist teilweise real (Tageskomponente); ersetzt. quote_clean vervollständigt.",
+   "stand_note": "",
+   "statement": "Spitalsbehandlungen werden in Österreich über Fallpauschalen mit Punkten abgerechnet, die am Ende einer Abrechnungsperiode mit einem Euro-Wert multipliziert werden.",
+   "question": "Wie wird eine Hüft-OP im Spital in Österreich abgerechnet?",
+   "answer": "Über Punkte, später in Euro umgerechnet",
+   "distractors": [
+    "Mit einem fixen Preis pro OP",
+    "Nach den tatsächlich angefallenen Kosten",
+    "Direkt mit der Patientin"
+   ],
+   "aha": "Das Spital weiß vorher also gar nicht genau, was die Hüfte bringt. Erst wenn alle Punkte gezählt sind und klar ist, wie groß der Topf ist, steht der Euro-Wert fest.",
+   "quote_clean": "Und hat eine bestimmte Punkteanzahl, sagen wir 20.000 Punkte, und am Ende einer Abrechnungsperiode wird das mit einem Euro-Wert multipliziert.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Zitat belegt; Aha enthielt Biografisches (13 Jahre Pflegerin), das nicht im Ausschnitt steht.",
+   "stand_note": "",
+   "statement": "Das Gesundheits- und Pflegewesen ist eine Frauenbranche, wird aber von Männern geführt.",
+   "question": "Wer sagt: „Das Gesundheits- und Pflegewesen ist eine Frauenbranche, und dirigiert wird es von Männern“?",
+   "answer": "Maria Hofmarcher-Holzhacker",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Pflegegewerkschafterin",
+    "Ein Ärztekammer-Präsident"
+   ],
+   "aha": "Maria will über diese Schieflage unbedingt reden, und zwar im Zusammenhang mit der Transformation der Versorgung, nicht nur der Medizin.",
+   "quote_clean": "Das Gesundheits- und Pflegewesen ist eine Frauenbranche, und orchestriert und dirigiert wird es von Männern.",
+   "quality": 2
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Metapher wörtlich belegt, Aha deckt sich mit Ausschnitt.",
+   "stand_note": "",
+   "statement": "Maria vergleicht das Gesundheitssystem mit einem großen Ozeandampfer, der schon rostig, aber noch stark ist.",
+   "question": "Womit vergleicht die Gesundheitsökonomin das österreichische Gesundheitssystem?",
+   "answer": "Einem rostigen, aber starken Ozeandampfer",
+   "distractors": [
+    "Einem undichten Fischerboot",
+    "Einem führerlosen Segelschiff",
+    "Einem modernen Schnellboot"
+   ],
+   "aha": "Rundherum flitzen moderne Schnellboote – die neuen Versorgungsformen –, aber der Dampfer, der noch mit Kohle befeuert wird, blockiert sie immer wieder in ihrer Wendigkeit.",
+   "quote_clean": "Mein Bild vom Gesundheitssystem ist: Wir haben einen großen Ozeandampfer, der schon rostig ist, aber noch stark.",
+   "quality": 4
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage; Aha unterstellt eine Antwort ('Silo'), die im Ausschnitt nicht steht.",
+   "stand_note": "",
+   "statement": "Andreas fragt zum Schluss, woran man als Bürger:in merken würde, dass eine große Gesundheitsreform geklappt hat.",
+   "question": "Was will Andreas zum Schluss wissen?",
+   "answer": "Woran man merkt, dass Reformen geklappt haben",
+   "distractors": [
+    "Wie viel eine Hüft-OP kostet",
+    "Wer Gesundheitsminister:in werden soll",
+    "Wo man am besten Arzt wird"
+   ],
+   "aha": "Typisch Andreas: Nach einer Stunde Strukturen und Silos holt er alles zurück zu den Leuten. Marias Antwort: Wenn man vom Silo gar nichts mehr merkt.",
+   "quote_clean": "Woran merke ich das, wenn da wirklich große Reformen passiert sind? Woran merke ich als Bürger, als Bürgerin, dass das geklappt hat?",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Persönliche Anekdote ohne Wissensgewinn; Aha überhöht sie zur Kernthese.",
+   "stand_note": "",
+   "statement": "Maria ist froh über ihren Hausarzt, der deutlich jünger ist als sie, weil sie so beruhigter älter werden kann.",
+   "question": "Warum ist Maria froh über ihren Hausarzt?",
+   "answer": "Er ist deutlich jünger als sie",
+   "distractors": [
+    "Er wohnt im selben Haus",
+    "Er hat nie Wartezeiten",
+    "Er ist ihr Bruder"
+   ],
+   "aha": "Vertrauen braucht Zeit – und ein Hausarzt, der einen kennt und nicht vor einem in Pension geht. Für Maria ist dieses Vertrauensverhältnis der Kern eines guten Gesundheitssystems.",
+   "quote_clean": "Ich habe einen Hausarzt, der deutlich jünger ist als ich, und ich bin froh darüber, weil ich das Gefühl habe, dass ich ein bisschen beruhigter älter werden kann.",
+   "quality": 1
+  }
+ ],
+ "id": "262",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

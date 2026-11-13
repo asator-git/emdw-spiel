@@ -1,0 +1,275 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Jahr 2019 bei 249 s belegt, Kontext (Innsbrucker Urteil, Reaktionen) bei 255-266 s.",
+   "stand_note": "",
+   "statement": "Das Tiroler Kuhurteil, bei dem ein Bauer nach einer tödlichen Kuhattacke auf eine Wanderin haften sollte, sorgte 2019 fast für eine Staatsaffäre.",
+   "question": "In welchem Jahr sorgte das Tiroler „Kuhurteil“ für große Aufregung in Österreich?",
+   "answer": "2019",
+   "distractors": [
+    "2011",
+    "2015",
+    "2022"
+   ],
+   "aha": "2019 haben sich vom Bundeskanzler bis zu den Grünen alle über ein Innsbrucker Urteil aufgeregt. Ein Bauer sollte haften, weil seine Kuh eine Wanderin getötet hatte. Florian Klenk hat das Urteil gelesen und fand es eigentlich richtig.",
+   "quote_clean": "Und dieses Kuhurteil hat im Jahr 2019 fast für eine Staatsaffäre gesorgt.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Mutterkuhhaltung und Hund als Wolf bei 328-336 s belegt (Transkript leicht verstümmelt, Sinn klar).",
+   "stand_note": "",
+   "statement": "Kühe in Mutterkuhhaltung, die ihr Kalb bei sich haben, reagieren auf Hunde besonders aggressiv, weil sie sie für Wölfe halten.",
+   "question": "Warum sind Kühe in Mutterkuhhaltung für Wanderer mit Hund besonders gefährlich?",
+   "answer": "Sie halten den Hund für einen Wolf",
+   "distractors": [
+    "Sie sehen Hunde als Futterkonkurrenz",
+    "Sie reagieren auf Hundegebell allergisch",
+    "Sie erschrecken vor schnellen Bewegungen"
+   ],
+   "aha": "Wenn das Kalb bei der Mutter ist, wird die Kuh zur Leibwächterin. Und ein Hund ist für sie halt ein Wolf, der ihr Junges holen will. Deshalb wird es auf der Alm mit Hund schnell brenzlig.",
+   "quote_clean": "Die Kuh wurde in der sogenannten Mutterkuhhaltung gehalten. Das heißt, ihr Kalb war bei ihr. Diese Kühe sind, wenn sie einen Wolf wittern – und ein Hund ist für eine Kuh wie ein Wolf –, besonders aggressiv.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "50 Prozent Mitverschulden und Karabiner bei 670-682 s klar belegt.",
+   "stand_note": "",
+   "statement": "Im Kuhurteil bekam die getötete Wanderin am Ende 50 Prozent Mitverschulden, weil ihr Hund mit einem Karabiner an ihr befestigt war.",
+   "question": "Wie viel Prozent Mitverschulden bekam die getötete Wanderin im Kuhurteil am Ende zugesprochen?",
+   "answer": "50 Prozent",
+   "distractors": [
+    "10 Prozent",
+    "25 Prozent",
+    "75 Prozent"
+   ],
+   "aha": "Die Frau hatte vieles richtig gemacht, den Hund etwa angeleint. Aber er hing mit einem Karabiner am Gürtel, der sich nicht öffnen ließ. Halbe-halbe also zwischen ihr und dem Bauern.",
+   "quote_clean": "Und am Ende, um das vorwegzunehmen, hat die Frau dann doch ein Mitverschulden von 50 Prozent zugesprochen bekommen, weil sie den Hund an einem Karabiner angehängt hatte.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Rat bei 688-702 s belegt und deckt sich mit gängigen Empfehlungen zum Verhalten bei Kuhattacken.",
+   "stand_note": "",
+   "statement": "Greift eine Kuh an, sollte man den Hund loslassen, weil die Kuh ihn für einen Wolf hält und sonst auch den Menschen trifft, der ihn festhält.",
+   "question": "Was solltest du tun, wenn eine Kuh auf dich und deinen angeleinten Hund zustürmt?",
+   "answer": "Den Hund loslassen",
+   "distractors": [
+    "Den Hund hochheben",
+    "Stehen bleiben und schreien",
+    "Den Hund fest an dich ziehen"
+   ],
+   "aha": "Die Kuh will den vermeintlichen Wolf erwischen, nicht dich. Hängt der Hund aber an dir fest, trifft es halt beide. Lässt du ihn laufen, ist er eh schneller als die Kuh.",
+   "quote_clean": "Wenn die Kuh kommt, muss man den Hund laufen lassen und nicht fest an sich halten, weil die Kuh glaubt, der Hund ist ein Wolf, und den Wolf töten will.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Antwort ist ein Schimpfwort-Zitat (im Transkript zudem als 'Ohrschlöcher' verhört); als Spielfrage unpassend und wenig erkenntnisreich.",
+   "stand_note": "",
+   "statement": "Als Klenk dem Bauern Bachler höflich per Sie schrieb, antwortete der, per Sie sei man da oben nur mit den Arschlöchern.",
+   "question": "Was antwortete Bauer Bachler, als Florian Klenk ihn per Sie anschrieb?",
+   "answer": "Per Sie nur mit Arschlöchern",
+   "distractors": [
+    "Bei uns sagt man Servus",
+    "Sie können gern kommen",
+    "Zuerst den Stall ausmisten"
+   ],
+   "aha": "Klenk wusste da sofort: Der Mann hat einen Schmäh. Kaum hat man nicht mehr öffentlich gestritten, war der Ton ein völlig anderer. Aus dem Sie wurde ein Du und aus dem Streit ein Gespräch.",
+   "quote_clean": "Und das Erste, was er zurückgeschrieben hat, war: Per Sie sind wir da oben nur mit den Arschlöchern.",
+   "quality": 1
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitat bei 893-903 s belegt; Wo-Frage mit Negation unklar (Ross und Tisch), auf die positive Aussage umgestellt.",
+   "stand_note": "",
+   "statement": "Florian Klenk meint, guter Reportagejournalismus verkündet keine Wahrheiten von oben, sondern krabbelt unter den Tisch, um sie zu suchen.",
+   "question": "Was tut guter Reportagejournalismus laut Florian Klenk, statt Wahrheiten zu verkünden?",
+   "answer": "Er krabbelt unter den Tisch und sucht",
+   "distractors": [
+    "Er stellt Fragen vom Podium aus",
+    "Er lässt nur Expert:innen zu Wort kommen",
+    "Er folgt der Meinung der Mehrheit"
+   ],
+   "aha": "Bachler hatte ihn aufgefordert, vom hohen Ross herunterzusteigen. Für Klenk war das eine Einladung, die ein Reporter annehmen muss. Also ab auf den Hof.",
+   "quote_clean": "Guter Reportagejournalismus sitzt eben nicht am Ross und steht nicht am Tisch und verkündet dort Wahrheiten, sondern krabbelt unter den Tisch und versucht dort, die Wahrheit zu suchen.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Experiment bei 953-1012 s belegt (Name im Transkript verhört, in der Frage nicht verwendet).",
+   "stand_note": "",
+   "statement": "Ein TV-Experiment mit einem verhassten Baseballspieler zeigte: Wer eben noch ein Plakat beschimpft, umarmt die Person, sobald sie leibhaftig vor ihm steht.",
+   "question": "Was passierte, als ein verhasster New-Yorker Baseballspieler hinter seinem eigenen Plakat hervortrat, das Leute gerade beschimpften?",
+   "answer": "Sie umarmten ihn und lachten",
+   "distractors": [
+    "Sie beschimpften ihn noch lauter",
+    "Sie liefen davon",
+    "Sie verlangten eine Entschuldigung"
+   ],
+   "aha": "Die Leute schrien noch „Boo“, da stand der Spieler plötzlich vor ihnen, und schon wurde umarmt und gelacht. Im echten Gegenüber ticken wir anders als vor einem Bild oder Bildschirm. Genau das hat Klenk dann mit Bachler erlebt.",
+   "quote_clean": "Und man hat gemerkt: In dem Moment, wo sich die Menschen in die Augen schauen, reagieren sie anders.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Yaks und Rasenschmiele bei 1759-1778 s belegt; Vorname Bachlers im Ausschnitt nicht genannt, entfernt.",
+   "stand_note": "",
+   "statement": "Auf Bauer Bachlers Alm wächst die scharfe Rasenschmiele, die Kühe nicht mehr fressen; deshalb hält er Yaks, die sie fressen.",
+   "question": "Warum hält Bauer Bachler Yaks auf seiner Alm?",
+   "answer": "Sie fressen die scharfe Rasenschmiele",
+   "distractors": [
+    "Sie geben besonders fette Milch",
+    "Sie halten Wölfe fern",
+    "Sie ziehen Touristen an"
+   ],
+   "aha": "Die Rasenschmiele ist so scharf, dass man sich laut Bachler besser nicht ohne Schnittschutzhose draufsetzt. Kühe lassen sie stehen. Yaks nicht, und die brauchen im Winter nicht einmal einen Stall.",
+   "quote_clean": "Weil die Yaks ein Gras fressen, das da oben wächst, die Rasenschmiele. Es ist ein ganz spitzes, scharfes Gras. Wenn man sich da draufsetzt, hat der Bachler gesagt, braucht man Schnittschutzhosen, weil es so scharf ist. Und dieses Gras frisst keine Kuh mehr.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aussage bei 1787-1793 s ist Bachlers Erklärung für seine Alm und spricht von Schaffleisch, nicht Lammfleisch und nicht von 'vielen Almen'.",
+   "stand_note": "",
+   "statement": "Laut Bauer Bachler gibt es auf seiner Alm keine Schafe mehr, weil man billigeres Schaffleisch aus Neuseeland kauft.",
+   "question": "Warum gibt es laut Bauer Bachler auf seiner Alm keine Schafe mehr?",
+   "answer": "Weil Schaffleisch aus Neuseeland billiger ist",
+   "distractors": [
+    "Weil Wölfe sie gerissen haben",
+    "Weil Schafwolle nichts mehr wert ist",
+    "Weil die EU Schafhaltung verbietet"
+   ],
+   "aha": "Früher haben Schafe das scharfe Almgras weggefressen. Heute kommt das Schaffleisch vom anderen Ende der Welt, weil es billiger ist. Klenks erste Lektion mit Bachler: Dein Einkauf verändert die Alm.",
+   "quote_clean": "Ich habe gesagt: Wieso gibt es keine Schafe mehr? Er hat gesagt: Weil du dir das Schaffleisch aus Neuseeland kaufst, weil es billiger ist.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zwergschlammschnecke und Leberegel bei 1847-1867 s belegt; als Bachlers Erklärung wiedergegeben.",
+   "stand_note": "",
+   "statement": "Durch den Klimawandel wandert die Zwergschlammschnecke auf die Almen hinauf und bringt den Leberegel mit, der Rinder krank macht.",
+   "question": "Welches Tier bringt mit dem Klimawandel den Leberegel auf die Almen hinauf?",
+   "answer": "Die Zwergschlammschnecke",
+   "distractors": [
+    "Die Tigermücke",
+    "Der Holzbock",
+    "Die Pferdebremse"
+   ],
+   "aha": "Weil es oben wärmer wird und es weniger Wasser gibt, saufen die Tiere aus schlammigen Pfützen. Dort lebt jetzt die Schnecke, die früher nur im Tal war, samt Leberegel. „Hast du jetzt den Klimawandel verstanden?“, hat Bachler gefragt.",
+   "quote_clean": "Und in diesen Pfützen ist die Zwergschlammschnecke, die früher im Tal war, aber jetzt hinaufkriecht, weil es immer wärmer wird. Und die Zwergschlammschnecke trägt den Leberegel in sich.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Wirkung auf Käfer und Dünger bei 1884-1908 s belegt (Medikamentenname im Transkript verstümmelt, in der Frage nicht verwendet).",
+   "stand_note": "",
+   "statement": "Das Mittel gegen den Leberegel landet im Kuhfladen und tötet dort die Käfer, die den Mist sonst zersetzen und als Dünger verteilen.",
+   "question": "Welche Nebenwirkung hat das Mittel gegen Leberegel bei Rindern auf der Alm?",
+   "answer": "Es tötet die Mistkäfer im Kuhfladen",
+   "distractors": [
+    "Es macht die Milch ungenießbar",
+    "Es vergiftet das Quellwasser",
+    "Es lässt Almblumen verwelken"
+   ],
+   "aha": "Ohne Käfer bleiben die Kuhfladen einfach liegen, die Mikroorganismen arbeiten nicht mehr und der Almboden wird nicht gedüngt. Eine Kette, bei der ein Problem das nächste nach sich zieht. Bachler hatte davon gleich ein ganzes Bündel parat.",
+   "quote_clean": "Wenn diese Rinder dann ihre Kuhfladen ablassen, ist in diesen Kuhfladen das Entwurmungsmittel drinnen, und die Käfer, die die Kuhfladen zersetzen und als Dünger auf den Almwiesen verteilen würden, fallen in dem Moment tot um.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Vergleich bei 2574-2582 s wörtlich belegt und klar als Klenks Meinung formuliert.",
+   "stand_note": "",
+   "statement": "Florian Klenk glaubt, man werde über die heutige Massentierhaltung in 100 bis 150 Jahren so sprechen wie heute über die Sklaverei.",
+   "question": "Womit vergleicht Florian Klenk, wie man in 100 Jahren auf die heutige Massentierhaltung blicken wird?",
+   "answer": "Mit der Sklaverei",
+   "distractors": [
+    "Mit der Hexenverfolgung",
+    "Mit dem Rauchen im Flugzeug",
+    "Mit der Kinderarbeit"
+   ],
+   "aha": "Klenk ist kein Vegetarier-Missionar, Tiere essen gehört für ihn zur Kulturgeschichte. Ihn stört die Art, wie wir sie halten und töten. Als Jurist denkt er dabei ans römische Recht, wo Sklaven als Sachen galten.",
+   "quote_clean": "Die wird man in 100 oder 150 Jahren als komplett pervertiert und verrückt bezeichnen. Man wird darüber so sprechen wie heute über die Sklaverei.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "kontext"
+   ],
+   "note": "Preise bei 5228-5242 s belegt, aber Lockangebote von 2021; Jahr in die Frage, Standhinweis ergänzt (heute deutlich teurer).",
+   "stand_note": "Stand 2021",
+   "statement": "Bei Supermarkt-Angeboten von 4 bis 5 Euro pro Kilo Schnitzelfleisch kostete 2021 ein 200-Gramm-Schnitzel etwa einen Euro, so viel wie ein Kornspitz.",
+   "question": "Wie viel kostete 2021 laut Florian Klenk ein 200-Gramm-Schnitzel bei Supermarkt-Lockangeboten ungefähr?",
+   "answer": "Etwa 1 Euro",
+   "distractors": [
+    "Etwa 2,50 Euro",
+    "Etwa 40 Cent",
+    "Etwa 3,50 Euro"
+   ],
+   "aha": "Ein ganzes Schnitzel um den Preis eines Kornspitz. Klenk sieht die Supermärkte mitverantwortlich, weil sie Fleisch als Lockmittel einsetzen. Das wäre für ihn das Erste, was man verbieten müsste.",
+   "quote_clean": "So dass ein Kilo Schnitzelfleisch im Supermarkt 4, 5 Euro kostet. Das heißt, ein Schnitzel hat ungefähr 200 Gramm, wir sind bei einem Schnitzel bei einem Euro. Das ist der Preis eines Kornspitz.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Belegt bei 6166-6199 s; 'niemand mehr' übertreibt (er sagt: man würde schief angeschaut), Frage präzisiert.",
+   "stand_note": "",
+   "statement": "Florian Klenk meint, der Kulturwandel beim Rauchen sei durch das staatliche Verbot gekommen, nicht durch Einsicht, und so müsse es auch bei Vollspaltenböden sein.",
+   "question": "Wodurch kam laut Florian Klenk der Kulturwandel beim Rauchen in der Redaktion?",
+   "answer": "Der Staat hat das Rauchen verboten",
+   "distractors": [
+    "Alle wurden von selbst einsichtig",
+    "Zigaretten wurden zu teuer",
+    "Die Chefredaktion hat es untersagt"
+   ],
+   "aha": "1998 hat beim Falter praktisch jeder geraucht, in Sitzungen und in Interviews. Heute würde man schief angeschaut. Für Klenk ist klar: Genauso brauche es bei Vollspaltenböden ein „Aus“ vom Staat.",
+   "quote_clean": "Es hat ein Kulturwandel stattgefunden. Warum? Weil der Staat das Rauchen verboten hat. Punkt. Nicht weil wir einsichtig wurden.",
+   "quality": 3
+  }
+ ],
+ "id": "s20211005",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

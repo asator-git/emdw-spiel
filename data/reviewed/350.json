@@ -1,0 +1,294 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Andreas sagt „ich glaube“ und korrigiert sich von Million auf Milliarde; als grobe Schätzung vertretbar, aber klar als Andreas' Angabe von Mitte 2025 zu kennzeichnen. Heute längst überholt.",
+   "stand_note": "Stand Mitte 2025",
+   "statement": "Andreas schätzte im Juni 2025, dass rund eine halbe Milliarde Menschen weltweit ChatGPT regelmäßig nutzen.",
+   "question": "Wie viele Menschen nutzten Mitte 2025 laut Andreas ungefähr regelmäßig ChatGPT?",
+   "answer": "Rund eine halbe Milliarde",
+   "distractors": [
+    "Rund 50 Millionen",
+    "Rund 2 Milliarden",
+    "Rund 120 Millionen"
+   ],
+   "aha": "Das ist ungefähr jeder sechzehnte Mensch auf der Erde, und das nur zweieinhalb Jahre nach dem Start. Die Zahl wächst laufend, nimm sie also als Momentaufnahme von 2025.",
+   "quote_clean": "Ich glaube, eine halbe Milliarde Menschen auf der Erde nutzen ChatGPT schon regelmäßig.",
+   "quality": 2
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Der Satz stammt von Anita (nicht Andreas) und ist eine unbelegte, vage Datenbehauptung („glaube ich“, „damals“ unklar); ohne Quelle nicht sicher genug.",
+   "stand_note": "",
+   "statement": "Zweieinhalb Jahre nach dem Durchbruch von ChatGPT gab es in den USA mehr Übersetzer:innen als davor.",
+   "question": "Was ist in den USA mit der Zahl der Übersetzer:innen passiert, seit ChatGPT da ist?",
+   "answer": "Sie ist gestiegen",
+   "distractors": [
+    "Sie hat sich halbiert",
+    "Sie ist um ein Zehntel gesunken",
+    "Sie ist auf ein Drittel gefallen"
+   ],
+   "aha": "",
+   "quote_clean": "Dass es zweieinhalb Jahre nach der Einführung von ChatGPT, also dort, wo wirklich der Durchbruch gelang, heute mehr Übersetzer in den USA gibt als damals.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "„Vielleicht 90 Prozent“ ist ein illustratives Beispiel (an anderer Stelle 80 Prozent), keine gemessene Zahl; als Faktenfrage irreführend.",
+   "stand_note": "",
+   "statement": "Wer ChatGPT wie eine Suchmaschine nutzt, bekommt laut Anita Zielina vielleicht 90 Prozent korrekte Informationen und 10 Prozent völlig Absurdes.",
+   "question": "Wie viel Prozent der Antworten sind laut Anita Zielina ungefähr korrekt, wenn du ChatGPT wie eine Suchmaschine nutzt?",
+   "answer": "Etwa 90 Prozent",
+   "distractors": [
+    "Etwa 50 Prozent",
+    "Etwa 99 Prozent",
+    "Etwa 70 Prozent"
+   ],
+   "aha": "",
+   "quote_clean": "Ich kriege dann vielleicht 90 Prozent Informationen, die faktisch korrekt sind, aber dann sind 10 Prozent irgendwas komplett Absurdes, Weirdes drinnen.",
+   "quality": 1
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg passt; „nicht intelligent“ ist Anitas Einschätzung und wurde als solche attributiert, die Frage selbst (Begriff Halluzination) ist unstrittig. Eher leichte Frage.",
+   "stand_note": "",
+   "statement": "Laut Anita Zielina ist generative KI per se nicht intelligent; wer ChatGPT wie eine Suchmaschine nutzt, riskiert erfundene Antworten, sogenannte Halluzinationen.",
+   "question": "Wie nennt man es, wenn eine KI selbstbewusst falsche Fakten erfindet?",
+   "answer": "Halluzination",
+   "distractors": [
+    "Overfitting",
+    "Prompt Injection",
+    "Deepfake"
+   ],
+   "aha": "ChatGPT ist laut Anita eine Maschine, die extrem gut mit großen Mengen Sprache umgehen kann. Was sie nicht tut: dir garantieren, dass etwas stimmt. Frag sie nach Anita Zielina, und zwischen Wikipedia-Wissen steht dann vielleicht ein total wilder Fakt.",
+   "quote_clean": "Jegliche Art von generativer KI, die heute genutzt wird, ist per se nicht intelligent, auch wenn es künstliche Intelligenz heißt. Wenn ich KI und ChatGPT so verwende, wie ich eine Suchmaschine verwenden würde, dann ist die Gefahr sehr groß, dass ich Halluzinationen zurückgespielt bekomme.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg passt; Anita sagt „zu einem guten Teil vermeiden“, Statement entsprechend abgeschwächt.",
+   "stand_note": "",
+   "statement": "Halluzinationen lassen sich laut Anita Zielina zu einem guten Teil vermeiden, indem man der KI korrekte Dokumente hochlädt und sie anweist, nur diese zu verwenden.",
+   "question": "Wie vermeidest du laut Anita Zielina zu einem guten Teil, dass ChatGPT dir Fakten erfindet?",
+   "answer": "Eigene, geprüfte Dokumente hochladen",
+   "distractors": [
+    "Die Frage auf Englisch stellen",
+    "Möglichst kurze Prompts schreiben",
+    "Die Antwort dreimal neu generieren"
+   ],
+   "aha": "Statt aus allem Wissen zu schöpfen, soll die KI nur mit deinen Unterlagen arbeiten. Für den Limonadenstand heißt das: Gesetzestexte hochladen, statt raten zu lassen.",
+   "quote_clean": "Man kann es vermeiden, indem man die KI mit Unterlagen und Dokumenten füttert, die faktisch korrekt sind, die man hochlädt, und der KI ganz gezielt den Auftrag gibt, nur diese Informationen heranzuziehen.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Zitat passt, Name/Uni korrekt als Ethan Mollick (Wharton) erkannt; aha-Angabe „800 Seiten“ stammt nicht aus dieser Stelle und wurde allgemein gefasst.",
+   "stand_note": "",
+   "statement": "Der Wharton-Professor Ethan Mollick sagt laut Andreas: KI muss nicht perfekt sein, sie muss nur besser sein als die beste verfügbare Alternative.",
+   "question": "Was muss KI laut dem Wharton-Professor Ethan Mollick sein?",
+   "answer": "Besser als die verfügbare Alternative",
+   "distractors": [
+    "Fehlerfrei wie ein Mensch",
+    "Billiger als ein Praktikant",
+    "Schneller als jede Suchmaschine"
+   ],
+   "aha": "Als Solo-Unternehmer:in stellst du eh nicht drei Vollzeitkräfte ein, um Hunderte Seiten Gesetzestext zu lesen. Die echte Alternative ist oft: gar nichts lesen und hoffen. Da sind 90 Prozent besser als null.",
+   "quote_clean": "Das sagt Ethan Mollick immer, Professor an der Wharton Business School, ein toller KI-Experte: KI muss nicht perfekt sein, sondern KI muss besser sein als die beste mir zur Verfügung stehende Alternative.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Beleg passt (NotebookLM oder Perplexity für Zusammenfassungen mit Quellen); Tool-Empfehlung ist Stand 2025, erfundene Bibliothekarin-Metapher im aha entfernt.",
+   "stand_note": "Stand 2025",
+   "statement": "Für Zusammenfassungen großer Dokumentmengen mit Quellenangaben empfiehlt Anita Zielina eher NotebookLM oder Perplexity als ChatGPT.",
+   "question": "Welche KI-Tools empfiehlt Anita Zielina, wenn du Zusammenfassungen mit Quellenangaben willst?",
+   "answer": "NotebookLM oder Perplexity",
+   "distractors": [
+    "Midjourney oder DALL-E",
+    "DeepL oder Google Translate",
+    "Copilot oder Grammarly"
+   ],
+   "aha": "Diese Tools verlinken dir die Originalquellen wie Fußnoten in einem Buch, sodass du nachprüfen kannst, ob es wirklich dort steht. Nicht jedes KI-Tool ist für jede Aufgabe gleich gut, ein Bildgenerator analysiert ja auch keine Texte.",
+   "quote_clean": "Dafür würde ich eher NotebookLM oder Perplexity verwenden. Auch das ist etwas, was man mit der Zeit lernt: Nicht jedes KI-Tool ist gleich gut für denselben Task.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg passt; „immer“ zu absolut, Anita sagt „idealerweise“.",
+   "stand_note": "",
+   "statement": "Gute KI-Arbeit folgt dem Muster Mensch, dann KI, dann wieder Mensch; der Fachbegriff für die menschliche Kontrolle am Ende ist „Human in the Loop“.",
+   "question": "Wie nennt man das Prinzip, dass idealerweise am Ende ein Mensch die Arbeit der KI prüft?",
+   "answer": "Human in the Loop",
+   "distractors": [
+    "Human Override",
+    "Final Check Loop",
+    "Human First Principle"
+   ],
+   "aha": "Der erste Impuls kommt vom Menschen: Was will ich überhaupt herausfinden? Dann macht die KI die mühsame Durchforstungsarbeit, und am Ende schaut wieder jemand mit Ahnung drüber. Der große Zeitgewinn liegt in der Mitte.",
+   "quote_clean": "Dann lässt man die KI viel von dieser Groundwork machen, also der nicht wahnsinnig kreativen Durchforstungs- und Strukturierungsarbeit, und am Ende kommt, im Englischen verwendet man dafür oft dieses Wort, der Human in the Loop.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Beleg passt (provokante Aussage, von Anita selbst als solche markiert); „Wer sagt“-Frage durch inhaltliche Frage ersetzt, als ihre Meinung gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Anita Zielina sagt provokant, es sei manchmal menschliche Arroganz, der KI jede Kreativität abzusprechen.",
+   "question": "Was ist es laut Anita Zielina manchmal, wenn Menschen sagen, KI könne nicht kreativ sein?",
+   "answer": "Menschliche Arroganz",
+   "distractors": [
+    "Menschliche Angst",
+    "Menschliche Bequemlichkeit",
+    "Menschliche Naivität"
+   ],
+   "aha": "Anita ist schon in vielen Namens-Brainstormings mit Menschen gesessen, und die waren nicht immer ein Hort überbordender Kreativität. Mit KI hatte sie manchmal kreativere Momente.",
+   "quote_clean": "Aber ich glaube, es ist, jetzt sage ich das provokant, manchmal ein bisschen menschliche Arroganz, dass man sagt: Nee, kreativ sein kann die KI nicht.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt, harmlos und sympathisch; Energie-Aspekt von Anita selbst als eigene Diskussion markiert.",
+   "stand_note": "",
+   "statement": "Anita Zielina bedankt sich bei ChatGPT, obwohl sie weiß, dass das Energie kostet.",
+   "question": "Was macht Anita Zielina bei ChatGPT, obwohl es Energie verschwendet?",
+   "answer": "Sie sagt danke",
+   "distractors": [
+    "Sie lässt Antworten vorlesen",
+    "Sie generiert alles dreimal",
+    "Sie schreibt in Großbuchstaben"
+   ],
+   "aha": "Jedes „Danke“ ist eine eigene Anfrage, die im Rechenzentrum Strom braucht. Höflich bleibt Anita trotzdem, schließlich soll das eine lange Beziehung werden.",
+   "quote_clean": "Ich sage immer noch danke, auch wenn es Energie verschwendet, aber das ist, glaube ich, eine eigene Diskussion.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Beleg passt; Distraktor „über 5.000“ überschnitt sich mit „oder mehr“ und wurde ersetzt. Angabe ist Stand 2025.",
+   "stand_note": "Stand 2025",
+   "statement": "Andreas gab 2025 pro Jahr 1.500 Euro oder mehr für verschiedene KI-Tools aus.",
+   "question": "Wie viel Euro gab Andreas 2025 laut eigener Aussage pro Jahr mindestens für KI-Tools aus?",
+   "answer": "1.500 Euro",
+   "distractors": [
+    "Rund 200 Euro",
+    "Rund 600 Euro",
+    "Rund 900 Euro"
+   ],
+   "aha": "Seine Freundinnen fürchten schon, er heiratet bald die KI. Für Andreas rechnet es sich aber: Es fühlt sich an, als hätte er 30 umtriebige Assistenten, die viel Blödsinn, aber auch viel Nützliches machen.",
+   "quote_clean": "Ich gebe im Jahr jetzt 1.500 oder mehr Euro für verschiedene KI-Tools aus, und wenn ich das Freundinnen sage, dann denken sie sich: Was ist mit dem los?",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg passt (Zeitersparnis beginnt nicht in Sekunde 1; Einschulung erste Tage bis Woche); Behauptung im aha, KI-Onboarding gehe schneller als bei Menschen, steht nicht im Ausschnitt und wurde entfernt.",
+   "stand_note": "",
+   "statement": "Mit KI spart man nicht sofort Zeit: Am Anfang braucht es eine Einschulungsphase, erst danach kommt die große Ersparnis.",
+   "question": "Was vergessen laut Anita Zielina viele, wenn sie mit KI Zeit sparen wollen?",
+   "answer": "Die Ersparnis beginnt nicht sofort",
+   "distractors": [
+    "KI kostet monatlich Geld",
+    "KI braucht schnelles Internet",
+    "KI arbeitet nur auf Englisch"
+   ],
+   "aha": "Wie bei einer neuen Mitarbeiterin sind die ersten Tage eher mehr Arbeit, weil du die KI erst einschulen musst. Nach dem ersten Tag oder der ersten Woche beginnt dann die große Zeitersparnis.",
+   "quote_clean": "Das ist, glaube ich, ein relevanter Faktor, den viele vergessen: Die Zeitersparnis beginnt nicht in Sekunde 1.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Beleg passt, aber Anita sagt „so groß wie das Internet“, nicht „mindestens“; Prognose von 2025.",
+   "stand_note": "Stand 2025",
+   "statement": "Anita Zielina hält KI für eine Umwälzung, die so groß ist wie das Internet.",
+   "question": "Mit welcher Erfindung vergleicht Anita Zielina die Tragweite von KI?",
+   "answer": "Mit dem Internet",
+   "distractors": [
+    "Mit dem Buchdruck",
+    "Mit der Dampfmaschine",
+    "Mit dem Telefon"
+   ],
+   "aha": "Andreas hatte gefragt, ob KI eher wie die Elektrizität ist oder nur ein zusätzliches Tool wie Word und PowerPoint. Ob sie so groß wie die Elektrizität ist, kann Anita nicht sagen, aber so groß wie das Internet, meint sie.",
+   "quote_clean": "Ob es so groß ist wie die Elektrizität, kann ich nicht sagen, aber so groß wie das Internet ist es, würde ich sagen.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Floskel ohne Erkenntniswert; keine echte Wissensfrage.",
+   "stand_note": "",
+   "statement": "Zum Schluss lädt Andreas seine Gäste gern zu einem Blick in die Zukunft ein, in die Kristallkugel, die keiner hat.",
+   "question": "Womit leitet Andreas die Frage ein, wie die Welt in 10 bis 20 Jahren aussieht?",
+   "answer": "Mit einem Blick in die Kristallkugel",
+   "distractors": [
+    "Mit einer Zeitreise ins Jahr 2045",
+    "Mit einem Blick ins Horoskop",
+    "Mit einer Wette um ein Bier"
+   ],
+   "aha": "",
+   "quote_clean": "Blicken wir noch in die Kristallkugel, die wir beide leider nicht besitzen.",
+   "quality": 1
+  }
+ ],
+ "id": "350",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

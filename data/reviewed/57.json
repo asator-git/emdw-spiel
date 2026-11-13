@@ -1,0 +1,292 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "80.000 Stunden belegt; Aha behauptete Unbelegtes ('mehr als für fast alles andere'), korrigiert.",
+   "stand_note": "",
+   "statement": "Ein Mensch arbeitet im Laufe seiner Karriere im Durchschnitt rund 80.000 Stunden.",
+   "question": "Wie viele Stunden arbeitet ein Mensch im Laufe seiner Karriere ungefähr?",
+   "answer": "Rund 80.000 Stunden",
+   "distractors": [
+    "Rund 20.000 Stunden",
+    "Rund 250.000 Stunden",
+    "Rund 8.000 Stunden"
+   ],
+   "aha": "80.000 Stunden: so viel Arbeitszeit kommt im Berufsleben im Schnitt zusammen. Deshalb heißt eine bekannte Organisation der Bewegung genau so: 80.000 Hours. Die Idee: Wenn du so viel Zeit im Job verbringst, lohnt es sich, gut zu überlegen, wofür.",
+   "quote_clean": "Wir haben begrenztes Geld, wir haben begrenzte Zeit und wir haben in unserer Karriere 80.000 Stunden im Durchschnitt.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Anna sagt 'soweit ich weiß'; als ihre grobe Angabe formuliert, Stand 2019.",
+   "stand_note": "Stand 2019",
+   "statement": "Anna Riedl nennt rund eine Milliarde Menschen, die weltweit von Parasiten betroffen sind.",
+   "question": "Wie viele Menschen sind laut Anna Riedl weltweit ungefähr von Parasiten betroffen?",
+   "answer": "Rund eine Milliarde",
+   "distractors": [
+    "Rund 10 Millionen",
+    "Rund 100 Millionen",
+    "Rund 4 Milliarden"
+   ],
+   "aha": "Etwa jeder achte Mensch auf der Welt hat mit Parasiten zu tun, vor allem Kinder in armen Ländern. Die Würmer machen müde, krank und halten Kinder von der Schule fern. Bei uns denkt man da eh kaum dran.",
+   "quote_clean": "weil Parasiten auf dieser Welt immer noch, soweit ich weiß, eine Milliarde Menschen betreffen",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton",
+    "veraltet"
+   ],
+   "note": "Zahl als Annas Angabe gerahmt; Aha ('wurmfrei') überzogen.",
+   "stand_note": "Stand 2019",
+   "statement": "Eine Person ein Jahr lang von Parasiten zu befreien, kostet laut Anna Riedl nur rund 50 Cent.",
+   "question": "Wie viel kostet es laut Anna Riedl ungefähr, einen Menschen ein Jahr lang zu entwurmen?",
+   "answer": "Rund 50 Cent",
+   "distractors": [
+    "Rund 5 Euro",
+    "Rund 20 Euro",
+    "Rund 100 Euro"
+   ],
+   "aha": "Weniger als eine Kugel Eis pro Jahr. Genau deshalb empfehlen Evaluatoren wie GiveWell Entwurmungsprogramme wie die Deworm the World Initiative. Viel Wirkung pro Euro ist das ganze Prinzip.",
+   "quote_clean": "und eine Person zu heilen kostet pro Jahr nur 50 Cent, also extrem wenig.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt; Frage und Distraktoren klarer formuliert.",
+   "stand_note": "",
+   "statement": "Menschen spenden etwa gleich viel, egal ob 20.000 oder 200.000 Vögel in Öl zu ertrinken drohen.",
+   "question": "Wie verändert sich die Spendenbereitschaft, wenn statt 20.000 gleich 200.000 Vögel in Öl ertrinken?",
+   "answer": "Sie bleibt ungefähr gleich",
+   "distractors": [
+    "Sie steigt auf etwa das Zehnfache",
+    "Sie verdoppelt sich ungefähr",
+    "Sie sinkt, weil das Problem überwältigt"
+   ],
+   "aha": "Zehnmal so viele Vögel, aber nicht mehr Geld: Unser Hirn kann mit großen Zahlen schlicht wenig anfangen. Die Psychologie, etwa rund um Daniel Kahneman, hat solche systematischen Denkfehler gezeigt. Für Anna war das einer der Grundsteine des effektiven Altruismus.",
+   "quote_clean": "Wir sind bereit, genauso viel zu spenden, egal ob es um 20.000 oder um 200.000 Vögel geht, die in Öl ertrinken.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Aussage ist Annas Angabe, in der Frage attribuiert.",
+   "stand_note": "",
+   "statement": "Die wirksamsten Hilfsorganisationen helfen pro Euro oft hundert- bis tausendmal mehr als andere.",
+   "question": "Um wie viel wirksamer sind laut Anna Riedl die besten Hilfsorganisationen pro Euro oft als andere?",
+   "answer": "Hundert- bis tausendfach",
+   "distractors": [
+    "Etwa 10 Prozent",
+    "Etwa doppelt so wirksam",
+    "Kaum ein Unterschied"
+   ],
+   "aha": "Spenden ist nicht gleich Spenden. Wohin dein Euro geht, kann einen Unterschied von mehreren Größenordnungen machen. Genau das will GiveWell herausfinden und empfiehlt deshalb nur eine kleine Liste von Organisationen.",
+   "quote_clean": "Die nicht nur ein bisschen besser helfen, sondern oft wirklich um mehrere Größenordnungen, also hundertfach oder tausendfach mehr als andere Sachen.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Pauschale 'meiste haben keinen Impact' ist ein ungesicherter Allgemeinplatz im zerhackten Satz.",
+   "stand_note": "",
+   "statement": "Viele Hilfsmaßnahmen, die gut klingen, haben keine oder sogar eine negative Wirkung.",
+   "question": "Was gilt laut Anna Riedl für die meisten Hilfsmaßnahmen, die gut klingen?",
+   "answer": "Sie haben gar keine Wirkung",
+   "distractors": [
+    "Sie wirken fast immer gut",
+    "Sie wirken erst nach Jahrzehnten",
+    "Sie wirken nur in Europa"
+   ],
+   "aha": "Gut gemeint ist eben nicht gut gemacht. Manche Projekte schaden sogar, obwohl sie super klingen. Deshalb schaut die Bewegung so genau darauf, was am Ende wirklich rauskommt.",
+   "quote_clean": "Und das Interessante ist auch, dass viele Interventionen, die gut klingen für den Durchschnittsbürger, sogar negativen Impact haben oder die meisten eigentlich gar keinen Impact haben.",
+   "quality": 2
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Antwort an Zitat angepasst (Gefühle und Intelligenz abgesprochen).",
+   "stand_note": "",
+   "statement": "In einem Experiment sprachen Menschen, die gerade Fleisch gegessen hatten, Kühen eher Gefühle und Intelligenz ab als jene, die Mandeln bekommen hatten.",
+   "question": "Wie urteilten Versuchspersonen in einem Experiment über Kühe, nachdem sie Fleisch statt Mandeln gegessen hatten?",
+   "answer": "Sie sprachen Kühen eher Gefühle und Intelligenz ab",
+   "distractors": [
+    "Sie hielten Kühe für klüger",
+    "Sie urteilten genau gleich",
+    "Sie wollten danach weniger Fleisch"
+   ],
+   "aha": "Das ist kognitive Dissonanz: Wer gerade Fleisch gegessen hat, rechtfertigt das vor sich selbst und hält Kühe plötzlich eher für „total deppert“ und gefühllos. Wie wir uns regelmäßig verhalten, verändert also auch, was wir glauben.",
+   "quote_clean": "Man hat zum Beispiel in einem Experiment zwei Gruppen verschiedene Sachen zu essen gegeben, die einen haben Mandeln bekommen und die anderen Fleisch, und hat sie danach gefragt, was ihre Meinung über Kühe ist.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Drei Fragen im Transkript belegt, Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Effektive Altruist:innen bewerten Probleme nach drei Fragen: Wie groß ist es, wie lösbar ist es und wie vernachlässigt ist es?",
+   "question": "Welche drei Fragen stellt man im effektiven Altruismus, um ein Problem auszuwählen?",
+   "answer": "Größe, Lösbarkeit, Vernachlässigung",
+   "distractors": [
+    "Kosten, Dauer, Beliebtheit",
+    "Nähe, Dringlichkeit, Sichtbarkeit",
+    "Spenden, Medien, Politik"
+   ],
+   "aha": "Ein riesiges Problem bringt dir nichts, wenn man nichts dagegen tun kann. Und es macht einen Unterschied, ob du die erste Person bist, die daran arbeitet, oder die tausendunderste. Mit diesen drei Fragen sortiert man, wo die eigene Zeit am meisten bewirkt.",
+   "quote_clean": "Wie groß ist das Problem, also wie viele Personen oder Tiere betrifft das, für wie lang? Das ist die erste Frage. Die zweite Frage ist: Wie lösbar ist dieses Problem?",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Motto nur vorsichtig vorgeschlagen ('vielleicht'); 'gleich zweimal' nicht belegt.",
+   "stand_note": "",
+   "statement": "Anna Riedl schlägt als Motto des effektiven Altruismus vor: Intentionen reichen nicht.",
+   "question": "Welches Motto nennt Anna Riedl für den effektiven Altruismus?",
+   "answer": "Intentionen reichen nicht",
+   "distractors": [
+    "Jeder Euro zählt gleich",
+    "Hilf zuerst deiner Familie",
+    "Spende, was du kannst"
+   ],
+   "aha": "Es geht nicht darum, sich gut zu fühlen, sondern darum, was in der Welt wirklich anders wird. Anna denkt methodisch rückwärts: Was soll am Ende rauskommen, und was kann ich dazu beitragen?",
+   "quote_clean": "Man könnte als Motto sagen: Intentionen reichen nicht.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Begründung belegt und als Annas Sicht gerahmt.",
+   "stand_note": "",
+   "statement": "Politische Arbeit ist schwerer in ihrer Wirkung abzuschätzen als etwa eine Krankheit zu heilen, weil Gegner mit eigener Agenda zurückdrängen.",
+   "question": "Warum ist der Nutzen politischer Arbeit laut Anna Riedl schwerer abzuschätzen als der Kampf gegen eine Krankheit?",
+   "answer": "Gegner drängen stärker zurück",
+   "distractors": [
+    "Politik ist zu teuer",
+    "Wahlen sind zu selten",
+    "Politik betrifft zu wenige"
+   ],
+   "aha": "Eine Krankheit hat keine Meinung dazu, dass du sie bekämpfst. In der Politik sitzen Menschen mit Gegenintention. Je stärker du drückst, desto stärker drücken sie zurück.",
+   "quote_clean": "weil in der Politik andere Menschen mit einer Agenda sind, und wenn man stärker dagegen pusht, pusht es auch stärker zurück.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aha schrieb Andreas' Tipp (monatlich spenden) Anna zu, entfernt.",
+   "stand_note": "",
+   "statement": "Beim Kleidungskauf kann es laut Anna Riedl wirksamer sein, den Aufpreis für das ethische Produkt direkt an eine gute Organisation zu spenden.",
+   "question": "Was kann laut Anna Riedl beim teuren Öko-Gewand manchmal mehr bringen?",
+   "answer": "Den Aufpreis direkt spenden",
+   "distractors": [
+    "Doppelt so viel kaufen",
+    "Nur Second-Hand tragen",
+    "Gar keine Kleidung kaufen"
+   ],
+   "aha": "Ethisch einkaufen findet Anna grundsätzlich gut, sie isst selbst kein Fleisch. Aber wenn das faire Leiberl ein Vielfaches kostet, kann der Aufpreis bei einer wirksamen Organisation mehr bewegen.",
+   "quote_clean": "Da kann es sein, dass das ökologische Modell so viel teurer ist als das nicht so ethische Modell, dass der Unterschied besser wäre, wenn man ihn direkt an eine Organisation spendet.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Zitat belegt; Aha-Behauptung über die Community vorsichtiger.",
+   "stand_note": "",
+   "statement": "Anna Riedl meint, man brauche selbst ein stabiles Fundament, bevor man anderen helfen kann.",
+   "question": "Mit welchem Bild beschreibt Anna Riedl, dass man zuerst selbst stabil stehen muss, um zu helfen?",
+   "answer": "Obdachlos niemanden aufnehmen können",
+   "distractors": [
+    "Ohne Boot niemanden retten",
+    "Hungrig niemanden bekochen",
+    "Krank niemanden pflegen"
+   ],
+   "aha": "Wer sich für das Gute komplett verausgabt, hilft langfristig niemandem. Anna kennt den Druck bei sich und bei anderen. Deshalb gehört auch die eigene Stabilität dazu.",
+   "quote_clean": "Ich kann nicht einen Freund, der auf der Straße steht, zu mir nach Hause aufnehmen, wenn ich selber obdachlos bin.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Frage von Andreas, Antwort steckt in der Frage; Aha-Antwort nicht belegt.",
+   "stand_note": "",
+   "statement": "Andreas fragt Anna, ob man sich als effektive Altruistin nicht enorm unter Druck setzt.",
+   "question": "Was will Andreas von Anna wissen, als er sich vorstellt, am Samstag faul auf der Couch zu liegen?",
+   "answer": "Ob man sich enorm unter Druck setzt",
+   "distractors": [
+    "Ob Fernsehen unmoralisch ist",
+    "Ob sie selbst Netflix schaut",
+    "Ob Faulheit angeboren ist"
+   ],
+   "aha": "Andreas liegt gedanklich auf der Couch, während er eigentlich Flüchtlingen beim Deutschlernen helfen könnte. Anna kennt das Dilemma: Manche fragen sich bei jedem Kaffee, ob sie das Geld nicht spenden sollten. Ihre Antwort: Am Ende ist man ein Mensch und braucht auch Ausgleich.",
+   "quote_clean": "Wie geht es dir damit, das würde mich interessieren: Setzt man sich nicht enorm unter Druck? Man will so viel Gutes wie möglich tun.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Trivial, Distraktoren (Woke) unpassend.",
+   "stand_note": "",
+   "statement": "Anna Riedl beschreibt die effektiven Altruist:innen in der Bay Area als noch nerdiger und weiß nicht, wie man das Wort steigert.",
+   "question": "Bei welchem Wort weiß Anna nicht, wie man es steigert, als sie die Bay Area beschreibt?",
+   "answer": "Nerdy",
+   "distractors": [
+    "Smart",
+    "Cool",
+    "Woke"
+   ],
+   "aha": "Andreas' Klischee vom effektiven Altruisten war der weiße Tech-Typ, und Anna gibt zu: ein bisschen nerdy ist der Durchschnitt schon. In der Bay Area sogar noch nerdier. Oder nerdiger. Man weiß es nicht.",
+   "quote_clean": "dass in der Bay Area die Leute noch sehr viel nerdiger sind, ich weiß gar nicht, wie man das steigert.",
+   "quality": 1
+  }
+ ],
+ "id": "57",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

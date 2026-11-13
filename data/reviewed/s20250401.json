@@ -1,0 +1,285 @@
+{
+ "reviews": [
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Kern belegt (kleines Einfamilienhaus geht sich aus); Details im aha (Kran, drei Stunden) stehen nicht im Ausschnitt und wurden entfernt.",
+   "stand_note": "",
+   "statement": "Ein kleines Einfamilienhaus aus Massivholz-Fertigteilen passt komplett auf einen einzigen Lkw.",
+   "question": "Wie viel Haus passt auf einen einzigen Lkw mit Massivholzplatten?",
+   "answer": "Ein ganzes kleines Einfamilienhaus",
+   "distractors": [
+    "Nur die Außenwände eines Hauses",
+    "Etwa ein einzelnes Stockwerk",
+    "Nur das Dach eines Hauses"
+   ],
+   "aha": "Helga fährt Massivholzhäuser aus der Steiermark quer durch Europa, nach Norwegen, Spanien oder England. Ist das Haus nicht allzu groß, geht es als Ganzes auf einen Lkw. Beim Kunden wird es mit dem Kran gleich vom Auflieger aufgestellt.",
+   "quote_clean": "Wenn das Haus nicht allzu groß ist, geht ein ganzes Haus auf. Also so ein kleines, lauschiges Einfamilienhaus, das bringe ich noch.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg passt; der Distraktor „Raum hinter der Fahrerkabine“ ist mehrdeutig und wurde ersetzt.",
+   "stand_note": "",
+   "statement": "Bei einem Sattelzug wird nicht die Zugmaschine beladen, sondern der Auflieger, der sich abkoppeln und tauschen lässt.",
+   "question": "Was wird bei einem Sattelzug eigentlich beladen?",
+   "answer": "Der austauschbare Auflieger",
+   "distractors": [
+    "Die Zugmaschine selbst",
+    "Das Fahrerhaus der Zugmaschine",
+    "Ein fix verschweißter Anhänger"
+   ],
+   "aha": "Weil das Holz nach Plan geschlichtet werden muss und das Aufladen irrsinnig lang dauert, wechseln Helga und ihre Kolleg:innen die Auflieger. Sie holt mit der Zugmaschine einfach den fertig beladenen, sattelt an, sichert die Ladung und fährt los.",
+   "quote_clean": "Den Lkw selbst befüllst du ja nicht, sondern den Auflieger. Und den kann man auch immer wechseln.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt (London rund 20 Stunden, Stockholm 25 bis 27); plausibel für Steiermark nach London.",
+   "stand_note": "",
+   "statement": "Von der Steiermark nach London braucht ein Lkw rund 20 Stunden reine Fahrzeit.",
+   "question": "Wie viele Stunden reine Fahrzeit braucht ein Lkw von der Steiermark nach London?",
+   "answer": "Rund 20 Stunden",
+   "distractors": [
+    "Rund 9 Stunden",
+    "Rund 14 Stunden",
+    "Rund 35 Stunden"
+   ],
+   "aha": "Bei neun bis zehn Stunden Lenkzeit am Tag heißt das: Montag los, Dienstag in London, Ende der Woche wieder daheim. Stockholm klingt nicht viel weiter, ist mit 25 bis 27 Stunden aber schon eine Zwei-Wochen-Tour.",
+   "quote_clean": "London sind 20 Stunden, Barcelona ein bisschen über 20 Stunden. Stockholm sind schon 25, 27 Stunden, das ist dann schon eine Zwei-Wochen-Tour.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg passt (Schiff oder Eurotunnel); aha präzisiert, weil der Verkehrsfunk-Bezug im Ausschnitt nicht eindeutig zur Wahl Schiff/Zug gehört.",
+   "stand_note": "",
+   "statement": "Lkw kommen nach Großbritannien entweder mit der Fähre oder verladen auf einem Zug durch den Eurotunnel.",
+   "question": "Wie kommt ein Lkw vom Festland nach Großbritannien?",
+   "answer": "Mit Fähre oder Zug durch den Eurotunnel",
+   "distractors": [
+    "Nur über eine Brücke bei Calais",
+    "Nur mit der Fähre ab Rotterdam",
+    "Über eine Straße im Eurotunnel"
+   ],
+   "aha": "Durch den Eurotunnel fährt der Lkw nicht selbst, er wird auf einen Zug verladen. Helga schaut sich die Strecke nach dem Verkehrsfunk an, und in Calais kann es bei Schiff und Zug immer wieder zu langen Wartezeiten kommen.",
+   "quote_clean": "Das schaut man sich dann eher verkehrsfunkmäßig an, wo weniger los ist. Und dann entweder aufs Schiff oder mit dem Zug unter dem Meer durch.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Regel stimmt (9 Stunden, zweimal pro Woche 10); Angabe „13 bis 15 Stunden Arbeit“ im aha nicht belegt und entfernt.",
+   "stand_note": "",
+   "statement": "In der EU dürfen Lkw-Fahrer:innen täglich höchstens neun Stunden lenken, zweimal pro Woche sind zehn Stunden erlaubt.",
+   "question": "Wie viele Stunden dürfen Lkw-Fahrer:innen in der EU normalerweise pro Tag lenken?",
+   "answer": "9 Stunden",
+   "distractors": [
+    "6 Stunden",
+    "12 Stunden",
+    "14 Stunden"
+   ],
+   "aha": "Zweimal pro Woche darf man auf zehn Stunden verlängern. Deshalb ist London mit rund 20 Stunden Fahrzeit für Helga eine Sache von Montag bis Mittwoch, dann geht es schon wieder zurück.",
+   "quote_clean": "Ja, neun Stunden, aber man darf zweimal in der Woche auf zehn Stunden ausweiten.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg passt für Helgas Touren, aber nicht als Aussage über alle Fernfahrer:innen; Statement auf Helga eingegrenzt.",
+   "stand_note": "",
+   "statement": "Helga fährt mit ihrem Lkw täglich rund 700 bis 800 Kilometer.",
+   "question": "Wie viele Kilometer fährt eine Fernfahrerin wie Helga ungefähr pro Tag?",
+   "answer": "700 bis 800 Kilometer",
+   "distractors": [
+    "200 bis 300 Kilometer",
+    "400 bis 500 Kilometer",
+    "1.200 bis 1.400 Kilometer"
+   ],
+   "aha": "Bei diesen Distanzen zahlt sich Langsamfahren aus: Wer statt knapp 90 nur gut 80 km/h fährt, braucht laut Helga etwa zwei Liter Diesel weniger auf 100 Kilometer.",
+   "quote_clean": "Ungefähr 2 Liter weniger. Und wo wir eigentlich jeden Tag 700, 800 Kilometer fahren, ist das dann schon dieselsparend.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt (88/89 gegenüber gut 80 km/h, rund 2 Liter weniger auf 100 km); Tempoangabe leicht verrauscht, aber im Kern konsistent und plausibel.",
+   "stand_note": "",
+   "statement": "Fährt ein Lkw gut 80 statt knapp 90 km/h, spart er laut Helga ungefähr zwei Liter Diesel auf 100 Kilometer.",
+   "question": "Wie viel Diesel spart ein Lkw laut Helga ungefähr auf 100 km, wenn er gut 80 statt knapp 90 km/h fährt?",
+   "answer": "Etwa 2 Liter",
+   "distractors": [
+    "Etwa 0,2 Liter",
+    "Etwa 8 Liter",
+    "Etwa 15 Liter"
+   ],
+   "aha": "Schneller als knapp 90 km/h fährt ohnehin kein Lkw. Die paar km/h weniger klingen nach wenig, bei 700 bis 800 Kilometern pro Tag sind das aber schnell 15 Liter Diesel.",
+   "quote_clean": "Wenn jetzt einer 88, 89 fährt, das ist eh schon die höchste Geschwindigkeit, schneller geht eh keiner. Und der Gleiche fährt jetzt nur gut 80, da braucht er auf 100 Kilometer ungefähr 2 Liter weniger.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Beleg passt, ist aber Helgas Einschätzung von 2025; Antwort sprachlich geglättet, Stand-Hinweis ergänzt.",
+   "stand_note": "Stand 2025",
+   "statement": "Elektro-Lkw eignen sich laut Helga vor allem für Fahrzeuge, die jeden Tag zur eigenen Ladestation zurückkehren, etwa Müllabfuhr oder Post, weniger für den Fernverkehr.",
+   "question": "Für welche Lkw hält Helga Elektroantrieb für gut machbar?",
+   "answer": "Für Lkw, die täglich zur Ladestation heimkehren",
+   "distractors": [
+    "Für Fernfahrten bis nach Skandinavien",
+    "Für Schwertransporte im Hochgebirge",
+    "Für Kühltransporte über mehrere Tage"
+   ],
+   "aha": "Wer jeden Abend am eigenen Ladeplatz steht, hat kein Problem, etwa bei Müllabfuhr oder Post. Im Fernverkehr sieht Helga das anders: bei minus 25 Grad in Norwegen weiß sie nicht, ob der Elektro-Lkw anspringt, und mit leerem Akku gäbe es auch keine Heizung mehr.",
+   "quote_clean": "Das geht vielleicht, wenn der Lkw jeden Tag zurück zu seiner Ladestation fahren kann, so wie bei der Müllabfuhr oder der Post, da geht das wahrscheinlich gut, aber bei uns im Fernverkehr …",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg passt; Helgas Einschätzung von 2025, Wasserstoff-Lkw sind auch 2026 noch Nische, daher mit Stand-Hinweis okay.",
+   "stand_note": "Stand 2025",
+   "statement": "Wasserstoff-Lkw könnten im Fernverkehr praktischer sein, weil man sie ähnlich wie Diesel betankt, die Technik steckt aber noch in den Kinderschuhen.",
+   "question": "Warum hält Helga Wasserstoff für den Fernverkehr praktischer als Batterie-Lkw?",
+   "answer": "Man tankt ihn ähnlich wie Diesel",
+   "distractors": [
+    "Er ist heute schon billiger als Diesel",
+    "Er braucht gar keine Tankstellen",
+    "Er macht den Lkw deutlich schneller"
+   ],
+   "aha": "Statt stundenlang an einer womöglich besetzten Ladestation zu hängen, wird einfach getankt. Ob das auch bei Kälte funktioniert, sollen laut Helga zuerst die Schweden ausprobieren, die haben die richtigen Temperaturen dafür.",
+   "quote_clean": "Das wäre bei Wasserstoff einfacher, weil das im Prinzip genauso getankt wird wie Diesel. Aber alles noch in den Kinderschuhen.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "transkription",
+    "ton"
+   ],
+   "note": "Inhalt belegt; die Transkription „Schaß“ ist unklar und wurde im Zitat neutral geglättet.",
+   "stand_note": "",
+   "statement": "Helgas Neujahrsvorsatz: nicht mehr schimpfen im Verkehr, sondern immer höflich bleiben, notfalls mit einem „Danke für nichts“.",
+   "question": "Was sagt Helga laut ihrem Neujahrsvorsatz, wenn ihr jemand im Verkehr etwas Blödes vor die Nase setzt?",
+   "answer": "„Danke für nichts“",
+   "distractors": [
+    "Gar nichts, sie hupt nur",
+    "Sie meldet es dem Verkehrsfunk",
+    "Sie blinkt mit der Lichthupe"
+   ],
+   "aha": "Ärgern und Schimpfen hat sich Helga mit dem Vorsatz zum 1. Jänner abgewöhnt. Seither bleibt sie konsequent höflich, auch wenn das „Danke für nichts“ manchmal ein bisserl spitz ausfällt.",
+   "quote_clean": "Ich sage immer: Danke, dass du mich vorgelassen hast. Und wenn mir einer etwas Blödes vor die Nase setzt, dann sage ich: Danke für nichts. Und einfach immer nett.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Zitat belegt; aha-Behauptung über leere Supermarktregale steht nicht im Ausschnitt und wurde entfernt. Als Frage eher leicht.",
+   "stand_note": "",
+   "statement": "Helga Dröscher erinnert Autofahrer:innen daran, froh zu sein, dass die Lkw überhaupt noch fahren.",
+   "question": "Wer sagt: „Solange die Laster fahren, ist alles in Ordnung“?",
+   "answer": "Helga Dröscher",
+   "distractors": [
+    "Herbert Prohaska",
+    "Andreas Sator",
+    "Florian Krammer"
+   ],
+   "aha": "Mit Lkw-Kolonnen muss heutzutage jeder rechnen, sagt Helga. Sorgen machen sollte man sich erst, wenn die Kolonnen einmal weg sind.",
+   "quote_clean": "Aber ich sage es euch: In Zeiten wie diesen seid ihr froh, dass die Laster alle fahren. Seid ihr wirklich froh, dass alle noch fahren. Solange die Laster fahren, ist alles in Ordnung.",
+   "quality": 2
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt, Zitat sinngemäß korrekt wiedergegeben und fair.",
+   "stand_note": "",
+   "statement": "Helga Dröscher findet, dass Lkw-Fahrer:innen keine Anerkennung von außen bekommen und sie sich selbst geben müssen.",
+   "question": "Woher bekommen Lkw-Fahrer:innen laut Helga ihre Anerkennung?",
+   "answer": "Sie müssen sie sich selbst geben",
+   "distractors": [
+    "Von den Kund:innen beim Abladen",
+    "Von der Politik und den Medien",
+    "Von anderen Autofahrer:innen"
+   ],
+   "aha": "Ohne Lkw würde die Wirtschaft zusammenbrechen, wertgeschätzt fühlt sich Helga trotzdem nicht. Was bleibt, sind Berufsehre und Stolz, und die vielen Probleme, die unterwegs gelöst werden, ohne dass es jemand mitkriegt.",
+   "quote_clean": "Nein, Anerkennung kriegt man keine. Anerkennung muss man sich selber geben. Von außen kriegt man keine.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg passt, ist aber Andreas' Einschätzung und stark verallgemeinert; Frage auf „laut Andreas“ gestellt.",
+   "stand_note": "",
+   "statement": "Andreas erzählt, dass Kirchen historisch zu den größten Kunstförderern gehörten, weil Bilder ihnen halfen, Menschen zu beeinflussen und ihre Geschichte zu verbreiten.",
+   "question": "Warum waren Kirchen laut Andreas große Kunstförderer?",
+   "answer": "Bilder gaben ihnen Einfluss auf Menschen",
+   "distractors": [
+    "Kunst war von Steuern befreit",
+    "Künstler mussten Priester sein",
+    "Kirchen brauchten Wandschmuck gegen Kälte"
+   ],
+   "aha": "Andreas hat das von Alain de Botton und der School of Life: Religion und Kunst sind zwei Dinge, die Menschen langfristig prägen. Schon die hohe Architektur erinnert dich in der Kirche daran, dass du klein bist.",
+   "quote_clean": "Kirchen waren immer die größten Förderer von Kunst, weil sie mit diesen Bildern auch Einfluss auf die Leute haben konnten.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Standard-Begrüßung ohne Erkenntniswert; keine echte Frage mit überraschender Antwort.",
+   "stand_note": "",
+   "statement": "Andreas beginnt seine Folgen mit dem Satz, dass man mit Erklär mir die Welt die Welt jede Woche ein bisschen besser verstehen soll.",
+   "question": "Wie stellt Andreas „Erklär mir die Welt“ am Beginn einer Folge vor?",
+   "answer": "Die Welt jede Woche besser verstehen",
+   "distractors": [
+    "Wissen, das dich klüger macht",
+    "Fragen, die niemand zu stellen wagt",
+    "Expertinnen erklären die Zukunft"
+   ],
+   "aha": "",
+   "quote_clean": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quality": 1
+  }
+ ],
+ "id": "s20250401",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

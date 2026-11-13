@@ -1,0 +1,280 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1216: meistens drei Reviewer, Aha stimmt mit 1245 überein.",
+   "stand_note": "",
+   "statement": "Eine bei einem Fachjournal eingereichte Studie wird im Peer Review meistens von drei Gutachter:innen aus einem ähnlichen Fachgebiet geprüft.",
+   "question": "Wie viele Reviewer:innen begutachten eine eingereichte Studie im Peer Review meistens?",
+   "answer": "3",
+   "distractors": [
+    "1",
+    "6",
+    "10"
+   ],
+   "aha": "Meistens sind es drei, und du weißt als Autor:in nicht, wer sie sind. Laut Martin sind oft ein, zwei nette dabei und einer, der dir eine lange Liste an Versuchen schickt, die du bitte noch machen sollst.",
+   "quote_clean": "Schicken wir jetzt an – meistens sind es drei Reviewer. Das sind Personen, die wahrscheinlich aus einem ähnlichen Feld sind wie du.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Die 90 Prozent sind eine hypothetische, flapsige Faustzahl in einem Beispiel („ich schmeiß …“), keine belegte allgemeine Zahl.",
+   "stand_note": "",
+   "statement": "Bei einer Metaanalyse mit strengen Qualitätskriterien fliegen oft rund 90 Prozent der vorhandenen Studien raus, übrig bleiben nur die besten.",
+   "question": "Wie viel Prozent der Studien zu einem Thema bleiben bei einer strengen Metaanalyse laut Martin ungefähr übrig?",
+   "answer": "Etwa 10 Prozent",
+   "distractors": [
+    "Etwa 40 Prozent",
+    "Etwa 60 Prozent",
+    "Etwa 25 Prozent"
+   ],
+   "aha": "Man schmeißt alle Studien zu einer Frage in einen Topf und legt dann strenge Kriterien an: Gruppengröße, doppelte Verblindung und so weiter. Den Rest, etwa 90 Prozent, nennt Martin eher trocken ziemlichen Müll.",
+   "quote_clean": "Das heißt, ich schmeiß schon mal 90 Prozent aller Studien raus, weil die meisten ziemlicher Müll sein werden.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 2554 (über 60 Grad, entspricht den Studien zu heißem Tee). Distraktoren 80 und 90 Grad wären ebenfalls „über 60“ und damit nicht eindeutig falsch; ersetzt.",
+   "stand_note": "",
+   "statement": "Wer Tee heißer als etwa 60 Grad trinkt, hat ein erhöhtes Risiko für Speiseröhrenkrebs.",
+   "question": "Ab welcher Temperatur steigt laut Martin das Speiseröhrenkrebsrisiko beim Teetrinken?",
+   "answer": "Über 60 Grad",
+   "distractors": [
+    "Über 35 Grad",
+    "Über 40 Grad",
+    "Über 45 Grad"
+   ],
+   "aha": "Grüner Tee kann Bestandteile haben, die das Krebsrisiko senken, und trotzdem schadet er, wenn er zu heiß ist. Beides kann gleichzeitig stimmen, darum widersprechen sich Studien oft weniger, als es ausschaut. Also: kurz abkühlen lassen.",
+   "quote_clean": "Ich weiß aber auch, dass, wenn ich Tee über 60 Grad trinke, mein Speiseröhrenkrebsrisiko steigt.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 3421, aber Martin ist unsicher („ich glaube, es war am CERN“); tatsächlich war es das OPERA-Experiment mit CERN-Neutrinostrahl, Formulierung entsprechend präzisiert.",
+   "stand_note": "",
+   "statement": "Die angeblich überlichtschnellen Neutrinos eines Experiments mit dem Neutrinostrahl des CERN entpuppten sich als Messfehler durch ein schlecht eingestecktes Glasfaserkabel.",
+   "question": "Was steckte hinter den angeblich überlichtschnellen Neutrinos, die ein Experiment mit CERN-Neutrinos gemessen hatte?",
+   "answer": "Ein locker eingestecktes Glasfaserkabel",
+   "distractors": [
+    "Ein Rechenfehler in der Software",
+    "Ein Erdbeben während der Messung",
+    "Eine falsch kalibrierte Atomuhr"
+   ],
+   "aha": "Die Forschenden haben ihrem eigenen Ergebnis nicht getraut und andere gebeten, nachzuschauen. Gut so: In der Physik fallen Ausreißer schnell auf. Einstein darf aufatmen.",
+   "quote_clean": "So wie, ich glaube, es war am CERN, als sie geglaubt haben, überlichtschnelle Neutrinos zu finden. Wäre ja eine super spannende Entdeckung. Dann haben sie gesagt: Das glauben wir selber nicht, schaut euch das an. Und dann war es ein Glasfaserkabel, das irgendwo nicht gut eingesteckt war.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "kontext"
+   ],
+   "note": "Das Gender-Equality-Paradox ist wissenschaftlich umstritten (Datenauswahl, Replikation); als Quiz-Tatsache zu einseitig und politisch aufgeladen.",
+   "stand_note": "",
+   "statement": "Beim sogenannten Gender-Equality-Paradox zeigt sich: In gleichberechtigteren Ländern gehen anteilig weniger Frauen in MINT-Berufe als in weniger gleichberechtigten Ländern.",
+   "question": "Was zeigt das sogenannte Gender-Equality-Paradox über Frauen in MINT-Berufen?",
+   "answer": "Gleichberechtigtere Länder haben weniger MINT-Frauen",
+   "distractors": [
+    "Gleichberechtigtere Länder haben mehr MINT-Frauen",
+    "Gleichberechtigung spielt keine Rolle dabei",
+    "Nur reiche Länder haben MINT-Frauen"
+   ],
+   "aha": "Man plottet Länder nach einem Gleichberechtigungsindex gegen den Frauenanteil in MINT-Fächern und bekommt das Gegenteil dessen, was die meisten erwarten.",
+   "quote_clean": "Frauen in den MINT-Fächern, und sieht zum Schock vieler, dass in den gleichberechtigteren Ländern weniger Frauen in die MINT-Berufe gehen als in den weniger gleichberechtigten Ländern.",
+   "quality": 1
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 549-609: subjektiv gleiche Besserung, objektive Lungenfunktion wie ohne Behandlung.",
+   "stand_note": "",
+   "statement": "In Studien mit Placebo-Asthmaspray fühlen sich Patient:innen deutlich besser, die objektiv gemessene Lungenfunktion unterscheidet sich aber nicht von jener ohne Behandlung.",
+   "question": "Was passiert laut Studien mit der gemessenen Lungenfunktion bei Asthma-Patient:innen, die ein Placebospray bekommen?",
+   "answer": "Sie bleibt wie ohne Behandlung",
+   "distractors": [
+    "Sie verbessert sich wie beim echten Spray",
+    "Sie verbessert sich um die Hälfte",
+    "Sie verschlechtert sich deutlich"
+   ],
+   "aha": "Gefragt, wie es ihnen geht, berichtet die Placebogruppe von genauso viel Besserung wie die mit dem echten Spray. Misst man die Lunge, ist da nichts. Der Placeboeffekt steckt oft im subjektiven Abfragen, nicht im Körper.",
+   "quote_clean": "Wenn man das Ganze objektiv misst, also wenn man einfach die Lungenfunktion misst, anstatt zu fragen „Hat's geholfen?“, dann findet man keinen Unterschied zu denen, die gar keine Behandlung bekommen haben.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 431-460: Timing als großer Teil des Placeboeffekts.",
+   "stand_note": "",
+   "statement": "Ein großer Teil des Placeboeffekts ist simples Timing: Man beginnt eine Behandlung meist am Höhepunkt der Krankheit, danach wird es ohnehin besser.",
+   "question": "Welche banale Ursache erklärt laut Martin einen großen Teil des Placeboeffekts?",
+   "answer": "Man behandelt meist am Krankheitshöhepunkt",
+   "distractors": [
+    "Zucker in der Tablette wirkt heilend",
+    "Teure Mittel wirken grundsätzlich stärker",
+    "Bittere Tabletten aktivieren das Immunsystem"
+   ],
+   "aha": "Kaum jemand nimmt den Rachenspray, wenn er sich noch fit fühlt oder schon fast gesund ist. Man greift dann zu, wenn es am schlimmsten ist, und danach geht's eh bergauf. Weniger mystische Selbstheilung, mehr Kalender.",
+   "quote_clean": "Tendenziell nehmen wir eine Tablette dann, wenn es uns besonders schlecht geht. Die meisten Krankheiten folgen so einem kurvigen Verlauf, und eher an der Spitze der Kurve startet man meistens eine Therapie.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 1071-1101; in quote_clean war „ur schnell“ ein Rest der Transkription, korrigiert.",
+   "stand_note": "",
+   "statement": "Etablierte Theorien werden in der Wissenschaft meist nicht verworfen, sondern ergänzt: Newtons Mechanik gilt weiter, Einsteins Relativitätstheorie erweitert sie für sehr schnelle oder massereiche Objekte.",
+   "question": "Was passierte mit Newtons Mechanik, nachdem Einstein die Relativitätstheorie aufgestellt hatte?",
+   "answer": "Sie gilt weiter in ihrem Geltungsrahmen",
+   "distractors": [
+    "Sie wurde komplett verworfen",
+    "Sie gilt nur noch auf dem Mond",
+    "Sie wurde aus den Schulbüchern gestrichen"
+   ],
+   "aha": "Wenn sich etwas wirklich etabliert hat, wird es selten weggeworfen, sondern ergänzt. Newton stimmt für den Alltag, Einstein für sehr schnell und sehr schwer, und dann kamen die Quantenphysiker und haben noch was draufgelegt.",
+   "quote_clean": "Das verwendet man noch heute und lernt es in der Schule, obwohl danach Einstein gekommen ist und gesagt hat: Moment, wenn sich Dinge sehr schnell bewegen oder super viel Masse haben, dann stimmt es so eigentlich nicht.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1813-1842: Theorie als Erklärungsmodell aus vielen geprüften Hypothesen.",
+   "stand_note": "",
+   "statement": "Eine wissenschaftliche Theorie ist keine bloße Vermutung, sondern ein übergeordnetes Erklärungsmodell, das auf vielen erfolgreich überprüften Hypothesen fußt.",
+   "question": "Was ist eine Theorie im wissenschaftlichen Sinn?",
+   "answer": "Ein Erklärungsmodell aus vielen geprüften Hypothesen",
+   "distractors": [
+    "Eine noch unbewiesene Vermutung",
+    "Eine einzelne überprüfte Hypothese",
+    "Ein endgültig bewiesenes Naturgesetz"
+   ],
+   "aha": "Im Alltag klingt „ist ja nur eine Theorie“ abwertend. In der Forschung ist eine Theorie wie die Evolutionstheorie aber ein großes, gut belegtes Gebäude, das auch Vorhersagen erlaubt, etwa, dass sich Bakterien unter Selektionsdruck anpassen.",
+   "quote_clean": "Es ist nicht so, als würde eine Hypothese zu einer Theorie werden, wenn man sie überprüft. Aber eine Theorie fußt auf sehr vielen erfolgreich überprüften Hypothesen.",
+   "quality": 4
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 2066-2096; Wer-sagt-Frage mit Fülldistraktoren in Inhaltsfrage umgebaut.",
+   "stand_note": "",
+   "statement": "Auf den Vorwurf, Wissenschaft sei auch nur eine Religion, antwortet Martin Moder: Eine nach wissenschaftlichen Prinzipien gebaute Rakete fliegt erfolgreich durchs Sonnensystem, die Ergebnisse sind also überprüfbar.",
+   "question": "Welches Argument bringt Martin Moder gegen den Vorwurf, Wissenschaft sei auch nur eine Religion?",
+   "answer": "Eine wissenschaftlich gebaute Rakete fliegt wirklich",
+   "distractors": [
+    "Religion hat heute kaum noch Anhänger",
+    "Forschende stimmen über Ergebnisse ab",
+    "Die meisten Forschenden sind nicht gläubig"
+   ],
+   "aha": "Ein Hörer wollte wissen, ob Wissenschaft nicht auch nur Glauben ist. Martins Antwort: Baust du die Rakete nach anderen Prinzipien, fliegt sie wahrscheinlich nicht einmal zehn Meter hoch.",
+   "quote_clean": "Ich glaube, die Ergebnisse sind eigentlich sehr selbstevident: Wenn ihr eine Rakete nach den Prinzipien der Wissenschaft baut, dann fliegt sie erfolgreich quer durchs Sonnensystem.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 812: Falsifizierung als Erbe von Karl Popper.",
+   "stand_note": "",
+   "statement": "Das Prinzip der Falsifizierung, das auf Karl Popper zurückgeht, besagt: Wissenschaft versucht nicht, Dinge zu bestätigen, sondern sie zu widerlegen.",
+   "question": "Auf wen geht das Prinzip zurück, dass Wissenschaft Aussagen vor allem zu widerlegen versucht?",
+   "answer": "Karl Popper",
+   "distractors": [
+    "Charles Darwin",
+    "Isaac Newton",
+    "Gregor Mendel"
+   ],
+   "aha": "Beweisen lässt sich abseits der Mathematik eigentlich nichts endgültig, widerlegen aber schon, zumindest in einem bestimmten Kontext. Was als etabliert gilt, hat jahrzehntelang allen Versuchen standgehalten, es zu stürzen. Popper war übrigens Wiener.",
+   "quote_clean": "In erster Linie versucht man nicht, Sachen zu bestätigen, sondern man versucht, sie zu widerlegen. Das ist das große Erbe von Karl Popper.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-Frage mit Fülldistraktoren; die Zahl 99 Prozent ist zudem eine scherzhafte Übertreibung.",
+   "stand_note": "",
+   "statement": "Glaubwürdig wird Wissenschaft laut Martin Moder, wenn man zugibt, was man nicht weiß, denn jeder ist in 99 Prozent aller komplizierten Bereiche inkompetent.",
+   "question": "Wer sagt: Letztlich ist jeder Fachidiot und inkompetent in 99 Prozent aller komplizierten Bereiche?",
+   "answer": "Martin Moder",
+   "distractors": [
+    "Andreas Sator",
+    "Karl Popper",
+    "Steven Pinker"
+   ],
+   "aha": "Auf die Frage, wie man Vertrauen in die Wissenschaft stärkt, sagt Martin: kein Geheimnis daraus machen, wenn man etwas nicht weiß.",
+   "quote_clean": "Ich glaube, dass es immer hilft, wenn man nicht so tut, als könnte man alles beantworten, weil letztlich ist jeder Fachidiot und inkompetent in 99 Prozent aller komplizierten Bereiche.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "spielbarkeit"
+   ],
+   "note": "Anekdote über ChatGPT-Fehlleistung von 2024 ist heute überholt und irreführend; zudem kaum Wissensgehalt.",
+   "stand_note": "",
+   "statement": "Martin Moder erzählt, dass ChatGPT bei der Frage nach den Mitgliedern der Science Busters bisher jedes Mal Leute nannte, von denen er noch nie gehört hatte.",
+   "question": "Was passiert laut Martin, wenn er ChatGPT nach den Mitgliedern der Science Busters fragt?",
+   "answer": "Es nennt Leute, die er nicht kennt",
+   "distractors": [
+    "Es nennt nur ihn selbst",
+    "Es verweigert die Antwort",
+    "Es zählt alle korrekt auf"
+   ],
+   "aha": "Martin ist selbst ein Science Buster, er sollte es also wissen.",
+   "quote_clean": "Bisher jedes Mal, wenn ich ihn gefragt habe, wer aller Mitglied der Science Busters ist, waren Leute dabei, von denen ich noch nie gehört habe.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Folgeneinstieg ohne Wissensgehalt, Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Andreas steigt in die Folge mit seiner Lieblingspflanze ein und fragt, wie man wissenschaftlich prüfen könnte, ob sie mit Musik schneller wächst.",
+   "question": "Womit steigt Andreas in die Folge über wissenschaftliches Arbeiten ein?",
+   "answer": "Mit seiner Lieblingspflanze und Musik",
+   "distractors": [
+    "Mit einer Packung Globuli",
+    "Mit einem Marshmallow",
+    "Mit einer Tasse heißem Tee"
+   ],
+   "aha": "Andreas hat das Bauchgefühl, dass die Pflanze mit viel Musik schneller wächst.",
+   "quote_clean": "Martin, ich habe uns heute meine Lieblingspflanze mitgebracht. Ich dreh in der Früh gerne Musik auf und sing dazu.",
+   "quality": 1
+  }
+ ],
+ "id": "302",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

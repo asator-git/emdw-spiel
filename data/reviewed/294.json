@@ -1,0 +1,272 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=95 eindeutig, Zahl plausibel.",
+   "stand_note": "",
+   "statement": "Eukalyptus wird für Papier genutzt, weil er schnell nachwächst und eine Pflanze bis zu sieben Mal geerntet werden kann.",
+   "question": "Wie oft kann man eine Eukalyptus-Pflanze für die Papierherstellung bis zu ernten?",
+   "answer": "Bis zu sieben Mal",
+   "distractors": [
+    "Bis zu zwei Mal",
+    "Bis zu drei Mal",
+    "Bis zu 15 Mal"
+   ],
+   "aha": "Eukalyptus treibt nach dem Fällen aus dem Stock wieder aus, du musst also nicht jedes Mal neu pflanzen. Darum wird er in Südamerika und im Süden Europas immer mehr für Kurzfaser-Papier angebaut.",
+   "quote_clean": "Eukalyptus, weil er sehr schnell nachwächst und eine Pflanze bis zu sieben Mal geerntet werden kann.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Zahl belegt (3 bis 5 mm); Haar-Vergleich im aha ist nicht belegt, Frage präzisiert.",
+   "stand_note": "",
+   "statement": "Langfasern für Papier, etwa aus Fichten, sind 3 bis 5 Millimeter lang, Kurzfasern höchstens 3 Millimeter.",
+   "question": "Wie lang sind die Langfasern aus Fichtenholz für Papier höchstens?",
+   "answer": "Etwa 5 Millimeter",
+   "distractors": [
+    "Etwa 1 Millimeter",
+    "Etwa 2 Zentimeter",
+    "Etwa 10 Zentimeter"
+   ],
+   "aha": "Die Fasern sind winzig: Langfasern aus Fichte messen 3 bis 5 Millimeter, Kurzfasern etwa aus Eukalyptus nur ein bis drei. Fabriken nutzen je nach Papier die passende Mischung.",
+   "quote_clean": "Die einen haben eine lange Faser, die ist 3 bis 5 mm lang, und die Kurzfasern sind Papierfasern, die maximal 3 mm lang sind.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=144, ungefähr 50 Prozent, klar als Näherung.",
+   "stand_note": "",
+   "statement": "Ein frisch gefällter Baum besteht ungefähr zur Hälfte aus Wasser.",
+   "question": "Wie viel Prozent eines frisch gefällten Baums sind ungefähr Wasser?",
+   "answer": "Rund 50 Prozent",
+   "distractors": [
+    "Rund 10 Prozent",
+    "Rund 25 Prozent",
+    "Rund 80 Prozent"
+   ],
+   "aha": "Der Rest ist vor allem Zellulose, also die Faser, plus Lignin, Harze und ein paar andere Stoffe. Fürs Papier will man nur die Faser, alles andere muss raus.",
+   "quote_clean": "Wenn man den Baum umschneidet, hat man ungefähr 50 % Wasser.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=169, Distraktoren klar falsch.",
+   "stand_note": "",
+   "statement": "Lignin, der sogenannte Holzstoff, gibt dem Baum seine Festigkeit; Gras hat kaum Lignin und knickt deshalb leicht um.",
+   "question": "Welcher Stoff sorgt dafür, dass ein Baum nicht wie ein Grashalm umknickt?",
+   "answer": "Lignin",
+   "distractors": [
+    "Zellulose",
+    "Harz",
+    "Chlorophyll"
+   ],
+   "aha": "Die Zellulosefaser selbst ist weich und biegsam, steif macht erst das bräunliche Lignin. Genau das muss man fürs Papier aber wieder loswerden, sonst wird es gelb.",
+   "quote_clean": "Das Lignin gibt dem Ganzen die Festigkeit, damit ein Baum stabil stehen kann und nicht beim kleinsten Wind umbricht wie ein Grashalm. Ein Grashalm hat meistens wenig oder kein Lignin drinnen, darum knickt er um.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=298 (Linien = Lignin verhört), sinngemäß korrekt.",
+   "stand_note": "",
+   "statement": "Papier aus geschliffenem Holz, in dem das Lignin bleibt, vergilbt sehr schnell.",
+   "question": "Was passiert mit Papier, in dem das Lignin aus dem Holz nicht entfernt wurde?",
+   "answer": "Es vergilbt sehr schnell",
+   "distractors": [
+    "Es wird besonders reißfest",
+    "Es saugt keine Tinte auf",
+    "Es wird mit der Zeit durchsichtig"
+   ],
+   "aha": "Beim klassischen Holzschliff wird der Stamm einfach an einem Schleifstein zerrieben, das Lignin bleibt drin. Das ist billig, aber für Bücher, die lang halten sollen, nimmt man lieber gekochten Zellstoff ohne Lignin.",
+   "quote_clean": "Man verwendet die gesamte Faser mit Lignin. Das hat nur einen Nachteil: Dieses Papier vergilbt wahnsinnig schnell.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "transkription",
+    "spielbarkeit"
+   ],
+   "note": "Transkript sagt 'zu wüchsig', die Glättung 'krumm' ist geraten; Frage und Distraktoren geschärft.",
+   "stand_note": "",
+   "statement": "Für Papier wird sogenanntes Schleifholz verwendet: Holz, das zu gut zum Verbrennen, aber zu klein für Bretter oder Bau ist.",
+   "question": "Was für Holz wird laut Thomas Salzer typischerweise für Papier verwendet?",
+   "answer": "Holz, das für anderes zu klein ist",
+   "distractors": [
+    "Nur die besten, geradesten Stämme",
+    "Ausschließlich Holz aus Tropenwäldern",
+    "Vor allem altes, gebrauchtes Bauholz"
+   ],
+   "aha": "Dazu kommen Reste aus Sägewerken, also Holzschnipsel und Restschnitte. Für Bretter oder den Bau ist dieses Holz nicht geeignet, zum Verbrennen eigentlich zu schade.",
+   "quote_clean": "Holz für Papier ist Holz, das nicht für andere Zwecke verwendet wird. Das ist zu gut zum Verbrennen, aber zu klein, um es für Bretter oder für den Bau zu verwenden.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=639, Zahlen klar.",
+   "stand_note": "",
+   "statement": "Die Mischung, die auf die Papiermaschine kommt, besteht zu 99,2 Prozent aus Wasser und nur zu 0,8 Prozent aus Zellstoff.",
+   "question": "Wie viel Prozent Zellstoff enthält der Brei, der auf die Papiermaschine gebracht wird?",
+   "answer": "0,8 Prozent",
+   "distractors": [
+    "8 Prozent",
+    "25 Prozent",
+    "50 Prozent"
+   ],
+   "aha": "Ein dicker Brei würde kein gleichmäßiges Blatt ergeben, darum muss die Faser in einer ganz dünnen Suspension frei schwimmen. Das ganze Wasser muss danach mühsam wieder raus.",
+   "quote_clean": "Wir wollen aber auf die Papiermaschine 99,2 % Wasser und 0,8 % Zellstoff bringen, sonst haben wir kein schönes Blatt.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Siebpartie, Presse, Trocknung im Transkript belegt.",
+   "stand_note": "",
+   "statement": "Eine moderne Papiermaschine arbeitet in drei Schritten – Sieb, Presse, Trocknung – im Prinzip wie die Papierherstellung vor Jahrhunderten.",
+   "question": "Aus welchen drei Hauptteilen besteht eine Papiermaschine?",
+   "answer": "Sieb, Presse, Trocknung",
+   "distractors": [
+    "Kochen, Bleichen, Schneiden",
+    "Mahlen, Färben, Rollen",
+    "Sieb, Bleiche, Walze"
+   ],
+   "aha": "Früher hat man mit einem Sieb Papierbrei aus einem Bottich geschöpft, auf Filz gepresst und die Bögen zum Trocknen aufgehängt. Heute läuft dasselbe endlos und schnell, getrocknet wird über dampfbeheizte Zylinder.",
+   "quote_clean": "Die Papiermaschine gliedert sich in drei wesentliche Teile, und im Prinzip produzieren wir so, wie man seit Jahrhunderten Papier produziert.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Unterdruck durch Keramikleisten bei t=686-715 belegt.",
+   "stand_note": "",
+   "statement": "Auf der Papiermaschine fließt das Wasser nicht von selbst durchs Sieb ab; kleine Keramikleisten erzeugen einen Unterdruck, der es herauszieht.",
+   "question": "Wie bringt eine Papiermaschine das Wasser schneller durch das Sieb?",
+   "answer": "Mit Unterdruck durch Keramikleisten",
+   "distractors": [
+    "Mit heißem Dampf von oben",
+    "Mit Zentrifugen wie eine Waschmaschine",
+    "Mit Salz, das Wasser bindet"
+   ],
+   "aha": "Wie beim Küchensieb, wo du nachhelfen musst, damit was durchrinnt. Das Sieb wird außerdem seitlich geschüttelt, damit sich die Fasern gut miteinander vernetzen.",
+   "quote_clean": "Man kann sich das vorstellen wie ein Küchensieb: Wenn man da irgendwas drinnen hat, muss man oft nachhelfen, damit was nachkommt, und genauso ist es beim Wasser.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg ok; Distraktor Baumharz ist nicht eindeutig falsch (Harzleimung existiert), ersetzt.",
+   "stand_note": "",
+   "statement": "Der Leim im Papier wird hauptsächlich aus Mais-, Weizen- oder Kartoffelstärke gekocht.",
+   "question": "Woraus wird der Leim im Papier hauptsächlich hergestellt?",
+   "answer": "Aus Stärke von Mais, Weizen, Kartoffel",
+   "distractors": [
+    "Aus Erdöl-Kunststoffen",
+    "Aus Tierknochen",
+    "Aus Zuckerrüben-Sirup"
+   ],
+   "aha": "Die Fabrik kocht den Leim im Grunde wie du daheim: Maisstärke, Wasser, kurz aufkochen und fertig ist ein wunderbarer Kleber. Der macht das Papier fester.",
+   "quote_clean": "Wir geben Leim hinein, das ist hauptsächlich ein Leim, der aus Mais-, Weizen- oder Kartoffelstärke produziert wird.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=1076, überraschender Fakt, gut spielbar.",
+   "stand_note": "",
+   "statement": "Weißes Büropapier ist, technisch gemessen, eigentlich leicht bläulich, weil echtes Weiß für das menschliche Auge eher gelblich wirkt.",
+   "question": "Welche Farbe hat weißes Kopierpapier, wenn man sie technisch misst?",
+   "answer": "Eigentlich leicht blau",
+   "distractors": [
+    "Eigentlich leicht gelb",
+    "Eigentlich leicht grau",
+    "Eigentlich leicht rosa"
+   ],
+   "aha": "Ein wirklich neutrales Weiß kommt uns ein bisschen gelb vor. Darum wird Papier leicht ins Blaue getrimmt, damit es für dein Auge strahlend weiß wirkt.",
+   "quote_clean": "Das Papier, das du vor dir hast, ist eh nicht weiß, sondern eigentlich blau, würde man es technisch messen.",
+   "quality": 5
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=1471, Meinungsfrage klar als 'laut Salzer' gerahmt.",
+   "stand_note": "",
+   "statement": "Thomas Salzer findet das Tolle am Papier, dass es aus nachwachsenden Rohstoffen kommt und wieder in den Naturkreislauf zurück kann.",
+   "question": "Was ist laut Thomas Salzer das Tolle am Papier?",
+   "answer": "Es kommt aus nachwachsenden Rohstoffen",
+   "distractors": [
+    "Es ist das billigste Material überhaupt",
+    "Es lässt sich unendlich oft recyceln",
+    "Es braucht kaum Energie in der Herstellung"
+   ],
+   "aha": "Selbst die Fasern, die fürs Recycling zu kurz sind, sind nicht verloren: Sie werden verbrannt, auf Felder ausgebracht oder zu Biogas. Wie umweltfreundlich das am Ende ist, hängt auch an den Druckfarben.",
+   "quote_clean": "Das ist, glaube ich, das Tolle am Papier, dass es ein Produkt ist, das aus nachwachsenden Rohstoffen kommt.",
+   "quality": 2
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Namensfrage zu einer Anekdote, kaum Erkenntnis und mit beliebigen Distraktoren.",
+   "stand_note": "",
+   "statement": "Früher leiteten Papierfabriken ihr Abwasser direkt in Flüsse, die dadurch bunt und teils tot waren; heute sind die Wasserkreisläufe weitgehend geschlossen.",
+   "question": "Wer erinnert sich an Proteste vor Papierfabriken, weil Flüsse bunt und teilweise tot waren?",
+   "answer": "Thomas Salzer",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Hörer namens Thomas",
+    "Eine Umweltaktivistin aus Linz"
+   ],
+   "aha": "Vor 40, 50 Jahren lief das Wasser einmal durch die Fabrik und gleich in den Fluss. Heute kommt im Verhältnis zur Produktion nur noch wenig Wasser raus, und das wird in Kläranlagen gereinigt.",
+   "quote_clean": "Ich kann mich erinnern, in meiner Schulzeit gab es noch Proteste vor Papierfabriken, weil das Abwasser so schlecht war, und da waren Flüsse bunt und teilweise tot.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Frage nach einer Floskel der Moderation, kein Wissen.",
+   "stand_note": "",
+   "statement": "Andreas fasst am Ende der Folge zusammen, welche drei Dinge er sich mitnimmt – zuerst, dass Papier nicht unendlich oft recycelbar ist.",
+   "question": "Mit welchen Worten leitet Andreas am Ende seine Zusammenfassung ein?",
+   "answer": "Diese drei Dinge nehme ich mir mit",
+   "distractors": [
+    "Was wir heute gelernt haben",
+    "Zum Schluss noch drei Fakten",
+    "Das Wichtigste in aller Kürze"
+   ],
+   "aha": "Seine drei Punkte diesmal: Fasern werden irgendwann zu kurz, Papier wurde früher aus alter Kleidung gemacht, und die Herstellung frisst extrem viel Energie.",
+   "quote_clean": "Diese drei Dinge nehme ich mir heute mit: Erstens, man kann Papier nicht unendlich oft recyceln, irgendwann werden die Fasern zu kurz.",
+   "quality": 1
+  }
+ ],
+ "id": "294",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

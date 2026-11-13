@@ -1,0 +1,707 @@
+{
+ "theme": "Wirtschaft & Arbeit",
+ "summary": "Wann ein Kredit Sinn macht, worauf du beim Hauskauf achten solltest und was passiert, wenn du nicht mehr zahlen kannst.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 467,
+   "speaker": "Bernd Lausecker",
+   "quote": "das Haus sind die einen Kosten, dazu kommen die Nebenkosten, die schnell mal 12, 13 Prozent, also ein Zehntel rund gesagt, vom Hauspreis nochmal draufzuschlagen sind.",
+   "quote_clean": "Das Haus sind die einen Kosten, dazu kommen die Nebenkosten, die schnell mal 12, 13 Prozent, also rund ein Zehntel, vom Hauspreis noch einmal draufzuschlagen sind.",
+   "statement": "Beim Hauskauf kommen zum Kaufpreis Nebenkosten von rund 12 bis 13 Prozent dazu.",
+   "question": "Wie viel Prozent des Kaufpreises machen die Nebenkosten beim Hauskauf ungefähr aus?",
+   "answer": "Rund 12 bis 13 Prozent",
+   "distractors": [
+    "Rund 2 bis 3 Prozent",
+    "Rund 25 bis 30 Prozent",
+    "Rund 5 bis 6 Prozent"
+   ],
+   "number_value": 12,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Grundbuch, Notar und diverse Gebühren summieren sich schnell auf über ein Zehntel des Hauspreises. Und dann willst du ja auch noch einrichten und den Garten anlegen. Wer nur den Kaufpreis rechnet, kommt laut Bernd Lausecker oft ins Schleudern.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Hauskauf",
+    "Nebenkosten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 433,
+   "speaker": "Bernd Lausecker",
+   "quote": "Also da gibt es wieder so eine Regel, dass mindestens ein Drittel aus dem Eigenkapital kommen sollte.",
+   "quote_clean": "Da gibt es wieder so eine Regel, dass mindestens ein Drittel aus dem Eigenkapital kommen sollte.",
+   "statement": "Als Faustregel sollte beim Hauskauf mindestens ein Drittel aus Eigenkapital kommen.",
+   "question": "Welcher Anteil eines Hauskaufs sollte laut Faustregel mindestens aus Eigenkapital kommen?",
+   "answer": "Mindestens ein Drittel",
+   "distractors": [
+    "Mindestens ein Zehntel",
+    "Mindestens die Hälfte",
+    "Mindestens ein Fünftel"
+   ],
+   "number_value": 33,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Je mehr eigenes Geld du mitbringst, desto kleiner der Kredit und desto weniger Zinsen. Bei einem Haus um 400.000 Euro heißt das: Gut 100.000 sollten schon am Konto liegen. Umso mehr, umso besser, sagt Bernd Lausecker.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Eigenkapital",
+    "Hauskauf"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 534,
+   "speaker": "Bernd Lausecker",
+   "quote": "Das ist eine typische Laufzeit. Kann man etwas strecken auf 30 Jahre, aber umso länger, umso teurer wird es eigentlich,",
+   "quote_clean": "Das ist eine typische Laufzeit. Man kann sie etwas strecken auf 30 Jahre, aber umso länger, umso teurer wird es eigentlich.",
+   "statement": "Eine typische Laufzeit für einen Wohnkredit sind 20 Jahre; Strecken auf 30 Jahre macht ihn teurer.",
+   "question": "Wie viele Jahre läuft ein typischer Kredit für ein Haus?",
+   "answer": "20 Jahre",
+   "distractors": [
+    "10 Jahre",
+    "40 Jahre",
+    "5 Jahre"
+   ],
+   "number_value": 20,
+   "number_unit": "Jahre",
+   "slider_min": 1,
+   "slider_max": 40,
+   "log_scale": false,
+   "aha": "Zwanzig Jahre sind der Normalfall, strecken auf 30 geht auch. Nur: Die Zinsen fallen jedes Jahr an, also zahlst du bei längerer Laufzeit insgesamt deutlich mehr zurück. Niedrigere Rate, höherer Gesamtpreis.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Laufzeit",
+    "Kredit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 767,
+   "speaker": "Bernd Lausecker",
+   "quote": "Also wenn ich 200.000 aufnehme und 20 Jahre lang finanziere, ist es ganz normal, dass dann dort steht, ich zahle aber 320.000 Euro zurück.",
+   "quote_clean": "Wenn ich 200.000 aufnehme und 20 Jahre lang finanziere, ist es ganz normal, dass dann dort steht, ich zahle aber 320.000 Euro zurück.",
+   "statement": "Wer 200.000 Euro auf 20 Jahre finanziert, zahlt laut Beispiel rund 320.000 Euro zurück.",
+   "question": "Du nimmst 200.000 Euro auf 20 Jahre auf. Wie viel zahlst du im Beispiel aus der Folge insgesamt zurück?",
+   "answer": "Rund 320.000 Euro",
+   "distractors": [
+    "Rund 210.000 Euro",
+    "Rund 450.000 Euro",
+    "Rund 260.000 Euro"
+   ],
+   "number_value": 320000,
+   "number_unit": "Euro",
+   "slider_min": 200000,
+   "slider_max": 500000,
+   "log_scale": false,
+   "aha": "Der Gesamtbetrag, der zurückzuzahlen ist, muss im Angebot stehen, und genau den kannst du zwischen Banken vergleichen. 320.000 oder 350.000? Dann ist klar, welches Angebot günstiger ist. Die genaue Summe hängt natürlich vom Zinsniveau ab.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Kreditvergleich",
+    "Zinsen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1127,
+   "speaker": "Bernd Lausecker",
+   "quote": "nach sieben Jahren, wenn solche Eintragungen, wenn sie erledigt sind, dann auch gelöscht, dass man hier dann nochmal für etwas Sauberkeit in seinen Daten sorgen kann.",
+   "quote_clean": "Nach sieben Jahren werden solche Eintragungen, wenn sie erledigt sind, auch gelöscht, sodass man hier noch einmal für etwas Sauberkeit in seinen Daten sorgen kann.",
+   "statement": "Erledigte Einträge beim Kreditschutzverband werden nach sieben Jahren gelöscht.",
+   "question": "Nach wie vielen Jahren werden erledigte Einträge beim Kreditschutzverband gelöscht?",
+   "answer": "Nach sieben Jahren",
+   "distractors": [
+    "Nach zwei Jahren",
+    "Nach 15 Jahren",
+    "Nach 30 Jahren"
+   ],
+   "number_value": 7,
+   "number_unit": "Jahre",
+   "slider_min": 1,
+   "slider_max": 20,
+   "log_scale": false,
+   "aha": "Beim KSV landen Mahnungen, Nichtzahlungen und laufende Kredite, und Banken fragen dort nach, bevor sie dir Geld leihen. Ein alter Ausrutscher verfolgt dich aber nicht ewig. Nach sieben Jahren ist ein erledigter Eintrag wieder weg.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "KSV",
+    "Bonität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 92,
+   "speaker": "Bernd Lausecker",
+   "quote": "Ich war davor auch 16 Jahre lang selber auf einer Bank und behaupte damit, ich kenne das Geschäft ziemlich gut.",
+   "quote_clean": "Ich war davor auch 16 Jahre lang selbst bei einer Bank und behaupte damit, ich kenne das Geschäft ziemlich gut.",
+   "statement": "Bernd Lausecker hat vor seiner Zeit beim VKI 16 Jahre bei einer Bank gearbeitet.",
+   "question": "Wie viele Jahre hat Bernd Lausecker selbst bei einer Bank gearbeitet, bevor er zum VKI kam?",
+   "answer": "16 Jahre",
+   "distractors": [
+    "3 Jahre",
+    "8 Jahre",
+    "25 Jahre"
+   ],
+   "number_value": 16,
+   "number_unit": "Jahre",
+   "slider_min": 0,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Bernd kennt beide Seiten des Schalters: 16 Jahre Bank, danach rund 15 Jahre Konsumentenschutz beim VKI. Gegeneinander sei das aber nicht, sagt er, eher eine andere Betrachtungsweise.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "VKI",
+    "Gast"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1111,
+   "speaker": "Bernd Lausecker",
+   "quote": "Ich kann mir einmal im Jahr beauskunftend bei dem, ich muss den also anschreiben und so sagen, schick mir, was ist bei dir über mich gespeichert.",
+   "quote_clean": "Ich kann mir einmal im Jahr Auskunft bei ihm holen, ich muss ihn also anschreiben und sagen: Schick mir, was bei dir über mich gespeichert ist.",
+   "statement": "Man kann beim Kreditschutzverband einmal im Jahr anfragen, welche Daten über einen gespeichert sind.",
+   "question": "Was kannst du beim Kreditschutzverband einmal im Jahr anfordern?",
+   "answer": "Auskunft über deine gespeicherten Daten",
+   "distractors": [
+    "Eine Löschung aller Einträge",
+    "Einen zinsfreien Kleinkredit",
+    "Eine Bewertung deines Hauses"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Manchmal bleibt durch einen technischen Fehler etwas stehen, das dort nichts verloren hat. Darum empfiehlt Bernd Lausecker, ab und zu nachzufragen, bevor du zur Bank gehst. Falsches kannst du dann noch korrigieren lassen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "KSV",
+    "Datenauskunft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 979,
+   "speaker": "Bernd Lausecker",
+   "quote": "Besser ist es, wenn man in der Verhandlung dann dem Bankbetreuer sagt, geht nicht was beim Zinssatz. Weil gerade bei 20 Jahren Laufzeit ist oft ein Zehntelprozent Zinssatz günstiger, bringt mir im Endeffekt mehr als diese auf einen Schlag 1.000 Euro,",
+   "quote_clean": "Besser ist es, wenn man in der Verhandlung dem Bankbetreuer sagt: Geht nicht was beim Zinssatz? Denn gerade bei 20 Jahren Laufzeit bringt ein Zehntelprozent weniger Zinsen oft mehr als die 1.000 Euro auf einen Schlag,",
+   "statement": "Bei langen Laufzeiten bringt ein Zehntelprozent weniger Zinsen oft mehr als ein Nachlass bei der Bearbeitungsgebühr.",
+   "question": "Worüber solltest du bei einem 20-jährigen Kredit eher verhandeln?",
+   "answer": "Über den Zinssatz",
+   "distractors": [
+    "Über die Bearbeitungsgebühr",
+    "Über die Kontoführungsgebühr",
+    "Über die Höhe der ersten Rate"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Banken lassen gern bei der Bearbeitungsgebühr nach, 1 statt 2 Prozent klingt nach viel. Aber der Zins fällt 20 Jahre lang jedes Jahr an, die Gebühr nur einmal. Da zahlt sich ein kleines Zehntel beim Zins am Ende eher aus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Verhandeln",
+    "Zinsen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 805,
+   "speaker": "Bernd Lausecker",
+   "quote": "Und eine Bank sichert sich, wenn sie dir einen fixen Zinssatz zusichert, natürlich ab, dass der Zins in der Zukunft etwas steigen könnte. Also macht sich schon einen Risikoaufschlag.",
+   "quote_clean": "Eine Bank sichert sich, wenn sie dir einen fixen Zinssatz zusichert, natürlich dagegen ab, dass der Zins in der Zukunft steigen könnte. Sie macht also einen Risikoaufschlag.",
+   "statement": "Fixzinsen sind meist teurer als variable, weil die Bank einen Risikoaufschlag für steigende Zinsen einrechnet.",
+   "question": "Warum ist ein fixer Zinssatz meist etwas teurer als ein variabler?",
+   "answer": "Die Bank verlangt einen Risikoaufschlag",
+   "distractors": [
+    "Fixzinsen sind gesetzlich höher angesetzt",
+    "Die Bank zahlt dafür eine Versicherung",
+    "Variable Kredite werden staatlich gefördert"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Mit einem Fixzins kaufst du dir Sicherheit, und die lässt sich die Bank bezahlen. Bleiben die Zinsen ruhig, freut sich die Bank. Steigen sie, und zwar meist ziemlich heftig, freust dich du.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fixzins",
+    "Zinsen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 730,
+   "speaker": "Bernd Lausecker",
+   "quote": "Das eine ist der effektive Jahreszinssatz. Das ist eine Zinssatzangabe, die auch neben Gebühren und sonstige Kosten, die mit dem Kredit zusammenhängen, beinhaltet und auch den Zinseszinseffekt hat,",
+   "quote_clean": "Das eine ist der effektive Jahreszinssatz. Das ist eine Zinssatzangabe, die auch Gebühren und sonstige Kosten, die mit dem Kredit zusammenhängen, beinhaltet und auch den Zinseszinseffekt hat.",
+   "statement": "Der effektive Jahreszinssatz enthält neben dem Zins auch Gebühren, sonstige Kosten und den Zinseszinseffekt.",
+   "question": "Welche Angabe eignet sich gut, um Kreditangebote zu vergleichen, weil sie auch Gebühren enthält?",
+   "answer": "Der effektive Jahreszinssatz",
+   "distractors": [
+    "Der Nominalzinssatz",
+    "Die monatliche Rate",
+    "Der Leitzins der EZB"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Nominalzins allein sagt wenig, weil Banken Kosten auch in Gebühren verstecken können. Der effektive Jahreszinssatz packt alles zusammen. Neben dem Gesamtbetrag, den du zurückzahlst, ist er die zweite Zahl, auf die du schauen solltest.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kreditvergleich",
+    "Effektivzins"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1404,
+   "speaker": "Bernd Lausecker",
+   "quote": "wie viel Anspruch hat eigentlich wer, weil eingetragen wird im Normalfall halbe, halbe, egal wer, wie viel zahlt.",
+   "quote_clean": "Wie viel Anspruch hat eigentlich wer, weil eingetragen wird im Normalfall halbe-halbe, egal wer wie viel zahlt.",
+   "statement": "Kaufen zwei Personen gemeinsam ein Haus, werden sie im Normalfall je zur Hälfte eingetragen, egal wer wie viel zahlt.",
+   "question": "Ein Paar kauft gemeinsam ein Haus, einer zahlt deutlich mehr ein. Wie wird das Eigentum im Normalfall eingetragen?",
+   "answer": "Halbe-halbe",
+   "distractors": [
+    "Nach eingezahltem Anteil",
+    "Auf den Hauptverdiener allein",
+    "Auf die Bank, bis der Kredit abbezahlt ist"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Darum rät Bernd Lausecker unverheirateten Paaren zu einem privaten Vertrag, wer wie viel Geld hineinsteckt. Bei einer Trennung ist das dann plötzlich sehr interessant. Romantisch ist es nicht, aber hilfreich.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Eigentum",
+    "Paare"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1498,
+   "speaker": "Bernd Lausecker",
+   "quote": "Das heißt, für diesen Kredit wird eine sogenannte Hypothek eingetragen, die wird ins Grundbuch eingetragen.",
+   "quote_clean": "Das heißt, für diesen Kredit wird eine sogenannte Hypothek eingetragen, und zwar ins Grundbuch.",
+   "statement": "Bei einem Wohnkredit sichert sich die Bank über eine Hypothek im Grundbuch ab.",
+   "question": "Wie sichert sich die Bank bei einem Hauskredit normalerweise ab?",
+   "answer": "Mit einer Hypothek im Grundbuch",
+   "distractors": [
+    "Mit einer Kaution am Sparbuch",
+    "Mit einer Pfändung des Gehalts",
+    "Mit einem Eintrag beim Finanzamt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Haus selbst ist die Sicherheit. Zahlst du nicht zurück, kann die Bank es im schlimmsten Fall versteigern lassen. Deswegen kommen beim Hauskauf auch Kosten für Notar und Grundbuch dazu.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Hypothek",
+    "Grundbuch"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1607,
+   "speaker": "Bernd Lausecker",
+   "quote": "Davon muss ich eigentlich warnen, weil aus dieser, die, wenn der dann nicht mehr zahlt, muss ich zahlen. Ich habe keine andere Möglichkeit.",
+   "quote_clean": "Davor muss ich eigentlich warnen, denn wenn der dann nicht mehr zahlt, muss ich zahlen. Ich habe keine andere Möglichkeit.",
+   "statement": "Bernd Lausecker warnt davor, für Freund:innen oder Partner:innen zu bürgen, weil man dann selbst zahlen muss.",
+   "question": "Wer warnt in einer EMDW-Folge: „Wenn der dann nicht mehr zahlt, muss ich zahlen. Ich habe keine andere Möglichkeit“?",
+   "answer": "Bernd Lausecker",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Hörer namens Nadine",
+    "Ein Bankbetreuer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gemeint ist die Bürgschaft, zu der man gerade in jungen Jahren für Freund:innen oder den Lebenspartner verführt wird. Innerhalb einer Familie mit gutem Verhältnis kann sie ein Notnagel sein. Unter Freund:innen rät Bernd klar ab.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bürgschaft",
+    "Risiko"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1230,
+   "speaker": "Bernd Lausecker",
+   "quote": "Für Kredite zahle ich meistens mehr Zinsen, als ich Zinsen bekomme, wenn ich das Geld anlege. Also wenn ich wirklich Geld mal übrig habe, ist es das Günstigste, hier eine sogenannte Sondertilgung zu machen.",
+   "quote_clean": "Für Kredite zahle ich meistens mehr Zinsen, als ich bekomme, wenn ich das Geld anlege. Wenn ich wirklich einmal Geld übrig habe, ist es also das Günstigste, eine sogenannte Sondertilgung zu machen.",
+   "statement": "Übriges Geld steckt man meist besser in eine Sondertilgung als in eine Anlage, weil Kreditzinsen höher sind als Sparzinsen.",
+   "question": "Du hast plötzlich Geld übrig und noch einen Kredit laufen. Was ist laut Bernd Lausecker meist am günstigsten?",
+   "answer": "Eine Sondertilgung machen",
+   "distractors": [
+    "Das Geld am Sparbuch anlegen",
+    "Einen zweiten Kredit aufnehmen",
+    "Die Laufzeit verlängern"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Rechnung ist simpel: Für den Kredit zahlst du mehr Zinsen, als dir das Sparbuch bringt. Also spart jeder zurückgezahlte Euro mehr, als er angelegt verdienen würde. Die Frage ist nur, ob dein Vertrag das erlaubt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sondertilgung",
+    "Zinsen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1246,
+   "speaker": "Bernd Lausecker",
+   "quote": "Das Problem ist dabei, das geht bei Variablen im Zinssatz jederzeit. Da kann ich zurückzahlen, was ich lustig bin, so im Endeffekt.",
+   "quote_clean": "Das Problem dabei ist: Das geht beim variablen Zinssatz jederzeit. Da kann ich zurückzahlen, wie es mir lustig ist.",
+   "statement": "Bei variablem Zinssatz kann man jederzeit vorzeitig zurückzahlen, bei Fixzins müssen größere Sonderzahlungen im Vertrag vereinbart sein.",
+   "question": "Bei welchem Kredit kannst du laut Bernd Lausecker jederzeit beliebig viel vorzeitig zurückzahlen?",
+   "answer": "Bei variablem Zinssatz",
+   "distractors": [
+    "Bei fixem Zinssatz",
+    "Nur bei Konsumkrediten",
+    "Erst nach zehn Jahren Laufzeit"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Beim Fixzins hat die Bank mit deinen Zinsen fix gerechnet und lässt sich nicht gern überraschen. Willst du etwa eine Lebensversicherung zur Tilgung verwenden, gehört das gleich am Anfang in den Vertrag. Sonst bleibt es bei einem kleinen Betrag.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sondertilgung",
+    "Fixzins"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 131,
+   "speaker": "Bernd Lausecker",
+   "quote": "Also einmal ist es, dieses Objekt, dieses Ding sollte länger halten, als der Kredit läuft. Also es macht wenig Sinn, über sechs Jahre lang ein Handy zu finanzieren,",
+   "quote_clean": "Einmal sollte dieses Ding länger halten, als der Kredit läuft. Es macht wenig Sinn, sechs Jahre lang ein Handy zu finanzieren,",
+   "statement": "Eine Grundregel für Kredite: Das finanzierte Ding sollte länger halten, als der Kredit läuft.",
+   "question": "Was ist laut Bernd Lausecker eine Grundregel, wofür sich ein Kredit lohnt?",
+   "answer": "Es hält länger, als der Kredit läuft",
+   "distractors": [
+    "Es kostet mehr als 1.000 Euro",
+    "Es verliert keinen Wert",
+    "Es ist im Angebot"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Handy, das du nach zwei Jahren eh wechseln willst, sechs Jahre lang abzustottern, ist eine schlechte Idee. Du zahlst dann noch für etwas, das längst in der Lade liegt. Bei einem Haus hingegen passt die Rechnung.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Konsumkredit",
+    "Faustregel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 191,
+   "speaker": "Bernd Lausecker",
+   "quote": "Aber man muss sich natürlich ganz klar sein, die Geschäfte verschenken nichts. Ich zahle damit immer drauf.",
+   "quote_clean": "Aber man muss sich ganz klar sein: Die Geschäfte verschenken nichts. Ich zahle damit immer drauf.",
+   "statement": "Bernd Lausecker betont, dass Ratenzahlungen im Handel nie gratis sind.",
+   "question": "Wer sagt in einer EMDW-Folge über Ratenkäufe: „Die Geschäfte verschenken nichts. Ich zahle damit immer drauf“?",
+   "answer": "Bernd Lausecker",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Elektrohändler",
+    "Eine Schuldnerberaterin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der große Fernseher auf Raten wirkt verlockend leicht. Gegen einen Konsumkredit hat Bernd nichts, solange er gut überlegt ist und du ihn über die ganze Laufzeit sicher bedienen kannst. Die erste Frage bleibt aber: Ist es mir das wert?",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Konsumkredit",
+    "Ratenzahlung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2035,
+   "speaker": "Bernd Lausecker",
+   "quote": "das Fatalste wäre es, zu ignorieren und zu verschleppen, weil dann natürlich der Betrag immer höher wird. Dann kommen auch Verzugszinsen drauf,",
+   "quote_clean": "Das Fatalste wäre es, zu ignorieren und zu verschleppen, weil dann natürlich der Betrag immer höher wird. Dann kommen auch Verzugszinsen drauf.",
+   "statement": "Wer seinen Kredit nicht mehr zahlen kann, sollte sofort mit der Bank reden, statt das Problem zu ignorieren.",
+   "question": "Was ist laut Bernd Lausecker das Fatalste, wenn du deinen Kredit nicht mehr zahlen kannst?",
+   "answer": "Das Problem ignorieren und verschleppen",
+   "distractors": [
+    "Sofort zur Bank gehen",
+    "Eine Ratenstundung beantragen",
+    "Die Laufzeit strecken"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Verzugszinsen sind noch teurer als die normalen, und so wird aus einem Problem schnell ein existenzbedrohendes. Bei kurzer Arbeitslosigkeit hilft oft eine Ratenstundung, bei weniger Einkommen eine längere Laufzeit. Aber nur, wenn du rechtzeitig redest.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Schulden",
+    "Verzugszinsen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2114,
+   "speaker": "Bernd Lausecker",
+   "quote": "Problem ist, dass das dann genauso bei diesem KSV, über den wir schon gesprochen haben, eingetragen wird und man dann garantiert keinen Kredit mehr kriegt.",
+   "quote_clean": "Das Problem ist, dass das dann genauso beim KSV, über den wir schon gesprochen haben, eingetragen wird und man dann garantiert keinen Kredit mehr kriegt.",
+   "statement": "Ein Privatkonkurs wird beim KSV eingetragen, danach bekommt man praktisch keinen Kredit mehr.",
+   "question": "Was ist laut Bernd Lausecker der große Nachteil eines Privatkonkurses?",
+   "answer": "Man bekommt danach keinen Kredit mehr",
+   "distractors": [
+    "Die Schulden bleiben trotzdem bestehen",
+    "Man verliert die Staatsbürgerschaft",
+    "Man darf nicht mehr arbeiten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am Ende eines erfolgreichen Privatkonkurses ist die Restschuld zwar erlassen. Aber der Eintrag beim KSV bleibt, und selbst für eine kleine, günstige Wohnung gibt dir dann keine Bank mehr Geld. Darum ist es wirklich die allerletzte Möglichkeit.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Privatkonkurs",
+    "KSV"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2101,
+   "speaker": "Bernd Lausecker",
+   "quote": "Alles andere wird in diesen Kredit gesteckt, läuft mehrere Jahre lang und wenn das dann geklappt hat, dann ist sozusagen die Restschuld erlassen.",
+   "quote_clean": "Alles andere wird in diesen Kredit gesteckt, das läuft mehrere Jahre lang, und wenn das dann geklappt hat, ist die Restschuld erlassen.",
+   "statement": "Im Privatkonkurs gibt man mehrere Jahre lang alles über dem Existenzminimum ab, danach wird die Restschuld erlassen.",
+   "question": "Was passiert am Ende eines erfolgreichen Privatkonkurses?",
+   "answer": "Die Restschuld wird erlassen",
+   "distractors": [
+    "Die Schulden werden verdoppelt",
+    "Der Staat übernimmt den Kredit",
+    "Die Zinsen werden zurückerstattet"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Dir bleibt in diesen Jahren nur ein festgelegter Satz zum Leben, nicht das, was du selbst für notwendig hältst. Der Rest geht an die Gläubiger. Hältst du durch, bist du danach schuldenfrei, aber Bernd nennt es einen harten Weg.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Privatkonkurs",
+    "Schulden"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1915,
+   "speaker": "Bernd Lausecker",
+   "quote": "Studenten sind, wenn sie dann mal in der Bank sind, als Kunde, natürlich auch nach dem Studium interessante Kunden für die Banken.",
+   "quote_clean": "Studenten sind, wenn sie einmal Kunden einer Bank sind, natürlich auch nach dem Studium interessante Kunden für die Banken.",
+   "statement": "Banken bieten Studentenkredite auch deshalb an, weil Studierende nach dem Studium interessante Kund:innen werden.",
+   "question": "Warum bieten manche Banken überhaupt Kredite für Studierende an?",
+   "answer": "Sie wollen sie als spätere Kund:innen",
+   "distractors": [
+    "Der Staat zwingt sie dazu",
+    "Studierende zahlen die höchsten Zinsen",
+    "Die Kredite sind steuerlich absetzbar"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer als Student einmal bei einer Bank ist, bleibt oft, auch wenn das Gehalt kommt. Ein Studienkredit kann laut Bernd Sinn machen, wenn du dadurch ein, zwei Semester schneller fertig wirst. Fürs bequemere Bummeln eher nicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Studium",
+    "Banken"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1459,
+   "speaker": "Bernd Lausecker",
+   "quote": "Alleine ist es oft sehr schwer. Das führt auch dazu, dass leider sehr oft dann eine Immobilie verkauft werden muss. Das berühmte Scheidungshaus.",
+   "quote_clean": "Alleine ist es oft sehr schwer. Das führt auch dazu, dass leider sehr oft eine Immobilie verkauft werden muss. Das berühmte Scheidungshaus.",
+   "statement": "Nach einer Trennung muss oft die gemeinsame Immobilie verkauft werden, weil einer allein den Kredit nicht stemmen kann.",
+   "question": "Warum muss nach einer Trennung oft das gemeinsame Haus verkauft werden?",
+   "answer": "Einer allein kann den Kredit nicht stemmen",
+   "distractors": [
+    "Die Bank kündigt den Kredit automatisch",
+    "Das Gesetz schreibt den Verkauf vor",
+    "Die Grundsteuer verdoppelt sich"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zu zweit reicht die Bonität für den Kredit, allein oft nicht mehr. Wer bleibt, muss den Kredit übernehmen und den anderen auch noch auszahlen. Die gute Seite, laut Bernd: Andere kommen so manchmal günstig zu einer Immobilie.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Trennung",
+    "Immobilien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 1005,
+   "speaker": "Andreas Sator",
+   "quote": "Wenn ich da hingebe und meinen Führerschein oder meinen Pass abgebe, hat die Bank dann irgendwo einen schlauen Computer, da geben sie meinen Namen ein und da steht, Andreas Sator hat vor 10 Jahren seine Handyrechnung nicht bezahlt",
+   "quote_clean": "Wenn ich da hingehe und meinen Führerschein oder meinen Pass abgebe, hat die Bank dann irgendwo einen schlauen Computer, sie geben meinen Namen ein und da steht: Andreas Sator hat vor zehn Jahren seine Handyrechnung nicht bezahlt?",
+   "statement": "Andreas fragt anschaulich, ob die Bank einen Computer hat, der alle seine alten Zahlungssünden kennt.",
+   "question": "Mit welchem Beispiel fragt Andreas nach, wie Banken die Bonität prüfen?",
+   "answer": "Eine vor zehn Jahren unbezahlte Handyrechnung",
+   "distractors": [
+    "Ein nicht bezahlter Strafzettel",
+    "Eine geplatzte Mietkaution",
+    "Ein überzogenes Sparbuch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ganz so extrem ist es nicht, sagt Bernd, aber fast: Beim Kreditschutzverband stehen Nichtzahlungen, Mahnstufen und laufende Kredite. Und deine Bonität bestimmt auch, wie viel Zinsen du zahlst.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Bonität",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 930,
+   "speaker": "Andreas Sator",
+   "quote": "Kann man sich das vorstellen wie am Markt in Wien, da gibt man um 5 Euro die Sonnenbrille? Leider nein.",
+   "quote_clean": "Kann man sich das vorstellen wie am Markt in Wien, wo man die Sonnenbrille um 5 Euro kriegt? Leider nein.",
+   "statement": "Auf Andreas' Frage, ob man mit der Bank feilschen kann wie am Markt, antwortet Bernd Lausecker: Leider nein.",
+   "question": "Womit vergleicht Andreas das Verhandeln mit der Bank, worauf der Gast „Leider nein“ sagt?",
+   "answer": "Sonnenbrillen-Feilschen am Markt in Wien",
+   "distractors": [
+    "Einem Flohmarkt in Paris",
+    "Einer Auktion im Dorotheum",
+    "Dem Autokauf beim Händler"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Etwas Spielraum gibt es schon, aber Banken müssen Kredite laut Aufsicht mit eigenem Geld unterlegen, das macht sie teurer. Fünf Euro für die Sonnenbrille spielt es also nicht. Verhandeln lohnt sich trotzdem, am besten beim Zinssatz.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Verhandeln",
+    "Moment"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "65",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

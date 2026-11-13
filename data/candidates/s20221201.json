@@ -1,0 +1,752 @@
+{
+ "theme": "Gesundheit & Körper",
+ "summary": "Live vor Publikum: Virologe Florian Krammer schaut auf fast drei Jahre Pandemie zurück und sagt, warum wir auf die nächste schlecht vorbereitet sind.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 610,
+   "speaker": "Florian Krammer",
+   "quote": "Wir hatten eine 1918, die hat damals zwischen 20 und 100 Millionen Tote verursacht. Man kann das schwer abschätzen. 20 Millionen ist die konservative Schätzung.",
+   "quote_clean": "Wir hatten eine 1918, die hat damals zwischen 20 und 100 Millionen Tote verursacht. Man kann das schwer abschätzen. 20 Millionen ist die konservative Schätzung.",
+   "statement": "Die Grippepandemie von 1918 forderte nach Schätzungen zwischen 20 und 100 Millionen Tote.",
+   "question": "Wie viele Millionen Tote forderte die Pandemie von 1918 mindestens, nach konservativer Schätzung?",
+   "answer": "Rund 20 Millionen",
+   "distractors": [
+    "Rund 2 Millionen",
+    "Rund 5 Millionen",
+    "Rund 200 Millionen"
+   ],
+   "number_value": 20,
+   "number_unit": "Millionen Tote",
+   "slider_min": 1,
+   "slider_max": 300,
+   "log_scale": true,
+   "aha": "Und das bei einer Weltbevölkerung, die damals viel kleiner war. Pro Kopf war 1918 also um einiges schlimmer als Corona.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Spanische Grippe",
+    "Pandemie",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 624,
+   "speaker": "Florian Krammer",
+   "quote": "Wir hatten 1957 eine Pandemie. Wir hatten 1968 eine Pandemie. Da waren immer so ein bis drei Millionen Tote im Spiel.",
+   "quote_clean": "Wir hatten 1957 eine Pandemie. Wir hatten 1968 eine Pandemie. Da waren immer so ein bis drei Millionen Tote im Spiel.",
+   "statement": "Die Grippepandemien von 1957 und 1968 forderten jeweils etwa ein bis drei Millionen Tote.",
+   "question": "Wie viele Tote forderten die Grippepandemien von 1957 und 1968 jeweils ungefähr?",
+   "answer": "Ein bis drei Millionen",
+   "distractors": [
+    "Zehn- bis fünfzigtausend",
+    "Zehn bis zwanzig Millionen",
+    "Rund 50 Millionen"
+   ],
+   "number_value": 2,
+   "number_unit": "Millionen Tote",
+   "slider_min": 0.1,
+   "slider_max": 50,
+   "log_scale": true,
+   "aha": "Pandemien sind also keine Jahrhundertereignisse, sondern kommen alle paar Jahrzehnte. Danach kamen noch HIV und 2009 die Schweinegrippe.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Pandemie",
+    "Grippe",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2969,
+   "speaker": "Florian Krammer",
+   "quote": "In Wahrheit, wenn sowas wie ein Nipah-Virus, ich weiß nicht, ob Ihnen das bekannt ist, die töten etwa 50 Prozent der Leute, die sie infizieren.",
+   "quote_clean": "Ein Nipah-Virus, ich weiß nicht, ob Ihnen das bekannt ist, tötet etwa 50 Prozent der Leute, die es infiziert.",
+   "statement": "Das Nipah-Virus tötet etwa die Hälfte der Menschen, die es infiziert.",
+   "question": "Wie viel Prozent der Infizierten tötet das Nipah-Virus ungefähr?",
+   "answer": "Rund 50 Prozent",
+   "distractors": [
+    "Rund 5 Prozent",
+    "Rund 15 Prozent",
+    "Rund 90 Prozent"
+   ],
+   "number_value": 50,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Florian nennt Nipah seinen nächsten Albtraumkandidaten, weil es auch von Mensch zu Mensch übertragen werden kann. Bei so einem Virus würde man wohl gar nicht mehr lange testen, sondern sofort impfen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Nipah",
+    "Virus",
+    "Sterblichkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3048,
+   "speaker": "Florian Krammer",
+   "quote": "Bei NIPA ist es momentan so, dass die R0, also die Rate, mit der das von Infizierten auf andere übertragen wird, die ist etwa bei 0,5. Das heißt, das stirbt immer von selbst aus.",
+   "quote_clean": "Bei Nipah ist es momentan so, dass die R0, also die Rate, mit der das von Infizierten auf andere übertragen wird, etwa bei 0,5 liegt. Das heißt, es stirbt immer von selbst aus.",
+   "statement": "Das Nipah-Virus hat derzeit eine Reproduktionszahl von etwa 0,5, Ausbrüche sterben deshalb von selbst aus.",
+   "question": "Wie hoch ist die Reproduktionszahl R0 des Nipah-Virus derzeit ungefähr?",
+   "answer": "Etwa 0,5",
+   "distractors": [
+    "Etwa 1,5",
+    "Etwa 3",
+    "Etwa 0,05"
+   ],
+   "number_value": 0.5,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 3,
+   "log_scale": false,
+   "aha": "Unter 1 steckt ein Infizierter im Schnitt weniger als einen anderen an, das Virus verschwindet wieder. Mutiert es über 1, breitet es sich aus. Tödlich heißt also nicht automatisch harmlos für die Welt.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Nipah",
+    "R0",
+    "Ausbreitung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2834,
+   "speaker": "Florian Krammer",
+   "quote": "Da geht man Phase 1, Phase 2. Das kostet pro Kandidat etwa 20 Millionen Dollar. Weiß ich nicht, nur zum Vergleich, ein F-22 Kampfflugzeug kostet 120 Millionen Dollar.",
+   "quote_clean": "Da geht man in Phase 1, Phase 2. Das kostet pro Kandidat etwa 20 Millionen Dollar. Nur zum Vergleich: Ein F-22-Kampfflugzeug kostet 120 Millionen Dollar.",
+   "statement": "Einen Impfstoffkandidaten bis Phase 2 zu entwickeln kostet etwa 20 Millionen Dollar – ein F-22-Kampfjet kostet 120 Millionen.",
+   "question": "Wie viel kostet es ungefähr, einen Impfstoffkandidaten bis in Phase 2 klinischer Studien zu bringen?",
+   "answer": "Etwa 20 Millionen Dollar",
+   "distractors": [
+    "Etwa 2 Millionen Dollar",
+    "Etwa 500 Millionen Dollar",
+    "Etwa 3 Milliarden Dollar"
+   ],
+   "number_value": 20,
+   "number_unit": "Millionen Dollar",
+   "slider_min": 1,
+   "slider_max": 2000,
+   "log_scale": true,
+   "aha": "Ein einziger Kampfjet wären also fünf bis sechs vorbereitete Impfstoffe. Für 50 bis 100 Virenkandidaten reden wir von ein paar Milliarden, die Pandemie hat Billionen gekostet.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Impfstoff",
+    "Kosten",
+    "Pandemievorsorge"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2638,
+   "speaker": "Florian Krammer",
+   "quote": "Die haben auch die Vision, die ich teile, dass wenn es zu einer Pandemie kommt, und dass man in 100 Tagen einen Impfstoff in der Bevölkerung haben sollte. Und das lässt sich technisch machen.",
+   "quote_clean": "Die haben auch die Vision, die ich teile, dass man bei einer Pandemie in 100 Tagen einen Impfstoff in der Bevölkerung haben sollte. Und das lässt sich technisch machen.",
+   "statement": "Die Impfstoff-Initiative CEPI hat das Ziel, bei einer neuen Pandemie innerhalb von 100 Tagen einen Impfstoff in der Bevölkerung zu haben.",
+   "question": "In wie vielen Tagen will die Initiative CEPI bei einer neuen Pandemie einen Impfstoff in der Bevölkerung haben?",
+   "answer": "100 Tage",
+   "distractors": [
+    "30 Tage",
+    "200 Tage",
+    "365 Tage"
+   ],
+   "number_value": 100,
+   "number_unit": "Tage",
+   "slider_min": 10,
+   "slider_max": 500,
+   "log_scale": false,
+   "aha": "Bei Corona hat es rund elf Monate gedauert, und das war schon Rekordtempo. Möglich wären 100 Tage, wenn man für die gefährlichen Virusfamilien Impfstoffe vorab bis Phase 2 entwickelt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "CEPI",
+    "Impfstoff",
+    "Pandemievorsorge"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3399,
+   "speaker": "Andreas Sator",
+   "quote": "Alleine in Österreich kostet das Dieselprivileg, also die niedrige Mineralölsteuer für Diesel, 800 Millionen Euro im Jahr wahnsinnig klimaschädlich.",
+   "quote_clean": "Allein in Österreich kostet das Dieselprivileg, also die niedrige Mineralölsteuer für Diesel, 800 Millionen Euro im Jahr, und es ist wahnsinnig klimaschädlich.",
+   "statement": "Das österreichische Dieselprivileg, die niedrigere Mineralölsteuer auf Diesel, kostet rund 800 Millionen Euro pro Jahr.",
+   "question": "Wie viel kostet das Dieselprivileg den österreichischen Staat ungefähr pro Jahr?",
+   "answer": "Rund 800 Millionen Euro",
+   "distractors": [
+    "Rund 80 Millionen Euro",
+    "Rund 3 Milliarden Euro",
+    "Rund 8 Milliarden Euro"
+   ],
+   "number_value": 800,
+   "number_unit": "Millionen Euro",
+   "slider_min": 50,
+   "slider_max": 5000,
+   "log_scale": true,
+   "aha": "Zum Vergleich: Für 800 Millionen könnte man rund 40 Impfstoffkandidaten bis Phase 2 bringen. Das Geld wäre also nicht das Problem, eher die Koordination.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Dieselprivileg",
+    "Österreich",
+    "Steuern"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2226,
+   "speaker": "Florian Krammer",
+   "quote": "Das andere ist, das Virus wird natürlich nicht verschwinden. Das ist jetzt da, das bleibt, das wird das fünfte Coronavirus in Menschen.",
+   "quote_clean": "Das andere ist: Das Virus wird natürlich nicht verschwinden. Das ist jetzt da, das bleibt, das wird das fünfte Coronavirus in Menschen.",
+   "statement": "SARS-CoV-2 wird bleiben und das fünfte dauerhaft beim Menschen zirkulierende Coronavirus werden, neben vier Erkältungs-Coronaviren.",
+   "question": "Das wievielte dauerhaft beim Menschen zirkulierende Coronavirus wird SARS-CoV-2 laut Florian Krammer?",
+   "answer": "Das fünfte",
+   "distractors": [
+    "Das erste",
+    "Das zweite",
+    "Das zwölfte"
+   ],
+   "number_value": 5,
+   "number_unit": "",
+   "slider_min": 1,
+   "slider_max": 15,
+   "log_scale": false,
+   "aha": "Vier Coronaviren lösen bei uns schon ganz normale Erkältungen aus. Ob SARS-CoV-2 eher dort landet oder eher wie die Grippe jeden Winter Spitäler füllt, ist die große Frage.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Coronavirus",
+    "Erkältung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 350,
+   "speaker": "Florian Krammer",
+   "quote": "Also wenn man schon Ausbrüche mit SARS-1 gehabt hat, 2003, und dann mit MERS 2012, 2013. Und das wird ja nach wie vor auf Menschen übertragen von Kamelen.",
+   "quote_clean": "Man hatte schon Ausbrüche mit SARS-1, 2003, und dann mit MERS 2012, 2013. Und das wird nach wie vor von Kamelen auf Menschen übertragen.",
+   "statement": "Das Coronavirus MERS wird bis heute von Kamelen auf Menschen übertragen.",
+   "question": "Von welchen Tieren wird das Coronavirus MERS bis heute auf Menschen übertragen?",
+   "answer": "Von Kamelen",
+   "distractors": [
+    "Von Hausschweinen",
+    "Von Hühnern",
+    "Von Hunden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Deshalb waren Virolog:innen alarmiert, als im Jänner 2020 von einem neuen Beta-Coronavirus die Rede war. SARS-1 im Jahr 2003 und MERS ab 2012 hatten gezeigt, wie gefährlich diese Familie ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "MERS",
+    "Kamele",
+    "Zoonose"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 821,
+   "speaker": "Florian Krammer",
+   "quote": "Aber Coronaviren sind ja etwas Spezielles. Die haben einen Korrekturlesemechanismus. Das heißt, die bessern eigentlich Fehler aus, wenn sie das Genom kopieren.",
+   "quote_clean": "Aber Coronaviren sind etwas Spezielles. Die haben einen Korrekturlesemechanismus. Das heißt, die bessern Fehler aus, wenn sie das Genom kopieren.",
+   "statement": "Coronaviren haben, anders als etwa Influenzaviren, einen Korrekturlesemechanismus, der Kopierfehler im Genom ausbessert.",
+   "question": "Was unterscheidet Coronaviren von vielen anderen RNA-Viren wie der Grippe?",
+   "answer": "Sie korrigieren Kopierfehler im Genom",
+   "distractors": [
+    "Sie haben gar kein Genom",
+    "Sie bestehen aus DNA statt RNA",
+    "Sie vermehren sich nur in Tieren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Deshalb hat Florian nicht erwartet, dass so schnell so viele Varianten auftauchen. Die Haupthypothese: Sie entstehen in Menschen, die monatelang infiziert sind.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Coronavirus",
+    "Mutation",
+    "Genom"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 838,
+   "speaker": "Florian Krammer",
+   "quote": "aber das ist jetzt die Haupthypothese, dass diese Varianten in Leuten entstehen, die persistente Infektionen haben, die vier, fünf, sechs Monate infiziert sind, wo es das Immunsystem Druck aufbaut. Die Viren aber nicht verschwinden.",
+   "quote_clean": "Die Haupthypothese ist jetzt, dass diese Varianten in Leuten entstehen, die persistente Infektionen haben, die vier, fünf, sechs Monate infiziert sind, wo das Immunsystem Druck aufbaut, die Viren aber nicht verschwinden.",
+   "statement": "Neue Corona-Varianten entstehen nach der Haupthypothese in Menschen mit monatelangen Infektionen, in denen das Immunsystem Druck aufbaut, das Virus aber nicht verschwindet.",
+   "question": "Wo entstehen neue Corona-Varianten nach der wichtigsten Hypothese?",
+   "answer": "In monatelang infizierten Menschen",
+   "distractors": [
+    "In Fledermäusen in Höhlen",
+    "In Abwasserkanälen",
+    "In frisch Geimpften"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Körper eines chronisch Infizierten hat das Virus Zeit, unter Druck des Immunsystems viele Mutationen anzusammeln, es kann sogar zur Rekombination kommen. Für Florian eine der spannendsten neuen Erkenntnisse.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Varianten",
+    "Immunsystem"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4163,
+   "speaker": "Florian Krammer",
+   "quote": "Naja, das heißt Krone. Und im Prinzip, wenn man diese Corona wie in einem Elektronenmikroskop anschaut, schaut das im Prinzip aus, wie wenn man von oben auf eine Krone schauen würde.",
+   "quote_clean": "Das heißt Krone. Wenn man diese Coronaviren im Elektronenmikroskop anschaut, schaut das aus, wie wenn man von oben auf eine Krone schauen würde.",
+   "statement": "Corona bedeutet Krone: Unter dem Elektronenmikroskop sieht das Virus mit seinen abstehenden Spikes aus wie eine Krone von oben.",
+   "question": "Woher hat das Coronavirus seinen Namen?",
+   "answer": "Es sieht aus wie eine Krone",
+   "distractors": [
+    "Vom Ort des ersten Ausbruchs",
+    "Vom Namen seines Entdeckers",
+    "Von der Corona der Sonne"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Zacken der Krone sind die Spike-Proteine, die rundherum rausstehen. Genau die nehmen auch die Impfstoffe ins Visier.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Coronavirus",
+    "Name"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 645,
+   "speaker": "Florian Krammer",
+   "quote": "Und was jetzt passiert ist, wir haben mehr Menschen. Das heißt, wir brauchen mehr Tierhaltung. Das heißt, das Interface, die Reibungsfläche zwischen Menschen und Tieren wird größer. Und die Viren kommen ja alle von Tieren.",
+   "quote_clean": "Was jetzt passiert ist: Wir haben mehr Menschen. Das heißt, wir brauchen mehr Tierhaltung. Das heißt, die Reibungsfläche zwischen Menschen und Tieren wird größer. Und die Viren kommen alle von Tieren.",
+   "statement": "Mehr Menschen bedeuten mehr Tierhaltung und mehr zerstörte Lebensräume – dadurch wächst die Reibungsfläche zwischen Mensch und Tier und damit das Pandemierisiko.",
+   "question": "Warum steigt laut Florian Krammer das Risiko für neue Pandemien?",
+   "answer": "Mehr Kontakt zwischen Menschen und Tieren",
+   "distractors": [
+    "Weil Viren immer tödlicher werden",
+    "Weil weniger geimpft wird",
+    "Weil Labore mehr experimentieren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Virus in Affen tief im brasilianischen Dschungel ist harmlos, solange niemand hinkommt. Wird gerodet, kommt man in Berührung und das Virus kann springen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Zoonose",
+    "Pandemierisiko"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 705,
+   "speaker": "Florian Krammer",
+   "quote": "Wir sehen jetzt im Sommer zum Beispiel, dass man in Frankreich sich mit Dengue anstecken kann. Das war früher nicht der Fall.",
+   "quote_clean": "Wir sehen jetzt im Sommer zum Beispiel, dass man sich in Frankreich mit Dengue anstecken kann. Das war früher nicht der Fall.",
+   "statement": "Durch die Klimaerwärmung kann man sich im Sommer inzwischen auch in Frankreich mit Dengue-Fieber anstecken.",
+   "question": "In welchem europäischen Land kann man sich im Sommer inzwischen mit Dengue anstecken, was früher nicht möglich war?",
+   "answer": "Frankreich",
+   "distractors": [
+    "Norwegen",
+    "Irland",
+    "Polen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Mücken und Zecken, die Viren übertragen, mögen es warm und wandern mit der Klimaerwärmung nach Norden. Über den Winter verschwindet das noch, aber laut Florian wird das normal werden.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Dengue",
+    "Klimawandel",
+    "Mücken"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 367,
+   "speaker": "Florian Krammer",
+   "quote": "Virologe an der Fudan University in Shanghai hat das sequenziert und ist aber nicht dem Amtsweg nachgegangen, sondern hat einem Kollegen in Australien die Sequenz geschickt und hat gesagt, du stell das online.",
+   "quote_clean": "Ein Virologe an der Fudan University in Shanghai hat das sequenziert, ist aber nicht den Amtsweg gegangen, sondern hat einem Kollegen in Australien die Sequenz geschickt und gesagt: Stell du das online.",
+   "statement": "Die Gensequenz des neuen Coronavirus wurde im Jänner 2020 von einem Kollegen in Australien veröffentlicht, nachdem ein Virologe aus Shanghai sie am Amtsweg vorbei an ihn geschickt hatte.",
+   "question": "Wie wurde die Gensequenz von SARS-CoV-2 im Jänner 2020 öffentlich?",
+   "answer": "Über einen Kollegen in Australien",
+   "distractors": [
+    "Über eine WHO-Pressekonferenz",
+    "Über das chinesische Gesundheitsministerium",
+    "Über ein US-Militärlabor"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Kollege hat sie einfach online gestellt, und Forschende weltweit haben sie heruntergeladen. Man sah sofort: ganz nah mit SARS-1 verwandt. Das war Florians erstes großes Uff.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Sequenz",
+    "Wissenschaft",
+    "Pandemiebeginn"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1892,
+   "speaker": "Florian Krammer",
+   "quote": "Und die Wahrheit ist, dass Mutter Natur eigentlich der größte Bioterrorist ist.",
+   "quote_clean": "Und die Wahrheit ist, dass Mutter Natur eigentlich der größte Bioterrorist ist.",
+   "statement": "Die größte Gefahr für gefährliche neue Viren geht nicht von Laboren aus, sondern von der Natur selbst.",
+   "question": "Wen bezeichnet Florian Krammer als den größten Bioterroristen?",
+   "answer": "Mutter Natur",
+   "distractors": [
+    "Schlecht gesicherte Labore",
+    "Terrorgruppen",
+    "Geheimdienste"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Was gerade an Vogelgrippe H5 in Vögeln und Säugetieren unterwegs ist, nennt Florian einen Wahnsinn. Die Lab-Leak-Theorie hält er dagegen für extrem unwahrscheinlich.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Natur",
+    "Viren",
+    "Bioterror"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2519,
+   "speaker": "Florian Krammer",
+   "quote": "Und was ganz wichtig ist, ist wirklich ein Lüftungssystem mit Luftumwälzung. Also wenn man ein richtig gutes Belüftungssystem hat, dann geht die Rate von Infektionen runter. Wenn die Luft in einem Raum steht, geht die Rate von Infektionen rauf.",
+   "quote_clean": "Und was ganz wichtig ist, ist ein Lüftungssystem mit Luftumwälzung. Wenn man ein richtig gutes Belüftungssystem hat, geht die Rate von Infektionen runter. Wenn die Luft in einem Raum steht, geht sie rauf.",
+   "statement": "Gute Belüftungssysteme senken die Ansteckungsrate bei Atemwegsinfektionen – unabhängig davon, um welches Virus es sich handelt.",
+   "question": "Welche unspezifische Maßnahme gegen Atemwegsviren sollte man laut Florian Krammer beim Bauen gleich mitplanen?",
+   "answer": "Gute Lüftung mit Luftumwälzung",
+   "distractors": [
+    "UV-Lampen in jedem Raum",
+    "Desinfektionsmittelspender",
+    "Höhere Raumtemperaturen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Schöne daran: Lüftung ist dem Virus egal, sie hilft gegen Grippe, Corona oder Nipah gleichermaßen. Wer neu baut oder umbaut, könnte das einfach gleich einplanen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Lüftung",
+    "Prävention"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2735,
+   "speaker": "Florian Krammer",
+   "quote": "Viren, die durch Körperkontakt und Körperflüssigkeiten übertragen werden, können total problematisch sein. Ebola ist so ein Beispiel. HIV mit Körperflüssigkeiten, grausig, aber leicht aufzuhalten in Wahrheit.",
+   "quote_clean": "Viren, die durch Körperkontakt und Körperflüssigkeiten übertragen werden, können total problematisch sein. Ebola ist so ein Beispiel. HIV mit Körperflüssigkeiten: grausig, aber in Wahrheit leicht aufzuhalten.",
+   "statement": "Viren, die über Körperflüssigkeiten übertragen werden, wie Ebola, lassen sich vergleichsweise leicht eindämmen – die größte Pandemiegefahr geht von Atemwegsviren aus.",
+   "question": "Welche Art von Viren bereitet Virolog:innen bei der Pandemievorsorge die größten Sorgen?",
+   "answer": "Atemwegsviren",
+   "distractors": [
+    "Viren in Körperflüssigkeiten",
+    "Von Mücken übertragene Viren",
+    "Viren in Lebensmitteln"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Deshalb ist Ebola trotz hoher Sterblichkeit keine Pandemie, Ausbrüche lassen sich sogar ohne Impfstoff stoppen. Vor Insekten kann man sich schützen, vor der Luft, die man atmet, kaum.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ebola",
+    "Atemwegsviren",
+    "Übertragung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2916,
+   "speaker": "Florian Krammer",
+   "quote": "Und es ist extrem wahrscheinlich, dass man ein nahverwandtes Virus schon hat, für das man Impfstoff hergestellt hat. Dann wechselt man die Sequenz aus. Und bei RNA-Impfstoffen geht das sehr schnell.",
+   "quote_clean": "Und es ist extrem wahrscheinlich, dass man für ein nahverwandtes Virus schon einen Impfstoff hergestellt hat. Dann wechselt man die Sequenz aus. Und bei RNA-Impfstoffen geht das sehr schnell.",
+   "statement": "Mit vorab entwickelten Impfstoffen für verwandte Viren müsste man bei einem Ausbruch nur die Gensequenz austauschen – bei RNA-Impfstoffen geht das sehr schnell.",
+   "question": "Wie könnte man bei einer neuen Pandemie in rund 100 Tagen einen Impfstoff haben?",
+   "answer": "Sequenz eines vorbereiteten Impfstoffs austauschen",
+   "distractors": [
+    "Alle Studienphasen überspringen",
+    "Alte Pockenimpfstoffe verwenden",
+    "Antikörper von Tieren spritzen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Man kann dann direkt in Phase 3 gehen und anhand der Immunantwort zulassen. Klingt komisch, macht man bei Grippeimpfstoffen aber jedes Jahr so.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Impfstoff",
+    "mRNA",
+    "Pandemievorsorge"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1845,
+   "speaker": "Florian Krammer",
+   "quote": "Und die haben das dann im Prinzip, die haben gefunden, dass okay, das kann mutieren, dann springt es, das braucht ein paar Mutationen, dann ist es übertragbar, aber löst eigentlich nur mehr leichte Erkrankungen aus.",
+   "quote_clean": "Und die haben gefunden: Das kann mutieren, dann springt es. Das braucht ein paar Mutationen, dann ist es übertragbar, löst aber nur mehr leichte Erkrankungen aus.",
+   "statement": "In Experimenten um 2011 wurde das Vogelgrippevirus H5N1 durch wenige Mutationen zwischen Frettchen übertragbar, löste dann aber nur noch leichte Erkrankungen aus.",
+   "question": "Was passierte, als Forschende das Vogelgrippevirus H5N1 in Frettchen übertragbar machten?",
+   "answer": "Es machte nur mehr leicht krank",
+   "distractors": [
+    "Es wurde noch tödlicher",
+    "Es sprang sofort auf Menschen",
+    "Es starb nach Tagen aus"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer an einem natürlichen System herumbastelt, handicapt es meistens irgendwo. Ein Virus gleichzeitig tödlicher und ansteckender zu machen, ist deshalb viel Trial and Error.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "H5N1",
+    "Vogelgrippe",
+    "Forschung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3129,
+   "speaker": "Florian Krammer",
+   "quote": "Das ist ja ursprünglich, was Biontech gemacht hat, die waren ja an Krebs-Impfstoffen interessiert.",
+   "quote_clean": "Das ist ursprünglich, was Biontech gemacht hat, die waren an Krebsimpfstoffen interessiert.",
+   "statement": "Biontech hat sich ursprünglich mit Krebsimpfstoffen beschäftigt, bevor das Unternehmen den Corona-Impfstoff entwickelte.",
+   "question": "Woran hat Biontech ursprünglich geforscht, bevor die Firma mit dem Corona-Impfstoff berühmt wurde?",
+   "answer": "An Krebsimpfstoffen",
+   "distractors": [
+    "An Grippeimpfstoffen",
+    "An Antibiotika",
+    "An Malariamedikamenten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei mRNA-Impfstoffen ist der Produktionsprozess immer gleich, egal ob gegen ein Virus oder gegen Krebs. Dieselben Fabriken lassen sich also für alles Mögliche nutzen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Biontech",
+    "mRNA",
+    "Krebs"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 4154,
+   "speaker": "Florian Krammer",
+   "quote": "Also ich glaube, weniger Infektionen ist eigentlich immer eine gute Sache.",
+   "quote_clean": "Ich glaube, weniger Infektionen ist eigentlich immer eine gute Sache.",
+   "statement": "Die These einer schädlichen Immunschuld weist Florian Krammer zurück: Weniger Infektionen sind immer gut.",
+   "question": "Was sagt Florian Krammer zur Sorge, dass Masken unser Immunsystem verkümmern lassen?",
+   "answer": "Weniger Infektionen sind immer gut",
+   "distractors": [
+    "Kinder brauchen viele Infekte",
+    "Masken schwächen das Immunsystem",
+    "Man sollte Infekte bewusst nachholen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ja, nach Jahren mit Masken kommen stärkere Infektsaisonen, weil man nachholt. Aber Entzündungen sind selten gut für den Körper, manche Herz-Kreislauf- oder degenerative Erkrankungen könnten mit Virusinfektionen zusammenhängen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Immunschuld",
+    "Masken"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 296,
+   "speaker": "Andreas Sator",
+   "quote": "Wann war bei dir der Zeitpunkt, wo du zum ersten Mal dir gedacht hast, uff?",
+   "quote_clean": "Wann war bei dir der Zeitpunkt, wo du dir zum ersten Mal gedacht hast: Uff?",
+   "statement": "Andreas steigt in das Gespräch mit der Frage ein, wann Florian Krammer zum ersten Mal sein Uff-Moment zur Pandemie hatte.",
+   "question": "Mit welcher Frage steigt Andreas in das Live-Gespräch mit Florian Krammer ein?",
+   "answer": "Wann hattest du deinen Uff-Moment?",
+   "distractors": [
+    "Wie funktioniert die Impfung?",
+    "Woher kommt das Virus?",
+    "Wann ist die Pandemie vorbei?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Florians Antwort: am 10. Jänner 2020, als die Gensequenz online ging und man sah, wie nah das Virus mit SARS-1 verwandt ist. Danach hat er sich N95-Masken gekauft, eine Woche später waren die ausverkauft.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Einstieg"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 3737,
+   "speaker": "Florian Krammer",
+   "quote": "Meine Frau hat gesagt, nach Frankreich geht sie nicht und nach Wisconsin auch nicht. Damit war die Geschichte gegessen.",
+   "quote_clean": "Meine Frau hat gesagt, nach Frankreich geht sie nicht und nach Wisconsin auch nicht. Damit war die Geschichte gegessen.",
+   "statement": "Florian Krammer landete in New York, weil seine Frau die anderen Angebote in Frankreich und Wisconsin ablehnte.",
+   "question": "Warum ist Florian Krammer als Virologe in New York gelandet und nicht in Frankreich oder Wisconsin?",
+   "answer": "Seine Frau wollte nicht anderswohin",
+   "distractors": [
+    "New York zahlte am besten",
+    "Er bekam nur dieses Angebot",
+    "Sein Doktorvater schickte ihn hin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Er hatte sich bei den acht besten Influenza-Labors der Welt beworben und drei Angebote bekommen. Andreas' Fazit: Man braucht einen Partner, der gute Ratschläge gibt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Karriere",
+    "New York"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1414,
+   "speaker": "Florian Krammer",
+   "quote": "Und ein anderes Mal habe ich irgendeinen erwischt aus Fadelberg. Der hat Patente auf UFO-Antriebe. Mit dem habe ich eigentlich eine interessante Diskussion.",
+   "quote_clean": "Und ein anderes Mal habe ich einen aus Vorarlberg erwischt. Der hat Patente auf UFO-Antriebe. Mit dem hatte ich eigentlich eine interessante Diskussion.",
+   "statement": "Auf eine böse Zuschrift antwortete Florian Krammer einmal einem Mann aus Vorarlberg, der Patente auf UFO-Antriebe hielt, und hatte mit ihm eine interessante Diskussion.",
+   "question": "Welche Patente hatte ein Mann aus Vorarlberg, mit dem Florian Krammer nach einer bösen Mail diskutierte?",
+   "answer": "Patente auf UFO-Antriebe",
+   "distractors": [
+    "Patente auf Impfstoffe",
+    "Patente auf Luftfilter",
+    "Patente auf Perpetuum mobile"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Böse Mails hat Florian vor allem aus Österreich bekommen, meist nach Auftritten in der ZiB. Manchmal hat er freundlich zurückgeschrieben, und dann kam oft auch was Freundliches zurück.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Anfeindungen",
+    "Kurioses"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "s20221201",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

@@ -1,0 +1,278 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt, Stockholm und Schulstreik passen.",
+   "stand_note": "",
+   "statement": "Fridays for Future geht auf Greta Thunberg zurück, die als Schülerin vor dem schwedischen Parlament in Stockholm die Schule bestreikt hat.",
+   "question": "Wo hat Greta Thunberg ihren ersten Schulstreik fürs Klima abgehalten?",
+   "answer": "Vor dem Parlament in Stockholm",
+   "distractors": [
+    "Vor der UNO in New York",
+    "Vor dem EU-Parlament in Brüssel",
+    "Vor ihrer Schule in Göteborg"
+   ],
+   "aha": "Greta hat sich mit einem Schild einfach vors schwedische Parlament gesetzt, statt in die Schule zu gehen. Aus diesem einen Sitzstreik wurde innerhalb weniger Monate eine weltweite Bewegung, auch am Wiener Heldenplatz.",
+   "quote_clean": "Fridays for Future ist eine Jugendprotestbewegung, die durch Greta Thunberg ausgelöst worden ist, eine schwedische Schülerin, die Anfang dieses Schuljahres vor ihrem Parlament in Stockholm die Schule bestreikt hat.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Katowice im Transkript belegt, Kontext passt.",
+   "stand_note": "",
+   "statement": "Greta Thunberg wurde spätestens mit ihrer Rede auf der Klimakonferenz im polnischen Katowice weltberühmt.",
+   "question": "Auf welcher Klimakonferenz hielt Greta Thunberg die Rede, die sie weltberühmt machte?",
+   "answer": "Katowice",
+   "distractors": [
+    "Paris",
+    "Madrid",
+    "Glasgow"
+   ],
+   "aha": "Ende 2018 tagte die UN-Klimakonferenz ausgerechnet in Katowice, mitten im polnischen Kohlerevier. Dort hat Greta den Delegierten ziemlich ungeschminkt die Meinung gesagt, und plötzlich kannte sie die halbe Welt.",
+   "quote_clean": "Spätestens bei ihrer großen Rede auf der Klimakonferenz in Katowice ist sie zur Weltberühmtheit geworden.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "1,5 Grad belegt, Transkriptionsfehler 'Berichter' klar als Pariser lesbar.",
+   "stand_note": "",
+   "statement": "Im Pariser Klimaabkommen ist das Ziel festgelegt, die globale Erwärmung auf 1,5 Grad gegenüber der vorindustriellen Zeit zu begrenzen.",
+   "question": "Auf wie viel Grad Erwärmung gegenüber der vorindustriellen Zeit soll das Pariser Klimaabkommen die Erderhitzung möglichst begrenzen?",
+   "answer": "1,5 Grad",
+   "distractors": [
+    "1 Grad",
+    "2,5 Grad",
+    "3 Grad"
+   ],
+   "aha": "Das Pariser Abkommen nennt „deutlich unter 2 Grad“, besser 1,5 Grad. Genau diese 1,5 sind die Hauptforderung von Fridays for Future: Die Politik soll sich an das halten, was sie selbst unterschrieben hat.",
+   "quote_clean": "Zum Beispiel das Pariser Klimaabkommen, wo festgelegt ist, dass wir die globale Erwärmung bei 1,5 Grad in Bezug zur vorindustriellen Zeit lassen.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt; Regelung (Klassenvorstand bis ein Tag) entspricht dem Gesetz.",
+   "stand_note": "",
+   "statement": "In Österreich dürfen Lehrerinnen und Lehrer Schüler:innen laut Gesetz für bis zu einen Tag freigeben.",
+   "question": "Für wie viele Tage dürfen Lehrer:innen in Österreich Schüler:innen gesetzlich freigeben, etwa für einen Klimastreik?",
+   "answer": "1 Tag",
+   "distractors": [
+    "2 Tage",
+    "3 Tage",
+    "5 Tage"
+   ],
+   "aha": "Ein Tag geht über die Lehrkraft, für mehr braucht es die Direktion. Deshalb hing es beim Klimastreik stark davon ab, wer gerade unterrichtet und was die Person von Greta hält.",
+   "quote_clean": "Es gibt Lehrerinnen und Lehrer, die uns total unterstützen und uns teilweise auch freigeben, weil sie das gesetzlich für bis zu einen Tag können.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Zahl belegt, als Aussage von 2019 gerahmt; Aha-Herkunft vorsichtiger formuliert.",
+   "stand_note": "Stand 2019",
+   "statement": "2019 hieß es in der Klimabewegung, für das 1,5-Grad-Ziel blieben noch rund elf Jahre zum Handeln.",
+   "question": "Wie viele Jahre blieben laut Fridays for Future im Jahr 2019 noch, um das 1,5-Grad-Ziel zu erreichen?",
+   "answer": "11 Jahre",
+   "distractors": [
+    "5 Jahre",
+    "25 Jahre",
+    "40 Jahre"
+   ],
+   "aha": "Die Zahl geht auf den Weltklimabericht von 2018 zurück: Bis 2030 müssten die Emissionen stark sinken, damit das 1,5-Grad-Ziel möglich bleibt. Für einen 14-Jährigen sind elf Jahre ungefähr bis zum Ende des Studiums, also eh gleich.",
+   "quote_clean": "Um dieses Klimaziel zu erreichen, haben wir noch elf Jahre übrig.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Zweitzitat eines Teenagers über Wissenschaftler, als 'größter Hebel' faktisch zu pauschal und im Transkript zerhackt.",
+   "stand_note": "",
+   "statement": "Laut den Scientists for Future ist Nicht-Fliegen der größte Hebel, mit dem man persönlich Emissionen vermeiden kann.",
+   "question": "Was ist laut den Scientists for Future der größte persönliche Hebel gegen die eigenen Emissionen?",
+   "answer": "Nicht mehr fliegen",
+   "distractors": [
+    "Müll trennen",
+    "Kein Plastiksackerl mehr",
+    "Öfter das Licht abdrehen"
+   ],
+   "aha": "Ein einziger Fernflug kann mehr CO2 verursachen als ein ganzes Jahr sorgfältiges Mülltrennen. Mati hat daraus Konsequenzen gezogen: Sprachreise nach Irland ja, dafür im Sommer kaum oder gar nicht fliegen.",
+   "quote_clean": "Und die haben auch gemeint, dass der größte Teil der Emissionen, den man persönlich beeinflussen kann, das Fliegen ist.",
+   "quality": 2
+  },
+  {
+   "i": 11,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Antwort ('Vorschriften') passt nicht zum Zitat, Vergleich verworren, Distraktoren albern.",
+   "stand_note": "",
+   "statement": "Den Klimaschutz nur dem Einzelnen umzuhängen, ist laut Mati so, als würde Europa Indien sagen, es solle sich halt anders entwickeln, ohne ihm Möglichkeiten dafür zu geben.",
+   "question": "Mit welchem Vergleich erklärt Mati, warum Klimaschutz nicht nur Privatsache sein kann?",
+   "answer": "Europa, das Indien Vorschriften macht",
+   "distractors": [
+    "Ein Arzt, der selbst raucht",
+    "Ein Feuerwehrmann ohne Wasser",
+    "Ein Lehrer ohne Schulbuch"
+   ],
+   "aha": "Man kann von Einzelnen nicht verlangen, klimafreundlich zu leben, wenn es keine guten Öffis, Radwege oder leistbaren Alternativen gibt. Diese Möglichkeiten muss die Politik schaffen, genauso wie reiche Länder ärmeren helfen müssten.",
+   "quote_clean": "Es ist so, wie wenn Europa zu Indien, das sich gerade entwickelt, sagt: Dann macht ihr es halt anders. Da muss man die Möglichkeiten dazu schaffen.",
+   "quality": 1
+  },
+  {
+   "i": 12,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beiläufige, zugespitzte Aussage als Fakt formuliert, kaum Spielwert.",
+   "stand_note": "",
+   "statement": "Das Klima wird sich irgendwann von selbst wieder erholen; die eigentliche Frage ist, ob es die Menschen dann noch gibt.",
+   "question": "Was meint Mati, wenn er sagt, das Klima werde sich irgendwann selbst retten?",
+   "answer": "Die Erde erholt sich, vielleicht ohne Menschen",
+   "distractors": [
+    "Die Technik wird das Problem lösen",
+    "Der Klimawandel ist übertrieben",
+    "Die Natur passt sich problemlos an"
+   ],
+   "aha": "Der Planet hat schon viele Klimaumbrüche überstanden, nur halt über Jahrtausende. Gerettet werden muss also eigentlich nicht die Erde, sondern die Welt, in der wir Menschen gut leben können.",
+   "quote_clean": "Es ist zu retten. Die Frage ist, ob es von den Menschen zu retten ist oder ob wir es nicht mehr retten können, weil irgendwann wird es sich schon wieder selbst retten, nur gibt es uns da vielleicht nicht mehr.",
+   "quality": 2
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "'wahrscheinlich' entfallen, Zuordnung nicht eindeutig, Distraktoren unpassend.",
+   "stand_note": "",
+   "statement": "Die heutige Jugend sei die letzte Generation, die noch etwas tun kann, und die erste, die ihr ganzes Leben die Folgen der Klimakrise spürt.",
+   "question": "Wer hat's gesagt: „Wir sind die letzte Generation, die was tun kann, und die erste, die die Auswirkungen ihr ganzes Leben spüren wird“?",
+   "answer": "Mati Randow",
+   "distractors": [
+    "Greta Thunberg",
+    "Ottmar Edenhofer",
+    "Werner Kogler"
+   ],
+   "aha": "Mit diesem Satz versucht Mati auch, Mitschüler:innen auf den Heldenplatz zu holen. Er bringt auf den Punkt, warum gerade die Jungen so ungeduldig sind.",
+   "quote_clean": "Wir sind wahrscheinlich die letzte Generation, die etwas tun kann, aber auch die erste, die ihr ganzes Leben lang die Auswirkungen spüren wird.",
+   "quality": 2
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitat belegt; Distraktoren waren echte Klimabewegungs-Slogans, ersetzt.",
+   "stand_note": "",
+   "statement": "Das Motto von Fridays for Future lautet: Wir streiken, bis ihr handelt.",
+   "question": "Wie lautet laut Mati der Leitspruch von Fridays for Future?",
+   "answer": "Wir streiken, bis ihr handelt",
+   "distractors": [
+    "Wir bleiben, bis ihr zuhört",
+    "Wir lernen nicht, bis ihr lernt",
+    "Erst das Klima, dann die Pause"
+   ],
+   "aha": "Andreas wollte wissen, wann die Jugendlichen wieder ganz normal in die Schule gehen. Die Antwort ist simpel: wenn die Politik ernsthaft liefert, also wenn sich der Kurs Richtung 1,5 Grad ändert.",
+   "quote_clean": "Unser Leitspruch ist: Wir streiken, bis ihr handelt. Das ist auch unser Motto.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Meinung korrekt als 'laut Mati' gerahmt, Beleg stimmt.",
+   "stand_note": "",
+   "statement": "Mati meint, das Wirksamste, was man als Einzelner tun kann, ist, sich einer kollektiven Bewegung anzuschließen.",
+   "question": "Was ist laut Mati das Wirksamste, was man als Einzelperson fürs Klima tun kann?",
+   "answer": "Sich der Bewegung anschließen",
+   "distractors": [
+    "Vegan leben",
+    "Aufs Auto verzichten",
+    "Bäume pflanzen"
+   ],
+   "aha": "Der eigene Lebensstil zählt, sagt Mati, aber gemeinsam ist man stärker und kann die Mächtigen unter Druck setzen. Aus Einzelpersonen wird so eine Stimme, die die Politik nicht mehr überhört.",
+   "quote_clean": "Das Größte, was man individuell tun kann, also das, was meiner Meinung nach am meisten bewirkt, ist, sich diesem Kollektiv anzuschließen.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (Mati bestätigt den Witz); Zeiten können sich geändert haben.",
+   "stand_note": "Stand 2019",
+   "statement": "Der Wiener Klimastreik beginnt jeden Freitag bewusst um 5 vor 12, als Anspielung darauf, dass es beim Klima 5 vor 12 ist.",
+   "question": "Warum beginnt der Wiener Freitagsstreik ausgerechnet um 5 vor 12?",
+   "answer": "Als Anspielung: Es ist 5 vor 12",
+   "distractors": [
+    "Weil dann die Pause beginnt",
+    "Wegen der Glocke am Heldenplatz",
+    "Weil die Polizei das vorschreibt"
+   ],
+   "aha": "Früher ging der Streik von 10 bis 13 Uhr, dann wurde umgestellt, damit auch mal andere Schulstunden ausfallen. Der Wortwitz mit der Uhrzeit war ein netter Nebeneffekt, den Andreas sofort bemerkt hat.",
+   "quote_clean": "Um 5 vor 12 fängt sie an, das ist witzig, um darauf hinzuweisen: Es ist 5 vor 12.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt, harmlos, aber eher Anekdote.",
+   "stand_note": "",
+   "statement": "Eine Hörerin schrieb, sie habe in Matis Alter nur Pokémon gespielt, und eine andere fragte, warum heutige Schüler:innen so cool und aufgeklärt seien.",
+   "question": "Was hat eine Hörerin laut Andreas in Matis Alter gemacht, statt Klimastreiks zu organisieren?",
+   "answer": "Nur Pokémon gespielt",
+   "distractors": [
+    "Nur Tamagotchi gefüttert",
+    "Nur Bravo gelesen",
+    "Nur MTV geschaut"
+   ],
+   "aha": "Andreas hat vorab seine Hörer:innen gefragt, was sie Mati fragen wollen, und mehrere staunten über den 14-Jährigen. Matis Antwort: Seine Generation merkt einfach, dass sie etwas bewirken muss.",
+   "quote_clean": "Jetzt hat Amna gesagt, in deinem Alter hat sie nur Pokémon gespielt. Und Valerie hat mir geschrieben: Warum seid ihr Schülerinnen und Schüler heute so cool und aufgeklärt?",
+   "quality": 2
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Andreas' Schlussfrage: Antwort steckt in der Frage, kaum Spielwert, Aha teils unbelegt.",
+   "stand_note": "",
+   "statement": "Andreas beendet das Gespräch mit der Frage, was sich der Gast von den Hörer:innen wünscht, die ihm recht geben.",
+   "question": "Womit beendet Andreas das Gespräch mit Mati?",
+   "answer": "Was er sich von den Hörer:innen wünscht",
+   "distractors": [
+    "Was er einmal werden will",
+    "Welches Buch er empfiehlt",
+    "Was er Greta sagen würde"
+   ],
+   "aha": "Die Frage, was die Zuhörer:innen jetzt konkret tun sollen, ist ein typischer Abschluss bei Andreas. Mati wünscht sich, dass alle jeden Freitag zum Streik kommen und über ihren Lebensstil nachdenken.",
+   "quote_clean": "Meine Schlussfrage: Was erwartest oder wünschst du dir von meinen Zuhörerinnen und Zuhörern, die dir jetzt zugehört haben und denken: Ja, stimmt, der hat recht?",
+   "quality": 1
+  }
+ ],
+ "id": "51",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

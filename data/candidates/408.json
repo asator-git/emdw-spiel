@@ -1,0 +1,751 @@
+{
+ "theme": "Gesellschaft & Kultur",
+ "summary": "Was passiert eigentlich, wenn jemand 122 wählt? Feuerwehrkommandant Gerald Lindinger erzählt von Einsätzen, Ehrenamt und dem, was danach im Kopf bleibt.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 250,
+   "speaker": "Gerald Lindinger",
+   "quote": "Genau, also in Oberösterreich ist es so, dass wir drei ständig besetzte Einsatzzentralen haben. Also in Linz gibt es zwei und in Wels.",
+   "quote_clean": "In Oberösterreich ist es so, dass wir drei ständig besetzte Einsatzzentralen haben. In Linz gibt es zwei und eine in Wels.",
+   "statement": "In Oberösterreich gibt es drei rund um die Uhr besetzte Feuerwehr-Einsatzzentralen, zwei in Linz und eine in Wels.",
+   "question": "Wie viele ständig besetzte Feuerwehr-Einsatzzentralen gibt es in Oberösterreich?",
+   "answer": "3",
+   "distractors": [
+    "1",
+    "9",
+    "15"
+   ],
+   "number_value": 3,
+   "number_unit": "Einsatzzentralen",
+   "slider_min": 1,
+   "slider_max": 20,
+   "log_scale": false,
+   "aha": "Ein ganzes Bundesland, und trotzdem landen alle Feuerwehr-Notrufe bei nur drei Zentralen: zweimal Linz, einmal Wels. Dort sitzt rund um die Uhr wer, nimmt den Anruf entgegen und schaut am Rechner, welche Feuerwehr zuständig ist.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Notruf",
+    "Oberösterreich",
+    "Feuerwehr"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 244,
+   "speaker": "Andreas Sator",
+   "quote": "Lieber Gerald, fangen wir mal an. Es ruft jemand 122, es brennt. Was passiert dann?",
+   "quote_clean": "Lieber Gerald, fangen wir mal an. Es ruft jemand 122 an, es brennt. Was passiert dann?",
+   "statement": "Die Notrufnummer der Feuerwehr in Österreich ist 122.",
+   "question": "Welche Nummer wählst du in Österreich, um die Feuerwehr zu rufen?",
+   "answer": "122",
+   "distractors": [
+    "133",
+    "144",
+    "141"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "122 ist die Feuerwehr, 133 die Polizei, 144 die Rettung. Und wenn du in der Panik die falsche Nummer erwischst, ist das laut Gerald kein Drama: Die Zentralen verbinden über Standleitungen schnell weiter.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Notruf",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 276,
+   "speaker": "Gerald Lindinger",
+   "quote": "Ja, die Kinder lernen das in der Schule auch schon, diese vier W-Fragen. Wo, wer, was und wie viel.",
+   "quote_clean": "Die Kinder lernen das in der Schule auch schon, diese vier W-Fragen: Wo, wer, was und wie viel.",
+   "statement": "Bei einem Notruf sollen vier W-Fragen beantwortet werden: Wo, wer, was und wie viel.",
+   "question": "Welche vier W-Fragen sollte man bei einem Notruf beantworten?",
+   "answer": "Wo, wer, was, wie viel",
+   "distractors": [
+    "Wann, wie, warum, wer",
+    "Wo, wann, wieso, womit",
+    "Wer, wem, wessen, wen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wo ist es passiert, wer ruft an, was ist los und wie viele sind betroffen. Mit diesen vier Antworten kann die Zentrale schon die richtigen Kräfte losschicken, alles andere fragt sie eh nach.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Notruf",
+    "Erste Hilfe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 581,
+   "speaker": "Andreas Sator",
+   "quote": "Weil die Freiwahl in Österreich ist ja großteils freiwillig organisiert. Das heißt, die Menschen, die da kommen, machen ja sonst noch was anderes.",
+   "quote_clean": "Die Feuerwehr in Österreich ist ja großteils freiwillig organisiert. Das heißt, die Menschen, die da kommen, machen ja sonst noch etwas anderes.",
+   "statement": "Die Feuerwehr in Österreich ist großteils ehrenamtlich organisiert – die meisten Feuerwehrleute haben einen anderen Hauptberuf.",
+   "question": "Wie ist die Feuerwehr in Österreich großteils organisiert?",
+   "answer": "Ehrenamtlich, als Freiwillige Feuerwehr",
+   "distractors": [
+    "Als Teil des Bundesheeres",
+    "Als Berufsfeuerwehr der Länder",
+    "Als private Sicherheitsfirmen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer in Österreich ausrückt, sitzt sonst im Büro, auf dem Traktor oder schläft gerade. Oft sind Landwirte und Selbstständige als Erste im Feuerwehrhaus, weil sie flexibler sind, und Betriebe lassen ihre Leute für Einsätze gehen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Ehrenamt",
+    "Feuerwehr",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 528,
+   "speaker": "Gerald Lindinger",
+   "quote": "Bei Großschadensereignissen ist es halt so, dass die App manchmal nicht funktioniert oder zeitverzögert funktioniert. Das ist halt so. Das ist kein Mittel, auf das wir uns hundertprozentig verlassen. Darum ist es eben wichtig, dass wir den Pager haben, weil der so weit eigentlich immer geht.",
+   "quote_clean": "Bei Großschadensereignissen ist es so, dass die App manchmal nicht oder zeitverzögert funktioniert. Das ist kein Mittel, auf das wir uns hundertprozentig verlassen. Darum ist es wichtig, dass wir den Pager haben, weil der eigentlich immer geht.",
+   "statement": "Feuerwehren alarmieren trotz Smartphone-Apps weiterhin per Sirene und Pager, weil Apps bei Großschadensereignissen überlastet sein können.",
+   "question": "Warum tragen Feuerwehrleute trotz Alarmierungs-App noch einen Pager?",
+   "answer": "Weil Apps bei Großeinsätzen ausfallen können",
+   "distractors": [
+    "Weil Pager billiger als Handys sind",
+    "Weil Handys im Einsatz verboten sind",
+    "Weil der Pager auch den Einsatzort navigiert"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die App ist praktisch: Der Einsatzleiter sieht sofort, wer kommt und wer nicht. Aber wenn eine Sturmfront über Bayern hereinzieht und 40, 50, 60 Feuerwehren gleichzeitig alarmiert werden, mockt die Technik. Sirene und Pager müssen dagegen immer funktionieren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Alarmierung",
+    "Technik",
+    "Feuerwehr"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2548,
+   "speaker": "Gerald Lindinger",
+   "quote": "dann löse ich bei der Anfahrt, schaue die Alarmstufe 2 aus und dann kommen halt 8, 10 Feuerwehren oder auch die Alarmstufe 3, je nachdem dazu.",
+   "quote_clean": "Dann löse ich bei der Anfahrt die Alarmstufe 2 aus, und dann kommen halt 8, 10 Feuerwehren, oder je nachdem auch die Alarmstufe 3 dazu.",
+   "statement": "Bei einem großen Brand kann der Einsatzleiter schon bei der Anfahrt Alarmstufe 2 auslösen, wodurch etwa 8 bis 10 weitere Feuerwehren alarmiert werden.",
+   "question": "Was passiert, wenn ein Einsatzleiter bei einem Großbrand Alarmstufe 2 auslöst?",
+   "answer": "Etwa 8 bis 10 Feuerwehren kommen dazu",
+   "distractors": [
+    "Das Bundesheer wird alarmiert",
+    "Die Nachbarorte werden evakuiert",
+    "Ein Löschhubschrauber startet sofort"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn Gerald schon von weitem die Rauchsäule über einem Bauernhof sieht, weiß er: Allein geht das nicht. Darum wird oft schon im Auto die nächste Alarmstufe ausgelöst, und dann rücken gleich acht, zehn Feuerwehren an.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Alarmstufen",
+    "Brand",
+    "Feuerwehr"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2569,
+   "speaker": "Gerald Lindinger",
+   "quote": "wie viele Strahlrohre brauche ich für ein gewisses Brandszenario und damit ich diese Strahlrohre bedienen kann, brauche ich wie viele Tankwegen und damit ich die Tankwegen bedienen kann, brauche ich wie viele Pumpenfahrzeuge, dass ich das Wasser auch zu den Tankwegen bringe.",
+   "quote_clean": "Wie viele Strahlrohre brauche ich für ein gewisses Brandszenario? Und damit ich diese Strahlrohre bedienen kann, wie viele Tankwagen brauche ich? Und damit ich die Tankwagen bedienen kann, wie viele Pumpenfahrzeuge brauche ich, damit ich das Wasser auch zu den Tankwagen bringe?",
+   "statement": "Feuerwehr-Alarmpläne werden rückwärts vom Strahlrohr berechnet: Wie viele Strahlrohre braucht ein Brand, wie viele Tankwagen speisen sie, wie viele Pumpen bringen das Wasser zu den Tankwagen.",
+   "question": "Wovon geht die Berechnung eines Feuerwehr-Alarmplans aus?",
+   "answer": "Von der Zahl der nötigen Strahlrohre",
+   "distractors": [
+    "Von der Einwohnerzahl der Gemeinde",
+    "Von der Fläche des Gebäudes",
+    "Von der Zahl verfügbarer Feuerwehrleute"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das ist eine Kette: Strahlrohre brauchen Tankwagen, Tankwagen brauchen Pumpenfahrzeuge, die das Wasser heranschaffen. Jede Gemeinde macht sich ihren Alarmplan selbst, je nach eigenen Fahrzeugen und Hydrantennetz.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Alarmplan",
+    "Löschwasser",
+    "Logistik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2485,
+   "speaker": "Gerald Lindinger",
+   "quote": "Am Beifahrer sitzt immer der Fahrzeugkommandant, das heißt, da muss immer einer sitzen, der eben die Ausbildung hat",
+   "quote_clean": "Am Beifahrersitz sitzt immer der Fahrzeugkommandant, das heißt, da muss immer einer sitzen, der die Ausbildung dafür hat.",
+   "statement": "Im Feuerwehrauto sitzt am Beifahrersitz immer der Fahrzeugkommandant, der Fahrer ist zugleich Maschinist und bedient alle Geräte.",
+   "question": "Wer sitzt im Feuerwehrauto immer am Beifahrersitz?",
+   "answer": "Der Fahrzeugkommandant",
+   "distractors": [
+    "Der jüngste Feuerwehrmann",
+    "Der Atemschutzträger",
+    "Der Sanitäter"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Feuerwehrauto sind die Plätze fix vergeben. Der Fahrer ist gleichzeitig Maschinist und muss alle Geräte am Fahrzeug bedienen können, daneben sitzt der Kommandant, hinten sind die Plätze für die Atemschutzträger.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Feuerwehrauto",
+    "Organisation"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2893,
+   "speaker": "Gerald Lindinger",
+   "quote": "Das ist nämlich das größte Problem bei Bauernhofbränden, dass du die Mannschaft wieder findest. Weil dann kommen da irgendwie 15 Feuerwehren zusammen und 25 Feuerwehrautos und jeder ist irgendwo.",
+   "quote_clean": "Das ist nämlich das größte Problem bei Bauernhofbränden, dass du die Mannschaft wiederfindest. Weil dann kommen da 15 Feuerwehren und 25 Feuerwehrautos zusammen, und jeder ist irgendwo.",
+   "statement": "Bei großen Bauernhofbränden ist es eine der größten Herausforderungen, die eigene Mannschaft unter vielen Feuerwehren wiederzufinden.",
+   "question": "Was nennt der Einsatzleiter als größtes Problem bei großen Bauernhofbränden?",
+   "answer": "Die eigene Mannschaft wiederzufinden",
+   "distractors": [
+    "Genug Wasser heranzuschaffen",
+    "Die Tiere zu beruhigen",
+    "Schaulustige fernzuhalten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn 15 Feuerwehren mit 25 Autos anrücken, will halt jeder schauen, wo es wirklich brennt, und nicht unten beim Bach Schläuche hüten. Darum gibt es Abschnittsleiter, und die Kommandanten müssen streng sein, damit alle bei ihrer Aufgabe bleiben.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Großbrand",
+    "Organisation",
+    "Bauernhof"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2975,
+   "speaker": "Gerald Lindinger",
+   "quote": "Also, irgendwo muss das Wasser herkommen. Meistens sind es halt Bäche, Seen, Flüsse, Deiche, Pools, dann sucht man halt irgendwo die Pools der Nachbarn",
+   "quote_clean": "Irgendwo muss das Wasser herkommen. Meistens sind es Bäche, Seen, Flüsse, Teiche, Pools, dann sucht man halt die Pools der Nachbarn.",
+   "statement": "Bei Bränden auf dem Land holt die Feuerwehr Löschwasser aus Bächen, Teichen und auch aus privaten Pools der Nachbarn.",
+   "question": "Woher holt die Feuerwehr auf dem Land mitunter Löschwasser, wenn das Hydrantennetz nicht reicht?",
+   "answer": "Auch aus den Pools der Nachbarn",
+   "distractors": [
+    "Aus der Kläranlage des Ortes",
+    "Nur aus mitgebrachten Tankwagen",
+    "Aus Regentonnen der Haushalte"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Heutzutage hat eh fast jeder einen Pool, und der wird im Ernstfall zur Löschwasserreserve. Nur im Winter ist er leer oder gefroren, als sichere Wasserquelle taugt er also nicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Löschwasser",
+    "Land",
+    "Brand"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 3047,
+   "speaker": "Gerald Lindinger",
+   "quote": "Das ist so das wichtigste bei große Brennen, dass man immer schaut, dass man das Brandszenario eben einschränkt und in den Griff kriegt und dann löscht man nieder",
+   "quote_clean": "Das ist das Wichtigste bei großen Bränden, dass man immer schaut, dass man das Brandszenario einschränkt und in den Griff kriegt, und dann löscht man nieder.",
+   "statement": "Bei großen Bränden verhindert die Feuerwehr zuerst die Ausbreitung und löscht erst danach den eigentlichen Brandherd.",
+   "question": "Was hat bei einem Großbrand für die Feuerwehr zuerst Vorrang?",
+   "answer": "Die Ausbreitung zu verhindern",
+   "distractors": [
+    "Den Brandherd sofort zu löschen",
+    "Das Dach abzutragen",
+    "Die Brandursache zu sichern"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn der Heuboden brennt, kämpft man nicht zuerst dort, sondern schaut, dass das Feuer nicht auf den Wohntrakt übergreift, idealerweise hilft eine Feuermauer. Erst wenn alles abgesichert ist, geht's an die eigentliche Brandbekämpfung.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Brandbekämpfung",
+    "Taktik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3161,
+   "speaker": "Gerald Lindinger",
+   "quote": "Da ist es eher so, dass man sagt, Ställe belüften, stützen, aber die Tiere bleiben drinnen. Dass man einfach schaut, dass man da keinen Rauch nicht reinkriegt",
+   "quote_clean": "Da ist es eher so, dass man sagt: Ställe belüften, stützen, aber die Tiere bleiben drinnen. Dass man einfach schaut, dass da kein Rauch reinkommt.",
+   "statement": "Bei Bränden in großen Schweineställen bleiben die Tiere meist drinnen, die Feuerwehr belüftet und stützt stattdessen den Stall.",
+   "question": "Was macht die Feuerwehr bei einem Brand nahe einem großen Schweinestall meistens mit den Tieren?",
+   "answer": "Sie bleiben im belüfteten Stall",
+   "distractors": [
+    "Sie werden auf die Weide getrieben",
+    "Sie werden in Anhänger verladen",
+    "Sie werden in Nachbarställe gebracht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kühe, Pferde oder Schafe holt man raus. Moderne Schweine- und Geflügelställe sind aber fast hermetisch geschlossen und werden über Lüftungsanlagen gekühlt. Wenn der Strom ausfällt, muss die Feuerwehr händisch Frischluft hineinbringen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Tiere",
+    "Landwirtschaft",
+    "Brand"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 3314,
+   "speaker": "Gerald Lindinger",
+   "quote": "Genau, einfach mit Kränen, mit Greifern das runterheben und dann sobald man das hochhebt, merkt man dann, wie das wieder Sauerstoff bekommt, wie das wieder aufflammt und dann löscht man halt ab",
+   "quote_clean": "Einfach mit Kränen und Greifern das herunterheben, und sobald man das hochhebt, merkt man, wie es wieder Sauerstoff bekommt, wie es wieder aufflammt, und dann löscht man halt ab.",
+   "statement": "Glutnester in brennendem Heu lassen sich mit Wasser von oben nicht endgültig löschen; man muss das Material mit Kränen ausräumen, wobei es durch den Sauerstoff wieder aufflammt.",
+   "question": "Warum reicht es bei einem brennenden Heulager nicht, einfach Wasser von oben draufzugeben?",
+   "answer": "Glutnester im Inneren brennen weiter",
+   "distractors": [
+    "Heu stößt Wasser vollständig ab",
+    "Das Wasser verdampft sofort",
+    "Wasser macht Heu explosiv"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im gepressten Heu glimmt es tief drinnen weiter. Also wird das Dach geöffnet, ein Kran mit Greifer räumt aus, und jedes Mal, wenn Luft drankommt, flammt es wieder auf. Darum dauern solche Einsätze oft ewig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Glutnester",
+    "Heu",
+    "Brandbekämpfung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3378,
+   "speaker": "Gerald Lindinger",
+   "quote": "und werden dann irgendwann wieder gefunden und jetzt ist dieser Scham verboten worden, jetzt wird er umgestellt und ganz grundsätzlich glaube, dass man früher viel zu viel mit Scham gelöscht hat",
+   "quote_clean": "Und werden dann irgendwann wieder gefunden, und jetzt ist dieser Schaum verboten worden, jetzt wird umgestellt. Und ganz grundsätzlich glaube ich, dass man früher viel zu viel mit Schaum gelöscht hat.",
+   "statement": "Feuerwehr-Löschschaum mit PFAS wurde verboten, weil sich diese Stoffe kaum abbauen und im Grundwasser wiedergefunden werden.",
+   "question": "Warum wurde PFAS-haltiger Löschschaum bei der Feuerwehr verboten?",
+   "answer": "Er baut sich kaum ab und landet im Grundwasser",
+   "distractors": [
+    "Er ist leicht entzündlich",
+    "Er greift die Schläuche an",
+    "Er löscht schlechter als Wasser"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Früher war bei jedem Autobrand der große weiße Schaumteppich Standard. Heute weiß man, dass die Ewigkeitschemikalien PFAS nicht verschwinden. Für einen Pkw-Brand reicht laut Gerald Wasser mit wenig Schaumanteil völlig.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "PFAS",
+    "Umwelt",
+    "Löschschaum"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3670,
+   "speaker": "Gerald Lindinger",
+   "quote": "Akkus. Nachbauakkus vor allem. Das ist so der Klassiker jetzt. Genau. Im Internet irgendwo den billigen Makita-Akku bestellen, der ein Drittel kostet vom Originalakku und den schiebe ich dann in die Originalladestation",
+   "quote_clean": "Akkus. Nachbau-Akkus vor allem. Das ist jetzt der Klassiker. Im Internet irgendwo den billigen Akku bestellen, der ein Drittel vom Originalakku kostet, und den schiebe ich dann in die Original-Ladestation.",
+   "statement": "Eine der häufigsten Ursachen für Gebäudebrände sind heute Akkus, vor allem billige Nachbau-Akkus in Original-Ladegeräten.",
+   "question": "Was nennt der Feuerwehrkommandant als heutigen Klassiker unter den Brandursachen in Gebäuden?",
+   "answer": "Billige Nachbau-Akkus",
+   "distractors": [
+    "Vergessene Kerzen",
+    "Defekte Toaster",
+    "Rauchen im Bett"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "E-Auto, E-Bike, Roller, Kamera, Drohne: In jedem Zimmer lädt irgendwas. Besonders heikel sind Billig-Nachbauten um ein Drittel des Preises, die man ins Original-Ladegerät steckt.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Akkus",
+    "Brandursachen",
+    "Sicherheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3822,
+   "speaker": "Gerald Lindinger",
+   "quote": "also früher war Jugend, war Jugend ab 12, da hat man halt dann, so wie ich, war halt noch nicht ganz 12, aber dann hat man halt das ein bisschen mitgenommen. Dann war es einmal ab 10 und ich deshalb 8.",
+   "quote_clean": "Früher war Jugend ab 12, so wie ich, ich war halt noch nicht ganz 12, aber dann hat man das ein bisschen mitgenommen. Dann war es einmal ab 10, und jetzt ab 8.",
+   "statement": "Das Einstiegsalter bei der Feuerwehrjugend wurde schrittweise von 12 auf 10 und dann auf 8 Jahre gesenkt.",
+   "question": "Ab welchem Alter kann man heute laut Gerald Lindinger zur Feuerwehrjugend?",
+   "answer": "Ab 8 Jahren",
+   "distractors": [
+    "Ab 6 Jahren",
+    "Ab 12 Jahren",
+    "Ab 14 Jahren"
+   ],
+   "number_value": 8,
+   "number_unit": "Jahre",
+   "slider_min": 3,
+   "slider_max": 18,
+   "log_scale": false,
+   "aha": "Die Feuerwehr konkurriert um Kinder mit dem Fußballverein und allem anderen. Darum wurde das Einstiegsalter von 12 auf 10 und dann auf 8 gesenkt. Ein 8-jähriges Mädel und einen 14-jährigen Burschen in einer Gruppe zu betreuen, ist allerdings eine Challenge.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Feuerwehrjugend",
+    "Nachwuchs",
+    "Ehrenamt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 4329,
+   "speaker": "Gerald Lindinger",
+   "quote": "mit 16 wird man aktiv, genau, weil du gesagt hast, du warst Zivi beim Rudengreiz, ich war Zivi bei der Feuerwehr",
+   "quote_clean": "Mit 16 wird man aktiv. Weil du gesagt hast, du warst Zivi beim Roten Kreuz: Ich war Zivi bei der Feuerwehr.",
+   "statement": "Bei der Freiwilligen Feuerwehr wechselt man mit 16 Jahren von der Jugend in den Aktivstand.",
+   "question": "Mit wie vielen Jahren wird man bei der Freiwilligen Feuerwehr aktives Mitglied?",
+   "answer": "Mit 16",
+   "distractors": [
+    "Mit 14",
+    "Mit 18",
+    "Mit 21"
+   ],
+   "number_value": 16,
+   "number_unit": "Jahre",
+   "slider_min": 10,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Mit 16 geht's von der Jugendgruppe in den Aktivstand. Gerald hat dann sogar seinen Zivildienst beim Landesfeuerwehrkommando gemacht und nebenbei die ganze Grundausbildung absolviert.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Feuerwehrjugend",
+    "Alter",
+    "Ehrenamt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4142,
+   "speaker": "Gerald Lindinger",
+   "quote": "es gibt da so ähnlich wie diese Kriseninterventionsteams, das heißt bei der Feuerwehr-SVE-Einheiten, das sind so Feuerwehr-Mitglieder, die für andere Feuerwehr-Mitglieder da sind",
+   "quote_clean": "Es gibt da, ähnlich wie Kriseninterventionsteams, bei der Feuerwehr SVE-Einheiten. Das sind Feuerwehrmitglieder, die für andere Feuerwehrmitglieder da sind.",
+   "statement": "Die Feuerwehr hat eigene Teams zur Stressverarbeitung nach belastenden Einsätzen, die SVE-Einheiten, besetzt mit Feuerwehrleuten für Feuerwehrleute.",
+   "question": "Wer kümmert sich bei der Feuerwehr nach besonders belastenden Einsätzen um die Einsatzkräfte?",
+   "answer": "Eigene SVE-Teams aus Feuerwehrleuten",
+   "distractors": [
+    "Der Amtsarzt des Bezirks",
+    "Der Pfarrer der Gemeinde",
+    "Externe Psychiater der Versicherung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "SVE steht für Stressverarbeitung nach belastenden Einsätzen. Die Teams funktionieren ähnlich wie die Krisenintervention, nur kümmern sich hier Feuerwehrleute um Feuerwehrleute. Gerald findet aber das gemeinsame Reden direkt nach dem Einsatz fast noch wichtiger.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Psyche",
+    "Stress",
+    "Feuerwehr"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1476,
+   "speaker": "Gerald Lindinger",
+   "quote": "Die kommen irgendwie so auf 30, 35 tödliche Unfälle, wo ich dabei war in diesen Jahren.",
+   "quote_clean": "Ich komme so auf 30, 35 tödliche Unfälle, bei denen ich in diesen Jahren dabei war.",
+   "statement": "Gerald Lindinger war in seinen Jahren bei der Feuerwehr bei etwa 30 bis 35 tödlichen Unfällen im Einsatz.",
+   "question": "Bei wie vielen tödlichen Unfällen war Gerald Lindinger als Feuerwehrmann ungefähr dabei?",
+   "answer": "Etwa 30 bis 35",
+   "distractors": [
+    "Etwa 5",
+    "Etwa 100",
+    "Etwa 300"
+   ],
+   "number_value": 32,
+   "number_unit": "Unfälle",
+   "slider_min": 1,
+   "slider_max": 500,
+   "log_scale": true,
+   "aha": "Gerald hat das einmal anhand von Fotos nachgezählt. An jeden einzelnen erinnert er sich, an Gesicht, Situation, Geruch. Belasten tun sie ihn trotzdem nicht, sagt er, es sind einfach Erinnerungen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Einsätze",
+    "Erinnerung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3793,
+   "speaker": "Gerald Lindinger",
+   "quote": "aber irgendwie mit 70, 75 Prozent derer, die jetzt im Aktivstand sind, kommen aus der Jugendgruppe.",
+   "quote_clean": "Aber irgendwie 70, 75 Prozent derer, die jetzt im Aktivstand sind, kommen aus der Jugendgruppe.",
+   "statement": "In Gerald Lindingers Feuerwehr kommen rund 70 bis 75 Prozent der aktiven Mitglieder aus der Jugendgruppe.",
+   "question": "Wie viel Prozent der Aktiven in Geralds Feuerwehr kommen aus der Feuerwehrjugend?",
+   "answer": "Etwa 70 bis 75 Prozent",
+   "distractors": [
+    "Etwa 20 Prozent",
+    "Etwa 40 Prozent",
+    "Fast 100 Prozent"
+   ],
+   "number_value": 72,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Quereinsteiger sind bei der Feuerwehr selten, die meisten fangen als Kind an. Darum wird so viel in die Jugendarbeit gesteckt: Wer mit 20 noch dabei ist, bleibt oft ein Leben lang.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Nachwuchs",
+    "Feuerwehrjugend"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 641,
+   "speaker": "Gerald Lindinger",
+   "quote": "Wenn das nicht mehr funktioniert, haben wir eher ein Problem. Haben wir wirklich ein Problem in Österreich. Wenn dieses Ehrenamt von einem Tag auf den anderen nicht mehr funktionieren würde, steht die Mülle.",
+   "quote_clean": "Wenn das nicht mehr funktioniert, haben wir wirklich ein Problem in Österreich. Wenn dieses Ehrenamt von einem Tag auf den anderen nicht mehr funktionieren würde, steht die Mühle.",
+   "statement": "Gerald Lindinger warnt, dass Österreich ohne das Ehrenamt der Feuerwehrleute stillstehen würde.",
+   "question": "Wer hat's gesagt: „Wenn dieses Ehrenamt von einem Tag auf den anderen nicht mehr funktionieren würde, steht die Mühle“?",
+   "answer": "Gerald Lindinger",
+   "distractors": [
+    "Andreas Sator",
+    "Herfried Münkler",
+    "Florian Krammer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Satz kommt von einem, der jahrelang um zwei in der Früh aus dem Bett gesprungen ist. Dass Leute sich trotzdem Zeit nehmen, aus der Arbeit weggehen und ausrücken, hält das ganze System am Laufen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ehrenamt",
+    "Österreich"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1013,
+   "speaker": "Gerald Lindinger",
+   "quote": "Wenn ein Bestatter sich das immer zu Herzen nimmt, dann wird er irgendwann ja, ein Problem kriegen und so sehe ich das auch, dass man einfach, ja, das ist, glaube ich, eine Schutzfunktion, die man hat",
+   "quote_clean": "Wenn ein Bestatter sich das immer zu Herzen nimmt, dann wird er irgendwann ein Problem kriegen, und so sehe ich das auch. Das ist, glaube ich, eine Schutzfunktion, die man hat.",
+   "statement": "Gerald Lindinger vergleicht die nötige Distanz von Einsatzkräften mit der eines Bestatters: Ein gewisser Schutzschild ist notwendig.",
+   "question": "Mit welchem Beruf vergleicht Gerald Lindinger die nötige emotionale Distanz bei Einsätzen?",
+   "answer": "Mit einem Bestatter",
+   "distractors": [
+    "Mit einem Chirurgen",
+    "Mit einem Polizisten",
+    "Mit einem Richter"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Empathie zeigen, helfen, und auf der Heimfahrt dann wieder übers Fernsehprogramm reden: Das ist kein Zynismus, sondern Selbstschutz. Nur wenn man die Betroffenen kennt, funktioniert das nicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Psyche",
+    "Selbstschutz"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1600,
+   "speaker": "Gerald Lindinger",
+   "quote": "Also ich nehme aus Einsätzen, sicher Bilder mit, die im Kopf sind, aber eben Geräusche, Gerüche, sind die Dinge, die viel, viel mehr bleiben.",
+   "quote_clean": "Ich nehme aus Einsätzen sicher Bilder mit, die im Kopf sind, aber Geräusche und Gerüche sind die Dinge, die viel, viel mehr bleiben.",
+   "statement": "Nach Gerald Lindingers Erfahrung bleiben von belastenden Einsätzen Geräusche und Gerüche viel stärker im Gedächtnis als Bilder.",
+   "question": "Was bleibt Gerald Lindinger von schlimmen Einsätzen am stärksten in Erinnerung?",
+   "answer": "Geräusche und Gerüche",
+   "distractors": [
+    "Die Bilder der Unfallstelle",
+    "Die Namen der Opfer",
+    "Die Uhrzeit des Alarms"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas kennt das auch: Bei einem Unfall in Wien hat er nichts gesehen, aber den Schrei einer Frau vergisst er nie. Und Gerald erinnert sich bis heute an den Schrei eines verbrühten Molkerei-Arbeiters aus seiner Jugend.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erinnerung",
+    "Psyche"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 4888,
+   "speaker": "Andreas Sator",
+   "quote": "Hast du mal drüber nachgedacht, was so der Sinn deines Lebens ist? Ja, und? Mentor zu sein, das ist auf jeden Fall das",
+   "quote_clean": "Hast du mal darüber nachgedacht, was der Sinn deines Lebens ist? – Ja. – Und? – Mentor zu sein, das ist es auf jeden Fall.",
+   "statement": "Andreas fragt Gäste am Ende gern nach dem Sinn ihres Lebens – Gerald Lindinger antwortete: Mentor zu sein.",
+   "question": "Was antwortete Gerald Lindinger auf Andreas' Frage nach dem Sinn seines Lebens?",
+   "answer": "Mentor zu sein",
+   "distractors": [
+    "Menschenleben zu retten",
+    "Bürgermeister zu werden",
+    "Seine Heimat zu schützen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gerald hatte selbst einen Mentor, der ihn zur Feuerwehr-Karriere geschubst hat. Heute sitzen im Kommando lauter Leute, die er als Zehn-, Elfjährige betreut hat. Und Andreas hat Mentor-Sein laut Outro auch ganz oben auf seinem Lebensplan.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Sinn des Lebens",
+    "Mentor"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 4577,
+   "speaker": "Gerald Lindinger",
+   "quote": "ich sollte die Begrüßung machen und dann hat meine Frau gesagt, aber nicht, dass du so begrüßt wie das Feuerwehrkommandant.",
+   "quote_clean": "Ich sollte die Begrüßung machen, und dann hat meine Frau gesagt: Aber nicht, dass du so begrüßt wie ein Feuerwehrkommandant.",
+   "statement": "Bei seiner Hochzeit 2009 bat Gerald Lindingers Frau ihn, die Gäste in der Kirche nicht wie ein Feuerwehrkommandant zu begrüßen.",
+   "question": "Worum bat Gerald Lindingers Frau ihn vor der Begrüßung bei ihrer Hochzeit?",
+   "answer": "Nicht wie ein Feuerwehrkommandant zu klingen",
+   "distractors": [
+    "Keine Uniform zu tragen",
+    "Den Pager auszuschalten",
+    "Nicht über Einsätze zu reden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "2008 wurde Gerald Kommandant, 2009 haben die beiden geheiratet, und der Kommandoton war offenbar schon drin. Da ist ihm bewusst geworden, wie sehr ihn die Feuerwehr geprägt hat.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Anekdote",
+    "Hochzeit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "408",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

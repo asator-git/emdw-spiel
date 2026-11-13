@@ -1,0 +1,291 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1054 s nur als Nebensatz („1776 beziehungsweise 1789“); Allgemeinwissen ohne Bezug zur Aussage der Folge, und 1789 ist als Distraktor für die Gründung nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Die USA erklärten 1776 ihre Unabhängigkeit und wurden damit als neuer Nationalstaat gegründet.",
+   "question": "In welchem Jahr wurden die USA mit der Unabhängigkeitserklärung gegründet?",
+   "answer": "1776",
+   "distractors": [
+    "1648",
+    "1815",
+    "1789"
+   ],
+   "aha": "1776 ist das Geburtsjahr der USA, und europäische Ideale wurden auf den jungen Staat projiziert.",
+   "quote_clean": "Und da wurde natürlich auf diesen neuen Nationalstaat, der dann 1776 beziehungsweise ein bisschen später 1789 mit der Konstitution gegründet wurde, das projiziert.",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beiläufige Jahreszahl aus einem Nebensatz, reines Schulwissen und von Kandidat 0 praktisch dupliziert; kein Erkenntnisgewinn aus der Folge.",
+   "stand_note": "",
+   "statement": "Die Verfassung der USA trat 1789 in Kraft, einige Jahre nach der Unabhängigkeitserklärung.",
+   "question": "In welchem Jahr trat die Verfassung der USA in Kraft?",
+   "answer": "1789",
+   "distractors": [
+    "1776",
+    "1812",
+    "1865"
+   ],
+   "aha": "Erst kam 1776 die Unabhängigkeit, dann 1789 die Verfassung.",
+   "quote_clean": "1776, beziehungsweise ein bisschen später 1789 mit der Konstitution gegründet wurde, wurde das projiziert. Also viele europäische Ideale, die dann in der neuen Welt wachsen konnten.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1280-1291 s klar; aha deckt sich mit 1240-1276 s (9/11, Finanzkrise).",
+   "stand_note": "",
+   "statement": "Das 20. Jahrhundert wird oft als das amerikanische Jahrhundert bezeichnet.",
+   "question": "Welches Jahrhundert wird oft als „das amerikanische Jahrhundert“ bezeichnet?",
+   "answer": "Das 20. Jahrhundert",
+   "distractors": [
+    "Das 18. Jahrhundert",
+    "Das 19. Jahrhundert",
+    "Das 21. Jahrhundert"
+   ],
+   "aha": "Zwei Weltkriege, Kalter Krieg, Hollywood, Rock 'n' Roll: Das 20. Jahrhundert gehörte den USA. Die Kulturmacht war dabei ein wichtiger Teil, sagt Astrid Fellner, und seit 9/11 und der Finanzkrise bekam das Bild Kratzer.",
+   "quote_clean": "Das 20. Jahrhundert wird ja sehr oft als das amerikanische Jahrhundert bezeichnet.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Das ist Andreas' Rückblick auf eine andere Folge (Römer in Österreich), nicht Thema oder Aussage dieser Folge; „ungefähr romanisiert“ ist unscharf.",
+   "stand_note": "",
+   "statement": "Vor rund 2000 Jahren prägte die Supermacht Rom das Gebiet des heutigen Österreich.",
+   "question": "Vor wie vielen Jahren wurde das Gebiet des heutigen Österreich ungefähr romanisiert?",
+   "answer": "Vor rund 2000 Jahren",
+   "distractors": [
+    "Vor rund 1000 Jahren",
+    "Vor rund 3000 Jahren",
+    "Vor rund 1500 Jahren"
+   ],
+   "aha": "Vor rund 2000 Jahren hat die damalige Supermacht Rom Österreich geprägt.",
+   "quote_clean": "Zu Gast und hat erzählt, wie Österreich quasi romanisiert wurde, also vor 2000 Jahren. Die Römer haben eine große politische, wirtschaftliche Macht gehabt.",
+   "quality": 1
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Beleg bei 397-416 s passt; als Zielsetzung laut Fellner formuliert. Im aha war „Filme und Zeitschriften“ im Ausschnitt nicht belegt (genannt sind Musik und Fernsehen).",
+   "stand_note": "",
+   "statement": "Laut Astrid Fellner sollte die United States Information Agency nach dem Zweiten Weltkrieg parallel zum Marshallplan amerikanische Produkte nach Europa bringen, um es zu demokratisieren.",
+   "question": "Wozu diente die US-Kulturpolitik im Nachkriegs-Europa laut Astrid Fellner vor allem?",
+   "answer": "Europa über Kultur zu demokratisieren",
+   "distractors": [
+    "Amerikanische Schulden einzutreiben",
+    "Europäische Kunst in die USA zu holen",
+    "Englisch als Amtssprache durchzusetzen"
+   ],
+   "aha": "Neben dem Marshallplan setzten die USA ganz bewusst auf Kultur: Eine eigene Behörde, die United States Information Agency, sollte amerikanische Produkte nach Europa bringen und so die Demokratie stärken.",
+   "quote_clean": "Die gesamte United States Information Agency zum Beispiel war kulturpolitisch darauf ausgerichtet, parallel zum Marshallplan oder als Teil des Marshallplans amerikanische Produkte ins Nachkriegs-Europa zu bringen und damit zu demokratisieren.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Beleg bei 480-500 s passt, aber es ist Andreas' Wiedergabe eines Zitats aus Wagenleitners Vorwort; Frage entsprechend attribuiert. Die Behauptung „ganze Studien“ im aha ist im Ausschnitt nicht belegt.",
+   "stand_note": "",
+   "statement": "Ein US-General meinte laut Reinhold Wagenleitner, man begeistere Europas Jugend eher mit Baseball für Demokratie und USA als mit Reden über Freiheit.",
+   "question": "Womit wollte ein amerikanischer General laut einem Text von Reinhold Wagenleitner Europas Jugend für Demokratie und die USA begeistern?",
+   "answer": "Mit Baseball",
+   "distractors": [
+    "Mit Schulbüchern über Freiheit",
+    "Mit Reden über Demokratie",
+    "Mit Militärparaden"
+   ],
+   "aha": "Statt Vorträgen über Freiheit lieber Schläger und Ball: Das ist Soft Power in Reinform. Astrid Fellner nennt Baseball eine sehr demokratische Sportart.",
+   "quote_clean": "Ein amerikanischer General sagt, die beste Strategie, um die jungen Leute in Deutschland oder in Europa für die Demokratie und die USA zu begeistern, ist nicht, ihnen irgendetwas von Freiheit und Demokratie zu erzählen, sondern ihnen zum Beispiel einfach Baseball näherzubringen.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 1163-1177 s passt; Aussage ist Fellners Einschätzung ihres Fachs, daher attribuiert. Die zweite Hälfte des aha (nicht mehr US-finanziert) ist bei 1176 s belegt.",
+   "stand_note": "",
+   "statement": "Laut Astrid Fellner waren die ersten Amerikanistik-Professuren Teil der US-Kulturpolitik und sollten amerikanische Kultur unter die Leute bringen.",
+   "question": "Warum entstanden laut Astrid Fellner die ersten Amerikanistik-Professuren?",
+   "answer": "Als Teil der US-Kulturpolitik",
+   "distractors": [
+    "Wegen steigender Studierendenzahlen",
+    "Auf Druck europäischer Verlage",
+    "Als Teil der EU-Gründung"
+   ],
+   "aha": "Sogar das Fach, das Astrid Fellner selbst unterrichtet, ist ein Kind dieser Geschichte. Die ersten Professuren sollten amerikanische Kultur unter die Leute bringen, finanziert werden sie von den USA inzwischen aber nicht mehr.",
+   "quote_clean": "Weil natürlich auch diese ersten Amerikanistik-Professuren, die geschaffen wurden, um amerikanische Kultur unter die Leute zu bringen, auch Teil dieser Kulturpolitik der USA waren.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1744-1751 s klar; „Wer hat's gesagt“ mit der Gästin als Antwort ist zu leicht, daher als Inhaltsfrage umgestellt.",
+   "stand_note": "",
+   "statement": "Astrid Fellner bezeichnet die amerikanische Populärkultur manchmal als eine Art Lingua Franca, eine allgemeine Verständigungskultur.",
+   "question": "Wie bezeichnet Astrid Fellner die amerikanische Populärkultur manchmal?",
+   "answer": "Als eine Art Lingua Franca",
+   "distractors": [
+    "Als eine Art Einbahnstraße",
+    "Als eine Art Gegenkultur",
+    "Als eine Art Geheimsprache"
+   ],
+   "aha": "Lingua Franca heißt eine Sprache, mit der sich alle irgendwie verständigen können. Genau so funktioniert für Astrid Fellner die US-Popkultur: als gemeinsamer Referenzrahmen, quer durch Europa.",
+   "quote_clean": "Ich bezeichne die amerikanische Populärkultur manchmal als eine Art Lingua Franca, als eine allgemeine Verständigungskultur.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "„Wer hat's gesagt“ mit der Gästin als Antwort ist zu leicht; das aha nennt Austropop, Schnitzelburger und TikTok, die im Ausschnitt nicht vorkommen.",
+   "stand_note": "",
+   "statement": "Astrid Fellner hält es für unmöglich, Kultur sauber in amerikanisch und eigen zu trennen, weil alles verwoben und verflochten ist.",
+   "question": "Wer sagt über Kultur: „Es ist alles immer verwoben und verflochten“?",
+   "answer": "Astrid Fellner",
+   "distractors": [
+    "Reinhold Wagenleitner",
+    "Andreas Sator",
+    "Sabine Ladstätter"
+   ],
+   "aha": "Für Astrid Fellner gibt es keine Einbahnstraße von Amerika in die Welt, sondern ein dichtes Geflecht.",
+   "quote_clean": "Ich glaube, das kann man nie sagen. Es ist alles immer verwoben und verflochten.",
+   "quality": 1
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg bei 900-908 s klar (Wagenleitners Metapher); die Sklaverei-Bemerkung im aha ist Fellners Einschätzung und wird so gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Der Historiker Reinhold Wagenleitner beschreibt Amerika als Produkt der Europäisierung der Neuen Welt.",
+   "question": "Als Produkt wovon beschreibt Historiker Reinhold Wagenleitner laut Astrid Fellner Amerika?",
+   "answer": "Der Europäisierung der Neuen Welt",
+   "distractors": [
+    "Der britischen Industrialisierung",
+    "Der spanischen Kolonialisierung",
+    "Des Goldrauschs in Kalifornien"
+   ],
+   "aha": "Wer über Amerikanisierung schimpft, vergisst gern, woher die USA kommen: von europäischen Siedler:innen, von Künstler:innen, die in den 30er-Jahren geflüchtet sind, und von europäischen Ideen. Astrid Fellner sieht auch die Sklaverei zuerst als europäisches Problem.",
+   "quote_clean": "Und da muss man sagen, Wagenleitner hat eine schöne Metapher und sagt, dass Amerika das Produkt der Europäisierung der Neuen Welt ist.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Die Antwort „was es vorher exportiert hatte“ ist vage und die Aussage nuanciert („kann man durchaus sagen“); Distraktoren (ausgewanderte Soldaten) sind unplausibel; inhaltlich von Kandidat 17 abgedeckt.",
+   "stand_note": "",
+   "statement": "Europa bekam in den Nachkriegsjahren über die US-Kultur vieles zurück, was es vorher in die USA exportiert hatte.",
+   "question": "Was bekam Europa laut Astrid Fellner nach dem Krieg über die US-Kultur eigentlich zurück?",
+   "answer": "Was es vorher exportiert hatte",
+   "distractors": [
+    "Seine geraubten Kunstschätze",
+    "Seine ausgewanderten Soldaten",
+    "Kultur ganz ohne europäische Wurzeln"
+   ],
+   "aha": "Eher ein Kreislauf als eine Einbahnstraße.",
+   "quote_clean": "Man kann durchaus sagen, dass Europa in den Nachkriegsjahren das zurückbekommen hat, was es die Jahre davor exportiert hat.",
+   "quality": 2
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 418-433 s klar: Soft Power als politische Botschaften über Populärkultur; Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Soft Power bedeutet, politische Botschaften über Populärkultur wie Musik und Fernsehen zu transportieren, was oft wirksamer ist als Realpolitik.",
+   "question": "Wie nennt man es, wenn ein Staat über Musik, Filme und Fernsehen politischen Einfluss gewinnt?",
+   "answer": "Soft Power",
+   "distractors": [
+    "Realpolitik",
+    "Hard Power",
+    "Containment"
+   ],
+   "aha": "Ein Lied im Radio überzeugt oft mehr als jede Rede. Genau darauf setzten die USA im Kalten Krieg: Erst Musik, dann Fernsehen sollten die Lust auf den amerikanischen Way of Life wecken.",
+   "quote_clean": "Und das ist die sogenannte Soft Power der Politik, weil man wusste, dass Populärkultur, vor allem Musik zur damaligen Zeit und dann natürlich Fernsehen, als es aufkam, viel wirksamer ist, um politische Botschaften zu transportieren, als Realpolitik.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Beleg bei 2124-2136 s klar (persönlicher Eindruck, Aufenthalt 2013/14); die Aussage zur Mischung aus chinesischen Traditionen und westlichen Idealen steht nicht im Ausschnitt und wurde entfernt. Persönlicher Eindruck von damals, daher Stand-Hinweis.",
+   "stand_note": "Stand 2013/14",
+   "statement": "Die Amerikanistin Astrid Fellner empfand Hongkong, wo sie 2013/14 einige Monate lebte, als den amerikanischsten Ort, an dem sie je war.",
+   "question": "Welchen Ort empfand die Amerikanistin Astrid Fellner als den amerikanischsten, an dem sie je war?",
+   "answer": "Hongkong",
+   "distractors": [
+    "Las Vegas",
+    "Tokio",
+    "Dubai"
+   ],
+   "aha": "Ausgerechnet eine Amerika-Expertin findet den amerikanischsten Ort in Asien: Hongkong war für sie eine einzige inszenierte amerikanische Show.",
+   "quote_clean": "Ich habe ein paar Monate in Hongkong gelebt, und ich muss zugeben, ich war noch nie an einem amerikanischeren Ort als in Hongkong.",
+   "quality": 4
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Standard-Begrüßung, kein Inhalt zu dieser Folge; die Frage prüft Floskel-Wissen und die Distraktoren sind austauschbar.",
+   "stand_note": "",
+   "statement": "Andreas Sator begrüßt in seinen Folgen mit den Worten, Erklär mir die Welt sei der Podcast, mit dem man die Welt jede Woche ein bisschen besser verstehen soll.",
+   "question": "Wie geht Andreas' Begrüßung weiter: „…der Podcast, mit dem du die Welt jede Woche …“?",
+   "answer": "ein bisschen besser verstehen sollst",
+   "distractors": [
+    "ein Stück weit neu entdecken kannst",
+    "ganz anders sehen wirst",
+    "endlich einmal durchschaust"
+   ],
+   "aha": "So fängt es an, Woche für Woche.",
+   "quote_clean": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quality": 1
+  }
+ ],
+ "id": "136",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

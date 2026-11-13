@@ -1,0 +1,212 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 405-409 eindeutig, 25 km/h passt.",
+   "stand_note": "",
+   "statement": "Bei einer Verschubfahrt, etwa vom Abstellgleis zum Bahnsteig, fährt ein Zug auf Sicht mit höchstens 25 km/h.",
+   "question": "Wie schnell darf ein Zug bei einer Verschubfahrt höchstens fahren?",
+   "answer": "25 km/h",
+   "distractors": [
+    "10 km/h",
+    "40 km/h",
+    "60 km/h"
+   ],
+   "aha": "Beim Verschub fährt man auf Sicht, also so, dass man vor jedem Hindernis noch stehen bleiben kann. Und das macht die Lokführerin selbst, da regelt nichts automatisch die 25 km/h ein.",
+   "quote_clean": "Als Verschubfahrt fährt man immer auf Sicht, Vmax 25. Das heißt, man darf nur maximal 25 km/h fahren.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 717-724 passt, Aussage sinngemäß korrekt.",
+   "stand_note": "",
+   "statement": "Ein Zug hat kein Lenkrad; wohin er fährt, bestimmen die Weichen.",
+   "question": "Wie bestimmt eine Lokführerin, auf welches Gleis ihr Zug fährt?",
+   "answer": "Gar nicht, das machen die Weichen",
+   "distractors": [
+    "Mit einem kleinen Lenkrad",
+    "Mit einem Joystick im Führerstand",
+    "Durch Bremsen auf einer Seite"
+   ],
+   "aha": "Der Zug folgt einfach den Schienen, die Richtung legen die Weichen fest. Und die stellt nicht die Lokführerin, sondern der Fahrdienstleiter.",
+   "quote_clean": "Als Lokführer ist es nicht so wie im Straßenverkehr, dass man ein Lenkrad hat und einfach wohin fahren kann, sondern das wird alles durch die Weichen gesteuert.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 666-682 passt; Distraktoren falsch genug.",
+   "stand_note": "",
+   "statement": "Bei der Bahn stellen Fahrdienstleiter die Weichen und Signale.",
+   "question": "Wer stellt bei der Bahn die Weichen und Signale?",
+   "answer": "Fahrdienstleiter",
+   "distractors": [
+    "Die Lokführerin selbst",
+    "Die Zugbegleiter",
+    "Der Zugchef im Zug"
+   ],
+   "aha": "Ist irgendwo ein Problem, lässt der Fahrdienstleiter das Signal einfach auf Halt stehen. Wie bei einer roten Ampel heißt es dann warten, bis er sagt, dass es weitergeht.",
+   "quote_clean": "Bei uns gibt es Fahrdienstleiter, die stellen die Weichen und die Signale.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 234-247 passt.",
+   "stand_note": "",
+   "statement": "Ein Triebzug oder Triebwagen ist eine feste Einheit, bei der die Führerstände mit den Wagen verbunden sind, anders als eine Lok mit angehängten Waggons.",
+   "question": "Was unterscheidet einen Triebwagen von einem klassischen Zug mit Lok?",
+   "answer": "Führerstand und Wagen sind eine Einheit",
+   "distractors": [
+    "Er fährt nur mit Diesel",
+    "Er hat gar keinen Führerstand",
+    "Er fährt nur auf Nebenbahnen"
+   ],
+   "aha": "Bei einem Triebzug kannst du die Lok nicht einfach abhängen, Antrieb und Wagen gehören zusammen. Viele S-Bahnen und Regionalzüge sind so gebaut.",
+   "quote_clean": "Es gibt welche, die haben eine Lok und dann Waggons dran. Und dann gibt es welche, die sind eine Einheit, wo die Führerstände mit den Wagen verbunden sind. Das nennt man einen Triebzug oder Triebwagen.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 271-277 passt.",
+   "stand_note": "",
+   "statement": "Um einen elektrischen Zug zu starten, hebt man den Stromabnehmer-Bügel und schaltet den Hauptschalter ein.",
+   "question": "Was muss man tun, damit bei einer E-Lok Strom durch die Lok fließt?",
+   "answer": "Bügel heben, Hauptschalter einschalten",
+   "distractors": [
+    "Batterie im Führerstand anstecken",
+    "Generator per Kurbel anwerfen",
+    "Stromkabel am Bahnsteig einstecken"
+   ],
+   "aha": "Der Bügel, also der Stromabnehmer, holt den Strom aus der Oberleitung. Beim Diesel ist es simpler: Da startet man den Motor wie beim Auto.",
+   "quote_clean": "Beim elektrischen muss man einen Bügel heben und den Hauptschalter einschalten, damit dann der Strom durch die Lok kommt.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Sie sagt selbst, es sei bei jedem Zug unterschiedlich; Verallgemeinerung mit Distraktoren wie Dienstkarte oder Code nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Jeder Zug hat einen Aktivierungsschlüssel, mit dem man ihn startet.",
+   "question": "Womit startet man einen Zug?",
+   "answer": "Mit einem Aktivierungsschlüssel",
+   "distractors": [
+    "Mit einem Zahlencode",
+    "Mit der Dienstkarte am Lesegerät",
+    "Mit einem Fingerabdruckscanner"
+   ],
+   "aha": "Einen simplen An-Aus-Knopf gibt es nicht. Nach dem Schlüssel kommt ein ganzer Ablauf, und der ist bei jeder Lok und jedem Triebwagen ein bisschen anders.",
+   "quote_clean": "Jeder Zug hat einen Aktivierungsschlüssel, und mit dem startet man den Zug.",
+   "quality": 2
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 816-846 passt; Aussage bleibt vorsichtig (oft, nicht immer).",
+   "stand_note": "",
+   "statement": "Fahrpläne haben oft etwas Puffer, sodass ein verspäteter Zug Zeit aufholt, wenn er genau die erlaubte Höchstgeschwindigkeit fährt.",
+   "question": "Wie holt ein verspäteter Zug oft Minuten wieder auf?",
+   "answer": "Er fährt genau das erlaubte Tempo",
+   "distractors": [
+    "Er fährt etwas über dem Limit",
+    "Er lässt Haltestellen aus",
+    "Er bekommt eine Sondertrasse"
+   ],
+   "aha": "Schneller als erlaubt geht nie, aus einem Hunderter wird kein 110er. Aber der Fahrplan ist oft so gerechnet, dass man nicht ganz am Limit fahren muss, und genau das ist der Puffer.",
+   "quote_clean": "Und wenn man dann ein wenig verspätet ist und man fährt dann genau die 100, dann geht es sich oft wieder aus.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 1435-1472 passt, Aha deckt sich mit dem Transkript.",
+   "stand_note": "",
+   "statement": "Zieht jemand die Notbremse, bekommt die Lokführerin ein Signal und entscheidet, wo der Zug hält, etwa nicht mitten im Tunnel.",
+   "question": "Was passiert, wenn jemand im Zug die Notbremse zieht?",
+   "answer": "Die Lokführerin entscheidet, wo sie hält",
+   "distractors": [
+    "Der Zug stoppt sofort, egal wo",
+    "Die Türen öffnen sich automatisch",
+    "Der Fahrdienstleiter übernimmt die Steuerung"
+   ],
+   "aha": "Wenn es zum Beispiel brennt, wäre ein Halt im Tunnel das Blödeste. Also fährt sie noch ein Stück, damit die Einsatzkräfte gut zum Zug kommen.",
+   "quote_clean": "Und dann muss ich als Lokführer entscheiden. Es gibt gewisse Bereiche, zum Beispiel in einem Tunnel, wo ich nicht einfach so stehen bleiben kann.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat-das-gesagt-Frage ohne Wissen ratbar; Distraktoren (Förster, Pilot) könnten Ähnliches sagen.",
+   "stand_note": "",
+   "statement": "Tamara Murauer schätzt an ihrem Job, dass man die Jahreszeiten so intensiv erlebt.",
+   "question": "Wer hat über ihren Beruf gesagt, dass man die Jahreszeiten so intensiv erlebt?",
+   "answer": "Tamara Murauer",
+   "distractors": [
+    "Ein Pilot",
+    "Eine Lkw-Fahrerin",
+    "Ein Förster"
+   ],
+   "aha": "Im Büro gehst du in der Früh rein und am Abend raus. Vom Führerstand aus siehst du dafür die schönsten Sonnenauf- und -untergänge.",
+   "quote_clean": "Dann, dass man die Jahreszeiten und alles so intensiv erlebt.",
+   "quality": 1
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Nicht ratbare Zitatfrage, Distraktoren könnten dasselbe sagen.",
+   "stand_note": "",
+   "statement": "Tamara Murauer gefällt an ihrem Beruf besonders, wenn Kinder dem einfahrenden Zug zuwinken.",
+   "question": "Wer hat gesagt, dass ihr das Strahlen von Kinderaugen beim Einfahren besonders gefällt?",
+   "answer": "Tamara Murauer",
+   "distractors": [
+    "Eine Busfahrerin",
+    "Eine Pilotin",
+    "Eine Kindergärtnerin"
+   ],
+   "aha": "Lokführerin war schon als Kind ihr Traum, wie bei so vielen. Jetzt sitzt sie selber vorne und wird angewunken.",
+   "quote_clean": "Was mir persönlich voll gut gefällt, ist das Strahlen von den Kinderaugen, wenn du irgendwo einfährst und die Kinder winken einem zu.",
+   "quality": 1
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1587-1609 (Andreas berichtet den Nachtrag), passt.",
+   "stand_note": "",
+   "statement": "Nach der Aufnahme fiel Tamara Murauer ein, worüber sie sich als Lokführerin freuen würde: dass nicht alle bei einer Tür einsteigen.",
+   "question": "Worüber würde sich Tamara als Lokführerin laut Nachtrag besonders freuen?",
+   "answer": "Wenn nicht alle bei einer Tür einsteigen",
+   "distractors": [
+    "Wenn alle Tickets vorher kaufen",
+    "Wenn niemand die Notbremse zieht",
+    "Wenn Fahrgäste mehr Trinkgeld geben"
+   ],
+   "aha": "Der Zug ist lang, und je besser sich alle verteilen, desto schneller geht das Einsteigen. Dann kommt auch die Lokführerin pünktlicher mit euch ans Ziel.",
+   "quote_clean": "Wenn die Leute nicht alle bei einer Tür einsteigen würden.",
+   "quality": 3
+  }
+ ],
+ "id": "228",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

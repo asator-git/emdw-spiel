@@ -1,0 +1,739 @@
+{
+ "theme": "Wissenschaft & Technik",
+ "summary": "Wenn ChatGPT bald vieles besser kann als wir, was sollen wir noch lernen? Elke Höfler über KI, Schule, Kreativität und Muße.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 92,
+   "speaker": "Elke Höfler",
+   "quote": "das heißt wir sind alle ziemlich überrascht geworden als Ende 2022 ch GPT veröffentlicht wurde",
+   "quote_clean": "Das heißt, wir sind alle ziemlich überrascht worden, als Ende 2022 ChatGPT veröffentlicht wurde.",
+   "statement": "ChatGPT wurde Ende 2022 veröffentlicht und hat vor allem den Bildungssektor kalt erwischt.",
+   "question": "In welchem Jahr wurde ChatGPT veröffentlicht?",
+   "answer": "2022",
+   "distractors": [
+    "2019",
+    "2020",
+    "2024"
+   ],
+   "number_value": 2022,
+   "number_unit": "Jahr",
+   "slider_min": 2012,
+   "slider_max": 2026,
+   "log_scale": false,
+   "aha": "Ende 2022 ging ChatGPT online, und plötzlich war klar: So wie das Bildungssystem jetzt ist, kann es nicht weiterlaufen. Laut Elke Höfler hat gerade die Bildung das Thema KI davor jahrzehntelang recht gemütlich ausgeblendet.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "KI",
+    "ChatGPT"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 59,
+   "speaker": "Elke Höfler",
+   "quote": "das hi per se seit dem zweiten weltkrieger Thema ist m den ersten also quasi den Vorläufer oder die Mutter von jgbt gibt's in den 60er Jahren",
+   "quote_clean": "Das ist per se seit dem Zweiten Weltkrieg Thema. Den ersten Vorläufer oder die Mutter von ChatGPT gibt's in den 60er-Jahren.",
+   "statement": "KI ist seit dem Zweiten Weltkrieg ein Thema, und einen ersten Vorläufer von ChatGPT gab es bereits in den 1960er-Jahren.",
+   "question": "In welchem Jahrzehnt gab es den ersten Vorläufer von ChatGPT?",
+   "answer": "in den 1960er-Jahren",
+   "distractors": [
+    "in den 1980er-Jahren",
+    "in den 1990er-Jahren",
+    "in den 2000er-Jahren"
+   ],
+   "number_value": 1960,
+   "number_unit": "Jahrzehnt",
+   "slider_min": 1920,
+   "slider_max": 2010,
+   "log_scale": false,
+   "aha": "Die Urgroßmutter von ChatGPT ist älter als die Mondlandung. Chatbots gibt's seit den 60ern, KI als Thema seit dem Zweiten Weltkrieg. Neu ist also weniger die Idee als das, was die Technik heute draus macht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "KI",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 235,
+   "speaker": "Elke Höfler",
+   "quote": "einen Trainingsdatensatz und in dem Trainingsdatensatz gibt gewisse Wege die beschritten werden können das heißt ich stelle eine Frage und dann dur sucht quasi der Transformer du sucht den Trainingsdatensatz und liefert mir eine Antwort nach dem Prinzip der Wahrscheinlichkeit",
+   "quote_clean": "Einen Trainingsdatensatz, und in dem Trainingsdatensatz gibt es gewisse Wege, die beschritten werden können. Ich stelle eine Frage, der Transformer durchsucht den Trainingsdatensatz und liefert mir eine Antwort nach dem Prinzip der Wahrscheinlichkeit.",
+   "statement": "Ein Sprachmodell wie GPT liefert Antworten nach dem Prinzip der Wahrscheinlichkeit: Es gibt aus, was im Trainingsdatensatz am wahrscheinlichsten ist.",
+   "question": "Nach welchem Prinzip erzeugt ChatGPT seine Antworten?",
+   "answer": "nach Wahrscheinlichkeit aus Trainingsdaten",
+   "distractors": [
+    "durch Nachschlagen in Wikipedia",
+    "durch echtes Verstehen der Frage",
+    "durch Abfrage einer Faktendatenbank"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "GPT steht für Generative Pre-trained Transformer und klingt komplizierter, als es ist. Das Modell denkt nicht nach, es rechnet aus, welches Wort am wahrscheinlichsten als nächstes kommt. Deshalb klingt es so menschlich und liegt trotzdem manchmal daneben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "KI",
+    "Sprachmodelle"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 583,
+   "speaker": "Elke Höfler",
+   "quote": "man kann sich vielleicht so bisschen auch vorstellen wie wenn man ein Smoothie macht dann hat man ja da Obst und Gemüse rein was man halt so gerade im Kühlschrank hat und am Ende mixt man das durch",
+   "quote_clean": "Man kann sich das vielleicht so vorstellen, wie wenn man einen Smoothie macht: Da kommt Obst und Gemüse rein, was man halt gerade im Kühlschrank hat, und am Ende mixt man das durch.",
+   "statement": "Elke Höfler vergleicht den Trainingsdatensatz einer KI mit einem Smoothie: Alles wird vermixt, und am Ende weiß niemand mehr genau, was drin ist.",
+   "question": "Womit vergleicht Elke Höfler den Trainingsdatensatz einer KI?",
+   "answer": "mit einem Smoothie",
+   "distractors": [
+    "mit einer Bibliothek",
+    "mit einem Puzzle",
+    "mit einem Eintopf"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer den Smoothie trinkt, weiß nicht, ob irgendwo eine Spur Sellerie drin ist. Bei der KI ist es genauso: Was im Trainingsdatensatz steckt, wird nicht offengelegt. Also muss man alles, was rauskommt, selbst überprüfen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "KI",
+    "Trainingsdaten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 687,
+   "speaker": "Elke Höfler",
+   "quote": "und aktuell ist die KI noch so bisschen wie ich sage immer ganz salop wie ein pubertierendes Kind wenn",
+   "quote_clean": "Aktuell ist die KI noch ein bisschen, wie ich immer ganz salopp sage, wie ein pubertierendes Kind.",
+   "statement": "Die KI ist laut Elke Höfler derzeit wie ein pubertierendes Kind: Wer nicht genau sagt, was er will, bekommt nicht das, was er meint.",
+   "question": "Womit vergleicht Elke Höfler die heutige KI, wenn es ums Prompten geht?",
+   "answer": "mit einem pubertierenden Kind",
+   "distractors": [
+    "mit einem strengen Lehrer",
+    "mit einem neugierigen Kleinkind",
+    "mit einem müden Beamten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Sag einem Teenager „Räum dein Zimmer zusammen“ und schau, was passiert. Seine Definition von aufgeräumt ist halt nicht deine. Bei der KI genauso: Ohne gute Prompts spart man sich nichts, sondern macht sich sogar mehr Arbeit.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "KI",
+    "Prompting"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 805,
+   "speaker": "Elke Höfler",
+   "quote": "Familie richtigbst du aber under Österreicher jede Österreicherin wird sagen Schnitzel nur die KI nicht weil der Trainingsdatensatz ist primär englischsprachig",
+   "quote_clean": "Jeder Österreicher, jede Österreicherin wird sagen: Schnitzel. Nur die KI nicht, weil der Trainingsdatensatz primär englischsprachig ist.",
+   "statement": "Nach dem Lieblingsessen einer österreichischen Familie gefragt, nannte die KI nicht Schnitzel, sondern Kaiserschmarrn und Knödel, weil ihre Trainingsdaten vor allem englischsprachig sind.",
+   "question": "Welches Lieblingsessen nannte die KI für eine typische österreichische Familie?",
+   "answer": "Kaiserschmarrn und Knödel",
+   "distractors": [
+    "Wiener Schnitzel",
+    "Tafelspitz",
+    "Sachertorte"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Bild stammt laut Höfler eher aus „The Sound of Music“ und der Nachkriegszeit, als Fleisch teuer war. Harmlos, solange man selbst weiß, dass es Schnitzel wäre. Heikel wird's bei Themen, bei denen man keine Ahnung hat und das Stereotyp nicht erkennt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "KI",
+    "Stereotype",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 888,
+   "speaker": "Andreas Sator",
+   "quote": "da gibt's laut open DAF man die chgbt Macht so 300 Millionen Nutzer innen die dieses Tool regelmäßig verwenden auf der Welt",
+   "quote_clean": "Da gibt es laut OpenAI, der Firma, die ChatGPT macht, so 300 Millionen Nutzer:innen, die dieses Tool regelmäßig verwenden, auf der Welt.",
+   "statement": "Laut OpenAI nutzten zum Zeitpunkt der Aufnahme rund 300 Millionen Menschen weltweit ChatGPT regelmäßig.",
+   "question": "Wie viele Menschen nutzten laut OpenAI ChatGPT regelmäßig (Stand Ende 2024)?",
+   "answer": "rund 300 Millionen",
+   "distractors": [
+    "rund 30 Millionen",
+    "rund 1 Milliarde",
+    "rund 3 Milliarden"
+   ],
+   "number_value": 300,
+   "number_unit": "Millionen Nutzer:innen",
+   "slider_min": 10,
+   "slider_max": 3000,
+   "log_scale": true,
+   "aha": "300 Millionen in so kurzer Zeit ist ziemlich heftig. Umgekehrt heißt das aber auch: Der allergrößte Teil der Menschheit hatte damals noch nie damit zu tun.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "KI",
+    "ChatGPT"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 921,
+   "speaker": "Andreas Sator",
+   "quote": "es ist so ein Klassiker bei chgbt im Wort Erdbeere wie viele R kommen darin vor und dann ist es scheitert daran",
+   "quote_clean": "Es ist so ein Klassiker bei ChatGPT: Im Wort Erdbeere, wie viele R kommen darin vor? Und dann scheitert es daran.",
+   "statement": "Ein bekannter Test, an dem ChatGPT lange scheiterte: Buchstaben in einem Wort wie Erdbeere (Strawberry) richtig zu zählen.",
+   "question": "An welcher scheinbar simplen Aufgabe ist ChatGPT lange gescheitert?",
+   "answer": "die R in Erdbeere zählen",
+   "distractors": [
+    "eins plus eins rechnen",
+    "das heutige Datum nennen",
+    "einen Witz erzählen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Skeptiker:innen der Beweis, dass alles nur Hype ist. Der Grund ist eher banal: Sprachmodelle sehen Wörter nicht Buchstabe für Buchstabe, sondern in Stücken. Gut bei Texten, schlecht beim Zählen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "KI",
+    "ChatGPT"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1063,
+   "speaker": "Elke Höfler",
+   "quote": "weil wir der KI nämlich kein Feedback geben sondern wir sie übersetzt was wir lesen uns das durch und denken uns ja passt eh ungefähr dann kopieren wir das in ein Dokument und korrigieren dort weiter",
+   "quote_clean": "Weil wir der KI kein Feedback geben: Sie übersetzt, wir lesen uns das durch und denken uns, passt eh ungefähr, dann kopieren wir das in ein Dokument und korrigieren dort weiter.",
+   "statement": "Wer KI-Übersetzungen kopiert und erst woanders korrigiert, signalisiert dem System, dass die Übersetzung gepasst hat, und trainiert es so laut Elke Höfler in die falsche Richtung.",
+   "question": "Warum kann ein Übersetzungstool laut Elke Höfler mit der Zeit schlechter werden?",
+   "answer": "Nutzer korrigieren woanders, ohne Feedback",
+   "distractors": [
+    "weil die Server überlastet sind",
+    "weil es weniger Wörter speichert",
+    "weil Sprachen sich zu schnell ändern"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Tool sieht nur: Text wurde eins zu eins kopiert, also war die Übersetzung gut. Dass du sie danach im Word-Dokument umschreibst, kriegt es nicht mit. So verfestigen sich Wege, die eigentlich falsch sind.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "KI",
+    "Übersetzung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1144,
+   "speaker": "Elke Höfler",
+   "quote": "sind aber wer sagt noch Paradeis statt Tomate oder Erdapfel statt Kartoffel das sind halt so Vokabeln Wörter die verschwinden jetzt haben wir die extra damals beim EU Beitritt eintragen lassen",
+   "quote_clean": "Aber wer sagt noch Paradeis statt Tomate oder Erdapfel statt Kartoffel? Das sind Vokabeln, die verschwinden. Die haben wir extra damals beim EU-Beitritt eintragen lassen.",
+   "statement": "Österreich ließ beim EU-Beitritt eigene Wörter wie Paradeis und Erdapfel offiziell festschreiben, damit sie verwendet werden dürfen.",
+   "question": "Was hat Österreich beim EU-Beitritt extra eintragen lassen?",
+   "answer": "österreichische Wörter wie Paradeis und Erdapfel",
+   "distractors": [
+    "das Recht auf eigene Euro-Münzen",
+    "den Schilling als Zweitwährung",
+    "Dialekt als Amtssprache"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Paradeiser und Erdäpfel sind EU-rechtlich abgesichert. Gegen die KI hilft das wenig: Was wenige Menschen schreiben, ist für sie unwahrscheinlich, also spuckt sie es seltener aus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sprache",
+    "Österreich",
+    "EU"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1322,
+   "speaker": "Elke Höfler",
+   "quote": "das von der Firma Gardner herausgegeben wird also das ist nichts wissenschaftliches das möchte die vorwegschicken sondern das ist einfach eine Firma die hat etwas entwickelt um Beratungen verkaufen zu können",
+   "quote_clean": "Das von der Firma Gartner herausgegeben wird. Das ist nichts Wissenschaftliches, das möchte ich vorwegschicken, sondern einfach eine Firma, die etwas entwickelt hat, um Beratungen verkaufen zu können.",
+   "statement": "Der bekannte Gartner Hype Cycle ist kein wissenschaftliches Modell, sondern stammt von einer Beratungsfirma.",
+   "question": "Woher stammt der bekannte „Hype Cycle“ für neue Technologien?",
+   "answer": "von der Beratungsfirma Gartner",
+   "distractors": [
+    "von der Universität Stanford",
+    "vom MIT Media Lab",
+    "von der OECD"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Klingt nach Lehrbuch, ist aber ein Marketinginstrument: Gartner hat die Kurve entwickelt, um Beratungen zu verkaufen. Nützlich ist sie trotzdem, um Hypes einzuordnen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Technologie",
+    "Hype"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1393,
+   "speaker": "Elke Höfler",
+   "quote": "man begibt sich auf den sogenannten fad der Fat der Erleuchtung also ich fin total schönes Bild eigentlich und am Ende das Ziel ist dass man zum Plateau der Produktivität kommt",
+   "quote_clean": "Man begibt sich auf den sogenannten Pfad der Erleuchtung, ich finde, ein total schönes Bild, und am Ende ist das Ziel, dass man zum Plateau der Produktivität kommt.",
+   "statement": "Im Gartner Hype Cycle folgen auf den Gipfel der überzogenen Erwartungen das Tal der Enttäuschungen, der Pfad der Erleuchtung und schließlich das Plateau der Produktivität.",
+   "question": "Wie heißt die letzte Phase im Gartner Hype Cycle?",
+   "answer": "Plateau der Produktivität",
+   "distractors": [
+    "Gipfel der Erwartungen",
+    "Tal der Enttäuschungen",
+    "Pfad der Erleuchtung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am Plateau ist eine Technik, wenn niemand mehr fragt, ob sie gut oder schlecht ist, man setzt sie einfach ein. Der Taschenrechner ist dort. Viele Tools schaffen es aber nie aus dem Tal der Enttäuschungen heraus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Technologie",
+    "Hype"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1859,
+   "speaker": "Andreas Sator",
+   "quote": "das Zitat zwei Drittel der Menschen in den USA einen Job haben den es 1940 noch nicht gab",
+   "quote_clean": "Das Zitat: Zwei Drittel der Menschen in den USA haben einen Job, den es 1940 noch nicht gab.",
+   "statement": "Laut dem Arbeitsmarktökonomen David Autor haben rund zwei Drittel der Menschen in den USA einen Job, den es 1940 noch nicht gab.",
+   "question": "Rund zwei Drittel der US-Beschäftigten haben einen Job, den es in welchem Jahr noch nicht gab?",
+   "answer": "1940",
+   "distractors": [
+    "1980",
+    "1990",
+    "1870"
+   ],
+   "number_value": 1940,
+   "number_unit": "Jahr",
+   "slider_min": 1850,
+   "slider_max": 2010,
+   "log_scale": false,
+   "aha": "Hätte man 1940 jemanden gefragt, was die Enkel einmal arbeiten, wäre die Antwort meilenweit daneben gelegen. Genau deshalb ist es so schwer vorherzusagen, welche Jobs KI schafft und welche sie verschwinden lässt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Arbeit",
+    "Jobs",
+    "USA"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2096,
+   "speaker": "Elke Höfler",
+   "quote": "also die Kompetenzen 21 Jahrhundert gemeint sind aus dem Englischen CS man kann s auf Deutsch üersetzen mit Cars communication also Kommunikation collaboration die Zusammenarbeit die Kollaboration creativity für Kreativität und critical thinking für kritisches Denken",
+   "quote_clean": "Also die Kompetenzen des 21. Jahrhunderts, aus dem Englischen 4 Cs: Communication, also Kommunikation, Collaboration, die Zusammenarbeit, Creativity für Kreativität und Critical Thinking für kritisches Denken.",
+   "statement": "Die „4 C“ der 21st Century Skills sind Kommunikation, Kollaboration, Kreativität und kritisches Denken.",
+   "question": "Wofür stehen die „4 C“ der Zukunftskompetenzen?",
+   "answer": "Kommunikation, Kollaboration, Kreativität, kritisches Denken",
+   "distractors": [
+    "Coding, Controlling, Content, Cloud",
+    "Konzentration, Kontrolle, Kreativität, Kalkül",
+    "Charakter, Coaching, Computer, Compliance"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kein einziges der vier C ist Programmieren. Wer die vier beherrscht, kann laut Höfler problemlösungsorientiert denken und sich neue Wege in die Zukunft vorstellen, also genau das, was eine KI nicht für dich erledigt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bildung",
+    "Kompetenzen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2144,
+   "speaker": "Elke Höfler",
+   "quote": "oder die WT Disney Methode sind nur drei Rollen inem man schlüpft nämlich der Kritiker die Kritikerin der Träumer die Träumerin der Realist die",
+   "quote_clean": "Oder die Walt-Disney-Methode: nur drei Rollen, in die man schlüpft, nämlich der Kritiker, die Kritikerin, der Träumer, die Träumerin, der Realist, die Realistin.",
+   "statement": "Bei der Walt-Disney-Methode betrachtet man ein Problem nacheinander aus drei Rollen: Träumer, Realist und Kritiker.",
+   "question": "Welche drei Rollen nimmt man bei der Walt-Disney-Methode ein?",
+   "answer": "Träumer, Realist, Kritiker",
+   "distractors": [
+    "Held, Schurke, Erzähler",
+    "Chef, Kunde, Mitarbeiter",
+    "Optimist, Pessimist, Zyniker"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Erst darf man spinnen, dann wird geprüft, was machbar ist, dann wird kritisiert. Am besten gemeinsam mit anderen, eventuell sogar mit der KI. Klingt nach Kreativ-Workshop, ist laut Höfler aber Training für visionäres Denken.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kreativität",
+    "Methoden"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2534,
+   "speaker": "Elke Höfler",
+   "quote": "wir brauchen genau das was Dieter B in den 70er Jahren in seiner Dissertation geschrieben hat und zwar hat er die Medienkompetenz definiert",
+   "quote_clean": "Wir brauchen genau das, was Dieter Baacke in den 70er-Jahren geschrieben hat, und zwar hat er die Medienkompetenz definiert.",
+   "statement": "Der Begriff Medienkompetenz geht auf den Pädagogen Dieter Baacke zurück, der ihn in den 1970er-Jahren definierte.",
+   "question": "Wer hat den Begriff „Medienkompetenz“ in den 1970er-Jahren geprägt?",
+   "answer": "Dieter Baacke",
+   "distractors": [
+    "Marshall McLuhan",
+    "Neil Postman",
+    "Niklas Luhmann"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein rund 50 Jahre altes Modell aus der Zeit der Massenmedien, und laut Höfler aktueller denn je. Baacke unterscheidet etwa Medienkunde, Mediengestaltung und Medienkritik: wissen, wie Medien funktionieren, wie sie gemacht sind und was sie mit uns machen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Medien",
+    "Bildung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2608,
+   "speaker": "Elke Höfler",
+   "quote": "boulevar ist eene Genre ab dem 19 Jahrhundert aber Social Media arbeitet mit den gleichen Prinzipien",
+   "quote_clean": "Boulevard ist ein Genre ab dem 19. Jahrhundert, aber Social Media arbeitet mit den gleichen Prinzipien.",
+   "statement": "Boulevardjournalismus gibt es seit dem 19. Jahrhundert, und Social Media arbeitet nach denselben Prinzipien.",
+   "question": "Seit welchem Jahrhundert gibt es Boulevardjournalismus?",
+   "answer": "seit dem 19. Jahrhundert",
+   "distractors": [
+    "seit dem 16. Jahrhundert",
+    "seit dem 17. Jahrhundert",
+    "seit dem 20. Jahrhundert"
+   ],
+   "number_value": 19,
+   "number_unit": "Jahrhundert",
+   "slider_min": 12,
+   "slider_max": 22,
+   "log_scale": false,
+   "aha": "Die Boulevardisierung durch Social Media ist also nichts Neues. Neu ist nur, dass wir es nicht mehr so nennen. Aufmerksamkeit um jeden Preis gab's schon lang vor TikTok.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Medien",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3912,
+   "speaker": "Elke Höfler",
+   "quote": "das sindmer wieder beim Faktenwissen wer nichts weiß muss alles glauben ich kann nichts begründen wenn ich nichts weiß",
+   "quote_clean": "Da sind wir wieder beim Faktenwissen: Wer nichts weiß, muss alles glauben. Ich kann nichts begründen, wenn ich nichts weiß.",
+   "statement": "Elke Höfler betont, dass man ohne Faktenwissen nichts begründen kann und alles glauben muss.",
+   "question": "Wer sagt im Gespräch über KI: „Wer nichts weiß, muss alles glauben“?",
+   "answer": "Elke Höfler",
+   "distractors": [
+    "Andreas Sator",
+    "David Autor",
+    "Manfred Spitzer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Höfler ist das der Kern, warum wir mit KI mehr wissen müssen, nicht weniger. Wer eine Entscheidung begründen will, auch die, einen KI-Text zu verwenden, braucht eigenes Wissen. Sonst bleibt nur glauben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bildung",
+    "Faktenwissen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3239,
+   "speaker": "Elke Höfler",
+   "quote": "aber wenn die Schule keinen Ort der Muße mehr darstellt dann ist sie keine Schule mehr",
+   "quote_clean": "Aber wenn die Schule keinen Ort der Muße mehr darstellt, dann ist sie keine Schule mehr.",
+   "statement": "Elke Höfler zitiert sinngemäß Nietzsche: Eine Schule ohne Muße ist keine Schule mehr.",
+   "question": "Welchen Ort braucht die Schule laut dem Zitat, das Elke Höfler Nietzsche zuschreibt?",
+   "answer": "einen Ort der Muße",
+   "distractors": [
+    "einen Ort der Disziplin",
+    "einen Ort des Wettbewerbs",
+    "einen Ort der Technik"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kinder, die dauernd bespaßt werden, kennen keine Langeweile mehr. Höfler meint: Wir brauchen geistige Leerläufe, um zu verarbeiten, was wir wahrnehmen. Vielleicht sogar als eigenes Unterrichtsfach.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schule",
+    "Muße"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3845,
+   "speaker": "Elke Höfler",
+   "quote": "dieses auswendig lernen wir nennen es ganz liebevoll pulimie lernen wir füttern uns quasi vor einer Prüfung mit einem Wissen an dann kotzt man das be",
+   "quote_clean": "Dieses Auswendiglernen, wir nennen es ganz liebevoll Bulimie-Lernen: Wir füttern uns vor einer Prüfung mit Wissen an, dann kotzt man das bei der Prüfung aus, und dann ist es weg.",
+   "statement": "Elke Höfler kritisiert das reine Auswendiglernen vor Prüfungen als „Bulimie-Lernen“, bei dem das Wissen danach wieder weg ist.",
+   "question": "Wie nennt Elke Höfler das Auswendiglernen kurz vor einer Prüfung?",
+   "answer": "Bulimie-Lernen",
+   "distractors": [
+    "Turbo-Lernen",
+    "Fast-Food-Lernen",
+    "Last-Minute-Pauken"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Reinstopfen, auskotzen, vergessen. Die KI macht laut Höfler sichtbar, dass Schule zu sehr aufs Endprodukt schaut statt auf den Weg dorthin. Wer den Prozess begleitet, lernt Strategien, die bleiben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schule",
+    "Lernen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 4314,
+   "speaker": "Elke Höfler",
+   "quote": "Buchempfehlung von rosa gibt's das Buch Beschleunigung und er sagt die also grundsätzlich so Kernaussage die also die die digitalen Technologien per se die bringen uns viel Zeit sie sparen uns Zeit ein",
+   "quote_clean": "Eine Buchempfehlung: Von Rosa gibt es das Buch Beschleunigung, und seine Kernaussage ist, die digitalen Technologien bringen uns viel Zeit, sie sparen uns Zeit ein.",
+   "statement": "Laut dem Soziologen Hartmut Rosa sparen digitale Technologien Zeit ein, wir füllen sie aber sofort mit anderen Dingen und werden dadurch nicht entspannter.",
+   "question": "Was passiert laut Hartmut Rosa mit der Zeit, die uns Technik einspart?",
+   "answer": "wir füllen sie mit noch mehr",
+   "distractors": [
+    "wir gewinnen echte Freizeit",
+    "wir schlafen mehr",
+    "wir arbeiten insgesamt weniger"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Technik spart Zeit, und trotzdem setzen wir uns nicht mal mehr auf einen Kaffee hin, sondern rennen mit Coffee to go und Handy herum. Höfler hofft, dass KI uns Zeit freispielt, aber Rosa ist da eher skeptisch.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gesellschaft",
+    "Zeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1013,
+   "speaker": "Elke Höfler",
+   "quote": "ich fahre irgendwohin mit Google Maps oder am anderen Navigationsgerät steckt die KI dahinter die mir den Weg berechnet also die KI ist schon in so vielen Bereichen drinnen",
+   "quote_clean": "Ich fahre irgendwohin mit Google Maps oder einem anderen Navigationsgerät, da steckt die KI dahinter, die mir den Weg berechnet. Die KI ist schon in so vielen Bereichen drinnen.",
+   "statement": "Auch wer glaubt, keine KI zu nutzen, tut es meist doch: etwa bei Autokorrektur, Navigation, Suchergebnissen oder Produktvorschlägen im Onlinehandel.",
+   "question": "Wo steckt laut Elke Höfler schon lange KI drin, oft ohne dass wir es merken?",
+   "answer": "in Navi, Autokorrektur und Suchmaschine",
+   "distractors": [
+    "nur in teuren Spezialprogrammen",
+    "fast nur in Robotern",
+    "nur in Militärtechnik"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "„Das könnte Sie auch interessieren“, die Autokorrektur, die besser weiß, was du schreiben willst, der Weg im Navi: alles KI. Wer sagt, er nutzt das nicht, nutzt es also längst, nur eben unbewusst.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "KI",
+    "Alltag"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 4882,
+   "speaker": "Andreas Sator",
+   "quote": "am Ende frage ich immer nach Büchertipps du hast schon so viele gegeben gibt's noch ein Buch das dir am Herzen liegt",
+   "quote_clean": "Am Ende frage ich immer nach Büchertipps. Du hast schon so viele gegeben, gibt's noch ein Buch, das dir am Herzen liegt?",
+   "statement": "Andreas Sator fragt seine Gäste am Ende jeder Folge nach Büchertipps.",
+   "question": "Wonach fragt Andreas seine Gäste am Ende einer Folge immer?",
+   "answer": "nach Büchertipps",
+   "distractors": [
+    "nach ihrem Lieblingsessen",
+    "nach ihrer größten Angst",
+    "nach ihrem Lieblingsort in Wien"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Elke Höfler hatte da schon eine halbe Bibliothek empfohlen und legte trotzdem nach, unter anderem Katharina Zweigs „Die KI war's!“. Die Liste steht wie immer in der Folgenbeschreibung.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "EMDW",
+    "Bücher"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 4100,
+   "speaker": "Elke Höfler",
+   "quote": "da gibt's diesen Running Gag unter Lehrerinnen und Lehrer nenne zwei Gründe warum du Lehrer geworden bist Juli und",
+   "quote_clean": "Da gibt's diesen Running Gag unter Lehrerinnen und Lehrern: Nenne zwei Gründe, warum du Lehrer geworden bist. Juli und August.",
+   "statement": "Unter Lehrkräften kursiert der Running Gag: Zwei Gründe, Lehrer zu werden? Juli und August.",
+   "question": "Welche zwei Gründe, Lehrer zu werden, nennt der Running Gag, den Elke Höfler erzählt?",
+   "answer": "Juli und August",
+   "distractors": [
+    "Weihnachten und Ostern",
+    "Gehalt und Pension",
+    "Montag und Freitag"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ihr Geografielehrer hat ihr das schon im Gymnasium so erzählt, war aber trotzdem ein guter Lehrer, Grüße gehen raus. Höfler meint ernsthaft: Wer ohne Begeisterung nur Dienst nach Vorschrift macht, hat in der Schule wenig verloren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schule",
+    "Lehrer"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 4710,
+   "speaker": "Elke Höfler",
+   "quote": "foliendesigner von PowerPoint ich bin nämlich so ein Monk ich hasse es wenn bei einer Folie so Teile um Millimeter verschoben sind",
+   "quote_clean": "Den Foliendesigner von PowerPoint. Ich bin nämlich so ein Monk, ich hasse es, wenn bei einer Folie Teile um Millimeter verschoben sind.",
+   "statement": "Elke Höflers liebstes KI-Werkzeug ist der Foliendesigner in PowerPoint, weil sie verschobene Elemente auf Folien nicht aushält.",
+   "question": "Welches KI-Tool nennt Elke Höfler als Erstes, wenn sie nach ihren Lieblingswerkzeugen gefragt wird?",
+   "answer": "den Foliendesigner in PowerPoint",
+   "distractors": [
+    "den Bildgenerator Midjourney",
+    "die Sprachsuche von Siri",
+    "den Musikgenerator Suno"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Früher hat sie Stunden damit verbracht, Folien millimetergenau auszurichten. Jetzt erledigt das die KI, und ihr innerer Monk ist zufrieden. Täglich nutzt sie aber vor allem ChatGPT, auch für die Frage, was man aus dem Kühlschrank kochen kann.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "KI",
+    "Alltag"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "340",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

@@ -1,0 +1,592 @@
+{
+ "theme": "Wirtschaft & Arbeit",
+ "summary": "Tilman Eder vom Erlkönig erklärt, wie man eine kleine Buchhandlung aufmacht, was an einem Buch hängen bleibt und warum er trotzdem bleibt.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1235,
+   "speaker": "Tilman Eder",
+   "quote": "vom Ladenpreis bleibt ungefähr eine eine apartmenge von so zwischen 30 und 40 Prozent bei mir das wäre jetzt bei 20 Euro 6 bis 8 ja Euro die dann bei dir bleiben",
+   "quote_clean": "Vom Ladenpreis bleibt ungefähr eine Spanne von zwischen 30 und 40 Prozent bei mir. Das wäre jetzt bei 20 Euro 6 bis 8 Euro, die dann bei dir bleiben.",
+   "statement": "Einer kleinen Buchhandlung bleiben vom Ladenpreis eines Buches ungefähr 30 bis 40 Prozent.",
+   "question": "Wie viel Prozent vom Ladenpreis eines Buches bleiben ungefähr bei einer kleinen Buchhandlung?",
+   "answer": "30 bis 40 Prozent",
+   "distractors": [
+    "5 bis 10 Prozent",
+    "15 bis 20 Prozent",
+    "55 bis 65 Prozent"
+   ],
+   "number_value": 35,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Bei einem 20-Euro-Buch sind das 6 bis 8 Euro, und davon gehen noch Miete, Strom und Umsatzsteuer weg. Buchhändler schlagen nicht wie bei Pullovern etwas drauf, sie bekommen einen Rabatt vom fixen Ladenpreis, und große Ketten handeln sich mehr heraus als kleine Läden.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Buchhandel",
+    "Marge"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1072,
+   "speaker": "Andreas Sator",
+   "quote": "ich habe mal überlegt ein Buch im Eigenverlag herauszugehen also online weil man ja zum Beispiel mein Buch hat gekostet 22 Euro als Autor kriegt man davon ein bisschen weniger als zwei Euro",
+   "quote_clean": "Ich habe mal überlegt, ein Buch im Eigenverlag herauszugeben, online, weil zum Beispiel mein Buch hat 22 Euro gekostet, als Autor kriegt man davon ein bisschen weniger als zwei Euro.",
+   "statement": "Von einem 22-Euro-Buch bekommt der Autor bei einem Verlag etwas weniger als zwei Euro.",
+   "question": "Wie viel Euro bekommt ein Autor ungefähr von einem Buch, das 22 Euro kostet?",
+   "answer": "Etwas weniger als 2 Euro",
+   "distractors": [
+    "Etwa 5 Euro",
+    "Etwa 8 Euro",
+    "Etwa 11 Euro"
+   ],
+   "number_value": 2,
+   "number_unit": "Euro",
+   "slider_min": 0,
+   "slider_max": 15,
+   "log_scale": false,
+   "aha": "Das sind keine zehn Prozent vom Preis. Den Rest teilen sich Verlag, Druck, Vertrieb und Buchhandlung, weshalb Andreas mit dem Gedanken an den Eigenverlag gespielt hat. Reich wird man vom Bücherschreiben also eher nicht, vom Bücherverkaufen übrigens auch nicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Autor",
+    "Buchpreis"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1264,
+   "speaker": "Tilman Eder",
+   "quote": "die Buchhändler sind verpflichtet einen Mindestpreis für dieses Buch einzuhalten und dürfen es nicht darunter verkaufen weil sonst die Gefahr besteht das große Buchhandlungen die die Verlage so erpressen können dass sie dass sie mehr Rabatt bekommen",
+   "quote_clean": "Die Buchhändler sind verpflichtet, einen Mindestpreis für dieses Buch einzuhalten, und dürfen es nicht darunter verkaufen, weil sonst die Gefahr besteht, dass große Buchhandlungen die Verlage so erpressen können, dass sie mehr Rabatt bekommen.",
+   "statement": "Wegen der Buchpreisbindung in Österreich dürfen Buchhändler ein Buch nicht unter einem festgelegten Mindestpreis verkaufen.",
+   "question": "Was regelt die Buchpreisbindung in Österreich?",
+   "answer": "Bücher dürfen nicht billiger verkauft werden",
+   "distractors": [
+    "Bücher dürfen nur im Laden verkauft werden",
+    "Verlage müssen Bücher zurücknehmen",
+    "Autoren bekommen einen fixen Anteil"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ohne Mindestpreis könnten große Ketten, die tausende Stück auf einmal nehmen, Bestseller billiger hergeben als der kleine Laden, der vom selben Titel erst einmal fünf bestellt. Die Preisbindung soll genau diese Konzentration verhindern.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Buchpreisbindung",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1319,
+   "speaker": "Tilman Eder",
+   "quote": "diejenigen großen Buchhandelsketten die kämpfen oder immer gekämpft haben gegen den Ladenpreis für die für die Abschaffung dieser Buchpreisbindung weil sie gemeinsam dadurch würden Bücher billiger seitdem ist den Mindestpreis gibt die Bücher teurer verkaufen als in eigenen anderen in allen anderen Buchhandlungen weil sie hinten immer auf 90 Cent auf",
+   "quote_clean": "Diejenigen großen Buchhandelsketten, die immer gegen die Buchpreisbindung gekämpft haben, weil dadurch Bücher billiger würden, verkaufen, seitdem es den Mindestpreis gibt, die Bücher teurer als alle anderen Buchhandlungen, weil sie hinten immer auf 90 Cent aufrunden.",
+   "statement": "Laut Tilman Eder runden große Buchhandelsketten den Mindestpreis oft auf 90 Cent auf und verkaufen Bücher damit teurer als kleine Läden.",
+   "question": "Was machen große Buchhandelsketten laut Tilman Eder mit dem Mindestpreis eines Buches?",
+   "answer": "Sie runden auf 90 Cent auf",
+   "distractors": [
+    "Sie runden auf ganze Euro ab",
+    "Sie geben zehn Prozent Rabatt",
+    "Sie verlangen genau den Mindestpreis"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Taschenbuch, das bei ihm 12,40 Euro kostet, liegt bei der Kette auf der Straße um 12,90 Euro. Der Mindestpreis ist eben nur ein Mindestpreis, nach oben darf man. Das Argument, ohne Preisbindung würde alles billiger, schaut damit ein bisschen anders aus.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Buchpreisbindung",
+    "Ketten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 783,
+   "speaker": "Tilman Eder",
+   "quote": "ich bestelle mal 100 Bücher das theoretisch jeder der kommen könnte auch eins kriegt ja und dann rufe ich beim Verlag an unser ich weiß nicht wie viele Leute bekommen liegt mir 100 Bücher unter der Bedingung dass ich auch 70 davon zurückschicken darf wenn nur 30 Bücher verkauft werden",
+   "quote_clean": "Ich bestelle mal 100 Bücher, damit theoretisch jeder, der kommen könnte, auch eins kriegt. Und dann rufe ich beim Verlag an: Ich weiß nicht, wie viele Leute kommen, liefert mir 100 Bücher unter der Bedingung, dass ich auch 70 davon zurückschicken darf, wenn nur 30 Bücher verkauft werden.",
+   "statement": "Buchhändler können mit Verlagen oft vereinbaren, unverkaufte Bücher etwa nach einer Buchpräsentation zurückzuschicken.",
+   "question": "Wie kann eine Buchhandlung das Risiko senken, wenn sie für eine Lesung viele Bücher bestellt?",
+   "answer": "Rückgaberecht mit dem Verlag vereinbaren",
+   "distractors": [
+    "Bücher vorab an Gäste verkaufen",
+    "Den Autor die Bücher zahlen lassen",
+    "Bücher nach der Lesung verbilligen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Verlage spielen oft mit, weil sich ein Buch eher verkauft, wenn es im Regal steht. Selbstverständlich ist das aber nicht: Im Regelfall trägt der Händler das Risiko und muss freundlich bitte bitte sagen, etwa wenn der Vertreter ihm wieder einen angeblich großartigen Krimi einreden will.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Buchhandel",
+    "Verlage",
+    "Risiko"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2299,
+   "speaker": "Tilman Eder",
+   "quote": "vielleicht vielleicht ist sehen eher zehn Prozent sind die für den 100% des Umsatzes Sorgen weil es einfach auch Segment oder Nein 10% der der Titel sorgen für 80% des Untersuchung ja genau",
+   "quote_clean": "Vielleicht sind es eher zehn Prozent, nein, zehn Prozent der Titel sorgen für 80 Prozent des Umsatzes.",
+   "statement": "Im Buchhandel sorgen laut Tilman Eder eher 10 Prozent der Titel für 80 Prozent des Umsatzes, also weniger als die klassischen 20 Prozent nach dem Pareto-Prinzip.",
+   "question": "Wie viel Prozent der Titel sorgen im Buchhandel laut Tilman Eder für 80 Prozent des Umsatzes?",
+   "answer": "Etwa 10 Prozent",
+   "distractors": [
+    "Etwa 30 Prozent",
+    "Etwa 45 Prozent",
+    "Etwa 60 Prozent"
+   ],
+   "number_value": 10,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Andreas hat mit der bekannten 80/20-Regel gefragt, Tilman hält es im Buchhandel für noch extremer. Bei ihm gehören viel österreichische Literatur und Krimis zu diesen Rennern. Der Rest ist das Salz in der Suppe, das er sich bewusst ins Lager legt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Pareto",
+    "Umsatz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1467,
+   "speaker": "Tilman Eder",
+   "quote": "die sind ja genauso schnell wie diese Amerikaner das heißt wenn du bei mir im Buch bestellst heute dann ist es morgen auch da alle höchstwahrscheinlich",
+   "quote_clean": "Die sind ja genauso schnell wie diese Amerikaner. Das heißt, wenn du bei mir heute ein Buch bestellst, dann ist es höchstwahrscheinlich morgen auch da.",
+   "statement": "Ein in einer Wiener Buchhandlung bestelltes Buch ist meist schon am nächsten Tag da, also ähnlich schnell wie beim Onlinehandel.",
+   "question": "Wie schnell ist ein Buch meist da, das du in einer Wiener Buchhandlung bestellst?",
+   "answer": "Am nächsten Tag",
+   "distractors": [
+    "Nach etwa einer Woche",
+    "Nach zwei bis drei Wochen",
+    "Nach etwa einem Monat"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Buchhändler schauen online bei Großhändlern nach, wer das Buch lagernd hat, und bekommen jeden Tag Lieferungen. Du musst dann auch kein Paket beim Schuster oder im Kaffeehaus abholen, sondern gehst einfach ums Eck.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Buchhandel",
+    "Logistik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1041,
+   "speaker": "Tilman Eder",
+   "quote": "weil es immer wieder auch Titel gibt die die die kurzfristige erscheinen und da ist zum Beispiel die Vorlaufzeit einen ein Verlagsprogramm zu drucken und das zweimal im Jahr das ist dann einfach zu lang",
+   "quote_clean": "Weil es immer wieder auch Titel gibt, die kurzfristig erscheinen, und da ist die Vorlaufzeit, ein Verlagsprogramm zu drucken, und das zweimal im Jahr, dann einfach zu lang.",
+   "statement": "Verlage drucken ihr Programm mit den Neuerscheinungen typischerweise zweimal im Jahr.",
+   "question": "Wie oft im Jahr bringen Verlage typischerweise ein gedrucktes Programm mit ihren Neuerscheinungen heraus?",
+   "answer": "Zweimal im Jahr",
+   "distractors": [
+    "Einmal im Monat",
+    "Viermal im Jahr",
+    "Alle zwei Jahre"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Frühjahr und Herbst, danach richten Vertreter ihre Besuche bei den Buchhandlungen aus. Was kurzfristig kommt, etwa ein Kochbuch mit Rezepten von Schauspielern aus der Josefstadt, erfährt der Händler per Mail oder Social Media.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Verlage",
+    "Neuerscheinungen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1115,
+   "speaker": "Tilman Eder",
+   "quote": "veröffentlichen oder in diesen anderen Verlagen die durchaus ein zwielichtiges Geschäftsmodell die Geld dafür nehmen dass dass sie das Buch drucken sonst aber überhaupt nichts dafür tun",
+   "quote_clean": "Veröffentlichen oder in diesen anderen Verlagen, die durchaus ein zwielichtiges Geschäftsmodell haben, die Geld dafür nehmen, dass sie das Buch drucken, sonst aber überhaupt nichts dafür tun.",
+   "statement": "Es gibt Verlage, die von Autor:innen Geld dafür nehmen, ein Buch zu drucken, sich danach aber nicht weiter um den Verkauf kümmern.",
+   "question": "Was ist laut Tilman Eder das zwielichtige Geschäftsmodell mancher Verlage?",
+   "answer": "Autoren zahlen fürs Drucken, sonst passiert nichts",
+   "distractors": [
+    "Sie drucken Bücher ohne Lizenz nach",
+    "Sie verkaufen nur über Amazon",
+    "Sie zahlen Autoren gar kein Honorar"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Normalerweise zahlt der Verlag den Autor, nicht umgekehrt. Wer bei so einem Anbieter oder im Eigenverlag landet, steht oft bei Tilman im Laden, weil das Buch sonst nirgends liegt und der Buchhändler es nicht einmal im Computer findet.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Verlage",
+    "Eigenverlag"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2477,
+   "speaker": "Tilman Eder",
+   "quote": "also man setzt sich aufs Sofa und hat mit einem Buch einfach eine totale Entspannung und ob man das jetzt Detox nennt oder sonst irgendein moderne Begriff dafür damit will ich sagen das Lesen wird nie unmodern werden sozusagen solange man einfach auch Entspannung sucht",
+   "quote_clean": "Man setzt sich aufs Sofa und hat mit einem Buch einfach eine totale Entspannung, und ob man das jetzt Detox nennt oder sonst irgendeinen modernen Begriff dafür: Das Lesen wird nie unmodern werden, solange man einfach auch Entspannung sucht.",
+   "statement": "Tilman Eder glaubt, dass Lesen nie unmodern wird, weil ein Buch Entspannung ohne Akku und Ladegerät bietet.",
+   "question": "Wer sagt im Podcast, dass das Lesen nie unmodern wird, solange man Entspannung sucht?",
+   "answer": "Tilman Eder",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Verlagsvertreterin",
+    "Ein Hörer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas hat sich selbst zur Generation mit fünf Sekunden Aufmerksamkeitsspanne gezählt. Tilman macht sich trotzdem keine Sorgen: Immer mehr Leute merken, wie gut ein Ding tut, das kein Ladegerät braucht.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Lesen",
+    "Entspannung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 401,
+   "speaker": "Tilman Eder",
+   "quote": "sozusagen sich zu sich zu positionieren in und für sich selber eine Nische zu finden wenn schon drei Läden dort sind die rote Socken verkaufen dann verkaufe ich grüne",
+   "quote_clean": "Sich zu positionieren und für sich selber eine Nische zu finden: Wenn schon drei Läden dort sind, die rote Socken verkaufen, dann verkaufe ich grüne.",
+   "statement": "Wer ein Geschäft eröffnet, sollte schauen, wer schon vor Ort ist, und sich eine Nische suchen.",
+   "question": "Wer erklärt die Nischensuche so: Wenn schon drei Läden rote Socken verkaufen, verkaufe ich grüne?",
+   "answer": "Tilman Eder",
+   "distractors": [
+    "Andreas Sator",
+    "Peter Windischhofer",
+    "Donna Leon"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im 8. Bezirk gibt es einige Buchhandlungen, also hat Tilman auf Geschichte, Politik und vor allem österreichische Literatur gesetzt. So baut man Kompetenz auf und zieht ein Publikum an, das sich bei einem gut aufgehoben fühlt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Unternehmertum",
+    "Nische"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 264,
+   "speaker": "Tilman Eder",
+   "quote": "sollte man gar nicht so sehr auf Laufkundschaft setzen in dem Sinn sondern das was das Beste ist für einen Buchhandlung aber auch für jeden anderen Laden ist tatsächlich dass sich das durch mondpropaganda herum spricht",
+   "quote_clean": "Man sollte gar nicht so sehr auf Laufkundschaft setzen, sondern das Beste für eine Buchhandlung, aber auch für jeden anderen Laden, ist tatsächlich, dass es sich durch Mundpropaganda herumspricht.",
+   "statement": "Für eine Buchhandlung und andere kleine Läden ist Mundpropaganda wichtiger als Laufkundschaft.",
+   "question": "Worauf sollte ein kleiner Laden laut Tilman Eder eher setzen als auf Laufkundschaft?",
+   "answer": "Auf Mundpropaganda",
+   "distractors": [
+    "Auf eine Straßenbahnhaltestelle",
+    "Auf große Schaufenster",
+    "Auf Rabattaktionen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Sein Laden ist so versteckt, dass Andreas zugibt, man läuft schnell vorbei. Im grätzlartigen 8. Bezirk sind aber viele zu Fuß unterwegs und erzählen weiter, wo es was gibt. Eine Haltestelle vor der Tür braucht es dafür nicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Einzelhandel",
+    "Lage"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1443,
+   "speaker": "Tilman Eder",
+   "quote": "dann heißt es noch lange nicht dass er in einem Buchhandlung dieses Buch auch bestellt hätte sozusagen also die Schnittmenge ist nicht ist nicht so groß wie man meinen möchte",
+   "quote_clean": "Dann heißt es noch lange nicht, dass er in einer Buchhandlung dieses Buch auch bestellt hätte. Die Schnittmenge ist nicht so groß, wie man meinen möchte.",
+   "statement": "Nicht jedes online bestellte Buch wäre sonst in einer Buchhandlung gekauft worden, darum nimmt Amazon dem Buchhandel weniger weg, als man denkt.",
+   "question": "Warum wird Amazon für den Buchhandel laut Tilman Eder überschätzt?",
+   "answer": "Online- und Ladenkäufer überschneiden sich wenig",
+   "distractors": [
+    "Amazon verkauft kaum deutsche Bücher",
+    "Amazon muss höhere Preise verlangen",
+    "Amazon liefert in Wien nicht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Was der Konzern an sich zieht, ist nicht eins zu eins das, was dem Laden fehlt. Viele bestellen dort ohnehin alles Mögliche, Bücher nur nebenbei. Und wer im Grätzl wohnt, bekommt das Buch beim Händler ums Eck genauso schnell.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Amazon",
+    "Einzelhandel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2051,
+   "speaker": "Tilman Eder",
+   "quote": "also man liest gern Bücher von Menschen die in der in einer ähnlichen Wirklichkeit gefangen sind sich damit herumschlagen oder in einer Wirklichkeit indem man selber bekommen könnte um zu sehen wie",
+   "quote_clean": "Man liest gern Bücher von Menschen, die in einer ähnlichen Wirklichkeit gefangen sind, sich damit herumschlagen, oder in einer Wirklichkeit, in die man selber kommen könnte, um zu sehen, wie",
+   "statement": "Viele lesen Romane über Menschen in ähnlichen Lebensrealitäten, um zu sehen, wie andere damit umgehen.",
+   "question": "Warum lesen viele Menschen laut Tilman Eder gern Romane über Leute in ähnlichen Lebensrealitäten?",
+   "answer": "Um zu sehen, wie andere damit umgehen",
+   "distractors": [
+    "Weil sie leichter zu lesen sind",
+    "Weil sie billiger angeboten werden",
+    "Weil Buchhändler sie öfter empfehlen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas nennt das psychologische Selbstvergewisserung. Deshalb laufen bei Tilman auch österreichische Autorinnen und Autoren so gut, und deshalb kommen nach den Krimis aus Chicago und New York irgendwann die Wien-Krimis.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Lesen",
+    "Psychologie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 722,
+   "speaker": "Tilman Eder",
+   "quote": "weißt du noch was durch was dich die Erstausstattung gekostet hat die Erstausstattung hat mich um die 50.000 Euro gekostet",
+   "quote_clean": "Weißt du noch, was dich die Erstausstattung gekostet hat? Die Erstausstattung hat mich um die 50.000 Euro gekostet.",
+   "statement": "Die erste Ausstattung mit Büchern hat Tilman Eder für seine kleine Buchhandlung rund 50.000 Euro gekostet.",
+   "question": "Wie viel Euro hat Tilman Eder die erste Ausstattung seiner kleinen Buchhandlung mit Büchern gekostet?",
+   "answer": "Rund 50.000 Euro",
+   "distractors": [
+    "Rund 8.000 Euro",
+    "Rund 20.000 Euro",
+    "Rund 150.000 Euro"
+   ],
+   "number_value": 50000,
+   "number_unit": "Euro",
+   "slider_min": 2000,
+   "slider_max": 300000,
+   "log_scale": true,
+   "aha": "Und das für einen Laden mit gut 40 Quadratmetern. Das Geld ist plötzlich in Büchern gebunden und fehlt woanders, darum muss man laut Tilman sehr gut rechnen können, und noch besser, je weniger Geld man hat.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Gründung",
+    "Kapital"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1608,
+   "speaker": "Tilman Eder",
+   "quote": "60 Bücher am Tag dann sind ungefähr bei 1500 wenn ich es richtig im Kopf gerechnet habe",
+   "quote_clean": "60 Bücher am Tag, dann sind wir ungefähr bei 1500, wenn ich es richtig im Kopf gerechnet habe.",
+   "statement": "Tilman Eder verkauft in seiner kleinen Buchhandlung rund 60 Bücher am Tag.",
+   "question": "Wie viele Bücher verkauft Tilman Eder ungefähr an einem Tag?",
+   "answer": "Rund 60 Bücher",
+   "distractors": [
+    "Rund 10 Bücher",
+    "Rund 25 Bücher",
+    "Rund 150 Bücher"
+   ],
+   "number_value": 60,
+   "number_unit": "Bücher",
+   "slider_min": 0,
+   "slider_max": 200,
+   "log_scale": false,
+   "aha": "Bei etwa 25 verkaufsoffenen Tagen kommt er so auf rund 1500 Bücher im Monat. Ob es sich am Monatsende ausgeht, bleibt trotzdem jedes Mal spannend, weil die Monate stark schwanken.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Buchhandel",
+    "Umsatz"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1692,
+   "speaker": "Tilman Eder",
+   "quote": "ich die Buchhaltung gibt es seit zwölf Jahren und ich verdiene jetzt immer noch ein bisschen nur ein wenig mehr als die Hälfte von dem was ich verdient habe wie ich angestellt war vor 12 Jahren",
+   "quote_clean": "Die Buchhandlung gibt es seit zwölf Jahren, und ich verdiene jetzt immer noch nur ein wenig mehr als die Hälfte von dem, was ich verdient habe, als ich vor zwölf Jahren angestellt war.",
+   "statement": "Nach zwölf Jahren mit eigener Buchhandlung verdient Tilman Eder nur etwas mehr als die Hälfte seines früheren Angestelltengehalts.",
+   "question": "Wie viel verdient Tilman Eder nach zwölf Jahren mit eigenem Laden im Vergleich zu seiner Zeit als Angestellter?",
+   "answer": "Etwas mehr als die Hälfte",
+   "distractors": [
+    "Ungefähr gleich viel",
+    "Etwa das Doppelte",
+    "Etwa ein Viertel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Viel Arbeit, wenig Brot, aber große Zufriedenheit, sagt er. Andreas zieht daraus am Ende einen Schluss: Wer über die Handelsspanne schimpft, sollte wissen, dass Läden wie dieser nur dank ihr überhaupt existieren.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Einkommen",
+    "Selbstständigkeit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 460,
+   "speaker": "Tilman Eder",
+   "quote": "in dem in an den Wänden waren alte Zeitungen und in einer Zeitung war drin ein Interview mit Prohaska und Polster ein halbes Jahr bevor sie nach Argentinien geflogen sind also ein halbes Jahr vor Cordoba",
+   "quote_clean": "An den Wänden waren alte Zeitungen, und in einer Zeitung war ein Interview mit Prohaska und Polster, ein halbes Jahr bevor sie nach Argentinien geflogen sind, also ein halbes Jahr vor Córdoba.",
+   "statement": "Beim Renovieren fand Tilman Eder in den Wänden alte Zeitungen, darunter ein Interview mit Fußballern ein halbes Jahr vor Córdoba.",
+   "question": "Was fand Tilman Eder beim Renovieren seines Geschäftslokals in den Wänden?",
+   "answer": "Zeitungen aus der Zeit vor Córdoba",
+   "distractors": [
+    "Einen alten Liebesbrief",
+    "Eine Erstausgabe von Schnitzler",
+    "Ein Bündel Schillinge"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Vier Monate lang haben er und Freunde das Lokal selbst hergerichtet, Decke verspachtelt, alles geputzt. Dabei tauchte ein Interview mit Prohaska auf, kurz bevor Österreich 1978 in Argentinien Deutschland schlug. Vorher war übrigens eine Friseurin drin, der Haarspray klebte noch auf den Heizkörpern.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Renovierung",
+    "Fußball"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2667,
+   "speaker": "Tilman Eder",
+   "quote": "das ist nämlich das Buch was ich am allermeisten verkauft habe ich in dieser Buchhandlung seit es gibt solche bukai komm ich erzähl dir eine Geschichte und das Buch habe ich deswegen am meisten verkauft weil jeder der es gelesen hat zurückkommt und es noch mal kauft zum Verschenken",
+   "quote_clean": "Das ist nämlich das Buch, das ich in dieser Buchhandlung, seit es sie gibt, am allermeisten verkauft habe: Jorge Bucay, Komm, ich erzähl dir eine Geschichte. Und das Buch habe ich deswegen am meisten verkauft, weil jeder, der es gelesen hat, zurückkommt und es noch mal kauft, zum Verschenken.",
+   "statement": "Das meistverkaufte Buch im Erlkönig ist Jorge Bucays „Komm, ich erzähl dir eine Geschichte“, weil Leser:innen es zum Verschenken nachkaufen.",
+   "question": "Welches Buch hat Tilman Eder in seiner Buchhandlung am häufigsten verkauft?",
+   "answer": "Komm, ich erzähl dir eine Geschichte",
+   "distractors": [
+    "Dope",
+    "Roman d'amour",
+    "Der neue Donna Leon"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Autor ist Psychologe in Argentinien und schreibt moderne Weisheitsgeschichten für große Kinder. Das Geheimnis des Erfolgs: Wer es gelesen hat, kommt wieder und kauft es noch einmal für jemand anderen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Bestseller",
+    "Buchtipp"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 2497,
+   "speaker": "Andreas Sator",
+   "quote": "magst du meinen HörerInnen zum Schluss noch drei Bücher empfehlen die sie ziemlich sicher noch nicht gelesen haben",
+   "quote_clean": "Magst du meinen Hörerinnen und Hörern zum Schluss noch drei Bücher empfehlen, die sie ziemlich sicher noch nicht gelesen haben?",
+   "statement": "Zum Schluss bittet Andreas den Buchhändler um drei Buchempfehlungen, die die Hörer:innen ziemlich sicher noch nicht kennen.",
+   "question": "Worum bittet Andreas den Buchhändler Tilman Eder zum Schluss der Folge?",
+   "answer": "Um drei unbekannte Buchempfehlungen",
+   "distractors": [
+    "Um seinen liebsten Wien-Krimi",
+    "Um einen Tipp für Gründer",
+    "Um eine Lesung aus seinem Buch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Herausgekommen sind ein harter Krimi von Sara Gran, ein schmaler Roman von Sylvie Schenk und Tilmans ewiger Bestseller von Jorge Bucay. Andreas wollte sich alle drei gleich kaufen, praktischerweise stand er ja schon im Laden.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Buchtipps",
+    "Abschlussfrage"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "240",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

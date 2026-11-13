@@ -1,0 +1,749 @@
+{
+ "theme": "Klima & Energie",
+ "summary": "Wien wird klimatisch zu Skopje: Sigrid Stagl erklärt, was das für unsere Wirtschaft heißt und wie Anpassung uns sogar reicher macht.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 219,
+   "speaker": "Sigrid Stagl",
+   "quote": "Und deswegen kann man mit der gleich dem gleichen Energieaufwand, z.B. wenn es um Verbrennermotoren im Vergleich zu batteriebetriebenen Elektrofahrzeugen geht, dreimal so weit fahren mit dem gleichen Energieansatz.",
+   "quote_clean": "Deswegen kann man mit dem gleichen Energieaufwand, wenn es um Verbrennermotoren im Vergleich zu batteriebetriebenen Elektrofahrzeugen geht, dreimal so weit fahren.",
+   "statement": "Ein batteriebetriebenes Elektroauto kommt mit derselben Energie etwa dreimal so weit wie ein Verbrenner.",
+   "question": "Wievielmal so weit kommt ein E-Auto mit derselben Energiemenge wie ein Verbrenner?",
+   "answer": "Etwa dreimal so weit",
+   "distractors": [
+    "Etwa gleich weit",
+    "Etwa eineinhalbmal so weit",
+    "Etwa zehnmal so weit"
+   ],
+   "number_value": 3,
+   "number_unit": "-mal so weit",
+   "slider_min": 1,
+   "slider_max": 8,
+   "log_scale": false,
+   "aha": "Beim Verbrenner geht der Großteil der Energie als Abwärme verloren, die beim Fahren einfach verpufft. Der Elektromotor setzt den Strom viel direkter in Bewegung um. Deshalb spart Elektrifizieren unterm Strich Energie.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mobilität",
+    "Elektrifizierung",
+    "Effizienz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 256,
+   "speaker": "Andreas Sator",
+   "quote": "Österreich hat sich um ähm, 2024 war die mittlere Temperatur Temperatur 3,1° höher als im langjährigen Mittel.",
+   "quote_clean": "2024 war die mittlere Temperatur in Österreich 3,1 Grad höher als im langjährigen Mittel.",
+   "statement": "2024 lag die mittlere Temperatur in Österreich 3,1 Grad über dem langjährigen Mittel.",
+   "question": "Um wie viel Grad war Österreich 2024 im Schnitt wärmer als im langjährigen Mittel?",
+   "answer": "3,1 Grad",
+   "distractors": [
+    "0,8 Grad",
+    "1,5 Grad",
+    "5,2 Grad"
+   ],
+   "number_value": 3.1,
+   "number_unit": "Grad Celsius",
+   "slider_min": 0,
+   "slider_max": 6,
+   "log_scale": false,
+   "aha": "Das ist deutlich mehr als der globale Schnitt, weil sich der Alpenraum stärker erhitzt. Über den Klimawandel muss man in Österreich also nicht mehr im Futur reden, man spürt ihn schon jeden Sommer.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Erwärmung",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 601,
+   "speaker": "Andreas Sator",
+   "quote": "Mich hat's noch mal geflasht, wie ich das nachgelesen habe. Österreich hat 50 Millionen Skitage im Jahr. Also, wenn ich drei Tage Skifahren gehe, sind das drei Skitage.",
+   "quote_clean": "Mich hat's noch mal geflasht, wie ich das nachgelesen habe: Österreich hat 50 Millionen Skitage im Jahr. Wenn ich drei Tage Skifahren gehe, sind das drei Skitage.",
+   "statement": "In Österreich werden pro Jahr rund 50 Millionen Skitage gezählt.",
+   "question": "Wie viele Skitage gibt es in Österreich pro Jahr ungefähr?",
+   "answer": "Rund 50 Millionen",
+   "distractors": [
+    "Rund 5 Millionen",
+    "Rund 15 Millionen",
+    "Rund 200 Millionen"
+   ],
+   "number_value": 50,
+   "number_unit": "Millionen Skitage",
+   "slider_min": 1,
+   "slider_max": 300,
+   "log_scale": true,
+   "aha": "Ein Skitag ist ein Mensch an einem Tag auf der Piste. Für so ein kleines Land ist das enorm, Österreich ist damit eine der größten Skinationen der Welt. Entsprechend viel hängt dran, wenn der Schnee ausbleibt.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Tourismus",
+    "Skifahren"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 771,
+   "speaker": "Sigrid Stagl",
+   "quote": "es gibt ja die Erfolgszahl 94% von österreichischem Strom wird schon aus erneuerbaren Energien generiert.",
+   "quote_clean": "Es gibt ja die Erfolgszahl: 94 Prozent von österreichischem Strom werden schon aus erneuerbaren Energien generiert.",
+   "statement": "Rund 94 Prozent des österreichischen Stroms stammen aus erneuerbaren Quellen.",
+   "question": "Wie viel Prozent des Stroms in Österreich kommen aus erneuerbaren Energien?",
+   "answer": "Rund 94 Prozent",
+   "distractors": [
+    "Rund 45 Prozent",
+    "Rund 65 Prozent",
+    "Rund 78 Prozent"
+   ],
+   "number_value": 94,
+   "number_unit": "Prozent",
+   "slider_min": 20,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Wasserkraft, Wind und Sonne machen Österreichs Strom fast schon grün. Klingt nach fast fertig, ist es aber nicht, weil Strom nur einen kleinen Teil des gesamten Energiebedarfs ausmacht.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Strom",
+    "Erneuerbare"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 781,
+   "speaker": "Sigrid Stagl",
+   "quote": "aber, dass Strom nur ungefähr 20% des gesamten Energiebedarfs ausmacht und der Rest in Mobilität und Wärme Großteils noch aus fossilen Quellen kommt.",
+   "quote_clean": "Aber Strom macht nur ungefähr 20 Prozent des gesamten Energiebedarfs aus, und der Rest in Mobilität und Wärme kommt großteils noch aus fossilen Quellen.",
+   "statement": "Strom macht in Österreich nur rund 20 Prozent des gesamten Energiebedarfs aus.",
+   "question": "Wie viel Prozent des gesamten Energiebedarfs in Österreich entfallen auf Strom?",
+   "answer": "Rund 20 Prozent",
+   "distractors": [
+    "Rund 5 Prozent",
+    "Rund 45 Prozent",
+    "Rund 70 Prozent"
+   ],
+   "number_value": 20,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Der große Brocken sind Verkehr und Heizen, und dort brennen noch immer Öl und Gas. Darum heißt es: Ölkessel und Gasthermen raus, Wärmepumpen rein, und Autos auf Strom umstellen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Energie",
+    "Strom",
+    "Wärme"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 839,
+   "speaker": "Sigrid Stagl",
+   "quote": "Nichthandelns sind ungefähr fünfmal so hoch wie die Kosten der Transformation. Das heißt, also, das Energiesystem, die Heizsysteme umzustellen, das verursacht Kosten, aber es nicht zu tun ist deutlich teurer.",
+   "quote_clean": "Die Kosten des Nichthandelns sind ungefähr fünfmal so hoch wie die Kosten der Transformation. Das Energiesystem und die Heizsysteme umzustellen verursacht Kosten, aber es nicht zu tun ist deutlich teurer.",
+   "statement": "Laut Studien sind die Kosten des Nichthandelns beim Klimawandel etwa fünfmal so hoch wie die Kosten der Transformation.",
+   "question": "Wievielmal so teuer wie die Klimawende ist es laut Studien, nichts zu tun?",
+   "answer": "Etwa fünfmal so teuer",
+   "distractors": [
+    "Etwa gleich teuer",
+    "Etwa doppelt so teuer",
+    "Etwa zwanzigmal so teuer"
+   ],
+   "number_value": 5,
+   "number_unit": "-mal so hoch",
+   "slider_min": 1,
+   "slider_max": 12,
+   "log_scale": false,
+   "aha": "Eine Studie im Auftrag des Europäischen Parlaments hat das systematisch angeschaut. Mehr Überschwemmungen und Produktivitätsverluste kosten richtig Geld. Eine Option, bei der weitermachen wie bisher gratis ist, gibt es leider nicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kosten",
+    "Klimapolitik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 876,
+   "speaker": "Sigrid Stagl",
+   "quote": "Wir zahlen jedes Jahr im Ausmaß von 8 bis 18 Milliarden Euro für für Importe von fossilen Energieträgern, je nachdem, wie hoch der Energiepreis halt ist. 2022 waren es 18 Milliarden Euro.",
+   "quote_clean": "Wir zahlen jedes Jahr 8 bis 18 Milliarden Euro für Importe von fossilen Energieträgern, je nachdem, wie hoch der Energiepreis ist. 2022 waren es 18 Milliarden Euro.",
+   "statement": "Österreich gibt jährlich 8 bis 18 Milliarden Euro für fossile Energieimporte aus, 2022 waren es 18 Milliarden.",
+   "question": "Wie viele Milliarden Euro hat Österreich 2022 für Importe fossiler Energie bezahlt?",
+   "answer": "18 Milliarden Euro",
+   "distractors": [
+    "3 Milliarden Euro",
+    "7 Milliarden Euro",
+    "45 Milliarden Euro"
+   ],
+   "number_value": 18,
+   "number_unit": "Milliarden Euro",
+   "slider_min": 1,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Wie viel es ist, hängt am Energiepreis: Im Krisenjahr 2022 waren es 18 Milliarden, zuletzt 8. Dieses Geld fließt oft an autoritäre Regime. Mit Sonne, Wind und Wasser bleibt es im Land.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Importe",
+    "Fossile",
+    "Unabhängigkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1278,
+   "speaker": "Sigrid Stagl",
+   "quote": "Derzeit ist die Zirkularität Rate weltweit. 9% in Europa ist 11% in Österreich ist 14%.",
+   "quote_clean": "Derzeit ist die Zirkularitätsrate weltweit 9 Prozent, in Europa 11 Prozent, in Österreich 14 Prozent.",
+   "statement": "Die Zirkularitätsrate liegt weltweit bei 9 Prozent, in Europa bei 11 und in Österreich bei 14 Prozent.",
+   "question": "Wie hoch ist die Zirkularitätsrate in Österreich, also der Anteil wiederverwendeter Rohstoffe?",
+   "answer": "14 Prozent",
+   "distractors": [
+    "4 Prozent",
+    "35 Prozent",
+    "60 Prozent"
+   ],
+   "number_value": 14,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Besser als der Durchschnitt, aber noch weit weg vom Ziel. Der Normalfall ist weiterhin: Rohstoffe ausgraben, verarbeiten, nutzen und als Müll wieder eingraben. Die Natur macht das übrigens nicht so.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Kreislaufwirtschaft",
+    "Rohstoffe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1326,
+   "speaker": "Andreas Sator",
+   "quote": "Die Pasterze der größte Gletscher in Österreich vom Großglockner geht jedes Jahr um 20 m zurück, wenn man sich die Fotos anschaut im Laufe der Zeit ist das echt dramatisch.",
+   "quote_clean": "Die Pasterze, der größte Gletscher Österreichs am Großglockner, geht jedes Jahr um 20 Meter zurück. Wenn man sich die Fotos im Laufe der Zeit anschaut, ist das echt dramatisch.",
+   "statement": "Die Pasterze, Österreichs größter Gletscher, zieht sich jedes Jahr um rund 20 Meter zurück.",
+   "question": "Um wie viele Meter zieht sich die Pasterze am Großglockner pro Jahr zurück?",
+   "answer": "Rund 20 Meter",
+   "distractors": [
+    "Rund 2 Meter",
+    "Rund 5 Meter",
+    "Rund 150 Meter"
+   ],
+   "number_value": 20,
+   "number_unit": "Meter pro Jahr",
+   "slider_min": 1,
+   "slider_max": 200,
+   "log_scale": true,
+   "aha": "Die Alpen erwärmen sich stärker als der globale Schnitt, und das sieht man an den Gletschern am deutlichsten. Wer alte und neue Fotos der Pasterze nebeneinanderlegt, kriegt eine Gänsehaut, und zwar keine von der Kälte.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Gletscher",
+    "Alpen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1557,
+   "speaker": "Sigrid Stagl",
+   "quote": "Wir haben das mal gemacht, Temperatur gemessen am Asphalt, wo kein Baum ist und dann unter einem Baum und das ist enorm, das sind 10 Grad Unterschied mindestens.",
+   "quote_clean": "Wir haben einmal die Temperatur am Asphalt gemessen, wo kein Baum ist, und dann unter einem Baum. Das ist enorm, das sind mindestens 10 Grad Unterschied.",
+   "statement": "Asphalt ohne Baum ist im Sommer mindestens 10 Grad heißer als der Boden im Schatten eines Baums.",
+   "question": "Um wie viel Grad unterscheidet sich die Temperatur am Asphalt in der Sonne und unter einem Baum mindestens?",
+   "answer": "Mindestens 10 Grad",
+   "distractors": [
+    "Etwa 1 Grad",
+    "Etwa 3 Grad",
+    "Mindestens 40 Grad"
+   ],
+   "number_value": 10,
+   "number_unit": "Grad",
+   "slider_min": 0,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Bäume spenden Schatten und kühlen durch Verdunstung. Straßenbegrünung ist darum keine Deko, sondern Klimaanpassung. Wien achtet bei Baugenehmigungen auch darauf, dass der Wind gut durch die Stadt ziehen kann.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Stadt",
+    "Hitze",
+    "Bäume"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1748,
+   "speaker": "Sigrid Stagl",
+   "quote": "Und man hat aber relativ bald gemerkt, das ist damals schon in den 90er Jahren gekippt, dass man mehr Energie für den Sommer fürs Kühlen gebraucht hat als fürs Heizen im Winter.",
+   "quote_clean": "Man hat aber relativ bald gemerkt, dass es schon in den 90er Jahren gekippt ist: Man hat mehr Energie fürs Kühlen im Sommer gebraucht als fürs Heizen im Winter.",
+   "statement": "Im 1982 eröffneten alten WU-Gebäude in Wien brauchte man schon in den 1990ern mehr Energie fürs Kühlen als fürs Heizen.",
+   "question": "Was passierte im glasreichen alten Gebäude der WU Wien schon in den 1990er Jahren?",
+   "answer": "Kühlen brauchte mehr Energie als Heizen",
+   "distractors": [
+    "Die Glaskuppel wurde komplett abgerissen",
+    "Heizen wurde fast gratis",
+    "Es bekam eine Fernwärmeanlage am Dach"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Früher baute man nach Süden mit viel Glas, um die Sonne als Gratisheizung zu nutzen. Im Sommer wird das zum Glashaus. Andreas und Sigrid haben beide dort studiert, also wissen sie, wovon sie reden.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Gebäude",
+    "Kühlen",
+    "Wien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1791,
+   "speaker": "Sigrid Stagl",
+   "quote": "Idealerweise physikalisch gesehen ist natürlich am besten, wenn sie in der Decke ist, weil kühle Luft fällt ab. Das heißt also, da wirkt sie am stärksten.",
+   "quote_clean": "Physikalisch gesehen ist es natürlich am besten, wenn die Flächenkühlung in der Decke ist, weil kühle Luft absinkt. Da wirkt sie am stärksten.",
+   "statement": "Flächenkühlung wirkt physikalisch am besten in der Decke, weil kühle Luft absinkt.",
+   "question": "Wo wirkt eine Flächenkühlung im Raum physikalisch am besten?",
+   "answer": "In der Decke",
+   "distractors": [
+    "Im Fußboden",
+    "Hinter den Fenstern",
+    "In der Eingangstür"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kalte Luft ist schwerer und sinkt nach unten, also verteilt sie sich von der Decke aus im ganzen Raum. Weil das schwer nachzurüsten ist, kann man auch eine Fußbodenheizung im Sommer einfach umdrehen, mit derselben Wärmepumpe.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kühlen",
+    "Physik",
+    "Wohnen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1848,
+   "speaker": "Andreas Sator",
+   "quote": "Es gibt ja die die Erwartung, dass über die nächsten Jahrzehnte das Klima in Wien so ähnlich sein wird wie in Skopje.",
+   "quote_clean": "Es gibt die Erwartung, dass das Klima in Wien über die nächsten Jahrzehnte so ähnlich sein wird wie in Skopje.",
+   "statement": "Das Klima in Wien soll in den nächsten Jahrzehnten jenem von Skopje in Nordmazedonien ähneln.",
+   "question": "Wessen heutigem Klima soll Wien in den nächsten Jahrzehnten ähneln?",
+   "answer": "Skopje in Nordmazedonien",
+   "distractors": [
+    "Oslo in Norwegen",
+    "Kairo in Ägypten",
+    "Dublin in Irland"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Skopje leben die Menschen auch und kommen durch den Sommer. Aber es braucht Anpassung: kühlere Wohnungen, mehr Grün, Hitzeschutz für Ältere. Produktiv im Homeoffice zu sein wird bei solchen Temperaturen eine eigene Disziplin.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wien",
+    "Klimazukunft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1899,
+   "speaker": "Sigrid Stagl",
+   "quote": "sobald sie dehydrieren, werden sie lethargisch und aufgrund der Lethargie dann trinken sie noch weniger. Das heißt, man muss sie dran erinnern, dass sie dass sie",
+   "quote_clean": "Sobald sie dehydrieren, werden sie lethargisch, und aufgrund der Lethargie trinken sie dann noch weniger. Man muss sie also daran erinnern, dass sie trinken.",
+   "statement": "Ältere Menschen werden bei Hitze durch Flüssigkeitsmangel lethargisch und trinken dadurch noch weniger, daher muss man sie ans Trinken erinnern.",
+   "question": "Warum muss man ältere Menschen bei Hitze ans Trinken erinnern?",
+   "answer": "Dehydrierung macht lethargisch, sie trinken weniger",
+   "distractors": [
+    "Hitze verstärkt das Durstgefühl zu stark",
+    "Wasser wird im Alter schlechter verdaut",
+    "Ältere vertragen kaltes Wasser nicht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Teufelskreis: Wer zu wenig trinkt, wird matt, und wer matt ist, trinkt noch weniger. Das hat man aus der großen Hitzewelle in Frankreich gelernt. Die Maßnahme ist simpel, muss aber organisiert werden, gerade wenn jemand allein lebt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Hitze",
+    "Gesundheit",
+    "Alter"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1952,
+   "speaker": "Sigrid Stagl",
+   "quote": "Meine Mutter hat mir schon erzählt, dass das ist über 30 Grad durften sie sie hat in den Büros gearbeitet in Wien durften sie nach Hause gehen, weil da ist man davon ausgegangen, da kann man nicht produktiv sein.",
+   "quote_clean": "Meine Mutter hat mir erzählt, sie hat in Büros in Wien gearbeitet, und über 30 Grad durften sie nach Hause gehen, weil man davon ausgegangen ist, dass man da nicht produktiv sein kann.",
+   "statement": "Sigrid Stagls Mutter durfte in den 1960ern im Wiener Büro bei über 30 Grad nach Hause gehen.",
+   "question": "Was durfte Sigrid Stagls Mutter in den 1960ern im Wiener Büro bei über 30 Grad?",
+   "answer": "Nach Hause gehen",
+   "distractors": [
+    "Barfuß arbeiten",
+    "Gratis Eis holen",
+    "Eine Stunde länger Mittag machen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Klimaanlagen gab es damals keine, und dass man bei Hitze kaum produktiv ist, war schon bekannt. Heute ist das gut belegt, und bei 30 heißen Tagen am Stück wäre so eine Regel eh nicht mehr finanzierbar.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Hitze",
+    "Arbeit",
+    "Produktivität"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2220,
+   "speaker": "Sigrid Stagl",
+   "quote": "Borkenkäfer hat es ja immer gegeben, nur die gestressten Bäume waren halt dann sind dem dem Borkenkäfer nicht mehr Herr geworden. Ja, also die Kombination Monokultur, Hitzestress und Borkenkäfer waren dann wirklich problematisch im Waldviertel.",
+   "quote_clean": "Borkenkäfer hat es immer gegeben, nur die gestressten Bäume sind des Borkenkäfers nicht mehr Herr geworden. Die Kombination Monokultur, Hitzestress und Borkenkäfer war dann wirklich problematisch im Waldviertel.",
+   "statement": "Den Borkenkäfer gab es immer, gefährlich wird er erst in Kombination mit Fichten-Monokulturen und Hitzestress.",
+   "question": "Warum richtet der Borkenkäfer heute so viel mehr Schaden an als früher?",
+   "answer": "Hitzegestresste Monokulturen können sich nicht wehren",
+   "distractors": [
+    "Er wurde erst vor Kurzem eingeschleppt",
+    "Seine natürlichen Feinde wurden ausgerottet",
+    "Er hat sich genetisch stark verändert"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gesunde Bäume halten den Käfer in Schach, gestresste nicht mehr. Fichtenplantagen wuchsen schnell und brachten Ertrag, sind aber anfällig. Jetzt wird im Waldviertel mit Mischwald aufgeforstet, der Temperaturschwankungen besser aushält.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wald",
+    "Borkenkäfer",
+    "Waldviertel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2288,
+   "speaker": "Andreas Sator",
+   "quote": "aber in Frankreich bei Hitze ist oft oft die die Atomkraftwerke heruntergefahren werden müssen, weil es zu wenig Wasser gibt, um sie zu kühlen.",
+   "quote_clean": "In Frankreich müssen bei Hitze oft die Atomkraftwerke heruntergefahren werden, weil es zu wenig Wasser gibt, um sie zu kühlen.",
+   "statement": "In Frankreich müssen Atomkraftwerke bei Hitze oft gedrosselt werden, weil das Kühlwasser fehlt.",
+   "question": "Warum müssen französische Atomkraftwerke bei Hitzewellen oft heruntergefahren werden?",
+   "answer": "Zu wenig Wasser zum Kühlen",
+   "distractors": [
+    "Die Stromnachfrage bricht ein",
+    "Die Brennstäbe schmelzen schneller",
+    "Die Stromleitungen werden zu heiß"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kraftwerke brauchen Flusswasser zum Kühlen, und im heißen Sommer führen die Flüsse wenig und zu warmes Wasser. Auch Österreichs Wasserkraft wird darunter leiden, wenn die Gletscher als Wasserspeicher schwinden.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Atomkraft",
+    "Wasser",
+    "Energie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1088,
+   "speaker": "Sigrid Stagl",
+   "quote": "Genau, das ist in der volkswirtschaftlichen Literatur bekannt als der Resource Curse, also der Ressourcenfluch.",
+   "quote_clean": "Genau, das ist in der volkswirtschaftlichen Literatur als Resource Curse bekannt, also als Ressourcenfluch.",
+   "statement": "Dass rohstoffreiche Länder oft ärmer und weniger demokratisch sind, nennt man in der Ökonomie den Ressourcenfluch.",
+   "question": "Wie nennt man es, wenn Länder mit vielen Bodenschätzen ihrer Bevölkerung eher schaden als nützen?",
+   "answer": "Ressourcenfluch",
+   "distractors": [
+    "Holländische Krankheit des Handels",
+    "Rohstoffparadox der Moderne",
+    "Malthusianische Falle"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn das Öl leicht aus dem Boden zu holen ist, ist die Verlockung für eine kleine Elite groß, sich selbst zu bereichern. Norwegen mit seinem Staatsfonds ist die große Ausnahme. Länder ohne Rohstoffe müssen dagegen in Wissen investieren, und davon haben mehr Menschen was.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ökonomie",
+    "Rohstoffe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 492,
+   "speaker": "Sigrid Stagl",
+   "quote": "Das nennt man in der Literatur dann stranded assets. Das heißt, das sind Vermögenswerte, die man zwar aufgebaut hat und unter stabilen Bedingungen hätte man die noch Jahre, Jahrzehnte lang nutzen können",
+   "quote_clean": "Das nennt man in der Literatur stranded assets. Das sind Vermögenswerte, die man aufgebaut hat und die man unter stabilen Bedingungen noch Jahre oder Jahrzehnte lang nutzen hätte können.",
+   "statement": "Stranded Assets sind Investitionen wie Skilifte in tiefen Lagen, die wegen veränderter Bedingungen vorzeitig abgeschrieben werden müssen.",
+   "question": "Wie nennt man Investitionen wie Skilifte, die wegen des Klimawandels vorzeitig wertlos werden?",
+   "answer": "Stranded Assets",
+   "distractors": [
+    "Sunk Costs",
+    "Junk Bonds",
+    "Greenwashing"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wörtlich gestrandete Vermögenswerte: gebaut für Jahrzehnte, aber die Welt hat sich schneller verändert. Bei niedrigen Skigebieten reicht irgendwann auch Kunstschnee nicht mehr. Darum lohnt es sich, bei Infrastruktur vorausschauend zu planen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ökonomie",
+    "Tourismus",
+    "Investitionen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3005,
+   "speaker": "Sigrid Stagl",
+   "quote": "Das heißt, das fügt Produktionskosten im Ausmaß von einem Viertel bis einem Drittel der Produktionskosten hinzu.",
+   "quote_clean": "Das fügt Produktionskosten im Ausmaß von einem Viertel bis einem Drittel hinzu.",
+   "statement": "CO2 am Ende des Produktionsprozesses abzuscheiden erhöht die Produktionskosten um ein Viertel bis ein Drittel.",
+   "question": "Um wie viel erhöht CO2-Abscheidung am Ende eines Produktionsprozesses laut Sigrid Stagl die Kosten?",
+   "answer": "Um ein Viertel bis ein Drittel",
+   "distractors": [
+    "Um ein bis zwei Prozent",
+    "Um rund ein Zehntel",
+    "Um das Drei- bis Vierfache"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Carbon Capture ist eine End-of-Pipe-Technologie: Man räumt hinterher auf, statt den Prozess umzustellen. Darum taugt es nur für Bereiche, wo es nicht anders geht, etwa Zement, Teile der Abfallwirtschaft und Luftfahrt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "CO2",
+    "Industrie",
+    "Technik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1310,
+   "speaker": "Sigrid Stagl",
+   "quote": "Die Natur verschwendet auch nicht. Die Natur hat keine so lineare Produktionsprozesse, sondern führt alles immer im Kreis und so ist es halt möglich, dass man sehr langfristig erfolgreich wirtschaftet.",
+   "quote_clean": "Die Natur verschwendet auch nicht. Die Natur hat keine linearen Produktionsprozesse, sondern führt alles immer im Kreis, und so ist es möglich, sehr langfristig erfolgreich zu wirtschaften.",
+   "statement": "Sigrid Stagl verweist auf die Natur als Vorbild für Kreislaufwirtschaft, weil sie nichts verschwendet.",
+   "question": "Wer sagt im Podcast: „Die Natur verschwendet auch nicht“ und meint damit die Kreislaufwirtschaft?",
+   "answer": "Sigrid Stagl",
+   "distractors": [
+    "Andreas Sator",
+    "Gernot Stöglehner",
+    "Jason Hickel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ausgraben, verwenden, als Müll wieder eingraben: So läuft das lineare Modell. In der Natur wird alles wiederverwertet. Für Europa, das wenig Rohstoffe hat, wäre das auch eine Frage der Unabhängigkeit.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kreislaufwirtschaft",
+    "Natur"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2364,
+   "speaker": "Sigrid Stagl",
+   "quote": "Wenn man die nicht mit Photovoltaikanlagen bestückt, sind sie ungenutzte Ressourcen. Weil ein Dach ist eine brachliegende Ressource eigentlich, wo man einfach eine Photovoltaikanlage drauf geben kann.",
+   "quote_clean": "Wenn man die Dächer nicht mit Photovoltaikanlagen bestückt, sind sie ungenutzte Ressourcen. Ein Dach ist eigentlich eine brachliegende Ressource, wo man einfach eine Photovoltaikanlage draufgeben kann.",
+   "statement": "Für Sigrid Stagl ist jedes geeignete Dach ohne Photovoltaik eine brachliegende Ressource.",
+   "question": "Wer nennt im Podcast ein Dach ohne Solaranlage eine „brachliegende Ressource“?",
+   "answer": "Sigrid Stagl",
+   "distractors": [
+    "Andreas Sator",
+    "Karl Polanyi",
+    "Jason Hickel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Inzwischen gelten nicht nur Süddächer als geeignet, sondern auch Ost- und Westdächer. Mit einem gemeinsamen Batteriespeicher dazu holt man viel Energie, ohne die Landschaft zu verändern.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Photovoltaik",
+    "Dächer"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 2690,
+   "speaker": "Andreas Sator",
+   "quote": "Siegrid, blicken wir in die Zukunft. Man hat so Vision 2050, eine Generation später.",
+   "quote_clean": "Sigrid, blicken wir in die Zukunft: Vision 2050, eine Generation später.",
+   "statement": "Andreas bittet Sigrid Stagl, ein positives Bild von Österreich im Jahr 2050 zu zeichnen.",
+   "question": "In welches Jahr lässt Andreas Sigrid Stagl für ihr positives Zukunftsbild blicken?",
+   "answer": "2050",
+   "distractors": [
+    "2030",
+    "2040",
+    "2100"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Sigrid freut sich sichtlich über die Frage, weil ihr positive Zukunftsbilder fehlen. Ihr 2050: Energie aus Sonne, Wind und Wasser, Nachtzüge sind zurück, und das Vergleichen von Solar-Apps ist längst langweilig.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Zukunft",
+    "Vision"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2866,
+   "speaker": "Sigrid Stagl",
+   "quote": "sich an Lille zu orientieren, eine von der Stadt in Frankreich, die einfach manche Straßen blockiert hat und dann so Blöcke, die ganze Stadt in vier, fünf Blöcke eingeteilt",
+   "quote_clean": "Sich an Lille zu orientieren, einer Stadt in Frankreich, die einfach manche Straßen blockiert und die ganze Stadt in vier, fünf Blöcke eingeteilt hat.",
+   "statement": "Die französische Stadt Lille hat sich in Blöcke eingeteilt, zwischen denen man mit dem Auto nicht direkt wechseln kann, was den Autoverkehr deutlich reduziert.",
+   "question": "Welche französische Stadt hat sich in Verkehrsblöcke eingeteilt, zwischen denen Autos nicht direkt wechseln dürfen?",
+   "answer": "Lille",
+   "distractors": [
+    "Lyon",
+    "Bordeaux",
+    "Straßburg"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Innerhalb eines Blocks darf man fahren, zum Nachbarblock aber nur außen herum. Das kostet fast keinen Umbau und schreckt den Durchzugsverkehr ab. Graz überlegt gerade, sich daran zu orientieren.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Verkehr",
+    "Stadtplanung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 137,
+   "speaker": "Sigrid Stagl",
+   "quote": "Also, Wasserstoff ist ja nur ein Träger von Energie, keine keine Quelle von Energie. Also, da gibt man entweder Wind oder Sonnenstrom oder Strom aus Wasserkraft wird umgewandelt und mit Wasserstoff gespeichert sozusagen",
+   "quote_clean": "Wasserstoff ist nur ein Träger von Energie, keine Quelle von Energie. Wind- oder Sonnenstrom oder Strom aus Wasserkraft wird umgewandelt und im Wasserstoff gespeichert.",
+   "statement": "Grüner Wasserstoff ist keine Energiequelle, sondern ein Energieträger, der Strom aus Wind, Sonne oder Wasser speichert.",
+   "question": "Was ist grüner Wasserstoff aus Sicht des Energiesystems?",
+   "answer": "Ein Energieträger, keine Energiequelle",
+   "distractors": [
+    "Eine neue, unerschöpfliche Energiequelle",
+    "Ein Abfallprodukt der Ölförderung",
+    "Ein Ersatz für Strom in Haushalten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Man steckt erst Ökostrom hinein und holt ihn später wieder heraus, ein bisschen wie bei einer Batterie. Das ist aufwendig und die Infrastruktur fehlt. Darum setzt die Industrie inzwischen öfter direkt auf Strom.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wasserstoff",
+    "Industrie",
+    "Energie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "395",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

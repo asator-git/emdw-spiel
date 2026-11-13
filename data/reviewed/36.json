@@ -1,0 +1,435 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Schätzung der Gästin, im Transkript belegt; Aha enthielt Unbelegtes.",
+   "stand_note": "Stand 2018",
+   "quality": 3,
+   "statement": "In Mitteleuropa ernähren sich laut Katharina Seiser ungefähr zehn Prozent der Bevölkerung vegetarisch.",
+   "question": "Wie viel Prozent der Menschen in Mitteleuropa ernähren sich ungefähr vegetarisch?",
+   "answer": "Etwa 10 Prozent",
+   "distractors": [
+    "Etwa 3 Prozent",
+    "Etwa 25 Prozent",
+    "Etwa 40 Prozent"
+   ],
+   "aha": "Rund jede zehnte Person in Mitteleuropa verzichtet aufs Fleisch – so hat es Katharina Seiser 2018 grob eingeschätzt.",
+   "quote_clean": "In Mitteleuropa ernähren sich ungefähr zehn Prozent der Bevölkerung vegetarisch."
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar (Sekunde 1149-1160); als Schätzung der Gästin formuliert.",
+   "stand_note": "Stand 2018",
+   "quality": 3,
+   "statement": "Höchstens rund ein Prozent der Menschen in Mitteleuropa ernährt sich vegan.",
+   "question": "Wie viel Prozent der Bevölkerung in Mitteleuropa ernähren sich ungefähr vegan?",
+   "answer": "Maximal etwa 1 Prozent",
+   "distractors": [
+    "Etwa 5 Prozent",
+    "Etwa 8 Prozent",
+    "Etwa 12 Prozent"
+   ],
+   "aha": "Zehn Prozent essen vegetarisch, und von denen ist wiederum nur jede zehnte Person vegan – macht grob ein Prozent. Deshalb findet Katharina, dass fürs Tierwohl vor allem zählt, wie die anderen 99 Prozent essen.",
+   "quote_clean": "Und davon wiederum ungefähr zehn Prozent vegan. Wenn man das umrechnet, ist es maximal ungefähr ein Prozent der Bevölkerung, das sich rein pflanzlich ernährt."
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Zahl belegt; Aha enthielt nicht Gesagtes (Einweichen, schnellste Hülsenfrucht).",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Linsen sind je nach Sorte oft schon nach 15 bis 20 Minuten gar.",
+   "question": "Wie viele Minuten brauchen Linsen je nach Sorte oft nur zum Garen?",
+   "answer": "15 bis 20 Minuten",
+   "distractors": [
+    "5 bis 8 Minuten",
+    "40 bis 50 Minuten",
+    "70 bis 90 Minuten"
+   ],
+   "aha": "Linsen sind schnell gar und schmecken nussig, vielleicht ein bisschen pfeffrig. Darum eignen sie sich für Katharina gut für flotte Gerichte.",
+   "quote_clean": "Linsen dauern je nach Sorte oft nur 15, 20 Minuten."
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Vage 'mindestens'-Aussage, 'heimisch' nur implizit, Distraktoren wenig trennscharf.",
+   "stand_note": "",
+   "quality": 2,
+   "statement": "Heimische Äpfel gibt es mindestens ein halbes Jahr lang in guter Qualität.",
+   "question": "Wie viele Monate im Jahr gibt es heimische Äpfel laut Katharina mindestens in guter Qualität?",
+   "answer": "Mindestens 6 Monate",
+   "distractors": [
+    "Etwa 2 Monate",
+    "Etwa 3 Monate",
+    "Alle 12 Monate"
+   ],
+   "aha": "Äpfel lassen sich gut lagern, deshalb reicht die Saison weit über den Herbst hinaus. Apfel plus Walnuss ist Katharinas Rettung, wenn der Hunger zwischendurch zuschlägt.",
+   "quote_clean": "Äpfel gibt es mindestens ein halbes Jahr in guter Qualität, nicht das ganze Jahr."
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar: 'in einer Viertelstunde fertig'.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Eine Pasta mit selbst gemachtem Pesto oder Paradeissauce ist ab dem Wasseraufstellen in etwa einer Viertelstunde fertig.",
+   "question": "Wie viele Minuten braucht laut Katharina eine schnelle Pasta mit Pesto, ab dem Wasseraufstellen?",
+   "answer": "Etwa 15 Minuten",
+   "distractors": [
+    "Etwa 5 Minuten",
+    "Etwa 35 Minuten",
+    "Etwa 50 Minuten"
+   ],
+   "aha": "Pesto geht auch ohne Käse, mit Kräutern und Nüssen, und eine Paradeissauce darf ruhig aus dem Glas sein. Nach einer Viertelstunde steht das Essen am Tisch – das Fertiggericht hat also eh keinen Zeitvorteil.",
+   "quote_clean": "Und so etwas ist, wenn ich das Wasser aufstelle, in einer Viertelstunde fertig. Da gibt es keine Ausreden mehr, dass man stattdessen ein Fertigprodukt nehmen müsste."
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Rechtsstatus ist Aussage der Gästin; Salz in der Realität ebenfalls üblich, daher als 'laut Katharina' formulieren.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Laut Katharina Seiser besteht eine echte Pizza Marinara nur aus Tomatensauce, Knoblauch, Olivenöl und Oregano – also vier Zutaten, alle pflanzlich.",
+   "question": "Wie viele Zutaten nennt Katharina für den Belag einer klassischen Pizza Marinara?",
+   "answer": "4 Zutaten",
+   "distractors": [
+    "2 Zutaten",
+    "6 Zutaten",
+    "8 Zutaten"
+   ],
+   "aha": "Tomatensauce, Knoblauch, Olivenöl, Oregano – kein Käse, keine Sardellen, obwohl Marinara nach Meer klingt. Für Katharina war diese Pizza der Moment, in dem ihr klar wurde: Es gibt längst viele Gerichte, die immer schon vegan waren.",
+   "quote_clean": "Eine Pizza Marinara ist quasi von Gesetz wegen, weil sie ein italienisches Kulturerbe ist, nur mit Tomatensauce, ein bisschen Knoblauch, Olivenöl und Oregano. Aus."
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Beleg ok; Aha enthielt Unbelegtes (Zutaten) und missverstand den Käfer-Scherz.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Der steirische Käferbohnensalat ist ein traditionelles österreichisches Gericht, das immer schon rein pflanzlich war.",
+   "question": "Welches traditionelle österreichische Gericht nennt Katharina als Beispiel für eine Speise, die immer schon vegan war?",
+   "answer": "Steirischer Käferbohnensalat",
+   "distractors": [
+    "Tiroler Speckknödel",
+    "Wiener Schnitzel",
+    "Kärntner Kasnudeln"
+   ],
+   "aha": "Bohnen, Salat, kein Tier weit und breit – der Käferbohnensalat war immer schon vegan. Die Käfer im Namen sind übrigens nur die Optik der Bohnen, nicht die Zutat.",
+   "quote_clean": "Denk an einen wirklich nahrhaften und köstlichen Käferbohnensalat aus der Steiermark. Was ist da jemals vom Tier drinnen gewesen? Gar nichts."
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Ernährungsaussage als Meinung der Gästin attribuieren; Aha erweiterte über das Gesagte hinaus.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Laut Katharina Seiser ist Soja besser verdaulich, wenn es stärker verarbeitet oder fermentiert ist.",
+   "question": "Wann ist Soja laut Katharina besser verdaulich?",
+   "answer": "Wenn es fermentiert oder verarbeitet ist",
+   "distractors": [
+    "Wenn es roh gegessen wird",
+    "Wenn es tiefgekühlt wurde",
+    "Wenn es frisch geerntet ist"
+   ],
+   "aha": "Fermentierte Sojaprodukte wie Miso, Sojasauce oder Tempeh sind deshalb für Katharina die bessere Wahl. Wenig verarbeitetes Soja dauerhaft zu essen, findet sie nicht so gescheit.",
+   "quote_clean": "Weil Soja besser verdaulich ist, wenn es höher verarbeitet oder vergoren, also in irgendeiner Form fermentiert ist."
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Original-Frage unscharf (Pflanzendrink ist Sammelbegriff, Distraktoren teils real). Neu gefasst.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Pflanzliche Milchalternativen dürfen im Handel nicht als Milch verkauft werden, sondern heißen zum Beispiel Pflanzendrink.",
+   "question": "Wie dürfen pflanzliche Milchalternativen im Handel laut Katharina heißen – statt „Pflanzenmilch“?",
+   "answer": "Pflanzendrink",
+   "distractors": [
+    "Pflanzenmolke",
+    "Pflanzenrahm",
+    "Pflanzenquark"
+   ],
+   "aha": "Der Begriff Milch ist in der EU Produkten vom Tier vorbehalten. Darum steht auf der Packung Haferdrink, auch wenn eh alle Hafermilch sagen.",
+   "quote_clean": "Mit ein bisschen Pflanzenmilch, wie sie im Handel nicht heißen darf, sondern Pflanzendrink, zu experimentieren."
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar, Andreas legt die Regel vor, Katharina bestätigt sie als Faustregel.",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Eine beliebte vegane Faustregel lautet „a grain, a green, a bean“: Getreide, etwas Grünes und eine Hülsenfrucht ergeben zusammen eine vollwertige Mahlzeit.",
+   "question": "Wie lautet die vegane Faustregel, die Andreas Katharina vorlegt?",
+   "answer": "A grain, a green, a bean",
+   "distractors": [
+    "A nut, a root, a fruit",
+    "A rice, a spice, a slice",
+    "A seed, a weed, a feed"
+   ],
+   "aha": "Getreide, Grünzeug, Hülsenfrucht – so deckst du Kohlenhydrate, Vitamine und Eiweiß ab. Katharina findet die Regel als Faustregel gut, ergänzt aber: Das Fett darfst du nicht vergessen.",
+   "quote_clean": "Dann gibt es bei Veganern einen ganz beliebten Spruch: a grain, a green, a bean. Wenn man das zusammenmischt, hat man das perfekte Rezept, wo alles drinnen ist, was man braucht."
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar (962-969).",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Zur Faustregel aus Getreide, Grünem und Hülsenfrucht gehört unbedingt noch Fett dazu.",
+   "question": "Was fehlt laut Katharina in der Faustregel „a grain, a green, a bean“?",
+   "answer": "Das Fett",
+   "distractors": [
+    "Das Salz",
+    "Der Zucker",
+    "Das Wasser"
+   ],
+   "aha": "Getreide liefert Kohlenhydrate, das Grüne Vitamine und sekundäre Pflanzenstoffe, die Bohne Eiweiß – aber ohne Fett geht es nicht. Und es muss nicht jede Mahlzeit alles drin haben, über den Tag gleicht sich das gut aus.",
+   "quote_clean": "Und in der Bohne habe ich das hochwertige Eiweiß. Ich brauche dann unbedingt das Fett dazu, das sollte man auf gar keinen Fall vergessen."
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar (1286-1297).",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Im Libanon und in Syrien ist ein Pastagericht mit Linsen verbreitet, das von Natur aus vegan ist.",
+   "question": "Woraus besteht das libanesisch-syrische Gericht, das sich als geheimer Favorit aus Katharinas veganem Kochbuch entpuppt hat?",
+   "answer": "Pasta mit Linsen",
+   "distractors": [
+    "Reis mit Kichererbsen",
+    "Bulgur mit Auberginen",
+    "Couscous mit Bohnen"
+   ],
+   "aha": "Zuerst kommen die Linsen ins Wasser, dann die Bandnudeln in denselben Topf, dazu reichlich knusprige Röstzwiebeln, Petersil und Zitronensaft. Die Leserinnen wollten so viele Zwiebeln, dass Katharina die Menge in der zweiten Auflage erhöhen musste.",
+   "quote_clean": "Ist ein Gericht, das es sowohl im Libanon als auch in Syrien gibt, also in dieser Gegend verbreitet ist. Das ist ein Pastagericht mit Linsen."
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar (1357-1362); Fagioli = Bohnen stimmt.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Das italienische Gericht Pasta e Fagioli ist eine Mischung aus Teigwaren und Hülsenfrüchten.",
+   "question": "Was steckt im italienischen Klassiker Pasta e Fagioli?",
+   "answer": "Teigwaren und Hülsenfrüchte",
+   "distractors": [
+    "Teigwaren und Pilze",
+    "Teigwaren und Meeresfrüchte",
+    "Teigwaren und Kürbis"
+   ],
+   "aha": "Fagioli heißt Bohnen. Man hätte also gar nicht bis in den Libanon schauen müssen, um Nudeln mit Hülsenfrüchten zu kombinieren – Italien macht das seit langem.",
+   "quote_clean": "Pasta e Fagioli gibt es auch in Italien, also eine Mischung aus Teigwaren und Hülsenfrüchten."
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg ok; 'Lieblingshülsenfrucht' im Aha nicht belegt.",
+   "stand_note": "",
+   "quality": 2,
+   "statement": "Linsen schmecken nussig und leicht pfeffrig und werden anders als Bohnen kaum mehlig, wenn man sie übergart.",
+   "question": "Was passiert bei Linsen laut Katharina ganz schwer, bei Bohnen aber oft, wenn man sie übergart?",
+   "answer": "Sie werden mehlig",
+   "distractors": [
+    "Sie werden bitter",
+    "Sie werden steinhart",
+    "Sie verlieren die Farbe"
+   ],
+   "aha": "Linsen bringen ein nussiges, leicht pfeffriges Aroma mit und werden kaum mehlig. Darum verzeihen sie beim Kochen mehr als Bohnen.",
+   "quote_clean": "Sie sind nussig, vielleicht ein bisschen pfeffrig. Sie sind nicht so wie Bohnen, die oft ein bisschen mehlig werden, wenn man sie übergart. Das passiert bei Linsen ganz schwer."
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar (1645-1667).",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "In der Toskana gibt es ein traditionelles Germteig-Rezept mit Anis und Olivenöl, bei dem der Anis den Eindruck erweckt, der Teig würde nach Ei duften und schmecken.",
+   "question": "Welches Gewürz lässt einen eifreien toskanischen Germteig so wirken, als wäre Ei drin?",
+   "answer": "Anis",
+   "distractors": [
+    "Safran",
+    "Kurkuma",
+    "Muskat"
+   ],
+   "aha": "Der Anis gaukelt der Nase Ei vor, obwohl gar keines drin ist – ähnlich wie bei Anisbusserln. Kein Trick aus dem Veganladen, sondern ein jahrhundertealtes Rezept.",
+   "quote_clean": "Zum Beispiel Germteig: Traditionell gibt es in der Toskana ein Rezept, der wird mit Anis und Olivenöl gemacht."
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok trotz verhörter Stelle; Kürbis für Saftigkeit und Farbe eindeutig (1685-1702).",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Ein veganer Striezel aus der griechischen Fastentradition bekommt seine Saftigkeit und gelbe Farbe vom Kürbis statt von Eiern und Butter.",
+   "question": "Welche Zutat ersetzt in einem griechischen Fasten-Striezel Eier und Butter und macht ihn saftig und gelb?",
+   "answer": "Kürbis",
+   "distractors": [
+    "Banane",
+    "Karotte",
+    "Apfelmus"
+   ],
+   "aha": "In der Fastenzeit verzichtet man in der orthodoxen Tradition auf tierische Produkte, darum gibt es dort viele Rezepte, die immer schon vegan waren. Der Kürbis macht den Teig strahlend gelb, du würdest optisch nichts vermissen.",
+   "quote_clean": "Ein griechisches Rezept, das kommt aus der griechischen Fastentradition, und da sorgt Kürbis"
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "transkription"
+   ],
+   "note": "'am besten' nicht belegt; quote_clean grammatisch verrutscht. Frage auf die Vorbereitung bezogen.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Katharina kocht mehr Reis, schaut, dass er nicht übergart und schön körnig ist, und stellt ihn ausgekühlt in den Kühlschrank, um ihn später scharf anzubraten.",
+   "question": "Wie bereitet Katharina Reis vor, den sie später scharf anbraten will?",
+   "answer": "Körnig gekocht und ausgekühlt aufgehoben",
+   "distractors": [
+    "Möglichst weich gekocht und heiß gebraten",
+    "Roh eingeweicht und gleich gebraten",
+    "Als Brei mit Milch gekocht"
+   ],
+   "aha": "Gekühlter Reis vom Vortag klebt nicht und brät schön knusprig an. Mit Limettensaft, gerösteten Cashews, Chili und Koriander wird daraus ein schnelles Gericht wie in Sri Lanka oder Indien.",
+   "quote_clean": "Ich koche mehr Reis. Wenn ich am Abend ein Reisgericht mache, schaue ich, dass er nicht übergart, also schön körnig ist, und stelle ihn in den Kühlschrank, sobald er ausgekühlt ist."
+  },
+  {
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "'Wer sagt'-Frage ohne Erkenntnis, Distraktoren beliebig.",
+   "stand_note": "",
+   "quality": 1,
+   "statement": "Katharina Seiser ist überzeugt, dass man Menschen nicht über Verbote, sondern nur über Genuss dazu bringt, weniger tierische Produkte zu essen.",
+   "question": "Wer sagt: „Es funktioniert nicht über du darfst nicht, sondern nur über schau, probier das aus, wie gut das schmeckt“?",
+   "answer": "Katharina Seiser",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Veganerin aus der Community",
+    "Eine Ernährungsmedizinerin"
+   ],
+   "aha": "Katharina hat mittlerweile mehrere vegetarische Kochbücher geschrieben, weil wir genussvolle Alternativen zu Fleisch brauchen. Ein verordneter veganer Tag haut für sie nicht hin – ein Gericht, nach dem die ganze Familie fragt, schon.",
+   "quote_clean": "Nur es funktioniert nicht über „du darfst nicht“, sondern es funktioniert nur über „schau, probier das aus, wie gut das schmeckt“."
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Beleg ok (536-549); Aha enthielt Unbelegtes (geröstetes Brot mit Olivenöl).",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Katharina Seiser hält es für den falschen Weg, Butter und Eier durch Ersatzprodukte zu imitieren; wer weniger vom Tier essen will, sollte einfach etwas anderes essen.",
+   "question": "Was hält Katharina für den komplett falschen Weg, wenn man weniger vom Tier essen möchte?",
+   "answer": "Tierische Produkte durch Imitate zu ersetzen",
+   "distractors": [
+    "Auf Bio zu achten",
+    "Saisonal einzukaufen",
+    "Mehr Hülsenfrüchte zu essen"
+   ],
+   "aha": "Unser Geschmackssinn ist so fein trainiert, dass er sich nicht austricksen lässt, sagt Katharina. Statt Butter und Eier nachzubauen, isst sie lieber einfach etwas anderes.",
+   "quote_clean": "Und diese Dinge zu ersetzen, halte ich nach wie vor, und habe ich auch in diesem Versuch gelernt, für den komplett falschen Weg, wenn man weniger vom Tier essen möchte. Du musst einfach etwas anderes essen."
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "'Wer sagt'-Frage ohne Erkenntnis, Distraktoren beliebig.",
+   "stand_note": "",
+   "quality": 1,
+   "statement": "Katharina Seiser findet die Vorstellung absurd, Essen sei etwas Böses, das man im Zaum halten oder bloß erledigen muss.",
+   "question": "Wer findet es „völlig absurd“, Essen als etwas Böses zu sehen, das man im Zaum halten muss?",
+   "answer": "Katharina Seiser",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Diätcoach",
+    "Eine Ärztin aus der Hörerschaft"
+   ],
+   "aha": "Für Katharina ist Essen etwas extrem Genussvolles, mit dem sie sich beruflich und privat fast den ganzen Tag beschäftigt. Sie wünscht sich einen viel entspannteren Zugang – egal, was jemand isst.",
+   "quote_clean": "Für mich ist dieses Prinzip völlig absurd: Essen ist irgendwie etwas Böses oder etwas, das man im Zaum halten oder vielleicht auch nur erledigen muss. Das ist mir komplett fremd."
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar (717-732); Aha im Rahmen des Gesagten.",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Nach ihrem veganen Selbstversuch aß Katharina Seiser am ersten Tag ein Butterbrot und weinte vor Erleichterung.",
+   "question": "Was hat Katharina am ersten Tag nach ihrem veganen Selbstversuch zum Frühstück gegessen – mit Tränen der Erleichterung?",
+   "answer": "Ein Butterbrot",
+   "distractors": [
+    "Ein Spiegelei",
+    "Ein Schinkenbrot",
+    "Ein Joghurt mit Honig"
+   ],
+   "aha": "Butter und Eier beim Frühstück sind ihr in den gut drei Wochen am meisten abgegangen. Die Tränen kamen aber auch, weil ihr bewusst wurde, was für ein Luxus es ist, wählen zu können.",
+   "quote_clean": "Ich habe am ersten Tag nach diesem veganen Selbstversuch ein Butterbrot zum Frühstück gegessen, und mir sind tatsächlich ein paar Tränen der Erleichterung heruntergeronnen."
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Anekdote, Distraktoren absurd bzw. widersprüchlich, kein Wissensgewinn.",
+   "stand_note": "",
+   "quality": 2,
+   "statement": "Katharina Seiser hat über die Erinnerungsfunktion von Social Media bemerkt, dass sie genau ein Jahr zuvor am selben Tag dieselbe Speise gekocht hatte.",
+   "question": "Was hat Katharina dank der Social-Media-Erinnerungen über sich herausgefunden?",
+   "answer": "Sie kochte am selben Tag dasselbe",
+   "distractors": [
+    "Sie kocht nie zweimal dasselbe",
+    "Sie isst im Winter kaum Gemüse",
+    "Sie postet nur am Wochenende"
+   ],
+   "aha": "Selbst eine Kochbuchautorin, die ständig Neues probiert, landet saisonbedingt auf den Tag genau beim gleichen Gericht wie im Jahr davor. Für sie ist das okay – solange es nicht fünf Tage hintereinander dasselbe gibt.",
+   "quote_clean": "Und das verblüfft mich, dass ich wirklich am gleichen Tag genau die gleiche Speise gemacht habe. Das ist wirklich verrückt."
+  }
+ ],
+ "id": "36",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

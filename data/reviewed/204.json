@@ -1,0 +1,293 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "transkription",
+    "kontext"
+   ],
+   "note": "Zahlen im Ausschnitt widersprüchlich und selbstkorrigierend („zwei, eins aus drei“, später „Jede zweite Ehe im Land“); Land/Stadt und Bezugsland unklar, grobe Alltagsschätzung.",
+   "stand_note": "",
+   "statement": "Laut Karina Kehlet Lins scheitert in Großstädten rund jede zweite Ehe.",
+   "question": "Wie viel Prozent der Ehen in Großstädten gehen laut Karina Kehlet Lins kaputt?",
+   "answer": "Rund 50 Prozent",
+   "distractors": [
+    "Rund 20 Prozent",
+    "Rund 35 Prozent",
+    "Rund 70 Prozent"
+   ],
+   "aha": "In der Stadt hält ungefähr jede zweite Ehe nicht, am Land eher jede dritte.",
+   "quote_clean": "Jede zweite Ehe geht kaputt in den Großstädten und eine von drei draußen am Land.",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "transkription",
+    "kontext"
+   ],
+   "note": "Gleiche Fundstelle wie Kandidat 0, die Gästin widerspricht sich im Ausschnitt (Land: „jede zweite“ vs. „eins aus drei“); nicht eindeutig.",
+   "stand_note": "",
+   "statement": "Am Land scheitert laut Karina Kehlet Lins etwa jede dritte Ehe, also seltener als in der Großstadt.",
+   "question": "Wie oft geht laut Karina Kehlet Lins eine Ehe am Land kaputt?",
+   "answer": "Etwa jede dritte",
+   "distractors": [
+    "Etwa jede zweite",
+    "Etwa jede zehnte",
+    "Etwa jede fünfte"
+   ],
+   "aha": "Am Land hält die Ehe öfter als in der Stadt.",
+   "quote_clean": "Jede zweite Ehe geht kaputt in den Großstädten und eine von drei draußen am Land.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Im Transkript belegt (2406-2412); aha deckt sich mit 2414-2441.",
+   "stand_note": "",
+   "statement": "Offene Beziehungen waren schon in den 1970er-Jahren ein großes Thema.",
+   "question": "In welchem Jahrzehnt waren offene Beziehungen schon einmal ein Riesenthema?",
+   "answer": "In den 1970ern",
+   "distractors": [
+    "In den 1920ern",
+    "In den 1950ern",
+    "In den 1990ern"
+   ],
+   "aha": "Neu ist die Idee also nicht. Nur hat man damals laut Karina einfach drauflosprobiert, ohne viel darüber zu reden. Heute schreiben viele die Spielregeln vorher auf.",
+   "quote_clean": "Gleichzeitig kennen wir offene Beziehungen schon länger, das war ja auch ein Riesenthema in den 70ern.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Die 1950er sind eine beiläufige Bemerkung; Frage („stammt aus“) widerspricht Karinas eigener Aussage zur Kernfamilie seit der industriellen Revolution.",
+   "stand_note": "",
+   "statement": "Karina Kehlet Lins verortet das starre Modell „ein Mann, eine Frau, sonst niemand“ in den 1950er-Jahren.",
+   "question": "Aus welchem Jahrzehnt stammt laut Karina Kehlet Lins das Modell „nur zwei, ein Mann und eine Frau“?",
+   "answer": "Aus den 1950ern",
+   "distractors": [
+    "Aus den 1890ern",
+    "Aus den 1920ern",
+    "Aus den 1980ern"
+   ],
+   "aha": "Die Kernfamilie gilt oft als ewige Norm, ist aber ziemlich jung.",
+   "quote_clean": "Dieses Duale, das sind nur zwei, und es muss ein Mann und eine Frau sein, das war ja das Modell der 1950er-Jahre, und es hat nicht funktioniert.",
+   "quality": 1
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt (3011-3017), aber Aussage einer Paartherapeutin, nicht einer Biologin; als solche rahmen. Distraktoren bleiben falsch.",
+   "stand_note": "",
+   "statement": "Laut Karina Kehlet Lins ist Monogamie in der Tierwelt nicht die Regel, sondern die Ausnahme.",
+   "question": "Wie verbreitet ist Monogamie in der Tierwelt laut Karina Kehlet Lins?",
+   "answer": "Sie ist die Ausnahme",
+   "distractors": [
+    "Sie ist die Regel",
+    "Nur bei Säugetieren üblich",
+    "Bei etwa der Hälfte der Arten"
+   ],
+   "aha": "Das Argument „Schau, die Tiere machen's ja auch“ zieht also nicht. Karina nennt unsere Gesellschaft mononormativ: Wir hinterfragen Monogamie kaum, weil sie uns so natürlich vorkommt.",
+   "quote_clean": "Das sieht man ja auch ganz viel in der Tierwelt, Monogamie ist so natürlich – stimmt aber nicht. Monogamie ist die Ausnahme in der Natur.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Belegt (488-507); aha erwähnt „Hof“ und „Gefühle Nebensache“, was nicht im Ausschnitt steht. Karina betont selbst, dass es viele Theorien gibt.",
+   "stand_note": "",
+   "statement": "Dass man aus Liebe heiratet, ist laut Karina Kehlet Lins historisch relativ neu; früher heiratete man oft aus politischen oder praktischen Gründen.",
+   "question": "Warum wurde früher laut Karina Kehlet Lins oft geheiratet?",
+   "answer": "Aus politischen und praktischen Gründen",
+   "distractors": [
+    "Vor allem aus romantischer Liebe",
+    "Wegen kirchlicher Steuervorteile",
+    "Weil Alleinleben verboten war"
+   ],
+   "aha": "Das romantische Ideal, dass Liebe und Ehe zusammengehören, ist laut Karina noch jung. Früher ging es eher um Politik, Erbe und ganz praktische Dinge.",
+   "quote_clean": "Wir haben erst seit Kurzem Liebe und Heiraten zusammengestellt oder gleichgestellt. Früher gab es ja sehr viel Heirat aus politischen Gründen oder damit Leute die Erde erben können.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Karina sagt „teilweise“; Frage muss das abbilden. aha enthält Fabrik-Beispiel, das nicht im Ausschnitt steht.",
+   "stand_note": "",
+   "statement": "Mit der industriellen Revolution lebten laut Karina Kehlet Lins weniger Menschen in großen Bauernhof-Familien, und die Kernfamilie setzte sich zunehmend durch.",
+   "question": "Was hat laut Karina Kehlet Lins teilweise dazu beigetragen, dass sich die Kernfamilie durchgesetzt hat?",
+   "answer": "Die industrielle Revolution",
+   "distractors": [
+    "Die Reformation",
+    "Der Erste Weltkrieg",
+    "Die Französische Revolution"
+   ],
+   "aha": "Auf dem Bauernhof lebte oft eine große Familie zusammen, und es ging ums gemeinsame Gut. Mit der Industrialisierung wanderten die Menschen weg vom Hof, und die Kernfamilie setzte sich zunehmend durch.",
+   "quote_clean": "Das hat teilweise mit der industriellen Revolution zu tun, dass man immer weniger auf dem Bauernhof gelebt hat.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Vergleich im Transkript wörtlich belegt (2287-2302); eher Erinnerungsfrage, aber eindeutig.",
+   "stand_note": "",
+   "statement": "Bindung und Autonomie sind wie Schlafen und Essen: Man braucht beides, kann es aber nicht gleichzeitig tun.",
+   "question": "Womit vergleicht Karina Kehlet Lins das Bedürfnis nach Bindung und Autonomie?",
+   "answer": "Mit Schlafen und Essen",
+   "distractors": [
+    "Mit Ein- und Ausatmen",
+    "Mit Tag und Nacht",
+    "Mit Ebbe und Flut"
+   ],
+   "aha": "Beides ist lebenswichtig, aber man muss abwechseln. Darum rät Karina Paaren in offenen Beziehungen auch zu einem gemeinsamen Ziel, damit niemand zu autonom davondriftet.",
+   "quote_clean": "Wir wollen genug Bindung haben, aber auch genug Autonomie. Das sind zwei verschiedene Bewegungen, die lebenswichtig für uns sind, wie Schlafen und Essen: Du brauchst beide, kannst sie aber nicht gleichzeitig machen.",
+   "quality": 2
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Belegt (1986-2032), aber Karina formuliert vorsichtig („ich glaube, es ist leichter“); Frage war mehrdeutig („anderes Geschlecht“). Neu gefasst.",
+   "stand_note": "",
+   "statement": "Laut Karina Kehlet Lins fällt es manchmal leichter, wenn der bisexuelle Partner Zeit mit jemandem verbringt, der nicht das eigene Geschlecht hat, weil es dann nicht am eigenen Manko liegt.",
+   "question": "Warum fällt es laut Karina Kehlet Lins manchmal leichter, wenn ein bisexueller Partner mit jemandem zusammen sein möchte, der nicht das eigene Geschlecht hat?",
+   "answer": "Es liegt nicht am eigenen Manko",
+   "distractors": [
+    "Weil es rechtlich nicht zählt",
+    "Weil dann keine Eifersucht entsteht",
+    "Weil es seltener vorkommt"
+   ],
+   "aha": "Man kann sich sagen: Das kann ich ihm ohnehin nicht bieten. Dahinter steckt aber der Anspruch, dem anderen alles bieten zu müssen, und den nennt Karina nicht nur hoch, sondern unmöglich.",
+   "quote_clean": "Dann kann ich mir als Frau selbst keinen Vorwurf machen, dass er mich als Frau nicht mag. Es hat mit seinem Wunsch zu tun und nicht mit meinem Manko.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "„Wer hat's gesagt“-Frage: Gästin ist die einzige Sprecherin, kein Wissensgewinn; Distraktor nennt reale Person.",
+   "stand_note": "",
+   "statement": "Karina Kehlet Lins hält das Märchen-Ideal „And they lived happily ever after“ für Quatsch.",
+   "question": "Wer hat's gesagt: „And they lived happily ever after. Was für ein Quatsch.“?",
+   "answer": "Karina Kehlet Lins",
+   "distractors": [
+    "Andreas Sator",
+    "Esther Perel",
+    "Ein Hörer namens Karl"
+   ],
+   "aha": "Der Anspruch, einem Menschen alles zu bieten, ist für Karina nicht nur hoch, sondern unmöglich.",
+   "quote_clean": "Und trotzdem leben wir in einer Welt, die diesem Ideal nachgeht: And they lived happily ever after. Was für ein Quatsch.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "„Wer hat's gesagt“-Frage ohne Wissensgewinn; Distraktor nennt reale Person.",
+   "stand_note": "",
+   "statement": "Kinder sollen laut Karina Kehlet Lins altersgerecht nur das erfahren, was sie wissen müssen – „on a need to know basis“.",
+   "question": "Wer hat's gesagt: „Kinder sind für mich on a need to know basis“?",
+   "answer": "Karina Kehlet Lins",
+   "distractors": [
+    "Andreas Sator",
+    "Valentina Pfattner",
+    "Eine Hörerin namens Katharina"
+   ],
+   "aha": "Sein Sexleben erzählt man den Kindern eh nicht.",
+   "quote_clean": "Ich finde, Kinder sind – ich sage das mal auf Englisch, ich weiß nicht, wie man das auf Deutsch sagt – für mich on a need-to-know basis.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "„Wer hat's gesagt“-Frage ohne Wissensgewinn; Distraktoren teils Fantasie.",
+   "stand_note": "",
+   "statement": "Karina Kehlet Lins sieht in einem zusätzlichen Erwachsenen im Familienleben eher einen Gewinn für Kinder.",
+   "question": "Wer hat's gesagt: „Dann hast du drei Elternteile, davon kannst du gar nicht genug kriegen“?",
+   "answer": "Karina Kehlet Lins",
+   "distractors": [
+    "Andreas Sator",
+    "Pippi Langstrumpf",
+    "Ein Hörer namens Karl"
+   ],
+   "aha": "Karina sieht darin einen Gewinn für Kinder.",
+   "quote_clean": "Da gibt es dann quasi noch einen Elternteil, dann hast du drei Elternteile – davon kannst du gar nicht genug kriegen.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zu Moderationsfloskel, kein Faktenwert.",
+   "stand_note": "",
+   "statement": "Andreas fragt zum Schluss, welche Fragen sich Zuhörer:innen stellen können, wenn sie über eine Öffnung nachdenken.",
+   "question": "Womit leitet Andreas in dieser Folge seine letzte Frage ein?",
+   "answer": "„Wir kommen zum Ende, die letzte Frage“",
+   "distractors": [
+    "„Jetzt mal ganz ehrlich“",
+    "„Und zum Abschluss ein Quiz“",
+    "„Lass uns noch kurz träumen“"
+   ],
+   "aha": "Am Ende will Andreas meistens etwas Praktisches zum Mitnehmen.",
+   "quote_clean": "Carina, wir kommen zum Ende, die letzte Frage – wir haben eh schon darüber gesprochen –, aber wenn Leute zuhören, entweder als Paar oder individuell …",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Meta-Frage zu einem Nebensatz mit explizitem Inhalt, erfundene Distraktoren, kein Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Als Karina fragt, ob sie so offen sprechen darf, versichert Andreas trocken, dass „Penis“ im Podcast nicht verboten ist.",
+   "question": "Was antwortet Andreas, als Karina fragt, ob es okay ist, so offen zu sprechen?",
+   "answer": "„Penis ist im Podcast nicht verboten.“",
+   "distractors": [
+    "„Bitte etwas jugendfreier.“",
+    "„Das schneiden wir später raus.“",
+    "„Meine Mama hört auch zu.“"
+   ],
+   "aha": "Anlass war die sogenannte One-Penis-Policy, eine der vielen Spielregeln, die sich Paare ausdenken.",
+   "quote_clean": "Ich hoffe, dass das okay ist, dass ich so offen darüber spreche. – Penis ist im Podcast nicht verboten. – Okay, sehr gut.",
+   "quality": 1
+  }
+ ],
+ "id": "204",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

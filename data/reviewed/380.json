@@ -1,0 +1,291 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "142 stimmt und ist belegt; quote_clean gab „Selbsthilfe“ als „Hilfe“ wieder, daher wörtlich belassen.",
+   "stand_note": "Stand 2025",
+   "statement": "Die Telefonseelsorge in Österreich ist unter der Nummer 142 erreichbar.",
+   "question": "Unter welcher kurzen Nummer erreichst du in Österreich die Telefonseelsorge?",
+   "answer": "142",
+   "distractors": [
+    "144",
+    "133",
+    "147"
+   ],
+   "aha": "Die 142 ist rund um die Uhr erreichbar, anonym und kostenlos. Merk sie dir ruhig, auch wenn du sie selbst hoffentlich nie brauchst, vielleicht braucht sie wer, der dir nahe ist.",
+   "quote_clean": "Wenn du Selbsthilfe brauchst, dann findest du sie in Österreich etwa bei der Telefonseelsorge unter der Nummer 142.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Leonies Vereinfachung („darf man keine Diagnosen ausstellen“) ist fachlich nicht gesichert; Diagnosen bei Jugendlichen sind je nach System und Fall möglich.",
+   "stand_note": "",
+   "statement": "Laut Leonie spricht man bei unter 18-Jährigen statt einer Borderline-Diagnose meist nur von einer Tendenz.",
+   "question": "Bis zu welchem Alter spricht man laut Leonie statt einer Borderline-Diagnose nur von einer „Tendenz“?",
+   "answer": "18 Jahre",
+   "distractors": [
+    "14 Jahre",
+    "16 Jahre",
+    "21 Jahre"
+   ],
+   "aha": "Leonie bekam mit 17 eine „Tendenzdiagnose“ und dazu den Satz, das sei unheilbar.",
+   "quote_clean": "Unter 18 sagt man, man hat eine Tendenz zu XY, weil man eigentlich keine Diagnosen von so jungen Menschen ausstellen darf.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "„Gilt heute“ ist irreführend, da in Österreich im Alltag noch ICD-10 verwendet wird; Frage auf das WHO-Inkrafttreten 2022 präzisiert, Aha nicht als Faktum zur Dauerhaftigkeit formuliert.",
+   "stand_note": "Stand 2025",
+   "statement": "Die WHO hat 2022 die elfte Fassung der internationalen Klassifikation der Krankheiten (ICD-11) in Kraft gesetzt.",
+   "question": "Die wievielte Fassung der internationalen Klassifikation der Krankheiten (ICD) hat die WHO 2022 in Kraft gesetzt?",
+   "answer": "Die 11.",
+   "distractors": [
+    "Die 8.",
+    "Die 10.",
+    "Die 13."
+   ],
+   "aha": "ICD steht für International Classification of Diseases und kommt von der WHO. Leonie erzählt, mit der neuen ICD-11 gelte eine Persönlichkeitsstörung nicht mehr als lebenslanges Schicksal, sondern als etwas, das man für eine Zeit haben kann.",
+   "quote_clean": "Dank der neuen ICD-11 sagt man, okay, man hat das für einen Moment und das ist kein lebenslanges Projekt.",
+   "quality": 2
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Linehan ist als Entwicklerin der DBT und Betroffene belegt; im Aha war die Rollenbeschreibung verdreht (Leonie hat das selbst gedacht, nicht gehört), „bekannteste“ abgeschwächt.",
+   "stand_note": "",
+   "statement": "Die Dialektisch-Behaviorale Therapie (DBT) wurde von Marsha Linehan entwickelt, die selbst von Borderline betroffen war.",
+   "question": "Was ist das Besondere an der Entwicklerin der DBT, einer bekannten Borderline-Therapie?",
+   "answer": "Sie war selbst Borderline-Betroffene",
+   "distractors": [
+    "Sie war Neurochirurgin",
+    "Sie war Tochter Sigmund Freuds",
+    "Sie war Gefängnisärztin"
+   ],
+   "aha": "Marsha Linehan hat die Therapie quasi aus eigener Erfahrung heraus entwickelt. Leonie hat daran gedacht, als man sie in der Ausbildung fragte, ob sie das mit Borderline überhaupt schaffe: Genau diese Therapie stammt von einer Betroffenen.",
+   "quote_clean": "Wir haben das Skills-Tool von DBT; diese Form der Therapie wurde ja von jemandem entwickelt, die Borderline hat.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Aussage stammt von Andreas, nicht von der Gästin, und ist ein Vergleich; als Vergleichsfrage mit sinnvollen Distraktoren umgebaut.",
+   "stand_note": "",
+   "statement": "Borderline gilt laut Andreas Sator als eine der am besten behandelbaren psychischen Erkrankungen, wenn man die Therapie gut macht.",
+   "question": "Wie gut behandelbar ist Borderline laut Andreas im Vergleich zu anderen psychischen Erkrankungen?",
+   "answer": "Als eine der am besten behandelbaren",
+   "distractors": [
+    "Als eine der am schwersten behandelbaren",
+    "Als praktisch nicht behandelbar",
+    "Als genauso gut wie ein Schnupfen"
+   ],
+   "aha": "Das alte Bild vom „hoffnungslosen Fall“ ist überholt. Mit passender Therapie, etwa DBT, kommen viele Betroffene so weit wie Leonie: Symptome unter der Nachweisgrenze. Leicht ist der Weg trotzdem nicht.",
+   "quote_clean": "DBT ist dialektisch-behaviorale Therapie. Viele psychische Erkrankungen sind eigentlich gar nicht so leicht zu behandeln. Borderline ist auch nicht leicht zu behandeln, aber es ist eine der am besten behandelbaren psychischen Erkrankungen.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Offene Frage mit mehrdeutigem Distraktor (Kurzsichtigkeit ist ein medizinischer Befund); als Jahresfrage zur WHO-Streichung 1990 (ICD-10) umgebaut.",
+   "stand_note": "",
+   "statement": "Homosexualität wurde früher als Krankheit geführt; die WHO strich sie 1990 aus ihrem Diagnosekatalog.",
+   "question": "In welchem Jahr strich die WHO Homosexualität aus ihrem Diagnosekatalog?",
+   "answer": "1990",
+   "distractors": [
+    "1965",
+    "1978",
+    "2005"
+   ],
+   "aha": "Davor galt Homosexualität offiziell als Krankheit. Andreas nimmt das als Beispiel dafür, dass Diagnosen auch zeigen, was eine Gesellschaft gerade für „normal“ hält.",
+   "quote_clean": "Früher wurde Homosexualität noch als eine Krankheit, als eine Störung bezeichnet, und wir neigen dazu, Dinge, die nicht der Mehrheit entsprechen, so zu benennen.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Aussage belegt; Antwort war auffällig länger und Distraktoren teils absurd, daher angeglichen.",
+   "stand_note": "",
+   "statement": "In der Therapie lernt man, den Moment vor einer impulsiven Reaktion zu erkennen und sich bewusst für die gesunde Alternative zu entscheiden.",
+   "question": "Was hat Leonie durch jahrelange Therapie vor allem gewonnen?",
+   "answer": "Die Wahl, wie sie auf Impulse reagiert",
+   "distractors": [
+    "Nie mehr Impulse zu spüren",
+    "Gefühle gar nicht mehr zu spüren",
+    "Nie mehr wütend zu werden"
+   ],
+   "aha": "Früher ist sie, wie sie sagt, „in A reingerast“. Heute läuft der Film zwar noch an, aber sie hat die Wahl und kann sich für B entscheiden.",
+   "quote_clean": "Dass bei uns immer so ein A-B-Film auftaucht: Du könntest mit A reagieren, du hast den Film schon richtig laufen, aber du entscheidest dich für B, für die gesunde Variante.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Schwarzes Loch und Abgrenzung zur Depression stehen wörtlich im Ausschnitt; Aha belegt.",
+   "stand_note": "",
+   "statement": "Die innere Leere bei Borderline lässt sich wie ein schwarzes Loch beschreiben, das jede Freude schluckt.",
+   "question": "Womit vergleicht Leonie die innere Leere, die sie bei Borderline erlebt hat?",
+   "answer": "Mit einem schwarzen Loch",
+   "distractors": [
+    "Mit einem Nebelfeld",
+    "Mit einer leeren Bühne",
+    "Mit einem stillen See"
+   ],
+   "aha": "Chronische Leere gehört zu den typischen Borderline-Symptomen. Laut Leonie fühlt sie sich anders an als eine Depression, eher wie „nichts“. Und um dem zu entkommen, musste sie sich irgendwie spüren.",
+   "quote_clean": "Aber ich würde es mit einem schwarzen Loch vergleichen: Es schluckt alles. Es schluckt jegliche Freude, jedes Lebensgefühl, und es ist anders als vielleicht bei einer Depression, würde ich schon sagen.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Kabel-Bild belegt; die Behauptung, Leonie greife es später auf (Yoga, Freundeskreis), steht nicht im Ausschnitt und wurde gestrichen.",
+   "stand_note": "",
+   "statement": "Depression lässt sich wie das Durchschneiden aller Kabel beschreiben, die einen mit Freude und der Außenwelt verbinden.",
+   "question": "Mit welchem Bild erklärt Andreas, was eine Depression mit einem macht?",
+   "answer": "Sie schneidet alle Kabel zur Außenwelt durch",
+   "distractors": [
+    "Sie dreht das Licht langsam ab",
+    "Sie legt einen Bleimantel um dich",
+    "Sie spult das Leben zurück"
+   ],
+   "aha": "Andreas sagt selbst, dass das nur eine rationale Analogie bleibt für etwas, das man gespürt haben muss. Darum hilft es so, mit jemandem zu reden, der das Gefühl selbst kennt: Da reichen oft drei Sätze.",
+   "quote_clean": "Und ich habe manchmal gesagt: Es gibt Kabel, die verbinden dich mit der Außenwelt, mit allem, was dir Freude macht und dir Gutes gibt, und die Depression schneidet alles durch.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Zuordnungsfrage („Wer sagt …?“); Distraktoren Linehan und Edhofer sind kaum plausibel.",
+   "stand_note": "",
+   "statement": "Leonie-Rachel Soyel lehnt die Bezeichnung „Borderlinerin“ ab und spricht von einer Diagnose, die sie bekommen hat.",
+   "question": "Wer sagt: „Ich würde niemals über mich sagen Borderlinerin, sondern ich habe eine Diagnose für eine Borderline-Persönlichkeitsstörung“?",
+   "answer": "Leonie-Rachel Soyel",
+   "distractors": [
+    "Andreas Sator",
+    "Marsha Linehan",
+    "Sinah Edhofer"
+   ],
+   "aha": "Wording macht etwas mit der Identität, sagt Leonie.",
+   "quote_clean": "Deswegen würde ich niemals über mich sagen „Borderlinerin“, sondern: Ich habe eine Diagnose für eine Borderline-Persönlichkeitsstörung bekommen.",
+   "quality": 1
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Zuordnungsfrage; Distraktoren „Hörerin aus Linz“ und „Therapeutin“ sind beliebig.",
+   "stand_note": "",
+   "statement": "Leonie beschreibt ihre Borderline-Symptome wie eine Viruslast: unter der Nachweisgrenze.",
+   "question": "Wer beschreibt Borderline als „unter der Nachweisgrenze“, wie bei einer Viruserkrankung?",
+   "answer": "Leonie-Rachel Soyel",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Hörerin aus Linz",
+    "Ihre Therapeutin"
+   ],
+   "aha": "Symptome unter der Nachweisgrenze heißt: nicht mehr messbar, auch wenn man den Weg dorthin nicht vergisst.",
+   "quote_clean": "Ich finde das immer sehr schön, wenn man bei Viruserkrankungen sagt, sie sind unter der Nachweisgrenze. Bei mir ist Borderline unter der Nachweisgrenze.",
+   "quality": 1
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Ursprüngliche Frage verriet die Antwort fast selbst; Yogastudio-Behauptung im Aha steht nicht im Ausschnitt. Auf Leonies Wunsch umformuliert.",
+   "stand_note": "",
+   "statement": "Leonie wünscht sich für junge Menschen mit psychischen Problemen „dritte Räume“ ohne Konsum, neben Zuhause, Arbeit und Schule, in denen man niederschwellig Anschluss und Hilfe finden kann.",
+   "question": "Was wünscht sich Leonie für junge Menschen, denen es psychisch so geht wie ihr früher?",
+   "answer": "Dritte Räume ohne Konsum",
+   "distractors": [
+    "Kostenlose Handys für alle",
+    "Früheres Schulende",
+    "Strengere Schulnoten"
+   ],
+   "aha": "Gemeint sind Orte neben Zuhause, Arbeit und Schule, an denen man nichts kaufen muss und trotzdem Menschen trifft, die einen verstehen. Der Begriff „Third Place“ geht auf den US-Soziologen Ray Oldenburg zurück.",
+   "quote_clean": "Ich glaube, es ist ganz wichtig, dass wir dritte Räume schaffen, dass es nicht nur Zuhause, Arbeit und Schule gibt, sondern dritte Räume ohne Konsum.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Anekdote ist von Leonie selbst launig erzählt und im Ausschnitt belegt; Ex-Partner bleibt anonym.",
+   "stand_note": "",
+   "statement": "Weil ihr damaliger Partner sie bei der Abschlussshow nicht umarmte, zog Leonie spontan nach Berlin.",
+   "question": "Was tat Leonie, nachdem ihr damaliger Partner sie bei ihrer Abschlussshow nicht umarmt hatte?",
+   "answer": "Sie zog spontan nach Berlin",
+   "distractors": [
+    "Sie brach das Studium ab",
+    "Sie färbte sich die Haare",
+    "Sie trat in eine Band ein"
+   ],
+   "aha": "„Impulsivität war mein zweiter Vorname und nicht Rachel“, sagt sie heute lachend. Und ausgerechnet in Berlin war sie zum ersten Mal richtig glücklich.",
+   "quote_clean": "Er hat mich bei meiner Abschlussshow nicht umarmt, woraufhin ich mir eine Flasche Rotwein reingekippt, einen Flug nach Berlin gebucht habe und nach Berlin gezogen bin.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zum Podcast-Format; „fast jede Folge“ ist im Ausschnitt nicht belegt, Distraktoren sind beliebig.",
+   "stand_note": "",
+   "statement": "Andreas fasst am Ende der Folge zusammen, was er sich mitnimmt, zuerst, dass Borderline behandelbar ist.",
+   "question": "Mit welcher Frage leitet Andreas am Ende seine Zusammenfassung ein?",
+   "answer": "„Was nehme ich mir mit?“",
+   "distractors": [
+    "„Was haben wir gelernt?“",
+    "„Was bleibt hängen?“",
+    "„Und jetzt?“"
+   ],
+   "aha": "Diesmal steht ganz oben, dass Borderline behandelbar ist.",
+   "quote_clean": "Was nehme ich mir mit? Erstens: Borderline ist behandelbar. Der Fall von Leonie zeigt, dass man mit der richtigen Unterstützung und harter Arbeit an sich selbst die Störung unter die Nachweisgrenze bringen kann.",
+   "quality": 1
+  }
+ ],
+ "id": "380",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

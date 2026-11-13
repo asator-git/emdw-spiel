@@ -1,0 +1,285 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aussage belegt; im aha stand eine nicht belegte Behauptung (Verlierer rüsten nach und warten), die entfernt wird.",
+   "stand_note": "",
+   "statement": "Historisch haben zwei verfeindete Länder selten nur einen einzigen Krieg gegeneinander geführt.",
+   "question": "Wie oft führen zwei verfeindete Länder historisch typischerweise Krieg gegeneinander?",
+   "answer": "Meist mehrmals hintereinander",
+   "distractors": [
+    "Fast immer nur ein einziges Mal",
+    "Höchstens einmal pro Jahrhundert",
+    "Nur bei gemeinsamer Grenze einmal"
+   ],
+   "aha": "Ein Krieg legt den Streit selten bei. Franz-Stefan Gady nennt als Beispiele Rom und Karthago, Preußen und Österreich, Indien und Pakistan oder Israel und seine arabischen Nachbarn: Dort gab es immer wieder Nachfolgekriege.",
+   "quote_clean": "Grundsätzlich ist es in der Geschichte so, dass es immer eine größere Anzahl von Kriegen zwischen zwei Ländern gegeben hat, dass zwei Länder selten nur einmal miteinander Krieg geführt haben.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Kernaussage belegt; der letzte aha-Satz (Aufrüsten in der Pause) steht so nicht im Ausschnitt. Geopolitische Lage ist Stand 2025.",
+   "stand_note": "Stand 2025",
+   "statement": "Im „Zeitalter der Nachfolgekriege“ gibt es laut Gady zwischen Kriegen nur Waffenstillstände, weil kein Weltpolizist Konflikte dauerhaft einfriert.",
+   "question": "Was gibt es laut der Idee vom „Zeitalter der Nachfolgekriege“ zwischen zwei Kriegen?",
+   "answer": "Nur Waffenstillstände, keinen echten Frieden",
+   "distractors": [
+    "Lange stabile Friedensperioden",
+    "Dauerhafte Friedensverträge der UNO",
+    "Neutrale Pufferstaaten auf beiden Seiten"
+   ],
+   "aha": "Damit aus einem Waffenstillstand dauerhafter Friede wird, braucht es laut Gady jemanden, der Sicherheitsgarantien abgeben kann. Jahrzehntelang waren das die USA als eine Art Weltpolizist. Fehlt so jemand, bleibt es bei einer Feuerpause zwischen zwei Kriegen.",
+   "quote_clean": "Die Idee von einem neuen Zeitalter der Nachfolgekriege ist, dass es zwischen den Kriegen eigentlich nur Waffenstillstände gibt, weil es eben nicht diesen Weltpolizisten gibt, der Sicherheitsgarantien abgeben kann.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "'Der einzige Grund' ist Gadys Zuspitzung, daher als seine Sicht gekennzeichnet; die Ukraine-Aussage im aha war zu pauschal (Gady: 'soweit wir das wissen') und ist Stand 2025.",
+   "stand_note": "Stand 2025",
+   "statement": "Laut Gady wurde der Koreakrieg zum eingefrorenen Konflikt, weil die USA Bodentruppen zur Überwachung der Waffenstillstandslinie schickten.",
+   "question": "Warum ist der Koreakrieg laut Franz-Stefan Gady ein eingefrorener Konflikt geworden?",
+   "answer": "US-Bodentruppen sichern die Waffenstillstandslinie",
+   "distractors": [
+    "Ein Friedensvertrag der Vereinten Nationen",
+    "Nordkorea gab freiwillig seine Ansprüche auf",
+    "China zog sich komplett aus Asien zurück"
+   ],
+   "aha": "Einen Friedensvertrag zwischen Nord- und Südkorea gibt es bis heute nicht. Gehalten hat die Waffenruhe laut Gady, weil klar war: Wer den Süden angreift, bekommt es auch mit amerikanischen Soldaten zu tun.",
+   "quote_clean": "Der einzige Grund, warum der Koreakrieg ein eingefrorener Konflikt wurde, war, weil die Amerikaner gesagt haben, sie schicken Bodentruppen dorthin, die eine Waffenstillstandslinie überwachen.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Drei Kriege zwischen Rom und Karthago sind belegt und historisch korrekt (Punische Kriege).",
+   "stand_note": "",
+   "statement": "Rom und Karthago führten in der Antike drei Kriege gegeneinander, die Punischen Kriege.",
+   "question": "Wie viele Kriege führten Rom und Karthago in der Antike gegeneinander?",
+   "answer": "3",
+   "distractors": [
+    "2",
+    "5",
+    "7"
+   ],
+   "aha": "Die drei Punischen Kriege sind das Lehrbuchbeispiel für Nachfolgekriege. Nach jedem Krieg blieb der Grundkonflikt offen, bis Rom Karthago am Ende komplett zerstörte.",
+   "quote_clean": "Man denkt z.B. an die vielen Kriege zwischen Karthago und Rom in der Antike. Die zwei Großmächte, die sich bekriegt haben. Es gab drei Kriege.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Pariser Taxis beim Wunder an der Marne sind belegt und historisch korrekt.",
+   "stand_note": "",
+   "statement": "Beim „Wunder an der Marne“ 1914 wurden französische Truppen teilweise mit Pariser Taxis an die Front gebracht.",
+   "question": "Womit wurden beim „Wunder an der Marne“ 1914 französische Soldaten teilweise an die Front gebracht?",
+   "answer": "Mit Pariser Taxis",
+   "distractors": [
+    "Mit Pariser Straßenbahnen",
+    "Mit Fahrrädern der Post",
+    "Mit Pferdekutschen der Bauern"
+   ],
+   "aha": "Der deutsche Schlieffenplan wollte Paris in wenigen Wochen einnehmen. An der Marne wurde der Vormarsch gestoppt, mit allem, was fahren konnte, auch Taxis. Danach begann der berüchtigte Stellungskrieg.",
+   "quote_clean": "In Frankreich ist es bekannt als das sogenannte Wunder an der Marne, wo französische Truppen teilweise mit Pariser Taxis zur Front geschickt wurden.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Das ist Gadys historische Deutung, nicht gesichertes Faktum; als solche gekennzeichnet. Die Russland-Parallele im aha war zu stark (Gady: 'möglicherweise').",
+   "stand_note": "",
+   "statement": "Laut Gady kämpften Kaiser und Heeresleitung im Ersten Weltkrieg weiter, weil sie eine Revolution im eigenen Land mehr fürchteten als einen Sieg der Alliierten.",
+   "question": "Was fürchteten Kaiser und Heeresleitung im Ersten Weltkrieg laut Franz-Stefan Gady mehr als einen Sieg der Alliierten?",
+   "answer": "Eine Revolution im eigenen Land",
+   "distractors": [
+    "Eine Hungersnot in Österreich-Ungarn",
+    "Den Kriegseintritt Japans",
+    "Den Verlust aller Kolonien"
+   ],
+   "aha": "Manchmal lohnt es sich für die Führung mehr, weiterzukämpfen, als die Folgen einer Niederlage zu tragen. Gady meint, dass 1918 so oder so eine Revolution bevorstand. Er sieht darin möglicherweise auch eine Parallele zu heute.",
+   "quote_clean": "Die deutsche Oberste Heeresleitung damals, der deutsche Kaiser fürchteten sich nicht so sehr vor einem alliierten Sieg, sondern fürchteten vielmehr eine Revolution im Deutschen Reich",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Gady sagt 'oft', nicht 'meist'; Statement und Frage entsprechend abgeschwächt.",
+   "stand_note": "",
+   "statement": "Kriege lassen sich kurz nach Ausbruch oft schwer beenden, weil der Kriegsausbruch häufig jedes Vertrauen zwischen den Parteien zerstört hat.",
+   "question": "Warum lassen sich Kriege kurz nach ihrem Ausbruch laut Gady oft so schwer durch Verhandlungen beenden?",
+   "answer": "Das Vertrauen zwischen den Seiten ist zerstört",
+   "distractors": [
+    "Es fehlen neutrale Verhandlungsorte",
+    "Völkerrecht verbietet frühe Verhandlungen",
+    "Die Armeen sind noch nicht mobilisiert"
+   ],
+   "aha": "Wer gerade angelogen wurde, um einen Überraschungsvorteil zu ermöglichen, glaubt einer Unterschrift auf einem Papier eher nicht. Darum kommt das Ende oft erst, wenn beide Seiten völlig erschöpft sind. „Setzt euch halt zusammen“ funktioniert so einfach nicht.",
+   "quote_clean": "Man darf nicht vergessen, dass jegliche Vertrauensbasis oft durch den Kriegsausbruch zerstört wurde, weil hier bewusst manipuliert wurde, um in der Anfangsphase einen militärischen Vorteil zu schaffen",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat wörtlich belegt, Zuordnung korrekt; als Wer-hat's-gesagt-Frage mäßig.",
+   "stand_note": "",
+   "statement": "Kriege durchlaufen natürliche Zyklen, und in der Anfangsphase ist meist keine Verhandlungsbereitschaft da.",
+   "question": "Wer hat's gesagt: „Kriege haben natürliche Zyklen, die sie durchlaufen, so brutal das klingen mag“?",
+   "answer": "Franz-Stefan Gady",
+   "distractors": [
+    "Andreas Sator",
+    "Winston Churchill",
+    "Gustav Mahler"
+   ],
+   "aha": "Am Anfang sind die Emotionen hoch, beide Seiten hochgerüstet und noch nicht ausgeblutet. Erst wenn der Ofen quasi aus ist, wird verhandelt. Nüchtern, aber leider oft wahr.",
+   "quote_clean": "Kriege haben natürliche Zyklen, die sie durchlaufen, so brutal das klingen mag. Und die Anfangsphase ist oft nicht die Phase, wo man sich wirklich hinsetzen kann",
+   "quality": 2
+  },
+  {
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Die Antwort steckt im Namen 'Dreißigjähriger Krieg' und in der Jahresangabe; überschneidet sich zudem mit Kandidat 10.",
+   "stand_note": "",
+   "statement": "Winston Churchill sprach von einem „Dreißigjährigen Krieg“ der Moderne von 1914 bis 1945, mit einem Waffenstillstand dazwischen.",
+   "question": "Wie viele Jahre umfasste der „Dreißigjährige Krieg der Moderne“, von dem Churchill für die Zeit ab 1914 sprach?",
+   "answer": "Rund 30 Jahre (1914 bis 1945)",
+   "distractors": [
+    "Rund 10 Jahre",
+    "Rund 20 Jahre",
+    "Rund 45 Jahre"
+   ],
+   "aha": "Für Churchill waren die beiden Weltkriege im Grunde ein einziger Konflikt. Die Zwischenkriegszeit war kein echter Friede, sondern nur eine Pause zum Wiederaufrüsten. Ein Paradebeispiel für einen Nachfolgekrieg.",
+   "quote_clean": "Winston Churchill hat z.B. vom Dreißigjährigen Krieg gesprochen, 1914 bis 1945, einem Dreißigjährigen Krieg der Moderne, mit einem Waffenstillstand dazwischen.",
+   "quality": 1
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Gady nennt ungefähr 20 Jahre zwischen 1918 und 1939; stimmt. aha-Inhalte stehen im Ausschnitt. Eher leichte Frage.",
+   "stand_note": "",
+   "statement": "Die rund 20 Jahre zwischen 1918 und 1939 gelten in der Geschichtsschreibung oft nur als Waffenstillstand, nicht als echter Frieden.",
+   "question": "Wie viele Jahre lagen ungefähr zwischen dem Ende des Ersten und dem Beginn des Zweiten Weltkriegs?",
+   "answer": "Rund 20 Jahre",
+   "distractors": [
+    "Rund 10 Jahre",
+    "Rund 30 Jahre",
+    "Rund 15 Jahre"
+   ],
+   "aha": "Nach 1918 zogen sich die USA aus Europa zurück, kein Polizist hielt den Konflikt eingefroren. Deutschland fühlte sich nicht wirklich besiegt und rüstete wieder auf. Zwei Jahrzehnte später ging es von vorne los.",
+   "quote_clean": "Das ist das klassische Beispiel, wo die Jahre zwischen 1918 und 1939, diese ungefähr 20 Jahre, nur als Waffenstillstand gegolten haben und nicht als eigentlicher Frieden.",
+   "quality": 2
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "fairness"
+   ],
+   "note": "Politische Meinung zur Ukraine-Debatte, als allgemeine Wahrheit formuliert; Distraktor 'Wladimir Putin' unpassend. Als Fakt-Quiz nicht geeignet.",
+   "stand_note": "",
+   "statement": "Es ist besser, für klar definierte Interessen in einen Konflikt zu gehen als für Prinzipien.",
+   "question": "Wer hat's gesagt: „Es ist immer besser, in einen Konflikt zu treten für sehr harte, klar definierte Interessen als für Prinzipien“?",
+   "answer": "Franz-Stefan Gady",
+   "distractors": [
+    "Andreas Sator",
+    "Winston Churchill",
+    "Wladimir Putin"
+   ],
+   "aha": "Gady weiß, dass ihn das in manchen Kreisen nicht populär macht. Sein Punkt: Wer nicht weiß, was er eigentlich will, findet auch keinen Weg aus dem Krieg. Das war in Afghanistan, im Irak und in Vietnam zu sehen.",
+   "quote_clean": "Und es ist immer besser, in einen Konflikt zu treten für sehr harte, klar definierte Interessen als für Prinzipien, möchte ich hier unterstreichen.",
+   "quality": 1
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "Anekdote belegt; aha an Gadys Wortlaut angepasst ('untergräbt jegliche militärische Glaubwürdigkeit'). Debatte ist Stand 2025.",
+   "stand_note": "Stand 2025",
+   "statement": "Bei einem Vortrag vor NATO-Botschaftern in Litauen sagte ein deutscher Diplomat zu Gady, ohne die Amerikaner könne Europa militärisch nichts machen.",
+   "question": "Was sagte ein deutscher Diplomat nach Gadys Vortrag vor NATO-Botschaftern in Litauen?",
+   "answer": "Ohne die USA kann Europa militärisch nichts",
+   "distractors": [
+    "Europa braucht sofort eine eigene Atombombe",
+    "Deutschland schickt morgen Truppen in die Ukraine",
+    "Die NATO sollte Russland aufnehmen"
+   ],
+   "aha": "Gady fand das sinnbildlich und genau die falsche Einstellung: Wer sagt, dass er militärisch nichts kann, untergräbt jede militärische Glaubwürdigkeit. Seine Antwort: Europa kann einiges, wenn es will.",
+   "quote_clean": "ein deutscher Diplomat aufgestanden ist, nachdem ich vor einer Reihe von NATO-Botschaftern mehrere militärische Optionen durchgegangen bin, und gesagt hat: Ohne die Amerikaner können wir militärisch nichts machen in Europa.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Folgenstart, kein Wissen oder Aha; Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Andreas eröffnet Teil 5 der Serie „Erklär mir den Krieg“ mit der Frage, wie Kriege wieder aufhören.",
+   "question": "Mit welcher Frage startet Andreas in Teil 5 der Serie „Erklär mir den Krieg“?",
+   "answer": "Wie hören Kriege wieder auf?",
+   "distractors": [
+    "Warum fangen Kriege überhaupt an?",
+    "Wer gewinnt eigentlich Kriege?",
+    "Was kostet ein Krieg?"
+   ],
+   "aha": "Nach Ursachen, Szenarien, Vorbereitung und Verhinderung ging es zum Abschluss ums Ende. Franz-Stefan Gady drehte die Frage gleich um: Zuerst muss man wissen, was die Kriegsziele sind. Die ändern sich nämlich ständig.",
+   "quote_clean": "Teil 5 unserer Serie Erklär mir den Krieg. Wie hören Kriege wieder auf?",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsende, kein Wissensgehalt.",
+   "stand_note": "",
+   "statement": "Andreas fragt zum Schluss, ob der Gast seinen Zuhörer:innen noch etwas mitgeben möchte.",
+   "question": "Was fragt Andreas Franz-Stefan Gady trotz des „schönen Schlussworts“ am Ende noch?",
+   "answer": "Ob er noch etwas mitgeben möchte",
+   "distractors": [
+    "Welches Buch er empfehlen würde",
+    "Ob er optimistisch in die Zukunft blickt",
+    "Wann die nächste Serie kommt"
+   ],
+   "aha": "Auch wenn das Schlusswort schon perfekt saß, fragt Andreas noch einmal nach. Gady nutzt es für ein Plädoyer: sich mit dem ungemütlichen Thema auseinandersetzen. Ein europäischer Krieg sei noch zu verhindern.",
+   "quote_clean": "Franz, das ist so ein schönes Schlusswort. Ich frage dich trotzdem: Gibt's noch etwas, was du",
+   "quality": 1
+  }
+ ],
+ "id": "348",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

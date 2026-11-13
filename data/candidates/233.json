@@ -1,0 +1,717 @@
+{
+ "theme": "Wirtschaft & Arbeit",
+ "summary": "Kann ich mit meinem Ersparten die Welt verbessern? Ein Bankprofessor erklärt, warum nachhaltige Geldanlage viel schwieriger ist, als sie klingt.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1071,
+   "speaker": "Andreas Sator",
+   "quote": "Ich besitze einen ETF, der kostet mich im Jahr 0,22 Prozent. Das von Vanguard, ein ganz berühmtes großes Unternehmen, das so ETFs erstellt.",
+   "quote_clean": "Ich besitze einen ETF, der kostet mich im Jahr 0,22 Prozent. Der ist von Vanguard, einem ganz berühmten großen Unternehmen, das ETFs erstellt.",
+   "statement": "Ein breit gestreuter Welt-ETF kann im Jahr nur rund 0,22 Prozent an Kosten verursachen.",
+   "question": "Wie viel Prozent pro Jahr kostet Andreas' Welt-ETF ungefähr?",
+   "answer": "0,22 Prozent",
+   "distractors": [
+    "1,2 Prozent",
+    "0,8 Prozent",
+    "2,5 Prozent"
+   ],
+   "number_value": 0.22,
+   "number_unit": "Prozent pro Jahr",
+   "slider_min": 0,
+   "slider_max": 3,
+   "log_scale": false,
+   "aha": "ETFs kaufen mechanisch einen Index nach, da sitzt kein teures Management dahinter. Darum sind sie so billig, und das ist bei langfristigem Sparen ein riesiger Vorteil.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "ETF",
+    "Kosten",
+    "Geldanlage"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1144,
+   "speaker": "Andreas Sator",
+   "quote": "Der kostet aber 1,5 Prozent im Jahr, weil da eben nicht wie bei mir ein dummer Mechanismus ist, automatisierter, sondern da sitzt ein Mensch, der schaut sich die Ergebnisse von Firmen an,",
+   "quote_clean": "Der kostet aber 1,5 Prozent im Jahr, weil da eben nicht wie bei mir ein dummer, automatisierter Mechanismus ist, sondern da sitzt ein Mensch, der sich die Ergebnisse von Firmen anschaut.",
+   "statement": "Ein aktiv gemanagter nachhaltiger Fonds kann rund 1,5 Prozent pro Jahr kosten, weil Menschen die Firmen prüfen.",
+   "question": "Wie viel Prozent pro Jahr kostet der nachhaltige, aktiv gemanagte Fonds, den Andreas verglichen hat?",
+   "answer": "1,5 Prozent",
+   "distractors": [
+    "0,3 Prozent",
+    "4 Prozent",
+    "0,8 Prozent"
+   ],
+   "number_value": 1.5,
+   "number_unit": "Prozent pro Jahr",
+   "slider_min": 0,
+   "slider_max": 5,
+   "log_scale": false,
+   "aha": "Bei einem aktiv gemanagten Fonds zahlst du Menschen, die Firmen anschauen und nachfragen, ob die wirklich nachhaltig sind. Das klingt nach wenig, ist aber fast siebenmal so viel wie Andreas' ETF.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Fonds",
+    "Kosten",
+    "Nachhaltigkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1170,
+   "speaker": "Andreas Sator",
+   "quote": "20.000 Euro anlege und ich lege das langfristig für später an, über 25 Jahre, dann beim angenommenen Zuwachs von 4 Prozent im Jahr, macht dieser Unterschied in den Kosten, also 0,2 versus 1,5 Prozent, kostet mich über diese Zeit 13.000 Euro",
+   "quote_clean": "Wenn ich 20.000 Euro langfristig über 25 Jahre anlege, bei einem angenommenen Zuwachs von 4 Prozent im Jahr, kostet mich der Unterschied in den Kosten, also 0,2 versus 1,5 Prozent, über diese Zeit 13.000 Euro.",
+   "statement": "Bei 20.000 Euro über 25 Jahre macht ein Kostenunterschied von 0,2 zu 1,5 Prozent pro Jahr rund 13.000 Euro aus.",
+   "question": "Wie viel Euro kostet der Unterschied zwischen 0,2 und 1,5 Prozent Gebühren bei 20.000 Euro über 25 Jahre?",
+   "answer": "Rund 13.000 Euro",
+   "distractors": [
+    "Rund 2.000 Euro",
+    "Rund 5.000 Euro",
+    "Rund 30.000 Euro"
+   ],
+   "number_value": 13000,
+   "number_unit": "Euro",
+   "slider_min": 500,
+   "slider_max": 40000,
+   "log_scale": false,
+   "aha": "Gebühren werden jedes Jahr vom ganzen Betrag abgezogen, und der Zinseszins verstärkt das. Aus Andreas' 20.000 Euro werden so 50.000 statt 37.000 Euro, und die Differenz geht großteils an die Leute, die den Fonds managen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Zinseszins",
+    "Gebühren",
+    "ETF"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1084,
+   "speaker": "Andreas Sator",
+   "quote": "Und das ist ein ETF, der 4.000 große Unternehmen automatisch die Anteile von denen kauft. Also der orientiert sich da an großen Indizes.",
+   "quote_clean": "Und das ist ein ETF, der automatisch Anteile von 4.000 großen Unternehmen kauft. Der orientiert sich an großen Indizes.",
+   "statement": "Ein Welt-ETF kann automatisch Anteile an rund 4.000 großen Unternehmen enthalten.",
+   "question": "An wie vielen Unternehmen ist man mit Andreas' Welt-ETF ungefähr beteiligt?",
+   "answer": "Rund 4.000",
+   "distractors": [
+    "Rund 50",
+    "Rund 500",
+    "Rund 40.000"
+   ],
+   "number_value": 4000,
+   "number_unit": "Unternehmen",
+   "slider_min": 10,
+   "slider_max": 50000,
+   "log_scale": true,
+   "aha": "Mit einem einzigen Papier hast du so ein Stückerl Weltwirtschaft. Wenn eine Firma pleitegeht, merkst du das kaum, allerdings sind dann eben auch Ölkonzerne mit drinnen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "ETF",
+    "Streuung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2163,
+   "speaker": "Andreas Sator",
+   "quote": "Es ist lustig, wie das rüberschwappt, weil angrenzend an Bayern, also in Süden Deutschlands, ist Oberösterreich und Oberösterreich ist jetzt gerade das erste Windrad seit sechs Jahren eröffnet worden.",
+   "quote_clean": "Es ist lustig, wie das rüberschwappt, weil angrenzend an Bayern, also im Süden Deutschlands, liegt Oberösterreich, und in Oberösterreich ist jetzt gerade das erste Windrad seit sechs Jahren eröffnet worden.",
+   "statement": "In Oberösterreich wurde 2022 das erste neue Windrad seit sechs Jahren eröffnet.",
+   "question": "Seit wie vielen Jahren war das 2022 eröffnete Windrad in Oberösterreich das erste neue?",
+   "answer": "6 Jahre",
+   "distractors": [
+    "2 Jahre",
+    "12 Jahre",
+    "20 Jahre"
+   ],
+   "number_value": 6,
+   "number_unit": "Jahre",
+   "slider_min": 0,
+   "slider_max": 20,
+   "log_scale": false,
+   "aha": "Am Wind liegt es nicht, sagt Andreas trocken. Burghof sieht die Bürokratie als Bremse und findet, dass da für die Energiewende ein viel größerer Hebel liegt als bei der eigenen Geldanlage.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Windkraft",
+    "Oberösterreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1362,
+   "speaker": "Hans-Peter Burghof",
+   "quote": "Inzwischen ja. Und das ist eine Diskussion, die vor über zehn Jahren gelaufen ist. Also das ist schon ziemlich lange so, dass man eigentlich solche Risiken eingepreist hat",
+   "quote_clean": "Inzwischen ja. Und das ist eine Diskussion, die vor über zehn Jahren gelaufen ist. Es ist schon ziemlich lange so, dass man solche Risiken eingepreist hat.",
+   "statement": "Ökologische und gesellschaftliche Risiken von Unternehmen sind laut Burghof seit über zehn Jahren in den Aktienkursen eingepreist.",
+   "question": "Vor wie vielen Jahren lief laut Burghof die Debatte, mit der Nachhaltigkeitsrisiken in Aktienkurse eingepreist wurden?",
+   "answer": "Vor über zehn Jahren",
+   "distractors": [
+    "Vor etwa zwei Jahren",
+    "Vor über dreißig Jahren",
+    "Vor etwa fünf Jahren"
+   ],
+   "number_value": 10,
+   "number_unit": "Jahre",
+   "slider_min": 0,
+   "slider_max": 40,
+   "log_scale": false,
+   "aha": "Wer glaubt, mit Tesla- oder Windkraft-Aktien könne es nur nach oben gehen, ist laut Burghof spät dran. Der Markt weiß das längst und hat es in den Preis eingerechnet.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Aktien",
+    "Nachhaltigkeit",
+    "Kapitalmarkt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 676,
+   "speaker": "Hans-Peter Burghof",
+   "quote": "Die kaufe ich jetzt ganz besonders. Und das nennt man dann Arbitrageprozess. Das passt sich dann an. Und wenn der Kapital mal gut funktioniert, dann sollten diese Aktien nachher wieder den gleichen Wert haben.",
+   "quote_clean": "Die kaufe ich jetzt ganz besonders. Und das nennt man dann Arbitrageprozess. Das passt sich dann an. Und wenn der Kapitalmarkt gut funktioniert, dann sollten diese Aktien nachher wieder den gleichen Wert haben.",
+   "statement": "Wenn Investoren unterbewertete Aktien gezielt kaufen, gleichen sich die Preise wieder an; das nennt man Arbitrage.",
+   "question": "Wie heißt der Vorgang, bei dem Anleger unterbewertete Aktien kaufen, bis sich die Preise angleichen?",
+   "answer": "Arbitrage",
+   "distractors": [
+    "Diversifikation",
+    "Leerverkauf",
+    "Hebelung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kaufen viele die nachhaltigen Aktien, werden die „bösen“ billiger, und dann greifen nüchterne Investoren zu. Am Ende ist der Preisunterschied weg, und dein gutes Gewissen hat am Markt eh nichts verändert.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Arbitrage",
+    "Aktien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1306,
+   "speaker": "Hans-Peter Burghof",
+   "quote": "Und deswegen gab es so eine Phase, wenn du dann Nachhaltigkeitsrisiken angeguckt hast, dann hast du tatsächlich auch dein Geld besser angelegt, da hast du mehr verdient. Deswegen kam diese Win-Win-Idee, wir werden reich und wir machen noch was Gutes.",
+   "quote_clean": "Und deswegen gab es eine Phase, in der du, wenn du dir Nachhaltigkeitsrisiken angeschaut hast, dein Geld tatsächlich besser angelegt und mehr verdient hast. Daher kam diese Win-win-Idee: Wir werden reich und machen noch was Gutes.",
+   "statement": "Die Idee, mit nachhaltiger Anlage mehr zu verdienen, stammt aus einer Phase, in der Nachhaltigkeitsrisiken noch nicht eingepreist waren.",
+   "question": "Warum konnte man früher mit nachhaltiger Geldanlage tatsächlich mehr verdienen?",
+   "answer": "Weil Umweltrisiken nicht eingepreist waren",
+   "distractors": [
+    "Weil der Staat sie steuerfrei stellte",
+    "Weil Ölpreise dauerhaft sanken",
+    "Weil Banken höhere Zinsen zahlten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer damals schon gesehen hat, dass strengere Umweltgesetze kommen, war dem Markt voraus. Heute sind diese Risiken laut Burghof jedem bewusst, darum ist das Win-win-Versprechen inzwischen eher ein Perpetuum mobile.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Nachhaltigkeit",
+    "Rendite"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1744,
+   "speaker": "Hans-Peter Burghof",
+   "quote": "Das eine ist das E steht natürlich für ökologische Nachhaltigkeit. Das S steht für soziale Nachhaltigkeit. Und das G, das ist so ein Wundertier. Governance.",
+   "quote_clean": "Das E steht natürlich für ökologische Nachhaltigkeit. Das S steht für soziale Nachhaltigkeit. Und das G, das ist so ein Wundertier: Governance.",
+   "statement": "ESG steht für ökologische Nachhaltigkeit, soziale Nachhaltigkeit und Governance, also gute Unternehmensführung.",
+   "question": "Wofür steht das G in den ESG-Kriterien für nachhaltige Geldanlage?",
+   "answer": "Governance",
+   "distractors": [
+    "Green",
+    "Growth",
+    "Gemeinwohl"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Governance heißt: Wie gut wird ein Unternehmen geführt? Burghof findet, dass die drei Buchstaben eigentlich drei Tiere sind, die wenig miteinander zu tun haben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "ESG",
+    "Nachhaltigkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1453,
+   "speaker": "Andreas Sator",
+   "quote": "weil dann gibt es zum Beispiel gewisse Sündenaktien, die man da wegtut, zum Beispiel Alkohol, Waffen oder Kernenergie, wo mein Impuls war, ich weiß nicht, warum ein Bierbrauer so schlimm sein soll jetzt.",
+   "quote_clean": "Da gibt es zum Beispiel gewisse Sündenaktien, die man weglässt, etwa Alkohol, Waffen oder Kernenergie, wo mein Impuls war: Ich weiß nicht, warum ein Bierbrauer jetzt so schlimm sein soll.",
+   "statement": "Nachhaltige ETFs schließen oft sogenannte Sündenaktien aus, etwa aus den Bereichen Alkohol, Waffen oder Kernenergie.",
+   "question": "Welche Branchen werden in nachhaltigen ETFs oft als „Sündenaktien“ ausgeschlossen?",
+   "answer": "Alkohol, Waffen, Kernenergie",
+   "distractors": [
+    "Banken, Versicherungen, Immobilien",
+    "Pharma, Software, Telekom",
+    "Lebensmittel, Mode, Tourismus"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas wundert sich, warum ein Bierbrauer schlimmer sein soll als ein Kohlekraftwerk. Burghof sieht darin eine Art Spießermoral, und bei Rüstung und Kernkraft hat sich die Bewertung seit 2022 ohnehin gedreht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "ETF",
+    "Sündenaktien",
+    "Moral"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1523,
+   "speaker": "Hans-Peter Burghof",
+   "quote": "Teilweise, wir haben das dann in der Prohibition Anfang des 20. Jahrhunderts in den USA gehabt, wo man dann eine Spießermoral in der gesamten Gesellschaft durchgesetzt hat.",
+   "quote_clean": "Wir hatten das dann in der Prohibition Anfang des 20. Jahrhunderts in den USA, wo man eine Spießermoral in der gesamten Gesellschaft durchgesetzt hat.",
+   "statement": "Die Prohibition, das Alkoholverbot in den USA, gab es Anfang des 20. Jahrhunderts.",
+   "question": "Wann galt in den USA die Prohibition, also das Alkoholverbot?",
+   "answer": "Anfang des 20. Jahrhunderts",
+   "distractors": [
+    "Mitte des 19. Jahrhunderts",
+    "Nach dem Zweiten Weltkrieg",
+    "Ende des 18. Jahrhunderts"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Von 1920 bis 1933 war Alkohol in den USA verboten. Burghof zieht die Linie bis zu heutigen Anlagekriterien: Alkohol sei übermäßig genossen gefährlich, aber eben auch Kultur.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Prohibition",
+    "USA",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1932,
+   "speaker": "Hans-Peter Burghof",
+   "quote": "Und man darf natürlich auch nicht vergessen, die großen Unternehmen haben bei solchen Ratings die Möglichkeit, über entsprechendes Lobbying die Kriterien zu beeinflussen.",
+   "quote_clean": "Und man darf natürlich nicht vergessen: Die großen Unternehmen haben bei solchen Ratings die Möglichkeit, über entsprechendes Lobbying die Kriterien zu beeinflussen.",
+   "statement": "Große Unternehmen können über Lobbying die Kriterien von Nachhaltigkeitsratings beeinflussen, kleine nicht.",
+   "question": "Wer ist bei Nachhaltigkeitsratings laut Burghof im Vorteil?",
+   "answer": "Große Konzerne mit Lobbying",
+   "distractors": [
+    "Kleine regionale Firmen",
+    "Junge Start-ups",
+    "Staatliche Unternehmen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Große Konzerne beobachten die Ratingagenturen genau und richten sich danach aus. Kleine Firmen haben dafür keine Leute und fallen hinten über, obwohl sie oft gut für Wettbewerb und Regionen wären.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ratings",
+    "ESG",
+    "Lobbying"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 790,
+   "speaker": "Andreas Sator",
+   "quote": "aber in Österreich ist die Angst vor Aktien, sehr groß. Das ist, man legt das Geld aufs Sparbuch, vielleicht noch auf den Bausparer, aber Aktien sind eigentlich ein wahnsinniges Minderheitenprogramm.",
+   "quote_clean": "Aber in Österreich ist die Angst vor Aktien sehr groß. Man legt das Geld aufs Sparbuch, vielleicht noch auf den Bausparer, aber Aktien sind ein wahnsinniges Minderheitenprogramm.",
+   "statement": "In Österreich sind Aktien ein Minderheitenprogramm; die meisten legen ihr Geld aufs Sparbuch oder in den Bausparer.",
+   "question": "Wo legen die meisten Österreicher:innen laut Andreas ihr Geld traditionell an?",
+   "answer": "Sparbuch und Bausparer",
+   "distractors": [
+    "Aktien und ETFs",
+    "Gold und Immobilien",
+    "Anleihen und Fonds"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Problem: Am Konto frisst die Inflation das Geld jedes Jahr ein bisserl auf. Für langfristiges Sparen halten fast alle Expert:innen breit gestreute Aktien für deutlich besser geeignet.",
+   "difficulty": 1,
+   "time_sensitive": true,
+   "tags": [
+    "Sparen",
+    "Österreich",
+    "Aktien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2353,
+   "speaker": "Hans-Peter Burghof",
+   "quote": "Deswegen, kontinuierlich zukaufen, ist eine sinnvolle Sache. Jetzt auf einen Schlag alles auf Aktien zu setzen, das wäre zu riskant.",
+   "quote_clean": "Deswegen: Kontinuierlich zukaufen ist eine sinnvolle Sache. Jetzt auf einen Schlag alles auf Aktien zu setzen, das wäre zu riskant.",
+   "statement": "Statt auf den richtigen Zeitpunkt zu setzen, ist es sinnvoller, kontinuierlich Aktien zuzukaufen.",
+   "question": "Was rät Burghof auf die Frage, ob jetzt ein guter Zeitpunkt für den Aktienkauf ist?",
+   "answer": "Kontinuierlich zukaufen statt alles auf einmal",
+   "distractors": [
+    "Auf den nächsten Crash warten",
+    "Jetzt sofort alles umschichten",
+    "Nur bei Höchstständen verkaufen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Den perfekten Einstiegszeitpunkt kennt niemand. Wer plötzlich alles umschichtet, spekuliert laut Burghof, regelmäßiges Zukaufen glättet dagegen die Schwankungen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Aktien",
+    "Strategie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 689,
+   "speaker": "Hans-Peter Burghof",
+   "quote": "Du hast zwar dein Geld nachhaltig angelegt, aber es ist nichts passiert. Das Unternehmen kriegt das Geld genau zu den Konditionen in dem gleichen Volumen, wie es es bekäme, wenn du nicht nachhaltig anlegen würdest.",
+   "quote_clean": "Du hast zwar dein Geld nachhaltig angelegt, aber es ist nichts passiert. Das Unternehmen kriegt das Geld genau zu den Konditionen und im gleichen Volumen, wie es es bekäme, wenn du nicht nachhaltig anlegen würdest.",
+   "statement": "Wer nachhaltige Aktien an der Börse kauft, ändert meist nichts daran, zu welchen Bedingungen Unternehmen an Geld kommen.",
+   "question": "Was bewirkt der Kauf nachhaltiger Aktien an der Börse laut Burghof meistens?",
+   "answer": "Praktisch nichts für das Unternehmen",
+   "distractors": [
+    "Deutlich günstigere Kredite",
+    "Mehr Mitsprache für Kleinanleger",
+    "Höhere Dividenden für alle"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "An der Börse kaufst du die Aktie meistens von einem anderen Anleger, nicht vom Unternehmen. Und weil Arbitrage die Preise angleicht, kriegt die Firma ihr Geld am Ende zu denselben Konditionen wie ohne dich.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Aktien",
+    "Wirkung",
+    "Kapitalmarkt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 261,
+   "speaker": "Hans-Peter Burghof",
+   "quote": "Eine wirkliche Unterstützung, da muss man sich sogar dabei bewusst sein, dass das so ist, gibt man allerdings nur, wenn man tatsächlich diesem Projekt dann auch besonders günstig Geld gibt.",
+   "quote_clean": "Eine wirkliche Unterstützung, und das muss einem bewusst sein, gibt man allerdings nur, wenn man diesem Projekt tatsächlich besonders günstig Geld gibt.",
+   "statement": "Echte Wirkung hat eine Direktanlage nur, wenn man einem Projekt günstiger Geld gibt, als es am Kapitalmarkt bekäme.",
+   "question": "Wann unterstützt man ein grünes Projekt mit seinem Geld laut Burghof wirklich?",
+   "answer": "Wenn man es besonders günstig finanziert",
+   "distractors": [
+    "Wenn man hohe Zinsen verlangt",
+    "Wenn man nur kurz investiert",
+    "Wenn man es über einen ETF tut"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn eh tausende Banken und Investoren dem Windpark Geld borgen würden, macht dein Geld keinen Unterschied. Erst wenn du dich mit ein Prozent Zinsen begnügst, wo der Markt vier verlangt, ermöglichst du etwas.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Direktanlage",
+    "Wirkung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1050,
+   "speaker": "Hans-Peter Burghof",
+   "quote": "Und da das alles rein mechanisch abläuft, sind die auch sehr, sehr billig. Das heißt, klassische Investmentfonds sind relativ teuer in der Anschaffung und auch in der Betreuung, weil da Manager hinter sitzen,",
+   "quote_clean": "Und da das alles rein mechanisch abläuft, sind die auch sehr, sehr billig. Klassische Investmentfonds sind relativ teuer in der Anschaffung und in der Betreuung, weil da Manager dahintersitzen.",
+   "statement": "ETFs sind billig, weil sie rein mechanisch einen Index abbilden, während bei klassischen Fonds teure Manager entscheiden.",
+   "question": "Warum sind ETFs so viel billiger als klassische Investmentfonds?",
+   "answer": "Sie bilden mechanisch einen Index ab",
+   "distractors": [
+    "Sie enthalten nur wenige Aktien",
+    "Der Staat fördert sie",
+    "Sie zahlen keine Dividenden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein ETF kauft einfach einen bestimmten Teil des Marktes nach, ohne eigene Strategie. Burghof nennt ihn deshalb die billigste Form eines Investmentfonds.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "ETF",
+    "Fonds"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1817,
+   "speaker": "Hans-Peter Burghof",
+   "quote": "weil ein Unternehmen, das eine schlechte Governance hat, ist ja auch ein Unternehmen, das nicht erfolgreich gemanagt wird. Das heißt, eigentlich haben wir aus dem Bereich G einen unmittelbaren Einfluss auf den Erfolg des Unternehmens.",
+   "quote_clean": "Ein Unternehmen, das eine schlechte Governance hat, ist ja auch ein Unternehmen, das nicht erfolgreich gemanagt wird. Das heißt, der Bereich G hat einen unmittelbaren Einfluss auf den Erfolg des Unternehmens.",
+   "statement": "Gute Governance ist anders als E und S direkt mit dem wirtschaftlichen Erfolg eines Unternehmens verknüpft.",
+   "question": "Was unterscheidet laut Burghof das G in ESG von den anderen beiden Kriterien?",
+   "answer": "Es bestimmt direkt den Unternehmenserfolg",
+   "distractors": [
+    "Es ist gesetzlich nicht geregelt",
+    "Es betrifft nur Banken",
+    "Es misst den CO2-Ausstoß"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein schlecht geführtes Unternehmen ist meistens auch ein erfolgloses. Darum passt G für Burghof schlecht zu E und S, und ihm fehlen sogar Buchstaben wie D für Demokratie und C für Wettbewerb.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "ESG",
+    "Governance"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 289,
+   "speaker": "Hans-Peter Burghof",
+   "quote": "Das ist so ein bisschen, auf Lateinisch nennen wir das Perpetuum mobile, also ein Fahrzeug, das von alleine fährt, ohne dass man dafür Benzin oder irgendeine Energie aufbringen muss.",
+   "quote_clean": "Das ist ein bisschen, auf Lateinisch nennen wir das Perpetuum mobile, ein Fahrzeug, das von alleine fährt, ohne dass man dafür Benzin oder irgendeine Energie aufbringen muss.",
+   "statement": "Burghof vergleicht das Versprechen von besserem Gewissen plus höherer Rendite mit einem Perpetuum mobile.",
+   "question": "Womit vergleicht Burghof Anlagen, die gutes Gewissen und höhere Rendite zugleich versprechen?",
+   "answer": "Mit einem Perpetuum mobile",
+   "distractors": [
+    "Mit einem Lottoschein",
+    "Mit einem Schneeballsystem",
+    "Mit einer Gelddruckmaschine"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Alles win-win, alle gewinnen, so klingt der Verkaufsspruch. Im echten Leben gibt es so etwas nicht, sagt Burghof: Wer wirklich etwas bewegen will, muss akzeptieren, ein bisschen weniger zu verdienen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Rendite",
+    "Nachhaltigkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1411,
+   "speaker": "Hans-Peter Burghof",
+   "quote": "wenn ich dann Tesla kaufe, dann habe ich was Gutes getan und kann dann weiterhin fünfmal im Jahr in Urlaub fliegen. Das sind alles so mittelalterliche Ablasshandel.",
+   "quote_clean": "Wenn ich dann Tesla kaufe, habe ich was Gutes getan und kann weiterhin fünfmal im Jahr in Urlaub fliegen. Das ist alles so ein mittelalterlicher Ablasshandel.",
+   "statement": "Burghof vergleicht den Kauf vermeintlich grüner Aktien, um weiter viel zu fliegen, mit dem mittelalterlichen Ablasshandel.",
+   "question": "Womit vergleicht Burghof es, wenn Reiche Tesla-Aktien kaufen und weiter fünfmal im Jahr fliegen?",
+   "answer": "Mit dem Ablasshandel",
+   "distractors": [
+    "Mit einer Spende",
+    "Mit einem Schutzgeld",
+    "Mit einer Steuerflucht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Mittelalter konnte man sich von Sünden freikaufen, heute vielleicht vom schlechten Klimagewissen. Burghof fragt außerdem, warum riesige Autos mit riesigen Batterien für reiche Leute so viel nachhaltiger sein sollen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Tesla",
+    "Ablasshandel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2303,
+   "speaker": "Hans-Peter Burghof",
+   "quote": "Es gibt immer Leute, die dich dafür bezahlen lassen, dass sie in die Zukunft schauen können. Früher nannte man die Wahrsagerhäusen, heute heißen die Aktienspezialisten. Ich habe keine Ahnung.",
+   "quote_clean": "Es gibt immer Leute, die dich dafür bezahlen lassen, dass sie in die Zukunft schauen können. Früher nannte man die Wahrsager, heute heißen die Aktienspezialisten. Ich habe keine Ahnung.",
+   "statement": "Burghof sagt, niemand könne den richtigen Einstiegszeitpunkt für Aktien vorhersagen.",
+   "question": "Wie nennt Burghof Leute, die angeblich den richtigen Zeitpunkt zum Aktienkauf kennen?",
+   "answer": "Wahrsager",
+   "distractors": [
+    "Hellseher mit Lizenz",
+    "Börsengurus",
+    "Glücksritter"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Hörerin Laura wollte wissen, ob jetzt ein guter Zeitpunkt zum Einsteigen ist. Ein Bankprofessor, der ehrlich sagt „Ich habe keine Ahnung“, ist eh die beste Antwort darauf.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Aktien",
+    "Prognosen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 556,
+   "speaker": "Hans-Peter Burghof",
+   "quote": "Ich bin tatsächlich ein großer Fan des klassischen Kontos, weil dann geht die Bank mit deinem Geld sinnvoll um. Und wenn die nach bestimmten Kriterien anlegt, die Bank selber streut dann für dich.",
+   "quote_clean": "Ich bin tatsächlich ein großer Fan des klassischen Kontos, weil dann die Bank mit deinem Geld sinnvoll umgeht. Und wenn die nach bestimmten Kriterien anlegt, streut die Bank selbst für dich.",
+   "statement": "Für Kleinanleger mit Nachhaltigkeitsanspruch ist laut Burghof ein Konto bei einer nachhaltigen Bank oft die wirksamste Option.",
+   "question": "Welche Anlageform empfiehlt Burghof Kleinanlegern, die wirklich nachhaltig wirken wollen?",
+   "answer": "Ein Konto bei einer nachhaltigen Bank",
+   "distractors": [
+    "Einzelaktien von Tesla",
+    "Ein Welt-ETF",
+    "Eine Kryptowährung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Bank vergibt mit deinem Geld Kredite und ist als Hauptfinanzier nah dran an den Projekten, quasi ein Sparringspartner für Idealisten. Der Haken: Die Zinsen sind mager, und die Inflation knabbert am Ersparten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bank",
+    "Konto",
+    "Nachhaltigkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 481,
+   "speaker": "Andreas Sator",
+   "quote": "Ich weiß nicht, wie viele Millionäre ich habe, die zuhören. Wenn es welche gibt, bitte bei mir melden. Dann findet man Kooperationsmöglichkeiten.",
+   "quote_clean": "Ich weiß nicht, wie viele Millionäre mir zuhören. Wenn es welche gibt, bitte bei mir melden. Dann findet man Kooperationsmöglichkeiten.",
+   "statement": "Andreas bittet scherzhaft die Millionäre unter seinen Hörer:innen, sich bei ihm zu melden.",
+   "question": "Wen bittet Andreas mitten im Gespräch scherzhaft, sich bei ihm zu melden?",
+   "answer": "Millionäre unter den Hörer:innen",
+   "distractors": [
+    "Bankberater unter den Hörer:innen",
+    "Windparkbetreiber aus Österreich",
+    "Alle ETF-Besitzer:innen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Burghof hatte gerade erklärt, dass sich Direktanlagen in einzelne Projekte nur lohnen, wenn man schon ziemlich reich ist. Für alle anderen ging es dann um Konto, Fonds und ETFs.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Humor",
+    "Direktanlage"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 160,
+   "speaker": "Andreas Sator",
+   "quote": "Hallo, lieber Hans-Peter. Ich habe ja noch gar nicht geredet. Ich duze alle meine Gäste. Ist das in Ordnung, wenn ich dich duze?",
+   "quote_clean": "Hallo, lieber Hans-Peter. Wir haben ja noch gar nicht geredet. Ich duze alle meine Gäste. Ist das in Ordnung, wenn ich dich duze?",
+   "statement": "Andreas duzt alle seine Gäste und fragt zu Beginn, ob das in Ordnung ist.",
+   "question": "Was fragt Andreas den Professor gleich zu Beginn?",
+   "answer": "Ob er ihn duzen darf",
+   "distractors": [
+    "Ob er Aktien besitzt",
+    "Ob er schon mal im Podcast war",
+    "Wie er angesprochen werden will"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei Erklär mir die Welt wird geduzt, auch der Lehrstuhlinhaber aus Hohenheim. Ganz durchgehalten hat der das Du übrigens nicht, später rutscht ihm ein „Sie“ raus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Einstieg"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "233",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

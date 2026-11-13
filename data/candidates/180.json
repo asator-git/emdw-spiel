@@ -1,0 +1,677 @@
+{
+ "theme": "Natur & Ernährung",
+ "summary": "Was wir essen, entscheidet über unsere Gesundheit und die des Planeten mit. Petra Rust erklärt, wie nachhaltige Ernährung im Alltag gelingt.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 200,
+   "speaker": "Petra Rust",
+   "quote": "Also der österreichische Ernährungsbericht zeigt ganz deutlich, dass wir zu viel Fleisch essen. Also Männer ungefähr die dreifache Menge der empfohlenen Menge und Frauen auch deutlich über den Empfehlungen.",
+   "quote_clean": "Der österreichische Ernährungsbericht zeigt ganz deutlich, dass wir zu viel Fleisch essen. Männer ungefähr die dreifache Menge der empfohlenen Menge und Frauen auch deutlich über den Empfehlungen.",
+   "statement": "Laut österreichischem Ernährungsbericht essen Männer in Österreich ungefähr dreimal so viel Fleisch wie empfohlen.",
+   "question": "Das Wievielfache der empfohlenen Fleischmenge essen Männer in Österreich ungefähr?",
+   "answer": "Etwa das Dreifache",
+   "distractors": [
+    "Etwa das Eineinhalbfache",
+    "Etwa das Doppelte",
+    "Etwa das Fünffache"
+   ],
+   "number_value": 3,
+   "number_unit": "-fache",
+   "slider_min": 1,
+   "slider_max": 6,
+   "log_scale": false,
+   "aha": "Fleisch ist eh nicht per se schlecht, es liefert Eisen und B-Vitamine. Aber die Menge macht's, und bei den Männern liegt sie laut Ernährungsbericht ungefähr beim Dreifachen. Frauen liegen auch deutlich drüber, nur nicht ganz so weit.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Fleisch",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 475,
+   "speaker": "Petra Rust",
+   "quote": "Und wenn man das dann wieder runterbricht, dann sieht man, dass sehr viel dieser nutzbaren Agrarfläche für die Nutztiere verwendet wird. Also das sind über 70 Prozent,",
+   "quote_clean": "Wenn man das dann wieder runterbricht, sieht man, dass sehr viel dieser nutzbaren Agrarfläche für die Nutztiere verwendet wird. Das sind über 70 Prozent.",
+   "statement": "Global wird über 70 Prozent der nutzbaren Agrarfläche für Nutztiere verwendet.",
+   "question": "Wie viel Prozent der weltweiten Agrarfläche werden für Nutztiere verwendet?",
+   "answer": "Über 70 Prozent",
+   "distractors": [
+    "Rund 20 Prozent",
+    "Rund 35 Prozent",
+    "Rund 50 Prozent"
+   ],
+   "number_value": 70,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Rinder brauchen nicht nur Weide, sondern auch Felder, auf denen ihr Futter wächst. Darum geht der Großteil der Agrarfläche an die Nutztiere, während die pflanzlichen Lebensmittel für uns nur ungefähr ein Drittel bekommen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Landnutzung",
+    "Fleisch"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 829,
+   "speaker": "Andreas Sator",
+   "quote": "Weltweit sind Landwirtschaft und Landnutzung für 18 Prozent der Treibhausgase verantwortlich",
+   "quote_clean": "Weltweit sind Landwirtschaft und Landnutzung für 18 Prozent der Treibhausgase verantwortlich.",
+   "statement": "Weltweit sind Landwirtschaft und Landnutzung laut Our World in Data für rund 18 Prozent der Treibhausgase verantwortlich.",
+   "question": "Für wie viel Prozent der weltweiten Treibhausgase sind Landwirtschaft und Landnutzung verantwortlich?",
+   "answer": "18 Prozent",
+   "distractors": [
+    "5 Prozent",
+    "35 Prozent",
+    "50 Prozent"
+   ],
+   "number_value": 18,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Andreas hat extra bei Our World in Data nachgeschaut. Beim Klima geht's vor allem um das Methan, das Rinder rülpsen, und um Lachgas aus Kunstdünger. Beim Artensterben ist die Landwirtschaft sogar einer der wichtigsten Treiber überhaupt.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Klima",
+    "Landwirtschaft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1846,
+   "speaker": "Petra Rust",
+   "quote": "Also aktuell zum Beispiel könnten wir nicht einmal die jetzige Weltbevölkerung ernähren, würden wir sozusagen auf unsere planetaren Grenzen schauen. Dann könnten wir gerade einmal 3,4 Milliarden Menschen ernähren.",
+   "quote_clean": "Aktuell könnten wir nicht einmal die jetzige Weltbevölkerung ernähren, würden wir auf unsere planetaren Grenzen schauen. Dann könnten wir gerade einmal 3,4 Milliarden Menschen ernähren.",
+   "statement": "Würde man die planetaren Grenzen einhalten, könnte die heutige Landwirtschaft nur rund 3,4 Milliarden Menschen ernähren.",
+   "question": "Wie viele Menschen könnten wir mit der heutigen Landwirtschaft ernähren, wenn wir die planetaren Grenzen einhalten?",
+   "answer": "Rund 3,4 Milliarden",
+   "distractors": [
+    "Rund 1,2 Milliarden",
+    "Rund 6 Milliarden",
+    "Rund 12 Milliarden"
+   ],
+   "number_value": 3.4,
+   "number_unit": "Milliarden Menschen",
+   "slider_min": 0,
+   "slider_max": 12,
+   "log_scale": false,
+   "aha": "Das ist nicht einmal die Hälfte der heutigen Weltbevölkerung, und es sollen einmal rund 10 Milliarden werden. Darum muss man laut Petra an allen Schrauben drehen: effizientere Landwirtschaft, weniger Fleisch, weniger Verschwendung.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Planetare Grenzen",
+    "Weltbevölkerung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1538,
+   "speaker": "Andreas Sator",
+   "quote": "Weil es zahlt ja den Preis, den wir nicht zahlen, zahlen ja zum Beispiel in Österreich fünf Millionen Schweine, die ziemlich furchtbar leben.",
+   "quote_clean": "Den Preis, den wir nicht zahlen, zahlen zum Beispiel in Österreich fünf Millionen Schweine, die ziemlich furchtbar leben.",
+   "statement": "In Österreich werden pro Jahr rund fünf Millionen Schweine gehalten bzw. gemästet, viele davon unter schlechten Bedingungen.",
+   "question": "Wie viele Schweine nennt Andreas für Österreich, die den Preis für billiges Fleisch zahlen?",
+   "answer": "Fünf Millionen",
+   "distractors": [
+    "Fünfhunderttausend",
+    "Eine Million",
+    "Zwanzig Millionen"
+   ],
+   "number_value": 5,
+   "number_unit": "Millionen Schweine",
+   "slider_min": 0.5,
+   "slider_max": 20,
+   "log_scale": true,
+   "aha": "Bei rund neun Millionen Einwohner:innen sind das ziemlich viele Schweine. Andreas' Gedanke: Bessere Tierwohlstandards, etwa ohne Vollspaltenböden, würden das Fleisch teurer machen und über den Preis vielleicht auch unser Essverhalten ändern.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Tierwohl",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 584,
+   "speaker": "Petra Rust",
+   "quote": "Also es gibt Untersuchungen, die zeigen, dass wir ungefähr fünf bis zehn Lebensmittelgruppen brauchen, um wirklich gut mit Mikronährstoffen versorgt zu sein.",
+   "quote_clean": "Es gibt Untersuchungen, die zeigen, dass wir ungefähr fünf bis zehn Lebensmittelgruppen brauchen, um wirklich gut mit Mikronährstoffen versorgt zu sein.",
+   "statement": "Um gut mit Mikronährstoffen versorgt zu sein, braucht man laut Untersuchungen ungefähr fünf bis zehn Lebensmittelgruppen.",
+   "question": "Wie viele Lebensmittelgruppen braucht man ungefähr, um gut mit Mikronährstoffen versorgt zu sein?",
+   "answer": "Fünf bis zehn",
+   "distractors": [
+    "Zwei bis drei",
+    "Fünfzehn bis zwanzig",
+    "Mehr als dreißig"
+   ],
+   "number_value": 7,
+   "number_unit": "Lebensmittelgruppen",
+   "slider_min": 1,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Darum ist vegane Ernährung nicht überall auf der Welt eine gute Idee. Wo es nur wenige Lebensmittelgruppen gibt, sind tierische Produkte oft essenziell, um überhaupt genug Mikronährstoffe zu bekommen. Bei uns ist die Lage eine andere: zu viel statt zu wenig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mikronährstoffe",
+    "Vielfalt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 559,
+   "speaker": "Petra Rust",
+   "quote": "Das heißt, wenn wir in Schwellenländer schauen, wo die Lebensmittelvielfalt deutlich eingeschränkter ist, da ist es nicht unbedingt so wünschenswert, auf vegane oder vegetarische Ernährung zu setzen,",
+   "quote_clean": "Wenn wir in Schwellenländer schauen, wo die Lebensmittelvielfalt deutlich eingeschränkter ist, da ist es nicht unbedingt wünschenswert, auf vegane oder vegetarische Ernährung zu setzen.",
+   "statement": "In Schwellenländern mit geringer Lebensmittelvielfalt ist vegane oder vegetarische Ernährung nicht unbedingt wünschenswert.",
+   "question": "Warum ist vegane Ernährung in manchen Schwellenländern nicht unbedingt wünschenswert?",
+   "answer": "Wegen geringer Lebensmittelvielfalt",
+   "distractors": [
+    "Wegen zu hoher Gemüsepreise",
+    "Wegen religiöser Speisevorschriften",
+    "Wegen fehlender Kühlschränke"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wir haben das Glück einer riesigen Auswahl, da geht pflanzlich ganz einfach. Wo aber nur wenige Lebensmittelgruppen verfügbar sind, braucht man auch die tierischen, um den Bedarf an Mikronährstoffen zu decken.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Globale Unterschiede",
+    "vegan"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 977,
+   "speaker": "Petra Rust",
+   "quote": "aber im Grunde genommen war das nicht täglich am Speiseplan, sondern da gab es den Sonntagsbraten.",
+   "quote_clean": "Aber im Grunde genommen war das nicht täglich am Speiseplan, sondern da gab es den Sonntagsbraten.",
+   "statement": "In der ursprünglichen österreichischen Küche stand Fleisch nicht täglich am Speiseplan, es gab den Sonntagsbraten.",
+   "question": "Wie oft gab es in der traditionellen österreichischen Küche typischerweise Fleisch?",
+   "answer": "Zu besonderen Anlässen, etwa sonntags",
+   "distractors": [
+    "Zu jeder Hauptmahlzeit",
+    "Mindestens einmal täglich",
+    "Fast nie, nur zu Weihnachten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Schnitzel, das über den Tellerrand hängt, ist eher ein modernes Bild. Früher hat man in Österreich pflanzenbetonter gegessen, Fleisch gab's zu besonderen Anlässen. Laut Petra hat man es da eigentlich richtiger gemacht.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Österreichische Küche",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2131,
+   "speaker": "Petra Rust",
+   "quote": "Und da schneiden beispielsweise Milchersatzprodukte verglichen mit Milchprodukten eher schlechter ab, weil sie vielfach eben sehr, sehr viele Zusatzstoffe benötigen, damit wir dann das gleiche Mundgefühl beispielsweise haben",
+   "quote_clean": "Da schneiden beispielsweise Milchersatzprodukte verglichen mit Milchprodukten eher schlechter ab, weil sie vielfach sehr viele Zusatzstoffe benötigen, damit wir das gleiche Mundgefühl haben.",
+   "statement": "Bei Bewertungen nach Verarbeitungsgrad (Nova-Score) schneiden Milchersatzprodukte oft schlechter ab als Milchprodukte, weil sie viele Zusatzstoffe brauchen.",
+   "question": "Warum schneiden Milchersatzprodukte beim Verarbeitungsgrad oft schlechter ab als Milch?",
+   "answer": "Sie brauchen viele Zusatzstoffe",
+   "distractors": [
+    "Sie enthalten mehr Zucker",
+    "Sie werden importiert",
+    "Sie sind kürzer haltbar"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Damit sich ein Haferdrink im Mund ungefähr so anfühlt wie Milch und ähnliche Nährstoffe hat, braucht es oft einiges an Zusatzstoffen. Der Nova-Score bewertet genau diesen Verarbeitungsgrad, und je höher der ist, desto schlechter meistens für Gesundheit und Klima.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ersatzprodukte",
+    "Verarbeitung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2651,
+   "speaker": "Petra Rust",
+   "quote": "Also der Typ 2 Diabetes, der früher noch als altes Diabetes bezeichnet wurde, der kommt schon wirklich, rückt in immer jüngere Jahre sozusagen.",
+   "quote_clean": "Der Typ-2-Diabetes, der früher noch als Altersdiabetes bezeichnet wurde, rückt in immer jüngere Jahre.",
+   "statement": "Typ-2-Diabetes, früher Altersdiabetes genannt, tritt zunehmend schon in jungen Jahren auf.",
+   "question": "Wie wurde Typ-2-Diabetes früher genannt?",
+   "answer": "Altersdiabetes",
+   "distractors": [
+    "Kinderdiabetes",
+    "Zuckerkrankheit Typ A",
+    "Wohlstandsdiabetes"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Name passt immer weniger, weil Übergewicht und Adipositas schon bei Kindern zunehmen. Für Petra ist das ein Alarmsignal, darum wünscht sie sich eigene Schulfächer für Ernährung und Bewegung.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Diabetes",
+    "Kinder"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1780,
+   "speaker": "Petra Rust",
+   "quote": "Wir haben schon einen relativ hohen Anteil verglichen mit anderen EU-Ländern an biologischer Landwirtschaft. Was man hier allerdings auch sagen muss, Biolandwirtschaft bedeutet natürlich auch geringere Erträge",
+   "quote_clean": "Wir haben schon einen relativ hohen Anteil an biologischer Landwirtschaft verglichen mit anderen EU-Ländern. Was man allerdings auch sagen muss: Biolandwirtschaft bedeutet auch geringere Erträge.",
+   "statement": "Österreich hat im EU-Vergleich einen relativ hohen Bio-Anteil, Biolandwirtschaft bringt aber geringere Erträge pro Fläche.",
+   "question": "Welchen Haken hat die Biolandwirtschaft laut Petra Rust bei einer wachsenden Weltbevölkerung?",
+   "answer": "Geringere Erträge pro Fläche",
+   "distractors": [
+    "Höherer Wasserverbrauch",
+    "Mehr Treibhausgase pro Hektar",
+    "Weniger Artenvielfalt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Österreich steht beim Bio-Anteil in der EU gut da. Aber weniger Ertrag heißt mehr Fläche für dieselbe Menge Essen. Darum müssten Technik und Landwirtschaft die Erträge pro Fläche steigern, wenn wir pflanzlicher und biologischer essen wollen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bio",
+    "Landwirtschaft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1897,
+   "speaker": "Petra Rust",
+   "quote": "heuer war der Tag der Lebensmittelverschwendung der 2. Mai. Also wenn man sich vorstellt, dass alle Lebensmittel, die bis dahin produziert wurden, für die Mülltonne produziert wurden,",
+   "quote_clean": "Heuer war der Tag der Lebensmittelverschwendung der 2. Mai. Wenn man sich vorstellt, dass alle Lebensmittel, die bis dahin produziert wurden, für die Mülltonne produziert wurden.",
+   "statement": "2021 fiel der Tag der Lebensmittelverschwendung auf den 2. Mai: Rechnerisch landet alles bis dahin Produzierte im Müll.",
+   "question": "Auf welchen Tag fiel 2021 der Tag der Lebensmittelverschwendung?",
+   "answer": "Den 2. Mai",
+   "distractors": [
+    "Den 15. Jänner",
+    "Den 1. März",
+    "Den 30. Juni"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Stell dir vor, alles, was von Neujahr bis Anfang Mai produziert wird, wandert direkt in die Tonne. Das ist rechnerisch der Anteil, der verschwendet wird, also rund ein Drittel des Jahres. Eine immense Ressourcenverschwendung, sagt Petra.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Lebensmittelverschwendung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1552,
+   "speaker": "Petra Rust",
+   "quote": "In unseren Umfragen spielt der Preis eigentlich immer eine untergeordnete Rolle, muss man sagen. Also da steht immer die Qualität im Vordergrund.",
+   "quote_clean": "In unseren Umfragen spielt der Preis eigentlich immer eine untergeordnete Rolle. Da steht immer die Qualität im Vordergrund.",
+   "statement": "In Umfragen geben Menschen an, dass Qualität wichtiger sei als der Preis, im Einkaufswagen zeigt sich aber, dass der Preis Einfluss hat.",
+   "question": "Was geben Menschen in Ernährungsumfragen meist als wichtig an, obwohl der Einkaufswagen oft anders aussieht?",
+   "answer": "Qualität statt Preis",
+   "distractors": [
+    "Preis statt Qualität",
+    "Marke statt Herkunft",
+    "Menge statt Geschmack"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bio, Geschmack, Qualität: Alles wichtig, sagen alle. Schaut man dann ins Einkaufswagerl, merkt man, dass der Preis sehr wohl zählt. Petra versteht das, wer eine fünfköpfige Familie versorgt, muss eben rechnen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Konsum",
+    "Preis"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1260,
+   "speaker": "Petra Rust",
+   "quote": "ist, dass eine nachhaltige Ernährung sollte nichts Elitäres sein, sondern Nachhaltigkeit bedeutet ja, dass ich in verschiedenen Dimensionen denke.",
+   "quote_clean": "Eine nachhaltige Ernährung sollte nichts Elitäres sein, sondern Nachhaltigkeit bedeutet ja, dass ich in verschiedenen Dimensionen denke.",
+   "statement": "Nachhaltige Ernährung darf nichts Elitäres sein, weil Nachhaltigkeit auch eine soziale Dimension hat.",
+   "question": "Wer sagt im Podcast: „Eine nachhaltige Ernährung sollte nichts Elitäres sein“?",
+   "answer": "Petra Rust",
+   "distractors": [
+    "Andreas Sator",
+    "Michael Pollan",
+    "Paul Ivić"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Petra gehören Gesundheit, Tierwohl, Klima und das Soziale zusammen. Wenn nachhaltige Produkte so teuer sind, dass sie sich nur manche leisten können, widerspricht das dem Nachhaltigkeitsgedanken.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Nachhaltigkeit",
+    "Soziales"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1400,
+   "speaker": "Petra Rust",
+   "quote": "Also ich glaube, dass man seine Gewohnheiten immer ändern kann. Also wenn man das möchte, man ist nie zu alt, irgendwas Neues zu lernen oder zu erproben.",
+   "quote_clean": "Ich glaube, dass man seine Gewohnheiten immer ändern kann, wenn man das möchte. Man ist nie zu alt, irgendwas Neues zu lernen oder zu erproben.",
+   "statement": "Essgewohnheiten kann man in jedem Alter ändern, im Kindergartenalter ist es aber am leichtesten.",
+   "question": "Wer widerspricht im Podcast der Idee, dass man mit 40 seine Essgewohnheiten kaum noch ändern kann?",
+   "answer": "Petra Rust",
+   "distractors": [
+    "Andreas Sator",
+    "Moritz, ein Hörer",
+    "Michael Pollan"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas war skeptisch, ob sich ein durchschnittlicher 40-Jähriger noch umstellt. Petra sieht das optimistischer, gibt aber zu: Im Kindergarten, wo Kinder neugierig sind und alles erforschen wollen, geht's viel leichter.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gewohnheiten",
+    "Bildung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2106,
+   "speaker": "Petra Rust",
+   "quote": "Je höher der Verarbeitungsgrad, desto schlechter ist meistens die Auswirkung auf die Gesundheit, aber auch auf das Klima.",
+   "quote_clean": "Je höher der Verarbeitungsgrad, desto schlechter ist meistens die Auswirkung auf die Gesundheit, aber auch auf das Klima.",
+   "statement": "Je stärker ein Lebensmittel verarbeitet ist, desto schlechter wirkt es sich meist auf Gesundheit und Klima aus.",
+   "question": "Was gilt laut Petra Rust meist: Je höher der Verarbeitungsgrad eines Lebensmittels …?",
+   "answer": "… desto schlechter für Gesundheit und Klima",
+   "distractors": [
+    "… desto länger hält es gesund",
+    "… desto besser fürs Klima",
+    "… desto mehr Nährstoffe enthält es"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Darum sieht Petra auch Fleischersatz nur als Umstiegshilfe für Fleischtiger. Langfristig wär's ihr lieber, wir greifen zu naturbelassenen, saisonalen und regionalen Lebensmitteln.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Verarbeitung",
+    "Gesundheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 845,
+   "speaker": "Andreas Sator",
+   "quote": "Und beim Klima sind es vor allem bei den Rindern das Methan, das sie rülpsen und aber auch generell in der Landwirtschaft Kunstdünger, bei dem Lachgas ausgestoßen wird, was auch ein Treibhausgas ist.",
+   "quote_clean": "Beim Klima sind es vor allem bei den Rindern das Methan, das sie rülpsen, aber auch generell in der Landwirtschaft Kunstdünger, bei dem Lachgas ausgestoßen wird, was auch ein Treibhausgas ist.",
+   "statement": "Die Landwirtschaft schadet dem Klima vor allem durch Methan aus Rindermägen und Lachgas aus Kunstdünger.",
+   "question": "Welches Treibhausgas entsteht vor allem durch Kunstdünger?",
+   "answer": "Lachgas",
+   "distractors": [
+    "Methan",
+    "Ozon",
+    "Schwefeldioxid"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Rinder rülpsen Methan, und aus gedüngten Böden entweicht Lachgas. Beide sind Treibhausgase, die pro Kilo deutlich stärker wirken als CO2. Darum taucht die Landwirtschaft in jeder Klimabilanz prominent auf.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Klima",
+    "Landwirtschaft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 531,
+   "speaker": "Petra Rust",
+   "quote": "Oder auch die Kombination von Hülsenfrüchten mit verschiedenen Getreiden hebt die biologische Wertigkeit von pflanzlichen Proteinen an.",
+   "quote_clean": "Auch die Kombination von Hülsenfrüchten mit verschiedenen Getreiden hebt die biologische Wertigkeit von pflanzlichen Proteinen an.",
+   "statement": "Kombiniert man Hülsenfrüchte mit Getreide, steigt die biologische Wertigkeit pflanzlicher Proteine.",
+   "question": "Womit kombiniert man Hülsenfrüchte am besten, um die Proteinqualität zu erhöhen?",
+   "answer": "Mit Getreide",
+   "distractors": [
+    "Mit Obst",
+    "Mit Pflanzenöl",
+    "Mit Blattsalat"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Linsen mit Reis, Bohnen mit Brot: Die beiden ergänzen sich bei den Eiweißbausteinen. So kann man den Proteinbedarf ganz gut pflanzlich decken, ganz ohne Schnitzel.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Protein",
+    "Hülsenfrüchte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 624,
+   "speaker": "Petra Rust",
+   "quote": "Und mit dem Wohlstand steigt natürlich auch die Lebensmittelvielfalt, der Ernährungsstatus steigt an. Und damit steigt natürlich auch die Übergewichts- oder Adipositas-Problematik beispielsweise in weniger gut entwickelten Ländern an.",
+   "quote_clean": "Mit dem Wohlstand steigt auch die Lebensmittelvielfalt, der Ernährungsstatus steigt an. Und damit steigt auch die Übergewichts- oder Adipositas-Problematik, beispielsweise in weniger gut entwickelten Ländern.",
+   "statement": "Mit steigendem Wohlstand nehmen in ärmeren Ländern auch Übergewicht und Adipositas zu.",
+   "question": "Was steigt in weniger entwickelten Ländern mit wachsendem Wohlstand laut Petra Rust ebenfalls an?",
+   "answer": "Übergewicht und Adipositas",
+   "distractors": [
+    "Der Anteil veganer Ernährung",
+    "Der Hunger auf dem Land",
+    "Der Konsum von Hülsenfrüchten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Mehr Wohlstand bringt mehr Vielfalt am Teller, aber auch mehr Kalorien. Das heißt, die Welt braucht in Zukunft noch mehr Kilokalorien, um alle zu versorgen, und das macht das Ressourcenproblem nicht kleiner.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wohlstand",
+    "Übergewicht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1606,
+   "speaker": "Petra Rust",
+   "quote": "Also wenn ich Erdbeeren kaufe, wenn sie Saison haben, dann sind sie deutlich günstiger, als wenn ich die jetzt an Weihnachten zum Beispiel kaufe,",
+   "quote_clean": "Wenn ich Erdbeeren kaufe, wenn sie Saison haben, dann sind sie deutlich günstiger, als wenn ich sie zum Beispiel an Weihnachten kaufe.",
+   "statement": "Gesunde Ernährung muss nicht teuer sein, wenn man regional und saisonal einkauft, etwa Erdbeeren in der Saison.",
+   "question": "Was macht gesunde Ernährung laut Petra Rust günstiger?",
+   "answer": "Regional und saisonal einkaufen",
+   "distractors": [
+    "Nur im Großhandel einkaufen",
+    "Auf Bio verzichten",
+    "Tiefkühlware bevorzugen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Erdbeeren im Juni sind billig, zu Weihnachten nicht, weil sie dann von weit her kommen. Wer sich nach Region und Saison richtet, isst laut Petra nicht nur gesünder, sondern spart sich auch was.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Saisonal",
+    "Preis"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1136,
+   "speaker": "Petra Rust",
+   "quote": "wenn man sich dann die Kinderkarte anschaut, dann sind das eigentlich meistens Fleischspeisen. Also da findet man kaum eine vegetarische Speise.",
+   "quote_clean": "Wenn man sich die Kinderkarte anschaut, dann sind das eigentlich meistens Fleischspeisen. Da findet man kaum eine vegetarische Speise.",
+   "statement": "Auf Kinderkarten in Gasthäusern stehen meist Fleischspeisen, kaum vegetarische Gerichte.",
+   "question": "Was stört Petra Rust besonders an Kinderkarten im Gasthaus?",
+   "answer": "Fast nur Fleischspeisen",
+   "distractors": [
+    "Zu kleine Portionen",
+    "Zu viele Süßspeisen",
+    "Zu hohe Preise"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am Land ist die vegetarische Alternative oft gebackener Käse oder gebackene Champignons, und bei den Kindern gibt's dann Frankfurter und Schnitzel. Wer keine gute Option hat, kann auch nicht gesund wählen, sagt Petra.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Ernährungsumfeld",
+    "Kinder"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 2234,
+   "speaker": "Petra Rust",
+   "quote": "Also wenn man so einen Topfen hernimmt, dann besteht der aus Milch. Also man hat drei Zutaten auf dieser Zutatenliste. Wenn man sich das vegane Ersatzprodukt anschaut, dann braucht man fünf Minuten, bis man das durchgelesen hat.",
+   "quote_clean": "Wenn man einen Topfen hernimmt, dann besteht der aus Milch. Man hat drei Zutaten auf dieser Zutatenliste. Wenn man sich das vegane Ersatzprodukt anschaut, dann braucht man fünf Minuten, bis man das durchgelesen hat.",
+   "statement": "Topfen hat etwa drei Zutaten, beim veganen Ersatzprodukt ist die Zutatenliste so lang, dass man minutenlang liest.",
+   "question": "Welches Produkt nennt Petra Rust als Paradebeispiel für eine endlos lange vegane Zutatenliste?",
+   "answer": "Veganer Topfenersatz",
+   "distractors": [
+    "Veganer Käseersatz",
+    "Veganes Schnitzel",
+    "Hafermilch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas' Trick: Je länger die Zutatenliste, desto skeptischer wird er. Petra kann den nur empfehlen und liefert gleich das Beispiel, Topfen gegen veganen Topfen, drei Zutaten gegen fünf Minuten Lesezeit.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Zutatenliste",
+    "Ersatzprodukte"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 2579,
+   "speaker": "Andreas Sator",
+   "quote": "Wenn jetzt der Gesundheitsminister oder vielleicht sogar der Bundeskanzler zu dir kommen würde und du kannst da eine politische Reform aussuchen für den Themenbereich, den wir heute besprochen haben, welche wäre es?",
+   "quote_clean": "Wenn jetzt der Gesundheitsminister oder vielleicht sogar der Bundeskanzler zu dir kommen würde und du kannst eine politische Reform aussuchen für den Themenbereich, den wir heute besprochen haben, welche wäre es?",
+   "statement": "Andreas fragt am Ende, welche politische Reform die Expertin wählen würde, wenn Minister oder Kanzler sie fragen.",
+   "question": "Mit welcher Frage beendet Andreas das Gespräch mit Petra Rust?",
+   "answer": "Welche politische Reform sie wählen würde",
+   "distractors": [
+    "Was sie heute gegessen hat",
+    "Welches Buch sie empfehlen würde",
+    "Was ihr Lieblingsgericht ist"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Petras Antwort: Ernährungsbildung, am besten mit eigenen Schulfächern für Ernährung und Bewegung. Und Standards für nachhaltige Gemeinschaftsverpflegung, die bei Ausschreibungen Pluspunkte bringen, so wie es Wien teilweise schon macht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Politik",
+    "Schlussfrage"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "180",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

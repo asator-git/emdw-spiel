@@ -1,0 +1,271 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahl steht so im Transkript (Eigenangabe, 'ich glaube'); Frage sagt 'nach eigener Zählung'.",
+   "stand_note": "Stand 2025",
+   "statement": "Thomas Brezina hat nach eigener Schätzung rund 626 Bücher geschrieben.",
+   "question": "Wie viele Bücher hat Thomas Brezina nach eigener Zählung bisher geschrieben?",
+   "answer": "Rund 626",
+   "distractors": [
+    "Rund 120",
+    "Rund 280",
+    "Rund 1.400"
+   ],
+   "aha": "Mehr als 600 Bücher, und er sagt trotzdem: Ich verkaufe keine Bücher, ich schreibe sie. Von Knickerbocker-Bande und Tom Turbo bis zu Krimis und Ratgebern für Erwachsene ist da eh fast alles dabei.",
+   "quote_clean": "Ich glaube, es sind jetzt 626 Bücher, die ich in meinem Leben geschrieben habe, und sie sind in 40 Sprachen übersetzt.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg eindeutig, Aussage ist eine Einschätzung des Gastes und so formuliert.",
+   "stand_note": "",
+   "statement": "Laut Thomas Brezina ist Bücherschreiben zu 90 Prozent Handwerk, das man lernen kann.",
+   "question": "Zu wie viel Prozent ist Bücherschreiben laut Thomas Brezina erlernbares Handwerk?",
+   "answer": "90 Prozent",
+   "distractors": [
+    "50 Prozent",
+    "30 Prozent",
+    "70 Prozent"
+   ],
+   "aha": "Talent hilft, so wie beim Malen, aber der Großteil ist Übung. Lesen, studieren, warum dich ein Buch packt oder warum du es weglegst, und dann einfach schreiben und schreiben.",
+   "quote_clean": "Ganz ehrlich gesagt: Bücher schreiben ist aus meiner Sicht zu 90 % Handwerk.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt (10-20 %), als persönlicher Rat formuliert.",
+   "stand_note": "",
+   "statement": "Thomas Brezina rät, aus jedem fertigen Manuskript 10 bis 20 Prozent zu streichen.",
+   "question": "Wie viel Prozent sollte man laut Thomas Brezina aus jedem fertigen Manuskript streichen?",
+   "answer": "10 bis 20 Prozent",
+   "distractors": [
+    "1 bis 5 Prozent",
+    "30 bis 40 Prozent",
+    "Rund die Hälfte"
+   ],
+   "aha": "Kürzen tut der Geschichte laut Thomas nur gut. Am besten mit etwas Abstand, dann liest du deinen Text fast so, als hätte ihn wer anderer geschrieben.",
+   "quote_clean": "Ich glaube, prinzipiell ist es äußerst hilfreich, aus jedem Manuskript, das du geschrieben hast, 10 bis 20 % rauszustreichen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt, Eisberg-Vergleich klar, Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Thomas Brezina vergleicht Menschen mit Eisbergen: Man sieht nur ein Zehntel, neun Zehntel bleiben verborgen.",
+   "question": "Mit welchem Bild beschreibt Thomas Brezina, wie viel man von einem Menschen sieht?",
+   "answer": "Mit einem Eisberg",
+   "distractors": [
+    "Mit einer Zwiebel",
+    "Mit einem Baum",
+    "Mit einer Bühne"
+   ],
+   "aha": "Wer gute Figuren schreiben will, muss sich überlegen, was unter der Wasseroberfläche liegt. Das findest du raus, indem du Menschen Fragen stellst, zum Beispiel, was sie wirklich dazu gebracht hat, den Job zu wechseln.",
+   "quote_clean": "Ich habe immer diesen Vergleich: Menschen sind wie Eisberge. Wir sehen ein Zehntel. Die neun Zehntel, die darunter sind, sehen wir nicht.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg passt (Seite 68, 16 Bücher); Distraktor 'Er hatte es ihr erzählt' ist missverständlich, weil er ihr tatsächlich alles erzählt hat.",
+   "stand_note": "",
+   "statement": "Ein englischer Krimiautor zweifelt bei jedem Buch an derselben Stelle, und seine Frau weiß schon, auf welcher Seite.",
+   "question": "Woher wusste die Frau des englischen Krimiautors, dass er auf Seite 68 war?",
+   "answer": "Er zweifelte immer an derselben Stelle",
+   "distractors": [
+    "Sie las heimlich mit",
+    "Sie las jeden Abend seinen Text",
+    "Der Verlag hatte sie informiert"
+   ],
+   "aha": "Bei den letzten 16 Büchern war es laut seiner Frau genauso. Der große Zweifel gehört zum Schreiben dazu, auch bei Profis, und er kommt offenbar sogar pünktlich.",
+   "quote_clean": "Er hat gesagt: Dann bin ich in die Küche gegangen und habe meiner Frau das alles gesagt, und sie hat mich angeschaut und gesagt: Liebling, du bist auf Seite 68.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Fortsetzungs-Fakt stimmt; Behauptung, seine Frau habe Namen ausbessern müssen, ist nur Brezinas Erzählung und historisch unsicher, raus aus dem aha. Schwacher Distraktor ersetzt.",
+   "stand_note": "",
+   "statement": "Charles Dickens' Romane wie „Oliver Twist“ und „David Copperfield“ erschienen zuerst als monatliche Fortsetzungen.",
+   "question": "Wie erschienen Charles Dickens' Romane wie „Oliver Twist“ ursprünglich?",
+   "answer": "Als monatliche Fortsetzungen",
+   "distractors": [
+    "Als teure Prachtbände",
+    "Als Theaterstücke",
+    "Als Vorträge auf Lesereisen"
+   ],
+   "aha": "Dickens schrieb laut Thomas Brezina jeden Monat rund 30 Seiten und war dadurch extrem nah am Publikum. Erst danach wurden die Teile zu einem Buch zusammengesetzt.",
+   "quote_clean": "in einem Monatsmagazin herausgekommen, die heute berühmten Romane wie Oliver Twist und David Copperfield, und er hat jeden Monat 30 Seiten oder so etwas geschrieben.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt, Fakt stimmt (Digital Fortress, Illuminati, Deception Point vor Da Vinci Code); Distraktoren sind andere Brown-Titel, eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Dan Browns erste Bücher verkauften sich kaum, erst mit „The Da Vinci Code“ wurde er weltberühmt.",
+   "question": "Mit welchem Buch wurde Dan Brown weltberühmt, nachdem seine ersten Bücher kaum gelaufen waren?",
+   "answer": "The Da Vinci Code",
+   "distractors": [
+    "Illuminati",
+    "Inferno",
+    "Diabolus"
+   ],
+   "aha": "Danach zogen auch die alten Bücher nach und schossen in die Höhe. Für Thomas ein Beweis, dass man Erfolg nicht erzwingen kann, er folgt eben.",
+   "quote_clean": "Die ersten drei Bücher von Dan Brown haben sich kaum verkauft, die hat kaum jemand gekannt, und dann kam der Da Vinci Code heraus und plötzlich war er weltberühmt.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Im Ausschnitt wird nicht gesagt, welcher Strauß gemeint ist; Details (nie zurückgekehrt) sind Brezinas Erzählung und nicht gesichert, Zuordnung zu Johann Strauß nicht belegt.",
+   "stand_note": "",
+   "statement": "Johann Strauß fand seine Frau tot vor, stürzte aus dem Haus und kehrte nie mehr zurück, weil er mit dem Tod nicht umgehen konnte.",
+   "question": "Wie reagierte Johann Strauß, als er seine Frau tot zu Hause auffand?",
+   "answer": "Er verließ das Haus für immer",
+   "distractors": [
+    "Er komponierte ein Requiem",
+    "Er zog sich aufs Land zurück",
+    "Er gab alle Konzerte ab"
+   ],
+   "aha": "Strauß konnte mit dem Tod schlicht nicht umgehen und kehrte nie mehr in dieses Haus zurück. Thomas hat diese wahre Begebenheit in seinen Krimi „Aus für Strauß“ eingebaut.",
+   "quote_clean": "Dann bist du plötzlich in der Welt von Strauß, der nach Hause kommt und seine Frau tot auffindet. Das ist übrigens wahr, sie ist an einem Herzinfarkt gestorben, und er stürzt aus dem Haus",
+   "quality": 1
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt, Beispiel im aha stammt aus dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Eine Faustregel aus dem Film: so spät wie möglich in eine Szene einsteigen und so schnell wie möglich wieder aus.",
+   "question": "Wann sollte man laut Thomas Brezina in eine Szene einsteigen?",
+   "answer": "So spät wie möglich",
+   "distractors": [
+    "So früh wie möglich",
+    "Immer mit dem Ortswechsel",
+    "Erst nach einer Beschreibung"
+   ],
+   "aha": "Statt Treppe, Lift und Korridor brav nacheinander zu beschreiben, steigst du mit der Panik der Journalistin ein, die keine Geschichte hat. Dann bist du sofort drinnen und die Szene lebt trotzdem.",
+   "quote_clean": "Das kommt auch vom Film, muss man ganz klar sagen: Du steigst so spät wie möglich in eine Szene ein und so schnell wie möglich wieder aus.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt, Frage klar.",
+   "stand_note": "",
+   "statement": "Thomas Brezina hört beim Schreiben fast immer mitten im Satz auf, damit er am nächsten Tag leichter wieder hineinfindet.",
+   "question": "Wo hört Thomas Brezina beim Schreiben am Abend fast immer auf?",
+   "answer": "Mitten im Satz",
+   "distractors": [
+    "Am Kapitelende",
+    "Nach einer Szene",
+    "Wenn ihm nichts mehr einfällt"
+   ],
+   "aha": "Wer sich ganz leer schreibt, hat am nächsten Morgen nichts in der Hand. Mit einem halben Satz und ein paar Notizen müssen die Finger einfach nur weitermachen.",
+   "quote_clean": "Ich höre fast immer mitten im Satz zu schreiben auf, weil das hilft, am nächsten Tag gleich wieder reinzukommen, und ich habe dann all diese Notizen.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat wörtlich belegt, Aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Erfolg folgt, wenn man etwas mit Leidenschaft und Freude macht und Menschen berührt.",
+   "question": "Wer hat's gesagt: „Das Geheimnis des Erfolges steckt in seinem Namen. Er folgt.“?",
+   "answer": "Thomas Brezina",
+   "distractors": [
+    "Andreas Sator",
+    "Christine Nöstlinger",
+    "Stephen King"
+   ],
+   "aha": "Darum hält Thomas Geld und Erfolg für die schlechtesten Gründe, ein Buch zu schreiben. Der einzig gute Grund: eine Geschichte, die aus dem Kopf raus will.",
+   "quote_clean": "Das Geheimnis des Erfolges steckt in seinem Namen. Er folgt. Er folgt dann, wenn du etwas mit Leidenschaft und Freude machst und wenn du damit Menschen berührst.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt, Distraktoren plausibel und falsch.",
+   "stand_note": "",
+   "statement": "Wer dem Erfolg hinterherrennt, sieht laut Thomas Brezina nur sein Hinterteil.",
+   "question": "Was sieht man laut Thomas Brezina, wenn man dem Erfolg hinterherrennt?",
+   "answer": "Nur sein Hinterteil",
+   "distractors": [
+    "Nur seinen Schatten",
+    "Nur die Konkurrenz",
+    "Nur das Ziel"
+   ],
+   "aha": "Bei der Liebe sei es dasselbe: Wer nicht mehr verzweifelt sucht, sondern mit sich selbst glücklicher ist, findet sie eher. Beim Schreiben gilt das genauso.",
+   "quote_clean": "Und das ist genau das Gleiche. Wenn du dem Erfolg hinterherrennst, siehst du sein Hinterteil und sonst gar nichts.",
+   "quality": 4
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "'Fast jeder Folge' ist im Ausschnitt nicht belegt; Meta-Frage, Buchtitel-Details (Big Magic, Anne Lamott) liegen außerhalb des Ausschnitts.",
+   "stand_note": "",
+   "statement": "Andreas fragt seine Gäste am Ende nach drei Buchempfehlungen zum Thema.",
+   "question": "Wonach fragt Andreas seine Gäste gegen Ende fast jeder Folge?",
+   "answer": "Nach drei Buchempfehlungen",
+   "distractors": [
+    "Nach ihrem Lieblingsessen",
+    "Nach einem Kindheitstraum",
+    "Nach ihrer größten Angst"
+   ],
+   "aha": "Thomas hatte sich die Antwort extra aufgeschrieben: „On Writing“ von Stephen King, „Bird by Bird“ von Anne Lamott und „Big Magic“ von Elizabeth Gilbert.",
+   "quote_clean": "Thomas, drei Bücher, die du meinen Hörerinnen zum Thema empfehlen möchtest.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt; harmlos und sympathisch.",
+   "stand_note": "",
+   "statement": "Auch Thomas Brezina bringt manchmal morgens stundenlang nichts weiter und spielt dann Online-Backgammon.",
+   "question": "Was macht Thomas Brezina manchmal in der Früh, wenn beim Schreiben nichts weitergeht?",
+   "answer": "Online Backgammon spielen",
+   "distractors": [
+    "Joggen gehen",
+    "Klavier spielen",
+    "Kreuzworträtsel lösen"
+   ],
+   "aha": "Das entlastet offenbar das Hirn, und dann beginnen die Ideen zu laufen. Beruhigend zu wissen, dass auch der Autor von über 600 Büchern mal Durststrecken hat.",
+   "quote_clean": "dass auch ich manchmal in der Früh sitze und zwei, drei Stunden nichts weiterbringe. Ich spiele Backgammon online, stundenlang.",
+   "quality": 3
+  }
+ ],
+ "id": "364",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

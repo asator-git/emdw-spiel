@@ -1,0 +1,286 @@
+{
+ "reviews": [
+  {
+   "statement": "In Deutschland darf ein verstorbener Mensch je nach Bundesland unterschiedlich lange zu Hause bleiben, mindestens aber 24 Stunden.",
+   "question": "Wie viele Stunden darf ein verstorbener Mensch in Deutschland mindestens zu Hause bleiben, bevor er abgeholt werden muss?",
+   "answer": "24 Stunden",
+   "distractors": [
+    "2 Stunden",
+    "6 Stunden",
+    "72 Stunden"
+   ],
+   "aha": "Die Fristen sind je nach Bundesland verschieden, aber selbst die kürzeste lässt einen ganzen Tag Zeit. Viele glauben, der Bestatter muss sofort kommen. Muss er nicht, du darfst selbst entscheiden, wann du den Menschen hergibst.",
+   "quote_clean": "Es gibt von Bundesland zu Bundesland unterschiedliche Fristen, wie lange jemand zu Hause sein kann. Aber die kürzeste sind 24 Stunden.",
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Sarah ist selbst unsicher (Deutschland/Österreich unklar), und 24 h sind die kürzeste Frist, nicht eine Mindestdauer.",
+   "stand_note": "",
+   "quality": 2
+  },
+  {
+   "statement": "Ungefähr 80 Prozent der Menschen sterben nicht zu Hause, obwohl sich die meisten das wünschen würden.",
+   "question": "Wie viel Prozent der Menschen sterben nach Sarah Benz' Schätzung nicht zu Hause?",
+   "answer": "Ungefähr 80 Prozent",
+   "distractors": [
+    "Ungefähr 20 Prozent",
+    "Ungefähr 45 Prozent",
+    "Ungefähr 60 Prozent"
+   ],
+   "aha": "Die allermeisten sterben im Krankenhaus oder im Pflegeheim, obwohl fast alle lieber daheim sterben würden. Deshalb ist auch die Hürde höher, Verstorbene zum Abschiednehmen noch einmal nach Hause zu holen, erlaubt wäre es aber.",
+   "quote_clean": "Jetzt sind es, glaube ich, ungefähr 80 Prozent von uns, die nicht zu Hause sterben, obwohl wir eigentlich alle zu Hause sterben wollen.",
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Geschätzter Wert ('glaube ich'); als Schätzung der Gästin formuliert.",
+   "stand_note": "Stand 2025",
+   "quality": 3
+  },
+  {
+   "statement": "Die Totenstarre dauert ungefähr zwei Tage und löst sich dann wieder, abhängig von Temperatur und Todesumständen.",
+   "question": "Wie viele Tage dauert die Totenstarre ungefähr, bevor sie sich wieder löst?",
+   "answer": "Ungefähr 2 Tage",
+   "distractors": [
+    "Ungefähr 2 Stunden",
+    "Ungefähr 1 Woche",
+    "Sie löst sich nie"
+   ],
+   "aha": "Die Totenstarre ist nichts Endgültiges, sie geht nach rund zwei Tagen wieder weg. Wer jemanden ankleiden will, macht das am besten in den ersten Stunden, oder wartet einfach ab, statt am Körper herumzubiegen.",
+   "quote_clean": "Die dauert ungefähr plus minus zwei Tage. Das hat auch wieder etwas mit Temperatur, Todesumständen und der Zusammensetzung von körperlichen Chemikalien zu tun.",
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt zum Ausschnitt, ungefähre Angabe plus minus zwei Tage, medizinisch plausibel.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Bei der neuen Bestattungsform der Kompostierung wird der Körper innerhalb von etwa 40 Tagen wieder zu Erde.",
+   "question": "Innerhalb von wie vielen Tagen wird ein Körper bei der Kompostierung wieder zu Erde?",
+   "answer": "40 Tage",
+   "distractors": [
+    "4 Tage",
+    "100 Tage",
+    "365 Tage"
+   ],
+   "aha": "Bei der Kompostierung wird der Körper nach rund 40 Tagen wieder zu Erde. Sarah findet das schön, weil die Energie des Körpers so zurück in den Boden wandert, während wir uns bei der Erdbestattung nur durch die körpereigene Autolyse zersetzen. Noch steht das ganz am Anfang.",
+   "quote_clean": "Eine Möglichkeit, die relativ überraschend Realität geworden ist, ist eine Form der Kompostierung. Da wird der Körper innerhalb von 40 Tagen wieder zu Erde.",
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "40 Tage belegt; Details zu Kokon/Mulch stehen nicht im Ausschnitt, aha umgeschrieben.",
+   "stand_note": "Stand 2025",
+   "quality": 4
+  },
+  {
+   "statement": "Die Eisenhower-Matrix ordnet Aufgaben danach ein, wie wichtig und wie dringend sie sind.",
+   "question": "Nach welchen zwei Kriterien sortiert die Eisenhower-Matrix Aufgaben?",
+   "answer": "Wichtigkeit und Dringlichkeit",
+   "distractors": [
+    "Aufwand und Kosten",
+    "Dauer und Schwierigkeit",
+    "Spaß und Nutzen"
+   ],
+   "aha": "Dringend und wichtig kommt sofort dran, wichtig aber nicht dringend gehört in den Kalender eingeplant, sonst passiert es nie. Andreas gibt zu, dass bei ihm genau diese strategischen Sachen gern liegen bleiben.",
+   "quote_clean": "Und da ordne ich die Aufgaben dann noch mit der sogenannten Eisenhower-Matrix. Du kannst sie googeln, wenn dich das interessiert, aber man ordnet die Dinge danach ein, wie wichtig und wie dringend sie sind.",
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, eindeutig, Aussage von Andreas selbst; harmlose Selbstaussage.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Nach der Einäscherung muss man keine Urne kaufen, weil die Asche im Krematorium bereits in eine Aschekapsel gefüllt wird, die beigesetzt werden kann.",
+   "question": "Muss man nach einer Einäscherung eine Urne kaufen?",
+   "answer": "Nein, eine Aschekapsel reicht",
+   "distractors": [
+    "Ja, gesetzlich vorgeschrieben",
+    "Nur bei Beisetzung am Friedhof",
+    "Nur bei einer Seebestattung"
+   ],
+   "aha": "Die Asche kommt im Krematorium ohnehin in eine Aschekapsel, und die ist schon ein Gefäß. Man kann sie einfach so beisetzen, mit einem Tuch verschönern oder eine Urne selber basteln.",
+   "quote_clean": "Das finde ich auch eine wichtige Info: Man muss keine Urne kaufen. Es wird oft so kommuniziert, dass man eine Urne kaufen muss, aber die Asche wird im Krematorium in eine Aschekapsel gefüllt.",
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Friedhofssatzungen verlangen oft trotzdem eine (Über-)Urne; pauschal 'Nein' ist als Fakt riskant.",
+   "stand_note": "",
+   "quality": 2
+  },
+  {
+   "statement": "In Deutschland ist es nicht erlaubt, einen Teil der Asche eines Verstorbenen zu behalten und den Rest beizusetzen.",
+   "question": "Darf man in Deutschland einen Teil der Asche eines Verstorbenen für sich behalten?",
+   "answer": "Nein, Ascheteilung ist nicht erlaubt",
+   "distractors": [
+    "Ja, bis zur Hälfte",
+    "Ja, mit ärztlicher Bestätigung",
+    "Ja, wenn es so verfügt wurde"
+   ],
+   "aha": "Viele würden sich gern ein bisschen Asche behalten, in Deutschland geht das aber nicht. Sarah kämpft dafür, dass die strengen Bestattungsgesetze gelockert werden, bisher ziemlich zäh.",
+   "quote_clean": "Weil zum Beispiel Ascheteilung in Deutschland nicht legal ist. Also ein bisschen Asche aus der Urne zu nehmen und für sich zu behalten, während man einen anderen Teil beisetzt, das geht leider nicht.",
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, Rechtslage in Deutschland; Gesetze könnten sich ändern.",
+   "stand_note": "Stand 2025",
+   "quality": 4
+  },
+  {
+   "statement": "Der Begriff „Zugehörige“ schließt alle wichtigen Menschen ein, „Angehörige“ nur Blutsverwandte und Angeheiratete.",
+   "question": "Warum sagt Sarah Benz lieber „Zugehörige“ statt „Angehörige“?",
+   "answer": "Es schließt auch Freund:innen mit ein",
+   "distractors": [
+    "Es ist der juristische Fachbegriff",
+    "Es klingt weniger traurig",
+    "Es meint nur die Kernfamilie"
+   ],
+   "aha": "Laut Sarah meint Angehörige nur Blutsverwandte und Angeheiratete, und da fallen oft Menschen raus. Gerade bei queeren Menschen ist die Wahlfamilie oder der Freundeskreis oft wichtiger als die Kernfamilie. Zugehörige schließt alle mit ein.",
+   "quote_clean": "Und deshalb sage ich übrigens auch Zugehörige, weil Zugehörige alle miteinschließt. Angehörige meint nur Blutsverwandte und Angeheiratete, und da fallen ganz oft Menschen raus.",
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Unbelegte Behauptung zu Andreas entfernt; Definition als Sarahs Sicht gekennzeichnet.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Die Totenstarre beginnt hinten im Hals und am Kiefer und wandert dann den Körper hinunter.",
+   "question": "Wo beginnt die Totenstarre?",
+   "answer": "Hinten im Hals und am Kiefer",
+   "distractors": [
+    "In den Füßen",
+    "In den Händen",
+    "Im Bauch"
+   ],
+   "aha": "Die Totenstarre beginnt hinten im Hals und am Kiefer und wandert dann weiter durch den Körper, zum Arm, zum Bein. Sarah findet, dass man das ruhig ertasten darf, weil es hilft zu spüren: Diese Person ist nicht mehr lebendig.",
+   "quote_clean": "Es beginnt dann die Totenstarre, das stimmt. Die beginnt hinten im Hals, geht auf den Kiefer und wandert dann den Körper hinunter.",
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Statement: 'Hals' statt 'Nacken'; aha an den Ausschnitt angepasst.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Mit der Industrialisierung des Bestatterberufs wurden die Toten aus den Familien geholt; früher hielt man Totenwache zu Hause.",
+   "question": "Warum werden Verstorbene laut Sarah Benz heute seltener zu Hause aufgebahrt als früher?",
+   "answer": "Eine effiziente Bestattungsindustrie hat die Toten den Familien abgenommen",
+   "distractors": [
+    "Es wurde gesetzlich verboten",
+    "Die Häuser wurden viel kleiner",
+    "Die Kirche hat es untersagt"
+   ],
+   "aha": "Früher gab es die Totenwache: Leute wachten abwechselnd bei der toten Person, manchmal drei Tage lang. Dann bildete sich eine Bestattungsindustrie, die effektiv arbeiten wollte, und dazu starben immer mehr Menschen im Krankenhaus oder im Pflegeheim.",
+   "quote_clean": "Bevor es diesen industrialisierten Beruf des Bestatters gab, der sehr männerdominiert war und durch Arbeitsteilung sehr effektiv sein sollte. In diesem Prozess sind uns die Toten auch weggenommen worden.",
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Antwort holprig; als Sarahs Erklärung formuliert und aha präzisiert.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Sarah Benz hofft, dass die Auseinandersetzung mit dem Tod uns zärtlicher mit dem Leben umgehen lässt.",
+   "question": "Was erhofft sich Sarah Benz von der Auseinandersetzung mit dem Tod?",
+   "answer": "Dass wir zärtlicher mit dem Leben umgehen",
+   "distractors": [
+    "Dass wir weniger Angst vor Krankheit haben",
+    "Dass Begräbnisse günstiger werden",
+    "Dass wir mehr Vorsorge sparen"
+   ],
+   "aha": "Wer sieht, wie zerbrechlich das Leben ist, geht liebevoller mit anderen um, und vielleicht sogar mit der ganzen Welt, meint Sarah. Sie weiß, dass das naiv klingen kann, glaubt aber trotzdem dran.",
+   "quote_clean": "Ich habe die Hoffnung, dass die Auseinandersetzung mit dem Tod uns auch zärtlicher mit dem Leben sein lässt.",
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Wörtlich belegt, Hoffnung der Gästin, klar.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Sarah Benz hält den Spruch „Lebe jeden Tag, als wäre er dein letzter“ für eine Überforderung.",
+   "question": "Was hält Bestatterin Sarah Benz vom Spruch „Lebe jeden Tag, als wäre er dein letzter“?",
+   "answer": "Er ist eine Überforderung",
+   "distractors": [
+    "Er ist ihr Lebensmotto",
+    "Er passt nur für Junge",
+    "Er stammt von ihr selbst"
+   ],
+   "aha": "Ausgerechnet die Bestatterin findet den Spruch unmenschlich: Wer will schon jeden Tag einen letzten Tag durchleben? Was ihr der Job aber zeigt, ist, dass niemand ein Recht auf 80 Jahre hat.",
+   "quote_clean": "Dieses „Lebe jeden Tag, als wäre er dein letzter“ ist irgendwie eine Überforderung, weil wir da jeden letzten Tag immer wieder und wieder erleben müssen.",
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "'Kalenderspruch' war Zusatz, entfernt.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Werden Verstorbene zu schnell abgeholt, verlieren Angehörige sie gleichsam doppelt: durch den Tod und durch andere Menschen.",
+   "question": "Was passiert laut Sarah Benz, wenn Verstorbene sofort abgeholt werden?",
+   "answer": "Man verliert die Toten doppelt",
+   "distractors": [
+    "Die Trauer geht schneller vorbei",
+    "Die Bestattung wird billiger",
+    "Man erspart sich den Schmerz"
+   ],
+   "aha": "Sarah beschreibt, wie schlimm es für viele ist, wenn jemand gerade gestorben ist, sich noch ganz nach dem eigenen Menschen anfühlt und dann jemand kommt und ihn mitnimmt. Für sie gibt es nichts Wertvolleres als den Moment, in dem man selbst spürt: Jetzt kann ich den Sargdeckel zumachen.",
+   "quote_clean": "Dann werden uns die Toten doppelt weggenommen: einmal durch den Tod selbst und einmal durch andere Menschen, die das plötzlich machen.",
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "aha war holprig in Ich-Form; neu formuliert.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Sarah Benz stößt jedes Jahr am Todestag ihres ersten Freundes mit Apfelsaft auf ihn an.",
+   "question": "Womit stößt Sarah Benz jedes Jahr am Todestag ihres ersten Freundes an?",
+   "answer": "Mit Apfelsaft",
+   "distractors": [
+    "Mit Sekt",
+    "Mit Whisky",
+    "Mit Holunderblütensaft"
+   ],
+   "aha": "Einmal war sie an dem Tag bei einem queeren Speeddating als Musikerin gebucht und hat darauf bestanden anzustoßen. Fremde Leute rissen die Gläser hoch und riefen seinen Namen. Und eine Freundin holte am Tag nach der Geburt ihres Babys einen Apfelsaft-Tetrapak aus dem Nachtkastl.",
+   "quote_clean": "Mein erster Freund ist schon sehr lange tot, und jedes Jahr an seinem Todestag stoße ich mit den Menschen, die gerade da sind, mit Apfelsaft auf ihn an, weil er den gern getrunken hat.",
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "transkription",
+    "beleg"
+   ],
+   "note": "'Apfel' ist abgeschnitten (Saft/Wein?); aha-Details (Tetrapak, Speeddating-Anekdote) stehen nicht belegt im Ausschnitt.",
+   "stand_note": "",
+   "quality": 2
+  }
+ ],
+ "id": "s20250404",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

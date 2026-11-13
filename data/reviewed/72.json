@@ -1,0 +1,291 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 181 s; als Einschätzung der Historikerin gerahmt, Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Die berühmte Demokratie im antiken Athen war eigentlich eine Oligarchie, also eine Herrschaft von wenigen.",
+   "question": "Was war die athenische „Demokratie“ laut Historikerin Maria Mesner eigentlich?",
+   "answer": "Eine Oligarchie",
+   "distractors": [
+    "Eine Basisdemokratie",
+    "Eine Erbmonarchie",
+    "Eine Theokratie"
+   ],
+   "aha": "In Athen herrschten einige wenige, besonders Reiche oder sonst Einflussreiche. Das Wort Demokratie kommt zwar von dort, mit unserer heutigen hat das System aber wenig zu tun.",
+   "quote_clean": "Die Demokratie in Athen war eigentlich eine Oligarchie. Eine Oligarchie ist eine Herrschaftsform, in der einige herrschen.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg ok (244-258 s); im Transkript steht „griechischer Bau“, nicht „Tempel“, Frage angepasst.",
+   "stand_note": "",
+   "statement": "Das Parlament an der Wiener Ringstraße ist einem griechischen Bau nachempfunden, weil sich das Bürgertum im 19. Jahrhundert auf die griechische Antike berief.",
+   "question": "Warum ist das österreichische Parlament an der Ringstraße einem griechischen Bau nachempfunden?",
+   "answer": "Das Bürgertum berief sich auf die Antike",
+   "distractors": [
+    "Ein griechischer Architekt hat es entworfen",
+    "Griechenland hat den Bau finanziert",
+    "Es ersetzte einen antiken Tempel"
+   ],
+   "aha": "Im 19. Jahrhundert wollte das Bürgertum politische Rechte gegenüber Kaiser und Adel und nahm sich die Antike als strahlendes Gegenstück zum angeblich dunklen Mittelalter. Darum steht vor dem Parlament bis heute Pallas Athene.",
+   "quote_clean": "Deswegen ist zum Beispiel auch der Parlamentsbau an der Ringstraße, der vom Ende des 19. Jahrhunderts stammt, einem griechischen Bau nachempfunden. Und deswegen steht davor Pallas Athene.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage mit trivialer Antwort (Gast der Folge), kaum Spielwert.",
+   "stand_note": "",
+   "statement": "Maria Mesner hält die demokratische Fortschrittlichkeit der alten Griechen für einen Mythos und eine erfundene Tradition.",
+   "question": "Wer hat's gesagt: „Das ist ein Mythos, dass die Griechen damals demokratisch fortschrittlich waren. Das ist eine erfundene Tradition.“",
+   "answer": "Maria Mesner",
+   "distractors": [
+    "Heinz Fischer",
+    "Christian Kern",
+    "Andreas Sator"
+   ],
+   "aha": "Die Zeithistorikerin räumt gleich am Anfang mit der Schulbuch-Erzählung auf. Die Geschichte vom demokratischen Athen wurde im 19. Jahrhundert erzählt und hat mit dem echten Athen wenig zu tun.",
+   "quote_clean": "Das ist ein Mythos, dass die Griechen damals politisch demokratisch fortschrittlich waren. Das ist eine erfundene Tradition.",
+   "quality": 1
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext",
+    "transkription"
+   ],
+   "note": "Satz im Transkript verschachtelt; dass alle körperlich Arbeitenden rechtlos waren, ist historisch irreführend (arme Bürger durften in Athen mitstimmen).",
+   "stand_note": "",
+   "statement": "Im antiken Athen hatten Sklaven und alle Menschen, die körperlich arbeiteten, keine politischen Rechte.",
+   "question": "Wer hatte im antiken Athen neben den Sklaven ebenfalls keine politischen Rechte?",
+   "answer": "Alle, die körperlich arbeiteten",
+   "distractors": [
+    "Alle unter 40 Jahren",
+    "Alle Händler und Kaufleute",
+    "Alle, die keine Soldaten waren"
+   ],
+   "aha": "Athen war eine Sklavenhaltergesellschaft, mitbestimmen durfte nur eine kleine Schicht. Die Leuchtkraft der athenischen Demokratie muss man also schon sehr in Frage stellen, sagt Maria Mesner.",
+   "quote_clean": "Die athenische Gesellschaft war eine Sklavenhaltergesellschaft, und alle Menschen, die körperlich gearbeitet haben, und auch alle Sklaven hatten überhaupt keine politischen Rechte.",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg ok (369-393 s); Frage als Einschätzung der Historikerin gerahmt, da Einflüsse sonst strittig sind.",
+   "stand_note": "",
+   "statement": "Maria Mesner sagt, die Idee der parlamentarischen Demokratie gehe grob auf die französische Aufklärung zurück.",
+   "question": "Worauf geht die Idee der parlamentarischen Demokratie, wie Österreich sie hat, laut Maria Mesner grob zurück?",
+   "answer": "Auf die französische Aufklärung",
+   "distractors": [
+    "Auf das antike Athen",
+    "Auf die Römische Republik",
+    "Auf die Reformation"
+   ],
+   "aha": "Nicht Athen, sondern die Aufklärung liefert die intellektuellen Wurzeln. Damals begannen Bürgertum und auch Arbeiter:innen, politische Rechte gegen den Adel einzufordern, der gemeinsam mit den Monarchen die Macht hatte.",
+   "quote_clean": "Parlamentarische Demokratie ist das, was wir in Österreich haben, aber auch in vielen anderen Ländern, in Europa und außerhalb. Man könnte grob sagen, dass die Idee einer solchen Staatsform auf die französische Aufklärung zurückgeht.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 628 s, Jahr stimmt (1918), Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Österreich wurde 1918 nach dem Ende der Monarchie eine Republik.",
+   "question": "In welchem Jahr wurde Österreich eine Republik?",
+   "answer": "1918",
+   "distractors": [
+    "1848",
+    "1867",
+    "1945"
+   ],
+   "aha": "Mit dem Ende des Ersten Weltkriegs zerfiel die Habsburgermonarchie, und Österreich wurde Republik. Gewählt wurde aber schon vorher, nur eben nicht von allen.",
+   "quote_clean": "Österreich ist eine Republik geworden nach dem Ende der Monarchie, und das war 1918.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Beleg ok (830-857 s); Antwort „Geld und Loyalität“ war unscharf, jetzt nah am Transkript; aha-Zusatz zum Geldbedarf war Spekulation.",
+   "stand_note": "",
+   "statement": "Weil die Monarchie nach 1848 wegen Militärausgaben und verlorener Kriege ständig Geldprobleme hatte, vergab sie immer mehr Gruppen das Wahlrecht, um sich ihre Loyalität zu sichern.",
+   "question": "Warum hat die österreichische Monarchie nach 1848 immer mehr Gruppen das Wahlrecht gegeben?",
+   "answer": "Um sich ihre Loyalität zu sichern",
+   "distractors": [
+    "Der Kaiser war überzeugter Demokrat",
+    "Frankreich hat es erzwungen",
+    "Die Kirche hat es verlangt"
+   ],
+   "aha": "Der Staat steckte nach 1848 ständig in Geldnot, auch wegen hoher Militärausgaben und verlorener Kriege. Um sich die Unterstützung der Bevölkerung zu sichern, weitete er das Wahlrecht Schritt für Schritt aus, zunächst entlang der Steuerleistung.",
+   "quote_clean": "Die österreichisch-ungarische Monarchie hatte nach 1848 ständig Geldprobleme. Das hatte mit den hohen Militärausgaben und den verlorenen Kriegen zu tun. Daher musste sie immer mehr Bevölkerungsgruppen Wahlrechte geben, um deren Loyalität, also deren Unterstützung, zu sichern.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Beleg ok (1018-1030 s), aber „zuletzt“ ist unscharf (Zahl der Kurien änderte sich, Mesner nennt 1907/1918); Formulierung präzisiert.",
+   "stand_note": "",
+   "statement": "In der Monarchie war nicht jede Stimme gleich viel wert; am Ende stimmten die Menschen in fünf verschiedenen Kurien ab.",
+   "question": "In wie vielen Kurien stimmten die Menschen in der Monarchie schließlich ab, nachdem es zuerst nur vier gewesen waren?",
+   "answer": "5",
+   "distractors": [
+    "2",
+    "3",
+    "8"
+   ],
+   "aha": "Zuerst waren es vier Wählerklassen, dann fünf. In jeder Kurie war eine einzelne Stimme unterschiedlich viel wert.",
+   "quote_clean": "Es war nicht jede Stimme gleich viel wert, sondern die Menschen haben in fünf verschiedenen Kurien abgestimmt.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "drop",
+   "issues": [
+    "transkription",
+    "spielbarkeit"
+   ],
+   "note": "59 Personen vs. 59.000 und „1250 Mal“ passen rechnerisch nicht zusammen (Faktor 1000); Zahl nicht verlässlich, Schieberegler 1–100000 unbrauchbar.",
+   "stand_note": "",
+   "statement": "In der ersten Kurie des Kurienwahlrechts wählten nur etwa 59 Personen einen Abgeordneten.",
+   "question": "Wie viele Personen wählten in der ersten, reichsten Kurie gemeinsam einen Abgeordneten?",
+   "answer": "59",
+   "distractors": [
+    "590",
+    "5.900",
+    "12"
+   ],
+   "aha": "In der ersten Kurie saßen die Großgrundbesitzer, da reichte eine Handvoll Wähler für einen Sitz. In der fünften, der Kurie der ärmsten Männer, waren es rund 59.000 Personen pro Abgeordnetem.",
+   "quote_clean": "So haben in der ersten Kurie zum Beispiel 59 Personen einen Abgeordneten gewählt.",
+   "quality": 1
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Beleg ok (1393-1426 s); Antwort näher am Wortlaut („Einfluss schwinden sehen“), aha ohne nicht belegte Details.",
+   "stand_note": "",
+   "statement": "Anfang der 1930er Jahre beschloss die regierende christlich-soziale Partei, keine Wahlen mehr abzuhalten, weil sie ihren Einfluss schwinden sah.",
+   "question": "Warum wollte die christlich-soziale Regierung Anfang der 1930er keine Wahlen mehr abhalten?",
+   "answer": "Sie sah ihren Einfluss schwinden",
+   "distractors": [
+    "Der Völkerbund hat es verboten",
+    "Es fehlte Geld für Wahlzettel",
+    "Die Alliierten haben es verlangt"
+   ],
+   "aha": "Die Weltwirtschaftskrise brachte Massenarbeitslosigkeit, und die Nationalsozialisten wurden stark. Die Regierung sah ihre Zustimmung in der Bevölkerung schwinden und entschied sich strategisch gegen weitere Wahlen.",
+   "quote_clean": "Die damals herrschende Partei, die christlich-soziale Partei in verschiedenen Koalitionen mit anderen bürgerlichen Parteien, hat daraufhin die strategische Entscheidung getroffen, keine weiteren Wahlen mehr durchzuführen.",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Mesner nennt die Staatsbürgerschaft nur als Beispiel; Frage hat keine eindeutige Antwort (Alter, Wohnsitz bei Gemeindewahlen, EU-Bürger).",
+   "stand_note": "",
+   "statement": "Früher entschied das Geschlecht darüber, wer wählen darf, heute ist es zum Beispiel die Staatsbürgerschaft.",
+   "question": "Was entscheidet laut Maria Mesner heute darüber, wer wählen darf, so wie früher das Geschlecht?",
+   "answer": "Die Staatsbürgerschaft",
+   "distractors": [
+    "Das Einkommen",
+    "Der Bildungsabschluss",
+    "Der Wohnort"
+   ],
+   "aha": "Um 1900 war die Hälfte der Bevölkerung vom Wahlrecht ausgeschlossen, weil sie Frauen waren. Die Frage, wer zum Demos gehört, ist geblieben, nur die Scheidelinie hat sich verschoben.",
+   "quote_clean": "Das Geschlecht hat damals darüber entschieden, ob jemand wahlberechtigt war oder nicht. Und heute ist es die Staatsbürgerschaft.",
+   "quality": 2
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt mit trivialer Antwort, kaum Spielwert.",
+   "stand_note": "",
+   "statement": "Maria Mesner betont, dass demokratische Errungenschaften rückgängig gemacht werden können und Demokratie ständiges Tun erfordert.",
+   "question": "Wer hat's gesagt: „Demokratie erfordert eigentlich ein ständiges Tun.“",
+   "answer": "Maria Mesner",
+   "distractors": [
+    "Heinz Fischer",
+    "Christian Kern",
+    "Andreas Sator"
+   ],
+   "aha": "Das ist die zweite Lehre, die die Historikerin aus der Geschichte zieht: Nichts ist unumkehrbar. Wenn sich viele nicht mehr beteiligen, wird die Demokratie schwach und leichter abschaffbar.",
+   "quote_clean": "Das bedeutet nicht, dass das nicht wieder rückgängig gemacht werden kann. Demokratie erfordert eigentlich ein ständiges Tun.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Gesprächsanekdote ohne Wissensgewinn, Antwort kaum eindeutig herleitbar; Inhalt steckt schon in Kandidat 0.",
+   "stand_note": "",
+   "statement": "Gleich auf Andreas' erste Frage nach dem Ursprung der Demokratie nimmt Maria Mesner die erwartete Antwort Athen vorweg und erklärt sie für falsch.",
+   "question": "Wie reagiert Maria Mesner auf Andreas' erste Frage, woher die Demokratie kommt?",
+   "answer": "Sie sagt: Athen ist nicht richtig",
+   "distractors": [
+    "Sie nennt sofort Rom",
+    "Sie fragt nach seiner Schulzeit",
+    "Sie zitiert Aristoteles"
+   ],
+   "aha": "Andreas wollte 2000 Jahre zurückgehen, Maria Mesner durchschaut die Frage sofort. Seine trockene Antwort: Dann haben wir jetzt gleich schon mal was gelernt.",
+   "quote_clean": "Die Antwort, auf die du hinsteuerst, ist wohl Athen. Das ist aber nicht richtig. – Okay, dann haben wir jetzt gleich schon mal was gelernt.",
+   "quality": 2
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Fragt nach exaktem Wortlaut einer Überleitung; nicht ableitbar, reine Gedächtnisfrage.",
+   "stand_note": "",
+   "statement": "Andreas fasst am Ende der Folge mit der Frage „Was nehme ich mir mit?“ zusammen, was er gelernt hat.",
+   "question": "Mit welcher Frage leitet Andreas seine Zusammenfassung am Ende der Folge ein?",
+   "answer": "„Was nehme ich mir mit?“",
+   "distractors": [
+    "„Was war neu für mich?“",
+    "„Was bleibt hängen?“",
+    "„Was sagt uns das?“"
+   ],
+   "aha": "Nach dem Gespräch zieht Andreas allein Bilanz. Diesmal ganz oben auf der Liste: Das antike Athen als Wiege unserer Demokratie ist ein Mythos.",
+   "quote_clean": "Was nehme ich mir mit? Dass unsere Demokratie ihre Wurzeln im antiken Athen hat, ist ein Mythos.",
+   "quality": 1
+  }
+ ],
+ "id": "72",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

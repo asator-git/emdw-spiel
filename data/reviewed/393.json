@@ -1,0 +1,290 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächseinstieg, kein Wissensfakt.",
+   "stand_note": "",
+   "statement": "Andreas steigt mit der Frage ein, was ein Botschafter eigentlich den ganzen Tag macht.",
+   "question": "Mit welcher Frage steigt Andreas in das Gespräch mit Leigh Turner ein?",
+   "answer": "Was ein Botschafter den ganzen Tag macht",
+   "distractors": [
+    "Wie man Botschafter wird",
+    "Wie viel ein Botschafter verdient",
+    "Ob Botschafter Spione sind"
+   ],
+   "aha": "",
+   "quote_clean": "Aus deiner Zeit als Botschafter: Was macht denn ein Botschafter eigentlich den ganzen Tag?",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt; Distraktoren plausibler gemacht.",
+   "stand_note": "",
+   "statement": "Botschafter besuchen in den meisten Städten der Welt abends oft zwei bis drei Empfänge oder Abendessen.",
+   "question": "Zu wie vielen Terminen geht ein Botschafter in den meisten Städten typischerweise pro Abend?",
+   "answer": "Zu zwei bis drei",
+   "distractors": [
+    "Zu genau einem",
+    "Zu fünf bis sechs",
+    "Zu keinem"
+   ],
+   "aha": "Abends auf Empfängen und Abendessen zu sein, ist für Botschafter Teil der Arbeit: Dort trifft man die unterschiedlichsten Leute und sammelt Informationen.",
+   "quote_clean": "Als Botschafter geht man in den meisten Städten der Welt abends zu zwei, drei verschiedenen Terminen, zu einem Empfang oder einem Abendessen, und trifft dort die verschiedensten Leute.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Ein Botschafter soll Informationen sammeln, sich eine Meinung bilden und Meinungsträger im Gastland beeinflussen – und so der größte Experte seines Landes für das Gastland werden.",
+   "question": "Was soll ein britischer Botschafter in Österreich laut Leigh Turner in Großbritannien sein?",
+   "answer": "Der größte Österreich-Experte",
+   "distractors": [
+    "Der wichtigste Handelsvertreter",
+    "Der oberste Geheimdienstchef",
+    "Der Sprecher des Premiers"
+   ],
+   "aha": "Dafür trifft er so viele unterschiedliche Leute wie möglich. Danach kommen Aufgabe zwei und drei: sich zu den schwierigsten Fragen zwischen den Ländern eine Meinung bilden und Leute überzeugen, dass sein Land gar nicht so schlecht ist.",
+   "quote_clean": "Erstens will man Informationen sammeln. Als Botschafter in Österreich soll ich der größte Experte Großbritanniens in Sachen Österreich sein.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Zahl ist Turners ungefähre Angabe; Quelle genannt, Slider enger.",
+   "stand_note": "Stand 2026 (Turners Schätzung)",
+   "statement": "Laut Leigh Turner leben ungefähr 11.000 Britinnen und Briten in Österreich; um sie kümmert sich die konsularische Abteilung der Botschaft.",
+   "question": "Wie viele Britinnen und Briten leben laut Leigh Turner ungefähr in Österreich?",
+   "answer": "Rund 11.000",
+   "distractors": [
+    "Rund 1.500",
+    "Rund 45.000",
+    "Rund 120.000"
+   ],
+   "number_value": 11000,
+   "number_unit": "Menschen",
+   "slider_min": 1000,
+   "slider_max": 100000,
+   "aha": "Konsulararbeit ist einer der ältesten Teile der Diplomatie. Wenn ein britischer Tourist in Österreich einen Unfall hat, hilft die Botschaft der Familie – und umgekehrt kümmert sich Österreichs Botschaft in London um Österreicher:innen.",
+   "quote_clean": "Die ungefähr 11.000 Briten, die es in Österreich gibt, sind ein Teil der Arbeit der Botschaft, und es gibt eine konsularische Abteilung.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt.",
+   "stand_note": "",
+   "statement": "Leigh Turners drei Regeln für Diplomaten: Experte werden, nicht zu schnell entscheiden und sich voll auf Menschen konzentrieren.",
+   "question": "Was ist die erste von Leigh Turners drei Regeln für Diplomaten?",
+   "answer": "Viel arbeiten und Experte werden",
+   "distractors": [
+    "Nie die eigene Meinung sagen",
+    "Immer schnell entscheiden",
+    "Jede Einladung annehmen"
+   ],
+   "aha": "Regel zwei ist für ihn die schwierigste: nicht immer schnell zu entscheiden, sondern zuerst ein bisschen nachzudenken. Regel drei: sich zu hundert Prozent auf Menschen konzentrieren.",
+   "quote_clean": "Meine drei Regeln für Diplomaten sind erstens, viel zu arbeiten, zu studieren und ein Experte in deinem Bereich zu werden.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "fairness",
+    "ton"
+   ],
+   "note": "Heikle Distraktoren ersetzt; nicht belegte Aha-Aussage (Supergenie) entfernt.",
+   "stand_note": "",
+   "statement": "Wer Menschen nicht spannend findet oder sich auf Cocktailpartys unwohl fühlt, sollte laut Leigh Turner nicht Diplomat werden.",
+   "question": "Für wen ist Diplomatie laut Leigh Turner keine Karriere?",
+   "answer": "Für Leute, die sich für Menschen kaum interessieren",
+   "distractors": [
+    "Für Leute ohne Jusstudium",
+    "Für Leute ohne fünf Sprachen",
+    "Für Leute ohne Auslandserfahrung"
+   ],
+   "aha": "Wobei Turner zugibt, selbst ein bisschen introvertiert zu sein – man kann daran arbeiten, sagt er.",
+   "quote_clean": "Man muss wirklich 100 Prozent auf Leute konzentriert sein. Wenn dich Leute nicht sehr interessieren oder du dich auf einer großen Cocktailparty unwohl fühlst, dann ist das keine Karriere für dich.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg und Fakt stimmen; Aha im Ausschnitt belegt.",
+   "stand_note": "",
+   "statement": "1982 besetzte Argentinien die britischen Falklandinseln.",
+   "question": "In welchem Jahr marschierte Argentinien auf den Falklandinseln ein?",
+   "answer": "1982",
+   "distractors": [
+    "1968",
+    "1974",
+    "1991"
+   ],
+   "number_value": 1982,
+   "number_unit": "Jahr",
+   "slider_min": 1940,
+   "slider_max": 2000,
+   "aha": "Auf den Inseln lebten nur rund 3.000 Menschen, fast alle englischsprachig. Bemerkenswert: Sowohl die rechte Margaret Thatcher als auch der linke Labour-Politiker Michael Foot wollten die Inseln zurück – in der Außenpolitik sind sich links und rechts oft einig.",
+   "quote_clean": "Zum Beispiel hat es 1982 die Invasion der Falklandinseln durch Argentinien gegeben.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (geladen = einbestellt).",
+   "stand_note": "",
+   "statement": "Die Einbestellung eines Botschafters ist ein diplomatisches Ritual, mit dem eine Regierung ihren Unmut zeigt.",
+   "question": "Wie beschreibt Leigh Turner es, wenn ein Botschafter ins Außenministerium einbestellt wird?",
+   "answer": "Als Ritual der Erniedrigung",
+   "distractors": [
+    "Als reine Höflichkeitsgeste",
+    "Als geheime Verhandlungsrunde",
+    "Als Vorstufe zur Kriegserklärung"
+   ],
+   "aha": "Die Regierung sagt dem Botschafter, dass ihr nicht gefällt, was sein Land tut, und er verteidigt die Politik seiner Heimat. Turner selbst wurde zur Brexit-Zeit einbestellt – zwischen Großbritannien und Russland passiert das laut ihm deutlich öfter.",
+   "quote_clean": "Wenn der Botschafter oder die Botschafterin einbestellt wird, ist das natürlich sozusagen ein Ritual der Erniedrigung.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Funktion der Gesprächspartnerin unsicher (Staatssekretärin/Ministerin), daher neutral; Distraktor verbessert.",
+   "stand_note": "",
+   "statement": "Bei seiner Einbestellung in Wien entstand ein Foto durch eine Tür, auf dem Leigh Turner geknickt dasteht, während eine österreichische Regierungsvertreterin mit dem Finger in seine Richtung zeigt.",
+   "question": "Was zeigte das Foto von Leigh Turners Einbestellung im Außenministerium in Wien?",
+   "answer": "Ihn geknickt vor erhobenem Zeigefinger",
+   "distractors": [
+    "Ihn lachend beim Händeschütteln",
+    "Ihn beim Verlassen durch den Hinterausgang",
+    "Ihn bei einer Pressekonferenz"
+   ],
+   "aha": "Das Gespräch war meistens ganz freundlich, die beiden kannten sich gut. Aber das Bild durch die Tür sah aus, als bekäme er ordentlich den Kopf gewaschen – auf Englisch: a head scrubbing.",
+   "quote_clean": "Irgendein Fotograf hat ein Bild von uns durch eine Tür gemacht, wo ich ein bisschen bedrückt dagestanden bin.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt; allgemein gesichertes Wissen (Heimatstaat kann Immunität aufheben).",
+   "stand_note": "",
+   "statement": "Die Immunität eines Diplomaten kann sein Heimatland aufheben, etwa bei schweren Verbrechen in einem Land mit unabhängiger Justiz.",
+   "question": "Wer kann die Immunität eines britischen Diplomaten in Österreich aufheben?",
+   "answer": "Das britische Außenministerium",
+   "distractors": [
+    "Der österreichische Bundespräsident",
+    "Der Internationale Gerichtshof",
+    "Die Wiener Polizei"
+   ],
+   "aha": "In Ländern mit unabhängigen Gerichten zahlen Diplomaten ihre Park- und Radarstrafen ganz normal. Unverzichtbar wird die Immunität dort, wo die Justiz nicht unabhängig von der Regierung ist, etwa in Russland oder China – sagt Turner.",
+   "quote_clean": "Und wenn ich jemanden umbringe, wird das Foreign Office in London sagen: keine Immunität für ihn im österreichischen Gerichtssystem.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (Gaddafi-Name korrigiert in quote_clean); Fakten historisch gesichert.",
+   "stand_note": "",
+   "statement": "1984 wurde aus der libyschen Botschaft in London auf Demonstrierende geschossen; eine Polizistin starb.",
+   "question": "Was geschah 1984 bei einem Protest vor der libyschen Botschaft in London?",
+   "answer": "Aus der Botschaft wurde geschossen",
+   "distractors": [
+    "Die Botschaft wurde gestürmt",
+    "Ein Diplomat wurde entführt",
+    "Die Botschaft brannte ab"
+   ],
+   "aha": "Unter den Opfern war die Polizistin Yvonne Fletcher, die starb. Verhaften konnte Großbritannien den Schützen trotzdem nicht, weil sich die libyschen Diplomaten auf ihre Immunität beriefen.",
+   "quote_clean": "Es gab einen Protest gegen die Regierung von Muammar Gaddafi vor der Botschaft in London, und jemand hat sich mit einem Maschinengewehr aus dem Fenster gelehnt und auf viele Leute geschossen.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt; alberner Distraktor ersetzt.",
+   "stand_note": "",
+   "statement": "Diplomatische Immunität schützt die eigenen Diplomaten in feindlichen Staaten, auch wenn sie im Einzelfall Täter vor Strafe bewahrt.",
+   "question": "Warum hielt Großbritannien nach dem Schuss aus der libyschen Botschaft an der Immunität fest?",
+   "answer": "Um die eigenen Diplomaten zu schützen",
+   "distractors": [
+    "Weil der Täter unbekannt blieb",
+    "Weil Libyen mit Wirtschaftssanktionen drohte",
+    "Weil die UNO es verlangte"
+   ],
+   "aha": "Libyen drohte, die britischen Diplomaten in Tripolis ein Leben lang einzusperren. Am Ende wurden die Libyer ausgewiesen, ohne bestraft zu werden – und die Briten kamen sicher heim. Ein bitterer, aber funktionierender Tausch.",
+   "quote_clean": "Auf der einen Seite hätten wir etwas mit dem libyschen Diplomaten machen können, der jemanden getötet hat. Auf der anderen Seite wären unsere Leute ohne Immunität nicht sicher nach Hause gekommen.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Andreas schätzt vorsichtig, Fakt stimmt aber (2012 bis 2019, rund sieben Jahre).",
+   "stand_note": "",
+   "statement": "Julian Assange lebte rund sieben Jahre in der Botschaft Ecuadors in London.",
+   "question": "Wie viele Jahre lebte Julian Assange ungefähr in der Botschaft Ecuadors in London?",
+   "answer": "Rund 7 Jahre",
+   "distractors": [
+    "Rund 1 Jahr",
+    "Rund 3 Jahre",
+    "Rund 12 Jahre"
+   ],
+   "number_value": 7,
+   "number_unit": "Jahre",
+   "slider_min": 0,
+   "slider_max": 20,
+   "aha": "Die britische Polizei durfte nicht einfach hinein. Erst als eine neue Regierung in Ecuador ihm den Schutz entzog, hieß es: Ihr dürft ihn abholen.",
+   "quote_clean": "Ich glaube, sieben Jahre war er in der Botschaft von Ecuador in Großbritannien.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg stimmt; erfundenes Detail (Schmunzeln) im aha entfernt.",
+   "stand_note": "",
+   "statement": "Während des Putschversuchs 1993 in Moskau saßen die britischen Diplomaten in der Botschaft fest und informierten sich über CNN.",
+   "question": "Wie sammelten die britischen Diplomaten beim Putschversuch 1993 in Moskau Informationen?",
+   "answer": "Sie schauten CNN",
+   "distractors": [
+    "Über Spione im Kreml",
+    "Über Funk mit London",
+    "Durch Gespräche auf der Straße"
+   ],
+   "aha": "Draußen wurde scharf geschossen, Panzer standen auf der Straße, raus konnte keiner. Also: Fernseher an. Turner bringt das als Argument, dass man Diplomaten auch durch Medien ersetzen könnte – und hält dann dagegen, dass Regierungen verlässliche Quellen brauchen.",
+   "quote_clean": "Und was haben wir getan, um Informationen zu sammeln? Wir haben CNN geschaut. Das hätten wir genauso gut in London machen können.",
+   "quality": 4
+  }
+ ],
+ "id": "393",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

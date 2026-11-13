@@ -1,0 +1,738 @@
+{
+ "theme": "Wissenschaft & Technik",
+ "summary": "Warum wir ChatGPT, Staubsaugerroboter und eh alles vermenschlichen, und was das mit unserem Vertrauen in KI macht.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 3524,
+   "speaker": "Martina Mara",
+   "quote": "neueste repräsentative Erhebungen aus Österreich 11% der ÖsterreicherInnen im Bevölkerungsschnitt sagen ja ich könnte jemand anderem erklären was KI ist also das halte ich für erschreckend wenig",
+   "quote_clean": "Neueste repräsentative Erhebungen aus Österreich: 11 % der Österreicherinnen und Österreicher sagen, ich könnte jemand anderem erklären, was KI ist. Das halte ich für erschreckend wenig.",
+   "statement": "Laut einer repräsentativen Erhebung sagen nur 11 Prozent der Menschen in Österreich, sie könnten jemand anderem erklären, was KI ist.",
+   "question": "Wie viel Prozent der Menschen in Österreich trauen sich laut einer Erhebung zu, jemand anderem zu erklären, was KI ist?",
+   "answer": "11 Prozent",
+   "distractors": [
+    "27 Prozent",
+    "42 Prozent",
+    "4 Prozent"
+   ],
+   "number_value": 11,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Nur etwa jede neunte Person, und wie viele es dann wirklich können, ist noch einmal eine andere Frage. Für Martina Mara ist das erschreckend wenig, weil gerade Wissen über KI davor schützt, auf simulierte Menschlichkeit reinzufallen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "KI",
+    "Österreich",
+    "Bildung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 502,
+   "speaker": "Martina Mara",
+   "quote": "also diese kiysteme die ja mittlerweile einen wahnsinnsimpact in unserem Leben haben also die hat glaube ich gerade die 200 Millionen nutzerinnenzahl äh überschritten",
+   "quote_clean": "Diese KI-Systeme, die ja mittlerweile einen Wahnsinnsimpact in unserem Leben haben – die hat, glaube ich, gerade die 200-Millionen-Nutzerinnenzahl überschritten.",
+   "statement": "ChatGPT hatte im Herbst 2024 rund 200 Millionen Nutzer:innen.",
+   "question": "Wie viele Millionen Nutzer:innen hatte ChatGPT laut der Folge im Herbst 2024 ungefähr?",
+   "answer": "Rund 200 Millionen",
+   "distractors": [
+    "Rund 20 Millionen",
+    "Rund 60 Millionen",
+    "Rund 900 Millionen"
+   ],
+   "number_value": 200,
+   "number_unit": "Millionen Nutzer:innen",
+   "slider_min": 5,
+   "slider_max": 2000,
+   "log_scale": true,
+   "aha": "Zwei Jahre nach dem Start chatten also Hunderte Millionen Menschen mit einem Sprachmodell. Hinter jedem dieser freundlichen Gegenüber steckt aber ein Unternehmen mit eigenen Interessen, und das vergisst man leicht.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "ChatGPT",
+    "Nutzung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3751,
+   "speaker": "Martina Mara",
+   "quote": "KI Alarm Alarm benötigt wahnsinnig viel Energie Strom und Ressourcen ein längerer Jet mit jetgpt braucht so halben Liter Wasser zur Kühlung der Rechenzentren",
+   "quote_clean": "KI benötigt wahnsinnig viel Energie, Strom und Ressourcen. Ein längerer Chat mit ChatGPT braucht so einen halben Liter Wasser zur Kühlung der Rechenzentren.",
+   "statement": "Ein längerer Chat mit ChatGPT verbraucht rund einen halben Liter Wasser zur Kühlung der Rechenzentren.",
+   "question": "Wie viel Wasser braucht ein längerer Chat mit ChatGPT laut der Folge zur Kühlung der Rechenzentren?",
+   "answer": "Etwa 500 Milliliter",
+   "distractors": [
+    "Etwa 5 Milliliter",
+    "Etwa 50 Milliliter",
+    "Etwa 5 Liter"
+   ],
+   "number_value": 500,
+   "number_unit": "Milliliter",
+   "slider_min": 1,
+   "slider_max": 10000,
+   "log_scale": true,
+   "aha": "Eine kleine Flasche Wasser pro Plauderei. Die Rechenzentren sehen wir nicht, sie stehen irgendwo in anderen Ländern, aber sie brauchen Unmengen an Strom und Kühlwasser.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "KI",
+    "Ressourcen",
+    "Wasser"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2747,
+   "speaker": "Andreas Sator",
+   "quote": "angeschaut der ist schon älter 2013 ist wenn ich mich richt wenn ich das richtig im Kopf habe der Lieblingsfilm von Sam Oldman",
+   "quote_clean": "Der ist schon älter, 2013, ist, wenn ich das richtig im Kopf habe, der Lieblingsfilm von Sam Altman.",
+   "statement": "Der Film „Her“, in dem sich ein Mann in eine KI verliebt, kam 2013 heraus.",
+   "question": "In welchem Jahr kam der Film „Her“ heraus, in dem sich ein Mann in sein KI-Betriebssystem verliebt?",
+   "answer": "2013",
+   "distractors": [
+    "2004",
+    "2017",
+    "2021"
+   ],
+   "number_value": 2013,
+   "number_unit": "Jahr",
+   "slider_min": 1995,
+   "slider_max": 2024,
+   "log_scale": false,
+   "aha": "Andreas hat den Film damals in der Mitte abgebrochen, weil er ihn absurd fand. Ein gutes Jahrzehnt später findet er es creepy, wie nah wir dran sind. Angeblich ist es der Lieblingsfilm von OpenAI-Chef Sam Altman.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Film",
+    "KI"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3861,
+   "speaker": "Martina Mara",
+   "quote": "dritte Buchempfehlung wä belletristisch das ist ein SE Fiction Roman der ich glaube es war 2021 den österreichischen Buchpreis gewonnen hat Dave heißt es",
+   "quote_clean": "Meine dritte Buchempfehlung wäre belletristisch, das ist ein Science-Fiction-Roman, der, ich glaube, es war 2021, den Österreichischen Buchpreis gewonnen hat. Dave heißt es.",
+   "statement": "Raphaela Edelbauers Science-Fiction-Roman „Dave“ über ein KI-System gewann 2021 den Österreichischen Buchpreis.",
+   "question": "In welchem Jahr gewann Raphaela Edelbauers KI-Roman „Dave“ den Österreichischen Buchpreis?",
+   "answer": "2021",
+   "distractors": [
+    "2016",
+    "2019",
+    "2023"
+   ],
+   "number_value": 2021,
+   "number_unit": "Jahr",
+   "slider_min": 2010,
+   "slider_max": 2025,
+   "log_scale": false,
+   "aha": "Ein Science-Fiction-Roman über ein KI-System namens Dave, und das zwei Jahre bevor alle Welt über ChatGPT redete. Martina Mara mag ihn, weil er gut recherchiert ist und echte Debatten aus der Bewusstseinsforschung aufgreift.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Buch",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 115,
+   "speaker": "Martina Mara",
+   "quote": "das setzt sich ja zusammen aus anthropos quas ist einfach das griechische Wort für Mensch und morphee für Gestalt oder Form",
+   "quote_clean": "Das setzt sich ja zusammen aus Anthropos, das ist einfach das griechische Wort für Mensch, und Morphe für Gestalt oder Form.",
+   "statement": "Anthropomorphismus kommt vom griechischen „anthropos“ (Mensch) und „morphe“ (Gestalt) und bedeutet, Nicht-Menschlichem menschliche Eigenschaften zuzuschreiben.",
+   "question": "Was bedeutet das griechische „morphe“ im Wort Anthropomorphismus?",
+   "answer": "Gestalt oder Form",
+   "distractors": [
+    "Seele oder Geist",
+    "Sprache oder Wort",
+    "Gefühl oder Herz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Anthropos ist der Mensch, morphe die Gestalt. Wir geben Dingen also eine Menschengestalt, zum Beispiel wenn wir sagen, der Rasenmähroboter ist müde und fährt heim zur Ladestation.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sprache",
+    "Psychologie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 417,
+   "speaker": "Martina Mara",
+   "quote": "je stärker Personen chgpt oder ähnlichen Systemen menschenähnlich Eigenschaften zuschreiben desto stärker ähm wirkt beispielsweise da dann auch eine Empfehlung die das System abgibt auf uns",
+   "quote_clean": "Je stärker Personen ChatGPT oder ähnlichen Systemen menschenähnliche Eigenschaften zuschreiben, desto stärker wirkt beispielsweise auch eine Empfehlung, die das System abgibt, auf uns.",
+   "statement": "Je menschenähnlicher Menschen ein KI-System wahrnehmen, desto stärker beeinflussen sie dessen Empfehlungen.",
+   "question": "Was passiert laut Forschung, wenn Menschen ChatGPT stark vermenschlichen?",
+   "answer": "Seine Empfehlungen beeinflussen sie stärker",
+   "distractors": [
+    "Sie nutzen es seltener",
+    "Sie misstrauen ihm mehr",
+    "Sie merken sich weniger"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Was die KI ausspuckt, fühlt sich dann an wie ein Tipp von einer guten Freundin. Dadurch wird sie einflussreicher, etwa bei unserer Meinungsbildung, und das könnte man auch für Manipulation nutzen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "KI",
+    "Vertrauen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 460,
+   "speaker": "Martina Mara",
+   "quote": "auch ja ich find es moralisch schwierig den Computer auszus schalten wenn die KI sagt sie möchte das nicht oder ja ich finde solche kiysteme bräuchten eigentlich auch sowas wie Rechte füren eigenen Schutz",
+   "quote_clean": "Ja, ich finde es moralisch schwierig, den Computer auszuschalten, wenn die KI sagt, sie möchte das nicht, oder: Ich finde, solche KI-Systeme bräuchten eigentlich auch so etwas wie Rechte zu ihrem eigenen Schutz.",
+   "statement": "Wer ein Sprachmodell stärker vermenschlicht, findet es eher moralisch schwierig, den Computer auszuschalten, und eher, dass KI Rechte bräuchte.",
+   "question": "Was sagen Menschen, die ChatGPT stark vermenschlichen, in einer Studie der JKU Linz eher?",
+   "answer": "Abschalten wäre moralisch schwierig",
+   "distractors": [
+    "KI sollte verboten werden",
+    "KI ist nur ein Werkzeug",
+    "KI macht sie einsamer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Je stärker der Anthropomorphismus getriggert wird, desto eher fühlt sich die Maschine wie ein Wesen an, dem wir etwas schulden. Dabei ist sie ein Programm, das Wörter vorhersagt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "KI",
+    "Moral"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 843,
+   "speaker": "Andreas Sator",
+   "quote": "das zeigen viele Studien dass z.B die drauf anspringen wenn man sagt so mir ist das so wichtig weil mein Job hängt davon ab dann kommt da besseres Ergebnis oder wenn man sagt ich gebe dir ein Trinkgeld wenn du es richtig machst",
+   "quote_clean": "Das zeigen viele Studien, dass die zum Beispiel darauf anspringen, wenn man sagt: Mir ist das so wichtig, weil mein Job hängt davon ab. Dann kommt ein besseres Ergebnis. Oder wenn man sagt: Ich gebe dir ein Trinkgeld, wenn du es richtig machst.",
+   "statement": "Sprachmodelle liefern oft bessere Ergebnisse, wenn man ihnen sagt, der eigene Job hänge davon ab, oder ihnen ein Trinkgeld verspricht.",
+   "question": "Womit kann man Sprachmodellen laut Studien bessere Antworten entlocken?",
+   "answer": "Mit einem versprochenen Trinkgeld",
+   "distractors": [
+    "Mit Großbuchstaben",
+    "Mit möglichst kurzen Fragen",
+    "Mit Fragen auf Englisch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Modelle wurden mit Unmengen menschlicher Texte trainiert, und dort strengen sich Menschen eben mehr an, wenn viel auf dem Spiel steht. Genau das macht es so schwer, sie nicht zu vermenschlichen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Prompts",
+    "Sprachmodelle"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 980,
+   "speaker": "Martina Mara",
+   "quote": "auf Basis dieses Dialogs geschrieben hat so erst sich jetzt sicher dass dieses System Bewusstsein entwickelt hat weil so wie das antwortet also das muss ein ichkonzept haben das spricht von Träumen",
+   "quote_clean": "Auf Basis dieses Dialogs hat er geschrieben, er ist sich jetzt sicher, dass dieses System Bewusstsein entwickelt hat, weil, so wie das antwortet, das muss ein Ich-Konzept haben, das spricht von Träumen.",
+   "statement": "Ein Google-Ingenieur, der am Sprachmodell LaMDA mitarbeitete, behauptete öffentlich, das System habe ein Bewusstsein entwickelt.",
+   "question": "Was behauptete ein Google-Ingenieur über das interne Sprachmodell LaMDA?",
+   "answer": "Es habe ein Bewusstsein entwickelt",
+   "distractors": [
+    "Es habe Daten gestohlen",
+    "Es könne Gedanken lesen",
+    "Es sei absichtlich gelöscht worden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ausgerechnet jemand mit technischer Expertise ist reingefallen. Dabei ist es eh logisch: Wer ein Programm mit menschlichen Texten füttert, bekommt ein Programm, das über Wünsche und Träume redet, ohne welche zu haben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Google",
+    "Bewusstsein"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2083,
+   "speaker": "Martina Mara",
+   "quote": "es gibt doch Daten die zeigen dass Männer von also vor allem Männer von weiblich sprechenden oder",
+   "quote_clean": "Es gibt doch Daten, die zeigen, dass vor allem Männer von weiblich sprechenden KI-Systemen lieber betreut werden.",
+   "statement": "Daten zeigen, dass vor allem Männer sich im Kundenservice lieber von KI-Systemen mit weiblich klingender Stimme betreuen lassen.",
+   "question": "Von welchen KI-Stimmen lassen sich vor allem Männer laut Daten im Kundenservice lieber betreuen?",
+   "answer": "Von weiblich klingenden Stimmen",
+   "distractors": [
+    "Von männlich klingenden Stimmen",
+    "Von roboterhaften Stimmen",
+    "Von Kinderstimmen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Darum klingen so viele Sprachassistenten weiblich. Das Problem: Die stets verfügbare, freundliche Assistentin, die ohne Bitte und Danke alles erledigt, kann alte Rollenbilder wieder in unseren Alltag holen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Stimme",
+    "Geschlecht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2221,
+   "speaker": "Martina Mara",
+   "quote": "fast alle Zeichnungen haben einen mehr oder weniger menschenähnlichen Körper dargestellt aber bei den besonders menschlich klingenden Stimmen wurde es immer detailreich also da kamen Beine und Arme dazu Nasen Gewand Haare",
+   "quote_clean": "Fast alle Zeichnungen haben einen mehr oder weniger menschenähnlichen Körper dargestellt, aber bei den besonders menschlich klingenden Stimmen wurde es immer detailreicher, da kamen Beine und Arme dazu, Nasen, Gewand, Haare.",
+   "statement": "In einer Studie der JKU zeichneten Menschen zu Roboterstimmen fast immer menschenähnliche Körper – je menschlicher die Stimme, desto detailreicher.",
+   "question": "Was zeichneten Studienteilnehmer:innen, nachdem sie eine Roboterstimme gehört hatten?",
+   "answer": "Fast immer einen menschenähnlichen Körper",
+   "distractors": [
+    "Meist einen Lautsprecher",
+    "Meist eine Wolke oder Welle",
+    "Fast immer ein Tier"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ganz ohne Bild, nur mit einer Stimme, entstand im Kopf ein Körper. Bei mechanischen Stimmen waren es abstrakte Figuren, bei menschlichen kamen Haare, Nasen und Gewand dazu. Wer mit Alexa redet, stellt sich also eher eine Frau vor.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Studie",
+    "Stimme"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2704,
+   "speaker": "Andreas Sator",
+   "quote": "aber woran sie in zwei Stunden gescheitert sind ist dass sie die Frau an Steuer kriegen das hat nie funktioniert",
+   "quote_clean": "Aber woran sie in zwei Stunden gescheitert sind, ist, dass sie die Frau ans Steuer kriegen. Das hat nie funktioniert.",
+   "statement": "Eine Gruppe von Freunden schaffte es zwei Stunden lang nicht, ein Bild-KI-Programm eine Frau am Steuer zeichnen zu lassen.",
+   "question": "Woran scheiterte eine Gruppe von Freunden mit einem Bild-KI-Programm zwei Stunden lang?",
+   "answer": "Eine Frau am Steuer zu zeigen",
+   "distractors": [
+    "Fünf Personen in ein Auto zu setzen",
+    "Ein Festivalgelände zu zeichnen",
+    "Gesichter richtig darzustellen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Freundin ist gefahren, aber die KI setzte immer einen Mann ans Steuer. Laut Martina Mara ist das kein Sexismus der Maschine, sondern es gibt schlicht zu wenige Bilder von Frauen am Steuer in den Trainingsdaten.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Bias",
+    "Bild-KI"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2610,
+   "speaker": "Martina Mara",
+   "quote": "dass der der Bub der Junge in der ausgespuckten Geschichte war dann quasi der der super nördige Wissenschaftler der die Welt verändert hat mit seiner mit seiner Intelligenz und Kompetenz und das Mädchen hat den Traumberuf Künstlerin ergriffen",
+   "quote_clean": "Dass der Junge in der ausgespuckten Geschichte dann quasi der supernerdige Wissenschaftler war, der die Welt verändert hat mit seiner Intelligenz und Kompetenz, und das Mädchen hat den Traumberuf Künstlerin ergriffen.",
+   "statement": "Bat man ChatGPT um eine Geschichte über ein Mädchen und einen Jungen, die ihren Traumberuf erreichen, wurde der Junge Wissenschaftler und das Mädchen Künstlerin.",
+   "question": "Welchen Traumberuf gab ChatGPT dem Mädchen in Martina Maras Test-Geschichte, während der Junge Wissenschaftler wurde?",
+   "answer": "Künstlerin",
+   "distractors": [
+    "Ärztin",
+    "Lehrerin",
+    "Astronautin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Bub verändert mit Intelligenz die Welt, das Mädchen wird glücklich, weil es mit Kunst die Herzen berührt. Die KI hält uns damit nur einen Spiegel vor, denn sie hat aus unseren Texten gelernt.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Bias",
+    "Stereotype"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3123,
+   "speaker": "Martina Mara",
+   "quote": "dass Menschen die sich einsamer fühlen sogar einem total mechanisch aussehenden Roboterarm sowas wie Sozialität m zuusprechen also den eher so als soziales gegenüber dann betrachten als Menschen die sich nicht einsam fühlen",
+   "quote_clean": "Dass Menschen, die sich einsamer fühlen, sogar einem total mechanisch aussehenden Roboterarm so etwas wie Sozialität zusprechen, ihn also eher als soziales Gegenüber betrachten als Menschen, die sich nicht einsam fühlen.",
+   "statement": "Einsame Menschen sehen sogar in einem mechanisch aussehenden Roboterarm eher ein soziales Gegenüber als nicht einsame Menschen.",
+   "question": "Welche Menschen sehen laut Studien sogar in einem mechanischen Roboterarm eher ein soziales Gegenüber?",
+   "answer": "Menschen, die sich einsam fühlen",
+   "distractors": [
+    "Menschen mit Technikstudium",
+    "Ältere Menschen über 70",
+    "Menschen ohne Haustiere"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Vermenschlichen hängt nicht nur vom Design der Maschine ab, sondern auch von uns. Wer ein starkes Bedürfnis nach Kontakt hat, sieht schneller jemanden, wo eigentlich nur ein Greifarm ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Einsamkeit",
+    "Roboter"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3435,
+   "speaker": "Martina Mara",
+   "quote": "Menschen die bisschen besser drüber bescheid wissen wie künstliche Intelligenz funktioniert was da alles dran hängt welche Implikationen das hat die vermenschlichen die Systeme weniger",
+   "quote_clean": "Menschen, die ein bisschen besser darüber Bescheid wissen, wie künstliche Intelligenz funktioniert, was da alles dranhängt, welche Implikationen das hat, die vermenschlichen die Systeme weniger.",
+   "statement": "Wer besser versteht, wie künstliche Intelligenz funktioniert, vermenschlicht KI-Systeme weniger und hat ein realistischeres Bild von Chancen und Risiken.",
+   "question": "Was hilft laut Forschung am meisten dagegen, KI-Systeme zu vermenschlichen?",
+   "answer": "Wissen darüber, wie KI funktioniert",
+   "distractors": [
+    "Weniger Zeit am Handy",
+    "Mehr Kontakt mit Tieren",
+    "KI nur schriftlich zu nutzen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer weiß, was ein neuronales Netz oder ein Algorithmus ist, sieht KI nicht durch die rosarote Brille, hat aber auch weniger diffuse Science-Fiction-Ängste. Mehr Reality Check, weniger Reinfallen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "KI-Kompetenz",
+    "Bildung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1977,
+   "speaker": "Martina Mara",
+   "quote": "Roboters der da in in menschenähnlicher Körpergestalt bei mir ein Geschirrspüler einräumt oder so also das das gibt's de facto nicht das ist so ein Medienbild das oft verbreitet wird",
+   "quote_clean": "Der Haushaltsroboter, der da in menschenähnlicher Körpergestalt bei mir den Geschirrspüler einräumt, das gibt's de facto nicht. Das ist so ein Medienbild, das oft verbreitet wird.",
+   "statement": "Menschenähnliche Haushaltsroboter, die etwa den Geschirrspüler einräumen, gibt es de facto nicht, weil stabile Motorik für Roboter extrem schwierig ist.",
+   "question": "Wie verbreitet sind menschenähnliche Haushaltsroboter, die den Geschirrspüler einräumen, laut Martina Mara?",
+   "answer": "Die gibt es de facto nicht",
+   "distractors": [
+    "In jedem zehnten Haushalt in Japan",
+    "In vielen Pflegeheimen",
+    "Bei Tech-Firmen schon im Alltag"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Bild kennen wir aus Science-Fiction, aber die Motorik und die physische Interaktion stabil hinzukriegen ist enorm schwer. Die KI im Chatfenster ist in unserem Alltag längst viel weiter als der Roboter in der Küche.",
+   "difficulty": 1,
+   "time_sensitive": true,
+   "tags": [
+    "Roboter",
+    "Haushalt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1349,
+   "speaker": "Martina Mara",
+   "quote": "und da gehört das Erleben von Kompetenz und Autonomie dazu also das sind zwei dieser drei Grundbedürfnisse das dritte ist soziale Verbundenheit",
+   "quote_clean": "Und da gehört das Erleben von Kompetenz und Autonomie dazu, das sind zwei dieser drei Grundbedürfnisse. Das dritte ist soziale Verbundenheit.",
+   "statement": "Laut der Theorie der psychologischen Grundbedürfnisse brauchen Menschen Autonomie, Kompetenzerleben und soziale Verbundenheit.",
+   "question": "Welches psychologische Grundbedürfnis gehört neben Autonomie und Kompetenz zu den drei großen?",
+   "answer": "Soziale Verbundenheit",
+   "distractors": [
+    "Sicherheit",
+    "Anerkennung",
+    "Abwechslung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Diese drei Bedürfnisse teilen fast alle Menschen auf der Welt. Wer sich bei der Arbeit mit KI weniger kompetent erlebt, verliert auch Motivation, darum lohnt es sich, KI als Werkzeug und nicht als Ersatz fürs eigene Hirn zu nutzen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Psychologie",
+    "Motivation"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 316,
+   "speaker": "Martina Mara",
+   "quote": "drüber nachdenken wie das so wäre wenn wenn Pferde oder Katzen zeichnen könnten wie sich die dann so ihre Gottes Figuren vorstellen würden würd man davon ausgehen dass sich Pferde wahrchein dann auch Götter in pferdeform hinzeichnen würden",
+   "quote_clean": "Darüber nachdenken, wie das so wäre, wenn Pferde oder Katzen zeichnen könnten, wie die sich dann ihre Gottesfiguren vorstellen würden. Man würde davon ausgehen, dass Pferde wahrscheinlich dann auch Götter in Pferdeform hinzeichnen würden.",
+   "statement": "Dass Menschen sich Götter menschenähnlich vorstellen, ist Anthropomorphismus – Pferde würden ihre Götter wohl als Pferde zeichnen.",
+   "question": "Wie würden Pferde ihre Götter laut Martina Mara wohl zeichnen, wenn sie es könnten?",
+   "answer": "In Pferdeform",
+   "distractors": [
+    "Als Menschen",
+    "Als Lichtgestalt",
+    "Als riesige Sonne"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wir stellen uns das Allmächtige in unserer eigenen Gestalt vor, mit allen Stärken und Schwächen, siehe Zeus und seine Flirt-Tricks. Naheliegend und ein bisschen narzisstisch, sagt Martina Mara.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Religion",
+    "Anthropomorphismus"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1837,
+   "speaker": "Martina Mara",
+   "quote": "einfach die schnellst verfügbare erklärmöglichkeit das System möchte etwas möchte freundlich sein das liegt wahrscheinlich daran weil es so ähnlich ist wie ich ja wir schließen bei Anthropomorphismus ja auch von uns selbst auf das andere",
+   "quote_clean": "Einfach die schnellste verfügbare Erklärmöglichkeit: Das System möchte etwas, möchte freundlich sein. Das liegt wahrscheinlich daran, weil es so ähnlich ist wie ich. Wir schließen bei Anthropomorphismus ja von uns selbst auf das andere.",
+   "statement": "Anthropomorphismus ist die schnellste verfügbare Erklärung: Wir schließen von uns selbst auf die Maschine.",
+   "question": "Warum vermenschlichen wir Maschinen laut Martina Mara so schnell?",
+   "answer": "Es ist die einfachste verfügbare Erklärung",
+   "distractors": [
+    "Weil wir es in der Schule lernen",
+    "Weil Maschinen es uns vorschreiben",
+    "Weil es nur Kinder tun"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Schreibt ein Chatbot „Ich möchte dir helfen“, greifen wir zur bequemsten Erklärung: Der ist halt freundlich, so wie ich. Wer genau weiß, dass das an Trainingsdaten liegt, braucht dieses Schema seltener.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Psychologie",
+    "Chatbots"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2407,
+   "speaker": "Martina Mara",
+   "quote": "wenn man natürlich ki-ysteme mit Millionen von Fotos oder Bildern von Frauen und Männern füttert so wie sie halt jahrzehntelang dargestellt wurden Kern immer aus der Vergangenheit aus Daten aus der Vergangenheit Muster dann darf man sich nicht wundern weil uns ja immer nur ein Spiegel vorhalten kann",
+   "quote_clean": "Wenn man KI-Systeme mit Millionen von Fotos oder Bildern von Frauen und Männern füttert, so wie sie halt jahrzehntelang dargestellt wurden, lernt sie immer aus Daten aus der Vergangenheit Muster. Dann darf man sich nicht wundern, weil sie uns ja immer nur einen Spiegel vorhalten kann.",
+   "statement": "KI lernt Muster aus Daten der Vergangenheit und hält uns deshalb einen Spiegel unserer Stereotype vor.",
+   "question": "Warum spucken Bild-KIs oft klischeehafte Darstellungen von Frauen und Männern aus?",
+   "answer": "Sie lernen aus alten Bilddaten",
+   "distractors": [
+    "Die Entwickler wollen das so",
+    "Klischees sind leichter zu rechnen",
+    "Nutzer:innen bestellen sie so"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die KI kennt nur, was wir ihr jahrzehntelang gezeigt haben. Man kann das technisch ausbessern, aber man kann den Spiegel auch nutzen und sich anschauen, wie es um unsere eigenen Rollenbilder steht.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Bias",
+    "Daten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3003,
+   "speaker": "Martina Mara",
+   "quote": "aber es wird immer einseitig sein weil im Endeffekt wird die Maschine niemals Empfindungen für mich haben können sich wirklich um mich kümmern können sondern immer davon abhängig sein was das Unternehmen dahinter halt da gerade so reinprogrammiert",
+   "quote_clean": "Aber es wird immer einseitig sein, weil im Endeffekt wird die Maschine niemals Empfindungen für mich haben können, sich wirklich um mich kümmern können, sondern immer davon abhängig sein, was das Unternehmen dahinter gerade so reinprogrammiert.",
+   "statement": "Eine Liebesbeziehung mit einer KI bleibt immer einseitig, weil die Maschine keine Empfindungen haben kann und vom Unternehmen dahinter abhängt.",
+   "question": "Wer hat's gesagt: „Es wird immer einseitig sein, weil im Endeffekt wird die Maschine niemals Empfindungen für mich haben können“?",
+   "answer": "Martina Mara",
+   "distractors": [
+    "Andreas Sator",
+    "Kate Crawford",
+    "Sam Altman"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Roboterpsychologin hält es für nicht ausgeschlossen, dass man sich in eine KI verliebt, so wie der Protagonist in „Her“. Erwidert wird das aber nie, das Gegenüber ist ein Produkt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Liebe",
+    "KI"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1465,
+   "speaker": "Martina Mara",
+   "quote": "also nicht immer für alles die KI Fragen sondern wir könnten das mal umdrehen und versuchen dass wir der KI sagen hey stell uns auf die Probe stell mir Fragen",
+   "quote_clean": "Also nicht immer für alles die KI fragen, sondern wir könnten das mal umdrehen und versuchen, dass wir der KI sagen: Hey, stell uns auf die Probe, stell mir Fragen.",
+   "statement": "Statt die KI alles zu fragen, kann man den Spieß umdrehen und sich von ihr Fragen stellen lassen, um selbst kreativ zu werden.",
+   "question": "Welchen Tipp gibt Martina Mara, um mit KI kreativer zu werden?",
+   "answer": "Sich von der KI Fragen stellen lassen",
+   "distractors": [
+    "Immer mehrere KIs vergleichen",
+    "Nur auf Englisch prompten",
+    "Die KI alles schreiben lassen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Motto: „Don’t prompt AI, let AI prompt you.“ So bleibt das eigene Hirn eingeschaltet und man erlebt sich selbst als kompetent, was gut für die Motivation ist. Andreas will es gleich beim nächsten Folgentitel probieren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kreativität",
+    "Prompts"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1313,
+   "speaker": "Andreas Sator",
+   "quote": "mach neue denk an das noch und und hab dem so viel Kompetenz zugewiesen dass ich eigentlich mein eigenes Hirn abgeschaltet habe",
+   "quote_clean": "Mach neue, denk an das noch, und hab dem so viel Kompetenz zugewiesen, dass ich eigentlich mein eigenes Hirn abgeschaltet habe.",
+   "statement": "Andreas übernahm KI-Vorschläge für YouTube-Titel so unkritisch, dass er sein eigenes Hirn abschaltete – und die Titel funktionierten nicht.",
+   "question": "Was ist Andreas bei den YouTube-Titeln passiert, die er sich von ChatGPT vorschlagen ließ?",
+   "answer": "Er hat sein eigenes Hirn abgeschaltet",
+   "distractors": [
+    "Die KI hat sich geweigert",
+    "Die Titel gingen viral",
+    "YouTube hat sie gesperrt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ausgerechnet der Journalist, der sich ständig mit KI beschäftigt, hat die Vorschläge brav übernommen. Zwei Tage später sah er: Das ist einfach Mist. Ein schönes Beispiel dafür, wie leicht man einer Maschine zu viel Kompetenz zuschreibt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "ChatGPT"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 4031,
+   "speaker": "Andreas Sator",
+   "quote": "der Homepage verlinkt liebe Martina danke für deine Zeit was nehme ich mir mit erstens Menschen sehen in allem Menschen ob das jetzt Blitze sind Wolken Hunde Staubsaugerroboter oder KI sprachmodelle",
+   "quote_clean": "Liebe Martina, danke für deine Zeit. Was nehme ich mir mit? Erstens: Menschen sehen in allem Menschen, ob das jetzt Blitze sind, Wolken, Hunde, Staubsaugerroboter oder KI-Sprachmodelle.",
+   "statement": "Andreas fasst am Ende jeder Folge mit der Frage „Was nehme ich mir mit?“ seine Learnings zusammen.",
+   "question": "Mit welcher Frage leitet Andreas am Ende der Folge seine Zusammenfassung ein?",
+   "answer": "„Was nehme ich mir mit?“",
+   "distractors": [
+    "„Was haben wir gelernt?“",
+    "„Was bleibt hängen?“",
+    "„Was heißt das für uns?“"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Sein Learning Nummer eins diesmal: Menschen sehen in allem Menschen, von Blitzen über Wolken bis zum Staubsaugerroboter. Das hilft beim Erklären der Welt, führt uns aber regelmäßig in die Irre.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Abschluss"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "320",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

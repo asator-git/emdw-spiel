@@ -1,0 +1,285 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=277 passt, Jahr historisch korrekt (Jan van Riebeeck, 1652); Aha deckt sich mit 267-312.",
+   "stand_note": "",
+   "statement": "1652 errichteten die Holländer am Kap einen kleinen Stützpunkt, aus dem später Kapstadt wurde.",
+   "question": "In welchem Jahr gründeten die Holländer den Stützpunkt, aus dem Kapstadt wurde?",
+   "answer": "1652",
+   "distractors": [
+    "1488",
+    "1712",
+    "1806"
+   ],
+   "aha": "Die Portugiesen sind vorher nur ums Kap herumgesegelt und haben Wasser aufgenommen. Die Holländer sind geblieben, haben zuerst mit Glasperlen und Kupferdraht getauscht und sich dann mit besseren Waffen immer tiefer ins Land geschoben.",
+   "quote_clean": "1652 kamen die Holländer, die einen kleinen Stützpunkt errichtet haben, aus dem heute Kapstadt entstanden ist.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg t=379 passt; Sauer sagt 'quasi selbstständig', daher Frage entsprechend präzisiert (1961 wäre als Republik ebenfalls ein Kandidat).",
+   "stand_note": "",
+   "statement": "Südafrika wurde 1910 quasi selbstständig, das Wahlrecht blieb aber auf Weiße beschränkt.",
+   "question": "In welchem Jahr wurde Südafrika laut Walter Sauer „quasi selbstständig“ und war keine Kolonie mehr?",
+   "answer": "1910",
+   "distractors": [
+    "1867",
+    "1948",
+    "1961"
+   ],
+   "aha": "Selbstständig hieß aber nicht frei für alle: Wählen und Gesetze machen durften nur die Weißen. So konnten sie über Jahrzehnte ein Diskriminierungsgesetz nach dem anderen beschließen.",
+   "quote_clean": "1910 ist Südafrika quasi selbstständig geworden. Es war keine Kolonie mehr. Das Wahlrecht fürs Parlament und daher die Möglichkeit, Gesetze zu beschließen, blieb aber auf die Weißen beschränkt.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "fairness",
+    "ton"
+   ],
+   "note": "Jahr 1948 stimmt; die Gleichsetzung als 'Schwesterpartei der NSDAP' ist Sauers zugespitzte Wertung und wurde als Tatsache entfernt.",
+   "stand_note": "",
+   "statement": "Die Apartheid im strengen Sinn begann 1948, als in Südafrika eine neue Regierung an die Macht kam und die bestehenden Gesetze deutlich verschärfte.",
+   "question": "In welchem Jahr begann die Apartheid im strengen Sinn?",
+   "answer": "1948",
+   "distractors": [
+    "1910",
+    "1933",
+    "1960"
+   ],
+   "aha": "Diskriminierende Gesetze gab es schon davor. Ab 1948 hat die neue Regierung alle bestehenden Gesetze aber massiv verschärft, also nur drei Jahre nach Kriegsende, als Europa gerade mit den Rassengesetzen der Nazis abrechnete.",
+   "quote_clean": "Man sagt eigentlich, die Apartheid im strengen Sinn hätte erst 1948 begonnen, weil damals eine Schwesterpartei der Nationalsozialistischen Partei Deutschlands in Südafrika an die Macht gekommen ist.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg t=325-340 passt; 'bis heute Lebenslinie' im Statement entfernt, weil es sich auf den Rohstoffbereich allgemein bezieht und heute nicht mehr belegt ist.",
+   "stand_note": "",
+   "statement": "Unter den Briten wurden in Südafrika vor allem Diamanten und Gold entdeckt, die das Land extrem reich machten.",
+   "question": "Welche Rohstoffe machten Südafrika unter den Briten extrem reich?",
+   "answer": "Diamanten und Gold",
+   "distractors": [
+    "Erdöl und Erdgas",
+    "Kupfer und Zinn",
+    "Kohle und Eisenerz"
+   ],
+   "aha": "Südafrika hatte die größten Goldvorräte der Welt. Vom Reichtum hatte die schwarze Mehrheit aber nichts, er blieb bei den Europäern, und nicht einmal bei allen.",
+   "quote_clean": "Später sind dann die Briten gekommen. Die hatten das Glück, dass sie die Rohstoffe entdeckt haben, hauptsächlich Diamanten und Gold.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=741-778 passt, historisch korrekt (Verbot von ANC und PAC 1960 nach Sharpeville).",
+   "stand_note": "",
+   "statement": "1960 verbot die südafrikanische Regierung nach einem Polizeimassaker alle Oppositionsorganisationen, auch den ANC.",
+   "question": "Was tat die südafrikanische Regierung 1960 nach einem Polizeimassaker an Demonstrierenden?",
+   "answer": "Sie verbot alle Oppositionsorganisationen",
+   "distractors": [
+    "Sie rief Neuwahlen aus",
+    "Sie schaffte die Passgesetze ab",
+    "Sie bat die UNO um Vermittlung"
+   ],
+   "aha": "Damit war legaler Protest unmöglich. Der ANC ging in den Untergrund, und Mandela war derjenige, der diesen Untergrund organisiert hat. Genau dafür wurde er dann verhaftet.",
+   "quote_clean": "1960 hat die Regierung nach einem Polizeimassaker an unbewaffneten Demonstranten sämtliche oppositionellen Organisationen verboten.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Sauer sagt nur 'ursprünglich Jamaika und Indien'; 'als Erste' ist als Faktenfrage nicht belastbar und die Distraktoren (ebenfalls frühe Kritiker) sind nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Zu den ersten Staaten, die gegen die Apartheid protestierten, gehörten Jamaika und Indien.",
+   "question": "Welche Länder protestierten als Erste international gegen die Apartheid?",
+   "answer": "Jamaika und Indien",
+   "distractors": [
+    "Schweden und Norwegen",
+    "Kenia und Ghana",
+    "Kanada und Australien"
+   ],
+   "aha": "Später kamen die meisten afrikanischen, asiatischen und lateinamerikanischen Staaten dazu, in Europa etwa Schweden. Weil die UNO mit Mehrheit beschließt, hatten die Gegner der Apartheid dort die Oberhand.",
+   "quote_clean": "Ursprünglich Jamaika und Indien. Und dann viele, die meisten afrikanischen, asiatischen und lateinamerikanischen Staaten und auch einige europäische, wie zum Beispiel Schweden.",
+   "quality": 2
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg t=444-474 passt; Distraktor 'Stamm' war nicht eindeutig falsch (Bantustans), ersetzt.",
+   "stand_note": "",
+   "statement": "Unter der Apartheid wurde jedes Neugeborene willkürlich einer sogenannten Rassengruppe zugeordnet, die über sein ganzes Leben entschied.",
+   "question": "Was passierte unter der Apartheid mit jedem neugeborenen Kind?",
+   "answer": "Es wurde einer Rassengruppe zugeteilt",
+   "distractors": [
+    "Es bekam einen Pass mit festem Wohnort",
+    "Es wurde einer Schule zugelost",
+    "Es wurde in ein Religionsregister eingetragen"
+   ],
+   "aha": "Von der Einstufung hing alles ab: Schule, Wohnviertel, Beruf. Absurd war das schon deshalb, weil Hautfarben fließend sind, von rosa bis dunkel, von ebenholzschwarz bis braun.",
+   "quote_clean": "Damals wurde jedes neugeborene Kind zunächst einmal in eine sogenannte Rassengruppe eingestuft. Das war sehr willkürlich, weil, wie wir alle wissen, die Hautfarben variieren.",
+   "quality": 4
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=1651-1660 passt, Tutu leitete die Kommission; Aha deckt sich mit 1673-1693.",
+   "stand_note": "",
+   "statement": "Mandela richtete eine Wahrheits- und Versöhnungskommission ein, die von Erzbischof Desmond Tutu geleitet wurde.",
+   "question": "Wer leitete die Wahrheits- und Versöhnungskommission in Südafrika?",
+   "answer": "Erzbischof Desmond Tutu",
+   "distractors": [
+    "Nelson Mandela selbst",
+    "Frederik Willem de Klerk",
+    "Albert Luthuli"
+   ],
+   "aha": "Die Kommission hat im ganzen Land Anhörungen gemacht: Wer wurde in den Gefängnissen zu Tode gefoltert, von wem, auf wessen Befehl. Laut Walter Sauer hat das das Klima in Südafrika entscheidend verändert.",
+   "quote_clean": "Und was auch wichtig ist: Er hat die Wahrheits- und Versöhnungskommission eingerichtet, die Erzbischof Tutu dann geleitet hat.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "veraltet"
+   ],
+   "note": "Landreform ist politisch umstritten und die Begründung ist Sauers Darstellung des Stands 2018; als Faktenfrage heute einseitig und überholt.",
+   "stand_note": "Stand 2018",
+   "statement": "Die Landreform in Südafrika läuft langsam, weil eine sofortige Umverteilung die Landwirtschaft gefährdet hätte.",
+   "question": "Warum wurde das Land in Südafrika nach der Apartheid nicht sofort umverteilt?",
+   "answer": "Die Landwirtschaft hätte gelitten",
+   "distractors": [
+    "Die Verfassung verbot es",
+    "Es fehlte ein Grundbuch",
+    "Die UNO war dagegen"
+   ],
+   "aha": "Eine Farm zu führen lernt man nicht über Nacht, dazu braucht es Ausbildung, billige Kredite und Saatgut. Deshalb ist die Landreform bis heute im Gang und nicht einfach umgedreht.",
+   "quote_clean": "Weil man gesagt hat: Wenn wir sofort alles Land umverteilen, dann leidet darunter auch die Landwirtschaft. Du brauchst ja entsprechend ausgebildete Bauern, die eine Farm führen können.",
+   "quality": 2
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage bei nur einem Gast; wenig Erkenntnis, Antwort erratbar.",
+   "stand_note": "",
+   "statement": "Auch in hoffnungslosen Situationen kann man sich für ein legitimes Ziel organisieren.",
+   "question": "Wer sagt in der Mandela-Folge: Auch wenn die Situation hoffnungslos erscheint, kannst du dich immer organisieren?",
+   "answer": "Walter Sauer",
+   "distractors": [
+    "Andreas Sator",
+    "Desmond Tutu",
+    "Nelson Mandela"
+   ],
+   "aha": "Walter Sauer war selbst seit Studienzeiten in einem Freundeskreis aktiv, der Mandela unterstützt hat. Weltweit haben tausende Vereine, Gewerkschaften und Kirchen mitgemacht, und am Ende hat es gewirkt.",
+   "quote_clean": "Ich glaube, was wir daraus gelernt haben, war: Auch wenn die Situation hoffnungslos erscheint, du kannst dich immer organisieren für ein Ziel, das legitim ist.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg t=1001-1013 passt, ist aber Sauers persönliche Wertung; Aha enthielt unbelegtes 'viel länger dabei' und wurde bereinigt.",
+   "stand_note": "",
+   "statement": "Österreich trat laut Walter Sauer erst Mitte der 1980er-Jahre deutlicher gegen die Apartheid auf.",
+   "question": "Ab wann ging Österreich laut Walter Sauer deutlicher gegen die Apartheid vor?",
+   "answer": "Erst Mitte der 1980er",
+   "distractors": [
+    "Schon in den 1950ern",
+    "Anfang der 1960er",
+    "Erst nach 1994"
+   ],
+   "aha": "Davor sei Österreich sehr vorsichtig gewesen, sagt Sauer. Erst Mitte der Achtziger hätten die Verantwortlichen dann begriffen, wohin der Hase läuft.",
+   "quote_clean": "Österreich war sehr vorsichtig. Wir hätten uns immer eine deutlichere Politik gegenüber Südafrika gewünscht. Erst Mitte der 80er-Jahre.",
+   "quality": 2
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Persönlicher Eindruck Sauers aus 2018, kein Fakt; heute nicht mehr als Aussage über das Verhältnis haltbar.",
+   "stand_note": "Stand 2018",
+   "statement": "Schwarze und Weiße in Südafrika sind nicht versöhnt, leben aber entspannt zusammen, sagt Walter Sauer.",
+   "question": "Wie beschreibt Walter Sauer das heutige Verhältnis von Schwarzen und Weißen in Südafrika?",
+   "answer": "Nicht versöhnt, aber entspannt",
+   "distractors": [
+    "Vollständig versöhnt",
+    "Weiterhin streng getrennt",
+    "Offen feindselig"
+   ],
+   "aha": "Früher hätten ihm Schwarze auf der Straße nicht in die Augen geschaut, heute klopfen sie ihm auf die Schulter. Normal, sagt er, auch wenn die sozialen Unterschiede groß bleiben.",
+   "quote_clean": "Versöhnt würde ich nicht sagen, weil es immer noch große soziale Unterschiede gibt, aber es ist ein entspanntes Zusammenleben.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=1497-1520 passt, Augenzeugenbericht klar als Sauers Erinnerung formuliert.",
+   "stand_note": "",
+   "statement": "Walter Sauer war bei Mandelas Angelobung in Pretoria; während die Gäste noch am Buffet standen, flog Mandela nach Soweto zu seinen Anhängern.",
+   "question": "Wohin flog Mandela laut Walter Sauer direkt nach seiner Angelobung, während die Gäste am Buffet waren?",
+   "answer": "Ins Stadion nach Soweto",
+   "distractors": [
+    "Nach Robben Island",
+    "Zu seinem Heimatdorf",
+    "Nach Kapstadt ins Parlament"
+   ],
+   "aha": "Walter Sauer war als Ehrengast dabei. Die Botschaft an Zehntausende im Stadion: Ich bin noch einer von euch und nicht Teil der Seitenblicke-Gesellschaft.",
+   "quote_clean": "Während wir nach der Zeremonie noch beim Buffet waren, ist er schon mit dem Hubschrauber nach Soweto ins Stadion geflogen.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Gesprächsmeta-Frage ohne Erkenntnis, Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Andreas fragt, wie Menschen so etwas wie die Apartheid überhaupt anderen antun konnten.",
+   "question": "Welche Frage stellt Andreas, als es darum geht, wie die Apartheid möglich war?",
+   "answer": "Waren die Menschen früher so böse?",
+   "distractors": [
+    "Wer hat das eigentlich erfunden?",
+    "Hat das wirklich niemand bemerkt?",
+    "War das überall so?"
+   ],
+   "aha": "Walter Sauers Antwort: Viele Europäer haben Schwarze gar nicht als Menschen anerkannt. Darum hat man sich kein großes Gewissen daraus gemacht, sie zu schikanieren, und das stand sogar so im Gesetz.",
+   "quote_clean": "Waren die Menschen früher so böse, oder woher kommt das? Wie ist das zustande gekommen?",
+   "quality": 1
+  }
+ ],
+ "id": "17",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

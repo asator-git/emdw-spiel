@@ -1,0 +1,738 @@
+{
+ "theme": "Wirtschaft & Arbeit",
+ "summary": "Architekt Erich Bernard erklärt mir, wie ein Hotel entsteht: vom Musterzimmer über die Kosten pro Schlüssel bis zur Frage, was ein Hotel der Stadt zurückgibt.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 2273,
+   "speaker": "Erich Bernard",
+   "quote": "da werden die ganzen Gestehungskosten sozusagen alles wenn du das ganze Umfeld mitrechnest dann bist du schneller mal ähm bei an der 500.000 pro Zimmer ne also das ist und drüber",
+   "quote_clean": "Da werden die ganzen Gestehungskosten mitgerechnet. Wenn du das ganze Umfeld mitrechnest, dann bist du schnell einmal bei 500.000 pro Zimmer und drüber.",
+   "statement": "Rechnet man bei einem Fünf-Sterne-Hotel alle Gestehungskosten mit ein, kommt man schnell auf rund 500.000 Euro pro Zimmer und mehr.",
+   "question": "Wie viel Euro kostet ein Fünf-Sterne-Hotel pro Zimmer, wenn man alle Baukosten mitrechnet – mindestens?",
+   "answer": "Rund 500.000 Euro",
+   "distractors": [
+    "Rund 80.000 Euro",
+    "Rund 150.000 Euro",
+    "Rund 2 Millionen Euro"
+   ],
+   "number_value": 500000,
+   "number_unit": "Euro pro Zimmer",
+   "slider_min": 20000,
+   "slider_max": 3000000,
+   "log_scale": true,
+   "aha": "In der Branche rechnet man nicht das ganze Haus, sondern pro Zimmer – genauer: pro Schlüssel. Wenn Bau, Umfeld und alles drum herum mitgezählt werden, bist du bei einem Fünf-Sterner schnell bei einer halben Million pro Zimmer. Mit Spa und Fitness geht's Richtung Million.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Hotel",
+    "Baukosten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2293,
+   "speaker": "Erich Bernard",
+   "quote": "pro Zimmer ist pro key ja aber man sagt pro key damit es nicht dieses Missverständnis gibt das Zimmer kostet so viel",
+   "quote_clean": "Pro Zimmer ist pro Key, aber man sagt pro Key, damit es nicht dieses Missverständnis gibt, das Zimmer kostet so viel.",
+   "statement": "In der Hotelbranche rechnet man Investitionskosten „per Key“, also pro Zimmerschlüssel, damit niemand glaubt, das einzelne Zimmer selbst koste so viel.",
+   "question": "In welcher Einheit rechnet die Hotelbranche die Kosten eines neuen Hotels gern?",
+   "answer": "Pro Schlüssel („per Key“)",
+   "distractors": [
+    "Pro Quadratmeter Lobby",
+    "Pro Stockwerk",
+    "Pro Stern der Kategorie"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Hotelleute sagen „per Key“ statt „pro Zimmer“, weil das Zimmer selbst viel weniger kostet als die Summe, die man herauskriegt. Da steckt die ganze Gestehung drin: Fundament, Garage, Küche, Lobby – geteilt durch die Zahl der Schlüssel.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Hotel",
+    "Fachbegriff",
+    "Kosten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2313,
+   "speaker": "Erich Bernard",
+   "quote": "kommst du auf liegt inwo zwischen 150 und 300 000 das Zimmer ja aber wenn du die ganzen Baukosten mitrechnest kriegst du über ein halben Million noch ne",
+   "quote_clean": "Da liegst du irgendwo zwischen 150.000 und 300.000 für das Zimmer. Aber wenn du die ganzen Baukosten mitrechnest, kommst du noch über eine halbe Million.",
+   "statement": "Ein fertiges Zimmer der Fünf-Sterne-Kategorie einzurichten oder umzubauen kostet etwa 150.000 bis 300.000 Euro.",
+   "question": "Was kostet es ungefähr, ein einzelnes Fünf-Sterne-Hotelzimmer einzurichten bzw. umzubauen?",
+   "answer": "150.000 bis 300.000 Euro",
+   "distractors": [
+    "15.000 bis 30.000 Euro",
+    "40.000 bis 60.000 Euro",
+    "800.000 bis 1 Million Euro"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Allein das Zimmer, ohne Haus rundherum, ist in der Luxusklasse schon so teuer wie eine Wohnung. Die halbe Million pro Schlüssel kommt erst zusammen, wenn du Rohbau, Garage und Co. dazurechnest.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Hotel",
+    "Kosten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2360,
+   "speaker": "Erich Bernard",
+   "quote": "das heißt du kannst WN da sagst da sind 100 Zimmer fünf sterern also hohe Kategorie mit Parkgarage mit Fitness mit allem drum und dran muss du schon rechnen mit 80 bis 100 Millionen",
+   "quote_clean": "Das heißt, wenn du sagst, da sind 100 Zimmer, fünf Sterne, also hohe Kategorie, mit Parkgarage, mit Fitness, mit allem Drum und Dran, musst du schon mit 80 bis 100 Millionen rechnen.",
+   "statement": "Ein Fünf-Sterne-Hotel mit 100 Zimmern, Parkgarage und Fitnessbereich kostet etwa 80 bis 100 Millionen Euro.",
+   "question": "Wie viele Millionen Euro kostet ungefähr ein Fünf-Sterne-Hotel mit 100 Zimmern, Garage und Fitness?",
+   "answer": "Etwa 90 Millionen Euro",
+   "distractors": [
+    "Etwa 10 Millionen Euro",
+    "Etwa 30 Millionen Euro",
+    "Etwa 400 Millionen Euro"
+   ],
+   "number_value": 90,
+   "number_unit": "Millionen Euro",
+   "slider_min": 5,
+   "slider_max": 500,
+   "log_scale": true,
+   "aha": "Erich nennt 80 bis 100 Millionen für so ein Haus. Die Rechnung ist simpel: Kosten pro Schlüssel mal Zimmeranzahl – und bei voller Ausstattung geht's pro Schlüssel Richtung einer Million.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Hotel",
+    "Baukosten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2409,
+   "speaker": "Erich Bernard",
+   "quote": "wenn wir jetzt von der rein Bauzeit sprechen ist es was anderes als die gesamte Projektzeit die gesamte Projektzeit würde ich anlegen mit vielleicht 5 Jahren",
+   "quote_clean": "Wenn wir jetzt von der reinen Bauzeit sprechen, ist es etwas anderes als die gesamte Projektzeit. Die gesamte Projektzeit würde ich mit vielleicht fünf Jahren anlegen.",
+   "statement": "Von der ersten Idee bis zur Eröffnung dauert ein großes Fünf-Sterne-Hotelprojekt insgesamt etwa fünf Jahre.",
+   "question": "Wie viele Jahre dauert ein großes Fünf-Sterne-Hotelprojekt insgesamt, von der Planung bis zur Eröffnung?",
+   "answer": "Etwa 5 Jahre",
+   "distractors": [
+    "Etwa 1 Jahr",
+    "Etwa 2 Jahre",
+    "Etwa 12 Jahre"
+   ],
+   "number_value": 5,
+   "number_unit": "Jahre",
+   "slider_min": 1,
+   "slider_max": 15,
+   "log_scale": false,
+   "aha": "Gebaut wird nur einen Teil der Zeit. Davor kommen ein, zwei Jahre, in denen geklärt wird, was überhaupt ins Haus soll – etwa ob das Restaurant für alle offen ist. Das muss man wissen, bevor der erste Plan steht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Hotel",
+    "Bauprojekt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2610,
+   "speaker": "Erich Bernard",
+   "quote": "man 60 zimmerhotel nimmt dann 60 bis 100 sind ist diese Relation per am ausgewogensten",
+   "quote_clean": "Wenn man ein 60-Zimmer-Hotel nimmt – bei 60 bis 100 Zimmern ist diese Relation am ausgewogensten.",
+   "statement": "Wirtschaftlich am ausgewogensten ist ein Hotel mit etwa 60 bis 100 Zimmern; sehr kleine Häuser haben im Verhältnis zu viel Overhead.",
+   "question": "Ab wie vielen Zimmern ist ein Hotel laut Architekt Erich Bernard wirtschaftlich in einer idealen Größe?",
+   "answer": "Ab etwa 60 Zimmern",
+   "distractors": [
+    "Ab etwa 10 Zimmern",
+    "Ab etwa 300 Zimmern",
+    "Ab etwa 1.000 Zimmern"
+   ],
+   "number_value": 60,
+   "number_unit": "Zimmer",
+   "slider_min": 5,
+   "slider_max": 500,
+   "log_scale": true,
+   "aha": "Rezeption, Küche, Personal brauchst du auch bei 20 Zimmern – nur teilen sich dann viel weniger Gäste die Kosten. Zwischen 60 und 100 Zimmern passt das Verhältnis am besten, darum sind Mini-Hotels eher Liebhaberei.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Hotel",
+    "Wirtschaft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2578,
+   "speaker": "Erich Bernard",
+   "quote": "20 Zimmer ist ein ein schon ein bisschen schwierigeres Hotel in der Ökonomie ja also weil weil in dem im Betrieb habe ich relativ großen overheit für relativ wenig Zimmer",
+   "quote_clean": "20 Zimmer ist schon ein bisschen ein schwierigeres Hotel in der Ökonomie, weil ich im Betrieb relativ großen Overhead für relativ wenig Zimmer habe.",
+   "statement": "Ein Hotel mit nur 20 Zimmern ist wirtschaftlich schwierig, weil die fixen Betriebskosten auf sehr wenige Zimmer verteilt werden.",
+   "question": "Warum ist ein Hotel mit nur 20 Zimmern wirtschaftlich schwierig?",
+   "answer": "Zu viel Overhead für zu wenige Zimmer",
+   "distractors": [
+    "Kleine Häuser bekommen keine Sterne",
+    "Banken finanzieren keine kleinen Hotels",
+    "Die Zimmer müssen größer sein"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Fundament, eine Rezeption, eine Küche kostet ungefähr gleich viel, egal ob 20 oder 60 Zimmer dranhängen. Beim kleinen Haus landet also auf jedem Zimmer ein viel größerer Brocken Fixkosten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Hotel",
+    "Wirtschaft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1664,
+   "speaker": "Erich Bernard",
+   "quote": "meistens das Musterzimmer in guten Teilen 50 60 70% dann ist Zimmer ins Zimmer eingebaut",
+   "quote_clean": "Meistens wird das Musterzimmer zu guten Teilen, 50, 60, 70 Prozent, dann ins Zimmer eingebaut.",
+   "statement": "Ein Musterzimmer wird meist nicht weggeworfen: Rund 50 bis 70 Prozent davon werden später ins fertige Hotelzimmer übernommen.",
+   "question": "Wie viel Prozent eines Hotel-Musterzimmers werden meistens später ins fertige Zimmer übernommen?",
+   "answer": "Etwa 60 Prozent",
+   "distractors": [
+    "Etwa 5 Prozent",
+    "Etwa 20 Prozent",
+    "Etwa 100 Prozent"
+   ],
+   "number_value": 60,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Das Musterzimmer ist ein echtes Zimmer im Haus, an dem eine Zeit lang herumgebastelt wird. Was passt, bleibt drin – Möbel, aber auch Kästen. Weggeworfen wird möglichst wenig.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Hotel",
+    "Musterzimmer"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1527,
+   "speaker": "Erich Bernard",
+   "quote": "manchmal macht man macht immer Musterzimmer also es wird immer ein Musterzimmer hergestellt",
+   "quote_clean": "Man macht immer ein Musterzimmer, es wird immer ein Musterzimmer hergestellt.",
+   "statement": "Bei Hotelprojekten wird immer ein Musterzimmer gebaut, an dem man Materialien, Möbel und Abläufe in echt ausprobiert.",
+   "question": "Was wird bei Hotelprojekten immer gebaut, bevor alle Zimmer fertiggestellt werden?",
+   "answer": "Ein Musterzimmer",
+   "distractors": [
+    "Ein Modell im Maßstab 1:100",
+    "Eine Musterlobby",
+    "Ein Probe-Restaurant"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am Computer schaut alles super aus, aber angreifen kannst du es nicht. Darum baut man ein echtes Zimmer, setzt sich hinein, schaut sich das Licht zu verschiedenen Tageszeiten an – und schläft manchmal sogar eine Nacht drin.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Hotel",
+    "Architektur"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1569,
+   "speaker": "Erich Bernard",
+   "quote": "hfiges Thema sind die Lichtschalter sind die wirklich alle so wie man gedacht haben kann ich das Licht wirklich vom Bett aus ausschalten",
+   "quote_clean": "Ein häufiges Thema sind die Lichtschalter: Sind die wirklich alle so, wie man gedacht hat? Kann ich das Licht wirklich vom Bett aus ausschalten?",
+   "statement": "Beim Probewohnen in einem neuen Hotel sind die Lichtschalter ein häufiger Schwachpunkt – etwa ob man das Licht vom Bett aus abdrehen kann.",
+   "question": "Was ist laut Architekt ein häufiger Schnitzer, den man beim Probewohnen in neuen Hotelzimmern entdeckt?",
+   "answer": "Die Lichtschalter",
+   "distractors": [
+    "Die Türschlösser",
+    "Die Duschköpfe",
+    "Die Vorhangschienen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kennst du eh: Du liegst im Bett und irgendein Lamperl brennt noch. Oft gibt's viel zu viele Schalter, die man fünfmal abklappern muss. Genau so was schreiben sich Architekt:innen beim Probewohnen auf ihre Liste.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Hotel",
+    "Alltag"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 177,
+   "speaker": "Erich Bernard",
+   "quote": "hospitality ist ein bisschen weit gefasst weil da geht's nicht nur um Hotels es geht viele glauben es geht um spitäer spitäer sind nicht hospitä und es geht es geht auch um Gastronomie",
+   "quote_clean": "Hospitality ist ein bisschen weit gefasst, weil es da nicht nur um Hotels geht. Viele glauben, es geht um Spitäler – Spitäler sind nicht Hospitality –, und es geht auch um Gastronomie.",
+   "statement": "Der Begriff „Hospitality“ umfasst Hotels und Gastronomie, also alles, wo es um Gäste geht – nicht aber Spitäler.",
+   "question": "Was gehört NICHT zum Bereich „Hospitality“, obwohl viele es glauben?",
+   "answer": "Spitäler",
+   "distractors": [
+    "Hotels",
+    "Restaurants",
+    "Cafés"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Hospital und Hospitality klingen verwandt, und sprachlich sind sie das auch. Aber in der Branche meint Hospitality alles, wo es um Gäste geht: Hotels, Restaurants, Bars. Patient:innen zählen da nicht dazu.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Fachbegriff",
+    "Hotel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 390,
+   "speaker": "Erich Bernard",
+   "quote": "den FNB Manager FNB das heißt food and beverage also der der fürs Essen und Trinken in dem Haus zuständig ist",
+   "quote_clean": "Den F&B-Manager – F&B heißt Food and Beverage, also der, der fürs Essen und Trinken im Haus zuständig ist.",
+   "statement": "Im Hoteljargon steht „F&B“ für Food and Beverage, also für alles rund ums Essen und Trinken im Haus.",
+   "question": "Wofür steht die Abkürzung „F&B“ im Hoteljargon?",
+   "answer": "Food and Beverage",
+   "distractors": [
+    "Front and Back Office",
+    "Facility and Building",
+    "Finance and Booking"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der F&B-Manager kümmert sich ums Essen und Trinken im Hotel – vom Frühstück bis zum Kaffee zwischendurch. Und das ist laut Erich oft der Schlüssel, damit überhaupt Leute von außen ins Haus kommen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fachbegriff",
+    "Gastronomie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 732,
+   "speaker": "Erich Bernard",
+   "quote": "es gibt natürlich einen großen Anteil bewegliche Möbel loose furniture wie man das im fachchargon nennt die die viel von der Stimmung ausmachen",
+   "quote_clean": "Es gibt natürlich einen großen Anteil beweglicher Möbel, Loose Furniture, wie man das im Fachjargon nennt, die viel von der Stimmung ausmachen.",
+   "statement": "Bewegliche Möbel heißen im Fachjargon „Loose Furniture“ und machen einen großen Teil der Stimmung eines Raumes aus.",
+   "question": "Wie heißen bewegliche Möbel wie Sessel und Tischerl im Fachjargon der Innenarchitektur?",
+   "answer": "Loose Furniture",
+   "distractors": [
+    "Soft Furniture",
+    "Free Furniture",
+    "Light Furniture"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Neben Wänden, Böden und Licht ist es oft das, was man herumschieben kann, das einen Raum gemütlich macht. Darum haben die bewegten Stücke in der Planung einen eigenen Namen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fachbegriff",
+    "Interior"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1789,
+   "speaker": "Erich Bernard",
+   "quote": "Steinzeug sind fließen mit also Keramik fließen ein natürliches Material hoch gebrannt mehrmals gebrannt mit Oberflächen die fotografisch fototechnisch praktisch alles darstellen können du kannst auf Steinzeug Holz darstellen du kannst auf Steinzeug Stein darstellen",
+   "quote_clean": "Steinzeug sind Fliesen, also Keramikfliesen, ein natürliches Material, hoch gebrannt, mehrmals gebrannt, mit Oberflächen, die fototechnisch praktisch alles darstellen können. Du kannst auf Steinzeug Holz darstellen, du kannst auf Steinzeug Stein darstellen.",
+   "statement": "Feinsteinzeug-Fliesen sind hoch gebrannte Keramik, deren Oberfläche fototechnisch fast alles imitieren kann, etwa Holz oder Stein.",
+   "question": "Was können Steinzeug-Fliesen dank fototechnisch bedruckter Oberfläche imitieren?",
+   "answer": "Fast alles, etwa Holz oder Stein",
+   "distractors": [
+    "Nur andere Fliesenfarben",
+    "Nur Metall und Glas",
+    "Nur glatte Betonflächen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Steinzeug kann ausschauen wie Eichenparkett oder Marmor. Am Bildschirm wirkt das täuschend echt – erst im Musterzimmer merkst du, dass es halt nicht das Echte ist. Dann nimmt man es manchmal doch lieber einfach als Fliese.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Material",
+    "Interior"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1346,
+   "speaker": "Erich Bernard",
+   "quote": "dass wir der Zeit gelernt haben dass man dass ein Zimmer nicht kleiner wird wenn mehr drin ist sondern eher größer wird wenn mehr drin ist weil man das Gefühl hat es ist se alles da",
+   "quote_clean": "Wir haben mit der Zeit gelernt, dass ein Zimmer nicht kleiner wird, wenn mehr drin ist, sondern eher größer, weil man das Gefühl hat, es ist eh alles da.",
+   "statement": "Ein kleines Hotelzimmer wirkt nicht kleiner, wenn mehr darin steht, sondern eher größer, weil man das Gefühl hat, es ist alles da.",
+   "question": "Was passiert laut Architekt Erich Bernard mit der gefühlten Größe eines kleinen Hotelzimmers, wenn mehr darin steht?",
+   "answer": "Es wirkt eher größer",
+   "distractors": [
+    "Es wirkt deutlich kleiner",
+    "Es wirkt gleich groß",
+    "Es wirkt höher, aber schmäler"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Klingt verkehrt, aber Leere wirkt in einem kleinen Raum schnell karg. Wenn alles da ist – gutes Bett, Sitzecke, ein Teppich –, vergisst man die Quadratmeter. Wichtig ist nur, dass man verdichtet und nicht vollstopft.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Interior",
+    "Raumwirkung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 984,
+   "speaker": "Erich Bernard",
+   "quote": "weil der Wiener wie man so schön sagt geht nicht in Hotels das ist sozusagen ein Game den man äh den man so in der Branche sich immer gesagt hat der Wiener geht nicht in Hotels",
+   "quote_clean": "Weil der Wiener, wie man so schön sagt, nicht in Hotels geht. Das hat man sich in der Branche immer gesagt: Der Wiener geht nicht in Hotels.",
+   "statement": "In der Wiener Hotelbranche galt lange der Spruch „Der Wiener geht nicht in Hotels“ – Einheimische mieden Hotelrestaurants und -bars weitgehend, mit Ausnahmen wie dem Sacher.",
+   "question": "Welcher Spruch galt in der Wiener Hotelbranche lange als Gesetz?",
+   "answer": "„Der Wiener geht nicht in Hotels“",
+   "distractors": [
+    "„Der Wiener frühstückt nur im Kaffeehaus“",
+    "„Der Wiener bucht nie online“",
+    "„Der Wiener übernachtet nur bei Verwandten“"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Hotels waren für Tourist:innen, die Wiener:innen gingen ins Beisl oder ins Kaffeehaus. Neue Häuser wollen genau das ändern – mit offener Küche, eigenem Eingang fürs Lokal und einer Bar, an der immer wer steht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wien",
+    "Hotel",
+    "Gastronomie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1147,
+   "speaker": "Erich Bernard",
+   "quote": "ich habe einen eigenen Hoteleingang z.B daneben das endet am gleichen Punkt innen ja aber trotzdem ist das Gefühl ich gehe es Wiener nicht durch den Hoteleingang rein aber als Hotelgast gehe ich nicht bei einem gasaus rein",
+   "quote_clean": "Ich habe zum Beispiel einen eigenen Hoteleingang daneben. Das endet innen am gleichen Punkt, aber trotzdem ist das Gefühl: Ich gehe als Wiener nicht durch den Hoteleingang rein, und als Hotelgast gehe ich nicht bei einem Gasthaus rein.",
+   "statement": "Damit auch Einheimische ein Hotellokal besuchen, helfen getrennte Eingänge für Hotel- und Restaurantgäste, auch wenn beide innen am selben Punkt ankommen.",
+   "question": "Mit welchem architektonischen Trick bringt man Einheimische dazu, in ein Hotelrestaurant zu gehen?",
+   "answer": "Eigener Eingang fürs Lokal",
+   "distractors": [
+    "Kein Spiegel in der Lobby",
+    "Rezeption im ersten Stock",
+    "Gratis-Parkplätze vor dem Haus"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Niemand will an einer Rezeption vorbei, die einen fragend anschaut: Sind Sie überhaupt Gast hier? Mit zwei Eingängen, die innen zusammenführen, fühlen sich beide richtig – der Tourist im Hotel und die Wienerin im Lokal.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Architektur",
+    "Gastronomie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 874,
+   "speaker": "Erich Bernard",
+   "quote": "da muss man sich die Frage stellen ist Hotel eigentlich nur Schmarotzer von dem was die Stadt bietet und und die Einwohner der Stadt auch mitbieten oder bietet ein Hotel der Stadt auch was",
+   "quote_clean": "Da muss man sich die Frage stellen: Ist ein Hotel eigentlich nur Schmarotzer von dem, was die Stadt bietet und die Einwohner der Stadt mitbieten, oder bietet ein Hotel der Stadt auch etwas?",
+   "statement": "Weil eine Stadt mit Denkmälern und Atmosphäre die Gäste anzieht, stellt sich für jedes Hotel die Frage, ob es nur davon profitiert oder der Stadt auch etwas zurückgibt.",
+   "question": "Welche Frage stellt sich Architekt Erich Bernard bei jedem Hotelprojekt gegenüber der Stadt?",
+   "answer": "Ob das Hotel der Stadt etwas zurückgibt",
+   "distractors": [
+    "Ob das Hotel höher als die Nachbarn ist",
+    "Ob das Hotel genug Parkplätze hat",
+    "Ob das Hotel eine Kette werden kann"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wien steckt viel Geld in Denkmäler und Tourismus – davon leben die Hotels. Erich nennt das eine fast ethische Frage: Ist ein Hotel bloß Schmarotzer, oder öffnet es sich für die Leute, die dort wohnen? Am Land gilt das noch mehr.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Stadt",
+    "Tourismus"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1899,
+   "speaker": "Erich Bernard",
+   "quote": "die Hotellerie muss man sagen hat sich in Wien wenn man Wien als Beispiel nimmt aber es gilt für viele es gilt für die generelle Tendenz vom bedarfsdecker zur zur zum Zusatznutzen entwickelt",
+   "quote_clean": "Die Hotellerie hat sich, wenn man Wien als Beispiel nimmt – aber es gilt für die generelle Tendenz –, vom Bedarfsdecker zum Zusatznutzen entwickelt.",
+   "statement": "Hotels haben sich vom reinen Bedarfsdecker – ein Dach über dem Kopf – zu Orten mit Zusatznutzen und Erlebnis entwickelt.",
+   "question": "Wer sagt im Podcast: Die Hotellerie hat sich „vom Bedarfsdecker zum Zusatznutzen entwickelt“?",
+   "answer": "Erich Bernard",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Sacher-Direktor",
+    "Eine Hörerin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Früher reichte ein Bett zum Schlafen. Heute konkurrieren so viele Häuser, dass nur über Preis und Dach überm Kopf keiner mehr bestehen kann – das Hotel wird selbst zur Destination.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Hotel",
+    "Wandel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2010,
+   "speaker": "Erich Bernard",
+   "quote": "so gesehen kann man sagen ja Wien braucht noch mehr gute Hotels aber mit jedem neuen Hotel fallen andere Weg das ist es ist ja verdrehungsmarkt",
+   "quote_clean": "So gesehen kann man sagen: Ja, Wien braucht noch mehr gute Hotels, aber mit jedem neuen Hotel fallen andere weg. Es ist ja ein Verdrängungsmarkt.",
+   "statement": "Der Hotelmarkt ist ein Verdrängungsmarkt: Mit jedem neuen guten Hotel fallen Häuser weg, die sich keine Gedanken über ihre Gäste machen.",
+   "question": "Wie beschreibt Erich Bernard den Hotelmarkt in Wien?",
+   "answer": "Als Verdrängungsmarkt",
+   "distractors": [
+    "Als Monopolmarkt",
+    "Als gesättigten Stillstand",
+    "Als reinen Preiskampf"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Auf die Frage „Braucht Wien noch ein Hotel?“ sagt Erich: ja, gute schon. Denn es gibt genug Häuser, die sich nie gefragt haben, was der Gast gern hätte – und die fallen dann eben unten raus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wien",
+    "Hotelmarkt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2223,
+   "speaker": "Erich Bernard",
+   "quote": "Hotel ohne Gastronomie ist ein bisschen näher an der Bedarfsdeckung als am erlebennis",
+   "quote_clean": "Ein Hotel ohne Gastronomie ist ein bisschen näher an der Bedarfsdeckung als am Erlebnis.",
+   "statement": "Ein Hotel ohne Gastronomie ist eher Bedarfsdeckung als Erlebnis.",
+   "question": "Wer sagt: „Ein Hotel ohne Gastronomie ist ein bisschen näher an der Bedarfsdeckung als am Erlebnis“?",
+   "answer": "Erich Bernard",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Wiener Koch",
+    "Ein Tourismusminister"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Erich sind die schönsten Hotels die, in denen Hotellerie und Gastronomie zusammenwachsen. Es geht in beiden um dasselbe: dass sich jemand wohlfühlt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Hotel",
+    "Gastronomie"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 2162,
+   "speaker": "Erich Bernard",
+   "quote": "sag warum sind im Hotel Business alle Leute so nett ja also weil für uns Architekten war das auch neu",
+   "quote_clean": "Ich habe gefragt: Warum sind im Hotelbusiness alle Leute so nett? Für uns Architekten war das auch neu.",
+   "statement": "Erich Bernard fragte einen langjährigen Direktor des Hotel Sacher, warum im Hotelbusiness alle so nett seien – die Antwort: Wären sie nicht nett, wären sie nicht in der Hotellerie.",
+   "question": "Was antwortete ein langjähriger Sacher-Direktor auf die Frage, warum in der Hotellerie alle so nett sind?",
+   "answer": "Sonst wären sie nicht in der Hotellerie",
+   "distractors": [
+    "Weil das Trinkgeld davon abhängt",
+    "Weil es so in der Ausbildung steht",
+    "Weil die Gäste sonst Sterne abziehen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine kurze Antwort, die viel sagt: In einer Branche, in der sich alles ums Wohlbefinden der Gäste dreht, bleibt nur, wer das auch mag. Für Architekt:innen war der gepflegte Umgang offenbar ein Kulturschock – im positiven Sinn.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Hotellerie",
+    "Anekdote"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2763,
+   "speaker": "Erich Bernard",
+   "quote": "die mit der besten Aussicht sagen mal so sind in Istanbul die schlechtesten Orte weil du die sind meist hoch oben in den Gebäuden gewesen es gibt keine Aufzüge",
+   "quote_clean": "Die mit der besten Aussicht sind in Istanbul die schlechtesten Orte, weil die meist hoch oben in den Gebäuden sind und es keine Aufzüge gibt.",
+   "statement": "In Istanbul galten Wohnungen mit der besten Aussicht oft als die schlechtesten, weil sie hoch oben in Häusern ohne Aufzug lagen – ein Hotel machte daraus verstreute Zimmer mit Blick.",
+   "question": "Warum waren Räume mit der besten Aussicht in Istanbuler Altbauten oft wenig begehrt?",
+   "answer": "Sie liegen hoch oben ohne Aufzug",
+   "distractors": [
+    "Sie sind im Sommer zu laut",
+    "Sie dürfen nicht vermietet werden",
+    "Sie haben keine Fenster zur Straße"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zwei Architekt:innen aus München haben genau diese Dachräume angemietet oder gekauft und daraus einzelne Hotelzimmer gemacht, verteilt über die Stadt. Du wohnst mit echten Nachbarn – und Erichs Grätzlhotel in Wien hat sich davon inspirieren lassen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Istanbul",
+    "Hotelkonzept"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 652,
+   "speaker": "Erich Bernard",
+   "quote": "wir haben z.B die decken alle vom Gipskarton befreit wir haben betonflä auch die Säulen die Pfeiler und Säulen haben wir von Karton",
+   "quote_clean": "Wir haben zum Beispiel die Decken alle vom Gipskarton befreit, auch die Pfeiler und Säulen haben wir von Kartonumhüllungen befreit.",
+   "statement": "Beim Umbau des Hotel Gilbert in Wien wurden Decken und Säulen vom Gipskarton befreit, statt neu zu bauen – der Bestand wurde vor allem freigelegt.",
+   "question": "Was haben die Architekt:innen beim Umbau des Wiener Hotel Gilbert mit Decken und Säulen gemacht?",
+   "answer": "Vom Gipskarton befreit",
+   "distractors": [
+    "Mit Holz verkleidet",
+    "Komplett abgerissen",
+    "Mit Spiegeln verkleidet"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Statt teurer Eingriffe in die Statik hat man den Stahlbeton-Skelettbau einfach freigelegt und den Beton sandgestrahlt. Für die Akustik kam Heraklith an die Decke. Gut fürs Budget und für die Nachhaltigkeit.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Umbau",
+    "Nachhaltigkeit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 3193,
+   "speaker": "Andreas Sator",
+   "quote": "mich wird noch interessieren was ist das coolste Hotel in dem du je warst und was fandest du daran so toll schreib es in die Kommentare",
+   "quote_clean": "Mich würde noch interessieren: Was ist das coolste Hotel, in dem du je warst, und was fandest du daran so toll? Schreib es in die Kommentare.",
+   "statement": "Am Ende der Hotel-Folge fragt Andreas sein Publikum nach dem coolsten Hotel, in dem es je war.",
+   "question": "Was will Andreas am Ende der Hotel-Folge von seinem Publikum wissen?",
+   "answer": "Das coolste Hotel, in dem sie waren",
+   "distractors": [
+    "Das schlechteste Frühstücksbuffet",
+    "Die teuerste Nacht im Urlaub",
+    "Das schönste Hotel in Graz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas fasst am Schluss gern seine drei Learnings zusammen und gibt dann eine Frage an die Community weiter. Diesmal geht's um Hoteltipps – passend, nachdem Erich seine Lieblingshäuser in Istanbul und London verraten hat.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Community"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "291",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

@@ -1,0 +1,403 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Jahr und Aussage bei 312 s belegt; der aha-Text vermischt, wer wen überredet hat (Schüler:innen drängten sie erst später zur Erwachsenen-Meisterschaft).",
+   "stand_note": "",
+   "statement": "Die ersten österreichischen Gedächtnismeisterschaften für junge Leute fanden 1999 statt.",
+   "question": "In welchem Jahr gab es die ersten österreichischen Gedächtnismeisterschaften für junge Leute?",
+   "answer": "1999",
+   "distractors": [
+    "1986",
+    "2005",
+    "1993"
+   ],
+   "aha": "Gedächtnissport ist jünger, als man denkt: In Österreich ging es 1999 los, zuerst für junge Leute. Luise Sommer ist mit Freiwilligen aus ihrer Schule hingefahren, und erst danach haben sie gesagt: Frau Professor, jetzt probieren Sie es auch.",
+   "quote_clean": "Plötzlich lese ich in der Zeitung: Es gibt 1999 die ersten österreichischen Gedächtnismeisterschaften für junge Leute.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Aussage belegt, aber die Distraktoren inkl. 10.000 sind ebenfalls „über 1.000“, die Frage war nicht eindeutig; neu gefasst.",
+   "stand_note": "",
+   "statement": "Bei Gedächtnismeisterschaften merkt man sich in einer Stunde Zahlen mit über tausend Stellen.",
+   "question": "Wie viele Stellen kann eine Zahl haben, die sich Gedächtnissportler:innen in einer Stunde merken?",
+   "answer": "Mehr als 1.000",
+   "distractors": [
+    "Rund 100",
+    "Rund 250",
+    "Rund 500"
+   ],
+   "aha": "Über tausend Ziffern in einer Stunde, das ist Spitzensport für den Kopf. Luise Sommer fragt sich trotzdem, was das bringt, wenn man dann nicht mehr weiß, wo das Handy liegt.",
+   "quote_clean": "eine über tausendstellige Zahl in einer Stunde zu memorieren, ja, okay, ist cool, aber was bringt mir das",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Etymologie belegt (Transkript „Lozi/Lokus“ = Loci/Locus); „die wichtigste“ Technik sagt sie so nicht, daher abgeschwächt.",
+   "stand_note": "",
+   "statement": "Eine zentrale Merktechnik heißt Loci-Methode, nach dem lateinischen Wort locus für Ort.",
+   "question": "Woher hat die berühmte Loci-Methode zum Merken ihren Namen?",
+   "answer": "Vom lateinischen Wort für Ort",
+   "distractors": [
+    "Von ihrem Erfinder Loci",
+    "Vom griechischen Wort für Bild",
+    "Vom lateinischen Wort für Wort"
+   ],
+   "aha": "Locus heißt Ort, Loci sind die Orte. Du hängst das, was du dir merken willst, an Plätze, die du gut kennst, und gehst sie im Kopf ab. Die Technik ist uralt und funktioniert trotzdem noch.",
+   "quote_clean": "Es ist diese eine Technik, man nennt es Loci-Methode. Locus ist der Ort, Loci sind die Orte.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 487 s belegt, Antwort eindeutig, Distraktoren klar falsch.",
+   "stand_note": "",
+   "statement": "Bei der Loci-Methode richtet man sich einen Gedächtnispalast ein, etwa ein bekanntes Zimmer mit fixen Plätzen.",
+   "question": "Was braucht man zuerst, um die Loci-Methode anzuwenden?",
+   "answer": "Einen Gedächtnispalast mit fixen Plätzen",
+   "distractors": [
+    "Eine Liste mit Reimwörtern",
+    "Ein Notizbuch mit Stichworten",
+    "Eine Melodie zum Mitsingen"
+   ],
+   "aha": "Zuerst legst du fest, wo Platz eins bis zehn ist, zum Beispiel in deinem Zimmer. Dann legst du die Dinge dort ganz kreativ, absurd und merkwürdig ab.",
+   "quote_clean": "Das heißt letztendlich nichts anderes, als dass ich mir zunächst eine Art Gedächtnispalast einrichten muss. Das kann zum Beispiel dein Zimmer hier sein.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 566 s und 571 s belegt: Start bei den Füßen, aha-Details stimmen mit dem Transkript.",
+   "stand_note": "",
+   "statement": "Bei der Körperliste nutzt man den eigenen Körper als Ablagesystem und geht von den Füßen nach oben.",
+   "question": "Wo fängt Luise Sommer bei ihrer Körperliste zum Merken an?",
+   "answer": "Bei den Füßen",
+   "distractors": [
+    "Beim Kopf",
+    "Bei den Händen",
+    "Bei den Schultern"
+   ],
+   "aha": "Füße, Knie, Oberschenkel, Popo, Taille: fünf Plätze, die du immer dabei hast. Von unten nach oben gibt laut Luise mehr Energie. Und dann steckt halt eine Rolle Klopapier in jeder Zehe.",
+   "quote_clean": "Wichtig ist, ich gehe von unten nach oben. Das gibt irgendwie mehr Energie als von oben nach unten. Das heißt, ich fange mit den Füßen an, nehme dann die Knie, dann die Oberschenkel als Platz Nummer drei",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Inhalt belegt (2 = Schwan); quote_clean hat mit „schreiben“ etwas ergänzt, näher am Original gehalten.",
+   "stand_note": "",
+   "statement": "Um sich Zahlen zu merken, verwandelt man jede Ziffer in ein Bild, etwa die 1 in eine Kerze und die 2 in einen Schwan.",
+   "question": "Welches Bild verwendet Luise Sommer für die Ziffer 2?",
+   "answer": "Einen Schwan",
+   "distractors": [
+    "Eine Kerze",
+    "Einen Dreizack",
+    "Ein Hufeisen"
+   ],
+   "aha": "Ziffern sind abstrakt, Bilder bleiben hängen. Die 2 schaut aus wie ein Schwan, die 3 wird der Dreizack vom Neptun. So wird ein PIN-Code zu einer kleinen Geschichte mit vier Bildern.",
+   "quote_clean": "Eins ist bei mir zum Beispiel die Kerze, das war spontan meine Assoziation, so wie die Engländer sie ohne Aufstrich haben, schaut sie aus wie eine Kerze. Zwei ist ein Schwan, weil sie ausschaut wie ein Schwan.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zahl belegt, aber „mindestens 100“ lässt 1.000 als Distraktor ebenfalls richtig erscheinen; auf die eindeutige Frage 00 bis 99 umgestellt.",
+   "stand_note": "",
+   "statement": "Gedächtnissportler:innen haben für alle zweistelligen Zahlen von 00 bis 99 ein fixes Bild, also 100 Bilder.",
+   "question": "Wie viele fixe Bilder braucht der „große Werkzeugkoffer“ zum Zahlenmerken von 00 bis 99?",
+   "answer": "100",
+   "distractors": [
+    "10",
+    "50",
+    "200"
+   ],
+   "aha": "Mit nur zehn Bildern für die Ziffern dauert alles ewig. Darum lernt man für 00 bis 99 je ein Bild, wie Vokabeln, etwa die 99 als Nonne. Und wenn man sie einmal hat, gehen sie laut Luise nie mehr weg.",
+   "quote_clean": "Der große Werkzeugkoffer sind dann natürlich 100 Bilder, von 00 bis 99, also zweistellig.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Luise relativiert selbst mit „ich glaube“; als Faktum nicht belastbar, und „zweistellig“ als Distraktor ist unscharf (sie selbst nutzt zweistellig, Spitze ebenfalls).",
+   "stand_note": "",
+   "statement": "Die besten Gedächtnisathlet:innen der Welt haben sogar für dreistellige Zahlen fixe Bilder.",
+   "question": "Für wie lange Zahlen haben die besten Gedächtnisathlet:innen der Welt fixe Bilder im Kopf?",
+   "answer": "Für dreistellige Zahlen",
+   "distractors": [
+    "Für einstellige Zahlen",
+    "Für zweistellige Zahlen",
+    "Für fünfstellige Zahlen"
+   ],
+   "aha": "Dreistellig heißt: tausend Bilder von 000 bis 999 auswendig.",
+   "quote_clean": "Die ganz Top-Gedächtnisathleten, die Weltspitze, haben dann ein System, mit dem sie sich, glaube ich, dreistellige Zahlen als fixe Bilder merken.",
+   "quality": 2
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "87 Prozent bei 956 s belegt, Frage klar; informelle Umfrage, aber als solche benannt.",
+   "stand_note": "",
+   "statement": "In Luise Sommers Umfrage sagten 87 Prozent, ihr Gedächtnis sei schlechter geworden, seit sie vieles aufs Smartphone auslagern.",
+   "question": "Wie viel Prozent der Befragten in Luise Sommers Umfrage finden, dass ihr Gedächtnis durchs Smartphone schlechter geworden ist?",
+   "answer": "87 Prozent",
+   "distractors": [
+    "42 Prozent",
+    "61 Prozent",
+    "95 Prozent"
+   ],
+   "aha": "Die Umfrage hat sie für ihr neues Buch gemacht, und das Gefühl ist offenbar weit verbreitet. Ihre Antwort: Man kann gegensteuern, etwa mit der Körperliste beim Joggen, wenn eh nichts zum Schreiben da ist.",
+   "quote_clean": "Da war eins „stimme nicht zu“ und vier „stimme zu“. Und 87 Prozent haben „ich stimme zu“ oder „ich stimme völlig zu“ gesagt.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitat belegt, aber die Frage „Wer sagt das?“ ist ohne Vorwissen nicht lösbar und reiner Ratespaß; kein Lerngewinn.",
+   "stand_note": "",
+   "statement": "Luise Sommer sagt: Smart Brain ist besser als Smartphone.",
+   "question": "Wer sagt im Podcast: „Smart Brain ist besser als Smartphone“?",
+   "answer": "Luise Sommer",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Hörerin",
+    "Ein Gedächtnisforscher"
+   ],
+   "aha": "Während alle anderen googeln, hat sie die fünf größten EU-Staaten schon in den Fingerspitzen.",
+   "quote_clean": "Und zweitens müssen alle immer ihre Handys zücken, um das nachzuschauen. Und ich sage: Smart Brain ist besser als Smartphone.",
+   "quality": 1
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Reihenfolge Frankreich, Spanien, Schweden, Deutschland, Finnland im Transkript belegt und sachlich korrekt (auch heute unverändert).",
+   "stand_note": "",
+   "statement": "Die flächenmäßig größten EU-Staaten sind der Reihe nach Frankreich, Spanien, Schweden, Deutschland und Finnland.",
+   "question": "Welches Land ist nach Frankreich und Spanien das flächenmäßig drittgrößte der EU?",
+   "answer": "Schweden",
+   "distractors": [
+    "Deutschland",
+    "Polen",
+    "Italien"
+   ],
+   "aha": "Eselsbrücke aus der Folge: Ein Torero beim Eiffelturm geht ins schwedische Möbelhaus, trifft dort die deutsche Fußballnationalmannschaft nackert, die gleich in die finnische Sauna will. Absurd genug, dass du es eh nicht mehr vergisst.",
+   "quote_clean": "Das waren schon die ersten fünf Staaten. Der Eiffelturm steht für Frankreich, der Torero für Spanien, das unmögliche Möbelhaus für Schweden.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Zitat belegt; Frage als Satzvollendung klarer. Der letzte aha-Satz war nicht im Transkript und fliegt raus.",
+   "stand_note": "",
+   "statement": "Beim Namenmerken gilt laut Luise Sommer: Geteilte Aufmerksamkeit ist halbes Gedächtnis.",
+   "question": "Wie vollendet Luise Sommer den Satz „Geteilte Aufmerksamkeit ist …“?",
+   "answer": "Halbes Gedächtnis",
+   "distractors": [
+    "Doppelte Arbeit",
+    "Verlorene Zeit",
+    "Ein Zeichen von Stress"
+   ],
+   "aha": "Fürs Namenmerken braucht es laut Luise drei Dinge: den Willen, ungeteilte Aufmerksamkeit und ein Bild. Während dir jemand seinen Namen sagt, denkst du also an nichts anderes.",
+   "quote_clean": "Während er mir seinen Namen sagt, denke ich an überhaupt nichts anderes, weil geteilte Aufmerksamkeit halbes Gedächtnis ist.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Sandra/Sand/Locken bei 1368 s belegt, aha stimmt mit Peter-Beispiel überein.",
+   "stand_note": "",
+   "statement": "Um sich Namen zu merken, macht man aus dem Namen ein Bild und verbindet es mit einem Merkmal der Person.",
+   "question": "Wie merkt sich Luise Sommer den Namen einer Sandra mit Locken?",
+   "answer": "Sie stellt sich Sand in den Locken vor",
+   "distractors": [
+    "Sie wiederholt den Namen dreimal laut",
+    "Sie schreibt den Namen sofort auf",
+    "Sie reimt Sandra auf Kassandra"
+   ],
+   "aha": "Name wird Bild, Bild landet an einem auffälligen Merkmal. Bei einem Peter wird es der schwarze Punkt auf der Nase vom Schwarzer-Peter-Spiel. Er merkt es nicht, aber sie merkt sich seinen Namen.",
+   "quote_clean": "Wenn ich zum Beispiel eine Sandra kennenlerne, und die hätte solche Locken wie du, dann ist das Bild für Sandra Sand, und ich würde ihr in ihre schönen Locken weißen Sand hineinrieseln lassen.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Sie sagt „immer gut“, nicht „am meisten“ und nicht „dauerhaft“; Frage entsprechend präzisiert.",
+   "stand_note": "",
+   "statement": "Neues Wissen verknüpft man am besten mit schon Bekanntem.",
+   "question": "Was ist laut Luise Sommer immer gut, wenn man sich etwas Neues merken will?",
+   "answer": "Es mit Bekanntem verknüpfen",
+   "distractors": [
+    "Es oft laut vorlesen",
+    "Es in Farbe abschreiben",
+    "Es kurz vor dem Schlafen lernen"
+   ],
+   "aha": "Genau so funktioniert auch die Loci-Methode: Neues hängt an Orten, die du schon kennst. Luise hat sich Afghanistans Geschichte über die Romane von Khaled Hosseini verankert, und das bleibt laut ihr für immer.",
+   "quote_clean": "Es ist immer gut, wenn du eine neue Sache mit einer schon bekannten verknüpfst.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Unterscheidung bei 1447 s belegt; der aha-Text stellte eine Kausalität („darum“) her, die so nicht gesagt wurde.",
+   "stand_note": "",
+   "statement": "Merken und Auswendiglernen sind nicht dasselbe: Beim Merken verknüpft man Neues mit Bekanntem.",
+   "question": "Was unterscheidet laut Luise Sommer echtes Merken vom Auswendiglernen?",
+   "answer": "Beim Merken verknüpft man",
+   "distractors": [
+    "Merken geht schneller",
+    "Beim Merken wiederholt man öfter",
+    "Merken braucht kein Verstehen"
+   ],
+   "aha": "Auswendiglernen nennt sie eine sinnlose Routine. Ein Student erzählt, dass ihm der Prüfungsstoff zwei Wochen nach der Prüfung weg ist. Wer verknüpft, etwa mit einer Mindmap, sperrt das Wissen später mit ein paar Schlüsselwörtern wieder auf.",
+   "quote_clean": "Dieses Auswendiglernen ist für mich etwas anderes als Merken. Wenn ich mir etwas wirklich merke, dann verknüpfe ich.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Aussage belegt, aber persönliche Einschätzung und in der Forschung umstritten; als „laut Luise“ formuliert, erfundene Erklärung („zu langsam“) entfernt.",
+   "stand_note": "Stand 2019",
+   "statement": "Laut Luise Sommer hilft Mitschreiben mit der Hand beim Merken mehr als schnelles Tippen.",
+   "question": "Was hilft laut Luise Sommer in Vorlesungen mehr beim Merken?",
+   "answer": "Mit der Hand mitschreiben",
+   "distractors": [
+    "Alles in den Laptop tippen",
+    "Die Vorlesung aufnehmen",
+    "Gar nicht mitschreiben"
+   ],
+   "aha": "Luises Begründung: Wer nur stupide und schnell hineinklopft, hat viel weniger im Kopf als jemand, der schon beim Schreiben sinnerfassend auswählt.",
+   "quote_clean": "Mitschreiben mit der Hand, Handschrift hilft beim Merken. Das ist so. Alles, was ich nur stupide und schnell hineinklopfe, ist viel weniger da, als wenn ich schon beim Schreiben sinnerfassend auswähle und mitschreibe.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Tassen-Vergleich bei 1651 s belegt, Meditation am Badewannenrand bei 1708 s ebenfalls.",
+   "stand_note": "",
+   "statement": "Das Gehirn braucht Phasen im Standby-Modus, so wie man eine volle Tasse auch einmal ausleeren muss.",
+   "question": "Womit vergleicht Luise Sommer ein Gehirn, das nie Pause bekommt?",
+   "answer": "Mit einer vollen Tasse",
+   "distractors": [
+    "Mit einem überhitzten Motor",
+    "Mit einem vollen Kühlschrank",
+    "Mit einem leeren Akku"
+   ],
+   "aha": "Fünf Minuten Wartezeit füllen wir heute sofort mit dem Handy. Dabei braucht das Gehirn Zeit zum Ausleeren, sonst passt nichts Neues mehr hinein. Luise übt das mit kleinen Dosen Meditation am Badewannenrand.",
+   "quote_clean": "Unser Gehirn braucht diesen Standby-Modus. Ich kann nicht in eine Tasse, die schon voll ist, immer mehr hineinleeren. Ich muss sie auch irgendwann einmal ausleeren.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet",
+    "beleg"
+   ],
+   "note": "Studie bei 1760 s belegt, aber „schlechter“ war ohne Vergleichsgröße mehrdeutig; Frage auf den belegten Befund (anderer Raum am besten) umgestellt. Der Kisterl-Satz ist im Ausschnitt nicht belegt und entfällt. Spätere Replikationen fanden den Effekt teils nicht.",
+   "stand_note": "Stand 2019",
+   "statement": "In Studien schneiden Menschen bei Konzentrationstests besser ab, wenn ihr Smartphone in einem anderen Raum liegt, selbst verglichen mit einem umgedrehten Handy am Tisch.",
+   "question": "Wo liegt das Smartphone, wenn Testpersonen bei Konzentrationstests laut den Studien am besten abschneiden?",
+   "answer": "In einem anderen Raum",
+   "distractors": [
+    "Umgedreht auf dem Tisch",
+    "Offen auf dem Tisch",
+    "Stumm geschaltet am Tisch"
+   ],
+   "aha": "Schon die bloße Anwesenheit des Handys saugt Gehirnkapazität ab, weil ein Teil von dir unbewusst denkt: Ich könnte ja nachschauen. Umgedreht am Tisch hilft laut Luise nicht.",
+   "quote_clean": "Und es war wirklich spannend zu sehen: Diejenigen, die das Smartphone im anderen Raum hatten, haben signifikant besser abgeschnitten als die, die das Smartphone am Tisch hatten, und zwar egal, ob es umgedreht war oder offen.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Szene bei 658 s belegt; die Hoteldirektorin wusste nur die Taschentücher, nicht die ganze Einkaufsliste, Statement präzisiert.",
+   "stand_note": "",
+   "statement": "Nach einem TV-Auftritt mit der Körperliste erzählte eine Hoteldirektorin Luise Sommer, sie wisse noch, wo ihre Taschentücher abgelegt sind.",
+   "question": "Was erzählte die Hoteldirektorin Luise Sommer am Tag nach ihrem Fernsehauftritt?",
+   "answer": "Sie wusste ihre Taschentücher noch",
+   "distractors": [
+    "Sie wollte ein Autogramm",
+    "Sie hatte alles vergessen",
+    "Sie buchte einen Kurs"
+   ],
+   "aha": "Im Fernsehen hatte Luise mit dem Publikum eine Einkaufsliste am Körper abgelegt. Am nächsten Tag greift die Hoteldirektorin sich an die Brust, wo die Taschentücher lagen. Es hat wirklich funktioniert.",
+   "quote_clean": "Und dann schießt die Hoteldirektorin durch die Halle und sagt: Sie habe ich gestern im Fernsehen gesehen. Und wissen Sie was? Meine Taschentücher.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Zitat bei 891 s belegt, harmlos; Antwort aber leicht erratbar. Das „Post-its“ im aha-Text kommt im Transkript nicht vor und wurde entfernt.",
+   "stand_note": "",
+   "statement": "Andreas fragt, warum man sich überhaupt etwas merken soll, wenn man alles aufs Handy schreiben kann.",
+   "question": "Welche „blöde Frage“ stellt Andreas der Gedächtnismeisterin?",
+   "answer": "Warum merken, wenn's am Handy steht?",
+   "distractors": [
+    "Wie viele Titel hast du gewonnen?",
+    "Hast du ein fotografisches Gedächtnis?",
+    "Vergisst du auch manchmal etwas?"
+   ],
+   "aha": "Luise kontert mit einer Gegenfrage: Hast du alles unter Kontrolle? Andreas gibt zu, ohne Handy ist er schnell aufgeschmissen. Genau da setzt sie mit ihren Merktechniken an.",
+   "quote_clean": "Blöde Frage: Was bringt es? Ich schreibe mir alles auf mein Handy auf. Warum sollte ich es mir merken?",
+   "quality": 2
+  }
+ ],
+ "id": "52",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

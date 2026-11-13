@@ -1,0 +1,273 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Zahlen 15 auf 30 Prozent passen zum Transkript und zu den realen Ergebnissen; aha sagte fälschlich, die Wahl fiel in den Sommer, sie war aber Ende September.",
+   "stand_note": "",
+   "statement": "Bei der oberösterreichischen Landtagswahl 2015 verdoppelte sich der FPÖ-Stimmenanteil gegenüber 2009 von 15 auf 30 Prozent.",
+   "question": "Auf wie viel Prozent kam die FPÖ bei der oberösterreichischen Landtagswahl 2015 (nach 15 Prozent im Jahr 2009)?",
+   "answer": "30 Prozent",
+   "distractors": [
+    "22 Prozent",
+    "38 Prozent",
+    "18 Prozent"
+   ],
+   "aha": "Die Wahl war Ende September 2015, kurz nach dem Sommer, in dem so viele Geflüchtete ankamen. Da liegt die Frage auf der Hand, ob das eine mit dem anderen zu tun hat – und genau die hat Andreas Steinmayr untersucht.",
+   "quote_clean": "Im Vergleich der Landtagswahlen 2009 und 2015 hat sich der FPÖ-Stimmenanteil von 15 auf 30 Prozent verdoppelt.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Der Gast nennt die Zahl nur als vage Erinnerung („glaube ich, so 40 Prozent“); als harte Faktenfrage zu unsicher.",
+   "stand_note": "",
+   "statement": "Bei der Landtagswahl im Herbst 2015 hatten rund 40 Prozent der oberösterreichischen Gemeinden Geflüchtete untergebracht.",
+   "question": "Wie viel Prozent der oberösterreichischen Gemeinden hatten zur Landtagswahl 2015 bereits Geflüchtete untergebracht?",
+   "answer": "Rund 40 Prozent",
+   "distractors": [
+    "Rund 15 Prozent",
+    "Rund 65 Prozent",
+    "Rund 85 Prozent"
+   ],
+   "aha": "Damals wurde fieberhaft nach Quartieren gesucht und die Gemeinden um Hilfe gebeten. Ob eine Gemeinde Geflüchtete aufnahm, hing teils an der Politik – und teils schlicht daran, ob ein passendes leeres Gebäude herumstand.",
+   "quote_clean": "Zum Zeitpunkt der Wahl hatten in Oberösterreich ungefähr 40 Prozent der Gemeinden bereits Flüchtlinge untergebracht.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Kernaussage (4 bis 5 Prozentpunkte kleinerer Anstieg) belegt; aha enthielt erfundene Details (Gemeindezeitung, Begegnungsfeste), Distraktoren uneinheitlich.",
+   "stand_note": "",
+   "statement": "In oberösterreichischen Gemeinden, die 2015 Geflüchtete unterbrachten, legte die FPÖ um rund vier bis fünf Prozentpunkte weniger zu.",
+   "question": "Um wie viele Prozentpunkte fiel der FPÖ-Zuwachs 2015 in Gemeinden mit Geflüchteten-Quartier kleiner aus?",
+   "answer": "Um 4 bis 5 Prozentpunkte",
+   "distractors": [
+    "Um 1 bis 2 Prozentpunkte",
+    "Um 10 bis 12 Prozentpunkte",
+    "Um 20 bis 22 Prozentpunkte"
+   ],
+   "aha": "Die FPÖ legte 2015 überall zu, aber dort, wo Geflüchtete untergebracht wurden, deutlich weniger. Das passt zur Kontakthypothese: Aus einer abstrakten Sorge wurden konkrete Menschen im Ort.",
+   "quote_clean": "Aber wenn Flüchtlinge untergebracht wurden, dann hatte das einen negativen Effekt. Der Anstieg war kleiner, und gar nicht so wenig: um die vier bis fünf Prozentpunkte.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Im Transkript so belegt und historisch gesichert (Lungenkrebs war um 1900 extrem selten).",
+   "stand_note": "",
+   "statement": "Um 1900 war Lungenkrebs so selten, dass ein durchschnittlicher Arzt vielleicht einmal im Leben einen Fall behandelte.",
+   "question": "Wie häufig sah ein durchschnittlicher Arzt um 1900 einen Patienten mit Lungenkrebs?",
+   "answer": "Vielleicht einmal im ganzen Berufsleben",
+   "distractors": [
+    "Etwa einmal pro Monat",
+    "Etwa einmal pro Woche",
+    "Mehrmals pro Jahr"
+   ],
+   "aha": "Zwei, drei Generationen später war Lungenkrebs Alltag in den Spitälern. Die Geschichte erzählt Judea Pearl in „The Book of Why“ – als Beispiel dafür, wie mühsam es war, Rauchen als Ursache zu beweisen.",
+   "quote_clean": "Und er beschreibt in dem Buch: Um 1900 war es für einen durchschnittlichen Arzt so, dass er vielleicht einmal in seinem Leben einen Patienten mit Lungenkrebs zur Behandlung hatte. Eine extrem seltene Krankheit.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Im Transkript belegt (prominente Statistiker, gemeinsame genetische Veranlagung); aha stützt sich auf Ausschnitt und Allgemeinwissen.",
+   "stand_note": "",
+   "statement": "Prominente Statistiker bezweifelten lange, dass Rauchen Lungenkrebs verursacht, und vermuteten eine genetische Veranlagung hinter beidem.",
+   "question": "Mit welcher Erklärung zweifelten prominente Statistiker lange an, dass Rauchen Lungenkrebs verursacht?",
+   "answer": "Eine Veranlagung führt zu beidem",
+   "distractors": [
+    "Lungenkrebs macht Lust aufs Rauchen",
+    "Ärzte zählten Fälle doppelt",
+    "Filterzigaretten seien harmlos"
+   ],
+   "aha": "Ein versteckter dritter Faktor, der beides antreibt – dieses Argument ließ sich mit jeder neuen Studie gleicher Bauart wiederholen. Erst viele verschiedene Arten von Evidenz zusammen haben es irgendwann erschlagen. Die Tabakindustrie hat die Zweifel natürlich gern befeuert.",
+   "quote_clean": "Vielleicht gibt es eine Veranlagung, die dazu führt, dass man eher Raucher wird, und gleichzeitig ist diese genetische Veranlagung auch dafür verantwortlich, dass die Leute eher Lungenkrebs bekommen.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Klar belegt, Erklärung (Alter als dritter Faktor) steht im Ausschnitt; schönes Merkbeispiel.",
+   "stand_note": "",
+   "statement": "Die Schuhgröße von Kindern sagt ihre Lesefähigkeit gut voraus – weil beides vom Alter abhängt.",
+   "question": "Welche Größe sagt erstaunlich gut voraus, wie gut Kinder lesen können?",
+   "answer": "Ihre Schuhgröße",
+   "distractors": [
+    "Ihre Haarfarbe",
+    "Ihr Sternzeichen",
+    "Ihre Lieblingsfarbe"
+   ],
+   "aha": "Größere Schuhe kaufen bringt natürlich nichts. Kinder mit größeren Füßen sind einfach älter, kognitiv weiter und länger in der Schule – das Alter steckt hinter beidem.",
+   "quote_clean": "Um dir ein Beispiel zu geben: Eine Variable, die sehr gut voraussagt, wie gut Kinder lesen können, ist ihre Schuhgröße.",
+   "quality": 5
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt; Distraktoren etwas albern, aber eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Dass Kinder mit vielen Büchern zu Hause besser lesen, beweist keine Wirkung der Bücher, weil sich ihre Elternhäuser auch sonst unterscheiden.",
+   "question": "Warum beweist der Zusammenhang zwischen Büchern zu Hause und Lesefähigkeit noch nicht, dass Bücher wirken?",
+   "answer": "Die Elternhäuser unterscheiden sich auch sonst",
+   "distractors": [
+    "Kinder lesen Bücher nie zu Hause",
+    "Lesefähigkeit lässt sich nicht messen",
+    "Bücher wirken erst ab 18"
+   ],
+   "aha": "Wer viele Bücher hat, hat oft auch einen anderen sozialen Hintergrund und Erziehungsstil. Da vergleichst du Äpfel mit Birnen – außer du verteilst Bücherkisten per Zufall.",
+   "quote_clean": "Die Kinder, die mehr Bücher zu Hause haben, und die Kinder, die weniger Bücher zu Hause haben – deren Elternhaus unterscheidet sich auch in allen möglichen anderen Eigenschaften.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Gast nennt das Zufallsexperiment ausdrücklich Goldstandard; korrekt und klar.",
+   "stand_note": "",
+   "statement": "Der Goldstandard, um Ursachen herauszufinden, ist das Zufallsexperiment: Menschen werden per Los in Gruppen eingeteilt.",
+   "question": "Was gilt als Goldstandard, um herauszufinden, ob etwas wirklich die Ursache ist?",
+   "answer": "Ein Zufallsexperiment",
+   "distractors": [
+    "Eine große Umfrage",
+    "Eine Expertenbefragung",
+    "Ein Vorher-nachher-Vergleich"
+   ],
+   "aha": "Der Münzwurf sorgt dafür, dass sich die Gruppen im Schnitt in allem gleichen – Job, Beziehung, Krankengeschichte. Bleibt nur ein Unterschied übrig, kannst du den Effekt genau dem zuschreiben.",
+   "quote_clean": "Der beste Weg und natürlich auch der Goldstandard ist: Ich mache ein Zufallsexperiment. Ich habe viele Menschen, die psychische Probleme haben, und dann teile ich sie per Los, per Münzwurf, in zwei Gruppen ein.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (Vergleich hypothetische Welt gegen Realität); gut erklärt.",
+   "stand_note": "",
+   "statement": "Ein kausaler Effekt ist der Vergleich zwischen der Realität und einer hypothetischen Parallelwelt, in der nur eine Sache anders ist.",
+   "question": "Womit vergleicht man eigentlich, wenn man einen kausalen Effekt bestimmen will?",
+   "answer": "Mit einer unsichtbaren Parallelwelt",
+   "distractors": [
+    "Mit dem Durchschnitt aller Länder",
+    "Mit dem Zustand vor 100 Jahren",
+    "Mit einer Expertenschätzung"
+   ],
+   "aha": "Ideal wäre ein Klon, der alles gleich macht, nur eine Sache nicht. Blöd nur, dass sich Menschen schwer klonen und in Paralleluniversen schicken lassen – deshalb sucht die Forschung nach möglichst guten Vergleichsgruppen.",
+   "quote_clean": "Stellen wir uns vor, wir klonen dich jetzt. Wir machen alle anderen Veränderungen, die es in deinem Leben im Sommer 2023 gab, aber dein Klon bleibt bei der alten Therapieform.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Wörtlich belegt, Aussage eindeutig; Distraktoren schwach, aber unproblematisch.",
+   "stand_note": "",
+   "statement": "Um Ursache und Wirkung zu klären, reichen Daten allein nicht aus.",
+   "question": "Was reicht laut Andreas Steinmayr allein nicht aus, um über Ursache und Wirkung zu sprechen?",
+   "answer": "Daten",
+   "distractors": [
+    "Geld",
+    "Intuition",
+    "Erfahrung"
+   ],
+   "aha": "Die Welt, mit der du vergleichen willst, ist per Definition unsichtbar – mehr Daten bringen sie nicht zum Vorschein. Du brauchst auch eine gute Idee für eine faire Vergleichsgruppe.",
+   "quote_clean": "Das heißt: Wenn man über Ursache und Wirkung spricht, reichen Daten alleine nicht aus.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Distraktoren (Hörbücher ohne Ton, fremdsprachige Bücher, Comics) wären ebenfalls schlechte Placebos, daher keine eindeutige Antwort.",
+   "stand_note": "",
+   "statement": "Bei Bücher-Experimenten gibt es kein sinnvolles Placebo – Bücher mit leeren Seiten würden es nicht tun.",
+   "question": "Welches Placebo wäre laut Andreas Steinmayr für ein Bücher-Experiment ungeeignet?",
+   "answer": "Bücher mit weißen Seiten",
+   "distractors": [
+    "Hörbücher ohne Ton",
+    "Bücher in fremder Sprache",
+    "Comics statt Romane"
+   ],
+   "aha": "In der Medizin gibt's die Zuckerpille, bei Büchern merkst du halt, ob du welche bekommst. Die Kernidee mit dem Zufall bleibt aber dieselbe.",
+   "quote_clean": "Wenn ich eine Kiste mit Büchern mit weißen Seiten hinstelle, wäre das kein gutes Placebo-Treatment.",
+   "quality": 2
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Als Einschätzung des Gastes klar attribuiert und im Ausschnitt belegt; Wissenschaftsstand zum Klimawandel wird nicht verzerrt.",
+   "stand_note": "",
+   "statement": "Die Debatte um den menschengemachten Klimawandel ähnelt laut Andreas Steinmayr der Raucherdebatte des 20. Jahrhunderts.",
+   "question": "Welche heutige Debatte vergleicht Andreas Steinmayr mit dem Streit, ob Rauchen Lungenkrebs verursacht?",
+   "answer": "Den Klimawandel",
+   "distractors": [
+    "Die Impfdebatte",
+    "Die Pensionsdebatte",
+    "Die Handynutzung von Kindern"
+   ],
+   "aha": "Erst stritt man, ob es das Phänomen überhaupt gibt, dann über die Ursache. Und wieder gibt es starke Interessen, die die Debatte in die eine oder andere Richtung lenken wollen.",
+   "quote_clean": "Vielleicht ist die vergleichbare Debatte zur Raucherdebatte des 20. Jahrhunderts jetzt der Klimawandel.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Frage steht im Ausschnitt; die Gewohnheit der Schlussfrage ist bekannt, Rest des aha (Klimaticket-Studie) belegt.",
+   "stand_note": "",
+   "statement": "Gegen Ende fragt Andreas seine Gäste, ob er eine Frage vergessen hat, die sie gern beantworten würden.",
+   "question": "Welche Frage stellt Andreas seinen Gästen typischerweise gegen Ende?",
+   "answer": "Welche Frage hab ich nicht gestellt?",
+   "distractors": [
+    "Was war dein peinlichster Moment?",
+    "Wen soll ich als Nächstes einladen?",
+    "Was würdest du anders machen?"
+   ],
+   "aha": "So bekommt der Gast Raum für das, was ihm wirklich am Herzen liegt. Andreas Steinmayr nützt ihn gleich für einen Studienwunsch zum Klimaticket.",
+   "quote_clean": "Andreas, habe ich dir eine Frage nicht gestellt, die du gerne beantworten möchtest?",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Gegenstand der Studie steht nicht im Ausschnitt; das aha erfindet Details (Hörer:innen verdienen mehr, Schulen), und die Summe ist nur eine vage Schätzung.",
+   "stand_note": "",
+   "statement": "Eine Studie, ob Erklär mir die Welt das Leben der Hörer:innen verändert, wäre laut Andreas Steinmayr mit ein paar Zehntausend Euro machbar.",
+   "question": "Was würde laut Andreas Steinmayr eine Studie kosten, ob „Erklär mir die Welt“ das Leben der Hörer:innen verbessert?",
+   "answer": "Ein paar Zehntausend Euro",
+   "distractors": [
+    "Ein paar Hundert Euro",
+    "Rund eine Million Euro",
+    "Rund zehn Millionen Euro"
+   ],
+   "aha": "Interessierte Millionär:innen dürfen sich melden.",
+   "quote_clean": "Das ist wahrscheinlich etwas, was mit ein paar Zehntausend Euro machbar ist, diese Studie.",
+   "quality": 2
+  }
+ ],
+ "id": "410",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

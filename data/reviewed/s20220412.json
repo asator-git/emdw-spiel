@@ -1,0 +1,285 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Frage präzisiert, Aussage stammt aus Robert Fritz' Folge 205.",
+   "stand_note": "",
+   "statement": "Bewegung im Alltag, etwa Stiegensteigen und Wege zu Fuß, ist schon die halbe Miete für körperliche Fitness.",
+   "question": "Was ist laut Robert Fritz (Folge 205) schon die halbe Miete für körperliche Fitness?",
+   "answer": "Bewegung im Alltag",
+   "distractors": [
+    "Zweimal pro Woche Fitnessstudio",
+    "Viel Eiweiß essen",
+    "Tägliches Dehnen am Morgen"
+   ],
+   "aha": "Man denkt bei Fitness gleich an Laufband und Hanteln. Aber die Stiegen statt dem Lift und der Weg zu Fuß statt zwei BIM-Stationen machen jeden Tag viel aus – nur ist unsere Welt halt aufs Sitzen im Auto und in den Öffis ausgelegt.",
+   "quote_clean": "warum diese Bewegung im Alltag eigentlich schon die halbe Miete zu körperlicher Fitness ist. Man denkt da immer ans Fitnessstudio oder ans Laufen gehen,",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg passt; Aha enthielt falsche Kausalität (Konto wegen Lesens), korrigiert.",
+   "stand_note": "",
+   "statement": "Um einen Wikipedia-Artikel zu bearbeiten, braucht man kein Benutzerkonto.",
+   "question": "Was brauchst du mindestens, um einen Wikipedia-Artikel zu bearbeiten?",
+   "answer": "Kein Konto, einfach auf Bearbeiten klicken",
+   "distractors": [
+    "Ein verifiziertes Benutzerkonto",
+    "Eine Freischaltung durch Admins",
+    "Mindestens zehn gesichtete Beiträge"
+   ],
+   "aha": "Wikipedia lebt davon, dass viele Leute kritisch mitlesen und rechts oben auf Bearbeiten klicken. Ein Konto ist dafür nicht nötig. Andreas hat sich trotzdem eines angelegt und will künftig öfter mitschreiben.",
+   "quote_clean": "Und Wikipedia lebt davon, wie mir Thomas erklärt hat, dass es viele Leute gibt, die da kritisch mitlesen und rechts oben auch mal auf Bearbeiten klicken. Man braucht kein Konto dazu, ich habe mir eines angelegt.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 752-760 passt.",
+   "stand_note": "",
+   "statement": "Beim Modell 15/15 für Paare redet jede Person etwa 15 Minuten, während die andere nur zuhört.",
+   "question": "Wie viele Minuten redet beim Paar-Modell 15/15 jede Person, während die andere zuhört?",
+   "answer": "15 Minuten",
+   "distractors": [
+    "5 Minuten",
+    "30 Minuten",
+    "60 Minuten"
+   ],
+   "aha": "Der Name verrät es eh: 15 Minuten redet der eine, 15 Minuten die andere. Man darf sich beschweren, loben oder über das reden, was einem wichtig ist – mitstoppen muss man aber nicht.",
+   "quote_clean": "Ich habe mir zum Beispiel das Modell 15/15 mitgenommen. Das heißt, man nimmt sich als Paar jeweils circa 15 Minuten Zeit.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Kontext (Paare) ergänzt; Aha-Zuschreibung an Henz auf Belegtes reduziert.",
+   "stand_note": "",
+   "statement": "In der intensiven Variante des Modells 15/15 fasst die zuhörende Person danach zusammen, was sie gehört und verstanden hat.",
+   "question": "Was macht in der intensiven Variante des Paar-Modells 15/15 die zuhörende Person nach den 15 Minuten?",
+   "answer": "Sie fasst das Gehörte zusammen",
+   "distractors": [
+    "Sie antwortet auf jede Beschwerde",
+    "Sie schreibt alles auf",
+    "Sie stellt drei Rückfragen"
+   ],
+   "aha": "Die Übung hat Andreas aus der Folge mit der Psychotherapeutin Katharina Henz mitgenommen. Wer zusammenfasst, merkt schnell, ob er wirklich zugehört hat. Für ihn eine tolle Übung, um in der Beziehung im Gespräch zu bleiben.",
+   "quote_clean": "Und wenn man es besonders intensiv machen möchte, dann fasst der Zuhörer nach den 15 Minuten auch noch zusammen, was er gehört und verstanden hat.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 874-884 passt.",
+   "stand_note": "",
+   "statement": "Bei der Zwei-Faktor-Authentifizierung reicht das Passwort allein nicht, man braucht zusätzlich etwa einen Code per SMS.",
+   "question": "Was braucht man bei Zwei-Faktor-Authentifizierung zusätzlich zum Passwort, um sich einzuloggen?",
+   "answer": "Einen zusätzlichen Code, etwa per SMS",
+   "distractors": [
+    "Ein zweites, längeres Passwort",
+    "Die Antwort auf eine Sicherheitsfrage",
+    "Eine Bestätigung per Brief"
+   ],
+   "aha": "Selbst wenn jemand dein Passwort erwischt, kommt er ohne den zweiten Faktor nicht rein. Andreas nutzt das seit der Folge zum sicheren Umgang mit dem Handy bei seinen wichtigsten Logins.",
+   "quote_clean": "Das heißt, man kann sich nicht einloggen, auch wenn man mein Passwort hat. Man braucht noch einen zusätzlichen Code, den ich per SMS bekomme.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Übertreibung ('fast hundertprozentig') als Tatsache nicht belastbar.",
+   "stand_note": "",
+   "statement": "Wer dasselbe Passwort für viele Seiten nutzt, dessen Daten landen fast sicher irgendwann im Netz.",
+   "question": "Was passiert laut Folge fast sicher, wenn du für viele Seiten dasselbe Passwort nutzt?",
+   "answer": "Deine Daten landen irgendwann im Netz",
+   "distractors": [
+    "Die Seiten sperren dein Konto automatisch",
+    "Nichts, solange es lang genug ist",
+    "Dein Passwort läuft schneller ab"
+   ],
+   "aha": "Hunderte Zugangsdaten kann sich niemand merken, also nimmt man halt überall dasselbe. Wird aber eine einzige Seite gehackt, ist das Passwort für alle anderen auch weg – direkt oder indirekt landet es so fast sicher im Netz.",
+   "quote_clean": "Früher habe ich bei vielen Seiten dasselbe Passwort genutzt. Es ist ja unmöglich, sich hunderte verschiedene Zugangsdaten zu merken. Das ist aber sehr unsicher und die eigenen Daten landen dann direkt oder indirekt fast mit hundertprozentiger Sicherheit im Netz.",
+   "quality": 1
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 904-912 passt.",
+   "stand_note": "",
+   "statement": "Mit einem Passwortmanager hat man hunderte komplizierte Passwörter und muss sich nur ein sicheres Masterpasswort merken.",
+   "question": "Wie viele Passwörter musst du dir mit einem Passwortmanager noch merken?",
+   "answer": "Nur ein Masterpasswort",
+   "distractors": [
+    "Eines pro Gerät",
+    "Die fünf wichtigsten",
+    "Gar keines mehr"
+   ],
+   "aha": "Der Passwortmanager merkt sich die hunderten komplizierten Passwörter für dich. Du brauchst nur noch ein einziges – dafür sollte das dann aber wirklich sicher sein.",
+   "quote_clean": "Mit einem Passwortmanager kann man hunderte verschiedene, sehr komplizierte Passwörter besitzen und muss sich nur ein einziges, dafür sehr sicheres Masterpasswort merken.",
+   "quality": 2
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Beleg passt; Quelle als Erinnerung aus Folge 2 gekennzeichnet, Frage präzisiert.",
+   "stand_note": "Stand 2018/2022",
+   "statement": "Bis zu fünf Kaffee am Tag sind gesundheitlich kein Problem, auch wenn Schlaf oder Magen darunter leiden können.",
+   "question": "Wie viele Tassen Kaffee am Tag sind laut Folge 2 (gesunde Ernährung) gesundheitlich kein Problem?",
+   "answer": "5 Tassen",
+   "distractors": [
+    "1 Tasse",
+    "2 Tassen",
+    "10 Tassen"
+   ],
+   "aha": "Diese Zahl hat Andreas seit der zweiten Aufnahme von Erklär mir die Welt im Kopf. Gesundheitlich sind fünf Kaffee kein Thema – ob du dann noch gut schläfst oder Bauchweh kriegst, ist halt eine andere Geschichte.",
+   "quote_clean": "Du kannst sicher 5 Kaffee am Tag trinken und das ist gesundheitlich kein Problem. Ob man dann gut schläft oder vielleicht Bauchweh kriegt, ist eine andere Sache.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Mehrere Argumente im Ausschnitt, Antwort nicht eindeutig; heikles Thema als Meinung.",
+   "stand_note": "",
+   "statement": "Wer Bettelnden kein Geld gibt, ändert dadurch weder ihr Leben noch ihr Verhalten; eine kleine Geste hilft ihnen aber im Moment.",
+   "question": "Welches Argument spricht laut der Folge zu Obdachlosigkeit dafür, Bettelnden trotzdem Geld zu geben?",
+   "answer": "Nicht-Geben ändert ihr Verhalten ohnehin nicht",
+   "distractors": [
+    "Betteln ist meist gut organisiert",
+    "Sachspenden kommen selten an",
+    "Spenden kann man von der Steuer absetzen"
+   ],
+   "aha": "Da sitzt jemand, der eh schon sehr wenig hat – wer bist du, darüber zu urteilen, wofür das Geld ausgegeben wird? Durchs Nicht-Geben änderst du nichts, eine kleine nette Geste hilft aber jetzt gleich.",
+   "quote_clean": "Auch wenn jemand Alkoholiker ist und sich Alkohol darum kauft, kann man durchs Nicht-Geben von Geld dessen Leben und Verhalten nicht ändern. Darum im Zweifel lieber eine kleine nette Geste, die der Person im Moment hilft.",
+   "quality": 1
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aha: Khaled lebte laut Transkript Wochen oder Monate (unsicher), korrigiert.",
+   "stand_note": "",
+   "statement": "Die Geschichte des Menschen ist keine reine Fortschrittsgeschichte; es gibt viele Wege, eine Gesellschaft zu organisieren.",
+   "question": "Welche Lehre hat Andreas aus der beliebten Folge über Jäger und Sammler mitgenommen?",
+   "answer": "Menschheitsgeschichte ist keine reine Fortschrittsgeschichte",
+   "distractors": [
+    "Jäger und Sammler lebten kürzer",
+    "Sesshaftigkeit war immer ein Vorteil",
+    "Moderne Gesellschaften sind am glücklichsten"
+   ],
+   "aha": "Der Anthropologe Khaled hat Wochen oder sogar Monate mit einem Jäger- und Sammlervolk in Thailand gelebt. Unsere hochspezialisierte Welt schafft viel Wohlstand, bringt aber auch andere Probleme, und sie ist nur einer von vielen möglichen Wegen.",
+   "quote_clean": "Und mir mitgegeben, dass die Geschichte des Menschen keine reine Fortschrittsgeschichte ist, sondern dass es viele Wege gibt, eine Gesellschaft zu organisieren",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "fairness"
+   ],
+   "note": "Pauschale Aussage über 'Gentechnik' zu allgemein, Meinung im Rückblick, politisch aufgeladen.",
+   "stand_note": "",
+   "statement": "Wissenschaftlicher Konsens ist, dass Gentechnik keine große Gefahr für Umwelt oder Gesundheit darstellt.",
+   "question": "Was ist laut Andreas wissenschaftlicher Konsens zur Gentechnik?",
+   "answer": "Keine große Gefahr für Umwelt und Gesundheit",
+   "distractors": [
+    "Große Gefahr für die Gesundheit",
+    "Gefährlich für die Umwelt, nicht für Menschen",
+    "Noch völlig unerforscht"
+   ],
+   "aha": "Gerade in Österreich ist die Skepsis groß. Die Folge 167 mit Martin Moder hat aber mehreren Hörer:innen die Meinung geändert – weil die Forschung eben keine große Gefahr für Umwelt oder Gesundheit sieht.",
+   "quote_clean": "was eigentlich wissenschaftlicher Konsens ist, nämlich dass Gentechnik keine große Gefahr für Umwelt oder Gesundheit ist.",
+   "quality": 1
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Erinnerung eines Hörers an Folge; Frage vorsichtiger formuliert.",
+   "stand_note": "",
+   "statement": "Auch Bio-Schweinehaltung ist oft weit davon entfernt, was für die Tiere wirklich gut wäre.",
+   "question": "Stimmt es, dass Bio-Schweinehaltung automatisch ideal für die Tiere ist?",
+   "answer": "Nein, oft weit davon entfernt",
+   "distractors": [
+    "Ja, das garantiert das Bio-Siegel",
+    "Ja, zumindest in Österreich",
+    "Nur bei Freilandhaltung im Sommer"
+   ],
+   "aha": "Ein Hörer hat das aus dem Besuch beim Schweinebauern mitgenommen: Bio ist nicht automatisch gleich gute Tierhaltung. Auch beim Bio-Schweinefleisch ist man oft weit weg von dem, was den Tieren eigentlich guttun würde.",
+   "quote_clean": "dass wirklich adäquate Tierhaltung nicht unbedingt bio ist, dass nämlich auch Bio-Schweinefleisch oft weit davon entfernt ist, was eigentlich gut für die Tiere wäre.",
+   "quality": 2
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2375-2383 passt.",
+   "stand_note": "",
+   "statement": "Als Faustregel für Beziehungen gilt: Für jede Grauslichkeit sollte man fünf schöne Dinge als Ausgleich sagen.",
+   "question": "Wie viele schöne Sachen solltest du laut Faustregel für jede Grauslichkeit in der Beziehung als Ausgleich sagen?",
+   "answer": "5",
+   "distractors": [
+    "1",
+    "3",
+    "10"
+   ],
+   "aha": "Ein Ausrutscher wiegt offenbar schwerer als ein Kompliment, darum braucht's ein ordentliches Polster. Mechanisch abzählen muss man nicht – als Daumen-mal-Pi-Regel aus der Folge mit Kathi Henz ist es aber hängen geblieben.",
+   "quote_clean": "dass man für jede Grauslichkeit fünf schöne Sachen als Ausgleich sagen soll. Nicht so mechanisch, nur als Daumen-mal-Pi-Regel.",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg passt; Zeitbezug auf Folge 36 (2018) präzisiert.",
+   "stand_note": "",
+   "statement": "Zu Beginn des Podcasts aß Andreas jeden Tag dasselbe Frühstück und bezeichnet sich als damaliges kulinarisches Nockerbatzel.",
+   "question": "Wie beschreibt sich Andreas kulinarisch zur Zeit von Folge 36 mit Katharina Seiser im Jahr 2018?",
+   "answer": "Als ziemliches Nockerbatzel",
+   "distractors": [
+    "Als heimlicher Haubenkoch",
+    "Als strenger Veganer",
+    "Als Fast-Food-Junkie"
+   ],
+   "aha": "Jeden Tag dasselbe Frühstück, Essen war ihm wurscht und kochen konnte er auch nicht. Gäste wie Katharina Seiser und Paul Ivić haben mitgeholfen, dass sich das geändert hat.",
+   "quote_clean": "Und damals habe ich noch jeden Tag dasselbe zum Frühstück gegessen, weil ich mich damit nicht beschäftigt habe, und war kulinarisch ein ziemliches Nockerbatzel.",
+   "quality": 3
+  }
+ ],
+ "id": "s20220412",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

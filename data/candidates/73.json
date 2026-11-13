@@ -1,0 +1,736 @@
+{
+ "theme": "Österreich & Politik",
+ "summary": "Wie wird in Österreich eigentlich ein Gesetz gemacht? Sarah König aus der Parlamentsdirektion führt uns vom Ministerium bis ins Bundesgesetzblatt.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 127,
+   "speaker": "Sarah König",
+   "quote": "Ich bin eine von 400 Bediensteten der Parlamentsdirektion. Die Parlamentsdirektion ist eine von den politischen Parteien und auch sonstigen Institutionen unabhängige",
+   "quote_clean": "Ich bin eine von 400 Bediensteten der Parlamentsdirektion. Die Parlamentsdirektion ist eine von den politischen Parteien und auch sonstigen Institutionen unabhängige Verwaltungseinheit.",
+   "statement": "Die Parlamentsdirektion, die unabhängig von den Parteien die Abgeordneten unterstützt, hatte 2019 rund 400 Bedienstete.",
+   "question": "Wie viele Bedienstete hatte die österreichische Parlamentsdirektion 2019 ungefähr?",
+   "answer": "Rund 400",
+   "distractors": [
+    "Rund 80",
+    "Rund 1.500",
+    "Rund 4.000"
+   ],
+   "number_value": 400,
+   "number_unit": "Bedienstete",
+   "slider_min": 20,
+   "slider_max": 3000,
+   "log_scale": true,
+   "aha": "Hinter den 183 Abgeordneten steht eine ganze Verwaltung, aufgeteilt auf sieben Dienste. Da sitzen Jurist:innen, eine eigene Informatik und sogar hauseigene Elektriker.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Parlament",
+    "Verwaltung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 329,
+   "speaker": "Sarah König",
+   "quote": "oder in einer Oppositionsfraktion. Deswegen, weil die Oppositionsfraktionen nur Initiativanträge einbringen können.",
+   "quote_clean": "Oder in einer Oppositionsfraktion. Deswegen, weil die Oppositionsfraktionen nur Initiativanträge einbringen können.",
+   "statement": "Oppositionsabgeordnete können Gesetze nur über Initiativanträge ins Parlament bringen, weil ihnen kein Ministerium zuarbeitet.",
+   "question": "Wie bringt die Opposition im Nationalrat einen eigenen Gesetzesvorschlag ein?",
+   "answer": "Über einen Initiativantrag",
+   "distractors": [
+    "Über eine Regierungsvorlage",
+    "Über den Bundespräsidenten",
+    "Über einen Ministerialentwurf"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Regierungsparteien können sich einen Entwurf einfach von den Beamt:innen im Ministerium schreiben lassen. Die Opposition hat diese Hilfe nicht und muss selbst einen Antrag einbringen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gesetzgebung",
+    "Opposition"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 335,
+   "speaker": "Sarah König",
+   "quote": "nur Initiativanträge einbringen können. Es gibt vier Möglichkeiten, wie so ein Gesetz sozusagen in den Nationalrat dann direkt kommt.",
+   "quote_clean": "Es gibt vier Möglichkeiten, wie ein Gesetz in den Nationalrat kommt.",
+   "statement": "Es gibt vier Wege, wie ein Gesetzesvorschlag in den Nationalrat kommt: Initiativantrag, Regierungsvorlage, Antrag des Bundesrates und Volksbegehren.",
+   "question": "Auf wie vielen verschiedenen Wegen kann ein Gesetzesvorschlag in Österreich in den Nationalrat kommen?",
+   "answer": "4",
+   "distractors": [
+    "2",
+    "6",
+    "9"
+   ],
+   "number_value": 4,
+   "number_unit": "Wege",
+   "slider_min": 1,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Abgeordnete, die Regierung, der Bundesrat und wir Bürger:innen per Volksbegehren. Der übliche Weg ist aber die Regierungsvorlage, weil die Regierung eh die Mehrheit hat.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gesetzgebung",
+    "Nationalrat"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 377,
+   "speaker": "Sarah König",
+   "quote": "Und erst wenn der Ministerrat dann einstimmig über diesen Ministerialentwurf schon mal drüber gestimmt hat und den einstimmig angenommen hat, kommt es als Regierungsvorlage ins Parlament.",
+   "quote_clean": "Und erst wenn der Ministerrat diesen Ministerialentwurf einstimmig angenommen hat, kommt er als Regierungsvorlage ins Parlament.",
+   "statement": "Ein Ministerialentwurf wird erst zur Regierungsvorlage, wenn der Ministerrat ihn einstimmig beschlossen hat.",
+   "question": "Welche Mehrheit braucht ein Gesetzesentwurf im Ministerrat, bevor er als Regierungsvorlage ins Parlament geht?",
+   "answer": "Einstimmigkeit",
+   "distractors": [
+    "Einfache Mehrheit",
+    "Zweidrittelmehrheit",
+    "Nur die Kanzlerunterschrift"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Ministerrat sitzen alle Minister:innen, und jede:r hat quasi ein Vetorecht. Darum wird in Koalitionen vorher so lang gestritten, bevor ein Gesetz überhaupt ins Parlament kommt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ministerrat",
+    "Regierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 493,
+   "speaker": "Sarah König",
+   "quote": "Und jetzt seit 2017 im erweiterten Begutachtungsverfahren, wie wir das nennen, auch der Öffentlichkeit die Chance zu geben, zu jeder Stellungnahme zum Beispiel auch einen Like-Button zu drücken.",
+   "quote_clean": "Und jetzt seit 2017, im erweiterten Begutachtungsverfahren, wie wir das nennen, bekommt auch die Öffentlichkeit die Chance, zu jeder Stellungnahme einen Like-Button zu drücken.",
+   "statement": "Seit 2017 kann man im erweiterten Begutachtungsverfahren auf der Parlamentswebsite Stellungnahmen zu Gesetzesentwürfen per Like-Button unterstützen.",
+   "question": "Seit welchem Jahr kann man auf der Parlamentswebsite Stellungnahmen zu Gesetzesentwürfen mit einem Like unterstützen?",
+   "answer": "2017",
+   "distractors": [
+    "2005",
+    "2011",
+    "2021"
+   ],
+   "number_value": 2017,
+   "number_unit": "Jahr",
+   "slider_min": 2000,
+   "slider_max": 2024,
+   "log_scale": false,
+   "aha": "Rechtlich verbindlich ist so ein Like nicht. Aber die Abgeordneten sehen vorab, was die Öffentlichkeit von einem Entwurf hält, und du kannst auch selbst eine Stellungnahme schicken.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Begutachtung",
+    "Bürgerbeteiligung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 786,
+   "speaker": "Sarah König",
+   "quote": "weil ja das Ausschussverfahren jetzt bis auf wenige Ausnahmen nicht öffentlich stattfindet, sondern hinter verschlossenen Türen, wo auch du als Medienvertreter nicht zuhören darfst.",
+   "quote_clean": "Weil das Ausschussverfahren bis auf wenige Ausnahmen nicht öffentlich stattfindet, sondern hinter verschlossenen Türen, wo auch du als Medienvertreter nicht zuhören darfst.",
+   "statement": "Die Ausschüsse des Nationalrats tagen bis auf wenige Ausnahmen nicht öffentlich, auch Journalist:innen dürfen nicht zuhören.",
+   "question": "Wer darf bei einer normalen Ausschusssitzung im Nationalrat zuhören?",
+   "answer": "Keine Öffentlichkeit, auch keine Medien",
+   "distractors": [
+    "Alle Bürger:innen auf der Tribüne",
+    "Akkreditierte Journalist:innen",
+    "Live-Publikum über ORF III"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Detailarbeit an einem Gesetz passiert also hinter verschlossenen Türen. Darum muss der Ausschussbericht immer noch ins Plenum, wo öffentlich diskutiert wird, und die hauseigene Parlamentskorrespondenz darf berichten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ausschuss",
+    "Transparenz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 907,
+   "speaker": "Sarah König",
+   "quote": "Ich glaube, da kann man keine allgemeine Antwort geben. Es kommt also die Lieblingsantwort des Juristen. Es kommt darauf an.",
+   "quote_clean": "Ich glaube, da kann man keine allgemeine Antwort geben. Es kommt die Lieblingsantwort des Juristen: Es kommt darauf an.",
+   "statement": "Auf die Frage, wie viel im Ausschuss noch verändert wird, antwortet Sarah König mit der „Lieblingsantwort des Juristen“: Es kommt darauf an.",
+   "question": "Was nennt Sarah König die „Lieblingsantwort des Juristen“?",
+   "answer": "Es kommt darauf an.",
+   "distractors": [
+    "Das ist verfassungswidrig.",
+    "Siehe Geschäftsordnung.",
+    "Das regelt der Bund."
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Manchmal kommt im Ausschuss noch eine gute Idee dazu, manchmal braucht man eine kleine Partei für die Verfassungsmehrheit. Wie viel sich ändert, hängt auch davon ab, wie emotional ein Thema diskutiert wird.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ausschuss",
+    "Juristerei"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 965,
+   "speaker": "Sarah König",
+   "quote": "Ja, ein kurzer Exkurs vielleicht zu den drei verschiedenen Parteibegriffen, die wir in unserer österreichischen Rechtsordnung unterscheiden. Und zwar die politische Partei, die man sehr leicht gründen kann, laut dem Parteiengesetz.",
+   "quote_clean": "Ein kurzer Exkurs zu den drei verschiedenen Parteibegriffen, die wir in unserer österreichischen Rechtsordnung unterscheiden: die politische Partei, die man laut Parteiengesetz sehr leicht gründen kann.",
+   "statement": "Das österreichische Recht unterscheidet drei Begriffe: die politische Partei, die Wahlpartei für eine Wahl und den parlamentarischen Club im Nationalrat.",
+   "question": "Was gründen die Abgeordneten einer Liste nach dem Einzug in den Nationalrat, um gemeinsam zu arbeiten?",
+   "answer": "Einen parlamentarischen Club",
+   "distractors": [
+    "Eine Wahlpartei",
+    "Einen Ministerrat",
+    "Eine Präsidialkonferenz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine Partei gründest du recht leicht, für die Wahl brauchst du dann eine Wahlpartei. Und wer gewählt ist, gründet binnen eines Monats einen Club, der etwa in der Präsidialkonferenz sitzt und Ausschussvorsitze stellen kann.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Parteien",
+    "Clubs"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1044,
+   "speaker": "Sarah König",
+   "quote": "Also als einzelne Abgeordnete im österreichischen Parlament, die ja auch so oft als wilder Abgeordneter bezeichnet werden, als Parlamentarier ohne Fraktionszugehörigkeit, ohne Clubzugehörigkeit, hat man es nicht leicht.",
+   "quote_clean": "Als einzelne Abgeordnete im österreichischen Parlament, die oft als wilde Abgeordnete bezeichnet werden, also als Parlamentarier ohne Fraktions- und Clubzugehörigkeit, hat man es nicht leicht.",
+   "statement": "Abgeordnete ohne Clubzugehörigkeit werden in Österreich oft „wilde Abgeordnete“ genannt und haben es im Parlament schwer.",
+   "question": "Wie nennt man in Österreich umgangssprachlich Abgeordnete, die keinem parlamentarischen Club angehören?",
+   "answer": "Wilde Abgeordnete",
+   "distractors": [
+    "Freie Radikale",
+    "Stille Abgeordnete",
+    "Graue Mandatare"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ohne Club bekommst du weniger Redezeit, sitzt nicht in der Präsidialkonferenz und kriegst kein Geld aus der Clubfinanzierung. Das passiert oft, wenn sich kleine neue Parteien zerstreiten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Abgeordnete",
+    "Clubs"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1076,
+   "speaker": "Andreas Sator",
+   "quote": "Das heißt, es könnten sich, wie das sehr theoretisch, alle Abgeordneten von ÖVP und SPÖ dann im Parlament zusammentun zum Club der lustigen Trinkerinnen und Trinker,",
+   "quote_clean": "Das heißt, es könnten sich, sehr theoretisch, alle Abgeordneten von ÖVP und SPÖ im Parlament zusammentun zum Club der lustigen Trinkerinnen und Trinker.",
+   "statement": "Andreas fragt, ob sich Abgeordnete verschiedener Parteien theoretisch zu einem „Club der lustigen Trinkerinnen und Trinker“ zusammenschließen könnten.",
+   "question": "Welchen erfundenen Parlamentsclub schlägt Andreas als Gedankenexperiment vor?",
+   "answer": "Club der lustigen Trinkerinnen und Trinker",
+   "distractors": [
+    "Club der freien Radfahrer",
+    "Club der stillen Mitte",
+    "Club der wilden Wiener"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ganz so einfach geht das nicht: Abgeordnete aus verschiedenen Listen dürfen nur mit Zustimmung des Nationalrats einen gemeinsamen Club bilden. Die lustigen Trinker:innen müssen also warten.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Clubs",
+    "Humor"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1292,
+   "speaker": "Sarah König",
+   "quote": "Lesung heißt Diskussion, also man darf sich das nicht so vorstellen, dass da jemand diesen gesamten Gesetzestext vorliest, sondern dass es diskutiert wird,",
+   "quote_clean": "Lesung heißt Diskussion. Man darf sich das nicht so vorstellen, dass da jemand den gesamten Gesetzestext vorliest, sondern dass es diskutiert wird.",
+   "statement": "Eine „Lesung“ im Nationalrat bedeutet, dass ein Gesetz debattiert wird, nicht dass jemand den Text vorliest.",
+   "question": "Was passiert bei einer „Lesung“ eines Gesetzes im Nationalrat?",
+   "answer": "Das Gesetz wird debattiert",
+   "distractors": [
+    "Der ganze Text wird vorgelesen",
+    "Der Präsident liest die Präambel",
+    "Juristen prüfen den Wortlaut"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Niemand steht da und liest Paragraf für Paragraf vor. Die Abgeordneten halten Reden zu den Eckpunkten, mit Redezeitbeschränkung, und dann wird abgestimmt.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Plenum",
+    "Gesetzgebung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1498,
+   "speaker": "Sarah König",
+   "quote": "Und im Extremfall können 31 Abgeordnete ein Gesetz beschließen, wenn man sich das anschaut und durchrechnet.",
+   "quote_clean": "Im Extremfall können 31 Abgeordnete ein Gesetz beschließen, wenn man sich das anschaut und durchrechnet.",
+   "statement": "Weil für einen einfachen Gesetzesbeschluss ein Drittel der Abgeordneten anwesend sein und die Hälfte davon zustimmen muss, reichen im Extremfall 31 von 183 Abgeordneten.",
+   "question": "Wie viele der 183 Nationalratsabgeordneten können im Extremfall ein einfaches Gesetz beschließen?",
+   "answer": "31",
+   "distractors": [
+    "61",
+    "92",
+    "122"
+   ],
+   "number_value": 31,
+   "number_unit": "Abgeordnete",
+   "slider_min": 1,
+   "slider_max": 183,
+   "log_scale": false,
+   "aha": "Ein Drittel muss da sein, das sind 61, und davon reicht die Hälfte. Passiert aber so nie, weil das Präsidium sehr genau schaut, wie voll der Saal ist.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Nationalrat",
+    "Abstimmung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1513,
+   "speaker": "Sarah König",
+   "quote": "Zehn Minuten bevor es eine Abstimmung gibt, wird auch ein Einleutesignal ausgeschickt. Das haben die Abgeordneten jetzt als App am Handy,",
+   "quote_clean": "Zehn Minuten bevor es eine Abstimmung gibt, wird ein Einläutesignal ausgeschickt. Das haben die Abgeordneten jetzt als App am Handy.",
+   "statement": "Zehn Minuten vor einer Abstimmung bekommen die Abgeordneten ein Einläutesignal, inzwischen per App am Handy.",
+   "question": "Wie viele Minuten vor einer Abstimmung im Nationalrat wird das Einläutesignal an die Abgeordneten geschickt?",
+   "answer": "10 Minuten",
+   "distractors": [
+    "2 Minuten",
+    "30 Minuten",
+    "60 Minuten"
+   ],
+   "number_value": 10,
+   "number_unit": "Minuten",
+   "slider_min": 1,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Während der Sanierung saß das Parlament verteilt im ersten Bezirk, also brauchte es eine Vorwarnung. Die Glocke kommt heute als Push-Nachricht.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Nationalrat",
+    "Abstimmung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1583,
+   "speaker": "Sarah König",
+   "quote": "Die Parlamentsdirektion hält grundsätzlich nur das Stimmverhalten pro Fraktion jetzt bei einer normalen Abstimmung fest.",
+   "quote_clean": "Die Parlamentsdirektion hält bei einer normalen Abstimmung grundsätzlich nur das Stimmverhalten pro Fraktion fest.",
+   "statement": "Bei einer normalen Abstimmung im Nationalrat wird offiziell nur festgehalten, wie jede Fraktion gestimmt hat, nicht jede einzelne Person.",
+   "question": "Was hält die Parlamentsdirektion bei einer normalen Abstimmung im Nationalrat fest?",
+   "answer": "Das Stimmverhalten pro Fraktion",
+   "distractors": [
+    "Die Stimme jeder Person",
+    "Nur das Gesamtergebnis in Prozent",
+    "Gar nichts, nur das Video"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer genau wie gestimmt hat, sieht man nur bei namentlichen Abstimmungen. Manche Medien fotografieren deshalb jede Abstimmung, um es nachvollziehen zu können.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Abstimmung",
+    "Transparenz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1655,
+   "speaker": "Sarah König",
+   "quote": "Oder auch wenn das Budget, wenn es ums Budget geht, hat der Bundesrat auch kein Mitwirkungsrecht. Das ist in unserer Verfassung festgelegt.",
+   "quote_clean": "Oder auch, wenn es ums Budget geht, hat der Bundesrat kein Mitwirkungsrecht. Das ist in unserer Verfassung festgelegt.",
+   "statement": "Beim Budget hat der Bundesrat laut Verfassung kein Mitwirkungsrecht.",
+   "question": "Welche Rolle spielt der Bundesrat beim Beschluss des Bundesbudgets?",
+   "answer": "Gar keine, kein Mitwirkungsrecht",
+   "distractors": [
+    "Er muss zustimmen",
+    "Er hat ein Vetorecht",
+    "Er beschließt es zuerst"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Budgethoheit liegt beim Nationalrat. Auch wenn sich der Nationalrat selbst auflöst oder seine Geschäftsordnung ändert, darf der Bundesrat nicht mitreden.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bundesrat",
+    "Budget"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1706,
+   "speaker": "Sarah König",
+   "quote": "dass der Bundesrat ein Einspruchsrecht hat und das bedeutet, dass er innerhalb von acht Wochen, nachdem ihm dieser Nationalratsbeschluss übermittelt wurde, entweder einen Einspruch erhebt",
+   "quote_clean": "Dass der Bundesrat ein Einspruchsrecht hat, und das bedeutet, dass er innerhalb von acht Wochen, nachdem ihm der Nationalratsbeschluss übermittelt wurde, entweder einen Einspruch erhebt",
+   "statement": "Der Bundesrat hat im Regelfall acht Wochen Zeit, gegen einen Gesetzesbeschluss des Nationalrats Einspruch zu erheben, sonst gilt er als einspruchslos.",
+   "question": "Wie viele Wochen hat der Bundesrat im Regelfall Zeit, gegen einen Beschluss des Nationalrats Einspruch zu erheben?",
+   "answer": "8 Wochen",
+   "distractors": [
+    "2 Wochen",
+    "4 Wochen",
+    "12 Wochen"
+   ],
+   "number_value": 8,
+   "number_unit": "Wochen",
+   "slider_min": 1,
+   "slider_max": 26,
+   "log_scale": false,
+   "aha": "Der Bundesrat muss gar nichts tun: Nach acht Wochen wird einfach so getan, als hätte er keinen Einspruch erhoben. Aufhalten kann er ein Gesetz damit meistens nur kurz.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Bundesrat",
+    "Gesetzgebung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1756,
+   "speaker": "Sarah König",
+   "quote": "Also als Bürger wählen wir die Bundesräte und Bundesrätinnen auch nicht direkt, so wie wir das mit den Abgeordneten des Nationalrates machen, sondern wir wählen unsere Landtage,",
+   "quote_clean": "Als Bürger wählen wir die Bundesräte und Bundesrätinnen nicht direkt, so wie wir das mit den Abgeordneten des Nationalrates machen, sondern wir wählen unsere Landtage.",
+   "statement": "Die Mitglieder des Bundesrats werden nicht direkt gewählt, sondern von den Landtagen entsendet, um Landesinteressen zu vertreten.",
+   "question": "Wie kommen die Mitglieder des österreichischen Bundesrats in ihr Amt?",
+   "answer": "Die Landtage entsenden sie",
+   "distractors": [
+    "Direktwahl durch das Volk",
+    "Ernennung durch den Bundespräsidenten",
+    "Wahl durch den Nationalrat"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Du wählst den Landtag, und der schickt Leute in die zweite Kammer des Parlaments. Darum hat kaum wer einen Bundesrat oder eine Bundesrätin persönlich gewählt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bundesrat",
+    "Föderalismus"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1816,
+   "speaker": "Sarah König",
+   "quote": "Es hat jetzt in der Geschichte nur einen Fall gegeben, wo das nicht passiert ist. Das war 2008, eben durch den Herrn Bundespräsidenten Fischer damals,",
+   "quote_clean": "Es hat in der Geschichte nur einen Fall gegeben, wo das nicht passiert ist. Das war 2008, durch den damaligen Bundespräsidenten Fischer.",
+   "statement": "Nur einmal hat ein Bundespräsident die Beurkundung eines Gesetzes verweigert: Heinz Fischer im Jahr 2008.",
+   "question": "In welchem Jahr hat ein österreichischer Bundespräsident zum bisher einzigen Mal die Beurkundung eines Gesetzes verweigert?",
+   "answer": "2008",
+   "distractors": [
+    "1986",
+    "1999",
+    "2016"
+   ],
+   "number_value": 2008,
+   "number_unit": "Jahr",
+   "slider_min": 1950,
+   "slider_max": 2019,
+   "log_scale": false,
+   "aha": "Heinz Fischer stoppte eine Gewerbeordnungsnovelle, weil sie eine rückwirkende Verwaltungsstrafe enthielt. Der Bundespräsident prüft nämlich, ob ein Gesetz verfassungsmäßig zustande gekommen ist.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Bundespräsident",
+    "Verfassung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1895,
+   "speaker": "Sarah König",
+   "quote": "dafür gibt es eben das Bundesgesetzblatt, das ist 2004 authentisch, also sofort rechtsgültig elektronisch, das Rechtsinformationssystem",
+   "quote_clean": "Dafür gibt es das Bundesgesetzblatt, das seit 2004 elektronisch authentisch, also sofort rechtsgültig ist, im Rechtsinformationssystem.",
+   "statement": "Seit 2004 ist das österreichische Bundesgesetzblatt in seiner elektronischen Form im Rechtsinformationssystem RIS rechtsgültig.",
+   "question": "Seit welchem Jahr ist das Bundesgesetzblatt in Österreich elektronisch im RIS rechtsgültig?",
+   "answer": "2004",
+   "distractors": [
+    "1995",
+    "2010",
+    "2015"
+   ],
+   "number_value": 2004,
+   "number_unit": "Jahr",
+   "slider_min": 1990,
+   "slider_max": 2020,
+   "log_scale": false,
+   "aha": "Ein Gesetz gilt erst, wenn es kundgemacht ist, damit alle nachlesen können, was gilt. Seit 2004 ist dafür die Online-Version auf ris.bka.gv.at die offizielle.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Bundesgesetzblatt",
+    "Digitalisierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1926,
+   "speaker": "Sarah König",
+   "quote": "dann wird das Gesetz grundsätzlich mit dem Tag, der auf die Kundmachung folgt, mit 0 Uhr gültig und ab dem Zeitpunkt gelten alle Dinge,",
+   "quote_clean": "Dann wird das Gesetz grundsätzlich mit dem Tag, der auf die Kundmachung folgt, um 0 Uhr gültig, und ab dem Zeitpunkt gelten alle Dinge, die darin stehen.",
+   "statement": "Wenn nichts anderes festgelegt ist, tritt ein Bundesgesetz um 0 Uhr des Tages nach seiner Kundmachung in Kraft.",
+   "question": "Wann tritt ein österreichisches Bundesgesetz in Kraft, wenn darin kein eigener Termin steht?",
+   "answer": "Um 0 Uhr am Tag nach der Kundmachung",
+   "distractors": [
+    "Sofort mit der Unterschrift",
+    "Am Ersten des Folgemonats",
+    "Acht Wochen nach dem Beschluss"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Unterschrift des Bundespräsidenten allein reicht nicht. Erst wenn das Gesetz im Bundesgesetzblatt steht, gilt es, und zwar ab Mitternacht des nächsten Tages.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kundmachung",
+    "Gesetzgebung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2054,
+   "speaker": "Sarah König",
+   "quote": "Zugehörigkeit eigentlich und die Minister müssen dann innerhalb von zwei Monaten antworten. Wenn sie nicht antworten,",
+   "quote_clean": "Und die Minister müssen dann innerhalb von zwei Monaten antworten.",
+   "statement": "Auf eine parlamentarische Anfrage, die mindestens fünf Abgeordnete unterschreiben, muss ein Regierungsmitglied innerhalb von zwei Monaten antworten.",
+   "question": "Innerhalb wie vieler Monate muss ein Minister eine parlamentarische Anfrage beantworten?",
+   "answer": "2 Monate",
+   "distractors": [
+    "2 Wochen",
+    "6 Monate",
+    "1 Jahr"
+   ],
+   "number_value": 2,
+   "number_unit": "Monate",
+   "slider_min": 0,
+   "slider_max": 12,
+   "log_scale": false,
+   "aha": "Das ist das Interpellationsrecht, eines der Kontrollrechte des Parlaments. Wer nicht antwortet, riskiert politisch etwas, bis hin zu einem Misstrauensantrag.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Anfragen",
+    "Kontrolle"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2103,
+   "speaker": "Sarah König",
+   "quote": "aber bis heuer im Mai ist eben in der Zweiten Republik noch keins durchgegangen. Und heuer schon. Und heuer schon, ja, heuer schon, es war eine Premiere,",
+   "quote_clean": "Aber bis heuer im Mai ist in der Zweiten Republik noch keines durchgegangen. Heuer schon, es war eine Premiere.",
+   "statement": "Im Mai 2019 ging zum ersten Mal in der Zweiten Republik ein Misstrauensvotum im Nationalrat durch.",
+   "question": "Wann ging in der Zweiten Republik zum ersten Mal ein Misstrauensvotum im Nationalrat durch?",
+   "answer": "Im Mai 2019",
+   "distractors": [
+    "Im Jahr 1970",
+    "Im Jahr 2000",
+    "Noch nie"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Davor gab es Dutzende Misstrauensanträge, allein 2008 bis 2013 waren es laut Sarah König 41. Am 27. Mai 2019, nach dem Ibiza-Video, sprach der Nationalrat dann der ganzen Regierung das Misstrauen aus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Misstrauensvotum",
+    "Zweite Republik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2171,
+   "speaker": "Sarah König",
+   "quote": "Man nennt deswegen oder man sagt deswegen auch, dass das Parlament die Budgethoheit hat. Das klingt irgendwie noch sehr monarchistisch, aber ist tatsächlich eine wichtige Aufgabe.",
+   "quote_clean": "Man sagt deswegen auch, dass das Parlament die Budgethoheit hat. Das klingt noch sehr monarchistisch, ist aber tatsächlich eine wichtige Aufgabe.",
+   "statement": "Weil der Nationalrat beschließt, wofür der Staat Geld ausgibt, sagt man, das Parlament hat die Budgethoheit.",
+   "question": "Wie nennt man das Recht des Parlaments, zu beschließen, wofür der Staat Geld ausgibt?",
+   "answer": "Budgethoheit",
+   "distractors": [
+    "Finanzhoheit des Kanzlers",
+    "Steuerprärogativ",
+    "Haushaltsvorbehalt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Wort klingt nach Krone und Hofstaat, meint aber das Gegenteil: Nicht die Regierung allein, sondern die gewählten Abgeordneten entscheiden öffentlich über das Geld und kontrollieren es danach.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Budget",
+    "Nationalrat"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 2193,
+   "speaker": "Andreas Sator",
+   "quote": "Gibt es irgendetwas, wie man das Parlament in Österreich moderner oder besser machen könnte?",
+   "quote_clean": "Gibt es irgendetwas, wie man das Parlament in Österreich moderner oder besser machen könnte?",
+   "statement": "Zum Schluss fragt Andreas, wie man das österreichische Parlament moderner oder besser machen könnte.",
+   "question": "Mit welcher Frage schließt Andreas das Gespräch über das Parlament ab?",
+   "answer": "Wie man es besser machen könnte",
+   "distractors": [
+    "Wie oft sie selbst wählt",
+    "Welche Partei sie wählen würde",
+    "Wie viel Abgeordnete verdienen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas bringt als Beispiel die Hearings im US-Senat. Sarah König verweist auf das Geschäftsordnungskomitee und darauf, dass auch du deine Ideen einem Club oder der Parlamentsdirektion schicken kannst.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Reform",
+    "Parlament"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2290,
+   "speaker": "Sarah König",
+   "quote": "Ich glaube, Parlamentarismus muss lebendig bleiben und wir haben jetzt Crowdsourcing gestartet im Parlament auch.",
+   "quote_clean": "Ich glaube, Parlamentarismus muss lebendig bleiben, und wir haben jetzt im Parlament auch Crowdsourcing gestartet.",
+   "statement": "Sarah König findet, Parlamentarismus muss lebendig bleiben, und verweist auf ein Crowdsourcing-Projekt des Parlaments.",
+   "question": "Wer sagt: „Parlamentarismus muss lebendig bleiben“?",
+   "answer": "Sarah König",
+   "distractors": [
+    "Andreas Sator",
+    "Christian Kern",
+    "Heinz Fischer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Beim Crowdsourcing wurden Bürger:innen gefragt, wie sie sich das neue Besucher:innenzentrum im sanierten Parlament vorstellen. Offen für Veränderung bleiben, das ist ihr Punkt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Bürgerbeteiligung",
+    "Parlament"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "73",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

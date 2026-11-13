@@ -1,0 +1,277 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Pearl-Index korrekt erklärt, Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Der Pearl-Index gibt an, wie viele von 100 Frauen innerhalb eines Jahres trotz einer bestimmten Verhütungsmethode schwanger werden.",
+   "question": "Was misst der Pearl-Index bei Verhütungsmitteln?",
+   "answer": "Schwangerschaften pro 100 Frauen pro Jahr",
+   "distractors": [
+    "Nebenwirkungen pro 100 Anwenderinnen",
+    "Hormondosis pro Tag in Mikrogramm",
+    "Anteil der Frauen, die es verwenden"
+   ],
+   "aha": "Je kleiner der Pearl-Index, desto sicherer die Methode. Man nimmt 100 Frauen, lässt sie ein Jahr lang so verhüten und zählt, wie viele trotzdem schwanger werden. Klingt simpel, ist aber die Zahl, an der sich jede Methode messen lassen muss.",
+   "quote_clean": "Der Pearl-Index sagt aus, wie viele Frauen innerhalb von einem Jahr mit der gewählten Verhütungsmethode schwanger werden.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "15 von 100 bei typischer Anwendung passt zu gängigen Studienwerten (ca. 13 bis 18), im Transkript klar belegt.",
+   "stand_note": "",
+   "statement": "Bei nicht ganz korrekter Anwendung des Kondoms werden pro Jahr etwa 15 von 100 Frauen schwanger.",
+   "question": "Wie viele von 100 Frauen werden pro Jahr schwanger, wenn das Kondom im Alltag nicht immer richtig verwendet wird?",
+   "answer": "Etwa 15",
+   "distractors": [
+    "Etwa 2",
+    "Etwa 5",
+    "Etwa 30"
+   ],
+   "aha": "Perfekt angewendet sind es nur zwei von 100. Aber Fingernägel, die falsche Größe oder ein Abrutschen machen aus dem sicheren Kondom im echten Leben ein deutlich wackligeres.",
+   "quote_clean": "Beim Kondom werden theoretisch, wenn man es absolut richtig anwendet, circa zwei von 100 pro Jahr schwanger, und wenn man es nicht richtig verwendet, 15 pro Jahr.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt und korrekt; als Verhütungsmethode schützt nur das Kondom (inkl. Femidom) vor Infektionen.",
+   "stand_note": "",
+   "statement": "Das Kondom ist die einzige Verhütungsmethode, die auch vor sexuell übertragbaren Infektionen schützt.",
+   "question": "Welche Verhütungsmethode schützt als einzige auch vor sexuell übertragbaren Infektionen?",
+   "answer": "Das Kondom",
+   "distractors": [
+    "Die Kupferspirale",
+    "Die Pille",
+    "Der Vaginalring"
+   ],
+   "aha": "Pille, Spirale und Co. verhindern nur die Schwangerschaft, gegen Chlamydien oder HIV tun sie gar nichts. Deshalb ist Doris gerade bei Jugendlichen mit wechselnden Partner:innen ein großer, großer Fan vom Kondom.",
+   "quote_clean": "Aber grundsätzlich bin ich ein großer Fan vom Kondom, gerade bei Jugendlichen, die öfter den Partner wechseln, weil es die einzige Methode ist, die gegen Infektionskrankheiten schützt.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Im Transkript klar (0,3 und 3 von 1000 konsistent).",
+   "stand_note": "",
+   "statement": "Bei korrekter Einnahme der Pille werden pro Jahr etwa 3 von 1000 Frauen schwanger.",
+   "question": "Wie viele von 1000 Frauen werden pro Jahr schwanger, wenn sie die Pille immer korrekt einnehmen?",
+   "answer": "Etwa 3",
+   "distractors": [
+    "Etwa 1",
+    "Etwa 10",
+    "Etwa 30"
+   ],
+   "aha": "Das entspricht einem Pearl-Index von 0,3 und ist damit deutlich sicherer als das Kondom. Der Haken ist das Wort korrekt: jeden Tag, ohne Vergessen.",
+   "quote_clean": "Das heißt, 3 von 1000 werden pro Jahr mit der Pille schwanger, wenn man sie richtig verwendet.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "8 von 100 belegt und plausibel; 80/3 ist knapp 27, also fast dreißigmal.",
+   "stand_note": "",
+   "statement": "Bei realistischer Anwendung der Pille mit Einnahmefehlern werden pro Jahr etwa 8 von 100 Frauen schwanger.",
+   "question": "Wie viele von 100 Frauen werden pro Jahr schwanger, wenn die Pille realistisch, also mit gelegentlichen Fehlern, genommen wird?",
+   "answer": "Etwa 8",
+   "distractors": [
+    "Etwa 1",
+    "Etwa 3",
+    "Etwa 20"
+   ],
+   "aha": "Aus 3 von 1000 werden im echten Leben 8 von 100, also fast dreißigmal so viele. Schuld ist der Einnahmefehler: Pille vergessen, beim Freund übernachtet, Packerl daheim.",
+   "quote_clean": "Und wenn man sie nicht richtig verwendet, was realistisch ist, dann werden 8 von 100 pro Jahr schwanger.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Eisprunghemmung ist der Hauptmechanismus; die Aussage zur verhinderten Einnistung ist medizinisch nicht gesichert und wird aus Statement und Aha entfernt.",
+   "stand_note": "",
+   "statement": "Die Pille verhindert vor allem den Eisprung und verändert zusätzlich den Schleim, sodass Spermien nicht zur Eizelle gelangen.",
+   "question": "Was ist der wichtigste Wirkmechanismus der Pille?",
+   "answer": "Sie verhindert den Eisprung",
+   "distractors": [
+    "Sie tötet Spermien direkt ab",
+    "Sie verschließt die Eileiter",
+    "Sie senkt die Körpertemperatur"
+   ],
+   "aha": "Ohne Eisprung gibt es keine Eizelle, die befruchtet werden könnte. Dazu macht die Pille den Schleim am Muttermund so zäh, dass Spermien kaum durchkommen. Das Eine reicht schon, das Andere ist der doppelte Boden.",
+   "quote_clean": "Die Pille verhindert den Eisprung. Und sie verändert den Schleim, sodass die Spermien gar nicht hinkommen und die Eizelle befruchten können.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (Wiederbeginn erhöht Thromboserisiko in den ersten Monaten), korrekt attribuiert.",
+   "stand_note": "",
+   "statement": "Wer die Pille absetzt und später wieder beginnt, hat in den ersten sechs Monaten ein erhöhtes Thromboserisiko; Pillenpausen werden daher nicht mehr empfohlen.",
+   "question": "Warum rät Doris von einer Pillenpause ab?",
+   "answer": "Neustart erhöht das Thromboserisiko",
+   "distractors": [
+    "Pause senkt die Fruchtbarkeit",
+    "Pause verursacht Depressionen",
+    "Neustart macht die Pille unwirksam"
+   ],
+   "aha": "Früher hat man gesagt, der Körper braucht zwischendurch eine Pause. Heute weiß man: Gerade das Wiederanfangen ist riskant, weil die ersten sechs Monate mit der Pille das Thromboserisiko am höchsten ist.",
+   "quote_clean": "Aber wenn man mit der Pille aufhört und wieder beginnt, hat man die ersten sechs Monate ein erhöhtes Thromboserisiko.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt; Raucherpille meint östrogenfreie Gestagenpille.",
+   "stand_note": "",
+   "statement": "Für Raucherinnen gibt es eine Pille ohne Östrogen, die ein geringeres Thromboserisiko hat.",
+   "question": "Welcher Hormonbestandteil fehlt in der sogenannten Raucherpille?",
+   "answer": "Östrogen",
+   "distractors": [
+    "Gestagen",
+    "Testosteron",
+    "Progesteron"
+   ],
+   "aha": "Rauchen und Übergewicht treiben das Thromboserisiko unter der Pille nach oben, und das Östrogen ist der Hauptverdächtige. Darum gibt es eine Variante ganz ohne, die Doris Raucherpille nennt.",
+   "quote_clean": "Es gibt eine sogenannte Raucherpille. Die hat kein Östrogen, sondern einen anderen Bestandteil, der kein so hohes Risiko hat.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Je nach Modell halten Kupferspiralen auch länger (bis ca. 10 Jahre); daher als Aussage von Doris formuliert und Distraktor 10 Jahre ersetzt.",
+   "stand_note": "Stand 2018",
+   "statement": "Laut Doris Stolzlechner hält die normale Kupferspirale etwa fünf Jahre.",
+   "question": "Wie lange hält die normale Kupferspirale laut Doris Stolzlechner ungefähr?",
+   "answer": "Etwa 5 Jahre",
+   "distractors": [
+    "Etwa 1 Jahr",
+    "Etwa 2 Jahre",
+    "Etwa 20 Jahre"
+   ],
+   "aha": "Einmal von der Frauenärztin eingesetzt, und dann ist fünf Jahre lang Ruhe. Nichts zu schlucken, nichts zu vergessen, und Hormone sind auch keine im Spiel.",
+   "quote_clean": "Und die normale Kupferspirale hält auch fünf Jahre.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt und medizinisch korrekt.",
+   "stand_note": "",
+   "statement": "Infektionen wie Chlamydien können unfruchtbar machen, weil sie die Eileiter verkleben.",
+   "question": "Wie können Chlamydien-Infektionen zu Unfruchtbarkeit führen?",
+   "answer": "Die Eileiter verkleben",
+   "distractors": [
+    "Die Eizellen sterben ab",
+    "Die Gebärmutter schrumpft",
+    "Der Hormonspiegel sinkt dauerhaft"
+   ],
+   "aha": "Die Eileiter sind der Weg, den die Eizelle zur Gebärmutter nimmt. Verkleben sie nach Entzündungen, kommen Ei und Spermien nicht mehr zusammen. Noch ein Grund fürs Kondom.",
+   "quote_clean": "Wenn ich viele Infekte gehabt habe, zum Beispiel Chlamydien, dann kann das zu Unfruchtbarkeit führen, weil die Eileiter verkleben.",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Wer-hat-es-gesagt-Frage, trivial erratbar (Gast der Folge).",
+   "stand_note": "",
+   "statement": "Doris Stolzlechner sieht bei der Verhütung kein Richtig oder Falsch und will objektiv informieren, statt ein Mittel zu empfehlen.",
+   "question": "Wer sagt im Podcast: „Grundsätzlich gibt es kein Richtig oder Falsch bei der Verhütung. Ich bin gegen kein Mittel und nicht für ein bestimmtes.“?",
+   "answer": "Doris Stolzlechner",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Hörerin namens Julia",
+    "Ein Apotheker aus Wien"
+   ],
+   "aha": "Doris fragt ihre Patientinnen zuerst, was ihnen sympathisch ist. Wer eine innere Abneigung gegen eine Methode hat, wird damit nicht glücklich, egal wie sicher sie auf dem Papier ist.",
+   "quote_clean": "Grundsätzlich gibt es kein Richtig oder Falsch bei der Verhütung. Ich bin gegen kein Mittel und nicht für ein bestimmtes.",
+   "quality": 2
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Aussage über Lust um den Eisprung als Doris' Aussage kennzeichnen.",
+   "stand_note": "",
+   "statement": "Doris Stolzlechner erklärt, dass Lust ein genetisches Programm ist, das sich im Moment kaum rational steuern lässt.",
+   "question": "Wie erklärt die Gynäkologin, warum Paare im Moment manchmal nicht verhüten?",
+   "answer": "Lust ist ein kaum steuerbarer Trieb",
+   "distractors": [
+    "Kondome sind zu teuer",
+    "Viele kennen die Risiken nicht",
+    "Ärzt:innen raten davon ab"
+   ],
+   "aha": "Die Natur hat es eingerichtet, damit wir nicht aussterben. Und laut Doris ist die Lust rund um den Eisprung am größten, also genau dann, wenn es am riskantesten ist.",
+   "quote_clean": "Das ist ein Trieb, ein genetisches Programm, das abläuft, damit man überlebt. Das kann man in dem Moment auch nicht so steuern.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "kontext"
+   ],
+   "note": "Spott über Männer als Ausgangspunkt; bloßstellend und Meta-Moment ohne Faktenwert.",
+   "stand_note": "",
+   "statement": "Andreas spottet über den Coitus interruptus als Methode „mäßig intelligenter Männer“, Doris Stolzlechner widerspricht und will das wertfreier sehen.",
+   "question": "Wie reagiert die Gynäkologin, als Andreas das Rausziehen als Methode „mäßig intelligenter Männer“ bezeichnet?",
+   "answer": "Sie möchte das wertfreier sehen",
+   "distractors": [
+    "Sie lacht und stimmt zu",
+    "Sie empfiehlt es ausdrücklich",
+    "Sie wechselt sofort das Thema"
+   ],
+   "aha": "Andreas wollte einen kleinen Seitenhieb landen, Doris holte ihn freundlich zurück: Da gehören immer zwei dazu, und gegen einen Trieb kommt der Intellekt nicht so leicht an.",
+   "quote_clean": "Das ist eine beliebte Verhütungsmethode von mäßig intelligenten Männern: Ich ziehe früh genug raus.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Verallgemeinerung (typischerweise) aus einer Folge nicht belegt; Meta-Frage ohne Wissenswert.",
+   "stand_note": "",
+   "statement": "Andreas bittet seine Gäste zu Beginn, sich kurz selbst vorzustellen.",
+   "question": "Wie startet Andreas typischerweise das Gespräch mit seinem Gast?",
+   "answer": "Er bittet um eine kurze Vorstellung",
+   "distractors": [
+    "Er liest einen Lebenslauf vor",
+    "Er stellt eine Quizfrage",
+    "Er erzählt eine Anekdote"
+   ],
+   "aha": "Bevor es losgeht, dürfen die Gäste selbst sagen, wer sie sind. Doris hält es kurz: Gynäkologin in Wien, Kassenärztin, und sie freut sich, da zu sein.",
+   "quote_clean": "Doris, bevor wir loslegen, kannst du dich bitte kurz vorstellen?",
+   "quality": 1
+  }
+ ],
+ "id": "32",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

@@ -1,0 +1,674 @@
+{
+ "theme": "Gesellschaft & Kultur",
+ "summary": "Armin Wolf erklärt mir, was Journalismus von bloßem Content unterscheidet, wie Nachrichten ausgewählt werden und warum Redaktionen so wichtig sind.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1092,
+   "speaker": "Armin Wolf",
+   "quote": "also jeden Tag passieren viele Millionen Dinge trotzdem landen nur ungefähr 15 von diesen",
+   "quote_clean": "Jeden Tag passieren viele Millionen Dinge, trotzdem landen nur ungefähr 15 von diesen",
+   "statement": "Von den Millionen Ereignissen, die täglich in Österreich passieren, landen nur rund 15 am Abend in der Zeit im Bild 1.",
+   "question": "Wie viele Ereignisse schaffen es ungefähr pro Abend in die Zeit im Bild 1?",
+   "answer": "Etwa 15",
+   "distractors": [
+    "Etwa 5",
+    "Etwa 40",
+    "Etwa 80"
+   ],
+   "number_value": 15,
+   "number_unit": "Ereignisse",
+   "slider_min": 1,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "In Österreich leben neun Millionen Menschen, die jeden Tag irgendwas tun. In die ZiB 1 kommen davon rund 15 Ereignisse, und nur etwa die Hälfte davon aus Österreich. Der Rest ist Auswahl, und genau die ist Journalismus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Nachrichten",
+    "ORF"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 561,
+   "speaker": "Armin Wolf",
+   "quote": "das journalistisches Minimum gelten zwei Quellen also nur dass dir ein Mensch irgendetwas erzählt ist noch kein ausreichender Nachweis dafür dass es stimmt",
+   "quote_clean": "Als journalistisches Minimum gelten zwei Quellen. Nur dass dir ein Mensch irgendetwas erzählt, ist noch kein ausreichender Nachweis dafür, dass es stimmt.",
+   "statement": "Als journalistisches Minimum gelten zwei voneinander unabhängige Quellen, bevor eine Information als publikationsfähig gilt.",
+   "question": "Wie viele unabhängige Quellen gelten im Journalismus als Minimum, bevor man etwas veröffentlicht?",
+   "answer": "Zwei",
+   "distractors": [
+    "Eine",
+    "Vier",
+    "Fünf"
+   ],
+   "number_value": 2,
+   "number_unit": "Quellen",
+   "slider_min": 1,
+   "slider_max": 8,
+   "log_scale": false,
+   "aha": "Eine einzelne Quelle könnte ein Interesse daran haben, etwas so oder so darzustellen. Erst wenn eine zweite, davon unabhängige Quelle mit anderem Interesse das bestätigt, gilt es als publikationsfähig. Check, recheck, double check, eh klar.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Recherche",
+    "Quellen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1848,
+   "speaker": "Armin Wolf",
+   "quote": "also die Hälfte aller Zeitungsleser und Leserinnen in Österreich lesen ein der drei boulvarzeitungen",
+   "quote_clean": "Die Hälfte aller Zeitungsleserinnen und -leser in Österreich liest eine der drei Boulevardzeitungen.",
+   "statement": "Die Hälfte aller Zeitungsleserinnen und Zeitungsleser in Österreich liest eine der drei Boulevardzeitungen.",
+   "question": "Wie viel Prozent der Zeitungsleser:innen in Österreich lesen eine der drei Boulevardzeitungen?",
+   "answer": "Rund 50 Prozent",
+   "distractors": [
+    "Rund 20 Prozent",
+    "Rund 35 Prozent",
+    "Rund 75 Prozent"
+   ],
+   "number_value": 50,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Österreich ist ein Land, in dem Boulevardmedien eine viel größere Rolle spielen als anderswo. Und dort wird über Kriminalität deutlich mehr berichtet. Wer Krone, Heute oder Österreich liest, bekommt also ein ganz anderes Bild von der Kriminalität als jemand mit dem Standard oder der Presse.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Boulevard",
+    "Medien Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1628,
+   "speaker": "Armin Wolf",
+   "quote": "es gab 17 Themen in der Sendung und alle 17 Themen waren negativ und sie gedacht kein Wunder dass immer weniger Leute zuschauen",
+   "quote_clean": "Es gab 17 Themen in der Sendung, und alle 17 Themen waren negativ, und sie dachten: Kein Wunder, dass immer weniger Leute zuschauen.",
+   "statement": "Der dänische Journalist Ulrik Haagerup sah sich mit seiner Frau die eigene Sendung an: Alle 17 Themen waren negativ.",
+   "question": "Wie viele der Themen in Ulrik Haagerups Nachrichtensendung waren an jenem Abend negativ?",
+   "answer": "Alle 17",
+   "distractors": [
+    "12 von 17",
+    "Die Hälfte",
+    "9 von 17"
+   ],
+   "number_value": 17,
+   "number_unit": "von 17 Themen",
+   "slider_min": 0,
+   "slider_max": 17,
+   "log_scale": false,
+   "aha": "Haagerup war Informationsdirektor im dänischen Fernsehen, als er das merkte. Sein Gedanke: Wir deprimieren die Leute jeden Tag, kein Wunder, dass sie abschalten. Daraus wurde das Konzept des konstruktiven Journalismus.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Konstruktiver Journalismus"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1729,
+   "speaker": "Armin Wolf",
+   "quote": "nur es gibt eben sehr viele andere Länder irendw und die Zeit bilild 2 z.B war 11 redakteurinen und",
+   "quote_clean": "Nur gibt es eben sehr viele andere Länder, und die Zeit im Bild 2 zum Beispiel hat 11 Redakteurinnen und",
+   "statement": "Die Redaktion der ZiB 2 besteht aus etwa 11 Redakteurinnen und Redakteuren, die Moderator:innen mitgezählt.",
+   "question": "Wie viele Redakteur:innen hat die ZiB 2 ungefähr, Moderation mitgezählt?",
+   "answer": "Etwa 11",
+   "distractors": [
+    "Etwa 4",
+    "Etwa 35",
+    "Etwa 70"
+   ],
+   "number_value": 11,
+   "number_unit": "Personen",
+   "slider_min": 1,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Für eine tägliche Nachrichtensendung ist das recht schlank. Darum ist konstruktiver Journalismus so schwer: Lösungen irgendwo auf der Welt zu suchen und hinzufahren, um sie zu filmen, ist extrem personalintensiv.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "ZiB 2",
+    "Redaktion"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2673,
+   "speaker": "Armin Wolf",
+   "quote": "schreiben in 50 Kapiteln das wichtigste was man über Journalismus wissen muss",
+   "quote_clean": "schreiben in 50 Kapiteln das Wichtigste, was man über Journalismus wissen muss",
+   "statement": "Im von Armin Wolf mitherausgegebenen Lehrbuch „Praktischer Journalismus“ erklären Journalist:innen in 50 Kapiteln das Wichtigste über den Beruf.",
+   "question": "In wie vielen Kapiteln erklärt das neu aufgelegte Lehrbuch „Praktischer Journalismus“ das Handwerk?",
+   "answer": "50",
+   "distractors": [
+    "12",
+    "25",
+    "100"
+   ],
+   "number_value": 50,
+   "number_unit": "Kapitel",
+   "slider_min": 5,
+   "slider_max": 120,
+   "log_scale": false,
+   "aha": "Das Buch ist die Wiederbelebung eines 40 Jahre alten Klassikers, mit dem Armin Wolf selbst Journalismus gelernt hat. Von der Themenfindung über das Interview bis zum Medienrecht ist alles drin.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Bücher",
+    "Ausbildung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2577,
+   "speaker": "Armin Wolf",
+   "quote": "der mal einen genialen Satz gesagt hat der gesagt hat Journalismus ist Unterscheidung die Unterscheidung zwischen wahr und unwahr zwischen wichtig und unwichtig und zwischen Sinn und Unsinn",
+   "quote_clean": "der mal einen genialen Satz gesagt hat: Journalismus ist Unterscheidung, die Unterscheidung zwischen wahr und unwahr, zwischen wichtig und unwichtig und zwischen Sinn und Unsinn",
+   "statement": "Der legendäre ORF-Generaldirektor Gerd Bacher sagte: Journalismus ist Unterscheidung zwischen wahr und unwahr, wichtig und unwichtig, Sinn und Unsinn.",
+   "question": "Von wem stammt der Satz „Journalismus ist Unterscheidung – zwischen wahr und unwahr, wichtig und unwichtig, Sinn und Unsinn“?",
+   "answer": "Gerd Bacher",
+   "distractors": [
+    "Hugo Portisch",
+    "Karl Kraus",
+    "Rudolf Augstein"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bacher war legendärer ORF-Generaldirektor, der Satz ist über 30 Jahre alt. Armin Wolf findet, er war nie wahrer und wichtiger als jetzt, wo jede Propagandaseite aussehen kann wie eine Zeitung.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "ORF",
+    "Zitat"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 386,
+   "speaker": "Armin Wolf",
+   "quote": "der erste Test mal immer der plausibilitätstest wie plausibel ist es und je sensationeller etwas ist und je hast du schon gehört unfassbar je unfassbarer ist mal die erste Regel umso tendenziell unwahrer ist es",
+   "quote_clean": "Der erste Test ist immer der Plausibilitätstest: Wie plausibel ist es? Und je sensationeller etwas ist, je unfassbarer – das ist die erste Regel –, umso tendenziell unwahrer ist es.",
+   "statement": "Je sensationeller und unfassbarer eine Meldung aus einer unbekannten Quelle ist, desto eher ist sie unwahr.",
+   "question": "Wer hat's gesagt: „Je unfassbarer etwas ist, umso tendenziell unwahrer ist es“?",
+   "answer": "Armin Wolf",
+   "distractors": [
+    "Florian Klenk",
+    "Ingrid Brodnig",
+    "Hugo Portisch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Sein Rat dazu: googeln, ob ein etabliertes Medium dasselbe berichtet. Und wenn es nach einem Tag immer noch nirgends Seriöses gibt, stimmt es sehr wahrscheinlich nicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fake News",
+    "Faktencheck"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 477,
+   "speaker": "Armin Wolf",
+   "quote": "wenn es nach zwei Tag noch nicht publiziert ist ist die Wahrscheinlichkeit extrem hoch dass es nicht stimmt wir werden nicht von Exen Menschen regiert",
+   "quote_clean": "Wenn es nach zwei Tagen noch nicht publiziert ist, ist die Wahrscheinlichkeit extrem hoch, dass es nicht stimmt. Wir werden nicht von Echsenmenschen regiert.",
+   "statement": "Weil Medien in Konkurrenz stehen und kein Interesse haben, Interessantes zu verschweigen, ist eine Sensation, die nach zwei Tagen nirgends seriös berichtet wird, sehr wahrscheinlich falsch.",
+   "question": "Wer hat's gesagt: „Wir werden nicht von Echsenmenschen regiert“?",
+   "answer": "Armin Wolf",
+   "distractors": [
+    "Florian Klenk",
+    "Stefan Niggemeier",
+    "Constantin Seibt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Logik dahinter ist simpel: Medien leben davon, interessante Dinge zu berichten, und stehen in brutaler Konkurrenz. Wenn eine Riesensache stimmt, würde sie irgendwer prüfen und bringen. Andreas fragt prompt, ob das jetzt das offizielle Statement ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Verschwörung",
+    "Faktencheck"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 103,
+   "speaker": "Armin Wolf",
+   "quote": "es gibt sehr viele Menschen die Instrumente spielen und die auch sehr gut Instrumente spielen deswegen sind sie trotzdem in der Regel noch nicht Musiker Musiker bist du im Normalfall wenn du von der",
+   "quote_clean": "Es gibt sehr viele Menschen, die Instrumente spielen, und auch sehr gut, deswegen sind sie trotzdem in der Regel noch nicht Musiker. Musiker bist du im Normalfall, wenn du von der",
+   "statement": "Armin Wolf vergleicht Journalismus mit Musik: Wie man Musiker ist, wenn man davon leben kann, ist man Journalist, wenn man beruflich Journalismus betreibt.",
+   "question": "Mit welchem Beruf vergleicht Armin Wolf den Unterschied zwischen Hobby- und Berufsjournalismus?",
+   "answer": "Mit Musiker:innen",
+   "distractors": [
+    "Mit Köch:innen",
+    "Mit Fotograf:innen",
+    "Mit Fußballer:innen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer gut Gitarre spielt, aber kein Album verkauft, ist Hobbymusiker. Genauso ist, wer etwas filmt und postet, Augenzeuge, aber noch kein Journalist. Das Video kann aber die Grundlage für eine Recherche sein.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Beruf",
+    "Definition"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 892,
+   "speaker": "Armin Wolf",
+   "quote": "keine Zugangskriterien gibt zwei Berufe bei denen das so ist mit gutem Grund wundert aber Menschen oft näm ich bei Politikern und Politikerinnen und bei Journalisten und Journalistinnen man braucht keine Ausbildung dafür überhaupt nicht",
+   "quote_clean": "Es gibt keine Zugangskriterien. Es gibt zwei Berufe, bei denen das so ist, mit gutem Grund, das wundert Menschen aber oft: bei Politikern und Politikerinnen und bei Journalisten und Journalistinnen. Man braucht keine Ausbildung dafür, überhaupt nicht.",
+   "statement": "Für Journalismus und Politik braucht man keinerlei Ausbildung oder Zugangsberechtigung – mit Absicht.",
+   "question": "Für welchen Beruf braucht man, genau wie für den Journalismus, absichtlich keine Ausbildung?",
+   "answer": "Politiker:in",
+   "distractors": [
+    "Lehrer:in",
+    "Rechtsanwält:in",
+    "Bäcker:in"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In einer Demokratie soll sich jede und jeder an der Politik beteiligen und ein Medium gründen können. Darum ist „Journalist“ kein geschützter Beruf. Jeder Bäcker muss eine Lehre machen, für die ZiB 2 brauchst du formal nix.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Demokratie",
+    "Pressefreiheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1156,
+   "speaker": "Armin Wolf",
+   "quote": "dann werden wir das am Abend in Wien heute sehen auch wenn es keinen einzigen Verletzten in ganz Wien gibt wenn das gleiche in Australien stattfindet muss es schon etliche Tote und Verletzte geben",
+   "quote_clean": "Dann werden wir das am Abend in „Wien heute“ sehen, auch wenn es keinen einzigen Verletzten in ganz Wien gibt. Wenn das Gleiche in Australien stattfindet, muss es schon etliche Tote und Verletzte geben.",
+   "statement": "Der Nachrichtenfaktor Nähe: Ein Erdbeben in Wien kommt ohne Verletzte in die Nachrichten, eines in Australien erst mit etlichen Toten.",
+   "question": "Welcher Nachrichtenfaktor erklärt, warum ein harmloses Erdbeben in Wien eher berichtet wird als ein schweres in Australien?",
+   "answer": "Nähe",
+   "distractors": [
+    "Prominenz",
+    "Neuigkeit",
+    "Bildstärke"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wir interessieren uns einfach mehr für Dinge aus unserer Umgebung. Deshalb bekommt etwa der Krieg in der Ukraine mehr Aufmerksamkeit als der im Sudan.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Nachrichtenfaktoren"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1206,
+   "speaker": "Armin Wolf",
+   "quote": "die berühmteste Definition davon sagen heißt Hund beißt Mann ist keine Geschichte Mann beißt Hund ist eine Geschichte",
+   "quote_clean": "Die berühmteste Definition davon heißt: Hund beißt Mann ist keine Geschichte, Mann beißt Hund ist eine Geschichte.",
+   "statement": "Die berühmteste Definition des Nachrichtenfaktors Ungewöhnlichkeit lautet: Hund beißt Mann ist keine Geschichte, Mann beißt Hund schon.",
+   "question": "Wie lautet die berühmteste Faustregel dafür, was ungewöhnlich genug für eine Nachricht ist?",
+   "answer": "Mann beißt Hund",
+   "distractors": [
+    "Hund beißt Mann",
+    "Katze jagt Maus",
+    "Mann rettet Hund"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Was wir eh erwarten, steht nicht in der Zeitung, etwa dass morgen die Sonne aufgeht. Hätten wir aber drei Monate Sonnenfinsternis, würde genau das die Schlagzeile: Morgen geht endlich wieder die Sonne auf.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Nachrichtenfaktoren"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1400,
+   "speaker": "Armin Wolf",
+   "quote": "auf Englisch gibt's den Satz when it bleeds it leads also wenn Blut Fließ fahren in der Nachrichten",
+   "quote_clean": "Auf Englisch gibt's den Satz „If it bleeds, it leads“: Wenn Blut fließt, fährt es in die Nachrichten.",
+   "statement": "Die englische Redaktionsweisheit „If it bleeds, it leads“ besagt, dass Blutiges und Schlimmes ganz oben in den Nachrichten landet.",
+   "question": "Wie geht die englische Redaktionsweisheit weiter: „If it bleeds, …“?",
+   "answer": "… it leads",
+   "distractors": [
+    "… it sells",
+    "… it spreads",
+    "… it trends"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Armin Wolf ist das eigentlich kein eigenes Kriterium, sondern wieder das Ungewöhnliche. Und das ist fast eine gute Nachricht: Das Negative kommt in die Nachrichten, weil es Gott sei Dank noch die Ausnahme ist.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Negativität",
+    "Nachrichtenfaktoren"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1463,
+   "speaker": "Armin Wolf",
+   "quote": "Achtung da kommt das sbelzahntiger war die nützlichere Information ich wir sagen als Achtung drüben geht ein süßes Bambi vorbei",
+   "quote_clean": "„Achtung, da kommt der Säbelzahntiger“ war die nützlichere Information als „Achtung, drüben geht ein süßes Bambi vorbei“.",
+   "statement": "Wir interessieren uns stärker für negative Nachrichten, weil Warnungen vor Gefahren für Menschen seit jeher die nützlicheren Informationen waren.",
+   "question": "Mit welchem Tier-Vergleich erklärt Armin Wolf, warum uns schlechte Nachrichten mehr interessieren?",
+   "answer": "Säbelzahntiger statt Bambi",
+   "distractors": [
+    "Wolf statt Schaf",
+    "Bär statt Reh",
+    "Hai statt Delfin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nachrichten sind entstanden, weil Menschen einander nützliche Dinge erzählt haben. Ein süßes Bambi anzuschauen ist nett, vor dem Säbelzahntiger gewarnt zu werden ist halt tendenziell nützlicher.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Negativität",
+    "Evolution"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1591,
+   "speaker": "Armin Wolf",
+   "quote": "dass Menschen die sehr regelmäßig die Lokalnachrichten dort schauen when it beds it leads also die wirklich fast jeden Tag anfangen mit irgendwelchen Überfällen Ermordungen und sonstigen Dingen dass die die Kriminalitätsrate in ihrer Stadt dramatisch überschätzen",
+   "quote_clean": "dass Menschen, die sehr regelmäßig die Lokalnachrichten dort schauen – „If it bleeds, it leads“, die fast jeden Tag mit Überfällen, Ermordungen und Ähnlichem anfangen –, die Kriminalitätsrate in ihrer Stadt dramatisch überschätzen",
+   "statement": "Studien aus den USA zeigen: Wer regelmäßig Lokalnachrichten schaut, überschätzt die Kriminalitätsrate in der eigenen Stadt dramatisch.",
+   "question": "Was passiert laut US-Studien mit Menschen, die sehr regelmäßig lokale TV-Nachrichten schauen?",
+   "answer": "Sie überschätzen die Kriminalität stark",
+   "distractors": [
+    "Sie unterschätzen die Kriminalität stark",
+    "Sie schätzen die Kriminalität richtig ein",
+    "Sie wählen häufiger Lokalpolitiker"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Jeder einzelne Beitrag kann stimmen und das Gesamtbild trotzdem schief sein, weil nicht über die ganze Welt berichtet wird. Wenn jeden Abend mit Überfällen und Morden aufgemacht wird, fühlt sich die eigene Stadt halt gefährlicher an, als sie ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kriminalität",
+    "Weltbild"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1613,
+   "speaker": "Armin Wolf",
+   "quote": "Ulrik hagerup hat die begründet ein sehr berühmter dänischer Journalist der hat ein Konzept begründet",
+   "quote_clean": "Ulrik Haagerup hat die begründet, ein sehr berühmter dänischer Journalist, der hat ein Konzept begründet",
+   "statement": "Der konstruktive Journalismus wurde vor rund zehn Jahren vom dänischen Journalisten Ulrik Haagerup begründet.",
+   "question": "Aus welchem Land kommt Ulrik Haagerup, der Begründer des konstruktiven Journalismus?",
+   "answer": "Dänemark",
+   "distractors": [
+    "Schweden",
+    "Norwegen",
+    "Niederlande"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Haagerup war Informationsdirektor im dänischen Fernsehen. Konstruktiver Journalismus heißt bei ihm nicht nur gute Nachrichten, sondern: über Probleme berichten und dann weiterrecherchieren, ob irgendwer sie schon gelöst hat.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Konstruktiver Journalismus"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1648,
+   "speaker": "Armin Wolf",
+   "quote": "es gibt immer wieder mal versuche Medien zu gründen die nur positive Nachrichten bringen und die scheitern immer alle",
+   "quote_clean": "Es gibt immer wieder Versuche, Medien zu gründen, die nur positive Nachrichten bringen, und die scheitern immer alle.",
+   "statement": "Medien, die ausschließlich positive Nachrichten bringen, scheitern laut Armin Wolf praktisch immer.",
+   "question": "Was passiert laut Armin Wolf mit Medien, die nur positive Nachrichten bringen?",
+   "answer": "Sie scheitern alle",
+   "distractors": [
+    "Sie wachsen am schnellsten",
+    "Sie bekommen Förderpreise",
+    "Sie wandern ins Fernsehen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Er kennt kein einziges solches Medium, das länger als ein paar Jahre überlebt hätte. Es entspricht einfach nicht unserem Informationsbedürfnis. Darum setzt der konstruktive Journalismus auf Probleme plus mögliche Lösungen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Konstruktiver Journalismus",
+    "Medien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1272,
+   "speaker": "Armin Wolf",
+   "quote": "lange nicht berichtet wurde monatelang weil es dort keine Journalistinnen und keine Kameras in es gab einfach keine Bilder gab und das war im Fernsehen extrem schwer zu berichten",
+   "quote_clean": "lange nicht berichtet wurde, monatelang, weil es dort keine Journalistinnen und keine Kameras gab, es gab einfach keine Bilder, und das war im Fernsehen extrem schwer zu berichten",
+   "statement": "Über den Bürgerkrieg in Ruanda wurde im Fernsehen monatelang kaum berichtet, weil es keine Kameras und damit keine Bilder gab.",
+   "question": "Warum wurde im Fernsehen über den Bürgerkrieg in Ruanda monatelang kaum berichtet?",
+   "answer": "Es gab keine Bilder",
+   "distractors": [
+    "Es war zu weit weg",
+    "Die Regierung verbot es",
+    "Es gab zu viele andere Kriege"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Fernsehen gibt es einen Nachrichtenfaktor, den Armin Wolf selbst sehr ungerecht findet: Bilder. Umgekehrt bekommt ein spektakulär ausbrechender Ätna 15 Sekunden Sendezeit, obwohl er eigentlich belanglos ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fernsehen",
+    "Nachrichtenfaktoren"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1807,
+   "speaker": "Andreas Sator",
+   "quote": "aber in Summe wenn man sich es anschaut über die letzten 20 Jahre dann sinkt die in Österreich und in vielen anderen Ländern auch",
+   "quote_clean": "Aber in Summe, wenn man es sich über die letzten 20 Jahre anschaut, sinkt sie in Österreich und in vielen anderen Ländern auch.",
+   "statement": "Über die letzten 20 Jahre betrachtet ist die Kriminalität in Österreich und vielen anderen Ländern insgesamt gesunken.",
+   "question": "Wie hat sich die Kriminalität in Österreich über die letzten 20 Jahre insgesamt entwickelt?",
+   "answer": "Sie ist gesunken",
+   "distractors": [
+    "Sie ist stark gestiegen",
+    "Sie ist gleich geblieben",
+    "Sie hat sich verdoppelt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Einzelne Kategorien steigen zwar wieder, aber unterm Strich geht es nach unten. Den meisten Leuten ist das nicht bewusst, auch weil nach einem Mord niemand einblendet, dass heute weniger Menschen erschossen werden als vor 20 Jahren.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Kriminalität",
+    "Statistik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2758,
+   "speaker": "Armin Wolf",
+   "quote": "der superklassiker über Journalismus schlecht hin B W Carl Bernstein all the presiden men das sind die beiden Journalisten die die Watergate Affäre aufgedeckt haben",
+   "quote_clean": "Der Superklassiker über Journalismus schlechthin: Bob Woodward, Carl Bernstein, „All the President's Men“. Das sind die beiden Journalisten, die die Watergate-Affäre aufgedeckt haben.",
+   "statement": "Bob Woodward und Carl Bernstein haben Anfang der 1970er-Jahre die Watergate-Affäre aufgedeckt, die zum Rücktritt von Präsident Nixon führte.",
+   "question": "Welchen Skandal deckten die Journalisten Bob Woodward und Carl Bernstein auf?",
+   "answer": "Die Watergate-Affäre",
+   "distractors": [
+    "Die Pentagon Papers",
+    "Die Iran-Contra-Affäre",
+    "Die Lewinsky-Affäre"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am Ende trat Präsident Nixon zurück. Das Buch „All the President's Men“ wurde mit Dustin Hoffman und Robert Redford verfilmt, und danach wollten tausende junge Amerikaner:innen Journalist:in werden.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Watergate",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2781,
+   "speaker": "Armin Wolf",
+   "quote": "tausende junge Menschen in Amerika Journalist und Journalistin werden die haben fast den investigativen Journalismus begründet",
+   "quote_clean": "tausende junge Menschen in Amerika Journalist und Journalistin werden. Die haben fast den investigativen Journalismus begründet.",
+   "statement": "Nach dem Watergate-Film „All the President's Men“ wollten tausende junge Menschen in den USA Journalist:innen werden.",
+   "question": "Was löste der Film „All the President's Men“ über Watergate in den USA aus?",
+   "answer": "Einen Ansturm auf den Journalismus",
+   "distractors": [
+    "Ein neues Pressegesetz",
+    "Einen Boykott der Washington Post",
+    "Eine Klage von Nixon"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Dustin Hoffman und Robert Redford spielten Woodward und Bernstein, und plötzlich war Reporter ein Traumberuf. Armin Wolf sagt, die beiden haben fast den investigativen Journalismus begründet, und das Buch liest sich noch immer wie ein Krimi.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Watergate",
+    "Film"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 1877,
+   "speaker": "Andreas Sator",
+   "quote": "gerne ein Gedankenexperiment mit dir machen drücken jetzt ein Knopf und alle JournalistInnen auf der Welt verschwinden auf mysteriöse Art und Weise",
+   "quote_clean": "Ich würde gerne ein Gedankenexperiment mit dir machen: Wir drücken jetzt einen Knopf, und alle Journalistinnen und Journalisten auf der Welt verschwinden auf mysteriöse Art und Weise.",
+   "statement": "Andreas stellt Armin Wolf das Gedankenexperiment, was passieren würde, wenn alle Journalist:innen der Welt auf Knopfdruck verschwinden.",
+   "question": "Was antwortet Armin Wolf auf die Frage, wie eine Welt ohne Journalist:innen aussähe?",
+   "answer": "Nach wenigen Tagen gäbe es neue",
+   "distractors": [
+    "Die Demokratie würde sofort zusammenbrechen",
+    "Social Media würde es übernehmen",
+    "Niemand würde es merken"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Seine Antwort: So eine Welt gäbe es nur ganz wenige Tage, dann würden wieder Menschen Journalismus machen, weil wir ihn brauchen. Wie bei den Bäckern: Gibt's morgen keine mehr, backt übermorgen wieder wer Brot.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Gedankenexperiment",
+    "Demokratie"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "341",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

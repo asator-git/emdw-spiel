@@ -1,0 +1,289 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "transkription"
+   ],
+   "note": "Anschober nennt die Reuters-Zahlen aus dem Gedächtnis („ich glaube“) und sie lassen sich nicht sauber mit „Nachrichtenverweigerer“ gleichsetzen; zu unsicher.",
+   "stand_note": "",
+   "statement": "Laut einer Reuters-Analyse bezeichnen sich in Großbritannien rund 45 Prozent der Menschen als Nachrichtenverweigerer, die Nachrichten bewusst meiden.",
+   "question": "Wie viel Prozent der Menschen in Großbritannien meiden laut Reuters-Analyse bewusst die Nachrichten?",
+   "answer": "Rund 45 Prozent",
+   "distractors": [
+    "Rund 15 Prozent",
+    "Rund 25 Prozent",
+    "Rund 65 Prozent"
+   ],
+   "aha": "Fast die Hälfte schaltet in UK bewusst weg, wenn die Nachrichten kommen, in den USA sind es ähnlich viele, in Deutschland immerhin ein Viertel. Anschober hält das für demokratiegefährdend: Wer nur Schlechtes hört, dreht irgendwann ab.",
+   "quote_clean": "Wenn in den USA 42 Prozent, in UK 45 Prozent und sogar in Deutschland 25 Prozent sagen: Bevor die Nachrichten kommen, schalte ich mein Radioprogramm aus.",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 2512 (15.000, 2003 aus Kontext); die Formulierung „innerhalb einer Woche“ ist nachweislich zu eng (Hitzewelle dauerte Wochen), daher entfernt.",
+   "stand_note": "",
+   "statement": "Bei der Hitzewelle im Sommer 2003 starben in Frankreich rund 15.000 Menschen.",
+   "question": "Wie viele Menschen starben in Frankreich bei der Hitzewelle 2003 ungefähr?",
+   "answer": "Rund 15.000",
+   "distractors": [
+    "Rund 1.500",
+    "Rund 5.000",
+    "Rund 40.000"
+   ],
+   "aha": "Frankreich war auf so eine Hitze schlicht nicht vorbereitet: keine Alarmpläne, viele ungeschützte Menschen. Europaweit waren es damals sogar rund 70.000 Tote.",
+   "quote_clean": "Da sind in Frankreich 15.000 Menschen verstorben, wegen der Hitzewelle, weil man ungeschützt war, weil man auch keine Alarmpläne hatte.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Kausalbehauptung des Gastes („mit ausgelöst“); Distraktor Olympia 2024 ist ebenfalls ein plausibler Treiber des Pariser Umbaus, daher nicht eindeutig.",
+   "stand_note": "",
+   "statement": "Der grüne Umbau von Paris wurde unter anderem durch die tödliche Hitzewelle von 2003 ausgelöst.",
+   "question": "Welches Ereignis hat den grünen Umbau von Paris mit ausgelöst?",
+   "answer": "Die Hitzewelle im Sommer 2003",
+   "distractors": [
+    "Die Olympia-Vergabe für 2024",
+    "Der Brand von Notre-Dame",
+    "Die Gelbwesten-Proteste"
+   ],
+   "aha": "Nach den vielen Hitzetoten hat die Politik versprochen, so etwas nie wieder zuzulassen. Jahre später wurden daraus mehr Bäume, weniger Asphalt und neue Wasserflächen mitten in der Stadt.",
+   "quote_clean": "Die vor allem in Frankreich ganz verheerende Auswirkungen hatte und im Übrigen diesen Umbau von Paris mit ausgelöst hat. Das weiß fast niemand, dass das eigentlich eine Konsequenz Jahre später gewesen ist.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Zahl der Klimabinnenflüchtlinge in Bangladesch ist eine unbelegte, grobe Behauptung des Gastes; als Quizfakt zu unsicher.",
+   "stand_note": "",
+   "statement": "In Bangladesch gibt es laut Anschober rund zehn Millionen Klima-Binnenflüchtlinge, die in Slums der Großstädte leben.",
+   "question": "Wie viele Klima-Binnenflüchtlinge gibt es laut Rudi Anschober in Bangladesch?",
+   "answer": "Rund 10 Millionen",
+   "distractors": [
+    "Rund 500.000",
+    "Rund 2 Millionen",
+    "Rund 30 Millionen"
+   ],
+   "aha": "Die Menschen fliehen nicht über Grenzen, sondern in die eigenen Großstädte, weil ihre Felder versalzen oder überflutet sind. Bei uns ist das meist nur ein Einspalter in der Zeitung.",
+   "quote_clean": "Alleine in Bangladesch gibt es mittlerweile zehn Millionen Klimaflüchtlinge, Binnenflüchtlinge, die in Slums elendiglich in den Großstädten leben.",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 705: Definition der 15-Minuten-Stadt wörtlich.",
+   "stand_note": "",
+   "statement": "Die Idee der 15-Minuten-Stadt ist, dass man alles, was man im Alltag braucht, in 15 Minuten zu Fuß oder mit Öffis erreicht.",
+   "question": "Was ist das Ziel der sogenannten 15-Minuten-Stadt?",
+   "answer": "Alles Nötige in 15 Minuten erreichen",
+   "distractors": [
+    "Öffis fahren alle 15 Minuten",
+    "Maximal 15 Minuten Stau täglich",
+    "Jeder Park in 15 Minuten Radweg"
+   ],
+   "aha": "Arbeit, Schule, Einkaufen, Arzt: alles ums Eck, ohne Auto. Dafür muss man aufhören, die Stadt in Wohn-, Arbeits- und Einkaufszonen zu zerteilen, die man nur mit dem Auto verbindet.",
+   "quote_clean": "Das Ziel ist, zu Fuß oder mit Öffis innerhalb von 15 Minuten alles erreichen zu können, was man braucht im Leben.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Beleg bei 1151, aber es ist eine Vision für 2040 mit eigener Stromerzeugung; Frage war ungenau („gibt aus“). Betrag ist Anschobers Schätzung.",
+   "stand_note": "Stand 2024",
+   "statement": "In Anschobers Vision für 2040 erspart sich Österreich durch eigenen Ökostrom gut 10 Milliarden Euro pro Jahr an Energieimporten.",
+   "question": "Wie viel Geld erspart sich Österreich in Rudi Anschobers Vision durch eigenen Ökostrom jedes Jahr an Importen?",
+   "answer": "Gut 10 Milliarden Euro",
+   "distractors": [
+    "Rund 1 Milliarde Euro",
+    "Rund 3 Milliarden Euro",
+    "Rund 30 Milliarden Euro"
+   ],
+   "aha": "Das Geld fließt bisher großteils an Regime, bei denen es um Menschenrechte und Demokratie schlecht steht. Anschobers Idee: Statt Gas von Putin lieber Windkraft aus Oberösterreich, und das Geld bleibt in der Region.",
+   "quote_clean": "Wir ersparen uns damit gut 10 Milliarden Euro jedes Jahr an Importen von Regimen, die zum Teil Diktaturen sind.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 3502: Permafrost taut, Methan wird frei, Kipppunkt.",
+   "stand_note": "",
+   "statement": "Wenn Permafrostböden auftauen, setzen sie riesige Mengen Methan frei, was die Klimakrise weiter anheizt – ein klassischer Kipppunkt.",
+   "question": "Was passiert, wenn Permafrostböden durch die Erwärmung auftauen?",
+   "answer": "Sie setzen riesige Mengen Methan frei",
+   "distractors": [
+    "Sie binden zusätzlich viel CO2",
+    "Sie kühlen die Luft darüber ab",
+    "Sie lassen den Meeresspiegel sinken"
+   ],
+   "aha": "Methan ist ein besonders starkes Treibhausgas. Taut der Boden auf, heizt das die Erwärmung weiter an, die wieder mehr Boden auftaut: ein Teufelskreis, den man Kipppunkt nennt.",
+   "quote_clean": "Permafrostböden als Beispiel: Wenn da die Temperatur zu rasch nach oben geht, dann tauen die Permafrostböden auf und setzen riesige Methanlager frei.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Beleg bei 3567 ok; der Aha übernahm Anschobers ungenaue Erzählung (zehn, dann 50) als Tatsache, ersetzt.",
+   "stand_note": "",
+   "statement": "Rosa Parks blieb in den USA im Bus sitzen, obwohl die Rassengesetze das verboten, wurde verhaftet und wurde so zur Symbolfigur der Bürgerrechtsbewegung.",
+   "question": "Wodurch wurde Rosa Parks zur Symbolfigur der US-Bürgerrechtsbewegung?",
+   "answer": "Sie blieb im Bus sitzen",
+   "distractors": [
+    "Sie hielt eine Rede in Washington",
+    "Sie gewann eine Wahl in Alabama",
+    "Sie gründete eine eigene Zeitung"
+   ],
+   "aha": "Ihre Weigerung wurde zum Funken einer großen Bewegung. Für Anschober ist das ein Paradebeispiel für einen sozialen Kipppunkt: Irgendwann ist die kritische Masse erreicht.",
+   "quote_clean": "Da gibt es eine Frau, Rosa Parks, die im Bus sitzen geblieben ist, obwohl sie nach den damaligen Rassengesetzen nicht berechtigt war.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 2127: Ozeane als CO2-Speicher verzögern Sichtbarkeit und Wirkung; Antwort sprachlich geschärft.",
+   "stand_note": "",
+   "statement": "Weil die Ozeane jahrzehntelang viel CO2 gespeichert haben, wurde die Klimakrise verzögert sichtbar – und auch Klimaschutz wirkt verzögert.",
+   "question": "Warum wirkt Klimaschutz nicht sofort, selbst wenn wir die Emissionen stark senken?",
+   "answer": "Die Ozeane als träge CO2-Speicher",
+   "distractors": [
+    "Weil CO2 schwerer als Luft ist",
+    "Weil Wälder das CO2 wieder abgeben",
+    "Weil die Sonne gerade aktiver ist"
+   ],
+   "aha": "Die Meere haben uns lange einen Teil der Erwärmung abgenommen, deshalb haben wir die Krise später gespürt. Umgekehrt gibt es keinen Schalter: Auch nach der Klimawende bleibt es eine Zeit lang heiß.",
+   "quote_clean": "Die Verzögerung durch die ganz großen CO2-Speicher auf unserem Planeten, vor allem die Ozeane, die uns Jahrzehnte hindurch geholfen haben, das abzuspeichern, hat zu einer Verzögerung der Sichtbarkeit geführt.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "„70, 80 Jahre“ ist lockere Rede; der Treibhauseffekt von CO2 ist schon seit über 100 Jahren bekannt, Distraktor „150 Jahre“ wäre daher nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Das Wissen über die menschengemachte Klimakrise gibt es laut Anschober schon seit 70 bis 80 Jahren.",
+   "question": "Seit wann weiß man laut Rudi Anschober über die Klimakrise grundsätzlich Bescheid?",
+   "answer": "Seit 70 bis 80 Jahren",
+   "distractors": [
+    "Seit etwa 20 Jahren",
+    "Seit etwa 35 Jahren",
+    "Seit etwa 150 Jahren"
+   ],
+   "aha": "Schon in den 1950ern haben Forscher vor der Erwärmung durch CO2 gewarnt. Anschober fordert deshalb einen europaweiten Untersuchungsausschuss, der klärt, warum trotzdem so lange nichts passiert ist.",
+   "quote_clean": "Das ist ja alles überhaupt keine Neuigkeit. Das wissen wir alles seit 70, 80 Jahren. Und dennoch wurde nicht gehandelt.",
+   "quality": 1
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1761-1820; Wer-sagt-Frage und Seitenhieb auf Autofahrende ersetzt durch Inhaltsfrage (Auto hergegeben, Zug als Gewinn).",
+   "stand_note": "Stand 2024",
+   "statement": "Rudi Anschober hat vor zwei Jahren sein Auto hergegeben und erlebt das nicht als Verzicht, sondern als Gewinn.",
+   "question": "Was hat Rudi Anschober vor zwei Jahren hergegeben und dabei als Gewinn statt als Verzicht erlebt?",
+   "answer": "Sein Auto",
+   "distractors": [
+    "Sein Smartphone",
+    "Seine Wohnung in Wien",
+    "Seinen Fernseher"
+   ],
+   "aha": "Er fährt überall mit dem Zug hin, reserviert sich den Sitzplatz, hat Jause und Musik dabei und arbeitet unterwegs. Sein Punkt: Klimaschutz muss man als Gewinn erzählen, nicht als Verzicht.",
+   "quote_clean": "Das ist eigentlich total gewonnene Arbeitszeit. Das ist kein Verzicht, was ich da mache. Im Gegenteil, ich habe total profitiert davon, und mein Leben ist besser geworden dadurch.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 3393-3415; Wer-sagt-Frage in Inhaltsfrage umgebaut.",
+   "stand_note": "",
+   "statement": "Rudi Anschober unterscheidet Optimismus, der einfach annimmt, dass alles gut wird, von Hoffnung, die man sich begründet erarbeiten muss.",
+   "question": "Was unterscheidet Hoffnung laut Rudi Anschober von Optimismus?",
+   "answer": "Hoffnung muss man sich begründet erarbeiten",
+   "distractors": [
+    "Hoffnung gilt nur für Gläubige",
+    "Optimismus ist wissenschaftlich belegt",
+    "Es gibt für ihn keinen Unterschied"
+   ],
+   "aha": "Optimismus ist für Anschober das Motto „Wird schon gut werden“. Hoffnung dagegen braucht eine Begründung, und die hat er bei seinen Recherchen zu Projekten gefunden, die schon funktionieren.",
+   "quote_clean": "Optimismus ist grundsätzlich nach Definition etwas, was man als Grundprinzip hat. So unter dem Motto: Das wird schon gut werden. Und ich halte es für relativ problematisch.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2976: Vergleich mit Radfahren und Schwimmenlernen.",
+   "stand_note": "",
+   "statement": "Rudi Anschober vergleicht Solidarität mit Radfahren oder Schwimmen: Wer sie einmal erlebt hat, verlernt sie nicht mehr.",
+   "question": "Womit vergleicht Rudi Anschober die Solidarität, die viele in der Pandemie erlebt haben?",
+   "answer": "Mit Radfahren oder Schwimmen",
+   "distractors": [
+    "Mit einem Muskel, der schwindet",
+    "Mit einer Impfung, die nachlässt",
+    "Mit einer Sprache, die man vergisst"
+   ],
+   "aha": "Die Solidarität am Anfang der Pandemie ist zwar bald bröckelig geworden, als sich alles länger gezogen hat. Aber die Erfahrung, wie gut sich eine solidarische Gesellschaft anfühlt, bleibt, meint Anschober.",
+   "quote_clean": "Wie mit anderen Fertigkeiten, das Radfahren zum Beispiel oder das Schwimmenlernen. Wenn du das einmal gekonnt hast, wirst du das dein ganzes Leben nie verlieren. Und bei der Solidarität ist es ähnlich.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zur Überleitung, kein Wissensgehalt.",
+   "stand_note": "",
+   "statement": "Andreas bringt gegen Ende Fragen von Hörer:innen ein, die man über erklärmir.at/fragen einschicken kann – diesmal von einem Rudi.",
+   "question": "Wie leitet Andreas die Hörerfrage an Rudi Anschober ein?",
+   "answer": "Frage von einem Namensvetter",
+   "distractors": [
+    "Frage von meiner Mama",
+    "Frage aus dem Studio-Chat",
+    "Frage von einer Kollegin"
+   ],
+   "aha": "Ein Hörer namens Rudi wollte wissen, wie Anschober nach der Politik den Optimismus nicht verloren hat.",
+   "quote_clean": "Rudi, ich habe noch eine Frage für dich bekommen, von einem Namensvetter. Ihr könnt ja auf erklärmir.at/fragen immer Fragen für den Podcast einschicken.",
+   "quality": 1
+  }
+ ],
+ "id": "296",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

@@ -1,0 +1,276 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Dreifache Menge bei Männern im Ausschnitt eindeutig belegt; Bezug auf den damaligen Ernährungsbericht.",
+   "stand_note": "Stand 2021",
+   "statement": "Laut österreichischem Ernährungsbericht essen Männer in Österreich ungefähr dreimal so viel Fleisch wie empfohlen.",
+   "question": "Das Wievielfache der empfohlenen Fleischmenge essen Männer in Österreich ungefähr?",
+   "answer": "Etwa das Dreifache",
+   "distractors": [
+    "Etwa das Eineinhalbfache",
+    "Etwa das Doppelte",
+    "Etwa das Fünffache"
+   ],
+   "aha": "Fleisch ist eh nicht per se schlecht, es liefert Eisen und B-Vitamine. Aber die Menge macht's, und bei den Männern liegt sie laut Ernährungsbericht ungefähr beim Dreifachen. Frauen liegen auch deutlich drüber, nur nicht ganz so weit.",
+   "quote_clean": "Der österreichische Ernährungsbericht zeigt ganz deutlich, dass wir zu viel Fleisch essen. Männer ungefähr die dreifache Menge der empfohlenen Menge und Frauen auch deutlich über den Empfehlungen.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Über 70 Prozent belegt; die Drittel-Angabe im aha passt rechnerisch nicht zu den 70 Prozent und wurde entfernt.",
+   "stand_note": "",
+   "statement": "Global wird über 70 Prozent der nutzbaren Agrarfläche für Nutztiere verwendet.",
+   "question": "Wie viel Prozent der weltweiten Agrarfläche werden für Nutztiere verwendet?",
+   "answer": "Über 70 Prozent",
+   "distractors": [
+    "Rund 20 Prozent",
+    "Rund 35 Prozent",
+    "Rund 50 Prozent"
+   ],
+   "aha": "Rinder brauchen nicht nur Weide, sondern auch Felder, auf denen ihr Futter wächst. Darum geht der Großteil der Agrarfläche an die Nutztiere, obwohl daraus weltweit nur ein kleinerer Teil der Nahrungsenergie kommt.",
+   "quote_clean": "Wenn man das dann wieder runterbricht, sieht man, dass sehr viel dieser nutzbaren Agrarfläche für die Nutztiere verwendet wird. Das sind über 70 Prozent.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "18 Prozent von Andreas mit Quelle Our World in Data genannt, stimmt mit der Quelle überein.",
+   "stand_note": "",
+   "statement": "Weltweit sind Landwirtschaft und Landnutzung laut Our World in Data für rund 18 Prozent der Treibhausgase verantwortlich.",
+   "question": "Für wie viel Prozent der weltweiten Treibhausgase sind Landwirtschaft und Landnutzung verantwortlich?",
+   "answer": "18 Prozent",
+   "distractors": [
+    "5 Prozent",
+    "35 Prozent",
+    "50 Prozent"
+   ],
+   "aha": "Andreas hat extra bei Our World in Data nachgeschaut. Beim Klima geht's vor allem um das Methan, das Rinder rülpsen, und um Lachgas aus Kunstdünger. Beim Artensterben ist die Landwirtschaft sogar einer der wichtigsten Treiber überhaupt.",
+   "quote_clean": "Weltweit sind Landwirtschaft und Landnutzung für 18 Prozent der Treibhausgase verantwortlich.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Begründung (wenige Lebensmittelgruppen, Mikronährstoffe) im Ausschnitt belegt.",
+   "stand_note": "",
+   "statement": "In Schwellenländern mit geringer Lebensmittelvielfalt ist vegane oder vegetarische Ernährung nicht unbedingt wünschenswert.",
+   "question": "Warum ist vegane Ernährung in manchen Schwellenländern nicht unbedingt wünschenswert?",
+   "answer": "Wegen geringer Lebensmittelvielfalt",
+   "distractors": [
+    "Wegen zu hoher Gemüsepreise",
+    "Wegen religiöser Speisevorschriften",
+    "Wegen fehlender Kühlschränke"
+   ],
+   "aha": "Wir haben das Glück einer riesigen Auswahl, da geht pflanzlich ganz einfach. Wo aber nur wenige Lebensmittelgruppen verfügbar sind, braucht man auch die tierischen, um den Bedarf an Mikronährstoffen zu decken.",
+   "quote_clean": "Wenn wir in Schwellenländer schauen, wo die Lebensmittelvielfalt deutlich eingeschränkter ist, da ist es nicht unbedingt wünschenswert, auf vegane oder vegetarische Ernährung zu setzen.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Sonntagsbraten belegt; der Satz 'hat man es eigentlich richtiger gemacht' ist nicht belegt und wurde entfernt.",
+   "stand_note": "",
+   "statement": "In der ursprünglichen österreichischen Küche stand Fleisch nicht täglich am Speiseplan, es gab den Sonntagsbraten.",
+   "question": "Wie oft gab es in der traditionellen österreichischen Küche typischerweise Fleisch?",
+   "answer": "Zu besonderen Anlässen, etwa sonntags",
+   "distractors": [
+    "Zu jeder Hauptmahlzeit",
+    "Mindestens einmal täglich",
+    "Fast nie, nur zu Weihnachten"
+   ],
+   "aha": "Das Schnitzel, das über den Tellerrand hängt, ist eher ein modernes Bild. Früher hat man in Österreich pflanzenbetonter gegessen, und Fleisch gab es zu besonderen Anlässen, zum Beispiel als Sonntagsbraten.",
+   "quote_clean": "Aber im Grunde genommen war das nicht täglich am Speiseplan, sondern da gab es den Sonntagsbraten.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zusatzstoffe als Grund im Ausschnitt eindeutig belegt.",
+   "stand_note": "",
+   "statement": "Bei Bewertungen nach Verarbeitungsgrad (Nova-Score) schneiden Milchersatzprodukte oft schlechter ab als Milchprodukte, weil sie viele Zusatzstoffe brauchen.",
+   "question": "Warum schneiden Milchersatzprodukte beim Verarbeitungsgrad oft schlechter ab als Milch?",
+   "answer": "Sie brauchen viele Zusatzstoffe",
+   "distractors": [
+    "Sie enthalten mehr Zucker",
+    "Sie werden importiert",
+    "Sie sind kürzer haltbar"
+   ],
+   "aha": "Damit sich ein Haferdrink im Mund ungefähr so anfühlt wie Milch und ähnliche Nährstoffe hat, braucht es oft einiges an Zusatzstoffen. Der Nova-Score bewertet genau diesen Verarbeitungsgrad, und je höher der ist, desto schlechter meistens für Gesundheit und Klima.",
+   "quote_clean": "Da schneiden beispielsweise Milchersatzprodukte verglichen mit Milchprodukten eher schlechter ab, weil sie vielfach sehr viele Zusatzstoffe benötigen, damit wir das gleiche Mundgefühl haben.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-das-Frage mit der Gästin als Antwort ist praktisch erratbar und ohne Wissensgewinn; Distraktor Michael Pollan wirkt beliebig.",
+   "stand_note": "",
+   "statement": "Nachhaltige Ernährung darf nichts Elitäres sein, weil Nachhaltigkeit auch eine soziale Dimension hat.",
+   "question": "Wer sagt im Podcast: „Eine nachhaltige Ernährung sollte nichts Elitäres sein“?",
+   "answer": "Petra Rust",
+   "distractors": [
+    "Andreas Sator",
+    "Michael Pollan",
+    "Paul Ivić"
+   ],
+   "aha": "Für Petra gehören Gesundheit, Tierwohl, Klima und das Soziale zusammen. Wenn nachhaltige Produkte so teuer sind, dass sie sich nur manche leisten können, widerspricht das dem Nachhaltigkeitsgedanken.",
+   "quote_clean": "Eine nachhaltige Ernährung sollte nichts Elitäres sein, sondern Nachhaltigkeit bedeutet ja, dass ich in verschiedenen Dimensionen denke.",
+   "quality": 1
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Inhalt belegt (Kindergarten ist optimal, nie zu alt); die Wer-widerspricht-Frage war schwach und mit unpassenden Distraktoren, daher auf den Kerninhalt umgestellt.",
+   "stand_note": "",
+   "statement": "Essgewohnheiten kann man in jedem Alter ändern, im Kindergartenalter ist es aber am leichtesten.",
+   "question": "Wann ist es laut Petra Rust besonders leicht, bei Essgewohnheiten anzusetzen?",
+   "answer": "Im Kindergartenalter",
+   "distractors": [
+    "Im Berufsleben",
+    "Im Studium",
+    "In der Pension"
+   ],
+   "aha": "Andreas war skeptisch, ob sich ein durchschnittlicher 40-Jähriger noch umstellt. Petra sieht das optimistischer: Man ist nie zu alt, Neues auszuprobieren. Am leichtesten geht es aber im Kindergarten, wo Kinder neugierig sind und alles erforschen wollen.",
+   "quote_clean": "Ich glaube, dass man seine Gewohnheiten immer ändern kann, wenn man das möchte. Man ist nie zu alt, irgendwas Neues zu lernen oder zu erproben. Aber natürlich ist es viel, viel leichter einzugreifen, wenn man es gerade erlernt. Und da ist der Kindergarten natürlich optimal.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat eindeutig belegt; 'meistens' bleibt im Text erhalten.",
+   "stand_note": "",
+   "statement": "Je stärker ein Lebensmittel verarbeitet ist, desto schlechter wirkt es sich meist auf Gesundheit und Klima aus.",
+   "question": "Was gilt laut Petra Rust meist: Je höher der Verarbeitungsgrad eines Lebensmittels …?",
+   "answer": "… desto schlechter für Gesundheit und Klima",
+   "distractors": [
+    "… desto länger hält es gesund",
+    "… desto besser fürs Klima",
+    "… desto mehr Nährstoffe enthält es"
+   ],
+   "aha": "Darum sieht Petra auch Fleischersatz nur als Umstiegshilfe für Fleischtiger. Langfristig wär's ihr lieber, wir greifen zu naturbelassenen, saisonalen und regionalen Lebensmitteln.",
+   "quote_clean": "Je höher der Verarbeitungsgrad, desto schlechter ist meistens die Auswirkung auf die Gesundheit, aber auch auf das Klima.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Lachgas aus Kunstdünger belegt (von Andreas); Ozon ist technisch auch ein Treibhausgas und daher kein eindeutig falscher Distraktor, ersetzt.",
+   "stand_note": "",
+   "statement": "Die Landwirtschaft schadet dem Klima vor allem durch Methan aus Rindermägen und Lachgas aus Kunstdünger.",
+   "question": "Welches Treibhausgas entsteht vor allem durch Kunstdünger?",
+   "answer": "Lachgas",
+   "distractors": [
+    "Methan",
+    "Kohlenmonoxid",
+    "Schwefeldioxid"
+   ],
+   "aha": "Rinder rülpsen Methan, und aus gedüngten Böden entweicht Lachgas. Beide sind Treibhausgase, die pro Kilo deutlich stärker wirken als CO2. Darum taucht die Landwirtschaft in jeder Klimabilanz prominent auf.",
+   "quote_clean": "Beim Klima sind es vor allem bei den Rindern das Methan, das sie rülpsen, aber auch generell in der Landwirtschaft Kunstdünger, bei dem Lachgas ausgestoßen wird, was auch ein Treibhausgas ist.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Aussage belegt; 'am besten' war überzogen, Frage auf die tatsächliche Aussage (Wertigkeit steigt) umformuliert.",
+   "stand_note": "",
+   "statement": "Kombiniert man Hülsenfrüchte mit Getreide, steigt die biologische Wertigkeit pflanzlicher Proteine.",
+   "question": "Womit lässt sich laut Petra Rust die biologische Wertigkeit von Hülsenfrucht-Eiweiß steigern?",
+   "answer": "Durch Kombination mit Getreide",
+   "distractors": [
+    "Durch Kombination mit Obst",
+    "Durch Kombination mit Pflanzenöl",
+    "Durch Kombination mit Blattsalat"
+   ],
+   "aha": "Linsen mit Reis, Bohnen mit Brot: Die beiden ergänzen sich bei den Eiweißbausteinen. So kann man den Proteinbedarf ganz gut pflanzlich decken, ganz ohne Schnitzel.",
+   "quote_clean": "Auch die Kombination von Hülsenfrüchten mit verschiedenen Getreiden hebt die biologische Wertigkeit von pflanzlichen Proteinen an.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (Wohlstand, Übergewicht, mehr Kilokalorien nötig).",
+   "stand_note": "",
+   "statement": "Mit steigendem Wohlstand nehmen in ärmeren Ländern auch Übergewicht und Adipositas zu.",
+   "question": "Was steigt in weniger entwickelten Ländern mit wachsendem Wohlstand laut Petra Rust ebenfalls an?",
+   "answer": "Übergewicht und Adipositas",
+   "distractors": [
+    "Der Anteil veganer Ernährung",
+    "Der Hunger auf dem Land",
+    "Der Konsum von Hülsenfrüchten"
+   ],
+   "aha": "Mehr Wohlstand bringt mehr Vielfalt am Teller, aber auch mehr Kalorien. Das heißt, die Welt braucht in Zukunft noch mehr Kilokalorien, um alle zu versorgen, und das macht das Ressourcenproblem nicht kleiner.",
+   "quote_clean": "Mit dem Wohlstand steigt auch die Lebensmittelvielfalt, der Ernährungsstatus steigt an. Und damit steigt auch die Übergewichts- oder Adipositas-Problematik, beispielsweise in weniger gut entwickelten Ländern.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Topfen-Beispiel im Ausschnitt belegt; 'fünf Minuten' ist erkennbar überspitzt und wird im aha so eingeordnet.",
+   "stand_note": "",
+   "statement": "Topfen hat etwa drei Zutaten, beim veganen Ersatzprodukt ist die Zutatenliste so lang, dass man minutenlang liest.",
+   "question": "Welches Produkt nennt Petra Rust als Paradebeispiel für eine endlos lange vegane Zutatenliste?",
+   "answer": "Veganer Topfenersatz",
+   "distractors": [
+    "Veganer Käseersatz",
+    "Veganes Schnitzel",
+    "Hafermilch"
+   ],
+   "aha": "Andreas' Trick: Je länger die Zutatenliste, desto skeptischer wird er. Petra kann den nur empfehlen und liefert gleich das Beispiel, Topfen gegen veganen Topfen, drei Zutaten gegen gefühlt fünf Minuten Lesezeit.",
+   "quote_clean": "Wenn man einen Topfen hernimmt, dann besteht der aus Milch. Man hat drei Zutaten auf dieser Zutatenliste. Wenn man sich das vegane Ersatzprodukt anschaut, dann braucht man fünf Minuten, bis man das durchgelesen hat.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Frage belegt (Letzte Frage, Reform); im aha waren Schulfächer, Gemeinschaftsverpflegung und Wien nicht im Ausschnitt, nur Ernährungsbildung.",
+   "stand_note": "",
+   "statement": "Andreas fragt am Ende, welche politische Reform die Expertin wählen würde, wenn Minister oder Kanzler sie fragen.",
+   "question": "Mit welcher Frage beendet Andreas das Gespräch mit Petra Rust?",
+   "answer": "Welche politische Reform sie wählen würde",
+   "distractors": [
+    "Was sie heute gegessen hat",
+    "Welches Buch sie empfehlen würde",
+    "Was ihr Lieblingsgericht ist"
+   ],
+   "aha": "Petras Antwort: Ernährungsbildung steht für sie im Zentrum. Wenn schon Kinder mehr Ernährungskompetenz bekommen, fällt ihnen die spätere Auswahl von Lebensmitteln viel leichter, denn Kinder sind neugierig und offen für Neues.",
+   "quote_clean": "Wenn jetzt der Gesundheitsminister oder vielleicht sogar der Bundeskanzler zu dir kommen würde und du kannst eine politische Reform aussuchen für den Themenbereich, den wir heute besprochen haben, welche wäre es?",
+   "quality": 2
+  }
+ ],
+ "id": "180",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

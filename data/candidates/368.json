@@ -1,0 +1,658 @@
+{
+ "theme": "Gesellschaft & Kultur",
+ "summary": "Julia Brandner hat sich mit 29 sterilisieren lassen, bereut nichts und erklärt, warum ihre private Entscheidung so viele Leute so aufregt.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 665,
+   "speaker": "Julia Brandner",
+   "quote": "habe dann Anfang 20 einfach mal gefragt und war dann aber auch noch zu jung, weil in Österreich geht das erst ab 25",
+   "quote_clean": "Ich habe dann Anfang 20 einfach mal gefragt und war dann aber noch zu jung, weil in Österreich geht das erst ab 25.",
+   "statement": "In Österreich ist eine Sterilisation auf eigenen Wunsch grundsätzlich erst ab 25 Jahren erlaubt.",
+   "question": "Ab welchem Alter darf man sich in Österreich ohne besonderen medizinischen Grund sterilisieren lassen?",
+   "answer": "Ab 25 Jahren",
+   "distractors": [
+    "Ab 18 Jahren",
+    "Ab 21 Jahren",
+    "Ab 30 Jahren"
+   ],
+   "number_value": 25,
+   "number_unit": "Jahre",
+   "slider_min": 14,
+   "slider_max": 45,
+   "log_scale": false,
+   "aha": "Das Strafgesetzbuch erlaubt die Sterilisation mit Einwilligung ab 25, davor nur aus anderen triftigen Gründen. Julia hat mit Anfang 20 gefragt und wurde heimgeschickt, also hieß es: warten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sterilisation",
+    "Recht",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 682,
+   "speaker": "Julia Brandner",
+   "quote": "Also, ich denke mal so in Deutschland und in der Schweiz funktioniert auch, dass es ab 18 ist.",
+   "quote_clean": "In Deutschland und in der Schweiz funktioniert es, dass es ab 18 ist.",
+   "statement": "In Deutschland und in der Schweiz ist eine Sterilisation grundsätzlich schon ab 18 Jahren möglich.",
+   "question": "Ab welchem Alter ist eine Sterilisation in Deutschland und der Schweiz grundsätzlich möglich?",
+   "answer": "Ab 18 Jahren",
+   "distractors": [
+    "Ab 16 Jahren",
+    "Ab 25 Jahren",
+    "Ab 30 Jahren"
+   ],
+   "number_value": 18,
+   "number_unit": "Jahre",
+   "slider_min": 12,
+   "slider_max": 40,
+   "log_scale": false,
+   "aha": "Dort reicht im Prinzip die Volljährigkeit, Österreich verlangt sieben Jahre mehr. Ob eine Ärztin den Eingriff dann wirklich macht, ist allerdings überall noch einmal eine eigene Frage.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sterilisation",
+    "Recht",
+    "Deutschland"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1267,
+   "speaker": "Julia Brandner",
+   "quote": "Das ist wie Blindarm Entfernung eigentlich. Also dieser Laparoskopie. Es dauert 20 Minuten. Kannst am kalben Tag wieder heimgehen.",
+   "quote_clean": "Das ist wie eine Blinddarmentfernung eigentlich, also diese Laparoskopie. Es dauert 20 Minuten. Du kannst am selben Tag wieder heimgehen.",
+   "statement": "Eine Sterilisation per Bauchspiegelung dauert etwa 20 Minuten, man kann meist am selben Tag heimgehen.",
+   "question": "Wie viele Minuten dauert eine Sterilisation per Bauchspiegelung ungefähr?",
+   "answer": "Etwa 20 Minuten",
+   "distractors": [
+    "Etwa 5 Minuten",
+    "Etwa 90 Minuten",
+    "Etwa 3 Stunden"
+   ],
+   "number_value": 20,
+   "number_unit": "Minuten",
+   "slider_min": 5,
+   "slider_max": 120,
+   "log_scale": false,
+   "aha": "Klingt nach Riesending, ist aber ein Routineeingriff, ungefähr so groß wie eine Blinddarm-OP. Keine Woche Krankenhaus, oft geht man noch am selben Tag nach Hause.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Medizin",
+    "Sterilisation"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1425,
+   "speaker": "Julia Brandner",
+   "quote": "also du schneidest nicht wirklich den Bauch auf, aber du kriegst hal trotzdem schon drei Stiche in in Bauch rein und ja, dann wird der Bauch aufgeblasen und so.",
+   "quote_clean": "Du schneidest nicht wirklich den Bauch auf, aber du kriegst trotzdem schon drei Stiche in den Bauch, und dann wird der Bauch aufgeblasen.",
+   "statement": "Bei einer Bauchspiegelung wird der Bauch nicht aufgeschnitten, sondern über drei kleine Einstiche operiert und dafür aufgeblasen.",
+   "question": "Über wie viele kleine Einstiche wird bei Julias Sterilisation per Bauchspiegelung operiert?",
+   "answer": "Drei",
+   "distractors": [
+    "Einen",
+    "Sechs",
+    "Zehn"
+   ],
+   "number_value": 3,
+   "number_unit": "Einstiche",
+   "slider_min": 1,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Statt großem Schnitt gibt es ein paar kleine Löcher, durch die Kamera und Instrumente kommen. Damit man drinnen Platz hat, wird der Bauch mit Gas aufgeblasen, darum passiert das unter Vollnarkose.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Medizin",
+    "Bauchspiegelung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1445,
+   "speaker": "Julia Brandner",
+   "quote": "hat meine Ärztin gesagt, wenn wir da eh schon zugange sind, dann nehmen wir sie besser gleich komplett raus, weil die meisten Eierstockkrebsarten entstehen einem Eyeligher und dann hast du quasi verminderes Krebsrisiko",
+   "quote_clean": "Meine Ärztin hat gesagt, wenn wir eh schon zugange sind, dann nehmen wir sie besser gleich komplett raus, weil die meisten Eierstockkrebsarten im Eileiter entstehen, und dann hast du ein vermindertes Krebsrisiko.",
+   "statement": "Die meisten Eierstockkrebsarten entstehen im Eileiter, deshalb senkt das komplette Entfernen der Eileiter das Krebsrisiko.",
+   "question": "Wo entstehen die meisten Formen von Eierstockkrebs?",
+   "answer": "Im Eileiter",
+   "distractors": [
+    "In der Gebärmutterschleimhaut",
+    "Im Gebärmutterhals",
+    "In den Lymphknoten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Name täuscht: Viele sogenannte Eierstocktumore starten eigentlich im Eileiter. Darum nimmt man bei einer Sterilisation die Eileiter heute oft gleich ganz raus statt sie nur zu veröden, ein netter Gesundheits-Bonus.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Krebs",
+    "Medizin",
+    "Frauengesundheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 760,
+   "speaker": "Julia Brandner",
+   "quote": "aber ich meine in Wien da musst du ein Sachkunden Nachweis ablegen, wenn du dir ein Hund solegen willst.",
+   "quote_clean": "In Wien musst du einen Sachkundenachweis ablegen, wenn du dir einen Hund zulegen willst.",
+   "statement": "Wer sich in Wien einen Hund zulegen will, muss einen Sachkundenachweis ablegen.",
+   "question": "Was musst du in Wien vorweisen, bevor du dir einen Hund zulegst?",
+   "answer": "Einen Sachkundenachweis",
+   "distractors": [
+    "Ein ärztliches Attest",
+    "Einen Garten mit Zaun",
+    "Eine Hundehaftpflicht-Bestätigung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Wien gibt es für neue Hundehalter:innen einen verpflichtenden Kurs mit Nachweis. Julia findet es ein bisschen paradox, dass man für einen Zwergpudel mehr beweisen muss als fürs Kinderkriegen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Wien",
+    "Hunde",
+    "Recht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 765,
+   "speaker": "Julia Brandner",
+   "quote": "Also ich habe für einen ich habe für einen Zwergpudel mehr Voraussetzungen erfüllen müssen als für ein Kind. Finde ich schon noch ein bisschen paradox.",
+   "quote_clean": "Ich habe für einen Zwergpudel mehr Voraussetzungen erfüllen müssen als für ein Kind. Finde ich schon ein bisschen paradox.",
+   "statement": "Julia Brandner findet es paradox, dass sie für einen Zwergpudel mehr Voraussetzungen erfüllen musste als man für ein Kind braucht.",
+   "question": "Wofür musste Julia nach eigener Aussage mehr Voraussetzungen erfüllen als für ein Kind?",
+   "answer": "Für einen Zwergpudel",
+   "distractors": [
+    "Für den Führerschein",
+    "Für eine Mietwohnung",
+    "Für ein Bankkonto"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Wien braucht man für einen Hund einen Sachkundenachweis, fürs Elternwerden gar nichts. Der Pudel wohnt inzwischen übrigens bei Freunden, Julia sieht sich als Elternteil eines Scheidungskindes.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Hunde",
+    "Elternschaft"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1238,
+   "speaker": "Andreas Sator",
+   "quote": "Ich denke gerade so dran, wie das ja noch in den glaube ich bis in die 60er, 70er Jahre war, dass man auch Unterschrift brauchte als Frau, dass man arbeiten durfte.",
+   "quote_clean": "Ich denke gerade daran, dass man noch bis in die 60er, 70er Jahre als Frau eine Unterschrift brauchte, damit man arbeiten durfte.",
+   "statement": "Bis in die 1970er Jahre brauchten Frauen in Österreich die Zustimmung ihres Ehemanns, um arbeiten zu gehen.",
+   "question": "Bis wann brauchten Ehefrauen in Österreich die Erlaubnis ihres Mannes, um arbeiten zu dürfen?",
+   "answer": "Bis in die 1970er Jahre",
+   "distractors": [
+    "Bis in die 1920er Jahre",
+    "Bis in die 1940er Jahre",
+    "Bis in die 1990er Jahre"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Österreich fiel diese Regel erst mit der Familienrechtsreform 1975. Andreas fällt das ein, als es ums Gutachten geht, das Julia für ihre Sterilisation bringen musste. Der Vibe ist halt ein bisschen ähnlich.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Frauenrechte",
+    "Geschichte",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1134,
+   "speaker": "Julia Brandner",
+   "quote": "Und die hat aber dann erklärt, okay, das mit dem Gutachten das schreibt kein Gesetz vor, aber damit was Ärztin safe ist, macht man.",
+   "quote_clean": "Sie hat dann erklärt: Das mit dem Gutachten schreibt kein Gesetz vor, aber damit man als Ärztin safe ist, macht man es.",
+   "statement": "Ein psychologisches Gutachten vor einer Sterilisation unter 30 ist in Österreich gesetzlich nicht vorgeschrieben, Ärzt:innen verlangen es zur eigenen Absicherung.",
+   "question": "Ist ein psychologisches Gutachten vor einer Sterilisation unter 30 in Österreich gesetzlich vorgeschrieben?",
+   "answer": "Nein, Ärzt:innen wollen es zur Absicherung",
+   "distractors": [
+    "Ja, ab dem 25. Geburtstag",
+    "Ja, aber nur für Frauen",
+    "Nein, es ist sogar verboten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Gesetz steht nur die Altersgrenze 25. Das Gutachten ist eine Absicherung für die Ärztin, Julia hat sich ihren Wisch dann eben von ihrer Psychiaterin geholt und ist jetzt offiziell zurechnungsfähig.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Sterilisation",
+    "Recht",
+    "Medizin"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2716,
+   "speaker": "Julia Brandner",
+   "quote": "Ähm freiwillige Pensionsblitting ist in in Österreich. Du kannst ein Formular ausfüllen, was ähm dann dafür sorgt, dass äh das Elternteil, das Hauptverdiener ist, einen Teil seiner Rentenpunkte auf die Haupterziehende Person überschreibt.",
+   "quote_clean": "Freiwilliges Pensionssplitting gibt es in Österreich. Du kannst ein Formular ausfüllen, das dafür sorgt, dass der Elternteil, der Hauptverdiener ist, einen Teil seiner Pensionsansprüche auf die hauptsächlich erziehende Person überträgt.",
+   "statement": "Beim freiwilligen Pensionssplitting in Österreich überträgt der hauptverdienende Elternteil einen Teil seiner Pensionsansprüche auf die Person, die hauptsächlich die Kinder betreut.",
+   "question": "Was passiert beim freiwilligen Pensionssplitting in Österreich?",
+   "answer": "Pensionsansprüche gehen teils an den erziehenden Elternteil",
+   "distractors": [
+    "Der Staat zahlt Eltern eine Zusatzpension",
+    "Beide Eltern gehen früher in Pension",
+    "Die Kinder erben die Pensionsansprüche"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer daheim bleibt und Kinder großzieht, verdient weniger und bekommt später weniger Pension. Mit einem Formular kann der Hauptverdiener einen Teil seiner Ansprüche abgeben. Julia schickt Freundinnen den Link dazu gleich mit der Gratulation.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Pension",
+    "Familie",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2776,
+   "speaker": "Julia Brandner",
+   "quote": "Es machen leider so wenige Leute dieses freiwillige Pensionsplitting in Österreich.",
+   "quote_clean": "Es machen leider so wenige Leute dieses freiwillige Pensionssplitting in Österreich.",
+   "statement": "Das freiwillige Pensionssplitting wird in Österreich nur von sehr wenigen Paaren genutzt.",
+   "question": "Wie verbreitet ist das freiwillige Pensionssplitting in Österreich?",
+   "answer": "Kaum genutzt",
+   "distractors": [
+    "Von fast allen Eltern genutzt",
+    "Für Ehepaare automatisch",
+    "Von etwa der Hälfte genutzt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Es läuft nicht automatisch, man muss es aktiv beantragen, und das tun die wenigsten. Julia redet deshalb die ganze Zeit darüber, egal ob die Frau oder der Mann daheim bleibt. Kinder dürfen keine Armutsfalle sein.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Pension",
+    "Gleichberechtigung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2221,
+   "speaker": "Andreas Sator",
+   "quote": "Vor allem so Modelle gibt's ja auch wie in Island z.B. jeder sechs Monate in Karenz.",
+   "quote_clean": "Solche Modelle gibt es ja auch, wie in Island zum Beispiel: Jeder geht sechs Monate in Karenz.",
+   "statement": "In Island hat jeder Elternteil Anspruch auf sechs Monate Elternzeit.",
+   "question": "Wie viele Monate Karenz stehen in Island jedem Elternteil zu?",
+   "answer": "Sechs Monate",
+   "distractors": [
+    "Zwei Monate",
+    "Zwölf Monate",
+    "Drei Monate"
+   ],
+   "number_value": 6,
+   "number_unit": "Monate",
+   "slider_min": 1,
+   "slider_max": 15,
+   "log_scale": false,
+   "aha": "Island teilt die Karenz bewusst zwischen beiden Eltern auf, damit nicht automatisch die Mutter daheim bleibt. Genau das wünscht sich Julia: Männer stärker in die Pflicht nehmen, damit nicht alles an 50 Prozent der Weltbevölkerung hängt.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Island",
+    "Karenz",
+    "Familie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2272,
+   "speaker": "Andreas Sator",
+   "quote": "Dann glaube ich treffen sie sich in der Eileiter. Genau. Und von der Eierstock Eileiter Gebärmutter. Und indem man bei dir diese Verbindung wegdut, kommt die Eizelle nicht mehr dorthin und auch das Spermium kann es nicht treffen.",
+   "quote_clean": "Dann treffen sie sich im Eileiter. Also Eierstock, Eileiter, Gebärmutter. Und indem man bei dir diese Verbindung wegtut, kommt die Eizelle nicht mehr dorthin und das Spermium kann sie nicht treffen.",
+   "statement": "Eizelle und Spermium treffen sich normalerweise im Eileiter; wird diese Verbindung bei der Sterilisation entfernt, kann keine Befruchtung mehr stattfinden.",
+   "question": "Wo treffen sich Eizelle und Spermium normalerweise bei der Befruchtung?",
+   "answer": "Im Eileiter",
+   "distractors": [
+    "In der Gebärmutter",
+    "Im Eierstock",
+    "Im Gebärmutterhals"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Eileiter ist die Verbindung zwischen Eierstock und Gebärmutter, und genau dort passiert die Befruchtung. Nimmt man ihn weg, fehlt der Treffpunkt. Andreas hat sich das für die Folge extra nochmal erklären lassen und gibt sich 100 Punkte.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Biologie",
+    "Fortpflanzung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2290,
+   "speaker": "Andreas Sator",
+   "quote": "Aber man kann dir oder sterilisierten Personen einfach eine befruchtete Erzelle einsetzen und der Rest funktioniert ja noch bisschen.",
+   "quote_clean": "Aber man kann dir oder sterilisierten Personen einfach eine befruchtete Eizelle einsetzen, und der Rest funktioniert ja noch.",
+   "statement": "Auch nach einer Sterilisation durch Entfernen der Eileiter kann eine Frau per künstlicher Befruchtung schwanger werden.",
+   "question": "Kann eine Frau nach einer Sterilisation, bei der die Eileiter entfernt wurden, noch schwanger werden?",
+   "answer": "Ja, per künstlicher Befruchtung",
+   "distractors": [
+    "Nein, das ist ausgeschlossen",
+    "Nur wenn die Eileiter nachwachsen",
+    "Nur in den ersten zwei Jahren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eierstöcke und Gebärmutter bleiben ja drin. Man kann also eine im Labor befruchtete Eizelle direkt in die Gebärmutter einsetzen und den Eileiter einfach überspringen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fortpflanzung",
+    "Medizin"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 607,
+   "speaker": "Julia Brandner",
+   "quote": "Also ich finde das auch immer so lustig, wenn Leute sagen, dass das so ein radikaler Schritt ist, wo ichmer denke, jer sich ein Leben lang Hormone zu ballern, die im Körper eine Schwangerschaft vortäuschen, ist kein radikaler Schritt.",
+   "quote_clean": "Ich finde das immer so lustig, wenn Leute sagen, dass das so ein radikaler Schritt ist, wo ich mir denke: Sich ein Leben lang Hormone zu ballern, die im Körper eine Schwangerschaft vortäuschen, ist kein radikaler Schritt?",
+   "statement": "Julia Brandner findet es seltsam, Sterilisation radikal zu nennen, während lebenslange Hormoneinnahme als normal gilt.",
+   "question": "Wer sagt: Sich ein Leben lang Hormone zu ballern, die eine Schwangerschaft vortäuschen, sei doch auch kein radikaler Schritt?",
+   "answer": "Julia Brandner",
+   "distractors": [
+    "Andreas Sator",
+    "Kelsey Piper",
+    "Julias Gynäkologin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Julia ist die Sterilisation einfach Verhütung, nur sehr sicher und nebenwirkungsarm. Dass ausgerechnet das als radikal gilt, während die Pille jahrzehntelang normal ist, findet sie eher lustig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Verhütung",
+    "Sterilisation"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2128,
+   "speaker": "Julia Brandner",
+   "quote": "Also so ein Kind fragt man ja auch nicht, ob es auf die Welt kommen will. Also im besten Fall kriegt man ein Kind, weil man Kind möchte.",
+   "quote_clean": "So ein Kind fragt man ja auch nicht, ob es auf die Welt kommen will. Im besten Fall kriegt man ein Kind, weil man ein Kind möchte.",
+   "statement": "Julia Brandner argumentiert, dass auch der Kinderwunsch egoistisch ist, weil man ein Kind bekommt, weil man selbst eines möchte.",
+   "question": "Warum ist laut Julia Brandner auch der Wunsch nach Kindern eine egoistische Entscheidung?",
+   "answer": "Man bekommt ein Kind, weil man selbst will",
+   "distractors": [
+    "Weil Kinder später die Pension zahlen",
+    "Weil Eltern weniger Steuern zahlen",
+    "Weil Kinder Ansehen in der Familie bringen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Den Egoismus-Vorwurf lässt Julia gelten, dreht ihn aber um: Das Kind wurde nicht gefragt, man kriegt es, weil man es sich wünscht. Egoistisch heißt hier nicht schlecht, es geht nur um den Wunsch, nicht ums Elternsein danach.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kinderwunsch",
+    "Egoismus"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2558,
+   "speaker": "Andreas Sator",
+   "quote": "Und viertens, Kinder sind nicht der einzige Weg für ein sinnvolles Leben. Es ähm gibt vielen Leuten Sinn und das ist wunderschön, aber auch ein Roman zu schreiben, ein Freundin durchzutragen durch ein schlimmes Ereignis im Leben",
+   "quote_clean": "Und viertens: Kinder sind nicht der einzige Weg für ein sinnvolles Leben. Es gibt vielen Leuten Sinn und das ist wunderschön, aber auch einen Roman zu schreiben oder eine Freundin durch ein schlimmes Ereignis im Leben zu tragen.",
+   "statement": "Die Journalistin Kelsey Piper hält fest, dass Kinder nicht der einzige Weg zu einem sinnvollen Leben sind.",
+   "question": "Welche Journalistin hat Andreas mit vier Punkten über Kinder zitiert, darunter: Kinder sind nicht der einzige Weg zu einem sinnvollen Leben?",
+   "answer": "Kelsey Piper",
+   "distractors": [
+    "Julia Brandner",
+    "Mona Chollet",
+    "Orna Donath"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ihre vier Punkte: Kinder haben ist unterschätzt cool, Politik muss Familien gut leben lassen, wer keine will, soll in Ruhe gelassen werden, und Sinn gibt es auch anderswo. Andreas sammelt so etwas übrigens in einem Pro-und-Kontra-Dokument zum Kinderkriegen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Sinn",
+    "Kinder",
+    "Lebensentwurf"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 965,
+   "speaker": "Julia Brandner",
+   "quote": "Das viral gegangen. Ja, das hat irgendwie eine halbe Million Menschen erreicht und die meisten haben sich da mit mir drüber aufgeregt.",
+   "quote_clean": "Das ist viral gegangen. Das hat eine halbe Million Menschen erreicht, und die meisten haben sich mit mir darüber aufgeregt.",
+   "statement": "Julia Brandners Instagram-Post über die Antwort der Arztpraxis erreichte rund eine halbe Million Menschen.",
+   "question": "Wie viele Menschen erreichte Julias Instagram-Post über die Absage ihrer Arztpraxis ungefähr?",
+   "answer": "Rund eine halbe Million",
+   "distractors": [
+    "Rund 20.000",
+    "Rund 5 Millionen",
+    "Rund 80.000"
+   ],
+   "number_value": 500000,
+   "number_unit": "Menschen",
+   "slider_min": 10000,
+   "slider_max": 5000000,
+   "log_scale": true,
+   "aha": "Die Praxis hatte ihr statt Sterilisation eine Kupferspirale angeboten, die sie nachweislich nicht verträgt. Julia hat es gepostet, weil sonst ist es ja nicht passiert, und die meisten haben sich mit ihr aufgeregt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Instagram",
+    "Sterilisation"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 345,
+   "speaker": "Julia Brandner",
+   "quote": "Also im Kindergarten, da wird ja auch öfter mal so Vater Mutter, Kind gespielt und ich wollte einfach immer der Vater sein, weil ich habe so ich hab so von meinem Vater gekannt, der sitzt einfach nur so im Arbeitszimmer vor seinem Computer",
+   "quote_clean": "Im Kindergarten wird ja öfter Vater, Mutter, Kind gespielt, und ich wollte einfach immer der Vater sein, weil ich das von meinem Vater gekannt habe: Der sitzt einfach nur im Arbeitszimmer vor seinem Computer.",
+   "statement": "Julia Brandner wollte beim Vater-Mutter-Kind-Spielen im Kindergarten immer der Vater sein, weil der einfach nur am Computer saß.",
+   "question": "Welche Rolle wollte Julia beim Vater-Mutter-Kind-Spielen im Kindergarten immer haben?",
+   "answer": "Den Vater",
+   "distractors": [
+    "Die Mutter",
+    "Das Kind",
+    "Den Hund"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ihr Papa saß im Arbeitszimmer vorm Computer und hat sich nicht groß mit den Kindern beschäftigt. Für die kleine Julia war das eindeutig die sympathischste Rolle.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kindheit",
+    "Rollenbilder"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 2990,
+   "speaker": "Andreas Sator",
+   "quote": "Was nehme ich mir mit? Erstens, wer sich gegen Kinder entscheidet, ist nicht gegen Kinder.",
+   "quote_clean": "Was nehme ich mir mit? Erstens: Wer sich gegen Kinder entscheidet, ist nicht gegen Kinder.",
+   "statement": "Andreas Sator fasst seine Folgen am Ende mit der Frage zusammen: Was nehme ich mir mit?",
+   "question": "Mit welcher Frage leitet Andreas am Ende der Folge seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir heute gelernt?",
+    "Was bleibt am Ende übrig?",
+    "Was soll ich mir merken?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das ist Andreas' fixer Schluss, meistens mit drei Punkten. Diesmal Punkt eins: Seit Julia sicher keine Kinder bekommt, ist sie mit Kindern sogar viel entspannter.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Podcast",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2893,
+   "speaker": "Julia Brandner",
+   "quote": "wenn du so bist, wie du bist, ziehst du ja dann meistens nur die richtigen Leute an. Wenn du dich verstellst, dann ziehst du Leute an, die deine verstellte Version mögen, aber dich im Wesentlichen nicht unbedingt.",
+   "quote_clean": "Wenn du so bist, wie du bist, ziehst du meistens nur die richtigen Leute an. Wenn du dich verstellst, ziehst du Leute an, die deine verstellte Version mögen, aber dich im Wesentlichen nicht unbedingt.",
+   "statement": "Julia Brandner meint, wer sich nicht verstellt, zieht die richtigen Menschen an.",
+   "question": "Wer sagt: Wenn du dich verstellst, ziehst du Leute an, die deine verstellte Version mögen?",
+   "answer": "Julia Brandner",
+   "distractors": [
+    "Andreas Sator",
+    "Kelsey Piper",
+    "Julias Mama"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Man kann es eh nie allen recht machen, also kann man gleich die Richtigen anziehen. Julia nennt ihren Weg dorthin Konfrontationstherapie mit Jürgens auf Instagram, empfiehlt aber eher professionelle Begleitung.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Selbstbestimmung",
+    "Authentizität"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1728,
+   "speaker": "Julia Brandner",
+   "quote": "Also, ich wollte nicht fruchtbar sein, hat mich keiner gefragt und jetzt bin ich es nicht mehr. Halleluja.",
+   "quote_clean": "Ich wollte nicht fruchtbar sein, hat mich keiner gefragt, und jetzt bin ich es nicht mehr. Halleluja.",
+   "statement": "Julia Brandner sagt nach ihrer Sterilisation: Sie wollte nie fruchtbar sein, und jetzt ist sie es nicht mehr.",
+   "question": "Wer sagt über die eigene Sterilisation: Ich wollte nicht fruchtbar sein, hat mich keiner gefragt, und jetzt bin ich es nicht mehr?",
+   "answer": "Julia Brandner",
+   "distractors": [
+    "Andreas Sator",
+    "Kelsey Piper",
+    "Julias Zimmernachbarin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ihr Körper hatte eine Funktion, die sie nie wollte, und nach der OP fühlte sich das einfach richtig an. Das Halleluja kommt, wie sie sagt, von einer Antikatholikin.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sterilisation",
+    "Selbstbestimmung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "368",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

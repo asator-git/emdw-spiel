@@ -1,0 +1,293 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Beleg 338-374 s passt; Dropbox im aha nicht belegt, Distraktor 'PIN der Bankomatkarte' nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Zwei-Faktor-Authentifizierung funktioniert wie beim Online-Banking: Neben Benutzername und Passwort braucht man einen zusätzlichen Code, etwa eine TAN.",
+   "question": "Welches bekannte Beispiel für Zwei-Faktor-Authentifizierung kennst du vom Online-Banking?",
+   "answer": "Die TAN beim Überweisen",
+   "distractors": [
+    "Die IBAN im Überweisungsformular",
+    "Der Kontostand beim Login",
+    "Die Sicherheitsfrage beim Login"
+   ],
+   "aha": "Benutzername und Passwort allein reichen beim Banking nicht zum Überweisen, du brauchst noch die TAN. Dasselbe Prinzip gibt es bei iCloud, Facebook und Twitter: Wer nur dein Passwort hat, kommt trotzdem nicht rein.",
+   "quote_clean": "Wenn ich beim Telebanking einsteige, habe ich normalerweise zwei Informationen: meinen Benutzernamen und mein Passwort. Wenn ich dann aber etwas überweisen will, brauche ich eine sogenannte TAN.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 554-590 s klar.",
+   "stand_note": "",
+   "statement": "Ein Passwortmanager läuft auf Handy, Computer und Browser und man muss sich nur noch ein einziges Passwort merken: das des Passwortmanagers.",
+   "question": "Wie viele Passwörter musst du dir mit einem Passwortmanager noch merken?",
+   "answer": "Nur eines, das Masterpasswort",
+   "distractors": [
+    "Eines pro Gerät",
+    "Eines pro Browser",
+    "Gar keines mehr"
+   ],
+   "aha": "Der Passwortmanager füllt Benutzername und Passwort auf allen Geräten automatisch aus. Deshalb kannst du überall lange, komplizierte Passwörter verwenden, die du dir nie merken müsstest.",
+   "quote_clean": "Die moderneren dieser Softwarepakete können Folgendes: Man hat sie am Handy, am Computer und auf jedem Browser installiert und muss sich über all diese Geräte hinweg kein Passwort merken außer dem Passwort des Passwortmanagers.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Beleg 689-707 s passt; aha-Behauptung zu Passwortknacker-Listen nicht belegt; Antwort präzisiert.",
+   "stand_note": "",
+   "statement": "Für ein gutes Masterpasswort eignet sich eine selbst ausgedachte Phrase, die nirgends sonst vorkommt – kein bekanntes Zitat.",
+   "question": "Welches Masterpasswort ist nach Lenas Tipp das bessere?",
+   "answer": "Eine selbst ausgedachte Phrase",
+   "distractors": [
+    "Ein berühmtes Shakespeare-Zitat",
+    "Hallo123 mit Rufzeichen",
+    "Der eigene Name mit Geburtsjahr"
+   ],
+   "aha": "Lena nimmt gern eine Phrase, die es woanders nicht gibt – zum Beispiel ‚Die Prinzessin auf der Erbse tanzt auf dem Eis‘. Dann nimmt sie die ganze Phrase, einen Teil oder die Anfangsbuchstaben. Hauptsache lang und trotzdem merkbar.",
+   "quote_clean": "Was ich gerne mache bei Masterpasswörtern: Ich nehme eine Phrase, die woanders nicht vorkommt, also nicht „Sein oder nicht sein, das ist hier die Frage“, sondern „Die Prinzessin auf der Erbse tanzt auf dem Eis“.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg 774-833 s passt; Aussage ist Lenas Darstellung der Anbieter, daher 'laut Lena' ergänzt.",
+   "stand_note": "",
+   "statement": "Wer das Masterpasswort seines Passwortmanagers vergisst, kann sich nicht vom Anbieter helfen lassen: Es gibt keinen Generalschlüssel.",
+   "question": "Was passiert laut Lena, wenn du das Masterpasswort deines Passwortmanagers vergisst?",
+   "answer": "Der Anbieter kann den Tresor nicht öffnen",
+   "distractors": [
+    "Der Anbieter schickt einen Zweitschlüssel",
+    "Der Support setzt es per SMS zurück",
+    "Nach 24 Stunden wird er entsperrt"
+   ],
+   "aha": "Ein Generalschlüssel wäre ein Sicherheitsrisiko: Fällt er wem in die Hände, könnte der 100.000 Passwort-Safes aufsperren. Der Trost: Die meisten Konten hängen an deiner E-Mail-Adresse und lassen sich darüber wiederherstellen – mühsam, aber machbar.",
+   "quote_clean": "Und da sagen auch die Anbieter: Wir haben keine Backdoor, wir haben keinen Schlüssel, der das wieder aufsperrt, weil das wäre gefährlich.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Beleg 847-852 s; Zitatfrage bei Einzelgästin zu leicht, als Inhaltsfrage umgebaut; unbelegte Aussage zu Andreas entfernt.",
+   "stand_note": "",
+   "statement": "Ein Backup, das am selben Ort liegt wie der Computer, ist bei einem Wohnungsbrand mit verloren.",
+   "question": "Warum ist ein Backup nur in der eigenen Wohnung laut Lena kein richtiges Backup?",
+   "answer": "Es geht bei einem Brand mit dem Computer verloren",
+   "distractors": [
+    "Festplatten halten nur ein Jahr",
+    "Es ist nicht verschlüsselt",
+    "Man muss es von Hand starten"
+   ],
+   "aha": "Deshalb hat Lena zwei RAID-Systeme, von denen eines abwechselnd an einem anderen Ort liegt, nicht dort, wo sie wohnt und arbeitet.",
+   "quote_clean": "Wenn ich nur ein lokales Backup mache und meine Wohnung brennt ab, samt Computer und Backup, dann habe ich kein Backup.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg 899-912 s; Erklärung ist Lenas, nicht jede RAID-Stufe speichert redundant, daher 'laut Lena' und 'mehrfach'.",
+   "stand_note": "",
+   "statement": "Laut Lena ist ein RAID ein Verbund mehrerer Festplatten, auf denen dieselben Daten mehrfach gespeichert sind.",
+   "question": "Was ist laut Lena ein RAID?",
+   "answer": "Mehrere Festplatten, die Daten mehrfach speichern",
+   "distractors": [
+    "Ein verschlüsselter Cloud-Speicher",
+    "Ein Programm gegen Computerviren",
+    "Ein besonders schneller USB-Stick"
+   ],
+   "aha": "Weil die Daten auf mehreren Platten liegen, macht es nichts, wenn eine davon kaputtgeht. Gegen einen Brand hilft das aber nicht – darum bringt Lena ihr RAID abwechselnd an einen anderen Ort.",
+   "quote_clean": "Eine Anordnung von mehreren Festplatten, die redundant arbeitet. Ich habe so ein Gehäuse, da sind mehrere Festplatten drin, und auf den Festplatten sind meine Daten zwei-, dreimal vorhanden.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "kontext"
+   ],
+   "note": "Preis von 2020 und Lenas rechtliche Einschätzung zur DSGVO-Konformität der Tarife, heute irreführend.",
+   "stand_note": "",
+   "statement": "Für Selbstständige, die DSGVO-konform in der Cloud speichern wollen, kostete das kleinste Dropbox-Business-Paket rund 300 Euro im Jahr.",
+   "question": "Wie viel kostete laut Lena das kleinste DSGVO-taugliche Business-Paket bei Dropbox pro Jahr (in Euro)?",
+   "answer": "Rund 300 Euro",
+   "distractors": [
+    "Rund 30 Euro",
+    "Rund 100 Euro",
+    "Rund 1.000 Euro"
+   ],
+   "aha": "Sogar die einfachen bezahlten Privat-Accounts bei Dropbox und Google sind laut Lena nicht datenschutzkonform. Wer gewerblich speichert, braucht ein Business-Paket – und das ist eben nicht das billigste.",
+   "quote_clean": "Das heißt, da muss ich die kleinsten Business-Pakete nehmen. Und das ist bei Dropbox 300 Euro im Jahr.",
+   "quality": 1
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg 1157-1175 s; Frage auf die Privatperson präzisiert, da Anbieter selbst der DSGVO unterliegen.",
+   "stand_note": "",
+   "statement": "Die Datenschutz-Grundverordnung gilt nicht für rein private Zwecke, etwa ein privates Adressbuch in der Cloud.",
+   "question": "Gilt die Datenschutz-Grundverordnung für dich als Privatperson, wenn du nur dein privates Adressbuch in der Cloud speicherst?",
+   "answer": "Nein, für Privates gilt sie nicht",
+   "distractors": [
+    "Ja, sie gilt für alle Daten",
+    "Nur bei Cloud-Anbietern in den USA",
+    "Nur ab mehr als 100 Kontakten"
+   ],
+   "aha": "Die DSGVO nimmt rein private Zwecke aus. Lenas Tipp trotzdem: Adressbuch, Kalender und Mails einmal im Jahr exportieren und aufs eigene Backup legen.",
+   "quote_clean": "Und für Nicht-Selbstständige ist es relativ wurscht, da die Datenschutz-Grundverordnung für private Zwecke nicht gilt.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Beleg 1241-1264 s; aha 'unterwegs kann niemand mitlesen' überzogen, präzisiert.",
+   "stand_note": "",
+   "statement": "Bei normalen E-Mails ist meist nur der Weg zum Mailserver verschlüsselt, nicht die Mail selbst.",
+   "question": "Was ist bei einer ganz normalen E-Mail heute üblicherweise verschlüsselt?",
+   "answer": "Die Verbindung zum Mailserver",
+   "distractors": [
+    "Der Inhalt der Mail selbst",
+    "Gar nichts, alles ist offen",
+    "Nur die Anhänge"
+   ],
+   "aha": "Die Verbindung zwischen dir und deinem Mailserver ist geschützt, die Mail selbst aber nicht verschlüsselt. Für wirklich Heikles empfiehlt Lena deshalb Messenger mit Ende-zu-Ende-Verschlüsselung.",
+   "quote_clean": "Heutzutage werden die E-Mail-Server im Normalfall über SSL abgerufen, also über die gleiche Verschlüsselung, die auch Webseiten verwenden. Es ist zwar nicht die Mail selbst verschlüsselt, aber die Kommunikation zwischen mir und dem E-Mail-Server.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Lena sagt nur, WhatsApp sei dafür sicher genug; die Aussage 'getrennte Kanäle sind sicherer' steht nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Zugangsdaten verschickt man sicherer, wenn man Benutzername und Passwort über zwei verschiedene Kanäle schickt.",
+   "question": "Wie verschickst du Zugangsdaten an jemanden am besten?",
+   "answer": "Benutzername und Passwort getrennt",
+   "distractors": [
+    "Beides in einer E-Mail",
+    "Beides als Foto im Chat",
+    "Beides im Betreff einer Mail"
+   ],
+   "aha": "Wer nur einen Kanal abfängt, hat bloß die halbe Information. Für solche Alltagsanwendungen hält Lena WhatsApp für sicher genug – Andreas hat das bisher übrigens telefonisch erledigt.",
+   "quote_clean": "Jemand macht mir einen Account bei sich, schickt mir den Benutzernamen per E-Mail und das Passwort in einem Messenger oder per SMS.",
+   "quality": 1
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Beleg 1851-1863 s; Zitatfrage zu leicht, als Inhaltsfrage umgebaut; unbelegte Akku-Aussage entfernt.",
+   "stand_note": "",
+   "statement": "Bei Pop-up-Fenstern klicken Ältere aus Unsicherheit und Jüngere aus Genervtheit gleichermaßen einfach auf OK.",
+   "question": "Was machen laut Lena sowohl ältere als auch jüngere Leute bei aufpoppenden Fenstern?",
+   "answer": "Beide klicken auf OK",
+   "distractors": [
+    "Beide schließen sie sofort mit dem Kreuz",
+    "Beide lesen den Text genau durch",
+    "Beide holen sich Hilfe"
+   ],
+   "aha": "Die einen fürchten sich, die anderen sind genervt – geklickt wird trotzdem. Lenas wichtigster Tipp: lesen, was da kommt, und überlegen, was man will. Braucht ein Adressbuch wirklich deinen Standort? Eher nicht.",
+   "quote_clean": "Ältere Leute fürchten sich oft vor diesen Fenstern, weil sie sich denken: Ich weiß nicht, was das heißt. Junge Leute denken sich: Das nervt. Beide klicken auf OK.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 2571-2598 s klar.",
+   "stand_note": "",
+   "statement": "Beim Schauen einer englischen Serie fühlte sich Siri bei jedem „serious“ angesprochen und schickte Ton in die Cloud.",
+   "question": "Welches englische Wort in einer Serie hat bei Lena immer wieder Siri aufgeweckt?",
+   "answer": "Serious",
+   "distractors": [
+    "Seriously",
+    "Sorry",
+    "Series"
+   ],
+   "aha": "„Serious“ klingt eben fast wie „Siri“. Und beim lauten Reden während des Trainings meint ihre Uhr manchmal auch, sie wolle was – die Dinger lauschen wirklich intensiv mit.",
+   "quote_clean": "Da kam öfter das Wort „serious“ vor, und jedes Mal, wenn das Wort „serious“ vorkam, fühlte sich Siri angesprochen und hat die Fernsehserie in die Cloud geschickt.",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Beleg 3065-3080 s; Zitatfrage zu leicht, als Inhaltsfrage umgebaut; unbelegten Export-Tipp ersetzt.",
+   "stand_note": "",
+   "statement": "Eine einfache Faustregel fürs Posten: Nur veröffentlichen, was man auch groß auf eine Werbetafel neben dem Rathaus schreiben würde.",
+   "question": "Welche Faustregel fürs Posten nennt Lena?",
+   "answer": "Nur posten, was man groß neben dem Rathaus auf eine Werbetafel schreiben würde",
+   "distractors": [
+    "Nur posten, was man am nächsten Tag noch gut findet",
+    "Nie mehr als einmal pro Woche posten",
+    "Nur mit Pseudonym posten"
+   ],
+   "aha": "Das wäre am allerbesten, sagt Lena – machen wir aber alle oft nicht. Wer öffentlichkeitsorientierter werden will, sollte außerdem alte Kommunikation durchgehen und Jugendsünden löschen.",
+   "quote_clean": "Am einfachsten ist es, nur etwas zu posten, was man sich auch in großen Buchstaben neben dem örtlichen Rathaus auf eine große Werbetafel zu schreiben trauen würde.",
+   "quality": 4
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage ohne Wissensgewinn; aha mit unbelegter Behauptung (Fotos).",
+   "stand_note": "",
+   "statement": "Andreas schließt seine Folgen mit der Frage, was er sich aus dem Gespräch mitnimmt.",
+   "question": "Mit welcher Frage leitet Andreas am Ende der Folge seine persönliche Zusammenfassung ein?",
+   "answer": "„Was nehme ich mir mit?“",
+   "distractors": [
+    "„Was haben wir heute gelernt?“",
+    "„Was bleibt am Ende übrig?“",
+    "„Was sollt ihr euch merken?“"
+   ],
+   "aha": "Diesmal war es so viel, dass er beim Schneiden mitgeschrieben hat. Ergebnis: Facebook, Twitter und Dropbox laufen jetzt mit Zwei-Faktor, ein Passwortmanager kommt fix – und die Fotos sollen nicht mehr nur auf einer Platte in der Wohnung liegen.",
+   "quote_clean": "Was nehme ich mir mit? Viel zu viel, um das jetzt alles genau zusammenzufassen.",
+   "quality": 1
+  }
+ ],
+ "id": "139",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

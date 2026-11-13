@@ -1,0 +1,292 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1687-1692 passt, Benzodiazepine und Milchzucker werden genannt.",
+   "stand_note": "",
+   "statement": "Straßenheroin ist stark gestreckt, oft mit beruhigenden Medikamenten wie Benzodiazepinen oder auch mit Milchzucker.",
+   "question": "Womit wird Straßenheroin laut Nina häufig gestreckt?",
+   "answer": "Mit beruhigenden Medikamenten",
+   "distractors": [
+    "Mit Koffeinpulver",
+    "Mit Backpulver",
+    "Mit Vitamintabletten"
+   ],
+   "aha": "Oft sind es Benzodiazepine, manchmal auch einfach Milchzucker. Wer auf der Straße kauft, weiß also nie genau, was und wie viel er erwischt.",
+   "quote_clean": "Und vor allem ist es sehr gestreckt. Es ist ganz wenig reines Heroin drinnen. Die strecken das mit verschiedensten Medikamenten, die eine beruhigende Wirkung haben.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Zahl belegt (1699), aber unsichere Schätzung von Nina und kein Bezug auf Wien im Ausschnitt; Formulierung angepasst.",
+   "stand_note": "Stand 2022",
+   "statement": "In Straßenheroin ist laut Nina oft nur etwa zehn Prozent oder weniger reines Heroin enthalten.",
+   "question": "Wie viel Prozent reines Heroin steckt laut Nina ungefähr in Straßenheroin?",
+   "answer": "Etwa 10 Prozent, wenn überhaupt",
+   "distractors": [
+    "Etwa 40 Prozent",
+    "Etwa 70 Prozent",
+    "Fast 100 Prozent"
+   ],
+   "aha": "Das Heroin von Ninas Privatdealer wurde nach einer Verhaftung im Labor getestet und hatte 37 Prozent. Das galt schon als recht gut, und ein Gramm kostete dann 80 Euro.",
+   "quote_clean": "Es ist vielleicht zehn Prozent Heroin drinnen, wenn überhaupt. Also in diesem Straßenheroin.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "beleg"
+   ],
+   "note": "Zahl belegt (1870); Preisangabe aus damaliger Sicht, im aha waren unbelegte 80 bis 160 Euro.",
+   "stand_note": "Stand 2022",
+   "statement": "Ein Gramm Cannabis kostete auf der Straße durchschnittlich etwa zehn Euro.",
+   "question": "Wie viel kostete ein Gramm Gras auf der Straße laut Nina durchschnittlich?",
+   "answer": "Etwa 10 Euro",
+   "distractors": [
+    "Etwa 3 Euro",
+    "Etwa 25 Euro",
+    "Etwa 50 Euro"
+   ],
+   "aha": "Nina bekam das Gras um fünf Euro das Gramm und machte so pro Gramm fünf Euro Gewinn. Mit normaler Arbeit, sagt sie, hätte sie das Geld für ihre Sucht nie zusammenbekommen.",
+   "quote_clean": "Ich habe es auch billig bekommen. Normalerweise kostet auf der Straße ein Gramm Gras durchschnittlich zehn Euro.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "beleg"
+   ],
+   "note": "Preis belegt (3430), im aha stand Unbelegtes (Südamerika); gekürzt.",
+   "stand_note": "Stand 2022",
+   "statement": "Ein Gramm Kokain kostete in Österreich etwa 100 bis 120 Euro und war dabei meist mindestens zur Hälfte gestreckt.",
+   "question": "Wie viel kostete ein Gramm Kokain in Österreich laut Nina ungefähr?",
+   "answer": "100 bis 120 Euro",
+   "distractors": [
+    "20 bis 30 Euro",
+    "40 bis 50 Euro",
+    "300 bis 400 Euro"
+   ],
+   "aha": "Und selbst dann ist nur rund die Hälfte wirklich Kokain. Hochgerechnet auf ein Kilo kommt man da schnell in Millionenhöhe.",
+   "quote_clean": "Bei uns kostet ein Gramm Kokain so zwischen 100 und 120 Euro. Und das ist dann noch nicht einmal wirklich ein Gramm Kokain, sondern mindestens schon halb-halb gestreckt.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg passt (3890-3929); aha umformuliert, weniger flapsig.",
+   "stand_note": "",
+   "statement": "In Österreich gibt es das Prinzip „Therapie statt Strafe“ für Süchtige, die Straftaten begehen, um ihre Sucht zu finanzieren.",
+   "question": "Wie heißt die österreichische Regelung, bei der Suchtkranke statt ins Gefängnis in eine Therapie gehen können?",
+   "answer": "Therapie statt Strafe",
+   "distractors": [
+    "Hilfe vor Haft",
+    "Entzug statt Zelle",
+    "Heilung vor Urteil"
+   ],
+   "aha": "Gedacht ist das für Menschen, die Straftaten begehen, um ihre eigene Sucht zu finanzieren, nicht für Dealer, die vor allem Geld verdienen wollen. Bei Nina hat der Richter es sogar selbst empfohlen.",
+   "quote_clean": "Bei uns in Österreich gibt es noch etwas, das heißt Therapie statt Strafe. Und zwar: Wenn du eine Straftat nur begehst, um deine Sucht zu finanzieren, und nicht, um dich zu bereichern,",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Drei Jahre belegt (3920, 3932-3937); Voraussetzung nicht als einzige dargestellt.",
+   "stand_note": "Stand 2022",
+   "statement": "Eine Voraussetzung für „Therapie statt Strafe“ in Österreich ist laut Nina, dass das Strafmaß nicht über drei Jahre hinausgeht.",
+   "question": "Bis zu welcher Strafhöhe ist „Therapie statt Strafe“ in Österreich laut Nina möglich?",
+   "answer": "Drei Jahre",
+   "distractors": [
+    "Ein Jahr",
+    "Fünf Jahre",
+    "Zehn Jahre"
+   ],
+   "aha": "Nina bekam genau drei Jahre und hatte damit, wie sie sagt, Urglück. Bei drei Jahren und einem Tag wäre die Therapie nicht mehr gegangen.",
+   "quote_clean": "Wenn du nicht so ein Dealer bist, sondern selber süchtig bist und irgendeine Straftat begehst, ob das Diebstahl ist, Dealen oder sonst was, und dein Strafmaß nicht über drei Jahre hinausgeht,",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Beleg passt (4006-4017), aha enthielt Unbelegtes zu Methadon-Unverträglichkeit; Stand 2022.",
+   "stand_note": "Stand 2022",
+   "statement": "Methadon gibt es als Drogenersatz seit den 1980er-Jahren, in Österreich sind laut Nina aber meist morphiumhaltige Tabletten üblich.",
+   "question": "Was bekommen Menschen im österreichischen Substitutionsprogramm laut Nina meistens?",
+   "answer": "Morphiumhaltige Tabletten",
+   "distractors": [
+    "Methadon-Sirup",
+    "Cannabis-Tropfen",
+    "Nikotinpflaster"
+   ],
+   "aha": "Methadon ist das älteste Ersatzmittel und gibt es seit den 80ern, wird aber laut Nina weniger verwendet. Meist sind es Tabletten wie Substitol oder Compensan.",
+   "quote_clean": "Das gängigste oder älteste Mittel ist Methadon. Das gibt es seit den 80er-Jahren. Das ist aber jetzt nicht mehr so verbreitet. In den meisten Fällen sind es morphiumhaltige Tabletten wie Substitol oder Compensan.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "transkription"
+   ],
+   "note": "Beleg passt (4240-4248); im aha stand 'Harntests', transkribiert ist 'Handtests', unklar ob Harn oder Haar.",
+   "stand_note": "Stand 2022",
+   "statement": "Im Substitutionsprogramm nimmt man das Ersatzmedikament täglich unter Aufsicht in der Apotheke ein, wer arbeitet oder zur Schule geht, bekommt es wöchentlich mit.",
+   "question": "Wo nehmen Menschen im Substitutionsprogramm ihr Medikament normalerweise täglich unter Aufsicht ein?",
+   "answer": "In der Apotheke",
+   "distractors": [
+    "Bei der Polizei",
+    "Im Krankenhaus",
+    "Beim Amtsarzt"
+   ],
+   "aha": "Das Rezept schreibt der Hausarzt, der Amtsarzt stempelt es gegen, kontrolliert wird also doppelt. Dazu kommen unangekündigte Tests, und wer nebenbei Heroin nimmt, kann aus dem Programm fliegen.",
+   "quote_clean": "Dann muss man jeden Tag in die Apotheke gehen und das unter Aufsicht einnehmen. Außer man geht arbeiten oder in die Schule, dann kriegt man es wöchentlich mit.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Antwort belegt (5782-5786: Psychisches dauert viel länger); aha enthielt unbelegte Wochenangabe, ein Distraktor war albern.",
+   "stand_note": "",
+   "statement": "Laut Nina lässt sich die körperliche Abhängigkeit mit Substitution und schrittweisem Reduzieren behandeln, die psychische braucht Therapie und dauert viel länger.",
+   "question": "Welcher Teil einer Heroinsucht dauert in der Behandlung laut Nina meist viel länger?",
+   "answer": "Die psychische Abhängigkeit",
+   "distractors": [
+    "Die körperliche Abhängigkeit",
+    "Beide gleich lang",
+    "Keiner, beides ist schnell erledigt"
+   ],
+   "aha": "Das Körperliche lässt sich mit Ersatzmitteln nach und nach reduzieren. Die Ursache im Kopf braucht Therapie, und das dauert deutlich länger.",
+   "quote_clean": "Das Körperliche kann man mit Substitution und nach und nach Reduzieren behandeln. Und das Psychische, da braucht man eine Therapie. Und das dauert auch viel länger.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg passt (481-495); aha leicht entschärft.",
+   "stand_note": "",
+   "statement": "Nina beschreibt die Wirkung von Heroin auf Gefühle mit Regen: Man sieht und hört ihn noch, aber man spürt ihn nicht mehr.",
+   "question": "Womit vergleicht Nina, was Heroin mit negativen Gefühlen macht?",
+   "answer": "Mit Regen, den man nicht mehr spürt",
+   "distractors": [
+    "Mit Nebel, der alles verhüllt",
+    "Mit Musik, die zu laut ist",
+    "Mit Schnee, der alles dämpft"
+   ],
+   "aha": "Heroin betäubt und blendet negative Gefühle aus. Nina vergleicht es auch mit einem vorgewärmten, kuscheligen Bett, und genau das macht es für Menschen in einer verzweifelten Lage so verlockend.",
+   "quote_clean": "Ohne Regenmantel im Regen spürt man den Regen ja auch. Man sieht ihn nicht nur, man hört ihn nicht nur, man spürt ihn auch. Und wenn man Heroin nimmt, dann sieht man den Regen zwar, man hört ihn zwar, aber man spürt ihn nicht mehr.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage mit trivialen Distraktoren, kein Erkenntnisgewinn.",
+   "stand_note": "",
+   "statement": "Nina sieht Sucht als psychische Erkrankung: Gesund ist man nicht erst, wenn man keine Medikamente mehr nimmt, sondern wenn man den Suchtdrang im Griff hat.",
+   "question": "Wer sagt im Podcast: „Die Suchtkrankheit ist eine psychische Erkrankung und an der muss man arbeiten“?",
+   "answer": "Nina",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Richter",
+    "Ein Amtsarzt"
+   ],
+   "aha": "Lange dachte Nina, sie sei erst gesund, wenn sie gar nichts mehr nimmt. Heute ist sie seit Jahren ohne Heroin, aber noch im Substitutionsprogramm, und nennt den alten Gedanken ihren Denkfehler.",
+   "quote_clean": "Nein, die Suchtkrankheit ist eine psychische Erkrankung, und an der muss man arbeiten. Und da ist es egal, ob man dann Medikamente nimmt oder nicht.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage mit trivialen Distraktoren; Krebs-Vergleich von Nina selbst als heikel eingestuft.",
+   "stand_note": "",
+   "statement": "Nina betont, dass man sich psychische Erkrankungen wie Sucht oder Depression genauso wenig aussucht wie Krebs.",
+   "question": "Wer vergleicht im Podcast Sucht mit Krebs, weil man sich beides nicht aussucht?",
+   "answer": "Nina",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Psychiaterin",
+    "Ein Streetworker"
+   ],
+   "aha": "Ihr Punkt: Wer sich beim Skifahren den Fuß bricht, hört auch kein „selber schuld“. Weil psychische Krankheiten totgeschwiegen werden, schämen sich Betroffene und holen sich viel zu spät Hilfe.",
+   "quote_clean": "Es ist eine Krankheit. Man sucht sich das genauso wenig aus, wie sich jemand aussucht, Krebs zu kriegen.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage ohne Wissensgewinn; aha mit unbelegten Details (Shades Tours, Schulklassen).",
+   "stand_note": "",
+   "statement": "Andreas fragt Nina, warum sie so offen über ihre Suchtgeschichte spricht.",
+   "question": "Welche Frage stellt Andreas Nina gegen Ende des Gesprächs?",
+   "answer": "Warum sie so offen darüber redet",
+   "distractors": [
+    "Ob sie je wieder dealen würde",
+    "Was ihr Lieblingsfilm ist",
+    "Wie viel sie heute verdient"
+   ],
+   "aha": "Ninas Antwort: Nicht jeder, der Drogen nimmt, ist ein schlechter Mensch, da steckt immer eine Geschichte dahinter. Bei Shades Tours führt sie heute durch Wien, die Hälfte ihrer Gruppen sind Schulklassen.",
+   "quote_clean": "Nina, warum redest du eigentlich so offen über all diese Sachen? Man könnte auch sagen, du hast eh schon genug Scheiße gehabt.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Transkript unklar (Salz statt Zucker nur vermutet), aha unbelegt, bloßstellend für Andreas.",
+   "stand_note": "",
+   "statement": "Zu Beginn der Aufnahme hat Andreas Nina aus Versehen drei Löffel Salz statt Zucker in den Kaffee getan.",
+   "question": "Was ist Andreas zu Beginn der Aufnahme mit Ninas Kaffee passiert?",
+   "answer": "Er gab Salz statt Zucker hinein",
+   "distractors": [
+    "Er hat ihn verschüttet",
+    "Er hat ihn selbst getrunken",
+    "Er gab Pfeffer hinein"
+   ],
+   "aha": "Feinkristallzucker und Salz schauen sich eben verdammt ähnlich. Der zweite Kaffee kam dann mit echtem Zucker, und Nina nahm es mit Humor.",
+   "quote_clean": "Unsere Begegnung hat jetzt nicht so gut begonnen, ich habe dir Salz in den Kaffee gegeben, drei Löffel, glaube ich.",
+   "quality": 1
+  }
+ ],
+ "id": "210",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

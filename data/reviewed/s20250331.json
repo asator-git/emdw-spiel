@@ -1,0 +1,290 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Zahl und 15 Monate belegt (t=109/122); aha enthielt unbelegte Victoria Falls.",
+   "stand_note": "",
+   "statement": "Tanja Willers und ihre Freundin Johanna sind in 15 Monaten 24.000 Kilometer mit dem Fahrrad von Kapstadt nach Wien gefahren.",
+   "question": "Wie viele Kilometer sind Tanja und Johanna mit dem Rad von Kapstadt nach Wien gefahren?",
+   "answer": "24.000 Kilometer",
+   "distractors": [
+    "12.000 Kilometer",
+    "38.000 Kilometer",
+    "16.000 Kilometer"
+   ],
+   "aha": "Das ist mehr als die halbe Erdumrundung am Äquator. Die beiden haben die Reise von Anfang an die längste Heimreise ihres Lebens genannt.",
+   "quote_clean": "24.000 Kilometer von Kapstadt nach Wien. Unfassbar. Und wie man sich auf so eine Reise vorbereitet und wie die dann gelaufen ist.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Spanne 4,80 bis 10 Euro belegt; die Kreuzfahrt-Rechnung im aha steht nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Auf ihrer Radreise von Kapstadt nach Wien gab Tanja Willers je nach Land nur etwa 4,80 bis 10 Euro pro Tag aus, hauptsächlich für Essen.",
+   "question": "Wie viel Euro hat Tanja auf ihrer Radreise von Kapstadt nach Wien höchstens pro Tag ausgegeben?",
+   "answer": "Etwa 10 Euro",
+   "distractors": [
+    "Etwa 25 Euro",
+    "Etwa 40 Euro",
+    "Etwa 60 Euro"
+   ],
+   "aha": "Kein Bus, kaum Unterkünfte: Da bleibt eigentlich nur das Essen. In Wien hätte sie um das Geld nicht mal die Miete bezahlt.",
+   "quote_clean": "Zwischen sieben und zehn Euro am Tag. Nein, zwischen vier Euro achtzig und zehn Euro am Tag, glaube ich, je nach Land.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Botswana-100-km belegt; Frage fügte 'kein Ort, kein Essen' hinzu, das Tanja so nicht sagt.",
+   "stand_note": "",
+   "statement": "In dünn besiedelten Ländern wie Botswana kann man auf der Straße 100 Kilometer fahren, ohne dass etwas kommt.",
+   "question": "Wie viele Kilometer kann in Botswana laut Tanja mal nichts kommen?",
+   "answer": "Etwa 100 Kilometer",
+   "distractors": [
+    "Etwa 10 Kilometer",
+    "Etwa 30 Kilometer",
+    "Etwa 400 Kilometer"
+   ],
+   "aha": "Botswana ist ungefähr so groß wie Frankreich, hat aber nur rund zweieinhalb Millionen Einwohner:innen. Ganz anders in Sambia oder Malawi: Dort setzt du dich einfach zur Mama am Straßenrand und kriegst was auf den Teller.",
+   "quote_clean": "Und dann gibt es Länder wie Botswana, wo 100 Kilometer lang nichts kommt. Da hast du hoffentlich Snacks dabei.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt, aber Tanja sagt 'mitten im Nirgendwo', nicht 'mitten in der Wüste'; Formulierung angepasst.",
+   "stand_note": "",
+   "statement": "Weil Pilger nach Mekka und Medina unterwegs sind, stehen in Saudi-Arabien mitten im Nirgendwo alle paar Kilometer Kaltwasserspender an der Straße.",
+   "question": "Warum findest du in Saudi-Arabien selbst mitten im Nirgendwo alle paar Kilometer Kaltwasserspender?",
+   "answer": "Wegen der Pilger nach Mekka und Medina",
+   "distractors": [
+    "Wegen der Arbeiter auf Ölfeldern",
+    "Wegen einer Kampagne für Radtourismus",
+    "Wegen des Formel-1-Rennens"
+   ],
+   "aha": "Saudi-Arabien ist reich und hat eine sehr gute Infrastruktur, auch dort, wo sonst nichts ist. Dazu wurden die beiden ständig aus großen SUVs mit Obst und Chips beschenkt, irgendwann haben sie aufgehört einzukaufen.",
+   "quote_clean": "Aber es gibt wirklich alle paar Kilometer kaltes Wasser, weil die Leute dort nach Mekka und Medina pilgern. Da hast du wirklich Kaltwasserspender an der Straße stehen, mitten im Nirgendwo.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "transkription",
+    "ton"
+   ],
+   "note": "Rub al-Chali korrekt geglättet; Statement sprachlich holprig, präzisiert (Öl gebohrt, Pipeline vermessen).",
+   "stand_note": "",
+   "statement": "Selbst in der Rub al-Chali, der riesigen Sandwüste Saudi-Arabiens, wird noch Öl gebohrt und eine Pipeline vermessen.",
+   "question": "Warum war selbst in der riesigen Sandwüste Rub al-Chali streckenweise viel los?",
+   "answer": "Weil dort Öl gebohrt wird",
+   "distractors": [
+    "Weil dort Pilger durchwandern",
+    "Weil dort Touristen Dünen surfen",
+    "Weil dort eine Autobahn gebaut wird"
+   ],
+   "aha": "100 Kilometer nichts, dann plötzlich Leute mit Kabelrollen im Sandsturm. Die waren vom Ölkonzern Aramco und haben eine neue Pipeline vermessen.",
+   "quote_clean": "Da quert man dann die Rub al-Chali, diese riesige Sandwüste mit den Dünen. Und sogar dort war streckenweise sehr viel los, weil dort noch Öl gebohrt wird.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Belegt, aber 'überraschend' sagt Tanja nicht; Frage sehr leicht (Distraktor offensichtlich), daher niedrige Qualität.",
+   "stand_note": "",
+   "statement": "In der Wüste wird es nachts trotz der Hitze am Tag angenehm kühl, was sie zu einem guten Ort zum Zelten macht.",
+   "question": "Was macht die Wüste laut Tanja angenehm zum Zelten?",
+   "answer": "Es wird nachts angenehm kühl",
+   "distractors": [
+    "Es gibt dort keine Insekten",
+    "Der Sand ist weich wie Matratzen",
+    "Es bleibt nachts genauso warm"
+   ],
+   "aha": "Trockene Luft und kaum Wolken lassen die Wärme nachts schnell ins All entweichen. Tagsüber dafür so heiß, dass sie den Wecker eine Stunde vor Sonnenaufgang gestellt haben, um noch zu frühstücken, ohne zu verglühen.",
+   "quote_clean": "Das Gute in der Wüste ist, es wird in der Nacht relativ kühl. Kalt ist übertrieben, aber angenehm kühl. Und es stört dich keiner, weil keiner da ist.",
+   "quality": 2
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt (t=1748: drei Tage nur geschlafen und gegessen); Statement übergeneralisiert, präzisiert.",
+   "stand_note": "",
+   "statement": "Nach Monaten auf dem Rad war der Körper in einer Pause noch auf Hochtouren: Die ersten drei Tage bestanden nur aus Schlafen und Essen.",
+   "question": "Was passierte bei Tanja und Johanna in den ersten Tagen einer Radpause?",
+   "answer": "Sie haben drei Tage nur gegessen und geschlafen",
+   "distractors": [
+    "Sie hatten gar keinen Appetit mehr",
+    "Sie bekamen sofort Muskelkater",
+    "Sie konnten kaum einschlafen"
+   ],
+   "aha": "Der Stoffwechsel lief noch auf Hochtouren, erst danach hat er sich langsam normalisiert. Beim Radeln konnten sie nie so viel essen, wie sie verbrannt haben, auch nicht mit 500 Gramm Nudeln zu zweit.",
+   "quote_clean": "Du merkst richtig, wie der Stoffwechsel hochfährt. Wenn du zum Beispiel irgendwo eine Woche Pause machst, sind die ersten drei Tage nur Essen.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Hunger ist nur einer von mehreren genannten Gründen (auch Hitze, Erschöpfung); Frage entschärft, 'Stress von außen/Beziehung' im Statement nicht belegt, Distraktor 'Schlaf' war nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Wenn Tanja und Johanna sich unterwegs angeschrien haben, lag es im Nachhinein oft schlicht an Hunger.",
+   "question": "Was war laut Tanja im Nachhinein oft der Grund, wenn sie und Johanna sich unterwegs angeschrien haben?",
+   "answer": "Hunger",
+   "distractors": [
+    "Uneinigkeit über die Route",
+    "Geldsorgen",
+    "Heimweh nach Wien"
+   ],
+   "aha": "Hangry kennt eh jede:r, auf 15 Monaten im Sattel wird es halt eine Disziplin. Johanna erkennt es bei Tanja rechtzeitig und schiebt ihr dann einen Riegel zu.",
+   "quote_clean": "Und dann kommst du im Nachhinein drauf, wenn sich alle wieder beruhigt haben, und sagst: Sag mal, wir waren einfach nur hungrig, oder?",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Distraktor 'selbst gezeichnete Karten' stimmt laut Ausschnitt teilweise (am Anfang), also nicht eindeutig falsch; ersetzt.",
+   "stand_note": "",
+   "statement": "Gastgeber:innen auf Reisen bekommen von Reisenden etwas zurück: Ihre Geschichten sind für die Familie wie ein Kinoabend.",
+   "question": "Was haben Tanja und Johanna ihren Gastgeber:innen laut eigener Erkenntnis vor allem zurückgegeben?",
+   "answer": "Ihre Geschichten",
+   "distractors": [
+    "Hilfe im Haushalt",
+    "Geld für Essen und Bett",
+    "Fahrradreparaturen"
+   ],
+   "aha": "Am Anfang hatten die beiden ein schlechtes Gewissen und haben noch Kärtchen gezeichnet. Dann haben sie gemerkt: Wer drei Generationen einen Abend lang unterhält, hat seinen Teil schon beigetragen.",
+   "quote_clean": "dass die Menschen mit unseren Geschichten schon so viel zurückbekommen. Die sitzen einen Abend lang mit uns, wir sitzen mit drei Generationen am Tisch, essen und erzählen, und das ist für die wie ins Kino gehen.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Zitat belegt; Donauradweg im aha steht nicht im Ausschnitt, entfernt.",
+   "stand_note": "",
+   "statement": "Für eine lange Radreise muss man laut Tanja Willers nicht vorher trainieren, weil man mit der Reise mitwächst.",
+   "question": "Wie ergänzt Tanja: „Du musst dafür nicht trainieren. Du wächst …“?",
+   "answer": "mit deiner Reise",
+   "distractors": [
+    "mit jedem Höhenmeter",
+    "mit deinen Muskeln",
+    "mit jeder Panne"
+   ],
+   "aha": "Du entscheidest selbst, ob du 30 oder 130 Kilometer am Tag fährst. Ihr Tipp: ein Rad, das keine Mätzchen macht, und die Basics im Reparieren lernen.",
+   "quote_clean": "Jeder, der sich fragt, ob er fit genug für eine Radreise ist: Die Antwort ist ja. Du musst dafür nicht trainieren. Du wächst mit deiner Reise.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei t=1316-1331, Sinn korrekt wiedergegeben, aha im Ausschnitt gedeckt.",
+   "stand_note": "",
+   "statement": "Beim Reisen mit eigener Muskelkraft schrumpft die Welt im Kopf: Was von Wien aus riesig wirkt, wird erreichbar.",
+   "question": "Was ist Tanja beim Reisen laut eigener Aussage immer wieder passiert?",
+   "answer": "Die Welt wird zu klein",
+   "distractors": [
+    "Sie hat Heimweh nach Wien bekommen",
+    "Die Welt wurde immer fremder",
+    "Sie hat die Orientierung verloren"
+   ],
+   "aha": "Und das macht Mut, sagt sie: Wer mit dem Rad nach Sambia kommt, glaubt plötzlich, in einem Leben noch viel mehr kennenlernen zu können. Insgeheim haben die beiden eh das Ziel, die ganze Welt zu sehen.",
+   "quote_clean": "Die Welt wird zu klein. Du schaust von Wien aus in die Welt und denkst dir, die ist aber riesig. Und dann stehst du irgendwo in Sambia und denkst dir: Ich bin jetzt in Sambia, und ich bin allein hergefahren.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Zitat belegt; Äthiopien im aha steht nicht im Ausschnitt, entfernt.",
+   "stand_note": "",
+   "statement": "Auf der Reise ohne feste Orte war das Zelt für Tanja und Johanna der sichere Rückzugsort, so wie für Andreas ein Kaffeehaus in einer neuen Stadt.",
+   "question": "Was war für Tanja und Johanna unterwegs „unser Kaffeehaus“, also der Ort, der Halt gab?",
+   "answer": "Das Zelt",
+   "distractors": [
+    "Das Fahrrad",
+    "Die Couchsurfing-Wohnungen",
+    "Der Benzinkocher"
+   ],
+   "aha": "Andreas sucht sich in jeder neuen Stadt zuerst ein Kaffeehaus. Für die beiden waren es zwei Quadratmeter Zeltboden: Reißverschluss zu, und keiner kommt mehr.",
+   "quote_clean": "Ich glaube tatsächlich, dass unser Zelt unsere größte Sicherheit war. Das Zelt war, glaube ich, dein Kaffeehaus, unser Kaffeehaus.",
+   "quality": 4
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Ablauf belegt (t=3487-3553); 'nach Protest' im Statement zu hart, neutraler formuliert.",
+   "stand_note": "",
+   "statement": "In Saudi-Arabien begleitete die Polizei Tanja und Johanna aus Sorge um ihre Sicherheit mit Blaulicht, und nach ihrer Bitte, sie in Ruhe zu lassen, kam eine Zivilstreife.",
+   "question": "Was passierte, nachdem Tanja die saudische Polizei bat, ihnen nicht mehr mit Blaulicht zu folgen?",
+   "answer": "Eine Zivilstreife fuhr hinterher",
+   "distractors": [
+    "Sie wurden zur Wache gebracht",
+    "Sie mussten ins Hotel einchecken",
+    "Sie bekamen eine Strafe"
+   ],
+   "aha": "Drei Minuten später war ein ziviles Auto hinter ihnen, und in der Nacht kamen sie noch dreimal mit Scheinwerfern aufs Zelt. Urnervig, aber halt ihre Art, auf die Gäste aufzupassen.",
+   "quote_clean": "Und außerdem: Wenn mir in Österreich wer mit Blaulicht hinterherfährt, ist das kein gutes Zeichen. Es gibt uns kein gutes Gefühl. Könnt ihr uns bitte in Ruhe lassen?",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage ohne Wissenswert; 'fragt gern' als Gewohnheit ist im Ausschnitt nicht belegt.",
+   "stand_note": "",
+   "statement": "Zum Schluss fragt Andreas seine Gäste gern nach Ratschlägen für Hörer:innen, die es selbst ausprobieren wollen.",
+   "question": "Womit beendet Andreas das Gespräch mit Tanja?",
+   "answer": "Mit der Frage nach Ratschlägen für Hörer:innen",
+   "distractors": [
+    "Mit der Frage nach dem schönsten Land",
+    "Mit der Frage nach der nächsten Reise",
+    "Mit einem Quiz über Afrika"
+   ],
+   "aha": "Tanjas Antwort war kurz: Mach's einfach. Easy eigentlich, sagt sie, und meint das ernst.",
+   "quote_clean": "Tanja, letzte Frage: Hast du Ratschläge für Hörer:innen, die sich jetzt denken, vielleicht mache ich das auch mal?",
+   "quality": 1
+  }
+ ],
+ "id": "s20250331",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

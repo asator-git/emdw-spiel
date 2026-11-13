@@ -1,0 +1,277 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (ca. 110 Mrd. Euro nur Steuern, ohne Sozialversicherung); budgetbezogene Zahl von 2023.",
+   "stand_note": "Stand 2023",
+   "statement": "Der österreichische Staat nimmt pro Jahr rund 110 Milliarden Euro an Steuern ein, Sozialversicherungsbeiträge noch nicht mitgerechnet.",
+   "question": "Wie viele Milliarden Euro nimmt Österreich ungefähr pro Jahr an Steuern ein, ohne Sozialversicherungsbeiträge?",
+   "answer": "Rund 110 Milliarden Euro",
+   "distractors": [
+    "Rund 40 Milliarden Euro",
+    "Rund 250 Milliarden Euro",
+    "Rund 70 Milliarden Euro"
+   ],
+   "aha": "Das sind nur die Steuern, die Sozialversicherungsbeiträge kommen noch obendrauf. Rund 30 Prozent davon wandern über den Finanzausgleich weiter an Länder und Gemeinden.",
+   "quote_clean": "Insgesamt geht es um ungefähr 110 Milliarden Euro, die hier eingehoben werden. Nur Steuern, dazu kommen noch die Sozialversicherungsbeiträge.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (ungefähr 30 Prozent über den Finanzausgleich).",
+   "stand_note": "Stand 2023",
+   "statement": "Rund 30 Prozent der österreichischen Steuereinnahmen gehen über den Finanzausgleich an Länder und Gemeinden.",
+   "question": "Wie viel Prozent der Steuereinnahmen gibt der Bund über den Finanzausgleich ungefähr an Länder und Gemeinden weiter?",
+   "answer": "Ungefähr 30 Prozent",
+   "distractors": [
+    "Ungefähr 10 Prozent",
+    "Ungefähr 50 Prozent",
+    "Ungefähr 70 Prozent"
+   ],
+   "aha": "Länder und Gemeinden heben selbst nur wenige Steuern ein. Im Finanzausgleich wird ausgehandelt, wer wie viel vom gemeinsamen Topf kriegt, etwa für Schulen oder Spitäler.",
+   "quote_clean": "Ein Teil dieser Steuern geht über den Finanzausgleich an Länder und Gemeinden, ungefähr 30 Prozent, damit die ihre Aufgaben und Ausgaben finanzieren können.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (USt 37 Mrd. vs. Lohnsteuer 33 Mrd., budgetiert 2023, 'hat die Lohnsteuer überholt').",
+   "stand_note": "Stand 2023",
+   "statement": "2023 hat die Mehrwertsteuer (rund 37 Milliarden Euro) die Lohnsteuer (rund 33 Milliarden Euro) als größte Steuer Österreichs überholt.",
+   "question": "Welche Steuer brachte Österreich 2023 laut Budget am meisten ein?",
+   "answer": "Die Mehrwertsteuer",
+   "distractors": [
+    "Die Lohnsteuer",
+    "Die Körperschaftsteuer",
+    "Die Mineralölsteuer"
+   ],
+   "aha": "Wegen der hohen Inflation steigen die Preise und damit die Basis für die Mehrwertsteuer. Gleichzeitig dämpfen eine Steuerreform und das Ende der kalten Progression die Lohnsteuer.",
+   "quote_clean": "Die Lohnsteuer wird für das Jahr 2023 auf ungefähr 33 Milliarden Euro budgetiert, und die Mehrwertsteuer auf 37 Milliarden Euro.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt; im aha stand 'Milliardär', im Transkript geht es um 10.000 vs. eine Million Euro, korrigiert; Distraktor 'Nur Reiche' unplausibel.",
+   "stand_note": "",
+   "statement": "Die Umsatzsteuer wirkt regressiv: Gemessen am Einkommen zahlen Ärmere anteilig mehr als Reiche.",
+   "question": "Was bedeutet es, dass die Umsatzsteuer „regressiv“ wirkt?",
+   "answer": "Die Belastung sinkt mit steigendem Einkommen",
+   "distractors": [
+    "Die Belastung steigt mit dem Einkommen",
+    "Alle zahlen den gleichen Anteil",
+    "Sie wird nur auf Luxusgüter erhoben"
+   ],
+   "aha": "Wer wenig verdient, gibt fast alles für Konsum aus, wer viel verdient, spart einen Teil. Im Beispiel von Margit Schratzenstaller zahlt jemand mit 10.000 Euro etwa 10 Prozent Umsatzsteuer vom Einkommen, jemand mit einer Million nur ein Prozent.",
+   "quote_clean": "Insgesamt wirkt die Umsatzsteuer für große Teile des Einkommens regressiv, das heißt, die Steuerbelastung sinkt mit steigendem Einkommen.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Beleg stimmt; Statement holprig, aha enthielt nicht belegte Details ('ein paar Prozent mehr Netto').",
+   "stand_note": "",
+   "statement": "Das Arbeitsangebot von Frauen mit Kindern reagiert viel stärker auf Änderungen bei Lohnsteuer und Sozialabgaben als das von Männern.",
+   "question": "Wessen Arbeitsangebot reagiert laut Schratzenstaller am stärksten auf Änderungen bei Lohnsteuer und Sozialabgaben?",
+   "answer": "Das von Frauen mit Kindern",
+   "distractors": [
+    "Das von Männern mittleren Alters",
+    "Das von Gutverdienenden",
+    "Das von Frauen ohne Kinder"
+   ],
+   "aha": "Bei den meisten Männern passiert im Normalbereich nicht viel, egal wie die Steuern sich ändern. Bei Müttern spielen Kinderbetreuung, der große Lohnunterschied und soziale Normen mit, deshalb reagieren sie viel sensibler.",
+   "quote_clean": "Wenn ich an der Lohnsteuer und an den Sozialversicherungsbeiträgen drehe, dann reagiert das Arbeitsangebot von Frauen mit Kindern viel, viel sensibler als das der Männer.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt ('ganz grob', ungefähr die Hälfte); als Näherung klar gerahmt.",
+   "stand_note": "Stand 2023",
+   "statement": "In Österreich zahlen die Unternehmen grob die Hälfte der Sozialversicherungsbeiträge.",
+   "question": "Wie viel Prozent der Sozialversicherungsbeiträge entfallen in Österreich grob auf die Unternehmen?",
+   "answer": "Ungefähr 50 Prozent",
+   "distractors": [
+    "Ungefähr 20 Prozent",
+    "Ungefähr 80 Prozent",
+    "Ungefähr 35 Prozent"
+   ],
+   "aha": "Dazu kommen für Betriebe noch Kommunalsteuer und Beiträge wie jener zum Familienlastenausgleichsfonds. Arbeit ist in Österreich also auch für Arbeitgeber ziemlich teuer.",
+   "quote_clean": "Ganz grob gesagt entfällt ungefähr die Hälfte der Sozialversicherungsbeiträge auf die Unternehmen.",
+   "quality": 2
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt; Distraktoren zu offensichtlich, plausibler gemacht.",
+   "stand_note": "Stand 2023",
+   "statement": "Die Idee, Arbeit steuerlich zu entlasten und dafür Vermögen stärker zu besteuern, wird auch von EU-Kommission, OECD und Internationalem Währungsfonds vertreten.",
+   "question": "Welche Institutionen empfehlen laut Schratzenstaller einhellig, Arbeit zu entlasten und Vermögen stärker zu besteuern?",
+   "answer": "EU-Kommission, OECD und IWF",
+   "distractors": [
+    "Weltbank, WTO und UNO",
+    "Nur Gewerkschaften und Arbeiterkammer",
+    "Nur linke Parteien in Europa"
+   ],
+   "aha": "Das klingt nach einer linken Forderung, kommt aber laut Schratzenstaller auch von Mainstream-Ökonom:innen und von Institutionen, die nicht als links gelten. In Österreich ist das Ungleichgewicht zwischen hohen Abgaben auf Arbeit und niedrigen auf Vermögen besonders groß.",
+   "quote_clean": "Das ist eine Idee, die nicht nur von linker Seite kommt, sondern die von sehr vielen Ökonominnen und Ökonomen geteilt wird, auch vom Mainstream. Im Übrigen auch einhellig von der EU-Kommission, der OECD und dem Internationalen Währungsfonds.",
+   "quality": 2
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (doppelte Dividende: Umweltsteuern rauf, Arbeit entlasten).",
+   "stand_note": "",
+   "statement": "Die „doppelte Dividende“ meint: Umweltsteuern erhöhen und mit dem Geld Arbeit entlasten, das hilft Umwelt und Beschäftigung zugleich.",
+   "question": "Was meinen Ökonom:innen mit der „doppelten Dividende“ einer Steuerreform?",
+   "answer": "Gut für Umwelt und Beschäftigung zugleich",
+   "distractors": [
+    "Doppelte Steuer auf Aktiengewinne",
+    "Zwei Steuersenkungen pro Jahr",
+    "Gewinn für Staat und Banken"
+   ],
+   "aha": "Das Schlagwort dazu gibt es nur auf Englisch: tax what you burn, not what you earn. Was verbrannt wird, wird teurer, Arbeit wird billiger, und beides ist erwünscht.",
+   "quote_clean": "Die Idee ist, eine sogenannte doppelte Dividende zu erzielen, indem man die Umweltsteuern erhöht, mit den zusätzlichen Einnahmen die Arbeit entlastet und damit sowohl positive Umwelteffekte als auch positive Beschäftigungseffekte erzielt.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (letzte Hauptfeststellung in den 70ern, seither nicht aktualisiert).",
+   "stand_note": "Stand 2023",
+   "statement": "Die Einheitswerte, auf denen die österreichische Grundsteuer beruht, wurden zuletzt in den 1970er-Jahren neu festgestellt.",
+   "question": "Wann wurden die Einheitswerte, auf denen Österreichs Grundsteuer beruht, zuletzt neu festgestellt?",
+   "answer": "In den 1970er-Jahren",
+   "distractors": [
+    "In den 1990er-Jahren",
+    "Im Jahr 2010",
+    "In den 1950er-Jahren"
+   ],
+   "aha": "Seither entfernen sich die Werte immer weiter vom echten Marktwert. Ein Haus mit 20.000 Euro Einheitswert kann locker 300.000 oder 400.000 Euro wert sein, besteuert wird nur ein Bruchteil davon.",
+   "quote_clean": "In den 70er-Jahren gab es bei der Grundsteuer für private Haushalte und Unternehmen zum letzten Mal eine sogenannte Hauptfeststellung der Einheitswerte.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (ca. 650 Mio. Euro im Vorjahr 2022).",
+   "stand_note": "Stand 2023",
+   "statement": "Die Grundsteuer brachte Österreich zuletzt nur rund 650 Millionen Euro im Jahr, verglichen mit über 30 Milliarden bei Lohn- und Umsatzsteuer.",
+   "question": "Wie viele Millionen Euro brachte die Grundsteuer in Österreich laut Schratzenstaller 2022 ein?",
+   "answer": "Rund 650 Millionen Euro",
+   "distractors": [
+    "Rund 6,5 Milliarden Euro",
+    "Rund 65 Millionen Euro",
+    "Rund 2 Milliarden Euro"
+   ],
+   "aha": "Im Vergleich zu Lohnsteuer und Umsatzsteuer sind das laut Margit Peanuts. Der Grund: Die Bemessungsgrundlage stammt aus den 70ern und hat mit heutigen Immobilienpreisen nichts mehr zu tun.",
+   "quote_clean": "Wir hatten letztes Jahr Grundsteuereinnahmen von ungefähr 650 Millionen Euro. Die Lohnsteuer macht 33 Milliarden aus, die Umsatzsteuer 37 Milliarden.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Beleg stimmt; im aha war ein nicht belegter Zusatz zur Kapitalertragsteuer, entfernt.",
+   "stand_note": "",
+   "statement": "Manche Ökonom:innen sehen die Vermögenssteuer als „Produktivitätspeitsche“, weil sie unabhängig vom Ertrag anfällt und so dazu drängt, Vermögen möglichst rentabel anzulegen.",
+   "question": "Warum nennen manche Ökonom:innen die Vermögenssteuer eine „Produktivitätspeitsche“?",
+   "answer": "Sie drängt zu ertragreichen Anlagen",
+   "distractors": [
+    "Sie bestraft Unternehmen mit Verlusten",
+    "Sie fällt nur bei hohen Gewinnen an",
+    "Sie erhöht die Arbeitszeit der Reichen"
+   ],
+   "aha": "Die Steuer bemisst sich am Wert, nicht am Ertrag. Wer sein Vermögen gut anlegt, zahlt im Verhältnis zu den Erträgen wenig, wer es herumliegen lässt, relativ viel.",
+   "quote_clean": "Eigentlich ist so eine Vermögensteuer, die immer anfällt, egal ob ich Gewinne erwirtschafte oder nicht, eine gewisse Produktivitätspeitsche.",
+   "quality": 3
+  },
+  {
+   "i": 25,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat belegt; schwache Wer-sagte-das-Frage bei einem Einzelgast.",
+   "stand_note": "",
+   "statement": "Margit Schratzenstaller hält die Steuersysteme für zu komplex, was sie als demokratiepolitisches Problem sieht.",
+   "question": "Welche Ökonomin nannte zu komplexe Steuersysteme „ein demokratiepolitisches Problem“?",
+   "answer": "Margit Schratzenstaller",
+   "distractors": [
+    "Isabel Schnabel",
+    "Bettina Fuhrmann",
+    "Monika Köppl-Turyna"
+   ],
+   "aha": "Wer nicht mehr versteht, warum er wie viel zahlt, hat immer weniger Lust darauf. Trotzdem ist Margit skeptisch bei Vorschlägen, die zu einfach klingen, wie Flat Taxes oder eine reine Konsumsteuer.",
+   "quote_clean": "Unsere Abgabensysteme sind sehr komplex, sie sind zu komplex, die Leute verstehen sie nicht mehr, und das ist auch ein demokratiepolitisches Problem und verursacht zunehmend Steuerwiderstand.",
+   "quality": 2
+  },
+  {
+   "i": 26,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Zeitgebundene Einschätzung 2023, die heute schief wirkt; Distraktoren offensichtlich; aha enthält nicht belegten Teil.",
+   "stand_note": "Stand 2023",
+   "statement": "Margit Schratzenstaller hält eine große ökosoziale Steuerstrukturreform angesichts von Klimakrise und wachsender Vermögensungleichheit für so realistisch wie noch nie.",
+   "question": "Wie realistisch hält Margit Schratzenstaller eine große ökosoziale Steuerreform?",
+   "answer": "So realistisch wie noch nie",
+   "distractors": [
+    "Völlig unrealistisch",
+    "Erst in 30 Jahren denkbar",
+    "Nur auf EU-Ebene möglich"
+   ],
+   "aha": "",
+   "quote_clean": "Ich glaube, angesichts der Probleme, denen wir gegenüberstehen, ist es im Moment so realistisch wie noch nie.",
+   "quality": 1
+  },
+  {
+   "i": 27,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Smalltalk-Moment ohne Wissensgewinn; aha nennt teils nicht belegte Details (Schlossbesitzer).",
+   "stand_note": "",
+   "statement": "Als Margit sich für das Interesse an „trockenen steuerpolitischen Fragen“ bedankt, verspricht Andreas, das Thema super sexy und unterhaltsam zu machen.",
+   "question": "Was verspricht Andreas, als Margit Schratzenstaller von „trockenen steuerpolitischen Fragen“ spricht?",
+   "answer": "Es wird super sexy und unterhaltsam",
+   "distractors": [
+    "Es wird kurz und schmerzlos",
+    "Es gibt danach eine Pause",
+    "Er erklärt alles mit Kuchen"
+   ],
+   "aha": "",
+   "quote_clean": "Wir machen das heute super sexy und unterhaltsam, bin mir ganz sicher.",
+   "quality": 1
+  }
+ ],
+ "id": "263",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

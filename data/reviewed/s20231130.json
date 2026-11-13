@@ -1,0 +1,279 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "65 auf 59 Kilo in acht Jahren im Transkript belegt, zeitgebunden.",
+   "stand_note": "Stand 2023",
+   "statement": "Der Fleischkonsum in Österreich ist in acht Jahren von 65 auf 59 Kilo pro Kopf und Jahr gesunken.",
+   "question": "Wie viele Kilo Fleisch pro Kopf und Jahr werden in Österreich laut der Folge zuletzt konsumiert?",
+   "answer": "59 Kilo",
+   "distractors": [
+    "35 Kilo",
+    "82 Kilo",
+    "104 Kilo"
+   ],
+   "aha": "Vor acht Jahren waren es noch 65 Kilo, die Richtung stimmt also. Und das passiert großteils einfach so, weil Menschen ihr Verhalten von selbst ändern, ganz ohne Verbote.",
+   "quote_clean": "Die gute Nachricht: Der Konsum von Fleisch sinkt und der von Milch auch. Von 65 Kilo pro Kopf in Österreich auf 59 Kilo pro Kopf Fleisch in den vergangenen acht Jahren.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Zahl belegt, ist aber die Einschätzung eines Interviewgasts der Staffel; Zuschreibung ergänzt.",
+   "stand_note": "",
+   "statement": "Laut einem Experten aus der Staffel braucht eine Agrarlandschaft etwa 20 Prozent Strukturen wie Hecken, Bäume, Gestrüpp und Teiche, um ökologisch wertvoll zu bleiben.",
+   "question": "Wie viel Prozent einer Agrarlandschaft sollten laut einem Experten aus der Staffel Strukturen wie Hecken, Bäume oder Teiche sein?",
+   "answer": "Etwa 20 Prozent",
+   "distractors": [
+    "Etwa 3 Prozent",
+    "Etwa 45 Prozent",
+    "Etwa 70 Prozent"
+   ],
+   "aha": "Ein Fünftel klingt viel, wenn man an endlose Maisfelder denkt. Aber genau in Gehölzen, Büschen und Tümpeln finden Tiere und Pflanzen ihren Lebensraum, gerade dort, wo sonst intensiv gewirtschaftet wird.",
+   "quote_clean": "Etwa 20 Prozent solcher Strukturen braucht eine Agrarlandschaft, damit sie ökologisch weiterhin wertvoll ist und Tiere und Pflanzen dort Lebensraum haben.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "'Bald zehn Milliarden' ist eine lose Nebenbemerkung, keine belastbare Prognosezahl; Frage zu ungenau.",
+   "stand_note": "",
+   "statement": "Auf der Erde leben rund acht Milliarden Menschen, bald könnten es zehn Milliarden sein.",
+   "question": "Auf wie viele Milliarden Menschen wächst die Weltbevölkerung laut der Folge bald an?",
+   "answer": "Rund 10 Milliarden",
+   "distractors": [
+    "Rund 6 Milliarden",
+    "Rund 14 Milliarden",
+    "Rund 20 Milliarden"
+   ],
+   "aha": "Heute sind wir rund acht Milliarden, und alle wollen essen. Darum zählt jede Fläche, und darum ist es so effizient, wenn Kühe Gras fressen, mit dem wir Menschen selber nichts anfangen können.",
+   "quote_clean": "Das ist absolut effizient, und effizient müssen wir auf einem Planeten mit acht und bald zehn Milliarden Menschen auf jeden Fall sein.",
+   "quality": 1
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Aussage und Beispiele wörtlich belegt.",
+   "stand_note": "",
+   "statement": "Auf dem Großteil der landwirtschaftlichen Flächen wird Tierfutter angebaut, nicht Essen für Menschen.",
+   "question": "Was wächst auf dem Großteil der landwirtschaftlichen Flächen?",
+   "answer": "Tierfutter wie Mais und Soja",
+   "distractors": [
+    "Getreide für Brot und Nudeln",
+    "Gemüse wie Kürbis und Karotten",
+    "Pflanzen für Biosprit"
+   ],
+   "aha": "Wir bauen also weniger unser Essen an als das Essen unseres Essens. Darum nimmt weniger Fleisch so viel Druck von der Fläche: Der Mais für die Rinder und das Soja für die Schweine fallen dann weg.",
+   "quote_clean": "Auf dem Großteil der landwirtschaftlichen Flächen wird Tierfutter angebaut, nicht Kürbisse oder Karotten für uns, sondern zum Beispiel Mais für Rinder und Soja für Schweine.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Käse belegt; Distraktoren wie Eier könnten tatsächlich auch gestiegen sein, daher an die drei genannten Produkte gebunden.",
+   "stand_note": "Stand 2023",
+   "statement": "In Österreich sinkt der Konsum von Fleisch und Milch, der von Käse steigt dagegen.",
+   "question": "Bei welchem dieser drei Produkte steigt der Konsum in Österreich laut Andreas, während er bei den anderen sinkt?",
+   "answer": "Käse",
+   "distractors": [
+    "Fleisch",
+    "Milch",
+    "Bei allen dreien sinkt er"
+   ],
+   "aha": "Beim Schnitzel und beim Milchglas geht es bergab, beim Käse bergauf. Wer Druck von der Fläche nehmen will, muss also auch beim Käse ansetzen.",
+   "quote_clean": "Wir nehmen Druck von der Fläche, wenn der Konsum von Fleisch, Milch und Käse sinkt. Bei Fleisch und Milch sinkt er schon, bei Käse steigt er.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt und wissenschaftlich unstrittig, Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Ein trockengelegtes Moor oder eine trockengelegte Feuchtwiese verursacht Jahr für Jahr riesige Treibhausgasemissionen.",
+   "question": "Was passiert, wenn man ein Moor trockenlegt, um es landwirtschaftlich zu nutzen?",
+   "answer": "Es stößt jedes Jahr viel Treibhausgas aus",
+   "distractors": [
+    "Es speichert dann mehr CO2 als vorher",
+    "Es gibt einmalig etwas CO2 ab",
+    "Es wird klimaneutral zur Wiese"
+   ],
+   "aha": "Das ist kein einmaliger Effekt, sondern läuft Jahr für Jahr weiter. Darum gehört das Wiedervernässen von Mooren ganz zentral zur Lösung, fürs Klima und für die Artenvielfalt.",
+   "quote_clean": "Denn zum Beispiel eine feuchte Wiese in der Nähe eines Baches oder ein Moor, die man trockenlegt, das sorgt Jahr für Jahr für riesige Treibhausgasemissionen.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Aussage belegt und als Position der Folge gerahmt, Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Wiederkäuer pflegen die Kulturlandschaft und machen aus Gras, das Menschen nicht verwerten können, Milch und Fleisch.",
+   "question": "Warum sind weidende Wiederkäuer wie Kühe oder Schafe laut der Folge besonders effizient?",
+   "answer": "Sie verwerten Gras, das wir nicht essen können",
+   "distractors": [
+    "Sie stoßen kaum Methan aus",
+    "Sie brauchen kein Wasser",
+    "Sie wachsen schneller als Schweine"
+   ],
+   "aha": "Gras können wir Menschen nicht verdauen, Kühe, Schafe und Ziegen schon. Auf Almen und Wiesen, wo eh kein Acker möglich ist, werden sie so zu Landschaftspflegern. Darum hält Andreas eine rein vegane Landwirtschaft auch nicht für sinnvoll.",
+   "quote_clean": "Wir brauchen die Wiederkäuer, damit sie die Kulturlandschaft pflegen und erhalten, und sie fressen Gras, das wir Menschen nicht verwerten können, und wir können dann ihre Milch und ihr Fleisch essen, das mit diesem Gras entstanden ist.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Nur Andreas spricht, daher trivial; die Aussage zur veganen Landwirtschaft ist eine umstrittene Wertung, Distraktoren sind Scherzantworten.",
+   "stand_note": "",
+   "statement": "Weil die Alpen viel Grünland haben, das gepflegt werden muss, sind weidende Tiere ein Segen und eine rein vegane Landwirtschaft nicht nachhaltig.",
+   "question": "Wer hat's gesagt: „Darum ist auch eine rein vegane Landwirtschaft aus Nachhaltigkeitssicht nicht sinnvoll.“?",
+   "answer": "Andreas Sator",
+   "distractors": [
+    "Ein Bauernbund-Funktionär",
+    "Eine Tierrechtsaktivistin",
+    "Ein Fleischhauer aus Tirol"
+   ],
+   "aha": "Das sagt ausgerechnet Andreas, der sonst gern für weniger Fleisch argumentiert. Sein Punkt: Die Almen und Wiesen bleiben nur erhalten, wenn Rinder, Schafe und Ziegen drauf grasen.",
+   "quote_clean": "Gerade in Österreich, wo es in den Alpen extrem viel Grünland, also Wiesen und Weiden gibt, die man pflegen muss, um sie zu erhalten, da sind weidende Rinder, Schafe und Ziegen ein Segen. Darum ist auch eine rein vegane Landwirtschaft aus Nachhaltigkeitssicht nicht sinnvoll.",
+   "quality": 1
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Persönliche Einschätzung zu Ställen als Tatsache; Distraktoren (Gesetze) nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Ställe sind heute eng, weil es wirtschaftlich nicht anders darstellbar ist, nicht weil Bauern das wollen.",
+   "question": "Warum haben Tiere in vielen Ställen heute so wenig Platz?",
+   "answer": "Weil es sich sonst wirtschaftlich nicht ausgeht",
+   "distractors": [
+    "Weil Gesetze enge Ställe vorschreiben",
+    "Weil Tiere sich eng wohler fühlen",
+    "Weil es Krankheiten verhindert"
+   ],
+   "aha": "Kein Bauer baut enge Ställe aus Spaß, es rechnet sich halt anders nicht. Darum schlägt Andreas eine Tierwohlabgabe vor, deren Geld direkt in bessere Ställe fließt.",
+   "quote_clean": "Denn die Ställe heute schauen ja nicht so aus, weil Bauern Spaß daran haben, dass ihre Tiere möglichst wenig Platz haben, sondern weil es einfach wirtschaftlich nicht anders darstellbar ist.",
+   "quality": 1
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Verwendung der Einnahmen belegt; als Vorschlag von Andreas gerahmt und Wirkung ('kann') abgeschwächt.",
+   "stand_note": "",
+   "statement": "Andreas schlägt eine Tierwohlabgabe vor, deren Erlöse an die Landwirte gehen; sie kann das Tierwohl steigern und den Konsum tierischer Produkte senken.",
+   "question": "Wohin sollen laut Andreas die Einnahmen der vorgeschlagenen Tierwohlabgabe fließen?",
+   "answer": "An die Landwirte für bessere Ställe",
+   "distractors": [
+    "In den allgemeinen Staatshaushalt",
+    "An Tierschutzvereine",
+    "In Werbung für Ersatzprodukte"
+   ],
+   "aha": "Darum nennt Andreas das ein Win-Win-Win: Die Tiere bekommen mehr Platz, die Bauern das Geld dafür, und weil Fleisch etwas teurer wird, wird weniger davon gegessen.",
+   "quote_clean": "Eine Tierwohlabgabe, deren Erlöse an Landwirte gehen, kann das Tierwohl steigern, tierische Produkte teurer machen und dafür sorgen, dass weniger davon konsumiert wird. Also ein Win-win-win.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Vergleich wörtlich belegt.",
+   "stand_note": "",
+   "statement": "Die durch Menschen entstandene Artenvielfalt der Kulturlandschaft gehört zu unserer Kultur wie der Stephansdom oder der Kölner Dom.",
+   "question": "Womit vergleicht Andreas die vom Menschen geschaffene Artenvielfalt der Kulturlandschaft?",
+   "answer": "Mit dem Stephansdom und dem Kölner Dom",
+   "distractors": [
+    "Mit einem gut sortierten Supermarkt",
+    "Mit einer alten Bibliothek",
+    "Mit dem Wiener Prater"
+   ],
+   "aha": "Viele bunte Wiesen und Feldränder gibt es nur, weil Menschen seit Jahrhunderten dort wirtschaften. Genau wie einen Dom muss man diese Kulturlandschaft pflegen, sonst verschwindet sie.",
+   "quote_clean": "Damit die Kulturlandschaft wieder schöner und bunter wird und dort die historisch durch uns Menschen entstandene Artenvielfalt erhalten werden kann. Die gehört zu unserer Kultur dazu, so wie der Stephansdom oder der Kölner Dom auch zu unserer Kultur gehören.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Geschmacksurteil über Produkte, 2023 und längst überholt; Distraktoren (Würstel, Leberkäse) wurden nicht bewertet.",
+   "stand_note": "Stand 2023",
+   "statement": "Andreas findet, dass Käse-Ersatz heute großteils noch ziemlich schlecht schmeckt, sieht aber viel Potenzial in Präzisionsfermentation.",
+   "question": "Welches Ersatzprodukt schmeckt laut Andreas heute großteils noch „ziemlich scheiße“?",
+   "answer": "Veganer Käse",
+   "distractors": [
+    "Veganes Hähnchenfilet",
+    "Vegane Würstel",
+    "Veganer Leberkäse"
+   ],
+   "aha": "Beim veganen Hähnchenfilet war Andreas nach seinen Tests begeistert, beim Käse eher nicht. Hoffnung macht die Präzisionsfermentation, bei der Mikroorganismen echte Milcheiweiße herstellen.",
+   "quote_clean": "Etwa wenn es um kultiviertes Fleisch geht oder Präzisionsfermentation zur Herstellung von Käse, der heute großteils noch ziemlich scheiße schmeckt.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Einstieg wörtlich belegt, Aha deckt sich mit Ausschnitt.",
+   "stand_note": "",
+   "statement": "Andreas eröffnet den Schwester-Podcast Sonne & Stahl mit: „Klimakrise, Artensterben, die Probleme sind bekannt. Hier sind die Lösungen.“",
+   "question": "Wie geht der Einstieg von Sonne & Stahl weiter: „Klimakrise, Artensterben, die Probleme sind bekannt …“?",
+   "answer": "„Hier sind die Lösungen.“",
+   "distractors": [
+    "„Zeit, etwas zu tun.“",
+    "„Hier sind die Fakten.“",
+    "„Was jetzt zu tun ist.“"
+   ],
+   "aha": "Sonne & Stahl ist der Schwester-Podcast von Erklär mir die Welt, Untertitel: Welt retten ohne Illusionen. Statt Weltuntergang gibt's dort Lösungen, in Staffel 2 rund ums Essen.",
+   "quote_clean": "Hallo, mein Name ist Andreas Sator und das ist Sonne und Stahl. Klimakrise, Artensterben, die Probleme sind bekannt. Hier sind die Lösungen.",
+   "quality": 2
+  },
+  {
+   "i": 24,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Eigene Aussage von Andreas, belegt.",
+   "stand_note": "",
+   "statement": "Andreas ist Sohn und Bruder eines Landwirts und wirbt für mehr Wertschätzung für Bäuerinnen und Bauern.",
+   "question": "Welchen familiären Bezug hat Andreas zur Landwirtschaft?",
+   "answer": "Sohn und Bruder eines Landwirts",
+   "distractors": [
+    "Enkel einer Winzerin",
+    "Neffe eines Agrarministers",
+    "Gar keinen"
+   ],
+   "aha": "Andreas kommt vom Bauernhof, sein Vater und sein Bruder sind Landwirte. Darum stört es ihn, wenn Bauern nur als Klimasünder und Tierquäler hingestellt werden.",
+   "quote_clean": "Viertens: Schätze wert, was Landwirte für uns tun. Sage ich nicht nur als Sohn eines Landwirts und als Bruder eines Landwirts, sondern aus tiefer innerer Überzeugung.",
+   "quality": 2
+  }
+ ],
+ "id": "s20231130",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

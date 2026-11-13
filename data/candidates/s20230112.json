@@ -1,0 +1,712 @@
+{
+ "theme": "Natur & Ernährung",
+ "summary": "Ich hab wochenlang Veggie-Wurst, Burger und Co getestet und mit einer Ernährungswissenschafterin geklärt, ob die Ersatzprodukte ungesünder sind als das Original.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 123,
+   "speaker": "Andreas Sator",
+   "quote": "wir bauen in Österreich auf 60% der Agrarflächen Futtermittel an je weniger Fleisch wer Essen desto weniger Futter für die Kühe Schweine und Hühner müssen wir dann anbauen",
+   "quote_clean": "Wir bauen in Österreich auf 60 % der Agrarflächen Futtermittel an. Je weniger Fleisch wir essen, desto weniger Futter für Kühe, Schweine und Hühner müssen wir anbauen.",
+   "statement": "In Österreich wird auf rund 60 Prozent der Agrarflächen Futter für Nutztiere angebaut.",
+   "question": "Auf wie viel Prozent der österreichischen Agrarflächen wächst Futter für Tiere?",
+   "answer": "Rund 60 Prozent",
+   "distractors": [
+    "Rund 20 Prozent",
+    "Rund 35 Prozent",
+    "Rund 85 Prozent"
+   ],
+   "number_value": 60,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Mehr als die Hälfte der Äcker füttert also nicht uns, sondern Kühe, Schweine und Hühner. Weniger Fleisch heißt darum: Fläche frei für Erbsen, Hecken, Blühstreifen oder einfach einen Wald.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Landwirtschaft",
+    "Fleisch",
+    "Fläche"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 82,
+   "speaker": "Andreas Sator",
+   "quote": "und seine Ernährungssystem ist neben dem Verbrennen von kohleöl und Gas der zweitgrößte Treiber der Klimakrise und ist hauptverantwortlich für das massenhafte Sterben von Vögeln Wildbienen Schmetterlingen und Co",
+   "quote_clean": "Unser Ernährungssystem ist neben dem Verbrennen von Kohle, Öl und Gas der zweitgrößte Treiber der Klimakrise und hauptverantwortlich für das massenhafte Sterben von Vögeln, Wildbienen, Schmetterlingen und Co.",
+   "statement": "Das Ernährungssystem ist nach den fossilen Brennstoffen der zweitgrößte Treiber der Klimakrise und Haupttreiber des Artensterbens.",
+   "question": "Was ist nach dem Verbrennen von Kohle, Öl und Gas der zweitgrößte Treiber der Klimakrise?",
+   "answer": "Unser Ernährungssystem",
+   "distractors": [
+    "Der Flugverkehr",
+    "Die Zementproduktion",
+    "Das Internet"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wie wir Äcker, Wiesen und Natur nutzen, entscheidet über Klima und Artenvielfalt gleichermaßen. Darum widmet Andreas dem Essen gleich eine ganze Staffel.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Klima",
+    "Artensterben",
+    "Ernährung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 340,
+   "speaker": "Petra Rust",
+   "quote": "günstig weil gerade vegetarisch lebende Personen ansonsten kein Vitamin B12 ja aufnehmen und eine Anreicherung mit Vitamin B12 macht hier durchaus Sinn",
+   "quote_clean": "Günstig, weil gerade vegetarisch lebende Personen ansonsten kein Vitamin B12 aufnehmen, und eine Anreicherung mit Vitamin B12 macht hier durchaus Sinn.",
+   "statement": "Viele Fleischersatzprodukte werden mit Vitamin B12 angereichert, weil fleischlos lebende Menschen sonst kaum B12 aufnehmen.",
+   "question": "Welches Vitamin wird vielen veganen Ersatzprodukten gezielt zugesetzt?",
+   "answer": "Vitamin B12",
+   "distractors": [
+    "Vitamin C",
+    "Vitamin K",
+    "Vitamin A"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "B12 steckt praktisch nur in tierischen Lebensmitteln. Wer darauf verzichtet, muss es anders bekommen, und da kommt eine Anreicherung im Veggie-Speck eh gelegen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Vitamine",
+    "vegan"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 410,
+   "speaker": "Petra Rust",
+   "quote": "also dass man nicht in extrem hohen Mengen konsumieren sollten da können nicht rosamine entstehen und von denen wissen wir dass die krebserregend wirken",
+   "quote_clean": "Das man nicht in extrem hohen Mengen konsumieren sollte, da können Nitrosamine entstehen, und von denen wissen wir, dass sie krebserregend wirken.",
+   "statement": "Aus Nitritpökelsalz in Speck und Wurst können Nitrosamine entstehen, die krebserregend sind.",
+   "question": "Was kann aus dem Nitritpökelsalz in Speck und Wurst entstehen?",
+   "answer": "Krebserregende Nitrosamine",
+   "distractors": [
+    "Gesundes Vitamin D",
+    "Harmlose Milchsäure",
+    "Wertvolle Omega-3-Fette"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nitritpökelsalz sorgt für die rosa Farbe und Haltbarkeit von Speck und Schinken. Der Haken: Daraus können Nitrosamine werden, und darum gilt bei solchen Produkten eher wenig als viel.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wurst",
+    "Krebs",
+    "Zusatzstoffe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 458,
+   "speaker": "Petra Rust",
+   "quote": "die typische Kost von Erwachsenen in Österreich ist mit einem zu hohen Energiegehalt mit einem zu hohen Gehalt und Fett und mit einem Zucker hohen Gehalt vor allem gesättigter Fettsäuren",
+   "quote_clean": "Die typische Kost von Erwachsenen in Österreich hat einen zu hohen Energiegehalt, einen zu hohen Gehalt an Fett und einen zu hohen Gehalt vor allem an gesättigten Fettsäuren.",
+   "statement": "Die typische Ernährung Erwachsener in Österreich enthält zu viele Kalorien, zu viel Fett und vor allem zu viele gesättigte Fettsäuren.",
+   "question": "Wovon essen Erwachsene in Österreich laut Ernährungswissenschaft typischerweise zu viel?",
+   "answer": "Kalorien und gesättigte Fettsäuren",
+   "distractors": [
+    "Ballaststoffe und Vollkorn",
+    "Gemüse und Obst",
+    "Hülsenfrüchte und Nüsse"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Darum kann ein Veggie-Speck mit weniger Fett und Kalorien sogar die gesündere Wahl sein. Er schmeckt halt nur nicht wirklich nach Speck.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Ernährung",
+    "Fett",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 643,
+   "speaker": "Petra Rust",
+   "quote": "das Kokosöl nimmt ein bisschen eine Sonderstellung ein im Vergleich zu anderen pflanzlichen Ölen enthält Kokosöl an höheren Anteil an gesättigten Fettsäuren",
+   "quote_clean": "Das Kokosöl nimmt eine Sonderstellung ein: Im Vergleich zu anderen pflanzlichen Ölen enthält Kokosöl einen höheren Anteil an gesättigten Fettsäuren.",
+   "statement": "Kokosöl enthält im Gegensatz zu den meisten Pflanzenölen viele gesättigte Fettsäuren.",
+   "question": "Welches Pflanzenöl enthält auffällig viele gesättigte Fettsäuren?",
+   "answer": "Kokosöl",
+   "distractors": [
+    "Sonnenblumenöl",
+    "Olivenöl",
+    "Rapsöl"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Deshalb hat eine vegane Bratwurst oft ähnlich viele gesättigte Fette wie die vom Schwein. Sonnenblumen-, Mais- oder Olivenöl liefern dagegen vor allem ungesättigte Fettsäuren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fette",
+    "Öle"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 701,
+   "speaker": "Petra Rust",
+   "quote": "also generell würde ich immer Produkte bevorzugen mit einer kürzeren Zutatenliste längere Zutatenliste spricht oft auch für an höheren",
+   "quote_clean": "Generell würde ich immer Produkte mit einer kürzeren Zutatenliste bevorzugen. Eine längere Zutatenliste spricht oft für einen höheren Verarbeitungsgrad.",
+   "statement": "Eine lange Zutatenliste deutet oft auf einen höheren Verarbeitungsgrad hin, daher sind Produkte mit kurzer Liste meist vorzuziehen.",
+   "question": "Wer rät, im Zweifel Produkte mit kürzerer Zutatenliste zu kaufen?",
+   "answer": "Petra Rust",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Lebensmittelchemiker",
+    "Ein Fleischhauer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Petra Rust, Ernährungswissenschafterin an der Uni Wien, hat das als Faustregel parat. Lange Liste heißt meist: stärker verarbeitet, und das macht selten gesünder.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Zutatenliste",
+    "Verarbeitung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 689,
+   "speaker": "Andreas Sator",
+   "quote": "ich habe im Kopf je länger eine Zutatenliste desto wahrscheinlicher ist dass etwas ungesund ist ist das so und warum",
+   "quote_clean": "Ich habe im Kopf: Je länger eine Zutatenliste, desto wahrscheinlicher ist etwas ungesund. Ist das so, und warum?",
+   "statement": "Andreas fragt nach, ob eine lange Zutatenliste ein Hinweis auf ein ungesundes Produkt ist.",
+   "question": "Welche Faustregel will Andreas von der Ernährungswissenschafterin überprüft haben?",
+   "answer": "Lange Zutatenliste heißt eher ungesund",
+   "distractors": [
+    "Bio heißt immer gesund",
+    "Vegan heißt immer gesund",
+    "Teuer heißt immer gesund"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Typisch Andreas: Er legt sein Bauchgefühl auf den Tisch und fragt gleich nach dem Warum. Die Antwort: Meistens stimmt's, weil lange Listen auf starke Verarbeitung hindeuten.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Zutatenliste",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 796,
+   "speaker": "Petra Rust",
+   "quote": "und häufig wird dann auch natürlich sehr viel Salz beispielsweise zugesetzt und gerade unsere Salzkonsum ist sehr hoch und die typischen Quellen für unsere kochsalzufuhr sind schon fertig Gerichte",
+   "quote_clean": "Häufig wird sehr viel Salz zugesetzt, und gerade unser Salzkonsum ist sehr hoch. Die typischen Quellen für unsere Kochsalzzufuhr sind Fertiggerichte.",
+   "statement": "Fertiggerichte gehören zu den typischen Hauptquellen für unsere ohnehin zu hohe Salzaufnahme.",
+   "question": "Was sind typische Hauptquellen für das viele Salz, das wir essen?",
+   "answer": "Fertiggerichte",
+   "distractors": [
+    "Frisches Gemüse",
+    "Mineralwasser",
+    "Obst"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Damit Fertiggerichte lange haltbar sind und gut schmecken, kommt reichlich Salz hinein. Und weil wir eh schon zu viel Salz essen, summiert sich das ordentlich.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Salz",
+    "Fertiggerichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 824,
+   "speaker": "Petra Rust",
+   "quote": "haben für sogenannte ncds also nicht übertragbare Erkrankungen das heißt das Risiko für Übergewicht Adipositas steigt und in Folge dann natürlich auch das Risiko beispielsweise für ein Diabetes für Krebserkrankungen oder auch Herz-Kreislauf-Erkrankungen",
+   "quote_clean": "Sie haben ein höheres Risiko für sogenannte NCDs, also nicht übertragbare Erkrankungen. Das Risiko für Übergewicht und Adipositas steigt und in Folge auch das Risiko für Diabetes, Krebserkrankungen oder Herz-Kreislauf-Erkrankungen.",
+   "statement": "Langzeitstudien zeigen: Wer sehr viele Convenience-Produkte isst, hat ein höheres Risiko für nicht übertragbare Krankheiten wie Diabetes, Krebs und Herz-Kreislauf-Erkrankungen.",
+   "question": "Wofür steigt laut Langzeitstudien das Risiko bei Menschen, die sehr viele Fertigprodukte essen?",
+   "answer": "Nicht übertragbare Krankheiten wie Diabetes",
+   "distractors": [
+    "Grippe und Erkältungen",
+    "Allergien gegen Pollen",
+    "Kurzsichtigkeit"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "NCDs, das sind die großen Volkskrankheiten, die man sich nicht einfängt, sondern über Jahre anisst. Über Übergewicht führt der Weg zu Diabetes, Krebs und Herzproblemen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gesundheit",
+    "Fertigprodukte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 884,
+   "speaker": "Petra Rust",
+   "quote": "es wäre glaube ich nicht wünschenswert jetzt alle tierischen Produkte eins zu eins durch pflanzliche Alternativen zu ersetzen sondern wenn wir davon sprechen eine pflanzenbetonte Ernährung zu haben dann ist natürlich eigentlich gemeint dass wir den Anteil an frischem Gemüse Hülsenfrüchten Vollkorngetreide und Obst erhöhen",
+   "quote_clean": "Es wäre nicht wünschenswert, alle tierischen Produkte eins zu eins durch pflanzliche Alternativen zu ersetzen. Mit pflanzenbetonter Ernährung ist eigentlich gemeint, dass wir den Anteil an frischem Gemüse, Hülsenfrüchten, Vollkorngetreide und Obst erhöhen.",
+   "statement": "Pflanzenbetonte Ernährung bedeutet mehr Gemüse, Hülsenfrüchte, Vollkorn und Obst, nicht den Eins-zu-eins-Tausch von Fleisch gegen Ersatzprodukte.",
+   "question": "Wer sagt: Pflanzenbetont heißt mehr Gemüse und Hülsenfrüchte, nicht alles eins zu eins durch Ersatzprodukte tauschen?",
+   "answer": "Petra Rust",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Beyond-Meat-Manager",
+    "Ein Biobauer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Petra Rust sind Veggie-Würstel ein Einstieg, kein Ziel. Das eigentliche Ziel liegt im Gemüsefach und bei Linsen, Bohnen und Vollkorn.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "pflanzenbetont",
+    "Ernährung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 943,
+   "speaker": "Andreas Sator",
+   "quote": "denn die Hälfte des Fleisches dass wir in Österreich Essen wird verarbeitet konsumiert also etwa Wurst Speck Schinken und Co",
+   "quote_clean": "Denn die Hälfte des Fleisches, das wir in Österreich essen, wird verarbeitet konsumiert, also etwa als Wurst, Speck, Schinken und Co.",
+   "statement": "Rund die Hälfte des in Österreich gegessenen Fleisches wird verarbeitet konsumiert, etwa als Wurst, Speck oder Schinken.",
+   "question": "Wie viel Prozent des Fleisches in Österreich wird verarbeitet gegessen, etwa als Wurst oder Schinken?",
+   "answer": "Rund 50 Prozent",
+   "distractors": [
+    "Rund 10 Prozent",
+    "Rund 25 Prozent",
+    "Rund 80 Prozent"
+   ],
+   "number_value": 50,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Ein großer Teil vom Fleisch landet also eh schon hoch verarbeitet auf dem Teller. Ob das Extrawurstsemmerl dann vom Schwein oder aus Erbsen kommt, ist gesundheitlich ziemlich egal.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fleisch",
+    "Wurst",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1172,
+   "speaker": "Andreas Sator",
+   "quote": "Portionen Fleisch pro Woche maximal ist ja die Empfehlung der nationalen ernährungskommission das wäre sowohl gesundheitlich besser als die jetzige durchschnittliche österreichische Ernährung",
+   "quote_clean": "Drei Portionen Fleisch pro Woche maximal ist die Empfehlung der Nationalen Ernährungskommission. Das wäre gesundheitlich besser als die jetzige durchschnittliche österreichische Ernährung.",
+   "statement": "Die österreichische Nationale Ernährungskommission empfiehlt maximal drei Portionen Fleisch pro Woche.",
+   "question": "Wie viele Portionen Fleisch pro Woche empfiehlt die Nationale Ernährungskommission maximal?",
+   "answer": "Drei Portionen",
+   "distractors": [
+    "Eine Portion",
+    "Fünf Portionen",
+    "Sieben Portionen"
+   ],
+   "number_value": 3,
+   "number_unit": "Portionen pro Woche",
+   "slider_min": 0,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Drei Portionen, das ist für viele in Österreich deutlich weniger als jetzt. Gesünder wär's, und fürs Klima sowieso.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Fleisch",
+    "Empfehlung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1317,
+   "speaker": "Petra Rust",
+   "quote": "rapsöl ist eigentlich eine sehr günstige Variante weil also Rapsöl einfach und mehrfach ungesättigte Fettsäuren enthält",
+   "quote_clean": "Rapsöl ist eine sehr günstige Variante, weil Rapsöl einfach und mehrfach ungesättigte Fettsäuren enthält.",
+   "statement": "Rapsöl gilt als gesundes Öl, weil es einfach und mehrfach ungesättigte Fettsäuren enthält.",
+   "question": "Warum gilt Rapsöl in Ersatzprodukten als günstige Zutat?",
+   "answer": "Es hat viele ungesättigte Fettsäuren",
+   "distractors": [
+    "Es enthält gar kein Fett",
+    "Es ist reich an Vitamin B12",
+    "Es enthält viel Eiweiß"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Raps ist das unterschätzte Öl aus der Nachbarschaft. Sein Fettsäuremuster ist deutlich besser als das von Kokosöl, darum schneiden Produkte mit viel Rapsöl besser ab.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Öle",
+    "Fette"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1343,
+   "speaker": "Petra Rust",
+   "quote": "das jetzt vom Geschmack her die größten Probleme macht Alternative zu finden genauso wie bei den Milchprodukten also bei Käse insbesondere wo der Geschmack noch nicht ganz so optimal ist",
+   "quote_clean": "Fisch ist das Lebensmittel, bei dem es vom Geschmack her die größten Probleme macht, eine Alternative zu finden, genauso wie bei den Milchprodukten, insbesondere bei Käse, wo der Geschmack noch nicht ganz so optimal ist.",
+   "statement": "Geschmacklich am schwierigsten zu ersetzen sind Fisch und Milchprodukte, besonders Käse.",
+   "question": "Bei welchen Lebensmitteln tun sich pflanzliche Alternativen geschmacklich besonders schwer?",
+   "answer": "Fisch und Käse",
+   "distractors": [
+    "Faschiertes und Würstel",
+    "Burger und Nuggets",
+    "Speck und Schinken"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Während Burger und Würstel schon recht nah am Original sind, hinken Fisch und Käse noch hinterher. Andreas' veganer Thunfisch war trotzdem ein Treffer.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Ersatzprodukte",
+    "Geschmack"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1401,
+   "speaker": "Petra Rust",
+   "quote": "der dreimal so hohe Energiegehalt ist natürlich weniger günstig wenn man wenn man das Produkt vergleicht",
+   "quote_clean": "Der dreimal so hohe Energiegehalt ist natürlich weniger günstig, wenn man das Produkt vergleicht.",
+   "statement": "Der getestete vegane Thunfisch hat etwa dreimal so viele Kalorien wie echter Thunfisch.",
+   "question": "Wie viel Mal so viele Kalorien hatte der vegane Thunfisch im Test wie der echte?",
+   "answer": "Etwa dreimal so viele",
+   "distractors": [
+    "Gleich viele",
+    "Halb so viele",
+    "Zehnmal so viele"
+   ],
+   "number_value": 3,
+   "number_unit": "-fach",
+   "slider_min": 0.5,
+   "slider_max": 8,
+   "log_scale": false,
+   "aha": "Schuld ist das viele Rapsöl, die dritte Zutat auf der Liste. Wer sich darauf einlässt, kann laut Petra Rust einfach die Portion ein bisschen kleiner machen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Thunfisch",
+    "Kalorien"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1428,
+   "speaker": "Petra Rust",
+   "quote": "Anteils an Omega 3 Fettsäuren also Fisch ist eine wertvolle Quelle für Omega 3 Fettsäuren und dem deutlich niedrigeren Fettgehalt insgesamt wäre natürlich der Thunfisch im Original da zu bevorzugen",
+   "quote_clean": "Wegen des höheren Anteils an Omega-3-Fettsäuren, denn Fisch ist eine wertvolle Quelle für Omega-3-Fettsäuren, und wegen des deutlich niedrigeren Fettgehalts insgesamt wäre der Thunfisch im Original zu bevorzugen.",
+   "statement": "Echter Thunfisch ist gesundheitlich besser als die vegane Variante, vor allem wegen seiner wertvollen Omega-3-Fettsäuren.",
+   "question": "Wofür ist Fisch eine besonders wertvolle Quelle?",
+   "answer": "Omega-3-Fettsäuren",
+   "distractors": [
+    "Vitamin C",
+    "Ballaststoffe",
+    "Kohlenhydrate"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Beim Thunfisch gewinnt das Original den Gesundheitsvergleich klar. Omega-3-Fette sind genau das, was Fisch so wertvoll macht, und das kriegt die Erbse nicht hin.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Fisch",
+    "Omega-3"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1615,
+   "speaker": "Petra Rust",
+   "quote": "ich glaube man kann bei all diesen Produkten nicht sagen gesünder oder ungesünder sondern es macht Prinzip wirklich die Menge aus und die Möglichkeit des Konsums",
+   "quote_clean": "Ich glaube, man kann bei all diesen Produkten nicht sagen gesünder oder ungesünder, sondern es macht im Prinzip wirklich die Menge aus und die Häufigkeit des Konsums.",
+   "statement": "Ob Fleisch oder Ersatzprodukt gesünder ist, hängt vor allem von Menge und Häufigkeit des Konsums ab.",
+   "question": "Wer sagt über Burger aus Rind oder Erbse: Gesünder oder ungesünder kann man nicht sagen, es macht die Menge aus?",
+   "answer": "Petra Rust",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Koch",
+    "Ein Klimaforscher"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Petra Rust bricht die Gesund-oder-ungesund-Frage auf das Wesentliche herunter. Zweimal im Monat Burger ist ok, egal ob vom Rind oder aus Erbsen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Menge",
+    "Gesundheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1685,
+   "speaker": "Petra Rust",
+   "quote": "Kokosfett bzw Rapsöl und da sieht man ganz ganz deutlich den also doppelt zu hohen Anteil an gesättigten Fettsäuren das ist natürlich nicht wünschenswert",
+   "quote_clean": "Kokosfett bzw. Rapsöl, und da sieht man ganz deutlich den doppelt so hohen Anteil an gesättigten Fettsäuren. Das ist natürlich nicht wünschenswert.",
+   "statement": "Das getestete vegane Faschierte enthielt wegen Kokosfett doppelt so viele gesättigte Fettsäuren wie echtes Faschiertes.",
+   "question": "Was war beim veganen Faschierten im Test auffällig schlechter als beim Original?",
+   "answer": "Doppelt so viele gesättigte Fettsäuren",
+   "distractors": [
+    "Doppelt so viel Salz",
+    "Kaum Eiweiß",
+    "Viel weniger Kalorien"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ausgerechnet das unverarbeitete Original schneidet hier besser ab. Das Kokosfett treibt die gesättigten Fette hoch, und genau die wollen wir eigentlich weniger essen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Faschiertes",
+    "Fette"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1743,
+   "speaker": "Petra Rust",
+   "quote": "Mischungen die am Markt sind also wo man erbsenproteine beispielsweise zusetzt oder Pilze beispielsweise um den Anteil von Fleisch zu reduzieren das kann durchaus Sinn machen",
+   "quote_clean": "Mischungen, die am Markt sind, wo man beispielsweise Erbsenproteine oder Pilze zusetzt, um den Anteil von Fleisch zu reduzieren, das kann durchaus Sinn machen.",
+   "statement": "Fleischprodukte, denen Erbsenprotein oder Pilze beigemischt werden, können helfen, den Fleischanteil zu senken.",
+   "question": "Was empfiehlt die Ernährungswissenschafterin als Zwischenweg beim Faschierten?",
+   "answer": "Fleisch mit Pilzen oder Erbsen mischen",
+   "distractors": [
+    "Nur noch Fisch essen",
+    "Faschiertes länger braten",
+    "Mehr Kokosfett verwenden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Halb Fleisch, halb Pilz: Das gibt's fertig zu kaufen, geht aber auch daheim. So bleibt der Geschmack vertraut und der Fleischanteil sinkt trotzdem.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Faschiertes",
+    "Fleischreduktion"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1946,
+   "speaker": "Andreas Sator",
+   "quote": "das Hähnchen sehr allgemein auch bei den tierischen Produkten so beim beim Huhn das die Marinade den Hauptteil des Geschmackes ausmacht",
+   "quote_clean": "Allgemein ist es auch bei den tierischen Produkten so, beim Huhn, dass die Marinade den Hauptteil des Geschmacks ausmacht.",
+   "statement": "Beim Huhn macht oft die Marinade den Großteil des Geschmacks aus, nicht das Fleisch selbst.",
+   "question": "Was macht beim Huhn laut Andreas den Hauptteil des Geschmacks aus?",
+   "answer": "Die Marinade",
+   "distractors": [
+    "Die Haut",
+    "Die Knochen",
+    "Die Bratdauer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Hühnerfleisch selbst schmeckt relativ neutral, die Würze macht's. Beim veganen Hendl hat's trotzdem gehapert, weil die Konsistenz nicht gepasst hat.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Huhn",
+    "Geschmack"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1478,
+   "speaker": "Andreas Sator",
+   "quote": "also ich denke ich hätte jetzt mit verbundenen Augen nicht geschafft zu sagen welches Burger Patty da jetzt vegan oder tierisch ist",
+   "quote_clean": "Ich denke, ich hätte mit verbundenen Augen nicht geschafft zu sagen, welches Burger-Patty vegan oder tierisch ist.",
+   "statement": "Beim veganen Burger-Patty hätte Andreas blind nicht erkannt, ob es vegan oder tierisch ist.",
+   "question": "Welches Ersatzprodukt hätte Andreas blind nicht vom tierischen Original unterscheiden können?",
+   "answer": "Das Burger-Patty",
+   "distractors": [
+    "Der vegane Speck",
+    "Das vegane Hendl",
+    "Das vegane Faschierte"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Burger mit Salat, Gurken, Tomaten und guter Sauce geht der Unterschied einfach unter. Beim Steak wär das wohl eine andere Geschichte.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Burger",
+    "Test"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1220,
+   "speaker": "Andreas Sator",
+   "quote": "das schon seit meiner Kindheit gerne Extrawurst semmerl oder ein mohnweckerl mit Extrawurst ich liebe das einfach",
+   "quote_clean": "Ich esse schon seit meiner Kindheit gerne ein Extrawurstsemmerl oder ein Mohnweckerl mit Extrawurst, ich liebe das einfach.",
+   "statement": "Andreas liebt seit seiner Kindheit Extrawurstsemmerl und kauft nach dem Test nur noch die vegetarische Extrawurst.",
+   "question": "Welches Produkt kauft Andreas nach seinem Test nur noch in der vegetarischen Version?",
+   "answer": "Die Extrawurst",
+   "distractors": [
+    "Den Speck",
+    "Die Fischstäbchen",
+    "Das Faschierte"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Extrawurstsemmerl ist für Andreas ein Stück Kindheit. Weil die Veggie-Version richtig gut schmeckt und gesundheitlich nicht schlechter ist, ist der Wechsel für ihn eine g'mahte Wiesn.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Extrawurst",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1802,
+   "speaker": "Petra Rust",
+   "quote": "empfehlen also Fischstäbchen mit Panade oder überhaupt gebackenes sollte reduziert konsumiert werden und das sehe ich eigentlich keinen Bedarf dass man pflanzliche Alternative eigentlich kreiert",
+   "quote_clean": "Fischstäbchen mit Panade oder überhaupt Gebackenes sollte reduziert konsumiert werden, und da sehe ich eigentlich keinen Bedarf, dass man pflanzliche Alternativen kreiert.",
+   "statement": "Panierte und frittierte Produkte sollten selten gegessen werden, egal ob tierisch oder pflanzlich.",
+   "question": "Bei welcher Art von Produkt sieht die Ernährungswissenschafterin keinen Gesundheitsvorteil durch die Veggie-Variante?",
+   "answer": "Panierte, frittierte Produkte",
+   "distractors": [
+    "Rohes Gemüse",
+    "Hülsenfrüchte",
+    "Vollkornbrot"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ob Fischstäbchen oder Nuggets, ob aus Tier oder Pflanze: Panade und Frittierfett bleiben. Gesünder wird's erst, wenn man vom Gebackenen wegkommt.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Frittiertes",
+    "Ernährung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "s20230112",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

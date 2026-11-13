@@ -1,0 +1,278 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Zahl bei 656 von Mangott belegt; der Vergleich mit der Großen Depression im aha steht nicht im Transkript und wurde entfernt.",
+   "stand_note": "",
+   "statement": "Zwischen 1989 und 1999 verlor Russland rund 40 Prozent seiner Wirtschaftsleistung.",
+   "question": "Wie viel Prozent seines BIP hat Russland zwischen 1989 und 1999 verloren?",
+   "answer": "40 Prozent",
+   "distractors": [
+    "10 Prozent",
+    "20 Prozent",
+    "65 Prozent"
+   ],
+   "aha": "Massenarbeitslosigkeit, hohe Inflation, sehr hohe Sterberaten: Mangott nennt die 90er eine multiple Katastrophe. Vom Wirtschaftseinbruch bis zur Lebenserwartung traf es das ganze Land, und daran erinnern sich viele Russ:innen bis heute.",
+   "quote_clean": "Zwischen 1989 und 1999 hat Russland 40 Prozent seines Bruttoinlandsproduktes verloren und war von Massenarbeitslosigkeit und hoher Inflation heimgesucht.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "6,9 Prozent bei 2892-2898 klar belegt, Kontext (Ölpreis, niedrige Basis) im Transkript.",
+   "stand_note": "",
+   "statement": "Zwischen 1999 und 2008 wuchs die russische Wirtschaft im Schnitt um 6,9 Prozent pro Jahr.",
+   "question": "Um wie viel Prozent wuchs Russlands Wirtschaft zwischen 1999 und 2008 durchschnittlich pro Jahr?",
+   "answer": "6,9 Prozent",
+   "distractors": [
+    "2,1 Prozent",
+    "4,0 Prozent",
+    "11,5 Prozent"
+   ],
+   "aha": "Hohe Ölpreise halfen kräftig mit, und die Ausgangslage nach den 90ern war eh sehr niedrig. Trotzdem stiegen die Reallöhne spürbar, und das hat laut Mangott zur großen Akzeptanz Putins in der Bevölkerung geführt.",
+   "quote_clean": "dass es zwischen 1999 und 2008 ein substanzielles Wirtschaftswachstum von durchschnittlich 6,9 Prozent jährlich gab.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "104 Milliarden bei 1477 belegt; Mangotts 'alle Schulden erlassen' für Polen ist stark vereinfacht, daher aha vorsichtiger.",
+   "stand_note": "",
+   "statement": "Als Rechtsnachfolger der Sowjetunion übernahm Russland Auslandsschulden von 104 Milliarden Dollar.",
+   "question": "Wie hoch waren die Auslandsschulden der Sowjetunion, die Russland übernommen hat?",
+   "answer": "104 Milliarden Dollar",
+   "distractors": [
+    "12 Milliarden Dollar",
+    "38 Milliarden Dollar",
+    "450 Milliarden Dollar"
+   ],
+   "aha": "Polen wurde ein großer Teil seiner Auslandsschulden erlassen, Russland als Rechtsnachfolger der Sowjetunion nicht. Für Mangott ist das einer der Gründe, warum die Schocktherapie in Polen funktioniert hat und in Russland nicht.",
+   "quote_clean": "Russland übernahm als Rechtsnachfolger der Sowjetunion Außenschulden von 104 Milliarden Dollar.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Geburtsjahr 1952 korrekt und belegt; sehr bekannt, daher eher leichte Frage.",
+   "stand_note": "",
+   "statement": "Wladimir Putin wurde 1952 in Leningrad, dem heutigen St. Petersburg, geboren.",
+   "question": "In welchem Jahr wurde Wladimir Putin geboren?",
+   "answer": "1952",
+   "distractors": [
+    "1945",
+    "1959",
+    "1964"
+   ],
+   "aha": "Er kam als Sohn einer eher armen Familie in Leningrad zur Welt, studierte dort Jus und ging dann zum KGB. Ab 1985 war er in Dresden stationiert.",
+   "quote_clean": "Putin, der 1952 in Leningrad als Sohn einer eher armen Familie geboren wurde,",
+   "quality": 2
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Als Einschätzung Mangotts ('wohl') belegt und in der Frage korrekt attribuiert.",
+   "stand_note": "",
+   "statement": "Laut Gerhard Mangott waren die Präsidentenwahlen im Juni 1991 die einzigen wirklich freien und fairen Wahlen Russlands.",
+   "question": "Welche Wahl gilt laut Gerhard Mangott als einzige wirklich freie und faire Wahl in Russland?",
+   "answer": "Die Präsidentenwahl im Juni 1991",
+   "distractors": [
+    "Die Präsidentenwahl im März 2000",
+    "Die Dumawahl im Dezember 2011",
+    "Die Präsidentenwahl im Juli 1996"
+   ],
+   "aha": "Schon unter Jelzin gab es ungleiche Mittel und Medienzugang, besonders 1996. Unter Putin wurde es dann immer schlimmer, spätestens ab der Dumawahl 2011 kann man laut Mangott nicht mehr von freien Wahlen sprechen.",
+   "quote_clean": "Faire und freie Wahlen hatte Russland wohl nur bei den Präsidentenwahlen im Juni 1991.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Datum bei 438-447 belegt und historisch korrekt.",
+   "stand_note": "",
+   "statement": "Putin wurde amtierender Präsident, als Boris Jelzin am 31. Dezember 1999 zurücktrat.",
+   "question": "An welchem Tag legte Boris Jelzin sein Amt nieder und machte Putin zum amtierenden Präsidenten?",
+   "answer": "Am 31. Dezember 1999",
+   "distractors": [
+    "Am 1. Mai 1998",
+    "Am 9. November 1999",
+    "Am 26. März 2000"
+   ],
+   "aha": "Silvester als Machtübergabe: Putin war erst seit August Ministerpräsident und wurde damit laut Verfassung amtierender Präsident. Im März 2000 hat er dann die Wahl gewonnen.",
+   "quote_clean": "ist Putin dann im August 1999 zum Ministerpräsidenten ernannt worden. Und nachdem Jelzin am 31. Dezember 1999 sein Amt niederlegte,",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-Frage mit nur zwei Sprechern ist trivial; in Inhaltsfrage umgebaut, Beleg bei 871 stimmt.",
+   "stand_note": "",
+   "statement": "Gerhard Mangott fasst die russische Wirtschaftsreform der 90er so zusammen: Die Schocktherapie war nur Schock, aber keine Therapie.",
+   "question": "Wie fasst Gerhard Mangott Russlands Schocktherapie der 90er Jahre zusammen?",
+   "answer": "Nur Schock, aber keine Therapie",
+   "distractors": [
+    "Schmerzhaft, aber am Ende erfolgreich",
+    "Gut gemeint, aber zu langsam umgesetzt",
+    "Ein Vorbild für alle Nachbarländer"
+   ],
+   "aha": "Preise, Außenhandel, Privatisierung: alles auf einmal liberalisiert, unter dem Einfluss westlicher Ökonomen wie Jeffrey Sachs. Die Wirtschaft konnte sich laut Mangott auch nach Jahren nicht konsolidieren.",
+   "quote_clean": "Nur, diese Schocktherapie war nur Schock, aber keine Therapie.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "'Simia' ist Transkription von 'Semja' (Familie), bei 744-767 belegt.",
+   "stand_note": "",
+   "statement": "Der enge Zirkel um den kranken Jelzin hieß in Russland „Semja“, die Familie, und wählte Putin als Nachfolger aus.",
+   "question": "Wie nannte man in Russland den engen Beraterkreis um Jelzin, der Putin als Nachfolger aussuchte?",
+   "answer": "Die Familie",
+   "distractors": [
+    "Das Politbüro",
+    "Die Silowiki",
+    "Der Kreml-Rat"
+   ],
+   "aha": "Zur „Semja“ gehörte auch Jelzins Tochter, rundherum gruppierten sich Oligarchen. Sie setzten auf Putin, weil sie erwarteten, dass er ihren finanziellen Interessen gegenüber loyal bleibt.",
+   "quote_clean": "Die Lenkung Russlands ist auf einen engen Zirkel von Beratern und Beraterinnen übergegangen, die man in Russland Semja nannte, also Familie.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Erbsünde-Zitat bei 1105 und Ablauf 1078-1105 belegt, als Mangotts Wertung formuliert.",
+   "stand_note": "",
+   "statement": "Gerhard Mangott nennt Jelzins Militäreinsatz gegen das Parlament 1993 die erste Erbsünde der russischen Demokratisierung.",
+   "question": "Was nennt Gerhard Mangott „die erste Erbsünde im Prozess der Demokratisierung Russlands“?",
+   "answer": "Jelzins Armeeeinsatz gegen das Parlament",
+   "distractors": [
+    "Putins Wahl im März 2000",
+    "Die Annexion der Krim",
+    "Den zweiten Tschetschenienkrieg"
+   ],
+   "aha": "Jelzin löste 1993 das Parlament per Dekret auf, wofür er verfassungsrechtlich keine Kompetenz hatte, und setzte dann die Armee ein. Der Westen hat das damals als Verteidigung der Demokratie gegen einen braunroten Mob hochgeschätzt.",
+   "quote_clean": "Wenn man so möchte, war das schon die erste Erbsünde im Prozess der Demokratisierung Russlands.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Bukarest-Kompromiss bei 2249 belegt; 'fatale Kompromissentscheidung' im aha ist aus dem Ausschnitt nicht belegt und wurde entfernt.",
+   "stand_note": "",
+   "statement": "Beim NATO-Gipfel in Bukarest 2008 wurde der Ukraine und Georgien als Kompromiss die Mitgliedschaft grundsätzlich versprochen, aber kein konkreter Beitrittsplan angeboten.",
+   "question": "Was versprach der NATO-Gipfel in Bukarest 2008 der Ukraine und Georgien?",
+   "answer": "Eine Mitgliedschaft im Prinzip, ohne Fahrplan",
+   "distractors": [
+    "Einen sofortigen Beitritt",
+    "Eine dauerhafte Neutralität",
+    "Einen Beitritt bis 2010"
+   ],
+   "aha": "Bush wollte einen Fast Track zur Mitgliedschaft, Deutschland und Frankreich waren dagegen. Herausgekommen ist ein Kompromiss: Die Mitgliedschaft wurde prinzipiell versprochen, einen konkreten Plan dafür gab es nicht.",
+   "quote_clean": "Neue Mitgliedstaaten der NATO, allen voran Polen, wollten auf diesem NATO-Gipfel in Bukarest im April 2008 Georgien und der Ukraine einen sogenannten Membership Action Plan anbieten.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 2423-2431; es handelt sich um einen informellen Konsens laut Mangott, Formulierung entsprechend vorsichtiger, Antwort präzisiert.",
+   "stand_note": "",
+   "statement": "Laut Mangott gibt es in der NATO den Konsens, keine Länder mit offenem Territorialkonflikt aufzunehmen; Russlands Anerkennung von Abchasien und Südossetien war deshalb ein Stolperstein für Georgiens Beitritt.",
+   "question": "Warum war Russlands Anerkennung von Abchasien und Südossetien ein Stolperstein für Georgiens NATO-Beitritt?",
+   "answer": "Die NATO will keine Länder mit offenem Territorialkonflikt aufnehmen",
+   "distractors": [
+    "Russland hat in der NATO ein Vetorecht",
+    "Die UNO muss jedem Beitritt zustimmen",
+    "Die Gebiete müssten bei der Aufnahme mitabstimmen"
+   ],
+   "aha": "Russland hat 2008 Abchasien und Südossetien als Staaten anerkannt und dort Militärbasen eingerichtet. Damit hat Georgien einen offenen Territorialkonflikt auch mit Russland. Mit der Anerkennung von Donezk und Luhansk im Februar 2022 sieht Mangott eine Parallele.",
+   "quote_clean": "Denn die NATO hat eigentlich einen Konsens darüber, dass keine Länder in das Bündnis aufgenommen werden sollen, die einen offenen Territorialkonflikt haben.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "kontext"
+   ],
+   "note": "Geopolitische Wertung mitten im Krieg ('Westen nur Anziehungskraft, Russland nur Zwang') ist als Spielfakt zu einseitig und verkürzt; Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Der Westen hat laut Mangott vor allem Anziehungskraft, Russland dagegen vor allem die Macht des Zwangs gegenüber seinen Nachbarn.",
+   "question": "Worin unterscheidet sich laut Gerhard Mangott die Macht des Westens von der Russlands?",
+   "answer": "Anziehungskraft statt Zwang",
+   "distractors": [
+    "Atomwaffen statt Panzer",
+    "Geld statt Rohstoffe",
+    "Propaganda statt Diplomatie"
+   ],
+   "aha": "",
+   "quote_clean": "Der Westen hat vor allem das, was ich Power of Attraction nenne, also die Macht der Anziehungskraft. All die Staaten, die in der NATO sind, wollten in die NATO hinein, sie wurden nicht dazu gezwungen.",
+   "quality": 2
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Zitat bei 3327-3337 belegt; Chodorkowski im aha ist aus dem Ausschnitt nicht belegt und wurde entfernt.",
+   "stand_note": "",
+   "statement": "Gerhard Mangott beschreibt Korruption als das Schmiermittel des Putin-Regimes, das das System an der Spitze zusammenhält.",
+   "question": "Was nennt Gerhard Mangott „das Schmiermittel des Putin-Regimes“?",
+   "answer": "Bereicherung und Korruption",
+   "distractors": [
+    "Öl- und Gasexporte",
+    "Das Staatsfernsehen",
+    "Die orthodoxe Kirche"
+   ],
+   "aha": "Bereichern darf sich, wer zu Putin hält. Wer sich gegen ihn stellt, kann sich laut dem Gespräch nicht mehr bereichern: Korruption ist so auch ein Mittel, die eigene Macht zu erhalten.",
+   "quote_clean": "Aber an der Spitze ist die Bereicherung und die Korruption sicherlich etwas, das das System zusammenhält. Gewissermaßen das Schmiermittel des Putin-Regimes.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beiläufige Bemerkung ohne Wissensgehalt, Distraktoren frei erfunden.",
+   "stand_note": "",
+   "statement": "Nach einer Aufzählung von KGB-Leuten aus Putins Umfeld bemerkt Gerhard Mangott trocken, dass die Namen den Zuhörer:innen vermutlich eh nichts sagen.",
+   "question": "Was merkt Gerhard Mangott an, nachdem er Patruschew, Iwanow und Setschin aufgezählt hat?",
+   "answer": "Die Namen sagen den Zuhörern eh nichts",
+   "distractors": [
+    "Alle drei sind heute im Exil",
+    "Die Liste ist streng geheim",
+    "Er kennt alle drei persönlich"
+   ],
+   "aha": "",
+   "quote_clean": "Die Namen werden den Zuhörern vermutlich ohnehin nichts sagen.",
+   "quality": 1
+  }
+ ],
+ "id": "s20220329",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

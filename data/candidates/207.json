@@ -1,0 +1,733 @@
+{
+ "theme": "Gesundheit & Körper",
+ "summary": "Wir begleiten eine Blutkonserve von der Spenderin bis ins Spital: filtern, zentrifugieren, kühlen, testen und rechtzeitig ausliefern.",
+ "candidates": [
+  {
+   "kind": "andreas_frage",
+   "t": 173,
+   "speaker": "Andreas Sator",
+   "quote": "Ursula, wenn ich jetzt zu euch komme und mein kostbares Blut da lasse, was passiert damit dann?",
+   "quote_clean": "Ursula, wenn ich jetzt zu euch komme und mein kostbares Blut dalasse, was passiert damit dann?",
+   "statement": "Andreas steigt in die Folge mit der Frage ein, was mit seinem „kostbaren Blut“ nach der Spende passiert.",
+   "question": "Mit welcher Frage startet Andreas ins Gespräch über die Blutspende?",
+   "answer": "Was passiert mit meinem kostbaren Blut?",
+   "distractors": [
+    "Tut Blutspenden eigentlich weh?",
+    "Wie oft darf ich Blut spenden?",
+    "Warum gibt es Frankfurter danach?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ganz Andreas: er fängt beim eigenen Arm an und lässt sich dann den ganzen Weg erklären. Und „kostbar“ ist gar nicht so übertrieben, wie sich später herausstellt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Einstieg",
+    "Blutspende"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 191,
+   "speaker": "Ursula Kreil",
+   "quote": "Ein paar Minuten, im Durchschnitt sind es so sechs Minuten und wir entnehmen 465 Milliliter Blut.",
+   "quote_clean": "Ein paar Minuten, im Durchschnitt sind es sechs Minuten, und wir entnehmen 465 Milliliter Blut.",
+   "statement": "Bei einer Vollblutspende werden in Österreich 465 Milliliter Blut entnommen.",
+   "question": "Wie viele Milliliter Blut werden bei einer Blutspende entnommen?",
+   "answer": "465 Milliliter",
+   "distractors": [
+    "250 Milliliter",
+    "750 Milliliter",
+    "1.000 Milliliter"
+   ],
+   "number_value": 465,
+   "number_unit": "Milliliter",
+   "slider_min": 100,
+   "slider_max": 1200,
+   "log_scale": false,
+   "aha": "Knapp ein halber Liter, also ungefähr ein Krügerl. Ein Erwachsener hat rund fünf Liter Blut im Körper, das steckt man also gut weg.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Blutspende",
+    "Körper"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 198,
+   "speaker": "Ursula Kreil",
+   "quote": "Dieses Blut ruht dann drei Stunden lang. Man nennt das Phagocytose-Zeit, weil da passieren noch einige so Abräummechanismen innerhalb des Blutes durch weiße Blutzellen.",
+   "quote_clean": "Dieses Blut ruht dann drei Stunden lang. Man nennt das Phagozytose-Zeit, weil da noch einige Abräummechanismen innerhalb des Blutes durch weiße Blutzellen passieren.",
+   "statement": "Gespendetes Blut ruht zuerst rund drei Stunden, damit weiße Blutzellen darin noch aufräumen können.",
+   "question": "Was passiert mit dem Blut direkt nach der Spende?",
+   "answer": "Es ruht etwa drei Stunden",
+   "distractors": [
+    "Es wird sofort tiefgefroren",
+    "Es wird gleich ins Spital gebracht",
+    "Es wird mit anderen Spenden gemischt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die sogenannte Phagozytose-Zeit: weiße Blutzellen fressen in dieser Pause noch Unerwünschtes weg. Danach werden genau diese weißen Zellen herausgefiltert, weil sie bei Empfänger:innen oft Unverträglichkeiten auslösen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Blutspende",
+    "Immunsystem"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 242,
+   "speaker": "Ursula Kreil",
+   "quote": "Das ist diese dunkelrote Flüssigkeit, die als wirklich unersetzbares lebensnotwendiges Notfallmedikament in den Spitälern eingesetzt wird. Und österreichweit rund alle 90 Sekunden einmal.",
+   "quote_clean": "Das ist diese dunkelrote Flüssigkeit, die als unersetzbares, lebensnotwendiges Notfallmedikament in den Spitälern eingesetzt wird. Und österreichweit rund alle 90 Sekunden einmal.",
+   "statement": "In Österreich wird rund alle 90 Sekunden eine Blutkonserve verabreicht.",
+   "question": "Wie oft wird in Österreich im Schnitt eine Blutkonserve verabreicht – alle wie viele Sekunden?",
+   "answer": "Alle 90 Sekunden",
+   "distractors": [
+    "Alle 10 Sekunden",
+    "Alle 15 Minuten",
+    "Alle 2 Stunden"
+   ],
+   "number_value": 90,
+   "number_unit": "Sekunden",
+   "slider_min": 5,
+   "slider_max": 3600,
+   "log_scale": true,
+   "aha": "Rund um die Uhr, an jedem Tag im Jahr. Rechnet man das hoch, landet man bei ein paar hunderttausend Konserven pro Jahr – und jede davon kommt von einem Menschen, der freiwillig den Ärmel hochgekrempelt hat.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Blutkonserve",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 269,
+   "speaker": "Ursula Kreil",
+   "quote": "Zentrifugieren bedeutet, mit einer ganz hohen Zahl an Umdrehungen das Blut dazu zu bringen, dass unten sich alles absetzt, was schwer ist. Das sind eben die roten Blutkörperchen. Und oben die Teile des Blutes, die leicht sind, das ist das Blutplasma.",
+   "quote_clean": "Zentrifugieren bedeutet, das Blut mit einer sehr hohen Zahl an Umdrehungen dazu zu bringen, dass sich unten alles absetzt, was schwer ist. Das sind die roten Blutkörperchen. Und oben die leichten Teile des Blutes, das ist das Blutplasma.",
+   "statement": "Beim Zentrifugieren setzen sich die schweren roten Blutkörperchen unten ab, das leichte Plasma bleibt oben.",
+   "question": "Was landet beim Zentrifugieren von Blut ganz unten?",
+   "answer": "Die roten Blutkörperchen",
+   "distractors": [
+    "Das Blutplasma",
+    "Die weißen Blutkörperchen",
+    "Die Blutplättchen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein bisschen wie eine Salatschleuder, nur viel schneller. Was schwer ist, wandert nach unten, und das sind eben die roten Blutkörperchen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Blut",
+    "Labor"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 288,
+   "speaker": "Ursula Kreil",
+   "quote": "Wenn man Blutplasma mal gesehen hat, ist man überrascht, weil Blutplasma ist eine hellgelbe Flüssigkeit.",
+   "quote_clean": "Wenn man Blutplasma einmal gesehen hat, ist man überrascht, weil Blutplasma eine hellgelbe Flüssigkeit ist.",
+   "statement": "Blutplasma ist nicht rot, sondern eine hellgelbe Flüssigkeit.",
+   "question": "Welche Farbe hat Blutplasma?",
+   "answer": "Hellgelb",
+   "distractors": [
+    "Hellrot",
+    "Durchsichtig blau",
+    "Milchig weiß"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Rot im Blut kommt ausschließlich von den roten Blutkörperchen. Nimmt man die weg, bleibt eine gelbliche Flüssigkeit übrig – auch Andreas war überrascht, als er das auf der Homepage gesehen hat.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Blut",
+    "Plasma"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 466,
+   "speaker": "Ursula Kreil",
+   "quote": "Warum gerade die Haare? Weil da Zellen beteiligt sind, die sich schnell teilen und Chemotherapien sind in vielen Fällen nicht so gezielt wirksam, dass sie nur auf die bösartigen oder auf die Krebszellen wirken, sondern sie greifen auch andere Zellen an.",
+   "quote_clean": "Warum gerade die Haare? Weil da Zellen beteiligt sind, die sich schnell teilen, und Chemotherapien sind in vielen Fällen nicht so gezielt wirksam, dass sie nur auf die Krebszellen wirken, sondern sie greifen auch andere Zellen an.",
+   "statement": "Chemotherapie trifft alle sich schnell teilenden Zellen – deshalb fallen Haare aus und auch die Blutbildung leidet.",
+   "question": "Warum brauchen Menschen in Chemotherapie oft Bluttransfusionen?",
+   "answer": "Chemo bremst auch die Blutbildung",
+   "distractors": [
+    "Chemo zerstört direkt das Plasma",
+    "Chemo macht das Blut zu dick",
+    "Chemo verursacht häufig Blutgruppenwechsel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Krebszellen teilen sich schnell, Haarwurzelzellen und blutbildende Zellen aber auch. Die Chemo unterscheidet da oft nicht sauber – darum fehlen danach nicht nur Haare, sondern auch Blutzellen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Chemotherapie",
+    "Krebs"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 587,
+   "speaker": "Ursula Kreil",
+   "quote": "der wird kühl gelagert bei vier Grad plus minus zwei Grad bis maximal 42 Tage sind die roten Blutkörperchen, also ist so eine Blutkonserve haltbar.",
+   "quote_clean": "Der wird kühl gelagert bei vier Grad plus minus zwei Grad. Bis maximal 42 Tage ist so eine Blutkonserve haltbar.",
+   "statement": "Eine Blutkonserve mit roten Blutkörperchen ist bei rund vier Grad maximal 42 Tage haltbar.",
+   "question": "Wie viele Tage ist eine Blutkonserve höchstens haltbar?",
+   "answer": "42 Tage",
+   "distractors": [
+    "7 Tage",
+    "100 Tage",
+    "365 Tage"
+   ],
+   "number_value": 42,
+   "number_unit": "Tage",
+   "slider_min": 1,
+   "slider_max": 365,
+   "log_scale": true,
+   "aha": "Sechs Wochen im Kühlhaus bei vier Grad, dann ist Schluss. Darum kann man Blut nicht einfach auf Vorrat horten, sondern braucht laufend neue Spender:innen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Blutkonserve",
+    "Haltbarkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 828,
+   "speaker": "Ursula Kreil",
+   "quote": "Weil man muss ja überlegen, es gibt zwar Blutgruppen, die kommen recht häufig vor, wie die Blutgruppe A-Positiv, ist die häufigste Blutgruppe mit 37 Prozent.",
+   "quote_clean": "Man muss ja überlegen, es gibt Blutgruppen, die recht häufig vorkommen, wie die Blutgruppe A-positiv. Sie ist die häufigste Blutgruppe mit 37 Prozent.",
+   "statement": "A-positiv ist in Österreich die häufigste Blutgruppe, rund 37 Prozent haben sie.",
+   "question": "Wie viel Prozent der Menschen in Österreich haben die häufigste Blutgruppe A-positiv?",
+   "answer": "37 Prozent",
+   "distractors": [
+    "12 Prozent",
+    "55 Prozent",
+    "70 Prozent"
+   ],
+   "number_value": 37,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Mehr als jede dritte Person ist A-positiv. Für die Blutbank heißt das: diese Gruppe ist meistens leicht zu bekommen – bei den seltenen wird es spannend.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Blutgruppen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 839,
+   "speaker": "Ursula Kreil",
+   "quote": "Aber AB-Negativ zum Beispiel ist eine Blutgruppe, die kommt selten vor, ein Prozent knapp.",
+   "quote_clean": "Aber AB-negativ zum Beispiel ist eine Blutgruppe, die selten vorkommt, knapp ein Prozent.",
+   "statement": "Die Blutgruppe AB-negativ hat nur knapp ein Prozent der Bevölkerung.",
+   "question": "Wie viel Prozent der Bevölkerung haben die seltene Blutgruppe AB-negativ?",
+   "answer": "Knapp 1 Prozent",
+   "distractors": [
+    "Rund 5 Prozent",
+    "Rund 10 Prozent",
+    "Rund 0,01 Prozent"
+   ],
+   "number_value": 1,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 20,
+   "log_scale": false,
+   "aha": "Wenn zwei, drei AB-negative Unfallopfer gleichzeitig ins Spital kommen, wird das Lager schnell knapp. Dann ruft die Blutspendezentrale gezielt die Leute an, von denen sie weiß, dass sie AB-negativ sind.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Blutgruppen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 994,
+   "speaker": "Ursula Kreil",
+   "quote": "Aber Null negative Blutspender gibt es jetzt auch nicht wie Sander mehr, weil das ist eine Blutgruppe, die kommt in sechs bis sieben Prozent der Bevölkerung eben vor.",
+   "quote_clean": "Aber Null-negative Blutspender gibt es auch nicht wie Sand am Meer, weil das eine Blutgruppe ist, die in sechs bis sieben Prozent der Bevölkerung vorkommt.",
+   "statement": "Die Universalspender-Blutgruppe 0-negativ haben nur sechs bis sieben Prozent der Bevölkerung.",
+   "question": "Wie viel Prozent der Bevölkerung haben die Blutgruppe 0-negativ?",
+   "answer": "Sechs bis sieben Prozent",
+   "distractors": [
+    "Ein bis zwei Prozent",
+    "Zwanzig bis 25 Prozent",
+    "Vierzig bis 45 Prozent"
+   ],
+   "number_value": 6.5,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 50,
+   "log_scale": false,
+   "aha": "0-negativ verträgt fast jeder, darum ist es heiß begehrt – aber eben selten. Deshalb gibt man es nicht einfach jedem „zur Sicherheit“, sondern hebt es für Fälle auf, wo es wirklich drauf ankommt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Blutgruppen",
+    "Universalspender"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 969,
+   "speaker": "Ursula Kreil",
+   "quote": "Und die Blutgruppe Null vertragen Patienten mit der Blutgruppe A, B und AB auch. Und dann kommt noch dazu, dass der Resusfaktor negativ auch von allen Menschen vertragen wird, die ein Resusfaktor positives Merkmal in ihrer Blutgruppe haben.",
+   "quote_clean": "Und die Blutgruppe Null vertragen Patienten mit der Blutgruppe A, B und AB auch. Dazu kommt, dass Rhesusfaktor negativ auch von allen Menschen vertragen wird, die ein Rhesusfaktor-positives Merkmal in ihrer Blutgruppe haben.",
+   "statement": "Blutgruppe 0-negativ gilt als Universalspender, weil Patient:innen jeder AB0- und Rhesus-Gruppe sie vertragen.",
+   "question": "Welche Blutgruppe gilt als Universalspender für rote Blutkörperchen?",
+   "answer": "0-negativ",
+   "distractors": [
+    "AB-positiv",
+    "A-positiv",
+    "B-negativ"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Blutgruppe 0 vertragen auch A, B und AB, und Rhesus-negativ vertragen auch die Rhesus-Positiven. Zusammen ergibt das 0-negativ – das Blut, das jede und jeder bekommen kann. Andreas hat es übrigens.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Blutgruppen",
+    "Universalspender"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1107,
+   "speaker": "Ursula Kreil",
+   "quote": "Also prinzipiell haben wir jetzt die AB0- und Resusfaktor-Blutgruppenmerkmale besprochen, aber es gibt mehr als 30 Blutgruppensysteme mit mehr als 300 Oberflächenmerkmalen.",
+   "quote_clean": "Prinzipiell haben wir jetzt die AB0- und Rhesusfaktor-Blutgruppenmerkmale besprochen, aber es gibt mehr als 30 Blutgruppensysteme mit mehr als 300 Oberflächenmerkmalen.",
+   "statement": "Neben AB0 und Rhesus gibt es mehr als 30 Blutgruppensysteme mit über 300 Oberflächenmerkmalen.",
+   "question": "Wie viele Blutgruppensysteme gibt es ungefähr – nicht nur AB0 und Rhesus?",
+   "answer": "Mehr als 30",
+   "distractors": [
+    "Genau 4",
+    "Etwa 8",
+    "Mehr als 3.000"
+   ],
+   "number_value": 30,
+   "number_unit": "Blutgruppensysteme",
+   "slider_min": 2,
+   "slider_max": 1000,
+   "log_scale": true,
+   "aha": "A, B, 0 und Rhesus sind nur die Spitze des Eisbergs. Gegen eines der über 300 anderen Merkmale kann man Antikörper bilden – darum wird jede Konserve und jede Patientin zusätzlich auf Antikörper untersucht.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Blutgruppen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1139,
+   "speaker": "Ursula Kreil",
+   "quote": "Das kann zum Beispiel Frauen betreffen. So ein Antikörper besteht im Zuge einer Schwangerschaft. Wenn das noch ungeborene Kind vom Vater ein Merkmal mitbekommen hat, das die Mutter nicht hat, dann kann das sein, dass so ein Antikörper, so ein Abwehrstoff gebildet wird.",
+   "quote_clean": "Das kann zum Beispiel Frauen betreffen. So ein Antikörper entsteht im Zuge einer Schwangerschaft. Wenn das ungeborene Kind vom Vater ein Merkmal mitbekommen hat, das die Mutter nicht hat, kann es sein, dass so ein Abwehrstoff gebildet wird.",
+   "statement": "In einer Schwangerschaft kann die Mutter Antikörper gegen Blutmerkmale bilden, die das Kind vom Vater geerbt hat.",
+   "question": "Wodurch kann eine Frau Antikörper gegen fremde Blutgruppenmerkmale entwickeln?",
+   "answer": "Durch eine Schwangerschaft",
+   "distractors": [
+    "Durch eine Grippeimpfung",
+    "Durch zu viel Sport",
+    "Durch eine Organspende-Erklärung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Kind trägt Merkmale vom Vater, die der Mutter fremd sind, und ihr Immunsystem merkt sich das. Wer so einen Antikörper hat, bekommt einen Ausweis, den man im Spital immer herzeigen soll.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schwangerschaft",
+    "Antikörper"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1380,
+   "speaker": "Ursula Kreil",
+   "quote": "ist, dass man aus Stammzellen, das heißt aus Vorläuferzellen von reifen Blutzellen, wieder Blutzellen quasi heranreifen lässt, aber das Ganze halt nicht im Knochenmark, so wie das bei uns ist oder in der Blutbahn, sondern in einem Labor. Und das geht auch theoretisch, aber das ist extrem aufwendig, es ist extrem teuer,",
+   "quote_clean": "dass man aus Stammzellen, also aus Vorläuferzellen von reifen Blutzellen, Blutzellen heranreifen lässt, aber nicht im Knochenmark wie bei uns, sondern in einem Labor. Das geht theoretisch, aber es ist extrem aufwendig und extrem teuer.",
+   "statement": "Blutzellen aus Stammzellen im Labor zu züchten, ist theoretisch möglich, aber extrem teuer und aufwendig – Spenderblut lässt sich so bisher nicht ersetzen.",
+   "question": "Kann man Blut heute schon im großen Stil im Labor herstellen?",
+   "answer": "Nein, nur theoretisch und extrem teuer",
+   "distractors": [
+    "Ja, seit etwa zehn Jahren",
+    "Ja, aber nur Blutgruppe 0",
+    "Nein, es ist physikalisch unmöglich"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Hunderte bis tausende Forschende probieren das seit Jahrzehnten, mit Tier-Hämoglobin, Chemie oder Stammzellen. Funktioniert im Kleinen, aber nicht in dem Maßstab, den Spitäler brauchen – also bleibt es vorerst beim Arm der Spender:innen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Kunstblut",
+    "Forschung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1520,
+   "speaker": "Ursula Kreil",
+   "quote": "Derzeit sind wir in Österreich ungefähr bei 340.000, 350.000 Konserven, die im Jahr verbraucht werden.",
+   "quote_clean": "Derzeit sind wir in Österreich ungefähr bei 340.000 bis 350.000 Konserven, die im Jahr verbraucht werden.",
+   "statement": "In Österreich werden pro Jahr rund 340.000 bis 350.000 Blutkonserven verbraucht.",
+   "question": "Wie viele Blutkonserven werden in Österreich pro Jahr ungefähr verbraucht?",
+   "answer": "Rund 345.000",
+   "distractors": [
+    "Rund 35.000",
+    "Rund 1,2 Millionen",
+    "Rund 90.000"
+   ],
+   "number_value": 345000,
+   "number_unit": "Konserven",
+   "slider_min": 10000,
+   "slider_max": 5000000,
+   "log_scale": true,
+   "aha": "Vor 20 Jahren war es noch deutlich mehr, dank blutsparender Operationen und strenger Indikation. Zuletzt stieg der Bedarf aber wieder um sechs, sieben Prozent – auch weil wir älter werden und mehr Krebs behandelt wird.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Österreich",
+    "Blutbedarf"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1637,
+   "speaker": "Ursula Kreil",
+   "quote": "Das zweite ist, dass sich die Testung der Blutkonserven und jede einzelne Blutkonserve unterläuft mehr als 20 Tests, bevor sie überhaupt freigegeben wird, um an ein Krankenhaus ausgeliefert werden zu dürfen.",
+   "quote_clean": "Das Zweite ist die Testung: Jede einzelne Blutkonserve durchläuft mehr als 20 Tests, bevor sie überhaupt freigegeben wird, um an ein Krankenhaus ausgeliefert werden zu dürfen.",
+   "statement": "Jede Blutkonserve durchläuft mehr als 20 Tests, bevor sie an ein Krankenhaus gehen darf.",
+   "question": "Wie viele Tests durchläuft jede Blutkonserve, bevor sie freigegeben wird?",
+   "answer": "Mehr als 20",
+   "distractors": [
+    "Genau 2",
+    "Etwa 5",
+    "Mehr als 200"
+   ],
+   "number_value": 20,
+   "number_unit": "Tests",
+   "slider_min": 1,
+   "slider_max": 300,
+   "log_scale": true,
+   "aha": "Getestet wird unter anderem auf Hepatitis B und C und HIV. Dafür werden bei jeder Spende sechs Röhrchen zusätzlich befüllt – und trotzdem gibt es noch den Fragebogen, weil kein Test alles erwischt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sicherheit",
+    "Tests"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1677,
+   "speaker": "Ursula Kreil",
+   "quote": "Da ist der Hintergrund, dass man davon ausgeht, dass ein Spender, wenn er eine finanzielle Entschädigung in Aussicht gestellt bekommen würde, auf die er vielleicht aus wirtschaftlichen Gründen angewiesen ist, dazu verleitet sein könnte, Gesundheitsangaben nicht zu machen,",
+   "quote_clean": "Der Hintergrund ist, dass man davon ausgeht, dass ein Spender, dem eine finanzielle Entschädigung in Aussicht gestellt würde, auf die er vielleicht aus wirtschaftlichen Gründen angewiesen ist, dazu verleitet sein könnte, Gesundheitsangaben nicht zu machen.",
+   "statement": "Blutspenden ist unbezahlt, damit niemand aus Geldnot Gesundheitsprobleme verschweigt.",
+   "question": "Warum wird man in Österreich fürs Vollblutspenden nicht bezahlt – unter anderem aus Sicherheitsgründen?",
+   "answer": "Damit niemand Krankheiten verschweigt",
+   "distractors": [
+    "Weil Bezahlung gegen die Verfassung wäre",
+    "Weil sonst zu viele kämen",
+    "Weil das Rote Kreuz kein Geld hat"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer auf das Geld angewiesen ist, hat einen Anreiz, beim Fragebogen zu schwindeln. Freiwilligkeit ist also nicht nur eine nette Idee, sondern eine von drei Säulen der Sicherheit – neben Spenderauswahl und Tests.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sicherheit",
+    "Ehrenamt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1778,
+   "speaker": "Ursula Kreil",
+   "quote": "Jetzt ist es aber so, dass zu Beginn einer Infektion, wenn ich mich gerade angesteckt habe, da habe ich noch nicht viele Krankheitserreger in meinem Blut, da sind nur wenig Viren in meinem Blut und selbst der beste Test kann diesen Krankheitserreger dann in diesem sehr frühen Zeitpunkt nicht nachweisen.",
+   "quote_clean": "Zu Beginn einer Infektion, wenn ich mich gerade angesteckt habe, habe ich noch nicht viele Krankheitserreger im Blut, nur wenige Viren, und selbst der beste Test kann den Erreger zu diesem sehr frühen Zeitpunkt nicht nachweisen.",
+   "statement": "Kurz nach einer Ansteckung sind so wenige Viren im Blut, dass selbst der beste Test sie nicht findet – das diagnostische Fenster.",
+   "question": "Warum braucht es beim Blutspenden trotz Tests einen Fragebogen?",
+   "answer": "Frische Infektionen erkennt kein Test",
+   "distractors": [
+    "Weil Tests zu teuer sind",
+    "Weil der Fragebogen gesetzlich Tradition ist",
+    "Weil Tests oft verwechselt werden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Man ist dann „diagnostisch blind“. Moderne Tests machen dieses Fenster kürzer, aber nie ganz zu – den Rest schließen die Fragen und die Rückstellung bei Risikoverhalten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sicherheit",
+    "Infektionen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1991,
+   "speaker": "Ursula Kreil",
+   "quote": "Das diagnostische Fenster für HIV zum Beispiel bei der jetzigen Testung beträgt rund zehn, zwölf Tage. Die Rückstellung ist aber eine längere.",
+   "quote_clean": "Das diagnostische Fenster für HIV beträgt bei der jetzigen Testung zum Beispiel rund zehn, zwölf Tage. Die Rückstellung ist aber länger.",
+   "statement": "Das diagnostische Fenster für HIV beträgt bei heutigen Tests rund zehn bis zwölf Tage.",
+   "question": "Wie viele Tage beträgt das diagnostische Fenster für HIV bei heutigen Tests ungefähr?",
+   "answer": "Rund 10 bis 12 Tage",
+   "distractors": [
+    "Rund 1 bis 2 Tage",
+    "Rund 3 Monate",
+    "Rund ein Jahr"
+   ],
+   "number_value": 11,
+   "number_unit": "Tage",
+   "slider_min": 1,
+   "slider_max": 365,
+   "log_scale": true,
+   "aha": "In diesen knapp zwei Wochen nach der Ansteckung findet selbst ein moderner Test das Virus noch nicht. Die Rückstellfristen sind bewusst länger, als Sicherheitsabstand.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "HIV",
+    "Tests"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2173,
+   "speaker": "Ursula Kreil",
+   "quote": "Man bekommt keine Gene mit, weil Gene quasi im Blut nicht vorhanden sind.",
+   "quote_clean": "Man bekommt keine Gene mit, weil Gene im Blut nicht vorhanden sind.",
+   "statement": "Mit einer Blutkonserve bekommt man keine Gene der spendenden Person mit, wohl aber winzige Mengen Hormone und Botenstoffe aus dem Plasma.",
+   "question": "Bekommt man mit einer Blutkonserve Gene der spendenden Person mit?",
+   "answer": "Nein, keine Gene",
+   "distractors": [
+    "Ja, dauerhaft ins eigene Erbgut",
+    "Ja, aber nur für ein paar Wochen",
+    "Nur bei gleicher Blutgruppe"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Rote Blutkörperchen haben keinen Zellkern, und die weißen werden herausgefiltert. Ein bisschen Plasma mit Hormonen und Botenstoffen ist dabei, aber in so geringen Mengen, dass es nichts mit einem macht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gene",
+    "Transfusion"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2431,
+   "speaker": "Ursula Kreil",
+   "quote": "Es ist unterschiedlich, es sind die Blutspendedienste sehr unterschiedlich organisiert, es sind die Zusatzleistungen, die angeboten werden, unterschiedlich organisiert, aber es sind rund 145 Euro pro Konserve.",
+   "quote_clean": "Es ist unterschiedlich, die Blutspendedienste sind sehr unterschiedlich organisiert, auch die Zusatzleistungen, aber es sind rund 145 Euro pro Konserve.",
+   "statement": "Ein Krankenhaus in Österreich zahlt rund 145 Euro für eine Blutkonserve.",
+   "question": "Wie viel zahlt ein österreichisches Krankenhaus ungefähr für eine Blutkonserve?",
+   "answer": "Rund 145 Euro",
+   "distractors": [
+    "Rund 15 Euro",
+    "Rund 1.500 Euro",
+    "Rund 50 Euro"
+   ],
+   "number_value": 145,
+   "number_unit": "Euro",
+   "slider_min": 5,
+   "slider_max": 3000,
+   "log_scale": true,
+   "aha": "Das Rote Kreuz ist ein Verein und muss kostendeckend arbeiten, aber nicht gewinnorientiert. Mit dem Geld werden Personal, Labor, Kühlräume, Fahrer und Beutel samt sechs Teströhrchen pro Spende bezahlt.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Kosten",
+    "Rotes Kreuz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2687,
+   "speaker": "Ursula Kreil",
+   "quote": "und das ist ein Phänomen, dass wir in Österreich immer wieder beobachten, wenn es irgendwo eine übergeordnete Gefahr gibt, wenn es etwas gibt, was abweichend von der Normalität so ein bisschen eine Bedrohung darstellt, dann kommt dieser Solidaritätsgedanke doch sehr stark irgendwie in den Vordergrund und die Leute kommen gerne Blutspenden.",
+   "quote_clean": "Das ist ein Phänomen, das wir in Österreich immer wieder beobachten: Wenn es eine übergeordnete Gefahr gibt, etwas, das abseits der Normalität eine Bedrohung darstellt, dann kommt der Solidaritätsgedanke sehr stark in den Vordergrund und die Leute kommen gerne Blut spenden.",
+   "statement": "In Krisenzeiten – etwa zu Beginn der Corona-Pandemie – kommen in Österreich auffällig viele Menschen von sich aus zum Blutspenden.",
+   "question": "Was passierte zu Beginn der Corona-Pandemie mit der Zahl der Blutspender:innen?",
+   "answer": "Sie stieg ohne viel Werbung",
+   "distractors": [
+    "Sie brach sofort stark ein",
+    "Sie blieb völlig gleich",
+    "Spenden wurde ganz verboten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei einer Bedrohung rücken die Leute zusammen und krempeln die Ärmel hoch. Nach zwei Jahren Pandemie kam dann aber die Spendermüdigkeit – laut Kolleg:innen ein internationales Phänomen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Corona",
+    "Solidarität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 895,
+   "speaker": "Ursula Kreil",
+   "quote": "Dieses System gibt es seit mittlerweile fast 65 Jahren und dieses System funktioniert, aber es funktioniert dank der Blutspender und Blutspenderinnen.",
+   "quote_clean": "Dieses System gibt es mittlerweile seit fast 65 Jahren, und dieses System funktioniert, aber es funktioniert dank der Blutspender und Blutspenderinnen.",
+   "statement": "Das österreichische Blutspendesystem funktioniert seit fast 65 Jahren – dank der Blutspender:innen.",
+   "question": "Wer sagt: „Dieses System funktioniert, aber es funktioniert dank der Blutspender und Blutspenderinnen“?",
+   "answer": "Ursula Kreil",
+   "distractors": [
+    "Andreas Sator",
+    "Helga Dröscher",
+    "Eine Hörerin namens Viviane"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ursula Kreil ist seit mehr als 25 Jahren in der Blutspendezentrale und wundert sich nach eigener Aussage immer noch, wie gut die freiwillige, unbezahlte Spende funktioniert. Das Rote Kreuz hat sich die Vollversorgung zur Pflicht gemacht.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Rotes Kreuz",
+    "Freiwilligkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 2837,
+   "speaker": "Andreas Sator",
+   "quote": "Die letzte HörerInnenfrage ist die Beste, finde ich, und das ist auch unser Abschluss von Jonas, warum gibt es in der Spende Zentrale immer nur Frankfurter und keine Burenwurst oder Deprezina?",
+   "quote_clean": "Die letzte Hörer:innenfrage ist die beste, finde ich, und das ist auch unser Abschluss, von Jonas: Warum gibt es in der Spendezentrale immer nur Frankfurter und keine Burenwurst oder Debreziner?",
+   "statement": "Zum Abschluss fragt ein Hörer, warum es nach dem Blutspenden nur Frankfurter und keine Burenwurst oder Debreziner gibt.",
+   "question": "Was gibt es traditionell nach dem Blutspenden in Österreich zu essen?",
+   "answer": "Frankfurter Würstel",
+   "distractors": [
+    "Leberkässemmel",
+    "Schnitzelsemmel",
+    "Gulaschsuppe"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ursula Kreil kontert: Jonas war offenbar länger nicht da, denn es gibt Frankfurter und Debreziner, dazu Mannerschnitten. In Corona-Zeiten wurde pausiert – schade, weil das gemütliche Zusammensitzen gerade am Land ein starker Grund zum Spenden ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Würstel",
+    "Tradition"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "207",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

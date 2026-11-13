@@ -1,0 +1,287 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Gesprächseinstiegsfrage ohne Wissensgehalt; Distraktoren sind Fragen aus dem Intro, die Frage ist kaum fair beantwortbar.",
+   "stand_note": "",
+   "statement": "Andreas steigt ins Gespräch mit der Frage ein, warum man Peter Hochegger kennt.",
+   "question": "Mit welcher Frage steigt Andreas ins Gespräch mit Peter Hochegger ein?",
+   "answer": "Warum kennt man dich?",
+   "distractors": [
+    "Wie bist du korrupt geworden?",
+    "Bereust du, was du getan hast?",
+    "Wie geht es dir heute?"
+   ],
+   "aha": "",
+   "quote_clean": "Peter, für die Leute, die in den letzten 20 Jahren keine Zeitung gelesen haben: Warum kennt man dich?",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Von Hochegger selbst so beschrieben; Aha im Ausschnitt gedeckt (Idee von ihm, Verurteilung 'zurecht').",
+   "stand_note": "",
+   "statement": "Hocheggers erste Verurteilung betraf die Finanzierung eines BZÖ-Wahlkampfs durch die Telekom Austria.",
+   "question": "Worum ging es bei Peter Hocheggers erster Verurteilung im Telekom-Prozess?",
+   "answer": "Telekom finanzierte einen BZÖ-Wahlkampf",
+   "distractors": [
+    "Telekom kaufte Bundeswohnungen",
+    "Telekom zahlte Schmiergeld an Richter",
+    "Telekom fälschte Bilanzen"
+   ],
+   "aha": "Ein teilstaatlicher Konzern zahlt den Wahlkampf einer Partei, und die Idee dazu kam laut Hochegger von ihm als Berater. Heute sagt er selbst, dass er diese erste Verurteilung als zu Recht empfunden hat.",
+   "quote_clean": "Beim ersten Mal in einem Telekom-Prozess, wo es darum gegangen ist, dass die Telekom einen Wahlkampf des BZÖ finanziert hat und ich dafür die Empfehlung abgegeben habe.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Es ist Hocheggers Darstellung der damaligen Einschätzung; als solche kennzeichnen.",
+   "stand_note": "",
+   "statement": "Laut Peter Hochegger wurde der Gesamtwert der Bundeswohnungen (BUWOG und weitere) damals auf rund 2,5 Milliarden Euro geschätzt, davon etwa 1,5 Milliarden Kreditübernahme und 1 Milliarde in bar.",
+   "question": "Auf wie viele Milliarden Euro wurde der Gesamtwert der Bundeswohnungen laut Hochegger damals geschätzt?",
+   "answer": "rund 2,5 Milliarden Euro",
+   "distractors": [
+    "rund 0,5 Milliarden Euro",
+    "rund 6 Milliarden Euro",
+    "rund 12 Milliarden Euro"
+   ],
+   "aha": "Ein guter Teil davon war gar kein Bargeld, sondern übernommene Kredite, rund eineinhalb Milliarden. Bar auf den Tisch kam nach dieser Einschätzung nur ungefähr eine Milliarde.",
+   "quote_clean": "Und die Einschätzung war damals so, dass man sagt, das Ganze ist ungefähr zweieinhalb Milliarden wert, also eineinhalb Milliarden Übernahme von Krediten und ungefähr eine Milliarde Barsumme.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Zahlen stammen aus Hocheggers Erinnerung; als solche kennzeichnen, Aha entsprechend vorsichtig.",
+   "stand_note": "",
+   "statement": "Laut Peter Hochegger bot das Österreich-Konsortium im ersten BUWOG-Durchgang nur 830 Millionen Euro, die CA Immo dagegen 927 Millionen.",
+   "question": "Wie viele Millionen Euro bot das Österreich-Konsortium laut Hochegger in der ersten BUWOG-Bieterrunde?",
+   "answer": "830 Millionen Euro",
+   "distractors": [
+    "610 Millionen Euro",
+    "1.050 Millionen Euro",
+    "1.400 Millionen Euro"
+   ],
+   "aha": "Das Konsortium lag laut Hochegger fast 100 Millionen hinter der CA Immo. Erst eine zusätzliche Runde, in der er eine Orientierungszahl von 960 Millionen weitergab, hat das gedreht.",
+   "quote_clean": "Die haben nicht so ganz daran geglaubt, dass das so viel wert ist, und haben im ersten Angebot nur 830 Millionen Euro geboten und die CA Immo 927, und da waren sie natürlich erschrocken.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "961 vs. 960 Millionen im Ausschnitt belegt (Hochegger schildert es, Andreas kommentiert); entspricht dem bekannten Verfahrensergebnis.",
+   "stand_note": "",
+   "statement": "Das siegreiche Konsortium bot bei der BUWOG-Privatisierung 961 Millionen Euro, knapp über der Orientierungszahl von 960 Millionen.",
+   "question": "Wie viele Millionen Euro bot das siegreiche Konsortium am Ende für die BUWOG?",
+   "answer": "961 Millionen Euro",
+   "distractors": [
+    "830 Millionen Euro",
+    "1.200 Millionen Euro",
+    "720 Millionen Euro"
+   ],
+   "aha": "Die CA Immo bot in der zweiten Runde nur 960 Millionen und verlor um genau eine Million. Andreas nennt das trocken: how not to do it.",
+   "quote_clean": "Falls wir tatsächlich eine Anleitung zur Korruption machen würden: Die haben dann 961 Millionen geboten, was ein bisschen auffällig ist.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "transkription"
+   ],
+   "note": "Die Kontonummer (eigentlich 400.815) und die Zuordnung der Kontonamen sind in Hocheggers Aussage ungenau bzw. verkürzt; Distraktor 0815 wäre irreführend.",
+   "stand_note": "",
+   "statement": "Die BUWOG-Provision wurde auf drei Konten namens Walter, Natalie und Karin aufgeteilt; das Konto 4815 wurde gerichtlich Karl-Heinz Grasser zugerechnet.",
+   "question": "Welche berühmte Kontonummer wurde im BUWOG-Verfahren Karl-Heinz Grasser zugerechnet?",
+   "answer": "4815",
+   "distractors": [
+    "1234",
+    "4711",
+    "0815"
+   ],
+   "aha": "",
+   "quote_clean": "Das waren die Konten Walter, Natalie und Karin, und das Konto Walter war das berühmte Konto 4815, das Karl-Heinz Grasser zugerechnet wurde.",
+   "quality": 1
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "beleg"
+   ],
+   "note": "Vorwurf gegen Dritte (Ovomaltine) kommt von Andreas aus dem Buch, im Ausschnitt nicht von Hochegger bestätigt.",
+   "stand_note": "",
+   "statement": "Hocheggers Agentur gründete einen Gesundheitsverein, der eigentlich dazu diente, zuckerhaltigen Ovomaltine-Kakao zu verkaufen.",
+   "question": "Wofür diente der Gesundheitsverein, den Hocheggers Agentur einst gegründet hat?",
+   "answer": "Werbung für zuckerhaltigen Kakao",
+   "distractors": [
+    "Spenden für Spitäler sammeln",
+    "Werbung für Zeckenimpfungen",
+    "Lobbying gegen Rauchverbote"
+   ],
+   "aha": "",
+   "quote_clean": "Ihr habt zum Beispiel einen Verein für Gesundheit gegründet, der eigentlich nur ein Propagandatool war, damit Ovomaltine recht zuckerhaltigen Kakao verkaufen konnte.",
+   "quality": 1
+  },
+  {
+   "i": 8,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Andreas' Aussage ('alle geimpft', Impfung brauche der Rest kaum) ist pauschal und gesundheitlich irreführend; kein belastbarer Fakt für ein Spiel.",
+   "stand_note": "",
+   "statement": "In Österreich ist die Zeckenimpfung weit verbreitet, in vielen anderen Ländern wird sie nur Risikogruppen empfohlen.",
+   "question": "Wem wird die Zeckenimpfung in vielen Ländern laut Andreas eigentlich nur empfohlen?",
+   "answer": "Menschen, die viel im Wald sind",
+   "distractors": [
+    "Allen Kindern unter zehn Jahren",
+    "Allen Menschen über 60",
+    "Nur Menschen mit Haustieren"
+   ],
+   "aha": "",
+   "quote_clean": "Bei Zeckenimpfungen: In Österreich sind wir alle gegen Zecken geimpft. In ganz vielen Ländern ist das nicht der Fall.",
+   "quality": 1
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Frage war zu vage ('Bewegungen'); mit den konkreten Beispielen aus dem Ausschnitt präzisiert.",
+   "stand_note": "",
+   "statement": "Hochegger und sein Bruder positionierten Produktnutzen gern in gesellschaftliche Trends wie Gesundheits- oder Umweltbewusstsein und setzten auf glaubwürdige Testimonials.",
+   "question": "An welche Trends hängten Hochegger und sein Bruder ihre Produktbotschaften laut ihm gern an?",
+   "answer": "Gesundheits- und Umweltbewusstsein",
+   "distractors": [
+    "Sportgroßereignisse",
+    "Fernsehserien",
+    "Religiöse Feiertage"
+   ],
+   "aha": "Bevor die Brüder ins Kommunikationsgeschäft einstiegen, schauten sie, wie PR international funktioniert. Ihr Rezept: Trends wie Gesundheits- und Umweltbewusstsein nutzen und glaubwürdige Gesichter davorstellen.",
+   "quote_clean": "Produktnutzen hineinpositionieren kann. Das war damals das Bewusstsein für Gesundheit, das Umweltbewusstsein. Und dann haben wir auch gemerkt, dass glaubwürdige Testimonials sehr wichtig sind für Botschaften.",
+   "quality": 2
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "'vier' im Transkript ist 'Fear'; Frage klarer, Aha auf Hocheggers Aussage beschränkt.",
+   "stand_note": "",
+   "statement": "Laut Hochegger öffnen Geld, große Namen, Sex, Verbrechen, Konflikte und Angst den Weg in die Medien.",
+   "question": "Welches dieser Elemente zählt Hochegger zu den Türöffnern für die Medien?",
+   "answer": "Angst",
+   "distractors": [
+    "Statistik",
+    "Bescheidenheit",
+    "Fachbegriffe"
+   ],
+   "aha": "Money, Big Names, Sex, Crime, Conflicts und Fear: Ein schöner Mix davon ist für Hochegger ein Türöffner für die Medien. Bei der Zeckenimpf-Kampagne hat seine Agentur laut ihm vor allem mit Angst gearbeitet.",
+   "quote_clean": "Das sind im Englischen Money, Big Names, Sex, Crime, Conflicts und Fear, also Angst. Und wenn man hier einen schönen Mix von diesen Dingen hat, dann ist es ein Türöffner für die Medien.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Wörtlich belegt, aber Schilderung (alle spielten mit) ist Hocheggers Sicht; im Aha kennzeichnen.",
+   "stand_note": "",
+   "statement": "Hochegger bezeichnet die Zeckenimpf-Kampagne, bei der die kleine Zecke zum riesigen Monster aufgeblasen wurde, rückblickend als Angstkampagne.",
+   "question": "Wer sagt über eine Werbekampagne: „Es war eine Angstkampagne und viele Leute sind darauf hineingefallen“?",
+   "answer": "Peter Hochegger",
+   "distractors": [
+    "Andreas Sator",
+    "Karl-Heinz Grasser",
+    "Walter Meischberger"
+   ],
+   "aha": "Laut Hochegger spielten Ärztekammer, Apothekerkammer und Politik mit, und die kleine Zecke wurde zum Monster aufgeblasen. Seine Agentur hat dabei, wie er sagt, mit Angst und Testimonials gearbeitet.",
+   "quote_clean": "Riesigen Monster, und gemeinsam mit den Ärzten und mit den Kammern ist das glaubwürdig transportiert worden, aber es war eine Angstkampagne und viele Leute sind darauf hineingefallen.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Wörtlich belegt; Aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Hochegger fasst seine Lehre aus dem Absturz so zusammen: Erst wenn du nichts hast, hast du alles.",
+   "question": "Wer sagt: „Erst wenn du nichts hast, hast du alles“?",
+   "answer": "Peter Hochegger",
+   "distractors": [
+    "Andreas Sator",
+    "Eckhart Tolle",
+    "Katja Corcoran"
+   ],
+   "aha": "Ein Satz von einem, der einst Maserati und Penthouse hatte. Nichts heißt für ihn: frei von materiellen Dingen und Zwängen, damit der Blick aufs Wesentliche frei wird: Freundschaften, Familie, Natur.",
+   "quote_clean": "Ich habe das im Buch beschrieben: Erst wenn du nichts hast, hast du alles. Was ist nichts? Nichts ist die Befreiung von diesen materiellen Dingen, von den Zwängen.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Zitat belegt; die Nachfrage von Andreas im Aha steht nicht im Ausschnitt und wurde gestrichen.",
+   "stand_note": "",
+   "statement": "Hochegger hält Schicksalsschläge für einen Segen, weil sie zum Nachdenken über das Wesentliche bringen.",
+   "question": "Was sind Schicksalsschläge laut Peter Hochegger immer?",
+   "answer": "Ein Segen",
+   "distractors": [
+    "Eine Strafe",
+    "Reiner Zufall",
+    "Selbst verschuldet"
+   ],
+   "aha": "Für Hochegger ist das Leben eine Lernreise. Er sagt, er sei froh über alle Erfahrungen, weil er jetzt die Mechanismen kenne, räumt aber ein, dass es auch anders gegangen wäre, ohne so viele Menschen zu schädigen.",
+   "quote_clean": "Schicksalsschläge sind immer ein Segen, und zwar deswegen, weil sie uns die Möglichkeit geben nachzudenken, zu reflektieren und dann zu erkennen, was im Leben wesentlich ist.",
+   "quality": 2
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Statement ging über den Ausschnitt hinaus (er sagt nur, er habe sich mit Papier und Stift hingesetzt und nachgedacht); Frage auf den Rat des Zellenkollegen umgestellt.",
+   "stand_note": "",
+   "statement": "Hocheggers Zellenkollege riet ihm kurz vor dem Telekom-Urteil, ein Geständnis zu machen.",
+   "question": "Wer riet Hochegger kurz vor dem Telekom-Urteil, ein Geständnis zu machen?",
+   "answer": "Sein Zellenkollege",
+   "distractors": [
+    "Sein Anwalt",
+    "Seine Tochter",
+    "Die Richterin"
+   ],
+   "aha": "Der Zellenkollege meinte, vielleicht gebe es dann eine bedingte Strafe, und legte ihm Papier und Kugelschreiber hin. Hochegger begann nachzudenken, wurde sich seiner Rolle zwischen Wirtschaft und Politik bewusst und empfand die erste Verurteilung am Ende als zu Recht.",
+   "quote_clean": "Setz dich hin und schreib ein Geständnis. Legt mir ein paar Blätter Papier hin und einen Kugelschreiber, und da bin ich gesessen.",
+   "quality": 4
+  }
+ ],
+ "id": "379",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

@@ -1,0 +1,288 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext",
+    "veraltet"
+   ],
+   "note": "„Seit 1992“ ist ungenau: Vorzugsstimmen gab es schon länger (ab 1971), 1992 wurde das System reformiert; Distraktor 1971 wäre sogar näher an der Wahrheit.",
+   "stand_note": "",
+   "statement": "Bei Nationalratswahlen in Österreich kann man seit 1992 Vorzugsstimmen vergeben.",
+   "question": "Seit welchem Jahr kann man in Österreich bei Nationalratswahlen Vorzugsstimmen vergeben?",
+   "answer": "1992",
+   "distractors": [
+    "1955",
+    "1971",
+    "2007"
+   ],
+   "aha": "Seit 1992 kannst du auf Bundes-, Landes- und Regionalliste einzelnen Kandidat:innen eine Vorzugsstimme geben. Damit kannst du die Reihung der Partei ein bisschen durcheinanderbringen, zumindest theoretisch.",
+   "quote_clean": "In Österreich kann man auch Vorzugsstimmen geben. Das ist seit 1992 möglich, auf den verschiedenen Listen.",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Beleg ok (2142-2147 s, von Andreas recherchiert, „vereinfacht“); Stand 2019 vermerkt, aha ohne Spekulation.",
+   "stand_note": "Stand 2019",
+   "statement": "Um auf der Bundesliste per Vorzugsstimmen vorgereiht zu werden, braucht man vereinfacht sieben Prozent der Stimmen der eigenen Partei.",
+   "question": "Wie viel Prozent der Stimmen ihrer Partei braucht eine Kandidatin vereinfacht, um auf der Bundesliste per Vorzugsstimmen vorgereiht zu werden?",
+   "answer": "7 Prozent",
+   "distractors": [
+    "2 Prozent",
+    "15 Prozent",
+    "25 Prozent"
+   ],
+   "aha": "Sieben Prozent klingt wenig, ist es aber nicht: Bei den großen Parteien mit über einer Million Stimmen sind das schnell an die 100.000 Vorzugsstimmen.",
+   "quote_clean": "Vereinfacht kann man sagen: Ganz oben im Bund braucht man sieben Prozent aller Stimmen, die die Partei insgesamt bekommen hat.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Beleg ok (2166-2172 s, „grob gesagt“); Spekulation im aha entfernt, Stand 2019.",
+   "stand_note": "Stand 2019",
+   "statement": "Für eine Vorreihung auf der Regionalliste braucht man grob 14 Prozent der Parteistimmen im Wahlkreis.",
+   "question": "Wie viel Prozent der Parteistimmen im Wahlkreis braucht man grob, um auf der Regionalliste per Vorzugsstimmen vorgereiht zu werden?",
+   "answer": "14 Prozent",
+   "distractors": [
+    "5 Prozent",
+    "25 Prozent",
+    "33 Prozent"
+   ],
+   "aha": "Je kleiner die Ebene, desto höher die Hürde: Bund 7, Land 10, Region 14 Prozent. Und das ist nur die grobe Faustregel, es gibt noch weitere Regelungen.",
+   "quote_clean": "Auf der Landesliste braucht man 10 Prozent und auf der Regionalliste 14 Prozent des Wahlkreises.",
+   "quality": 2
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Beleg ok (503-523 s); aha an das Transkript angepasst (70er: Grüne und Sozialdemokratie), keine Pauschalaussage über heute.",
+   "stand_note": "",
+   "statement": "In den 1960er Jahren wählten Frauen in Österreich eher konservativ, also die ÖVP; in den 70ern verschob sich das Richtung Grüne und Sozialdemokratie.",
+   "question": "Welche Partei wählten Frauen in Österreich in den 1960er Jahren tendenziell eher?",
+   "answer": "Die ÖVP",
+   "distractors": [
+    "Die SPÖ",
+    "Die FPÖ",
+    "Die KPÖ"
+   ],
+   "aha": "In den 60ern wählten Frauen noch eher konservativ. In den 70ern änderte sich das, und sie gingen eher Richtung grüne und sozialdemokratische Parteien.",
+   "quote_clean": "In den 60er Jahren war es zum Beispiel noch so, dass Frauen eher konservative Parteien, in diesem Fall die ÖVP, gewählt haben.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok (586-614 s), Erklärung stimmt, Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Die Begriffe links und rechts in der Politik stammen von der Sitzordnung im französischen Parlament nach der Französischen Revolution.",
+   "question": "Woher kommen die politischen Begriffe links und rechts?",
+   "answer": "Sitzordnung im französischen Parlament",
+   "distractors": [
+    "Sitzordnung im britischen Unterhaus",
+    "Lager im Amerikanischen Bürgerkrieg",
+    "Flügel im römischen Senat"
+   ],
+   "aha": "Nach der Französischen Revolution saßen die Progressiven links und die Konservativen rechts im Saal. Die Sitzordnung ist längst Geschichte, die Wörter sind geblieben.",
+   "quote_clean": "Er kommt daher, wie sich die politischen Repräsentanten im französischen Parlament nach der Französischen Revolution hingesetzt haben.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok (1113-1127 s), eindeutig, Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Österreich hat ein parteienzentriertes Wahlsystem: Bei der Nationalratswahl wählt man in erster Linie eine Partei, keine Person.",
+   "question": "Was wählt man bei der Nationalratswahl in Österreich in erster Linie?",
+   "answer": "Eine Partei",
+   "distractors": [
+    "Den Bundeskanzler",
+    "Einen Wahlkreisabgeordneten",
+    "Eine Regierungskoalition"
+   ],
+   "aha": "Auch wenn im Wahlkampf alle nur über die Spitzenkandidat:innen reden: Dein Kreuzerl gilt der Partei. Vorzugsstimmen kommen erst im zweiten Schritt, darum lohnt sich der Blick aufs ganze Team.",
+   "quote_clean": "Weil wir ein parteienzentriertes Wahlsystem haben. Das heißt, wir wählen bei der Wahl eine Partei und nicht eine Person.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Beleg ok (1986-2222 s, von Andreas recherchiert); Frage präzisiert, im aha war „Hörerin“ nicht belegt.",
+   "stand_note": "Stand 2019",
+   "statement": "Kritzeleien machen einen österreichischen Stimmzettel nicht ungültig, solange klar erkennbar ist, welche Partei gewählt wird.",
+   "question": "Wird dein Stimmzettel ungültig, wenn du irgendwo eine Zeichnung hinkritzelst, aber klar erkennbar ist, welche Partei du wählen willst?",
+   "answer": "Nein, die Wahl bleibt erkennbar",
+   "distractors": [
+    "Ja, jede Zeichnung macht ihn ungültig",
+    "Nur wenn sie im Kreis ist",
+    "Nur bei Briefwahl"
+   ],
+   "aha": "Eine Hörerfrage ging der Frage nach, wo man auf den Wahlzettel einen Penis zeichnen darf. Die Politikwissenschafterin war nicht aus Österreich und musste passen, Andreas hat nachrecherchiert: überall, solange klar ist, wen du wählst.",
+   "quote_clean": "Und noch zum Penis am Wahlzettel: Den könnt ihr überall hinzeichnen, solange klar hervorgeht, welche Partei ihr wählen wollt.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok (1225-1238 s), Begriff korrekt, Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Retrospektives Wählen heißt, eine Partei danach zu beurteilen, ob man mit ihren bisherigen Leistungen zufrieden ist.",
+   "question": "Wie nennt die Politikwissenschaft es, wenn du eine Partei danach wählst, was sie in der Vergangenheit erreicht hat?",
+   "answer": "Retrospektives Wählen",
+   "distractors": [
+    "Prospektives Wählen",
+    "Taktisches Wählen",
+    "Expressives Wählen"
+   ],
+   "aha": "Retrospektiv schaut zurück, prospektiv nach vorne. Viele schauen nur aufs Wahlprogramm, aber erst der Blick zurück zeigt, ob die Ankündigungen schon einmal gemacht und nie umgesetzt wurden.",
+   "quote_clean": "Genau, wir nennen das in der Politikwissenschaft retrospektives Wählen, also in die Vergangenheit zurückschauendes Wählen: Wir schauen uns an, ob wir mit dem zufrieden sind, was die Parteien in der Vergangenheit erreicht haben.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Beleg ok (688-699 s); Distraktor „soziale Ebene“ war als Alternative vertretbar, ersetzt; Parteiposition Stand 2019.",
+   "stand_note": "Stand 2019",
+   "statement": "Die Politikwissenschaft unterscheidet beim Links-Rechts-Schema eine wirtschaftspolitische und eine gesellschaftspolitische, also kulturelle Dimension.",
+   "question": "Wie nennt Sylvia Kritzinger die gesellschaftspolitische Dimension neben der wirtschaftspolitischen im Links-Rechts-Schema?",
+   "answer": "Die kulturelle Ebene",
+   "distractors": [
+    "Die moralische Ebene",
+    "Die ideelle Ebene",
+    "Die nationale Ebene"
+   ],
+   "aha": "Mit nur einer Achse kommst du nicht weit: NEOS und Grüne waren 2019 beide gesellschaftlich liberal, wirtschaftlich aber auf verschiedenen Seiten. Darum schaut man sich Wirtschaft und Kultur getrennt an.",
+   "quote_clean": "Wo steht man wirtschaftspolitisch und wo steht man auf gesellschaftspolitischer Ebene, auf der kulturellen Ebene, wie wir das in der Politikwissenschaft nennen.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok (1905-1923 s), eindeutige Antwort, Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Mit einer Vorzugsstimme können Wähler:innen die von der Partei festgelegte Reihung der Kandidat:innen beeinflussen.",
+   "question": "Wozu dient eine Vorzugsstimme bei der Nationalratswahl?",
+   "answer": "Kandidat:innen auf der Liste vorreihen",
+   "distractors": [
+    "Eine zweite Partei unterstützen",
+    "Den Bundeskanzler direkt wählen",
+    "Die eigene Stimme doppelt zählen"
+   ],
+   "aha": "Die Parteien legen in ihren Gremien geschlossene Listen fest: wer auf Platz eins, zwei, drei steht. Mit der Vorzugsstimme sagst du: Die auf Platz zehn hätte ich gern weiter vorne.",
+   "quote_clean": "Und mit dieser Vorzugsstimme kann er oder sie dann sagen: Ich möchte eigentlich die Person, die von der Partei auf Platz Nummer 10 gereiht ist, viel weiter nach vorne reihen.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt mit trivialer Antwort (Gast), kaum Spielwert.",
+   "stand_note": "",
+   "statement": "Sylvia Kritzinger betont, dass das Volk nicht homogen ist, sondern aus vielen Gruppen mit unterschiedlichen Präferenzen besteht.",
+   "question": "Wer sagt im Podcast: „Das Volk ist nicht homogen. Das Volk ist heterogen.“?",
+   "answer": "Sylvia Kritzinger",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Hörer",
+    "Ein Parteisprecher"
+   ],
+   "aha": "Wer von „den Parteien gegen das Volk“ redet, übersieht das: Jede Partei vertritt bestimmte Gruppen besonders gut. Erst zusammen bringen sie alle Stimmen ins Parlament.",
+   "quote_clean": "Das Volk ist nicht homogen. Das Volk ist heterogen. Das Volk hat sehr viele soziale Gruppen mit unterschiedlichen Vorstellungen und Präferenzen.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Persönliche Einschätzung („Ich glaube“) mit offensichtlicher Antwort „Mischung“, keine echte Wissensfrage.",
+   "stand_note": "",
+   "statement": "Auf die Frage, ob man nach Eigeninteresse oder Gemeinwohl wählen soll, antwortet Sylvia Kritzinger: eine Mischung aus beidem.",
+   "question": "Soll man nach dem eigenen Vorteil oder nach dem Wohl der Gesellschaft wählen? Was rät die Politikwissenschafterin?",
+   "answer": "Eine Mischung aus beidem",
+   "distractors": [
+    "Nur nach dem eigenen Vorteil",
+    "Nur nach dem Gemeinwohl",
+    "Nach der Mehrheitsmeinung"
+   ],
+   "aha": "Eine Studentin hat andere Sorgen bei der Uni-Politik als ein 60-Jähriger, das ist legitim. Gleichzeitig hat man auch eine Vorstellung davon, wohin sich Österreich entwickeln soll.",
+   "quote_clean": "Ich glaube, es ist eine Mischung. Das muss auch eine Mischung sein. Alles andere wäre zu altruistisch oder zu egoistisch.",
+   "quality": 2
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Fragt nach exaktem Wortlaut einer Überleitung, reine Gedächtnisfrage ohne Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Am Ende der Folge fasst Andreas mit „Was nehme ich mir mit?“ zusammen, was er gelernt hat.",
+   "question": "Mit welcher Frage leitet Andreas seine Zusammenfassung am Ende der Folge ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir gelernt?",
+    "Was bleibt hängen?",
+    "Wie geht's jetzt weiter?"
+   ],
+   "aha": "Nach dem Gespräch kommt bei Andreas die kurze Nachbetrachtung. Diesmal hängen geblieben: Links und rechts kommt aus Frankreich, reicht aber allein nicht weit.",
+   "quote_clean": "Was nehme ich mir mit? Besonders interessant finde ich das mit rechts und links.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Private Wahlentscheidung von Andreas als Quizfrage, wenig Wissenswert; der Kern (ungültig wählen) ist kein Faktum der Folge.",
+   "stand_note": "",
+   "statement": "Andreas erzählt, dass er einmal ungültig gewählt hat, weil ihm keine Partei auf dem Stimmzettel zusagte.",
+   "question": "Was hat Andreas laut eigener Aussage bei einer Wahl einmal gemacht?",
+   "answer": "Ungültig gewählt",
+   "distractors": [
+    "Gar nicht gewählt",
+    "Zwei Parteien gewählt",
+    "Per Los entschieden"
+   ],
+   "aha": "Er hat einfach alle angekreuzt, weil er bei der Wahlbeteiligung dabei sein wollte. Sylvia Kritzinger findet: Man könnte eine eigene Option „keine der genannten Parteien“ einführen, dann wüsste man, was gemeint ist.",
+   "quote_clean": "Was hältst du vom Weißwählen? Ich habe das einmal gemacht. Ich hatte einfach kein Interesse, irgendeine Partei zu wählen, die da am Zettel stand.",
+   "quality": 1
+  }
+ ],
+ "id": "78",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

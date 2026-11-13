@@ -1,0 +1,280 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahlen 29 und 17 Euro sind bei t=637 klar belegt.",
+   "stand_note": "",
+   "statement": "Bei einem T-Shirt um 29 Euro gehen laut einer Aufschlüsselung der Fair Wear Foundation rund 17 Euro an den Handel.",
+   "question": "Ein T-Shirt kostet 29 Euro. Wie viele Euro davon gehen laut Fair Wear Foundation an den Handel?",
+   "answer": "17 Euro",
+   "distractors": [
+    "6 Euro",
+    "11 Euro",
+    "23 Euro"
+   ],
+   "aha": "Mehr als die Hälfte bleibt beim Geschäft, in dem du das Shirt kaufst. Reich wird der Handel davon aber nicht: Von den 17 Euro gehen Miete für die Verkaufsfläche und das Personal weg.",
+   "quote_clean": "Die haben ein Beispiel von einem T-Shirt, das 29 Euro kostet. Davon gehen erst einmal 17 Euro allein in den Handel.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=659/663 eindeutig, 1 bis maximal 5 Prozent; Andreas' 100-Euro-Beispiel stützt den Aha.",
+   "stand_note": "",
+   "statement": "Die Gewinnmarge im Bekleidungshandel liegt meist nur bei 1 bis maximal 5 Prozent.",
+   "question": "Wie viel Prozent Gewinnmarge bleiben dem Bekleidungshandel laut Elke Schüßler höchstens?",
+   "answer": "Maximal 5 Prozent",
+   "distractors": [
+    "Maximal 15 Prozent",
+    "Maximal 25 Prozent",
+    "Maximal 40 Prozent"
+   ],
+   "aha": "Verkauft ein Händler T-Shirts um 100 Euro, bleiben ihm am Ende ein bis fünf Euro. Deshalb geht es in der Branche so sehr um Masse: Verdient wird nur, wenn man irrsinnig viel verkauft.",
+   "quote_clean": "Auch für den Handel ist die Gewinnmarge am Ende sehr gering. Die liegt bei 1 Prozent, maximal 5 Prozent.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "18 Cent bei t=722/726/730 mehrfach bestätigt, als Schätzung gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Bei einem 29-Euro-T-Shirt wird der Lohnanteil der Näherin auf etwa 18 Cent geschätzt.",
+   "question": "Wie viele Cent bekommt die Näherin von einem 29-Euro-T-Shirt ungefähr?",
+   "answer": "18 Cent",
+   "distractors": [
+    "90 Cent",
+    "2 Cent",
+    "3,50 Euro"
+   ],
+   "aha": "18 Cent von 29 Euro, das ist weniger als ein Prozent. Würde man den Lohn verfünffachen, kostete das Shirt rechnerisch nur rund einen Euro mehr.",
+   "quote_clean": "Und die tatsächliche Arbeit, also die Arbeit der Näherin, wird auf 18 Cent geschätzt.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Länderliste belegt; Aha behauptete Schiffstransport ohne Beleg, ersetzt. Frage ist leicht, daher geringe Qualität.",
+   "stand_note": "",
+   "statement": "Baumwolle wird vor allem in den USA, Indien, China, der Türkei und Usbekistan angebaut.",
+   "question": "Welches dieser Länder gehört laut Elke Schüßler zu den Ländern mit großen Baumwollplantagen?",
+   "answer": "Usbekistan",
+   "distractors": [
+    "Norwegen",
+    "Irland",
+    "Japan"
+   ],
+   "aha": "Neben den USA, Indien und China nennt Elke Schüßler auch die Türkei und Usbekistan. Dort beginnt die lange textile Kette, die später durch viele weitere Länder führt.",
+   "quote_clean": "Es geht los mit den Baumwollfeldern, den Baumwollplantagen, die üblicherweise in den USA, in Indien, China, aber auch in Ländern wie der Türkei oder Usbekistan zu finden sind.",
+   "quality": 2
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Kernaussage bei t=478/486 belegt (Beckerts These); Aha enthielt Zusatzbehauptungen, an das Transkript angeglichen.",
+   "stand_note": "",
+   "statement": "Die Industrialisierung der Textilbranche begann schon vor der industriellen Revolution und war deren Grundlage.",
+   "question": "Welche Branche war laut Elke Schüßler die Grundlage der industriellen Revolution?",
+   "answer": "Die Textilindustrie",
+   "distractors": [
+    "Die Stahlindustrie",
+    "Die Autoindustrie",
+    "Die Chemieindustrie"
+   ],
+   "aha": "Die Textilbranche war schon industrialisiert, bevor die industrielle Revolution begann. Der Historiker Sven Beckert erzählt die Geschichte des globalen Kapitalismus anhand der Baumwolle.",
+   "quote_clean": "Mit der Industrialisierung, die in dieser Branche schon deutlich vor der industriellen Revolution begonnen hat und letztlich auch die Grundlage für die industrielle Revolution war.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Sklavenhandel bei t=522 belegt; der Zusatz 19. Jahrhundert steht nicht im Ausschnitt, entfernt. Aha an Transkript angeglichen.",
+   "stand_note": "",
+   "statement": "Die USA und Großbritannien förderten den Baumwollanbau gezielt und verschafften sich die Arbeitskräfte gewaltsam durch den Sklavenhandel.",
+   "question": "Wie verschafften sich die USA laut Elke Schüßler die Arbeitskräfte für den Baumwollanbau?",
+   "answer": "Durch den Sklavenhandel",
+   "distractors": [
+    "Durch Einwanderung aus Irland",
+    "Durch Arbeitsverträge mit Indien",
+    "Durch Zwangsarbeit von Häftlingen"
+   ],
+   "aha": "Dazu kamen Subventionen und Zollregeln, die die eigenen Produkte bevorzugten. So hatten die beiden Staaten einen Wettbewerbsvorteil gegenüber den ursprünglichen lokalen Märkten.",
+   "quote_clean": "Sie haben die Baumwollproduktion in ihren Ländern, vor allem in den USA, wo die natürlichen Bedingungen gegeben sind, forciert und sich die Arbeitskräfte dafür gewaltsam verschafft, nämlich durch den Sklavenhandel.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=779 bis 793 belegt, Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Modeketten verweisen auf magische Preisgrenzen: Ein Shirt um 4,99 Euro verkauft sich millionenfach, um 10,99 Euro deutlich schlechter.",
+   "question": "Welchen Grund nennen Modeketten, warum sie T-Shirts nicht einfach teurer machen?",
+   "answer": "Magische Kaufpreisgrenzen",
+   "distractors": [
+    "Gesetzliche Preisobergrenzen",
+    "Verträge mit den Fabriken",
+    "Vorgaben der Gewerkschaften"
+   ],
+   "aha": "Weil die Margen so klein sind, wird nur über die Masse verdient. Und Masse gibt es eben eher bei 4,99 als bei 10,99 Euro, mit allen ökologischen Folgen, die so viel Gewand mit sich bringt.",
+   "quote_clean": "Ist, dass es magische Kaufpreisgrenzen gibt. Das T-Shirt für 4,99 Euro bei H&M wird millionenfach gekauft.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Wer-sagt-Frage in einer Ein-Gast-Folge ist trivial; Aha nennt Adidas, was im Ausschnitt nicht belegt ist.",
+   "stand_note": "",
+   "statement": "Die Komplexität von Lieferketten ist laut Elke Schüßler eine bewusste Entscheidung der Unternehmen, die sie auch verkürzen könnten.",
+   "question": "Wer sagt: „Aber warum ist sie so komplex? Weil das Unternehmen entschieden hat, das so zu machen.“?",
+   "answer": "Elke Schüßler",
+   "distractors": [
+    "Andreas Sator",
+    "Madeleine Alizadeh",
+    "Sven Beckert"
+   ],
+   "aha": "Die Ausrede der Modeketten lässt die Organisationsforscherin nicht gelten.",
+   "quote_clean": "Die Lieferkette ist so komplex, ich kann das gar nicht kontrollieren. Aber warum ist sie so komplex? Weil das Unternehmen entschieden hat, das so zu machen.",
+   "quality": 1
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Zitat bei t=1292 belegt; Frage präzisiert (Unternehmen sagten es über das Gebäude), Antwort eingedeutscht, damit Distraktoren gleichartig sind.",
+   "stand_note": "",
+   "statement": "Rana Plaza galt laut den Unternehmen selbst als Katastrophe mit Ansage, weil die Gebäudestruktur so schlecht war.",
+   "question": "Was sagten Unternehmen laut Elke Schüßler selbst über Rana Plaza?",
+   "answer": "Eine Katastrophe mit Ansage",
+   "distractors": [
+    "Ein völlig unvorhersehbares Unglück",
+    "Ein Akt höherer Gewalt",
+    "Ein Fehler der Behörden allein"
+   ],
+   "aha": "Im Original sagten sie: a disaster waiting to happen. Allen war klar, dass irgendwann etwas passieren würde. Erst im Zuge des Brandschutzabkommens wurden die Gebäude tatsächlich saniert.",
+   "quote_clean": "Rana Plaza war, so haben es die Unternehmen selbst gesagt, a disaster waiting to happen. Allen war klar, dass irgendwann etwas passieren würde.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Aussage bei t=1501 bis 1519 belegt; Boykott-Folgerung im Aha stand nicht so im Transkript, entfernt.",
+   "stand_note": "",
+   "statement": "Für viele Frauen in Bangladesch sind Fabrikjobs trotz schlechter Bedingungen die beste verfügbare Option, weil sie Unabhängigkeit und Einkommen bringen.",
+   "question": "Warum sind Textilfabrikjobs für viele Frauen in Bangladesch trotz schlechter Bedingungen attraktiv?",
+   "answer": "Sie bringen Unabhängigkeit und Einkommen",
+   "distractors": [
+    "Sie sind besonders gut bezahlt",
+    "Sie sind gesetzlich Pflicht",
+    "Sie bieten kurze Arbeitszeiten"
+   ],
+   "aha": "Die anderen Optionen vor Ort sind oft schlechter und weniger geregelt. Mit dem Lohn können Frauen aus patriarchalen Familienstrukturen heraus und ihren Kindern Bildung ermöglichen.",
+   "quote_clean": "Aus Sicht gerade der Frauen in Bangladesch sind diese Fabrikjobs trotzdem das Beste, was ihnen passieren konnte.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=1574 belegt; Transkriptionsfehler Begleitungsstück korrekt zu Bekleidungsstück geglättet.",
+   "stand_note": "",
+   "statement": "Am Preis eines Kleidungsstücks lässt sich nicht ablesen, ob es fair produziert wurde.",
+   "question": "Stimmt es, dass teurere Kleidung verlässlich fairer produziert ist?",
+   "answer": "Nein, der Preis sagt darüber nichts",
+   "distractors": [
+    "Ja, ab etwa 30 Euro",
+    "Ja, bei Markenkleidung immer",
+    "Nur bei Kleidung aus Europa"
+   ],
+   "aha": "Das teure Markenshirt kann in derselben Fabrik genäht werden wie das 5-Euro-Shirt. Deshalb hält Elke Schüßler es für problematisch, die ganze Verantwortung den Konsument:innen umzuhängen.",
+   "quote_clean": "Der Preis ist keine Information darüber, ob ein Bekleidungsstück fair oder nicht fair produziert wurde.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=1653 bis 1663 belegt, als Gedankenspiel der Gästin klar formuliert.",
+   "stand_note": "",
+   "statement": "Wären Ladenmieten günstiger, könnte bei gleichem Preis ein größerer Teil an die Arbeiterinnen gehen.",
+   "question": "Was könnte laut Elke Schüßler helfen, dass Näherinnen mehr bekommen, ohne dass das Shirt teurer wird?",
+   "answer": "Günstigere Ladenmieten",
+   "distractors": [
+    "Mehr Werbung",
+    "Längere Transportwege",
+    "Mehr Zwischenhändler"
+   ],
+   "aha": "Der Preis ist ein Kuchen aus vielen Stücken, und die Miete in der Innenstadt ist ein großes. Wer die regulieren könnte, ist aber sicher nicht die einzelne Konsumentin.",
+   "quote_clean": "Der Preis könnte auch zugunsten der Arbeiterinnen ausfallen, wenn beispielsweise die Ladenmieten günstiger wären. Dann könnte das T-Shirt immer noch 29 Euro kosten.",
+   "quality": 3
+  },
+  {
+   "i": 25,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Meta-Frage zur Podcast-Gewohnheit; der Ausschnitt belegt nur diese eine Folge, keine allgemeine Aussage über Folgenenden, und Distraktoren sind beliebig.",
+   "stand_note": "",
+   "statement": "Andreas fasst am Ende der Folge mit der Frage „Was nehme ich mir mit?“ seine wichtigsten Erkenntnisse zusammen.",
+   "question": "Mit welcher Frage leitet Andreas am Ende einer Folge seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir heute gelernt?",
+    "Was bleibt am Ende übrig?",
+    "Was heißt das jetzt für uns?"
+   ],
+   "aha": "",
+   "quote_clean": "Was nehme ich mir mit? Nur ein Bruchteil des Kaufpreises eines Shirts geht an Arbeiter:innen.",
+   "quality": 1
+  },
+  {
+   "i": 26,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=2428 bis 2439 wörtlich belegt, als Rat von Andreas gekennzeichnet, nicht parteipolitisch.",
+   "stand_note": "",
+   "statement": "Andreas rät, mindestens so viel Zeit wie für die Suche nach dem perfekten T-Shirt dafür zu verwenden, bei Politiker:innen anzuklopfen.",
+   "question": "Was rät Andreas allen, die nach dem perfekt hergestellten T-Shirt suchen?",
+   "answer": "Genauso viel bei Politiker:innen anklopfen",
+   "distractors": [
+    "Nur noch Secondhand kaufen",
+    "Selbst T-Shirts nähen lernen",
+    "Nur Marken aus Europa kaufen"
+   ],
+   "aha": "Sein Argument: Die wirtschaftlichen und politischen Anreize halten die Standards niedrig, das Problem lässt sich nicht allein im Einkaufskorb lösen.",
+   "quote_clean": "Wer sich verrückt macht auf der Suche nach dem perfekt hergestellten T-Shirt, was auf jeden Fall auch wichtig ist: bitte mindestens genauso viel Zeit dafür verwenden, an den Türen von Politiker:innen zu klopfen.",
+   "quality": 3
+  }
+ ],
+ "id": "191",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

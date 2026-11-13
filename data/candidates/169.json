@@ -1,0 +1,507 @@
+{
+ "theme": "Wirtschaft & Arbeit",
+ "summary": "Wie Peter Windischhofer mit Refurbed einen Marktplatz für erneuerte Handys und Laptops aufgebaut hat, vom Bier-Beschluss bis zur 40-Stufen-Erneuerung.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 187,
+   "speaker": "Peter Windischhofer",
+   "quote": "Noch dazu spart man natürlich sehr viel Geld, ungefähr 40 Prozent und das Wichtigste, die Produkte sind natürlich super nachhaltig.",
+   "quote_clean": "Noch dazu spart man sehr viel Geld, ungefähr 40 Prozent, und das Wichtigste: Die Produkte sind super nachhaltig.",
+   "statement": "Ein erneuertes (refurbished) Elektronikgerät kostet ungefähr 40 Prozent weniger als ein Neugerät.",
+   "question": "Wie viel Prozent spart man ungefähr, wenn man ein refurbished Handy statt eines neuen kauft?",
+   "answer": "Rund 40 Prozent",
+   "distractors": [
+    "Rund 10 Prozent",
+    "Rund 20 Prozent",
+    "Rund 70 Prozent"
+   ],
+   "number_value": 40,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 90,
+   "log_scale": false,
+   "aha": "Ein erneuertes Gerät schaut aus wie neu und hat Garantie, kostet aber deutlich weniger. Laut Peter sind es ungefähr 40 Prozent, die im Börserl bleiben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Refurbished",
+    "Elektronik",
+    "Preis"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 196,
+   "speaker": "Peter Windischhofer",
+   "quote": "Das heißt, man spart circa 70 Prozent CO2 im Vergleich zu einem Neuprodukt.",
+   "quote_clean": "Man spart circa 70 Prozent CO2 im Vergleich zu einem Neuprodukt.",
+   "statement": "Ein refurbished Gerät verursacht laut Refurbed rund 70 Prozent weniger CO2 als ein Neuprodukt.",
+   "question": "Wie viel Prozent CO2 spart man ungefähr mit einem refurbished Gerät im Vergleich zu einem neuen?",
+   "answer": "Circa 70 Prozent",
+   "distractors": [
+    "Circa 15 Prozent",
+    "Circa 35 Prozent",
+    "Circa 95 Prozent"
+   ],
+   "number_value": 70,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Der Großteil der Emissionen eines Handys entsteht bei der Herstellung, nicht beim Benutzen. Wer ein bestehendes Gerät erneuert statt ein neues zu bauen, spart sich also den dicksten Brocken, laut Peter rund 70 Prozent.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "CO2",
+    "Nachhaltigkeit",
+    "Elektronik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1086,
+   "speaker": "Peter Windischhofer",
+   "quote": "Das heißt, ein sehr großer Kanal sind eben alte Firmenhandys.",
+   "quote_clean": "Ein sehr großer Kanal sind alte Firmenhandys.",
+   "statement": "Viele refurbished Handys stammen aus Unternehmen, die ihre Firmenhandys regelmäßig austauschen.",
+   "question": "Woher kommt ein großer Teil der Handys, die als refurbished verkauft werden?",
+   "answer": "Aus ausgemusterten Firmenhandys",
+   "distractors": [
+    "Aus Fundbüros und Versteigerungen",
+    "Aus unverkaufter Neuware der Hersteller",
+    "Aus Garantie-Rückläufern von Fabriken"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Große Unternehmen haben fixe Verträge und tauschen Handys nach einer bestimmten Zeit aus, auch wenn sie noch tadellos funktionieren. Händler kaufen diese Geräte auf, erneuern sie und verkaufen sie weiter.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Refurbished",
+    "Lieferkette"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1066,
+   "speaker": "Peter Windischhofer",
+   "quote": "Das heißt, ein Handy wird in einem Unternehmen zwei Jahre verwendet und damit ausgetauscht.",
+   "quote_clean": "Ein Handy wird in einem Unternehmen zwei Jahre verwendet und dann ausgetauscht.",
+   "statement": "In großen Unternehmen werden Firmenhandys meist nach etwa zwei Jahren ausgetauscht.",
+   "question": "Nach wie vielen Jahren tauschen große Unternehmen ihre Firmenhandys typischerweise aus?",
+   "answer": "Nach etwa zwei Jahren",
+   "distractors": [
+    "Nach etwa einem Jahr",
+    "Nach etwa vier Jahren",
+    "Nach etwa sechs Jahren"
+   ],
+   "number_value": 2,
+   "number_unit": "Jahre",
+   "slider_min": 0,
+   "slider_max": 7,
+   "log_scale": false,
+   "aha": "Firmen haben meistens fixe Verträge, oft über zwei Jahre, und dann kommt das nächste Gerät. Die alten Handys sind in den meisten Fällen gar nicht kaputt, sondern einfach gebraucht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Firmenhandy",
+    "Lieferkette"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1070,
+   "speaker": "Peter Windischhofer",
+   "quote": "In den meisten Fällen sind diese Handys nicht kaputt.",
+   "quote_clean": "In den meisten Fällen sind diese Handys nicht kaputt.",
+   "statement": "Ausgemusterte Firmenhandys sind in den meisten Fällen nicht kaputt, sondern einfach gebraucht.",
+   "question": "In welchem Zustand sind die meisten ausgemusterten Firmenhandys?",
+   "answer": "Sie funktionieren meist noch einwandfrei",
+   "distractors": [
+    "Sie haben meist einen Displaybruch",
+    "Sie haben meist einen Wasserschaden",
+    "Sie sind meist nur noch Ersatzteile"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ausgetauscht wird, weil der Vertrag ausläuft, nicht weil das Gerät hin ist. Deshalb eignen sich diese Handys so gut fürs Refurbishing.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Firmenhandy",
+    "Refurbished"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1141,
+   "speaker": "Peter Windischhofer",
+   "quote": "Genau, da gibt es einen definierten 40-Stufen-Prozess. Das heißt, das Gerät kommt als erster beim Händler an, dann wird das mechanisch geprüft, was funktioniert.",
+   "quote_clean": "Da gibt es einen definierten 40-Stufen-Prozess. Das Gerät kommt zuerst beim Händler an, dann wird mechanisch geprüft, was funktioniert.",
+   "statement": "Das Erneuern eines gebrauchten Handys folgt bei Refurbed einem definierten Prozess mit 40 Stufen.",
+   "question": "Aus wie vielen Stufen besteht der definierte Prozess, mit dem ein gebrauchtes Handy erneuert wird?",
+   "answer": "40 Stufen",
+   "distractors": [
+    "8 Stufen",
+    "15 Stufen",
+    "120 Stufen"
+   ],
+   "number_value": 40,
+   "number_unit": "Stufen",
+   "slider_min": 1,
+   "slider_max": 150,
+   "log_scale": false,
+   "aha": "Mechanischer Check, Software-Test aller Komponenten, Tausch kaputter Teile, Daten löschen, neues Betriebssystem, polieren, desinfizieren, nochmal prüfen. Da kommen schnell 40 Schritte zusammen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Refurbished",
+    "Qualität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1178,
+   "speaker": "Peter Windischhofer",
+   "quote": "Im Durchschnitt wird aber eigentlich nur ein bis zwei Komponenten ausgetauscht, weil der Rest von einem Handy oder von einem Laptop eigentlich eh viel länger funktioniert.",
+   "quote_clean": "Im Durchschnitt werden nur ein bis zwei Komponenten ausgetauscht, weil der Rest von einem Handy oder Laptop viel länger funktioniert.",
+   "statement": "Beim Refurbishing werden im Durchschnitt nur ein bis zwei Komponenten eines Geräts ausgetauscht.",
+   "question": "Wie viele Komponenten werden beim Erneuern eines Handys im Durchschnitt ausgetauscht?",
+   "answer": "Ein bis zwei",
+   "distractors": [
+    "Fünf bis sechs",
+    "Zehn bis zwölf",
+    "Über zwanzig"
+   ],
+   "number_value": 1.5,
+   "number_unit": "Komponenten",
+   "slider_min": 0,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Der Großteil eines Handys oder Laptops hält eh viel länger, als wir die Geräte üblicherweise nutzen. Meist reicht es, ein, zwei Teile zu tauschen, und das Ding läuft wieder für Jahre.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Reparatur",
+    "Elektronik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1173,
+   "speaker": "Peter Windischhofer",
+   "quote": "Das sind in den meisten Fällen zum Beispiel die Batterie oder das WLAN-Modul.",
+   "quote_clean": "Das sind in den meisten Fällen zum Beispiel die Batterie oder das WLAN-Modul.",
+   "statement": "Beim Erneuern von Handys werden am häufigsten die Batterie oder das WLAN-Modul ausgetauscht.",
+   "question": "Welches Bauteil wird beim Erneuern eines gebrauchten Handys besonders häufig getauscht?",
+   "answer": "Die Batterie",
+   "distractors": [
+    "Der Prozessor",
+    "Der Speicherchip",
+    "Die Hauptplatine"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Akkus altern mit jedem Ladezyklus, das merkt man nach ein paar Jahren deutlich. Neben der Batterie nennt Peter das WLAN-Modul als typischen Tauschkandidaten.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Reparatur",
+    "Akku"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1190,
+   "speaker": "Peter Windischhofer",
+   "quote": "Dann geht es weiter dazu, dass die ganzen Daten natürlich gelöscht werden.",
+   "quote_clean": "Dann werden alle Daten gelöscht.",
+   "statement": "Beim Refurbishing werden alle Daten gelöscht, das neueste Betriebssystem aufgespielt und das Gerät gereinigt und desinfiziert.",
+   "question": "Was passiert beim Refurbishing mit den Daten des Vorbesitzers?",
+   "answer": "Sie werden vollständig gelöscht",
+   "distractors": [
+    "Sie werden verschlüsselt archiviert",
+    "Sie bleiben bis zum Verkauf drauf",
+    "Sie werden dem Händler übergeben"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nach dem Technik-Check werden alle Daten gelöscht, das neueste Betriebssystem kommt drauf, und das Gerät wird poliert und desinfiziert. Vom Vorbesitzer bleibt also nichts übrig, nicht einmal Fingerabdrücke am Glas.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Datenschutz",
+    "Refurbished"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1449,
+   "speaker": "Peter Windischhofer",
+   "quote": "Rechtlich ist es so, dass wir zum Beispiel als Firma das Geld für unsere Händler nicht annehmen dürfen,",
+   "quote_clean": "Rechtlich ist es so, dass wir als Firma das Geld für unsere Händler nicht annehmen dürfen.",
+   "statement": "Ein Online-Marktplatz darf das Geld der Kund:innen für seine Händler rechtlich nicht einfach selbst annehmen, weil er nicht der Verkäufer ist.",
+   "question": "Warum ist die Zahlungsabwicklung für Online-Marktplätze so kompliziert?",
+   "answer": "Sie dürfen Händlergeld nicht selbst annehmen",
+   "distractors": [
+    "Sie brauchen eine eigene Banklizenz pro Land",
+    "Sie müssen jede Zahlung händisch prüfen",
+    "Sie dürfen keine Kreditkarten akzeptieren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Marktplatz ist nur Vermittler, nicht Verkäufer. Deshalb darf er das Geld für die Händler nicht einfach einsacken, und man würde meinen, nach 20 Jahren Internet sei das gelöst. Ist es nicht ganz.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Zahlung",
+    "Marktplatz",
+    "Recht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1518,
+   "speaker": "Peter Windischhofer",
+   "quote": "Und Stripe teilt dann das Geld auf und behält das Geld auch ein für den Händler.",
+   "quote_clean": "Stripe teilt dann das Geld auf und behält es für den Händler ein.",
+   "statement": "Bei Marktplätzen landet das Geld oft bei einem Zahlungsdienstleister wie Stripe, der es aufteilt und erst nach erfolgreicher Lieferung an den Händler auszahlt.",
+   "question": "Was macht ein Zahlungsdienstleister wie Stripe bei einem Online-Marktplatz mit dem Geld der Kund:innen?",
+   "answer": "Aufteilen und bis zur Lieferung zurückhalten",
+   "distractors": [
+    "Sofort komplett an den Marktplatz überweisen",
+    "Direkt am selben Tag an den Händler zahlen",
+    "Auf einem Treuhandkonto der Bank parken"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Stripe sitzt als Partner in der Mitte, teilt das Geld zwischen Marktplatz und Händler auf und hält den Händleranteil zurück. Erst wenn klar ist, dass die Lieferung passt, geht das Geld weiter.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zahlung",
+    "Marktplatz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 613,
+   "speaker": "Peter Windischhofer",
+   "quote": "Was eigentlich in den Grundzügen das sagt, was wir gemacht haben, nämlich sehr schnell probieren, verschiedene Modelle ausprobieren, verschiedene Kanäle ausprobieren im Sinne von Marketing und dann mit den Leuten reden.",
+   "quote_clean": "Die Theorie sagt in den Grundzügen, was wir gemacht haben: sehr schnell probieren, verschiedene Modelle und Marketingkanäle ausprobieren und dann mit den Leuten reden.",
+   "statement": "Die Lean-Startup-Methode besagt, schnell verschiedene Modelle und Marketingkanäle auszuprobieren und mit den Kund:innen zu reden.",
+   "question": "Wie heißt die Startup-Methode, bei der man schnell Prototypen testet und viel mit Kund:innen redet?",
+   "answer": "Lean Startup",
+   "distractors": [
+    "Design Thinking",
+    "Blue Ocean",
+    "Growth Hacking"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Statt monatelang am perfekten Produkt zu feilen, baut man schnell etwas Einfaches, testet es mit echten Leuten und lernt daraus. Refurbed hatte so innerhalb weniger Wochen einen Prototypen mit Google-Werbung online.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Startup",
+    "Methode"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 540,
+   "speaker": "Peter Windischhofer",
+   "quote": "Wir haben von den ersten 200 Kunden jeden persönlich angerufen und mit denen gesprochen und gesagt, hey, warum hast du gekauft?",
+   "quote_clean": "Wir haben von den ersten 200 Kunden jeden persönlich angerufen und gefragt: Warum hast du gekauft?",
+   "statement": "Die Refurbed-Gründer haben jeden ihrer ersten 200 Kund:innen persönlich angerufen.",
+   "question": "Wie viele der ersten Kund:innen haben die Refurbed-Gründer persönlich angerufen?",
+   "answer": "Die ersten 200",
+   "distractors": [
+    "Die ersten 20",
+    "Die ersten 50",
+    "Die ersten 1.000"
+   ],
+   "number_value": 200,
+   "number_unit": "Kund:innen",
+   "slider_min": 10,
+   "slider_max": 2000,
+   "log_scale": true,
+   "aha": "Sie wollten wissen, warum die Leute gekauft haben und was ihnen nicht gefallen hat. Mit den Antworten haben sie Website und Marketing umgebaut, Andreas fand das ganz genial und sehr sympathisch.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Startup",
+    "Kundenkontakt"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 474,
+   "speaker": "Peter Windischhofer",
+   "quote": "Und wir haben tatsächlich nach der ersten Diskussion, und das war halt, ehrlicherweise, wir sind essen gewesen und nach drei Bier haben wir gesagt, okay, jetzt gründen wir die Firma.",
+   "quote_clean": "Wir haben nach der ersten Diskussion, ehrlicherweise, wir waren essen, nach drei Bier gesagt: Okay, jetzt gründen wir die Firma.",
+   "statement": "Die Entscheidung, Refurbed zu gründen, fiel bei einem Abendessen nach drei Bier.",
+   "question": "Wie kam die Entscheidung zustande, Refurbed zu gründen?",
+   "answer": "Beim Essen nach drei Bier",
+   "distractors": [
+    "Nach einem Jahr Marktanalyse",
+    "Bei einem Startup-Wettbewerb",
+    "Auf einer Geschäftsreise nach Amazon"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ehrlicherweise war es ein Abendessen, und nach drei Bier stand der Entschluss. Eine Woche später war die erste Domain gekauft, damals noch furbed ohne re.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Gründung",
+    "Anekdote"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 886,
+   "speaker": "Peter Windischhofer",
+   "quote": "Und wir wählen dann den besten Händler aus und der beste Händler für uns ist immer eine Kombination aus Qualität und aus Preis.",
+   "quote_clean": "Wir wählen dann den besten Händler aus, und der beste Händler ist für uns immer eine Kombination aus Qualität und Preis.",
+   "statement": "Refurbed zeigt pro Produkt nur ein Angebot und wählt per Algorithmus den besten Händler nach Qualität und Preis aus.",
+   "question": "Wie wählt Refurbed aus, welcher Händler ein Produkt verkaufen darf?",
+   "answer": "Nach Qualität und Preis kombiniert",
+   "distractors": [
+    "Nur nach dem niedrigsten Preis",
+    "Nach dem Zufallsprinzip",
+    "Nach der höchsten Provision"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Anders als bei Ebay oder Willhaben siehst du nicht tausend Angebote, sondern eine Seite pro Produkt. Im Hintergrund bricht ein Algorithmus alle Händlerangebote auf eines herunter, und Qualität zählt dabei mehr als nur der Preis.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Marktplatz",
+    "Algorithmus"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1745,
+   "speaker": "Peter Windischhofer",
+   "quote": "Ich glaube, das Wichtigste für einen Online-Shop ist wirklich Fokus auf eine ganz spezifische Zielgruppe.",
+   "quote_clean": "Das Wichtigste für einen Online-Shop ist Fokus auf eine ganz spezifische Zielgruppe.",
+   "statement": "Peter Windischhofer rät, sich mit einem Online-Shop auf eine ganz spezifische Zielgruppe zu konzentrieren.",
+   "question": "Was ist laut dem Refurbed-Gründer das Wichtigste für einen kleinen Online-Shop?",
+   "answer": "Fokus auf eine spezifische Zielgruppe",
+   "distractors": [
+    "Möglichst viele Produkte anbieten",
+    "Immer der billigste Anbieter sein",
+    "Viel Geld in Werbung stecken"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Laut Peter gibt es fast keine Zielgruppe, die zu klein ist. Wer alles macht, was für genau diese Leute relevant ist, hat Kund:innen, die immer wieder zurückkommen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Online-Shop",
+    "Tipp"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1693,
+   "speaker": "Peter Windischhofer",
+   "quote": "sondern es wird immer heißen, okay, scheiße, das ist jetzt passiert, aber wie können wir es besser machen, was können wir davon lernen?",
+   "quote_clean": "Es heißt immer: Okay, scheiße, das ist jetzt passiert, aber wie können wir es besser machen, was können wir davon lernen?",
+   "statement": "Bei Refurbed wird für Fehler niemand bestraft, stattdessen fragt man, was man daraus lernen kann.",
+   "question": "Wie geht man laut Peter Windischhofer bei Refurbed mit Fehlern um?",
+   "answer": "Nicht bestrafen, sondern daraus lernen",
+   "distractors": [
+    "Fehler werden öffentlich besprochen und geahndet",
+    "Wer Fehler macht, muss sie selbst zahlen",
+    "Fehler werden gar nicht thematisiert"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Peter gibt zu, dass das alle Firmen behaupten. Bei Refurbed sei es aber wirklich gelebt, weil Fehler eh immer passieren und nur zählt, was man danach besser macht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Firmenkultur",
+    "Fehler"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "169",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

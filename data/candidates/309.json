@@ -1,0 +1,850 @@
+{
+ "theme": "Gesellschaft & Kultur",
+ "summary": "Love-Scams auf Tinder, Fake-Shops mit E-Bikes, falsche Paket-SMS: Louise Beltzung erklärt, wie Online-Betrug funktioniert und warum niemand davor gefeit ist.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1419,
+   "speaker": "Louise Beltzung",
+   "quote": "es gibt wir warnen vor 18 000 Fake Shops derzeit in Österreich EUR Deutschland die für Österreich relevant sein könnten",
+   "quote_clean": "Wir warnen derzeit vor 18.000 Fake-Shops in Österreich und Deutschland, die für Österreich relevant sein könnten.",
+   "statement": "Die Watchlist Internet warnt vor rund 18.000 Fake-Shops, die für Österreich relevant sein könnten.",
+   "question": "Vor wie vielen Fake-Shops warnt die Watchlist Internet derzeit für Österreich?",
+   "answer": "rund 18.000",
+   "distractors": [
+    "rund 1.800",
+    "rund 4.500",
+    "rund 60.000"
+   ],
+   "number_value": 18000,
+   "number_unit": "Fake-Shops",
+   "slider_min": 500,
+   "slider_max": 100000,
+   "log_scale": true,
+   "aha": "So viele gefälschte Online-Shops stehen auf der Warnliste, von E-Bikes bis Sofas. Weil viele davon nur ein paar Tage online sind, wächst die Liste ständig nach, schneller als man googeln kann.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Fake-Shops",
+    "Online-Shopping"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2006,
+   "speaker": "Louise Beltzung",
+   "quote": "da wird ja massiv rausgegangen mit unterschiedlichsten Fake Shops sind dann zwei Tage online drei Tage online manche halten sich auch länger",
+   "quote_clean": "Da wird massiv rausgegangen mit unterschiedlichsten Fake-Shops, die sind dann zwei Tage online, drei Tage online, manche halten sich auch länger.",
+   "statement": "Viele Fake-Shops sind nur zwei bis drei Tage online, bevor sie wieder verschwinden.",
+   "question": "Wie viele Tage sind viele Fake-Shops typischerweise online?",
+   "answer": "zwei bis drei Tage",
+   "distractors": [
+    "zwei bis drei Wochen",
+    "etwa drei Monate",
+    "rund ein Jahr"
+   ],
+   "number_value": 3,
+   "number_unit": "Tage",
+   "slider_min": 1,
+   "slider_max": 365,
+   "log_scale": true,
+   "aha": "Ein Fake-Shop ist keine liebevolle Einzelarbeit, sondern Massenware: Die Betrüger werfen viele gleichzeitig ins Netz und lassen sie schnell wieder verschwinden. Bis sich die Beschwerden häufen, ist die Seite eh schon weg.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fake-Shops"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2018,
+   "speaker": "Louise Beltzung",
+   "quote": "weil sie die Texte voneinander kopieren weil sie teilweise einfach falsche impressumsdaten verwenden und ich glaube dass gerade in dem Bereich so automatisierte m automatisierte Überprüfungen gut funktionieren",
+   "quote_clean": "Weil sie die Texte voneinander kopieren, weil sie teilweise einfach falsche Impressumsdaten verwenden. Und ich glaube, dass gerade in dem Bereich automatisierte Überprüfungen gut funktionieren.",
+   "statement": "Fake-Shops ähneln einander, weil sie dieselben Shopsysteme, kopierte Texte und falsche Impressumsdaten verwenden, deshalb kann man sie gut automatisch erkennen.",
+   "question": "Warum lassen sich Fake-Shops gut mit maschinellem Lernen erkennen?",
+   "answer": "Sie ähneln sich stark untereinander",
+   "distractors": [
+    "Sie sind alle in China registriert",
+    "Sie haben nie ein Logo",
+    "Sie verlangen immer Kryptowährung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gleiche Shopsysteme, abgeschriebene Texte, dieselben falschen Impressen: Für die Betrüger ist das effizient, für Algorithmen ein gefundenes Fressen. Die Kolleginnen bei der Watchlist sehen oft schon auf den ersten Blick: dasselbe in Grün.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fake-Shops",
+    "KI"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2048,
+   "speaker": "Louise Beltzung",
+   "quote": "detector entwickelt das ist ein Browser Plugin dass man sich installieren kann das kostenlos ist und dass dann die Seiten alle onlinehops sozusagen entweder überprüft oder falls Sie schon auf warnlisten sind oder schon überprüft wurden ein Resultat ausspielt so Ampel ampelformat",
+   "quote_clean": "Wir haben den Fake-Shop-Detector entwickelt, das ist ein Browser-Plugin, das man sich kostenlos installieren kann und das Onlineshops entweder überprüft oder, falls sie schon auf Warnlisten sind, ein Resultat im Ampelformat ausspielt.",
+   "statement": "Der Fake-Shop Detector der Watchlist Internet ist ein kostenloses Browser-Plugin, das Onlineshops mit einer Ampel bewertet.",
+   "question": "Wie zeigt der kostenlose Fake-Shop Detector an, ob ein Shop vertrauenswürdig ist?",
+   "answer": "Mit einer Ampel: grün, gelb, rot",
+   "distractors": [
+    "Mit Schulnoten von eins bis fünf",
+    "Mit einem Sterne-Rating",
+    "Mit einem Prozentwert in Euro"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Grün heißt bekannt und gut, gelb heißt unbekannt, schau dir Impressum und Co. genauer an, rot heißt mit hoher Wahrscheinlichkeit Fake. Dahinter stecken Warnlisten und eine KI, die die Ähnlichkeiten zwischen Fake-Shops erkennt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fake-Shops",
+    "Prävention"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1471,
+   "speaker": "Louise Beltzung",
+   "quote": "Beispiel geschickt mit den Fahrrädern weil im Frühling das so ganz ganz klassische Fake Shops sind die kommen und bei denen viel viel Geld verloren wird",
+   "quote_clean": "Ich habe das Beispiel mit den Fahrrädern geschickt, weil das im Frühling ganz klassische Fake-Shops sind, die kommen und bei denen viel Geld verloren wird.",
+   "statement": "Im Frühling sind Fake-Shops mit Fahrrädern und E-Bikes besonders typisch, und dabei geht viel Geld verloren.",
+   "question": "Welche Fake-Shops tauchen im Frühling besonders häufig auf?",
+   "answer": "Shops mit Fahrrädern und E-Bikes",
+   "distractors": [
+    "Shops mit Winterreifen",
+    "Shops mit Christbaumschmuck",
+    "Shops mit Skiausrüstung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn es warm wird, denken viele: Mein altes Radl tut's nicht mehr, ein E-Bike wär fein. Beim echten Händler ist die Lieferzeit zu lang oder der Preis zu hoch, und dann taucht das Angebot auf, das ein bisschen zu gut wirkt, um wahr zu sein.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fake-Shops",
+    "E-Bikes"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1854,
+   "speaker": "Louise Beltzung",
+   "quote": "hatten wir um die 1000 Bestellungen mit so ein paar 100 € Investition und 560.000 Impressionen",
+   "quote_clean": "Wir hatten um die 1000 Bestellungen mit ein paar hundert Euro Investition und 560.000 Impressionen.",
+   "statement": "Ein von der Watchlist Internet zu Forschungszwecken angelegter Fake-Shop bekam in einem Monat rund 1000 Bestellversuche bei nur ein paar hundert Euro Werbebudget.",
+   "question": "Wie viele Bestellversuche bekam der Test-Fake-Shop der Watchlist Internet in einem Monat?",
+   "answer": "rund 1000",
+   "distractors": [
+    "rund 50",
+    "rund 200",
+    "rund 25.000"
+   ],
+   "number_value": 1000,
+   "number_unit": "Bestellungen",
+   "slider_min": 10,
+   "slider_max": 30000,
+   "log_scale": true,
+   "aha": "Der Shop für Blackout-Kits hatte ein fehlerhaftes Impressum und viel zu niedrige Preise, trotzdem wollten tausend Leute bestellen. Statt der Kasse kam ein Pop-up: Glück gehabt, und hier sind alle Warnsignale, die du übersehen hast.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Fake-Shops",
+    "Experiment"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1856,
+   "speaker": "Louise Beltzung",
+   "quote": "mit so ein paar 100 € Investition und 560.000 Impressionen hat ich da also es war es war sehr ja",
+   "quote_clean": "Mit ein paar hundert Euro Investition und 560.000 Impressionen.",
+   "statement": "Der Test-Fake-Shop der Watchlist Internet erzielte mit ein paar hundert Euro Werbung rund 560.000 Impressionen.",
+   "question": "Wie viele Impressionen erzielte der Test-Fake-Shop mit ein paar hundert Euro Werbung über Google Shopping?",
+   "answer": "rund 560.000",
+   "distractors": [
+    "rund 5.600",
+    "rund 56.000",
+    "rund 5,6 Millionen"
+   ],
+   "number_value": 560000,
+   "number_unit": "Impressionen",
+   "slider_min": 5000,
+   "slider_max": 10000000,
+   "log_scale": true,
+   "aha": "Mit minimalem Budget erreicht ein Fake-Shop über Google Shopping ein Riesenpublikum. Genau deshalb lohnt sich das Geschäft für Betrüger so: Wenige Euro Werbung, und schon klickt halb Österreich.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Fake-Shops",
+    "Werbung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1641,
+   "speaker": "Louise Beltzung",
+   "quote": "wenn man ähm das am Handy sozusagen ähm macht dann hat man noch viel weniger Einblick eigentlich in Sachen oder in die in die Seite man sieht weniger",
+   "quote_clean": "Wenn man das am Handy macht, dann hat man noch viel weniger Einblick in die Seite, man sieht weniger.",
+   "statement": "Wer am Handy einkauft, sieht weniger von einer Seite und übersieht Warnsignale eher als am Computer.",
+   "question": "Warum fällt man beim Einkaufen am Handy leichter auf Fake-Shops herein?",
+   "answer": "Man sieht weniger von der Seite",
+   "distractors": [
+    "Handys haben keinen Virenschutz",
+    "Apps zeigen keine Preise an",
+    "Mobile Zahlungen sind unversichert"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am kleinen Bildschirm scrollt man nicht bis zum Impressum und liest keine Rückgabebedingungen. Louises Rat: sich mehr Zeit lassen, jemanden fragen und den Shopnamen plus „Erfahrung“ googeln.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Fake-Shops",
+    "Handy"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 176,
+   "speaker": "Louise Beltzung",
+   "quote": "da geht's dann um eine andere Form von lovscams nämlich kryptoolovc HS wie man sie so nennen würde da ist der Beruf dann nicht der Pilot es ist nicht der Soldat sondern es ist ein junger Mann ähm der erfolgreich ist in seinem Leben ähm durch Investments",
+   "quote_clean": "Da geht's um eine andere Form von Love-Scams, nämlich Krypto-Love-Scams. Da ist der Beruf nicht der Pilot oder der Soldat, sondern es ist ein junger Mann, der durch Investments erfolgreich ist.",
+   "statement": "Bei Krypto-Love-Scams auf Tinder geben sich Betrüger als junge, durch Investments erfolgreiche Männer aus, statt als Pilot oder Soldat.",
+   "question": "Als wer geben sich Betrüger bei Krypto-Love-Scams auf Tinder typischerweise aus?",
+   "answer": "Als erfolgreicher junger Investor",
+   "distractors": [
+    "Als Pilot auf Langstrecke",
+    "Als Soldat im Auslandseinsatz",
+    "Als Arzt bei einer Hilfsorganisation"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der klassische Love-Scammer ist Pilot oder Soldat, was praktisch erklärt, warum er nie Zeit für ein Treffen hat. Bei Jüngeren ist es der Typ mit Autos, Reichtum und Börsenkursen, der dir dann ganz beiläufig beim Investieren helfen will.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Love-Scam",
+    "Krypto",
+    "Tinder"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 908,
+   "speaker": "Louise Beltzung",
+   "quote": "organisierte Kriminalität im im großen Stil mit teilweise auch auch Menschenhandel und wirklich Ausbeutung wo Leute in so Jobs kommen in so fabriksähnlichen mit mit Chats die sie führen müssen",
+   "quote_clean": "Organisierte Kriminalität im großen Stil, teilweise auch mit Menschenhandel und wirklich Ausbeutung, wo Leute in fabriksähnliche Jobs kommen, mit Chats, die sie führen müssen.",
+   "statement": "Hinter Love-Scams steckt international oft organisierte Kriminalität, teils mit Menschenhandel und fabriksähnlichen Chat-Betrieben.",
+   "question": "Wer steckt international meist hinter Love-Scams?",
+   "answer": "Organisierte Kriminalität, teils mit Menschenhandel",
+   "distractors": [
+    "Einzelne Hobby-Betrüger im Keller",
+    "Gelangweilte Jugendliche aus Europa",
+    "Rein automatische Chatbots ohne Menschen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der charmante Chatpartner ist oft selbst ein Opfer: Menschen werden in fabriksähnliche Betriebe gelockt und müssen dort Chats führen, Handys werden weitergereicht. Deshalb war Louise nach wochenlangem Chatten eher konsterniert als wütend.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Love-Scam",
+    "Organisierte Kriminalität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 653,
+   "speaker": "Louise Beltzung",
+   "quote": "geschrieben wenn wir dann zwei Stunden nicht geschrieben haben dann hat der Ton gewechselt dann wurde es eher ungut dann war so warum schreibst du nicht wenn du kein Interesse hast dann musst du gleich gar nicht schreiben",
+   "quote_clean": "Wenn wir dann zwei Stunden nicht geschrieben haben, hat der Ton gewechselt, dann wurde es eher ungut: Warum schreibst du nicht? Wenn du kein Interesse hast, dann musst du gar nicht schreiben.",
+   "statement": "Love-Scammer bauen durch ständiges Schreiben und Wechsel zwischen Vorwürfen und Zuneigung eine intensive Bindung auf.",
+   "question": "Wie bauen Love-Scammer laut Watchlist-Recherche eine enge Bindung auf?",
+   "answer": "Durch Dauerkontakt und Wechsel von Vorwurf und Zuneigung",
+   "distractors": [
+    "Durch teure Geschenke per Post",
+    "Durch frühe Videoanrufe mit Familie",
+    "Durch völlige Funkstille über Wochen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Guten Morgen, das ist mein Frühstück, wie geht's dir: Es wird ununterbrochen geschrieben. Zwei Stunden Pause, und schon kommt der beleidigte Ton, nach der Entschuldigung wieder Zuckerbrot. Das erklärt, warum Freund:innen und Bank oft auf taube Ohren stoßen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Love-Scam",
+    "Psychologie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 803,
+   "speaker": "Louise Beltzung",
+   "quote": "bis uns dann aufgefallen ist ach so das ist eine australische Plattform der hat Austria mit austr verwechselt",
+   "quote_clean": "Bis uns dann aufgefallen ist: Ach so, das ist eine australische Plattform, der hat Austria mit Australia verwechselt.",
+   "statement": "Beim Undercover-Chatten mit einem Scammer klappte die Registrierung auf der Betrugsplattform nicht, weil er Austria mit Australia verwechselt hatte.",
+   "question": "Warum klappte die Registrierung auf der Betrugsplattform beim Undercover-Test zuerst nicht?",
+   "answer": "Der Scammer verwechselte Austria mit Australia",
+   "distractors": [
+    "Die Plattform war schon gesperrt",
+    "Das Fake-Profil hatte keine Telefonnummer",
+    "Die Seite akzeptierte keine Euro"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Klassiker, der nicht nur Touristen passiert. Louise und der Betrüger haben dann sogar gemeinsam darüber gelacht, „Ups, machst du das noch nicht lang?“, was zeigt, wie menschlich solche Chats werden.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Love-Scam",
+    "Kurios"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 853,
+   "speaker": "Louise Beltzung",
+   "quote": "die wollten auch oft dass wir tinder die installieren ich nehme an aus dem Grund das war dann so wie als Liebesbeweis gefordert mach uns ein Screenshot mach mir Screenshots wie wie du tinder löscht",
+   "quote_clean": "Die wollten auch oft, dass wir Tinder deinstallieren. Das wurde als Liebesbeweis gefordert: Mach mir Screenshots, wie du Tinder löschst.",
+   "statement": "Love-Scammer verlangen oft als Liebesbeweis, dass man Tinder löscht und das per Screenshot belegt.",
+   "question": "Was verlangten die Love-Scammer beim Tinder-Test oft als Liebesbeweis?",
+   "answer": "Screenshots vom Löschen der Tinder-App",
+   "distractors": [
+    "Ein Foto vom Reisepass",
+    "Einen Videoanruf um Mitternacht",
+    "Die Adresse der Eltern"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer Tinder löscht, wechselt auf Messenger und ist von der Plattform und ihren Meldefunktionen abgeschnitten. Romantisch verpackt ist das eigentlich Isolation.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Love-Scam",
+    "Tinder"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1113,
+   "speaker": "Louise Beltzung",
+   "quote": "wer fällt denn drauf rein auf die Piloten oder auf den das Erbe auf den Prinzen würd mir nie passieren und ich glaube dieses Gefühl von das wird mir nie passieren ist ist eines der der Kernaussagen",
+   "quote_clean": "Wer fällt denn auf den Piloten, das Erbe oder den Prinzen rein, würd mir nie passieren. Und ich glaube, dieses Gefühl von „das wird mir nie passieren“ ist eine der Kernaussagen, die Leute am verletzlichsten macht.",
+   "statement": "Das Gefühl „Mir passiert das nie“ macht Menschen besonders anfällig für Betrug.",
+   "question": "Welche Einstellung macht laut Louise Beltzung besonders verletzlich für Online-Betrug?",
+   "answer": "„Das wird mir nie passieren“",
+   "distractors": [
+    "„Ich kaufe nie online ein“",
+    "„Ich vertraue nur meiner Bank“",
+    "„Ich habe eh nichts zu verlieren“"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer sich drüber stehend fühlt, schaut nicht genau hin und trägt eine Brille, die alles verzerrt. Genau deshalb hat das Watchlist-Team die Love-Scams auf Tinder untersucht, wo die Jüngeren sind.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Psychologie",
+    "Prävention"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1002,
+   "speaker": "Louise Beltzung",
+   "quote": "nicht weil sie so perfekt sind ähm sondern eher weil weil wir weil wir nicht nicht die Perfektion brauchen nicht suchen weil wir sehr gut sind als Menschen Sachen auszublenden und und was wir sehen wollen auch auch zu sehen",
+   "quote_clean": "Nicht weil sie so perfekt sind, sondern eher, weil wir die Perfektion nicht brauchen, weil wir als Menschen sehr gut darin sind, Sachen auszublenden und das, was wir sehen wollen, auch zu sehen.",
+   "statement": "Die meisten Betrugsfallen funktionieren nicht, weil sie perfekt sind, sondern weil Menschen gut darin sind, auszublenden und zu sehen, was sie sehen wollen.",
+   "question": "Warum tappen laut Louise Beltzung so viele in Betrugsfallen?",
+   "answer": "Wir sehen, was wir sehen wollen",
+   "distractors": [
+    "Die Fallen sind technisch perfekt",
+    "Die Polizei warnt zu selten",
+    "Banken prüfen Überweisungen nicht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die meisten Fallen haben eh Fehler, ein schiefes Impressum, ein zu guter Preis. Aber wenn man sich etwas sehr wünscht, drückt man gern ein Auge zu. Das ist eigentlich die optimistische Nachricht: Hinschauen hilft.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Psychologie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2151,
+   "speaker": "Louise Beltzung",
+   "quote": "das heißt das Versprechen wä du registrierst dich du fängst an mit 200 € Investition und innerhalb von einigen Monaten wird sich das multiplizieren",
+   "quote_clean": "Das Versprechen wäre: Du registrierst dich, du fängst an mit 200 Euro Investition, und innerhalb von einigen Monaten wird sich das multiplizieren.",
+   "statement": "Investmentbetrug beginnt oft mit einer kleinen Einstiegssumme von etwa 200 Euro und dem Versprechen, dass sie sich in wenigen Monaten vervielfacht.",
+   "question": "Mit welcher Einstiegssumme beginnt typischer Investmentbetrug laut Watchlist Internet oft?",
+   "answer": "rund 200 Euro",
+   "distractors": [
+    "rund 20 Euro",
+    "rund 2.000 Euro",
+    "rund 20.000 Euro"
+   ],
+   "number_value": 200,
+   "number_unit": "Euro",
+   "slider_min": 10,
+   "slider_max": 20000,
+   "log_scale": true,
+   "aha": "200 Euro sind greifbar, die verliert man notfalls. Dann kommt eine erste kleine Auszahlung, das beruhigt, und erst danach wird richtig investiert, oft bis zu Hunderttausenden Euro.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Investmentbetrug"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2163,
+   "speaker": "Louise Beltzung",
+   "quote": "und und so startet dann eine Form von Betrug bei der man so kleine Summen investiert m mit Unterstützung mit deer gewissen mit einem Support m sieht das funktioniert super dann auch eine erste Summe mal ausbezahlt bekommt m und das beruhigt",
+   "quote_clean": "Und so startet eine Form von Betrug, bei der man kleine Summen investiert, mit einem Support, sieht, das funktioniert super, dann auch eine erste Summe ausbezahlt bekommt, und das beruhigt.",
+   "statement": "Investmentbetrüger zahlen anfangs kleine Gewinne tatsächlich aus, um Vertrauen aufzubauen, bevor Opfer große Summen investieren.",
+   "question": "Mit welchem Trick gewinnen Investmentbetrüger das Vertrauen ihrer Opfer?",
+   "answer": "Sie zahlen anfangs kleine Gewinne aus",
+   "distractors": [
+    "Sie schicken einen Vertrag per Post",
+    "Sie verlangen anfangs gar kein Geld",
+    "Sie nennen eine echte Bankleitzahl"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine erste, vielleicht sogar zweite Auszahlung wirkt wie ein Beweis, dass alles seriös ist. In Wahrheit ist es nur der Köder für die große Summe, und je mehr drinsteckt, desto schwerer fällt es, sich den Verlust einzugestehen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Investmentbetrug",
+    "Psychologie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2294,
+   "speaker": "Louise Beltzung",
+   "quote": "aber dann werden sie nochmals kontaktiert und das ist hier auch passiert sie ist nochmals kontaktiert worden von Leuten die ihr ein Versprechen gegeben haben dass die anderen ihr nicht geben konnten",
+   "quote_clean": "Aber dann werden sie nochmals kontaktiert, und das ist hier auch passiert: Sie ist nochmals kontaktiert worden von Leuten, die ihr ein Versprechen gegeben haben, das die anderen ihr nicht geben konnten.",
+   "statement": "Betrugsopfer werden oft ein zweites Mal kontaktiert, von angeblichen Helfern, die gegen Bezahlung versprechen, das verlorene Geld zurückzuholen.",
+   "question": "Was passiert vielen Opfern von Investmentbetrug, nachdem ihr Geld weg ist?",
+   "answer": "Falsche Helfer versprechen gegen Geld Rückholung",
+   "distractors": [
+    "Die Bank ersetzt automatisch alles",
+    "Die Betrüger zahlen einen Teil zurück",
+    "Die Polizei meldet sich sofort"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wir können nachverfolgen, wo dein Geld hin ist, zahl uns, und wir helfen dir: Das sind oft dieselben Leute wie beim ersten Betrug. So verliert man ein zweites Mal Geld, genau dann, wenn man am verzweifeltsten ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Investmentbetrug",
+    "Recovery-Scam"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4307,
+   "speaker": "Louise Beltzung",
+   "quote": "Bildung also wir haben hochgebildete Personen die die sehr sehr viel Geld verlieren das ist nicht das ist nicht nichts was schützt",
+   "quote_clean": "Bildung: Wir haben hochgebildete Personen, die sehr viel Geld verlieren. Das ist nichts, was schützt.",
+   "statement": "Hohe Bildung schützt nicht vor Online-Betrug, auch hochgebildete Menschen verlieren viel Geld.",
+   "question": "Schützt eine hohe Bildung vor Online-Betrug?",
+   "answer": "Nein, auch Hochgebildete verlieren viel Geld",
+   "distractors": [
+    "Ja, fast vollständig",
+    "Ja, aber nur bei Fake-Shops",
+    "Nur bei technischen Berufen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei Investmentbetrug trifft es auch ehemalige Geschäftsführer mit viel Börsenerfahrung. Was eher schützt, ist nicht Wissen, sondern ein bisserl Demut: sich eingestehen können, dass man etwas vielleicht nicht weiß.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Psychologie",
+    "Bildung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4264,
+   "speaker": "Louise Beltzung",
+   "quote": "ganz simpel zu sagen so 22-Jährige 23-Jährige die sich denken ach was mir kann nichts passieren sind auch verletzlich in der Hinsicht",
+   "quote_clean": "Ganz simpel gesagt: 22-Jährige, 23-Jährige, die sich denken „Ach was, mir kann nichts passieren“, sind auch verletzlich.",
+   "statement": "Nicht nur ältere Menschen sind anfällig für Betrug, auch junge, risikofreudige Menschen um die 22 sind verletzlich.",
+   "question": "Sind vor allem ältere Menschen von Online-Betrug betroffen?",
+   "answer": "Nein, Fälle gibt es in allen Altersgruppen",
+   "distractors": [
+    "Ja, fast nur über 70-Jährige",
+    "Ja, Junge sind praktisch nie betroffen",
+    "Nur Menschen ohne Smartphone"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ältere werden gezielt angesprochen, weil sie mehr Vermögen haben. Aber wer jung ist, viel spontan online kauft und sich unverwundbar fühlt, tappt genauso rein.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Alter",
+    "Psychologie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 3235,
+   "speaker": "Louise Beltzung",
+   "quote": "nicht über den E-Mail zu der Seite gehen sondern einem Browser aufmachen auf die finanzamtseite gehen und dort schauen finde ich diese Forderung die in dieser e-Mail vorkommt",
+   "quote_clean": "Nicht über die E-Mail zur Seite gehen, sondern einen Browser aufmachen, auf die Finanzamtseite gehen und dort schauen: Finde ich diese Forderung, die in dieser E-Mail vorkommt?",
+   "statement": "Bei einer verdächtigen E-Mail sollte man nicht auf den Link klicken, sondern die echte Seite selbst im Browser aufrufen und dort nachsehen.",
+   "question": "Was ist der einfachste Schutz bei einer verdächtigen Zahlungsaufforderung per E-Mail?",
+   "answer": "Die echte Seite selbst im Browser aufrufen",
+   "distractors": [
+    "Auf die E-Mail antworten und nachfragen",
+    "Den Link im Inkognito-Modus öffnen",
+    "Den Anhang mit dem Handy öffnen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Statt Absenderadresse und Logo zu analysieren, gehst du einfach selbst zu Finanzamt, Post oder Netflix und schaust in dein Konto. Gibt's die Forderung dort nicht, gibt's sie nicht. Das erspart viel Rätselraten.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Phishing",
+    "Prävention"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3253,
+   "speaker": "Louise Beltzung",
+   "quote": "jetzt überprüfe ich die E-Mailadresse ist die E-Mailadresse echt na ja die die könnt halt auch mit Spoofing echt wirken",
+   "quote_clean": "Jetzt überprüfe ich die E-Mail-Adresse, ist die E-Mail-Adresse echt? Na ja, die könnte halt auch mit Spoofing echt wirken.",
+   "statement": "Mit Spoofing kann die Absenderadresse einer Betrugs-E-Mail wie die echte Adresse eines Unternehmens aussehen.",
+   "question": "Wie heißt die Technik, mit der eine gefälschte E-Mail eine echt wirkende Absenderadresse zeigt?",
+   "answer": "Spoofing",
+   "distractors": [
+    "Sniffing",
+    "Skimming",
+    "Scraping"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Absender schaut aus wie das echte Unternehmen, aber beim Antworten taucht oft eine eigenartige Adresse mit falsch geschriebenem Firmennamen auf. Darum ist der Blick auf den Absender allein kein verlässlicher Test.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Phishing",
+    "E-Mail"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3506,
+   "speaker": "Louise Beltzung",
+   "quote": "190 frei sondern 1990 da haben sie dann auf die Freigabe geklickt es wird schwierig und das Geld ist ziemlich sicher weg",
+   "quote_clean": "Sie geben nicht 190 frei, sondern 1990. Da haben sie auf die Freigabe geklickt, es wird schwierig, und das Geld ist ziemlich sicher weg.",
+   "statement": "Bei Phishing über falsche Paket-SMS geben Opfer oft unbemerkt einen viel höheren Betrag frei, etwa 1990 statt 190, und dieses Geld ist dann meist verloren.",
+   "question": "Warum ist das Geld bei Paket-SMS-Phishing meist endgültig weg?",
+   "answer": "Man hat die Überweisung selbst freigegeben",
+   "distractors": [
+    "Die Bank ist im Ausland",
+    "Die SMS war verschlüsselt",
+    "Paketdienste haften nie"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine Abofalle kann man manchmal stoppen, wenn man nicht wusste, worauf man sich einlässt. Wer aber selbst auf Freigabe drückt, nebenbei telefoniert oder in der U-Bahn sitzt und nicht schaut, ob da 190 oder 1990 steht, hat schlechte Karten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Phishing",
+    "SMS"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 3575,
+   "speaker": "Louise Beltzung",
+   "quote": "es funktioniert gut weil sie ja auch so spamartig an so viele Leute geht dass es genügt ja dass ist dann ja viele klicken es weg aber irgendwann kommt es im richtigen Moment",
+   "quote_clean": "Es funktioniert gut, weil sie so spamartig an so viele Leute geht, dass es genügt. Viele klicken es weg, aber irgendwann kommt es im richtigen Moment.",
+   "statement": "Falsche Paket-SMS funktionieren seit Jahren, weil sie massenhaft verschickt werden und irgendwann genau dann ankommen, wenn man ein Paket erwartet.",
+   "question": "Warum funktionieren falsche Paket-SMS seit Jahren immer noch?",
+   "answer": "Massenversand trifft irgendwann den richtigen Moment",
+   "distractors": [
+    "Sie kommen von echten Nummern der Post",
+    "Handys erkennen sie nie als Spam",
+    "Sie enthalten immer echte Sendungsnummern"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die meisten wischen die SMS weg. Aber wer gerade Markenschuhe bestellt hat, die noch nicht da sind, hat im Kopf schon eine Erklärung parat, und klickt. Bei genug Empfängern reicht das.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Phishing",
+    "SMS"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3701,
+   "speaker": "Louise Beltzung",
+   "quote": "voice cloning das heißt dass ich aufgrund von ähm ein paar wenigen Stimmaufnahmen von dir eine eine quasi die Stimme dopple und und sie etwas anderes sagen lasse und das ist simpel aber sehr wirkmächtig",
+   "quote_clean": "Voice Cloning heißt, dass ich aufgrund von ein paar wenigen Stimmaufnahmen von dir die Stimme dopple und sie etwas anderes sagen lasse. Das ist simpel, aber sehr wirkmächtig.",
+   "statement": "Mit Voice Cloning lässt sich aus wenigen Stimmaufnahmen eine Stimme nachbauen und beliebige Sätze sagen lassen.",
+   "question": "Was brauchen Betrüger, um per KI eine Stimme zu klonen?",
+   "answer": "Ein paar wenige Stimmaufnahmen",
+   "distractors": [
+    "Mindestens hundert Stunden Audio",
+    "Einen Fingerabdruck der Person",
+    "Zugriff auf das Handy der Person"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Sprachnachricht vom Sohn, der gerade einen Unfall hatte, klingt dann wirklich wie der Sohn. Da die emotionale Distanz zu halten, aufzulegen und zurückzurufen, ist schwer.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "KI",
+    "Voice Cloning"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 3849,
+   "speaker": "Andreas Sator",
+   "quote": "sich rausholen und ich habe da mit Freunden und Familie also mit engen Freunden immer schon ein Kennwort ein telefonisches ausgemacht wenn im Zweifel fragt mal nach diesem kenwort",
+   "quote_clean": "Ich habe mit Freunden und Familie, also mit engen Freunden, ein telefonisches Kennwort ausgemacht: Wenn ihr im Zweifel seid, fragt nach diesem Kennwort.",
+   "statement": "Andreas hat mit Familie und engen Freunden ein telefonisches Kennwort vereinbart, weil seine Stimme aus vielen Podcastfolgen geklont werden könnte.",
+   "question": "Wie schützt sich Andreas gegen Betrug mit seiner geklonten Stimme?",
+   "answer": "Mit einem Kennwort für Familie und Freunde",
+   "distractors": [
+    "Er telefoniert nur noch per Video",
+    "Er hat alle Podcastfolgen gelöscht",
+    "Er verwendet einen Stimmverzerrer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nach rund 300 Podcastfolgen liegt Andreas' Stimme im Netz wie auf dem Präsentierteller. Als er sie selbst geklont hat, war das sein Gänsehaut-Moment, seither gibt's das Familien-Kennwort.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Voice Cloning",
+    "Prävention"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2947,
+   "speaker": "Louise Beltzung",
+   "quote": "ich glaube davor ist niemand gefeilt und und ich find es ganz interessant manchmal darüber nachzudenken was sind so die eigenen Schwächen",
+   "quote_clean": "Ich glaube, davor ist niemand gefeit. Und ich finde es ganz interessant, manchmal darüber nachzudenken: Was sind so die eigenen Schwächen?",
+   "statement": "Niemand ist vor Betrug gefeit, darum lohnt es sich, über die eigenen Schwachpunkte nachzudenken.",
+   "question": "Was rät Louise Beltzung, um sich besser vor Betrug zu schützen?",
+   "answer": "Über die eigenen Schwächen nachdenken",
+   "distractors": [
+    "Nie wieder online einkaufen",
+    "Nur noch bar bezahlen",
+    "Alle E-Mails sofort löschen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei manchen ist es das Gewinnspiel, bei anderen die ausverkaufte Playstation oder das Schwimmzeug, das es sonst nirgends gibt. Wer seinen Schwachpunkt kennt, schaut genau dort zweimal hin.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Psychologie",
+    "Prävention"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 4137,
+   "speaker": "Louise Beltzung",
+   "quote": "bezichtige jetzt schon jedes dritte E-Mail ähm je besser es gemacht ist d du misstrauischer werde ich",
+   "quote_clean": "Ich bezichtige jetzt schon jede dritte E-Mail. Je besser sie gemacht ist, desto misstrauischer werde ich.",
+   "statement": "Nach einer Phishing-Simulation verdächtigte Louise Beltzung schon jede dritte E-Mail.",
+   "question": "Was passierte Louise Beltzung, nachdem sie an einer Phishing-Simulation teilgenommen hatte?",
+   "answer": "Sie verdächtigte jede dritte E-Mail",
+   "distractors": [
+    "Sie klickte auf jeden Link",
+    "Sie löschte ihr E-Mail-Konto",
+    "Sie bekam gar keine E-Mails mehr"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Berufskrankheit, wie bei Ärztinnen, die überall Krankheiten sehen. Louise will aber nicht in einen halbparanoiden Zustand kommen, denn den meisten Menschen kann man eh vertrauen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Phishing",
+    "Kurios"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2779,
+   "speaker": "Louise Beltzung",
+   "quote": "in seinem Fall wurde auf eine Plattform geloggt wo er Gebühren zahlen musste um sich einzuschreiben Gebühren zahlen musste um einzusteigen Gebühren zahlen",
+   "quote_clean": "In seinem Fall wurde er auf eine Plattform gelockt, wo er Gebühren zahlen musste, um sich einzuschreiben, Gebühren, um einzusteigen, Gebühren …",
+   "statement": "Beim NFT-Betrug an einem malenden Bauleiter verlangte die Plattform immer neue Gebühren, zuletzt sogar fürs Abheben des angeblichen Gewinns.",
+   "question": "Woran hätte der Hobbymaler beim NFT-Betrug den Schwindel erkennen können?",
+   "answer": "Ständig neue Gebühren, sogar fürs Abheben",
+   "distractors": [
+    "Die Plattform war nur auf Deutsch",
+    "Er sollte seine Bilder per Post schicken",
+    "Niemand kommentierte seine Bilder"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Seine in der Pandemie gemalten Bilder bekamen auf Instagram plötzlich viel Zuspruch, und dann das Angebot, sie als NFT zu verkaufen. Der Wert stieg angeblich, aber wer abheben will, soll zuerst wieder zahlen, ein klassisches Muster. Er hatte da schon sein ganzes Team überzeugt mitzuinvestieren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "NFT",
+    "Investmentbetrug"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "309",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

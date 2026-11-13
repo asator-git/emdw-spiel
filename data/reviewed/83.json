@@ -1,0 +1,280 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=224-248 eindeutig; Distraktoren falsch; Zitat sinnwahr geglättet.",
+   "stand_note": "",
+   "statement": "Reinhard Gaida beschreibt Polyamorie als Beziehungssetzkasten, aus dem sich jede Person ihre Beziehungen so zusammenstellt, wie es für sie passt.",
+   "question": "Mit welchem Bild beschreibt Reinhard Gaida Polyamorie?",
+   "answer": "Als Beziehungssetzkasten",
+   "distractors": [
+    "Als Beziehungsbuffet",
+    "Als Liebesnetzwerk",
+    "Als Beziehungspyramide"
+   ],
+   "aha": "Ein Setzkasten, in den du die Teile so einsortierst, wie sie dir passen. Ob am Ende eine Beziehung drinsteckt oder mehrere, ist laut Reinhard eh egal.",
+   "quote_clean": "Meine Definition von Polyamorie ist ein Beziehungssetzkasten. Ich möchte mir in meinem Leben meine Beziehungen so zusammensetzen, wie das für mich passt.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [
+    "transkription"
+   ],
+   "note": "Beleg t=264-273; 'Non-Monogrammik' ist offensichtlich verhört, gemeint Non-Monogamie (im quote_clean korrigiert).",
+   "stand_note": "",
+   "statement": "Non-Monogamie ist der Sammelbegriff für alle Beziehungsformen, die nicht monogam sind.",
+   "question": "Wie heißt der Sammelbegriff für alle Beziehungsformen, die nicht monogam sind?",
+   "answer": "Non-Monogamie",
+   "distractors": [
+    "Polygamie",
+    "Polygynie",
+    "Bigamie"
+   ],
+   "aha": "Non-Monogamie ist der große Überbegriff: offene Beziehung, mehrere Partner:innen, alles, was nicht die klassische Zweierbeziehung ist. Polygamie meint dagegen die Ehe mit mehreren Menschen, das ist was anderes.",
+   "quote_clean": "Ein Begriff, der sehr häufig verwendet wird, ist Non-Monogamie. Also alles, was keine monogame Beziehung ist.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg t=333-345 ok. Frage präzisiert, damit klar ist, dass es um die Rangfolge der Partnerschaften geht.",
+   "stand_note": "",
+   "statement": "In polyamoren Beziehungen gibt es hierarchische Modelle mit einer Hauptpartnerschaft und solche, in denen mehrere Partner:innen gleichberechtigt sind.",
+   "question": "Welchen Unterschied nennt Reinhard Gaida zwischen polyamoren Beziehungsmodellen mit mehreren Partner:innen?",
+   "answer": "Ob es eine Hierarchie gibt",
+   "distractors": [
+    "Ob man verheiratet ist",
+    "Wie viele Kinder es gibt",
+    "Ob man zusammen wohnt"
+   ],
+   "aha": "Manche haben eine Hauptbeziehung und andere Beziehungen danach, andere leben mit mehreren gleichberechtigten Partner:innen. Polyamorie ist also kein einheitliches Modell, sondern eher ein ganzes Sortiment.",
+   "quote_clean": "Sie haben einen Partner oder eine Partnerin, die hierarchisch an erster Stelle steht, und andere Beziehungen danach. Dann gibt es auch viele Menschen, die in einem System mehrere Partner haben, die hierarchisch gleichberechtigt sind.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=352 und Zusammenfassung t=1835-1843 (Lebenseinstellung) passen.",
+   "stand_note": "",
+   "statement": "Auch Singles können polyamor sein, weil Polyamorie eher eine Lebenseinstellung als ein Beziehungsstatus ist.",
+   "question": "Kann man laut Reinhard Gaida auch als Single polyamor sein?",
+   "answer": "Ja, es ist eine Lebenseinstellung",
+   "distractors": [
+    "Nein, man braucht zwei Partner",
+    "Nur nach einer Trennung",
+    "Nur mit Hauptpartner:in"
+   ],
+   "aha": "Polyamorie ist für Reinhard mehr Mindset als Beziehungsstatus. Du musst also nicht gerade mit drei Menschen zusammen sein, um dich so zu bezeichnen.",
+   "quote_clean": "Es können auch Menschen polyamor sein oder sich so bezeichnen, die Single sind.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=494-511; er nennt ausdrücklich den therapeutischen Ansatzpunkt, Frage sagt 'laut Therapeut'.",
+   "stand_note": "",
+   "statement": "Aus therapeutischer Sicht hat Eifersucht mehr mit der eifersüchtigen Person selbst zu tun als mit dem Gegenüber.",
+   "question": "Womit hat Eifersucht laut Therapeut Reinhard Gaida vor allem zu tun?",
+   "answer": "Mit einem selbst",
+   "distractors": [
+    "Mit dem Verhalten der Partnerin",
+    "Mit der dritten Person",
+    "Mit den Genen"
+   ],
+   "aha": "Eifersucht ist ein Gefühl in dir, also lohnt sich der Blick nach innen: Warum bin ich eifersüchtig? Reinhard landet da schnell bei Selbstwert und unerfüllten Bedürfnissen.",
+   "quote_clean": "Wenn du eifersüchtig bist, ist es ein Gefühl, das du hast. Das heißt, es hat mehr mit dir zu tun als mit der anderen Person.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Inhaltlich belegt (t=545-549), aber inhaltsgleich mit Kandidat 5 und als Wer-hat's-gesagt mit albernem Distraktor ('Eine Bekannte von Andreas') schwach.",
+   "stand_note": "",
+   "statement": "Reinhard Gaida sieht hinter Eifersucht vor allem Fragen von Selbstwert und eigenen Bedürfnissen.",
+   "question": "Wer hat's gesagt: „Eifersucht hat ganz viel mit Bedürfnissen zu tun“?",
+   "answer": "Reinhard Gaida",
+   "distractors": [
+    "Andreas Sator",
+    "Christopher Gottwald",
+    "Eine Bekannte von Andreas"
+   ],
+   "aha": "Wer gut für die eigenen Bedürfnisse sorgt, braucht laut Reinhard niemanden, der das für einen tut. Und dann kann man anderen auch leichter gönnen, dass sie ihre erfüllen.",
+   "quote_clean": "Da geht es für mich ganz viel um Selbstwert. Und meine persönliche Erfahrung ist, dass Eifersucht ganz viel mit Bedürfnissen zu tun hat.",
+   "quality": 2
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Beleg t=626-650 ok; 'Affären' im Statement nicht belegt (er spricht von Sex mit einem anderen), Aha ergänzt um seine Pointe, dass Mitfreuen kein Muss ist.",
+   "stand_note": "",
+   "statement": "Als man Reinhard Gaida anfangs riet, sich zu freuen, wenn seine Freundin mit einem anderen Sex hat, hielt er das für verrückt.",
+   "question": "Wie reagierte Reinhard anfangs auf den Rat, sich mitzufreuen, wenn seine Freundin mit einem anderen Sex hat?",
+   "answer": "„Ihr habt alle einen Huscher“",
+   "distractors": [
+    "„Das probiere ich gleich aus“",
+    "„Das kenne ich schon“",
+    "„Das ist doch selbstverständlich“"
+   ],
+   "aha": "Auch ein Polyamorie-Profi hat klein angefangen. Seine erste Reaktion auf die Idee der Mitfreude war ein sehr wienerisches: Ihr habt alle einen Huscher. Heute sagt er: Mitfreuen muss man sich nicht, wenn es wehtut, tut es weh, und das ist okay.",
+   "quote_clean": "Dann habe ich selber immer gesagt: Ich glaube, ihr habt alle einen Huscher. Wie blöd muss man sein?",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=754-814 ok; Aussage ist seine persönliche Sicht ('ich finde'), er relativiert später ('wenn es für jemand anderen ein Weg ist, okay'). Bekannte als Distraktor ist ein sinnvoller Fallstrick.",
+   "stand_note": "",
+   "statement": "Reinhard Gaida hält den Anspruch, für einen anderen Menschen genug zu sein, für unerfüllbar, weil alle unterschiedliche Bedürfnisse haben.",
+   "question": "Wer hat's gesagt: „Für einen anderen Menschen genug sein zu wollen, ist ein Anspruch, der niemals erfüllt werden kann“?",
+   "answer": "Reinhard Gaida",
+   "distractors": [
+    "Andreas Sator",
+    "Christopher Gottwald",
+    "Eine Bekannte von Andreas"
+   ],
+   "aha": "Andreas hatte eine Bekannte zitiert, die für ihren Freund einfach genug sein will. Reinhard sieht darin enormen Druck: Weißt du überhaupt, ob die andere Person das will, und schaffst du das?",
+   "quote_clean": "Ich frage mich, wo der Anspruch herkommt, für einen anderen Menschen genug sein zu wollen. Ich finde, das ist ein Anspruch, der niemals erfüllt werden kann, weil wir alle unterschiedliche Bedürfnisse haben.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "transkription",
+    "ton"
+   ],
+   "note": "Beleg t=820-847 ok. Das Wort 'sucht' (t=847) ist unklar transkribiert, daher Aha auf das sicher Belegte umgestellt.",
+   "stand_note": "",
+   "statement": "Für Reinhard Gaida heißt eine gesunde Beziehung, einen gemeinsamen Raum zu finden, in dem man übereinstimmt, und daneben Raum außerhalb der Beziehung zu lassen.",
+   "question": "Was gehört laut Reinhard Gaida zu einer gesunden Beziehung neben dem gemeinsamen Bereich?",
+   "answer": "Raum außerhalb der Beziehung",
+   "distractors": [
+    "Ein gemeinsames Bankkonto",
+    "Ein fixer Wochenplan",
+    "Gemeinsame Hobbys für alles"
+   ],
+   "aha": "Zusammen wohnen, auf Urlaub fahren, Sex haben: Das ist der gemeinsame Bereich. Daneben braucht es laut Reinhard immer Raum außerhalb der Beziehung. Wenn er trainieren gehen will, dann geht er trainieren, da braucht er seine persönliche Freiheit.",
+   "quote_clean": "Eine gesunde Beziehung zu führen bedeutet, man findet einen Bereich oder einen Raum, in dem man übereinstimmt. Man will zum Beispiel zusammen wohnen oder zusammen auf Urlaub fahren.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [
+    "transkription"
+   ],
+   "note": "Beleg t=1004-1012; 'Polymerie' verhört, gemeint Polyamorie (im quote_clean korrigiert). Das ist seine persönliche Sicht.",
+   "stand_note": "",
+   "statement": "Reinhard Gaida sieht Polyamorie als möglichen Ausweg aus Co-Abhängigkeit und schädlichen Beziehungen.",
+   "question": "Wovon ist Polyamorie für Reinhard Gaida ein Ausweg?",
+   "answer": "Aus der Co-Abhängigkeit",
+   "distractors": [
+    "Aus der Einsamkeit",
+    "Aus der Midlife-Crisis",
+    "Aus der Langeweile"
+   ],
+   "aha": "Wenn das ganze Glück an einer einzigen Person hängt, stellt sich die Frage: Und wenn die stirbt? Reinhard findet Co-Abhängigkeit gerade in Beziehungen ein sehr diffiziles Thema.",
+   "quote_clean": "Für mich ist Polyamorie auch ein Ausweg aus der Co-Abhängigkeit und ein Ausweg aus schädlichen Beziehungen.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Beleg t=187 (und t=570 'sieben Jahren Polygruppe') ok. Aha enthielt nicht belegte Details (Gründung, Freundin kennengelernt), ersetzt durch Belegtes; Stand 2019.",
+   "stand_note": "Stand 2019",
+   "statement": "Reinhard Gaida leitete zum Zeitpunkt der Folge seit sieben Jahren die Polyamorie-Gruppe in der Schwelle in Wien.",
+   "question": "Seit wie vielen Jahren leitete Reinhard Gaida 2019 die Polyamorie-Gruppe in der Schwelle?",
+   "answer": "7 Jahre",
+   "distractors": [
+    "3 Jahre",
+    "12 Jahre",
+    "20 Jahre"
+   ],
+   "aha": "Reinhard hat die Schwelle auch gegründet, Wiens ersten sex-positiven Raum. Außerdem organisiert er das Festival Sex Solution.",
+   "quote_clean": "Ich leite seit sieben Jahren die Polyamorie-Gruppe in der Schwelle, die sich mit Mehrfachbeziehungen und offenen Beziehungen beschäftigt.",
+   "quality": 2
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=1133-1140 ('viereinhalb Jahre, fast fünf Jahre'), Aha deckt sich mit t=1111-1165; Schieberegler 0-12 ok.",
+   "stand_note": "",
+   "statement": "Reinhard Gaida lebte fast fünf Jahre in einer Beziehung mit einer Frau, die zusätzlich einen zweiten Freund hatte.",
+   "question": "Wie lange war Reinhard mit einer Frau zusammen, die noch einen zweiten Freund hatte?",
+   "answer": "Viereinhalb Jahre",
+   "distractors": [
+    "Ein halbes Jahr",
+    "Zwei Jahre",
+    "Zehn Jahre"
+   ],
+   "aha": "Mit dem anderen Freund ging Reinhard sogar snowboarden und auf ein Bier. Später wollte er dann doch eine klare Hierarchie, in der er die Nummer eins ist.",
+   "quote_clean": "Ich war mit einer Frau zusammen, die auch einen zweiten Freund gehabt hat, viereinhalb, fast fünf Jahre lang.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=140 wörtlich; Fan-Frage ohne inhaltlichen Anspruch, aber korrekt und fair.",
+   "stand_note": "Stand 2019",
+   "statement": "Andreas Sator beginnt seine Folgen mit dem Satz, dass man mit dem Podcast die Welt jede Woche ein bisschen besser verstehen soll.",
+   "question": "Wie geht Andreas' Begrüßung weiter: „…der Podcast, mit dem du die Welt jede Woche …“?",
+   "answer": "ein bisschen besser verstehen sollst",
+   "distractors": [
+    "ein bisschen anders sehen sollst",
+    "ganz neu entdecken sollst",
+    "ein bisschen leichter nimmst"
+   ],
+   "aha": "Der klassische Einstieg aus den frühen Folgen. Wer ihn mitsprechen kann, hört eindeutig schon länger zu.",
+   "quote_clean": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quality": 2
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Beleg t=1844-1852 ok, aber Distraktoren sind offensichtlich unsinnig (Frage lösbar ohne Wissen) und die Frage zielt auf Andreas' persönliches Befinden.",
+   "stand_note": "",
+   "statement": "Andreas Sator, selbst monogam, fand die Aufnahme der Polyamorie-Folge alles andere als einfach.",
+   "question": "Wie ging es Andreas mit der Aufnahme dieser Folge?",
+   "answer": "Alles andere als einfach",
+   "distractors": [
+    "Völlig entspannt",
+    "Er war gelangweilt",
+    "Er wollte sofort umsteigen"
+   ],
+   "aha": "Andreas lebt selbst monogam und hat Reinhards Gedanken ein bisschen als Kritik empfunden. Sein Fazit: Nachdenken und Reflektieren schadet nie, egal wofür man sich dann entscheidet.",
+   "quote_clean": "Ich glaube, das ist eine Folge, von der sich viele Menschen angegriffen fühlen werden. Es war auch für mich alles andere als einfach, die Folge aufzunehmen.",
+   "quality": 1
+  }
+ ],
+ "id": "83",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

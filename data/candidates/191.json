@@ -1,0 +1,797 @@
+{
+ "theme": "Wirtschaft & Arbeit",
+ "summary": "Wie kann ein T-Shirt fünf Euro kosten? Wir folgen einem Shirt vom Baumwollfeld bis ins Geschäft und schauen, wer daran was verdient.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 637,
+   "speaker": "Elke Schüßler",
+   "quote": "Die haben da so ein Beispiel von einem T-Shirt, das 29 Euro kostet beispielsweise. Davon gehen erst mal 17 Euro allein in den Handel.",
+   "quote_clean": "Die haben ein Beispiel von einem T-Shirt, das 29 Euro kostet. Davon gehen erst einmal 17 Euro allein in den Handel.",
+   "statement": "Bei einem T-Shirt um 29 Euro gehen laut einer Aufschlüsselung der Fair Wear Foundation rund 17 Euro an den Handel.",
+   "question": "Ein T-Shirt kostet 29 Euro. Wie viele Euro davon gehen laut Fair Wear Foundation an den Handel?",
+   "answer": "17 Euro",
+   "distractors": [
+    "6 Euro",
+    "11 Euro",
+    "23 Euro"
+   ],
+   "number_value": 17,
+   "number_unit": "Euro",
+   "slider_min": 0,
+   "slider_max": 29,
+   "log_scale": false,
+   "aha": "Mehr als die Hälfte bleibt beim Geschäft, in dem du das Shirt kaufst. Reich wird der Handel davon aber nicht: Von den 17 Euro gehen Miete für die Verkaufsfläche und das Personal weg.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mode",
+    "Preise",
+    "Handel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 659,
+   "speaker": "Elke Schüßler",
+   "quote": "Also auch für den Handel ist die Gewinnmarge am Ende sehr, sehr gering. Die liegt so bei 1 Prozent, maximal 5 Prozent.",
+   "quote_clean": "Auch für den Handel ist die Gewinnmarge am Ende sehr gering. Die liegt bei 1 Prozent, maximal 5 Prozent.",
+   "statement": "Die Gewinnmarge im Bekleidungshandel liegt meist nur bei 1 bis maximal 5 Prozent.",
+   "question": "Wie viel Prozent Gewinnmarge bleiben dem Bekleidungshandel laut Elke Schüßler höchstens?",
+   "answer": "Maximal 5 Prozent",
+   "distractors": [
+    "Maximal 15 Prozent",
+    "Maximal 25 Prozent",
+    "Maximal 40 Prozent"
+   ],
+   "number_value": 5,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Verkauft ein Händler T-Shirts um 100 Euro, bleiben ihm am Ende ein bis fünf Euro. Deshalb geht es in der Branche so sehr um Masse: Verdient wird nur, wenn man irrsinnig viel verkauft.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gewinnmarge",
+    "Handel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 722,
+   "speaker": "Elke Schüßler",
+   "quote": "Und der tatsächliche Arbeit, also die Arbeit der Näherin, wird auf 18 Cent geschätzt.",
+   "quote_clean": "Und die tatsächliche Arbeit, also die Arbeit der Näherin, wird auf 18 Cent geschätzt.",
+   "statement": "Bei einem 29-Euro-T-Shirt wird der Lohnanteil der Näherin auf etwa 18 Cent geschätzt.",
+   "question": "Wie viele Cent bekommt die Näherin von einem 29-Euro-T-Shirt ungefähr?",
+   "answer": "18 Cent",
+   "distractors": [
+    "90 Cent",
+    "2 Cent",
+    "3,50 Euro"
+   ],
+   "number_value": 18,
+   "number_unit": "Cent",
+   "slider_min": 1,
+   "slider_max": 1000,
+   "log_scale": true,
+   "aha": "18 Cent von 29 Euro, das ist weniger als ein Prozent. Würde man den Lohn verfünffachen, kostete das Shirt rechnerisch nur rund einen Euro mehr.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Löhne",
+    "Näherinnen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 691,
+   "speaker": "Elke Schüßler",
+   "quote": "Davon geht nach dieser Aufstellung 3,60 Euro in die Marke, also in das Marketing, in den Markenbildungsprozess.",
+   "quote_clean": "Davon gehen nach dieser Aufstellung 3,60 Euro in die Marke, also in das Marketing, in den Markenbildungsprozess.",
+   "statement": "Bei einem 29-Euro-T-Shirt fließen laut Fair Wear Foundation rund 3,60 Euro in Marke und Marketing.",
+   "question": "Wie viele Euro eines 29-Euro-T-Shirts fließen in Marke und Marketing?",
+   "answer": "3,60 Euro",
+   "distractors": [
+    "0,90 Euro",
+    "7,80 Euro",
+    "12,50 Euro"
+   ],
+   "number_value": 3.6,
+   "number_unit": "Euro",
+   "slider_min": 0,
+   "slider_max": 15,
+   "log_scale": false,
+   "aha": "Für das Image der Marke geht also zwanzigmal so viel drauf wie für die Arbeit der Näherin. Material kostet mit 3,40 Euro übrigens fast gleich viel wie das Marketing.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Marketing",
+    "Preise"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 710,
+   "speaker": "Elke Schüßler",
+   "quote": "2,20 Euro gehen in den Transport. 1,20 Euro möglicherweise noch inzwischen Agenten, die involviert sind,",
+   "quote_clean": "2,20 Euro gehen in den Transport. 1,20 Euro möglicherweise noch an Zwischenagenten, die involviert sind.",
+   "statement": "Bei einem 29-Euro-T-Shirt entfallen rund 2,20 Euro auf den Transport.",
+   "question": "Wie viele Euro eines 29-Euro-T-Shirts gehen in den Transport?",
+   "answer": "2,20 Euro",
+   "distractors": [
+    "0,30 Euro",
+    "6,50 Euro",
+    "9,00 Euro"
+   ],
+   "number_value": 2.2,
+   "number_unit": "Euro",
+   "slider_min": 0,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Das Shirt reist ziemlich viel: Baumwolle, Garn, Stoff und Nähen passieren oft in verschiedenen Ländern. Trotzdem kostet der ganze Transport mehr als zehnmal so viel wie der Lohn der Näherin.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Transport",
+    "Lieferkette"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1158,
+   "speaker": "Elke Schüßler",
+   "quote": "Und dieses Gebäude ist eben im April 2013 zusammengestürzt.",
+   "quote_clean": "Und dieses Gebäude ist im April 2013 zusammengestürzt.",
+   "statement": "Das Fabrikgebäude Rana Plaza in Dhaka, Bangladesch, stürzte im April 2013 ein.",
+   "question": "In welchem Jahr stürzte die Textilfabrik Rana Plaza in Bangladesch ein?",
+   "answer": "2013",
+   "distractors": [
+    "2005",
+    "2009",
+    "2017"
+   ],
+   "number_value": 2013,
+   "number_unit": "Jahr",
+   "slider_min": 1995,
+   "slider_max": 2020,
+   "log_scale": false,
+   "aha": "Im fünfstöckigen Gebäude waren mehrere Nähereien untergebracht. Es war das größte Fabrikunglück in der Geschichte der Branche und hat die Modeindustrie aufgeschreckt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Rana Plaza",
+    "Bangladesch"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1164,
+   "speaker": "Elke Schüßler",
+   "quote": "Und dabei sind über 1000 Fabrikarbeiterinnen getötet worden. Über 2000 sind stark verletzt und verstümmelt worden.",
+   "quote_clean": "Dabei sind über 1000 Fabrikarbeiterinnen getötet worden. Über 2000 sind stark verletzt und verstümmelt worden.",
+   "statement": "Beim Einsturz von Rana Plaza starben über 1000 Fabrikarbeiterinnen, über 2000 wurden schwer verletzt.",
+   "question": "Wie viele Menschen starben ungefähr beim Einsturz der Fabrik Rana Plaza 2013?",
+   "answer": "Über 1000",
+   "distractors": [
+    "Rund 50",
+    "Rund 300",
+    "Über 5000"
+   ],
+   "number_value": 1100,
+   "number_unit": "Tote",
+   "slider_min": 10,
+   "slider_max": 10000,
+   "log_scale": true,
+   "aha": "Das Gebäude galt schon vorher als Katastrophe mit Ansage, die Bausubstanz war miserabel. Nach dem Einsturz haben viele Firmen Besserung versprochen, zumindest bei der Gebäudesicherheit ist auch einiges passiert.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Rana Plaza",
+    "Arbeitssicherheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1255,
+   "speaker": "Elke Schüßler",
+   "quote": "Das ist ein Vertrag, der am Ende von über 200 Unternehmen aus der ganzen Welt",
+   "quote_clean": "Das ist ein Vertrag, der am Ende von über 200 Unternehmen aus der ganzen Welt unterzeichnet wurde.",
+   "statement": "Das Brandschutzabkommen in Bangladesch nach Rana Plaza wurde von über 200 Unternehmen gemeinsam mit zwei globalen Gewerkschaftsföderationen unterzeichnet.",
+   "question": "Wie viele Unternehmen unterzeichneten nach Rana Plaza das Brandschutzabkommen für Bangladesch?",
+   "answer": "Über 200",
+   "distractors": [
+    "Rund 15",
+    "Rund 60",
+    "Über 2000"
+   ],
+   "number_value": 200,
+   "number_unit": "Unternehmen",
+   "slider_min": 5,
+   "slider_max": 3000,
+   "log_scale": true,
+   "aha": "Die Firmen verpflichteten sich, weiter in Bangladesch einzukaufen und gleichzeitig die Fabriken prüfen und sanieren zu lassen. Weil Gewerkschaften mitkontrollieren, ist das Abkommen rechtlich bindend und nicht bloß ein schönes Versprechen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Brandschutzabkommen",
+    "Bangladesch"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 234,
+   "speaker": "Elke Schüßler",
+   "quote": "Es geht eben los mit den Baumwollfeldern, den Baumwollplantagen, die üblicherweise in den USA, in Indien, China, aber auch in Ländern wie der Türkei, Usbekistan vorzufinden sind.",
+   "quote_clean": "Es geht los mit den Baumwollfeldern, den Baumwollplantagen, die üblicherweise in den USA, in Indien, China, aber auch in Ländern wie der Türkei oder Usbekistan zu finden sind.",
+   "statement": "Baumwolle wird vor allem in den USA, Indien, China, der Türkei und Usbekistan angebaut.",
+   "question": "Welches dieser Länder gehört zu den großen Baumwollproduzenten?",
+   "answer": "Usbekistan",
+   "distractors": [
+    "Norwegen",
+    "Irland",
+    "Japan"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Neben China, Indien und den USA spielt auch Usbekistan eine große Rolle. Von dort geht die Baumwolle oft per Schiff weiter, gesponnen und genäht wird meistens ganz woanders.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Baumwolle",
+    "Rohstoffe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 478,
+   "speaker": "Elke Schüßler",
+   "quote": "mit der Industrialisierung, die in dieser Branche natürlich schon deutlich vor der industriellen Revolution begonnen hat und ja auch letztlich die Grundlage für die industrielle Revolution war.",
+   "quote_clean": "Mit der Industrialisierung, die in dieser Branche schon deutlich vor der industriellen Revolution begonnen hat und letztlich auch die Grundlage für die industrielle Revolution war.",
+   "statement": "Die Industrialisierung der Textilbranche begann schon vor der industriellen Revolution und war deren Grundlage.",
+   "question": "Welche Branche war laut Elke Schüßler die Grundlage der industriellen Revolution?",
+   "answer": "Die Textilindustrie",
+   "distractors": [
+    "Die Stahlindustrie",
+    "Die Autoindustrie",
+    "Die Chemieindustrie"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bevor Dampfloks und Stahlwerke kamen, wurde Baumwolle schon in Fabriken versponnen. Der Historiker Sven Beckert erzählt die ganze Geschichte des globalen Kapitalismus anhand der Baumwolle.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Geschichte",
+    "Industrialisierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 507,
+   "speaker": "Elke Schüßler",
+   "quote": "Die Baumwollproduktion in ihren Ländern, also vor allem in den USA, wo die natürlichen Bedingungen gegeben sind, forciert haben, natürlich auch gewaltsam sich die Arbeitskräfte dafür verschafft haben, nämlich durch den Sklavenhandel.",
+   "quote_clean": "Sie haben die Baumwollproduktion in ihren Ländern, vor allem in den USA, wo die natürlichen Bedingungen gegeben sind, forciert und sich die Arbeitskräfte dafür gewaltsam verschafft, nämlich durch den Sklavenhandel.",
+   "statement": "Die USA und Großbritannien förderten den Baumwollanbau gezielt und verschafften sich die Arbeitskräfte gewaltsam durch den Sklavenhandel.",
+   "question": "Wie verschafften sich die USA im 19. Jahrhundert die Arbeitskräfte für den Baumwollanbau?",
+   "answer": "Durch den Sklavenhandel",
+   "distractors": [
+    "Durch Einwanderung aus Irland",
+    "Durch Arbeitsverträge mit Indien",
+    "Durch Zwangsarbeit von Häftlingen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Dazu kamen Subventionen und Zollregeln, die die eigenen Produkte bevorzugten. So wurden die lokalen Textilmärkte etwa in Indien oder Lateinamerika verdrängt.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Geschichte",
+    "Sklaverei",
+    "Baumwolle"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 779,
+   "speaker": "Elke Schüßler",
+   "quote": "ist, dass es natürlich so magische Kaufpreisgrenzen gibt. Also das T-Shirt für 4,99 Euro bei H&M wird eben millionenfach gekauft.",
+   "quote_clean": "ist, dass es magische Kaufpreisgrenzen gibt. Das T-Shirt für 4,99 Euro bei H&M wird millionenfach gekauft.",
+   "statement": "Modeketten verweisen auf magische Preisgrenzen: Ein Shirt um 4,99 Euro verkauft sich millionenfach, um 10,99 Euro deutlich schlechter.",
+   "question": "Welchen Grund nennen Modeketten, warum sie T-Shirts nicht einfach teurer machen?",
+   "answer": "Magische Kaufpreisgrenzen",
+   "distractors": [
+    "Gesetzliche Preisobergrenzen",
+    "Verträge mit den Fabriken",
+    "Vorgaben der Gewerkschaften"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Weil die Margen so klein sind, wird nur über die Masse verdient. Und Masse gibt es eben eher bei 4,99 als bei 10,99 Euro, mit allen ökologischen Folgen, die so viel Gewand mit sich bringt.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Preise",
+    "Fast Fashion"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 985,
+   "speaker": "Elke Schüßler",
+   "quote": "So ja, die Lieferkette ist so komplex, ich kann das ja gar nicht kontrollieren. Aber warum ist sie so komplex? Weil das Unternehmen das so entschieden hat, das so zu machen.",
+   "quote_clean": "Die Lieferkette ist so komplex, ich kann das gar nicht kontrollieren. Aber warum ist sie so komplex? Weil das Unternehmen entschieden hat, das so zu machen.",
+   "statement": "Die Komplexität von Lieferketten ist laut Elke Schüßler eine bewusste Entscheidung der Unternehmen, die sie auch verkürzen könnten.",
+   "question": "Wer sagt: „Aber warum ist sie so komplex? Weil das Unternehmen entschieden hat, das so zu machen.“?",
+   "answer": "Elke Schüßler",
+   "distractors": [
+    "Andreas Sator",
+    "Madeleine Alizadeh",
+    "Sven Beckert"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Ausrede der Modeketten lässt die Organisationsforscherin nicht gelten. Wer Lieferketten verkürzt, zieht auch mehr Kontrolle an sich, so wie es Nike und Adidas nach großen Kampagnen getan haben.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Lieferkette",
+    "Verantwortung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1123,
+   "speaker": "Elke Schüßler",
+   "quote": "Adidas zum Beispiel hat seine Lieferanten auf der Webseite, die kann man einsehen. Sie haben nur ganz wenige Lieferanten überhaupt in einem Land wie Bangladesch beispielsweise,",
+   "quote_clean": "Adidas zum Beispiel hat seine Lieferanten auf der Webseite, die kann man einsehen. Sie haben nur ganz wenige Lieferanten in einem Land wie Bangladesch.",
+   "statement": "Adidas veröffentlicht nach Kampagnen gegen Sporthersteller seine Lieferanten auf der eigenen Webseite.",
+   "question": "Was macht Adidas seit den Kampagnen gegen Sportartikelhersteller öffentlich?",
+   "answer": "Seine Lieferanten auf der Webseite",
+   "distractors": [
+    "Die Löhne aller Näherinnen",
+    "Den Gewinn pro Schuh",
+    "Alle Fabrikinspektionen live"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In den späten 90ern und frühen 2000ern gab es große Kampagnen gegen Nike und Adidas. Danach haben sie ihre Lieferketten deutlich verkürzt und transparenter gemacht, perfekt ist es trotzdem nicht.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Transparenz",
+    "Sportmarken"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1292,
+   "speaker": "Elke Schüßler",
+   "quote": "Weil Rana Plaza war, so haben es die Unternehmen selbst gesagt, a disaster waiting to happen. Also allen war klar, dass irgendwann was passieren würde,",
+   "quote_clean": "Rana Plaza war, so haben es die Unternehmen selbst gesagt, a disaster waiting to happen. Allen war klar, dass irgendwann etwas passieren würde.",
+   "statement": "Rana Plaza galt laut den Unternehmen selbst als Katastrophe mit Ansage, weil die Bausubstanz so schlecht war.",
+   "question": "Wie beschrieben Unternehmen selbst den Einsturz von Rana Plaza?",
+   "answer": "A disaster waiting to happen",
+   "distractors": [
+    "Ein völlig unvorhersehbares Unglück",
+    "Ein Akt höherer Gewalt",
+    "Ein Problem der Behörden allein"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die schlechte Gebäudestruktur in Bangladesch war bekannt. Erst nach dem Einsturz wurden die großen Exportfabriken im Zuge des Brandschutzabkommens tatsächlich saniert.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Rana Plaza",
+    "Gebäudesicherheit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1360,
+   "speaker": "Elke Schüßler",
+   "quote": "Und das hat sich jetzt auch in der Corona-Krise wieder gezeigt, wo viele Bekleidungshändler ja einfach ihre Aufträge storniert haben",
+   "quote_clean": "Das hat sich jetzt auch in der Corona-Krise wieder gezeigt, wo viele Bekleidungshändler einfach ihre Aufträge storniert haben.",
+   "statement": "In der Corona-Krise stornierten viele Bekleidungshändler ihre Aufträge, Arbeiterinnen verloren von einem Tag auf den anderen ihr Einkommen.",
+   "question": "Was machten viele Bekleidungshändler zu Beginn der Corona-Krise mit ihren Aufträgen in Produktionsländern?",
+   "answer": "Sie stornierten sie einfach",
+   "distractors": [
+    "Sie zahlten sie doppelt",
+    "Sie verlegten sie nach Europa",
+    "Sie wandelten sie in Masken um"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Fabriken blieben auf fertiger Ware sitzen, die Näherinnen hatten plötzlich kein Einkommen mehr. Für Elke Schüßler zeigt das: An den grundlegenden Machtverhältnissen hat auch Rana Plaza nichts geändert.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Corona",
+    "Machtverhältnisse"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1501,
+   "speaker": "Elke Schüßler",
+   "quote": "Absolut, ja. Also aus Sicht gerade der Frauen in Bangladesch sind diese Fabrikjobs trotzdem das Beste, was ihnen passieren konnte.",
+   "quote_clean": "Absolut. Aus Sicht gerade der Frauen in Bangladesch sind diese Fabrikjobs trotzdem das Beste, was ihnen passieren konnte.",
+   "statement": "Für viele Frauen in Bangladesch sind Fabrikjobs trotz schlechter Bedingungen die beste verfügbare Option, weil sie Unabhängigkeit und Einkommen bringen.",
+   "question": "Warum sind Textilfabrikjobs für viele Frauen in Bangladesch trotz schlechter Bedingungen attraktiv?",
+   "answer": "Sie bringen Unabhängigkeit und Einkommen",
+   "distractors": [
+    "Sie sind besonders gut bezahlt",
+    "Sie sind gesetzlich Pflicht",
+    "Sie bieten kurze Arbeitszeiten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Alternativen vor Ort sind oft noch schlechter bezahlt und weniger geregelt. Mit dem Lohn kommen Frauen aus patriarchalen Familienstrukturen raus und können ihren Kindern Bildung ermöglichen, ein Boykott hilft ihnen also eher nicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bangladesch",
+    "Frauen",
+    "Entwicklung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1574,
+   "speaker": "Elke Schüßler",
+   "quote": "Der Preis ist keine Information darüber, ob ein Begleitungsstück fair oder nicht fair produziert wurde.",
+   "quote_clean": "Der Preis ist keine Information darüber, ob ein Bekleidungsstück fair oder nicht fair produziert wurde.",
+   "statement": "Am Preis eines Kleidungsstücks lässt sich nicht ablesen, ob es fair produziert wurde.",
+   "question": "Stimmt es, dass teurere Kleidung verlässlich fairer produziert ist?",
+   "answer": "Nein, der Preis sagt darüber nichts",
+   "distractors": [
+    "Ja, ab etwa 30 Euro",
+    "Ja, bei Markenkleidung immer",
+    "Nur bei Kleidung aus Europa"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das teure Markenshirt kann in derselben Fabrik genäht werden wie das 5-Euro-Shirt. Deshalb hält Elke Schüßler es für problematisch, die ganze Verantwortung den Konsument:innen umzuhängen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Konsum",
+    "Fairness"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1603,
+   "speaker": "Elke Schüßler",
+   "quote": "Wobei man auch da sagen muss, auch selbst wenn Made in Europe draufsteht, sind das nicht immer tolle Arbeitsbedingungen. Es gibt auch Sweatshop-artige Fabriken in Italien beispielsweise oder in Großbritannien.",
+   "quote_clean": "Wobei man auch da sagen muss: Selbst wenn Made in Europe draufsteht, sind das nicht immer tolle Arbeitsbedingungen. Es gibt auch Sweatshop-artige Fabriken, in Italien beispielsweise oder in Großbritannien.",
+   "statement": "Auch „Made in Europe“ garantiert keine guten Arbeitsbedingungen; es gibt Sweatshop-artige Fabriken etwa in Italien oder Großbritannien.",
+   "question": "In welchem dieser Länder gibt es laut Elke Schüßler ebenfalls Sweatshop-artige Textilfabriken?",
+   "answer": "Italien",
+   "distractors": [
+    "Island",
+    "Luxemburg",
+    "Finnland"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Etikett „Made in Europe“ klingt nach Sicherheit, ist aber keine. Ausbeuterische Nähereien gibt es eben auch mitten in der EU und in Großbritannien.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Made in Europe",
+    "Arbeitsbedingungen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1653,
+   "speaker": "Elke Schüßler",
+   "quote": "Also der Preis könnte ja auch zugunsten der Arbeiterinnen ausfallen, wenn beispielsweise die Ladenmieten günstiger wären. Dann könnte das T-Shirt immer noch 29 Euro kosten,",
+   "quote_clean": "Der Preis könnte auch zugunsten der Arbeiterinnen ausfallen, wenn beispielsweise die Ladenmieten günstiger wären. Dann könnte das T-Shirt immer noch 29 Euro kosten.",
+   "statement": "Wären Ladenmieten günstiger, könnte bei gleichem Preis ein größerer Teil an die Arbeiterinnen gehen.",
+   "question": "Was könnte laut Elke Schüßler helfen, dass Näherinnen mehr bekommen, ohne dass das Shirt teurer wird?",
+   "answer": "Günstigere Ladenmieten",
+   "distractors": [
+    "Mehr Werbung",
+    "Längere Transportwege",
+    "Mehr Zwischenhändler"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Preis ist ein Kuchen aus vielen Stücken, und die Miete in der Innenstadt ist ein großes. Wer die regulieren könnte, ist aber sicher nicht die einzelne Konsumentin.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Preise",
+    "Mieten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1803,
+   "speaker": "Elke Schüßler",
+   "quote": "Es handelt sich hier um ein ganz klares kollektives Handelnproblem. Und wie löst man kollektive Probleme? Eben durch kollektive Instrumente.",
+   "quote_clean": "Es handelt sich hier um ein ganz klares kollektives Handlungsproblem. Und wie löst man kollektive Probleme? Durch kollektive Instrumente.",
+   "statement": "Schlechte Arbeitsbedingungen in der Textilindustrie sind ein kollektives Handlungsproblem, das nur kollektive Instrumente wie Gesetze oder Kollektivverträge lösen.",
+   "question": "Wie lassen sich kollektive Handlungsprobleme wie die Arbeitsbedingungen in der Textilbranche laut Elke Schüßler lösen?",
+   "answer": "Durch kollektive Instrumente",
+   "distractors": [
+    "Durch bewussteren Einzelkonsum",
+    "Durch freiwillige Firmenkodizes",
+    "Durch niedrigere Zölle"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Einzelne Firmen kommen allein gegen den Preisdruck nicht an, egal wie willig sie sind. Gesetze oder Verträge, die für alle gelten, ändern dagegen die Spielregeln, so wie Kollektivverträge in Österreich.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Regulierung",
+    "Kollektivvertrag"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1897,
+   "speaker": "Elke Schüßler",
+   "quote": "Das hat man jetzt 20 Jahre lang versucht und im Ergebnis hat man gesehen, es geht halt nicht.",
+   "quote_clean": "Das hat man jetzt 20 Jahre lang versucht, und im Ergebnis hat man gesehen: Es geht halt nicht.",
+   "statement": "Der Ansatz der freiwilligen Selbstverpflichtung von Unternehmen (CSR) wurde rund 20 Jahre lang versucht und hat laut Elke Schüßler nicht funktioniert.",
+   "question": "Wie lange hat man laut Elke Schüßler auf freiwillige Selbstverpflichtung der Modefirmen gesetzt, ohne Erfolg?",
+   "answer": "Rund 20 Jahre",
+   "distractors": [
+    "Rund 3 Jahre",
+    "Rund 8 Jahre",
+    "Rund 50 Jahre"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Unter dem Schlagwort CSR verpflichten sich Firmen selbst zu Standards und kontrollieren sich auch selbst. Selbst die willigsten stoßen dabei wegen des Marktdrucks an eine Grenze.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "CSR",
+    "Selbstverpflichtung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2049,
+   "speaker": "Elke Schüßler",
+   "quote": "Das ist aus meiner Sicht die aktuell wichtigste Entwicklung überhaupt zu dem Thema, wo nämlich die Beweislast quasi umgekehrt wird.",
+   "quote_clean": "Das ist aus meiner Sicht die aktuell wichtigste Entwicklung überhaupt zu dem Thema, wo nämlich die Beweislast umgekehrt wird.",
+   "statement": "Ein Lieferkettengesetz kehrt die Beweislast um: Hiesige Unternehmen müssen nachweisen, dass ihre Lieferketten sauber sind.",
+   "question": "Was ändert ein Lieferkettengesetz laut Elke Schüßler grundlegend?",
+   "answer": "Die Beweislast liegt bei den Unternehmen",
+   "distractors": [
+    "Die Zölle auf Kleidung sinken",
+    "Die Lieferanten haften allein",
+    "Konsument:innen müssen Belege prüfen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bisher zeigte man auf Lieferanten in Bangladesch oder deren Regierungen. Mit Sorgfaltspflichten müssen Firmen hier ihre Lieferketten selbst auf Risiken prüfen und Missstände abstellen, zumindest ab einer gewissen Größe.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Lieferkettengesetz",
+    "EU"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2178,
+   "speaker": "Elke Schüßler",
+   "quote": "Also das ist ja ein ganz zentrales Kernrecht eigentlich, was von vielen Staaten der Welt, unter anderem auch der USA, nicht in nationales Recht aufgenommen wurde.",
+   "quote_clean": "Das ist eigentlich ein ganz zentrales Kernrecht, das von vielen Staaten der Welt, unter anderem auch den USA, nicht in nationales Recht aufgenommen wurde.",
+   "statement": "Das Recht auf Kollektivverhandlungen gehört zu den ILO-Kernarbeitsnormen, wurde aber von vielen Staaten, auch den USA, nicht in nationales Recht übernommen.",
+   "question": "Welches große Industrieland hat das ILO-Kernrecht auf Kollektivverhandlungen nicht in nationales Recht übernommen?",
+   "answer": "Die USA",
+   "distractors": [
+    "Deutschland",
+    "Frankreich",
+    "Schweden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zu den Kernarbeitsnormen der Internationalen Arbeitsorganisation gehören: keine Kinderarbeit, keine Sklavenarbeit, keine Diskriminierung und das Recht, kollektiv zu verhandeln. Ohne dieses letzte Recht kommen Arbeiterinnen kaum aus dem Machtgefälle heraus.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "ILO",
+    "Arbeitsrecht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2267,
+   "speaker": "Elke Schüßler",
+   "quote": "Gotts ist sicherlich eines, wie du es gesagt hast, auf das man sich recht gut verlassen kann. Fairtrade ist ein anderes, wobei es natürlich keine absolute Sicherheit gibt.",
+   "quote_clean": "GOTS ist sicherlich eines, wie du gesagt hast, auf das man sich recht gut verlassen kann. Fairtrade ist ein anderes, wobei es keine absolute Sicherheit gibt.",
+   "statement": "Das GOTS-Siegel (Global Organic Textile Standard), Fairtrade und das Siegel der Fair Wear Foundation gelten als vergleichsweise verlässlich.",
+   "question": "Wofür steht das Textilsiegel GOTS?",
+   "answer": "Global Organic Textile Standard",
+   "distractors": [
+    "Green Organic Trade Seal",
+    "Global Office for Textile Safety",
+    "General Organic Textile Society"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Mittlerweile gibt es einen eigenen Markt für Siegel, aus dem sich Firmen das passendste aussuchen. GOTS schaut auf soziale und ökologische Bedingungen, absolute Sicherheit gibt aber kein Siegel.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Siegel",
+    "Konsum"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 2319,
+   "speaker": "Andreas Sator",
+   "quote": "Was nehme ich mir mit? Nur ein Bruchteil des Kaufpreises eines Shirts geht an ArbeiterInnen.",
+   "quote_clean": "Was nehme ich mir mit? Nur ein Bruchteil des Kaufpreises eines Shirts geht an Arbeiter:innen.",
+   "statement": "Andreas fasst am Ende der Folge mit der Frage „Was nehme ich mir mit?“ seine wichtigsten Erkenntnisse zusammen.",
+   "question": "Mit welcher Frage leitet Andreas am Ende einer Folge seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir heute gelernt?",
+    "Was bleibt am Ende übrig?",
+    "Was heißt das jetzt für uns?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nach dem Gespräch fasst Andreas allein zusammen, was hängen geblieben ist. Diesmal: Bessere Löhne wären leistbar, aber durchsetzen muss das die Politik, nicht dein Einkaufskorb.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Podcast",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 2428,
+   "speaker": "Andreas Sator",
+   "quote": "Also, wer sich verrückt macht auf der Suche nach dem perfekt hergestellten T-Shirt, was auf jeden Fall auch wichtig ist, bitte mindestens genauso viel Zeit dafür verwenden, an den Türen von PolitikerInnen zu klopfen.",
+   "quote_clean": "Wer sich verrückt macht auf der Suche nach dem perfekt hergestellten T-Shirt, was auf jeden Fall auch wichtig ist: bitte mindestens genauso viel Zeit dafür verwenden, an den Türen von Politiker:innen zu klopfen.",
+   "statement": "Andreas rät, mindestens so viel Zeit wie für die Suche nach dem perfekten T-Shirt dafür zu verwenden, bei Politiker:innen anzuklopfen.",
+   "question": "Was rät Andreas allen, die nach dem perfekt hergestellten T-Shirt suchen?",
+   "answer": "Genauso viel bei Politiker:innen anklopfen",
+   "distractors": [
+    "Nur noch Secondhand kaufen",
+    "Selbst T-Shirts nähen lernen",
+    "Nur Marken aus Europa kaufen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Problem ist systemisch, die Anreize halten die Standards niedrig. Gutes Einkaufen ist fein, aber Gesetze bewegen mehr als der eigene Kleiderschrank.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Politik",
+    "Konsum"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "191",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

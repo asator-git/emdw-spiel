@@ -1,0 +1,284 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 536-547 eindeutig (90 zu 10), Aha belegt.",
+   "stand_note": "",
+   "statement": "Bei Einsätzen von Ärzte ohne Grenzen sind rund 90 Prozent der Mitarbeitenden lokale Angestellte und nur rund 10 Prozent internationale Fachkräfte.",
+   "question": "Wie viel Prozent der Mitarbeitenden bei einem Einsatz von Ärzte ohne Grenzen sind ungefähr lokale Angestellte?",
+   "answer": "Rund 90 Prozent",
+   "distractors": [
+    "Rund 30 Prozent",
+    "Rund 50 Prozent",
+    "Rund 70 Prozent"
+   ],
+   "aha": "Die internationalen Leute sind meist Teamleader, die Prozesse aufsetzen und Personal schulen. Danach geben sie Schritt für Schritt Kompetenzen an das lokale Team ab.",
+   "quote_clean": "Die Verteilung zwischen Fachkräften oder Mitarbeiterinnen des jeweiligen Einsatzlandes und internationalen Fachkräften ist immer ungefähr im Bereich 90 zu 10.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 156 passt, Aha bei 143-171 belegt.",
+   "stand_note": "",
+   "statement": "Ein Einsatz für internationale Mitarbeitende von Ärzte ohne Grenzen dauert typischerweise drei bis sechs Monate.",
+   "question": "Wie lange dauert ein typischer Auslandseinsatz für internationale Mitarbeitende von Ärzte ohne Grenzen?",
+   "answer": "Drei bis sechs Monate",
+   "distractors": [
+    "Zwei bis drei Wochen",
+    "Zwei bis drei Jahre",
+    "Mindestens fünf Jahre"
+   ],
+   "aha": "Dazwischen arbeiten viele ganz normal zu Hause. Heinz zum Beispiel kommt aus Wirtschaft und Logistik und war immer wieder auch in der Privatwirtschaft tätig.",
+   "quote_clean": "Man muss verstehen, dass die Einsätze von Ärzte ohne Grenzen natürlich drei bis sechs Monate dauern.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Beleg bei 1768-1786 passt; 'ausschließlich' ist Wegerers Aussage und wird zugeschrieben, Stand 2022.",
+   "stand_note": "Stand 2022",
+   "statement": "Laut Heinz Wegerer finanziert sich Ärzte ohne Grenzen ausschließlich aus privaten Spenden und nimmt keine staatlichen Gelder an.",
+   "question": "Woher bekommt Ärzte ohne Grenzen laut Heinz Wegerer das Geld für seine Einsätze?",
+   "answer": "Ausschließlich aus privaten Spenden",
+   "distractors": [
+    "Vor allem von der EU",
+    "Vor allem von der UNO",
+    "Aus Steuergeld der Mitgliedsstaaten"
+   ],
+   "aha": "Keine staatlichen Subventionen heißt: keine politischen Agenden, die mitreden. So kann die Organisation dort helfen, wo ihre eigenen Analysen den größten Bedarf zeigen, finanziert von vielen kleinen Spenden.",
+   "quote_clean": "Ärzte ohne Grenzen finanziert sich ausschließlich aus privaten Spendengeldern, wirklich von der Oma, vom Onkel, die 10 Euro im Monat geben.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1473-1482 passt; Aha enthielt Unbelegtes (Textillieferant in Dnipro), Distraktor Brüssel ist selbst ein MSF-Standort.",
+   "stand_note": "",
+   "statement": "Laut Heinz Wegerer hat Ärzte ohne Grenzen ein Logistikzentrum in Bordeaux in Frankreich, aus dem auch Material in die Ukraine kam.",
+   "question": "In welcher Stadt liegt laut Heinz Wegerer das Logistikzentrum von Ärzte ohne Grenzen, aus dem Material in die Ukraine kam?",
+   "answer": "Bordeaux",
+   "distractors": [
+    "Genf",
+    "Marseille",
+    "Hamburg"
+   ],
+   "aha": "Was in der Ukraine nicht aufzutreiben war, kam aus Frankreich, quer durch halb Europa. Später fand das Team zum Glück Lieferanten vor Ort und sparte sich den langen Weg.",
+   "quote_clean": "Einerseits ist für uns immer naheliegend: In Bordeaux ist unser Logistikzentrum von Ärzte ohne Grenzen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 441-449 passt (Uschhorod, slowakische Grenze), Aha belegt.",
+   "stand_note": "Stand 2022",
+   "statement": "Ärzte ohne Grenzen platziert sein Logistikzentrum in einem Einsatzland dort, wo es voraussichtlich lange sicher ist – in der Ukraine war das Uschhorod an der slowakischen Grenze.",
+   "question": "Wo hat Ärzte ohne Grenzen 2022 sein Logistiklager für die Ukraine aufgebaut?",
+   "answer": "In Uschhorod an der slowakischen Grenze",
+   "distractors": [
+    "In Kiew im Zentrum des Landes",
+    "In Charkiw nahe der Front",
+    "In Odessa am Schwarzen Meer"
+   ],
+   "aha": "Das Lager muss sicher sein, nicht nah an der Front. Von ganz im Westen aus wurden die Teams bis in den Osten versorgt, und die Nähe zur EU brachte gute Lieferanten gleich mit.",
+   "quote_clean": "Ganz einfach deswegen, weil es für uns als Ärzte ohne Grenzen immer Sinn macht, das Logistikzentrum in einem Bereich des jeweiligen Einsatzlandes zu platzieren, wo man davon ausgehen kann, dass es relativ lange sicher ist.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Beleg bei 1351-1365 passt, aber eher definitorische Frage; Aha enthielt nicht Gesagtes (Einkauf, Lager).",
+   "stand_note": "",
+   "statement": "Humanitäre Logistik umfasst die ganze Kette vom Lieferanten, der ein Medikament verpackt, bis zur Ärztin, die es dem Patienten gibt.",
+   "question": "Wo endet laut Logistiker Heinz Wegerer die Lieferkette eines Medikaments bei Ärzte ohne Grenzen?",
+   "answer": "Bei der Ärztin, die es dem Patienten gibt",
+   "distractors": [
+    "Beim Eingang ins Lager",
+    "Beim Zoll an der Grenze",
+    "Bei der Apotheke im Spital"
+   ],
+   "aha": "Alles dazwischen ist der Job der Logistik. Heinz sieht sich dabei weniger als Techniker, sondern als People Manager, der viele Menschen und Bedürfnisse unter einen Hut bringt.",
+   "quote_clean": "Diese Wertschöpfungskette, wie man das nennt, beginnt beim Lieferanten, der das Medikament zum Beispiel in seinem Lager irgendwo einpackt, und endet bei der Ärztin oder dem Arzt, der es dann dem Patienten gibt.",
+   "quality": 2
+  },
+  {
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Zahl zweimal mit 'ich glaube' relativiert und nur Momentaufnahme 2022; unsichere Erinnerung als Faktum nicht tauglich.",
+   "stand_note": "Stand 2022",
+   "statement": "Im Frühjahr 2022 wurde Treibstoff in der Ukraine rationiert, pro Tankvorgang durfte man nur etwa 10 bis 20 Liter tanken.",
+   "question": "Wie viele Liter durfte man in der Ukraine im Frühjahr 2022 wegen der Rationierung ungefähr pro Tankvorgang tanken?",
+   "answer": "10 bis 20 Liter",
+   "distractors": [
+    "2 bis 5 Liter",
+    "50 bis 60 Liter",
+    "100 bis 150 Liter"
+   ],
+   "aha": "Rationiert wurde vorausschauend, damit der Sprit nicht an einem Tag X ganz ausgeht. Für einen LKW sind 20 Liter aber ein Witz – später gab es Ausnahmen für Hilfsorganisationen.",
+   "quote_clean": "Ich glaube, da war es dann so, dass du pro Tankvorgang nur 10 oder 20 Liter tanken durftest. Und das ist bei einem LKW natürlich nichts.",
+   "quality": 2
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1543-1548 passt (drei Stunden bis sieben Tage), Aha bei 1560-1572 belegt.",
+   "stand_note": "Stand 2022",
+   "statement": "Lkw mit Hilfsgütern konnten 2022 an der ukrainischen Grenze zwischen drei Stunden und bis zu sieben Tage aufgehalten werden.",
+   "question": "Wie viele Tage konnte ein Lkw mit Hilfsgütern 2022 im schlimmsten Fall an der ukrainischen Grenze stehen?",
+   "answer": "Bis zu sieben Tage",
+   "distractors": [
+    "Bis zu einem Tag",
+    "Bis zu drei Tage",
+    "Bis zu drei Wochen"
+   ],
+   "aha": "Deshalb plante das Team immer mit Plan A, B und C und rechnete mit Wahrscheinlichkeiten. Dazu kamen noch ein, zwei Tage fürs Umpacken in kleine Chargen für den Osten.",
+   "quote_clean": "Er hat keine Ahnung, wie lange er an der Grenze aufgehalten wird. Das kann von drei Stunden bis zu sieben Tage dauern.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage ohne Wissensgewinn, Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Für Helfer ist es das Schlimmste, wenn ein Krieg in Vergessenheit gerät und zur Normalität wird, wie im Jemen.",
+   "question": "Wer hat's gesagt: „Es gibt nichts Schlimmeres, als wenn der Krieg einfach in Vergessenheit gerät und zur Normalität wird“?",
+   "answer": "Heinz Wegerer",
+   "distractors": [
+    "Andreas Sator",
+    "Wolfgang Mueller",
+    "Florian Krammer"
+   ],
+   "aha": "Im Jemen dauert der Krieg seit sieben, acht Jahren, und kaum wer redet noch darüber. Darum lautet Heinz' Appell: informieren, dranbleiben, darüber sprechen.",
+   "quote_clean": "Es gibt nichts Schlimmeres, glaube ich, als wenn der Krieg einfach in Vergessenheit gerät und zur Normalität wird, so wie es zum Beispiel im Jemen der Fall ist.",
+   "quality": 1
+  },
+  {
+   "i": 16,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage ohne Wissensgewinn, Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Nach vier Jahren in Krisengebieten sagt Heinz Wegerer, er habe ein Grundvertrauen in die Menschheit gewonnen.",
+   "question": "Wer hat's gesagt: „Ich habe so ein Grundvertrauen in die Menschheit erlangt“ – nach Einsätzen im Irak, Jemen und der Zentralafrikanischen Republik?",
+   "answer": "Heinz Wegerer",
+   "distractors": [
+    "Andreas Sator",
+    "Katja Corcoran",
+    "Wolfgang Mueller"
+   ],
+   "aha": "Vor dem ersten Einsatz hatte er Angst vor der fremden Kultur und den fremden Leuten. Egal wo er hinkam, fand er Menschen, die ihn offen aufgenommen und ihm den Alltag leichter gemacht haben.",
+   "quote_clean": "Und wofür ich so dankbar bin, dass ich das die letzten vier Jahre erfahren durfte: Ich habe so ein Grundvertrauen in die Menschheit erlangt.",
+   "quality": 1
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 623-636 passt, aber 'am schwersten' überzieht die Aussage; Frage auf den belegten Vergleich eingegrenzt.",
+   "stand_note": "",
+   "statement": "Für Heinz Wegerer ist das Wiedereinleben zu Hause nach einem Einsatz deutlich schwieriger als die Vorbereitung davor.",
+   "question": "Was fällt Heinz Wegerer laut eigener Aussage deutlich schwerer als die Vorbereitung auf einen Einsatz?",
+   "answer": "Das Wiedereinleben zu Hause danach",
+   "distractors": [
+    "Der Flug ins Einsatzgebiet",
+    "Die Verständigung mit den Kolleginnen vor Ort",
+    "Das Leben in der fremden Kultur"
+   ],
+   "aha": "Nach sechs Monaten im Jemen wieder zu Hause anzukommen, braucht viel Geduld von allen Seiten. Ärzte ohne Grenzen begleitet diese Rückkehr deshalb auch psychologisch.",
+   "quote_clean": "Ich muss aber ganz ehrlich sagen: Für mich ist der Prozess davor deutlich einfacher als der Prozess danach.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Beleg bei 1213-1241 passt; Aha-Aussage 'überreden' war nicht belegt.",
+   "stand_note": "Stand 2022",
+   "statement": "Zu Beginn des Krieges wollten viele Ukrainer:innen, die bei Ärzte ohne Grenzen mithalfen, kein Gehalt annehmen.",
+   "question": "Welches ungewöhnliche Problem hatte Ärzte ohne Grenzen anfangs beim Anstellen von Personal in der Ukraine?",
+   "answer": "Viele wollten kein Gehalt annehmen",
+   "distractors": [
+    "Niemand wollte im Lager arbeiten",
+    "Alle verlangten Gehalt in Euro",
+    "Keiner sprach Englisch"
+   ],
+   "aha": "In der Ukraine gab es von Tag eins an eine Kultur der Freiwilligkeit, jede und jeder wollte seinen Teil leisten. Ärzte ohne Grenzen wollte aber professionelle Angestellte, zumindest für längere Zeit, und das war anfangs gar nicht so leicht.",
+   "quote_clean": "Das ist so weit gegangen, dass wir zu Beginn echt Probleme hatten, Menschen zu finden, die bei uns auch eine Bezahlung akzeptieren.",
+   "quality": 4
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2467-2482 passt, Betrag ist ungefähr ('weiß ich nicht, 10 Dollar'), Aha belegt.",
+   "stand_note": "",
+   "statement": "Im Jemen wurde Heinz Wegerers kaputter Laptop über Nacht für rund 10 Dollar repariert.",
+   "question": "Wie viel kostete die Reparatur von Heinz Wegerers kaputtem Laptop über Nacht im Jemen ungefähr?",
+   "answer": "Rund 10 Dollar",
+   "distractors": [
+    "Rund 100 Dollar",
+    "Rund 300 Dollar",
+    "Gar nichts"
+   ],
+   "aha": "Zu Hause hätte er sich überlegt, ob sich eine Reparatur überhaupt auszahlt. Im Kriegsland war das Ding am nächsten Morgen fertig, nicht mit Originalteilen, aber es lief.",
+   "quote_clean": "Ich habe ihm den Laptop um 19 Uhr am Abend gegeben, und am nächsten Tag um 9 Uhr in der Früh war der Laptop komplett repariert, einwandfrei, und das hat ungefähr 10 Dollar gekostet.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "'Typischerweise' ist aus diesem Ausschnitt nicht belegbar, Frage ohne Wissensgewinn; Aha stellt Reihenfolge falsch dar.",
+   "stand_note": "",
+   "statement": "Andreas bittet seine Gäste zu Beginn meist, sich kurz selbst vorzustellen.",
+   "question": "Mit welcher Bitte startet Andreas typischerweise ins Gespräch mit seinem Gast?",
+   "answer": "Dass sich der Gast kurz vorstellt",
+   "distractors": [
+    "Dass der Gast einen Witz erzählt",
+    "Dass der Gast ein Buch empfiehlt",
+    "Dass der Gast sein Lieblingsessen nennt"
+   ],
+   "aha": "„Magst du dich zu Beginn noch kurz vorstellen?“ – so beginnen viele Folgen. Heinz' Antwort kam gleich mit oberösterreichischem Akzent, was Andreas trocken mit „Was man hört“ kommentierte.",
+   "quote_clean": "Hallo, lieber Heinz. Magst du dich zu Beginn noch kurz vorstellen, bitte?",
+   "quality": 1
+  }
+ ],
+ "id": "218",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

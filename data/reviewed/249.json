@@ -1,0 +1,279 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahl im Transkript belegt (ca. 1000 Tiere, knapp 900 Hühner, 50 Schweine, 30 Puten), Quelle FiBL/Vier Pfoten genannt.",
+   "stand_note": "Stand 2023",
+   "statement": "Für einen durchschnittlichen Menschen in Österreich werden laut einer FiBL-Studie im Laufe des Lebens rund 1.000 Tiere geschlachtet.",
+   "question": "Wie viele Tiere werden für einen durchschnittlichen Menschen in Österreich im Laufe seines Lebens geschlachtet?",
+   "answer": "Rund 1.000",
+   "distractors": [
+    "Rund 100",
+    "Rund 5.000",
+    "Rund 20.000"
+   ],
+   "aha": "Das Forschungsinstitut für biologischen Landbau hat das im Auftrag von Vier Pfoten durchgerechnet. Den Löwenanteil machen gar nicht Schweine oder Rinder aus, sondern Hühner. Bei einem Schnitzel denkt man halt eher nicht an die Stückzahl.",
+   "quote_clean": "Für den durchschnittlichen Menschen in Österreich werden im Laufe des Lebens tausend Tiere geschlachtet, das sind knapp 900 Hühner, 50 Schweine, 30 Puten.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg eindeutig; inhaltlich Doppelung zu Kandidat 0, daher nur mittlere Qualität.",
+   "stand_note": "Stand 2023",
+   "statement": "Von den rund 1.000 Tieren, die in Österreich pro Mensch im Lauf eines Lebens geschlachtet werden, sind knapp 900 Hühner.",
+   "question": "Wie viele Hühner werden für einen durchschnittlichen Menschen in Österreich im Laufe seines Lebens geschlachtet?",
+   "answer": "Knapp 900",
+   "distractors": [
+    "Rund 90",
+    "Rund 300",
+    "Rund 3.000"
+   ],
+   "aha": "Ein Huhn gibt halt nicht viel Fleisch her, also braucht es viele davon. Gegen die knapp 900 Hühner wirken die 50 Schweine und 30 Puten fast bescheiden.",
+   "quote_clean": "Das sind knapp 900 Hühner, 50 Schweine, 30 Puten, dann Kälber und so weiter, also für einen Menschen und sein ganzes Leben im Durchschnitt.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "50 Schweine zweimal im Ausschnitt genannt, Zahl sicher; Teil derselben Studie.",
+   "stand_note": "Stand 2023",
+   "statement": "Ein durchschnittlicher Mensch in Österreich isst im Laufe seines Lebens Fleisch von rund 50 Schweinen.",
+   "question": "Von wie vielen Schweinen isst ein Mensch in Österreich im Laufe seines Lebens im Schnitt Fleisch?",
+   "answer": "Rund 50",
+   "distractors": [
+    "Rund 5",
+    "Rund 15",
+    "Rund 200"
+   ],
+   "aha": "Herwig Grimm hat sich die Zahl extra noch einmal sagen lassen, weil er damit weiterrechnen wollte. Grob die Hälfte davon sind männlich, und genau da beginnt ein eigenes Problem.",
+   "quote_clean": "Sag mir noch mal, wie viele Schweine es waren. 50 Schweine im Leben eines Menschen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Definition wörtlich belegt, Distraktoren eindeutig anders.",
+   "stand_note": "",
+   "statement": "Die Schlachtreife eines Tieres ist der Zeitpunkt, ab dem sich das Weiterfüttern wirtschaftlich nicht mehr lohnt, weil es pro Tag zu wenig zunimmt.",
+   "question": "Was bedeutet der Begriff „Schlachtreife“ eigentlich?",
+   "answer": "Weiterfüttern rentiert sich nicht mehr",
+   "distractors": [
+    "Das Tier ist ausgewachsen",
+    "Das Tier ist geschlechtsreif",
+    "Das Fleisch schmeckt am besten"
+   ],
+   "aha": "Das Wort klingt, als wäre das Tier bereit für etwas. Gemeint ist aber eine rein ökonomische Rechnung. Grimm nimmt das gern als Beispiel dafür, wie in scheinbar neutralen Begriffen Werte stecken.",
+   "quote_clean": "Die Schlachtreife eines Tieres ist ja nicht, wenn es bereit ist, geschlachtet zu werden, sondern der Zeitpunkt, wo sich das Weiterfüttern ökonomisch nicht mehr rentiert, weil die Tageszunahmen zu gering sind.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt, aber reines Raten ohne Vorwissen; Distraktoren plausibel, durch Formulierung „laut dieser Definition“ eindeutig.",
+   "stand_note": "",
+   "statement": "In einer gängigen Lexikon-Definition ist Landwirtschaft die gelenkte Nutzung von Pflanzen- und Tierbeständen zur Bereitstellung von Gütern für den Markt – von Versorgung der Menschen oder Tierwohl ist keine Rede.",
+   "question": "Wozu dient Landwirtschaft laut einer jüngeren Lexikon-Definition?",
+   "answer": "Bereitstellung von Gütern für den Markt",
+   "distractors": [
+    "Versorgung der Bevölkerung mit Nahrung",
+    "Pflege der Kulturlandschaft",
+    "Erhaltung von Tier- und Pflanzenarten"
+   ],
+   "aha": "Grimm hat im Lexikon nachgeschaut und gefunden: Der Markt steht drin, die Menschen und die Tiere nicht. Für ihn zeigt das, wie stark ein ökonomischer Blick unser Bild von Landwirtschaft prägt.",
+   "quote_clean": "Pflanzen- und Tierbeständen, und jetzt kommt: zur Bereitstellung von Gütern für den Markt. Da steht nichts von Versorgung von Menschen, da steht nichts von Tierwohl.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Aussage belegt (Grimm, Vorreiter beim Käfigverbot); Distraktoren wie Kükenschreddern oder Vollspaltenböden sind in Österreich ebenfalls Thema, daher Frage auf Grimm bezogen und Distraktoren ersetzt.",
+   "stand_note": "Stand 2023",
+   "statement": "Österreich war in der EU Vorreiter beim Verbot der Käfighaltung von Legehühnern.",
+   "question": "Welches Haltungsverbot hat Österreich laut Herwig Grimm als Vorreiter in der EU eingeführt?",
+   "answer": "Käfighaltung von Hühnern",
+   "distractors": [
+    "Kastenstand für Zuchtsauen",
+    "Vollspaltenböden für Schweine",
+    "Lebendtiertransporte in Drittstaaten"
+   ],
+   "aha": "Damit nicht einfach Käfigeier aus dem Ausland ins Regal kommen, haben sich Handel, Bauern und Tierschutzorganisationen zusammengesetzt. Die Supermärkte haben versprochen, österreichische Eier anzubieten.",
+   "quote_clean": "Es gibt auch schon Beispiele aus der Vergangenheit, wo das funktioniert hat. Zum Beispiel war Österreich Vorreiter in der EU beim Verbot der Käfighaltung bei Hühnern.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Aussage belegt; Distraktor „Suhlen im Schlamm“ ist ebenfalls echtes Schweineverhalten, ersetzt.",
+   "stand_note": "",
+   "statement": "Lässt man ein Schwein ins Freie, verbringt es die meiste Zeit mit Wühlen und der Suche nach Eicheln oder Insekten.",
+   "question": "Womit verbringt ein Schwein im Freien die meiste Zeit?",
+   "answer": "Wühlen und Futtersuche",
+   "distractors": [
+    "Schlafen in der Sonne",
+    "Klettern auf Bäume",
+    "Wandern in der Herde"
+   ],
+   "aha": "Schweine sind neugierige, soziale Tiere mit einer extrem feinen Nase. Im durchschnittlichen Stall können sie davon fast nichts ausleben, und genau diese Kluft macht das Leid aus.",
+   "quote_clean": "Wenn es mal draußen ist, dann fängt es an zu wühlen, und die meiste Zeit sucht es irgendwo nach Eicheln oder Insekten.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Statement überzogen („vor allem am Verhalten“); Transkript nennt physiologische Voraussetzungen und Verhaltensreaktionen gleichermaßen.",
+   "stand_note": "",
+   "statement": "Ob ein Tier Schmerz empfinden kann, prüft man neben den physiologischen Voraussetzungen wie dem Nervensystem auch am Verhalten, etwa ob sich das Verhalten durch Schmerzmittel verändert.",
+   "question": "Woran erkennt die Forschung unter anderem, ob ein Tier Schmerz empfinden kann?",
+   "answer": "Verhaltensänderung durch Schmerzmittel",
+   "distractors": [
+    "Größe des Gehirns",
+    "Lautstärke der Schreie",
+    "Anzahl der Sinnesorgane"
+   ],
+   "aha": "In ein Tier hineinschlüpfen können wir nicht. Aber wenn es sich nach einer Verletzung mit Schmerzmittel anders verhält als ohne, ist das ein ziemlich guter Hinweis darauf, dass da etwas wehtut.",
+   "quote_clean": "Ganz wesentlich in den Argumentationen sind immer auch die Abwehrreaktionen, also wie verhält sich ein Tier, und reagiert es zum Beispiel auf Schmerzmittel, verändert sich das Verhalten.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Zitat belegt; „erste Folie“ im Aha nicht belegt (Transkript unklar), entschärft. Als Wer-hat's-gesagt-Frage schwach, da der Gast offensichtlich ist.",
+   "stand_note": "",
+   "statement": "Herwig Grimms Faustregel lautet: Wenn es eine einfache Lösung gibt, war es kein moralisches Problem.",
+   "question": "Wer hat's gesagt: „Wenn es eine einfache Lösung gibt, dann war es kein moralisches Problem“?",
+   "answer": "Herwig Grimm",
+   "distractors": [
+    "Peter Singer",
+    "Tom Regan",
+    "Andreas Sator"
+   ],
+   "aha": "Grimm zeigt den Satz in seiner Vorlesung zur angewandten Ethik und Tierethik. Sobald man an der Oberfläche kratzt, merkt man, wie verzwickt die Dinge sind.",
+   "quote_clean": "Wenn es eine einfache Lösung gibt, dann war es kein moralisches Problem. Das ist so eine Faustregel in meinem Nachdenken über moralische Fragen.",
+   "quality": 2
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitat belegt, aber Frage passte nicht zur Aussage und war trivial; auf die Pointe mit dem Stall umgestellt.",
+   "stand_note": "",
+   "statement": "Die Sterblichkeit wilder Tiere wie Kaninchen oder Gämsen ist so hoch, dass man mit solchen Raten in einem Stall heute ziemlich sicher ins Gefängnis käme.",
+   "question": "Was würde laut Herwig Grimm heute ziemlich sicher passieren, wenn jemand einen Stall mit der Sterblichkeitsrate wilder Kaninchen betriebe?",
+   "answer": "Er käme ins Gefängnis",
+   "distractors": [
+    "Er bekäme eine Öko-Prämie",
+    "Er dürfte nur keine Kaninchen mehr halten",
+    "Er würde als besonders naturnah gelten"
+   ],
+   "aha": "Wildnis ist kein Streichelzoo: „Die Natur ist nicht im Tierschutzverein“, sagt Grimm. Die Sterblichkeit bei Kaninchen oder Gämsen wäre in einem Stall ein Fall für den Strafrichter.",
+   "quote_clean": "Da kann man kurz sagen: Die Natur ist nicht im Tierschutzverein. Das ist tatsächlich so, wenn ich mir die Mortalitätsraten von zum Beispiel Kaninchen in der freien Wildbahn anschaue.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bild wörtlich belegt, Kontext (Schuldentlastung) korrekt wiedergegeben.",
+   "stand_note": "",
+   "statement": "Herwig Grimm beschreibt die Suche nach Entlastung von Schuld mit dem Bild „vom Beichtstuhl in den Bioladen“.",
+   "question": "Mit welchem Bild beschreibt Herwig Grimm, wohin sich die Suche nach Schuldentlastung verlagert hat?",
+   "answer": "Vom Beichtstuhl in den Bioladen",
+   "distractors": [
+    "Von der Kanzel ins Kochstudio",
+    "Vom Altar an die Supermarktkassa",
+    "Von der Kirche ins Fitnessstudio"
+   ],
+   "aha": "Früher hat man die Schuld bei der Beichte abgeladen, heute versucht man, beim Einkaufen möglichst wenig davon anzuhäufen. Ganz schuldfrei durchs Leben kommt man laut Grimm aber eh nicht.",
+   "quote_clean": "So etwas sehe ich wie: vom Beichtstuhl in den Bioladen. Das, was die Exkulpation sucht.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Begriff belegt; Zusatz „auch wenn das Problem nicht gelöst ist“ im Statement leicht interpretiert, angepasst.",
+   "stand_note": "",
+   "statement": "Meliorismus bezeichnet die Idee, dass schrittweises Verbessern einen eigenen Wert hat.",
+   "question": "Wie heißt die Idee, dass schrittweises Verbessern einen eigenen Wert hat?",
+   "answer": "Meliorismus",
+   "distractors": [
+    "Abolitionismus",
+    "Utilitarismus",
+    "Relationalismus"
+   ],
+   "aha": "Das Wort kommt vom lateinischen „melior“, besser. Grimm hält die endgültige moralische Lösung für eine Illusion, also bleibt nur: nächster Schritt, dann der übernächste.",
+   "quote_clean": "Meliorismus, des schrittweisen Verbesserns, und dass das auch einen Wert hat. Da gibt's gute Gründe, warum man da kritisch sein kann gegenüber dieser Position.",
+   "quality": 4
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Bloße Einstiegsfrage des Interviews, kein Wissensgewinn; Aha enthält Unbelegtes.",
+   "stand_note": "",
+   "statement": "Andreas steigt mit der direkten Frage ein, ob es unethisch ist, dass er Tiere isst – und bittet um eine kurze Antwort, die Herwig Grimm ihm verweigert.",
+   "question": "Mit welcher Frage steigt Andreas in das Gespräch mit dem Ethiker Herwig Grimm ein?",
+   "answer": "Ist es unethisch, dass ich Tiere esse?",
+   "distractors": [
+    "Bist du selbst Vegetarier?",
+    "Wie viel Fleisch ist okay?",
+    "Haben Tiere eine Seele?"
+   ],
+   "aha": "Andreas wollte es kurz und knackig, Grimm muss enttäuschen.",
+   "quote_clean": "Jetzt reden wir noch mal ganz spezifisch über dieses Thema. Also Herwig, ist es unethisch, dass ich Tiere esse? Eine kurze Antwort? – Leider, da muss ich gleich enttäuschen.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "keep",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg eindeutig (200 Fragen, in einem Jahr wiederkommen); nur Folgen-Trivia, daher niedrige Qualität.",
+   "stand_note": "",
+   "statement": "Am Ende der Folge sagt Andreas, er hätte noch etwa 200 Fragen, und lädt Herwig Grimm ein, in einem Jahr wiederzukommen.",
+   "question": "Was schlägt Andreas Herwig Grimm am Ende der Folge vor?",
+   "answer": "In einem Jahr wiederzukommen",
+   "distractors": [
+    "Gemeinsam ein Buch zu schreiben",
+    "Einen Bauernhof zu besuchen",
+    "Einen Monat vegan zu leben"
+   ],
+   "aha": "Rund 200 Fragen waren noch offen, also wurde vertagt. Die Hörer:innen hat Andreas gleich eingeladen, ihm ihre Gedanken zu schreiben, gern auch zum Streiten.",
+   "quote_clean": "Herwig, ich hätte noch circa 200 Fragen an dich, aber ich würde sagen, wir machen einen Punkt, und ich habe einen Vorschlag.",
+   "quality": 2
+  }
+ ],
+ "id": "249",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

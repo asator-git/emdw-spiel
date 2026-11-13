@@ -1,0 +1,739 @@
+{
+ "theme": "Klima & Energie",
+ "summary": "Warum E-Autos allein nicht reichen, welche Fehlanreize mehr Verkehr erzeugen und wie Städte und Dörfer mit weniger Autokilometern lebenswerter werden.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 753,
+   "speaker": "Holger Heinfellner",
+   "quote": "Wir haben, wie du sagst, plus 75 Prozent, 74,4 Prozent mehr Emissionen, mehr CO2-Emissionen im Vergleich zu 1990.",
+   "quote_clean": "Wir haben, wie du sagst, 74,4 Prozent mehr CO2-Emissionen im Vergleich zu 1990.",
+   "statement": "Die CO2-Emissionen des Verkehrs in Österreich lagen Anfang der 2020er-Jahre rund 74 Prozent über dem Niveau von 1990.",
+   "question": "Um wie viel Prozent sind die CO2-Emissionen des Verkehrs in Österreich seit 1990 gestiegen?",
+   "answer": "Um rund 74 Prozent",
+   "distractors": [
+    "Um rund 10 Prozent",
+    "Um rund 35 Prozent",
+    "Um rund 150 Prozent"
+   ],
+   "number_value": 74.4,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 200,
+   "log_scale": false,
+   "aha": "In Deutschland sind die Verkehrsemissionen im selben Zeitraum ungefähr gleich geblieben, in Österreich haben sie sich fast verdoppelt. Die Autos wurden zwar effizienter, aber auch größer, schwerer und stärker, und gefahren wird immer mehr.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Verkehr",
+    "Emissionen",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 861,
+   "speaker": "Holger Heinfellner",
+   "quote": "Also wir haben tatsächlich in allen anderen Sektoren eine Reduktion der Treibhausgasemissionen geschafft, nur beim Verkehr eben nicht.",
+   "quote_clean": "Wir haben in allen anderen Sektoren eine Reduktion der Treibhausgasemissionen geschafft, nur beim Verkehr nicht.",
+   "statement": "In Österreich ist der Verkehr der einzige Sektor, dessen Treibhausgasemissionen seit 1990 nicht gesunken sind.",
+   "question": "Welcher Sektor ist in Österreich der einzige, dessen Treibhausgasemissionen seit 1990 nicht gesunken sind?",
+   "answer": "Der Verkehr",
+   "distractors": [
+    "Die Industrie",
+    "Die Landwirtschaft",
+    "Das Heizen von Gebäuden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gebäude, Industrie und Landwirtschaft haben ihre Emissionen gesenkt, der Verkehr ist dagegen kräftig gestiegen. Darum nennt ihn Holger vom Umweltbundesamt das große Sorgenkind der österreichischen Klimapolitik.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Verkehr",
+    "Klimabilanz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 917,
+   "speaker": "Holger Heinfellner",
+   "quote": "Und das andere ist, dass wir durch unsere Vergleichsweise oder im Vergleich zu unseren Nachbarländern niedrigeren Kraftstoffpreise auch einen sogenannten Kraftstoffexport in unserer Bilanz mitrechnen müssen.",
+   "quote_clean": "Das andere ist, dass wir durch unsere im Vergleich zu den Nachbarländern niedrigeren Kraftstoffpreise auch einen sogenannten Kraftstoffexport in unserer Bilanz mitrechnen müssen.",
+   "statement": "Weil Sprit in Österreich billiger ist als in Nachbarländern, wird viel im Ausland verfahrener Treibstoff in Österreich getankt und in der österreichischen Klimabilanz verbucht.",
+   "question": "Warum zählt Treibstoff, den ein Lkw auf dem Weg durch Österreich tankt, zur österreichischen Klimabilanz?",
+   "answer": "Gezählt wird, wo getankt wird",
+   "distractors": [
+    "Gezählt wird, wo der Lkw zugelassen ist",
+    "Gezählt wird, wo die Fracht ankommt",
+    "Gezählt wird, wo die Firma sitzt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Jeder Liter, der in Österreich verkauft wird, landet in der österreichischen Bilanz, egal ob der rumänische Lkw danach nach Berlin weiterfährt. Wegen der vergleichsweise billigen Spritpreise und des vielen Transitverkehrs schaut Österreichs Verkehrsbilanz deshalb besonders schlecht aus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Tanktourismus",
+    "Klimabilanz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1124,
+   "speaker": "Holger Heinfellner",
+   "quote": "Wir haben in Österreich seit, ich würde fast sagen, seit es Aufzeichnungen gibt, also seit 1983 eine annähernd konstante Tageswegedauer von circa 70 Minuten.",
+   "quote_clean": "Wir haben in Österreich, seit es Aufzeichnungen gibt, also seit 1983, eine annähernd konstante Tageswegedauer von circa 70 Minuten.",
+   "statement": "Österreicher:innen sind seit 1983 ziemlich konstant rund 70 Minuten pro Tag unterwegs.",
+   "question": "Wie viele Minuten pro Tag sind Menschen in Österreich im Schnitt unterwegs, und das schon seit 1983?",
+   "answer": "Rund 70 Minuten",
+   "distractors": [
+    "Rund 30 Minuten",
+    "Rund 45 Minuten",
+    "Rund 120 Minuten"
+   ],
+   "number_value": 70,
+   "number_unit": "Minuten pro Tag",
+   "slider_min": 10,
+   "slider_max": 180,
+   "log_scale": false,
+   "aha": "Die Zeit, die wir unterwegs sind, bleibt seit Jahrzehnten fast gleich. Was sich ändert, ist die Strecke: Weil Straßen schneller wurden, fahren wir in derselben Zeit einfach weiter.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Mobilität",
+    "Wegezeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1148,
+   "speaker": "Holger Heinfellner",
+   "quote": "Wir haben im Jahr 1983, das war eine Mobilitätserhebung damals, 22 Kilometer zurückgelegt an einem Tag. 1995 waren es schon 29 und bei der letzten Mobilitätserhebung Österreich unterwegs, 2013, 2014 waren es 36 Kilometer.",
+   "quote_clean": "Im Jahr 1983, laut einer Mobilitätserhebung damals, haben wir 22 Kilometer am Tag zurückgelegt. 1995 waren es schon 29, und bei der letzten Mobilitätserhebung „Österreich unterwegs“ 2013/2014 waren es 36 Kilometer.",
+   "statement": "Die durchschnittliche tägliche Wegstrecke in Österreich stieg von 22 Kilometern (1983) auf 36 Kilometer (2013/14).",
+   "question": "Wie viele Kilometer legte ein Mensch in Österreich laut Mobilitätserhebung 2013/14 im Schnitt pro Tag zurück?",
+   "answer": "Rund 36 Kilometer",
+   "distractors": [
+    "Rund 12 Kilometer",
+    "Rund 22 Kilometer",
+    "Rund 60 Kilometer"
+   ],
+   "number_value": 36,
+   "number_unit": "Kilometer pro Tag",
+   "slider_min": 5,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "1983 waren es noch 22 Kilometer, 1995 schon 29. Gleich lange unterwegs, aber deutlich weiter: Genau dieses Mehr an Kilometern treibt die Emissionen des Verkehrs nach oben.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Mobilität",
+    "Wegelänge"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 643,
+   "speaker": "Andreas Sator",
+   "quote": "Die Emissionen im Verkehr sind relativ konstant in den letzten 30 Jahren. Also circa so hoch wie 1990. Gleichzeitig ist der Verkehr aber sehr stark gestiegen, um ein Drittel oder so.",
+   "quote_clean": "Die Emissionen im Verkehr sind in den letzten 30 Jahren relativ konstant, also circa so hoch wie 1990. Gleichzeitig ist der Verkehr aber stark gestiegen, um ein Drittel oder so.",
+   "statement": "In Deutschland liegen die Verkehrsemissionen etwa auf dem Niveau von 1990, obwohl der Verkehr um rund ein Drittel gewachsen ist.",
+   "question": "Wie haben sich die Verkehrsemissionen in Deutschland seit 1990 entwickelt?",
+   "answer": "Etwa gleich geblieben",
+   "distractors": [
+    "Halbiert",
+    "Um ein Drittel gesunken",
+    "Verdoppelt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Effizientere Motoren haben das Verkehrswachstum ausgeglichen, mehr aber auch nicht. Christian Hochfeld fasst es trocken zusammen: null Minderung in 30 Jahren, und null Emissionen sollen es in den nächsten 25 werden.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Deutschland",
+    "Emissionen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1641,
+   "speaker": "Christian Hochfeld",
+   "quote": "Und sich nicht an Bedarfsprognosen zu orientieren, weil es gibt diesen schönen Spruch, oder der leider auch sehr stark in der Realität sich zeigt, wer Infrastruktur sät, wird Verkehr ernten.",
+   "quote_clean": "Und sich nicht an Bedarfsprognosen zu orientieren, denn es gibt diesen schönen Spruch, der sich leider auch stark in der Realität zeigt: Wer Infrastruktur sät, wird Verkehr ernten.",
+   "statement": "Neue Straßen erzeugen zusätzlichen Verkehr, statt Staus dauerhaft zu lösen: Wer Infrastruktur sät, wird Verkehr ernten.",
+   "question": "Wie geht der Spruch der Verkehrsplaner weiter: „Wer Infrastruktur sät, …“?",
+   "answer": "„… wird Verkehr ernten.“",
+   "distractors": [
+    "„… wird Wohlstand ernten.“",
+    "„… wird Zeit gewinnen.“",
+    "„… wird Staus vermeiden.“"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Baut man Straßen nach Prognosen aus, damit alles flüssig bleibt, fahren die Leute einfach weiter, und die nächste Prognose verlangt den nächsten Ausbau. Christian meint, sonst sehen unsere Straßen bald aus wie im Westen der USA.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Verkehrsplanung",
+    "Infrastruktur"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2054,
+   "speaker": "Christian Hochfeld",
+   "quote": "Wenn ich mit einem Elektroauto fahre, was batterieelektrisch betrieben ist, und für 100 Kilometer meinetwegen 15 Kilowattstunden brauche, dann brauche ich das Doppelte an Kilowattstunden, wenn ich ein Brennstoffzellenfahrzeug mit Wasserstoff betrieben habe, mit erneuerbarem Wasserstoff",
+   "quote_clean": "Wenn ich mit einem batterieelektrischen Auto fahre und für 100 Kilometer 15 Kilowattstunden brauche, dann brauche ich das Doppelte an Kilowattstunden mit einem Brennstoffzellenfahrzeug, das mit erneuerbarem Wasserstoff betrieben wird.",
+   "statement": "Ein Wasserstoff-Brennstoffzellenauto braucht etwa doppelt so viel erneuerbaren Strom pro Kilometer wie ein batterieelektrisches Auto.",
+   "question": "Wie viel Strom braucht ein Wasserstoffauto im Vergleich zu einem Batterie-E-Auto für dieselbe Strecke?",
+   "answer": "Etwa das Doppelte",
+   "distractors": [
+    "Etwa gleich viel",
+    "Etwa die Hälfte",
+    "Etwa ein Viertel mehr"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Beim Wasserstoff geht viel Energie verloren: Strom macht Wasserstoff, Wasserstoff macht wieder Strom. Beim E-Fuel im Verbrennungsmotor ist es noch einmal ein Vielfaches, und erneuerbaren Strom haben wir eh nicht im Überfluss.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wasserstoff",
+    "E-Auto",
+    "Effizienz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2195,
+   "speaker": "Holger Heinfellner",
+   "quote": "Wir haben da sogar einen Faktor von bis zu zehn ausgerechnet, also zehnmal mehr Energie, die erforderlich ist. Das bedeutet, man kommt jetzt ungerechnet, um das ein wenig plakativer darzustellen, mit einem Auto mit Verbrennungsmotor, mit einem E-Fuel nur ein Zehntel der Strecke",
+   "quote_clean": "Wir haben sogar einen Faktor von bis zu zehn ausgerechnet, also zehnmal mehr Energie, die erforderlich ist. Das bedeutet, umgerechnet und etwas plakativer dargestellt: Man kommt mit einem Verbrennerauto mit E-Fuel nur ein Zehntel der Strecke",
+   "statement": "Mit derselben Strommenge kommt ein Verbrenner mit E-Fuel laut Umweltbundesamt nur etwa ein Zehntel so weit wie ein Elektroauto.",
+   "question": "Wie viel Mal weiter kommt ein E-Auto mit derselben Strommenge als ein Verbrenner, der mit E-Fuel fährt?",
+   "answer": "Bis zu zehnmal so weit",
+   "distractors": [
+    "Etwa gleich weit",
+    "Doppelt so weit",
+    "Hundertmal so weit"
+   ],
+   "number_value": 10,
+   "number_unit": "-mal so weit",
+   "slider_min": 1,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Bei E-Fuels wird Strom erst zu Wasserstoff, dann zu flüssigem Sprit und dann im Motor großteils zu Wärme. Darum sieht Holger sie eher im Flugzeug und auf Hochseeschiffen, nicht auf der Straße.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "E-Fuels",
+    "Effizienz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2134,
+   "speaker": "Christian Hochfeld",
+   "quote": "Da fährt ein ICE, ein Schnellzug der Batterieentwicklung und wir versuchen mit der Wasserstoff- Brennstoffzellen-Dresine hinterher zu kommen. Das wird nicht gelingen.",
+   "quote_clean": "Da fährt ein ICE, ein Schnellzug der Batterieentwicklung, und wir versuchen, mit der Wasserstoff-Brennstoffzellen-Draisine hinterherzukommen. Das wird nicht gelingen.",
+   "statement": "Die Batterieentwicklung ist dem Wasserstoff-Auto so weit voraus wie ein Schnellzug einer Draisine.",
+   "question": "Wer vergleicht das Wasserstoffauto mit einer Draisine, die einem ICE der Batterieentwicklung hinterherfährt?",
+   "answer": "Christian Hochfeld",
+   "distractors": [
+    "Holger Heinfellner",
+    "Andreas Sator",
+    "Tom Standage"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Chef von Agora Verkehrswende plädiert dafür, im nächsten Jahrzehnt beim Pkw voll auf Batterie zu setzen, all in. Technologieoffen bleiben ja, aber nicht auf die Draisine warten.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wasserstoff",
+    "Batterie"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 6856,
+   "speaker": "Holger Heinfellner",
+   "quote": "Tatsächlich haben wir, du hast es gesagt, letztes Jahr 13,9, also fast 14 Prozent aller Neuzulassungen emissionsfrei gehabt im Bereich der Pkw. Im Jahr davor waren es noch 6,4 Prozent.",
+   "quote_clean": "Wir hatten letztes Jahr 13,9, also fast 14 Prozent emissionsfreie Pkw-Neuzulassungen. Im Jahr davor waren es noch 6,4 Prozent.",
+   "statement": "2021 waren in Österreich knapp 14 Prozent aller neu zugelassenen Pkw emissionsfrei, 2020 erst 6,4 Prozent.",
+   "question": "Wie viel Prozent der 2021 in Österreich neu zugelassenen Pkw waren emissionsfrei?",
+   "answer": "Knapp 14 Prozent",
+   "distractors": [
+    "Knapp 3 Prozent",
+    "Knapp 25 Prozent",
+    "Knapp 40 Prozent"
+   ],
+   "number_value": 13.9,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Mehr als eine Verdopplung in einem Jahr. Im Bestand fahren aber noch rund 98 Prozent aller Autos mit Benzin oder Diesel, weil ein Auto im Schnitt 14 Jahre lang unterwegs ist.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "E-Auto",
+    "Neuzulassungen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 6909,
+   "speaker": "Holger Heinfellner",
+   "quote": "Die durchschnittliche Nutzungsdauer eines Pkw in Österreich liegt aber bei 14 Jahren.",
+   "quote_clean": "Die durchschnittliche Nutzungsdauer eines Pkw in Österreich liegt bei 14 Jahren.",
+   "statement": "Ein Pkw wird in Österreich im Schnitt 14 Jahre lang genutzt.",
+   "question": "Wie viele Jahre wird ein Pkw in Österreich im Durchschnitt genutzt?",
+   "answer": "14 Jahre",
+   "distractors": [
+    "6 Jahre",
+    "9 Jahre",
+    "22 Jahre"
+   ],
+   "number_value": 14,
+   "number_unit": "Jahre",
+   "slider_min": 2,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Genau das ist der Haken an der Klimaneutralität 2040: Selbst wenn ab 2030 nur noch E-Autos neu zugelassen werden, fahren 2040 noch viele Verbrenner herum. Darum braucht es zusätzliche Anreize, die Flotte schneller zu tauschen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fahrzeugflotte",
+    "Autos"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 5052,
+   "speaker": "Holger Heinfellner",
+   "quote": "Wir haben in Österreich tatsächlich 40% aller Pkw-Wege, 40% aller Pkw-Wege, die kürzer sind als 5 Kilometer.",
+   "quote_clean": "Wir haben in Österreich 40 Prozent aller Pkw-Wege, die kürzer sind als 5 Kilometer.",
+   "statement": "In Österreich sind 40 Prozent aller Autofahrten kürzer als fünf Kilometer.",
+   "question": "Wie viel Prozent aller Autofahrten in Österreich sind kürzer als 5 Kilometer?",
+   "answer": "40 Prozent",
+   "distractors": [
+    "10 Prozent",
+    "20 Prozent",
+    "65 Prozent"
+   ],
+   "number_value": 40,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 90,
+   "log_scale": false,
+   "aha": "Fünf Kilometer sind mit dem Rad gerade einmal 20 bis 25 Minuten. Mit sicheren Radwegen und Geschäften im Ortskern statt am Stadtrand ließe sich ein großer Teil davon locker ohne Auto erledigen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kurze Wege",
+    "Rad"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 4846,
+   "speaker": "Andreas Sator",
+   "quote": "der hat gesagt, wenn man als Radfahrer oder als Fußgängerin bei Tempo 50 mit einem Auto aufprallt, hat man Wahrscheinlichkeit von 45 Prozent, dass man tödlich verunglückt. Bei Tempo 30 ist die Wahrscheinlichkeit 5 Prozent.",
+   "quote_clean": "Er hat gesagt: Wenn man als Radfahrer oder Fußgängerin bei Tempo 50 von einem Auto erfasst wird, hat man eine Wahrscheinlichkeit von 45 Prozent, tödlich zu verunglücken. Bei Tempo 30 ist die Wahrscheinlichkeit 5 Prozent.",
+   "statement": "Wird man als Fußgänger:in oder Radfahrer:in bei Tempo 50 angefahren, liegt das Todesrisiko bei rund 45 Prozent, bei Tempo 30 bei rund 5 Prozent.",
+   "question": "Wie hoch ist ungefähr das Risiko zu sterben, wenn dich als Fußgänger:in ein Auto mit Tempo 50 erfasst?",
+   "answer": "Rund 45 Prozent",
+   "distractors": [
+    "Rund 5 Prozent",
+    "Rund 15 Prozent",
+    "Rund 90 Prozent"
+   ],
+   "number_value": 45,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "20 km/h Unterschied, aber ein neunfaches Risiko. Darum sieht Holger bei Tempo 30 in der Stadt fast nur Gewinner: weniger Tote, weniger Lärm, weniger Abgase und weniger CO2.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Tempo 30",
+    "Verkehrssicherheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 4948,
+   "speaker": "Holger Heinfellner",
+   "quote": "wenn ich jetzt an die Stadt Graz zum Beispiel denke, die ja, ich glaube, ich kann mich hier 1992 schon das flächendeckende Tempo 30 eingeführt haben,",
+   "quote_clean": "Wenn ich zum Beispiel an die Stadt Graz denke, die, glaube ich, schon 1992 das flächendeckende Tempo 30 eingeführt hat,",
+   "statement": "Graz hat bereits 1992 flächendeckend Tempo 30 eingeführt, abseits der Hauptstraßen.",
+   "question": "In welchem Jahr hat Graz flächendeckend Tempo 30 eingeführt?",
+   "answer": "1992",
+   "distractors": [
+    "1975",
+    "2005",
+    "2019"
+   ],
+   "number_value": 1992,
+   "number_unit": "Jahr",
+   "slider_min": 1960,
+   "slider_max": 2022,
+   "log_scale": false,
+   "aha": "Graz war damit ein europäischer Vorreiter, lange bevor Tempo 30 ein Klimathema war. Inzwischen ziehen Orte wie Klosterneuburg nach.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Tempo 30",
+    "Graz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1738,
+   "speaker": "Holger Heinfellner",
+   "quote": "das relativ anschaulich zeigt, dass wir beispielsweise den Pkw-Verkehr bis 2040 ungefähr auf das Niveau wieder senken müssen, wie wir ihn 1995 hatten. Das heißt, ca. 25% im Vergleich zu heute,",
+   "quote_clean": "das anschaulich zeigt, dass wir den Pkw-Verkehr bis 2040 ungefähr wieder auf das Niveau von 1995 senken müssen. Das heißt, um ca. 25 Prozent im Vergleich zu heute,",
+   "statement": "Damit Österreichs Verkehr 2040 klimaneutral sein kann, müssten die Pkw-Kilometer laut Mobilitätsmasterplan um rund 25 Prozent sinken, etwa auf das Niveau von 1995.",
+   "question": "Um wie viel Prozent müssten die Autokilometer in Österreich bis 2040 sinken, damit der Verkehr klimaneutral werden kann?",
+   "answer": "Um rund 25 Prozent",
+   "distractors": [
+    "Um rund 5 Prozent",
+    "Um rund 50 Prozent",
+    "Um rund 80 Prozent"
+   ],
+   "number_value": 25,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Warum nicht einfach alles elektrisch? Weil der erneuerbare Strom für sechs Millionen E-Autos plus Heizen und Industrie schlicht nicht reicht. Also braucht es auch weniger Kilometer mit dem Auto.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Mobilitätsmasterplan",
+    "Verkehrsreduktion"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3758,
+   "speaker": "Andreas Sator",
+   "quote": "Vor einigen Jahrzehnten war das so, da ist der Diesel hauptsächlich in der Landwirtschaft verwendet worden. Man wollte politisch die Landwirte begünstigen und darum hat man gesagt, die zahlen weniger für weniger Steuern, weniger Mineralölsteuer,",
+   "quote_clean": "Vor einigen Jahrzehnten wurde Diesel hauptsächlich in der Landwirtschaft verwendet. Man wollte politisch die Landwirte begünstigen und hat deshalb gesagt, die zahlen weniger Steuern, weniger Mineralölsteuer.",
+   "statement": "Das Dieselprivileg, also die niedrigere Steuer auf Diesel, stammt aus einer Zeit, in der Diesel vor allem in der Landwirtschaft verwendet wurde.",
+   "question": "Wen wollte man ursprünglich begünstigen, als Diesel niedriger besteuert wurde als Benzin?",
+   "answer": "Die Landwirte",
+   "distractors": [
+    "Die Taxifahrer",
+    "Die Autoindustrie",
+    "Die Pendler"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Aus der Traktor-Förderung wurde mit der Zeit ein Steuerrabatt für große Diesel-SUVs und Dienstwagen. Einmal eingeführt, profitieren viele, und so hält sich so ein Privileg locker ein halbes Jahrhundert.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Dieselprivileg",
+    "Steuern"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3177,
+   "speaker": "Christian Hochfeld",
+   "quote": "Das heißt, dass der oder diejenige mit einem hohen Einkommen etwa das Dreifache zurückbekommt über die Steuer im Verhältnis zu dem mit einem niedrigen Einkommen.",
+   "quote_clean": "Das heißt, dass jemand mit hohem Einkommen über die Steuer etwa das Dreifache zurückbekommt im Verhältnis zu jemandem mit niedrigem Einkommen.",
+   "statement": "Weil die Pendlerpauschale in Deutschland vom Steuersatz abhängt, bekommen Gutverdienende pro Kilometer etwa dreimal so viel zurück wie Geringverdienende.",
+   "question": "Wie viel Mal mehr bekommen Gutverdienende in Deutschland über die Pendlerpauschale pro Kilometer zurück als Geringverdienende?",
+   "answer": "Etwa das Dreifache",
+   "distractors": [
+    "Gleich viel",
+    "Etwa das Doppelte",
+    "Etwa das Zehnfache"
+   ],
+   "number_value": 3,
+   "number_unit": "-fache",
+   "slider_min": 1,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Die Pauschale senkt das zu versteuernde Einkommen, und wer einen hohen Steuersatz hat, spart dadurch mehr. Agora Verkehrswende schlägt stattdessen ein einheitliches Mobilitätsgeld vor, etwa 10 Cent pro Kilometer für alle.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Pendlerpauschale",
+    "Steuern"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2775,
+   "speaker": "Christian Hochfeld",
+   "quote": "Und ich finde, die Frage ist wirklich offen, ist der Autofahrer die Melkkuh oder eigentlich die Mastgans der Nation?",
+   "quote_clean": "Und ich finde, die Frage ist wirklich offen: Ist der Autofahrer die Melkkuh oder eigentlich die Mastgans der Nation?",
+   "statement": "Christian Hochfeld stellt infrage, ob Autofahrer:innen wirklich abgezockt werden, oder ob sie nicht eher stark subventioniert sind.",
+   "question": "Welches Tier stellt Christian Hochfeld der „Melkkuh der Nation“ gegenüber, um Autofahrer:innen zu beschreiben?",
+   "answer": "Die Mastgans",
+   "distractors": [
+    "Der Sündenbock",
+    "Der Goldesel",
+    "Das Lastpferd"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gemeint ist: Autofahrende zahlen zwar viel, verursachen aber Kosten für Klima, Luft, Flächen und Gesundheit, die sie nicht bezahlen. Dazu kommen Pendlerpauschale, Dienstwagen- und Dieselprivileg. Gemästet statt gemolken, sozusagen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Subventionen",
+    "Auto"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 4020,
+   "speaker": "Christian Hochfeld",
+   "quote": "dann ist das so, als wenn ich ein Radiogerät habe, aber gar keine Knöpfe dran. Ich kann da gar nichts verstellen.",
+   "quote_clean": "Dann ist das so, als hätte ich ein Radiogerät, aber gar keine Knöpfe dran. Ich kann da gar nichts verstellen.",
+   "statement": "Eine Vignette ist wie ein Radio ohne Knöpfe: Einmal gekauft, kann man unbegrenzt fahren, sie steuert nichts; eine kilometerabhängige Maut hätte dagegen Regler.",
+   "question": "Womit vergleicht Christian Hochfeld ein Verkehrssystem mit Vignette, aber ohne kilometerabhängige Maut?",
+   "answer": "Mit einem Radio ohne Knöpfe",
+   "distractors": [
+    "Mit einem Auto ohne Bremse",
+    "Mit einer Waage ohne Gewichte",
+    "Mit einer Ampel, die immer grün ist"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Mit der Vignette zahlst du einmal und fährst dann, so viel du willst, je mehr, desto billiger pro Kilometer. Eine Maut pro Kilometer wäre der Lautstärkeregler: Viel fahren kostet mehr, wenig fahren weniger.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Maut",
+    "Vignette"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 4068,
+   "speaker": "Christian Hochfeld",
+   "quote": "weil derzeit Verkehrsinfrastruktur finanziert wird über die Mineralölsteuer, also über die Energiesteuer im Verkehr. Bei zunehmender Elektrifizierung wird die zurückgehen.",
+   "quote_clean": "Weil die Verkehrsinfrastruktur derzeit über die Mineralölsteuer finanziert wird, also über die Energiesteuer im Verkehr. Mit zunehmender Elektrifizierung wird diese zurückgehen.",
+   "statement": "Straßen werden heute großteils über die Mineralölsteuer finanziert; mit mehr E-Autos sinken diese Einnahmen, weshalb eine kilometerabhängige Maut diskutiert wird.",
+   "question": "Warum bringen mehr E-Autos die Finanzierung der Straßen in Schwierigkeiten?",
+   "answer": "Die Mineralölsteuer-Einnahmen sinken",
+   "distractors": [
+    "E-Autos beschädigen den Asphalt stärker",
+    "E-Autos zahlen mehr Versicherung",
+    "Ladestationen kosten den Staat zu viel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer elektrisch fährt, tankt nicht und zahlt deshalb keine Mineralölsteuer. Eine Maut pro gefahrenem Kilometer könnte das Loch stopfen, und mit Handy oder kleiner Bordeinheit ist das technisch heute kein Hexenwerk mehr.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Maut",
+    "Mineralölsteuer",
+    "E-Auto"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 5672,
+   "speaker": "Christian Hochfeld",
+   "quote": "aber eigentlich ist die Elektromobilität die ideale Mobilität fürs Land. Inzwischen haben wir überhaupt kein Problem mehr mit der Reichweite,",
+   "quote_clean": "Aber eigentlich ist die Elektromobilität die ideale Mobilität fürs Land. Inzwischen haben wir überhaupt kein Problem mehr mit der Reichweite.",
+   "statement": "Das E-Auto eignet sich besonders gut für den ländlichen Raum: genug Reichweite, eigene Stellplätze zum Laden und oft eigene Solaranlagen am Dach.",
+   "question": "Wo ist das Elektroauto laut Christian Hochfeld eigentlich am besten aufgehoben?",
+   "answer": "Am Land",
+   "distractors": [
+    "In der Innenstadt",
+    "Auf Langstrecken quer durch Europa",
+    "Im Taxigewerbe"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Lange hieß es, E-Autos seien was für die Stadt. Am Land haben aber viel mehr Leute einen eigenen Stellplatz zum Laden und ein Dach für die Photovoltaik, und die Reichweite reicht für den Alltag längst.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "E-Auto",
+    "Land"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 6314,
+   "speaker": "Christian Hochfeld",
+   "quote": "Es glaubt uns jetzt, glaube ich, keiner mehr, dass wir das ohne Skript gemacht haben, aber ich wollte genau auch ein Beispiel aus Deutschland bringen",
+   "quote_clean": "Es glaubt uns jetzt wohl keiner mehr, dass wir das ohne Skript gemacht haben, aber ich wollte genau auch ein Beispiel aus Deutschland bringen.",
+   "statement": "Christian Hochfeld scherzt, dass ihnen niemand mehr glaubt, ohne Skript zu reden, weil die Übergänge so perfekt passen.",
+   "question": "Was befürchtet Christian Hochfeld scherzhaft, als er nahtlos an Holgers Beispiel anknüpft?",
+   "answer": "Dass keiner glaubt, es gab kein Skript",
+   "distractors": [
+    "Dass ihm die Zeit davonläuft",
+    "Dass Holger ihm widerspricht",
+    "Dass die Leitung abbricht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Er hatte genau das passende Beispiel parat: einen Berliner Versuch, bei dem Leute ihr Auto drei Monate abgaben und dafür alle Mobilitätsangebote plus Beratung bekamen. Rund 30 Prozent wollten das Auto danach nicht mehr zurück.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Gespräch",
+    "Humor"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 7628,
+   "speaker": "Andreas Sator",
+   "quote": "Worüber, was könnt ihr noch mitgeben, worüber kann man a, selber nachdenken und b, womit soll man jetzt zum Bürgermeister, zur Bürgermeisterin, zum Bezirkshauptmann oder auch zum Minister oder vielleicht sogar zum Kanzler gehen?",
+   "quote_clean": "Was könnt ihr noch mitgeben: Worüber kann man a) selber nachdenken, und b) womit soll man zum Bürgermeister, zur Bürgermeisterin, zum Bezirkshauptmann, zum Minister oder vielleicht sogar zum Kanzler gehen?",
+   "statement": "Zum Schluss fragt Andreas, was Hörer:innen selbst tun und womit sie zu Politiker:innen gehen können.",
+   "question": "Wonach fragt Andreas seine Gäste am Ende der Folge?",
+   "answer": "Was man selbst tun und fordern kann",
+   "distractors": [
+    "Welches Auto sie selbst fahren",
+    "Wann das Verbrennerverbot kommt",
+    "Welche Partei man wählen soll"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas will immer wissen, was man mit dem Gehörten anfangen kann. Die Gäste raten zu lokalen Initiativen wie dem Berliner Radentscheid, zum Jobrad im eigenen Betrieb und dazu, Wege zu bündeln und es den Kindern vorzuleben.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Engagement"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 4460,
+   "speaker": "Holger Heinfellner",
+   "quote": "1095 Euro, ich glaube es sind ungerechnet 3 Euro pro Tag für die Maximalvariante,",
+   "quote_clean": "1095 Euro, ich glaube, das sind umgerechnet 3 Euro pro Tag für die Maximalvariante.",
+   "statement": "Das österreichweite Klimaticket kostete regulär 1095 Euro im Jahr, umgerechnet 3 Euro pro Tag.",
+   "question": "Wie viel Euro kostete das österreichweite Klimaticket für ein Jahr regulär?",
+   "answer": "1095 Euro",
+   "distractors": [
+    "365 Euro",
+    "599 Euro",
+    "1990 Euro"
+   ],
+   "number_value": 1095,
+   "number_unit": "Euro pro Jahr",
+   "slider_min": 200,
+   "slider_max": 3000,
+   "log_scale": false,
+   "aha": "Ein Jahr lang fast alle Öffis in ganz Österreich um 3 Euro am Tag, das gilt international als Vorbild. Die Wiener:innen kannten das Prinzip schon von der 365-Euro-Jahreskarte, einen Euro pro Tag.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Klimaticket",
+    "Öffis"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "s20220421",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

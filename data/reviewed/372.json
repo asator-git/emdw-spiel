@@ -1,0 +1,290 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "37 Prozent belegt und plausibel; im aha die 88.000 km² entfernt (Österreich hat rund 84.000 km², Gast sagt 'mehr als 88.000').",
+   "stand_note": "",
+   "statement": "Nur rund 37 Prozent der Fläche Österreichs sind Dauersiedlungsraum, also Raum, in dem wir leben und siedeln können.",
+   "question": "Wie viel Prozent der Fläche Österreichs sind Dauersiedlungsraum?",
+   "answer": "Rund 37 Prozent",
+   "distractors": [
+    "Rund 18 Prozent",
+    "Rund 55 Prozent",
+    "Rund 70 Prozent"
+   ],
+   "aha": "Zieht man Wald, Hochgebirge und Gewässer ab, bleibt nur gut ein Drittel des Landes übrig. Auf dieser Fläche drängt sich dann alles: Häuser, Straßen, Äcker, Erholung.",
+   "quote_clean": "Auf Österreich bezogen bleiben dann ungefähr 37 % übrig als Dauersiedlungsraum, und den können wir nutzen, und in dem Dauersiedlungsraum wird es schon dichter.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "12 Prozent passt zu Tirol (Transkript 'Roll'), mit Weltwissen konsistent.",
+   "stand_note": "",
+   "statement": "In Tirol sind nur etwa 12 Prozent der Landesfläche Dauersiedlungsraum.",
+   "question": "Wie viel Prozent der Fläche Tirols sind Dauersiedlungsraum?",
+   "answer": "Etwa 12 Prozent",
+   "distractors": [
+    "Etwa 25 Prozent",
+    "Etwa 40 Prozent",
+    "Etwa 5 Prozent"
+   ],
+   "aha": "Berge sind schön zum Anschauen, aber schlecht zum Bauen. In Tirol bleibt deshalb nur ein schmaler Streifen in den Tälern, in Niederösterreich ist der Spielraum viel größer.",
+   "quote_clean": "Das ist bundeslandspezifisch sehr unterschiedlich. In Tirol haben wir ca. 12 % Dauersiedlungsraum, in Niederösterreich ist es natürlich wesentlich mehr.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "14, 10 und 9 Laufmeter pro Kopf klar belegt und plausibel.",
+   "stand_note": "Stand 2025",
+   "statement": "Österreich hat mit rund 14 Metern Straße pro Kopf das längste Straßennetz im deutschsprachigen Raum.",
+   "question": "Wie viele Meter Straße kommen in Österreich laut Gernot Stöglehner auf eine Person?",
+   "answer": "Rund 14 Meter",
+   "distractors": [
+    "Rund 4 Meter",
+    "Rund 30 Meter",
+    "Rund 60 Meter"
+   ],
+   "aha": "Deutschland kommt auf 10, die Schweiz auf 9 Meter pro Person. Jeder Meter mehr kostet Boden und Geld, das dann woanders fehlt, etwa bei Pflege oder Schulen.",
+   "quote_clean": "Wir haben z.B. im deutschsprachigen Raum das längste Straßennetz pro Kopf. Wir haben 14 Laufmeter Straße pro Kopf, Autobahn, Landesstraßen …",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt als Einschätzung des Gastes ('eine der höchsten'); Frage entsprechend gerahmt.",
+   "stand_note": "Stand 2025",
+   "statement": "Österreich hat laut Gernot Stöglehner eine der höchsten Verkaufsflächen pro Kopf in Europa.",
+   "question": "Worin ist Österreich laut Raumplaner Gernot Stöglehner so etwas wie Europameister?",
+   "answer": "Verkaufsfläche pro Kopf",
+   "distractors": [
+    "Radwege pro Kopf",
+    "Waldfläche pro Kopf",
+    "Bahnkilometer pro Kopf"
+   ],
+   "aha": "Richtig losgegangen ist der Bau von Einkaufszentren erst in den letzten 30, 40 Jahren, als man eigentlich schon wusste, dass es keine gute Idee ist. Dabei wurde der Handel aus den Innenstädten hinausgezogen.",
+   "quote_clean": "Die Verkaufsfläche, die wir pro Kopf haben, ist eine der höchsten in Europa. Da sind wir tatsächlich so etwas wie Europameister.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg",
+    "fairness"
+   ],
+   "note": "Grobe Überschlagsrechnung ('Daumen mal Pi'), 8000 Euro Schnitt zweifelhaft und 'Spekulation' wertend; als Fakt nicht haltbar.",
+   "stand_note": "",
+   "statement": "Bei Wiener Wohnungen um rund 8.000 Euro pro Quadratmeter machen die reinen Baukosten weniger als die Hälfte aus, der Rest entfällt auf Grund und Spekulation.",
+   "question": "Welcher Teil des Quadratmeterpreises einer Wiener Neubauwohnung ist laut Raumplaner der größte?",
+   "answer": "Grundkosten und Spekulation",
+   "distractors": [
+    "Die reinen Baukosten",
+    "Energiestandards und Dämmung",
+    "Steuern und Gebühren"
+   ],
+   "aha": "Das Gebäude selbst kostet grob 2.500 bis 3.000 Euro pro Quadratmeter. Ein paar Zentimeter weniger Dämmung machen Wohnen also kaum billiger, beim Grund spielt die Musik.",
+   "quote_clean": "Das ist weniger als die Hälfte. 5000 bis 6000 Euro sind rein der Spekulationsteil, quasi der Grundkostenanteil.",
+   "quality": 1
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt als Stöglehners Einschätzung; Frage als Meinung gerahmt.",
+   "stand_note": "",
+   "statement": "Laut Gernot Stöglehner ist die Tiefgarage das Teuerste am Bauen und damit der wesentlichste Hebel für günstigere Baukosten.",
+   "question": "Was nennt der Raumplaner Gernot Stöglehner den wesentlichsten Hebel für günstigeres Bauen?",
+   "answer": "Auf die Tiefgarage verzichten",
+   "distractors": [
+    "Weniger Wärmedämmung",
+    "Auf den Lift verzichten",
+    "Kleinere Fenster"
+   ],
+   "aha": "Wo man auch ohne Auto gut durch den Alltag kommt, kann man sich die Tiefgarage sparen. Wer im Ortskern wohnt, braucht vielleicht ein Auto, aber nicht das zweite, dritte oder vierte.",
+   "quote_clean": "Aber da ist für mich der wesentlichste Hebel: Brauche ich eine Tiefgarage oder nicht? Weil das Teuerste am Bauen ist die Tiefgarage.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-Frage ist trivial; als Lückenfrage zum Wortbild umformuliert.",
+   "stand_note": "",
+   "statement": "Gernot Stöglehner nennt das Auto vor allem ein Stehzeug und weniger ein Fahrzeug, weil es über Tag und Jahr betrachtet die meiste Zeit steht.",
+   "question": "Wie nennt der Raumplaner Gernot Stöglehner das Auto, wenn man seine Nutzung über den Tag und das Jahr betrachtet: vor allem ein ... und weniger ein Fahrzeug?",
+   "answer": "Stehzeug",
+   "distractors": [
+    "Parkzeug",
+    "Rastzeug",
+    "Liegezeug"
+   ],
+   "aha": "Für den Raumplaner sind nicht die fahrenden Autos das Problem, Lieferverkehr und Einsatzfahrzeuge braucht es ja. Das Problem sind die parkenden, die den Straßenraum blockieren.",
+   "quote_clean": "Das Thema ist tatsächlich das ruhende Auto, und ein Auto ist vor allem ein Stehzeug und weniger ein Fahrzeug, wenn man sich die Nutzung über den Tag und übers Jahr betrachtet.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Wer-sagt-Frage durch Inhaltsfrage ersetzt; aha ohne 'de facto unbesteuert' als Tatsache, Meinung als solche markiert.",
+   "stand_note": "",
+   "statement": "Gernot Stöglehner vergleicht den Bodenmarkt mit einem Casino, in das nur Grundbesitzer dürfen und in dem man scheinbar immer gewinnt.",
+   "question": "Mit welchem Bild beschreibt Gernot Stöglehner den Bodenmarkt?",
+   "answer": "Mit einem Casino, in dem nur Grundbesitzer spielen dürfen",
+   "distractors": [
+    "Mit einem Wettrennen, das die Gemeinden gewinnen",
+    "Mit einem Basar, auf dem alle gleich verhandeln",
+    "Mit einer Lotterie, bei der alle mitspielen dürfen"
+   ],
+   "aha": "Im Casino des Raumplaners gewinnt man immer, und die Höhe des Gewinns hängt davon ab, wie lange man den Grund liegen lässt. Er sagt selbst dazu: Das ist seine persönliche Meinung, politisch ist das Thema umstritten.",
+   "quote_clean": "Allerdings ist es ein sehr interessantes Casino, weil reingehen dürfen nur Leute, die einen Grund haben, und egal was man tut, man gewinnt immer, und die Höhe des Gewinns wird dadurch entschieden, wie lange man den Grund stehen lässt.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt; 'von selbst' im aha überzieht die Aussage (nur größere Wahrscheinlichkeit).",
+   "stand_note": "",
+   "statement": "Laut Gernot Stöglehner entsteht eine belebte Innenstadt vor allem dadurch, dass dort Menschen wohnen.",
+   "question": "Woher kommt laut Raumplaner Gernot Stöglehner eine belebte Innenstadt?",
+   "answer": "Davon, dass dort Menschen wohnen",
+   "distractors": [
+    "Von Gratisparkplätzen vor Geschäften",
+    "Von großen Einkaufszentren",
+    "Von breiteren Durchzugsstraßen"
+   ],
+   "aha": "Wer Innenstädte beleben will, darf nicht nur aufs Erdgeschoß schauen, sondern muss auch die Stockwerke drüber mitdenken. Wo Leute wohnen, entsteht Nachfrage, und dann ziehen Geschäfte oder Kaffeehäuser eher wieder ein.",
+   "quote_clean": "Eine belebte Innenstadt kommt davon, dass dort wer lebt. Und wenn dort wer lebt und im Umfeld wieder Nachfrage entsteht, dann ist die Wahrscheinlichkeit größer, dass auch wieder ein Geschäft in die Innenstadt zieht.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "fairness",
+    "beleg"
+   ],
+   "note": "'De facto unbesteuert' ist Oles/Gernots Zuspitzung, die ImmoESt greift aber bei Grundstücksverkäufen; als Fakt politisch einseitig und nicht gesichert.",
+   "stand_note": "",
+   "statement": "Wird Grünland in Bauland umgewidmet, entsteht oft ein Wertgewinn wie bei einem Lottogewinn, der in Österreich de facto unbesteuert ist.",
+   "question": "Womit vergleicht der Raumplaner den Wertgewinn bei einer Umwidmung von Grünland in Bauland?",
+   "answer": "Mit einem Lottogewinn",
+   "distractors": [
+    "Mit einer Gehaltserhöhung",
+    "Mit einer Erbschaft",
+    "Mit einer Pensionsvorsorge"
+   ],
+   "aha": "Ein einziger Rechtsakt der Gemeinde macht aus einer Wiese ein Vielfaches an Wert. Die Immobilienertragsteuer greift nur manchmal, ein großer Teil des Gewinns bleibt steuerfrei.",
+   "quote_clean": "Im Allgemeinen einen enormen Wertgewinn, der vergleichbar ist mit einem Lottogewinn oder teilweise höher ist als Lottogewinne, und die sind de facto unbesteuert.",
+   "quality": 2
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Belegt als Stöglehners Beobachtung zu Barcelona; unbelegte Zusatzbehauptung im aha entfernt.",
+   "stand_note": "",
+   "statement": "Laut Gernot Stöglehner nutzen die Menschen in Barcelonas Superblocks die Straße als erweitertes Wohnzimmer, und in den Erdgeschoßen gibt es kaum Leerstand.",
+   "question": "Was zeigt sich laut Gernot Stöglehner in Barcelonas Superblocks, wenn die parkenden Autos verschwinden?",
+   "answer": "Kaum Leerstand in den Erdgeschoßen",
+   "distractors": [
+    "Viele Geschäfte sperren zu",
+    "Die Mieten sinken stark",
+    "Mehr Durchzugsverkehr am Rand"
+   ],
+   "aha": "Die Autos werden gesammelt abgestellt, Zufahren bleibt erlaubt. Auf der frei gewordenen Straße stehen Bänke, Tische und Bäume, die Leute nutzen sie wie ein erweitertes Wohnzimmer.",
+   "quote_clean": "Die Leute nutzen dann den Straßenraum als erweitertes Wohnzimmer, und das führt auch dazu, dass man in diesen Superblocks, in diesen Stadtentwicklungsquartieren, kaum Leerstand in der Erdgeschoßzone hat.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt; im aha genauer formuliert (weniger CO2, weniger Wasser).",
+   "stand_note": "",
+   "statement": "Beim Bodenverbrauch verschwindet nicht die Fläche, sondern die biologische Funktion des Bodens.",
+   "question": "Was wird beim sogenannten Bodenverbrauch eigentlich verbraucht?",
+   "answer": "Die biologische Funktion des Bodens",
+   "distractors": [
+    "Die Fläche selbst",
+    "Das Grundwasser darunter",
+    "Die Grundsteuer der Gemeinde"
+   ],
+   "aha": "Die Wiese ist nach dem Bau ja nicht weg, sie liegt nur unter Beton. Dann lassen sich keine Lebensmittel mehr anbauen, und der Boden kann weniger CO2 speichern und weniger Wasser aufnehmen.",
+   "quote_clean": "Insofern nenne ich es auch Bodenverbrauch, weil was verbraucht wird, ist die biologische Funktion des Bodens. Die Fläche als solche bleibt ja da.",
+   "quality": 4
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Persönliche Anekdote ohne Erkenntniswert fürs Spiel; reine Detailfrage.",
+   "stand_note": "",
+   "statement": "Gernot Stöglehner hat in einer New Yorker Jugendherberge einen echten Brandalarm im 17. Stock erlebt.",
+   "question": "In welchem Stock war Gernot Stöglehner, als es in seiner New Yorker Jugendherberge brannte?",
+   "answer": "Im 17. Stock",
+   "distractors": [
+    "Im 4. Stock",
+    "Im 9. Stock",
+    "Im 32. Stock"
+   ],
+   "aha": "Von ganz oben auf die Blaulichter der Feuerwehr hinunterzuschauen, sei nicht lustig, erzählt er. Es war kein Fehlalarm, ist aber glimpflich ausgegangen, und seitdem denkt er bei Hochhäusern auch an die Sicherheit.",
+   "quote_clean": "Ich habe es einmal erlebt, in einer Jugendherberge in New York: Es hat tatsächlich im Haus gebrannt, und wir waren im 17. Stock.",
+   "quality": 2
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Gesprächsablauf-Frage ohne Erkenntniswert.",
+   "stand_note": "",
+   "statement": "Gegen Ende der Folge fragt Andreas den Gast nach seinen Büchertipps.",
+   "question": "Womit leitet Andreas gegen Ende des Gesprächs über?",
+   "answer": "Mit der Frage nach Büchertipps",
+   "distractors": [
+    "Mit der Frage nach Urlaubszielen",
+    "Mit der Frage nach Lieblingsessen",
+    "Mit der Frage nach Kindheitsträumen"
+   ],
+   "aha": "Statt drei hat Gernot Stöglehner dann vier mitgebracht, darunter Jane Jacobs und Christopher Alexanders Mustersprache. Andreas hat großzügig alle vier gelten lassen.",
+   "quote_clean": "Du hast uns noch drei Büchertipps mitgebracht. Was sollen oder dürfen wir denn lesen?",
+   "quality": 1
+  }
+ ],
+ "id": "372",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

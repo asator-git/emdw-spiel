@@ -1,0 +1,280 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Wortlaut bei 46 s belegt.",
+   "stand_note": "",
+   "statement": "So begrüßt Andreas Sator seine Hörer:innen zu Beginn jeder Folge.",
+   "question": "Wie geht Andreas' Begrüßung weiter: „Erklär mir die Welt, der Podcast, mit dem du …“?",
+   "answer": "die Welt jede Woche besser verstehen sollst",
+   "distractors": [
+    "jeden Tag etwas Neues lernst",
+    "die Welt endlich ganz verstehst",
+    "jede Woche schlauer einschläfst"
+   ],
+   "aha": "Der Satz ist seit Jahren das Ritual am Anfang. Nicht die ganze Welt auf einmal, nur ein bisschen besser, jede Woche.",
+   "quote_clean": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quality": 2
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 161-189 s, gilt weiterhin.",
+   "stand_note": "",
+   "statement": "In Österreich wird die Pension aus dem Durchschnitt der gesamten Erwerbskarriere berechnet, daher drücken Teilzeit, Karenz oder Arbeitslosigkeit die Pension stark.",
+   "question": "Worauf beruht die Berechnung der Pension in Österreich?",
+   "answer": "Auf dem Durchschnitt der ganzen Erwerbskarriere",
+   "distractors": [
+    "Auf den letzten fünf Berufsjahren",
+    "Auf dem höchsten Jahreseinkommen",
+    "Auf einem fixen Betrag für alle"
+   ],
+   "aha": "Jedes Jahr zählt mit, auch die mageren. Wer zwischendurch Teilzeit arbeitet, Kinder betreut oder krank ist, zieht den Schnitt nach unten, und das spürt man dann Jahrzehnte später am Konto.",
+   "quote_clean": "Das Problem an unserem Pensionssystem ist, dass die Pension rückwirkend auf die gesamte Erwerbskarriere berechnet wird. Es wird geschaut, wie viel in 40 Jahren gearbeitet wurde, und davon wird der Durchschnittswert ermittelt.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "transkription",
+    "kontext"
+   ],
+   "note": "Die Zahl 'acht Fragen' und die Schwelle 'vier mit Ja' mischen Armutsgefährdung und materielle Deprivation und sind faktisch zweifelhaft (EU-SILC nutzte damals neun Merkmale); zu riskant.",
+   "stand_note": "",
+   "statement": "Ob jemand als arm gilt, wird unter anderem mit einer Liste von Alltagsfragen ermittelt.",
+   "question": "Wie viele solcher Alltagsfragen umfasst laut Folge die Liste, mit der Armut ermittelt wird?",
+   "answer": "Acht",
+   "distractors": [
+    "Drei",
+    "Zwölf",
+    "Zwanzig"
+   ],
+   "aha": "",
+   "quote_clean": "Das sind typische Fragen, mit denen ermittelt wird, ob jemand arm ist oder als armutsgefährdet gilt. Das sind acht verschiedene Fragen.",
+   "quality": 1
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 333-365 s.",
+   "stand_note": "",
+   "statement": "Altersarmut von Frauen bleibt oft unsichtbar, weil viele Betroffene alleine leben, isoliert sind und sich für ihre Armut schämen.",
+   "question": "Warum nimmt die Gesellschaft Altersarmut von Frauen laut Veronika Bohrn Mena kaum wahr?",
+   "answer": "Betroffene leben isoliert und schämen sich",
+   "distractors": [
+    "Es gibt dazu keinerlei Statistiken",
+    "Betroffene ziehen meist ins Ausland",
+    "Sie wird als Männerproblem gezählt"
+   ],
+   "aha": "Gerade alleinstehende Frauen am Land haben oft wenig Kontakt nach außen. Wer friert und sich dafür geniert, erzählt es niemandem, und so taucht das Problem in keiner Debatte auf.",
+   "quote_clean": "Die sitzen dann zu Hause in ihren nicht geheizten Wohnungen, wickeln sich in drei Decken ein, genieren sich sogar noch dafür, dass sie arm sind, und reden mit niemandem drüber.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Zahl bei 370 s belegt; Stand 2020 in die Frage aufgenommen.",
+   "stand_note": "Stand 2020",
+   "statement": "In Österreich galten zum Zeitpunkt der Folge (2020) über 1,3 Millionen Menschen als armutsgefährdet.",
+   "question": "Wie viele Menschen in Österreich galten laut Veronika Bohrn Mena 2020 als armutsgefährdet?",
+   "answer": "Über 1,3 Millionen",
+   "distractors": [
+    "Rund 300.000",
+    "Rund 600.000",
+    "Über 3 Millionen"
+   ],
+   "aha": "Das ist ungefähr jede siebte Person, in einem der reichsten Länder der Welt. Ein erheblicher Teil davon ist alt und weiblich.",
+   "quote_clean": "Es gibt in Österreich insgesamt über 1,3 Millionen Menschen, die armutsgefährdet sind.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "'Wer sagte' bei einem Gast erratbar; auf den Inhalt (388-403 s) umgestellt und als ihre Einschätzung gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Laut Veronika Bohrn Mena geht das österreichische Pensionssystem von einer Erwerbskarriere mit 40 bis 45 Jahren durchgehender Vollzeitarbeit aus, die auf die meisten Frauen nicht zutrifft.",
+   "question": "Von welcher Erwerbskarriere geht das Pensionssystem laut Veronika Bohrn Mena aus?",
+   "answer": "40 bis 45 Jahre durchgehend Vollzeit",
+   "distractors": [
+    "25 bis 30 Jahre mit Pausen",
+    "35 Jahre, abwechselnd Voll- und Teilzeit",
+    "50 Jahre Vollzeit ab dem Schulabschluss"
+   ],
+   "aha": "Das System rechnet mit 40, 45 Jahren Vollzeit ohne Lücke, sagt Bohrn Mena. Wer Kinder kriegt, Eltern pflegt oder in einer Branche ohne Vollzeitstellen landet, passt da schlicht nicht ins Raster.",
+   "quote_clean": "Weil unser Pensionssystem von Männern für Männer gemacht worden ist, die sich eine Erwerbskarriere vorstellen, in der man 40, 45 Jahre seines Lebens durchgehend Vollzeit erwerbstätig ist.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 445-456 s; sie nennt es einen 'erheblichen Faktor' neben anderen (z. B. fehlende Kinderbetreuung), Frage entsprechend präzisiert.",
+   "stand_note": "",
+   "statement": "Laut Veronika Bohrn Mena ist ein erheblicher Grund für Teilzeit bei Frauen, dass in vielen weiblich dominierten Branchen kaum Vollzeitstellen angeboten werden.",
+   "question": "Was ist laut Veronika Bohrn Mena neben fehlender Kinderbetreuung ein erheblicher Grund, warum viele Frauen Teilzeit arbeiten?",
+   "answer": "In Frauenberufen gibt es oft keine Vollzeitstellen",
+   "distractors": [
+    "Teilzeit wird steuerlich stark belohnt",
+    "Vollzeit ist für Frauen gesetzlich begrenzt",
+    "Teilzeit bringt mehr Pensionsjahre"
+   ],
+   "aha": "Teilzeit ist nicht immer eine Wahl. Wenn die ganze Branche nur Teilzeitstellen anbietet, arbeitet man eben gut und gern 20 Jahre so, und die Pension schrumpft entsprechend mit.",
+   "quote_clean": "Ein erheblicher Faktor ist auch, dass in sehr vielen weiblich dominierten Branchen, sogenannten Frauenberufen, gar keine Vollzeitstellen angeboten werden.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Belegt bei 516-530 s, aber vereinfachte Aussage; als grobe Faustregel von Bohrn Mena gekennzeichnet.",
+   "stand_note": "Stand 2020",
+   "statement": "Laut Veronika Bohrn Mena wird die Pension grob zu zwei Dritteln aus Beiträgen aus der Arbeit finanziert und zu einem Drittel vom Staat zugeschossen.",
+   "question": "Welcher Anteil der Pension wird laut Veronika Bohrn Mena grob über Beiträge aus der eigenen Arbeit finanziert?",
+   "answer": "Zwei Drittel",
+   "distractors": [
+    "Ein Viertel",
+    "Die Hälfte",
+    "Neun Zehntel"
+   ],
+   "aha": "So erklärt es Bohrn Mena: Ein Teil geht direkt vom Lohn weg, ein Teil ist der Arbeitgeberbeitrag, der auch aus deiner Arbeit kommt. Den Rest schießt der Staat zu. Pension ist also kein Geschenk, sondern hart erarbeitet.",
+   "quote_clean": "In Wirklichkeit zahlen wir zwei Drittel unserer Pension über unsere Arbeit selbst, ein weiteres Drittel wird durch den Staat zufinanziert.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 773-790 s.",
+   "stand_note": "Stand 2020",
+   "statement": "Die meisten pflegenden Angehörigen in Österreich sind über 50 Jahre alt; viele pflegen, bis sie selbst pflegebedürftig sind.",
+   "question": "Wie alt sind die meisten pflegenden Angehörigen in Österreich laut Veronika Bohrn Mena?",
+   "answer": "Über 50",
+   "distractors": [
+    "Unter 30",
+    "Zwischen 30 und 40",
+    "Zwischen 40 und 50"
+   ],
+   "aha": "Pflege trifft genau die Jahre, in denen man eigentlich noch an der Pension bauen würde. Manche pflegen so lange, bis sie selbst Pflege brauchen.",
+   "quote_clean": "Die meisten von ihnen sind über 50. Viele pflegen, bis sie selbst im Pflegealter sind, und müssen dann selbst gepflegt werden.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 681-688 s ok; im Aha war die Museums-Aussage falsch zugeordnet (Kameras, nicht der Beruf).",
+   "stand_note": "",
+   "statement": "Veronika Bohrn Mena ist gelernte Fotografin und hat noch analog mit Großbildkameras gelernt, die man heute nur noch im Museum sieht.",
+   "question": "Welchen Beruf hat Veronika Bohrn Mena ursprünglich gelernt?",
+   "answer": "Fotografin",
+   "distractors": [
+    "Krankenpflegerin",
+    "Buchhändlerin",
+    "Drucktechnikerin"
+   ],
+   "aha": "Die Großbildkameras, mit denen sie gelernt hat, stehen heute im Museum. Ihr Beispiel dafür, wie schnell sich Berufe verändern, während das Pensionssystem so tut, als bliebe alles gleich.",
+   "quote_clean": "Ich selbst bin zum Beispiel ausgebildete Fotografin. Ich habe das damals noch analog mit Großbildkameras auf Planfilm gelernt.",
+   "quality": 2
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Statement passte nicht zur Frage; Beleg bei 886-899 s, als ihre Sicht gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Laut Veronika Bohrn Mena hatten Beschäftigte vor 40 Jahren in ihren acht Stunden zwangsläufig Pausen, weil sie auf langsame Post und Technik warten mussten.",
+   "question": "Warum hatten Beschäftigte vor 40 Jahren laut Veronika Bohrn Mena mehr Pausen im Arbeitstag?",
+   "answer": "Sie mussten auf langsame Post warten",
+   "distractors": [
+    "Es gab gesetzlich mehr Pausen",
+    "Die Arbeitstage waren deutlich kürzer",
+    "Es gab weniger Beschäftigte pro Büro"
+   ],
+   "aha": "Früher hat die Technik selbst für Pausen gesorgt: Brief weg, ein paar Tage Ruhe. Heute erwartet man nach ein paar Stunden eine Antwort, die Arbeit ist dichter geworden, der Achtstundentag ist geblieben.",
+   "quote_clean": "Vor 40 Jahren hat man noch ein Dokument in einen Briefumschlag gegeben, abgeschickt und irgendwann drei, vier, fünf Tage später eine Antwort bekommen.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 1112-1121 s (Andreas zitiert Goldin); Aha um Nobelpreis 2023 ergänzt.",
+   "stand_note": "",
+   "statement": "Laut der Harvard-Ökonomin Claudia Goldin schließt sich die Lohnlücke zwischen Männern und Frauen nicht, solange unbezahlte Pflege- und Betreuungsarbeit ungleich verteilt ist.",
+   "question": "Welche Harvard-Ökonomin forscht dazu, dass sich die Lohnlücke ohne gerechte Verteilung unbezahlter Arbeit nicht schließt?",
+   "answer": "Claudia Goldin",
+   "distractors": [
+    "Esther Duflo",
+    "Mariana Mazzucato",
+    "Elinor Ostrom"
+   ],
+   "aha": "Claudia Goldin hat für ihre Forschung zu Frauen am Arbeitsmarkt 2023 den Wirtschaftsnobelpreis bekommen. Ihr Dilemma: Verdient in einem Paar der Mann mehr, kostet es Geld, wenn er reduziert. Gerechte Aufteilung muss man sich im jetzigen System erst einmal leisten können.",
+   "quote_clean": "Einerseits wird diese Lohnlücke, also der Unterschied zwischen dem, was Männer und Frauen im Durchschnitt verdienen, nicht verschwinden, wenn die unbezahlte Arbeit, also die Pflege von Älteren und die Betreuung von Kindern, nicht gerecht verteilt wird.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1190-1196 s.",
+   "stand_note": "",
+   "statement": "Teilzeit und schlechtere Bezahlung von Frauen verstärken sich gegenseitig wie ein Henne-Ei-Problem.",
+   "question": "Welches Bild verwendet Veronika Bohrn Mena für den Zusammenhang zwischen Teilzeit und niedrigerem Lohn von Frauen?",
+   "answer": "Ein Henne-Ei-Problem",
+   "distractors": [
+    "Ein Fass ohne Boden",
+    "Eine gläserne Decke",
+    "Ein Teufelskreis aus Steuern"
+   ],
+   "aha": "Wer weniger verdient, reduziert in der Familie eher die Stunden, und wer Teilzeit arbeitet, wird eher schlechter bezahlt. Deshalb braucht es laut ihr mehrere Maßnahmen gleichzeitig.",
+   "quote_clean": "Aber das Problem ist, wir haben da ein Henne-Ei-Problem. Frauen arbeiten Teilzeit, weil sie weniger verdienen. Und Frauen werden schlechter bezahlt, weil sie Teilzeit arbeiten.",
+   "quality": 2
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1607-1632 s, klar als ihre Einschätzung formuliert.",
+   "stand_note": "Stand 2020",
+   "statement": "Pensionssplitting wird kaum genutzt, weil viele Männer ihre Pension lieber selbst behalten und auf die ewige Ehe verweisen.",
+   "question": "Warum wird das freiwillige Pensionssplitting laut Veronika Bohrn Mena kaum genutzt?",
+   "answer": "Viele Männer behalten ihre Pension lieber selbst",
+   "distractors": [
+    "Das Formular ist kaum zu bekommen",
+    "Es kostet eine hohe Gebühr",
+    "Frauen lehnen es meistens ab"
+   ],
+   "aha": "„Ich verlass dich eh nicht“ ist halt keine Pensionsvorsorge. Deshalb ist das Splitting in der Theorie möglich, in der Praxis aber eine Rarität.",
+   "quote_clean": "Weil ganz viele Männer sagen: Eigentlich möchte ich mir meine Pension schon gerne selbst behalten, und wir werden doch eh für immer verheiratet sein, und ich werde dich doch immer lieben, keine Sorge, ich verlasse dich nicht.",
+   "quality": 3
+  }
+ ],
+ "id": "133",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

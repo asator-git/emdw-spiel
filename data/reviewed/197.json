@@ -1,0 +1,286 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Pauschale Aussage zur 30-jährigen Verjährung ist rechtlich irreführend (gilt typischerweise nur für gerichtlich festgestellte Forderungen; sonst deutlich kürzere Fristen); als Fakt im Spiel zu riskant.",
+   "stand_note": "",
+   "statement": "Schulden verjähren in Österreich laut Schuldnerberatung erst nach 30 Jahren.",
+   "question": "Nach wie vielen Jahren verjähren Schulden, wenn man sie einfach ignoriert?",
+   "answer": "30 Jahre",
+   "distractors": [
+    "5 Jahre",
+    "10 Jahre",
+    "15 Jahre"
+   ],
+   "aha": "",
+   "quote_clean": "Die verjähren erst nach 30 Jahren, und so lange kann ich den Kopf nicht in den Sand stecken.",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Bei t=237 belegt, aber nur als Erfahrungswert ('häufig'), nicht als 'der häufigste'; Statement angepasst.",
+   "stand_note": "",
+   "statement": "Laut Schuldnerberaterin Gudrun Steinmann ist der erste Schritt in die Verschuldung häufig der Kontoüberzug.",
+   "question": "Was ist laut Schuldnerberatung häufig der erste Schritt in die Verschuldung?",
+   "answer": "Der Kontoüberzug",
+   "distractors": [
+    "Ein Autokredit",
+    "Der Handyvertrag",
+    "Eine Kreditkarte"
+   ],
+   "aha": "Konto hat eh jede:r, und der Überziehungsrahmen ist schnell da. Jedes Monat ein bisschen mehr ausgeben als reinkommt, dann ein Umschuldungskredit, dann Ratenkäufe, und irgendwann ist der Überblick weg.",
+   "quote_clean": "Meiner Erfahrung nach ist der erste Schritt in die Verschuldung häufig der Kontoüberzug.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Bei t=242 belegt (Aussage der Beraterin); der Zusatz zu den Überziehungszinsen stand nicht im Transkript, Aha neu gefasst.",
+   "stand_note": "",
+   "statement": "Banken räumen beim Konto laut Schuldnerberaterin meistens einen Überziehungsrahmen von zwei bis drei Monatsgehältern ein.",
+   "question": "Wie viele Monatsgehälter beträgt der Überziehungsrahmen bei Banken laut Schuldnerberaterin meistens?",
+   "answer": "Zwei bis drei Monatsgehälter",
+   "distractors": [
+    "Ein halbes Monatsgehalt",
+    "Fünf bis sechs Monatsgehälter",
+    "Ein Jahresgehalt"
+   ],
+   "aha": "Die Banken sind da recht großzügig, meistens gleich zwei, drei Monatsgehälter. Genau deshalb rutscht man so schleichend hinein: Jeden Monat ein bisschen mehr ausgeben, als reinkommt, und irgendwann geht es sich nicht mehr aus.",
+   "quote_clean": "Jeder von uns braucht ein Konto, und die Banken sind sehr großzügig mit dem Überziehungsrahmen, meistens gleich zwei, drei Monatsgehälter, und das passiert dann schleichend.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Zahl bei t=136 belegt ('fast 6.000, 7.000'); es ist ein Wert von 2021, daher Stand-Hinweis.",
+   "stand_note": "Stand 2021",
+   "statement": "Die Schuldnerberatung in Wien verzeichnet pro Jahr rund 6.000 bis 7.000 Neuanmeldungen.",
+   "question": "Wie viele Neuanmeldungen hat die Wiener Schuldnerberatung ungefähr pro Jahr?",
+   "answer": "Rund 6.000 bis 7.000",
+   "distractors": [
+    "Rund 600 bis 700",
+    "Rund 20.000",
+    "Rund 60.000"
+   ],
+   "aha": "Allein in Wien melden sich jedes Jahr fast 6.000 bis 7.000 Menschen neu bei der Schuldnerberatung. Die Jüngsten sind gerade 18, die Ältesten um die 80.",
+   "quote_clean": "Wir arbeiten gerade in Wien mit sehr vielen Menschen. Im Jahr sind es fast 6.000 bis 7.000 Neuanmeldungen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Bei t=735 belegt; Antwortformat vereinheitlicht (Anteile statt Mischung aus Bruch und Prozent).",
+   "stand_note": "Stand 2021",
+   "statement": "Fast jede dritte Person, die zur Schuldnerberatung kommt, war einmal selbstständig.",
+   "question": "Welcher Anteil der Menschen in der Schuldnerberatung hatte einmal eine eigene Firma?",
+   "answer": "Fast jede dritte Person",
+   "distractors": [
+    "Etwa jede zwanzigste Person",
+    "Etwa jede zehnte Person",
+    "Mehr als zwei von drei Personen"
+   ],
+   "aha": "Fast jede dritte Person hatte mal eine eigene Firma, vom Friseur ums Eck bis zur Diskothek. Oft haftet man privat dafür, und Finanzamt und Sozialversicherung schicken ihre Rechnungen auch dann, wenn keine Rücklagen da sind.",
+   "quote_clean": "Selbstständigkeit: Fast jede dritte Person, die zu uns kommt, hatte mal eine eigene Firma.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Definition bei t=1010 bis 1019 belegt; der Distraktor Kontoüberzug fällt laut Beraterin unter 'verschuldet' und ist wegen der holprigen Transkription heikel, ersetzt.",
+   "stand_note": "",
+   "statement": "Verschuldet ist, wer einen Kredit oder Kontoüberzug hat; überschuldet ist, wer seine Rechnungen nicht mehr begleichen kann.",
+   "question": "Was unterscheidet laut Schuldnerberatung „überschuldet“ von „verschuldet“?",
+   "answer": "Man kann Rechnungen nicht mehr begleichen",
+   "distractors": [
+    "Man hat mehr als einen Kredit",
+    "Die Schulden sind über 10.000 Euro",
+    "Man hat noch nie etwas zurückgezahlt"
+   ],
+   "aha": "Verschuldet ist praktisch jede:r mit Kredit oder überzogenem Konto, und die meisten zahlen brav zurück. Überschuldet ist man erst, wenn es sich nicht mehr ausgeht, und dann kommen Zinsen, Spesen und Inkassobriefe dazu.",
+   "quote_clean": "Aber die meisten Menschen können ihn ja auch regelmäßig zurückzahlen. Überschuldet bin ich, wenn ich die Rechnungen nicht mehr begleichen kann.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=1111 bis 1122 belegt, Distraktoren eindeutig nicht genannt.",
+   "stand_note": "",
+   "statement": "Polizei- und Verwaltungsstrafen zählen zu den gefährlichen Schulden, weil man sie nur zahlen oder absitzen kann.",
+   "question": "Warum zählen Verwaltungsstrafen zu den „gefährlichen Schulden“?",
+   "answer": "Man muss sie zahlen oder absitzen",
+   "distractors": [
+    "Sie verdoppeln sich jedes Jahr",
+    "Sie kosten sofort die Wohnung",
+    "Sie sperren automatisch das Konto"
+   ],
+   "aha": "Neben Miete, Energie und Unterhaltsrückständen sind Strafen besonders heikel: Die kann man nur zahlen oder im letzten Ausweg absitzen. Und das wollen verständlicherweise die wenigsten.",
+   "quote_clean": "Gefährliche Schulden sind aber auch Strafen, Polizei- oder Verwaltungsstrafen, weil die kann ich nur zurückzahlen oder als letzten Ausweg absitzen.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=1255 bis 1261 klar belegt, Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Beim Bezirksgericht kann man eine Exekutionsliste mit allen bereits eingeklagten Schulden bekommen.",
+   "question": "Wo bekommt man eine Liste aller Schulden, die schon einmal eingeklagt wurden?",
+   "answer": "Beim Bezirksgericht",
+   "distractors": [
+    "Beim Finanzamt",
+    "Bei der Hausbank",
+    "Beim Magistrat"
+   ],
+   "aha": "Wer die Briefe weggeschmissen hat, ist nicht verloren: Am Bezirksgericht gibt es die Exekutionsliste. Da steht alles drauf, was schon einmal bei Gericht geklagt worden ist.",
+   "quote_clean": "Eine zweite Möglichkeit ist, ich kann zum Bezirksgericht gehen und mir eine sogenannte Exekutionsliste holen.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Bei t=1636 bis 1644 belegt; der Distraktor 100-Meter-Lauf wird von ihr selbst als Gegenbild genannt und wirkt wie eine Fangfrage, ersetzt.",
+   "stand_note": "",
+   "statement": "Gudrun Steinmann vergleicht den Privatkonkurs mit einem Marathon statt einem Sprint.",
+   "question": "Womit vergleicht die Schuldnerberaterin einen Privatkonkurs?",
+   "answer": "Mit einem Marathon",
+   "distractors": [
+    "Mit einem Staffellauf",
+    "Mit einer Bergtour",
+    "Mit einem Hürdenlauf"
+   ],
+   "aha": "Die Bestzeit ist egal, es geht nur ums Ankommen. Man braucht den langen Atem, um mehrere Jahre durchzuhalten, bis die Restschuldbefreiung kommt.",
+   "quote_clean": "Ein Konkurs ist kein 100-Meter-Lauf. Ich vergleiche das gern mit einem Marathon.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-Frage in einer Ein-Gast-Folge ist trivial, die Distraktoren (Laura, Bankberater) sind beliebig.",
+   "stand_note": "",
+   "statement": "Gudrun Steinmann betont, dass ein Privatkonkurs kein Honiglecken ist.",
+   "question": "Wer sagt über den Privatkonkurs: „Das ist kein Honiglecken“?",
+   "answer": "Gudrun Steinmann",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Hörerin namens Laura",
+    "Ein Bankberater"
+   ],
+   "aha": "",
+   "quote_clean": "Ich sage immer, das ist kein Honiglecken. Das bedarf einer großen Anstrengung, denn ich muss zum Bezirksgericht gehen.",
+   "quality": 1
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-Frage in einer Ein-Gast-Folge ist trivial, die Distraktoren sind beliebig.",
+   "stand_note": "",
+   "statement": "Gudrun Steinmann findet, dass jeder Mensch nach Überschuldung eine zweite Chance verdient.",
+   "question": "Wer sagt: „Jeder Mensch hat eine zweite Chance verdient. Wenn man mal hinfällt, sollte man wieder aufstehen dürfen“?",
+   "answer": "Gudrun Steinmann",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Richter am Bezirksgericht",
+    "Ein Hörer auf Twitter"
+   ],
+   "aha": "",
+   "quote_clean": "Und der zweite Punkt ist: Ich glaube, jeder Mensch hat eine zweite Chance verdient. Wenn man mal hinfällt, sollte man wieder aufstehen dürfen.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=904 bis 940 belegt (Fixkosten, keine akute Sucht, keine neuen Schulden); Distraktoren eindeutig nicht genannt.",
+   "stand_note": "",
+   "statement": "Vor einer Schuldenregulierung braucht es Stabilität: bezahlte Fixkosten und keine akute Sucht.",
+   "question": "Was muss laut Schuldnerberatung vor einer Schuldenregulierung zuerst gesichert sein?",
+   "answer": "Stabilität, etwa bezahlte Fixkosten",
+   "distractors": [
+    "Ein neuer Kredit",
+    "Ein Notar",
+    "Ein Mindestvermögen"
+   ],
+   "aha": "Wie beim Hausbau braucht es zuerst ein Fundament: Miete und Strom müssen bezahlt sein, sonst droht die Delogierung. Und wer spielsüchtig direkt ins nächste Casino geht, kann keine Schulden regeln.",
+   "quote_clean": "Ich vergleiche das gerne mit einem guten Fundament beim Hausbau, wo wir sagen: Erstens sind die Fixkosten bezahlt, sodass die Leute nicht vor der Delogierung stehen.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Bei t=1209 belegt; 'ersten Termin' und 'Fitnessstudio' stehen nicht im Transkript, korrigiert.",
+   "stand_note": "",
+   "statement": "Statt einer ordentlichen Mappe bringen viele Klient:innen ein Einkaufssackerl voller ungeöffneter Briefe mit.",
+   "question": "Womit kommen laut Schuldnerberaterin viele Menschen oft zur Beratung?",
+   "answer": "Einem Sackerl voll ungeöffneter Briefe",
+   "distractors": [
+    "Einer sauberen Excel-Liste",
+    "Einem Anwalt",
+    "Einem fertigen Zahlungsplan"
+   ],
+   "aha": "Andreas fragte nach der Mappe mit Excel-Liste, die Realität ist oft ein Einkaufssackerl. Dann wird gepuzzelt, bis alle Gläubiger beisammen sind, von der Bank bis zur Rundfunkgebühr.",
+   "quote_clean": "Das Gegenteil ist oft der Fall: Menschen kommen zu uns mit einem Einkaufssackerl voll ungeöffneter Briefe, weil sie sagen, ich habe es gar nicht mehr aufgemacht.",
+   "quality": 4
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Meta-Frage zur Podcast-Gewohnheit, nicht zum Folgeninhalt; Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Andreas fasst am Ende der Folge mit „Was nehme ich mir mit?“ zusammen, was er gelernt hat.",
+   "question": "Mit welcher Frage leitet Andreas seine Zusammenfassung am Ende der Folge ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir gelernt?",
+    "Was bleibt am Ende?",
+    "Und was heißt das jetzt?"
+   ],
+   "aha": "",
+   "quote_clean": "Was nehme ich mir mit? Es kann oft schneller gehen, als man glaubt, und auch einen selbst treffen, wenn man glaubt, das trifft immer die anderen.",
+   "quality": 1
+  }
+ ],
+ "id": "197",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

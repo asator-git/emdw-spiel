@@ -1,0 +1,280 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=728 bis 737 belegt (Beginn mehr als die Hälfte, am Ende wahrscheinlich 35 Prozent); Frage sagt ungefähr, passt zur Unsicherheit des Gasts.",
+   "stand_note": "",
+   "statement": "Gegen Ende der Laufzeit muss ein Kino in Österreich nur mehr rund 35 Prozent der Netto-Ticketeinnahmen an den Verleih abgeben.",
+   "question": "Wie viel Prozent der Netto-Ticketeinnahmen gibt ein Kino gegen Ende der Laufzeit eines Films ungefähr an den Verleih ab?",
+   "answer": "Rund 35 Prozent",
+   "distractors": [
+    "Rund 10 Prozent",
+    "Rund 60 Prozent",
+    "Rund 80 Prozent"
+   ],
+   "aha": "Am Anfang kassiert der Verleih bei großen Filmen mehr als die Hälfte, mit jeder Woche wird sein Anteil kleiner. Das Kino verdient also vor allem an Filmen, die lange laufen.",
+   "quote_clean": "Am Beginn der Auswertungsperiode bei größeren Filmen mehr als die Hälfte. Und ganz am Ende der Auswertungsperiode, wenn ich es auf den Nettopreis umlege, wahrscheinlich 35 Prozent.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=719 bis 728 belegt; inhaltlich nahe an Kandidat 0, daher nur mittlere Qualität.",
+   "stand_note": "",
+   "statement": "Je länger ein Film im Kino läuft, desto kleiner wird der Anteil der Einnahmen, den das Kino an den Verleih abgeben muss.",
+   "question": "Wie verändert sich der Anteil, den ein Kino an den Verleih abgibt, je länger ein Film läuft?",
+   "answer": "Er wird immer kleiner",
+   "distractors": [
+    "Er wird immer größer",
+    "Er bleibt immer gleich",
+    "Er steigt nach Oscars"
+   ],
+   "aha": "Im Schnitt geht etwa die Hälfte der Nettoeinnahmen an den Verleih, aber gestaffelt: am Anfang mehr, später weniger. So bleibt ein Film, der sich hält, für das Kino attraktiv.",
+   "quote_clean": "Aber wenn du es aufs Netto umlegst, ist es in etwa die Hälfte. Je länger der Film läuft, desto weniger muss das Kino abrechnen.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Vier Monate bei t=1015 bis 1021 belegt; Aha-Zusätze (Begriff Fenster, Hauptgrund fürs Kino) standen nicht im Transkript, korrigiert; Fristen haben sich seit 2022 weiter verschoben.",
+   "stand_note": "Stand 2022",
+   "statement": "Klassisch mussten nach dem Kinostart mindestens vier Monate vergehen, bevor ein Film auf DVD oder Video on Demand erscheinen durfte.",
+   "question": "Wie viele Monate lag klassischerweise mindestens zwischen Kinostart und DVD- bzw. Streaming-Veröffentlichung?",
+   "answer": "4 Monate",
+   "distractors": [
+    "1 Monat",
+    "8 Monate",
+    "12 Monate"
+   ],
+   "aha": "Diese Schutzfristen sind durch Streaming viel kürzer geworden: Ein Teil der Filme kommt schon nach einem Monat heraus, manche sogar gleichzeitig mit dem Kinostart.",
+   "quote_clean": "Das heißt, der Film kommt zuerst ins Kino, dann müssen mindestens vier Monate verstreichen, dann kann er klassischerweise früher auf DVD oder jetzt auf VOD ausgewertet werden.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Exklusivität bei t=517 bis 527 belegt; Aha an die tatsächlichen Aufgaben des Verleihs angeglichen.",
+   "stand_note": "",
+   "statement": "Verleihrechte für einen Film sind exklusiv: Pro Land bzw. Territorium kann sie nur ein Verleiher haben.",
+   "question": "Wie viele Verleiher können die Kinorechte für einen Film in Österreich gleichzeitig besitzen?",
+   "answer": "Nur einer",
+   "distractors": [
+    "Bis zu drei",
+    "Beliebig viele",
+    "Einer pro Bundesland"
+   ],
+   "aha": "Der Verleih ist so etwas wie der Exklusivhändler eines Films in einem Land. Er besorgt Sprachfassungen und Werbematerial, bewirbt den Film und stellt ihn den Kinos zur Verfügung.",
+   "quote_clean": "Verleihrechte sind immer etwas Exklusives. Das heißt, wenn ich als Verleiher die Rechte für Österreich kaufe, kann sie niemand anderer kaufen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=442 bis 498 klar belegt, Aha-Beispiele stehen im Transkript.",
+   "stand_note": "",
+   "statement": "Zwischen Filmproduktion und Kinopublikum steht zuerst der Weltvertrieb, der einen Film international an Verleiher in den einzelnen Ländern verkauft.",
+   "question": "Wer verkauft einen Film typischerweise an die Verleiher in den einzelnen Ländern?",
+   "answer": "Der Weltvertrieb",
+   "distractors": [
+    "Die Filmförderung",
+    "Die Kinoketten",
+    "Die Regisseurin"
+   ],
+   "aha": "Eine österreichische Produzentin kennt vielleicht die Verleiher in Deutschland oder der Schweiz, aber niemanden in Korea oder Portugal. Dafür braucht es den internationalen Zwischenhändler.",
+   "quote_clean": "Das heißt, das erste Bindeglied zwischen den Produzenten und den Kinozuschauern im jeweiligen Land ist der Weltvertrieb, der den Film dann international verkauft.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Mindestgarantie bei t=595 bis 601 belegt; Aha an die Verwertungskette im Transkript angeglichen.",
+   "stand_note": "",
+   "statement": "Ein Filmverleih zahlt für einen Film meist vorab eine Mindestgarantie, eine Art Anzahlung auf den Anteil der Produzenten.",
+   "question": "Wie heißt die Vorauszahlung, die ein Verleih für die Rechte an einem Film leistet?",
+   "answer": "Mindestgarantie",
+   "distractors": [
+    "Leinwandpauschale",
+    "Startgebühr",
+    "Kopienabgabe"
+   ],
+   "aha": "Erst wenn der Verleih seine eigenen Kosten und diese Garantie wieder eingespielt hat, gibt er einen Teil der Einnahmen an den Weltvertrieb weiter, und der wiederum an die Produzenten.",
+   "quote_clean": "Der Verleih muss meistens eine sogenannte Mindestgarantie bezahlen. Das ist eine Mindestanzahlung auf den Geldanteil der Produzenten.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-Frage in einer Ein-Gast-Folge ist trivial, die Distraktoren sind beliebig.",
+   "stand_note": "",
+   "statement": "Verleiher schreiben in Kinoverträge immer die Maximalbedingungen, weil man nachträglich nur weniger, aber nie mehr verlangen kann.",
+   "question": "Wer erklärt im Podcast: „Weniger verlangen kannst du immer, mehr verlangen kannst du nie“?",
+   "answer": "Michael Stejskal",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Multiplex-Betreiber",
+    "Eine Filmproduzentin"
+   ],
+   "aha": "",
+   "quote_clean": "Die Verleiher müssen immer die Maximalbedingungen in ihre Verträge reinschreiben, weil mehr verlangen kannst du als Verleih nicht. Weniger verlangen kannst du immer, mehr verlangen kannst du nie.",
+   "quality": 1
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=1108 bis 1147 belegt (teure analoge Kopien, digital kaum Kosten, mehr Filme).",
+   "stand_note": "",
+   "statement": "Weil analoge Filmkopien teuer waren, bekam früher nicht jedes Kino jeden Film; mit der Digitalisierung spielen Kinos viel mehr Filme gleichzeitig.",
+   "question": "Warum bekam früher nicht jedes Kino jeden neuen Film?",
+   "answer": "Filmkopien waren teuer",
+   "distractors": [
+    "Es gab zu wenige Säle",
+    "Filme waren zensiert",
+    "Kinos zahlten Lizenzen jährlich"
+   ],
+   "aha": "Wer eine teure Kopie bekam, musste den Film auch ordentlich spielen, damit sich das rechnet. Digitale Kopien kosten fast nichts, darum ist das Programm heute ein buntes Patchwork, und das Kino ist weniger Kurator als früher.",
+   "quote_clean": "Im analogen Zeitalter haben Filmkopien relativ viel Geld gekostet. Das heißt, es war völlig klar, nicht jedes Kino wird beliefert.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=1271 bis 1288 belegt, inklusive Trailer-Argument.",
+   "stand_note": "",
+   "statement": "Ein erfolgreicher Film hilft auch den anderen Filmen eines Kinos, weil Besucher Besucher anziehen und dort Trailer für andere Filme sehen.",
+   "question": "Warum hilft ein gut laufender Film einem Kino auch bei seinen anderen Filmen?",
+   "answer": "Zuschauer ziehen Zuschauer an",
+   "distractors": [
+    "Verleiher geben dann Rabatte",
+    "Die Förderung steigt automatisch",
+    "Andere Filme werden billiger"
+   ],
+   "aha": "Wer für den Hit kommt, sieht vorher die Trailer und denkt sich: Das könnte ich mir auch anschauen. Ein volles Haus ist also selbst Werbung.",
+   "quote_clean": "Das ist auch deshalb wichtig, weil Zuschauer Zuschauer anziehen. Wenn ich einen gut gehenden Film habe, gehen auch die anderen Filme besser, weil ich als Ort attraktiv bin.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Wer-sagt-Frage in einer Ein-Gast-Folge ist trivial; der Aha-Zusatz zu Festivals und Marktvorführungen ist im Ausschnitt nicht belegt.",
+   "stand_note": "",
+   "statement": "Michael Stejskal ist überzeugt, dass das Kino eine Zukunft hat, weil Menschen von Natur aus Dinge gemeinsam erleben wollen.",
+   "question": "Wer begründet im Podcast den Optimismus fürs Kino damit, dass gemeinsames Erleben „in die Gene der Menschen eingeschrieben“ sei?",
+   "answer": "Michael Stejskal",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Netflix-Manager",
+    "Eine Theaterregisseurin"
+   ],
+   "aha": "",
+   "quote_clean": "Ein bisschen pathetisch jetzt: Das ist so in die Gene der Menschen eingeschrieben, dass man gemeinsam etwas erleben will, und dieses gemeinsame Erleben gibt es seit der Antike.",
+   "quality": 1
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "1.000 bis 300.000 Euro bei t=2262 bis 2288 belegt, aber als grobe Schätzung des Gasts ('ich würde mal sagen') und mit Corona-Preisen von 2022; Aha-Pointe zum Sexualleben gehört zu Kandidat 23 und wird hier entfernt.",
+   "stand_note": "Stand 2022",
+   "statement": "Als Mindestgarantie zahlen österreichische Verleiher laut Michael Stejskal für einen Film grob zwischen 1.000 und 300.000 Euro.",
+   "question": "Wie viel zahlt ein österreichischer Filmverleih laut Michael Stejskal am oberen Ende ungefähr als Mindestgarantie für einen Film?",
+   "answer": "Rund 300.000 Euro",
+   "distractors": [
+    "Rund 30.000 Euro",
+    "Rund 3 Millionen Euro",
+    "Rund 10 Millionen Euro"
+   ],
+   "aha": "Kleine Filme bekommt man schon um 1.000 Euro. Die 300.000 sind die seltene Ausnahme und ein sehr großes Investment, nach Corona waren die Preise für kleinere Filme sogar gefallen.",
+   "quote_clean": "Ich würde mal sagen, von 1.000 Euro bis 300.000 kannst du das schon aufspannen.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Fremdwörterverbot bei t=367 bis 380 belegt, ein netter Insider-Fakt; Distraktor Anglizismenverbot überschneidet sich inhaltlich mit Fremdwörtern, ersetzt.",
+   "stand_note": "",
+   "statement": "Bei „Erklär mir die Welt“ gilt laut Andreas ein Fremdwörterverbot: Wer Fremdwörter verwendet, muss kurz erklären, was sie bedeuten.",
+   "question": "Welches Verbot gilt laut Andreas bei „Erklär mir die Welt“ für seine Gäste?",
+   "answer": "Ein Fremdwörterverbot",
+   "distractors": [
+    "Ein Dialektverbot",
+    "Ein Zahlenverbot",
+    "Ein Schimpfwortverbot"
+   ],
+   "aha": "Auslöser waren „artifiziell“ und „naturalistisch“ bei der Kameraführung von „Belfast“. Ganz verboten ist es eh nicht, man muss das Wort halt kurz erklären.",
+   "quote_clean": "Ich frage nur nach, weil es bei Erklär mir die Welt ein Fremdwörterverbot gibt. Also wenn man Fremdwörter verwendet, die nicht jeder sofort versteht,",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=2232 bis 2252 belegt, Andreas' Kontern und die grobe Spanne folgen im Transkript.",
+   "stand_note": "",
+   "statement": "Auf die Frage nach Mindestgarantien antwortete Michael Stejskal, dass man über zwei Dinge nicht spreche: das Sexualleben und die bezahlten Preise.",
+   "question": "Über welche zwei Dinge spricht man laut Michael Stejskal nicht?",
+   "answer": "Sexualleben und bezahlte Preise",
+   "distractors": [
+    "Politik und Religion",
+    "Gehalt und Alter",
+    "Flops und Kritiken"
+   ],
+   "aha": "Andreas konterte trocken, dass bei Erklär mir die Welt über beides geredet wird, sein Einkommen steht sogar auf der Homepage. Michael hat dann trotzdem eine grobe Spanne verraten.",
+   "quote_clean": "Es gibt zwei Dinge, über die man nicht spricht. Das eine, nehme ich an, ist das Sexualleben. Das andere sind die Preise, die man bezahlt.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Wer-sagt-Frage in einer Ein-Gast-Folge ist trivial; der Aha-Zusatz über verdrängte Fehlschläge ist im Ausschnitt nicht belegt.",
+   "stand_note": "",
+   "statement": "Michael Stejskal sagt, im Filmgeschäft irre man sich permanent; trotz aller Professionalität hänge viel von Glück und Zufall ab.",
+   "question": "Wer sagt: „Gleichzeitig irrt man sich im Filmbusiness permanent“?",
+   "answer": "Michael Stejskal",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Hollywood-Produzent",
+    "Eine Filmkritikerin"
+   ],
+   "aha": "",
+   "quote_clean": "Gleichzeitig irrt man sich im Filmbusiness permanent, und ich bin immer wieder demütig, wie sehr man von Glück und Zufall abhängig ist, bei aller Professionalität und bei allen analytischen Werkzeugen, die man anlegt.",
+   "quality": 1
+  }
+ ],
+ "id": "206",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

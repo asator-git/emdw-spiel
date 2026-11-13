@@ -1,0 +1,279 @@
+{
+ "reviews": [
+  {
+   "statement": "Der Massen- und Boulevardjournalismus begann in den USA Anfang der 1830er-Jahre mit der sogenannten Penny Press.",
+   "question": "In welchem Jahrzehnt begann in den USA mit der „Penny Press“ der Boulevardjournalismus?",
+   "answer": "1830er-Jahre",
+   "distractors": [
+    "1780er-Jahre",
+    "1880er-Jahre",
+    "1910er-Jahre"
+   ],
+   "aha": "Die Zeitungen kosteten nur einen Penny, waren also für alle leistbar, nicht nur fürs Bürgertum. In Berlin kamen die Straßenverkaufszeitungen erst Anfang des 20. Jahrhunderts dazu. Bei uns dauert eben alles etwas länger.",
+   "quote_clean": "Und mir wurde erzählt, dass es in den USA schon Anfang der 1830er-Jahre losgegangen ist.",
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Quote neutral formuliert, Aha-Attribution korrigiert (Spruch stammt von Andreas).",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Die New York Sun, eine der ersten Penny-Zeitungen, veröffentlichte 1835 eine erfundene Serie über Leben auf dem Mond, inklusive Fledermausmenschen – den „Great Moon Hoax“.",
+   "question": "Worüber erfand die New York Sun beim „Great Moon Hoax“ eine ganze Artikelserie?",
+   "answer": "Leben auf dem Mond",
+   "distractors": [
+    "Ein Seeungeheuer im Hudson",
+    "Goldfunde in der Arktis",
+    "Eine Marsianer-Landung"
+   ],
+   "aha": "Die Serie behauptete, man habe am Mond Leben entdeckt, sogar Fledermausmenschen. Alles erfunden, aber das Blatt verkaufte sich prächtig. Fake News sind also deutlich älter als Twitter.",
+   "quote_clean": "Das war die New York Sun, eine der ersten Penny-Zeitungen. Penny Paper, weil man nur einen Penny dafür gezahlt hat, das ist sehr wenig. Und die hat eine sechsteilige Serie über das Leben am Mond veröffentlicht.",
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Die Boulevardzeitung heißt so, weil sie auf großen Straßen von Zeitungsjungen verkauft wurde und sich – anders als Abo-Zeitungen – jeden Tag neu verkaufen muss.",
+   "question": "Woher hat die Boulevardzeitung ihren Namen?",
+   "answer": "Vom Straßenverkauf auf Boulevards",
+   "distractors": [
+    "Von einem Pariser Verleger",
+    "Vom Klatsch in Theaterfoyers",
+    "Vom Druckort am Stadtrand"
+   ],
+   "aha": "Die Abo-Zeitung liegt eh im Briefkasten, die Boulevardzeitung muss dich jeden Tag aufs Neue zum Kiosk locken. Genau das prägt ihren Stil: laute Schlagzeilen, Emotion, Serien, die dich binden.",
+   "quote_clean": "Boulevardzeitung heißt sie, weil sie auf dem Boulevard von Zeitungsjungen verkauft worden ist. Anders als Zeitungen, die im Abonnement zugestellt werden und morgens ihren Weg in den Briefkasten finden, muss sich eine Boulevardzeitung jeden Tag neu verkaufen.",
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zwei Paris-Distraktoren ähnlich; ersetzt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Bei Blickverlaufsstudien zu klassischen Zeitungen wie der FAZ zeigt sich: Leser:innen scannen zuerst das Foto, dann den obersten Text und beginnen oft mit den drei kleinen Texten unten.",
+   "question": "Wohin schauen Leser:innen laut Kai Diekmann bei Blickverlaufsstudien klassischer Zeitungen als Erstes?",
+   "answer": "Auf das Foto",
+   "distractors": [
+    "Auf die Hauptschlagzeile",
+    "Auf den Leitartikel",
+    "Auf das Datum oben"
+   ],
+   "aha": "Gemessen wird das mit speziellen Brillen, die verfolgen, wohin das Auge zuerst guckt. Kai gibt zu: Steht über dem großen Leitartikel „Kommunalwahl in Slowenien“, ist er erleichtert, dass er ihn auslassen kann.",
+   "quote_clean": "Die können feststellen, wohin das Auge zuerst guckt, und machen dann sogenannte Blickverlaufskurven. Dann stellst du fest: Die Leute scannen immer zuerst das Foto, dann den obersten Text, gehen dann rechts runter und fangen immer zuerst an, die drei kleinen Texte unten zu lesen.",
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Bezieht sich auf klassische Zeitungen wie die FAZ; präzisiert.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Kai Diekmann weigert sich, zwischen Qualitäts- und Boulevardmedien zu unterscheiden: Guter Boulevard sei Qualität.",
+   "question": "Wer sagt: „Guter Boulevard ist Qualität, und gerade die sogenannten Qualitätsmedien sind es häufig nicht“?",
+   "answer": "Kai Diekmann",
+   "distractors": [
+    "Günter Wallraff",
+    "Harald Schmidt",
+    "Gabor Steingart"
+   ],
+   "aha": "Für den langjährigen Bild-Chefredakteur ist die Trennung „FAZ, Süddeutsche, Standard hier, Krone und Bild dort“ Unsinn. Wer für Millionen schreibt, muss sein Handwerk erst recht beherrschen, findet er.",
+   "quote_clean": "Guter Boulevard ist Qualität, und gerade die sogenannten Qualitätsmedien sind es häufig nicht, insbesondere wenn sie sich an den klassischen Boulevardthemen versuchen.",
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt.",
+   "stand_note": "",
+   "quality": 2
+  },
+  {
+   "statement": "Kai Diekmann testet bei Vorträgen, ob jemand den Unterschied zwischen Riester- und Rürup-Rente in sieben Sätzen erklären kann – und erwartet genau das von Boulevardjournalist:innen.",
+   "question": "Was soll man laut Kai Diekmanns Vortragstest in sieben Sätzen erklären können?",
+   "answer": "Riester-Rente versus Rürup-Rente",
+   "distractors": [
+    "Inflation versus Deflation",
+    "Brutto versus Netto",
+    "Aktie versus Anleihe"
+   ],
+   "aha": "Das sind zwei deutsche Formen der privaten Altersvorsorge, und kaum jemand kennt den Unterschied. Genau deshalb sieht Kai darin die Aufgabe von Boulevard: Komplizierte, aber wichtige Themen für Leute erklären, denen Zeit oder Vorwissen fehlen.",
+   "quote_clean": "Kann mir jemand den Unterschied zwischen Riester-Rente und Rürup-Rente in sieben Sätzen erklären? Das kann natürlich kein Mensch, aber genau das ist es, was ich von meinen Kollegen erwarte, dass sie es können.",
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Die österreichische Tageszeitung „Die Presse“ gibt es seit 1848.",
+   "question": "Seit welchem Jahr gibt es die österreichische Zeitung „Die Presse“?",
+   "answer": "1848",
+   "distractors": [
+    "1918",
+    "1789",
+    "1896"
+   ],
+   "aha": "Gegründet im Revolutionsjahr 1848, als die breite Masse noch gar nicht wählen durfte, Frauen sowieso nicht, und bei den Männern nur, wer Steuern zahlte. Die Boulevardzeitungen kamen um die Jahrhundertwende, als nach und nach immer mehr Menschen wählen durften.",
+   "quote_clean": "Die Zeit, aus der eine Zeitung wie die Presse kommt – die gibt's seit 1848 –, war ja auch eine Zeit, wo die breite Masse noch gar nicht wählen durfte, Frauen sowieso nicht.",
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Aha enthielt nicht Belegtes (Kaffeehaus); angepasst.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Laut Kai Diekmann sortieren FAZ und Süddeutsche die Welt nach rationalen Kriterien, der Boulevard dagegen nach Emotionen – und kommt damit der Wahrheit oft näher.",
+   "question": "Wonach sortiert laut Kai Diekmann der Boulevard die Welt, im Unterschied zu FAZ und Süddeutscher?",
+   "answer": "Nach Emotionen",
+   "distractors": [
+    "Nach Reichweite",
+    "Nach Aktualität",
+    "Nach Regionalität"
+   ],
+   "aha": "Darum landet bei der FAZ auch mal die Kommunalwahl in Slowenien auf Seite 1. Kai argumentiert: Die vernünftigsten Projekte scheitern oft nicht an Gründen, sondern daran, dass sich zwei Menschen nicht verstehen.",
+   "quote_clean": "Wir im Boulevard gehen davon aus, dass es die Emotionen sind, die die Welt bewegen, und dass die Welt nach emotionalen Kriterien funktioniert. Und ich glaube, dass wir damit der Wahrheit immer ein Stück weit näherkommen.",
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Kai Diekmanns Leitsatz für guten Boulevard: den Leuten aufs Maul schauen, aber nicht nach dem Mund reden.",
+   "question": "Wie lautet Kai Diekmanns Leitsatz für den Umgang mit den Leser:innen?",
+   "answer": "Aufs Maul schauen, nicht nach dem Mund reden",
+   "distractors": [
+    "Immer zuerst, immer am lautesten",
+    "Was gefällt, kommt auf Seite 1",
+    "Erst der Mensch, dann die Fakten"
+   ],
+   "aha": "Eine populistische Boulevardzeitung sei auf Dauer keine erfolgreiche, sagt Kai: Wer heute die niedrigen Renten beklagt und morgen die steigenden Beiträge, wird beliebig. Es braucht eine klare Haltung, auch gegen die Mehrheitsmeinung der Leser.",
+   "quote_clean": "Ich darf meinen Lesern nicht hinterherlaufen. Ich habe immer gesagt: aufs Maul schauen, aber nicht nach dem Mund reden.",
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Euro-Beispiel im aha nicht im Ausschnitt belegt; ersetzt durch Belegtes.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Evolutionär sind Menschen für das Leben in kleinen Gruppen von etwa 100 bis 150 Personen gemacht.",
+   "question": "In Gruppen von ungefähr wie vielen Menschen haben wir evolutionär gelebt?",
+   "answer": "Etwa 100 bis 150",
+   "distractors": [
+    "Etwa 10 bis 15",
+    "Etwa 1.000 bis 1.500",
+    "Etwa 30 bis 40"
+   ],
+   "aha": "In so einer Gruppe ist Tratsch überlebenswichtig: Wer mit wem, wer gegen wen. Heute leben wir in Massengesellschaften mit Institutionen und Normen, aber unser Hirn interessiert sich immer noch zuerst für Menschen. Daher auch die Gesichter auf den Wahlplakaten.",
+   "quote_clean": "Wir sind evolutionär eher so entstanden, dass wir in kleinen Gruppen von vielleicht 100, 150 Leuten leben.",
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Eine Theorie besagt, dass Sprache aus dem gegenseitigen Kraulen bei Affen hervorging – als Austausch darüber, wer aufsteigt, wer absteigt und wer an welchem Ast sägt.",
+   "question": "Woraus hat sich laut der Theorie, die Kai Diekmann erzählt, unsere Sprache entwickelt?",
+   "answer": "Aus dem gegenseitigen Kraulen",
+   "distractors": [
+    "Aus Warnrufen vor Raubtieren",
+    "Aus dem Singen beim Jagen",
+    "Aus Höhlenmalereien"
+   ],
+   "aha": "Am Affenbaum ging es um soziale Infos: Wer steigt auf, wer ab, welche Äste sind brüchig. Laut Kai hat sich daran bis heute nichts geändert, nur die Gruppe ist größer geworden. Der Boulevard bedient genau dieses alte Bedürfnis.",
+   "quote_clean": "Im Übrigen ist ja so Sprache entstanden: Auf dem großen Affenbaum wurden Informationen über das gegenseitige Kraulen ausgetauscht, daraus ist die gesprochene Sprache entstanden.",
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "transkription"
+   ],
+   "note": "'Gebärdensprache' ist vermutlich verhört (gesprochene Sprache).",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Die berühmte Bild-Schlagzeile „Wir sind Papst“ war grammatikalisch und inhaltlich falsch – und gilt Kai Diekmann trotzdem als Paradebeispiel für guten Boulevard.",
+   "question": "Welche Bild-Schlagzeile ist laut Kai Diekmann grammatikalisch und inhaltlich falsch und trotzdem klassisch guter Boulevard?",
+   "answer": "„Wir sind Papst“",
+   "distractors": [
+    "„Wir sind Weltmeister“",
+    "„Wir sind das Volk“",
+    "„Wir sind Kanzlerin“"
+   ],
+   "aha": "Die Zeile erschien 2005 nach der Wahl von Joseph Ratzinger und war anfangs selbst in der Redaktion umstritten. Für Kai schreibt Boulevard nicht nur, was ist, sondern wie es sich anfühlt. Die Süddeutsche nannte Bild einmal den Seismographen der deutschen Befindlichkeit.",
+   "quote_clean": "Sie gibt einem Gefühl Ausdruck. Sie ist ja in zweierlei Hinsicht falsch: Sie ist grammatikalisch falsch, und sie ist inhaltlich falsch, weil ja eben nicht alle Deutschen zum Papst gewählt worden sind.",
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Gegen Ende fragt Andreas seine Gäste regelmäßig nach drei Büchertipps zum Thema.",
+   "question": "Wonach fragt Andreas seine Gäste gegen Ende der Folge?",
+   "answer": "Nach drei Büchertipps",
+   "distractors": [
+    "Nach ihrem Lieblingsfilm",
+    "Nach einem Kindheitstraum",
+    "Nach ihrer größten Niederlage"
+   ],
+   "aha": "Kai gibt zu, dass er nur fünf Minuten Vorwarnung hatte. Sein dritter Tipp wird Andreas „nicht sehr überraschen“: Es ist sein eigenes Buch „Ich war Bild“.",
+   "quote_clean": "Okay, drei Büchertipps für Leute, die sich gerne noch tiefgehend damit beschäftigen wollen.",
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsende.",
+   "stand_note": "",
+   "quality": 1
+  },
+  {
+   "statement": "Beim Shoutout für einen Creator nennt Kai Diekmann Gabor Steingart – und scherzt, der würde mit Gegenständen nach ihm werfen, wenn er ihn Creator nennt.",
+   "question": "Was würde Gabor Steingart laut Kai Diekmann tun, wenn man ihn „Creator“ nennt?",
+   "answer": "Mit Gegenständen nach ihm werfen",
+   "distractors": [
+    "Sofort den Podcast einstellen",
+    "Ihn auf Social Media blockieren",
+    "Eine Gegendarstellung verlangen"
+   ],
+   "aha": "Steingart sieht sich als Journalist, nicht als Influencer. Kai hört sein Morning Briefing trotzdem jeden Morgen, knapp 30 Minuten, weil Steingart gerne gegen den Mainstream schwimmt.",
+   "quote_clean": "Wenn ich ihn jetzt als Creator bezeichne, dann wirft er mit Gegenständen nach mir. Aber ein Podcast, ohne den ich nicht mehr sein möchte, ist das Morning Briefing von Gabor Steingart.",
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Witz über Dritten, Aha spekulativ, geringer Wert.",
+   "stand_note": "",
+   "quality": 1
+  }
+ ],
+ "id": "334",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

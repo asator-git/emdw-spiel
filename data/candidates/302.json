@@ -1,0 +1,708 @@
+{
+ "theme": "Wissenschaft & Technik",
+ "summary": "Warum das Bauchgefühl bei Globuli und Evolution danebenliegt und wie Wissenschaft mit Placebo, Peer Review und Metaanalysen tatsächlich zu Wissen kommt.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1216,
+   "speaker": "Martin Moder",
+   "quote": "schicken wir jetzt an meistens sind es drei Reviewer das sind Personen die sind wahrscheinlich aus einem ähnlichen Feld wie du",
+   "quote_clean": "Schicken wir jetzt an – meistens sind es drei Reviewer. Das sind Personen, die wahrscheinlich aus einem ähnlichen Feld sind wie du.",
+   "statement": "Eine bei einem Fachjournal eingereichte Studie wird im Peer Review meistens von drei Gutachter:innen aus einem ähnlichen Fachgebiet geprüft.",
+   "question": "Wie viele Reviewer:innen begutachten eine eingereichte Studie im Peer Review meistens?",
+   "answer": "3",
+   "distractors": [
+    "1",
+    "6",
+    "10"
+   ],
+   "number_value": 3,
+   "number_unit": "Reviewer:innen",
+   "slider_min": 1,
+   "slider_max": 12,
+   "log_scale": false,
+   "aha": "Meistens sind es drei, und du weißt als Autor:in nicht, wer sie sind. Laut Martin sind oft ein, zwei nette dabei und einer, der dir eine lange Liste an Versuchen schickt, die du bitte noch machen sollst.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Peer Review",
+    "Forschung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2694,
+   "speaker": "Martin Moder",
+   "quote": "das heißt ich schmeiß schon mal 90% aller Studien raus weil die meisten werden ziemlicher Müll sein",
+   "quote_clean": "Das heißt, ich schmeiß schon mal 90 Prozent aller Studien raus, weil die meisten ziemlicher Müll sein werden.",
+   "statement": "Bei einer Metaanalyse mit strengen Qualitätskriterien fliegen oft rund 90 Prozent der vorhandenen Studien raus, übrig bleiben nur die besten.",
+   "question": "Wie viel Prozent der Studien zu einem Thema bleiben bei einer strengen Metaanalyse laut Martin ungefähr übrig?",
+   "answer": "Etwa 10 Prozent",
+   "distractors": [
+    "Etwa 40 Prozent",
+    "Etwa 60 Prozent",
+    "Etwa 25 Prozent"
+   ],
+   "number_value": 10,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Man schmeißt alle Studien zu einer Frage in einen Topf und legt dann strenge Kriterien an: Gruppengröße, doppelte Verblindung und so weiter. Den Rest, etwa 90 Prozent, nennt Martin eher trocken ziemlichen Müll.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Metaanalyse",
+    "Studien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2564,
+   "speaker": "Martin Moder",
+   "quote": "ich weiß aber auch dass wenn ich Tee über 60° trink dass me speiseröhren Krebsrisiko steigt",
+   "quote_clean": "Ich weiß aber auch, dass, wenn ich Tee über 60 Grad trinke, mein Speiseröhrenkrebsrisiko steigt.",
+   "statement": "Wer Tee heißer als etwa 60 Grad trinkt, hat ein erhöhtes Risiko für Speiseröhrenkrebs.",
+   "question": "Ab welcher Temperatur steigt laut Martin das Speiseröhrenkrebsrisiko beim Teetrinken?",
+   "answer": "Über 60 Grad",
+   "distractors": [
+    "Über 40 Grad",
+    "Über 80 Grad",
+    "Über 90 Grad"
+   ],
+   "number_value": 60,
+   "number_unit": "Grad Celsius",
+   "slider_min": 20,
+   "slider_max": 95,
+   "log_scale": false,
+   "aha": "Grüner Tee kann Bestandteile haben, die das Krebsrisiko senken, und trotzdem schadet er, wenn er zu heiß ist. Beides kann gleichzeitig stimmen, darum widersprechen sich Studien oft weniger, als es ausschaut. Also: kurz abkühlen lassen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Krebs",
+    "Ernährung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 4920,
+   "speaker": "Martin Moder",
+   "quote": "aber in der Regel nimmt man 5% weil man weiß also 0,05 als Signifikanzniveau und wenn man sagt etwas ist signifikanter sagt man meistens P kleiner 0,05",
+   "quote_clean": "Aber in der Regel nimmt man 5 Prozent, also 0,05 als Signifikanzniveau. Und wenn man sagt, etwas ist signifikant, sagt man meistens: p kleiner 0,05.",
+   "statement": "Als Signifikanzniveau wird in der Forschung meistens 5 Prozent verwendet, ein Ergebnis gilt dann bei p kleiner 0,05 als signifikant.",
+   "question": "Welches Signifikanzniveau verwendet man in der Forschung in der Regel?",
+   "answer": "5 Prozent",
+   "distractors": [
+    "1 Prozent",
+    "10 Prozent",
+    "20 Prozent"
+   ],
+   "number_value": 5,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Die 5 Prozent sind keine magische Zahl, man legt sie vorher fest. Gemeint ist: Gäbe es gar keinen Unterschied zwischen den Gruppen, wäre ein Ergebnis wie deins durch reinen Zufall weniger als 5 Prozent wahrscheinlich.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Statistik",
+    "Signifikanz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 4416,
+   "speaker": "Martin Moder",
+   "quote": "in Mäusen sollte man dazu schreiben wenn es in Mäusen war aber man muss zwangsläufig über 90% weglassen und das ist halt wirklich die",
+   "quote_clean": "In Mäusen sollte man dazuschreiben, wenn es in Mäusen war. Aber man muss zwangsläufig über 90 Prozent weglassen, und das ist wirklich die große Kunst.",
+   "statement": "Wer eine Forschungsarbeit für die Öffentlichkeit erklärt, muss laut Martin Moder zwangsläufig über 90 Prozent des Inhalts weglassen.",
+   "question": "Wie viel Prozent einer Forschungsarbeit muss man laut Martin beim Erklären für Laien weglassen?",
+   "answer": "Über 90 Prozent",
+   "distractors": [
+    "Etwa 30 Prozent",
+    "Etwa 50 Prozent",
+    "Etwa 70 Prozent"
+   ],
+   "number_value": 90,
+   "number_unit": "Prozent",
+   "slider_min": 30,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Die große Kunst ist, so viel wegzulassen, dass das Nötigste bleibt, aber nichts falsch wird. Forschenden fällt das schwer, weil sie alles sagen wollen. Nur die Mäuse sollte man bitte nicht weglassen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wissenschaftskommunikation",
+    "Medien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3433,
+   "speaker": "Martin Moder",
+   "quote": "so wie ich glaube es war am zern wie sie geglaubt haben überlicht schnelle neutrinus zu finden m wäre ja super spannende Entdeckung n dann haben sie halt gesagt das glauben wir selber nicht schaut euch das an und dann war es ein Glasfaserkabel das irgend W nicht g eingesteckt hat",
+   "quote_clean": "So wie, ich glaube, es war am CERN, als sie geglaubt haben, überlichtschnelle Neutrinos zu finden. Wäre ja eine super spannende Entdeckung. Dann haben sie gesagt: Das glauben wir selber nicht, schaut euch das an. Und dann war es ein Glasfaserkabel, das irgendwo nicht gut eingesteckt war.",
+   "statement": "Die angeblich überlichtschnellen Neutrinos eines Experiments am CERN entpuppten sich als Messfehler durch ein schlecht eingestecktes Glasfaserkabel.",
+   "question": "Was steckte hinter den angeblich überlichtschnellen Neutrinos bei einem CERN-Experiment?",
+   "answer": "Ein locker eingestecktes Glasfaserkabel",
+   "distractors": [
+    "Ein Rechenfehler in der Software",
+    "Ein Erdbeben während der Messung",
+    "Eine falsch kalibrierte Atomuhr"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Forschenden haben ihrem eigenen Ergebnis nicht getraut und andere gebeten, nachzuschauen. Gut so: In der Physik fallen Ausreißer sofort auf, weil die Lichtgeschwindigkeit überall gleich ist. Einstein darf aufatmen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Physik",
+    "Messfehler"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3189,
+   "speaker": "Martin Moder",
+   "quote": "Frauen in den mintfächern und sieht zum Schock vieler dass in den gleichberechtigteren Ländern weniger Frauen in die mintberufe gehen als in den weniger gleichberechtigten Länder",
+   "quote_clean": "Frauen in den MINT-Fächern, und sieht zum Schock vieler, dass in den gleichberechtigteren Ländern weniger Frauen in die MINT-Berufe gehen als in den weniger gleichberechtigten Ländern.",
+   "statement": "Beim sogenannten Gender-Equality-Paradox zeigt sich: In gleichberechtigteren Ländern gehen anteilig weniger Frauen in MINT-Berufe als in weniger gleichberechtigten Ländern.",
+   "question": "Was zeigt das sogenannte Gender-Equality-Paradox über Frauen in MINT-Berufen?",
+   "answer": "Gleichberechtigtere Länder haben weniger MINT-Frauen",
+   "distractors": [
+    "Gleichberechtigtere Länder haben mehr MINT-Frauen",
+    "Gleichberechtigung spielt keine Rolle dabei",
+    "Nur reiche Länder haben MINT-Frauen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Man plottet Länder nach einem Gleichberechtigungsindex gegen den Frauenanteil in MINT-Fächern und bekommt das Gegenteil dessen, was die meisten erwarten. Martin hat sich beim ersten Anschauen auch gedacht: Wer hätte damit gerechnet.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Gleichberechtigung",
+    "MINT"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 593,
+   "speaker": "Martin Moder",
+   "quote": "wenn man das ganze Objektiv misst also wenn man wenn man einfach die Lungenfunktion misst anstatt zu frag hat geholfen dann findet man da kein Unterschied zu denen die gar keine Behandlung bekommen haben",
+   "quote_clean": "Wenn man das Ganze objektiv misst, also wenn man einfach die Lungenfunktion misst, anstatt zu fragen „Hat's geholfen?“, dann findet man keinen Unterschied zu denen, die gar keine Behandlung bekommen haben.",
+   "statement": "In Studien mit Placebo-Asthmaspray fühlen sich Patient:innen deutlich besser, die objektiv gemessene Lungenfunktion unterscheidet sich aber nicht von jener ohne Behandlung.",
+   "question": "Was passiert laut Studien mit der gemessenen Lungenfunktion bei Asthma-Patient:innen, die ein Placebospray bekommen?",
+   "answer": "Sie bleibt wie ohne Behandlung",
+   "distractors": [
+    "Sie verbessert sich wie beim echten Spray",
+    "Sie verbessert sich um die Hälfte",
+    "Sie verschlechtert sich deutlich"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gefragt, wie es ihnen geht, berichtet die Placebogruppe von genauso viel Besserung wie die mit dem echten Spray. Misst man die Lunge, ist da nichts. Der Placeboeffekt steckt oft im subjektiven Abfragen, nicht im Körper.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Placebo",
+    "Medizin"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 436,
+   "speaker": "Martin Moder",
+   "quote": "tendenziell nehmen wir eine Tablette dann wenn es uns besonders schlecht geht ja die meisten Krankheiten Folgen irgend so einem kurvigen Verlauf und eher so an der Spitze der Kurve da Start man meistens eine Therapie",
+   "quote_clean": "Tendenziell nehmen wir eine Tablette dann, wenn es uns besonders schlecht geht. Die meisten Krankheiten folgen so einem kurvigen Verlauf, und eher an der Spitze der Kurve startet man meistens eine Therapie.",
+   "statement": "Ein großer Teil des Placeboeffekts ist simples Timing: Man beginnt eine Behandlung meist am Höhepunkt der Krankheit, danach wird es ohnehin besser.",
+   "question": "Welche banale Ursache erklärt laut Martin einen großen Teil des Placeboeffekts?",
+   "answer": "Man behandelt meist am Krankheitshöhepunkt",
+   "distractors": [
+    "Zucker in der Tablette wirkt heilend",
+    "Teure Mittel wirken grundsätzlich stärker",
+    "Bittere Tabletten aktivieren das Immunsystem"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kaum jemand nimmt den Rachenspray, wenn er sich noch fit fühlt oder schon fast gesund ist. Man greift dann zu, wenn es am schlimmsten ist, und danach geht's eh bergauf. Weniger mystische Selbstheilung, mehr Kalender.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Placebo",
+    "Medizin"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 505,
+   "speaker": "Martin Moder",
+   "quote": "also das weiß man aus klinischen Studien die Leute geben ihre Symptome eher so an wie sie glauben dass sich der nette Arzt die nette Ärztin freut wenn sie es lesen",
+   "quote_clean": "Das weiß man aus klinischen Studien: Die Leute geben ihre Symptome eher so an, wie sie glauben, dass sich der nette Arzt oder die nette Ärztin freut, wenn sie es lesen.",
+   "statement": "In klinischen Studien geben Patient:innen ihre Symptome oft so an, wie sie glauben, dass es den behandelnden Ärzt:innen gefällt.",
+   "question": "Warum berichten Patient:innen in Studien oft von Besserung, obwohl sie keinen Unterschied spüren?",
+   "answer": "Sie wollen die Ärzt:innen glücklich machen",
+   "distractors": [
+    "Sie bekommen Geld für gute Werte",
+    "Sie vergessen ihre früheren Beschwerden",
+    "Sie verstehen die Fragebögen falsch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wir sind letztlich sehr lieb, gerade wenn es uns schlecht geht. Kennst du von daheim: Die Mama macht einen Topfenwickel, fragt, ob's hilft, und du sagst halt, ein bisschen besser geht's schon. Darum braucht es eine Placebogruppe.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Placebo",
+    "Studien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2498,
+   "speaker": "Martin Moder",
+   "quote": "hat einer ein Kochbuch genommen und hat aus diesem Kochbuch be Zufallsgenerator Zutaten rausgesucht und hat dann bei diesen Zutaten die wissenschaftliche Literatur durchsucht ob es Studien gibt die finden dass diese Zutat die jeweilige Zutat hat das Krebsrisiko erhöht oder senkt",
+   "quote_clean": "Da hat einer ein Kochbuch genommen, per Zufallsgenerator Zutaten rausgesucht und dann die wissenschaftliche Literatur durchsucht, ob es Studien gibt, die finden, dass die jeweilige Zutat das Krebsrisiko erhöht oder senkt.",
+   "statement": "Eine Arbeit wählte zufällig Zutaten aus einem Kochbuch und fand zu fast jeder Zutat Studien, die ein erhöhtes, und andere, die ein gesenktes Krebsrisiko zeigen.",
+   "question": "Was fand eine Arbeit heraus, die zufällige Kochbuch-Zutaten auf Krebsstudien prüfte?",
+   "answer": "Für fast jede Zutat gibt's beides",
+   "distractors": [
+    "Nur Fleisch erhöht das Risiko",
+    "Kaum eine Zutat wurde je untersucht",
+    "Gemüse senkt das Risiko immer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Du kannst dir eine Studie rauspicken, die beweist, dass Brot Krebs verhindert, und eine, die beweist, dass es Krebs verursacht. Darum taugt die einzelne Studie wenig, und man braucht das Gesamtbild aus Reviews und Metaanalysen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Studien",
+    "Krebs",
+    "Ernährung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3365,
+   "speaker": "Martin Moder",
+   "quote": "Arbeiten die kennt man eigentlich die ist total popkulturell geworden und wenn man die aber wiederholt hat oder auch einfach nur die alten Daten genauer analysiert hat hat man gesehen das sind Faktoren drin die hat man einfach nicht rausgerechnet",
+   "quote_clean": "Die Arbeit kennt man, die ist total popkulturell geworden. Aber wenn man sie wiederholt oder auch nur die alten Daten genauer analysiert hat, hat man gesehen: Da sind Faktoren drin, die man einfach nicht rausgerechnet hat.",
+   "statement": "Das berühmte Marshmallow-Experiment zur Selbstkontrolle bei Kindern hielt Wiederholungen nicht stand, weil Einflussfaktoren wie die Herkunft nicht herausgerechnet worden waren.",
+   "question": "Was kam heraus, als man das berühmte Marshmallow-Experiment genauer überprüfte?",
+   "answer": "Andere Faktoren wurden nicht herausgerechnet",
+   "distractors": [
+    "Die Ergebnisse wurden exakt bestätigt",
+    "Die Kinder hatten heimlich genascht",
+    "Erwachsene schneiden genauso ab"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer in einem Haushalt ohne viel Geld aufwächst, lernt: Was jetzt am Tisch liegt, ist später weg, eine Naschlade gibt's nicht. Den Marshmallow sofort zu essen ist dann vernünftig, und bessere Karten im Leben hat man in einem wohlhabenden Umfeld sowieso.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Psychologie",
+    "Replikationskrise"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1077,
+   "speaker": "Martin Moder",
+   "quote": "verwendet man noch heute zu lernt muss in der Schule obwohl danach der Einstein kommen ist und gesagt hat Moment Moment Moment äh wenn sie Dinge urchnell bewegen oder super viel Masse haben dann stimmt es so eigentlich nicht",
+   "quote_clean": "Das verwendet man noch heute und lernt es in der Schule, obwohl danach Einstein gekommen ist und gesagt hat: Moment, wenn sich Dinge ur schnell bewegen oder super viel Masse haben, dann stimmt es so eigentlich nicht.",
+   "statement": "Etablierte Theorien werden in der Wissenschaft meist nicht verworfen, sondern ergänzt: Newtons Mechanik gilt weiter, Einsteins Relativitätstheorie erweitert sie für sehr schnelle oder massereiche Objekte.",
+   "question": "Was passierte mit Newtons Mechanik, nachdem Einstein die Relativitätstheorie aufgestellt hatte?",
+   "answer": "Sie gilt weiter in ihrem Geltungsrahmen",
+   "distractors": [
+    "Sie wurde komplett verworfen",
+    "Sie gilt nur noch auf dem Mond",
+    "Sie wurde aus den Schulbüchern gestrichen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn sich etwas wirklich etabliert hat, wird es selten weggeworfen, sondern ergänzt. Newton stimmt für den Alltag, Einstein für sehr schnell und sehr schwer, und dann kamen die Quantenphysiker und haben noch was draufgelegt.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Physik",
+    "Wissenschaftstheorie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1853,
+   "speaker": "Martin Moder",
+   "quote": "es ist nicht so als würde eine Hypothese zu einer Theorie werden wenn man sie überprüft aber eine Theorie Fuß auf sehr vielen erfolgreich überprüften Hypothesen",
+   "quote_clean": "Es ist nicht so, als würde eine Hypothese zu einer Theorie werden, wenn man sie überprüft. Aber eine Theorie fußt auf sehr vielen erfolgreich überprüften Hypothesen.",
+   "statement": "Eine wissenschaftliche Theorie ist keine bloße Vermutung, sondern ein übergeordnetes Erklärungsmodell, das auf vielen erfolgreich überprüften Hypothesen fußt.",
+   "question": "Was ist eine Theorie im wissenschaftlichen Sinn?",
+   "answer": "Ein Erklärungsmodell aus vielen geprüften Hypothesen",
+   "distractors": [
+    "Eine noch unbewiesene Vermutung",
+    "Eine einzelne überprüfte Hypothese",
+    "Ein endgültig bewiesenes Naturgesetz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Alltag klingt „ist ja nur eine Theorie“ abwertend. In der Forschung ist eine Theorie wie die Evolutionstheorie aber ein großes, gut belegtes Gebäude, das auch Vorhersagen erlaubt, etwa, dass sich Bakterien unter Selektionsdruck anpassen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wissenschaftstheorie",
+    "Evolution"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1006,
+   "speaker": "Martin Moder",
+   "quote": "es gibt auch sexuelle Selektion die dazu führt dass Tiere total nachteilige Eigenschaften entwickeln",
+   "quote_clean": "Es gibt auch sexuelle Selektion, die dazu führt, dass Tiere total nachteilige Eigenschaften entwickeln.",
+   "statement": "Neben dem Überleben der Angepassteren gibt es sexuelle Selektion, durch die Tiere sogar nachteilige Merkmale wie riesige Geweihe entwickeln.",
+   "question": "Welcher Evolutionsmechanismus führt dazu, dass Tiere sogar nachteilige Merkmale wie riesige Geweihe entwickeln?",
+   "answer": "Sexuelle Selektion",
+   "distractors": [
+    "Genetische Drift",
+    "Natürliche Auslese",
+    "Epigenetik"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein gewaltiges Geweih bringt fürs Überleben wenig, außer dass sich die anderen denken: Mit dem möcht ich mich fortpflanzen. Sobald sich so eine Vorliebe etabliert, kann sie in eine ziemlich unpraktische Richtung laufen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Evolution",
+    "Biologie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2646,
+   "speaker": "Martin Moder",
+   "quote": "die Spitze der evidenzpyramide die beste die beste Evidenz die wir haben das sind sogenannte Metaanalysen",
+   "quote_clean": "Die Spitze der Evidenzpyramide, die beste Evidenz, die wir haben, das sind sogenannte Metaanalysen.",
+   "statement": "An der Spitze der Evidenzpyramide stehen Metaanalysen, die viele hochwertige Studien zu einer Frage gemeinsam auswerten.",
+   "question": "Was steht an der Spitze der sogenannten Evidenzpyramide?",
+   "answer": "Metaanalysen",
+   "distractors": [
+    "Einzelne Laborexperimente",
+    "Preprints",
+    "Expertenmeinungen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Man sammelt alle Studien zu einer Frage, etwa ob Globuli besser gegen Kopfweh helfen als ein Placebo, nimmt nur die besten und rechnet sie zu einem großen Datensatz zusammen. Bei Homöopathie kommt raus: Placebo.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Metaanalyse",
+    "Homöopathie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3713,
+   "speaker": "Martin Moder",
+   "quote": "in der Medizin z.B wird das immer öfter auch verlangt dass man nicht einfach eine Studie macht und wenn was rauskommt veröffentlicht mach sondern dass man das vorab registriert",
+   "quote_clean": "In der Medizin zum Beispiel wird immer öfter verlangt, dass man nicht einfach eine Studie macht und nur veröffentlicht, wenn was rauskommt, sondern dass man sie vorab registriert.",
+   "statement": "In der Medizin müssen Studien immer öfter vorab registriert werden, damit auch Ergebnisse veröffentlicht werden, bei denen nichts herauskommt.",
+   "question": "Was wird in der Medizin immer öfter verlangt, damit auch Studien ohne Ergebnis bekannt werden?",
+   "answer": "Eine Vorab-Registrierung der Studie",
+   "distractors": [
+    "Eine Prüfung durch das Parlament",
+    "Eine Veröffentlichung nur in Fachbüchern",
+    "Ein Patent auf das Studiendesign"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Man sagt vorher, was man von wann bis wann testet, und veröffentlicht egal, was rauskommt. Sonst testet die nächste Gruppe dasselbe nutzlose Medikament ein zehntes Mal an Menschen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Medizin",
+    "Studien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 181,
+   "speaker": "Martin Moder",
+   "quote": "dann darf ich selber nicht wissen welche Pflanze jetzt mit Musik war und welche ohne weil das ist vielleicht sogar die größte Fehlerquelle dass wir uns selbst sehr sehr gern täuschen",
+   "quote_clean": "Dann darf ich selber nicht wissen, welche Pflanze mit Musik war und welche ohne, weil das ist vielleicht sogar die größte Fehlerquelle, dass wir uns selbst sehr gern täuschen.",
+   "statement": "Bei der Auswertung eines Experiments sollen Forschende nicht wissen, welche Probe zu welcher Gruppe gehört, weil Selbsttäuschung eine der größten Fehlerquellen ist.",
+   "question": "Warum sollen Forschende bei der Auswertung nicht wissen, welche Pflanze Musik bekommen hat?",
+   "answer": "Weil wir uns selbst gern täuschen",
+   "distractors": [
+    "Weil Pflanzen sonst anders wachsen",
+    "Weil es das Gesetz so vorschreibt",
+    "Weil es die Messung beschleunigt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer sich ein spektakuläres Ergebnis wünscht, rundet bei der Musikpflanze vielleicht doch den einen oder anderen halben Zentimeter auf. Darum gibt's nur Pflanzennummern, und aufgelöst wird erst nach der Analyse, genau wie bei Medikamentenstudien.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Verblindung",
+    "Methode"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2081,
+   "speaker": "Martin Moder",
+   "quote": "ich glaube die Ergebnisse sind eigentlich sehr selbstevident wenn ich wenn ihr Rakete Bau nach den Prinzipien der Wissenschaft dann fliegt erfolgreich quer durchs Sonnensystem",
+   "quote_clean": "Ich glaube, die Ergebnisse sind eigentlich sehr selbstevident: Wenn ich eine Rakete nach den Prinzipien der Wissenschaft baue, dann fliegt sie erfolgreich quer durchs Sonnensystem.",
+   "statement": "Auf den Vorwurf, Wissenschaft sei auch nur eine Religion, antwortet Martin Moder: Die Ergebnisse sind selbstevident, eine wissenschaftlich gebaute Rakete fliegt durchs Sonnensystem.",
+   "question": "Wer sagt über die Wissenschaft: Eine Rakete nach ihren Prinzipien fliegt erfolgreich quer durchs Sonnensystem?",
+   "answer": "Martin Moder",
+   "distractors": [
+    "Andreas Sator",
+    "Christian Drosten",
+    "Hans Rosling"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Hörer wollte wissen, ob Wissenschaft nicht auch nur Glauben ist. Martins Antwort: Baust du die Rakete nach anderen Prinzipien, fliegt sie wahrscheinlich nicht einmal zehn Meter hoch.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wissenschaft",
+    "Glaube"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 817,
+   "speaker": "Martin Moder",
+   "quote": "in erster Linie versucht man nicht Sachen zu bestätigen sondern man versucht sie zu widerlegen das ist das große Erbe von Karl poppa",
+   "quote_clean": "In erster Linie versucht man nicht, Sachen zu bestätigen, sondern man versucht, sie zu widerlegen. Das ist das große Erbe von Karl Popper.",
+   "statement": "Das Prinzip der Falsifizierung, das auf Karl Popper zurückgeht, besagt: Wissenschaft versucht nicht, Dinge zu bestätigen, sondern sie zu widerlegen.",
+   "question": "Auf wen geht das Prinzip zurück, dass Wissenschaft Aussagen vor allem zu widerlegen versucht?",
+   "answer": "Karl Popper",
+   "distractors": [
+    "Charles Darwin",
+    "Isaac Newton",
+    "Gregor Mendel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Beweisen lässt sich abseits der Mathematik eigentlich nichts endgültig, widerlegen aber schon, zumindest in einem bestimmten Kontext. Was als etabliert gilt, hat jahrzehntelang allen Versuchen standgehalten, es zu stürzen. Popper war übrigens Wiener.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wissenschaftstheorie",
+    "Falsifizierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 4231,
+   "speaker": "Martin Moder",
+   "quote": "ich glaube dass das halt immer hilft wenn man nicht so tut das könnt man alles beantworten weil wie gesagt letztlich ist jeder Fachidiot und inkompetent in 99% aller komplizierten Bereiche",
+   "quote_clean": "Ich glaube, dass es immer hilft, wenn man nicht so tut, als könnte man alles beantworten, weil letztlich ist jeder Fachidiot und inkompetent in 99 Prozent aller komplizierten Bereiche.",
+   "statement": "Glaubwürdig wird Wissenschaft laut Martin Moder, wenn man zugibt, was man nicht weiß, denn jeder ist in 99 Prozent aller komplizierten Bereiche inkompetent.",
+   "question": "Wer sagt: Letztlich ist jeder Fachidiot und inkompetent in 99 Prozent aller komplizierten Bereiche?",
+   "answer": "Martin Moder",
+   "distractors": [
+    "Andreas Sator",
+    "Karl Popper",
+    "Steven Pinker"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Auf die Frage, wie man Vertrauen in die Wissenschaft stärkt, sagt Martin: kein Geheimnis daraus machen, wenn man etwas nicht weiß. In der Pandemie war seine häufigste Antwort, dass er das nicht sagen kann, aber hier etwas Interessantes weiß.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Vertrauen",
+    "Wissenschaftskommunikation"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 5033,
+   "speaker": "Andreas Sator",
+   "quote": "ich habe sogar eine Arbeit unläs ist rausgekommen die gezeigt hat dass wenn man Verschwörungstheoretiker nur ein paar mal mit ch Chip hin und her schreiben lässt",
+   "quote_clean": "Ich habe sogar eine Arbeit gelesen, die unlängst rausgekommen ist und gezeigt hat, dass, wenn man Verschwörungstheoretiker nur ein paar Mal mit ChatGPT hin und her schreiben lässt …",
+   "statement": "Eine Studie zeigte, dass schon wenige Gesprächsrunden mit ChatGPT selbst festgefahrene Verschwörungsgläubige anhaltend etwas weniger verschwörungsgläubig machen.",
+   "question": "Was zeigte eine Studie über Verschwörungsgläubige, die ein paar Mal mit ChatGPT schreiben?",
+   "answer": "Sie glauben danach anhaltend etwas weniger",
+   "distractors": [
+    "Sie glauben danach noch stärker",
+    "Es ändert sich gar nichts",
+    "Sie brechen das Gespräch sofort ab"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Bot hat halt zu jedem Argument eine Antwort parat, was uns Menschen im Gespräch mit einem Flacherdler nach 20 Jahren Leidenschaft schwerfällt. Der Effekt war erstaunlich gut und hielt lange an.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "KI",
+    "Verschwörungstheorien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 4648,
+   "speaker": "Martin Moder",
+   "quote": "bisher jedes Mal wenn ich ihn gefragt habe wer ist aller Mitglied der sciencebusts warn Leute da bei von den habe ich noch nie",
+   "quote_clean": "Bisher jedes Mal, wenn ich ihn gefragt habe, wer aller Mitglied der Science Busters ist, waren Leute dabei, von denen ich noch nie gehört habe.",
+   "statement": "Martin Moder erzählt, dass ChatGPT bei der Frage nach den Mitgliedern der Science Busters bisher jedes Mal Leute nannte, von denen er noch nie gehört hatte.",
+   "question": "Was passiert laut Martin, wenn er ChatGPT nach den Mitgliedern der Science Busters fragt?",
+   "answer": "Es nennt Leute, die er nicht kennt",
+   "distractors": [
+    "Es nennt nur ihn selbst",
+    "Es verweigert die Antwort",
+    "Es zählt alle korrekt auf"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Martin ist selbst ein Science Buster, er sollte es also wissen. Sein Fazit: Der schlechteste Journalist erzählt nicht so viel Blödsinn wie ChatGPT, wobei Andreas als bekennender Anhänger da gleich widerspricht.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "KI",
+    "Science Busters"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 61,
+   "speaker": "Andreas Sator",
+   "quote": "Martin ich habe uns heute meine Lieblingspflanze mitgebracht ähm ich dreh da früh gerne Musik auf und sing dazu",
+   "quote_clean": "Martin, ich habe uns heute meine Lieblingspflanze mitgebracht. Ich dreh in der Früh gerne Musik auf und sing dazu.",
+   "statement": "Andreas steigt in die Folge mit seiner Lieblingspflanze ein und fragt, wie man wissenschaftlich prüfen könnte, ob sie mit Musik schneller wächst.",
+   "question": "Womit steigt Andreas in die Folge über wissenschaftliches Arbeiten ein?",
+   "answer": "Mit seiner Lieblingspflanze und Musik",
+   "distractors": [
+    "Mit einer Packung Globuli",
+    "Mit einem Marshmallow",
+    "Mit einer Tasse heißem Tee"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas hat das Bauchgefühl, dass die Pflanze in Wochen mit viel Musik schneller wächst. Martin war vor allem erleichtert, dass nicht wieder die Frage kam, was das für eine Pflanze ist. Als Molekularbiologe muss man da immer enttäuschen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Einstieg",
+    "Experiment"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "302",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

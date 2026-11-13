@@ -1,0 +1,279 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahl 50 g und WHO-Bezug stehen so bei 861-865; passt zur WHO-Empfehlung (10 % der Energie, ca. 50 g).",
+   "stand_note": "Stand 2018",
+   "statement": "Die Weltgesundheitsorganisation empfiehlt für Erwachsene maximal rund 50 Gramm zugesetzten Zucker pro Tag.",
+   "question": "Wie viele Gramm zugesetzten Zucker pro Tag empfiehlt die WHO höchstens?",
+   "answer": "50 Gramm",
+   "distractors": [
+    "20 Gramm",
+    "90 Gramm",
+    "120 Gramm"
+   ],
+   "aha": "Gemeint ist der Zucker, der Lebensmitteln zugesetzt wird, plus der in Säften und Sirup. Ein Liter Limo und du bist eh schon drüber.",
+   "quote_clean": "Es gibt eine Zuckerempfehlung von der Weltgesundheitsorganisation, und da liegt man bei maximal 50 Gramm Zucker pro Tag.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 878-888 passt; der Aha-Text behauptet, im Saft bleibe vor allem Zucker übrig, das ist verkürzt und steht so nicht im Transkript.",
+   "stand_note": "",
+   "statement": "Der Zucker aus ganzem Obst zählt nicht zur WHO-Obergrenze für Zucker, Fruchtsaft hingegen schon.",
+   "question": "Welcher Zucker zählt NICHT zur WHO-Obergrenze für Zucker?",
+   "answer": "Zucker in ganzem Obst",
+   "distractors": [
+    "Zucker in Fruchtsaft",
+    "Zucker in Sirup",
+    "Zucker in Fertigprodukten"
+   ],
+   "aha": "Im ganzen Apfel stecken neben Zucker auch Wasser, Vitamine und Ballaststoffe. Im Saft sind die Ballaststoffe großteils weg, deshalb zählt dort auch der natürliche Zucker mit.",
+   "quote_clean": "Aber in dieser Empfehlung ist kein Stück Obst drinnen, weil im Stück Obst immer auch positive Dinge enthalten sind.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zwei Portionen Obst stehen bei 896-905 so da; allgemein bekannte Empfehlung.",
+   "stand_note": "Stand 2018",
+   "statement": "Die gängige Ernährungsempfehlung lautet ungefähr zwei Portionen Obst am Tag.",
+   "question": "Wie viele Portionen Obst pro Tag werden ungefähr empfohlen?",
+   "answer": "2 Portionen",
+   "distractors": [
+    "1 Portion",
+    "4 Portionen",
+    "6 Portionen"
+   ],
+   "aha": "Zwei Stück Obst sind ein guter Richtwert. Wer kiloweise Orangen isst, nimmt auch ordentlich Fruchtzucker auf, und das kann dann wieder kontraproduktiv sein.",
+   "quote_clean": "Jeder kennt diese Empfehlung von ungefähr zwei Portionen Obst am Tag.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Haushaltszucker aus Frucht- und Traubenzucker, belegt bei 938-942 und sachlich korrekt.",
+   "stand_note": "",
+   "statement": "Weißer Haushaltszucker ist ein Zweifachzucker aus Fruchtzucker und Traubenzucker.",
+   "question": "Woraus besteht weißer Haushaltszucker?",
+   "answer": "Fruchtzucker und Traubenzucker",
+   "distractors": [
+    "Milchzucker und Traubenzucker",
+    "Nur aus Traubenzucker",
+    "Malzzucker und Fruchtzucker"
+   ],
+   "aha": "Der Kristallzucker im Küchenkastl ist chemisch ein Doppelpack aus Fruchtzucker und Traubenzucker. Der Fruchtzucker aus der Orange ist also schon längst in deiner Zuckerdose.",
+   "quote_clean": "Und dieser weiße Zucker ist aufgebaut aus Fruchtzucker und Traubenzucker. Das ist ein Zweifachzucker.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Wer-sagt-es-Frage ist beliebig und leicht zu erraten; die Aussage Zucker sei dem Körper wurscht ist zudem stark vereinfacht (sie erwähnt selbst unterschiedliche Verstoffwechselung).",
+   "stand_note": "",
+   "statement": "Für den Körper ist Zucker im Grunde Zucker, egal ob aus Obst, Honig oder der Zuckerdose.",
+   "question": "Wer sagt im Podcast: Ob Zucker aus Obst, Honig oder Haushaltszucker kommt, ist dem Körper relativ wurscht?",
+   "answer": "Andrea Fičala",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Zahnärztin",
+    "Ein Imker"
+   ],
+   "aha": "Lange galt Fruchtzucker als die gesündere Variante, weil er natürlich vorkommt. Der Körper baut aber ohnehin alles so um, wie er es gerade braucht.",
+   "quote_clean": "Ob der Zucker jetzt in Obst, im Honig oder im weißen Haushaltszucker drinnen ist, ist dem Körper relativ wurscht.",
+   "quality": 1
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg 853-857 passt (ganzes Obst eigentlich besser als Saft); Frage war zu vage, präzisiert.",
+   "stand_note": "",
+   "statement": "Ganzes Obst ist gesünder als die gleiche Menge Obst in Form von Fruchtsaft.",
+   "question": "Was ist laut der Ernährungswissenschaftlerin die bessere Wahl: Orangen als ganzes Obst oder Orangensaft?",
+   "answer": "Ganze Orangen essen",
+   "distractors": [
+    "Frisch gepressten Orangensaft trinken",
+    "Orangensaft aus dem Packerl",
+    "Beides ist völlig gleich"
+   ],
+   "aha": "Im Saft fehlen die Ballaststoffe, und man trinkt locker drei Orangen in einem Zug. Beim Essen bist du meistens schon früher satt.",
+   "quote_clean": "Wenn du es über das ganze Obst machst, ist es besser, als wenn du es in Form von Fruchtsaft hast, also Orangensaft.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 694-719 passt; Empfehlung ist bis heute Konsens.",
+   "stand_note": "Stand 2018",
+   "statement": "Ungesättigte Fettsäuren, vor allem aus Pflanzenölen, sollten tierischen gesättigten Fetten vorgezogen werden.",
+   "question": "Welche Fette sollte man laut aktuellem Forschungsstand bevorzugen?",
+   "answer": "Ungesättigte Fettsäuren aus Pflanzenölen",
+   "distractors": [
+    "Gesättigte Fettsäuren aus Butter",
+    "Tierische Fette aus Schmalz",
+    "Gehärtete Fette aus Margarine"
+   ],
+   "aha": "Ungesättigte Fettsäuren wirken positiv aufs Herz-Kreislauf-System und auf Entzündungen. Die gesättigten aus tierischen Fetten sind chemisch anders gebaut und fördern eher bestimmte Erkrankungen.",
+   "quote_clean": "Aktueller Stand der Forschung ist, dass man die ungesättigten Fettsäuren, die vor allem in Pflanzenölen und pflanzlichen Fetten enthalten sind, bevorzugen sollte.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg 319-330 passt, aber die Kalorienaussage ist ihre Einschätzung; Frage jetzt als ihre Sicht formuliert, Aha weniger absolut.",
+   "stand_note": "",
+   "statement": "Laut Andrea Fičala essen wir seit Jahren ähnlich viele Kalorien, bewegen uns aber durch Büroarbeit und Mobilität weniger.",
+   "question": "Was hat sich laut Andrea Fičala in den letzten Jahren vor allem verändert?",
+   "answer": "Wir bewegen uns weniger",
+   "distractors": [
+    "Wir essen doppelt so viele Kalorien",
+    "Wir essen viel weniger Gemüse",
+    "Wir trinken viel weniger Wasser"
+   ],
+   "aha": "Für sie liegt viel am Lebensstil: Büro, Auto, U-Bahn und Roller sorgen dafür, dass man sich zwischendurch kaum noch bewegen muss. Und wer sich bewegt, kann ein üppigeres Essen gut ausgleichen.",
+   "quote_clean": "Wir nehmen seit vielen Jahren eine ähnliche Menge an Kalorien zu uns. Aber wir bewegen uns weniger, auch durch das Berufliche, viel am PC etc.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 582-587 passt; einfache, aber korrekte Frage.",
+   "stand_note": "",
+   "statement": "Auch im Schlaf verbraucht der Körper Energie, um lebenswichtige Funktionen aufrechtzuerhalten.",
+   "question": "Braucht dein Körper auch im Schlaf Energie aus der Nahrung?",
+   "answer": "Ja, für lebenswichtige Körperfunktionen",
+   "distractors": [
+    "Nein, der Stoffwechsel pausiert",
+    "Nur in der Traumphase",
+    "Nur wenn man vorher Sport macht"
+   ],
+   "aha": "Warum essen wir? Damit wir nicht sterben, sagen die meisten, und das ist gar nicht so falsch. Herz, Atmung und Gehirn laufen auch nachts weiter und wollen versorgt werden.",
+   "quote_clean": "Aber auch im Schlaf brauchen wir Energie, um bestimmte Körperfunktionen aufrechtzuerhalten, damit das Leben im Schlaf nicht aufhört.",
+   "quality": 2
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg 1303-1320 passt (halb Nudeln, halb Gemüse); Frage präzisiert, da sie von ihrem eigenen Alltagsgericht spricht.",
+   "stand_note": "",
+   "statement": "Bei Nudeln mit Gemüsesoße ist ein Verhältnis von ungefähr halb Nudeln, halb Gemüse eine sehr gute Variante.",
+   "question": "Wie viel Prozent Gemüse bzw. Soße sollten bei Nudeln laut Andrea Fičala ungefähr am Teller sein, damit es eine sehr gute Variante ist?",
+   "answer": "50 Prozent",
+   "distractors": [
+    "10 Prozent",
+    "25 Prozent",
+    "80 Prozent"
+   ],
+   "aha": "Klassisch landet ein Berg Spaghetti mit einem Klecks Soße am Teller. Wenn du das Gemüse auf halbe-halbe raufschraubst, hast du ein schnelles und gesundes Mittagessen.",
+   "quote_clean": "Wenn man sich eine klassische Spaghetti-Variante anschaut, sind das immer viele Nudeln und wenig Soße. Wenn man das ungefähr halb-halb schafft, ist das schon eine sehr gute Variante.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage mit beliebiger Antwort und albernem Distraktor; kein Erkenntnisgewinn.",
+   "stand_note": "",
+   "statement": "Kochen ist keine Raketenwissenschaft und lässt sich schnell lernen.",
+   "question": "Wer sagt im Podcast: Kochen ist keine Raketenwissenschaft, das kann man ganz schnell lernen?",
+   "answer": "Andrea Fičala",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Haubenkoch",
+    "Eine Raumfahrtingenieurin"
+   ],
+   "aha": "Die Ernährungswissenschaftlerin ist auch gelernte Köchin und kennt viele, oft junge Männer, die sich gar nicht drübertrauen. Mehr als dass es einmal nicht so gut schmeckt, kann eh nicht passieren.",
+   "quote_clean": "Es ist keine Raketenwissenschaft, das muss ich auch dazu sagen. Kochen kann man ganz schnell lernen.",
+   "quality": 1
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 1401-1408 passt; als persönlicher Ansatz formuliert, aber als Tipp tragfähig.",
+   "stand_note": "",
+   "statement": "Für eine gesunde Ernährung sollte man nicht einzelne Tage bewerten, sondern die ganze Woche betrachten.",
+   "question": "Welchen Zeitraum sollte man laut der Ernährungswissenschaftlerin anschauen, um die eigene Ernährung zu beurteilen?",
+   "answer": "Die ganze Woche",
+   "distractors": [
+    "Eine einzelne Mahlzeit",
+    "Nur das Frühstück",
+    "Das ganze Jahr"
+   ],
+   "aha": "Ein Tag mit Pizza und Extrawurstsemmel sagt wenig aus. Erst über die Woche siehst du, ob etwas ständig am Teller liegt oder komplett fehlt.",
+   "quote_clean": "Im Großen und Ganzen versuche ich oft, nicht einen einzelnen Tag anzuschauen. Schaut euch die ganze Woche an.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage über Andreas' Frage ist kein Wissen; Fundstelle liegt bei ca. 550 s und der Aha-Text behauptet Bananen und Chicken Nuggets ohne Beleg im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Andreas fragt zwischendurch ganz grundsätzlich nach, wozu Ernährung überhaupt da ist.",
+   "question": "Welche Grundsatzfrage stellt Andreas mitten in der Folge über gesunde Ernährung?",
+   "answer": "Wozu ist Ernährung überhaupt da?",
+   "distractors": [
+    "Was hast du heute gefrühstückt?",
+    "Wie viele Kalorien brauche ich?",
+    "Ist Bio wirklich besser?"
+   ],
+   "aha": "Typisch Andreas: Erst geht es um Bananen und Chicken Nuggets, dann einen Schritt zurück zu den Basics. Die Antwort der meisten Leute ist übrigens: damit wir nicht sterben.",
+   "quote_clean": "Bevor wir jetzt noch über andere einzelne Lebensmittel reden, kannst du mir mal grundsätzlich erklären, wozu Ernährung da ist?",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg 1475-1489 passt, freiwillig und sympathisch erzählt; Aha-Detail zur Wurst an den Wortlaut angepasst.",
+   "stand_note": "",
+   "statement": "Die Ernährungswissenschaftlerin kauft sich bei Stress gern eine Extrawurstsemmel und hofft dabei, dass sie niemand sieht.",
+   "question": "Welches Comfort Food holt sich die Ernährungswissenschaftlerin, wenn sie Stress hat?",
+   "answer": "Eine Extrawurstsemmel",
+   "distractors": [
+    "Eine Tafel Schokolade",
+    "Eine Leberkässemmel",
+    "Einen Kaiserschmarrn"
+   ],
+   "aha": "Für sie ist das eine Kindheitserinnerung: Schon beim Einkaufen mit der Mama gab es ein Stück Extrawurst von der Wurstverkäuferin. Solche Trostessen hat jeder, und hin und wieder ist das völlig okay.",
+   "quote_clean": "Und dann stehe ich im Supermarkt und denke mir immer, oh Gott, hoffentlich sieht mich jetzt niemand.",
+   "quality": 4
+  }
+ ],
+ "id": "2",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

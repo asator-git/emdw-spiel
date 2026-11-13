@@ -1,0 +1,282 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Beleg bei 646-651 stimmt (Andreas zitiert die Berechnung der Wirtschaftskammer, ca. 100 Mrd.; passt zu 9 Mio. mal 12.000 Euro); Quelle in die Frage aufgenommen, Stand 2021 gekennzeichnet.",
+   "stand_note": "Stand 2021",
+   "statement": "Ein Grundeinkommen von 1.000 Euro pro Kopf und Monat würde in Österreich laut einer Berechnung der Wirtschaftskammer rund 100 Milliarden Euro im Jahr kosten.",
+   "question": "Wie viele Milliarden Euro pro Jahr würde ein Grundeinkommen von 1.000 Euro im Monat für alle in Österreich laut einer Berechnung der Wirtschaftskammer ungefähr kosten?",
+   "answer": "Rund 100 Milliarden Euro",
+   "distractors": [
+    "Rund 20 Milliarden Euro",
+    "Rund 45 Milliarden Euro",
+    "Rund 250 Milliarden Euro"
+   ],
+   "aha": "Die Rechnung ist eh simpel: rund neun Millionen Menschen mal 1.000 Euro mal zwölf Monate. Das war 2021 ungefähr ein Viertel der gesamten Wirtschaftsleistung Österreichs – und genau da beginnt Badelts praktischer Einwand.",
+   "quote_clean": "Ich habe gesehen, laut Wirtschaftskammer-Berechnung würde ein Grundeinkommen von 1.000 Euro pro Kopf im Monat in Österreich ca. 100 Milliarden Euro kosten.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 660-665 stimmt (rund 400 Mrd.; 2021 real ca. 406 Mrd.); klar mit Jahr gerahmt.",
+   "stand_note": "Stand 2021",
+   "statement": "Das Bruttoinlandsprodukt Österreichs lag zum Zeitpunkt der Folge (2021) bei rund 400 Milliarden Euro im Jahr.",
+   "question": "Wie hoch war Österreichs Bruttoinlandsprodukt im Jahr 2021 ungefähr, in Milliarden Euro?",
+   "answer": "Rund 400 Milliarden Euro",
+   "distractors": [
+    "Rund 150 Milliarden Euro",
+    "Rund 800 Milliarden Euro",
+    "Rund 1.200 Milliarden Euro"
+   ],
+   "aha": "Das BIP ist der Wert aller Waren und Dienstleistungen, die in einem Jahr im Land hergestellt werden. Badelt braucht die Zahl, um zu zeigen, wie groß 100 Milliarden fürs Grundeinkommen wären: rund ein Viertel von allem.",
+   "quote_clean": "Wir haben in Österreich gegenwärtig einen Gesamtwert der Produktion, also ein Bruttoinlandsprodukt, von rund 400 Milliarden.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 668-682 stimmt; Badelt betont selbst die grobe Schätzung („über den Daumen“), die Frage sagt „ungefähr“ (Staatsquote 2021 real ca. 56 Prozent).",
+   "stand_note": "Stand 2021",
+   "statement": "In Österreich laufen ungefähr die Hälfte der gesamten Wirtschaftsleistung über Staatseinnahmen bzw. Staatsausgaben.",
+   "question": "Wie viel Prozent der österreichischen Wirtschaftsleistung laufen ungefähr über den Staat (Staatsausgaben)?",
+   "answer": "Ungefähr 50 Prozent",
+   "distractors": [
+    "Ungefähr 20 Prozent",
+    "Ungefähr 35 Prozent",
+    "Ungefähr 70 Prozent"
+   ],
+   "aha": "Österreich gehört zu den europäischen Hochsteuerländern: Etwa die Hälfte des BIP wird über den Staat umverteilt oder von ihm selbst verwendet. Badelt sagt, das sei nur über den Daumen gepeilt – die Größenordnung passt aber.",
+   "quote_clean": "Und wir haben heute ungefähr die Hälfte dieses Betrages, der durch Staatseinnahmen oder durch Staatsausgaben gedeckt ist.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 511-517 stimmt; es ist Badelts Zuschreibung, in der Frage kenntlich gemacht.",
+   "stand_note": "",
+   "statement": "Christoph Badelt schreibt den Satz „There is no free lunch“ dem Ökonomen Milton Friedman zu.",
+   "question": "Welchem Ökonomen schreibt Christoph Badelt den Satz „There is no free lunch“ zu?",
+   "answer": "Milton Friedman",
+   "distractors": [
+    "John Maynard Keynes",
+    "Adam Smith",
+    "Friedrich August von Hayek"
+   ],
+   "aha": "Gemeint ist: Irgendwer zahlt immer, auch wenn's gratis ausschaut. Badelt nimmt den Satz als Kern seines moralischen Einwands – hinter Krankenhäusern, Schulen und der Pizza zu Mittag steckt die Arbeit von jemandem.",
+   "quote_clean": "Oder Friedman hat gesagt: There is no free lunch, es gibt kein Gratisessen. Und das stimmt auch.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "fairness"
+   ],
+   "note": "Beleg bei 549-585 stimmt; Bewertung („Extremliberale“, „massiver Sozialabbau“) ist Badelts Position und wird nun klar als solche ausgewiesen.",
+   "stand_note": "",
+   "statement": "Laut Christoph Badelt gibt es Befürworter eines Grundeinkommens wie Milton Friedman, die es als Ersatz für alle anderen Sozialleistungen wollen.",
+   "question": "Wie stellt sich laut Badelt ein Marktliberaler wie Milton Friedman das Grundeinkommen vor?",
+   "answer": "Als Ersatz für alle anderen Sozialleistungen",
+   "distractors": [
+    "Als Zusatz zum bestehenden Sozialstaat",
+    "Als Lohnuntergrenze für alle Berufe",
+    "Als Bonus für besonders Leistungsstarke"
+   ],
+   "aha": "Das Grundeinkommen hat Fans aus ganz verschiedenen politischen Lagern, nur meinen sie Unterschiedliches. Bei Friedman hieße es laut Badelt: Geld auf die Hand, dafür nichts mehr vom Staat. Er hält das für massiven Sozialabbau, weil so ein Betrag nie für Spital, Bildung oder Öffis reichen würde.",
+   "quote_clean": "Da gibt es die Extremliberalen, der vorher schon erwähnte Milton Friedman ist einer von denen, die sagen: Wir machen das Grundeinkommen, und das war es dann, sonst kriegst du nichts vom Staat.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "spielbarkeit"
+   ],
+   "note": "Badelt sagt es nur als „ich glaube“-Nebenbemerkung; Umsatzsteuer und Lohnsteuer liegen in Österreich knapp beieinander, die Rangfolge hängt vom Jahr ab, Distraktor Lohnsteuer ist daher nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Die Umsatzsteuer ist die größte einzelne Steuerquelle in Österreich.",
+   "question": "Welche Steuer ist die größte einzelne Steuerquelle in Österreich?",
+   "answer": "Die Umsatzsteuer",
+   "distractors": [
+    "Die Lohnsteuer",
+    "Die Körperschaftsteuer",
+    "Die Mineralölsteuer"
+   ],
+   "aha": "Die Umsatzsteuer geht direkt in die Preise.",
+   "quote_clean": "Dort, wo man am meisten oder am leichtesten Geld einhebt, ist eigentlich die Umsatzsteuer. Das ist auch die größte Steuerquelle im Land.",
+   "quality": 2
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 344-396 stimmt; klar als Badelts Position gerahmt.",
+   "stand_note": "",
+   "statement": "Badelt vergleicht die Wirtschaft mit einem Kuchen: Wer arbeiten kann, soll mitbacken, damit auch jene etwas bekommen, die nicht arbeiten können.",
+   "question": "Mit welchem Bild erklärt Christoph Badelt seinen moralischen Einwand gegen das Grundeinkommen?",
+   "answer": "Alle, die können, backen den Kuchen mit",
+   "distractors": [
+    "Jeder bekommt ein gleich großes Stück Torte",
+    "Der Staat ist die Bäckerei",
+    "Wer nicht arbeitet, isst die Krümel"
+   ],
+   "aha": "Für Badelt ist das kein Argument gegen Auszeiten: Kinder, Alte, Kranke oder wer mal ein Jahr etwas anderes macht, sind ausgenommen. Ihm geht's ums Prinzip, dass sich niemand hinstellt und sagt: Die anderen arbeiten für mich.",
+   "quote_clean": "Ich würde schon glauben, dass ein Mensch, der grundsätzlich fähig ist zu arbeiten, also etwas dazu beizutragen, dass der Kuchen gebacken wird, das auch tun muss, damit diejenigen, die das nicht können, auch einen Kuchen haben, den sie essen können.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1012-1034 stimmt; Aussage ist vorsichtig („wahrscheinlich“) und in der Frage als „könnte“ formuliert.",
+   "stand_note": "",
+   "statement": "Was man besteuert, davon gibt es tendenziell weniger: Darum besteuert man CO2 – und hoch besteuerte Arbeit führt wahrscheinlich zu weniger Arbeit.",
+   "question": "Warum könnte laut Badelt eine sehr hohe Steuer auf Arbeit problematisch sein?",
+   "answer": "Dann wird wahrscheinlich weniger gearbeitet",
+   "distractors": [
+    "Dann steigen automatisch die Löhne",
+    "Dann sinkt die Inflation",
+    "Dann wird mehr CO2 ausgestoßen"
+   ],
+   "aha": "Steuern lenken: Bei CO2 ist genau das gewollt, weniger Ausstoß. Bei Arbeit ist es unerwünscht – bei sehr hohen Abgaben, sagt Badelt, drohen weniger Arbeit, Schwarzarbeit oder Ausweichkonstruktionen im Ausland.",
+   "quote_clean": "Dinge, die man besteuert – man besteuert ja zum Beispiel gerne CO2, weil man möchte, dass weniger CO2 emittiert wird. Wenn man zum Beispiel Arbeit hoch besteuert, dann wird wahrscheinlich auch weniger gearbeitet.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 833-847 stimmt; als Befürchtung von Badelt gerahmt.",
+   "stand_note": "",
+   "statement": "Ein Grundeinkommen birgt laut Badelt die Gefahr, dass Frauen in Familien eher zum Zuhausebleiben gedrängt werden.",
+   "question": "Welche Gefahr sieht Badelt beim Grundeinkommen aus Geschlechterperspektive?",
+   "answer": "Frauen werden eher nach Hause gedrängt",
+   "distractors": [
+    "Männer verdienen dann weniger",
+    "Frauen zahlen höhere Steuern",
+    "Kinderbetreuung wird teurer"
+   ],
+   "aha": "Das Grundeinkommen kann Druck wegnehmen, aber auch abstempeln: hier die, die nur davon leben, dort die „Normalen“. In Familien könnte es heißen: Sie kriegt eh das Grundeinkommen, soll sie daheim bleiben.",
+   "quote_clean": "Das hat übrigens auch eine Geschlechterseite: die Gefahr, dass man in einer Familie sagt, die Frau soll daheim bleiben, sie kriegt das Grundeinkommen, soll sie Ruhe geben.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Reine Wer-sagt-Frage mit wertender Spitze („kindlicher Wunsch ans Christkind“) gegen Befürworter:innen; kein Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Christoph Badelt hält die Idee, allein fürs Menschsein ein Einkommen zu bekommen, für einen kindlichen Wunsch ans Christkind.",
+   "question": "Wer hat's gesagt: Ein Einkommen, nur weil man ein Mensch ist, sei ein „kindlicher Wunsch ans Christkind“?",
+   "answer": "Christoph Badelt",
+   "distractors": [
+    "Markus Marterbauer",
+    "Andreas Sator",
+    "Milton Friedman"
+   ],
+   "aha": "So pointiert formuliert Badelt seinen moralischen Einwand.",
+   "quote_clean": "Aber grundsätzlich zu sagen, nur weil ich ein Mensch bin, muss ich ein Einkommen beziehen – das halte ich eigentlich für einen kindlichen Wunsch ans Christkind.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Reine Wer-sagt-Frage mit polemischer Wertung („fiese Strategie“) über eine politische Position; Inhalt ist in Kandidat 5 besser aufgehoben.",
+   "stand_note": "",
+   "statement": "Christoph Badelt hält das liberale Werben für ein Grundeinkommen für eine ziemlich fiese Strategie, den Sozialstaat abzubauen.",
+   "question": "Wer hat's gesagt: Das liberale Grundeinkommen sei „eine ziemlich fiese Strategie, den Sozialstaat abzubauen“?",
+   "answer": "Christoph Badelt",
+   "distractors": [
+    "Milton Friedman",
+    "Andreas Sator",
+    "Veronika Bohrn Mena"
+   ],
+   "aha": "Wer es als Ersatz für Spital, Schule und Öffis will, baut laut Badelt den Sozialstaat durch die Hintertür ab.",
+   "quote_clean": "Ich halte das Eintreten für ein Grundeinkommen aus der wirklich liberalen Sicht für eine ziemlich fiese Strategie, den Sozialstaat abzubauen.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1379-1396 stimmt; Meinung ist in der Frage klar Badelt zugeordnet.",
+   "stand_note": "",
+   "statement": "Christoph Badelt hält eine Welt, in der Roboter alles herstellen und niemand mehr arbeiten muss, für eine naive Paradiesvorstellung.",
+   "question": "Als was bezeichnet Badelt die Vorstellung, dass Roboter alles herstellen und niemand mehr arbeiten muss?",
+   "answer": "Eine naive Paradiesvorstellung",
+   "distractors": [
+    "Eine gefährliche Dystopie",
+    "Eine baldige Realität",
+    "Ein realistisches Szenario für 2050"
+   ],
+   "aha": "Wenn sich der Kuchen von selbst backt, gibt Badelt zu, müsste man nur noch streiten, wer ihn bekommt – dann wäre ein Grundeinkommen denkbar. Er glaubt nur nicht, dass der nötige Arbeitseinsatz je auf null sinkt.",
+   "quote_clean": "Aber ehrlich gestanden glaube ich nicht, dass das so werden wird. Ich glaube, das ist auch ein bisschen eine naive Paradiesvorstellung.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Standardfloskel am Gesprächsbeginn, kein Wissen; Aha-Liste (Volkswirt, Rektor, Wifo-Chef, Fiskalrat) steckt ohnehin nicht in der Frage.",
+   "stand_note": "",
+   "statement": "Andreas bittet seine Gäste zu Beginn, sich kurz selbst vorzustellen.",
+   "question": "Wie startet Andreas typischerweise das Gespräch mit seinem Gast?",
+   "answer": "Er bittet ihn, sich kurz vorzustellen",
+   "distractors": [
+    "Er liest den Lebenslauf vor",
+    "Er fragt nach dem Lieblingsbuch",
+    "Er startet mit einer Schätzfrage"
+   ],
+   "aha": "Das „Magst du dich kurz vorstellen?“ gehört bei Erklär mir die Welt zum Inventar.",
+   "quote_clean": "Hallo lieber Christoph, schön, dass du da bist. Magst du dich zu Beginn noch kurz vorstellen, bitte?",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Sprecherzuordnung im Transkript unklar (wer sagt „Ich würde das nicht gern wollen“?), Pointe ohne Wissensgewinn; Aha-Behauptung zum „Advocatus Diaboli“ unbelegt.",
+   "stand_note": "",
+   "statement": "Auf Badelts Frage, ob man gern drei Viertel seines Verdiensts abgeben würde, antwortet Andreas: „Ich stelle hier nur die Fragen.“",
+   "question": "Badelt fragt Andreas, ob er gern drei Viertel seines Verdiensts abgeben würde. Was antwortet Andreas?",
+   "answer": "„Ich stelle hier nur die Fragen.“",
+   "distractors": [
+    "„Für einen guten Zweck schon.“",
+    "„Das mache ich eh schon.“",
+    "„Kommt auf die Steuer an.“"
+   ],
+   "aha": "Darin liegt laut Badelt der Kern der Antwort.",
+   "quote_clean": "Tätst du gern arbeiten, und drei Viertel von dem, was du verdienst, wird dir weggenommen? Ich würde das nicht wollen. – Ich auch nicht, ich stelle hier nur die Fragen.",
+   "quality": 1
+  }
+ ],
+ "id": "188",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

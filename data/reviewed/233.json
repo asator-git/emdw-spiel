@@ -1,0 +1,285 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Bei 1071-1078 belegt (ETF von Vanguard, 0,22 % pro Jahr); Kosten ändern sich mit der Zeit, daher Stand 2022.",
+   "stand_note": "Stand 2022",
+   "statement": "Ein breit gestreuter Welt-ETF kann im Jahr nur rund 0,22 Prozent an Kosten verursachen.",
+   "question": "Wie viel Prozent pro Jahr kostet Andreas' Welt-ETF ungefähr?",
+   "answer": "0,22 Prozent",
+   "distractors": [
+    "1,2 Prozent",
+    "0,8 Prozent",
+    "2,5 Prozent"
+   ],
+   "aha": "ETFs kaufen mechanisch einen Index nach, da sitzt kein teures Management dahinter. Darum sind sie so billig, und das ist bei langfristigem Sparen ein riesiger Vorteil.",
+   "quote_clean": "Ich besitze einen ETF, der kostet mich im Jahr 0,22 Prozent. Der ist von Vanguard, einem ganz berühmten großen Unternehmen, das ETFs erstellt.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Bei 1140-1156 belegt (Fonds der GLS Bank, 1,5 % pro Jahr); Rechnung im Aha stimmt (1,5 / 0,22 ist etwa 6,8). Gebühr ist ein Stand von 2022.",
+   "stand_note": "Stand 2022",
+   "statement": "Ein aktiv gemanagter nachhaltiger Fonds kann rund 1,5 Prozent pro Jahr kosten, weil Menschen die Firmen prüfen.",
+   "question": "Wie viel Prozent pro Jahr kostet der nachhaltige, aktiv gemanagte Fonds, den Andreas verglichen hat?",
+   "answer": "1,5 Prozent",
+   "distractors": [
+    "0,3 Prozent",
+    "4 Prozent",
+    "0,8 Prozent"
+   ],
+   "aha": "Bei einem aktiv gemanagten Fonds zahlst du Menschen, die Firmen anschauen und nachfragen, ob die wirklich nachhaltig sind. Das klingt nach wenig, ist aber fast siebenmal so viel wie Andreas' ETF.",
+   "quote_clean": "Der kostet aber 1,5 Prozent im Jahr, weil da eben nicht wie bei mir ein dummer, automatisierter Mechanismus ist, sondern da sitzt ein Mensch, der sich die Ergebnisse von Firmen anschaut.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Bei 1164-1188 belegt („mehr als 13.000 Euro“), Nachrechnen mit 4 % Zuwachs ergibt ca. 13.700 Euro. Die Annahme (4 % Zuwachs) muss in die Frage.",
+   "stand_note": "",
+   "statement": "Bei 20.000 Euro über 25 Jahre und angenommenen 4 Prozent Zuwachs im Jahr macht ein Kostenunterschied von 0,2 zu 1,5 Prozent pro Jahr mehr als 13.000 Euro aus.",
+   "question": "Wie viel Euro kostet der Unterschied zwischen 0,2 und 1,5 Prozent Gebühren bei 20.000 Euro über 25 Jahre, wenn man 4 Prozent Zuwachs im Jahr annimmt?",
+   "answer": "Rund 13.000 Euro",
+   "distractors": [
+    "Rund 2.000 Euro",
+    "Rund 5.000 Euro",
+    "Rund 30.000 Euro"
+   ],
+   "aha": "Gebühren werden jedes Jahr vom ganzen Betrag abgezogen, und der Zinseszins verstärkt das. Aus Andreas' 20.000 Euro werden so rund 50.000 statt rund 37.000 Euro, und die Differenz geht großteils an die Leute, die den Fonds managen.",
+   "quote_clean": "Wenn ich 20.000 Euro langfristig über 25 Jahre anlege, bei einem angenommenen Zuwachs von 4 Prozent im Jahr, kostet mich der Unterschied in den Kosten, also 0,2 versus 1,5 Prozent, über diese Zeit mehr als 13.000 Euro.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Begriff bei 676-681 belegt; das Aha stellte Burghofs These als Tatsache dar, jetzt als seine Sicht gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Wenn Investoren unterbewertete Aktien gezielt kaufen, gleichen sich die Preise wieder an; das nennt man Arbitrage.",
+   "question": "Wie heißt der Vorgang, bei dem Anleger unterbewertete Aktien kaufen, bis sich die Preise angleichen?",
+   "answer": "Arbitrage",
+   "distractors": [
+    "Diversifikation",
+    "Leerverkauf",
+    "Hebelung"
+   ],
+   "aha": "Laut Burghof läuft es so: Kaufen viele die nachhaltigen Aktien, werden die „bösen“ billiger, und dann greifen nüchterne Investoren zu. Am Ende ist der Preisunterschied weg – und dein gutes Gewissen hat am Markt kaum etwas verändert.",
+   "quote_clean": "Die kaufe ich jetzt ganz besonders. Und das nennt man dann Arbitrageprozess. Das passt sich dann an. Und wenn der Kapitalmarkt gut funktioniert, dann sollten diese Aktien nachher wieder den gleichen Wert haben.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Bei 1287-1325 belegt; Einschätzung gehört Burghof und gilt als Stand 2022, daher Zuschreibung in der Frage.",
+   "stand_note": "Stand 2022",
+   "statement": "Laut Burghof stammt die Idee, mit nachhaltiger Anlage mehr zu verdienen, aus einer Phase, in der Nachhaltigkeitsrisiken noch nicht eingepreist waren.",
+   "question": "Warum konnte man laut Burghof früher mit nachhaltiger Geldanlage tatsächlich mehr verdienen?",
+   "answer": "Weil Umweltrisiken nicht eingepreist waren",
+   "distractors": [
+    "Weil der Staat sie steuerfrei stellte",
+    "Weil Ölpreise dauerhaft sanken",
+    "Weil Banken höhere Zinsen zahlten"
+   ],
+   "aha": "Wer damals schon gesehen hat, dass strengere Umweltgesetze kommen, war dem Markt voraus. Heute sind diese Risiken laut Burghof jedem bewusst, darum ist das Win-win-Versprechen für ihn eher ein Perpetuum mobile.",
+   "quote_clean": "Und deswegen gab es eine Phase, in der du, wenn du dir Nachhaltigkeitsrisiken angeschaut hast, dein Geld tatsächlich besser angelegt und mehr verdient hast. Daher kam diese Win-win-Idee: Wir werden reich und machen noch was Gutes.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1744-1761 wörtlich belegt, Distraktoren eindeutig falsch, Aha stimmt.",
+   "stand_note": "",
+   "statement": "ESG steht für ökologische Nachhaltigkeit, soziale Nachhaltigkeit und Governance, also gute Unternehmensführung.",
+   "question": "Wofür steht das G in den ESG-Kriterien für nachhaltige Geldanlage?",
+   "answer": "Governance",
+   "distractors": [
+    "Green",
+    "Growth",
+    "Gemeinwohl"
+   ],
+   "aha": "Governance heißt: Wie gut wird ein Unternehmen geführt? Burghof findet, dass die drei Buchstaben eigentlich drei Tiere sind, die wenig miteinander zu tun haben.",
+   "quote_clean": "Das E steht natürlich für ökologische Nachhaltigkeit. Das S steht für soziale Nachhaltigkeit. Und das G, das ist so ein Wundertier: Governance.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Bei 640-702 belegt, aber Burghofs Argument (unter der Bedingung eines gut funktionierenden Kapitalmarkts); daher klar ihm zugeschrieben.",
+   "stand_note": "",
+   "statement": "Laut Burghof ändert der Kauf nachhaltiger Aktien an der Börse meist nichts daran, zu welchen Bedingungen Unternehmen an Geld kommen.",
+   "question": "Was bewirkt der Kauf nachhaltiger Aktien an der Börse laut Burghof meistens?",
+   "answer": "Praktisch nichts für das Unternehmen",
+   "distractors": [
+    "Deutlich günstigere Kredite",
+    "Mehr Mitsprache für Kleinanleger",
+    "Höhere Dividenden für alle"
+   ],
+   "aha": "An der Börse kaufst du die Aktie meistens von einem anderen Anleger, nicht vom Unternehmen. Und weil Arbitrage die Preise angleicht, kriegt die Firma ihr Geld laut Burghof am Ende zu denselben Konditionen wie ohne dich.",
+   "quote_clean": "Du hast zwar dein Geld nachhaltig angelegt, aber es ist nichts passiert. Das Unternehmen kriegt das Geld genau zu den Konditionen und im gleichen Volumen, wie es es bekäme, wenn du nicht nachhaltig anlegen würdest.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Bei 239-270 belegt; die Zinszahlen im Aha (ein Prozent statt vier) stehen nicht im Transkript und werden als Beispiel gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Echte Wirkung hat eine Direktanlage nur, wenn man einem Projekt günstiger Geld gibt, als es am Kapitalmarkt bekäme.",
+   "question": "Wann unterstützt man ein grünes Projekt mit seinem Geld laut Burghof wirklich?",
+   "answer": "Wenn man es besonders günstig finanziert",
+   "distractors": [
+    "Wenn man hohe Zinsen verlangt",
+    "Wenn man nur kurz investiert",
+    "Wenn man es über einen ETF tut"
+   ],
+   "aha": "Wenn eh genug Banken und Investoren dem Windpark Geld borgen würden, macht dein Geld keinen Unterschied. Erst wenn du dich mit weniger Rendite zufriedengibst, als der Markt verlangt, ermöglichst du etwas, das sonst nicht passiert.",
+   "quote_clean": "Eine wirkliche Unterstützung, und das muss einem bewusst sein, gibt man allerdings nur, wenn man diesem Projekt tatsächlich besonders günstig Geld gibt.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1031-1061 belegt; Antwort und Aha stimmen mit der Aussage überein.",
+   "stand_note": "",
+   "statement": "ETFs sind billig, weil sie rein mechanisch einen Index abbilden, während bei klassischen Fonds teure Manager entscheiden.",
+   "question": "Warum sind ETFs so viel billiger als klassische Investmentfonds?",
+   "answer": "Sie bilden mechanisch einen Index ab",
+   "distractors": [
+    "Sie enthalten nur wenige Aktien",
+    "Der Staat fördert sie",
+    "Sie zahlen keine Dividenden"
+   ],
+   "aha": "Ein ETF kauft einfach einen bestimmten Teil des Marktes nach, ohne eigene Strategie. Burghof nennt ihn deshalb die billigste Form eines Investmentfonds.",
+   "quote_clean": "Und da das alles rein mechanisch abläuft, sind die auch sehr, sehr billig. Klassische Investmentfonds sind relativ teuer in der Anschaffung und in der Betreuung, weil da Manager dahintersitzen.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 276-299 wörtlich belegt, Kontext (Win-win-Versprechen) korrekt wiedergegeben.",
+   "stand_note": "",
+   "statement": "Burghof vergleicht das Versprechen von besserem Gewissen plus höherer Rendite mit einem Perpetuum mobile.",
+   "question": "Womit vergleicht Burghof Anlagen, die gutes Gewissen und höhere Rendite zugleich versprechen?",
+   "answer": "Mit einem Perpetuum mobile",
+   "distractors": [
+    "Mit einem Lottoschein",
+    "Mit einem Schneeballsystem",
+    "Mit einer Gelddruckmaschine"
+   ],
+   "aha": "Alles win-win, alle gewinnen, so klingt der Verkaufsspruch. Im echten Leben gibt es so etwas nicht, sagt Burghof: Wer wirklich etwas bewegen will, muss akzeptieren, ein bisschen weniger zu verdienen.",
+   "quote_clean": "Das ist ein bisschen, auf Lateinisch nennen wir das Perpetuum mobile, ein Fahrzeug, das von alleine fährt, ohne dass man dafür Benzin oder irgendeine Energie aufbringen muss.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1396-1415 belegt; Vergleich ist als Burghofs Meinung zu Anlegerverhalten formuliert, keine Behauptung über Tesla selbst.",
+   "stand_note": "",
+   "statement": "Burghof vergleicht den Kauf vermeintlich grüner Aktien, um weiter viel zu fliegen, mit dem mittelalterlichen Ablasshandel.",
+   "question": "Womit vergleicht Burghof es, wenn man Tesla-Aktien kauft und weiter fünfmal im Jahr in den Urlaub fliegt?",
+   "answer": "Mit dem Ablasshandel",
+   "distractors": [
+    "Mit einer Spende",
+    "Mit einem Schutzgeld",
+    "Mit einer Steuerflucht"
+   ],
+   "aha": "Im Mittelalter konnte man sich von Sünden freikaufen, heute vielleicht vom schlechten Klimagewissen. Burghof fragt außerdem, warum riesige Autos mit riesigen Batterien für reiche Leute so viel nachhaltiger sein sollen.",
+   "quote_clean": "Wenn ich dann Tesla kaufe, habe ich was Gutes getan und kann weiterhin fünfmal im Jahr in Urlaub fliegen. Das ist alles so ein mittelalterlicher Ablasshandel.",
+   "quality": 4
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "transkription",
+    "kontext"
+   ],
+   "note": "Frage ist mehrdeutig (damals „Wahrsager“, heute „Aktienspezialisten“), Distraktoren sind Fantasiebegriffe, Transkript „Wahrsagerhäusen“ verhört; die Aussage „niemand kann Einstiegszeitpunkte vorhersagen“ ist überzogen.",
+   "stand_note": "",
+   "statement": "Burghof sagt, niemand könne den richtigen Einstiegszeitpunkt für Aktien vorhersagen.",
+   "question": "Wie nennt Burghof Leute, die angeblich den richtigen Zeitpunkt zum Aktienkauf kennen?",
+   "answer": "Wahrsager",
+   "distractors": [
+    "Hellseher mit Lizenz",
+    "Börsengurus",
+    "Glücksritter"
+   ],
+   "aha": "",
+   "quote_clean": "Es gibt immer Leute, die dich dafür bezahlen lassen, dass sie in die Zukunft schauen können. Früher nannte man die Wahrsager, heute heißen die Aktienspezialisten. Ich habe keine Ahnung.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Scherzhafter Zwischenruf ohne Wissens- oder Aha-Wert.",
+   "stand_note": "",
+   "statement": "Andreas bittet scherzhaft die Millionäre unter seinen Hörer:innen, sich bei ihm zu melden.",
+   "question": "Wen bittet Andreas mitten im Gespräch scherzhaft, sich bei ihm zu melden?",
+   "answer": "Millionäre unter den Hörer:innen",
+   "distractors": [
+    "Bankberater unter den Hörer:innen",
+    "Windparkbetreiber aus Österreich",
+    "Alle ETF-Besitzer:innen"
+   ],
+   "aha": "",
+   "quote_clean": "Ich weiß nicht, wie viele Millionäre mir zuhören. Wenn es welche gibt, bitte bei mir melden. Dann findet man Kooperationsmöglichkeiten.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Triviale Begrüßungsfrage; die Aha-Behauptung zu einem späteren „Sie“ ist im Ausschnitt nicht belegt.",
+   "stand_note": "",
+   "statement": "Andreas duzt alle seine Gäste und fragt zu Beginn, ob das in Ordnung ist.",
+   "question": "Was fragt Andreas den Professor gleich zu Beginn?",
+   "answer": "Ob er ihn duzen darf",
+   "distractors": [
+    "Ob er Aktien besitzt",
+    "Ob er schon mal im Podcast war",
+    "Wie er angesprochen werden will"
+   ],
+   "aha": "",
+   "quote_clean": "Hallo, lieber Hans-Peter. Ich habe ja noch gar nicht geredet. Ich duze alle meine Gäste. Ist das in Ordnung, wenn ich dich duze?",
+   "quality": 1
+  }
+ ],
+ "id": "233",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

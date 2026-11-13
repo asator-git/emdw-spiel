@@ -1,0 +1,283 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "kontext"
+   ],
+   "note": "Gast nennt die Zahl mit „ich glaube“ für 2020; passt grob zu WHO/UNICEF (46 % ohne sicher verwaltete Sanitärversorgung), also als Stand 2020 kennzeichnen.",
+   "stand_note": "Stand 2020",
+   "statement": "Laut Johannes Bousek hatten 2020 rund 46 Prozent der Menschheit keinen Zugang zu einer adäquaten Sanitärversorgung.",
+   "question": "Wie viel Prozent der Menschheit hatten laut Johannes Bousek 2020 keinen Zugang zu einer adäquaten Sanitärversorgung?",
+   "answer": "Rund 46 Prozent",
+   "distractors": [
+    "Rund 12 Prozent",
+    "Rund 25 Prozent",
+    "Rund 70 Prozent"
+   ],
+   "aha": "Fast jeder zweite Mensch hatte 2020 kein funktionierendes Klo – gemeint ist nicht unbedingt ein Kanalanschluss, auch eine funktionierende Latrine zählt. Genau deshalb ist Sanitärversorgung Teil der UN-Nachhaltigkeitsziele.",
+   "quote_clean": "Ich glaube, es war 2020: 46 Prozent der Menschheit haben noch keinen Zugang zu einer adäquaten Sanitärversorgung, also einem funktionierenden guten Klo.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahlen stehen so im Transkript und passen zu den Daten für Haiti 2010.",
+   "stand_note": "",
+   "statement": "Die Cholera-Epidemie nach dem Erdbeben in Haiti 2010 hatte rund 180.000 Fälle und etwa 4.000 Tote.",
+   "question": "Wie viele Cholera-Fälle gab es 2010 nach dem Erdbeben in Haiti ungefähr?",
+   "answer": "Rund 180.000",
+   "distractors": [
+    "Rund 8.000",
+    "Rund 40.000",
+    "Rund 2 Millionen"
+   ],
+   "aha": "Zerstörte Klos, Menschen auf der Straße, Stress und schlechtere Ernährung – ein Perfect Storm für eine Durchfallerkrankung. Gestorben sind rund 4.000 Menschen, also nicht jeder Fall endet tödlich, aber jeder Tote ist einer zu viel.",
+   "quote_clean": "2010 gab es bei der Cholera-Epidemie 180.000 Fälle und ungefähr 4.000 Tote.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zahlen stehen im Transkript; die Zuschreibung an Sphere ist aber nur die Aussage des Gastes, daher Frage auf ihn beziehen.",
+   "stand_note": "",
+   "statement": "Laut Johannes Bousek teilen sich am Anfang einer Katastrophe 50 Menschen eine Latrine, später 20.",
+   "question": "Wie viele Menschen teilen sich laut Johannes Bousek am Anfang einer Katastrophe eine Latrine?",
+   "answer": "50 Menschen",
+   "distractors": [
+    "5 Menschen",
+    "15 Menschen",
+    "200 Menschen"
+   ],
+   "aha": "Hilfsorganisationen haben sich auf Mindeststandards geeinigt: zuerst 50, später 20 Leute pro Latrine. Das heißt Community-Klos statt eines eigenen für jede Familie – und dann muss sich auch jemand fürs Putzen verantwortlich fühlen.",
+   "quote_clean": "Einigen wir uns mal darauf, wie viele Personen eine Latrine bekommen. Das sind am Anfang einer Katastrophe 50 und danach 20 Leute.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Die Zahl über 99 Prozent ist sehr wahrscheinlich zu hoch (Kanalanschlussgrad in Österreich liegt eher bei rund 95 Prozent); der aha-Teil über Senkgruben ist nicht belegt.",
+   "stand_note": "",
+   "statement": "Über 99 Prozent Österreichs sind an das Kanalnetz angeschlossen.",
+   "question": "Wie viel Prozent Österreichs sind ans Kanalnetz angeschlossen?",
+   "answer": "Über 99 Prozent",
+   "distractors": [
+    "Rund 75 Prozent",
+    "Rund 85 Prozent",
+    "Rund 92 Prozent"
+   ],
+   "aha": "Ob Küchenwaschbecken, Dusche oder Klo – fast alles landet bei uns im Kanal und rinnt zur Kläranlage.",
+   "quote_clean": "Bei uns ist das relativ einfach, unter Anführungszeichen. Über 99 Prozent Österreichs sind ans Kanalnetz angeschlossen.",
+   "quality": 1
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Nepalesischer Cholera-Stamm aus UN-Basis steht bei 557 und 686; Abwasser ohne Reinigung in den Fluss bei 702-711. Distraktoren klar falsch.",
+   "stand_note": "",
+   "statement": "Die Cholera kam 2010 über ein UN-Camp ohne funktionierende Abwasserreinigung nach Haiti, eingeschleppt von einem UN-Soldaten aus Nepal.",
+   "question": "Wie kam die Cholera nach dem Erdbeben 2010 nach Haiti?",
+   "answer": "Über ein UN-Camp mit Soldaten aus Nepal",
+   "distractors": [
+    "Über verseuchte Hilfslieferungen aus Europa",
+    "Über Flüchtlinge aus der Dominikanischen Republik",
+    "Über Fischerboote aus Westafrika"
+   ],
+   "aha": "In Nepal ist Cholera endemisch, und man kann das Bakterium in sich tragen, ohne krank zu sein. Das UN-Camp hat sein Abwasser in den Fluss geleitet – und so ist ein Keim aus Südasien plötzlich in der Karibik gelandet.",
+   "quote_clean": "Das Problem war, dass genau ein UN-Soldat, der nach Haiti geflogen ist, das Pech hatte, dass das UN-Camp keine wirkliche Abwasserreinigung hatte und das Ganze in den nächsten Fluss geleitet hat.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Aussage stimmt und steht im Transkript, ist aber eine sehr leichte Ja/Nein-Frage und überschneidet sich mit Kandidat 8.",
+   "stand_note": "",
+   "statement": "Man kann das Cholera-Bakterium in sich tragen, ohne selbst krank zu werden.",
+   "question": "Kann man das Cholera-Bakterium in sich tragen, ohne krank zu sein?",
+   "answer": "Ja, das kommt vor",
+   "distractors": [
+    "Nein, man erkrankt immer sofort",
+    "Nur Kinder unter fünf Jahren",
+    "Nur nach einer Impfung"
+   ],
+   "aha": "Manche Menschen haben die Cholera einfach in sich und merken nichts davon. Genau deshalb kann sie unbemerkt reisen.",
+   "quote_clean": "Man muss zur Cholera auch noch wissen: Man kann das Bakterium in sich tragen, ohne davon krank zu werden.",
+   "quality": 2
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 384-406 klar; Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "In alten Wiener Innenhöfen lagen Plumpsklo und Brunnen oft nebeneinander, sodass Keime aus den Fäkalien ins Trinkwasser sickern konnten.",
+   "question": "Warum war das Wasser in alten Wiener Innenhöfen oft gefährlich?",
+   "answer": "Plumpsklo und Brunnen lagen zu nah beieinander",
+   "distractors": [
+    "Die Bleirohre vergifteten das Wasser",
+    "Regenwasser wurde ungefiltert getrunken",
+    "Die Donau überschwemmte die Brunnen"
+   ],
+   "aha": "Das Klo zwei Meter tief, der Brunnen daneben fünf Meter tief: Die Bakterien aus dem Stuhl sickern hinunter und werden mehr oder weniger gleich wieder hinaufgepumpt. Klares Wasser heißt eben noch lange nicht sauberes Wasser.",
+   "quote_clean": "Man hat das Plumpsklo mit dem Behälter vielleicht zwei Meter tief und daneben die Handpumpe, den Brunnen, fünf Meter tief.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Drei Dinge stehen im Transkript, aber „laut Rotem Kreuz“ und „am besten“ sind Überhöhungen; auf die Aussage des Gastes beziehen.",
+   "stand_note": "",
+   "statement": "Gegen Cholera helfen laut Johannes Bousek drei große Dinge: sauberes Trinkwasser, gute Hygiene und passende Fäkalienentsorgung.",
+   "question": "Welche drei Dinge nennt Johannes Bousek, um einen Cholera-Ausbruch zu unterbrechen?",
+   "answer": "Trinkwasser, Hygiene, Fäkalienentsorgung",
+   "distractors": [
+    "Impfung, Quarantäne, Fiebermittel",
+    "Antibiotika, Masken, Ausgangssperren",
+    "Desinfektion, Fasten, Bettruhe"
+   ],
+   "aha": "Cholera dreht sich im Kreis: Ausscheidung, Wasser oder Hände, Mund. Chlor im Wasser, Seife an den Händen und ein Plumpsklo für die Fäkalien unterbrechen diesen Kreis jeweils an einer anderen Stelle.",
+   "quote_clean": "Das sind die drei großen Dinge, die man machen kann: Wasseraufbereitung, also sauberes Trinkwasser, gute Hygiene, die wir seit Covid eh schon kennen, und passende Abwasser- und Fäkalienentsorgung.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Beleg passt; „grauslich“ ist überzogen, der Gast sagt „nicht so schön“. Frage entschärfen.",
+   "stand_note": "",
+   "statement": "Gemeinschaftsklos bleiben nur sauber, wenn sich die Nutzer:innen dafür verantwortlich fühlen – das gleiche Problem wie bei Festival-Klos.",
+   "question": "Warum sehen Festival-Klos laut Johannes Bousek oft nicht schön aus?",
+   "answer": "Weil sich keiner verantwortlich fühlt",
+   "distractors": [
+    "Weil sie zu selten geleert werden",
+    "Weil die Chemikalien nicht wirken",
+    "Weil es zu wenige davon gibt"
+   ],
+   "aha": "In der Katastrophenhilfe nennt der Gast das Ownership: Wenn die Leute, die eine Community-Latrine benutzen, sie als ihre eigene sehen, putzen sie sie auch. Am Festival fühlt sich halt keiner zuständig.",
+   "quote_clean": "Das ist das gleiche Problem, warum die Plumpsklos oder die chemischen Klos am Festival nicht so schön ausschauen: weil sich keiner verantwortlich dafür fühlt.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Grundwasser in Küstennähe belegt bei 657-665, aber es war nur einer von mehreren Gründen; Frage präzisieren.",
+   "stand_note": "",
+   "statement": "In Haiti war der Grundwasserspiegel in Küstennähe so hoch, dass man nicht tief graben konnte.",
+   "question": "Was machte in Küstennähe von Haiti das Graben von Plumpsklos so schwierig?",
+   "answer": "Das Grundwasser liegt zu hoch",
+   "distractors": [
+    "Der Boden war gefroren",
+    "Das Graben war gesetzlich verboten",
+    "Es fehlten Schaufeln und Werkzeug"
+   ],
+   "aha": "In der Stadt ist der Boden versiegelt, die Hinterhöfe gehören jemand anderem – und an der Küste kommt einem beim Graben sofort das Grundwasser entgegen. Deshalb hat man dort etwas Ähnliches wie die chemischen Klos vom Festival gebaut.",
+   "quote_clean": "Zusätzlich war in Haiti das Problem, dass der Grundwasserspiegel, besonders in Küstennähe, sehr hoch ist. Man kann nicht wirklich tief graben, es kommt einem sofort das Grundwasser entgegen.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1763-1797; fachlich korrekt.",
+   "stand_note": "",
+   "statement": "Im Faulturm einer Kläranlage entsteht ohne Luft Biogas aus Methan und CO2, mit dem man Strom erzeugen kann.",
+   "question": "Was entsteht im Faulturm einer Kläranlage, wenn Mikroorganismen ohne Luft arbeiten?",
+   "answer": "Biogas aus Methan und CO2",
+   "distractors": [
+    "Reiner Sauerstoff",
+    "Wasserstoff und Ammoniak",
+    "Trinkbares Wasser"
+   ],
+   "aha": "Aerob heißt mit extra Luft, anaerob ganz ohne – und je nachdem kommt etwas anderes raus. Das Biogas aus dem Faulturm treibt einen Generator an, sodass manche Kläranlagen weniger Strom zukaufen müssen.",
+   "quote_clean": "Anaerob produziere ich Biogas, eine Mischung aus Methan und CO2, die ich zum Beispiel in einem Generator verbrennen kann, um Strom zu produzieren.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Beleg passt; der letzte aha-Satz („für das nächste Erdbeben dort lassen“) ist nicht im Transkript und wird entfernt.",
+   "stand_note": "",
+   "statement": "Johannes Bousek nennt seine Anlage für Katastrophengebiete lieber transportabel als mobil, weil sie nicht täglich umgestellt werden kann.",
+   "question": "Warum spricht Johannes Bousek lieber von einer transportablen als von einer mobilen Behandlungsanlage?",
+   "answer": "Man kann sie nicht täglich umstellen",
+   "distractors": [
+    "Mobil klingt zu teuer",
+    "Mobil ist ein geschützter Markenname",
+    "Sie ist nur für den Einsatz in Städten gedacht"
+   ],
+   "aha": "Die Anlage besteht aus großen Becken mit mehreren zehn Kubikmetern Speicher, denn Fäkalschlammbehandlung braucht Platz und Energie. Transportabel heißt: Man bringt sie hin und baut sie auf – nicht heute hier und morgen dort.",
+   "quote_clean": "Ich bin mit der Zeit vom Wort mobil weggegangen und sage transportabel. Bei mobil glauben die Leute immer, dass man es heute da und morgen dort aufstellen kann.",
+   "quality": 2
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Schlange bei 1720 vom Gast mit „ich glaube“ genannt; Frage ist als „soll“ formuliert, Distraktoren stehen nicht im Transkript.",
+   "stand_note": "",
+   "statement": "In der Hauptkläranlage Wien gibt es eine Sammlung kurioser Fundstücke aus dem Rechen – angeblich sogar eine Schlange.",
+   "question": "Welches kuriose Fundstück soll laut Johannes Bousek schon im Rechen der Wiener Hauptkläranlage gelandet sein?",
+   "answer": "Eine Schlange",
+   "distractors": [
+    "Ein Fahrrad",
+    "Ein Ehering mit Gravur",
+    "Ein Krokodil"
+   ],
+   "aha": "Von Binden über Plastikspielzeug bis zur Schlange: Der Rechen fängt alles ab, was nicht ins Klo gehört. Die Schlange hat es leider nicht überlebt.",
+   "quote_clean": "Ich glaube, sie haben sogar mal eine Schlange drinnen gefunden, die es nicht überlebt hat.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsverlauf, kein Faktum und keine sinnvolle Spielfrage.",
+   "stand_note": "",
+   "statement": "Andreas fragt zum Schluss, was eigentlich mit dem Abwasser in Österreich passiert.",
+   "question": "Welche letzte Frage stellt Andreas in der Folge über Fäkalschlamm-Management?",
+   "answer": "Was mit Österreichs Abwasser passiert",
+   "distractors": [
+    "Ob der Gast selbst Plumpsklos benutzt",
+    "Wie man beim Roten Kreuz anfängt",
+    "Was das grauslichste Erlebnis war"
+   ],
+   "aha": "Nach Haiti und Cholera holt Andreas das Thema zurück nach Hause.",
+   "quote_clean": "Johannes, letzte Frage, weil sich das jetzt sicher ein paar Leute fragen und ich mich auch: Was passiert eigentlich mit dem Abwasser in Österreich?",
+   "quality": 1
+  }
+ ],
+ "id": "256",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

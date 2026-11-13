@@ -1,0 +1,295 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Belegt bei t=628-637 (inkl. Plug-in-Hybride); Zahl ist Stand 2024.",
+   "stand_note": "Stand 2024",
+   "statement": "Mehr als die Hälfte der neu zugelassenen Autos in China fährt inzwischen elektrisch (inklusive Plug-in-Hybride).",
+   "question": "Wie viel Prozent der neu zugelassenen Autos in China sind 2024 elektrisch oder Plug-in-Hybride?",
+   "answer": "Rund 50 Prozent",
+   "distractors": [
+    "Rund 10 Prozent",
+    "Rund 25 Prozent",
+    "Rund 85 Prozent"
+   ],
+   "aha": "Vor fünf Jahren waren es laut Gernot noch 5 Prozent. Das ist auch einer der Gründe, warum die Ölnachfrage in China den Höhepunkt erreichen dürfte.",
+   "quote_clean": "Sondern tatsächlich mehr als 50 Prozent der neu angemeldeten Autos in China sind mittlerweile elektrisch.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Belegt bei t=647, von Wagner mit 'glaube ich' relativiert, aber für 2024 zutreffend; heute noch höher.",
+   "stand_note": "Stand 2024",
+   "statement": "In Norwegen sind mittlerweile über 85 Prozent der neu zugelassenen Autos Elektrofahrzeuge.",
+   "question": "Wie hoch ist der Anteil der E-Autos bei den Neuzulassungen in Norwegen?",
+   "answer": "Über 85 Prozent",
+   "distractors": [
+    "Rund 30 Prozent",
+    "Rund 50 Prozent",
+    "Rund 65 Prozent"
+   ],
+   "aha": "Norwegen ist der Musterschüler, da kommt selbst China mit seinen 50 Prozent noch nicht mit. Ein Verbrenner ist dort bei Neuwagen schon eine Seltenheit.",
+   "quote_clean": "Jetzt noch nicht norwegische Dimensionen, wo es, glaube ich, mittlerweile über 85 Prozent Elektrofahrzeuge sind.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Belegt bei t=678, aber Wagner mischt Dollar und Euro; der Preis gilt für China, nicht für Europa. Preis ist Stand 2024.",
+   "stand_note": "Stand 2024",
+   "statement": "Das chinesische Elektroauto BYD Seagull kostet in China ungefähr 10.000 Dollar.",
+   "question": "Wie viel kostet ungefähr das chinesische Elektroauto BYD Seagull in China?",
+   "answer": "Rund 10.000 Dollar",
+   "distractors": [
+    "Rund 25.000 Dollar",
+    "Rund 40.000 Dollar",
+    "Rund 4.000 Dollar"
+   ],
+   "aha": "Laut Gernot ist das kein Spielzeug, sondern wahrscheinlich besser als so manches typische amerikanische oder sogar in Deutschland gebaute Auto. BYD verkauft mittlerweile weltweit, nicht nur in chinesischen Städten.",
+   "quote_clean": "Der BYD Seagull, dieses berühmt-berüchtigte Auto, das es mittlerweile um die 10.000 Dollar beziehungsweise 10.000 Euro gibt.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Belegt bei t=790 als Prognose Wagners; 'nächstes Jahr' = 2025, Prognose-Stand 2024.",
+   "stand_note": "Stand 2024 (Prognose)",
+   "statement": "Chinas Emissionen dürften 2025, spätestens 2026, ihren Höhepunkt erreichen, deutlich früher als im Fünfjahresplan vorgesehen.",
+   "question": "Wann dürften Chinas CO2-Emissionen laut Gernot Wagner ihren Höhepunkt erreichen?",
+   "answer": "2025, spätestens 2026",
+   "distractors": [
+    "Erst um 2040",
+    "Schon im Jahr 2015",
+    "Erst nach 2050"
+   ],
+   "aha": "Der Fünfjahresplan hatte dafür bis 2030 Zeit gegeben. Schneller geht es laut Gernot wegen Solar im Stromsektor und E-Autos im Verkehr.",
+   "quote_clean": "Mittlerweile wissen wir, dass die Emissionen in China höchstwahrscheinlich nächstes Jahr, spätestens vielleicht 2026, einen Höhepunkt erreichen und dann runtergehen werden.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Belegt bei t=268; Distraktoren (Dachziegel, Fensterscheiben, Radwege) existieren real als Solarprodukte, daher Frage über den Gartenzaun-Kontext eindeutiger gestellt.",
+   "stand_note": "Stand 2024",
+   "statement": "In Deutschland verkaufen Unternehmen inzwischen Solaranlagen als Gartenzäune.",
+   "question": "Zu was machen deutsche Unternehmen laut Gernot Wagner Solaranlagen, damit der Hund im Garten bleibt und das Auto mitgeladen wird?",
+   "answer": "Zu Gartenzäunen",
+   "distractors": [
+    "Zu Dachziegeln",
+    "Zu Carports",
+    "Zu Hausfassaden"
+   ],
+   "aha": "Noch kostet so ein Solarzaun ein bisschen mehr als einer aus Holz, aber der Hund bleibt drin und das Auto lädt mit. Die Trends zeigen laut Gernot klar in Richtung immer billigerer Solarzellen.",
+   "quote_clean": "In Deutschland gibt es mittlerweile Unternehmen, die Solaranlagen als Gartenzäune verkaufen. Das heißt jetzt nicht, dass Solarzellen billiger sind als Holz.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Belegt bei t=2433; Aussage ist Wagners Einschätzung (Ökonomie), nicht als Faktum formuliert; Stand 2024.",
+   "stand_note": "Stand 2024",
+   "statement": "Laut Gernot Wagner könnte keines der rund 209 laufenden US-Kohlekraftwerke heute profitabel neu gebaut werden.",
+   "question": "Wie viele der laufenden Kohlekraftwerke in den USA könnte man laut Gernot Wagner heute noch profitabel neu bauen?",
+   "answer": "Keines",
+   "distractors": [
+    "Etwa die Hälfte",
+    "Fast alle",
+    "Rund ein Viertel"
+   ],
+   "aha": "Das ist für Gernot der Optimismus an der Sache: Kohlestrom ist nicht mehr billiger als andere Quellen. Dass es die Kraftwerke noch gibt, liegt laut ihm vor allem an langfristigen Verträgen.",
+   "quote_clean": "Okay, hier ist der Optimismus: Keines dieser Kohlekraftwerke könnte heute profitabel gebaut werden.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Belegt bei t=1924 als Argument Wagners; der Stopp wurde 2025 wieder aufgehoben, daher Stand 2024 und Frage als sein Argument formuliert; Aussage zu Europa im aha nicht belegt.",
+   "stand_note": "Stand 2024",
+   "statement": "Laut Gernot Wagner hielt der Stopp neuer Flüssiggas-Exportanlagen die Gaspreise in den USA niedrig, wodurch weniger Wärmepumpen installiert werden und die Emissionen steigen.",
+   "question": "Warum führte der Stopp neuer Flüssiggas-Exportanlagen in den USA laut Gernot Wagner eher zu höheren Emissionen im Land?",
+   "answer": "Billiges Gas bremst Wärmepumpen und Solaranlagen",
+   "distractors": [
+    "Es wurde mehr Kohle exportiert",
+    "Die Schiffe stießen mehr CO2 aus",
+    "Es wurde mehr Öl importiert"
+   ],
+   "aha": "Bleibt das Gas im Land, ist es billig, und billiges Gas verbrennt man lieber, als in Wärmepumpen oder Solaranlagen zu investieren. Das ist Gernots ökonomisches Argument. Er erwartete, dass Trump den Exportstopp wieder aufhebt.",
+   "quote_clean": "Flüssiggas ist teurer als Gas, das in Amerika selbst verbrannt wird. Die Gaspreise hier sind niedriger, die Emissionen deshalb höher, also installieren weniger Leute Wärmepumpen.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Belegt bei t=2859; der Klimabonus wurde inzwischen abgeschafft, die Frage ist in der Vergangenheit formuliert; Stand 2024.",
+   "stand_note": "Stand 2024",
+   "statement": "Der österreichische Klimabonus war nach Wohnort gestaffelt: In Wien gab es 100 Euro, in abgelegenen Orten wie Gstatterboden 200 Euro.",
+   "question": "Wonach war der österreichische Klimabonus gestaffelt?",
+   "answer": "Nach dem Wohnort",
+   "distractors": [
+    "Nach dem Einkommen",
+    "Nach der Autogröße",
+    "Nach dem Stromverbrauch"
+   ],
+   "aha": "Wer am Land ohne gute Öffis lebt, zahlt mehr CO2-Steuer und bekam mehr zurück. Gernot findet die Formel klug, weil die 100 Euro Unterschied fix bleiben, auch wenn der Bonus insgesamt steigt.",
+   "quote_clean": "Der durchschnittliche Wiener bekommt seine 100 Euro Klimabonus im Jahr, der durchschnittliche Tullnerfelder bekam 133 oder so, weiter draußen 166, und in Gstatterboden bekommst du 200 Euro.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Belegt bei t=2483 als Erklärung Wagners; Zusatzaussage im aha (Haushalte zahlen mehr) steht nicht im Ausschnitt.",
+   "stand_note": "Stand 2024",
+   "statement": "Laut Gernot Wagner laufen Kohlekraftwerke weltweit weiter, weil sie in langfristigen Abnahmeverträgen stecken, nicht weil Kohlestrom billiger wäre.",
+   "question": "Warum laufen laut Gernot Wagner weltweit noch so viele Kohlekraftwerke, obwohl Erneuerbare meist billiger sind?",
+   "answer": "Wegen langfristiger Abnahmeverträge",
+   "distractors": [
+    "Weil Kohlestrom billiger ist",
+    "Weil Solar nachts nicht liefert",
+    "Weil Kohle staatlich gefördert wird"
+   ],
+   "aha": "Viele Kraftwerke hängen an Verträgen, die noch 20 oder 30 Jahre laufen. Mit der Ökonomie hat das laut Gernot nichts zu tun, billiger ist Kohlestrom nämlich nicht.",
+   "quote_clean": "Aber da geht es um die Tatsache, dass die gebauten Kohlekraftwerke in diesen langfristigen Abnahmeverträgen stecken.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton",
+    "beleg"
+   ],
+   "note": "Belegt bei t=2813; Wer-sagt-Frage zu erratbar, auf Inhalt umgestellt; aha-Zusatz zu Wohnort in den USA nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Am Wochenende vom 1. bis 3. Oktober 2021 wurden laut Gernot Wagner in Österreich Klimaticket und CO2-Steuer ausverhandelt, für ihn das „Superbowl-Wochenende der österreichischen Klimapolitik“.",
+   "question": "Was wurde laut Gernot Wagner am „Superbowl-Wochenende der österreichischen Klimapolitik“ Anfang Oktober 2021 ausverhandelt?",
+   "answer": "Klimaticket und CO2-Steuer",
+   "distractors": [
+    "Atomausstieg und Tempolimit",
+    "Plastikpfand und Dieselverbot",
+    "Gaspreisdeckel und Strompreisbremse"
+   ],
+   "aha": "Zuerst das Zuckerbrot, dann die Peitsche: Freitag das Klimaticket, zwei Tage später die CO2-Steuer samt Klimabonus als Ausgleich. Den Vergleich mit dem Superbowl-Wochenende zieht Gernot auf gut Amerikanisch.",
+   "quote_clean": "Ich nenne das auf gut Amerikanisch das Superbowl-Wochenende der österreichischen Klimapolitik: Das war Freitag, der 1. Oktober 2021, als das Klimaticket ausverhandelt wurde, und am Sonntag, dem 3. Oktober, zwei Tage danach, wurde die CO2-Steuer ausverhandelt.",
+   "quality": 4
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Wer-hat's-gesagt-Frage mit Wortspiel; statement deutet 'weniger Gretas' als Aussage zu Protestikonen nach Trump, das steht so nicht im Ausschnitt; zu nischig.",
+   "stand_note": "",
+   "statement": "Gernot Wagner erwartet nach Trumps Wiederwahl weniger neue Protestikonen, dafür mehr lokale Politikerinnen wie Phoenix' Bürgermeisterin Kate Gallego.",
+   "question": "Wer hat's gesagt: „Vielleicht weniger Gretas und mehr Kates in diesem Fall“?",
+   "answer": "Gernot Wagner",
+   "distractors": [
+    "Andreas Sator",
+    "Greta Thunberg",
+    "Kate Gallego"
+   ],
+   "aha": "Statt einer neuen Greta Thunberg sieht Gernot die Hoffnung bei Bürgermeisterinnen wie Kate Gallego aus Phoenix, die er vom Studium kennt. Klimapolitik von unten, Stadt für Stadt.",
+   "quote_clean": "Also vielleicht weniger Gretas und mehr Kates in diesem Fall.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Belegt bei t=1575; Wer-sagt-Frage auf Inhalt umgestellt, als Wagners ökonomische Sicht attribuiert.",
+   "stand_note": "",
+   "statement": "Für Gernot Wagner ist ein vollständiges Autoverbot ökonomisch nichts anderes als eine unendlich hohe City-Maut.",
+   "question": "Als was beschreibt Gernot Wagner ökonomisch eine vollkommene Verbannung von Autos aus einem Gebiet?",
+   "answer": "Als unendlich hohe City-Maut",
+   "distractors": [
+    "Als negative Steuer",
+    "Als Preisdeckel für Parkplätze",
+    "Als Subvention für Fußgänger"
+   ],
+   "aha": "Aus Sicht des Ökonomen ist auch ein Verbot nur ein Preis, nämlich ein unendlich hoher. In Vierteln wie Soho oder Noho am Wochenende hielte Gernot das für die beste Antwort.",
+   "quote_clean": "Eine vollkommene Verbannung ist halt eine unendlich hohe City-Maut, und die wäre tatsächlich in manchen Bereichen angebracht.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsaufbau, kein Wissensgehalt.",
+   "stand_note": "",
+   "statement": "Andreas beginnt den Klima-Jahresrückblick bewusst mit der Frage, was im Jahr Mut gemacht hat.",
+   "question": "Womit startet Andreas den Klima-Jahresrückblick mit Gernot Wagner?",
+   "answer": "Mit der Frage, was heuer Mut gemacht hat",
+   "distractors": [
+    "Mit der schlimmsten Klimakatastrophe des Jahres",
+    "Mit der Frage nach Trumps Wahlsieg",
+    "Mit einer Prognose für 2050"
+   ],
+   "aha": "Über die Katastrophen redet man eh oft genug, findet Andreas. Darum zuerst das, was sich in die richtige Richtung bewegt.",
+   "quote_clean": "Mal anfangen mit der Frage: Was ist denn heuer passiert, ob wirtschaftlich, politisch oder gesellschaftlich, was dir Mut gemacht hat, was Klima und Nachhaltigkeit betrifft?",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei t=218; kleine, sympathische Anekdote, aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Auf die Frage nach Mutmachendem antwortet Gernot Wagner, sein Optimismus hänge vom Wochentag ab.",
+   "question": "Wie reagiert Gernot Wagner, als Andreas ihn fragt, was ihm Mut macht?",
+   "answer": "Er fragt, welcher Wochentag heute ist",
+   "distractors": [
+    "Er sagt, ihm macht nichts Mut",
+    "Er zählt sofort zehn Erfolge auf",
+    "Er fragt, ob er ehrlich sein darf"
+   ],
+   "aha": "Montag, Mittwoch und Freitag ist er optimistisch, an den anderen Tagen wohl weniger. Am Ende zählt er dann doch ziemlich viel Gutes auf, angefangen bei Solarzäunen.",
+   "quote_clean": "Welcher Wochentag ist heute? Montag, Mittwoch, Freitag bin ich optimistisch, Dienstag, Donnerstag, Samstag?",
+   "quality": 3
+  }
+ ],
+ "id": "s20241212",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

@@ -1,0 +1,276 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Zahl belegt (561-572 s); im aha stand ein nicht belegter Satz.",
+   "stand_note": "",
+   "statement": "Wer mit dem Laufen beginnt, dessen Herz-Kreislauf-System passt sich in etwa sechs bis acht Wochen an; Sehnen brauchen deutlich länger.",
+   "question": "Wie viele Wochen dauert es ungefähr, bis sich das Herz-Kreislauf-System von Laufanfänger:innen angepasst hat?",
+   "answer": "Sechs bis acht Wochen",
+   "distractors": [
+    "Eine bis zwei Wochen",
+    "Drei bis vier Wochen",
+    "Sechs bis acht Monate"
+   ],
+   "aha": "Die Sehnen brauchen laut Robert bis zu Monate, um die neue Belastung zu verarbeiten. Wer sich nach ein paar Wochen zu schnell steigert, weil Herz und Puste schon mitspielen, riskiert Überlastungen.",
+   "quote_clean": "Das Herz-Kreislauf-System, also unser Herz, unser Blutdruck, der Energiestoffwechsel, passt sich relativ schnell an. Das sind diese sechs bis acht Wochen. Die Sehnenstrukturen brauchen wesentlich länger.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (762-768 s), Aussage ist vom Gast als grobe Spanne formuliert; aha im Ausschnitt belegt.",
+   "stand_note": "",
+   "statement": "Ein Laufschuh hält grob 500 bis 1000 Kilometer.",
+   "question": "Wie viele Kilometer hält ein normaler Laufschuh ungefähr?",
+   "answer": "Rund 500 bis 1000 Kilometer",
+   "distractors": [
+    "Rund 100 bis 200 Kilometer",
+    "Rund 2000 bis 3000 Kilometer",
+    "Rund 5000 Kilometer"
+   ],
+   "aha": "Ausgerechnet die superleichten High-End-Modelle um 500 Euro halten oft keine 200 Kilometer. Robert merkt es am Zwicken: Kommt es mit einem Schuh zweimal, fliegt der raus.",
+   "quote_clean": "Ich würde es nicht direkt an Kilometern festmachen, aber man redet davon, dass ein Schuh zwischen 500, 800 bis 1000 Kilometer hält.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (832-837 s); Größenordnung stimmt mit Allgemeinwissen (ca. 7.700 kcal pro kg Fett).",
+   "stand_note": "",
+   "statement": "Zehn Kilo Körperfett speichern rund 70.000 bis 80.000 Kilokalorien.",
+   "question": "Wie viele Kilokalorien stecken ungefähr in 10 Kilo Körperfett?",
+   "answer": "Rund 75.000 Kilokalorien",
+   "distractors": [
+    "Rund 7.500 Kilokalorien",
+    "Rund 25.000 Kilokalorien",
+    "Rund 250.000 Kilokalorien"
+   ],
+   "aha": "Und das bei einem schlanken Sportarzt. Energie ist also genug da, die Frage ist nur, ob der Muskel gelernt hat, Fett als Treibstoff zu nutzen. Genau das trainiert man in Zone 2.",
+   "quote_clean": "Ich habe in etwa 10 Kilo Körperfett, aber das sind 70.000 bis 80.000 Kilokalorien, die in meinem Körper gespeichert sind.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (1765-1776 s); aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Der Kohlenhydratspeicher eines durchschnittlichen Menschen fasst nur etwa 1.500 bis 2.500 Kilokalorien, der Fettspeicher ein Vielfaches.",
+   "question": "Wie viele Kilokalorien fasst der Kohlenhydratspeicher eines durchschnittlichen Menschen ungefähr?",
+   "answer": "Rund 2.000 Kilokalorien",
+   "distractors": [
+    "Rund 200 Kilokalorien",
+    "Rund 20.000 Kilokalorien",
+    "Rund 80.000 Kilokalorien"
+   ],
+   "aha": "Darum ist man so schnell kaputt, wenn man zu flott losläuft: Der Körper verbrennt dann vor allem Kohlenhydrate, und dieser Tank ist winzig. Im Fett stecken dagegen 80.000 bis 100.000 Kilokalorien.",
+   "quote_clean": "Wenn wir von 80.000 bis 100.000 Kilokalorien Fettspeicher ausgehen, haben wir als durchschnittliche Menschen 1.500 bis 2.000, wenn wir recht muskelstark sind 2.500 Kilokalorien an Kohlenhydraten.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Gast warnt direkt danach vor zu hoher Dämpfung; Aussage verkürzt, und das aha erfindet einen Mythos-Ursprung.",
+   "stand_note": "",
+   "statement": "Viel Laufen auf Asphalt schadet den Knien nicht, weil moderne Laufschuhe ausreichend dämpfen.",
+   "question": "Ist viel Laufen auf Asphalt schlecht für die Knie?",
+   "answer": "Nein, moderne Schuhe dämpfen genug",
+   "distractors": [
+    "Ja, Asphalt zerstört den Knorpel",
+    "Ja, ab 20 Kilometern pro Woche",
+    "Nur bei Läufer:innen über 40"
+   ],
+   "aha": "",
+   "quote_clean": "Nein, stimmt nicht, weil die Schuhe mittlerweile einfach sehr gut geworden sind.",
+   "quality": 1
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt (1818-1824 s), als Aussage des Sportarztes zu rahmen; aha präzisiert.",
+   "stand_note": "",
+   "statement": "Dass Nüchternlaufen einen großen Nutzen bringt, ist laut neueren Daten widerlegt.",
+   "question": "Was sagt Sportarzt Robert Fritz zum Laufen auf nüchternen Magen?",
+   "answer": "Bringt keinen großen Nutzen",
+   "distractors": [
+    "Verbrennt doppelt so viel Fett",
+    "Ist ideal für lange Läufe",
+    "Ist nur für Profis sinnvoll"
+   ],
+   "aha": "Früher hieß es: Laufen muss wehtun, am besten nüchtern. Heute sagt Robert: Lockere Einheiten sollen keine Qual sein, und bei längeren Einheiten ab etwa 60 bis 75 Minuten sind Kohlenhydrate wichtig.",
+   "quote_clean": "Nüchtern laufen macht keinen Sinn mehr. Wir haben mittlerweile mit neuen wissenschaftlichen Daten widerlegt, dass das so einen großen Benefit bringt.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (3953-3963 s und 3987-4003 s); aha im Ausschnitt gedeckt.",
+   "stand_note": "",
+   "statement": "Unterschiedliche Pulswerte zweier Menschen beim gleichen Tempo sagen nichts über ihre Fitness aus.",
+   "question": "Zwei laufen im selben Tempo, eine Person hat Puls 120, die andere 135. Was sagt das über ihre Fitness?",
+   "answer": "Gar nichts",
+   "distractors": [
+    "Die mit 120 ist fitter",
+    "Die mit 135 ist fitter",
+    "Die mit 135 läuft falsch"
+   ],
+   "aha": "Robert und sein Mitgründer waren gleich groß, gleich schwer, gleich alt und gleich leistungsfähig. Trotzdem lief Robert beim selben Tempo mit Puls 100, sein Kollege mit 140. Herzfrequenz ist etwas sehr Individuelles.",
+   "quote_clean": "Nein, nichts. Und das ist ganz wichtig. Wir vergleichen uns viel zu sehr untereinander. Speziell Frauen haben eher höhere Herzfrequenzbereiche.",
+   "quality": 4
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (162-181 s), aha gedeckt.",
+   "stand_note": "",
+   "statement": "Bei Untrainierten löst Laufen zuerst eine Stressreaktion aus, weil der Körper glaubt, er sei auf der Flucht.",
+   "question": "Warum fühlen sich die ersten Läufe für Untrainierte oft so stressig an?",
+   "answer": "Der Körper glaubt, er flüchtet",
+   "distractors": [
+    "Die Lunge ist zu klein",
+    "Der Körper hat zu wenig Fett",
+    "Das Herz schlägt zu langsam"
+   ],
+   "aha": "Adrenalin und Stresshormone steigen, der Körper holt schnell Zucker aus den Muskeln, als wäre der Säbelzahntiger hinter dir her. Erst mit der Zeit lernt er, dass Laufen eigentlich etwas wahnsinnig Gutes ist.",
+   "quote_clean": "Dein Körper weiß ja nicht, dass du das zum Spaß machst, sondern glaubt, du rennst vor irgendwas davon.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (5146-5190 s), aha gedeckt.",
+   "stand_note": "",
+   "statement": "Nach intensivem Training nimmt der Körper Kohlenhydrate besonders gut auf, wie ein ausgedrückter Schwamm Wasser.",
+   "question": "Womit vergleicht Robert Fritz den Körper direkt nach einer intensiven Trainingseinheit?",
+   "answer": "Mit einem ausgedrückten Schwamm",
+   "distractors": [
+    "Mit einem leeren Akku",
+    "Mit einem überhitzten Motor",
+    "Mit einem vollen Tank"
+   ],
+   "aha": "Darum sollte man spätestens zwei Stunden, besser schon 30 Minuten nach dem Sport Kohlenhydrate essen. Das Bier danach ist weniger ideal, weil Alkohol das Auffüllen der Speicher bremst.",
+   "quote_clean": "Stell dir einen Schwamm vor, der vorher gut angesaugt und nass war und richtig ausgedrückt worden ist. Der saugt unheimlich gut.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Inhalt belegt (4597-4634 s); letzter Satz im aha war nicht im Ausschnitt und wurde gestrichen.",
+   "stand_note": "",
+   "statement": "Ein Brustgurt misst die elektrische Aktivität des Herzens wie ein EKG, Uhren am Handgelenk dagegen optisch die Pulswelle.",
+   "question": "Warum misst ein Brustgurt den Puls genauer als die meisten Uhren am Handgelenk?",
+   "answer": "Er misst die elektrische Herzaktivität",
+   "distractors": [
+    "Er sitzt näher an der Lunge",
+    "Er misst den Blutdruck mit",
+    "Er hat einen stärkeren Lichtsensor"
+   ],
+   "aha": "Uhren schauen mit einem Lichtsensor auf die Pulswelle, die erst nach dem Herzschlag durch den Körper wandert. Darum klappt das bei Kälte oder starker Behaarung schlechter.",
+   "quote_clean": "Der Gurt misst die elektrische Aktivität des Herzens. Er misst wie ein Einkanal-EKG, also sehr präzise.",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Wer-hat's-gesagt bei einem Einzelgast ist trivial, Distraktor 'Hörer des Monats' unplausibel, aha enthält nicht belegte Details (Mountainbike).",
+   "stand_note": "",
+   "statement": "Laufen gilt als ehrlicher Sport, weil anders als beim Radfahren kaum teures Material den Unterschied macht.",
+   "question": "Wer hat's gesagt: „Laufen ist ein sehr ehrlicher Sport. Wer fitter ist, ist schneller.“",
+   "answer": "Robert Fritz",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Hörer des Monats",
+    "Christian Gebler"
+   ],
+   "aha": "",
+   "quote_clean": "Laufen ist ein sehr ehrlicher Sport. Beim Radsport hat das 15.000-Euro-Rad einen Vorteil gegenüber dem 2.000-Euro-Rad. Beim Laufen geht es kaum ehrlicher: Wer fitter ist, ist schneller.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (2412-2426 s), aha gedeckt.",
+   "stand_note": "",
+   "statement": "Robert Fritz beschreibt Laufen als „Hirn duschen“, nach dem der Kopf frei ist.",
+   "question": "Wie nennt Sportarzt Robert Fritz das Laufen gegenüber seinen Patient:innen?",
+   "answer": "Hirn duschen gehen",
+   "distractors": [
+    "Akku aufladen gehen",
+    "Seele lüften gehen",
+    "Gedanken joggen gehen"
+   ],
+   "aha": "Die Probleme sind danach nicht weg, aber greifbarer und strukturierter. Ein Neurowissenschaftler hat es laut Robert so beschrieben: wie einen Computer neu starten, der Arbeitsspeicher wird aufgeräumt.",
+   "quote_clean": "Du kommst heim und hast das Gefühl, der Kopf ist frei. Ich sage meinen Patienten: Ich gehe mein Hirn duschen.",
+   "quality": 4
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Anekdote belegt (1240-1262 s); im aha stand eine nicht belegte Reaktion von Robert, entfernt.",
+   "stand_note": "",
+   "statement": "Andreas lief den Halbmarathon in Graz in Zone 2 und kam als Letzter ins Ziel, begleitet von der Polizei mit Blaulicht.",
+   "question": "Was fuhr Andreas auf den letzten sieben Kilometern des Grazer Halbmarathons hinterher?",
+   "answer": "Die Polizei mit Blaulicht",
+   "distractors": [
+    "Ein Kamerateam des ORF",
+    "Die Rettung mit Sanitätern",
+    "Ein Fahrrad-Fanclub"
+   ],
+   "aha": "Andreas lief den ganzen Halbmarathon gemütlich in Zone 2 und wurde gemeinsam mit seiner Freundin Letzter. Die Polizei fuhr hinterher, weil sie hinter den beiden die Straße wieder öffnete. Für ihn ein richtig cooles Erlebnis.",
+   "quote_clean": "Und auf den letzten sieben Kilometern des Laufs ist hinter uns die Polizei mit Blaulicht gefahren, weil sie nach uns die Straße wieder aufgemacht haben.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächseinstieg, kein Wissens- oder Aha-Gehalt.",
+   "stand_note": "",
+   "statement": "Andreas steigt ins Gespräch mit einer ganz konkreten Alltagsfrage ein: Was passiert beim Laufen im Körper?",
+   "question": "Mit welcher Frage startet Andreas ins Gespräch über das Laufen?",
+   "answer": "Was passiert dabei in meinem Körper?",
+   "distractors": [
+    "Welche Schuhe soll ich kaufen?",
+    "Wie schnell soll ich laufen?",
+    "Warum läufst du so gern?"
+   ],
+   "aha": "",
+   "quote_clean": "Robert, wenn ich jetzt rausgehe und eine Runde laufen gehe, was passiert in meinem Körper?",
+   "quality": 1
+  }
+ ],
+ "id": "406",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

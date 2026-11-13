@@ -1,0 +1,293 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Fakt stimmt (118 Elemente); wertende Aha-Sätze entfernt.",
+   "stand_note": "Stand 2026",
+   "statement": "Das Periodensystem umfasst 118 chemische Elemente, und diese gelten im gesamten Universum.",
+   "question": "Wie viele chemische Elemente umfasst das Periodensystem?",
+   "answer": "118",
+   "distractors": [
+    "92",
+    "104",
+    "136"
+   ],
+   "aha": "118 Bausteine, und die gelten im ganzen Universum – auf dem Mars ist es dasselbe Periodensystem wie in deiner Küche. Mai findet schon das sehr schön.",
+   "quote_clean": "Wir haben 118 Elemente. Und diese Elemente gelten fürs ganze Universum.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Andreas zitiert nur; 1000 km/h ist für Luftmoleküle bei Raumtemperatur zu niedrig (real eher 1500-1800 km/h).",
+   "stand_note": "",
+   "statement": "Die Gasmoleküle der Luft prallen mit rund 1000 km/h ständig gegen unseren Kopf.",
+   "question": "Mit ungefähr welcher Geschwindigkeit fliegen Luftmoleküle bei Raumtemperatur herum?",
+   "answer": "rund 1000 km/h",
+   "distractors": [
+    "rund 10 km/h",
+    "rund 100 km/h",
+    "rund 50.000 km/h"
+   ],
+   "aha": "",
+   "quote_clean": "Du schreibst, die Gasmoleküle fetzen mit circa 1000 km/h die ganze Zeit gegen unseren Kopf. Irgendwie spüren wir nichts davon, zum Glück.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Beleg stimmt; Vereinfachung gekennzeichnet, unbelegte Aha-Aussage und Fahrenheit-Falle entfernt.",
+   "stand_note": "",
+   "statement": "Die tiefstmögliche Temperatur liegt bei etwa minus 273 Grad Celsius; dort herrscht – vereinfacht gesagt – Stillstand der Teilchen.",
+   "question": "Bei wie viel Grad Celsius liegt ungefähr die tiefstmögliche Temperatur?",
+   "answer": "etwa minus 273 Grad",
+   "distractors": [
+    "etwa minus 196 Grad",
+    "etwa minus 373 Grad",
+    "etwa minus 1000 Grad"
+   ],
+   "number_value": -273,
+   "number_unit": "Grad Celsius",
+   "slider_min": -400,
+   "slider_max": -100,
+   "aha": "Wenn Temperatur nichts anderes ist als Teilchenbewegung, dann ist bei vollkommenem Stillstand Schluss. Kälter als Stillstand geht nicht – darum kann es nicht beliebig kalt werden, wie Mai sagt.",
+   "quote_clean": "Es gibt eine Untergrenze, die bei ungefähr minus 273 Grad liegt, weil ab da Stillstand ist, und es kann nicht kälter werden als Stillstand.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg und Physik stimmen.",
+   "stand_note": "",
+   "statement": "Holz und Metall im selben Raum haben dieselbe Temperatur; Metall fühlt sich nur kälter an, weil es unsere Körperwärme schneller wegleitet.",
+   "question": "Warum fühlt sich eine Metallgabel kälter an als ein Holztisch im selben Raum?",
+   "answer": "Metall leitet Körperwärme schneller ab",
+   "distractors": [
+    "Metall ist tatsächlich kälter",
+    "Holz erzeugt selbst Wärme",
+    "Metall speichert Raumkälte"
+   ],
+   "aha": "Im Raum hat alles Raumtemperatur, der Tisch genauso wie die Gabel. Was du spürst, ist deine eigene Wärme, die beim Metall einfach schneller von dir wegwandert.",
+   "quote_clean": "Was ich spüre, wenn ich einen Holztisch oder eine Gabel anfasse, ist eigentlich meine eigene Körperwärme, die entweder schneller oder langsamer von mir wegtransportiert wird.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt, Aussage vereinfacht aber korrekt.",
+   "stand_note": "",
+   "statement": "Laut Teilchenmodell ist Temperatur die Bewegung der Teilchen: Je schneller sie sich bewegen, desto heißer ist ein Stoff.",
+   "question": "Was ist Temperatur laut Teilchenmodell eigentlich?",
+   "answer": "Wie schnell sich Teilchen bewegen",
+   "distractors": [
+    "Wie dicht Teilchen gepackt sind",
+    "Wie groß die Teilchen sind",
+    "Wie viele Elektronen Teilchen haben"
+   ],
+   "aha": "Auch ein Glas, das ganz still auf dem Tisch steht, zappelt innen ununterbrochen. Je wilder das Gezappel, desto heißer – Chemie Level 1, wie Mai sagt.",
+   "quote_clean": "Die Temperatur ist laut Teilchenmodell so definiert: Je schneller sich Teilchen bewegen, desto heißer wird es. Teilchen bewegen sich nämlich immer, es gibt keinen Stillstand.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (Andreas paraphrasiert Mai; Physik korrekt, zweiter Hauptsatz im Ausschnitt).",
+   "stand_note": "",
+   "statement": "Chemisch gesehen kühlen Eiswürfel das Cola nicht, sondern das Cola gibt Wärme an die Eiswürfel ab.",
+   "question": "Was passiert chemisch gesehen, wenn du Eiswürfel in ein Cola gibst?",
+   "answer": "Das Cola wärmt die Eiswürfel",
+   "distractors": [
+    "Die Eiswürfel geben Kälte ab",
+    "Kälte und Wärme tauschen sich",
+    "Die Kohlensäure kühlt das Getränk"
+   ],
+   "aha": "Wärme fließt immer vom Warmen zum Kalten – das ist der zweite Hauptsatz der Thermodynamik. Deshalb sagt man einer Chemikerin auch besser nicht, dass beim offenen Fenster die Kälte reinkommt: Die Wärme geht raus.",
+   "quote_clean": "Oder wie du beschrieben hast: Wenn man Eiswürfel in Cola gibt, dann kühlen nicht die Eiswürfel das Cola, sondern das Cola macht die Eiswürfel warm.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Wasserstoff stammt aus dem Urknall; Frage auf schwerere Elemente präzisiert.",
+   "stand_note": "",
+   "statement": "Die schwereren chemischen Elemente sind in Sternen entstanden und haben sich verteilt, als diese Sterne starben oder explodierten.",
+   "question": "Wo sind die schwereren Elemente, aus denen du bestehst, ursprünglich entstanden?",
+   "answer": "In Sternen",
+   "distractors": [
+    "Im Erdkern",
+    "In den Urozeanen",
+    "In Vulkanausbrüchen"
+   ],
+   "aha": "In Sternen knallen Atomkerne so heftig zusammen, dass sie verschmelzen und neue Elemente entstehen. Wenn die Sterne sterben, landet das Material im All – und irgendwann eben in dir. Nur Wasserstoff stammt großteils schon aus dem Urknall.",
+   "quote_clean": "Alle diese Elemente sind irgendwo in Sternen entstanden und haben sich dann, als die Sterne gestorben oder explodiert sind, im Weltall verteilt.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt; Silizium als umstrittene Alternative ersetzt.",
+   "stand_note": "",
+   "statement": "Chemiker gehen davon aus, dass außerirdisches Leben, falls es existiert, ziemlich sicher auf Kohlenstoff basiert.",
+   "question": "Auf welchem Element würde außerirdisches Leben laut Mai Thi Nguyen-Kim ziemlich sicher beruhen?",
+   "answer": "Kohlenstoff",
+   "distractors": [
+    "Sauerstoff",
+    "Wasserstoff",
+    "Eisen"
+   ],
+   "aha": "Für Zellen, DNA und Proteine geht es rein chemisch nicht ohne Kohlenstoff, sagt Mai. Wie Aliens aussehen würden, weiß niemand – woraus sie bestehen, vermutlich schon eher.",
+   "quote_clean": "Deswegen gehen Chemiker davon aus: Wenn es da draußen irgendwo Leben gibt, wird es ziemlich sicher auch auf Kohlenstoff basieren.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Mai sagt 'bricht das Licht'; physikalisch wird es reflektiert. Korrigiert, Distraktoren ersetzt.",
+   "stand_note": "",
+   "statement": "Metalle glänzen, weil ihre Elektronen eine große, bewegliche Elektronenwolke bilden, die das Licht zurückwirft.",
+   "question": "Warum glänzen Metalle?",
+   "answer": "Wegen ihrer beweglichen Elektronenwolke",
+   "distractors": [
+    "Wegen eingelagerter Farbpigmente",
+    "Weil sie Licht selbst erzeugen",
+    "Wegen ihrer besonders schweren Atomkerne"
+   ],
+   "aha": "Im Metall teilen sich alle Atome alle Elektronen, eine echte Kommune. Diese bewegliche Wolke macht den Glanz und leitet Wärme wie eine Laola-Welle im Stadion weiter.",
+   "quote_clean": "Ein Metall zeichnet sich dadurch aus, dass du eine ganz große Elektronenwolke hast. Und das siehst du sogar mit bloßem Auge daran, dass Metalle immer glänzen.",
+   "quality": 4
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage ohne Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Mai Thi Nguyen-Kim findet, dass Naturwissenschaft die Welt nicht kaputt erklärt, sondern sie durch Erklären zauberhafter macht.",
+   "question": "Wer sagt: Durch das Erklären wird alles immer nur zauberhafter und wunderbarer?",
+   "answer": "Mai Thi Nguyen-Kim",
+   "distractors": [
+    "Andreas Sator",
+    "Hans Rosling",
+    "Florian Krammer"
+   ],
+   "aha": "",
+   "quote_clean": "Dieses Kaputterklären verstehe ich nicht, weil ich finde, durch das Erklären wird alles immer nur zauberhafter und wunderbarer.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Ja/Nein-Frage, redundant zu Sternen-Frage; Furzmoleküle-Hinweis nicht im Ausschnitt belegt.",
+   "stand_note": "",
+   "statement": "Der Satz, dass wir alle aus Sternenstaub bestehen, ist kein Poesiespruch, sondern chemisch korrekt.",
+   "question": "Stimmt der Spruch, dass wir alle aus Sternenstaub bestehen?",
+   "answer": "Ja, chemisch wortwörtlich",
+   "distractors": [
+    "Nein, das ist nur Poesie",
+    "Nur für Eisen im Blut",
+    "Nur für Wasser im Körper"
+   ],
+   "aha": "",
+   "quote_clean": "Aber ich stelle fest, dass total viele nicht wissen, dass der chemisch korrekt ist. Viele denken, das ist so ein Poesiespruch. Wir bestehen alle aus Sternenstaub. Ja, wortwörtlich.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton",
+    "beleg"
+   ],
+   "note": "Als Mais Einschätzung gerahmt; unbelegte Aha-Details entfernt.",
+   "stand_note": "",
+   "statement": "Laut Mai Thi Nguyen-Kim unterschätzen Leute, die glauben, nicht backen zu können, wie genau man Backrezepte befolgen muss, denn es gibt für alles einen chemischen Grund.",
+   "question": "Was unterschätzen laut Mai Thi Nguyen-Kim Leute, die glauben, nicht backen zu können?",
+   "answer": "Wie genau man Rezepte befolgen muss",
+   "distractors": [
+    "Wie teuer gute Zutaten sind",
+    "Wie viel Talent man braucht",
+    "Wie lange ein Teig ruhen muss"
+   ],
+   "aha": "Beim Kochen verzeiht die Chemie viel, beim Backen kaum: Wenn im Rezept steht, dass du das Mehl untersieben oder unterheben sollst, dann mach es genau so und rühr nicht einfach rigoros ein.",
+   "quote_clean": "Es gibt für alles einen chemischen Grund, und ich glaube, Leute, die glauben, sie könnten nicht backen, unterschätzen, wie genau man Backrezepte nehmen muss.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Podcast-Ritual, kein Wissensfakt über die Folge.",
+   "stand_note": "",
+   "statement": "Andreas bittet seine Gäste am Ende jeder Folge um drei Buchempfehlungen.",
+   "question": "Worum bittet Andreas seine Gäste am Ende jeder Folge?",
+   "answer": "Um drei Büchertipps",
+   "distractors": [
+    "Um einen Lieblingsfilm",
+    "Um eine Frage an die Hörer",
+    "Um einen Podcast-Tipp"
+   ],
+   "aha": "",
+   "quote_clean": "Am Ende gibt es immer drei Büchertipps meiner Gäste für meine Hörerinnen. Welche Bücher magst du denn empfehlen?",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Persönlicher Gesprächsmoment, kein Fakt.",
+   "stand_note": "",
+   "statement": "Andreas wünscht jedem Menschen jemanden, der so liebevoll über ihn redet wie Mai über Wasser.",
+   "question": "Was wünscht Andreas jedem Menschen, nachdem Mai von Wasser geschwärmt hat?",
+   "answer": "Jemanden, der so über ihn redet",
+   "distractors": [
+    "Einen Liter Wasser am Tag",
+    "Einen Chemiebaukasten zu Weihnachten",
+    "Mehr Chemiestunden in der Schule"
+   ],
+   "aha": "",
+   "quote_clean": "Ich wünsche jedem Menschen, dass er jemanden findet, der so über ihn redet wie du über Wasser.",
+   "quality": 1
+  }
+ ],
+ "id": "399",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

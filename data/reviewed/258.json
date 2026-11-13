@@ -1,0 +1,271 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "2 Prozent auf mittlere Sicht steht so im Transkript; Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Das Inflationsziel der EZB liegt bei 2 Prozent auf mittlere Sicht.",
+   "question": "Bei wie viel Prozent Inflation pro Jahr liegt das Ziel der Europäischen Zentralbank?",
+   "answer": "2 Prozent",
+   "distractors": [
+    "0 Prozent",
+    "1 Prozent",
+    "3 Prozent"
+   ],
+   "aha": "Nicht null, sondern zwei Prozent. Die EZB will einen Sicherheitsabstand zur Deflation, und weil ihre Maßnahmen verzögert wirken, peilt sie das Ziel über zwei bis drei Jahre an.",
+   "quote_clean": "Unser neues Ziel lautet: Wir wollen bei 2 % sein, aber, wie wir sagen, auf mittlere Sicht.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Änderung 2021 belegt, stimmt auch real (Strategiereview 2021).",
+   "stand_note": "",
+   "statement": "Die EZB hat ihr Inflationsziel von „unter, aber nahe 2 Prozent“ im Jahr 2021 auf glatte 2 Prozent geändert.",
+   "question": "In welchem Jahr hat die EZB ihr Ziel von „unter, aber nahe 2 Prozent“ auf glatte 2 Prozent umgestellt?",
+   "answer": "2021",
+   "distractors": [
+    "2008",
+    "2015",
+    "2019"
+   ],
+   "aha": "Lange hieß es „unter, aber nahe zwei Prozent“. Seit 2021 sind es symmetrisch zwei Prozent, also ist ein bisschen drüber genauso unerwünscht wie ein bisschen drunter.",
+   "quote_clean": "Früher hatten wir das Ziel, nahe bei, aber unter 2 % zu sein. Das haben wir im Jahr 2021 geändert.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "1970er belegt; Aha enthielt eine nicht belegte Aussage zu Rezessionen, entfernt.",
+   "stand_note": "",
+   "statement": "Am meisten über Inflation gelernt haben Zentralbanken aus den 1970er-Jahren mit ihren Ölpreisschocks.",
+   "question": "Aus welchem Jahrzehnt haben Zentralbanken laut Isabel Schnabel am meisten über Inflation gelernt?",
+   "answer": "Den 1970er-Jahren",
+   "distractors": [
+    "Den 1920er-Jahren",
+    "Den 1950er-Jahren",
+    "Den 1990er-Jahren"
+   ],
+   "aha": "Damals gab es Ölpreisschocks, Löhne, die automatisch an die Inflation gekoppelt waren, und Zentralbanken, die weniger unabhängig waren als heute. Deshalb geriet die Inflation in manchen Ländern außer Kontrolle.",
+   "quote_clean": "Die Zeit, aus der wir am meisten gelernt haben, waren die 1970er-Jahre, diese Zeit der Ölpreisschocks.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Hyperinflation Anfang der 1920er belegt, auch Österreich im Transkript bestätigt.",
+   "stand_note": "",
+   "statement": "Deutschland erlebte Anfang der 1920er-Jahre eine Hyperinflation.",
+   "question": "Wann erlebte Deutschland seine berühmte Hyperinflation?",
+   "answer": "Anfang der 1920er-Jahre",
+   "distractors": [
+    "Ende der 1890er-Jahre",
+    "Mitte der 1940er-Jahre",
+    "Anfang der 1970er-Jahre"
+   ],
+   "aha": "Die Leute sind damals mit dem Lohn sofort einkaufen gerannt, weil das Geld fünf Minuten später kaum noch was wert war. Österreich hat das übrigens zur selben Zeit auch erlebt.",
+   "quote_clean": "Dann ist man in einer sehr gefährlichen Situation, genau das, was in einer Hyperinflation passiert, wie in Deutschland Anfang der 1920er-Jahre.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt; Antwort entspricht der Aussage (zu niedrig, reagierte nicht unmittelbar).",
+   "stand_note": "",
+   "statement": "Zwischen Finanzkrise und Pandemie wuchs die Geldmenge massiv, die Inflation blieb aber zu niedrig.",
+   "question": "Was passierte mit der Inflation, als die Geldmenge nach der Finanzkrise 2009 massiv ausgeweitet wurde?",
+   "answer": "Sie blieb zu niedrig",
+   "distractors": [
+    "Sie stieg auf über 10 Prozent",
+    "Sie wurde zur Hyperinflation",
+    "Sie lag genau bei 2 Prozent"
+   ],
+   "aha": "Mehr Geld heißt also nicht automatisch höhere Preise. Deshalb denkt die EZB heute gar nicht so sehr über die Geldmenge nach, sondern über Zinsen.",
+   "quote_clean": "Nach der globalen Finanzkrise 2009 bis zur Pandemie war eine Zeit sehr niedriger Inflation. Die Zentralbanken haben versucht, alles Mögliche zu tun, um die Inflation nach oben zu bringen, weil sie sogar zu niedrig war. Die Geldmenge hat sich massiv ausgeweitet, aber die Inflation hat trotzdem nicht reagiert.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, Gefühl vs. Preisindizes; Aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Nach der Euro-Einführung glaubten viele Deutsche, alles sei doppelt so teuer geworden, obwohl die Preisindizes das nicht zeigten.",
+   "question": "Was zeigten die Preisindizes zum Gefühl, mit dem Euro sei alles doppelt so teuer geworden?",
+   "answer": "Dass es so nicht stimmte",
+   "distractors": [
+    "Dass sich die Preise wirklich verdoppelten",
+    "Dass die Preise sogar fielen",
+    "Dass nur Mieten sich verdoppelten"
+   ],
+   "aha": "Der „Teuro“ war vor allem gefühlt. Wir merken uns Preise von Dingen, die wir oft kaufen, etwa im Supermarkt oder an der Tankstelle, und die prägen unsere Wahrnehmung stärker als der ganze Warenkorb.",
+   "quote_clean": "In Deutschland war das ganz typisch, als der Euro eingeführt wurde. Die Menschen waren fest davon überzeugt, dass alles doppelt so teuer geworden ist.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Inhalt belegt; Grammatik der Frage korrigiert.",
+   "stand_note": "",
+   "statement": "Deflation ist gefährlich, weil Menschen Käufe aufschieben, wenn sie erwarten, dass alles billiger wird.",
+   "question": "Warum gelten sinkende Preise (Deflation) als gefährlicher als leichte Inflation?",
+   "answer": "Alle schieben Käufe auf",
+   "distractors": [
+    "Löhne steigen zu stark",
+    "Banken gehen sofort pleite",
+    "Der Staat druckt mehr Geld"
+   ],
+   "aha": "Wenn du aufs billigere Handy wartest, wartest du nicht allein. Wenn alle warten, kauft keiner mehr, die Wirtschaft schwächelt, und das kann sich selbst verstärken.",
+   "quote_clean": "Stell dir vor, du möchtest dir ein neues Handy kaufen. Du weißt aber, das Handy ist morgen billiger als heute. Was machst du dann? Dann wartest du.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Aussage belegt; Distraktoren waren zu albern, ersetzt.",
+   "stand_note": "",
+   "statement": "Weil die EZB den Durchschnitt des Euroraums steuert, hätten bei null Prozent im Schnitt viele Länder Deflation.",
+   "question": "Warum wäre ein Inflationsziel von 0 Prozent im Euroraum besonders riskant?",
+   "answer": "Viele Länder hätten dann Deflation",
+   "distractors": [
+    "Die Preise würden überall steigen",
+    "Die Löhne würden überall stark steigen",
+    "Der Euro würde gegenüber dem Dollar abstürzen"
+   ],
+   "aha": "Die EZB steuert nur den Durchschnitt aus vielen Ländern. Liegt der bei null, rutschen etliche darunter, und genau das will man vermeiden.",
+   "quote_clean": "Wenn wir einen Durchschnitt von null hätten, dann ist es sehr wahrscheinlich, dass eine ganze Reihe von Ländern tatsächlich eine Deflation hätten.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, Währungsunion-Argument korrekt wiedergegeben.",
+   "stand_note": "",
+   "statement": "Mit leichter Inflation können sich Löhne real anpassen, ohne dass sie nominal gesenkt werden müssen.",
+   "question": "Wie hilft eine kleine Inflation, wenn Löhne in einem Land eigentlich sinken müssten?",
+   "answer": "Löhne steigen einfach nicht mit",
+   "distractors": [
+    "Löhne werden automatisch gekürzt",
+    "Der Wechselkurs gleicht es aus",
+    "Der Staat zahlt die Differenz"
+   ],
+   "aha": "In einer Währungsunion gibt es keinen Wechselkurs, der Unterschiede ausgleicht. Löhne kürzen will niemand, aber wenn sie bei leichter Inflation einfach gleich bleiben, passiert die Anpassung fast unbemerkt.",
+   "quote_clean": "Es ist nicht so leicht, die Löhne zu senken. Wenn man aber eine kleine Inflation hat, dann kann eine Anpassung schon allein dadurch erfolgen, dass die Löhne nicht steigen.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Goldfunde belegt, Aha passt zum Muschelbeispiel.",
+   "stand_note": "",
+   "statement": "In Goldwährungen führten plötzliche Goldfunde zu Inflation, weil die Geldmenge stieg.",
+   "question": "Was löste in goldbasierten Geldsystemen immer wieder Inflation aus?",
+   "answer": "Plötzliche Goldfunde",
+   "distractors": [
+    "Schlechte Ernten",
+    "Neue Steuern",
+    "Kriege gegen Nachbarn"
+   ],
+   "aha": "Geld hat einen Wert, weil es knapp ist. Findet jemand eine neue Goldader, gibt es mehr Geld für dieselben Güter, und die Preise passen sich an. Wie auf Andreas' Kokosnussinsel mit den zusätzlichen Muscheln.",
+   "quote_clean": "Das gab es gerade auch in den gold- oder silberbasierten Geldsystemen immer wieder, nämlich dann, wenn es plötzliche Goldfunde gab.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Wörtlich belegt als Aussage von Schnabel, so attribuiert.",
+   "stand_note": "",
+   "statement": "Der beste Schutz gegen Hyperinflation ist eine unabhängige Zentralbank.",
+   "question": "Was ist laut Isabel Schnabel der beste Schutz gegen Hyperinflation?",
+   "answer": "Eine unabhängige Zentralbank",
+   "distractors": [
+    "Eine Goldwährung",
+    "Feste Preise per Gesetz",
+    "Ein starker Finanzminister"
+   ],
+   "aha": "Gesagt von jemandem, der selbst im Direktorium der EZB sitzt. Unabhängig heißt: Die Regierung kann nicht einfach anschaffen, Geld für ihre Ausgaben zu drucken.",
+   "quote_clean": "Das heißt, der beste Schutz gegen die Hyperinflation ist die unabhängige Zentralbank.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, sinnvoll eingeordnet.",
+   "stand_note": "",
+   "statement": "Entscheidend ist weniger, ob die Inflation zwei oder drei Prozent beträgt, sondern ob die Menschen der Zentralbank ihr Ziel glauben.",
+   "question": "Was macht laut Isabel Schnabel den „riesen Unterschied“ bei der Inflationsbekämpfung?",
+   "answer": "Ob man der EZB ihr Ziel glaubt",
+   "distractors": [
+    "Ob die Inflation 2 oder 3 Prozent ist",
+    "Wie hoch die Ölpreise sind",
+    "Wie viel Geld gedruckt wird"
+   ],
+   "aha": "Würde die EZB mitten in der Teuerung sagen „drei, vier Prozent sind eh auch okay“, wäre ihr Ziel unglaubwürdig. Und wer der Zentralbank nicht glaubt, verlangt höhere Löhne und Preise, was die Inflation weiter anheizt.",
+   "quote_clean": "Es ist nicht so, dass zwei und drei Prozent einen riesigen Unterschied machen. Aber was einen riesigen Unterschied macht, ist, ob die Menschen uns abnehmen, dass wir unser Ziel ernst nehmen oder nicht.",
+   "quality": 4
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Die Geschichte von der Bekannten erzählt Isabel Schnabel, nicht Andreas; Zuordnung falsch.",
+   "stand_note": "",
+   "statement": "Andreas erzählt von der Frage einer Bekannten, warum man nicht einfach jedem Menschen eine Million Euro druckt.",
+   "question": "Welche „naive, aber tolle“ Frage einer Bekannten bringt Andreas in die Folge mit?",
+   "answer": "Warum nicht jedem eine Million drucken?",
+   "distractors": [
+    "Warum gibt es keinen Weltgeldschein?",
+    "Warum ist Gold so teuer?",
+    "Warum zahlt man Zinsen?"
+   ],
+   "aha": "Würde man jedem eine Million drucken, gäbe es keine einzige Kokosnuss mehr, nur mehr Geld dafür. Wohlstand basiert auf Gütern, nicht auf Geld, sagt Andreas, und Isabel ergänzt: Die Inflation hätte sogar noch zusätzliche Nebenwirkungen.",
+   "quote_clean": "Eine Million Euro, und das Problem der Armut ist gelöst? Aber das ist genau der Zusammenhang: Das Geld ist nichts, es geht um die Güter.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Trivialer Moment ohne Wissenswert, Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Auf die Frage, warum das Inflationsziel nicht null ist, kündigt Isabel Schnabel eine ganze Reihe von Erklärungen an.",
+   "question": "Wie beginnt Isabel Schnabel ihre Antwort auf die Frage, warum das Inflationsziel nicht null ist?",
+   "answer": "Mit einer Vorwarnung, es wird lang",
+   "distractors": [
+    "Mit einem Witz über Banker",
+    "Mit einer Gegenfrage",
+    "Mit einer Statistik zur Eurozone"
+   ],
+   "aha": "Die Frage bekommt sie offenbar oft, und sie hat gleich mehrere Antworten parat: Sicherheitsabstand zur Deflation, überschätzte Inflation durch Qualitätsverbesserungen und Lohnanpassungen in der Währungsunion.",
+   "quote_clean": "Ich fange jetzt mal an, und du unterbrichst mich, wenn es zu lang wird.",
+   "quality": 1
+  }
+ ],
+ "id": "258",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

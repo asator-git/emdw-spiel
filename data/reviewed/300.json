@@ -1,0 +1,283 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 682 s eindeutig, Distraktoren falsch.",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Als Herbert Prohaska ein Kind war, durfte man in Österreich erst ab dem zehnten Lebensjahr bei einem Fußballverein spielen.",
+   "question": "Ab welchem Alter durfte man in Prohaskas Kindheit in Österreich bei einem Fußballverein spielen?",
+   "answer": "Ab 10 Jahren",
+   "distractors": [
+    "Ab 6 Jahren",
+    "Ab 8 Jahren",
+    "Ab 12 Jahren"
+   ],
+   "aha": "Heute kicken schon Fünfjährige im Verein, damals hieß es warten bis zehn. Der neunjährige Herbert hat deshalb mit einem fremden Spielerpass gespielt und auswendig gelernt, wie der andere Bub heißt und wo er wohnt.",
+   "quote_clean": "Man durfte erst ab dem zehnten Lebensjahr bei einem Fußballverein spielen. Heute kannst du ja, glaube ich, mit fünf Jahren schon gehen."
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 691-731 s, Aha deckt sich mit Transkript.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Weil er zu jung war, spielte Herbert Prohaska mit neun Jahren mit einem falschen Spielerpass.",
+   "question": "Wie kam der neunjährige Herbert Prohaska zu seinen ersten Vereinsspielen?",
+   "answer": "Mit einem falschen Spielerpass",
+   "distractors": [
+    "Mit einer Sondergenehmigung des Verbands",
+    "Als Gastspieler einer Schulmannschaft",
+    "Mit dem Pass seines älteren Bruders"
+   ],
+   "aha": "Am Pass-Foto trug der andere Bub eine Matrosenmütze, also sah man die auffälligen Haare nicht. Genützt hat es trotzdem wenig: Irgendein Gegner hat den Lockenkopf immer erkannt.",
+   "quote_clean": "Und jetzt war ich neun Jahre, und dann hat man mir gesagt: Komm, du spielst schon, und spielst auf einem falschen Spielerpass."
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aha enthielt unbelegte Prüfungsangabe, entfernt.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Herbert Prohaska machte neben seinen ersten Jahren bei der Austria eine Lehre als Automechaniker.",
+   "question": "Welchen Beruf lernte Herbert Prohaska nebenbei, während er schon bei der Austria spielte?",
+   "answer": "Automechaniker",
+   "distractors": [
+    "Elektriker",
+    "Installateur",
+    "Tischler"
+   ],
+   "aha": "Seine Eltern fanden, Fußballer sei kein Beruf. Also hat er in der Werkstatt zusammengekehrt und für die Gesellen eingekauft, während er schon in der Ersten der Austria spielte.",
+   "quote_clean": "Ich habe ja nebenbei Automechaniker gelernt, weil die Eltern der Meinung waren: Fußballer, das ist kein Beruf. Du musst was lernen."
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Statement präzisiert: er sagt, er würde nie ein Selfie verwehren.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Herbert Prohaska würde nie ein Selfie verwehren, weil es ihn nur drei Sekunden kostet und anderen eine Riesenfreude macht.",
+   "question": "Wie begründet Herbert Prohaska, dass er Fans nie ein Selfie verweigert?",
+   "answer": "Drei Sekunden für eine Riesenfreude",
+   "distractors": [
+    "Fans zahlen sein Gehalt",
+    "Der ORF verlangt das vertraglich",
+    "Er sammelt selbst Fotos mit Fans"
+   ],
+   "aha": "Seinen Spielern hat er als Trainer gesagt: Zwei Jahre nach dem Karriereende kennt euch eh keiner mehr, und dann freut ihr euch über jedes Autogramm. Also lieber jetzt herschenken.",
+   "quote_clean": "Und ich sage: Du, ich stelle mich hin, er macht ein Selfie in drei Sekunden und hat eine Riesenfreude. Und wo gehen mir die drei Sekunden ab?"
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahlen bei 1930-1939 s klar belegt.",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Bei der Austria gab es für Prohaska 1.500 Schilling Prämie pro Sieg, 750 pro Unentschieden und für eine Niederlage nichts.",
+   "question": "Was bekam Prohaska bei der Austria als Prämie für eine Niederlage?",
+   "answer": "Nur ein Danke für die Mitarbeit",
+   "distractors": [
+    "375 Schilling",
+    "Die halbe Siegprämie",
+    "Ein Essen mit dem Präsidenten"
+   ],
+   "aha": "Das Prämiensystem war einfach: 1.500 Schilling für einen Sieg, die Hälfte fürs Unentschieden. Für eine Niederlage gab es genau gar nichts außer einem trockenen Danke.",
+   "quote_clean": "Ich habe 3.000 Schilling fix gekriegt, 1.500 Schilling pro Sieg, 750 pro Unentschieden und ‚danke für die Mitarbeit‘ für die Niederlage."
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Korrekt, aber eher Allgemeinwissen als Gesprächsinhalt.",
+   "stand_note": "",
+   "quality": 2,
+   "statement": "Die Fußball-WM 1978, bei der Österreich dabei war, fand in Argentinien statt; im selben Jahr stand die Austria im Europacup-Finale.",
+   "question": "In welchem Land fand die Fußball-WM 1978 statt, bei der Prohaska für Österreich spielte?",
+   "answer": "Argentinien",
+   "distractors": [
+    "Spanien",
+    "Mexiko",
+    "Deutschland"
+   ],
+   "aha": "1978 war ein Ausnahmejahr: WM in Argentinien und mit der Austria im Europacup-Finale. Erst da hat sich Prohaska sein erstes neues Auto geleistet, einen Alfa, allerdings in Ockergelb statt Ferrari-Rot.",
+   "quote_clean": "Mein erstes neues Auto habe ich wirklich gekauft, da waren wir 1978 nach der WM in Argentinien, und mit der Austria waren wir im Europacup-Finale."
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Reihenfolge Austria/Teamchef im Aha nicht belegt, entfernt.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Nach seiner Spielerkarriere war Herbert Prohaska elf Jahre lang Trainer, den Job empfand er als den unangenehmsten.",
+   "question": "Wie viele Jahre war Herbert Prohaska nach seiner Spielerkarriere Trainer?",
+   "answer": "11 Jahre",
+   "distractors": [
+    "3 Jahre",
+    "7 Jahre",
+    "19 Jahre"
+   ],
+   "aha": "Der Job war gut bezahlt, aber ihm am unangenehmsten. Der Grund: Als Trainer wirst du nur nach Resultaten bemessen, egal wie gut du arbeitest.",
+   "quote_clean": "Als Aktiver aufgehört, dann war ich elf Jahre Trainer, was eigentlich auch gut dotiert war, aber der Job war mir am unangenehmsten, weil er ganz einfach sehr, sehr ungerecht sein kann."
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2544 s, an 2024 gebunden.",
+   "stand_note": "Stand 2024",
+   "quality": 3,
+   "statement": "Herbert Prohaska ist seit rund 24 Jahren Fußball-Analytiker beim ORF, länger als bei jeder anderen Station (Stand 2024).",
+   "question": "Wie viele Jahre war Herbert Prohaska im Sommer 2024 schon beim ORF?",
+   "answer": "24 Jahre",
+   "distractors": [
+    "12 Jahre",
+    "17 Jahre",
+    "31 Jahre"
+   ],
+   "aha": "Länger als beim ORF war er nirgendwo, nicht einmal bei der Austria. Und dort will er es, wie er sagt, auch irgendwann enden lassen.",
+   "quote_clean": "Im Sommer werden es 24 unglaubliche Jahre beim ORF. 24 Jahre, so lang war ich nirgendwo."
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aha enthielt Unbelegtes, nah am Transkript neu formuliert.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Prohaska hält den Trainerjob für ungerecht, weil Trainer nur nach Ergebnissen beurteilt werden, während ein Spieler sich schon im nächsten Match beweisen kann.",
+   "question": "Warum findet Herbert Prohaska den Trainerjob ungerechter als das Spielerleben?",
+   "answer": "Trainer werden nur nach Resultaten bemessen",
+   "distractors": [
+    "Trainer verdienen weniger als Spieler",
+    "Trainer haben keinen Kündigungsschutz",
+    "Trainer müssen ständig umziehen"
+   ],
+   "aha": "Als Spieler kannst du einem Kritiker drei Tage später zeigen, dass du kicken kannst. Als Trainer reicht ein verlorenes Match, und schon heißt es, du bist kein guter Trainer.",
+   "quote_clean": "Du kannst super trainieren, super aufstellen, und wenn du ein Match verlierst, dann bist du kein guter Trainer. Wenn du drei Matches gewinnst, bist du ein super Trainer, wenn du drei Matches verlierst, bist du ein schlechter Trainer."
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Unbelegte Bike-Anekdote im Aha entfernt.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Herbert Prohaska sagt von sich, dass er als Einzelsportler trotz Talent nichts gewonnen hätte, weil er die Mannschaft braucht.",
+   "question": "Was hätte Herbert Prohaska nach eigener Aussage als Einzelsportler gewonnen?",
+   "answer": "Nicht einmal einen Blumenstock",
+   "distractors": [
+    "Mindestens eine Olympiamedaille",
+    "Ein paar Staatsmeistertitel",
+    "Genauso viel wie im Fußball"
+   ],
+   "aha": "Allein laufen interessiert ihn nicht. Wenn aber 25 Leute gemeinsam durch den Wald rennen, rennt er automatisch mit.",
+   "quote_clean": "Egal in welcher Sportart: Als Einzelsportler, auch wenn ich der talentierteste Sportler auf der ganzen Welt gewesen wäre, hätte ich nicht einmal einen Blumenstock gewonnen."
+  },
+  {
+   "i": 11,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zur Interviewerfrage, Aha enthält Unbelegtes.",
+   "stand_note": "",
+   "quality": 1,
+   "statement": "Andreas fragte Herbert Prohaska, was er einem jungen Menschen für ein gutes Leben mitgeben würde.",
+   "question": "Welche Frage stellt Andreas Herbert Prohaska gegen Ende des Gesprächs?",
+   "answer": "Was er für ein gutes Leben mitgibt",
+   "distractors": [
+    "Welches Tor er nochmal schießen würde",
+    "Wen er als Teamchef aufstellen würde",
+    "Was er beim ORF ändern würde"
+   ],
+   "aha": "Andreas wollte von Anfang an weniger über Fußball als übers gute Leben reden. Prohaskas Antwort an die Enkel: Spielt, solange es euch Spaß macht.",
+   "quote_clean": "Wenn jetzt jemand Junger zu dir kommt oder ein Enkel von dir und dich fragt: Opa oder lieber Herbert, was möchtest du mir mitgeben für ein geglücktes, gutes Leben?"
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Hedge im Original, daher als Prohaskas Erinnerung formuliert.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Laut Prohaska hätte er im Qualifikationsspiel in Izmir auf der Bank gesessen, weil Josef Hickersberger gespielt hätte, wäre der nicht kurz davor am Blinddarm krank gewesen.",
+   "question": "Warum wäre Prohaska nach eigener Erinnerung im entscheidenden Spiel von Izmir auf der Bank gesessen?",
+   "answer": "Ein Kollege hätte gespielt, hatte aber Blinddarmprobleme",
+   "distractors": [
+    "Er war zuvor verletzt gewesen",
+    "Der Teamchef mochte ihn nicht aufstellen",
+    "Er war erst nach Anpfiff angereist"
+   ],
+   "aha": "Eigentlich war Prohaska damals kein fixer Stammspieler. Wegen des Blinddarms von Hickersberger kam er ins Spiel und schoss das wichtigste Tor seiner Karriere.",
+   "quote_clean": "In dem Spiel wäre ich auf der Bank gesessen. Der Pepi Hickersberger hat drei Tage vorher, glaube ich, einen entzündeten Blinddarm gehabt, musste operiert werden, und der hätte gespielt und ich nicht."
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Als Prohaskas Sicht formuliert; Format inzwischen geändert.",
+   "stand_note": "Stand 2024",
+   "quality": 3,
+   "statement": "Prohaska meint, dass die Gruppenphase der Champions League erfunden wurde, damit große Klubs nicht früh ausscheiden, anders als im alten K.-o.-Europacup.",
+   "question": "Was bewirkt laut Prohaska die Gruppenphase der Champions League gegenüber dem alten Europacup?",
+   "answer": "Große Klubs scheiden nicht früh aus",
+   "distractors": [
+    "Kleine Klubs bekommen mehr Geld",
+    "Es gibt weniger Spiele pro Saison",
+    "Die Heimspiele werden fairer verteilt"
+   ],
+   "aha": "Im alten Europacup galt von der ersten Runde an K.-o., da konnte ein Kleiner einen Großen rauswerfen. In einer Gruppe mit sechs Spielen verkraften die Großen eine Niederlage locker, bleiben lang dabei und kassieren.",
+   "quote_clean": "Und genau deswegen ist die Champions League erfunden worden: dass die Großen ganz einfach nicht frühzeitig ausscheiden. Denn in der Gruppenphase haben sie sechs Spiele."
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Antwort \"mindestens acht\" macht höhere Distraktoren nicht eindeutig falsch.",
+   "stand_note": "",
+   "quality": 2,
+   "statement": "Zu Prohaskas Zeit blieben Fußballer oft ein Jahrzehnt beim selben Klub; er spielte mit mindestens acht Kollegen zehn Jahre zusammen.",
+   "question": "Mit wie vielen Austria-Kollegen spielte Prohaska mindestens zehn Jahre lang zusammen?",
+   "answer": "Mit mindestens acht",
+   "distractors": [
+    "Mit zwei",
+    "Mit vier",
+    "Mit fünfzehn"
+   ],
+   "aha": "Damals blieb eine Mannschaft jahrelang beisammen, man fuhr sogar gemeinsam mit den Frauen auf Urlaub. Bei heutigen Topklubs, glaubt Prohaska, geht man nach dem Training einfach heim, und so wäre ihm der Fußball viel weniger Spaß gewesen.",
+   "quote_clean": "Ich habe bei der Austria mit mindestens acht Spielern zehn Jahre zusammengespielt. Und obwohl wir jeden Tag miteinander trainiert haben, sind wir zu viert mit unseren Frauen auch noch in Urlaub gefahren."
+  }
+ ],
+ "id": "300",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

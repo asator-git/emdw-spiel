@@ -1,0 +1,292 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "beleg"
+   ],
+   "note": "Belegt (146-159 s), Zahlen aus Andreas' Statistik-Austria-Recherche, Stand 2021. Aha nannte 'ein Drittel mehr' für Männer, rechnerisch sind 36.000 zu 23.000 aber +57 Prozent bzw. Frauen gut ein Drittel weniger; korrigiert.",
+   "stand_note": "Stand 2021",
+   "statement": "Laut Andreas' Recherche bei Statistik Austria verdient ein Mann in Österreich im Schnitt rund 36.000 Euro brutto im Jahr, eine Frau rund 23.000 Euro.",
+   "question": "Wie viel verdient eine Frau in Österreich im Schnitt brutto im Jahr, wenn ein Mann laut Statistik Austria auf rund 36.000 Euro kommt?",
+   "answer": "Rund 23.000 Euro",
+   "distractors": [
+    "Rund 31.000 Euro",
+    "Rund 17.000 Euro",
+    "Rund 28.000 Euro"
+   ],
+   "aha": "Beim Jahreseinkommen ist der Abstand riesig: Frauen verdienen im Schnitt gut ein Drittel weniger als Männer. Ein großer Teil davon kommt daher, dass Frauen viel öfter Teilzeit arbeiten.",
+   "quote_clean": "Im Durchschnitt verdient ein Mann im Jahr brutto in Österreich 36.000 Euro, eine Frau 23.000 Euro.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "14 Prozent ist je nach Messung unterschiedlich (Zulehner nennt 14 Prozent für Vollzeit, 15 für alle); gängige Stundenlohn-Lücke für Österreich liegt höher. Zu definitionsabhängig und veraltet.",
+   "stand_note": "",
+   "statement": "Auch beim Stundenlohn verdienen Männer in Österreich im Schnitt rund 14 Prozent mehr als Frauen.",
+   "question": "Wie viel Prozent beträgt in Österreich der Unterschied beim Stundenlohn zwischen Männern und Frauen?",
+   "answer": "Rund 14 Prozent",
+   "distractors": [
+    "Rund 4 Prozent",
+    "Rund 25 Prozent",
+    "Rund 36 Prozent"
+   ],
+   "aha": "Rechnest du die Teilzeit heraus, schrumpft der Abstand deutlich.",
+   "quote_clean": "Aber auch wenn man den Stundenlohn vergleicht, gibt es noch einen Unterschied von 14 Prozent.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "veraltet",
+    "beleg"
+   ],
+   "note": "Vergleichswerte 2009/aktuell nur von Andreas ('glaube ich'), Messmethode unklar; Zahlen heute überholt.",
+   "stand_note": "",
+   "statement": "2009 lag der Unterschied im Stundenlohn zwischen Männern und Frauen in Österreich noch bei 19 Prozent.",
+   "question": "Wie groß war der Unterschied im Stundenlohn zwischen Männern und Frauen in Österreich im Jahr 2009?",
+   "answer": "19 Prozent",
+   "distractors": [
+    "9 Prozent",
+    "27 Prozent",
+    "33 Prozent"
+   ],
+   "aha": "Die Schere geht zu, aber langsam.",
+   "quote_clean": "2009 war der Unterschied im Stundenlohn 19 Prozent. Die aktuellsten Daten liegen bei 14 Prozent.",
+   "quality": 1
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "kontext"
+   ],
+   "note": "Belegt (511-518 s), Andreas zitiert eine Statistik ohne Quelle; als solche und mit Stand 2021 gerahmt.",
+   "stand_note": "Stand 2021",
+   "statement": "Laut einer Statistik, die Andreas zitiert, arbeiten in Österreich rund zwei Drittel der Mütter zwischen 25 und 49 Teilzeit, aber nur einer von 20 Vätern.",
+   "question": "Wie viele der Mütter zwischen 25 und 49 arbeiten laut der Statistik, die Andreas zitiert, in Österreich Teilzeit?",
+   "answer": "Rund zwei Drittel",
+   "distractors": [
+    "Rund ein Drittel",
+    "Rund die Hälfte",
+    "Rund neun von zehn"
+   ],
+   "aha": "Bei den Vätern ist es nur einer von 20. Diese Schieflage bei der Teilzeit ist laut Christine ein wichtiger Grund dafür, dass Frauen im Schnitt weniger verdienen.",
+   "quote_clean": "Zwei Drittel der Mütter zwischen 25 und 49 arbeiten Teilzeit, aber nur einer von 20 Vätern.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt (528-535 s); Aussage ist 'kaum', als Position der Ökonomin gerahmt.",
+   "stand_note": "Stand 2021",
+   "statement": "Laut Christine Zulehner gibt es kaum einen Lohnunterschied, wenn man Frauen und Männer ohne Kinder vergleicht.",
+   "question": "Wie groß ist laut Christine Zulehner der Lohnunterschied zwischen Frauen und Männern, die keine Kinder haben?",
+   "answer": "Kaum vorhanden",
+   "distractors": [
+    "Größer als im Durchschnitt",
+    "Genauso groß wie im Schnitt",
+    "Frauen verdienen deutlich mehr"
+   ],
+   "aha": "Der Knick kommt laut Christine mit den Kindern: Frauen steigen länger aus, kommen in Teilzeit zurück und suchen Jobs, die sich mit Kinderbetreuung vereinbaren lassen. Die meisten Menschen haben Kinder, darum schlägt das im Schnitt so durch.",
+   "quote_clean": "Wenn man Frauen und Männer vergleicht, die keine Kinder haben, sieht man kaum einen Lohnunterschied.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Belegt (254-270 s); als Aussage der Gästin und mit Stand 2021 gerahmt, Aha vorsichtiger.",
+   "stand_note": "Stand 2021",
+   "statement": "Laut Christine Zulehner erklären Unterschiede in der Schulbildung den Lohnunterschied zwischen Männern und Frauen mittlerweile kaum noch, Unterschiede in der Berufserfahrung dagegen schon.",
+   "question": "Welcher Faktor erklärt den Lohnunterschied zwischen Männern und Frauen laut Christine Zulehner mittlerweile nur noch wenig?",
+   "answer": "Die Schulbildung",
+   "distractors": [
+    "Die Berufserfahrung",
+    "Die Berufswahl",
+    "Die Arbeitsstunden"
+   ],
+   "aha": "Bei der Schulbildung spielen die Unterschiede laut Christine kaum noch eine Rolle. Bei der Berufserfahrung schon, weil vor allem Frauen wegen der Kinder länger aus dem Job aussteigen.",
+   "quote_clean": "Wenn wir uns das genauer in den Daten ansehen, sehen wir, dass die Unterschiede in der Schulbildung mittlerweile keine so große Rolle mehr spielen. Die Unterschiede in der Berufserfahrung spielen noch immer eine relativ große Rolle.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Island-Regel stark vereinfacht ('circa neun Monate, Hälfte pro Partner'); die isländische Regelung war anders aufgebaut (Teil übertragbar) und wurde 2021 geändert.",
+   "stand_note": "",
+   "statement": "In Island muss die Elternkarenz zur Hälfte von jedem Partner genommen werden.",
+   "question": "Wie ist die Elternkarenz in Island zwischen den Partnern aufgeteilt?",
+   "answer": "Jeder muss die Hälfte nehmen",
+   "distractors": [
+    "Frei aufteilbar ohne Vorgabe",
+    "Zwei Monate für den Vater",
+    "Drei Viertel für die Mutter"
+   ],
+   "aha": "Fixe Anteile machen gleiche Verteilung zur Norm.",
+   "quote_clean": "Zum Beispiel Island: Da kann man pro Kind circa neun Monate in Karenz gehen, aber die Hälfte muss jeweils von einem Partner genommen werden.",
+   "quality": 1
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (1281-1313 s).",
+   "stand_note": "",
+   "statement": "Laut Studien, die Christine Zulehner nennt, wählt bei gleichen Mathenoten eher ein Mathematikstudium, wer gern in den Wettbewerb geht.",
+   "question": "Was sagt laut Studien bei gleichen Mathe-Noten voraus, wer eher Mathematik studiert?",
+   "answer": "Die Freude am Wettbewerb",
+   "distractors": [
+    "Die Intelligenz",
+    "Der Beruf der Eltern",
+    "Die Schulform"
+   ],
+   "aha": "Mit Können hat das laut Christine wenig zu tun, die Noten sind ja gleich. Es dürfte am Umfeld in Schule und Studium liegen.",
+   "quote_clean": "Es gibt Studien, die zeigen: Auch wenn die Noten in Mathematik zwischen Männern und Frauen gleich sind, führt die Eigenschaft, dass ich gern in den Wettbewerb gehe, dazu, dass ich eher ein Mathematikstudium wähle.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt (1522-1581 s); als eigene Studie der Gästin und indirekter Hinweis gerahmt.",
+   "stand_note": "",
+   "statement": "In einer Studie von Christine Zulehner überleben Unternehmen, die im Vergleich zum Branchenschnitt mehr Männer einstellen, kürzer am Markt; sie sieht darin einen indirekten Hinweis auf Diskriminierung.",
+   "question": "Was zeigte eine Studie von Christine Zulehner über Firmen, die mehr Männer einstellen als ihre Branche im Schnitt?",
+   "answer": "Sie überleben kürzer am Markt",
+   "distractors": [
+    "Sie wachsen schneller",
+    "Sie machen mehr Gewinn",
+    "Sie zahlen niedrigere Löhne"
+   ],
+   "aha": "Wer gleich produktive Frauen links liegen lässt, hat laut Christine höhere Kosten. Am Ende scheiden solche Firmen früher aus dem Markt aus. Der Markt bestraft Diskriminierung also zumindest ein Stück weit.",
+   "quote_clean": "Ich habe in einer Studie mit einer Co-Autorin gezeigt, dass Unternehmen, die im Vergleich zum Industriedurchschnitt mehr Männer als Frauen einstellen, kürzer am Markt überleben.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (1604-1635 s).",
+   "stand_note": "",
+   "statement": "Ein anonymisierter Bewerbungsprozess funktioniert laut Christine Zulehner wie ein Vorspiel hinter dem Vorhang im Orchester.",
+   "question": "Mit welchem Beispiel vergleicht Christine Zulehner einen blinden Bewerbungsprozess?",
+   "answer": "Vorspiel hinter einem Vorhang im Orchester",
+   "distractors": [
+    "Anonyme Abstimmung bei einer Wahl",
+    "Blindverkostung beim Wein",
+    "Doppelblindstudie in der Medizin"
+   ],
+   "aha": "Wenn die Jury nicht sieht, wer spielt, zählt nur der Klang. Genauso kann eine Firma zumindest die erste Bewerbungsrunde anonym machen, damit unbewusste Vorurteile weniger mitreden.",
+   "quote_clean": "Das ist so wie bei einem Orchester, wo man einen Vorhang hat und nicht sieht, wer spielt.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Belegt (2230-2245 s); Antwort war mehrdeutig (8+6 und 7+7 genannt), Aha enthielt nicht belegtes 'Vorbild Island'; Regelung Stand 2021.",
+   "stand_note": "Stand 2021",
+   "statement": "Christine Zulehner würde die Karenz in Österreich statt 12 plus 2 lieber ausgewogener aufteilen, etwa 8 plus 6 oder 7 plus 7.",
+   "question": "Statt 12 plus 2: Welche Aufteilungen der Karenzmonate nennt Christine Zulehner als Beispiele?",
+   "answer": "8 plus 6 oder 7 plus 7",
+   "distractors": [
+    "10 plus 4 oder 9 plus 5",
+    "12 plus 0 oder 11 plus 1",
+    "14 plus 2 oder 13 plus 3"
+   ],
+   "aha": "Je gleichmäßiger die Karenz aufgeteilt ist, desto eher gilt es laut Christine auch für Firmen als normal, dass Väter länger aus dem Job aussteigen.",
+   "quote_clean": "Dass man es stärker so aufteilen soll, dass das nicht 12 plus 2 ist, sondern eher 8 plus 6 zum Beispiel oder 7 plus 7, dass es stärker dieses Gleichgewicht zwischen Männern und Frauen betont.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt (2163-2209 s); Wer-sagt-es-Frage in Inhaltsfrage umgebaut.",
+   "stand_note": "Stand 2021",
+   "statement": "Christine Zulehner meint, die Politik müsse Rahmenbedingungen schaffen, damit sich jeder Mann und jede Frau selbst ernähren kann, auch in der Pension.",
+   "question": "Was soll die Politik laut Christine Zulehner durch ihre Rahmenbedingungen ermöglichen?",
+   "answer": "Dass sich jede und jeder selbst ernähren kann, auch in der Pension",
+   "distractors": [
+    "Dass alle Vollzeit arbeiten",
+    "Dass Frauen früher in Pension gehen",
+    "Dass Familien keine Wahl mehr haben"
+   ],
+   "aha": "Wie sich eine Familie aufteilt, soll laut Christine jede selbst entscheiden. Aber niemand soll am Ende, vor allem in der Pension, finanziell vom Partner abhängig sein.",
+   "quote_clean": "Ich glaube nur, die Politik muss die Rahmenbedingungen so setzen, dass es möglich ist, dass jeder Mann und jede Frau sich auch selbst ernähren kann, im Wesentlichen auch in der Pension.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Gesprächsfloskel ohne Faktenwert.",
+   "stand_note": "",
+   "statement": "Andreas leitet das Ende des Gesprächs mit einem Blick in die Glaskugel ein.",
+   "question": "Womit leitet Andreas in dieser Folge seine Schlussfrage ein?",
+   "answer": "Ein Blick in die Glaskugel",
+   "distractors": [
+    "Ein Blick in den Rückspiegel",
+    "Eine letzte Wette",
+    "Ein Satz zum Mitnehmen"
+   ],
+   "aha": "Christine bleibt vorsichtig optimistisch.",
+   "quote_clean": "Wir kommen zum Schluss, ein Blick in die Glaskugel: Denkst du, dass es so weitergeht und die Schere langsam, aber doch zugeht?",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Belegt (2483-2506 s); Aha enthielt nicht belegte Zusatzbehauptung (Christine), entfernt; Name im Transkript uneinheitlich geschrieben.",
+   "stand_note": "Stand 2021",
+   "statement": "Andreas erinnert sich an das Wort Anwesenheitsfetischismus: Chefs verlangen, dass man von früh bis spät im Büro sitzt.",
+   "question": "Welches Wort für Chefs, die ständige Präsenz im Büro verlangen, hat Andreas in der Folge mitgebracht?",
+   "answer": "Anwesenheitsfetischismus",
+   "distractors": [
+    "Präsenzpflichtwahn",
+    "Bürokleberei",
+    "Sesselhockerkultur"
+   ],
+   "aha": "Wer Kinder betreut, kann nicht bis 19 Uhr im Büro sitzen. Mehr Homeoffice könnte Menschen mit Betreuungspflichten das Leben leichter machen, meinen Andreas und Christine.",
+   "quote_clean": "Ich habe vor ein paar Jahren für eine Recherche für den Standard telefoniert, und mein Gegenüber hat das schöne Wort Anwesenheitsfetischismus verwendet.",
+   "quality": 3
+  }
+ ],
+ "id": "179",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

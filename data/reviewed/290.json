@@ -1,0 +1,260 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Grobe Schätzung des Gasts; Großraum Budapest hat real eher rund ein Viertel bis ein Drittel der Bevölkerung, Zahl nicht belastbar.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 917-936; Aha widersprach der Aussage (CSR und Schweiz waren noch Demokratien), korrigiert.",
+   "stand_note": "",
+   "statement": "1933 wurde in Österreich die parlamentarische Demokratie ausgeschaltet; damals regierten bereits Mussolini in Italien und Hitler in Deutschland.",
+   "question": "In welchem Jahr wurde in Österreich die parlamentarische Demokratie ausgeschaltet?",
+   "answer": "1933",
+   "distractors": [
+    "1927",
+    "1938",
+    "1918"
+   ],
+   "aha": "1933 legte Dollfuß das Parlament lahm und regierte danach autoritär. Rundherum regierten schon Diktatoren wie Mussolini und Hitler, ganz anders als heute, wo die Nachbarn Demokratien sind.",
+   "quote_clean": "Als in Österreich 1933 die parlamentarische Demokratie ausgeschaltet wurde, hat bereits Benito Mussolini in Italien regiert und Adolf Hitler in Deutschland.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 934-941, historisch plausibel (Jugoslawien war seit 1929 Königsdiktatur).",
+   "stand_note": "",
+   "statement": "Als 1933 in Österreich die Demokratie ausgeschaltet wurde, waren von den Nachbarländern nur noch die Tschechoslowakei und die Schweiz Demokratien.",
+   "question": "Welche Nachbarländer Österreichs waren 1933 noch Demokratien?",
+   "answer": "Tschechoslowakei und Schweiz",
+   "distractors": [
+    "Italien und Schweiz",
+    "Ungarn und Tschechoslowakei",
+    "Deutschland und Jugoslawien"
+   ],
+   "aha": "Rundherum regierten Mussolini, Hitler und Horthy. Und auch die Tschechoslowakei wurde wenige Jahre später vom Deutschen Reich zerschlagen, die Demokratie hatte damals also kaum Rückhalt in der Nachbarschaft.",
+   "quote_clean": "Von den Nachbarn des damaligen Österreich waren nur die Tschechoslowakei und die Schweiz noch Demokratien.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 682-699 (ÖVP 1999 Platz 3); Frage war holprig formuliert.",
+   "stand_note": "",
+   "statement": "Wolfgang Schüssel wurde im Jahr 2000 Bundeskanzler, obwohl seine ÖVP bei der Nationalratswahl nur Dritte war.",
+   "question": "Auf welchem Platz lag die ÖVP bei der Nationalratswahl 1999, bevor Wolfgang Schüssel 2000 Bundeskanzler wurde?",
+   "answer": "Auf Platz 3",
+   "distractors": [
+    "Auf Platz 1",
+    "Auf Platz 2",
+    "Auf Platz 4"
+   ],
+   "aha": "Die SPÖ mit Viktor Klima war stärkste Partei, ging aber leer aus. In einem parlamentarischen System zählt nicht, wer Erster wird, sondern wer eine Mehrheit im Nationalrat zusammenbringt.",
+   "quote_clean": "Wolfgang Schüssel wurde Anfang 2000 Bundeskanzler. Da war er der Kanzlerkandidat der drittstärksten Partei. Der Kanzlerkandidat der stärksten Partei war Viktor Klima.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Wer-hat's-gesagt mit nur einem Gast ist trivial; Bezug auf FPÖ im Aha politisch zugespitzt.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1257-1262; real ist der Rückgang noch deutlicher, 'weniger als die Hälfte' stimmt.",
+   "stand_note": "Stand 2024",
+   "statement": "Die SPÖ hat heute weniger als halb so viele Mitglieder wie am Ende der Ära Kreisky.",
+   "question": "Wie viele Mitglieder hat die SPÖ laut Pelinka im Vergleich zum Ende der Ära Kreisky?",
+   "answer": "Weniger als die Hälfte",
+   "distractors": [
+    "Etwa gleich viele",
+    "Etwa doppelt so viele",
+    "Etwa zwei Drittel"
+   ],
+   "aha": "Das liegt laut Pelinka nicht an einzelnen Personen, sondern an der Gesellschaft: Bindungen an Parteien, Kirchen und Gewerkschaften werden lockerer. Auch bei der ÖVP ist die Mitgliedschaft viel geringer als früher.",
+   "quote_clean": "Die Sozialdemokratische Partei hat heute weniger als die Hälfte an Parteimitgliedern, als sie noch am Ende der Ära Kreisky hatte.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1222-1238.",
+   "stand_note": "",
+   "statement": "Nach 1945 konnte man aus Kirchgang oder Gewerkschaftsmitgliedschaft recht sicher auf die Wahl von ÖVP oder SPÖ schließen; diese Bindungen sind heute viel schwächer.",
+   "question": "Welche Partei wählte nach 1945 laut Pelinka mit hoher Wahrscheinlichkeit, wer jeden Sonntag in die Kirche ging?",
+   "answer": "Die ÖVP",
+   "distractors": [
+    "Die SPÖ",
+    "Die FPÖ",
+    "Die KPÖ"
+   ],
+   "aha": "Früher war Wählen fast ein Milieu-Automatismus: Kirche hieß ÖVP, Gewerkschaft hieß SPÖ. Weil Kirchen und Gewerkschaften an Bindungskraft verloren haben, sind die Wählerinnen und Wähler heute viel beweglicher.",
+   "quote_clean": "Da konnte man mit hoher Wahrscheinlichkeit annehmen, dass eine Person, die jeden Sonntag in die Kirche geht, ÖVP wählt. Und dass jemand, der in einer Arbeitergewerkschaft organisiert ist, wahrscheinlich SPÖ wählen wird.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1609-1613; Frauenwahlrecht 1918/19 passt zu 'ungefähr 100 Jahren'.",
+   "stand_note": "Stand 2024",
+   "statement": "Frauen, also die Mehrheit der Bevölkerung, bekamen in Österreich erst vor rund 100 Jahren das Wahlrecht.",
+   "question": "Vor wie vielen Jahren haben Frauen in Österreich ungefähr das Wahlrecht bekommen (Stand 2024)?",
+   "answer": "Vor rund 100 Jahren",
+   "distractors": [
+    "Vor rund 60 Jahren",
+    "Vor rund 150 Jahren",
+    "Vor rund 80 Jahren"
+   ],
+   "aha": "Das Frauenwahlrecht kam 1918 mit der Republik. Pelinka erinnert daran, dass damit die Mehrheit der Bevölkerung erst so spät mitbestimmen durfte.",
+   "quote_clean": "Vor ungefähr 100 Jahren hat die Mehrheit der Bevölkerung in Österreich erst das Wahlrecht bekommen: die Frauen.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Beleg bei 1663-1669, Gast sagt 'ich glaube sogar'; als Einschätzung des Gasts und Stand 2024 gekennzeichnet, auf Nationalratswahlen präzisiert (EU-Bürger wählen kommunal).",
+   "stand_note": "Stand 2024",
+   "statement": "Laut Pelinka leben in Österreich über eine Million Menschen legal, die mangels Staatsbürgerschaft nicht wählen dürfen.",
+   "question": "Wie viele Menschen leben laut Pelinka legal in Österreich, dürfen aber mangels Staatsbürgerschaft nicht wählen?",
+   "answer": "Über eine Million",
+   "distractors": [
+    "Rund 50.000",
+    "Rund 200.000",
+    "Rund 4 Millionen"
+   ],
+   "aha": "Sie zahlen Steuern und müssen sich an die Gesetze halten, können aber bei Nationalratswahlen nicht mitbestimmen. Für Pelinka ist das die nächste große Inklusionsaufgabe der Demokratie, so wie einst das Frauenwahlrecht.",
+   "quote_clean": "Es sind immerhin einige Hunderttausend, ich glaube sogar über eine Million, die legal in Österreich leben.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2898-2918, klar als Vergleich Pelinkas attribuiert.",
+   "stand_note": "",
+   "statement": "In der EU sind Rat und Parlament gleichgewichtig, ähnlich wie Senat und Repräsentantenhaus in den USA.",
+   "question": "Womit vergleicht Pelinka das Zusammenspiel von EU-Rat und EU-Parlament?",
+   "answer": "Mit Senat und Repräsentantenhaus",
+   "distractors": [
+    "Mit Bundesrat und Landtag",
+    "Mit Regierung und Opposition",
+    "Mit Ober- und Untergericht"
+   ],
+   "aha": "Im Rat sitzen die Regierungen, im Parlament die gewählten Abgeordneten, und beide müssen sich einig werden, notfalls über Kompromissausschüsse wie in den USA. Deshalb hat auch die Frage, wer Bundeskanzler wird, eine europäische Dimension.",
+   "quote_clean": "Und der Rat ist gleichgewichtig wie das Parlament. Das ist ein bisschen so: Der Rat mit dem österreichischen Bundeskanzler ist der Senat, das Parlament ist das Repräsentantenhaus.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "transkription"
+   ],
+   "note": "Wer-hat's-gesagt trivial; Zitat im Transkript verstümmelt; Aha mit Trump-Bezug politisch zugespitzt.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Wer-hat's-gesagt trivial, Distraktornamen unbelegt.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage über Gesprächseinstieg, kein Wissensgehalt.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Kleine Selbstkorrektur des Moderators, bloßstellend und ohne Wissensgehalt.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  }
+ ],
+ "id": "290",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

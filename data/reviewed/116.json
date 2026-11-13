@@ -1,0 +1,284 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 782 s eindeutig, Zahl plausibel; Aha stimmt mit Vorbildern und Schulfach überein.",
+   "stand_note": "Stand 2020",
+   "statement": "Im Informatikstudium an der TU Wien sind rund 20 Prozent der Studienanfänger:innen Frauen.",
+   "question": "Wie viel Prozent der Informatik-Anfänger:innen an der TU Wien sind Frauen?",
+   "answer": "Rund 20 Prozent",
+   "distractors": [
+    "Rund 8 Prozent",
+    "Rund 35 Prozent",
+    "Rund 45 Prozent"
+   ],
+   "aha": "Ein Fünftel, und das seit Jahrzehnten praktisch unverändert. Laut Gerti Kappel fehlen vor allem Vorbilder und Informatik als echtes Schulfach.",
+   "quote_clean": "In der Informatik haben wir rund 20 Prozent Anfängerinnen. Das ist stabil über die letzten 40 Jahre.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Dieselbe Aussage wie Kandidat 0, als Frage schwach und inzwischen zeitlich verschoben.",
+   "stand_note": "",
+   "statement": "Der Frauenanteil unter den Informatik-Anfänger:innen an der TU Wien ist seit rund 40 Jahren stabil bei etwa 20 Prozent.",
+   "question": "Seit wie vielen Jahren liegt der Frauenanteil bei Informatik-Anfänger:innen an der TU Wien ungefähr gleich hoch?",
+   "answer": "Seit rund 40 Jahren",
+   "distractors": [
+    "Seit rund 10 Jahren",
+    "Seit rund 20 Jahren",
+    "Seit rund 70 Jahren"
+   ],
+   "aha": "Vier Jahrzehnte Workshops, Schulbesuche und Förderprogramme, und der Anteil bewegt sich kaum. Kappel macht trotzdem weiter, weil sie eine öffentlich finanzierte Uni in der Pflicht sieht, Interesse zu wecken.",
+   "quote_clean": "Das ist stabil über die letzten 40 Jahre. Jetzt könnte man sagen, das heißt, alle unsere Bemühungen, in die Schulen zu gehen, Workshops für Mädchen im Sommer zu machen,",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Andreas nennt Zahlen ohne klare Bezugsgröße (TU insgesamt oder Informatik) und zweifelt selbst an der Aktualität; das Aha ('ein bisschen besser') steht nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Bei den Informatik-Abschlüssen an der TU Wien lag der Frauenanteil laut den Zahlen in der Folge bei rund 10 Prozent.",
+   "question": "Wie viel Prozent der Informatik-Abschlüsse an der TU Wien gingen laut der Folge an Frauen?",
+   "answer": "Rund 10 Prozent",
+   "distractors": [
+    "Rund 25 Prozent",
+    "Rund 3 Prozent",
+    "Rund 40 Prozent"
+   ],
+   "aha": "Am Anfang sind es noch 20 Prozent Frauen, beim Abschluss nur mehr etwa 10. Kappel bestätigt das mit einem knappen „Leider ja“, sagt aber, es schaue mittlerweile ein bisschen besser aus.",
+   "quote_clean": "Bachelor-Studienanfänger und -Anfängerinnen: 20 Prozent Frauen. Studienabschlüsse: 10 Prozent Frauen, 90 Prozent Männer. Ist das noch immer so?",
+   "quality": 2
+  },
+  {
+   "i": 8,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Aus einem Podcast zitiert, Land (vermutlich USA) wird nicht genannt; für Österreich so nicht belegt, zudem vereinfachte Zusammenfassung.",
+   "stand_note": "",
+   "statement": "Bis in die 1980er-Jahre war der Frauenanteil in der Informatik ähnlich hoch wie in Medizin oder Jus.",
+   "question": "Wie war der Frauenanteil in der Informatik bis in die 1980er-Jahre?",
+   "answer": "So hoch wie in Medizin und Jus",
+   "distractors": [
+    "Deutlich niedriger als heute",
+    "Praktisch null",
+    "Höher als bei den Männern"
+   ],
+   "aha": "Das hat der Podcast Planet Money erzählt: Informatik war lange gar kein Männerfach. Erst Mitte der 80er kippte das, während Medizin und Recht immer weiblicher wurden.",
+   "quote_clean": "Bis in die 1980er haben genauso viele Frauen Informatik studiert, wie das etwa in der Medizin oder im Recht war.",
+   "quality": 2
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Im Transkript steht „für Männer“, nicht „Buben“; Antwort und Statement angepasst. Als Planet-Money-Erklärung attribuiert, daher vertretbar.",
+   "stand_note": "",
+   "statement": "Laut dem Podcast Planet Money wurden Computer Mitte der 1980er als Spielzeug für Männer beworben, worauf der Frauenanteil in der Informatik einbrach.",
+   "question": "Was trug laut Planet Money Mitte der 1980er dazu bei, dass der Frauenanteil in der Informatik einbrach?",
+   "answer": "Computer wurden als Männerspielzeug beworben",
+   "distractors": [
+    "Unis führten Aufnahmetests ein",
+    "Das Studium wurde kostenpflichtig",
+    "Programmieren wurde schlechter bezahlt"
+   ],
+   "aha": "Die Werbeleute haben entschieden: Der Computer ist für den Mann. Das zeigte sich schnell in den Statistiken. Bei Medizin und Recht stieg der Frauenanteil weiter, bei der Informatik brach er ein.",
+   "quote_clean": "Der Computer wurde als Spielzeug beworben, und wie bei anderem Spielzeug auch haben die Werbeleute entschieden, ob das Spielzeug für Männer oder für Frauen ist.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Aussage stimmt (soziologisch, 'meistens'); 'laut Studien' zu stark, und das Aha passt nicht ganz (Kappel ist Einzelkind).",
+   "stand_note": "",
+   "statement": "Frauen, die in Mitteleuropa in die Technik gehen, haben laut Gerti Kappel meist einen starken Bezug zu einem männlichen Umfeld wie Vater oder großem Bruder.",
+   "question": "Was haben Frauen, die in Mitteleuropa in die Technik gehen, laut Gerti Kappel häufig gemeinsam?",
+   "answer": "Enger Bezug zu Vater oder großem Bruder",
+   "distractors": [
+    "Eine Mutter, die Ingenieurin ist",
+    "Aufgewachsen in einer Großstadt",
+    "Jüngstes von mehreren Geschwistern"
+   ],
+   "aha": "Bei Kappel selbst passt das gut: Ihr Vater ist Zimmermann, sie ist mit Zirkel und Geodreieck groß geworden und ging in ein reines Mädchengymnasium.",
+   "quote_clean": "Welche Frauen gehen bei uns in Österreich, Deutschland, Mitteleuropa in die Technik? Das sind meistens die mit einem sehr starken Bezug zu einem männlichen Umfeld, Vater oder großem Bruder.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Zitat belegt; Frage sehr leicht. Im Aha unbelegten Titel 'Dekanin' entfernt.",
+   "stand_note": "",
+   "statement": "Gerti Kappel vergleicht Programmieren mit Architektur: Es sei Kreativität pur.",
+   "question": "Wer hat in „Erklär mir die Welt“ gesagt: „Programmieren ist Kreativität pur“?",
+   "answer": "Gerti Kappel",
+   "distractors": [
+    "Andreas Sator",
+    "Ada Lovelace",
+    "Bill Gates"
+   ],
+   "aha": "Architekt:innen bauen Gebäude und Tunnel, Informatiker:innen bauen neue Möglichkeiten zu kommunizieren. Für Kappel ist beides gestalterische Arbeit.",
+   "quote_clean": "Programmieren ist Kreativität pur. Man entwickelt etwas. Man ist gestalterisch tätig. Ich vergleiche es immer mit der Architektur.",
+   "quality": 2
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat bei 249 s belegt, Aussage korrekt wiedergegeben; als Frage leicht.",
+   "stand_note": "",
+   "statement": "Gerti Kappel betont, dass Berufs- und Studienwahl stark von Eltern, Familie, Schule und Medien geprägt werden.",
+   "question": "Wer sagt in der Folge über Gleichstellung in der IT: „Wir sind eigentlich ein Produkt unserer Umwelt“?",
+   "answer": "Gerti Kappel",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Hörer",
+    "Eine Soziologin"
+   ],
+   "aha": "Ob man zum Fußball oder zum Reiten kommt, hängt oft an Freunden oder Eltern. Genauso, sagt Kappel, ist es mit der Informatik: Die Neigung steckt nicht einfach in den Zellen.",
+   "quote_clean": "Wir sind eigentlich ein Produkt unserer Umwelt. Und das ist gut, denn wir haben Eltern, Familie, Schule,",
+   "quality": 2
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Stehsatz belegt; Sprecherzuordnung im Ausschnitt nicht sicher, daher Aha neutraler formuliert.",
+   "stand_note": "",
+   "statement": "Ein Stehsatz aus der Soziologie lautet: 20- bis 30-jährige Männer machen Produkte für 20- bis 30-jährige Männer.",
+   "question": "Für wen machen 20- bis 30-jährige Männer laut einem Soziologie-Stehsatz Produkte?",
+   "answer": "Für 20- bis 30-jährige Männer",
+   "distractors": [
+    "Für ihre Eltern",
+    "Für alle Altersgruppen",
+    "Für Jugendliche"
+   ],
+   "aha": "Man entwickelt für die Welt, in der man sich bewegt. Wer nur unter Gleichen ist, denkt schwerer divers, darum sind gemischte Teams so wichtig.",
+   "quote_clean": "Wenn ich da nochmal einhaken darf: Da gibt es aus der Soziologie den Stehsatz: 20- bis 30-jährige Männer machen Produkte für 20- bis 30-jährige Männer.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Sandburg-Vergleich bei 446-467 s klar belegt.",
+   "stand_note": "",
+   "statement": "Gerti Kappel erklärt Informatik mit dem Sandburgbauen: Man zerlegt ein Problem und baut die Lösung Schritt für Schritt auf, erst das Fundament, dann den Turm.",
+   "question": "Mit welchem Kinderspiel erklärt Gerti Kappel, was Informatik im Kern ausmacht?",
+   "answer": "Sandburg bauen",
+   "distractors": [
+    "Puzzle legen",
+    "Verstecken spielen",
+    "Mit Lego bauen"
+   ],
+   "aha": "Niemand fängt beim Dach an: Erst kommt das Fundament, dann der Turm. Genau dieses strukturierte Herangehen an eine Aufgabe ist für Kappel Informatik, und nicht das Bedienen von Office-Programmen.",
+   "quote_clean": "Wenn wir zurückdenken, wie wir als Kinder eine Sandburg gebaut haben, das haben wirklich fast alle gemacht. Ich habe ja auch nicht mit dem Dach begonnen.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Aussage bei 672-684 s belegt; Aha-Details (2005/2006, befremdliche Reaktion) stimmen.",
+   "stand_note": "",
+   "statement": "Verbesserungen, die für Menschen mit Beeinträchtigungen entwickelt werden, sind meist für alle Menschen mindestens genauso gut.",
+   "question": "Was gilt laut Gerti Kappel meist für technische Verbesserungen, die für Menschen mit Beeinträchtigungen gemacht werden?",
+   "answer": "Sie helfen allen mindestens genauso",
+   "distractors": [
+    "Sie verschlechtern die Bedienung für andere",
+    "Sie lohnen sich wirtschaftlich nie",
+    "Sie nützen nur einer kleinen Gruppe"
+   ],
+   "aha": "Als die TU Wien um 2005 barrierefreies Web in den Unterricht aufnahm, fanden das Studierende befremdlich. Heute weiß man: Was zugänglicher ist, ist meistens einfach besser, und dasselbe gilt für gemischte Teams.",
+   "quote_clean": "Heute wissen wir: In ganz vielen Fällen sind Entwicklungen und Qualitätsverbesserungen, die für Menschen mit Beeinträchtigungen gut sind, in der Regel für alle Menschen mindestens genauso gut.",
+   "quality": 4
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Kappel sagt vorsichtig 'kann eher sein'; Frage und Statement abgeschwächt, unbelegte Schlussfolgerung im Aha ersetzt durch belegte Zahlen (HTL ca. 10 Prozent Frauen, AHS 1:1).",
+   "stand_note": "Stand 2020",
+   "statement": "Studierende aus Gymnasien kommen laut Gerti Kappel eher während des Studiums darauf, dass Informatik doch nichts für sie ist, weil sie anders als HTL-Absolvent:innen noch keine Vorauswahl getroffen haben.",
+   "question": "Warum merken laut Gerti Kappel Gymnasiast:innen eher während des Informatikstudiums, dass es doch nichts für sie ist?",
+   "answer": "Sie hatten noch keine Vorauswahl",
+   "distractors": [
+    "Sie haben schlechtere Mathenoten",
+    "Sie müssen nebenbei arbeiten",
+    "Sie bekommen weniger Förderung"
+   ],
+   "aha": "Wer aus der HTL kommt, hat sich schon für das Fach entschieden. Dort sitzen allerdings nur etwa 10 Prozent Mädchen, in der AHS ist das Verhältnis dagegen ungefähr eins zu eins.",
+   "quote_clean": "Die, die aus den Gymnasien zu uns kommen, sind durch diese Selektion, diese Auswahl, noch nicht durchgegangen. Das heißt, da kann es eher sein, dass man während des Studiums draufkommt",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Ablauf bei 1691-1706 s belegt; Zustand 'mittlerweile' bezieht sich auf 2020.",
+   "stand_note": "Stand 2020",
+   "statement": "Nachdem die TU Wien Brückenkurse nur für Frauen anbot, wollten auch Männer solche Kurse, heute gibt es sie getrennt für beide.",
+   "question": "Was passierte, nachdem die TU Wien Programmier-Brückenkurse nur für Frauen anbot?",
+   "answer": "Die Männer wollten auch welche",
+   "distractors": [
+    "Die Kurse wurden verboten",
+    "Kaum eine Frau meldete sich an",
+    "Die Kurse wurden gemischt"
+   ],
+   "aha": "Es gibt eben auch genug Männer, die nicht programmieren können. Mittlerweile bietet die TU Brückenkurse für Frauen und für Männer getrennt an, „im 21. Jahrhundert“, wie Kappel trocken anmerkt.",
+   "quote_clean": "Das Interessante ist: Jetzt sind die Männer gekommen und haben gesagt, sie wollen das auch haben. Weil sie natürlich neidig sind, dass die Frauen eine Einführung kriegen.",
+   "quality": 4
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsverlauf, kein Wissensgehalt, Aha hängt an einem anderen Ausschnitt.",
+   "stand_note": "",
+   "statement": "Andreas Sator schließt mit einem Blick in die Zukunft: Was müsste passiert sein, damit Informatik keine Männerdomäne mehr ist?",
+   "question": "Wie beginnt Andreas seine letzte Frage an Gerti Kappel?",
+   "answer": "Mit einem Blick in die Zukunft",
+   "distractors": [
+    "Mit einer Frage zu ihrer Kindheit",
+    "Mit einem Rückblick auf die 80er",
+    "Mit einer Frage zu ihrem Lieblingsprogramm"
+   ],
+   "aha": "Andreas tut so, als wäre das Ziel schon erreicht, und fragt, wie es dazu kam.",
+   "quote_clean": "Letzte Frage. Wir blicken in die Zukunft, wahrscheinlich in die ferne Zukunft. Die IT, die Informatik ist keine Männerdomäne mehr. Was ist passiert? Was waren die wichtigsten Schritte?",
+   "quality": 1
+  }
+ ],
+ "id": "116",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

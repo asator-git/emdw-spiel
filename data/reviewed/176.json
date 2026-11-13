@@ -1,0 +1,285 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Ein Prozent und 100 Jahre bei 335-338 s klar belegt; Zahl gilt für 2021.",
+   "stand_note": "Stand 2021",
+   "statement": "In Österreich wird pro Jahr nur rund ein Prozent des Gebäudebestands saniert – bei diesem Tempo bräuchte man 100 Jahre für alle Gebäude.",
+   "question": "Wie viel Prozent des Gebäudebestands werden in Österreich pro Jahr saniert?",
+   "answer": "Rund 1 Prozent",
+   "distractors": [
+    "Rund 3 Prozent",
+    "Rund 5 Prozent",
+    "Rund 10 Prozent"
+   ],
+   "aha": "Ein Prozent klingt nach wenig, und das ist es auch: So würde es ein ganzes Jahrhundert dauern, bis alle Gebäude auf dem neuesten Stand sind. Fürs Klimaziel ist das ein bisschen arg gemütlich.",
+   "quote_clean": "Wir sanieren im Moment in Österreich ein Prozent des Bestands. Das heißt, um den Gebäudebestand auf den neuesten Stand zu bringen, bräuchte man 100 Jahre.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Gästin ist unsicher ('ich glaube vor 18, 20 Jahren'); Jahresangabe nicht belastbar.",
+   "stand_note": "",
+   "statement": "Schon vor rund 20 Jahren stand in einem österreichischen Regierungsprogramm das Ziel, die Sanierungsrate auf 3 Prozent zu erhöhen.",
+   "question": "Auf wie viel Prozent sollte die Sanierungsrate laut einem Regierungsprogramm von vor rund 20 Jahren steigen?",
+   "answer": "3 Prozent",
+   "distractors": [
+    "1,5 Prozent",
+    "5 Prozent",
+    "10 Prozent"
+   ],
+   "aha": "Das Ziel ist also alles andere als neu, nur passiert ist es eben nicht: Heute liegt die Rate immer noch bei etwa einem Prozent. Zwischen Regierungsprogramm und Baustelle liegt offenbar ein weiter Weg.",
+   "quote_clean": "Es ist auch schon in einem Regierungsprogramm vor, ich glaube, 18 oder 20 Jahren gestanden, dass die Sanierungsrate auf 3 Prozent erhöht gehört.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "10 bis 12 Grad bei 538-548 s belegt, plausibel (Erdwärme in Tiefe).",
+   "stand_note": "",
+   "statement": "Der Boden hat in unseren Breitengraden in der Tiefe das ganze Jahr über rund 10 bis 12 Grad.",
+   "question": "Wie warm ist der Boden in Mitteleuropa in der Tiefe ungefähr das ganze Jahr über?",
+   "answer": "Etwa 10 bis 12 Grad",
+   "distractors": [
+    "Etwa 0 bis 2 Grad",
+    "Etwa 4 bis 6 Grad",
+    "Etwa 18 bis 20 Grad"
+   ],
+   "aha": "Auch wenn es draußen minus 10 Grad hat, bleibt der Boden konstant bei rund plus 10 Grad. Genau diese Umgebungswärme holen Wärmepumpen mit Tiefensonden herauf, um Häuser zu heizen.",
+   "quote_clean": "Der Boden hat in unseren Breitengraden immer zwischen 10 und 12 Grad.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt (873-889 s); unplausible Distraktoren ('gesetzlich verboten') ersetzt.",
+   "stand_note": "",
+   "statement": "Ein typisches Wiener Zinshaus hat oft 10 bis 15 Eigentümer:innen, die einer Sanierung alle gemeinsam zustimmen müssen.",
+   "question": "Warum ist das Sanieren eines typischen Wiener Zinshauses oft so schwierig?",
+   "answer": "Viele Eigentümer:innen müssen gemeinsam zustimmen",
+   "distractors": [
+    "Zinshäuser stehen alle unter Denkmalschutz",
+    "Die Mieter:innen müssen alles allein bezahlen",
+    "Es gibt dafür keine Förderungen"
+   ],
+   "aha": "Bei 10 oder 15 Eigentümer:innen muss man erst einmal alle an einen Tisch kriegen, und investieren müssen sie auch gemeinsam. Dazu kommt, dass sich das Geld oft erst nach langer Zeit zurückverdient.",
+   "quote_clean": "Wenn wir an ein typisches Zinshaus in Wien denken: Das hat oft nicht nur einen Eigentümer oder eine Eigentümerin, sondern 10 oder 15. Und die müssen alle gemeinsam zustimmen, wenn dieses Gebäude saniert werden soll.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Sehr lockere historische Skizze ohne klare Faktenaussage; Aha ergänzt Behauptungen (Öl knapp, Vorreiter), die nicht im Transkript stehen.",
+   "stand_note": "",
+   "statement": "Österreichs Weg zu energieeffizientem Bauen begann mit der Energiekrise der 1970er-Jahre, als man mit Solarpaneelen zu experimentieren begann und Atomstrom ablehnte.",
+   "question": "Welches Ereignis brachte Österreich laut Doris Österreicher auf den Weg zu energieeffizientem Bauen?",
+   "answer": "Die Energiekrise der 1970er-Jahre",
+   "distractors": [
+    "Die Ölpreiskrise von 2008",
+    "Der EU-Beitritt 1995",
+    "Das Kyoto-Protokoll 1997"
+   ],
+   "aha": "Als in den 70ern das Öl knapp und teuer wurde, begann man mit Solarpaneelen zu experimentieren, Atomstrom wollte man nicht. Frankreich ging mit der Atomkraft den anderen Weg, Österreich wurde zum Vorreiter bei der Effizienz.",
+   "quote_clean": "Mit der Energiekrise in den 70er-Jahren, also vor 50 Jahren, hat man plötzlich angefangen, mit Solarpaneelen zu experimentieren, und man hat gesagt: Atomstrom wollte man nicht.",
+   "quality": 2
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Definition und Beispiel bei 354-368 s belegt; Aha-Details (Fassade, Dach, Server-Abwärme) stehen im Transkript.",
+   "stand_note": "",
+   "statement": "Das sanierte Hochhaus der TU Wien am Getreidemarkt ist ein Plus-Energie-Gebäude: Es erzeugt übers Jahr mehr Energie, als es verbraucht.",
+   "question": "Was zeichnet ein Plus-Energie-Gebäude aus, wie das sanierte TU-Hochhaus am Wiener Getreidemarkt?",
+   "answer": "Es erzeugt übers Jahr mehr Energie, als es verbraucht",
+   "distractors": [
+    "Es verbraucht übers Jahr gar keine Energie",
+    "Es bezieht nur Ökostrom aus dem Netz",
+    "Es kommt ganz ohne Heizung aus"
+   ],
+   "aha": "Aus einem alten Bürohochhaus wurde ein Kraftwerk: Photovoltaik in Fassade und Dach, eine sehr gute Hülle, und sogar die Abwärme der Serverräume wird genutzt. Unterm Strich bleibt Energie übrig.",
+   "quote_clean": "Und das hat man sehr gut saniert: Man hat daraus ein Plus-Energie-Gebäude gemacht. Das heißt, das Gebäude produziert über das gesamte Jahr mehr Energie, als es verbraucht.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 420-455 s und 504-515 s.",
+   "stand_note": "",
+   "statement": "Serverräume produzieren viel Wärme, die normalerweise ungenutzt in die Umgebungsluft geht – man kann sie aber über Wasser oder Luft zum Heizen nutzen.",
+   "question": "Was passiert normalerweise mit der Abwärme aus großen Serverräumen?",
+   "answer": "Sie geht ungenutzt in die Umgebungsluft",
+   "distractors": [
+    "Sie wird ins Fernwärmenetz eingespeist",
+    "Sie wird in Batterien gespeichert",
+    "Sie wird in Strom zurückverwandelt"
+   ],
+   "aha": "Server müssen gekühlt werden, also schickt man kaltes Wasser durch, das sich dabei erwärmt. Eine Wärmepumpe bringt es dann auf die Temperatur, die man fürs Heizen oder Warmwasser braucht, statt damit nur die Stadt aufzuheizen.",
+   "quote_clean": "Wenn, wie auf einer Universität, ganz viele Computer in einem Serverraum stehen, dann wird da sehr viel Wärme produziert. Und im Normalfall geht die einfach in die Umgebungsluft ab und macht unsere Stadt noch wärmer.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage ohne Erkenntnisgewinn; Distraktoren (Wagner, Foer) kommen in der Folge nicht als Sprecher vor.",
+   "stand_note": "",
+   "statement": "Nachhaltiges Bauen lebt nicht von einer Wunderlösung, sondern vom Zusammenspiel vieler Maßnahmen.",
+   "question": "Wer sagt im Podcast: „Wir haben nicht diese eine eierlegende Wollmilchsau, dieses eine Ding, das uns dann rettet“?",
+   "answer": "Doris Österreicher",
+   "distractors": [
+    "Andreas Sator",
+    "Gernot Wagner",
+    "Jonathan Safran Foer"
+   ],
+   "aha": "Die Architektin meint damit: Photovoltaik allein, Dämmung allein oder Holz allein rettet uns nicht. Erst die Kombination macht ein Gebäude wirklich zukunftsfähig.",
+   "quote_clean": "Wir haben nicht diese eine eierlegende Wollmilchsau, dieses eine Ding, das uns dann rettet. Sondern es ist eine Vielzahl von Aspekten, die wir miteinander in Einklang bringen.",
+   "quality": 1
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage in eine Inhaltsfrage umgebaut; Aussage bei 1692-1712 s belegt.",
+   "stand_note": "",
+   "statement": "Doris Österreicher hält wenig davon, Baustoffe gegeneinander auszuspielen: Je nach Anwendungsfall kann Holz, Ziegel oder Beton besser sein.",
+   "question": "Wie sieht Doris Österreicher die Frage „Holz oder Beton?“",
+   "answer": "Jeder Baustoff passt für andere Einsatzbereiche",
+   "distractors": [
+    "Holz ist immer die beste Wahl",
+    "Beton sollte ganz verboten werden",
+    "Ziegel ist ökologisch immer überlegen"
+   ],
+   "aha": "Holz statt Beton klingt nach einfacher Formel, aber Doris sieht das differenzierter: Es gibt zwar schon Holzhochhäuser wie das HoHo in Aspern, trotzdem ist manchmal ein Ziegel die bessere Wahl. Es geht immer um den Kontext.",
+   "quote_clean": "Aber ich halte wenig davon, die Baustoffe gegeneinander auszuspielen. Es gibt so unterschiedliche Materialien, und sie haben unterschiedliche Einsatzbereiche.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Prinzip bei 1893-1921 s klar belegt.",
+   "stand_note": "",
+   "statement": "Damit Gebäude später zerlegt und recycelt werden können, sollte man Bauteile lösbar verbinden – nach dem Prinzip „Schrauben statt Kleben“.",
+   "question": "Welches einfache Prinzip hilft, Gebäude später wieder zerlegen und recyceln zu können?",
+   "answer": "Schrauben statt Kleben",
+   "distractors": [
+    "Schweißen statt Schrauben",
+    "Gießen statt Mauern",
+    "Kleben statt Nageln"
+   ],
+   "aha": "Wie beim Kasten aus dem Möbelhaus: Geschraubtes kriegt man wieder auseinander, Geklebtes muss man brechen oder abkratzen. Beim Haus ist es nicht viel anders, nur größer.",
+   "quote_clean": "Wir kennen das ganz einfach: Schrauben statt Kleben. Wenn ich einen Kasten zusammenbaue und ihn schraube, dann kann ich ihn nachher mit ein bisschen Glück auch wieder gut auseinanderschrauben.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Gästin sagt 'hat viel damit zu tun', nicht 'allein deshalb'; Frage entsprechend abgeschwächt.",
+   "stand_note": "",
+   "statement": "Die engen Gassen mediterraner Städte hängen laut Doris Österreicher viel damit zusammen, dass sich die Gebäude gegenseitig verschatten.",
+   "question": "Was hat laut Doris Österreicher viel mit den engen Gassen im Mittelmeerraum zu tun?",
+   "answer": "Die Gebäude verschatten sich gegenseitig",
+   "distractors": [
+    "Der Schutz vor Regen",
+    "Der Wunsch nach wenig Autoverkehr",
+    "Die Lage direkt am Meer"
+   ],
+   "aha": "Dichte Bebauung ist eine uralte Klimaanlage ohne Strom. Bei uns heißt die moderne Version: außenliegende Verschattung einplanen, damit sich später niemand eine Klimaanlage nachrüsten muss.",
+   "quote_clean": "Man braucht nur in den mediterranen Raum schauen: Dort haben die Städte ganz enge Gassen, das ist alles sehr dicht, und das hat viel damit zu tun, dass sich die Gebäude gegenseitig verschatten.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Aussage bei 2088-2116 s belegt; unbelegte Behauptung im Aha ('entscheidet mehr als die Dämmung') entfernt.",
+   "stand_note": "",
+   "statement": "Wer nachhaltig wohnen will, sollte zuerst den Standort prüfen – vor allem, wie man dorthin und wieder wegkommt.",
+   "question": "Was ist laut Doris Österreicher das Erste, worüber man nachdenken sollte, wenn man nachhaltig wohnen will?",
+   "answer": "Der Standort und wie man hinkommt",
+   "distractors": [
+    "Die Art der Heizung",
+    "Der Baustoff der Wände",
+    "Die Größe der Photovoltaikanlage"
+   ],
+   "aha": "Das schönste Passivhaus hilft wenig, wenn man jedes Kind mit dem Auto von A nach B führen muss. Gibt es Öffis, und kann man auf das Auto verzichten? Das sollte man sich vor dem Hausbau fragen.",
+   "quote_clean": "Das Erste, was ich jedem auf den Weg geben möchte: sich den Standort zu überlegen, und zwar nicht nur im Sinne von „Ist das schön und grün?“, sondern auch: Wie komme ich dorthin und wie komme ich da auch wieder weg?",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Formulierungsfrage ohne Inhalt; Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Andreas fasst am Ende der Folge mit der Frage „Was nehme ich mir von der heutigen Folge mit?“ zusammen.",
+   "question": "Mit welcher Frage leitet Andreas seine Zusammenfassung am Ende der Folge ein?",
+   "answer": "Was nehme ich mir von der heutigen Folge mit?",
+   "distractors": [
+    "Was haben wir heute gelernt?",
+    "Was ist die wichtigste Erkenntnis?",
+    "Was bleibt am Ende hängen?"
+   ],
+   "aha": "Nach dem Gespräch kommt bei Erklär mir die Welt immer noch Andreas' eigene kurze Bilanz. Diesmal: Es gibt nicht die eine Lösung, sondern Fall für Fall, und kein Öl, keine Kohle, kein Gas.",
+   "quote_clean": "Was nehme ich mir von der heutigen Folge mit? Ich fand das ein ganz großartiges Gespräch.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Nebensächlicher Namenswitz, Distraktoren beliebig, Aha spekuliert.",
+   "stand_note": "",
+   "statement": "Andreas lobt den Nachnamen seiner Gästin Doris Österreicher, und sie erzählt, dass er an der Grenze immer wieder für Lacher sorgt.",
+   "question": "Wo sorgt der Nachname von Doris Österreicher laut ihr immer wieder für lustige Momente?",
+   "answer": "An der Grenze",
+   "distractors": [
+    "Am Flughafen-Check-in",
+    "Bei Telefonaten mit Behörden",
+    "Auf Konferenzen im Ausland"
+   ],
+   "aha": "Wer Österreicher heißt und einen österreichischen Pass herzeigt, erntet beim Grenzbeamten wohl öfter ein Schmunzeln. Andreas fand den Namen jedenfalls gleich zu Beginn erwähnenswert.",
+   "quote_clean": "Das ist nicht nur ein spannender Beruf, sondern du hast auch einen tollen Nachnamen. Ja, der ist an der Grenze immer wieder lustig.",
+   "quality": 1
+  }
+ ],
+ "id": "176",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

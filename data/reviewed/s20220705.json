@@ -1,0 +1,295 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Zahl ist Lütz' Angabe (Österreich bzw. allgemein), als solche gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Laut Manfred Lütz wird etwa ein Drittel der Menschen im Laufe des Lebens einmal psychisch krank.",
+   "question": "Wie viel Prozent der Menschen werden laut Manfred Lütz im Laufe ihres Lebens einmal psychisch krank?",
+   "answer": "Etwa 33 Prozent",
+   "distractors": [
+    "Etwa 5 Prozent",
+    "Etwa 12 Prozent",
+    "Etwa 60 Prozent"
+   ],
+   "aha": "Jeder Dritte erwischt es irgendwann, und die anderen zwei Drittel haben jemanden in der Familie, den es erwischt. Trotzdem wissen wir laut Lütz mehr über die Psyche von Bäumen als über die psychisch kranke Nachbarin.",
+   "quote_clean": "Angesichts der Tatsache, dass ein Drittel der Österreicher irgendwann im Leben psychisch krank wird und die anderen zwei Drittel Angehörige haben, die psychisch krank sind.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Angabe stammt von Lütz (v. a. Deutschland); unbelegten Reha-Vergleich entfernt.",
+   "stand_note": "",
+   "statement": "Die durchschnittliche Aufenthaltsdauer in einer psychiatrischen Klinik beträgt etwa drei Wochen.",
+   "question": "Wie lange bleibt man laut Manfred Lütz im Schnitt stationär in der Psychiatrie?",
+   "answer": "Etwa 3 Wochen",
+   "distractors": [
+    "Etwa 1 Woche",
+    "Etwa 8 Wochen",
+    "Etwa 6 Monate"
+   ],
+   "aha": "Das Bild vom Irrenhaus, aus dem man nie wieder rauskommt, hält sich hartnäckig. In Wirklichkeit liegt die durchschnittliche Aufenthaltsdauer laut Lütz bei rund drei Wochen.",
+   "quote_clean": "Die durchschnittliche Liegezeit in der Psychiatrie ist eben nicht, wie die Leute denken, monate- oder jahrelang. Man kommt in die Klapsmühle, Klappe auf, Affe tot, da kommt man gar nicht mehr raus. Sondern die durchschnittliche Liegezeit sind drei Wochen.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "fairness"
+   ],
+   "note": "Medizinische Pauschalaussagen (nicht abhängig, Wirkbeginn) zu vereinfacht, Wirkeintritt meist später.",
+   "stand_note": "",
+   "statement": "Antidepressiva machen nicht abhängig, wirken aber erst nach etwa ein bis zwei Wochen.",
+   "question": "Wann beginnen Antidepressiva typischerweise zu wirken?",
+   "answer": "Nach ein bis zwei Wochen",
+   "distractors": [
+    "Nach wenigen Stunden",
+    "Nach etwa drei Tagen",
+    "Erst nach einem halben Jahr"
+   ],
+   "aha": "Antidepressiva sind keine Stimmungsaufheller zum Einwerfen, sie brauchen ein, zwei Wochen Anlauf. Und entgegen dem Ruf machen sie nicht abhängig. Bei einer schweren Depression gehören laut Lütz Medikamente und Psychotherapie zusammen.",
+   "quote_clean": "Immer eine medikamentöse Therapie mit antidepressiven Medikamenten, die nicht abhängig machen und die sehr wirksam sind, die aber nicht sofort wirken, sondern erst nach ein, zwei Wochen.",
+   "quality": 1
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Anschauliches Beispiel mit 'bei jedem' und grober Zeitangabe, als Fakt zu pauschal.",
+   "stand_note": "",
+   "statement": "Bei einer Konfrontationstherapie gegen Höhenangst sinken Puls und Blutdruck nach etwa 20 Minuten wieder, weil sich der Körper an die Situation gewöhnt.",
+   "question": "Nach wie vielen Minuten auf dem Fernsehturm gewöhnt sich der Körper bei Höhenangst-Therapie an die Situation?",
+   "answer": "Nach etwa 20 Minuten",
+   "distractors": [
+    "Nach etwa 2 Minuten",
+    "Nach etwa 45 Minuten",
+    "Nach etwa 90 Minuten"
+   ],
+   "aha": "Panik kann der Körper nicht ewig durchhalten, irgendwann gehen Puls und Blutdruck von selbst runter. Wer das in der Verhaltenstherapie ein paar Mal erlebt, merkt: Der Fernsehturm ist eh nicht so schlimm.",
+   "quote_clean": "Und dann wartet der Therapeut so 15, 20 Minuten, und dann passiert Folgendes, und zwar bei jedem: Dann gehen Ihr Blutdruck und Ihr Puls wieder runter. Dann adaptieren Sie nach ungefähr 20 Minuten an die Situation.",
+   "quality": 1
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Zwei-Drittel-berufsfähig-Angabe ist wahrscheinlich zu optimistisch, medizinische Zahl nicht belastbar.",
+   "stand_note": "",
+   "statement": "Schizophrenie ist gut behandelbar: Rund zwei Drittel der Betroffenen werden wieder voll berufsfähig.",
+   "question": "Welcher Anteil der Menschen mit Schizophrenie wird laut Manfred Lütz wieder voll berufsfähig?",
+   "answer": "Rund zwei Drittel",
+   "distractors": [
+    "Fast niemand",
+    "Rund ein Zehntel",
+    "Rund ein Viertel"
+   ],
+   "aha": "Bei Schizophrenie denken viele an chronisch krank für immer. Tatsächlich wird ein Drittel ganz gesund und zwei Drittel können wieder voll arbeiten. Mit der Intelligenz hat die Krankheit übrigens nichts zu tun.",
+   "quote_clean": "Aber man kann es gut behandeln. Ein Drittel der Schizophrenen wird gesund. Zwei Drittel der Schizophrenen werden wieder voll berufsfähig.",
+   "quality": 1
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Beleg bei 679-711 passt; Distraktoren plausibler, Aha entschärft.",
+   "stand_note": "",
+   "statement": "Laut Manfred Lütz kann eine Schilddrüsenunterfunktion hinter einer Depression stecken.",
+   "question": "Welche körperliche Ursache kann hinter einer Depression stecken?",
+   "answer": "Eine Schilddrüsenunterfunktion",
+   "distractors": [
+    "Zu viel Vitamin C",
+    "Eine Laktoseintoleranz",
+    "Ein verstauchtes Handgelenk"
+   ],
+   "aha": "Während die Familie rätselt, ob man zu wenig nett zueinander war, steckt vielleicht eine Schilddrüsenunterfunktion dahinter, die man gut behandeln kann. Darum rät Lütz, sich bei so einem Verdacht auch körperlich durchchecken zu lassen.",
+   "quote_clean": "Dass man vielleicht eine Hormonstörung hat, dass man zum Beispiel zu wenig Schilddrüsenhormone hat. Und das macht eine Depression.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 2835-2869 passt; erfundene 'Firma, Frauen, Führerschein'-Formel entfernt.",
+   "stand_note": "",
+   "statement": "Alkoholismus erkennt man weniger an der Trinkmenge als daran, ob jemand trotz Problemen in Job, Beziehung oder mit dem Führerschein weitertrinkt.",
+   "question": "Woran erkennt ein Psychiater am ehesten, ob jemand alkoholabhängig ist?",
+   "answer": "Er trinkt trotz sozialer Folgen weiter",
+   "distractors": [
+    "An der genauen Trinkmenge pro Tag",
+    "An der Lieblingssorte Bier",
+    "Daran, ob er allein trinkt"
+   ],
+   "aha": "Nach Mengen zu fragen bringt wenig, Alkoholiker nennen ohnehin andere Zahlen. Entscheidend ist laut Lütz: Trinkt jemand trotz Abmahnung im Job, trotz Scheidungsdrohung oder nach Führerscheinverlust weiter, hat der Alkohol mehr Macht über ihn, als gesund ist.",
+   "quote_clean": "Wenn jemand schon einmal eine Abmahnung wegen Alkohol bekommen hat und trotzdem maßlos weitertrinkt, dann ist ihm der Alkohol offensichtlich wichtiger als der Job.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 826-833 passt.",
+   "stand_note": "",
+   "statement": "Depressionen gelten als heilbar, auch wenn später wieder eine auftreten kann, so wie man nach einer Grippe geheilt ist, obwohl man wieder eine bekommen kann.",
+   "question": "Mit welchem Vergleich erklärt Manfred Lütz, warum Depressionen heilbar sind?",
+   "answer": "Mit einer Grippe",
+   "distractors": [
+    "Mit einem Knochenbruch",
+    "Mit einer Allergie",
+    "Mit einem Sonnenbrand"
+   ],
+   "aha": "Bei psychischen Krankheiten haben viele einen fast religiösen Heilungsbegriff: für immer stabil. Bei der Grippe käme niemand auf die Idee. Wer wieder arbeits- und liebesfähig ist, ist gesund, so hat es schon Freud gesehen.",
+   "quote_clean": "Aber wenn Sie eine Grippe haben und das Fieber ist runter und Sie sind wieder fit, dann sind Sie doch geheilt. Das heißt doch nicht, dass Sie nie mehr eine Grippe kriegen.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Aussage stammt von Steve de Shazer (über Lütz zitiert) und ist ein Therapieansatz, nicht gesicherte Tatsache.",
+   "stand_note": "",
+   "statement": "Laut dem Therapeuten Steve de Shazer, den Lütz zitiert, verstärkt man ein Problem, wenn man zwei Drittel der Zeit darüber redet und nur ein Drittel über die Lösung.",
+   "question": "Was passiert laut Steve de Shazer (zitiert von Manfred Lütz), wenn man zwei Drittel der Therapiesitzung über das Problem redet?",
+   "answer": "Das Problem wird eher verstärkt",
+   "distractors": [
+    "Das Problem löst sich schneller",
+    "Die Therapie wird kürzer",
+    "Es macht keinen Unterschied"
+   ],
+   "aha": "Der Scheinwerfer der Aufmerksamkeit soll auf das gerichtet werden, was noch funktioniert. Darum die Skalenfrage: Sie sind auf 3 von 10? Warum nicht auf 2? Plötzlich erzählt man, was man trotz allem noch schafft.",
+   "quote_clean": "Wenn Sie zwei Drittel der Zeit über das Problem reden und nur ein Drittel über die Lösung, dann haben Sie das Problem im Zweifel verstärkt.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "fairness"
+   ],
+   "note": "Überspitzter, ironischer Scherz über 'Normale'; wörtlich genommen irreführend, dazu Politikerbezug.",
+   "stand_note": "",
+   "statement": "Manfred Lütz meint, die eigentlichen Problembären der Gesellschaft seien nicht psychisch Kranke, sondern psychisch Gesunde.",
+   "question": "Wer sind laut Manfred Lütz die Problembären unserer Gesellschaft?",
+   "answer": "Die psychisch Gesunden",
+   "distractors": [
+    "Die psychisch Kranken",
+    "Die Psychotherapeuten",
+    "Die Journalisten"
+   ],
+   "aha": "Darum heißt sein Buch auch Wir behandeln die Falschen. Despoten in diagnostische Schubladen zu stecken, verharmlost für Lütz das Böse und wäre eine Diskriminierung seiner Patientinnen und Patienten.",
+   "quote_clean": "Man kann nicht sagen, psychisch Kranke sind die Problembären unserer Gesellschaft. Die Problembären unserer Gesellschaft sind psychisch gesund.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Provokante Meinung zu Therapie-Nebenwirkungen, triviale Frage, Aha enthält Unbelegtes.",
+   "stand_note": "",
+   "statement": "Manfred Lütz warnt, dass Psychotherapie mindestens so viele Nebenwirkungen haben kann wie Medikamente.",
+   "question": "Was hat Psychotherapie laut Manfred Lütz mindestens genauso viel wie Medikamente?",
+   "answer": "Nebenwirkungen",
+   "distractors": [
+    "Wirksamkeit bei Grippe",
+    "Suchtpotenzial",
+    "Kosten pro Monat"
+   ],
+   "aha": "In jeder Therapie rutscht man in die Patientenrolle und der Therapeut in die Expertenrolle. Lütz rät deshalb, selbstbewusst hinzugehen: Der einzige Experte für dein Leben bist du.",
+   "quote_clean": "Ich würde den Leuten überhaupt nicht raten: Gehen Sie mal zum Psychotherapeuten, kann ja nicht schaden. Das ist völlig naiv. Psychotherapie hat mindestens genauso viele Nebenwirkungen wie Medikamente.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat bei 4463-4470 belegt.",
+   "stand_note": "",
+   "statement": "Manfred Lütz spottet über Menschen, die nur noch vorbeugend leben: Auch wer gesund stirbt, ist tot.",
+   "question": "Wer hat gesagt: Auch wer gesund stirbt, ist definitiv tot?",
+   "answer": "Manfred Lütz",
+   "distractors": [
+    "Sigmund Freud",
+    "Paul Watzlawick",
+    "Otto Kernberg"
+   ],
+   "aha": "Für Lütz ist Gesundheit für viele zur Ersatzreligion geworden: Was man früher für den lieben Gott tat, Wallfahrten und Fasten, tut man heute für die Gesundheit. Im Psychobereich sei das mit all den Heilslehren noch extremer.",
+   "quote_clean": "Es gibt Menschen, die leben überhaupt nicht mehr richtig, die leben nur noch vorbeugend und sterben dann gesund. Aber auch wer gesund stirbt, ist definitiv tot.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Triviale Frage nach Andreas' Frage ersetzt durch inhaltliche Frage zu 639-672.",
+   "stand_note": "",
+   "statement": "Laut Manfred Lütz kann ein Check beim Psychiater sinnvoll sein, wenn man immer wieder in dieselbe Sackgasse läuft oder Angehörige sagen, man sei irgendwie anders.",
+   "question": "Welches Anzeichen nennt Manfred Lütz dafür, dass ein Check beim Psychiater nützlich sein kann?",
+   "answer": "Man läuft immer wieder in dieselbe Sackgasse",
+   "distractors": [
+    "Man war einmal einen Tag lang traurig",
+    "Man hat vor einer Prüfung Angst",
+    "Man schläft nach einem langen Tag früh ein"
+   ],
+   "aha": "Zunächst soll man im Freundeskreis nicht herumdiagnostizieren, sagt Lütz. Wer aber immer wieder auf dasselbe Problem stößt oder von Angehörigen hört, du bist irgendwie anders, für den kann ein Psychiater-Check nützlich sein.",
+   "quote_clean": "Wenn man den Eindruck hat, man läuft immer wieder in eine bestimmte Sackgasse, man stößt immer wieder auf dasselbe Problem in seinem Leben, oder wenn die Angehörigen sagen: Du bist irgendwie anders, so kennen wir dich gar nicht, dann kann es nützlich sein, mal zu einem Psychiater zu gehen und sich durchchecken zu lassen.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Triviale Gesprächsfrage, Aha enthält Unbelegtes (Duzzwang am Anfang).",
+   "stand_note": "",
+   "statement": "Am Ende fragt Andreas Manfred Lütz, welche Störung hinter seinem hartnäckigen Duzen steckt.",
+   "question": "Was fragt Andreas Manfred Lütz zum Abschluss des Gesprächs?",
+   "answer": "Welche Störung hinter seinem Duzen steckt",
+   "distractors": [
+    "Ob er selbst Therapie macht",
+    "Wie viele Bücher er geschrieben hat",
+    "Ob er nach Wien ziehen würde"
+   ],
+   "aha": "Lütz hatte gleich am Anfang einen Duzzwang diagnostiziert. Sein Befund zum Schluss: psychiatrisch unergiebig, eine ganz normale Reaktion, ressourcenorientiert gesehen sogar eine positive Eigenschaft. Glück gehabt.",
+   "quote_clean": "Manfred, ich habe dich jetzt 90 Minuten lang geduzt. Hast du schon herausgefunden, welche Störung dahintersteckt?",
+   "quality": 1
+  }
+ ],
+ "id": "s20220705",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

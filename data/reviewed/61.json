@@ -1,0 +1,281 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "kontext"
+   ],
+   "note": "Bei 167 s belegt (43 Länder); Zahl ist ein Stand von 2019 und Haralds Angabe, daher in Frage und Statement gerahmt.",
+   "stand_note": "Stand 2019",
+   "statement": "Laut Harald Oberhofer kamen die Teile des iPhones 2019 von mehreren hundert Zulieferern aus 43 Ländern auf allen Kontinenten.",
+   "question": "Aus wie vielen Ländern kamen laut Harald die Zulieferer für das iPhone?",
+   "answer": "43 Länder",
+   "distractors": [
+    "12 Länder",
+    "25 Länder",
+    "78 Länder"
+   ],
+   "aha": "Apple selbst baut laut Harald in Kalifornien nichts, dort entstehen nur die Pläne. Die Einzelteile kommen von hunderten Firmen aus aller Welt, zusammengebaut wird in China, und dann geht das fertige Handy wieder rund um den Globus zu dir ins Geschäft.",
+   "quote_clean": "Gebaut wird es in mehreren hundert Zulieferunternehmen in 43 Ländern der Welt, auf allen Kontinenten.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 200 s belegt, als „man geht davon aus“ und ungefähr gerahmt; plausibel (rund 70 Elemente in Smartphones).",
+   "stand_note": "",
+   "statement": "In einem Smartphone wie dem iPhone stecken rund 60 bis 70 Elemente des Periodensystems.",
+   "question": "Wie viele Elemente des Periodensystems stecken ungefähr in einem iPhone?",
+   "answer": "60 bis 70",
+   "distractors": [
+    "10 bis 15",
+    "25 bis 30",
+    "100 bis 110"
+   ],
+   "aha": "Mehr als die Hälfte des Periodensystems in deiner Hosentasche. Viele dieser Rohstoffe gibt es nur in bestimmten Weltgegenden, etwa in Afrika oder Asien, und schon allein deshalb kann man so ein Gerät nicht einfach in einem Land bauen.",
+   "quote_clean": "Man geht davon aus, dass 60 bis 70 Elemente des Periodensystems verwendet werden, um so ein Gerät zu bauen.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Jahr 1944 bei 602 s belegt und sachlich richtig; im aha war die Begründung der Befreiung nicht im Ausschnitt, ersetzt durch Haralds Argument. Als Haralds Aussage gerahmt.",
+   "stand_note": "Stand 2019",
+   "statement": "Laut Harald Oberhofer ist Kerosin seit 1944 steuerbefreit.",
+   "question": "Seit welchem Jahr ist Kerosin, der Treibstoff für Flugzeuge, laut Harald steuerbefreit?",
+   "answer": "1944",
+   "distractors": [
+    "1919",
+    "1972",
+    "1990"
+   ],
+   "aha": "Deshalb steckt der Klimaschaden des Transports nicht im Preis, und Unternehmen sehen diese Kosten schlicht nicht. Ökonom:innen plädieren darum für Lenkungseffekte wie eine CO2-Steuer.",
+   "quote_clean": "Das hat damit zu tun, dass beispielsweise Kerosin seit 1944 steuerbefreit ist.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "spielbarkeit"
+   ],
+   "note": "Bei 932-936 s belegt (EU 10 %, USA 2,5 %); Zölle haben sich seither geändert, daher 2019 in die Frage und Stand 2019 gesetzt.",
+   "stand_note": "Stand 2019",
+   "statement": "2019 verlangten die USA auf europäische Autos einen Zoll von 2,5 Prozent, die EU auf amerikanische Autos 10 Prozent.",
+   "question": "Wie hoch war 2019 der US-Zoll auf europäische Autos im Vergleich zum EU-Zoll auf US-Autos?",
+   "answer": "Viel niedriger: 2,5 statt 10 Prozent",
+   "distractors": [
+    "Genau gleich hoch",
+    "Doppelt so hoch",
+    "Es gab gar keinen Zoll"
+   ],
+   "aha": "Nur 2,5 Prozent zahlten europäische Autos in den USA, in die andere Richtung waren es 10. Genau diese Asymmetrie hat der damalige US-Präsident als unfair angeprangert, und deshalb wurde der Autozoll zum Dauerthema.",
+   "quote_clean": "dass die Zölle auf Autos in Europa 10 % sind, in den USA gegenüber europäischen Autos aber nur 2,5 %.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Bei 157-165 s belegt; Aussage zur China-Montage im aha ist Stand 2019.",
+   "stand_note": "Stand 2019",
+   "statement": "Apple entwirft das iPhone in Kalifornien, baut dort aber selbst nichts davon.",
+   "question": "Was passiert im Apple-Hauptquartier in Kalifornien mit dem iPhone?",
+   "answer": "Es wird nur entworfen",
+   "distractors": [
+    "Es wird komplett gebaut",
+    "Es wird nur verpackt",
+    "Die Akkus werden gefertigt"
+   ],
+   "aha": "Apple konzentriert sich auf das, was es am besten kann: Geräte entwickeln. Die Teile besorgt man sich in einer globalisierten Welt einfach woanders, zusammengebaut wurde 2019 am Ende in China.",
+   "quote_clean": "Apple designt das Gerät in den USA, das heißt, in Kalifornien im Hauptquartier werden die Pläne für das Gerät gemacht. Gebaut wird dort aber gar nichts.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Bei 425-437 s belegt („teilweise“); Regeln in China haben sich seither gelockert, daher Stand 2019.",
+   "stand_note": "Stand 2019",
+   "statement": "Westliche Firmen müssen in China teilweise mit heimischen Unternehmen in Joint Ventures produzieren, damit Technologie ins Land fließt.",
+   "question": "Wozu verpflichtet China westliche Unternehmen teilweise, wenn sie dort produzieren wollen?",
+   "answer": "Zu Joint Ventures mit heimischen Firmen",
+   "distractors": [
+    "Zu einer Mindestzahl an Filialen",
+    "Zum Export aller Produkte",
+    "Zu einem eigenen Hafen"
+   ],
+   "aha": "Über diese Partnerschaften lernt die chinesische Wirtschaft die Technik des Westens kennen, Ökonomen nennen das Technologietransfer. Manchmal geht das so weit, dass dann etwa Lifte nachgebaut werden.",
+   "quote_clean": "In China ist das Teil der Strategie der Politik, dass westliche Unternehmen, wenn sie ins Land kommen, teilweise sogar verpflichtet sind, gemeinsam mit heimischen Unternehmen zu produzieren, sogenannte Joint Ventures zu haben.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 589-598 s belegt; Aussage zum Preis ist Haralds ökonomisches Argument, Frage als Sicht von Ökonomen gerahmt.",
+   "stand_note": "Stand 2019",
+   "statement": "Globaler Transport ist zu billig, weil der Klimaschaden nicht im Transportpreis steckt.",
+   "question": "Warum ist weltweiter Warentransport aus Sicht von Ökonomen zu billig?",
+   "answer": "Der Klimaschaden steckt nicht im Preis",
+   "distractors": [
+    "Weil Schiffe immer größer werden",
+    "Weil Treibstoff knapp ist",
+    "Weil Löhne überall gleich sind"
+   ],
+   "aha": "Man kann es den Unternehmen gar nicht übel nehmen: Sie sehen diese Kosten einfach nicht. Deshalb plädieren Ökonom:innen für Lenkungseffekte wie eine CO2-Steuer, dann rechnet sich Produzieren in Kundennähe wieder eher.",
+   "quote_clean": "dass sich der Schaden, den wir durch sehr viel Transport erzeugen, nicht in den Preisen niederschlägt, die man für den Transport bezahlen muss.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 762-785 s belegt, Haralds Erklärung der Grundidee hinter Handelsliberalisierung und EU-Gründung.",
+   "stand_note": "",
+   "statement": "Eine Grundidee der europäischen Einigung war: Wer wirtschaftlich eng verflochten ist, kann sich Krieg gegeneinander nicht leisten.",
+   "question": "Welche Idee steckte nach dem Zweiten Weltkrieg hinter mehr Handel zwischen Deutschland und Frankreich?",
+   "answer": "Verflochtene Länder führen schwer Krieg",
+   "distractors": [
+    "Billigere Autos für alle",
+    "Eine gemeinsame Armee aufbauen",
+    "Weniger Abhängigkeit von den USA"
+   ],
+   "aha": "Ausgerechnet beim Stahl, also beim Rohstoff für Waffen, hat man angefangen. Wer füreinander produziert, ist voneinander abhängig, und daraus ist letztlich die EU gewachsen.",
+   "quote_clean": "Wenn Deutschland und Frankreich in wichtigen Bereichen wie dem Stahlmarkt miteinander und füreinander produzieren, dann können sie sehr schwer miteinander Krieg führen, weil sie sich das rein wirtschaftlich nicht leisten können.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1039-1052 s belegt (Callcenter in Indien, Tourismus); Distraktoren sind alles Warenhandel.",
+   "stand_note": "",
+   "statement": "Auch ein Anruf bei einem Callcenter in Indien oder ein Urlaub im Ausland ist internationaler Handel, nämlich mit Dienstleistungen.",
+   "question": "Was davon zählt als internationaler Dienstleistungshandel?",
+   "answer": "Tourismus",
+   "distractors": [
+    "Ein importiertes Auto",
+    "Eine Lieferung Stahl",
+    "Ein Container Bananen"
+   ],
+   "aha": "Wenn eine Deutsche in Tirol Ski fährt, exportiert Österreich quasi eine Dienstleistung. Für ein Tourismusland wie unseres ist das enorm wichtig, und Zölle funktionieren bei solchen Dienstleistungen ganz anders als bei Waren.",
+   "quote_clean": "dass sehr viele große Unternehmen ihre Callcenter für Kundenbeschwerden in Indien betreiben. Das wäre Dienstleistungshandel, weil man für ein europäisches Unternehmen mit Indien telefoniert. Tourismus ist zum Beispiel auch Dienstleistungshandel.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat bei 1140-1145 s wörtlich belegt, Glättung sinngleich; Wer-sagt-Frage nur für Hörer:innen lösbar.",
+   "stand_note": "",
+   "statement": "Harald Oberhofer hält den Strukturwandel durch Globalisierung für schmerzhaft, aber unvermeidlich.",
+   "question": "Wer hat's gesagt: „Es heißt letztlich etwas, was schmerzhaft ist, aber über kurz oder lang passieren muss. Es braucht einen Strukturwandel.“",
+   "answer": "Harald Oberhofer",
+   "distractors": [
+    "Andreas Sator",
+    "Donald Trump",
+    "Ein Sprecher von Apple"
+   ],
+   "aha": "Gemeint sind Jobs wie die der Näherinnen bei Triumph im Burgenland. Man kann den Wandel mit Zöllen verzögern, sagt Harald, aufhalten aber nicht. Helfen sollen Umschulungen und neue Perspektiven für die Betroffenen.",
+   "quote_clean": "Es heißt letztlich etwas, was schmerzhaft ist, aber über kurz oder lang passieren muss. Es braucht einen Strukturwandel.",
+   "quality": 2
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Zitat bei 1350 s belegt; die EU-Behauptung im aha steht nicht im Ausschnitt und wurde gestrichen.",
+   "stand_note": "",
+   "statement": "Österreich kann wegen seiner Größe in der Weltwirtschaft nie groß mitspielen, ist aber stark von ihr abhängig.",
+   "question": "Wer hat über Österreichs Rolle in der Welt gesagt: „Allein durch die Größe, die wir haben, können wir nie groß mitspielen“?",
+   "answer": "Harald Oberhofer",
+   "distractors": [
+    "Andreas Sator",
+    "Ein EU-Kommissar",
+    "Ein chinesischer Diplomat"
+   ],
+   "aha": "Gerade weil Österreich klein ist, ist Globalisierung für uns so wichtig: Uns fehlen Rohstoffe und Menschen, um alles selbst zu machen. Wir sind daher stark von den Beziehungen zu anderen Ländern abhängig.",
+   "quote_clean": "Allein durch die Größe, die wir haben, können wir nie groß mitspielen.",
+   "quality": 2
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Pauschale Aussage über die Qualität von US-Stahl in einem Strafzoll-Kontext 2019; als Faktum heute irreführend und nicht belegbar, Distraktoren wirken konstruiert.",
+   "stand_note": "",
+   "statement": "US-Stahl ist laut Harald Oberhofer schlechter als europäischer und teurer als chinesischer Stahl.",
+   "question": "Was ist laut Harald Oberhofer das Problem des amerikanischen Stahls?",
+   "answer": "Schlechter als EU-Stahl, teurer als China-Stahl",
+   "distractors": [
+    "Besser und billiger als alle anderen",
+    "Gleich gut, aber zu wenig davon",
+    "Zu billig für den Weltmarkt"
+   ],
+   "aha": "Eine ungünstige Mitte also. Zölle machen die beiden Konkurrenten kurzfristig teurer, dann wird wieder mehr US-Stahl gekauft, aber das Grundproblem bleibt: Die Branche müsste effizienter werden.",
+   "quote_clean": "Das Problem beim Stahl dort ist: Er ist von der Qualität nicht so gut wie der europäische Stahl, aber auch teurer als der Billigstahl aus China.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 102-114 s belegt: Andreas nennt ihn Hutökonom, Harald trägt einen Hut. Harmloser Einstieg.",
+   "stand_note": "",
+   "statement": "Andreas stellt Harald Oberhofer als Hutökonom vor, weil er beim Interview einen Hut trägt.",
+   "question": "Warum nennt Andreas Harald Oberhofer in dieser Folge den Hutökonomen?",
+   "answer": "Er trägt beim Interview einen Hut",
+   "distractors": [
+    "Er forscht über die Hutindustrie",
+    "Er sammelt alte Hüte",
+    "Sein Spitzname an der WU"
+   ],
+   "aha": "Die Erklärung ist herrlich unspektakulär: Er sitzt da und hat einen Hut auf. Mehr steckt nicht dahinter, aber als Einstieg in ein Gespräch über Weltwirtschaft taugt es eh.",
+   "quote_clean": "Harald, bevor du dich vorstellst, warum bist du der Hutökonom? – Ich sitze gerade da und habe einen Hut am Kopf.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Lückentext der Standard-Begrüßung ohne Erkenntnis, Antwort weicht vom Wortlaut ab; die Behauptung zu „frühen Folgen“ im aha ist nicht belegt.",
+   "stand_note": "",
+   "statement": "Andreas begrüßt mit: Das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "question": "Wie geht Andreas' Begrüßung weiter: „Das ist Erklär mir die Welt, der Podcast, mit dem du …“?",
+   "answer": "die Welt jede Woche besser verstehst",
+   "distractors": [
+    "jeden Tag etwas Neues lernst",
+    "die Nachrichten endlich durchschaust",
+    "klüger als deine Freunde wirst"
+   ],
+   "aha": "In den frühen Folgen ging es noch um „jede Woche ein bisschen besser“. Bescheiden formuliert, aber genau das ist der Plan: Fragen stellen, die du dir auch stellst.",
+   "quote_clean": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quality": 1
+  }
+ ],
+ "id": "61",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

@@ -1,0 +1,285 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahl 74,4 Prozent steht klar bei 753 s und wird bei 740 s und 868 s bestätigt; die Zahl ist ein Datenstand von etwa 2019/2020.",
+   "stand_note": "Stand 2022",
+   "statement": "Die CO2-Emissionen des Verkehrs in Österreich lagen Anfang der 2020er-Jahre rund 74 Prozent über dem Niveau von 1990.",
+   "question": "Um wie viel Prozent sind die CO2-Emissionen des Verkehrs in Österreich seit 1990 gestiegen?",
+   "answer": "Um rund 74 Prozent",
+   "distractors": [
+    "Um rund 10 Prozent",
+    "Um rund 35 Prozent",
+    "Um rund 150 Prozent"
+   ],
+   "aha": "In Deutschland sind die Verkehrsemissionen im selben Zeitraum ungefähr gleich geblieben, in Österreich haben sie sich fast verdoppelt. Die Autos wurden zwar effizienter, aber auch größer, schwerer und stärker, und gefahren wird immer mehr.",
+   "quote_clean": "Wir haben, wie du sagst, 74,4 Prozent mehr CO2-Emissionen im Vergleich zu 1990.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Aussage steht bei 861 s; der Aha nannte Sektoren, die im Ausschnitt nicht genannt werden, und wird auf das Gesagte reduziert.",
+   "stand_note": "Stand 2022",
+   "statement": "In Österreich ist der Verkehr der einzige Sektor, dessen Treibhausgasemissionen seit 1990 nicht gesunken sind.",
+   "question": "Welcher Sektor ist in Österreich der einzige, dessen Treibhausgasemissionen seit 1990 nicht gesunken sind?",
+   "answer": "Der Verkehr",
+   "distractors": [
+    "Die Industrie",
+    "Die Landwirtschaft",
+    "Das Heizen von Gebäuden"
+   ],
+   "aha": "Alle anderen Sektoren haben ihre Emissionen gesenkt, nur der Verkehr nicht. Holger nennt ihn deshalb das große Sorgenkind der österreichischen Klimapolitik.",
+   "quote_clean": "Wir haben in allen anderen Sektoren eine Reduktion der Treibhausgasemissionen geschafft, nur beim Verkehr nicht.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Erklärung bei 917-957 s sauber belegt, inklusive Beispiel mit dem rumänischen Lkw.",
+   "stand_note": "",
+   "statement": "Weil Sprit in Österreich billiger ist als in Nachbarländern, wird viel im Ausland verfahrener Treibstoff in Österreich getankt und in der österreichischen Klimabilanz verbucht.",
+   "question": "Warum zählt Treibstoff, den ein Lkw auf dem Weg durch Österreich tankt, zur österreichischen Klimabilanz?",
+   "answer": "Gezählt wird, wo getankt wird",
+   "distractors": [
+    "Gezählt wird, wo der Lkw zugelassen ist",
+    "Gezählt wird, wo die Fracht ankommt",
+    "Gezählt wird, wo die Firma sitzt"
+   ],
+   "aha": "Jeder Liter, der in Österreich verkauft wird, landet in der österreichischen Bilanz, egal ob der rumänische Lkw danach nach Berlin weiterfährt. Wegen der vergleichsweise billigen Spritpreise und des vielen Transitverkehrs schaut Österreichs Verkehrsbilanz deshalb besonders schlecht aus.",
+   "quote_clean": "Das andere ist, dass wir durch unsere im Vergleich zu den Nachbarländern niedrigeren Kraftstoffpreise auch einen sogenannten Kraftstoffexport in unserer Bilanz mitrechnen müssen.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "Zahl belegt (1124-1128 s); der Aha behauptete eine Ursache (schnellere Straßen), die im Ausschnitt nicht steht. Datenbasis ist die ältere Erhebung.",
+   "stand_note": "Stand Erhebung 2013/14",
+   "statement": "Österreicher:innen sind seit 1983 ziemlich konstant rund 70 Minuten pro Tag unterwegs.",
+   "question": "Wie viele Minuten pro Tag sind Menschen in Österreich im Schnitt unterwegs, und das schon seit 1983?",
+   "answer": "Rund 70 Minuten",
+   "distractors": [
+    "Rund 30 Minuten",
+    "Rund 45 Minuten",
+    "Rund 120 Minuten"
+   ],
+   "aha": "Die Zeit, die wir unterwegs sind, bleibt seit Jahrzehnten fast gleich. Was sich ändert, ist die Strecke: In derselben Zeit legen wir immer weitere Wege zurück.",
+   "quote_clean": "Wir haben in Österreich, seit es Aufzeichnungen gibt, also seit 1983, eine annähernd konstante Tageswegedauer von circa 70 Minuten.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Zahlen 22/29/36 km bei 1148-1160 s sauber belegt; Daten aus der Erhebung 2013/14, deshalb Stand-Hinweis.",
+   "stand_note": "Stand 2013/14",
+   "statement": "Die durchschnittliche tägliche Wegstrecke in Österreich stieg von 22 Kilometern (1983) auf 36 Kilometer (2013/14).",
+   "question": "Wie viele Kilometer legte ein Mensch in Österreich laut Mobilitätserhebung 2013/14 im Schnitt pro Tag zurück?",
+   "answer": "Rund 36 Kilometer",
+   "distractors": [
+    "Rund 12 Kilometer",
+    "Rund 22 Kilometer",
+    "Rund 60 Kilometer"
+   ],
+   "aha": "1983 waren es noch 22 Kilometer, 1995 schon 29. Gleich lange unterwegs, aber deutlich weiter: Genau dieses Mehr an Kilometern treibt die Emissionen des Verkehrs nach oben.",
+   "quote_clean": "Im Jahr 1983, laut einer Mobilitätserhebung damals, haben wir 22 Kilometer am Tag zurückgelegt. 1995 waren es schon 29, und bei der letzten Mobilitätserhebung „Österreich unterwegs“ 2013/2014 waren es 36 Kilometer.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Andreas nennt die Daten bei 643-657 s, Hochfeld bestätigt bei 697 s (null Minderung in 30 Jahren). Passt für Deutschland.",
+   "stand_note": "Stand 2022",
+   "statement": "In Deutschland liegen die Verkehrsemissionen etwa auf dem Niveau von 1990, obwohl der Verkehr um rund ein Drittel gewachsen ist.",
+   "question": "Wie haben sich die Verkehrsemissionen in Deutschland seit 1990 entwickelt?",
+   "answer": "Etwa gleich geblieben",
+   "distractors": [
+    "Halbiert",
+    "Um ein Drittel gesunken",
+    "Verdoppelt"
+   ],
+   "aha": "Effizientere Motoren haben das Verkehrswachstum ausgeglichen, mehr aber auch nicht. Christian Hochfeld fasst es trocken zusammen: null Minderung in 30 Jahren, und null Emissionen sollen es in den nächsten 25 werden.",
+   "quote_clean": "Die Emissionen im Verkehr sind in den letzten 30 Jahren relativ konstant, also circa so hoch wie 1990. Gleichzeitig ist der Verkehr aber stark gestiegen, um ein Drittel oder so.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Spruch wörtlich bei 1641-1654 s, Kontext (Ausbau nach Prognosen) passt.",
+   "stand_note": "",
+   "statement": "Neue Straßen erzeugen zusätzlichen Verkehr, statt Staus dauerhaft zu lösen: Wer Infrastruktur sät, wird Verkehr ernten.",
+   "question": "Wie geht der Spruch der Verkehrsplaner weiter: „Wer Infrastruktur sät, …“?",
+   "answer": "„… wird Verkehr ernten.“",
+   "distractors": [
+    "„… wird Wohlstand ernten.“",
+    "„… wird Zeit gewinnen.“",
+    "„… wird Staus vermeiden.“"
+   ],
+   "aha": "Baut man Straßen nach Prognosen aus, damit alles flüssig bleibt, fahren die Leute einfach weiter, und die nächste Prognose verlangt den nächsten Ausbau. Christian meint, sonst sehen unsere Straßen bald aus wie im Westen der USA.",
+   "quote_clean": "Und sich nicht an Bedarfsprognosen zu orientieren, denn es gibt diesen schönen Spruch, der sich leider auch stark in der Realität zeigt: Wer Infrastruktur sät, wird Verkehr ernten.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Doppelter Strombedarf bei 2054-2071 s belegt (und 5-6-fach für E-Fuels); Größenordnung stimmt fachlich.",
+   "stand_note": "",
+   "statement": "Ein Wasserstoff-Brennstoffzellenauto braucht etwa doppelt so viel erneuerbaren Strom pro Kilometer wie ein batterieelektrisches Auto.",
+   "question": "Wie viel Strom braucht ein Wasserstoffauto im Vergleich zu einem Batterie-E-Auto für dieselbe Strecke?",
+   "answer": "Etwa das Doppelte",
+   "distractors": [
+    "Etwa gleich viel",
+    "Etwa die Hälfte",
+    "Etwa ein Viertel mehr"
+   ],
+   "aha": "Beim Wasserstoff geht viel Energie verloren: Strom macht Wasserstoff, Wasserstoff macht wieder Strom. Beim E-Fuel im Verbrennungsmotor braucht es sogar fünf- bis sechsmal so viel Strom wie beim Batterieauto.",
+   "quote_clean": "Wenn ich mit einem batterieelektrischen Auto fahre und für 100 Kilometer 15 Kilowattstunden brauche, dann brauche ich das Doppelte an Kilowattstunden mit einem Brennstoffzellenfahrzeug, das mit erneuerbarem Wasserstoff betrieben wird.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Zitat belegt (2134-2144 s), aber die Sprecherfrage hat nur drei echte Optionen und einen absurden Distraktor (Tom Standage); als Bildfrage besser spielbar. Aha enthielt eine Funktionsangabe, die nicht im Ausschnitt steht.",
+   "stand_note": "",
+   "statement": "Christian Hochfeld vergleicht das Rennen zwischen Batterie- und Wasserstoffantrieb mit einem ICE gegen eine Draisine.",
+   "question": "Mit welchem Bild beschreibt Christian Hochfeld das Rennen zwischen Batterie- und Wasserstoffantrieb?",
+   "answer": "Ein ICE gegen eine Draisine",
+   "distractors": [
+    "Ein Sportwagen gegen einen Traktor",
+    "Ein Rennrad gegen ein Dreirad",
+    "Ein Tanker gegen ein Ruderboot"
+   ],
+   "aha": "Die Batterie ist der Schnellzug, das Wasserstoffauto die Draisine, die hinterherzukommen versucht. Christian rät deshalb, in den nächsten zehn Jahren beim Auto voll auf Elektro zu setzen, all in. Offen für andere Technologien bleiben ja, aber nicht auf die Draisine warten.",
+   "quote_clean": "Da fährt ein ICE, ein Schnellzug der Batterieentwicklung, und wir versuchen, mit der Wasserstoff-Brennstoffzellen-Draisine hinterherzukommen. Das wird nicht gelingen.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "fairness"
+   ],
+   "note": "Zitat belegt (2775-2781 s); der Aha stellte Behauptungen als Fakt auf, die im Ausschnitt nicht stehen, und wird auf Hochfelds Argument (Subventionen) begrenzt.",
+   "stand_note": "",
+   "statement": "Christian Hochfeld fragt, ob Autofahrer:innen wirklich abgezockt werden, oder ob der Autoverkehr nicht eher stark subventioniert ist.",
+   "question": "Welches Tier stellt Christian Hochfeld der „Melkkuh der Nation“ gegenüber, um Autofahrer:innen zu beschreiben?",
+   "answer": "Die Mastgans",
+   "distractors": [
+    "Der Sündenbock",
+    "Der Goldesel",
+    "Das Lastpferd"
+   ],
+   "aha": "Hochfelds Gedanke: Autofahrende fühlen sich gemolken, doch der Autoverkehr wurde lange stark subventioniert. Gemästet statt gemolken, sozusagen. Er sagt dazu: Wir müssen eher wahre Preise nehmen.",
+   "quote_clean": "Und ich finde, die Frage ist wirklich offen: Ist der Autofahrer die Melkkuh oder eigentlich die Mastgans der Nation?",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Bild belegt (4020-4034 s); die Frage wird allgemeiner gefasst (System ohne Steuerungsmöglichkeit), weil die Zuordnung zur Vignette im Ausschnitt nicht eindeutig ist, und der Aha enthielt Ungesagtes.",
+   "stand_note": "",
+   "statement": "Christian Hochfeld vergleicht ein Verkehrssystem, das sich nicht lenken und steuern lässt, mit einem Radio ohne Knöpfe.",
+   "question": "Mit welchem Bild beschreibt Christian Hochfeld ein Verkehrssystem, in dem man nichts lenken und steuern kann?",
+   "answer": "Mit einem Radio ohne Knöpfe",
+   "distractors": [
+    "Mit einem Auto ohne Bremse",
+    "Mit einer Waage ohne Gewichte",
+    "Mit einer Ampel, die immer grün ist"
+   ],
+   "aha": "Man schaltet es ein und hat womöglich einen Sender in einer Lautstärke, die man gar nicht will. Christian will Regler: eine fahrleistungsabhängige Pkw-Maut könnte so ein Regler sein.",
+   "quote_clean": "Dann ist das so, als hätte ich ein Radiogerät, aber gar keine Knöpfe dran. Ich kann da gar nichts verstellen.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Aussage bei 4068-4081 s belegt, ist aber Hochfelds vereinfachte Begründung; als solche kennzeichnen und ungesagte Details im Aha streichen.",
+   "stand_note": "",
+   "statement": "Laut Christian Hochfeld wird Verkehrsinfrastruktur derzeit über die Mineralölsteuer finanziert; mit mehr E-Autos sinkt diese Einnahme, weshalb er eine kilometerabhängige Pkw-Maut vorschlägt.",
+   "question": "Warum bringen mehr E-Autos laut Christian Hochfeld die Finanzierung der Straßen in Schwierigkeiten?",
+   "answer": "Die Mineralölsteuer-Einnahmen sinken",
+   "distractors": [
+    "E-Autos beschädigen den Asphalt stärker",
+    "E-Autos zahlen mehr Versicherung",
+    "Ladestationen kosten den Staat zu viel"
+   ],
+   "aha": "Wer elektrisch fährt, tankt nicht und zahlt deshalb keine Mineralölsteuer. Darum denkt Christian über eine Pkw-Maut nach, bei der man einen bestimmten Satz pro gefahrenem Kilometer zahlt.",
+   "quote_clean": "Weil die Verkehrsinfrastruktur derzeit über die Mineralölsteuer finanziert wird, also über die Energiesteuer im Verkehr. Mit zunehmender Elektrifizierung wird diese zurückgehen.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Reiner Gesprächsscherz ohne Faktenwert; die Berliner Zahl im Aha (30 Prozent) steht im Ausschnitt nicht.",
+   "stand_note": "",
+   "statement": "Christian Hochfeld scherzt, dass ihnen niemand mehr glaubt, ohne Skript zu reden, weil die Übergänge so perfekt passen.",
+   "question": "Was befürchtet Christian Hochfeld scherzhaft, als er nahtlos an Holgers Beispiel anknüpft?",
+   "answer": "Dass keiner glaubt, es gab kein Skript",
+   "distractors": [
+    "Dass ihm die Zeit davonläuft",
+    "Dass Holger ihm widerspricht",
+    "Dass die Leitung abbricht"
+   ],
+   "aha": "Er hatte genau das passende Beispiel parat: einen Berliner Versuch, bei dem Leute ihr Auto drei Monate abgaben und dafür alle Mobilitätsangebote plus Beratung bekamen. Rund 30 Prozent wollten das Auto danach nicht mehr zurück.",
+   "quote_clean": "Es glaubt uns jetzt wohl keiner mehr, dass wir das ohne Skript gemacht haben, aber ich wollte genau auch ein Beispiel aus Deutschland bringen.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage des Moderators ohne Faktenwert; der Aha nennt Ratschläge (Wege bündeln, Kindern vorleben), die im Ausschnitt nicht belegt sind.",
+   "stand_note": "",
+   "statement": "Zum Schluss fragt Andreas, was Hörer:innen selbst tun und womit sie zu Politiker:innen gehen können.",
+   "question": "Wonach fragt Andreas seine Gäste am Ende der Folge?",
+   "answer": "Was man selbst tun und fordern kann",
+   "distractors": [
+    "Welches Auto sie selbst fahren",
+    "Wann das Verbrennerverbot kommt",
+    "Welche Partei man wählen soll"
+   ],
+   "aha": "Andreas will immer wissen, was man mit dem Gehörten anfangen kann. Die Gäste raten zu lokalen Initiativen wie dem Berliner Radentscheid, zum Jobrad im eigenen Betrieb und dazu, Wege zu bündeln und es den Kindern vorzuleben.",
+   "quote_clean": "Was könnt ihr noch mitgeben: Worüber kann man a) selber nachdenken, und b) womit soll man zum Bürgermeister, zur Bürgermeisterin, zum Bezirkshauptmann, zum Minister oder vielleicht sogar zum Kanzler gehen?",
+   "quality": 1
+  }
+ ],
+ "id": "s20220421",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

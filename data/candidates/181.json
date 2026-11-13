@@ -1,0 +1,736 @@
+{
+ "theme": "Natur & Ernährung",
+ "summary": "Norbert Hackl war konventioneller Schweinebauer, hält heute Freilandschweine und schlachtet sie auf der Weide. Was das kostet und was die Schweine davon haben.",
+ "candidates": [
+  {
+   "kind": "andreas_frage",
+   "t": 82,
+   "speaker": "Andreas Sator",
+   "quote": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quote_clean": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "statement": "Andreas begrüßt seine Hörer:innen mit dem Satz, dass man mit dem Podcast die Welt jede Woche ein bisschen besser verstehen soll.",
+   "question": "Wie geht der Satz weiter, mit dem Andreas den Podcast vorstellt: „… der Podcast, mit dem du die Welt …“?",
+   "answer": "jede Woche ein bisschen besser verstehen sollst",
+   "distractors": [
+    "jeden Tag ein Stück neu entdeckst",
+    "endlich einmal ganz durchschaust",
+    "Folge für Folge besser erklären kannst"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "So fängt fast jede Folge an, seit 2018. Der Anspruch ist bewusst bescheiden: nicht alles verstehen, nur jede Woche ein bisschen besser.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Podcast",
+    "Einstieg"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 292,
+   "speaker": "Norbert Hackl",
+   "quote": "dass bei uns 300.000 Quadratmeter für etwa 600 Schweine zur Verfügung stehen und in einem Schweinestall ist das ja alles extrem konzentriert.",
+   "quote_clean": "Bei uns stehen 300.000 Quadratmeter für etwa 600 Schweine zur Verfügung, und in einem Schweinestall ist das ja alles extrem konzentriert.",
+   "statement": "Auf dem Freilandhof Labonca stehen etwa 600 Schweinen rund 300.000 Quadratmeter Fläche zur Verfügung.",
+   "question": "Wie viele Quadratmeter Fläche haben die etwa 600 Schweine auf Norbert Hackls Hof insgesamt?",
+   "answer": "rund 300.000 Quadratmeter",
+   "distractors": [
+    "rund 30.000 Quadratmeter",
+    "rund 3.000.000 Quadratmeter",
+    "rund 60.000 Quadratmeter"
+   ],
+   "number_value": 300000,
+   "number_unit": "Quadratmeter",
+   "slider_min": 5000,
+   "slider_max": 2000000,
+   "log_scale": true,
+   "aha": "Das sind 30 Hektar, also gut 500 Quadratmeter pro Schwein. Darum stinkt es dort auch nicht: Die Exkremente verteilen sich, statt sich wie im Stall zu konzentrieren.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Freilandhaltung",
+    "Fläche"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 349,
+   "speaker": "Norbert Hackl",
+   "quote": "Schweine können, so wie ein Hund, nicht transpirieren, können nicht schwitzen, brauchen diese Abkühlung zumindest in der warmen Jahreszeit.",
+   "quote_clean": "Schweine können, so wie ein Hund, nicht transpirieren, können nicht schwitzen, und brauchen diese Abkühlung zumindest in der warmen Jahreszeit.",
+   "statement": "Schweine können ähnlich wie Hunde kaum schwitzen und kühlen sich deshalb im Schlamm ab.",
+   "question": "Warum suhlen sich Schweine im Schlamm?",
+   "answer": "Sie können nicht schwitzen und kühlen sich ab",
+   "distractors": [
+    "Sie suchen im Schlamm nach Würmern",
+    "Sie markieren damit ihr Revier",
+    "Sie schützen sich vor Kälte"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer nicht schwitzen kann, braucht eine andere Klimaanlage. Beim Schwein ist das die Schlammsuhle, die Feuchtigkeit verdunstet langsam auf der Haut und kühlt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schweine",
+    "Biologie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 357,
+   "speaker": "Norbert Hackl",
+   "quote": "Aber zum Beispiel hochträchtige Schweine gehen auch im Winter in die Suhle, weil ihre Bäuche so prall gefüllt sind und so heiß sind sozusagen, dass sie diese Abkühlung sogar suchen, wenn sie dafür Eis brechen müssen.",
+   "quote_clean": "Hochträchtige Schweine gehen auch im Winter in die Suhle, weil ihre Bäuche so prall gefüllt und so heiß sind, dass sie diese Abkühlung sogar suchen, wenn sie dafür Eis brechen müssen.",
+   "statement": "Hochträchtige Sauen suchen sogar im Winter die Schlammsuhle auf und brechen dafür notfalls das Eis.",
+   "question": "Was machen hochträchtige Schweine im Freiland manchmal sogar im Winter?",
+   "answer": "Sie brechen Eis, um sich zu suhlen",
+   "distractors": [
+    "Sie graben sich Höhlen in den Schnee",
+    "Sie fressen Schnee statt zu trinken",
+    "Sie schlafen dicht an Bäumen gelehnt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein praller Bauch voller Ferkel heizt ordentlich. Die Abkühlung ist der Sau dann wichtiger als ein bisschen Eis auf der Suhle.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Schweine",
+    "Trächtigkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 371,
+   "speaker": "Norbert Hackl",
+   "quote": "Also Schweine können ja auch tatsächlich galoppieren. Das kennt man vielleicht von Ferkeln, aber von ausgewachsenen Schweinen kennt man das überhaupt nicht, weil sie es nirgends können.",
+   "quote_clean": "Schweine können tatsächlich galoppieren. Das kennt man vielleicht von Ferkeln, aber von ausgewachsenen Schweinen kennt man das überhaupt nicht, weil sie es nirgends können.",
+   "statement": "Auch ausgewachsene Schweine können galoppieren, haben in Ställen aber keinen Platz dafür.",
+   "question": "Was können auch ausgewachsene Schweine mit 200 bis 300 Kilo, wenn sie Platz haben?",
+   "answer": "galoppieren",
+   "distractors": [
+    "schwimmen über weite Strecken",
+    "auf Hinterbeinen stehen",
+    "über Zäune springen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Von Ferkeln kennt man das Herumflitzen noch. Ein großes Zuchtschwein im Galopp sieht man nur, wo es auch Platz zum Laufen hat, und da geht dann, wie Norbert sagt, schon was weiter.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schweine",
+    "Bewegung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 450,
+   "speaker": "Norbert Hackl",
+   "quote": "Circa 24 Stunden vor der Geburt schießt die Milch ein, die Hormone verändern sich, das Schwein kriegt Signale, hormonelle Signale, bau dir jetzt das Geburtsnest für deine Geburt.",
+   "quote_clean": "Circa 24 Stunden vor der Geburt schießt die Milch ein, die Hormone verändern sich, das Schwein kriegt hormonelle Signale: Bau dir jetzt das Geburtsnest für deine Geburt.",
+   "statement": "Etwa 24 Stunden vor der Geburt schießt bei der Sau die Milch ein und sie beginnt, ein Geburtsnest zu bauen.",
+   "question": "Wie viele Stunden vor der Geburt beginnt eine Sau ungefähr, ihr Geburtsnest zu bauen?",
+   "answer": "etwa 24 Stunden",
+   "distractors": [
+    "etwa 2 Stunden",
+    "etwa 72 Stunden",
+    "etwa 7 Stunden"
+   ],
+   "number_value": 24,
+   "number_unit": "Stunden",
+   "slider_min": 1,
+   "slider_max": 96,
+   "log_scale": false,
+   "aha": "Die Hormone geben das Startsignal: Milch schießt ein, und die Sau trägt Heu, Gras, Äste und Laub zusammen. Im Winter werden das richtig dicke, isolierende Nester.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schweine",
+    "Geburt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 631,
+   "speaker": "Norbert Hackl",
+   "quote": "Die Zuchttiere, also die Mutterschweine, leben circa 25 Prozent der Zeit im Jahr in einem Einzelstand. Käfig können sich nur nach vorne und nach hinten ein paar Zentimeter bewegen, können sich nicht umdrehen.",
+   "quote_clean": "Die Zuchttiere, also die Mutterschweine, leben circa 25 Prozent der Zeit im Jahr in einem Einzelstand, einem Käfig. Sie können sich nur nach vorne und nach hinten ein paar Zentimeter bewegen und können sich nicht umdrehen.",
+   "statement": "In der konventionellen Haltung verbringen Mutterschweine rund ein Viertel des Jahres im Kastenstand, in dem sie sich nicht umdrehen können.",
+   "question": "Wie viel Prozent des Jahres verbringen Mutterschweine in konventioneller Haltung ungefähr im Kastenstand?",
+   "answer": "circa 25 Prozent",
+   "distractors": [
+    "circa 5 Prozent",
+    "circa 60 Prozent",
+    "circa 45 Prozent"
+   ],
+   "number_value": 25,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Im Kastenstand geht es ein paar Zentimeter vor und zurück, umdrehen ist nicht drin. Bei der künstlichen Besamung und rund um die Geburt stehen die Sauen dort, das läppert sich auf ein Viertel des Jahres.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Kastenstand",
+    "Tierhaltung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 728,
+   "speaker": "Norbert Hackl",
+   "quote": "Und im Stall hat es aber keinen Schlamm zum Suhlen. Und da suhlt es sich in den eigenen Exkrementen, weil es braucht diese Abkühlung.",
+   "quote_clean": "Im Stall hat es aber keinen Schlamm zum Suhlen. Da suhlt es sich in den eigenen Exkrementen, weil es diese Abkühlung braucht.",
+   "statement": "Schweine gelten als dreckig, weil sie sich im Stall mangels Schlamm in den eigenen Exkrementen abkühlen.",
+   "question": "Warum wälzen sich Schweine im Stall oft in ihren eigenen Exkrementen?",
+   "answer": "Mangels Schlamm brauchen sie trotzdem Abkühlung",
+   "distractors": [
+    "Der Geruch beruhigt sie",
+    "Sie markieren damit ihren Schlafplatz",
+    "Sie schützen so ihre Haut vor Insekten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Daher kommt auch das „dreckig wie ein Schwein“. Eigentlich ist es ein Notbehelf: Das Schwein braucht eine Suhle, und wenn es keinen Schlamm gibt, nimmt es halt, was da ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schweine",
+    "Sprache"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 759,
+   "speaker": "Norbert Hackl",
+   "quote": "Schweine können, wenn man es trainiert, Befehle oder Kommandos erkennen oder aufnehmen können, können auf Touchscreens arbeiten nach Training.",
+   "quote_clean": "Schweine können, wenn man sie trainiert, Befehle oder Kommandos erkennen und nach Training auf Touchscreens arbeiten.",
+   "statement": "Schweine können mit Training Kommandos lernen und sogar Touchscreens bedienen.",
+   "question": "Was können Schweine nach entsprechendem Training?",
+   "answer": "Auf Touchscreens arbeiten",
+   "distractors": [
+    "Bis hundert zählen",
+    "Sich im Spiegel rasieren",
+    "Farben am Geruch erkennen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Schweine sind deutlich klüger, als ihr Ruf vermuten lässt. In Versuchen haben sie gelernt, Bildschirme und Joysticks zu bedienen, Kommandos verstehen sie ähnlich wie Hunde.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schweine",
+    "Intelligenz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 769,
+   "speaker": "Norbert Hackl",
+   "quote": "Aber was sie auf jeden Fall sind, sind sie reinlich. Sie würden niemals dorthin kacken, wo sie schlafen.",
+   "quote_clean": "Was sie auf jeden Fall sind: reinlich. Sie würden niemals dorthin kacken, wo sie schlafen.",
+   "statement": "Schweine sind reinliche Tiere und koten nie dort, wo sie schlafen.",
+   "question": "Was machen Schweine, wenn sie die Wahl haben, nie dort, wo sie schlafen?",
+   "answer": "ihr Geschäft verrichten",
+   "distractors": [
+    "fressen",
+    "sich suhlen",
+    "Ferkel zur Welt bringen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Draußen suchen sich Schweine eigene Klo-Ecken irgendwo am Feld. Im Stall auf Vollspaltenboden geht das nicht, darum der schlechte Ruf.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schweine",
+    "Verhalten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 885,
+   "speaker": "Norbert Hackl",
+   "quote": "Ja, dann sage ich, okay, aber nur weil du dir das nicht leisten kannst, was kann jetzt der Schwein dafür? Kannst du nicht vielleicht nur ein Drittel davon essen? Dann kommst du gleich teuer.",
+   "quote_clean": "Dann sage ich: Okay, aber nur weil du dir das nicht leisten kannst, was kann jetzt das Schwein dafür? Kannst du nicht vielleicht nur ein Drittel davon essen? Dann kommst du gleich teuer.",
+   "statement": "Wer sich teures Freilandfleisch nicht leisten kann, soll laut Norbert Hackl lieber ein Drittel davon essen und gleich viel zahlen.",
+   "question": "Wer hat's gesagt: „Nur weil du dir das nicht leisten kannst, was kann jetzt das Schwein dafür?“",
+   "answer": "Norbert Hackl",
+   "distractors": [
+    "Andreas Sator",
+    "Herwig Grimm",
+    "Sepp Holzer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Norberts Rechnung: Ein Schnitzel um 30 Euro ist dreimal so teuer, also isst du ein Drittel davon und wirst mit Reis oder Nudeln satt. Geschmack bleibt, und das Schwein hat auch was davon.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fleischpreis",
+    "Konsum"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 935,
+   "speaker": "Norbert Hackl",
+   "quote": "ein normales Schnitzelfleisch im Supermarkt kostet um die 10 Euro. Wir reden nicht von... Das Kilo.",
+   "quote_clean": "Ein normales Schnitzelfleisch im Supermarkt kostet um die 10 Euro das Kilo.",
+   "statement": "Konventionelles Schnitzelfleisch vom Schwein aus Österreich kostet im Supermarkt rund 10 Euro pro Kilo, Bio rund 20 und Labonca-Freilandfleisch etwas über 30 Euro.",
+   "question": "Wie viel kostet ein Kilo normales Schweineschnitzelfleisch aus Österreich im Supermarkt ungefähr (Stand 2021)?",
+   "answer": "um die 10 Euro",
+   "distractors": [
+    "um die 4 Euro",
+    "um die 20 Euro",
+    "um die 15 Euro"
+   ],
+   "number_value": 10,
+   "number_unit": "Euro pro Kilo",
+   "slider_min": 2,
+   "slider_max": 35,
+   "log_scale": false,
+   "aha": "Aktionen gehen sogar runter auf 5 Euro, rentabel ist das für niemanden. Bio liegt bei etwa 20 Euro, Norberts Freilandfleisch bei etwas über 30, also beim Dreifachen.",
+   "difficulty": 1,
+   "time_sensitive": true,
+   "tags": [
+    "Fleischpreis",
+    "Supermarkt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1129,
+   "speaker": "Norbert Hackl",
+   "quote": "die ersten Schweine, die Zensi und die Amanda ins Freie zu geben und einmal nur zu beobachten, zu schauen, die waren schon trächtig, wie werden ihre Geburten ablaufen.",
+   "quote_clean": "Die ersten Schweine, die Zenzi und die Amanda, ins Freie zu geben und einmal nur zu beobachten, wie ihre Geburten ablaufen werden. Die waren schon trächtig.",
+   "statement": "2003 setzte Norbert Hackl seine ersten beiden trächtigen Sauen, Zenzi und Amanda, ins Freie, um zu sehen, ob die Geburt draußen klappt.",
+   "question": "Wie hießen die ersten beiden Sauen, die Norbert Hackl 2003 ins Freie ließ?",
+   "answer": "Zenzi und Amanda",
+   "distractors": [
+    "Mizi und Punkti",
+    "Resi und Berta",
+    "Lotte und Frieda"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Amanda ferkelte im September unter einem Kirschbaum, Zenzi mitten im Winter, angeblich zu Silvester bei leichten Minusgraden. Beides ging gut, und da war für Norbert klar: So wollen wir Bauern sein.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Labonca",
+    "Anfänge"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1429,
+   "speaker": "Andreas Sator",
+   "quote": "die schreiben, dass ein Schwein natürlich circa 20 Jahre alt werden würde.",
+   "quote_clean": "Die schreiben, dass ein Schwein natürlich circa 20 Jahre alt werden würde.",
+   "statement": "Laut Vier Pfoten könnte ein Schwein natürlicherweise etwa 20 Jahre alt werden.",
+   "question": "Wie alt könnte ein Schwein laut Tierschutzorganisation Vier Pfoten natürlicherweise werden?",
+   "answer": "circa 20 Jahre",
+   "distractors": [
+    "circa 5 Jahre",
+    "circa 40 Jahre",
+    "circa 10 Jahre"
+   ],
+   "number_value": 20,
+   "number_unit": "Jahre",
+   "slider_min": 1,
+   "slider_max": 50,
+   "log_scale": false,
+   "aha": "Erreicht wird das fast nie, auch kein Wildschwein wird so alt. Norbert hatte aber selbst Sauen mit 15 Jahren, die er einfach behalten hat, weil er es wollte.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schweine",
+    "Lebenserwartung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1525,
+   "speaker": "Norbert Hackl",
+   "quote": "Ansonsten wird ein Schwein in der konventionellen Haltung, aber auch biologisch, mit sechs Monaten circa geschlachtet, weil es da ausgewachsen ist, weil es dort der Punkt ist, der betriebswirtschaftlich passt",
+   "quote_clean": "Ansonsten wird ein Schwein in der konventionellen Haltung, aber auch biologisch, mit circa sechs Monaten geschlachtet, weil es da ausgewachsen ist und weil das der Punkt ist, der betriebswirtschaftlich passt.",
+   "statement": "Mastschweine werden konventionell und auch in Bio-Haltung mit etwa sechs Monaten geschlachtet.",
+   "question": "Mit wie vielen Monaten wird ein Mastschwein in konventioneller Haltung ungefähr geschlachtet?",
+   "answer": "mit circa sechs Monaten",
+   "distractors": [
+    "mit circa zwei Monaten",
+    "mit circa 18 Monaten",
+    "mit circa zwölf Monaten"
+   ],
+   "number_value": 6,
+   "number_unit": "Monate",
+   "slider_min": 1,
+   "slider_max": 36,
+   "log_scale": false,
+   "aha": "Danach nehmen die Schweine pro Tag weniger zu, und jedes weitere Monat Futter macht das Fleisch teurer. Bei Norbert dauert es zehn bis zwölf Monate, weil die Tiere draußen viel mehr Energie verbrauchen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schlachtung",
+    "Mast"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1653,
+   "speaker": "Norbert Hackl",
+   "quote": "Für alles bin ich verantwortlich, also nehme ich auch die Verantwortung in die Hand, damit es ordentlich und ohne Angst aus dem Leben scheidet.",
+   "quote_clean": "Für alles bin ich verantwortlich, also nehme ich auch die Verantwortung in die Hand, damit es ordentlich und ohne Angst aus dem Leben scheidet.",
+   "statement": "Norbert Hackl sieht es als seine Verantwortung als Bauer, dass seine Tiere ordentlich und ohne Angst sterben.",
+   "question": "Wer hat's gesagt: „Für alles bin ich verantwortlich, also nehme ich auch die Verantwortung in die Hand, damit es ordentlich und ohne Angst aus dem Leben scheidet“?",
+   "answer": "Norbert Hackl",
+   "distractors": [
+    "Andreas Sator",
+    "Herwig Grimm",
+    "Sepp Holzer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Norbert gehört das Töten zur Tierhaltung dazu. Wer Schweinefleisch essen will, kann nicht Ja zum Schnitzel und Nein zur Schlachtung sagen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ethik",
+    "Schlachtung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1905,
+   "speaker": "Norbert Hackl",
+   "quote": "Es steht geschrieben, dass jeder Schlachthof einen Wartestall haben muss, wo die Tiere angeliefert werden, wo sie dann warten in diesem Stall, bis sie zur Schlachtung kommen. Und auf der Nutztierhaltungsverordnung weiß ich ja, weil ich ja Bauer bin, dass ich jeden Stall durch eine Weide ersetzen kann.",
+   "quote_clean": "Es steht geschrieben, dass jeder Schlachthof einen Wartestall haben muss, wo die Tiere angeliefert werden und warten, bis sie zur Schlachtung kommen. Und aus der Nutztierhaltungsverordnung weiß ich, weil ich Bauer bin, dass ich jeden Stall durch eine Weide ersetzen kann.",
+   "statement": "Weil auf der Weide schlachten verboten war, ersetzte Norbert Hackl den vorgeschriebenen Wartestall eines Schlachthofs durch eine Weide.",
+   "question": "Wie hat Norbert Hackl sein Weideschlachthaus rechtlich möglich gemacht?",
+   "answer": "Er ersetzte den Wartestall durch eine Weide",
+   "distractors": [
+    "Er bekam eine EU-Sondergenehmigung",
+    "Er meldete den Hof als Jagdrevier an",
+    "Er baute einen mobilen Schlachtanhänger"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Auf der Weide schlachten durfte er nicht, also hat er den Spieß umgedreht und die Weide zum Schlachthof geholt. 2015 ging es als erstes zertifiziertes Weideschlachthaus Europas in Betrieb.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Weideschlachthaus",
+    "Recht"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1984,
+   "speaker": "Norbert Hackl",
+   "quote": "Also der Kunde hat 1.000 Euro investiert und hat dann jährlich, zehn Jahre lang kriegt er 130 Euro in Form von Naturalien, die er sich aussucht, wieder retour.",
+   "quote_clean": "Der Kunde hat 1.000 Euro investiert und kriegt dann zehn Jahre lang jährlich 130 Euro in Form von Naturalien, die er sich aussucht, wieder retour.",
+   "statement": "Für 1.000 Euro Genussschein bekamen Kund:innen zehn Jahre lang jährlich Naturalien im Wert von 130 Euro.",
+   "question": "Wie viel Euro an Naturalien bekam man pro Jahr für einen 1.000-Euro-Genussschein des Weideschlachthauses?",
+   "answer": "130 Euro",
+   "distractors": [
+    "50 Euro",
+    "250 Euro",
+    "100 Euro"
+   ],
+   "number_value": 130,
+   "number_unit": "Euro",
+   "slider_min": 0,
+   "slider_max": 400,
+   "log_scale": false,
+   "aha": "Die Bank war skeptisch, also hat Norbert seine Kund:innen gefragt. Über die Genussscheine kamen mehr als 400.000 Euro zusammen, verzinst in Speck und Salami statt in Prozent.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Finanzierung",
+    "Genussschein"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2082,
+   "speaker": "Norbert Hackl",
+   "quote": "wird es elektrisch mit einer Elektrozange betäubt. Das heißt, man zwickt hinter die Ohren zusammen mit dieser Zange und in einer tausendstel Sekunde ist es betäubt und spürt nichts mehr.",
+   "quote_clean": "Es wird elektrisch mit einer Elektrozange betäubt. Das heißt, man zwickt mit dieser Zange hinter den Ohren zusammen, und in einer tausendstel Sekunde ist es betäubt und spürt nichts mehr.",
+   "statement": "Im Weideschlachthaus werden die Schweine einzeln mit Leckerlis weggelockt und mit einer Elektrozange hinter den Ohren betäubt.",
+   "question": "Wie werden die Schweine in Norbert Hackls Weideschlachthaus betäubt?",
+   "answer": "Mit einer Elektrozange hinter den Ohren",
+   "distractors": [
+    "Mit CO2 in einer Gondel",
+    "Mit einem Bolzenschuss in die Stirn",
+    "Mit einer Betäubungsspritze"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Schwein wird mit Leckerlis in einen Seitenteil gelockt, den Kopf nach unten, die anderen sehen nichts. Ob es ruhig blieb, liest Norbert an der Herde ab: Die bleibt einfach da und frisst weiter.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Schlachtung",
+    "Betäubung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2180,
+   "speaker": "Norbert Hackl",
+   "quote": "Das meiste eigentlich wird geschlachtet in deutlich größeren Betrieben, wo es in der Stunde nicht ein, zwei, drei, vier Schweine gibt, sondern da gibt es dann halt in Österreich bis zu 200 Schweine pro Stunde",
+   "quote_clean": "Das meiste wird eigentlich in deutlich größeren Betrieben geschlachtet, wo es in der Stunde nicht ein, zwei, drei, vier Schweine gibt, sondern in Österreich bis zu 200 Schweine pro Stunde.",
+   "statement": "In großen österreichischen Schlachthöfen werden bis zu 200 Schweine pro Stunde geschlachtet.",
+   "question": "Wie viele Schweine pro Stunde werden in großen österreichischen Schlachthöfen bis zu geschlachtet?",
+   "answer": "bis zu 200",
+   "distractors": [
+    "bis zu 20",
+    "bis zu 2.000",
+    "bis zu 60"
+   ],
+   "number_value": 200,
+   "number_unit": "Schweine pro Stunde",
+   "slider_min": 5,
+   "slider_max": 3000,
+   "log_scale": true,
+   "aha": "Damit das läuft, müssen auch 200 Schweine pro Stunde angeliefert werden, und die warten oft stundenlang. Da stehen dann knapp 1.000 fremde Tiere gleichzeitig am Schlachthof.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Schlachthof",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2241,
+   "speaker": "Norbert Hackl",
+   "quote": "sie ersticken aber nicht wirklich, sondern sie fallen nur in Ohnmacht, aber sie haben 20, 25 Sekunden lang das Gefühl, sie ersticken",
+   "quote_clean": "Sie ersticken aber nicht wirklich, sondern sie fallen nur in Ohnmacht, aber sie haben 20, 25 Sekunden lang das Gefühl, sie ersticken.",
+   "statement": "Bei der CO2-Betäubung haben Schweine rund 20 bis 25 Sekunden lang das Gefühl zu ersticken, bevor sie ohnmächtig werden.",
+   "question": "Wie viele Sekunden lang haben Schweine bei der CO2-Betäubung ungefähr das Gefühl zu ersticken?",
+   "answer": "20 bis 25 Sekunden",
+   "distractors": [
+    "2 bis 3 Sekunden",
+    "60 bis 90 Sekunden",
+    "8 bis 10 Sekunden"
+   ],
+   "number_value": 22,
+   "number_unit": "Sekunden",
+   "slider_min": 0,
+   "slider_max": 120,
+   "log_scale": false,
+   "aha": "Die Schweine fahren in einer Gondel in ein CO2-Bad und strecken sich nach der letzten Luft oben. Laut Norbert würde schon ein Euro mehr pro Kilo reichen, um das Schlachten auch konventionell deutlich zu verändern.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Schlachtung",
+    "CO2-Betäubung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2365,
+   "speaker": "Norbert Hackl",
+   "quote": "der, sage ich mal, selten unter zwei Stunden ist, selten, meistens vier oder fünf oder sechs Stunden, weil ja auch von einem Bauernhof zum anderen gefahren wird",
+   "quote_clean": "Der Transport ist selten unter zwei Stunden, meistens vier, fünf oder sechs Stunden, weil ja auch von einem Bauernhof zum anderen gefahren wird.",
+   "statement": "Der Transport von Schlachtschweinen dauert in Österreich selten unter zwei, meistens vier bis sechs Stunden, auch ohne Auslandstransport.",
+   "question": "Wie viele Stunden dauert der Transport eines Schweins zum Schlachthof in Österreich meistens?",
+   "answer": "vier bis sechs Stunden",
+   "distractors": [
+    "unter einer Stunde",
+    "zehn bis zwölf Stunden",
+    "ein bis zwei Stunden"
+   ],
+   "number_value": 5,
+   "number_unit": "Stunden",
+   "slider_min": 0,
+   "slider_max": 24,
+   "log_scale": false,
+   "aha": "Die Lkw klappern mehrere Höfe ab, bevor es zum Schlachthof geht, oft auf zwei oder drei Etagen. Effizient für den Preis, für die Schweine aber Stress, den manche gar nicht überleben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Transport",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2498,
+   "speaker": "Andreas Sator",
+   "quote": "gleichzeitig werden im Jahr, glaube ich, in Österreich fünf Millionen Schweine geschlachtet, von denen die meisten so gelebt haben, wie wir gerade besprochen haben.",
+   "quote_clean": "Gleichzeitig werden in Österreich im Jahr, glaube ich, fünf Millionen Schweine geschlachtet, von denen die meisten so gelebt haben, wie wir gerade besprochen haben.",
+   "statement": "In Österreich werden jährlich rund fünf Millionen Schweine geschlachtet.",
+   "question": "Wie viele Schweine werden in Österreich pro Jahr ungefähr geschlachtet?",
+   "answer": "rund fünf Millionen",
+   "distractors": [
+    "rund 500.000",
+    "rund 20 Millionen",
+    "rund zwei Millionen"
+   ],
+   "number_value": 5000000,
+   "number_unit": "Schweine",
+   "slider_min": 100000,
+   "slider_max": 50000000,
+   "log_scale": true,
+   "aha": "Das ist mehr als ein Schwein auf jede zweite Person im Land, jedes Jahr. Wird ein einzelner Hund gequält, gibt's einen Aufschrei, obwohl Schweine Hunden bei Intelligenz und Sozialverhalten kaum nachstehen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Österreich",
+    "Fleischkonsum"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2731,
+   "speaker": "Norbert Hackl",
+   "quote": "Aktuell ist es so, dass freilandhaltende Schweinebetriebe sogar weniger Förderungen kriegen von der Agrarmarkt Austria als wie Stallbetriebe.",
+   "quote_clean": "Aktuell ist es so, dass freilandhaltende Schweinebetriebe sogar weniger Förderungen von der Agrarmarkt Austria kriegen als Stallbetriebe.",
+   "statement": "Laut Norbert Hackl bekamen Freiland-Schweinebetriebe in Österreich 2021 weniger Förderung von der Agrarmarkt Austria als Stallbetriebe.",
+   "question": "Wer bekam laut Norbert Hackl 2021 mehr Tierwohl-Förderung von der Agrarmarkt Austria?",
+   "answer": "Stallbetriebe mit etwas mehr Platz und Stroh",
+   "distractors": [
+    "Freilandbetriebe mit Weidehaltung",
+    "Beide gleich viel",
+    "Nur Bio-Betriebe mit Weide"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Stallbetriebe, die ein bisschen Stroh und etwas mehr Platz bieten, werden ordentlich gefördert. Freilandbetriebe sind aus diesem Förderprogramm explizit ausgenommen, da greift sich sogar Norbert am Kopf.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Förderung",
+    "Agrarpolitik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3043,
+   "speaker": "Norbert Hackl",
+   "quote": "Ich würde mal auf jeden Fall auf das Bio-Siegel achten. Das ist das EU-Bio-Siegel, das grüne Logo. Das gibt einmal sehr viel her.",
+   "quote_clean": "Ich würde auf jeden Fall auf das Bio-Siegel achten. Das ist das EU-Bio-Siegel, das grüne Logo. Das gibt einmal sehr viel her.",
+   "statement": "Beim Fleischkauf im Supermarkt rät Norbert Hackl, auf das grüne EU-Bio-Siegel zu achten: mehr Platz, Stroh statt Vollspaltenboden, Auslauf und Bio-Futter.",
+   "question": "Was garantiert Bio-Schweinefleisch mit EU-Bio-Siegel im Vergleich zu konventionellem?",
+   "answer": "Stroh statt Vollspaltenboden und Auslauf",
+   "distractors": [
+    "Ganzjährige Freilandhaltung auf der Weide",
+    "Schlachtung direkt am Hof",
+    "Mindestens ein Jahr Lebensdauer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bio heißt deutlich mehr Platz, Stroh statt Spaltenboden, Auslauf und Futter ohne Herbizide und chemisch-synthetische Pflanzenschutzmittel. Das ist der große Unterschied zu manchen Tierwohl-Initiativen, die trotzdem mit konventionellem Futter arbeiten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bio",
+    "Einkaufen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "181",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

@@ -1,0 +1,283 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Zahl belegt; aha enthielt Behauptung zu Brust-/Lungenkrebs, die nicht im Ausschnitt steht.",
+   "stand_note": "Stand 2026",
+   "statement": "Beim Glioblastom gab es laut Anna Berghoff in den letzten 20 Jahren keine großen therapeutischen Erfolge.",
+   "question": "Seit wie vielen Jahren gibt es beim Glioblastom laut Anna Berghoff keine großen Therapie-Erfolge mehr?",
+   "answer": "20 Jahre",
+   "distractors": [
+    "5 Jahre",
+    "10 Jahre",
+    "50 Jahre"
+   ],
+   "aha": "Zwei Jahrzehnte, viele Studien, und keine hat die Lage entscheidend verbessert. Darum versucht es Annas Team jetzt mit einem ganz neuen Ansatz: Es testet Medikamente direkt an den Tumorzellen der einzelnen Patient:innen.",
+   "quote_clean": "Und da ist die Situation insofern ein bisschen schwierig, weil es in den letzten 20 Jahren keine großen therapeutischen Erfolge beim Glioblastom gibt.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Aussage im Ausschnitt (Transkript verhört 'bösartig' als 'mal liegende'); medizinisch korrekt.",
+   "stand_note": "",
+   "statement": "Das Glioblastom ist der häufigste bösartige Gehirntumor.",
+   "question": "Wie heißt der häufigste bösartige Gehirntumor?",
+   "answer": "Glioblastom",
+   "distractors": [
+    "Meningeom",
+    "Neuroblastom",
+    "Melanom"
+   ],
+   "aha": "Das Glioblastom ist der häufigste bösartige Hirntumor, und er ist leider auch einer der hartnäckigsten. Heilen kann man ihn derzeit nicht, es geht darum, möglichst lang und gut zu leben.",
+   "quote_clean": "Die Idee dieser Studie ist es, eine neue Behandlung für den häufigsten Gehirntumor zu finden, der bösartig ist, also tatsächlich lebensbedrohlich: das Glioblastom.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Werkzeugkasten-Bild und Aussage zur Chemo stehen so im Ausschnitt (bezogen auf MGMT-unmethylierte Glioblastome).",
+   "stand_note": "",
+   "statement": "Manche Tumorzellen haben eine Art Werkzeugkasten, mit dem sie die Schäden einer Chemotherapie immer wieder reparieren.",
+   "question": "Warum wirkt Chemotherapie bei manchen Glioblastomen kaum?",
+   "answer": "Die Zellen reparieren die Chemo-Schäden selbst",
+   "distractors": [
+    "Die Chemo erreicht das Gehirn nie",
+    "Die Zellen teilen sich gar nicht",
+    "Das Immunsystem baut die Chemo ab"
+   ],
+   "aha": "Chemo schädigt das Erbgut von Krebszellen. Manche Glioblastome haben aber einen eingebauten Reparaturkasten und flicken die Schäden einfach wieder. Da kannst du draufhauen, so viel du willst.",
+   "quote_clean": "Das darf man sich so vorstellen, dass diese Tumorzellen eine Art Werkzeugkasten haben, und mit diesem Werkzeugkasten können sie alle Schäden, die eine Chemo in ihrer Zelle verursacht, wieder reparieren. Dadurch kann ich auf diese Zelle so viel Chemo draufhauen, wie ich möchte, sie wird sich einfach immer wieder reparieren.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg stimmt; aha schrieb Anna eine allgemeine Aussage zu Ideen und 'Personal' zu, die so nicht fällt.",
+   "stand_note": "",
+   "statement": "Die meisten Ideen für medizinische Studien scheitern schlicht am fehlenden Geld.",
+   "question": "Woran scheitern laut Anna Berghoff die meisten Ideen für medizinische Studien?",
+   "answer": "Am fehlenden Geld",
+   "distractors": [
+    "An der Ethikkommission",
+    "An zu wenigen Freiwilligen",
+    "An fehlender Technik"
+   ],
+   "aha": "Ideen hat Anna selbst genug. Aber Studien sind unglaublich teuer, schon weil sie so viel Verwaltung brauchen. Ohne Funding bleibt auch die beste Idee in der Schublade.",
+   "quote_clean": "Und tatsächlich ist es so, dass die meisten Studienideen daran scheitern, dass man schlicht und einfach kein Funding hat, also kein Geld.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg stimmt; im aha wurde Anna eine Einschätzung zugeschrieben, die im Ausschnitt von Andreas kommt, und ein nicht belegter Nachsatz entfernt.",
+   "stand_note": "",
+   "statement": "Hinter den meisten medizinischen Studien steht ein Pharmaunternehmen mit wirtschaftlichem Interesse; nur sehr wenige sind rein akademisch.",
+   "question": "Wer steht laut Anna Berghoff hinter den meisten medizinischen Studien?",
+   "answer": "Pharmaunternehmen",
+   "distractors": [
+    "Universitäten",
+    "Krankenkassen",
+    "Gesundheitsministerien"
+   ],
+   "aha": "Hinter den meisten Studien steht ein Unternehmen, das daran verdient. Nur sehr wenige, wie Annas Studie, haben niemanden, der Geld damit macht. Dort steht allein im Fokus, dass Patient:innen einen Vorteil haben.",
+   "quote_clean": "Weil es tatsächlich so ist, dass hinter den meisten Studien irgendein Pharmaunternehmen steht, das ein wirtschaftliches Interesse daran hat, und nur sehr wenige Studien wie unsere haben tatsächlich niemanden, der daran verdient.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "28 ist belegt; im aha waren 'bringt um' und 'schafft nur ein Roboter' nicht belegt bzw. überzogen.",
+   "stand_note": "",
+   "statement": "In der Attract-Studie werden an den lebenden Tumorzellen jedes Patienten 28 verschiedene Medikamente getestet.",
+   "question": "Wie viele verschiedene Medikamente testet die Attract-Studie an den Tumorzellen jedes Patienten?",
+   "answer": "28",
+   "distractors": [
+    "5",
+    "12",
+    "100"
+   ],
+   "aha": "Die Krebszellen werden bei der OP entnommen und im Labor am Leben gehalten. Dann testet man 28 Medikamente, die in anderen Krebsarten schon zugelassen sind, und bekommt so für jede Patientin und jeden Patienten 28 Aussagen, ob das Mittel wirkt.",
+   "quote_clean": "Und an diesen Zellen testen wir dann Medikamente, und zwar nicht nur eines, sondern 28 verschiedene.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "12 Monate belegt (Anna und Andreas); Distraktoren 3/36/60 unplausibel, ersetzt.",
+   "stand_note": "Stand 2026",
+   "statement": "Mit der Standard-Chemo überleben Patient:innen dieser Glioblastom-Gruppe im Schnitt etwa 12 Monate; die Studie will das auf 17 Monate verlängern.",
+   "question": "Wie viele Monate überleben Glioblastom-Patient:innen dieser Gruppe mit Standardtherapie im Schnitt?",
+   "answer": "12 Monate",
+   "distractors": [
+    "6 Monate",
+    "24 Monate",
+    "36 Monate"
+   ],
+   "aha": "Ein Jahr, im Durchschnitt. Darum wäre ein Plus von fünf Monaten ein echter Erfolg. Für Betroffene und ihre Familien sind Monate kein Detail, sondern Lebenszeit.",
+   "quote_clean": "Dann möchte ich zeigen, dass, wenn wir diesen Test anwenden und Patienten auf Basis dieses Tests behandeln, wir das Überleben von Menschen mit Glioblastom, dem bösartigsten Gehirntumor, den wir haben, von 12 auf 17 Monate im Durchschnitt verlängern.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Randomisierung per Computer steht so im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Bei der Randomisierung entscheidet ein Computerprogramm per Zufall, wer in welche Studiengruppe kommt.",
+   "question": "Wer entscheidet in einer randomisierten Studie, wer in welche Gruppe kommt?",
+   "answer": "Ein Computer per Zufall",
+   "distractors": [
+    "Die behandelnde Ärztin",
+    "Die Patient:innen selbst",
+    "Die Ethikkommission"
+   ],
+   "aha": "Wie beim Lotto zieht ein Programm, wer die neue und wer die bewährte Therapie bekommt. So fließt die persönliche Überzeugung der Ärzt:innen nicht ein. Selbst aussuchen darf sich die Gruppe niemand.",
+   "quote_clean": "Am Ende entscheidet der Computer per Zufall. Wir haben ein Computerprogramm, das quasi per Zufall wie beim Lottozahlenziehen entscheidet: Dieser Patient kommt in die eine und der andere Patient in die andere Gruppe.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg stimmt; Schlusssatz im aha nicht belegt und widerspricht teils dem Ausschnitt (Placebo gegen Schmerzen), entfernt.",
+   "stand_note": "",
+   "statement": "In der Krebsforschung gibt es selten Placebo-Gruppen, weil es ethisch nicht vertretbar wäre, Krebskranken nur Zucker zu geben.",
+   "question": "Warum bekommen in Krebsstudien selten Patient:innen ein Placebo?",
+   "answer": "Es wäre ethisch nicht vertretbar",
+   "distractors": [
+    "Placebos sind dafür zu teuer",
+    "Krebs reagiert stark auf Placebo",
+    "Es ist gesetzlich vorgeschrieben"
+   ],
+   "aha": "Zucker gegen Krebs wirkt nachweislich nicht. Darum bekommen in Annas Studie alle eine echte Behandlung, verglichen werden verschiedene Behandlungen miteinander.",
+   "quote_clean": "Der Placeboeffekt ist grundsätzlich wichtig in der Medizin. In der Onkologie haben wir das nicht so häufig, weil Zucker und Krebs – das ist schon ganz gut bewiesen, dass das nicht wirkt, und das wäre ethisch nicht vertretbar.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage ohne Wissenswert; Distraktoren ('Pharmamanager') beliebig.",
+   "stand_note": "",
+   "statement": "Medizin darf die Situation von Patient:innen nie verschlimmern: Entweder sie verbessert etwas, oder sie lässt es.",
+   "question": "Wer hat's gesagt: „Entweder wir verbessern es oder wir lassen es.“?",
+   "answer": "Anna Berghoff",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Ethikkommissionsmitglied",
+    "Ein Pharmamanager"
+   ],
+   "aha": "Anna sagt das über Therapien, die ohne Beweis eingesetzt wurden und Menschen geschadet haben. Ihre Konsequenz: Demut, Regeln einhalten und erst prüfen, dann behandeln.",
+   "quote_clean": "Das darf Medizin nicht machen. Entweder wir verbessern es oder wir lassen es.",
+   "quality": 1
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Erklärung belegt; aha-Schluss ungenau (Anna wurde am zweiten Studientag geprägt, nicht 'zur Onkologie gebracht').",
+   "stand_note": "",
+   "statement": "Zielgerichtete Therapie schaltet gezielt das Signal aus, mit dem sich eine Tumorzelle selbst zum Wachsen antreibt, worauf die Zelle stirbt.",
+   "question": "Wie funktioniert eine zielgerichtete Krebstherapie?",
+   "answer": "Sie schaltet das Wachstumssignal der Zelle aus",
+   "distractors": [
+    "Sie bestrahlt den ganzen Körper",
+    "Sie vergiftet alle schnell wachsenden Zellen",
+    "Sie ersetzt das Immunsystem"
+   ],
+   "aha": "Krebszellen sagen sich ständig selbst: wachse, wachse, wachse. Findet man den Schalter dafür und legt ihn um, stirbt die Zelle. Von diesem Ansatz hörte Anna schon an ihrem zweiten Studientag, und er hat sie nie mehr losgelassen.",
+   "quote_clean": "Man sagt: Ich habe eine Information über die Zelle, und über diese Information sagt sich die Zelle immer wieder: „Wachse, wachse, wachse.“ Und wenn ich ganz spezifisch diese Information ausschalte, dann stirbt die Tumorzelle. Das ist zielgerichtete Therapie.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage ohne Wissenswert; aha-Inhalt (Beirat, Sicherheitskomitee) nicht im Ausschnitt belegt.",
+   "stand_note": "",
+   "statement": "Wissenschaftler:innen müssen Meinungen von außen zulassen, ob ihre eigene Idee wirklich gut ist.",
+   "question": "Wer hat's gesagt: „Du musst die Meinungen von außen zulassen, ob es wirklich eine gute Idee ist.“?",
+   "answer": "Anna Berghoff",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Pharmamanager",
+    "Ein Gesundheitsminister"
+   ],
+   "aha": "Darum braucht jede Studie die Freigabe einer unabhängigen Ethikkommission und, bei Medizinprodukten, des Bundesamts. Dazu kommen ein internationaler Beirat und ein Sicherheitskomitee.",
+   "quote_clean": "Das ist eine gute Idee. Super, dass du draufgekommen bist, aber du musst die Meinungen von außen zulassen, ob es wirklich eine gute Idee ist.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt; Frage präzisiert, aha ohne nicht belegten Begriff 'Drug-Screen' und Laborant:innen neu formuliert.",
+   "stand_note": "",
+   "statement": "Weil die Studie ein Medizinprodukt testet, muss nachgewiesen werden, dass niemand vom Roboterarm des Testgeräts verletzt wird.",
+   "question": "Was muss Annas Team für die Behörde unter anderem nachweisen?",
+   "answer": "Dass niemand vom Roboterarm erschlagen wird",
+   "distractors": [
+    "Dass der Roboter Deutsch versteht",
+    "Dass der Roboter nachts abschaltet",
+    "Dass der Roboter in Österreich gebaut ist"
+   ],
+   "aha": "Getestet wird kein Medikament, sondern ein Medizinprodukt, nämlich der Test mit dem Roboterarm. Er muss immer gleich ablaufen, und die Anwender:innen dürfen dabei nicht verletzt werden. Das ist die Regulatorik, die zusätzlich zur Ethikkommission nötig ist.",
+   "quote_clean": "Keiner der Anwender wird verletzt. Also niemand darf vom Roboterarm erschlagen werden. Das müssen wir nachweisen.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage ohne Faktenwert; Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Ob ein Mensch ein Jahr oder anderthalb Jahre hat, macht einen großen Unterschied; Lebenszeit lässt sich nicht in einen Wert herunterbrechen.",
+   "question": "Wer hat's gesagt: „Das ist einfach Lebenszeit und das lässt sich nicht herunterbrechen, wie viel das wert ist.“?",
+   "answer": "Anna Berghoff",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Gesundheitsökonom",
+    "Ein Krankenkassen-Chef"
+   ],
+   "aha": "So viel Aufwand für ein paar Monate? Das hat Annas Papa am Abendbrottisch auch gefragt. Ihre Antwort: Wenn es deine Mama oder Partnerin ist, sind ein paar Monate alles.",
+   "quote_clean": "Dann macht das einen Unterschied, ob du ein Jahr oder anderthalb oder vielleicht auch die Aussicht auf mehr hast. Das ist einfach Lebenszeit, und das lässt sich nicht herunterbrechen, wie viel das wert ist.",
+   "quality": 1
+  }
+ ],
+ "id": "392",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

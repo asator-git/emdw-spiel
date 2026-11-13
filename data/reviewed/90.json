@@ -1,0 +1,280 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok (1347 s, Paris 2015), Faktum stimmt (Dezember 2015); Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Das Pariser Klimaabkommen, auf das sich die Staaten gemeinsam geeinigt haben, wurde 2015 beschlossen.",
+   "question": "In welchem Jahr wurde das Pariser Klimaabkommen beschlossen?",
+   "answer": "2015",
+   "distractors": [
+    "2009",
+    "2012",
+    "2018"
+   ],
+   "aha": "Im Dezember 2015 haben sich in Paris fast alle Staaten der Welt auf gemeinsame Klimaziele geeinigt. Anna lobt das Einigen, kritisiert aber, dass danach bei der Umsetzung wenig weitergegangen ist.",
+   "quote_clean": "Man hat 2015 beim Übereinkommen in Paris gesehen, dass sich die Staaten auf sehr viel einigen konnten und zumindest gesagt haben:",
+   "quality": 2
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg ok (1249-1266 s); Aussage ist Annas Wiedergabe der Wissenschaft (IPCC-Szenarien für 1,5 Grad), in Frage und Statement als solche gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Anna Lindorfer sagt, die Wissenschaft verlange, dass der ganze Planet bis 2050 klimaneutral sein muss, um unter 1,5 Grad zu bleiben.",
+   "question": "Bis zu welchem Jahr muss der ganze Planet laut Anna Lindorfer unter Berufung auf die Wissenschaft klimaneutral sein, um unter 1,5 Grad zu bleiben?",
+   "answer": "2050",
+   "distractors": [
+    "2030",
+    "2070",
+    "2100"
+   ],
+   "aha": "Das Jahr 2050 stammt aus den Szenarien des Weltklimarats für das 1,5-Grad-Ziel. Klingt weit weg, aber Anna erinnert daran, wie langsam die Politik oft ist.",
+   "quote_clean": "Ein klares Ziel ist, was die Wissenschaft sagt: dass die Erde, der ganze Planet, bis 2050 klimaneutral sein muss,",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok (1278-1320 s); EU-Ziel 2050 stimmt, Ende 2019 aktuell verhandelt; FFF-Forderung 2040 im Transkript belegt.",
+   "stand_note": "Stand 2019",
+   "statement": "Die EU will mit ihrem Green Deal bis 2050 der erste klimaneutrale Kontinent werden.",
+   "question": "Bis wann will die EU laut ihrem Green Deal der erste klimaneutrale Kontinent sein?",
+   "answer": "2050",
+   "distractors": [
+    "2030",
+    "2040",
+    "2060"
+   ],
+   "aha": "Den Green Deal hat die EU-Kommission im Dezember 2019 vorgestellt, also genau zur Zeit dieser Folge. Fridays for Future war das zu spät: Sie forderten 2040.",
+   "quote_clean": "Es wird ein neuer Deal verhandelt, wo die EU sagt, sie möchte der erste Kontinent sein, der klimaneutral ist, 2050.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok (594-609 s), Abkürzung stimmt, Distraktoren erfunden und eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Der IPCC (Weltklimarat) ist ein Gremium von Wissenschaftler:innen aus der ganzen Welt, die den Stand der Klimaforschung zusammentragen.",
+   "question": "Wofür steht die Abkürzung IPCC?",
+   "answer": "Intergovernmental Panel on Climate Change",
+   "distractors": [
+    "International Panel of Carbon Control",
+    "Institute for Planetary Climate Change",
+    "International Protocol on Carbon Cuts"
+   ],
+   "aha": "Auf Deutsch heißt der IPCC Weltklimarat. Er forscht nicht selbst, sondern fasst zusammen, was tausende Studien sagen, und genau darauf beruft sich Fridays for Future.",
+   "quote_clean": "Die Wissenschaft, der IPCC-Report – das ist das Intergovernmental Panel on Climate Change, ein Gremium an Wissenschaftlern und Wissenschaftlerinnen, die auf der ganzen Welt zusammenarbeiten.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Beleg ok (804-825 s); die Originalfrage war nicht eindeutig (auch Verkehr, Heizen etc. wirken stark), jetzt auf den Ernährungsbereich bezogen und als Annas Verweis auf den IPCC gerahmt.",
+   "stand_note": "",
+   "statement": "Anna Lindorfer verweist auf den Weltklimarat: Der Fleischkonsum hat eine sehr große Auswirkung auf das Treibhausgasbudget.",
+   "question": "Welcher Teil unserer Ernährung hat laut Anna Lindorfer unter Berufung auf den Weltklimarat eine sehr große Auswirkung auf das Treibhausgasbudget?",
+   "answer": "Der Fleischkonsum",
+   "distractors": [
+    "Der Obstkonsum",
+    "Der Salzverbrauch",
+    "Der Wasserkonsum"
+   ],
+   "aha": "Ernährung hat laut Anna eine viel größere Auswirkung auf das Klima, als man denkt. Rinder stoßen etwa Methan aus, und für Futter wird viel Land gerodet.",
+   "quote_clean": "Der IPCC, den ich vorhin erwähnt habe, sagt, dass der Fleischkonsum grundsätzlich eine sehr große Auswirkung auf unser Treibhausgasbudget hat,",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok (810-821 s), Definition korrekt, Distraktoren eindeutig anders.",
+   "stand_note": "",
+   "statement": "Das Treibhausgasbudget ist die Menge an Emissionen, die die Menschheit noch ausstoßen darf, um unter 1,5 Grad Erwärmung zu bleiben.",
+   "question": "Was ist mit dem Treibhausgasbudget gemeint?",
+   "answer": "Emissionen, die wir noch ausstoßen dürfen",
+   "distractors": [
+    "Geld für Klimaschutz pro Jahr",
+    "Steuern auf Treibhausgase",
+    "Emissionen eines Landes pro Jahr"
+   ],
+   "aha": "Stell dir das wie ein Konto vor, von dem jede Tonne CO2 abgebucht wird. Ist es leer, ist das 1,5-Grad-Ziel nicht mehr zu halten.",
+   "quote_clean": "Eine sehr große Auswirkung auf unser Treibhausgasbudget hat, also die Emissionen, die wir noch ausstoßen dürfen, um unter 1,5 Grad zu bleiben.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg ok (1117-1156 s, mit „ich glaube“ eingeleitet); als anschauliche Darstellungsform formuliert, unbelegte Zahl „drei Planeten“ aus dem aha gestrichen.",
+   "stand_note": "",
+   "statement": "Der ökologische Fußabdruck lässt sich anschaulich so ausdrücken, wie viele Erden man bräuchte, wenn alle Menschen so leben würden wie man selbst.",
+   "question": "Wie lässt sich der ökologische Fußabdruck anschaulich ausdrücken?",
+   "answer": "Wie viele Erden man bräuchte, wenn alle so leben",
+   "distractors": [
+    "Wie viel Müll man im Jahr macht",
+    "Wie viele Bäume man pflanzen müsste",
+    "Wie viel Strom man im Jahr verbraucht"
+   ],
+   "aha": "Der Fußabdruck rechnet auch versteckte Emissionen mit, zum Beispiel in Fleischprodukten oder in der Infrastruktur. Das macht ein abstraktes Problem greifbar: Leben alle so wie du, wie viele Erden bräuchte es?",
+   "quote_clean": "Der ökologische Fußabdruck zeigt einem an, wie viele Welten man brauchen würde, wenn jeder so lebt.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "transkription",
+    "kontext"
+   ],
+   "note": "Transkript sagt „nicht mehr als eine Welt“, gemeint ist nach Kontext („fast unmöglich“) „nicht weniger“; quote_clean ist korrigiert, aha auf Belegtes begrenzt.",
+   "stand_note": "",
+   "statement": "Anna Lindorfer sagt, selbst wer in Österreich sehr bewusst lebt, schaffe es kaum, mit dem ökologischen Fußabdruck unter einer Erde zu bleiben.",
+   "question": "Schafft man es in Österreich laut Anna Lindorfer mit sehr bewusstem Lebensstil, unter einer Erde Fußabdruck zu bleiben?",
+   "answer": "Fast unmöglich",
+   "distractors": [
+    "Ja, ganz leicht",
+    "Ja, wenn man kein Auto hat",
+    "Ja, mit vegetarischer Ernährung"
+   ],
+   "aha": "Ein Teil des Fußabdrucks steckt in der gemeinsamen Infrastruktur und in versteckten Emissionen. Darum sagt Anna: Es liegt nicht vorwiegend an uns allein, sondern daran, wie wir als Gesellschaft zusammenleben.",
+   "quote_clean": "Auch wenn ich mich sehr bewusst ernähre und sehr bewusst verhalte, kann ich fast nicht weniger als eine Welt verbrauchen. Und das ist eigentlich irre.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok (1183-1201 s), Definition stimmt, Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Klimaneutral ist, wer gar keine Emissionen ausstößt oder die verbleibenden Emissionen wieder ausgleicht.",
+   "question": "Was bedeutet Klimaneutralität?",
+   "answer": "Keine Emissionen oder alle ausgeglichen",
+   "distractors": [
+    "Nur noch Ökostrom verwenden",
+    "Emissionen um die Hälfte senken",
+    "Keine fossilen Autos mehr"
+   ],
+   "aha": "Klimaneutral heißt nicht automatisch null Ausstoß. Was übrig bleibt, muss kompensiert werden, wie genau, findet Anna selbst sehr kompliziert.",
+   "quote_clean": "Bei der Klimaneutralität geht es darum, dass ein Staat, eine Region oder auch eine Institution, eine Firma, gar keine Emissionen ausstößt oder die Emissionen, die man ausstößt, wieder kompensiert.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-erzählt-es-Frage mit trivialer Antwort (Gästin), kaum Spielwert.",
+   "stand_note": "",
+   "statement": "Ein Lieblingsspruch von Fridays for Future lautet: „What do we want? Climate Justice.“",
+   "question": "Wer erzählt von diesem Lieblingsspruch der eigenen Bewegung: „What do we want? Climate Justice.“?",
+   "answer": "Anna Lindorfer",
+   "distractors": [
+    "Andreas Sator",
+    "Greta Thunberg",
+    "Ottmar Edenhofer"
+   ],
+   "aha": "Anna ist eine der Organisatorinnen von Fridays for Future Wien. Ihr geht es nicht nur um weniger Emissionen, sondern darum, dass die Ärmsten nicht die Last tragen.",
+   "quote_clean": "Da sagen wir auch bei Fridays for Future, einer unserer Lieblingssprüche ist: What do we want? Climate Justice.",
+   "quality": 1
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg ok (537-548 s); Anna nennt Alltagsänderungen ausdrücklich auch sinnvoll, Statement entsprechend präzisiert; es ist ihre persönliche Einschätzung, daher „laut Anna“.",
+   "stand_note": "",
+   "statement": "Anna Lindorfer meint, man könne im Alltag vieles tun, das Wichtigste sei aber, die Stimme zu erheben.",
+   "question": "Was ist laut Anna Lindorfer das Wichtigste, das jede:r gegen den Klimawandel tun kann?",
+   "answer": "Die Stimme erheben",
+   "distractors": [
+    "Kein Fleisch mehr essen",
+    "Nicht mehr fliegen",
+    "Plastik vermeiden"
+   ],
+   "aha": "Ernährung oder Verkehr umzustellen ist laut Anna gut, aber nicht das Entscheidende. Auch Andreas nimmt mit: Wichtig ist, auf das Thema aufmerksam zu machen, auf der Straße, in der Klasse oder in der Arbeit.",
+   "quote_clean": "Mein großer Tipp ist immer: Man kann tausend Sachen im Alltag dagegen machen. Man kann seine Ernährung umstellen, den Transport. Aber das Wichtige ist, die Stimme zu erheben und zu sagen: So kann es eigentlich nicht sein.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt mit schwacher Herleitbarkeit, dazu Buchwerbung im Umfeld; kaum Spielwert.",
+   "stand_note": "",
+   "statement": "Große Veränderungen kann nur die Politik anstoßen, die Politik selbst wird aber von der Gesellschaft angestoßen.",
+   "question": "Wer zieht am Ende der Folge dieses Fazit: „Die großen Veränderungen kann nur die Politik anstoßen. Aber die wiederum wird angestoßen von der Gesellschaft“?",
+   "answer": "Andreas Sator",
+   "distractors": [
+    "Anna Lindorfer",
+    "Denise",
+    "Marti Rando"
+   ],
+   "aha": "Andreas meldet sich nach dem Interview der HLW-Schülerinnen selbst zu Wort. Über genau diese Idee hat er auch ein Kapitel in seinem Buch „Alles gut“ geschrieben.",
+   "quote_clean": "Wichtig ist: Die großen Veränderungen kann nur die Politik anstoßen. Aber die wiederum wird angestoßen von der Gesellschaft, also von uns allen.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok (1433-1469 s), klare Antwort, Distraktoren eindeutig falsch, sympathischer Moment.",
+   "stand_note": "",
+   "statement": "Auf die Frage nach dem Fortgehen sagt Anna, ihre größte Party sei der letzte Klimastreik gewesen.",
+   "question": "Wo war laut Anna ihre größte Party?",
+   "answer": "Beim Klimastreik am Freitag",
+   "distractors": [
+    "Im Clubbing am Gürtel",
+    "Auf dem Donauinselfest",
+    "Bei der Oma zu Hause"
+   ],
+   "aha": "Gemeinsam tanzen und singen am gesperrten Ring hat ihr Bild vom Fortgehen verändert. Klimapolitik soll nämlich auch Spaß machen, findet sie.",
+   "quote_clean": "Meine größte Party war tatsächlich letzten Freitag beim Streik.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Gedächtnisfrage zu einem Scherz, nicht herleitbar; aha enthält Details (drei Schülerinnen, Wiener HLW), die im Ausschnitt nicht belegt sind.",
+   "stand_note": "",
+   "statement": "In dieser Folge führt die Schülerin Denise das Interview, und Andreas stellt danach augenzwinkernd fest, dass er ersetzbar ist.",
+   "question": "Welche „schlimme Nachricht“ nimmt Andreas aus dieser Folge mit?",
+   "answer": "Dass er ersetzbar ist",
+   "distractors": [
+    "Dass er zu viel fliegt",
+    "Dass er Flexitarier ist",
+    "Dass sein Mikro kaputt war"
+   ],
+   "aha": "Drei Schülerinnen einer Wiener HLW haben die Folge im Rahmen ihrer Diplomarbeit gestaltet. Andreas war so angetan, dass er sich glatt Sorgen um seinen Job macht.",
+   "quote_clean": "Was nehme ich mir mit? Erstens eine für mich schlimme Nachricht, nämlich, dass ich ersetzbar bin. Denise hat das meiner Meinung nach sensationell gut gemacht.",
+   "quality": 2
+  }
+ ],
+ "id": "90",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

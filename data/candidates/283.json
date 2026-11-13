@@ -1,0 +1,736 @@
+{
+ "theme": "Wissenschaft & Technik",
+ "summary": "Was bringt mir ChatGPT eigentlich? Malcolm Werchota zeigt, wie man mit KI redet statt googelt – vom Kochplan bis zum Data Scientist.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 120,
+   "speaker": "Malcolm Werchota",
+   "quote": "israel hat 10 Millionen Einwohner und hat 70 Unicorns das heißt es ist ein extrem innovatives Umfeld",
+   "quote_clean": "Israel hat 10 Millionen Einwohner und hat 70 Unicorns, das heißt, es ist ein extrem innovatives Umfeld.",
+   "statement": "Israel hat bei rund 10 Millionen Einwohner:innen etwa 70 Unicorns, Österreich bei ähnlicher Größe nur vier oder fünf.",
+   "question": "Österreich hat etwa vier bis fünf Unicorns. Wie viele hat Israel mit ähnlich vielen Einwohner:innen?",
+   "answer": "Rund 70",
+   "distractors": [
+    "Rund 15",
+    "Rund 30",
+    "Rund 150"
+   ],
+   "number_value": 70,
+   "number_unit": "Unicorns",
+   "slider_min": 0,
+   "slider_max": 200,
+   "log_scale": false,
+   "aha": "Gleich groß wie Österreich, aber gut zehnmal so viele Start-ups mit Milliardenbewertung. Malcolm hat dort für Novartis gearbeitet und erzählt, wie extrem innovativ das Umfeld ist – kein Wunder, dass er gerade dort zum ersten Mal ChatGPT in einer Firma ausgerollt hat.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Start-ups",
+    "Israel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 102,
+   "speaker": "Malcolm Werchota",
+   "quote": "wenn man diese Unicorns kennt das sind diese firme die mit mehr als eine Milliarde Euro bewertet werden",
+   "quote_clean": "Wenn man diese Unicorns kennt: Das sind diese Firmen, die mit mehr als einer Milliarde Euro bewertet werden.",
+   "statement": "Als Unicorn bezeichnet man ein Start-up, das mit mehr als einer Milliarde bewertet wird.",
+   "question": "Ab wann gilt ein Start-up als „Unicorn“?",
+   "answer": "Ab einer Milliarde Bewertung",
+   "distractors": [
+    "Ab 100 Millionen Umsatz",
+    "Ab 1.000 Mitarbeiter:innen",
+    "Ab dem Börsengang"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Einhörner heißen sie, weil solche Firmen früher so selten waren wie das Fabeltier. Gemeint ist der Wert, den Investor:innen dem Unternehmen geben – nicht Umsatz oder Gewinn, die können sogar noch bei null liegen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Start-ups",
+    "Wirtschaft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 266,
+   "speaker": "Malcolm Werchota",
+   "quote": "der große Fehler den viele Leute machen ist dass sie versuchen diese Modelle zu benutzen wie Google warum wir haben 20 Jahre lang gelernt wie man mit google arbeitet zwei drei Wörter ganz kurz und prägnant aber das funktioniert bei diesen Modellen nicht",
+   "quote_clean": "Der große Fehler, den viele Leute machen, ist, dass sie versuchen, diese Modelle wie Google zu benutzen. Wir haben 20 Jahre lang gelernt, wie man mit Google arbeitet: zwei, drei Wörter, kurz und prägnant. Aber das funktioniert bei diesen Modellen nicht.",
+   "statement": "Viele benutzen KI-Chatbots wie eine Suchmaschine mit wenigen Stichworten, dabei brauchen diese Modelle viel Kontext und Erklärung.",
+   "question": "Was ist laut Malcolm Werchota der häufigste Fehler beim Umgang mit ChatGPT?",
+   "answer": "Man tippt Stichworte wie bei Google",
+   "distractors": [
+    "Man stellt zu viele Fragen hintereinander",
+    "Man schreibt zu höflich",
+    "Man nutzt die Gratisversion"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zwanzig Jahre Google haben uns beigebracht, möglichst knapp zu tippen. Ein Sprachmodell will aber das Gegenteil: Wer ihm erzählt, wer er ist, was er vorhat und was der Chef will, kriegt eine viel bessere Antwort. Malcolm rät deshalb, am besten gleich hineinzureden statt zu tippen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Prompting",
+    "ChatGPT"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 319,
+   "speaker": "Malcolm Werchota",
+   "quote": "ich benutze chpt aber da kommt eigentlich nur Mist raus dann denk mir ja weil du tust auch eigentlich Mist rein extrem wenig Information",
+   "quote_clean": "Ich benutze ChatGPT, aber da kommt eigentlich nur Mist raus. Dann denk ich mir: Ja, weil du tust auch eigentlich Mist rein, extrem wenig Information.",
+   "statement": "Wer einem Sprachmodell kaum Informationen gibt, bekommt auch schlechte Antworten.",
+   "question": "Wer sagt im Podcast: „Da kommt nur Mist raus, weil du tust auch Mist rein“?",
+   "answer": "Malcolm Werchota",
+   "distractors": [
+    "Andreas Sator",
+    "Ethan Mollick",
+    "Adam Davidson"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das klassische „Garbage in, garbage out“, nur auf Wienerisch-afrikanisch-schweizerisch. Malcolm hört den Satz in Firmen ständig und antwortet immer gleich: mehr Kontext rein, dann kommt auch mehr raus.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Prompting",
+    "Zitat"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 374,
+   "speaker": "Malcolm Werchota",
+   "quote": "wir haben riesen Rechenzentrum die diese Anzahl von Daten antrainieren können und irgendwann mal wortwörtlich hat's klick gemacht",
+   "quote_clean": "Wir haben riesige Rechenzentren, die diese Menge an Daten antrainieren können, und irgendwann hat es wortwörtlich Klick gemacht.",
+   "statement": "Große Sprachmodelle funktionieren erst seit wenigen Jahren so gut, weil es nun riesige Rechenzentren gibt, die mit enormen Textmengen trainieren können.",
+   "question": "Warum funktionieren Sprachmodelle wie ChatGPT erst seit ein paar Jahren so gut?",
+   "answer": "Riesige Rechenleistung zum Trainieren",
+   "distractors": [
+    "Das Internet ist erst jetzt groß genug",
+    "Neue Programmiersprachen",
+    "Bessere Mikrofone"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Modelle werden mit Büchern, Texten, YouTube-Videos und Podcasts gefüttert – und dafür braucht es gigantische Rechenzentren. Erst als genug Rechenpower da war, hat es laut Malcolm „Klick“ gemacht und die Maschinen haben plötzlich gut auf ganz normale Sprache reagiert.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "KI",
+    "Technik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1381,
+   "speaker": "Malcolm Werchota",
+   "quote": "200.000 Tokens sind ca 500 Seiten das ist schon krass dass so ein Modell sich 500 Seiten einfach aufnehmen kann",
+   "quote_clean": "200.000 Tokens sind ca. 500 Seiten. Das ist schon krass, dass so ein Modell sich 500 Seiten einfach aufnehmen kann.",
+   "statement": "Das KI-Modell Claude konnte sich Ende 2023 etwa 200.000 Tokens merken, das entspricht rund 500 Seiten Text.",
+   "question": "Claude konnte sich Ende 2023 rund 200.000 Tokens merken. Wie vielen Buchseiten entspricht das ungefähr?",
+   "answer": "Rund 500 Seiten",
+   "distractors": [
+    "Rund 50 Seiten",
+    "Rund 2.000 Seiten",
+    "Rund 10.000 Seiten"
+   ],
+   "number_value": 500,
+   "number_unit": "Seiten",
+   "slider_min": 10,
+   "slider_max": 5000,
+   "log_scale": true,
+   "aha": "Ein Token ist ungefähr ein Wortteil, darum ist die Rechnung nicht ganz eins zu eins. Und das Modell liest die 500 Seiten nicht in zehn Stunden wie wir, sondern in ein paar Sekunden – Malcolm vergleicht damit gleich zwei 300-Seiten-Jahresberichte.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "KI",
+    "Kontextlänge"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1354,
+   "speaker": "Malcolm Werchota",
+   "quote": "wenn du lange mit chatgpt redest dann vergissst chatchpt irgendwann mal was du auch oben angesagt hast weil die kontextlänge woran er sich also erinnert ist sehr restriktiert",
+   "quote_clean": "Wenn du lange mit ChatGPT redest, dann vergisst ChatGPT irgendwann, was du weiter oben gesagt hast, weil die Kontextlänge, also woran es sich erinnert, sehr beschränkt ist.",
+   "statement": "In langen Gesprächen vergisst ChatGPT irgendwann, was am Anfang gesagt wurde, weil seine Kontextlänge begrenzt ist.",
+   "question": "Warum vergisst ChatGPT in sehr langen Chats, was du am Anfang geschrieben hast?",
+   "answer": "Die Kontextlänge ist begrenzt",
+   "distractors": [
+    "Es löscht alte Chats aus Datenschutz",
+    "Es wird absichtlich gedrosselt",
+    "Es speichert nur Fragen, keine Antworten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Sprachmodell hat eine Art Arbeitsgedächtnis, gemessen in Tokens. Ist das voll, fällt das Älteste raus – wie bei einem Gespräch, wo man nach drei Stunden nicht mehr weiß, wie's angefangen hat. Darum vergleicht Malcolm gern Modelle mit größerem Gedächtnis.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "KI",
+    "Kontextlänge"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1471,
+   "speaker": "Malcolm Werchota",
+   "quote": "die zeigen dass man besser ist also dass die Antworten besser von Chat GPT und diesen Modellen sind wenn man emotional mit diesen Modellen redet",
+   "quote_clean": "Die zeigen, dass die Antworten von ChatGPT und diesen Modellen besser sind, wenn man emotional mit diesen Modellen redet.",
+   "statement": "Eine Studie aus 2023 zeigt: Sprachmodelle antworten besser, wenn man emotional mit ihnen redet.",
+   "question": "Was verbessert laut einer Studie von 2023 die Antworten von ChatGPT?",
+   "answer": "Emotional mit dem Modell reden",
+   "distractors": [
+    "Möglichst kurze Befehle",
+    "Alles in Großbuchstaben schreiben",
+    "Auf Englisch statt Deutsch fragen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Satz wie „Das ist wirklich wichtig für meinen Job“ bringt laut der Studie weniger Halluzinationen und bessere Antworten. Klingt verrückt, aber Malcolm sagt: Das ist belegt, und viele merken es selbst.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Prompting",
+    "Studie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1525,
+   "speaker": "Malcolm Werchota",
+   "quote": "das ist wirklich wichtig für mein Job dann sagt das Modell um Gottes will das ist jetzt wichtig für sein Job da muss ich ein bisschen mehr aufpassen",
+   "quote_clean": "„Das ist wirklich wichtig für meinen Job.“ Dann sagt das Modell: Um Gottes willen, das ist jetzt wichtig für seinen Job, da muss ich ein bisschen mehr aufpassen.",
+   "statement": "Weil Sprachmodelle mit emotionalen menschlichen Texten trainiert wurden, reagieren sie auf Sätze wie „Das ist wichtig für meinen Job“ mit sorgfältigeren Antworten.",
+   "question": "Warum hilft es, ChatGPT zu sagen, dass etwas „wirklich wichtig für meinen Job“ ist?",
+   "answer": "Es wurde mit emotionalen Texten trainiert",
+   "distractors": [
+    "Es bekommt dann mehr Rechenzeit",
+    "Es schaltet einen Profi-Modus frei",
+    "Es sucht dann zusätzlich bei Google"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Modelle haben aus Literatur und YouTube-Videos gelernt – und da steckt jede Menge Emotion drin. Also reagieren sie wie ein Kollege: Bei „kannst mal einen Bericht machen“ wird's Durchschnitt, bei „meine Karriere hängt dran“ schaut man lieber zweimal hin.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Prompting",
+    "KI"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1673,
+   "speaker": "Andreas Sator",
+   "quote": "bei mir steht jetzt z.B drin ich gebe dir ein trink Geld von 200$ wenn du gut arbeitest das scheinbar funktioniert auch",
+   "quote_clean": "Bei mir steht jetzt z.B. drin: Ich gebe dir ein Trinkgeld von 200 Dollar, wenn du gut arbeitest. Das funktioniert scheinbar auch.",
+   "statement": "Andreas hat in seinen ChatGPT-Anweisungen stehen, dass er dem Modell 200 Dollar Trinkgeld gibt, wenn es gut arbeitet.",
+   "question": "Womit motiviert Andreas ChatGPT in seinen benutzerdefinierten Anweisungen?",
+   "answer": "Mit 200 Dollar Trinkgeld",
+   "distractors": [
+    "Mit einem Lob am Ende",
+    "Mit einer Fünf-Sterne-Bewertung",
+    "Mit einem Leckerli"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gezahlt wird natürlich nie. Auf Reddit kursierten noch skurrilere Tricks, etwa „Ich habe keine Finger, bitte hilf mir“ oder ein versprochener Leckerbissen wie für einen Hund. Malcolm bestätigt: Fällt alles unter emotionale Reize und wirkt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Prompting",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1644,
+   "speaker": "Andreas Sator",
+   "quote": "man kann ja bei jetgbt wenn man die premiumvion für 20$ im Monat hat kann man auch so Benutzer deffinierte Anweisungen geben",
+   "quote_clean": "Man kann bei ChatGPT, wenn man die Premiumversion für 20 Dollar im Monat hat, auch benutzerdefinierte Anweisungen geben.",
+   "statement": "Die Premiumversion von ChatGPT kostete Ende 2023 20 Dollar im Monat.",
+   "question": "Wie viel kostete die Premiumversion von ChatGPT Ende 2023 pro Monat?",
+   "answer": "20 Dollar",
+   "distractors": [
+    "5 Dollar",
+    "50 Dollar",
+    "100 Dollar"
+   ],
+   "number_value": 20,
+   "number_unit": "Dollar",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Malcolm rechnet's gleich um: Wo er wohnt, eine Stunde von Zürich, sind das zwei Bier. Dafür bekommt man GPT-4, Bilder-Erkennung und einen Assistenten, der quasi das ganze Internet intus hat.",
+   "difficulty": 1,
+   "time_sensitive": true,
+   "tags": [
+    "ChatGPT",
+    "Preis"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2051,
+   "speaker": "Malcolm Werchota",
+   "quote": "ich muss dafür jemand der mir 100.000 € im Jahr kostet einstellen jetzt kann jede Person in der Firma ein besserer data scientist sein",
+   "quote_clean": "Ich muss dafür jemanden einstellen, der mir 100.000 Euro im Jahr kostet. Jetzt kann jede Person in der Firma ein besserer Data Scientist sein.",
+   "statement": "Ein Data Scientist kostet ein Unternehmen laut Malcolm Werchota rund 100.000 Euro im Jahr, mit ChatGPT können auch andere Mitarbeitende Daten analysieren.",
+   "question": "Wie viel kostet ein Data Scientist eine Firma laut Malcolm Werchota pro Jahr?",
+   "answer": "Rund 100.000 Euro",
+   "distractors": [
+    "Rund 40.000 Euro",
+    "Rund 250.000 Euro",
+    "Rund 500.000 Euro"
+   ],
+   "number_value": 100000,
+   "number_unit": "Euro",
+   "slider_min": 10000,
+   "slider_max": 500000,
+   "log_scale": false,
+   "aha": "Malcolm zeigt das an Sensordaten eines Industrieroboters: ChatGPT findet Anomalien, zeichnet Korrelations- und Streudiagramme und erklärt sie. Statt 100.000 Euro im Jahr zahlt man 20 im Monat – den Menschen zum Nachprüfen braucht's trotzdem.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Arbeit",
+    "Daten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1951,
+   "speaker": "Malcolm Werchota",
+   "quote": "die Admin oder die empfangsperson Male oder female die am Eingang bei euch sitzt ist ein besserer data scientist wie jeden data scientist den ja anstellt",
+   "quote_clean": "Die Admin oder die Empfangsperson, die am Eingang bei euch sitzt, ist ein besserer Data Scientist als jeder Data Scientist, den ihr anstellt.",
+   "statement": "Malcolm Werchota sagt Firmen provokant, dass die Empfangsperson mit ChatGPT ein besserer Data Scientist sei als jeder, den sie anstellen.",
+   "question": "Wer ist laut Malcolm Werchota mit ChatGPT „ein besserer Data Scientist“ als jeder angestellte?",
+   "answer": "Die Empfangsperson am Eingang",
+   "distractors": [
+    "Der Praktikant im Marketing",
+    "Die Geschäftsführerin",
+    "Ein Mathematikstudent"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Natürlich ist das zugespitzt – genau so steigt Malcolm in Firmen ein, um die Leute wachzurütteln. Sein Punkt: Wer fragen kann, kann mit ChatGPT Daten analysieren, ohne selbst Statistik studiert zu haben.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Arbeit",
+    "Zitat"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1160,
+   "speaker": "Malcolm Werchota",
+   "quote": "aber was ich gerne sage ist Leute vier augenprinzip okay diese Modelle helfen euch damit ihr jetzt nicht bei 0% anfängt",
+   "quote_clean": "Aber was ich gerne sage: Leute, Vier-Augen-Prinzip. Diese Modelle helfen euch, damit ihr nicht bei 0 % anfängt.",
+   "statement": "Malcolm Werchota empfiehlt beim Arbeiten mit KI das Vier-Augen-Prinzip: Die KI bringt einen auf 80 Prozent, den Rest prüft und verbessert der Mensch.",
+   "question": "Welches Prinzip empfiehlt Malcolm Werchota gegen KI-Halluzinationen?",
+   "answer": "Das Vier-Augen-Prinzip",
+   "distractors": [
+    "Das Pareto-Prinzip",
+    "Das Zwei-Quellen-Prinzip",
+    "Das Vorsichtsprinzip"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die KI ist quasi das erste Augenpaar: Sie bringt dich auf 80 Prozent und erspart dir Stunden. Dann gehst du mit deiner eigenen Erfahrung drüber – am Ende steht ja dein Name drunter, wie Malcolm zu Andreas sagt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Halluzination",
+    "Arbeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1141,
+   "speaker": "Malcolm Werchota",
+   "quote": "eine Halluzination ist ein bisschen was du gesagt hast das heißt dass diese Modelle Daten erfinden die es nicht gibt",
+   "quote_clean": "Eine Halluzination ist ein bisschen das, was du gesagt hast: Das heißt, dass diese Modelle Daten erfinden, die es nicht gibt.",
+   "statement": "Wenn ein KI-Sprachmodell Daten oder Fakten erfindet, die es nicht gibt, spricht man von Halluzination.",
+   "question": "Wie nennt man es, wenn ChatGPT Fakten erfindet, die es nicht gibt?",
+   "answer": "Halluzination",
+   "distractors": [
+    "Projektion",
+    "Deepfake",
+    "Overfitting"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas kennt das: Freund:innen haben ChatGPT einmal ein erfundenes Buch genannt bekommen und vertrauen ihm seither nicht. Laut Malcolm wird das Problem kleiner, nachprüfen sollte man trotzdem.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "KI",
+    "Halluzination"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2609,
+   "speaker": "Malcolm Werchota",
+   "quote": "du kannst es überbrücken du kannst die Windows htaste drücken und wenn du die Windows htaste drückst",
+   "quote_clean": "Du kannst es überbrücken: Du kannst die Windows-H-Taste drücken, und wenn du die Windows-H-Taste drückst, kriegst du eine Diktierfunktion.",
+   "statement": "Mit der Tastenkombination Windows + H öffnet sich unter Windows eine Diktierfunktion.",
+   "question": "Welche Tastenkombination startet unter Windows die Diktierfunktion?",
+   "answer": "Windows + H",
+   "distractors": [
+    "Windows + D",
+    "Strg + Alt + M",
+    "Windows + S"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas meinte, schade, dass man mit dem Computer noch nicht reden kann. Malcolm hat den Trick parat: Windows + H, dann diktierst du hinein und die Antwort kommt geschrieben zurück.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Tipp",
+    "Computer"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2347,
+   "speaker": "Malcolm Werchota",
+   "quote": "keiner hat das so schön zusammengefasst wie du das ist so richtig eigentlich musst du nur konversieren können und das kann eine",
+   "quote_clean": "Keiner hat das so schön zusammengefasst wie du: Eigentlich musst du nur konversieren können, und das kann eine Fünfjährige auch.",
+   "statement": "Um ChatGPT zu nutzen, muss man laut Malcolm Werchota nur ein Gespräch führen können – das kann auch eine Fünfjährige.",
+   "question": "Was muss man laut Malcolm Werchota eigentlich können, um ChatGPT zu nutzen?",
+   "answer": "Einfach ein Gespräch führen",
+   "distractors": [
+    "Programmieren",
+    "Gut Englisch schreiben",
+    "Prompt-Formeln auswendig"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Seine fünfjährige Tochter drückt einfach den Knopf und erzählt der App, wer sie ist und was sie wissen will. Erwachsene dagegen sitzen vor der Technik und glauben, jetzt anders reden zu müssen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "ChatGPT",
+    "Zitat"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4609,
+   "speaker": "Malcolm Werchota",
+   "quote": "dann hat jeder gesagt um Gottes Willen jetzt kommen die Bankautomaten jetzt werden diese ganzen Schalter beam verschwinden aber das stimmt nicht die sind mitgegangen mit der Technologie",
+   "quote_clean": "Dann hat jeder gesagt: Um Gottes willen, jetzt kommen die Bankomaten, jetzt werden die ganzen Schalterbeamten verschwinden. Aber das stimmt nicht, die sind mitgegangen mit der Technologie.",
+   "statement": "Als Bankomaten aufkamen, befürchtete man das Ende der Schalterbeamt:innen; tatsächlich verschwanden sie nicht, ihr Job veränderte sich.",
+   "question": "Was passierte mit den Schalterbeamt:innen, als die Bankomaten kamen?",
+   "answer": "Ihr Job veränderte sich",
+   "distractors": [
+    "Fast alle wurden gekündigt",
+    "Sie wurden Bankomat-Techniker",
+    "Sie gingen in Frühpension"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Früher ging man zur Bank, um Geld abzuheben. Heute geht man hin, um einen Kredit oder eine Versicherung zu besprechen. Genau so, meint Malcolm, wird KI die Natur vieler Jobs ändern, statt sie einfach abzuschaffen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Arbeit",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 4289,
+   "speaker": "Andreas Sator",
+   "quote": "dafür muss man keine Prozesse Organisationen Systeme ändern und um sie bis ich das durchgesetzt hat hat das 40 Jahre gedauert",
+   "quote_clean": "Dafür muss man keine Prozesse, Organisationen oder Systeme ändern, und bis sich das durchgesetzt hat, hat das 40 Jahre gedauert.",
+   "statement": "Laut Ökonomen dauerte es rund 40 Jahre, bis sich Elektrizität in der Wirtschaft wirklich durchgesetzt hat.",
+   "question": "Wie viele Jahre dauerte es laut Ökonomen, bis sich Elektrizität wirklich durchgesetzt hat?",
+   "answer": "Rund 40 Jahre",
+   "distractors": [
+    "Rund 5 Jahre",
+    "Rund 15 Jahre",
+    "Rund 100 Jahre"
+   ],
+   "number_value": 40,
+   "number_unit": "Jahre",
+   "slider_min": 0,
+   "slider_max": 120,
+   "log_scale": false,
+   "aha": "Zuerst wurde nur die Petroleumlampe durch eine Glühbirne ersetzt – praktisch, aber nichts Grundlegendes. Erst als Fabriken, Prozesse und Systeme neu gedacht wurden, hat Strom alles verändert. Malcolm glaubt, bei KI geht's schneller, weil der Druck von den Firmen kommt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Geschichte",
+    "Elektrizität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 4403,
+   "speaker": "Malcolm Werchota",
+   "quote": "es ist nicht die KI die uns den Job wegnehmen wird sondern es ist jemand der die KI benutzt",
+   "quote_clean": "Es ist nicht die KI, die uns den Job wegnehmen wird, sondern es ist jemand, der die KI benutzt.",
+   "statement": "Nicht die KI nimmt uns den Job weg, sondern jemand, der die KI benutzt.",
+   "question": "Wer nimmt uns laut Malcolm Werchota den Job weg?",
+   "answer": "Jemand, der KI benutzt",
+   "distractors": [
+    "Die KI selbst",
+    "Billigere Arbeitskräfte",
+    "Roboter in den Fabriken"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Satz, den man schon tausendmal gehört hat, gibt Malcolm zu – aber er glaubt dran. Wer KI früh nutzt, versteht Kund:innen, Daten und Texte besser und läuft den anderen schlicht davon.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Arbeit",
+    "KI"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4477,
+   "speaker": "Andreas Sator",
+   "quote": "es ist seit einiger Zeit kann können KI mododelle rönken Ergebnisse besser analysieren als Radiologen",
+   "quote_clean": "Es ist seit einiger Zeit so, dass KI-Modelle Röntgenergebnisse besser analysieren können als Radiologen.",
+   "statement": "KI-Modelle können Röntgenbilder inzwischen teils besser auswerten als Radiolog:innen, trotzdem müssen erst ganze Prozesse umgestellt werden.",
+   "question": "In welchem medizinischen Fach analysieren KI-Modelle Ergebnisse laut einem Ökonomen-Buch teils besser als Fachärzt:innen?",
+   "answer": "Radiologie",
+   "distractors": [
+    "Dermatologie",
+    "Chirurgie",
+    "Psychiatrie"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas zitiert das Buch „Power and Prediction“. Der Haken: Damit die KI tatsächlich Röntgenbilder befundet, müssen Spitäler, Abläufe und Verantwortung neu organisiert werden – genau wie damals bei der Elektrizität.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Medizin",
+    "KI"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4151,
+   "speaker": "Malcolm Werchota",
+   "quote": "poe.com ist von corora und das Schöne ist die haben hier extrem viele Modelle drinnen",
+   "quote_clean": "Poe.com ist von Quora, und das Schöne ist: Die haben hier extrem viele Modelle drinnen.",
+   "statement": "Die Plattform Poe.com von Quora bündelt viele verschiedene KI-Modelle an einem Ort.",
+   "question": "Was bietet die Plattform Poe.com?",
+   "answer": "Viele KI-Modelle an einem Ort",
+   "distractors": [
+    "Einen KI-Bildgenerator",
+    "Ein Prompt-Wörterbuch",
+    "Gratis-Zugang zu GPT-5"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Malcolms Tipp für Fortgeschrittene wie Andreas: Dieselbe Frage gleichzeitig an GPT-4, Claude, Llama oder Mistral stellen und schauen, wer gerade am besten hilft. Manchmal gewinnt sogar ein ganz kleines Modell.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "KI",
+    "Tools"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3419,
+   "speaker": "Malcolm Werchota",
+   "quote": "es gibt so schöne McKinsey Studien die sagen eine der Top Drei Prioritäten von jedem CEO ist im Moment KI",
+   "quote_clean": "Es gibt McKinsey-Studien, die sagen, eine der Top-3-Prioritäten von jedem CEO ist im Moment KI.",
+   "statement": "Laut McKinsey-Studien zählt KI derzeit zu den drei wichtigsten Prioritäten von CEOs.",
+   "question": "Welchen Stellenwert hat KI laut McKinsey-Studien derzeit bei CEOs?",
+   "answer": "Unter den Top 3 Prioritäten",
+   "distractors": [
+    "Auf Platz 10 der Prioritäten",
+    "Kaum relevant, eher IT-Thema",
+    "Nur in Tech-Konzernen wichtig"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Privat probieren viele ChatGPT einmal aus und lassen es wieder. In Firmen ist der Druck viel größer: Wer sieht, dass die Konkurrenz davonläuft, investiert in Trainings – und davon lebt Malcolm inzwischen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Wirtschaft",
+    "KI"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 0,
+   "speaker": "Andreas Sator",
+   "quote": "hallo ich bin Andreas und das ist erklär mir die Welt der Podcast mit dem du die Welt jede Woche ein bisschen besser verstehen sollst",
+   "quote_clean": "Hallo, ich bin Andreas, und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "statement": "Andreas beginnt jede Folge mit dem Satz, dass man mit dem Podcast die Welt jede Woche ein bisschen besser verstehen soll.",
+   "question": "Wie geht der Einstiegssatz von Andreas weiter: „… der Podcast, mit dem du die Welt …“?",
+   "answer": "„jede Woche ein bisschen besser verstehen sollst“",
+   "distractors": [
+    "„endlich ganz verstehen wirst“",
+    "„jeden Tag neu entdecken kannst“",
+    "„ein bisschen anders sehen sollst“"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Seit 2018 derselbe Einstieg, und diesmal geht's um ChatGPT. Wobei Malcolm vermutlich vorschlagen würde, den Satz von einem Sprachmodell noch ein bisserl emotionaler formulieren zu lassen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Podcast",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 2527,
+   "speaker": "Andreas Sator",
+   "quote": "ich immer bisschen mit chgbt wir haben stadtlandfluss gespielt und haben einfach chatbt mitspielen lassen und hat auch funktioniert",
+   "quote_clean": "Ich quäle meine Freundin immer ein bisschen mit ChatGPT: Wir haben Stadt-Land-Fluss gespielt und ChatGPT einfach mitspielen lassen, und es hat auch funktioniert.",
+   "statement": "Andreas und seine Freundin haben ChatGPT bei Stadt-Land-Fluss mitspielen lassen.",
+   "question": "Welches Spiel hat Andreas mit seiner Freundin und ChatGPT gespielt?",
+   "answer": "Stadt-Land-Fluss",
+   "distractors": [
+    "Activity",
+    "Wer bin ich?",
+    "Scrabble"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas nutzt die App beim Kochen über die Bluetooth-Box und lässt sich Artikel zusammenfassen – und eben auch fürs Spieleabend-Upgrade. Malcolm findet das „extrem unüblich“ und gleichzeitig die logischste Art, die Technik zu nutzen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Alltag",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "283",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

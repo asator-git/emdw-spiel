@@ -1,0 +1,280 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 209 s ('dreimal so weit'); entspricht dem gängigen Effizienzvorteil von E-Antrieben.",
+   "stand_note": "",
+   "statement": "Ein batteriebetriebenes Elektroauto kommt mit derselben Energie etwa dreimal so weit wie ein Verbrenner.",
+   "question": "Wievielmal so weit kommt ein E-Auto mit derselben Energiemenge wie ein Verbrenner?",
+   "answer": "Etwa dreimal so weit",
+   "distractors": [
+    "Etwa gleich weit",
+    "Etwa eineinhalbmal so weit",
+    "Etwa zehnmal so weit"
+   ],
+   "aha": "Beim Verbrenner geht der Großteil der Energie als Abwärme verloren, die beim Fahren einfach verpufft. Der Elektromotor setzt den Strom viel direkter in Bewegung um. Deshalb spart Elektrifizieren unterm Strich Energie.",
+   "quote_clean": "Deswegen kann man mit dem gleichen Energieaufwand, wenn es um Verbrennermotoren im Vergleich zu batteriebetriebenen Elektrofahrzeugen geht, dreimal so weit fahren.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Beleg bei 256 s, Zahl passt zur GeoSphere-Bilanz für 2024; Bezugszeitraum des 'langjährigen Mittels' wird im Gespräch nicht genannt, daher als Aussage aus dem Gespräch gerahmt.",
+   "stand_note": "Stand 2024",
+   "statement": "Laut Andreas Sator lag die mittlere Temperatur in Österreich 2024 um 3,1 Grad über dem langjährigen Mittel.",
+   "question": "Um wie viel Grad lag die mittlere Temperatur in Österreich 2024 laut Andreas über dem langjährigen Mittel?",
+   "answer": "3,1 Grad",
+   "distractors": [
+    "0,8 Grad",
+    "1,5 Grad",
+    "5,2 Grad"
+   ],
+   "aha": "Das ist deutlich mehr als der globale Schnitt, weil sich der Alpenraum stärker erwärmt. Über den Klimawandel muss man in Österreich also nicht mehr im Futur reden, man sieht ihn schon, wie Andreas im Gespräch sagt.",
+   "quote_clean": "2024 war die mittlere Temperatur in Österreich 3,1 Grad höher als im langjährigen Mittel.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 584-613 s (50 Millionen Skitage im Jahr); Größenordnung stimmt mit Branchenangaben überein.",
+   "stand_note": "Stand 2026",
+   "statement": "In Österreich werden pro Jahr rund 50 Millionen Skitage gezählt.",
+   "question": "Wie viele Skitage gibt es in Österreich pro Jahr ungefähr?",
+   "answer": "Rund 50 Millionen",
+   "distractors": [
+    "Rund 5 Millionen",
+    "Rund 15 Millionen",
+    "Rund 200 Millionen"
+   ],
+   "aha": "Ein Skitag ist ein Mensch an einem Tag auf der Piste: Wer drei Tage Ski fährt, steuert drei Skitage bei. Für so ein kleines Land ist das enorm, laut Andreas ist Österreich damit die drittgrößte Skination der Welt.",
+   "quote_clean": "Mich hat's noch mal geflasht, wie ich das nachgelesen habe: Österreich hat 50 Millionen Skitage im Jahr. Wenn ich drei Tage Skifahren gehe, sind das drei Skitage.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "veraltet",
+    "kontext"
+   ],
+   "note": "Die 94 % sind mehrdeutig (erzeugt oder verbraucht, welches Jahr) und liegen über gängigen Bilanzwerten für Österreich; als Fakt nicht belastbar.",
+   "stand_note": "",
+   "statement": "Rund 94 Prozent des österreichischen Stroms stammen aus erneuerbaren Quellen.",
+   "question": "Wie viel Prozent des Stroms in Österreich kommen aus erneuerbaren Energien?",
+   "answer": "Rund 94 Prozent",
+   "distractors": [
+    "Rund 45 Prozent",
+    "Rund 65 Prozent",
+    "Rund 78 Prozent"
+   ],
+   "aha": "Klingt nach fast fertig, ist es aber nicht, weil Strom nur einen kleinen Teil des gesamten Energiebedarfs ausmacht.",
+   "quote_clean": "Es gibt ja die Erfolgszahl: 94 Prozent von österreichischem Strom werden schon aus erneuerbaren Energien generiert.",
+   "quality": 1
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1725-1742 s; Frage klarer formuliert, Distraktoren albern und deshalb ersetzt.",
+   "stand_note": "",
+   "statement": "Beim 1982 eröffneten alten WU-Gebäude in Wien brauchte man laut Sigrid Stagl schon in den 1990er-Jahren mehr Energie fürs Kühlen im Sommer als fürs Heizen im Winter.",
+   "question": "Was stellte man beim 1982 eröffneten alten WU-Gebäude in Wien schon in den 1990er-Jahren fest?",
+   "answer": "Fürs Kühlen brauchte es mehr Energie als fürs Heizen",
+   "distractors": [
+    "Fürs Heizen brauchte es weiterhin deutlich mehr Energie",
+    "Heizen und Kühlen brauchten gleich viel Energie",
+    "Das Gebäude kam ohne Heizung und Kühlung aus"
+   ],
+   "aha": "Früher hat man Häuser nach Süden ausgerichtet und mit viel Glas gebaut, damit die Sonne im Winter gratis mitheizt. Im Sommer wird das aber zum Glashaus. Beim alten WU-Gebäude, an dem Andreas und Sigrid beide studiert haben, hat sich dieser Vorteil schon in den 90ern umgedreht.",
+   "quote_clean": "Man hat aber relativ bald gemerkt, dass es schon in den 90er Jahren gekippt ist: Man hat mehr Energie fürs Kühlen im Sommer gebraucht als fürs Heizen im Winter.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1787 s; Physik (kühle Luft sinkt ab) stimmt, Aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Flächenkühlung wirkt physikalisch am besten in der Decke, weil kühle Luft absinkt.",
+   "question": "Wo wirkt eine Flächenkühlung im Raum physikalisch am besten?",
+   "answer": "In der Decke",
+   "distractors": [
+    "Im Fußboden",
+    "Hinter den Fenstern",
+    "In der Eingangstür"
+   ],
+   "aha": "Kalte Luft ist schwerer und sinkt nach unten, also verteilt sich die Kühle von der Decke aus im Raum. Einfacher einzubauen ist es, eine Fußbodenheizung im Sommer umzudrehen, das geht mit derselben Wärmepumpe.",
+   "quote_clean": "Physikalisch gesehen ist es natürlich am besten, wenn die Flächenkühlung in der Decke ist, weil kühle Luft absinkt. Da wirkt sie am stärksten.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1848 s; entspricht der bekannten Studie zu Klima-Analogstädten, Andreas formuliert als 'Erwartung'.",
+   "stand_note": "Stand 2026",
+   "statement": "Das Klima in Wien soll in den nächsten Jahrzehnten jenem von Skopje in Nordmazedonien ähneln.",
+   "question": "Wessen heutigem Klima soll Wien in den nächsten Jahrzehnten ähneln?",
+   "answer": "Skopje in Nordmazedonien",
+   "distractors": [
+    "Oslo in Norwegen",
+    "Kairo in Ägypten",
+    "Dublin in Irland"
+   ],
+   "aha": "In Skopje leben die Menschen auch und kommen durch den Sommer, aber es braucht Anpassung. Produktiv im Homeoffice zu sein wird bei solchen Temperaturen eine besondere Anstrengung, und für verletzliche Gruppen ist es noch heikler.",
+   "quote_clean": "Es gibt die Erwartung, dass das Klima in Wien über die nächsten Jahrzehnte so ähnlich sein wird wie in Skopje.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 1877-1907 s; Erklärung ist die der Gästin (Lethargie), nicht die einzige Ursache, daher als ihre Aussage gerahmt.",
+   "stand_note": "",
+   "statement": "Laut Sigrid Stagl werden ältere Menschen bei Hitze durch Flüssigkeitsmangel lethargisch und trinken dadurch noch weniger, daher muss man sie ans Trinken erinnern.",
+   "question": "Warum muss man ältere Menschen bei Hitze laut Sigrid Stagl ans Trinken erinnern?",
+   "answer": "Dehydrierung macht lethargisch, sie trinken weniger",
+   "distractors": [
+    "Hitze verstärkt das Durstgefühl zu stark",
+    "Wasser wird im Alter schlechter verdaut",
+    "Ältere vertragen kaltes Wasser nicht"
+   ],
+   "aha": "Ein Teufelskreis: Wer zu wenig trinkt, wird matt, und wer matt ist, trinkt noch weniger. Gelernt hat man das laut Sigrid aus einer großen Hitzewelle in Frankreich. Die Maßnahme ist simpel, muss aber organisiert werden, gerade wenn jemand allein lebt.",
+   "quote_clean": "Sobald sie dehydrieren, werden sie lethargisch, und aufgrund der Lethargie trinken sie dann noch weniger. Man muss sie also daran erinnern, dass sie trinken.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1950 s (Erzählung der Mutter, hörensagen); unbelegte Behauptung im Aha entfernt, Distraktoren glaubwürdiger gemacht.",
+   "stand_note": "",
+   "statement": "Laut Sigrid Stagl durfte ihre Mutter, die in Wien in Büros arbeitete, bei über 30 Grad nach Hause gehen.",
+   "question": "Was durfte Sigrid Stagls Mutter laut ihrer Erzählung in Wiener Büros bei über 30 Grad?",
+   "answer": "Nach Hause gehen",
+   "distractors": [
+    "Früher Mittagspause machen",
+    "Barfuß arbeiten",
+    "Im Homeoffice bleiben"
+   ],
+   "aha": "Klimaanlagen gab es in den 60er-Jahren keine. Dass man bei Hitze kaum produktiv sein kann, ist laut Sigrid seit Langem bekannt und gut belegt.",
+   "quote_clean": "Meine Mutter hat mir erzählt, sie hat in Büros in Wien gearbeitet, und über 30 Grad durften sie nach Hause gehen, weil man davon ausgegangen ist, dass man da nicht produktiv sein kann.",
+   "quality": 2
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2208 s; Aha deckt sich mit dem Ausschnitt (Mischwald statt Monokultur).",
+   "stand_note": "",
+   "statement": "Den Borkenkäfer gab es immer, gefährlich wird er erst in Kombination mit Fichten-Monokulturen und Hitzestress.",
+   "question": "Warum richtet der Borkenkäfer heute so viel mehr Schaden an als früher?",
+   "answer": "Hitzegestresste Monokulturen können sich nicht wehren",
+   "distractors": [
+    "Er wurde erst vor Kurzem eingeschleppt",
+    "Seine natürlichen Feinde wurden ausgerottet",
+    "Er hat sich genetisch stark verändert"
+   ],
+   "aha": "Gesunde Bäume halten den Käfer in Schach, gestresste nicht mehr. Fichtenplantagen wuchsen schnell und brachten Ertrag, sind aber anfällig. Jetzt wird im Waldviertel mit Mischwald aufgeforstet, der Temperaturschwankungen besser aushält.",
+   "quote_clean": "Borkenkäfer hat es immer gegeben, nur die gestressten Bäume sind des Borkenkäfers nicht mehr Herr geworden. Die Kombination Monokultur, Hitzestress und Borkenkäfer war dann wirklich problematisch im Waldviertel.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2280 s; in Hitzewellen wurden französische AKW tatsächlich mehrfach gedrosselt, 'oft' ist Andreas' Formulierung.",
+   "stand_note": "",
+   "statement": "In Frankreich müssen Atomkraftwerke bei Hitze oft gedrosselt werden, weil das Kühlwasser fehlt.",
+   "question": "Warum müssen französische Atomkraftwerke bei Hitzewellen manchmal heruntergefahren werden?",
+   "answer": "Zu wenig Wasser zum Kühlen",
+   "distractors": [
+    "Die Stromnachfrage bricht ein",
+    "Die Brennstäbe schmelzen schneller",
+    "Die Stromleitungen werden zu heiß"
+   ],
+   "aha": "Kraftwerke brauchen Flusswasser zum Kühlen, und im heißen Sommer führen die Flüsse wenig Wasser. Auch Österreichs Wasserkraft wird laut Sigrid darunter leiden, weil die Flüsse im Sommer weniger Wasser führen und sich der Wasserhaushalt mit den Gletschern verändert.",
+   "quote_clean": "In Frankreich müssen bei Hitze oft die Atomkraftwerke heruntergefahren werden, weil es zu wenig Wasser gibt, um sie zu kühlen.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage ohne Rätselwert (die Gästin spricht), Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Sigrid Stagl verweist auf die Natur als Vorbild für Kreislaufwirtschaft, weil sie nichts verschwendet.",
+   "question": "Wer sagt im Podcast: „Die Natur verschwendet auch nicht“ und meint damit die Kreislaufwirtschaft?",
+   "answer": "Sigrid Stagl",
+   "distractors": [
+    "Andreas Sator",
+    "Gernot Stöglehner",
+    "Jason Hickel"
+   ],
+   "aha": "Ausgraben, verwenden, als Müll wieder eingraben: So läuft das lineare Modell. In der Natur wird alles wiederverwertet.",
+   "quote_clean": "Die Natur verschwendet auch nicht. Die Natur hat keine linearen Produktionsprozesse, sondern führt alles immer im Kreis, und so ist es möglich, sehr langfristig erfolgreich zu wirtschaften.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage ohne Rätselwert, Distraktoren beliebig (Polanyi, Hickel kommen im Ausschnitt nicht vor).",
+   "stand_note": "",
+   "statement": "Für Sigrid Stagl ist jedes geeignete Dach ohne Photovoltaik eine brachliegende Ressource.",
+   "question": "Wer nennt im Podcast ein Dach ohne Solaranlage eine „brachliegende Ressource“?",
+   "answer": "Sigrid Stagl",
+   "distractors": [
+    "Andreas Sator",
+    "Karl Polanyi",
+    "Jason Hickel"
+   ],
+   "aha": "Inzwischen gelten nicht nur Süddächer als geeignet, sondern auch Ost- und Westdächer.",
+   "quote_clean": "Wenn man die Dächer nicht mit Photovoltaikanlagen bestückt, sind sie ungenutzte Ressourcen. Ein Dach ist eigentlich eine brachliegende Ressource, wo man einfach eine Photovoltaikanlage draufgeben kann.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Triviale Frage nach einer Jahreszahl in Andreas' Überleitung, kein Erkenntnisgewinn.",
+   "stand_note": "",
+   "statement": "Andreas bittet Sigrid Stagl, ein positives Bild von Österreich im Jahr 2050 zu zeichnen.",
+   "question": "In welches Jahr lässt Andreas Sigrid Stagl für ihr positives Zukunftsbild blicken?",
+   "answer": "2050",
+   "distractors": [
+    "2030",
+    "2040",
+    "2100"
+   ],
+   "aha": "Sigrid freut sich sichtlich über die Frage, weil ihr positive Zukunftsbilder fehlen.",
+   "quote_clean": "Sigrid, blicken wir in die Zukunft: Vision 2050, eine Generation später.",
+   "quality": 1
+  }
+ ],
+ "id": "395",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

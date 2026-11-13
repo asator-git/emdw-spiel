@@ -1,0 +1,713 @@
+{
+ "theme": "Gesundheit & Körper",
+ "summary": "Was passiert mit Kacke, wenn nach einem Erdbeben kein Kanal mehr da ist? Johannes Bousek vom Roten Kreuz erklärt Fäkalschlamm, Cholera und Kläranlagen.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 424,
+   "speaker": "Johannes Bousek",
+   "quote": "46 Prozent der Menschheit noch nicht Zugang zu einer adäquaten Sanitärversorgung, also einem funktionierenden guten Klo haben",
+   "quote_clean": "46 Prozent der Menschheit haben noch keinen Zugang zu einer adäquaten Sanitärversorgung, also einem funktionierenden guten Klo.",
+   "statement": "Rund 46 Prozent der Menschheit haben keinen Zugang zu einer adäquaten Sanitärversorgung.",
+   "question": "Wie viel Prozent der Menschheit haben keinen Zugang zu einer adäquaten Sanitärversorgung?",
+   "answer": "Rund 46 Prozent",
+   "distractors": [
+    "Rund 12 Prozent",
+    "Rund 25 Prozent",
+    "Rund 70 Prozent"
+   ],
+   "number_value": 46,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Fast jeder zweite Mensch hat kein funktionierendes, sicheres Klo – gemeint ist nicht einmal ein Kanalanschluss, sondern schon eine ordentliche Latrine. Genau deshalb steht Sanitärversorgung auch in den UN-Nachhaltigkeitszielen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Sanitär",
+    "Weltbevölkerung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 585,
+   "speaker": "Johannes Bousek",
+   "quote": "Und dann gab es 2010, ich habe es gerade nachgeschaut, der Cholera-Epidemie mit 180.000 Fällen und ungefähr 4.000 Toten.",
+   "quote_clean": "2010 gab es bei der Cholera-Epidemie 180.000 Fälle und ungefähr 4.000 Tote.",
+   "statement": "Die Cholera-Epidemie nach dem Erdbeben in Haiti 2010 hatte rund 180.000 Fälle und etwa 4.000 Tote.",
+   "question": "Wie viele Cholera-Fälle gab es 2010 nach dem Erdbeben in Haiti ungefähr?",
+   "answer": "Rund 180.000",
+   "distractors": [
+    "Rund 8.000",
+    "Rund 40.000",
+    "Rund 2 Millionen"
+   ],
+   "number_value": 180000,
+   "number_unit": "Fälle",
+   "slider_min": 1000,
+   "slider_max": 3000000,
+   "log_scale": true,
+   "aha": "Zerstörte Klos, Menschen auf der Straße, Stress und schlechtere Ernährung – ein Perfect Storm für eine Durchfallerkrankung. Gestorben sind rund 4.000 Menschen, also nicht jeder Fall endet tödlich, aber jeder Tote ist einer zu viel.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Cholera",
+    "Haiti"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1087,
+   "speaker": "Johannes Bousek",
+   "quote": "einigen wir uns mal darauf, wie viele Latrinen man pro, oder wie viele Personen eine Latrine bekommen. Das sind dann am Anfang einer Katastrophe 50 und danach 20 Leute.",
+   "quote_clean": "Einigen wir uns mal darauf, wie viele Personen eine Latrine bekommen. Das sind am Anfang einer Katastrophe 50 und danach 20 Leute.",
+   "statement": "Laut internationalen Mindeststandards (Sphere) teilen sich am Anfang einer Katastrophe bis zu 50 Menschen eine Latrine.",
+   "question": "Wie viele Menschen teilen sich laut internationalen Mindeststandards am Anfang einer Katastrophe eine Latrine?",
+   "answer": "50 Menschen",
+   "distractors": [
+    "5 Menschen",
+    "15 Menschen",
+    "200 Menschen"
+   ],
+   "number_value": 50,
+   "number_unit": "Menschen",
+   "slider_min": 1,
+   "slider_max": 300,
+   "log_scale": true,
+   "aha": "Hilfsorganisationen haben sich im Sphere-Projekt auf Mindeststandards geeinigt: zuerst 50, später 20 Leute pro Latrine. Das heißt Community-Klos statt eines eigenen für jede Familie – und dann muss sich auch jemand fürs Putzen verantwortlich fühlen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Katastrophenhilfe",
+    "Latrinen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1650,
+   "speaker": "Johannes Bousek",
+   "quote": "Bei uns ist das relativ einfach unter Anführungszeichen. Über 99 Prozent Österreichs sind ans Kanalnetz angeschlossen.",
+   "quote_clean": "Bei uns ist das relativ einfach, unter Anführungszeichen. Über 99 Prozent Österreichs sind ans Kanalnetz angeschlossen.",
+   "statement": "Über 99 Prozent Österreichs sind an das Kanalnetz angeschlossen.",
+   "question": "Wie viel Prozent Österreichs sind ans Kanalnetz angeschlossen?",
+   "answer": "Über 99 Prozent",
+   "distractors": [
+    "Rund 75 Prozent",
+    "Rund 85 Prozent",
+    "Rund 92 Prozent"
+   ],
+   "number_value": 99,
+   "number_unit": "Prozent",
+   "slider_min": 50,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Ob Küchenwaschbecken, Dusche oder Klo – fast alles landet bei uns im Kanal und rinnt zur Kläranlage. Senkgruben, die ausgepumpt werden müssen, kennt man eh fast nur noch von entlegenen Berghütten.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Österreich",
+    "Abwasser"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1735,
+   "speaker": "Johannes Bousek",
+   "quote": "und dieser Rechen hat eineinhalb Zentimeter Bandbreite, also da kann noch viel durch, wie Sandschotter, der mitgespült wird",
+   "quote_clean": "Dieser Rechen hat eineinhalb Zentimeter Spaltbreite, da kann noch viel durch, wie Sand und Schotter, der mitgespült wird.",
+   "statement": "Der Rechen am Eingang einer Kläranlage hat Lücken von etwa eineinhalb Zentimetern.",
+   "question": "Wie breit sind die Lücken im Rechen, der in der Kläranlage den groben Mist rausfängt?",
+   "answer": "Etwa 1,5 Zentimeter",
+   "distractors": [
+    "Etwa 1 Millimeter",
+    "Etwa 5 Zentimeter",
+    "Etwa 20 Zentimeter"
+   ],
+   "number_value": 1.5,
+   "number_unit": "Zentimeter",
+   "slider_min": 0.1,
+   "slider_max": 30,
+   "log_scale": true,
+   "aha": "Der Rechen ist das erste, was das Abwasser in der Kläranlage trifft, und er fängt alles ab, was nicht ins Klo gehört, weil es sonst die Pumpen verlegt. Sand und Schotter rutschen durch und werden erst danach abgesetzt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Kläranlage"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 255,
+   "speaker": "Johannes Bousek",
+   "quote": "Genauso wie in Wien. Der Grund für die Hochquellwasserleitung war die Cholera-Epidemie in den 1850ern",
+   "quote_clean": "Genauso wie in Wien: Der Grund für die Hochquellenwasserleitung war die Cholera-Epidemie in den 1850ern.",
+   "statement": "Die Wiener Hochquellenwasserleitung geht auf die Cholera-Epidemie in den 1850er-Jahren zurück.",
+   "question": "In welchem Jahrzehnt wütete die Cholera-Epidemie, die zum Bau der Wiener Hochquellenwasserleitung führte?",
+   "answer": "In den 1850ern",
+   "distractors": [
+    "In den 1750ern",
+    "In den 1910ern",
+    "In den 1950ern"
+   ],
+   "number_value": 1850,
+   "number_unit": "Jahrzehnt",
+   "slider_min": 1700,
+   "slider_max": 1960,
+   "log_scale": false,
+   "aha": "Wien bekam sein gutes Bergwasser nicht aus Genuss, sondern aus Angst vor der Cholera. Die ersten Kanäle haben das Abwasser dann übrigens ungeklärt in die Donau geschickt – besser, aber noch nicht gut.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wien",
+    "Geschichte",
+    "Cholera"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 546,
+   "speaker": "Johannes Bousek",
+   "quote": "Port-au-Prince ist auch eine ungefähr zwei Millionen Einwohner-Stadt, auch eine Betonhaus-Stadt.",
+   "quote_clean": "Port-au-Prince ist eine Stadt mit ungefähr zwei Millionen Einwohnern, auch eine Betonhaus-Stadt.",
+   "statement": "Haitis Hauptstadt Port-au-Prince hat ungefähr zwei Millionen Einwohner:innen.",
+   "question": "Wie viele Menschen leben ungefähr in Haitis Hauptstadt Port-au-Prince?",
+   "answer": "Rund 2 Millionen",
+   "distractors": [
+    "Rund 200.000",
+    "Rund 600.000",
+    "Rund 8 Millionen"
+   ],
+   "number_value": 2000000,
+   "number_unit": "Einwohner:innen",
+   "slider_min": 100000,
+   "slider_max": 15000000,
+   "log_scale": true,
+   "aha": "Port-au-Prince ist also ungefähr so groß wie Wien und besteht viel aus Betonhäusern, nicht aus Holz. Als das Erdbeben 2010 knapp vor der Stadt zuschlug, ist entsprechend viel in sich zusammengefallen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Haiti",
+    "Städte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1533,
+   "speaker": "Johannes Bousek",
+   "quote": "Es reicht schon, wenn ich die 30 Tonnen Material per Luftfracht wohin schicken muss, weil es sehr dringend ist.",
+   "quote_clean": "Es reicht schon, wenn ich die 30 Tonnen Material per Luftfracht wohin schicken muss, weil es sehr dringend ist.",
+   "statement": "Für einen Einsatz mit der transportablen Kläranlage müssen rund 30 Tonnen Material per Luftfracht verschickt werden.",
+   "question": "Wie viel Material muss für einen Einsatz der transportablen Rotkreuz-Kläranlage ungefähr eingeflogen werden?",
+   "answer": "Rund 30 Tonnen",
+   "distractors": [
+    "Rund 3 Tonnen",
+    "Rund 300 Tonnen",
+    "Rund 800 Kilo"
+   ],
+   "number_value": 30,
+   "number_unit": "Tonnen",
+   "slider_min": 1,
+   "slider_max": 500,
+   "log_scale": true,
+   "aha": "Transportabel heißt eben nicht, dass das Ding auf einen Lkw passt. Deshalb soll das Material möglichst vor Ort bleiben und Kolleg:innen aus der Region sollen es betreiben – billiger, kulturell näher und mit viel kleinerem CO2-Fußabdruck.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Rotes Kreuz",
+    "Logistik"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 702,
+   "speaker": "Johannes Bousek",
+   "quote": "Und das Problem war, dass halt genau ein UN-Soldat das Pech hatte, also der nach Haiti geflogen ist, das UN-Camp keine wirkliche Abwasserreinigung hatte und das Ganze dann den nächsten Fluss geleitet hat.",
+   "quote_clean": "Das Problem war, dass genau ein UN-Soldat, der nach Haiti geflogen ist, das Pech hatte, dass das UN-Camp keine wirkliche Abwasserreinigung hatte und das Ganze in den nächsten Fluss geleitet hat.",
+   "statement": "Die Cholera kam 2010 über ein UN-Camp ohne funktionierende Abwasserreinigung nach Haiti, eingeschleppt von einem UN-Soldaten aus Nepal.",
+   "question": "Wie kam die Cholera nach dem Erdbeben 2010 nach Haiti?",
+   "answer": "Über ein UN-Camp mit Soldaten aus Nepal",
+   "distractors": [
+    "Über verseuchte Hilfslieferungen aus Europa",
+    "Über Flüchtlinge aus der Dominikanischen Republik",
+    "Über Fischerboote aus Westafrika"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Nepal ist Cholera endemisch, und man kann das Bakterium in sich tragen, ohne krank zu sein. Das UN-Camp hat sein Abwasser in den Fluss geleitet – und so ist ein Keim aus Südasien plötzlich in der Karibik gelandet.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Cholera",
+    "Haiti",
+    "UN"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 693,
+   "speaker": "Johannes Bousek",
+   "quote": "Man muss zur Cholera auch noch dazu wissen, man kann Cholera, das Bakterium in sich tragen, ohne davon krank zu werden.",
+   "quote_clean": "Man muss zur Cholera auch noch wissen: Man kann das Bakterium in sich tragen, ohne davon krank zu werden.",
+   "statement": "Man kann das Cholera-Bakterium in sich tragen, ohne selbst krank zu werden.",
+   "question": "Kann man das Cholera-Bakterium in sich tragen, ohne krank zu sein?",
+   "answer": "Ja, das kommt vor",
+   "distractors": [
+    "Nein, man erkrankt immer sofort",
+    "Nur Kinder unter fünf Jahren",
+    "Nur nach einer Impfung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Manche Menschen haben die Cholera einfach in sich und merken nichts davon. Genau deshalb kann sie unbemerkt reisen – so wie 2010 von Nepal nach Haiti.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Cholera",
+    "Krankheiten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 384,
+   "speaker": "Johannes Bousek",
+   "quote": "man hat das Plumpsklo, das vielleicht zwei Meter tiefer, unten der Behälter, und daneben die Handpumpe, den Brunnen, der fünf Meter tiefer.",
+   "quote_clean": "Man hat das Plumpsklo mit dem Behälter vielleicht zwei Meter tief und daneben die Handpumpe, den Brunnen, fünf Meter tief.",
+   "statement": "In alten Wiener Innenhöfen lagen Plumpsklo und Brunnen oft nebeneinander, sodass Keime aus den Fäkalien ins Trinkwasser sickern konnten.",
+   "question": "Warum war das Wasser in alten Wiener Innenhöfen oft gefährlich?",
+   "answer": "Plumpsklo und Brunnen lagen zu nah beieinander",
+   "distractors": [
+    "Die Bleirohre vergifteten das Wasser",
+    "Regenwasser wurde ungefiltert getrunken",
+    "Die Donau überschwemmte die Brunnen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Klo zwei Meter tief, der Brunnen daneben fünf Meter tief: Die Bakterien aus dem Stuhl sickern hinunter und werden mehr oder weniger gleich wieder hinaufgepumpt. Klares Wasser heißt eben noch lange nicht sauberes Wasser.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wien",
+    "Geschichte",
+    "Hygiene"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 814,
+   "speaker": "Johannes Bousek",
+   "quote": "Also das sind die drei großen Dinge, die man machen kann. Wasseraufbereitung, sauberes Trinkwasser, gute Hygiene, etwas, das wir seit Covid eigentlich eh schon kennen, mehrfach kennen, auch als Europäer sehr gut, und passende Abwasserfäkalienentsorgung.",
+   "quote_clean": "Das sind die drei großen Dinge, die man machen kann: Wasseraufbereitung, also sauberes Trinkwasser, gute Hygiene, die wir seit Covid eh schon kennen, und passende Abwasser- und Fäkalienentsorgung.",
+   "statement": "Gegen Cholera helfen drei große Dinge: sauberes Trinkwasser, gute Hygiene und passende Fäkalienentsorgung.",
+   "question": "Welche drei Dinge unterbrechen laut Rotem Kreuz einen Cholera-Ausbruch am besten?",
+   "answer": "Trinkwasser, Hygiene, Fäkalienentsorgung",
+   "distractors": [
+    "Impfung, Quarantäne, Fiebermittel",
+    "Antibiotika, Masken, Ausgangssperren",
+    "Desinfektion, Fasten, Bettruhe"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Cholera dreht sich im Kreis: Ausscheidung, Wasser oder Hände, Mund. Chlor im Wasser, Seife an den Händen und ein Plumpsklo für die Fäkalien unterbrechen diesen Kreis jeweils an einer anderen Stelle.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Cholera",
+    "Hygiene"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1118,
+   "speaker": "Johannes Bousek",
+   "quote": "Das gleiche ist das Problem, warum die Plumpsklose oder die chemischen Klos am Festival nicht so schön ausschauen, weil sich keiner verantwortlich dafür fühlt.",
+   "quote_clean": "Das ist das gleiche Problem, warum die Plumpsklos oder die chemischen Klos am Festival nicht so schön ausschauen: weil sich keiner verantwortlich dafür fühlt.",
+   "statement": "Gemeinschaftsklos bleiben nur sauber, wenn sich die Nutzer:innen dafür verantwortlich fühlen – das gleiche Problem wie bei Festival-Klos.",
+   "question": "Warum schauen Festival-Klos laut dem Fäkalschlamm-Experten so grauslich aus?",
+   "answer": "Weil sich niemand verantwortlich fühlt",
+   "distractors": [
+    "Weil sie zu selten geleert werden",
+    "Weil die Chemikalien nicht wirken",
+    "Weil es zu wenige davon gibt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In der Katastrophenhilfe nennt man das Ownership: Wenn die Leute, die eine Community-Latrine benutzen, sie als ihre eigene sehen, putzen sie sie auch. Am Festival fühlt sich halt keiner zuständig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Latrinen",
+    "Festival"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 657,
+   "speaker": "Johannes Bousek",
+   "quote": "Zusätzlich in Haiti war das Problem, dass der Wasserspiegel, der Grundwasserspiegel, besonders in der Küstennähe, sehr hoch ist. Also man kann nicht einmal wirklich tief graben, es kommt einem sofort das Grundwasser entgegen.",
+   "quote_clean": "Zusätzlich war in Haiti das Problem, dass der Grundwasserspiegel, besonders in Küstennähe, sehr hoch ist. Man kann nicht wirklich tief graben, es kommt einem sofort das Grundwasser entgegen.",
+   "statement": "In Städten wie Port-au-Prince funktionieren gegrabene Latrinen schlecht, unter anderem weil der Grundwasserspiegel in Küstennähe sehr hoch ist.",
+   "question": "Warum konnte man in Haiti nach dem Erdbeben oft keine normalen Plumpsklos graben?",
+   "answer": "Das Grundwasser liegt zu hoch",
+   "distractors": [
+    "Der Boden war gefroren",
+    "Das Graben war gesetzlich verboten",
+    "Es fehlten Schaufeln und Werkzeug"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In der Stadt ist der Boden versiegelt, die Hinterhöfe gehören jemand anderem – und an der Küste kommt einem beim Graben sofort das Grundwasser entgegen. Deshalb hat man dort eher etwas wie die chemischen Klos vom Festival aufgestellt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Haiti",
+    "Latrinen",
+    "Grundwasser"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1938,
+   "speaker": "Johannes Bousek",
+   "quote": "weltweit Phosphor ist ein Mangelelement, es gibt nicht so viele Phosphorquellen, Phosphor braucht man aber zur Düngemittelherstellung.",
+   "quote_clean": "Weltweit ist Phosphor ein Mangelelement, es gibt nicht so viele Phosphorquellen, Phosphor braucht man aber zur Düngemittelherstellung.",
+   "statement": "Phosphor ist weltweit knapp, wird aber für Dünger gebraucht – und lässt sich aus Klärschlamm zurückgewinnen.",
+   "question": "Welcher knappe Dünger-Rohstoff lässt sich aus verbranntem Klärschlamm zurückgewinnen?",
+   "answer": "Phosphor",
+   "distractors": [
+    "Kalium",
+    "Schwefel",
+    "Magnesium"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Es gibt nicht viele Phosphorquellen auf der Welt, aber wir scheiden genug davon aus. Verbrennt man den Klärschlamm, kann man den Phosphor wieder rausholen und als Dünger zurück auf die Felder bringen – ein Kreislauf aus dem Klo.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Phosphor",
+    "Dünger",
+    "Kläranlage"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1787,
+   "speaker": "Johannes Bousek",
+   "quote": "Anaerob produziere ich Biogas, das ist eine Mischung aus Methan und CO2, Kohlendioxid, das ich dann wieder zum Beispiel in einem Generator verbrennen kann, um Strom zu produzieren.",
+   "quote_clean": "Anaerob produziere ich Biogas, eine Mischung aus Methan und CO2, die ich zum Beispiel in einem Generator verbrennen kann, um Strom zu produzieren.",
+   "statement": "Im Faulturm einer Kläranlage entsteht ohne Luft Biogas aus Methan und CO2, mit dem man Strom erzeugen kann.",
+   "question": "Was entsteht im Faulturm einer Kläranlage, wenn Mikroorganismen ohne Luft arbeiten?",
+   "answer": "Biogas aus Methan und CO2",
+   "distractors": [
+    "Reiner Sauerstoff",
+    "Wasserstoff und Ammoniak",
+    "Trinkbares Wasser"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Aerob heißt mit extra Luft, anaerob ganz ohne – und je nachdem kommt etwas anderes raus. Das Biogas aus dem Faulturm treibt einen Generator an, sodass manche Kläranlagen weniger Strom zukaufen müssen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kläranlage",
+    "Biogas"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1685,
+   "speaker": "Johannes Bousek",
+   "quote": "Die Kläranlage wird meistens am tiefsten Ort der Gemeinde gebaut, damit das einfach gravimetrisch hinunterfließen kann.",
+   "quote_clean": "Die Kläranlage wird meistens am tiefsten Ort der Gemeinde gebaut, damit das Abwasser einfach durch die Schwerkraft hinunterfließen kann.",
+   "statement": "Kläranlagen werden meist am tiefsten Punkt einer Gemeinde gebaut, damit das Abwasser von selbst hinfließt.",
+   "question": "Wo wird eine Kläranlage meistens gebaut?",
+   "answer": "Am tiefsten Ort der Gemeinde",
+   "distractors": [
+    "Am höchsten Punkt der Gemeinde",
+    "Direkt im Ortszentrum",
+    "Möglichst weit weg von Flüssen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wasser rinnt bergab, und das spart Energie: Liegt die Kläranlage ganz unten, fließt alles mit der Schwerkraft hin. Wo das nicht geht, braucht es Pumpstationen, die das Abwasser zwischendurch wieder hochpumpen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Kläranlage",
+    "Abwasser"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1862,
+   "speaker": "Johannes Bousek",
+   "quote": "Stickstoff und Phosphor sind die Dinge, die dann im Fluss zu Algenblüten führen. Das wollen wir wieder nicht, weil dann kippt der Fluss",
+   "quote_clean": "Stickstoff und Phosphor sind die Dinge, die im Fluss zu Algenblüten führen. Das wollen wir nicht, weil dann kippt der Fluss.",
+   "statement": "Stickstoff und Phosphor im Abwasser führen in Flüssen zu Algenblüten, bis das Gewässer kippt.",
+   "question": "Welche zwei Stoffe aus dem Abwasser lassen Flüsse durch Algenblüten kippen?",
+   "answer": "Stickstoff und Phosphor",
+   "distractors": [
+    "Chlor und Kalk",
+    "Eisen und Kupfer",
+    "Natrium und Kalium"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Selbst entkeimte Fäkalien sind noch Futter für Algen. Darum holen spezielle Mikroorganismen in der Kläranlage den Stickstoff raus und lagern den Phosphor ein, bevor das Wasser in den Bach darf.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Umwelt",
+    "Kläranlage",
+    "Flüsse"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1584,
+   "speaker": "Johannes Bousek",
+   "quote": "aber selbst bei uns sind bis in die 80er, 90er regelmäßig Flüsse haben geschäumt, haben andere Farben, sind gekippt",
+   "quote_clean": "Aber selbst bei uns haben bis in die 80er, 90er regelmäßig Flüsse geschäumt, hatten andere Farben, sind gekippt.",
+   "statement": "Auch in Österreich haben Flüsse bis in die 1980er und 1990er Jahre wegen Abwassers regelmäßig geschäumt und sind gekippt.",
+   "question": "Bis wann haben auch in Österreich Flüsse wegen Abwasser regelmäßig geschäumt und ihre Farbe gewechselt?",
+   "answer": "Bis in die 80er und 90er",
+   "distractors": [
+    "Bis in die 1920er",
+    "Bis kurz nach dem Zweiten Weltkrieg",
+    "Bis heute regelmäßig"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "So lange ist das gar nicht her: Viele Kläranlagen in Mitteleuropa sind erst nach dem Zweiten Weltkrieg entstanden. Ein gekippter Fluss ist nicht nur grauslich, sondern auch ein Problem für Fischer und alle, die weiter unten Wasser daraus brauchen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Österreich",
+    "Umwelt",
+    "Flüsse"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1466,
+   "speaker": "Johannes Bousek",
+   "quote": "und früher ist so Mitte der 90er, wo diese Emergency Response Units entwickelt worden sind, als Antwort auf die Genozide in Ostafrika, Ruanda",
+   "quote_clean": "Früher, das ist so Mitte der 90er, wurden diese Emergency Response Units entwickelt, als Antwort auf die Genozide in Ostafrika, in Ruanda.",
+   "statement": "Die Schnelleinsatzeinheiten (Emergency Response Units) des Roten Kreuzes wurden Mitte der 1990er als Antwort auf den Völkermord in Ruanda entwickelt.",
+   "question": "Als Antwort auf welches Ereignis entwickelte das Rote Kreuz Mitte der 90er seine Schnelleinsatzeinheiten?",
+   "answer": "Den Völkermord in Ruanda",
+   "distractors": [
+    "Den Tsunami im Indischen Ozean",
+    "Den Jugoslawienkrieg",
+    "Das Erdbeben in Haiti"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Damals hatte jedes Land seine eigene Einheit, Österreich etwa die Wassereinheiten. Heute mischt man die Teams: Material aus Österreich, dazu Leute aus Deutschland, Schweden oder Großbritannien.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Rotes Kreuz",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 180,
+   "speaker": "Johannes Bousek",
+   "quote": "Abwasser wird über einen Kanal zu einer Kläranlage transportiert. Fäkalschlamm wird am Grundstück oder in der Toilette selbst gesammelt, muss dann ausgepumpt werden",
+   "quote_clean": "Abwasser wird über einen Kanal zu einer Kläranlage transportiert. Fäkalschlamm wird am Grundstück oder in der Toilette selbst gesammelt und muss dann ausgepumpt werden.",
+   "statement": "Der Unterschied zwischen Abwasser und Fäkalschlamm: Abwasser fließt durch den Kanal, Fäkalschlamm wird vor Ort gesammelt und ausgepumpt.",
+   "question": "Was unterscheidet Fäkalschlamm von normalem Abwasser?",
+   "answer": "Er wird vor Ort gesammelt und abgepumpt",
+   "distractors": [
+    "Er enthält keine Bakterien mehr",
+    "Er stammt nur aus Krankenhäusern",
+    "Er wird direkt ins Meer geleitet"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Prinzip ist es dasselbe – der Unterschied ist der Weg. Wo es keinen Kanal gibt, wie bei Senkgruben auf Berghütten oder Dixi-Klos am Festival, kommt alle heiligen Zeiten jemand mit dem Kanalwagen und pumpt es ab.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Fäkalschlamm",
+    "Abwasser"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1249,
+   "speaker": "Johannes Bousek",
+   "quote": "Ich bin mit der Zeit vom Wort mobil weggegangen und sage transportabel. Mobil glauben die Leute immer, dass man es heute da, morgen da aufstellen kann.",
+   "quote_clean": "Ich bin mit der Zeit vom Wort mobil weggegangen und sage transportabel. Bei mobil glauben die Leute immer, dass man es heute da und morgen dort aufstellen kann.",
+   "statement": "Johannes Bousek nennt seine Kläranlage für Katastrophengebiete lieber transportabel als mobil, weil sie nicht täglich umgestellt werden kann.",
+   "question": "Warum spricht der Rotkreuz-Experte lieber von einer transportablen als von einer mobilen Kläranlage?",
+   "answer": "Man kann sie nicht täglich umstellen",
+   "distractors": [
+    "Mobil klingt zu teuer",
+    "Sie fährt auf eigenen Rädern",
+    "Das Wort mobil ist markenrechtlich geschützt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Anlage besteht aus großen Becken mit mehreren zehn Kubikmetern Speicher, Kläranlagen brauchen eben Platz und Energie. Transportabel heißt: Man bringt sie hin, baut sie auf und lässt sie im Idealfall gleich für das nächste Erdbeben dort.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Rotes Kreuz",
+    "Kläranlage"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1720,
+   "speaker": "Johannes Bousek",
+   "quote": "ich glaube, sie haben sogar mal eine Schlange drinnen gefunden, die es nicht überlebt hat.",
+   "quote_clean": "Ich glaube, sie haben sogar mal eine Schlange drinnen gefunden, die es nicht überlebt hat.",
+   "statement": "In der Hauptkläranlage Wien gibt es eine Sammlung kurioser Fundstücke aus dem Rechen – angeblich sogar eine Schlange.",
+   "question": "Welches kuriose Fundstück soll laut Johannes Bousek schon im Rechen der Wiener Hauptkläranlage gelandet sein?",
+   "answer": "Eine Schlange",
+   "distractors": [
+    "Ein Fahrrad",
+    "Ein Ehering mit Gravur",
+    "Ein Krokodil"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Von Binden über Plastikspielzeug bis zur Schlange: Der Rechen fängt alles ab, was nicht ins Klo gehört. Die Schlange hat es leider nicht überlebt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wien",
+    "Kläranlage"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 1640,
+   "speaker": "Andreas Sator",
+   "quote": "Johannes, letzte Frage, weil sich das jetzt sicher ein paar Leute fragen und ich mich auch. Was passiert eigentlich mit dem Abwasser in Österreich?",
+   "quote_clean": "Johannes, letzte Frage, weil sich das jetzt sicher ein paar Leute fragen und ich mich auch: Was passiert eigentlich mit dem Abwasser in Österreich?",
+   "statement": "Andreas fragt zum Schluss, was eigentlich mit dem Abwasser in Österreich passiert.",
+   "question": "Welche letzte Frage stellt Andreas in der Folge über Fäkalschlamm-Management?",
+   "answer": "Was mit Österreichs Abwasser passiert",
+   "distractors": [
+    "Ob der Gast selbst Plumpsklos benutzt",
+    "Wie man beim Roten Kreuz anfängt",
+    "Was das grauslichste Erlebnis war"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nach Haiti und Cholera holt Andreas das Thema zurück nach Hause. Die Antwort: Rechen, Absetzbecken, Faulturm, Belebungsbecken – und am Ende sauberes Wasser im Bach.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Abwasser"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "256",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

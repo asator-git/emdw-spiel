@@ -1,0 +1,707 @@
+{
+ "theme": "Österreich & Politik",
+ "summary": "Ich bringe hypothetisch wen in der Mark-Aurel-Straße um, und Florian Klenk erklärt, was das Strafrecht dann mit mir macht.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 170,
+   "speaker": "Florian Klenk",
+   "quote": "Im Gesetz steht, wer einen anderen tötet, ist mit Freiheitsstrafe von 10 bis zu 20 Jahren oder lebenslänglicher Freiheitsstrafe zu bestrafen.",
+   "quote_clean": "Im Gesetz steht: Wer einen anderen tötet, ist mit Freiheitsstrafe von 10 bis zu 20 Jahren oder lebenslänglicher Freiheitsstrafe zu bestrafen.",
+   "statement": "In Österreich beträgt die Mindeststrafe für Mord 10 Jahre Freiheitsstrafe, die Höchststrafe ist lebenslang.",
+   "question": "Wie viele Jahre Haft beträgt in Österreich die Mindeststrafe für Mord?",
+   "answer": "10 Jahre",
+   "distractors": [
+    "5 Jahre",
+    "15 Jahre",
+    "3 Jahre"
+   ],
+   "number_value": 10,
+   "number_unit": "Jahre",
+   "slider_min": 1,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Wer einen anderen tötet, bekommt 10 bis 20 Jahre oder lebenslang, so steht es im Gesetz. Darunter geht es bei Mord nicht, egal wie sympathisch man vor Gericht wirkt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mord",
+    "Strafmaß"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 181,
+   "speaker": "Florian Klenk",
+   "quote": "in diesem Fall ist es ein geschworenen Gericht, da sitzen acht Leute aus dem Volk und drei Berufsrichter,",
+   "quote_clean": "In diesem Fall ist es ein Geschworenengericht, da sitzen acht Leute aus dem Volk und drei Berufsrichter.",
+   "statement": "Über Mord entscheidet in Österreich ein Geschworenengericht mit acht Laien aus dem Volk und drei Berufsrichtern.",
+   "question": "Wie viele Leute aus dem Volk sitzen in Österreich in einem Geschworenengericht?",
+   "answer": "8",
+   "distractors": [
+    "12",
+    "6",
+    "3"
+   ],
+   "number_value": 8,
+   "number_unit": "Geschworene",
+   "slider_min": 1,
+   "slider_max": 20,
+   "log_scale": false,
+   "aha": "Bei Mord urteilen nicht nur Profis: Acht Geschworene aus dem Volk sitzen neben drei Berufsrichtern. Die zwölf aus den US-Gerichtsfilmen gibt es bei uns also nicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Geschworene",
+    "Gericht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 193,
+   "speaker": "Florian Klenk",
+   "quote": "das steht im Gesetz unter § 75 des Strafgesetzbuches, erfüllt ist, wer einen anderen tötet.",
+   "quote_clean": "Das steht im Gesetz unter Paragraf 75 des Strafgesetzbuches: Wer einen anderen tötet.",
+   "statement": "Der Mordparagraf im österreichischen Strafgesetzbuch ist Paragraf 75.",
+   "question": "Unter welchem Paragrafen steht Mord im österreichischen Strafgesetzbuch?",
+   "answer": "Paragraf 75",
+   "distractors": [
+    "Paragraf 1",
+    "Paragraf 211",
+    "Paragraf 13"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Paragraf 75 StGB ist erstaunlich kurz: Wer einen anderen tötet. Der ganze Rest, also Vorsatz, Schuld und Rechtfertigung, steckt woanders im Gesetz.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Mord",
+    "Strafgesetzbuch"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 221,
+   "speaker": "Florian Klenk",
+   "quote": "wenn ich jetzt zum Beispiel da vor dem Haus mit dem Auto fahre und ich führe jemanden nieder, dann habe ich auch wen getötet, aber ich habe es nicht ernsthaft für möglich gehalten und mich damit abgefunden.",
+   "quote_clean": "Wenn ich zum Beispiel vor dem Haus mit dem Auto fahre und jemanden niederfahre, dann habe ich auch wen getötet, aber ich habe es nicht ernsthaft für möglich gehalten und mich damit abgefunden.",
+   "statement": "Wer jemanden tötet, ohne es ernsthaft für möglich zu halten und sich damit abzufinden, begeht keinen Mord, sondern eine fahrlässige Tötung.",
+   "question": "Wie heißt es, wenn du mit dem Auto jemanden tötest, ohne dich damit abgefunden zu haben?",
+   "answer": "Fahrlässige Tötung",
+   "distractors": [
+    "Totschlag",
+    "Versuchter Mord",
+    "Notwehr"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Mord braucht es Vorsatz: Man hält den Tod ernsthaft für möglich und findet sich damit ab. Wer zu schnell fährt, rechnet vielleicht damit, will es aber nicht. Ich kann, aber ich will nicht, sagt Florian.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Vorsatz",
+    "Fahrlässigkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 345,
+   "speaker": "Florian Klenk",
+   "quote": "Wir beide treiben auf hoher See auf einem Floß und wir wissen, dieses Floß kann nur einen von uns halten. Einer muss leider ins Wasser. Und jetzt schubs ich dich runter, damit ich überlebe. Dann kann man mir das nicht vorwerfen.",
+   "quote_clean": "Wir beide treiben auf hoher See auf einem Floß und wir wissen, dieses Floß kann nur einen von uns halten. Einer muss leider ins Wasser. Und jetzt schubs ich dich runter, damit ich überlebe. Dann kann man mir das nicht vorwerfen.",
+   "statement": "Wer in einer unverschuldeten Notlage einen anderen tötet, um das eigene Leben zu retten, kann wegen entschuldigenden Notstands freigesprochen werden.",
+   "question": "Zwei treiben auf einem Floß, das nur einen trägt. Einer stößt den anderen runter. Was gilt?",
+   "answer": "Entschuldigender Notstand, Freispruch",
+   "distractors": [
+    "Mord, lebenslange Haft",
+    "Fahrlässige Tötung, Geldstrafe",
+    "Versuchter Mord, Bewährung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Floß ist der Lieblingsfall im Jusstudium. Beide sind unverschuldet in die Lage gekommen, und wer seine eigene Haut rettet, dem kann man das nicht vorwerfen. Getötet hat er trotzdem, nur schuldig ist er nicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Notstand",
+    "Schuld"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 380,
+   "speaker": "Florian Klenk",
+   "quote": "Und das ist der Satz, den viele Strafrechtler sich dann sagen. Es kommt darauf an, wie der Fall genau ist.",
+   "quote_clean": "Das ist der Satz, den viele Strafrechtler sich dann sagen: Es kommt darauf an, wie der Fall genau ist.",
+   "statement": "Der Lieblingssatz vieler Strafrechtler lautet: Es kommt darauf an.",
+   "question": "Welchen Satz sagen sich laut Florian Klenk viele Strafrechtler?",
+   "answer": "Es kommt darauf an",
+   "distractors": [
+    "Im Zweifel schuldig",
+    "Das Gesetz ist eindeutig",
+    "Gesetz ist Gesetz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Auf die Frage, was nach einer Tötung passiert, gibt es keine einfache Antwort. Notwehr, Notstand, Rausch oder Krankheit können alles ändern. Darum der Klassiker unter Jurist:innen: Es kommt darauf an.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Jus",
+    "Strafrecht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 555,
+   "speaker": "Florian Klenk",
+   "quote": "weil ein Geständnis ist der größte Milderungsgrund. Und dann wird der Staatsanwalt, meistens dauert das so rund ein Jahr oder ein Dreivierteljahr,",
+   "quote_clean": "Ein Geständnis ist der größte Milderungsgrund. Und dann wird der Staatsanwalt, meistens dauert das rund ein Jahr oder ein Dreivierteljahr,",
+   "statement": "Ein Geständnis ist im Strafverfahren der größte Milderungsgrund.",
+   "question": "Was ist laut Florian Klenk vor Gericht der größte Milderungsgrund?",
+   "answer": "Ein Geständnis",
+   "distractors": [
+    "Ein guter Leumund",
+    "Eine schwere Kindheit",
+    "Ein hohes Alter"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Darum rät der Anwalt meist schon beim ersten Verhör: Wenn es stimmt, gesteh. Nichts drückt die Strafe so sehr wie ein Geständnis.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Geständnis",
+    "Strafmaß"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 662,
+   "speaker": "Florian Klenk",
+   "quote": "es gibt einen Grundsatz, der heißt, keine Strafe ohne Gesetz. Das ist ein lateinischer Spruch, nulla pöne sine lege.",
+   "quote_clean": "Es gibt einen Grundsatz, der heißt: Keine Strafe ohne Gesetz. Das ist ein lateinischer Spruch: nulla poena sine lege.",
+   "statement": "Der Grundsatz „nulla poena sine lege“ bedeutet: keine Strafe ohne Gesetz.",
+   "question": "Was bedeutet der lateinische Rechtsgrundsatz „nulla poena sine lege“?",
+   "answer": "Keine Strafe ohne Gesetz",
+   "distractors": [
+    "Im Zweifel für den Angeklagten",
+    "Niemand steht über dem Gesetz",
+    "Unwissenheit schützt nicht vor Strafe"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Verurteilt werden darf nur, wer gegen ein Gesetz verstößt, das diese Strafe vorsieht. Gibt es keins, muss freigesprochen werden, auch wenn die Tat noch so unappetitlich ist. Das ist Rechtssicherheit.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Rechtsstaat",
+    "Latein"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 757,
+   "speaker": "Florian Klenk",
+   "quote": "das nennt sich Unmittelbarkeitsprinzip, die müssen unmittelbar in diesem Gerichtssaal auftreten. Warum? Weil die Richter wollen den Zeugen in die Augen schauen. Sie wollen schauen, ob die rot werden im Gesicht.",
+   "quote_clean": "Das nennt sich Unmittelbarkeitsprinzip: Die Zeugen müssen unmittelbar in diesem Gerichtssaal auftreten. Warum? Weil die Richter den Zeugen in die Augen schauen wollen. Sie wollen schauen, ob die rot werden im Gesicht.",
+   "statement": "Nach dem Unmittelbarkeitsprinzip müssen Zeugen persönlich im Gerichtssaal aussagen, damit die Richter ihre Reaktionen sehen können.",
+   "question": "Warum müssen Zeugen persönlich im Gerichtssaal aussagen?",
+   "answer": "Richter wollen ihnen in die Augen schauen",
+   "distractors": [
+    "Damit das Publikum unterhalten wird",
+    "Weil Videos nicht gespeichert werden dürfen",
+    "Damit sie unter Eid gestellt werden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Protokoll zeigt nicht, ob jemand rot wird, zittert oder weint. Darum wiederholt sich vor Gericht im Grunde alles, was die Polizei schon ermittelt hat, nur diesmal live.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zeugen",
+    "Gericht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 782,
+   "speaker": "Florian Klenk",
+   "quote": "Wir reden ja, Mord ist ja ganz selten. Morde gibt es im Jahr nur 70 bis 80. Das ist ein Verbrechen, das fast nie stattfindet.",
+   "quote_clean": "Mord ist ja ganz selten. Morde gibt es im Jahr nur 70 bis 80. Das ist ein Verbrechen, das fast nie stattfindet.",
+   "statement": "In Österreich gibt es pro Jahr nur etwa 70 bis 80 Morde.",
+   "question": "Wie viele Morde gibt es in Österreich ungefähr pro Jahr?",
+   "answer": "70 bis 80",
+   "distractors": [
+    "700 bis 800",
+    "rund 20",
+    "rund 300"
+   ],
+   "number_value": 75,
+   "number_unit": "Morde pro Jahr",
+   "slider_min": 5,
+   "slider_max": 2000,
+   "log_scale": true,
+   "aha": "Im Krimi stirbt jeden Sonntag wer, in der Wirklichkeit ist Mord bei uns ein Verbrechen, das fast nie stattfindet. Und wenn, dann sind die meisten Täter geständig.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Kriminalität",
+    "Statistik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 803,
+   "speaker": "Florian Klenk",
+   "quote": "Die Richter haben Talare an, schwarze Kutten mit einem violetten Kragen. Wir haben vorhin gelernt, die Staatsanwälte haben einen roten Kragen, die Verteidiger haben einen schwarzen Kragen.",
+   "quote_clean": "Die Richter haben Talare an, schwarze Kutten mit einem violetten Kragen. Die Staatsanwälte haben einen roten Kragen, die Verteidiger einen schwarzen Kragen.",
+   "statement": "Im österreichischen Strafgericht tragen Richter einen violetten, Staatsanwälte einen roten und Verteidiger einen schwarzen Kragen am Talar.",
+   "question": "Welche Farbe hat der Kragen am Talar österreichischer Richter:innen?",
+   "answer": "Violett",
+   "distractors": [
+    "Rot",
+    "Weiß",
+    "Grün"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am Kragen erkennst du, wer wer ist: Violett für das Gericht, Rot für die Staatsanwaltschaft, Schwarz für die Verteidigung. Praktisch, wenn du das erste Mal im Gerichtssaal sitzt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Talar",
+    "Gericht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 847,
+   "speaker": "Florian Klenk",
+   "quote": "Die Briten sind so weit gegangen, dass sie den Richtern sogar Perücken aufgesetzt haben, weil man nicht einmal die Haare sehen sollte,",
+   "quote_clean": "Die Briten sind so weit gegangen, dass sie den Richtern sogar Perücken aufgesetzt haben, weil man nicht einmal die Haare sehen sollte.",
+   "statement": "Britische Richter tragen Perücken, damit man nicht einmal ihre Haare sieht und sie ganz neutral erscheinen.",
+   "question": "Warum tragen britische Richter Perücken?",
+   "answer": "Damit sie neutral und gleich aussehen",
+   "distractors": [
+    "Weil es gegen Läuse schützt",
+    "Als Zeichen ihres Dienstalters",
+    "Weil der König es befahl"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Mensch soll hinter der Uniform verschwinden. Bei uns regelt sogar ein Gesetz, dass Richter:innen weißes Hemd und schwarze Krawatte tragen und kein Kreuz, Kopftuch oder Fußballabzeichen zeigen. Die Briten haben einfach noch die Haare dazugenommen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Richter",
+    "Neutralität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 862,
+   "speaker": "Florian Klenk",
+   "quote": "Und dann spricht das Gericht das Urteil im Namen der Republik. Bei uns nicht im Namen des Volkes, das ist ganz wichtig, sondern im Namen der Republik,",
+   "quote_clean": "Und dann spricht das Gericht das Urteil im Namen der Republik. Bei uns nicht im Namen des Volkes, das ist ganz wichtig, sondern im Namen der Republik.",
+   "statement": "In Österreich werden Urteile im Namen der Republik gesprochen, nicht im Namen des Volkes.",
+   "question": "In wessen Namen werden in Österreich Urteile gesprochen?",
+   "answer": "Im Namen der Republik",
+   "distractors": [
+    "Im Namen des Volkes",
+    "Im Namen des Gesetzes",
+    "Im Namen des Bundespräsidenten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer viele deutsche Krimis schaut, hat „im Namen des Volkes“ im Ohr. Bei uns urteilt das Gericht aber im Namen der Republik, also des Staates.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Urteil",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 915,
+   "speaker": "Florian Klenk",
+   "quote": "sondern dann muss ich wahrscheinlicher sein. 51 zu 49 Prozent. Hier muss es sozusagen fast 99 Prozent sein.",
+   "quote_clean": "Sondern dann muss es wahrscheinlicher sein: 51 zu 49 Prozent. Hier muss es fast 99 Prozent sein.",
+   "statement": "Im Zivilprozess reicht bildlich gesprochen eine Wahrscheinlichkeit von 51 zu 49 Prozent, im Strafprozess braucht es eine an Sicherheit grenzende Wahrscheinlichkeit von fast 99 Prozent.",
+   "question": "Wie viel Prozent Wahrscheinlichkeit reichen laut Florian Klenk bildlich gesprochen in einem Zivilprozess?",
+   "answer": "51 Prozent",
+   "distractors": [
+    "75 Prozent",
+    "90 Prozent",
+    "66 Prozent"
+   ],
+   "number_value": 51,
+   "number_unit": "Prozent",
+   "slider_min": 30,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Beim Streit um Schulden reicht es, wenn eine Seite wahrscheinlicher recht hat. Im Strafrecht geht es um die Freiheit, darum braucht es fast 99 Prozent. Und im Zweifel für den Angeklagten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Beweis",
+    "Zivilrecht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 938,
+   "speaker": "Florian Klenk",
+   "quote": "sondern ein Gerichtsverfahren ist in Wirklichkeit der Zugriff des Staates auf den Bürger. Der Bürger wird in den Kerker geschmissen, wenn man so will.",
+   "quote_clean": "Ein Gerichtsverfahren ist in Wirklichkeit der Zugriff des Staates auf den Bürger. Der Bürger wird in den Kerker geschmissen, wenn man so will.",
+   "statement": "Ein Strafverfahren ist kein Theater, sondern der Zugriff des Staates auf den Bürger.",
+   "question": "Wer sagt: „Ein Gerichtsverfahren ist in Wirklichkeit der Zugriff des Staates auf den Bürger“?",
+   "answer": "Florian Klenk",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Richterin am Landesgericht",
+    "Ein Staatsanwalt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Schwurgerichtssaal schaut aus wie eine Theaterbühne, ist aber keine. Dort wird Menschen das genommen, was sie zu Menschen macht: frei zu sein. Darum muss man sich so sicher sein.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Rechtsstaat",
+    "Freiheit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 971,
+   "speaker": "Florian Klenk",
+   "quote": "Man hat früher gesagt, die lebenslange Freiheitsstrafe ist die kleine Schwester der Todesstrafe, weil das Haftende ist der Tod.",
+   "quote_clean": "Man hat früher gesagt, die lebenslange Freiheitsstrafe ist die kleine Schwester der Todesstrafe, weil das Haftende der Tod ist.",
+   "statement": "Die lebenslange Freiheitsstrafe wurde früher als kleine Schwester der Todesstrafe bezeichnet.",
+   "question": "Welche Strafe wurde früher „die kleine Schwester der Todesstrafe“ genannt?",
+   "answer": "Lebenslange Freiheitsstrafe",
+   "distractors": [
+    "Die Zwangsarbeit",
+    "Die Verbannung",
+    "Die Einzelhaft"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Haftende ist der Tod, so die alte Logik. In der Praxis ist das Ende heute aber nur nicht vorhersehbar, die meisten kommen nach etlichen Jahren wieder frei.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Lebenslang",
+    "Strafe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 983,
+   "speaker": "Florian Klenk",
+   "quote": "Im Durchschnitt sitzen lebenslange Häftlinge zwischen 15 und 18 Jahren. Das heißt, nach 15 bis 18 Jahren kann auch ein zu lebenslanger Haftverurteilter einen Antrag stellen, dass er wieder freikommt.",
+   "quote_clean": "Im Durchschnitt sitzen lebenslange Häftlinge zwischen 15 und 18 Jahren. Das heißt, nach 15 bis 18 Jahren kann auch ein zu lebenslanger Haft Verurteilter einen Antrag stellen, dass er wieder freikommt.",
+   "statement": "Zu lebenslanger Haft Verurteilte sitzen in Österreich im Durchschnitt zwischen 15 und 18 Jahren.",
+   "question": "Wie viele Jahre sitzen zu lebenslanger Haft Verurteilte in Österreich im Schnitt?",
+   "answer": "15 bis 18 Jahre",
+   "distractors": [
+    "25 bis 30 Jahre",
+    "8 bis 10 Jahre",
+    "Bis zum Tod"
+   ],
+   "number_value": 16,
+   "number_unit": "Jahre",
+   "slider_min": 5,
+   "slider_max": 50,
+   "log_scale": false,
+   "aha": "Lebenslang heißt bei uns meist nicht bis zum Tod. Wer gar keine Aussicht hat, rauszukommen, verzweifelt so sehr, dass der Strafvollzug keinen Sinn mehr hat. Florian nennt das ein Zeichen des Humanismus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Lebenslang",
+    "Haft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1013,
+   "speaker": "Florian Klenk",
+   "quote": "Es gibt drei Strafzwecke. Die Generalprävention. Das heißt, dadurch, dass der Täter bestraft wird, wird sein Umfeld, werden wir alle als Gesellschaft, darin bestärkt, uns konform zu verhalten,",
+   "quote_clean": "Es gibt drei Strafzwecke. Die Generalprävention: Dadurch, dass der Täter bestraft wird, werden wir alle als Gesellschaft darin bestärkt, uns konform zu verhalten.",
+   "statement": "Generalprävention heißt: Durch die Bestrafung eines Täters soll die ganze Gesellschaft abgeschreckt und zu korrektem Verhalten bestärkt werden.",
+   "question": "Wie heißt der Strafzweck, bei dem die Strafe die ganze Gesellschaft abschrecken soll?",
+   "answer": "Generalprävention",
+   "distractors": [
+    "Spezialprävention",
+    "Resozialisierung",
+    "Opfergerechtigkeit"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Strafe richtet sich nicht nur an den Täter. Generalprävention zielt auf uns alle, Spezialprävention auf den Täter selbst, dazu kommen Opfergerechtigkeit und Resozialisierung.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Strafzweck",
+    "Prävention"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1084,
+   "speaker": "Florian Klenk",
+   "quote": "Die meisten Häftlinge sind übrigens Männer, 90 Prozent. Auch 90 Prozent der Straftaten werden von Männern begangen.",
+   "quote_clean": "Die meisten Häftlinge sind übrigens Männer, 90 Prozent. Auch 90 Prozent der Straftaten werden von Männern begangen.",
+   "statement": "Rund 90 Prozent der Häftlinge sind Männer, und auch rund 90 Prozent der Straftaten werden von Männern begangen.",
+   "question": "Wie viel Prozent der Häftlinge sind Männer?",
+   "answer": "Rund 90 Prozent",
+   "distractors": [
+    "Rund 60 Prozent",
+    "Rund 75 Prozent",
+    "Rund 99 Prozent"
+   ],
+   "number_value": 90,
+   "number_unit": "Prozent",
+   "slider_min": 40,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Neun von zehn Häftlingen sind Männer. Und das gilt interessanterweise sogar bei psychisch kranken Täter:innen, auch dort sind es rund 90 Prozent Männer.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gefängnis",
+    "Geschlecht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1365,
+   "speaker": "Florian Klenk",
+   "quote": "Da gibt es eine Justizanstalt in Göllersdorf, das ist ein sogenannter Maßnahmenvollzug, das heißt, dort sitzen eigentlich Patienten,",
+   "quote_clean": "Da gibt es eine Justizanstalt in Göllersdorf, das ist ein sogenannter Maßnahmenvollzug, das heißt, dort sitzen eigentlich Patienten.",
+   "statement": "Unzurechnungsfähige Täter kommen in Österreich nicht ins Gefängnis, sondern in den Maßnahmenvollzug, etwa in die Justizanstalt Göllersdorf.",
+   "question": "Wohin kommen in Österreich Täter, die wegen schwerer psychischer Krankheit nicht schuldfähig sind?",
+   "answer": "In den Maßnahmenvollzug",
+   "distractors": [
+    "Ins normale Gefängnis",
+    "In die Untersuchungshaft",
+    "Sofort in Freiheit"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Göllersdorf ist eine Art Gefängnisspital: Die Justizwache trägt dort weiße Mäntel wie Ärzte, behandelt wird mit Medikamenten und Therapie. Raus kommt man nicht nach einer fixen Zeit, sondern erst, wenn keine Gefahr mehr besteht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Maßnahmenvollzug",
+    "Psychiatrie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1469,
+   "speaker": "Florian Klenk",
+   "quote": "Aber wir haben das Problem, dass es viele Menschen gibt, die für die Freiheit zu krank, aber für die klassischen Spitäler und für die Psychiatrie zu gesund sind.",
+   "quote_clean": "Aber wir haben das Problem, dass es viele Menschen gibt, die für die Freiheit zu krank, aber für die klassischen Spitäler und für die Psychiatrie zu gesund sind.",
+   "statement": "Viele psychisch kranke Täter sind für die Freiheit zu krank, aber für Spitäler und Psychiatrie zu gesund.",
+   "question": "Wer sagt über psychisch kranke Täter: „für die Freiheit zu krank, aber für die Psychiatrie zu gesund“?",
+   "answer": "Florian Klenk",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Gerichtspsychiater",
+    "Eine Justizministerin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Seit den 70ern will man psychisch Kranke nicht mehr wegsperren, sondern in Freiheit therapieren. Übrig bleiben die, die gefährlich sind, und für die findet sich kaum ein Experte, der das Risiko auf seine Kappe nimmt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Psychiatrie",
+    "Maßnahmenvollzug"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1519,
+   "speaker": "Florian Klenk",
+   "quote": "Also am Steinhof zum Beispiel, da oben am Otto-Wagner-Spital, das wird jetzt eine Universität. Früher war das eine geschlossene Psychiatrie. Wie ein Dorf der Verrückten.",
+   "quote_clean": "Am Steinhof zum Beispiel, oben am Otto-Wagner-Spital, das wird jetzt eine Universität. Früher war das eine geschlossene Psychiatrie, wie ein Dorf der Verrückten.",
+   "statement": "Das Otto-Wagner-Spital am Steinhof in Wien war früher eine große geschlossene Psychiatrie und soll zu einer Universität werden.",
+   "question": "Was war das Otto-Wagner-Areal am Wiener Steinhof früher?",
+   "answer": "Eine geschlossene Psychiatrie",
+   "distractors": [
+    "Ein Kloster",
+    "Eine Kaserne",
+    "Ein Gefängnis"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am Steinhof lebten psychisch Kranke früher in einer eigenen kleinen Stadt. Heute versucht man, sie in betreuten Wohnungen unterzubringen, weil es niemandem hilft, wenn nur Kranke miteinander leben.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Wien",
+    "Psychiatrie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 127,
+   "speaker": "Andreas Sator",
+   "quote": "Florian, ich beginne mit einem plakativen Beispiel. Ich gehe jetzt auf die Straße. Wir sitzen beim Falter. Ich gehe jetzt in die Mark-Aurel-Straße und bringe jemanden um.",
+   "quote_clean": "Florian, ich beginne mit einem plakativen Beispiel. Ich gehe jetzt auf die Straße. Wir sitzen beim Falter. Ich gehe jetzt in die Mark-Aurel-Straße und bringe jemanden um.",
+   "statement": "Andreas steigt in die Strafrechtsfolge mit dem Gedankenexperiment ein, er gehe vor die Falter-Redaktion und bringe jemanden um.",
+   "question": "Mit welchem Gedankenexperiment startet Andreas die Folge über Strafrecht?",
+   "answer": "Er bringt vor dem Falter jemanden um",
+   "distractors": [
+    "Er stiehlt ein Fahrrad",
+    "Er fährt bei Rot über die Kreuzung",
+    "Er überfällt eine Bank"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Plakativer geht es kaum: Andreas spaziert gedanklich in die Mark-Aurel-Straße und begeht einen Mord. Florians erste Antwort ist sehr pragmatisch: Hat dich wer gesehen?",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Einstieg",
+    "Mord"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 685,
+   "speaker": "Andreas Sator",
+   "quote": "Ich ziehe zurück, was ich zu Beginn gesagt habe. Strafrechtlich ist doch ganz lustig.",
+   "quote_clean": "Ich ziehe zurück, was ich zu Beginn gesagt habe. Strafrecht ist doch ganz lustig.",
+   "statement": "Mitten in der Folge nimmt Andreas zurück, dass Strafrecht nicht sexy klinge, und findet es doch ganz lustig.",
+   "question": "Was nimmt Andreas mitten in der Strafrechtsfolge zurück?",
+   "answer": "Dass Strafrecht nicht sexy klingt",
+   "distractors": [
+    "Seinen hypothetischen Mord",
+    "Seine Frage nach lebenslang",
+    "Dass er Jus studieren will"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am Anfang kündigt Andreas das Strafrecht noch als nicht so sexy an. Nach Floß, Puppe im Bett und Kugel, die den Falschen trifft, ist er bekehrt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Humor"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "16",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

@@ -1,0 +1,279 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Zahl stammt von Andreas aus einer nicht genannten Quelle (\"ist da gestanden\", \"Daumen mal Pi\"), Petra hat sie nicht bestätigt; stark sortenabhängig und daher als Faktenfrage zu unsicher.",
+   "stand_note": "",
+   "statement": "Aus 100 Litern Rohöl werden je nach Sorte grob 24 Liter Benzin gewonnen.",
+   "question": "Wie viele Liter Benzin gewinnt man ungefähr aus 100 Litern Rohöl?",
+   "answer": "Rund 24 Liter",
+   "distractors": [
+    "Rund 8 Liter",
+    "Rund 55 Liter",
+    "Rund 80 Liter"
+   ],
+   "aha": "Aus einem Fass Rohöl wird also nur knapp ein Viertel Benzin. Der Rest wird Diesel, Kerosin, Gase, Bitumen oder Grundstoff für Kunststoff, und wie viel wovon, hängt stark von der Rohölsorte ab.",
+   "quote_clean": "Aus 100 Liter Rohöl werden, je nach Sorte, 24 Liter Benzin und 21 Liter Diesel. Nur so circa.",
+   "quality": 2
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Wie Kandidat 0: ungeprüfte Faustzahl von Andreas, stark sortenabhängig, nicht von der Expertin bestätigt.",
+   "stand_note": "",
+   "statement": "Aus 100 Litern Rohöl werden je nach Sorte grob 21 Liter Diesel gewonnen.",
+   "question": "Wie viele Liter Diesel entstehen ungefähr aus 100 Litern Rohöl?",
+   "answer": "Rund 21 Liter",
+   "distractors": [
+    "Rund 5 Liter",
+    "Rund 45 Liter",
+    "Rund 70 Liter"
+   ],
+   "aha": "Benzin und Diesel zusammen machen also nicht einmal die Hälfte aus. Wer glaubt, Rohöl sei einfach flüssiger Sprit, unterschätzt, was da sonst noch alles drinsteckt.",
+   "quote_clean": "Werden 24 Liter Benzin und 21 Liter Diesel. Nur so circa, damit man sich ein bisschen etwas vorstellen kann.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 909-914 s: \"um die 400 Grad herum\", Rückstand bleibt flüssig. Ungefähre Angabe, als \"rund\" formuliert.",
+   "stand_note": "",
+   "statement": "Ganz unten in der Destillationskolonne einer Raffinerie hat das Rohöl rund 400 Grad.",
+   "question": "Wie heiß ist es ungefähr ganz unten in der Destillationskolonne einer Raffinerie?",
+   "answer": "Rund 400 Grad",
+   "distractors": [
+    "Rund 120 Grad",
+    "Rund 900 Grad",
+    "Rund 1500 Grad"
+   ],
+   "aha": "Unten ist es am heißesten, nach oben hin wird die Kolonne immer kühler. Was bei 400 Grad noch flüssig bleibt, ist der Rückstand, aus dem später etwa Bitumen für die Straße wird.",
+   "quote_clean": "Ganz unten habe ich die höchste Temperatur, das sind um die 400 Grad. Und das, was da nicht verdampft und flüssig bleibt, ist der sogenannte Rückstand.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 512-548 s klar belegt: Schiff nach Triest, dann TAL.",
+   "stand_note": "",
+   "statement": "Das Rohöl für Österreich kommt per Schiff nach Triest und von dort über die Transalpine Pipeline (TAL).",
+   "question": "In welchem Hafen kommt das Rohöl für die Raffinerie Schwechat an?",
+   "answer": "In Triest",
+   "distractors": [
+    "In Hamburg",
+    "In Rotterdam",
+    "In Koper"
+   ],
+   "aha": "Österreich hat kein Meer, also landet das Öl in Triest und fließt dann durch die Transalpine Leitung über die Alpen. In Kärnten zweigt die Adria-Wien-Pipeline ab, die direkt nach Schwechat führt.",
+   "quote_clean": "Und das Schiff kommt einmal nach Triest, weil unsere Pipeline, mit der wir versorgt werden, die TAL ist, die Transalpine Leitung.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Würmlach in Kärnten und Adria-Wien-Pipeline bei 530-538 s wörtlich belegt.",
+   "stand_note": "",
+   "statement": "In Würmlach in Kärnten zweigt von der Transalpinen Pipeline die Adria-Wien-Pipeline ab, die nach Schwechat führt.",
+   "question": "In welchem Bundesland zweigt die Adria-Wien-Pipeline von der Transalpinen Leitung ab?",
+   "answer": "In Kärnten",
+   "distractors": [
+    "In Tirol",
+    "In der Steiermark",
+    "In Salzburg"
+   ],
+   "aha": "Im kleinen Würmlach im Gailtal gibt es einen Abzweiger und ein Zwischenlager. Von dort fließt das Öl über die Adria-Wien-Pipeline quer durchs Land bis nach Schwechat.",
+   "quote_clean": "Aus Triest geht die weg, bei uns gibt es dann einen Abzweiger in Kärnten, in Würmlach. Da ist es dann die Adria-Wien-Pipeline und kommt über die Adria-Wien-Pipeline direkt nach Schwechat.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt bei 558-564 s (weiter nach Deutschland). Der Distraktor Tschechien ist heikel, weil die TAL über einen Abzweig auch Tschechien versorgt; ersetzt durch Polen.",
+   "stand_note": "",
+   "statement": "Die Transalpine Pipeline aus Triest versorgt nicht nur Österreich, sondern auch mehrere Raffinerien in Deutschland.",
+   "question": "Wohin führt die Transalpine Pipeline aus Triest außer nach Österreich weiter?",
+   "answer": "Nach Deutschland",
+   "distractors": [
+    "Nach Ungarn",
+    "Nach Polen",
+    "In die Schweiz"
+   ],
+   "aha": "Die Leitung ist eine Art Gemeinschaftsrohr: Mehrere Raffinerien hängen dran. Deshalb bekommt Schwechat nur bestimmte Zeitfenster, in denen es sein Öl abzapfen kann.",
+   "quote_clean": "Das ist ein großer organisatorischer Aufwand, weil die TAL eben nicht nur zu uns geht. Die geht dann weiter nach Deutschland und versorgt dort auch mehrere Raffinerien.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Vergleich mit Schnapsbrennen bei 856-875 s wörtlich belegt.",
+   "stand_note": "",
+   "statement": "Die Rohöldestillation funktioniert nach demselben Prinzip wie das Schnapsbrennen: Stoffe mit niedrigerem Siedepunkt verdampfen zuerst.",
+   "question": "Mit welchem bekannten Verfahren vergleicht Petra die Destillation von Rohöl?",
+   "answer": "Mit dem Schnapsbrennen",
+   "distractors": [
+    "Mit dem Kaffeerösten",
+    "Mit dem Bierbrauen",
+    "Mit dem Käsereifen"
+   ],
+   "aha": "Beim Schnaps verdampft der Alkohol früher als das Wasser. In der Raffinerie ist es dasselbe, nur mit vielen Flüssigkeiten gleichzeitig, die man in Siedebereiche, sogenannte Fraktionen, auftrennt.",
+   "quote_clean": "Ich glaube, was man am meisten kennt, ist Schnapsbrennen. Schnapsbrennen ist eine einfache Destillation. Ich heize das Wasser auf, der Alkohol fängt schneller an zu verdampfen.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt bei 838-848 s und 1277-1283 s. Der Aha stichelte gegen Andreas (\"sagt trotzdem chemisch\"); neutral umformuliert.",
+   "stand_note": "",
+   "statement": "Die Destillation von Rohöl ist ein physikalisches, kein chemisches Verfahren: Sie trennt nach Siedepunkten, ohne die Moleküle zu verändern.",
+   "question": "Was für ein Verfahren ist die Destillation von Rohöl?",
+   "answer": "Ein physikalisches Trennverfahren",
+   "distractors": [
+    "Eine chemische Umwandlung",
+    "Ein biologischer Abbau",
+    "Eine elektrische Spaltung"
+   ],
+   "aha": "Beim Destillieren bleiben die Moleküle gleich, sie werden nur nach Siedepunkt sortiert. Chemisch wird es erst, wenn man sie beim Cracken gezielt spaltet.",
+   "quote_clean": "Die Destillation an und für sich ist ein physikalisches Trennverfahren aufgrund der Siedepunkte. Das heißt, unterschiedliche Flüssigkeiten verdampfen bei unterschiedlichen Temperaturen.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Wärmetauscher im Gegenstrom mit Abwärme der fertigen Produkte bei 771-776 s belegt.",
+   "stand_note": "",
+   "statement": "In der Raffinerie wird neues Rohöl mit der Abwärme der fertigen Produkte vorgewärmt, über Wärmetauscher nach dem Gegenstromprinzip.",
+   "question": "Womit wird das frische Rohöl in der Raffinerie vorgewärmt?",
+   "answer": "Mit Abwärme der fertigen Produkte",
+   "distractors": [
+    "Mit Strom aus dem Netz",
+    "Mit Sonnenkollektoren am Dach",
+    "Mit heißem Grundwasser"
+   ],
+   "aha": "Die fertigen Produkte müssen ohnehin abkühlen, das frische Rohöl muss heiß werden. Also lässt man beides in Wärmetauschern aneinander vorbeifließen, und keiner verschwendet Energie.",
+   "quote_clean": "Weil ich das Rohöl schon erwärmt habe, mit Wärmetauschern nach dem Gegenstromprinzip. Ich verwende die Abwärme vom fertigen Produkt, um das neue Produkt zu erwärmen.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Entstehung bei 177-196 s belegt, inhaltlich korrekt vereinfacht.",
+   "stand_note": "",
+   "statement": "Erdöl entstand aus abgestorbenen Pflanzen und Lebewesen, die am Meeresgrund von Sedimenten bedeckt und durch Druck und Temperatur umgewandelt wurden.",
+   "question": "Woraus ist Erdöl ursprünglich entstanden?",
+   "answer": "Aus abgestorbenen Meereslebewesen und Pflanzen",
+   "distractors": [
+    "Aus Vulkanlava im Erdinneren",
+    "Aus Dinosaurierknochen an Land",
+    "Aus Meteoriteneinschlägen"
+   ],
+   "aha": "Entscheidend war die Decke aus Sedimenten: Statt einfach zu verwesen, wurde die organische Masse unter Druck und Hitze zu Kohlenwasserstoffen. Im Tank verbrennt man also uralte Sonnenenergie.",
+   "quote_clean": "Irgendwann einmal waren Pflanzen und Lebewesen, die abgestorben sind und sich am Meeresgrund abgesetzt haben, die dann mit Sedimenten zugedeckt wurden, wodurch Druck und Temperatur entstanden.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Vakuumdestillation zur Vermeidung von Cracken bei 1260-1292 s belegt; Bezug auf den Rückstand (Bitumen) ist im Ausschnitt gegeben.",
+   "stand_note": "",
+   "statement": "Mit Vakuumdestillation kann man schwere Rohölteile trennen, ohne die Temperatur so weit zu erhöhen, dass die Moleküle ungewollt zerfallen.",
+   "question": "Warum destilliert man den Rohöl-Rückstand unter Vakuum?",
+   "answer": "Damit die Moleküle nicht ungewollt zerfallen",
+   "distractors": [
+    "Damit das Öl schneller abkühlt",
+    "Damit kein Schwefel entweicht",
+    "Damit das Öl dunkler wird"
+   ],
+   "aha": "Bei weniger Druck sieden Stoffe schon bei niedrigerer Temperatur. So kann man trennen, ohne dass die Moleküle zufällig zu cracken beginnen. Spalten will man sie schon, aber gezielt.",
+   "quote_clean": "Ich kann dann noch vakuumdestillieren. Dadurch muss ich die Temperatur nicht erhöhen. Das ist wichtig, denn wird die Temperatur zu hoch, beginnen die Produkte zu cracken, sich zu spalten.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Sprecherfrage ohne Erkenntniswert (einzige Interviewpartnerin), absurde Distraktoren; die ReOil-Angabe im Aha steht nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Petra Mellunig erwartet, dass der Rohölverbrauch nicht nur wegen weniger Autofahrten, sondern auch durch mehr Recycling sinken wird.",
+   "question": "Wer sagt im Podcast: Der Rohölverbrauch wird nicht nur wegen weniger Autofahren sinken, sondern auch durch Recycling?",
+   "answer": "Petra Mellunig",
+   "distractors": [
+    "Andreas Sator",
+    "Karl Steininger",
+    "Manfred Lütz"
+   ],
+   "aha": "Ausgerechnet aus der Raffinerie kommt der Blick nach vorn: Verbranntes Benzin ist weg, aber ein Plastiksackerl kann man theoretisch wieder zu Öl machen. Genau daran arbeitet Schwechat mit der ReOil-Anlage.",
+   "quote_clean": "Ich glaube aber, dass der Rohölverbrauch nicht nur deshalb zurückgehen wird, weil wir nicht mehr mit dem Auto fahren, sondern auch, weil man vieles wieder zu recyceln beginnt.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Scherz von Andreas ohne Faktenwert; Frage ist belanglos.",
+   "stand_note": "",
+   "statement": "Andreas fragt, ob man ihn in ferner Zukunft vertanken könnte, und Petra meint: unter den richtigen Bedingungen und mit viel Zeit wahrscheinlich ja.",
+   "question": "Was fragt Andreas Petra, nachdem sie erklärt hat, dass auch Menschen aus Kohlenwasserstoffen bestehen?",
+   "answer": "Ob man ihn einmal vertanken könnte",
+   "distractors": [
+    "Ob er brennbar ist",
+    "Ob er Benzin trinken darf",
+    "Ob Pflanzen Erdöl machen"
+   ],
+   "aha": "Petra nimmt die Frage ernst und sagt: Mit den richtigen Bedingungen und sehr viel Zeit wohl schon. Andreas legt nach, das wäre doch nachhaltiges Fliegen, und schiebt gleich ein Schmäh hinterher.",
+   "quote_clean": "Also könnte man mich in Zukunft auch mal vertanken, wenn ich verwese? – Wenn du dich unter den richtigen Bedingungen zersetzt und mit viel Zeit, wäre das wahrscheinlich möglich, ja.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zum Folgenformat; die Behauptung \"am Ende jeder Folge\" ist im Ausschnitt nicht belegt und die Frage kein Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Am Ende jeder Folge fasst Andreas mit der Frage „Was nehme ich mir mit?“ zusammen, was er gelernt hat.",
+   "question": "Mit welcher Frage leitet Andreas am Ende der Folge seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir gelernt?",
+    "Was bleibt uns übrig?",
+    "Was sagt die Wissenschaft?"
+   ],
+   "aha": "Diesmal ist sein Fazit: Erdöl steckt in Autobahnen, Lippenstiften, Computern, Reifen und Waschmittel. Wie das in einer Raffinerie im Detail funktioniert, war ihm vorher überhaupt nicht bewusst.",
+   "quote_clean": "Was nehme ich mir mit? Fossile Energie steckt in viel mehr Materialien, als uns bewusst ist oder als mir bewusst war.",
+   "quality": 1
+  }
+ ],
+ "id": "214",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

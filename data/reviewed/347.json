@@ -1,0 +1,278 @@
+{
+ "reviews": [
+  {
+   "statement": "Seit 1945 gilt de facto ein Tabu, Atomwaffen in einem Krieg einzusetzen.",
+   "question": "Seit welchem Jahr gilt de facto das Tabu, Atomwaffen im Krieg einzusetzen?",
+   "answer": "1945",
+   "distractors": [
+    "1962",
+    "1953",
+    "1939"
+   ],
+   "aha": "Nach Hiroshima und Nagasaki hat niemand mehr eine Atombombe im Krieg gezündet. Gady fürchtet: Fällt dieses Tabu einmal, ist es fast egal, ob man eine oder zehn abfeuert.",
+   "quote_clean": "oder zwölf taktische Nuklearwaffen schieße, ist schon egal. Wir haben hier ein Tabu gebrochen, welches seit 1945 de facto existierte.",
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt; Frage war missverständlich formuliert (1945 wurden Bomben eingesetzt).",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Laut Gady sind Autokraten ab etwa 60 Jahren besonders gefährlich, weil sie zunehmend an ihren Platz in der Geschichte denken.",
+   "question": "Ab welchem Alter hält Gady Autokraten für besonders gefährlich?",
+   "answer": "Ab etwa 60 Jahren",
+   "distractors": [
+    "Ab etwa 45 Jahren",
+    "Ab etwa 75 Jahren",
+    "Ab etwa 50 Jahren"
+   ],
+   "aha": "Ab einem gewissen Alter geht's weniger ums Land und mehr ums eigene Kapitel im Geschichtsbuch. Das macht irrational, sagt Gady, und er denkt dabei an Putin und Xi.",
+   "quote_clean": "bzw. Diktatoren, ab sagen wir mal dem 60. Lebensjahr, die sich dann sehr stark mit ihrem Platz in der Geschichte auseinandersetzen",
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (Gady: 'sagen wir mal ab dem 60. Lebensjahr'), als Gadys Einschätzung formuliert.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "1989 stellte sich auf dem Tian'anmen-Platz in Peking ein einzelner Demonstrant vor eine Panzerkolonne.",
+   "question": "In welchem Jahr stellte sich der „Tank Man“ am Tian'anmen-Platz vor die Panzer?",
+   "answer": "1989",
+   "distractors": [
+    "1976",
+    "1991",
+    "1968"
+   ],
+   "aha": "Bis heute weiß niemand sicher, wer der Mann war. Für Gady ist das Bild der Beweis, dass ein einzelner Mensch zum richtigen Zeitpunkt doch einen Unterschied machen kann.",
+   "quote_clean": "ich erinnere mich immer an das Bild von diesem einzelnen Demonstranten, der 1989 am Tian'anmen-Platz vor diesem Panzer gestanden ist, dieses Symbolbild.",
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, 1989 gesichert; aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Gady spricht von einem „parasitären Pazifismus“ im deutschsprachigen Europa, der laut ihm nur möglich war, weil man den militärischen Schutz an die USA ausgelagert hat.",
+   "question": "Wie nennt Gady den Pazifismus, der im deutschsprachigen Europa verbreitet ist?",
+   "answer": "Parasitärer Pazifismus",
+   "distractors": [
+    "Naiver Pazifismus",
+    "Bequemer Pazifismus",
+    "Moralischer Pazifismus"
+   ],
+   "aha": "Parasitär nennt Gady das, weil man laut ihm von einem hohen moralischen Ross aus Pazifismus praktizieren konnte, während die USA die schützende Hand über Europa hielten. Das ist seine Sicht, über die sich streiten lässt.",
+   "quote_clean": "Ich habe damals von einem gewissen parasitären Pazifismus gesprochen, der vor allem im deutschsprachigen Europa sehr stark verbreitet ist.",
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "fairness"
+   ],
+   "note": "Begriff belegt; Position als Gadys Sicht markiert, unbelegten Satz im aha gestrichen.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Abschreckung findet laut Gady vor allem im Kopf des potenziellen Angreifers statt.",
+   "question": "Wo findet Abschreckung laut Gady vor allem statt?",
+   "answer": "Im Kopf des Gegners",
+   "distractors": [
+    "In der Rüstungsindustrie",
+    "In internationalen Verträgen",
+    "In der Zahl der Panzer"
+   ],
+   "aha": "Es geht nicht darum, dass du 300 Panzer hast und der andere nur 200. Abschreckung ist laut Gady viel komplexer und oft eine psychologische Geschichte: Es zählt, was der Gegner glaubt.",
+   "quote_clean": "Abschreckung, diese Idee, einen potenziellen Aggressor abzuschrecken, ist eine reine Kopfsache.",
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Kern belegt; Aussage zum Widerstandswillen stand nicht im Ausschnitt, gestrichen.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Der US-Marschflugkörper Tomahawk kann sowohl mit konventionellem als auch mit nuklearem Sprengkopf bestückt werden.",
+   "question": "Womit kann ein amerikanischer Tomahawk-Marschflugkörper bestückt werden?",
+   "answer": "Konventionell oder nuklear",
+   "distractors": [
+    "Nur konventionell",
+    "Nur nuklear",
+    "Nur mit Störsendern"
+   ],
+   "aha": "Das gab's schon im Kalten Krieg, und die USA wollen es wieder einführen. Das Problem: Von außen siehst du nicht, was oben drauf ist.",
+   "quote_clean": "dass dieser Tomahawk-Marschflugkörper, der von amerikanischen Kriegsschiffen abgeschossen wird, mit einem konventionellen oder einem nuklearen Sprengsatz bestückt werden kann.",
+   "i": 8,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Gady spricht von Initiativen in der Zukunft; aktuell ist der Tomahawk nur konventionell bestückt, die Frage wäre irreführend.",
+   "stand_note": "",
+   "quality": 2
+  },
+  {
+   "statement": "Die russische Kurzstreckenrakete Iskander kann einen nuklearen oder einen konventionellen Sprengkopf tragen.",
+   "question": "Wie heißt die russische Kurzstreckenrakete, die konventionell oder nuklear bestückt werden kann?",
+   "answer": "Iskander",
+   "distractors": [
+    "Kalibr",
+    "Sarmat",
+    "Kinschal"
+   ],
+   "aha": "Stell dir vor, die andere Seite macht 100 Iskanders scharf und schwört, keine davon sei nuklear. Glaubst du ihr? Genau diese Unsicherheit macht Krisen so brandgefährlich.",
+   "quote_clean": "Kurzstrecken-ballistische Rakete, sie nennt sich Iskander. Die ist auch fähig, einen nuklearen oder einen konventionellen Sprengkopf zu tragen.",
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Auch Kalibr und Kinschal sind dual-fähig, Distraktoren nicht eindeutig falsch; Name 'Iskanda' nur geglättet.",
+   "stand_note": "",
+   "quality": 2
+  },
+  {
+   "statement": "Sicherheitspolitik besteht aus Außenpolitik, wo Diplomatie im Vordergrund steht, und Verteidigungspolitik, deren Grundbaustein Abschreckung ist.",
+   "question": "In welche zwei Bereiche teilt sich Sicherheitspolitik laut Gady?",
+   "answer": "Außenpolitik und Verteidigungspolitik",
+   "distractors": [
+    "Innenpolitik und Außenpolitik",
+    "Wirtschaftspolitik und Militärpolitik",
+    "Polizei und Bundesheer"
+   ],
+   "aha": "Auf der außenpolitischen Seite steht die Diplomatie im Vordergrund, auf der verteidigungspolitischen die Abschreckung. Wer nur auf militärische Stärke setzt, kann laut Gady einen Rüstungswettlauf auslösen.",
+   "quote_clean": "Sicherheitspolitik unterteilt sich immer in Außenpolitik und Verteidigungspolitik, und aus der außenpolitischen Perspektive steht natürlich die Diplomatie im Vordergrund.",
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Behauptung zur österreichischen Ministerien-Zusammenarbeit steht nicht im Ausschnitt; aha neu.",
+   "stand_note": "",
+   "quality": 2
+  },
+  {
+   "statement": "Eskalationsdominanz bedeutet, selbst bestimmen zu können, wie schnell und auf welche Ebene ein Konflikt eskaliert.",
+   "question": "Wie nennt man in der Militärwissenschaft das Ziel, selbst zu bestimmen, wie weit ein Konflikt eskaliert?",
+   "answer": "Eskalationsdominanz",
+   "distractors": [
+    "Sicherheitsdilemma",
+    "Gleichgewicht des Schreckens",
+    "Vorwärtsverteidigung"
+   ],
+   "aha": "Kommt der andere mit dem Messer, hast du schon die Pistole in der Hand. Klingt brutal, sagt Gady, ist es auch, kann aber verhindern, dass sich ein Konflikt ausbreitet.",
+   "quote_clean": "Du willst der sein, der entscheiden kann, inwiefern und wie schnell auf welche Ebene eskaliert wird.",
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt und gut erklärt; Begriff passt.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Gady erklärt Eskalationsdominanz mit dem „Chicago Way“ aus dem Film „The Untouchables“.",
+   "question": "Mit welchem Filmzitat erklärt Gady das Prinzip der Eskalationsdominanz?",
+   "answer": "„The Chicago Way“ aus The Untouchables",
+   "distractors": [
+    "„Say hello to my little friend“",
+    "„I'll make him an offer“",
+    "„May the Force be with you“"
+   ],
+   "aha": "Sean Connery erklärt darin dem jungen Kevin Costner, wie man in Chicago mit Gangstern umgeht. Für Gady das Prinzip Eskalationsdominanz in einem Satz.",
+   "quote_clean": "He pulls a knife, you pull a gun. He sends one of yours to the hospital, you send one of his to the morgue. That's the Chicago way.",
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, Filmzitat stimmt (Untouchables); Zitat nur geglättet auf das echte Filmzitat.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Das Sicherheitsdilemma beschreibt, dass Aufrüstung beim Gegner Angst auslösen und so einen Krieg wahrscheinlicher machen kann.",
+   "question": "Wie nennt man es, wenn eigene Aufrüstung beim Gegner Angst auslöst und Krieg wahrscheinlicher macht?",
+   "answer": "Sicherheitsdilemma",
+   "distractors": [
+    "Eskalationsdominanz",
+    "Abschreckungsparadox",
+    "Gefangenendilemma"
+   ],
+   "aha": "Du rüstest auf, um dich sicherer zu fühlen, und der Nachbar fühlt sich genau deshalb unsicherer. Darum gehört zur Abschreckung immer auch Diplomatie, damit man weiß, was der andere vorhat.",
+   "quote_clean": "Achtung aber vor dem Sicherheitsdilemma: Wer aufrüstet, kann die Angst beim Gegner vor Angriffen erhöhen, was selbst wiederum einen Krieg wahrscheinlicher machen könnte.",
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt in Andreas' Zusammenfassung und Frage; Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Beim „Nuclear Hedging“ hält ein Staat alle Fähigkeiten bereit, um im Notfall binnen Monaten oder Wochen eine Atomwaffe zu bauen, ohne offiziell Atommacht zu sein.",
+   "question": "Wie heißt die Strategie, alles für eine Atombombe vorzubereiten, ohne offiziell eine zu besitzen?",
+   "answer": "Nuclear Hedging",
+   "distractors": [
+    "Nuclear Sharing",
+    "Minimalabschreckung",
+    "Zweitschlagfähigkeit"
+   ],
+   "aha": "So hält man sich offiziell an die internationalen Verträge und hat trotzdem eine Option, falls es ernst wird. Gady sieht darin einen Mittelweg, hat dabei aber trotzdem Bauchweh.",
+   "quote_clean": "Es gibt zum Beispiel die Idee von Nuclear Hedging: Deutschland stellt alle Fähigkeiten im Hintergrund her, um im Notfall innerhalb von wenigen Monaten oder sogar Wochen eine Nuklearwaffe zusammenzusetzen",
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "'Nuklearen Teilhabe' ist nahezu dasselbe wie 'Nuclear Sharing'; Distraktor ersetzt.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Gady erzählt die Anekdote eines jungen Pentagon-Analysten, der einem General sagte, er habe genauso viele Atomkriege geführt wie dieser.",
+   "question": "Was antwortete laut Gadys Anekdote ein junger Pentagon-Analyst einem General?",
+   "answer": "Er habe gleich viele Atomkriege geführt",
+   "distractors": [
+    "Er habe mehr Bücher darüber gelesen",
+    "Er sei klüger als der General",
+    "Er werde bald selbst General"
+   ],
+   "aha": "Nämlich null. Über Atomkrieg reden alle nur in der Theorie, und Gady hofft, dass das auch so bleibt.",
+   "quote_clean": "Ich habe genauso viele Nuklearkriege wie Sie bisher gefochten, Herr General, deshalb sitze ich hier auch.",
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt als Anekdote ('ich kann mich erinnern'), korrekt als Anekdote gerahmt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Andreas leitet am Ende der Folge seine Zusammenfassung mit „Was nehme ich mir mit?“ ein.",
+   "question": "Mit welcher Frage leitet Andreas am Ende seine Zusammenfassung ein?",
+   "answer": "„Was nehme ich mir mit?“",
+   "distractors": [
+    "„Was haben wir gelernt?“",
+    "„Was bleibt hängen?“",
+    "„Was heißt das jetzt?“"
+   ],
+   "aha": "Drei Punkte, schön durchnummeriert. Diesmal: Krieg ist kein Naturphänomen, Abschreckung plus Diplomatie, und Vorsicht vor Autokraten ab 60.",
+   "quote_clean": "Lieber Franz, danke für deine Zeit. Vielen Dank. Was nehme ich mir mit? Erstens: Krieg ist kein Naturphänomen.",
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Meta-Floskel ohne Wissenswert, Distraktoren erfunden.",
+   "stand_note": "",
+   "quality": 1
+  }
+ ],
+ "id": "347",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

@@ -1,0 +1,737 @@
+{
+ "theme": "Österreich & Politik",
+ "summary": "Nach dem Ibiza-Video erklärt mir Hubert Sickinger, woher Österreichs Parteien ihr vieles Geld haben und warum die Kontrolle so zahnlos ist.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1140,
+   "speaker": "Hubert Sickinger",
+   "quote": "die 82 Tage vor dem Wahl, also ab dem Stichtag bis zum Wahltag, wo diese 7 Millionen Obergrenze war.",
+   "quote_clean": "Die 82 Tage vor der Wahl, also ab dem Stichtag bis zum Wahltag, wo diese 7-Millionen-Obergrenze war.",
+   "statement": "Für Nationalratswahlen in Österreich gilt eine Obergrenze für Wahlwerbungskosten von 7 Millionen Euro.",
+   "question": "Wie viele Millionen Euro darf eine Partei in Österreich laut Parteiengesetz (Stand 2019) im Nationalratswahlkampf höchstens ausgeben?",
+   "answer": "7 Millionen Euro",
+   "distractors": [
+    "3 Millionen Euro",
+    "12 Millionen Euro",
+    "20 Millionen Euro"
+   ],
+   "number_value": 7,
+   "number_unit": "Millionen Euro",
+   "slider_min": 1,
+   "slider_max": 25,
+   "log_scale": false,
+   "aha": "Sieben Millionen, mehr ist nicht erlaubt. Die Grenze soll verhindern, dass sich Parteien im Intensivwahlkampf finanziell übernehmen. Die ÖVP hat 2017 trotzdem rund 13 Millionen ausgegeben, also fast das Doppelte.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Wahlkampf",
+    "Parteiengesetz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3350,
+   "speaker": "Hubert Sickinger",
+   "quote": "Begrenzt sind Ausgaben für den Zeitraum zwischen dem Stichtag der Wahl und dem Wahltag, also die 82 Tage vor der Wahl.",
+   "quote_clean": "Begrenzt sind Ausgaben für den Zeitraum zwischen dem Stichtag der Wahl und dem Wahltag, also die 82 Tage vor der Wahl.",
+   "statement": "Die Wahlkampfkosten-Obergrenze gilt nur für die 82 Tage zwischen Stichtag und Wahltag.",
+   "question": "Für wie viele Tage vor einer Nationalratswahl gilt in Österreich die Obergrenze für Wahlkampfkosten?",
+   "answer": "82 Tage",
+   "distractors": [
+    "30 Tage",
+    "180 Tage",
+    "365 Tage"
+   ],
+   "number_value": 82,
+   "number_unit": "Tage",
+   "slider_min": 10,
+   "slider_max": 300,
+   "log_scale": false,
+   "aha": "Gezählt wird nur ab dem Stichtag bis zum Wahltag. Was davor ausgegeben wird, fällt nicht unter die Grenze. Darum hat 2017 der Wahlkampf eigentlich schon zwei Monate früher begonnen, mit dem Parteitag von Sebastian Kurz Anfang Juli.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Wahlkampf",
+    "Parteiengesetz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 516,
+   "speaker": "Hubert Sickinger",
+   "quote": "Aber die anderen Parteien, da ist die Bemessungsgrundlage 4,60 Euro pro Wahlberechtigten.",
+   "quote_clean": "Bei den anderen Parteien ist die Bemessungsgrundlage 4,60 Euro pro Wahlberechtigten.",
+   "statement": "Die Bundes-Parteienförderung in Österreich bemisst sich an 4,60 Euro pro Wahlberechtigtem und Jahr.",
+   "question": "Wie viel Euro pro Wahlberechtigtem beträgt die Bemessungsgrundlage der Parteienförderung auf Bundesebene (Stand 2019)?",
+   "answer": "4,60 Euro",
+   "distractors": [
+    "0,90 Euro",
+    "12 Euro",
+    "25 Euro"
+   ],
+   "number_value": 4.6,
+   "number_unit": "Euro",
+   "slider_min": 0,
+   "slider_max": 20,
+   "log_scale": false,
+   "aha": "Der Gesamttopf wird so berechnet und dann nach Stimmen auf die Parlamentsparteien aufgeteilt. Pro Stimme ist es daher noch etwas mehr, und das Jahr für Jahr, nicht nur im Wahljahr.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Parteienförderung",
+    "Bund"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 532,
+   "speaker": "Hubert Sickinger",
+   "quote": "Und auf Landesebene ist es teilweise sehr viel höher. Das reicht von 12 Euro pro Wahlberechtigten bis hin zu 25 Euro pro Wahlberechtigten.",
+   "quote_clean": "Auf Landesebene ist es teilweise sehr viel höher. Das reicht von 12 Euro pro Wahlberechtigten bis hin zu 25 Euro pro Wahlberechtigten.",
+   "statement": "Auf Landesebene beträgt die Parteienförderung in Österreich bis zu 25 Euro pro Wahlberechtigtem.",
+   "question": "Bis zu wie viel Euro pro Wahlberechtigtem beträgt die Parteienförderung in manchen Bundesländern?",
+   "answer": "25 Euro",
+   "distractors": [
+    "5 Euro",
+    "60 Euro",
+    "100 Euro"
+   ],
+   "number_value": 25,
+   "number_unit": "Euro",
+   "slider_min": 0,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Die Länder sind noch großzügiger als der Bund, der mit 4,60 Euro rechnet. Den Jackpot holt, wer in allen Landtagen sitzt, vor allem in Wien, Oberösterreich und der Steiermark.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Parteienförderung",
+    "Bundesländer"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 687,
+   "speaker": "Hubert Sickinger",
+   "quote": "Und wenn man all diese Sachen dann dazu rechnet, ich bin für das Jahr 2015 auf circa 130 Millionen gekommen bei der ÖVP.",
+   "quote_clean": "Wenn man all diese Sachen dazurechnet, bin ich für das Jahr 2015 auf circa 130 Millionen gekommen bei der ÖVP.",
+   "statement": "Rechnet man Förderungen, Klubs, Teilorganisationen und Kammerfraktionen zusammen, kam die ÖVP 2015 auf rund 130 Millionen Euro.",
+   "question": "Auf wie viele Millionen Euro schätzt Hubert Sickinger den Gesamtumsatz der ÖVP im Jahr 2015?",
+   "answer": "Rund 130 Millionen Euro",
+   "distractors": [
+    "Rund 15 Millionen Euro",
+    "Rund 45 Millionen Euro",
+    "Rund 400 Millionen Euro"
+   ],
+   "number_value": 130,
+   "number_unit": "Millionen Euro",
+   "slider_min": 10,
+   "slider_max": 1000,
+   "log_scale": true,
+   "aha": "Allein an öffentlicher Förderung für Partei und Klubs auf Bundes- und Landesebene waren es 63 Millionen. Dazu kommen Gemeinden und etwa 18 Millionen, die der Wirtschaftsbund über die Wirtschaftskammer bekommt. Ein mittelständisches Unternehmen, quasi.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "ÖVP",
+    "Parteifinanzen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 714,
+   "speaker": "Hubert Sickinger",
+   "quote": "Also zum Beispiel die deutschen Parteien, wiederum nur die direkte Parteienförderung, die in Österreich heuer so circa 143 Millionen auf Bundes- und Landesebene beträgt, die wäre in Deutschland bei circa 190 Millionen.",
+   "quote_clean": "Zum Beispiel die deutschen Parteien: Die direkte Parteienförderung, die in Österreich heuer circa 143 Millionen auf Bundes- und Landesebene beträgt, wäre in Deutschland bei circa 190 Millionen.",
+   "statement": "Österreichs direkte Parteienförderung lag 2019 bei rund 143 Millionen Euro, in Deutschland bei rund 190 Millionen, obwohl Deutschland fast zehnmal so groß ist.",
+   "question": "Wie viele Millionen Euro direkte Parteienförderung gab es 2019 in Österreich auf Bundes- und Landesebene zusammen?",
+   "answer": "Rund 143 Millionen Euro",
+   "distractors": [
+    "Rund 19 Millionen Euro",
+    "Rund 60 Millionen Euro",
+    "Rund 500 Millionen Euro"
+   ],
+   "number_value": 143,
+   "number_unit": "Millionen Euro",
+   "slider_min": 10,
+   "slider_max": 1000,
+   "log_scale": true,
+   "aha": "Deutschland hat fast zehnmal so viele Wähler:innen, zahlt aber nur rund 190 Millionen. Rechnet man Stiftungen, Klubs und Mitarbeiter dazu, ist Österreich pro Kopf immer noch etwa drei- bis dreieinhalbmal so großzügig.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Parteienförderung",
+    "Deutschland"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 815,
+   "speaker": "Hubert Sickinger",
+   "quote": "Also Österreich hat sicher in den europäischen Staaten die pro Kopf höchste Parteienförderung.",
+   "quote_clean": "Österreich hat sicher unter den europäischen Staaten die pro Kopf höchste Parteienförderung.",
+   "statement": "Österreich hat unter den europäischen Staaten die höchste Parteienförderung pro Kopf.",
+   "question": "Welches Land hat laut Hubert Sickinger in Europa die höchste Parteienförderung pro Kopf?",
+   "answer": "Österreich",
+   "distractors": [
+    "Schweden",
+    "Deutschland",
+    "Frankreich"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Österreich liegt etwa doppelt so hoch wie Schweden, das selbst schon viel zahlt. Und die Parteien beschließen das im Nationalrat selbst, ein bisserl wie wenn der Hund den Einkauf macht.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Parteienförderung",
+    "Europa"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 796,
+   "speaker": "Hubert Sickinger",
+   "quote": "Beispielsweise in Großbritannien gibt es fast gar keine Parteienförderung, in der Schweiz auch nicht.",
+   "quote_clean": "In Großbritannien gibt es fast gar keine Parteienförderung, in der Schweiz auch nicht.",
+   "statement": "In Großbritannien und der Schweiz gibt es fast keine staatliche Parteienförderung.",
+   "question": "In welchem dieser Länder gibt es fast gar keine staatliche Parteienförderung?",
+   "answer": "Großbritannien",
+   "distractors": [
+    "Österreich",
+    "Schweden",
+    "Deutschland"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Dort fließen nur ein paar Millionen an die Parlamentsfraktionen, sonst sind die Parteien auf sich gestellt. Italien hat die Förderung unlängst sogar ganz abgeschafft.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Parteienförderung",
+    "Europa"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1486,
+   "speaker": "Hubert Sickinger",
+   "quote": "Spenden im Gesamtausmaß von mehr als 3.500 Euro pro Jahr, auch auf unterschiedlichen Parteiebenen zusammengerechnet, müssen im Rechenschaftspflicht veröffentlicht werden",
+   "quote_clean": "Spenden im Gesamtausmaß von mehr als 3.500 Euro pro Jahr, auch auf unterschiedlichen Parteiebenen zusammengerechnet, müssen im Rechenschaftsbericht veröffentlicht werden.",
+   "statement": "In Österreich müssen Parteispenden über 3.500 Euro pro Jahr im Rechenschaftsbericht veröffentlicht werden.",
+   "question": "Ab welcher jährlichen Summe muss eine Parteispende in Österreich (Stand 2019) im Rechenschaftsbericht namentlich aufscheinen?",
+   "answer": "Über 3.500 Euro",
+   "distractors": [
+    "Über 500 Euro",
+    "Über 10.000 Euro",
+    "Über 50.000 Euro"
+   ],
+   "number_value": 3500,
+   "number_unit": "Euro",
+   "slider_min": 100,
+   "slider_max": 100000,
+   "log_scale": true,
+   "aha": "Kleinere Spenden bleiben anonym, und das ist auch gewollt: Aus Spenden kann man auf die Gesinnung schließen, und nicht jede:r will, dass das der ganze Freundeskreis weiß. Seit 2019 ist die Grenze um 2 Prozent valorisiert, also ein bisserl unrunder.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Spenden",
+    "Transparenz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1653,
+   "speaker": "Hubert Sickinger",
+   "quote": "Eine einzige Ausnahme sind Spenden von mehr als 50.000 Euro. Wiederum, das ist heuer valorisiert worden, um zwei Prozent.",
+   "quote_clean": "Eine einzige Ausnahme sind Spenden von mehr als 50.000 Euro. Das ist heuer um zwei Prozent valorisiert worden.",
+   "statement": "Nur Einzelspenden über 50.000 Euro müssen sofort dem Rechnungshof gemeldet und veröffentlicht werden.",
+   "question": "Ab welcher Höhe muss eine einzelne Parteispende in Österreich (Stand 2019) sofort dem Rechnungshof gemeldet werden?",
+   "answer": "Über 50.000 Euro",
+   "distractors": [
+    "Über 3.500 Euro",
+    "Über 10.000 Euro",
+    "Über 500.000 Euro"
+   ],
+   "number_value": 50000,
+   "number_unit": "Euro",
+   "slider_min": 1000,
+   "slider_max": 1000000,
+   "log_scale": true,
+   "aha": "Alles darunter erfährt die Öffentlichkeit erst mit dem Rechenschaftsbericht, oft Jahre später. So wurde etwa sichtbar, dass Hans-Peter Haselsteiner den NEOS über ein halbes Jahrzehnt rund 1,5 Millionen gegeben hat. Sickinger will die Schwelle auf 10.000 Euro senken.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Spenden",
+    "Rechnungshof"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1985,
+   "speaker": "Hubert Sickinger",
+   "quote": "Spenden an Parteien können nicht von der Steuer abgesetzt werden, Spenden an gemeinnützige Organisationen hingegen sehr wohl. Dann könnte man nämlich über diesen Umweg eine Spende steuerlich absetzbar machen.",
+   "quote_clean": "Spenden an Parteien können nicht von der Steuer abgesetzt werden, Spenden an gemeinnützige Organisationen hingegen sehr wohl. Dann könnte man über diesen Umweg eine Spende steuerlich absetzbar machen.",
+   "statement": "Parteien dürfen keine Spenden von gemeinnützigen Vereinen annehmen, weil Spenden sonst über diesen Umweg steuerlich absetzbar würden.",
+   "question": "Warum dürfen Parteien in Österreich kein Geld von gemeinnützigen Vereinen annehmen?",
+   "answer": "Sonst würden Parteispenden steuerlich absetzbar",
+   "distractors": [
+    "Weil Vereine kein Geld haben dürfen",
+    "Weil Vereine nur ans Ausland spenden",
+    "Weil das die EU verbietet"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Spenden an Parteien kannst du nicht von der Steuer absetzen, an gemeinnützige Vereine schon. Ginge das Geld über so einen Verein, würde der Staat die Parteispende quasi mitfinanzieren. Bekommt eine Partei trotzdem so eine Spende, muss sie das Geld an den Rechnungshof weiterleiten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Spenden",
+    "Steuer"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1862,
+   "speaker": "Hubert Sickinger",
+   "quote": "Das wären alles Spenden, denn der Spendenbegriff im Parteiengesetz ist sehr weit gefasst. Es sind nicht nur Geldüberweisungen an die Partei, sondern auch lebende Subventionen, also Personal, das unentgeltlich der Partei zur Verfügung gestellt wird, oder es sind Sachleistungen.",
+   "quote_clean": "Das wären alles Spenden, denn der Spendenbegriff im Parteiengesetz ist sehr weit gefasst. Es sind nicht nur Geldüberweisungen an die Partei, sondern auch lebende Subventionen, also Personal, das unentgeltlich der Partei zur Verfügung gestellt wird, oder Sachleistungen.",
+   "statement": "Als Parteispende gilt laut Parteiengesetz auch unentgeltlich überlassenes Personal oder eine Sachleistung, die der Partei Ausgaben abnimmt.",
+   "question": "Was zählt laut österreichischem Parteiengesetz als Spende?",
+   "answer": "Auch Personal und Sachleistungen",
+   "distractors": [
+    "Nur Banküberweisungen",
+    "Nur Bargeld",
+    "Nur Spenden über 1.000 Euro"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn ein Verein die Facebook-Werbung oder ein Festl für die Partei zahlt, ist das genauso eine Spende. Nur sieht man es nicht in den Büchern der Partei, darum müsste sie ehrlich sein und es selbst angeben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Spenden",
+    "Parteiengesetz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1958,
+   "speaker": "Hubert Sickinger",
+   "quote": "Eine verschwiegene Spende kostet je nach Verschuldung der Partei mindestens das Ausmaß der Spende bis hin zum Dreifachen der Spende.",
+   "quote_clean": "Eine verschwiegene Spende kostet je nach Verschuldung der Partei mindestens das Ausmaß der Spende bis hin zum Dreifachen der Spende.",
+   "statement": "Eine verschwiegene Spende kostet eine Partei bis zum Dreifachen der Spendensumme.",
+   "question": "Bis zum Wievielfachen der Summe kann eine verschwiegene Spende eine Partei in Österreich kosten?",
+   "answer": "Bis zum Dreifachen",
+   "distractors": [
+    "Bis zur Hälfte",
+    "Bis zum Zehnfachen",
+    "Gar nichts"
+   ],
+   "number_value": 3,
+   "number_unit": "-fache",
+   "slider_min": 1,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Die Strafe ist also durchaus happig, mindestens die Spende selbst. Das Problem ist nur, dass man so etwas mit dem jetzigen Kontrollsystem kaum entdeckt.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Strafen",
+    "Spenden"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2262,
+   "speaker": "Hubert Sickinger",
+   "quote": "Eine Partei darf nämlich keine Spende von mehr als 1.000 Euro annehmen, wenn sie erkennbar die Weiterleitung der Spende eines verschleierten, also nicht genannten, unbekannten Dritten ist.",
+   "quote_clean": "Eine Partei darf keine Spende von mehr als 1.000 Euro annehmen, wenn sie erkennbar die Weiterleitung der Spende eines verschleierten, also nicht genannten, unbekannten Dritten ist.",
+   "statement": "Parteien dürfen keine weitergeleiteten Spenden eines unbekannten Dritten über 1.000 Euro annehmen.",
+   "question": "Ab welcher Höhe darf eine Partei keine weitergeleitete Spende eines verschleierten Dritten mehr annehmen?",
+   "answer": "Über 1.000 Euro",
+   "distractors": [
+    "Über 100 Euro",
+    "Über 10.000 Euro",
+    "Über 100.000 Euro"
+   ],
+   "number_value": 1000,
+   "number_unit": "Euro",
+   "slider_min": 10,
+   "slider_max": 100000,
+   "log_scale": true,
+   "aha": "Genau das wäre beim Modell aus dem Ibiza-Video das Problem: Ein Verein sammelt anonym und reicht weiter. Das wäre gleich ein doppelter Verstoß, weil auch die Sachleistungen nicht angegeben würden.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Spenden",
+    "Anonymität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2716,
+   "speaker": "Hubert Sickinger",
+   "quote": "Also bei uns dürfen nur österreichische, staatsbürger, ausländische, natürliche oder juristische Personen, also Staatsbürger oder Unternehmen oder Vereine oder so dürfen nur maximal 2500 oder seit heuer ein bisschen mehr spenden.",
+   "quote_clean": "Bei uns dürfen ausländische natürliche oder juristische Personen, also Staatsbürger oder Unternehmen oder Vereine, nur maximal 2.500 Euro oder seit heuer ein bisschen mehr spenden.",
+   "statement": "Ausländische Personen, Firmen oder Vereine dürfen österreichischen Parteien höchstens rund 2.500 Euro spenden.",
+   "question": "Wie viel dürfen Ausländer:innen oder ausländische Firmen einer österreichischen Partei höchstens spenden (Stand 2019)?",
+   "answer": "Rund 2.500 Euro",
+   "distractors": [
+    "Gar nichts",
+    "Rund 50.000 Euro",
+    "Unbegrenzt viel"
+   ],
+   "number_value": 2500,
+   "number_unit": "Euro",
+   "slider_min": 0,
+   "slider_max": 100000,
+   "log_scale": true,
+   "aha": "Österreich ist da strenger als Deutschland, wo zumindest EU-Bürger:innen spenden dürfen. Kleiner Kontrast zum Ibiza-Video, in dem gleich Millionen von einer vermeintlichen Oligarchennichte im Raum standen.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Spenden",
+    "Ausland"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1588,
+   "speaker": "Hubert Sickinger",
+   "quote": "Den muss sie bis Ende September des Folgejahres dem Rechnungshof übermitteln. Der muss vorher überprüft werden von zwei Wirtschaftsprüfern.",
+   "quote_clean": "Den muss sie bis Ende September des Folgejahres dem Rechnungshof übermitteln. Der muss vorher von zwei Wirtschaftsprüfern überprüft werden.",
+   "statement": "Parteien müssen ihren Rechenschaftsbericht erst bis Ende September des Folgejahres beim Rechnungshof abgeben.",
+   "question": "Bis wann muss eine Partei in Österreich ihren Rechenschaftsbericht beim Rechnungshof abgeben?",
+   "answer": "Bis Ende September des Folgejahres",
+   "distractors": [
+    "Innerhalb von 30 Tagen",
+    "Vor jeder Wahl",
+    "Bis Ende Jänner des Folgejahres"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Danach prüft der Rechnungshof, fragt nach, und erst dann wird veröffentlicht. Im Mai 2019 waren die Berichte für 2017 der großen Parteien noch immer nicht öffentlich. Wer im Wahlkampf wem gespendet hat, erfährst du also Jahre später.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Rechnungshof",
+    "Transparenz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1357,
+   "speaker": "Hubert Sickinger",
+   "quote": "Und damit kann man rechnen, dass kann man im Vorgriff auch schon einen Kredit aufnehmen und dieses Geld investieren. Und im Idealfall hat man einen Return of Investment, nämlich höhere staatliche Parteienförderung.",
+   "quote_clean": "Damit kann man rechnen, und kann im Vorgriff schon einen Kredit aufnehmen und dieses Geld investieren. Im Idealfall hat man einen Return on Investment, nämlich höhere staatliche Parteienförderung.",
+   "statement": "Weil das Wahlergebnis die Parteienförderung für die ganze Gesetzgebungsperiode bestimmt, kann ein Wahlkampf auf Kredit wie eine Investition wirken.",
+   "question": "Warum kann es sich für eine Partei rechnen, einen Wahlkampf auf Kredit zu finanzieren?",
+   "answer": "Mehr Stimmen bringen jahrelang mehr Förderung",
+   "distractors": [
+    "Kredite für Parteien sind zinsfrei",
+    "Der Staat übernimmt alle Schulden",
+    "Wahlkampfkosten werden rückerstattet"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Wahl entscheidet, wie viel Förderung fünf Jahre lang fließt. Die ÖVP konnte 2017 mit deutlich über 30 Prozent rechnen und damit mit Millionen mehr pro Jahr. Kann aber auch schiefgehen, siehe die Grünen, die damals aus dem Nationalrat geflogen sind.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlkampf",
+    "Schulden"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1252,
+   "speaker": "Hubert Sickinger",
+   "quote": "Wenn man der jungen ÖVP beitritt, tritt man zugleich der ÖVP bei. Bei der sozialistischen Jugend ist das nicht der Fall.",
+   "quote_clean": "Wenn man der Jungen ÖVP beitritt, tritt man zugleich der ÖVP bei. Bei der Sozialistischen Jugend ist das nicht der Fall.",
+   "statement": "Wer der Jungen ÖVP beitritt, wird automatisch ÖVP-Mitglied, bei der Sozialistischen Jugend gilt das für die SPÖ nicht.",
+   "question": "Bei welcher Jugendorganisation wirst du mit dem Beitritt automatisch auch Mitglied der Mutterpartei?",
+   "answer": "Junge ÖVP",
+   "distractors": [
+    "Sozialistische Jugend",
+    "Bei beiden",
+    "Bei keiner"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Junge ÖVP ist integraler Teil der Partei, genauso wie der Seniorenbund. Beim Pensionistenverband der SPÖ bist du dagegen nicht automatisch Parteimitglied. Die Grenzen der Parteien sind ziemlich fließend.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "ÖVP",
+    "SPÖ",
+    "Mitgliedschaft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3674,
+   "speaker": "Hubert Sickinger",
+   "quote": "wenn es um bis zu ein Viertel überschritten ist, hat eine Partei maximal zehn Prozent des Betrags zu zahlen, alles darüber dann bis zu 20 Prozent.",
+   "quote_clean": "Wenn die Grenze um bis zu ein Viertel überschritten ist, hat eine Partei maximal zehn Prozent des Betrags zu zahlen, alles darüber dann bis zu 20 Prozent.",
+   "statement": "Überschreitet eine Partei die Wahlkampfkostengrenze um bis zu ein Viertel, zahlt sie höchstens 10 Prozent des Überschreitungsbetrags, darüber bis zu 20 Prozent.",
+   "question": "Wie viel Prozent des Überschreitungsbetrags muss eine Partei höchstens zahlen, wenn sie die Wahlkampfkostengrenze um bis zu ein Viertel überschreitet?",
+   "answer": "Höchstens 10 Prozent",
+   "distractors": [
+    "Höchstens 1 Prozent",
+    "Höchstens 50 Prozent",
+    "Höchstens 100 Prozent"
+   ],
+   "number_value": 10,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "In der Praxis war es meist nur die Hälfte davon. Für 6 Millionen zu viel zahlte die ÖVP also maximal rund eine Million, bekommt aber durch den Wahlerfolg jedes Jahr zweieinhalb Millionen mehr Förderung. Ein Investment, das nicht wehtut.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Strafen",
+    "Wahlkampf"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 979,
+   "speaker": "Hubert Sickinger",
+   "quote": "Daher hat man dann die staatliche Parteienförderung noch einmal um 14 Millionen auf 27,6 Millionen erhöht.",
+   "quote_clean": "Daher hat man die staatliche Parteienförderung noch einmal um 14 Millionen auf 27,6 Millionen erhöht.",
+   "statement": "2012 erhöhten die Parteien die Bundes-Parteienförderung um 14 auf 27,6 Millionen Euro, als Ausgleich für strengere Spendenregeln.",
+   "question": "Auf wie viele Millionen Euro wurde die Parteienförderung des Bundes 2012 erhöht?",
+   "answer": "27,6 Millionen Euro",
+   "distractors": [
+    "9,5 Millionen Euro",
+    "55 Millionen Euro",
+    "120 Millionen Euro"
+   ],
+   "number_value": 27.6,
+   "number_unit": "Millionen Euro",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Die Logik: Strengere Regeln für Spenden kosten die Parteien so manche verdeckte Finanzierung, also haben sie sich gleich selbst mehr Steuergeld genehmigt. Fast eine Verdoppelung.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Parteienförderung",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3096,
+   "speaker": "Hubert Sickinger",
+   "quote": "die reichste Parteiorganisation in Österreich überhaupt ist die niederösterreichische ÖVP.",
+   "quote_clean": "Die reichste Parteiorganisation in Österreich überhaupt ist die niederösterreichische ÖVP.",
+   "statement": "Die reichste Parteiorganisation Österreichs ist die niederösterreichische ÖVP.",
+   "question": "Welche ist laut Hubert Sickinger die reichste Parteiorganisation Österreichs?",
+   "answer": "Die niederösterreichische ÖVP",
+   "distractors": [
+    "Die Wiener SPÖ",
+    "Die Bundes-FPÖ",
+    "Die steirische SPÖ"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Sie war auch die allererste Parteiorganisation, die die 7-Millionen-Grenze bei einer Landtagswahl gesprengt hat, mit über 8 Millionen. Dazu gab es Werbung über ein eigenes Personenkomitee mit Verein dahinter.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "ÖVP",
+    "Niederösterreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1381,
+   "speaker": "Hubert Sickinger",
+   "quote": "Denn hochverschuldete Parteien sind auch ein Problem für die Demokratie.",
+   "quote_clean": "Denn hochverschuldete Parteien sind auch ein Problem für die Demokratie.",
+   "statement": "Hoch verschuldete Parteien sind ein Problem für die Demokratie, deshalb gibt es Grenzen für Wahlkampfkosten.",
+   "question": "Wer sagt im Ibiza-Spezial: „Hochverschuldete Parteien sind auch ein Problem für die Demokratie.“?",
+   "answer": "Hubert Sickinger",
+   "distractors": [
+    "Andreas Sator",
+    "Heinz-Christian Strache",
+    "Die Rechnungshof-Präsidentin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer verschuldet ist, wird abhängig von Spendern. Genau deshalb begrenzt man die Wahlwerbungskosten, damit Parteien gar nicht erst auf die Idee kommen, alles auf eine Karte zu setzen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Demokratie",
+    "Schulden"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2277,
+   "speaker": "Hubert Sickinger",
+   "quote": "Also die Regeln sind an sich alle klar. Das Problem ist das Kontroll- und Sanktionssystem.",
+   "quote_clean": "Die Regeln sind an sich alle klar. Das Problem ist das Kontroll- und Sanktionssystem.",
+   "statement": "Die Regeln des Parteiengesetzes sind klar, das Problem ist das Kontroll- und Sanktionssystem.",
+   "question": "Was ist laut Hubert Sickinger das eigentliche Problem beim österreichischen Parteiengesetz?",
+   "answer": "Das Kontroll- und Sanktionssystem",
+   "distractors": [
+    "Die unklaren Regeln",
+    "Zu hohe Strafen",
+    "Zu wenige Parteien"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kontrolliert wird nur, was in den Büchern der Parteien steht. Vereine und Personenkomitees, die Rechnungen übernehmen, kann niemand prüfen. Sickinger will deshalb volles Prüfrecht für den Rechnungshof und Spendenverschleierung im Strafrecht.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Kontrolle",
+    "Parteiengesetz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 821,
+   "speaker": "Andreas Sator",
+   "quote": "Also es klingt so ein bisschen danach, wie wenn man den Hund entscheiden lässt, was man einkauft. Dann kauft man ganz viel Wurst und Cabernossi.",
+   "quote_clean": "Es klingt ein bisschen danach, wie wenn man den Hund entscheiden lässt, was man einkauft. Dann kauft man ganz viel Wurst und Cabanossi.",
+   "statement": "Andreas vergleicht Parteien, die über ihre eigene Förderung entscheiden, mit einem Hund, der den Einkauf aussucht.",
+   "question": "Womit vergleicht Andreas, dass Parteien im Nationalrat selbst über ihre Förderung entscheiden?",
+   "answer": "Hund entscheidet über den Einkauf",
+   "distractors": [
+    "Kind verteilt die Schokolade",
+    "Fuchs bewacht den Hühnerstall",
+    "Katze hütet den Fisch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wurst und Cabanossi, klar. Sickinger relativiert ein bisserl: Zu kräftig erhöhen trauen sich die Parteien wegen der öffentlichen Kritik nicht. Später kommt Andreas noch einmal drauf zurück, mit dem Hund, der auf die Wurst aufpasst.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Vergleich",
+    "Parteienförderung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 3909,
+   "speaker": "Andreas Sator",
+   "quote": "Was nehme ich mir mit? Ich fand besonders interessant, dass die ÖVP die reichste Partei Österreichs ist.",
+   "quote_clean": "Was nehme ich mir mit? Ich fand besonders interessant, dass die ÖVP die reichste Partei Österreichs ist.",
+   "statement": "Am Ende der Folge fasst Andreas mit „Was nehme ich mir mit?“ zusammen, was er gelernt hat.",
+   "question": "Mit welcher Frage leitet Andreas am Ende der Folge seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir gelernt?",
+    "Was bleibt hängen?",
+    "Was heißt das jetzt für uns?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das ist sein fixes Ritual am Ende. Diesmal überrascht ihn vor allem, wie reich die ÖVP ist und dass Österreichs Parteien sich fast so viel Förderung gönnen wie die deutschen, bei einem Zehntel der Größe.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ritual",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "60",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

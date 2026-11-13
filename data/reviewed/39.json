@@ -1,0 +1,278 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 153 s klar, 1900 und Gründer Gustav Davis stimmen; Distraktoren klar falsch.",
+   "stand_note": "",
+   "statement": "Die Kronen Zeitung wurde im Jahr 1900 gegründet.",
+   "question": "In welchem Jahr wurde die Kronen Zeitung gegründet?",
+   "answer": "1900",
+   "distractors": [
+    "1848",
+    "1919",
+    "1955"
+   ],
+   "aha": "Die Krone ist also älter als die Republik Österreich selbst. Gegründet hat sie ein Oberst namens Gustav Davis, und der Erfolg kam ziemlich flott.",
+   "quote_clean": "Die Kronen Zeitung gibt es seit Anfang 1900, gegründet von einem österreichischen Oberst, Gustav Davis, sie war damals relativ rasch sehr erfolgreich.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Fidler sagt nur 'wie der Titel schon sagt, eine Krone' und bestätigt die Währung auf Nachfrage vage ('wird wohl'); dass die Zeitung eine Krone kostete, ist nicht belegt und historisch zweifelhaft (Krone war die Währung, Einzelpreis deutlich niedriger).",
+   "stand_note": "",
+   "statement": "Die Kronen Zeitung ist nach ihrem ursprünglichen Verkaufspreis von einer Krone benannt.",
+   "question": "Woher hat die Kronen Zeitung ihren Namen?",
+   "answer": "Vom Preis: Sie kostete eine Krone",
+   "distractors": [
+    "Von der Kaiserkrone der Habsburger",
+    "Vom Gründer namens Kroner",
+    "Von der Wiener Kronprinzenstraße"
+   ],
+   "aha": "Die Krone war damals die Währung in Österreich.",
+   "quote_clean": "Sie war damals relativ rasch sehr erfolgreich, aufgrund des Kleinformats und des günstigen Preises, wie der Titel schon sagt: eine Krone.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 153 und 217-225 s; Oberst als Gründer korrekt, Aha deckt sich mit der Antwort.",
+   "stand_note": "",
+   "statement": "Gegründet wurde die Kronen Zeitung von einem österreichischen Oberst.",
+   "question": "Welchen Beruf hatte der Gründer der Kronen Zeitung?",
+   "answer": "Er war Oberst beim Militär",
+   "distractors": [
+    "Er war Buchdrucker",
+    "Er war Bankier",
+    "Er war Gemeinderat in Wien"
+   ],
+   "aha": "Ein Offizier als Zeitungsgründer klingt schräg. Harald vermutet ein eher handfestes Motiv: Gustav Davis wollte, wie viele Verleger, schlicht Geld verdienen.",
+   "quote_clean": "Die Kronen Zeitung gibt es seit Anfang 1900, gegründet von einem österreichischen Oberst, Gustav Davis.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 240-245 s; Fidler formuliert mit 'offenbar', Frage ist damit vertretbar; die Zeitungsstempel-Abschaffung 1899 passt historisch.",
+   "stand_note": "",
+   "statement": "Die Kronen Zeitung entstand, kurz nachdem eine Sondersteuer auf Zeitungen abgeschafft worden war.",
+   "question": "Was machte um 1900 eine billige Zeitung wie die Krone plötzlich möglich?",
+   "answer": "Eine Sondersteuer auf Zeitungen fiel weg",
+   "distractors": [
+    "Die Erfindung des Rotationsdrucks",
+    "Die Einführung der Schulpflicht",
+    "Ein staatlicher Zuschuss für Zeitungen"
+   ],
+   "aha": "Mit der abgeschafften Zeitungssteuer konnte man Zeitungen auf einmal viel billiger anbieten. Gustav Davis hat die Lücke gesehen und ist mit einem günstigen Preis hineingesprungen.",
+   "quote_clean": "Damals ist gerade eine Sondersteuer auf Zeitungen abgeschafft worden. Da hat er offenbar die Gelegenheit gesehen, mit der Kronen Zeitung und einem günstigen Preis einen unternehmerischen Erfolg zu landen.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 322-331 s, 1959 passt zur Neugründung durch Dichand und Falk; Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Nach der NS-Zeit wurde die Kronen Zeitung erst 1959 neu gegründet.",
+   "question": "In welchem Jahr wurde die Kronen Zeitung nach dem Zweiten Weltkrieg neu gegründet?",
+   "answer": "1959",
+   "distractors": [
+    "1945",
+    "1949",
+    "1968"
+   ],
+   "aha": "Die Krone musste zweimal groß werden: vor der NS-Zeit und dann noch einmal danach. Zwischen Kriegsende und Neustart lagen fast 15 Jahre ohne Krone.",
+   "quote_clean": "Sie war schon vor 1938 eine sehr erfolgreiche Zeitung und wurde dann 1959 wieder gegründet.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 603-613 s, Zitat von Gerd Bacher eindeutig zugeschrieben.",
+   "stand_note": "",
+   "statement": "ORF-Generaldirektor Gerd Bacher sagte über Hans Dichand, er habe eine geniale Nase für Massenausdünstungen.",
+   "question": "Wofür hatte Hans Dichand laut Gerd Bacher eine „geniale Nase“?",
+   "answer": "Für Massenausdünstungen",
+   "distractors": [
+    "Für Skandale der Mächtigen",
+    "Für gute Schlagzeilen",
+    "Für das große Geld"
+   ],
+   "aha": "Gemeint ist: Dichand hat früh gespürt, was das Publikum will, und sich auf Stimmungen draufgesetzt. Charmant formuliert ist es nicht, treffend laut Harald schon.",
+   "quote_clean": "Hans Dichand wurde einmal sehr treffend von Gerd Bacher charakterisiert, einem langjährigen Generaldirektor des ORF, der gesagt hat: Hans Dichand hat ein geniales Gespür, eine geniale Nase für Massenausdünstungen.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 664-678 s, Aussage ist klar als Selbstdarstellung Dichands markiert.",
+   "stand_note": "",
+   "statement": "Hans Dichand behauptete von sich, lieber seinen Hund zu streicheln, als Macht auszuüben.",
+   "question": "Was tat Hans Dichand nach eigener Aussage lieber, als Macht auszuüben?",
+   "answer": "Seinen Hund streicheln",
+   "distractors": [
+    "Im Garten arbeiten",
+    "Bilder sammeln",
+    "Leserbriefe beantworten"
+   ],
+   "aha": "So hat sich Dichand gern dargestellt. Harald sieht es umgekehrt: Eher hat die Politik ihn gestreichelt, und er hat die Republik nach seiner Pfeife tanzen lassen.",
+   "quote_clean": "Er hat immer von sich behauptet, er will keine Macht, er hat keine Macht, er sieht sich im Vorzimmer und im Vorhof der Macht, und bevor er Macht ausübt, streichelt er lieber seinen Hund.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg bei 766-781 s stimmt, aber bedingt ('wenn rational agiert'); Statement attribuiert, Aha-Behauptung 'gegen den Strom' war nicht belegt.",
+   "stand_note": "",
+   "statement": "Laut Fidler setzte die Kronen Zeitung ihre Kampagnen über viele Jahre meist auf bereits bestehende Stimmungen in der Bevölkerung auf.",
+   "question": "Wie funktionierten erfolgreiche Kampagnen der Kronen Zeitung laut Harald Fidler meistens?",
+   "answer": "Sie griffen bestehende Stimmungen auf",
+   "distractors": [
+    "Sie erfanden völlig neue Themen",
+    "Sie wurden von Parteien bezahlt",
+    "Sie liefen nur in Leserbriefen"
+   ],
+   "aha": "Die Krone hat den Trend selten erfunden, sie ist auf ihn aufgesprungen und hat ihn lauter gemacht. Als Beispiele nennt Fidler den Protest gegen das Kraftwerk Hainburg, wo es schon ein Umweltbewusstsein gab.",
+   "quote_clean": "Über viele Jahre hat die Kronen Zeitung Kampagnen, wenn sie und Hans Dichand einigermaßen rational agiert haben, so angelegt, dass man sich auf bestehende Tendenzen draufgesetzt und daraus eine Kampagne gemacht hat.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 942-955 s; Distraktor 'Abos und Parteienzuschüsse' überschneidet sich mit Verkauf, ersetzt. Eher leichte Frage.",
+   "stand_note": "",
+   "statement": "Zeitungen finanzieren sich grob über zwei Einnahmequellen: Verkauf und Werbung.",
+   "question": "Aus welchen zwei großen Quellen finanziert sich eine Kaufzeitung wie die Krone?",
+   "answer": "Verkauf und Werbung",
+   "distractors": [
+    "Förderungen und Spenden",
+    "Events und Merchandising",
+    "Parteienzuschüsse und Kredite"
+   ],
+   "aha": "Bei Gratiszeitungen fällt der Verkauf weg, die leben fast nur von Werbung. Bei der Krone laufen laut Harald beide Ströme sehr, sehr solide.",
+   "quote_clean": "Die Kronen Zeitung hat, wie grob jede Zeitung, zwei große Einnahmequellen: einerseits den Verkauf der Zeitung, das gilt natürlich nicht für Gratiszeitungen, und andererseits die Werbung.",
+   "quality": 2
+  },
+  {
+   "i": 14,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Grobe, selbst als Überschlagsrechnung gekennzeichnete Schätzung von 2018; Auflage und Abozahlen sind seither stark gesunken, 'über 100' ist als Schieberegler-Antwort unscharf.",
+   "stand_note": "",
+   "statement": "Allein mit Abonnements nimmt die Kronen Zeitung grob geschätzt über 100 Millionen Euro pro Jahr ein.",
+   "question": "Wie viele Millionen Euro nimmt die Krone grob geschätzt allein mit Abos pro Jahr ein?",
+   "answer": "Über 100 Millionen Euro",
+   "distractors": [
+    "Rund 10 Millionen Euro",
+    "Rund 40 Millionen Euro",
+    "Über 500 Millionen Euro"
+   ],
+   "aha": "Harald hat die Abozahlen grob mit dem Abopreis hochgerechnet und landet im dreistelligen Millionenbereich.",
+   "quote_clean": "Allein bei den Abos kommt man auf einen dreistelligen Millionenbetrag, also 100 Millionen aufwärts im Jahr.",
+   "quality": 2
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 1609-1617 s klar; Statement als Fidlers Einschätzung attribuiert.",
+   "stand_note": "",
+   "statement": "Laut Fidler hat die Kronen Zeitung so viel Einfluss, wie die Politik ihr beimisst.",
+   "question": "Wovon hängt laut dem Medienjournalisten Harald Fidler der Einfluss der Krone ab?",
+   "answer": "Wie viel Einfluss ihr Politiker beimessen",
+   "distractors": [
+    "Von ihrer Auflage allein",
+    "Von ihren Eigentümern",
+    "Von ihrer Online-Reichweite"
+   ],
+   "aha": "Macht braucht immer zwei: eine Zeitung, die Druck macht, und Politiker:innen, die mitspielen. Solange dieses Zusammenspiel funktioniert, hat die Krone viel Macht.",
+   "quote_clean": "Die Kronen Zeitung hat so viel Einfluss auf die Politik und das, was in Österreich geschieht, wie die Politiker ihr beimessen.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 268-290 s; Antwort entspricht Fidlers Erklärung, Distraktoren eindeutig andere Rollen.",
+   "stand_note": "",
+   "statement": "Ein Verleger ist der Eigentümer und wirtschaftlich bestimmende Kopf einer Zeitung, mehr als ein Geschäftsführer.",
+   "question": "Was ist ein Verleger bei einer Zeitung?",
+   "answer": "Eigentümer und wirtschaftlich bestimmende Person",
+   "distractors": [
+    "Der Chef der Druckerei",
+    "Der leitende Chefredakteur",
+    "Der Leiter des Vertriebs"
+   ],
+   "aha": "Verleger und Herausgeber können dieselbe Person sein, müssen aber nicht. Auf gut Österreichisch: der Obermacher.",
+   "quote_clean": "Das muss nicht unbedingt in Personalunion so sein, es gibt auch Herausgeber, die nicht Verleger sind. Aber im Prinzip ist das die wirtschaftlich bestimmende Person und ein bisschen mehr als ein Geschäftsführer.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Scherzhafter Disclaimer, kein Faktenwert; Aha ordnet die Neutralitäts-Antwort falsch Andreas zu (sagte Fidler).",
+   "stand_note": "",
+   "statement": "Andreas warnt scherzhaft, dass hier zwei Standard-Redakteure über die Konkurrenz reden.",
+   "question": "Was rät Andreas den Hörer:innen scherzhaft, weil zwei Standard-Redakteure über die Krone reden?",
+   "answer": "Glaubt kein Wort von dem, was wir sagen",
+   "distractors": [
+    "Lest ab sofort nur noch den Standard",
+    "Kündigt euer Krone-Abo",
+    "Schreibt uns eure Beschwerden"
+   ],
+   "aha": "Gleich danach versichert Harald, dass sie sich um Neutralität bemühen.",
+   "quote_clean": "Liebe Hörerinnen und Hörer, wie ihr ja wisst, bin ich auch Redakteur beim Standard. Das heißt, heute reden zwei Standard-Redakteure über eine Konkurrenzzeitung. Das heißt: Glaubt kein Wort von dem, was wir sagen.",
+   "quality": 2
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Gesprächs-Anekdote (Husten), kein Erkenntnisgewinn.",
+   "stand_note": "",
+   "statement": "Harald stellt klar, dass sein Husten keine Rührung über die hohen Krone-Einnahmen ist.",
+   "question": "Was stellt Harald klar, als er bei den Krone-Einnahmen hustet?",
+   "answer": "Das ist Husten, keine Rührung",
+   "distractors": [
+    "Er sei gegen Krone-Staub allergisch",
+    "Er habe sich verschluckt",
+    "Er lache über die Zahl"
+   ],
+   "aha": "Mitten in der Rechnung erwischt ihn ein Hustenanfall.",
+   "quote_clean": "Es ist nicht meine Rührung über den hohen Betrag, sondern mein Husten, der da durchkommt.",
+   "quality": 1
+  }
+ ],
+ "id": "39",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

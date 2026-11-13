@@ -1,0 +1,285 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 324-340 s belegt (um die minus 100 Grad, Atemschutz, Durchblutung).",
+   "stand_note": "",
+   "statement": "In der Kältekammer, die Fußballprofis zur Regeneration nutzen, hat es rund minus 100 Grad.",
+   "question": "Wie kalt ist es ungefähr in der Kältekammer, in der sich Fußballprofis nach dem Training regenerieren?",
+   "answer": "Rund minus 100 Grad",
+   "distractors": [
+    "Rund minus 20 Grad",
+    "Rund minus 40 Grad",
+    "Rund minus 250 Grad"
+   ],
+   "aha": "Minus 100 Grad, und trotzdem gehen die Spieler freiwillig rein, mit Atemschutz, Kopfbedeckung und Handschuhen. Die Kälte soll die Durchblutung anregen, damit die Muskeln Schläge besser wegstecken und schneller regenerieren.",
+   "quote_clean": "In der Kältekammer hat es um die minus 100 Grad, und man geht mit Atemschutz, Kopfbedeckung, Handschuhen und Fußbedeckung rein.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Frage mit 'höchstens' war unklar; als Trauners Angabe formuliert, Distraktoren verschoben, unbelegtes Nutella-Detail aus dem Aha entfernt.",
+   "stand_note": "",
+   "statement": "Laut Gernot Trauner dauert eine Karriere im Profifußball etwa 10 bis 15 Jahre.",
+   "question": "Wie lange dauert eine Karriere als Fußballprofi laut Gernot Trauner ungefähr?",
+   "answer": "10 bis 15 Jahre",
+   "distractors": [
+    "3 bis 5 Jahre",
+    "20 bis 25 Jahre",
+    "25 bis 30 Jahre"
+   ],
+   "aha": "Zehn, fünfzehn Jahre, dann ist Schluss. Darum ist der Körper für Profis das Kapital schlechthin, und sie schauen genau darauf, was sie essen und wie sie sich erholen.",
+   "quote_clean": "Der Profifußball ist einfach eine Karriere von 10, 15 Jahren. Unsere Zeit ist sehr begrenzt, und in der Zeit versucht man, das Bestmögliche aus dem Körper herauszuholen.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 731-745 s belegt (täglich in der Früh, Finger, CK-Wert), Aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "Stand 2020",
+   "statement": "Beim LASK wird den Spielern jeden Morgen etwas Blut aus dem Finger abgenommen, um den CK-Wert zu messen.",
+   "question": "Wie oft wird den LASK-Profis Blut für den CK-Wert abgenommen?",
+   "answer": "Jeden Tag in der Früh",
+   "distractors": [
+    "Einmal pro Woche",
+    "Einmal im Monat",
+    "Nur vor Saisonbeginn"
+   ],
+   "aha": "Ein kleiner Piks in den Finger, jeden Morgen. Der CK-Wert zeigt, wie sehr die Muskeln in den letzten Tagen belastet wurden, und landet in einer Liste, damit das Trainerteam vergleichen kann.",
+   "quote_clean": "Zum einen gibt es diese Blutabnahme, wo ganz wenig Blut meistens aus dem Finger abgenommen wird. Das ist dieser CK-Wert, wie wir ihn nennen. Das passiert bei uns täglich in der Früh.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Bei 758-775 s belegt; Schreibweise im Aha korrigiert (Kreatinkinase).",
+   "stand_note": "",
+   "statement": "Ein hoher CK-Wert im Blut zeigt eine hohe körperliche Belastung der vergangenen Tage an.",
+   "question": "Was bedeutet es, wenn der CK-Wert eines Fußballprofis nach einem Spiel extrem hoch ist?",
+   "answer": "Der Körper war stark belastet",
+   "distractors": [
+    "Der Spieler ist besonders fit",
+    "Der Spieler hat zu wenig gegessen",
+    "Der Spieler ist dehydriert"
+   ],
+   "aha": "CK steht für Kreatinkinase, ein Enzym, das bei Muskelbelastung ins Blut gelangt. Ist der Wert hoch, schont man eher, ist er niedrig, kann das Training ruhig etwas mehr Inhalt haben.",
+   "quote_clean": "Je höher dieser Wert ist, desto höher war die körperliche Belastung in den letzten Tagen. Daran orientiert man sich. Es gibt einen Durchschnitt, und wenn nach einem Spiel der Wert extrem hoch ist, merkst du, dass man müde ist.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Bei 625-628 s belegt; 'höchstens' in der Frage gestrichen, Aha auf Belegtes gekürzt.",
+   "stand_note": "",
+   "statement": "Laut Gernot Trauner dauert die Saisonvorbereitung im Profifußball meistens vier bis sechs Wochen.",
+   "question": "Wie lange dauert die Saisonvorbereitung eines Profifußballteams laut Gernot Trauner meistens?",
+   "answer": "Vier bis sechs Wochen",
+   "distractors": [
+    "Ein bis zwei Wochen",
+    "Zehn bis zwölf Wochen",
+    "Drei bis vier Monate"
+   ],
+   "aha": "Ein paar Wochen, mehr Zeit gibt es nicht. In dieser Phase setzt man die Schwerpunkte, beim LASK zum Beispiel die Arbeit gegen den Ball.",
+   "quote_clean": "Die Vorbereitung dauert meistens vier bis sechs Wochen. Das ist genügend Zeit, sich ein paar Schwerpunkte herauszuarbeiten.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Bei 1362-1371 s belegt, aber Trauner schildert den Ablauf 'bei uns'; auf den LASK bezogen, Bus aus dem Aha entfernt.",
+   "stand_note": "",
+   "statement": "Beim LASK gibt es auch am Spieltag ein kurzes Training von meist einer halben Stunde, um die Sinne zu schärfen.",
+   "question": "Was machen die LASK-Profis laut Gernot Trauner am Vormittag eines Spieltags?",
+   "answer": "Ein kurzes Training von etwa 30 Minuten",
+   "distractors": [
+    "Sie schlafen bis Mittag durch",
+    "Ein volles Training von zwei Stunden",
+    "Nur eine Videoanalyse, kein Ball"
+   ],
+   "aha": "Auch am Matchtag wird trainiert, nur eben kurz. Ein paar Standardsituationen, damit Kopf und Beine wach sind, dann gemeinsames Mittagessen im Hotel und danach eine Pause auf dem Zimmer.",
+   "quote_clean": "Wir trainieren am Matchtag auch, zwar sehr kurz, meistens nur eine halbe Stunde. Vielleicht spielt man noch ein paar Standardsituationen, um die Sinne zu schärfen.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1636-1695 s belegt; Trauner beschreibt den klassischen österreichischen Weg.",
+   "stand_note": "Stand 2020",
+   "statement": "Der klassische Ausbildungsweg im österreichischen Fußball führt vom Heimatverein über ein Bezirks-Talentezentrum und ein Ausbildungszentrum in eine Fußballakademie.",
+   "question": "Welche Station kommt im klassischen österreichischen Fußball-Ausbildungsweg direkt nach dem Heimatverein?",
+   "answer": "Ein Talentezentrum für den Bezirk",
+   "distractors": [
+    "Direkt die Profimannschaft",
+    "Ein Sportinternat im Ausland",
+    "Die U21-Nationalmannschaft"
+   ],
+   "aha": "Der Weg ist ein Trichter: Heimatverein, Talentezentrum mit den Besten aus dem Bezirk, dann ein Ausbildungszentrum, mit 12 bis 14 die Akademie, dann das Amateurteam. Bei jeder Stufe scheiden welche aus.",
+   "quote_clean": "Über ein Talentezentrum, wo die besten Spieler aus einem Bezirk zusammenkommen, über ein Ausbildungszentrum, von denen es in Oberösterreich zum Beispiel nur vier Stützpunkte gibt.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitat bei 1832 s belegt; als Frage leicht, inhaltlich korrekt.",
+   "stand_note": "",
+   "statement": "Gernot Trauner ist überzeugt, dass im Profifußball Fleiß am Ende Talent schlägt.",
+   "question": "Wer sagt über den Weg in den Profifußball: „Der Fleiß schlägt da dann immer das Talent“?",
+   "answer": "Gernot Trauner",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Jugendtrainer",
+    "Ein Spielerberater"
+   ],
+   "aha": "Gernot hatte viele Mitspieler, die talentierter waren und es trotzdem nicht geschafft haben. Seine Erklärung: Disziplin, Reife und jeden Tag fit sein, während andere die Sau rauslassen.",
+   "quote_clean": "Viele Mitspieler gehabt, die vom Talent her sicher besser waren, aber den Weg nicht gefunden haben. Das ist oft nicht so leicht zu erklären, aber ich sage, der Fleiß schlägt dann immer das Talent.",
+   "quality": 2
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Bei 1750-1760 s belegt; unbelegte Folgerung 'fällt oft raus' im Aha ersetzt.",
+   "stand_note": "",
+   "statement": "Ob jemand Fußballprofi wird, entscheidet sich laut Gernot Trauner sehr stark zwischen 16 und 18 Jahren.",
+   "question": "In welchem Alter entscheidet sich laut Gernot Trauner besonders viel auf dem Weg zum Fußballprofi?",
+   "answer": "Zwischen 16 und 18 Jahren",
+   "distractors": [
+    "Zwischen 8 und 10 Jahren",
+    "Zwischen 12 und 14 Jahren",
+    "Zwischen 22 und 24 Jahren"
+   ],
+   "aha": "Genau dann, wenn die Freunde zum ersten Mal fortgehen, muss man Schule und Profifußball unter einen Hut bringen und im Privaten einiges zurückstecken. Für Gernot war das die schwierigste Zeit.",
+   "quote_clean": "Es ist gerade die Phase zwischen 16 und 18 Jahren, wo sich sehr viel entscheidet auf diesem Weg, wo es darum geht, Schule mit Profifußball zu vereinen.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Zitat bei 2028-2051 s belegt; unbelegte Angabe 'zwei kleine Töchter' aus dem Aha entfernt.",
+   "stand_note": "",
+   "statement": "Gernot Trauner sagt, der Fußball bestimme sein ganzes Leben und das seiner Familie, weil es keine fixen Arbeitszeiten gibt.",
+   "question": "Wer sagt im Podcast: „Mittlerweile bestimmt der Fußball mein ganzes Leben und somit auch meine Familie“?",
+   "answer": "Gernot Trauner",
+   "distractors": [
+    "Andreas Sator",
+    "Dominik Thalhammer",
+    "Dominik Frieser"
+   ],
+   "aha": "Trainings werden kurzfristig verschoben, Spiele liegen am Wochenende und unter der Woche. Gernot sagt ehrlich: Man muss flexibel sein und eigentlich alles dem Fußball unterordnen.",
+   "quote_clean": "Bestimmt mittlerweile der Fußball mein ganzes Leben und somit in gewisser Weise auch meine Familie, weil wir einfach keine fixen Arbeitszeiten haben.",
+   "quality": 2
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Bei 2070-2098 s belegt; Spekulation im Aha ersetzt durch das, was er sagt (Verein vertreten, öffentliche Wahrnehmung).",
+   "stand_note": "",
+   "statement": "Gernot Trauner erklärt, dass er nach einem verlorenen Spiel nicht ins Wirtshaus gehen und sechs Bier und ein Schnitzel mit Pommes vertilgen kann.",
+   "question": "Was kann sich Gernot Trauner nach einem verlorenen Spiel laut eigener Aussage nicht leisten?",
+   "answer": "Sechs Bier und Schnitzel mit Pommes",
+   "distractors": [
+    "Einen Urlaub auf Mallorca",
+    "Einen Abend vor der Spielkonsole",
+    "Einen Besuch im Fitnessstudio"
+   ],
+   "aha": "Nicht, weil er nicht will, sondern weil er seinen Verein ordentlich vertreten muss. Als Profi wird man beobachtet, egal ob in der Stadt oder abends im Lokal.",
+   "quote_clean": "Ich kann jetzt nicht nach einem verlorenen Spiel in ein Wirtshaus gehen, sechs Bier trinken und ein Schnitzel mit Pommes runterschmeißen.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Bei 2470-2490 s belegt; Aha stützte sich auf nicht im Ausschnitt stehende Aussagen, auf den Ablauf bei 2483-2493 s umgestellt.",
+   "stand_note": "",
+   "statement": "Bei Transfers nimmt ein interessierter Verein üblicherweise zuerst Kontakt mit dem Berater des Spielers auf, nicht mit dem Spieler selbst.",
+   "question": "Mit wem nimmt ein Verein normalerweise zuerst Kontakt auf, wenn er einen Fußballprofi verpflichten will?",
+   "answer": "Mit dem Berater des Spielers",
+   "distractors": [
+    "Direkt mit dem Spieler",
+    "Mit dem Trainer des Spielers",
+    "Mit dem Kapitän der Mannschaft"
+   ],
+   "aha": "Laut Gernot hat praktisch jeder Profi einen Berater, über den die Anfragen laufen. Der Berater informiert den Spieler, dann werden die Optionen abgewogen und die vertraglichen Vereinbarungen besprochen.",
+   "quote_clean": "Im Prinzip hat jeder Profifußballer einen professionellen Berater, über den die Anfragen laufen. Wenn ein anderer Verein interessiert ist, dich zu verpflichten, nimmt er mit deinem Berater Kontakt auf.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Aussage bei 3089-3112 s belegt und korrekt wiedergegeben (persönliche Meinung); als Frage leicht.",
+   "stand_note": "",
+   "statement": "Gernot Trauner findet, dass die Gagen von Stars wie Messi und Ronaldo in keiner Relation zu anderen Berufen stehen.",
+   "question": "Wer sagt über die Gehälter von Messi und Ronaldo, das stehe „in keiner Relation zu anderen Menschen“?",
+   "answer": "Gernot Trauner",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Gewerkschafter",
+    "Ein Spielerberater"
+   ],
+   "aha": "Ein Bundesliga-Kapitän, der die Kommerzialisierung kritisch sieht. Gernot sagt, ohne Geld geht es nicht, aber wenn es nur noch ums Geld geht, ist die Ungleichheit enorm ausgeartet.",
+   "quote_clean": "Was ein Spieler wie Messi oder Ronaldo pro Stunde oder pro Tag verdient, ich glaube, das steht in keiner Relation zu anderen Menschen, die tagtäglich ihre Arbeit verrichten.",
+   "quality": 2
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zur Vorstellungsrunde ohne Wissensgehalt.",
+   "stand_note": "",
+   "statement": "Andreas Sator bittet seinen Gast zu Beginn, sich für alle vorzustellen, die keine Fußballfans sind.",
+   "question": "Wie bittet Andreas Gernot Trauner zu Beginn, sich vorzustellen?",
+   "answer": "Erklär mal, wer du bist, bitte",
+   "distractors": [
+    "Erzähl uns deine größte Niederlage",
+    "Wie viele Tore hast du geschossen?",
+    "Was war dein erster Verein?"
+   ],
+   "aha": "Typisch Andreas: Er denkt an alle, die mit Fußball nichts am Hut haben.",
+   "quote_clean": "Sehr gerne, Gernot. Wir freuen uns auch. Für all jene, die keine Fußballfans sind: Erklär mal, wer du bist, bitte.",
+   "quality": 1
+  }
+ ],
+ "id": "132",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

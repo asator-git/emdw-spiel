@@ -1,0 +1,267 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 245-253 s; aha ergänzt, dass die Hitze nicht nur an der Sonnennähe liegt.",
+   "stand_note": "",
+   "statement": "Die Venus gilt als Zwilling der Erde, ist aber wegen ihrer Nähe zur Sonne so heiß, dass dort nichts leben kann.",
+   "question": "Welcher Planet in unserem Sonnensystem gilt als eine Art Zwilling der Erde?",
+   "answer": "Die Venus",
+   "distractors": [
+    "Der Mars",
+    "Der Merkur",
+    "Der Neptun"
+   ],
+   "aha": "Größe und Gesteinsaufbau passen fast perfekt zur Erde. Nur sitzt die Venus näher an der Sonne und hat eine dichte Atmosphäre, die die Hitze festhält. Das macht sie zum Backofen, in dem nichts überlebt.",
+   "quote_clean": "Das haben wir übrigens im Sonnensystem auch schon, nennt sich Venus. Venus ist eigentlich ein Zwilling der Erde, ist halt bloß ein bisschen näher an der Sonne und darum so wahnsinnig heiß, dass da nichts leben kann.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 265-281 s, Erklärung passt, Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Gasriesen wie Jupiter sind fast wie winzige Sterne, leuchten aber nicht selbst, weil ihr Druck nicht reicht, um das Wasserstoffbrennen zu zünden.",
+   "question": "Warum leuchtet ein Gasriese wie Jupiter nicht selbst wie ein Stern?",
+   "answer": "Zu wenig Druck für Wasserstoffbrennen",
+   "distractors": [
+    "Er besteht fast nur aus Gestein",
+    "Ihm fehlt jeglicher Wasserstoff",
+    "Er ist zu weit von der Sonne"
+   ],
+   "aha": "Jupiter ist im Grunde eine riesige Gaskugel, so etwas wie ein Stern, der es nicht ganz geschafft hat. Für das Wasserstoffbrennen im Inneren braucht es enormen Druck, und den bringt er einfach nicht zusammen.",
+   "quote_clean": "Fast wie ein ganz kleiner Stern, aber die leuchten halt nicht selber, weil sie nicht genügend Druck zusammenbekommen, um im Inneren das Wasserstoffbrennen der Sterne zu zünden.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 357-377 s, Begriff korrekt.",
+   "stand_note": "",
+   "statement": "Die habitable Zone ist der Abstandsbereich um einen Stern, in dem ein Planet flüssiges Wasser an der Oberfläche haben kann.",
+   "question": "Wie nennt man den Bereich um einen Stern, in dem flüssiges Wasser auf einem Planeten möglich ist?",
+   "answer": "Habitable Zone",
+   "distractors": [
+    "Heliosphäre",
+    "Roche-Grenze",
+    "Oortsche Wolke"
+   ],
+   "aha": "Zu nah am Stern verdampft das Wasser, zu weit weg friert es. Die Erde sitzt genau in diesem Goldlöckchen-Streifen, die Venus ist zu heiß, der Mars zu kalt.",
+   "quote_clean": "Wenn du flüssiges Wasser auf der Oberfläche haben willst, dann darf der Planet nicht zu nah an dem Stern sein, dann ist es zu heiß. Oder er darf nicht zu weit weg sein, dann ist es zu kalt und das Wasser friert. Man muss in einer Zone um seinen Stern sein, die man die habitable, die bewohnbare Zone nennt.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 454-462 s.",
+   "stand_note": "",
+   "statement": "Die Suche nach Leben im All ist ein eigener, junger Zweig der Astronomie: die Astrobiologie.",
+   "question": "Wie heißt der Wissenschaftszweig, der sich mit möglichem Leben im All beschäftigt?",
+   "answer": "Astrobiologie",
+   "distractors": [
+    "Astrophysik",
+    "Kosmologie",
+    "Exogeologie"
+   ],
+   "aha": "Die Frage nach Außerirdischen ist nichts nur für Science-Fiction-Fans, sondern ernsthafte Forschung. In der Astrobiologie überlegen Forschende zum Beispiel, wie Leben aussehen müsste, damit wir es aus der Ferne überhaupt erkennen.",
+   "quote_clean": "Es gibt einen ganzen Zweig der Astronomie, einen neuen Zweig, der sich Astrobiologie nennt, wo es genau um so etwas geht.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 487-501 s; als Gedankenexperiment der Astrobiologie sauber gerahmt.",
+   "stand_note": "",
+   "statement": "Auf einem Planeten um einen deutlich kühleren Stern würde unser Chlorophyll nicht funktionieren; Pflanzen bräuchten dort ein anderes.",
+   "question": "Was würde Pflanzen auf einem Planeten um einen viel kühleren Stern als die Sonne Probleme machen?",
+   "answer": "Unser Chlorophyll funktioniert dort nicht",
+   "distractors": [
+    "Es gäbe dort keinen Sauerstoff",
+    "Die Schwerkraft wäre zu stark",
+    "Es wäre dort ständig Nacht"
+   ],
+   "aha": "Ein kühlerer Stern schickt anderes Licht als unsere Sonne. Das irdische Chlorophyll ist auf unser Sonnenlicht abgestimmt, also überlegen Astrobiolog:innen, welche anderen Farbstoffe Pflanzen dort bräuchten.",
+   "quote_clean": "Wie würde Photosynthese für Pflanzen auf einem Planeten funktionieren, der sich zum Beispiel um einen Stern dreht, der viel kühler ist als die Sonne? Dann funktioniert unser Chlorophyll nicht mehr. Man muss ein anderes nehmen.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Grobe Sprechschätzung ('ein Tausendstel, ein Millionstel'); reale Planetenanteile sind oft weit kleiner. Als Faktenfrage zu unscharf.",
+   "stand_note": "",
+   "statement": "Vom Licht, das wir aus einem Sternsystem empfangen, stammt nur ein winziger Bruchteil, etwa ein Tausendstel bis ein Millionstel, vom Planeten.",
+   "question": "Welcher Anteil des Lichts aus einem fernen Sternsystem kommt ungefähr vom Planeten statt vom Stern?",
+   "answer": "Ein Tausendstel bis ein Millionstel",
+   "distractors": [
+    "Etwa ein Zehntel",
+    "Ungefähr die Hälfte",
+    "Rund ein Viertel"
+   ],
+   "aha": "Der Stern überstrahlt seinen Planeten gnadenlos.",
+   "quote_clean": "Das Licht, das vom Stern kommt, zu trennen von dem ganz kleinen bisschen, so ein Tausendstel, ein Millionstel von dem Licht, das man bekommt, das von den Planeten kommt.",
+   "quality": 2
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 588-595 s.",
+   "stand_note": "Stand 2018",
+   "statement": "Große Teleskopprojekte haben Vorlauf- und Planungszeiten von 10 bis 20 Jahren.",
+   "question": "Wie viele Jahre Vorlauf- und Planungszeit haben große Teleskopprojekte ungefähr?",
+   "answer": "10 bis 20 Jahre",
+   "distractors": [
+    "2 bis 3 Jahre",
+    "4 bis 6 Jahre",
+    "40 bis 50 Jahre"
+   ],
+   "aha": "So ein Teleskop baut man nicht in zwei, drei Jahren schnell zusammen. Von der ersten Idee bis zum ersten Blick ins All vergehen oft ein bis zwei Jahrzehnte.",
+   "quote_clean": "Solche Projekte haben Vorlauf- und Planungszeiten von 10, 20 Jahren.",
+   "quality": 2
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 725-746 s.",
+   "stand_note": "",
+   "statement": "Auf der Erde gibt es Meteoriten vom Mars: Große Einschläge schleudern Gestein vom Mars ins All, das teils auf der Erde landet.",
+   "question": "Wie kommen Gesteinsbrocken vom Mars auf die Erde?",
+   "answer": "Durch Einschläge ins All geschleudert",
+   "distractors": [
+    "Durch Marsmissionen zurückgebracht",
+    "Durch Sonnenwind herübergeweht",
+    "Durch Vulkane direkt herübergeschossen"
+   ],
+   "aha": "Kracht ein großer Brocken auf den Mars, fliegt Marsgestein wie ein kleines Raumschiff davon. Manche davon landen bei uns, und weil ihre Zusammensetzung anders ist, kann man sie im Labor als Mars-Meteoriten erkennen.",
+   "quote_clean": "Vom Mars haben wir jetzt schon auf der Erde Meteoritenbruchstücke. Die kommen daher: Man hat einen großen Meteoriteneinschlag auf dem Mars, das gibt einen Riesenknall und es werden dann Steinbrocken vom Mars rausgeworfen.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 934-940 s; ca. 1,3 s stimmt.",
+   "stand_note": "",
+   "statement": "Licht braucht von der Erde zum Mond etwas mehr als eine Sekunde.",
+   "question": "Wie viele Sekunden braucht Licht ungefähr von der Erde zum Mond?",
+   "answer": "Etwas mehr als eine Sekunde",
+   "distractors": [
+    "Etwa acht Minuten",
+    "Rund zehn Sekunden",
+    "Etwa eine Zehntelsekunde"
+   ],
+   "aha": "Der Mond ist rund 384.000 Kilometer weg, und Licht schafft fast 300.000 Kilometer pro Sekunde. Bis zum nächsten Stern ist es dagegen jahrelang unterwegs, so wahnsinnig sind die Entfernungen.",
+   "quote_clean": "Für die Entfernung von der Erde zum Mond braucht das Licht ungefähr eine Sekunde, ein bisschen länger.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1128-1135 s.",
+   "stand_note": "",
+   "statement": "Das Fermi-Paradox fragt: Wenn interstellare Reisen möglich sind, warum sind Außerirdische dann nicht längst hier?",
+   "question": "Welche Frage steckt im Kern des Fermi-Paradoxons?",
+   "answer": "Warum sind die nicht längst hier?",
+   "distractors": [
+    "Warum ist das Weltall dunkel?",
+    "Warum dehnt sich das All aus?",
+    "Warum gibt es so viele Sterne?"
+   ],
+   "aha": "Benannt ist das Paradox nach dem italienischen Physiker Enrico Fermi, das Argument kennt man seit den 1950ern. Wenn Außerirdische zu den Sternen reisen könnten, hätten sie dafür eigentlich mehr als genug Zeit gehabt.",
+   "quote_clean": "Und was Fermi gemeint hat, ist im Wesentlichen: Wenn das möglich ist, warum sind die dann nicht schon lange hier?",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1161-1173 s, klar als grobe Schätzung gerahmt.",
+   "stand_note": "",
+   "statement": "Sich selbst kopierende Sonden könnten nach grober Schätzung in 50 bis 100 Millionen Jahren jeden Stern der Milchstraße anfliegen.",
+   "question": "Wie viele Millionen Jahre bräuchten sich selbst kopierende Sonden grob geschätzt, um jeden Stern der Milchstraße zu besuchen?",
+   "answer": "50 bis 100 Millionen Jahre",
+   "distractors": [
+    "Etwa 10.000 Jahre",
+    "Rund 1 Million Jahre",
+    "Etwa 10 Milliarden Jahre"
+   ],
+   "aha": "Die Sonden fliegen langsam von Stern zu Stern und bauen sich am Ziel nach, ein kosmischer Schneeballeffekt. Weil die Sonne rund viereinhalb Milliarden Jahre alt ist, wäre dafür längst Zeit gewesen, und genau das macht das Fermi-Paradox so knifflig.",
+   "quote_clean": "Wenn man einfach mal Pi mal Daumen schätzt, könnte man innerhalb von 50 bis 100 Millionen Jahren, was astronomisch gesehen nicht viel ist, die ganze Galaxie besuchen und jeden einzelnen Stern der Milchstraße anfliegen.",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1496-1526 s, klar als persönliche Vermutung gerahmt.",
+   "stand_note": "",
+   "statement": "Peter Hauschildt vermutet, dass es viele Planeten mit einfachem Leben wie Einzellern gibt, intelligente Zivilisationen aber selten sind.",
+   "question": "Welche Form von außerirdischem Leben hält Peter Hauschildt für am wahrscheinlichsten?",
+   "answer": "Einfache Einzeller",
+   "distractors": [
+    "Intelligente Zivilisationen",
+    "Lebende Gasblasen",
+    "Wesen aus Silizium"
+   ],
+   "aha": "Auch auf der Erde war die längste Zeit nur einzelliges Leben unterwegs. Darum tippt Peter auf viele Planeten mit Blaualgen und Co., aber ob es irgendwo sonst intelligente Wesen gibt, weiß er nicht.",
+   "quote_clean": "Ich vermute, dass es durchaus viele Planeten geben kann, auf denen einfache Einzeller, vielleicht ein paar Mehrzeller leben.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1558-1571 s; 'Verwandlungsordnung' ist verhörte 'Verantwortung', Aussage eindeutig.",
+   "stand_note": "",
+   "statement": "Wenn wir die einzige intelligente Zivilisation sind, tragen wir eine besondere Verantwortung, uns und den Planeten nicht zu zerstören.",
+   "question": "Welche Schlussfolgerung zieht Peter Hauschildt daraus, dass wir womöglich allein sind?",
+   "answer": "Das erhöht unsere Verantwortung",
+   "distractors": [
+    "Wir sollten mehr Funk senden",
+    "Die Raumfahrt ist sinnlos",
+    "Wir sollten aufhören zu suchen"
+   ],
+   "aha": "Wenn sonst niemand da draußen ist, hängt es ganz an uns, uns nicht selbst in die Luft zu jagen oder den Planeten kaputtzumachen. Ein ernüchternder, aber auch schöner Schlussgedanke für eine Folge über Außerirdische.",
+   "quote_clean": "Das erhöht die Verantwortung für uns. Denn wenn wir die Einzigen sind, dann sind wir die Einzigen.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reiner Gag am Folgenende ohne Erkenntniswert; Antwort offensichtlich, aha behauptet Unbelegtes über heute.",
+   "stand_note": "",
+   "statement": "Andreas beendet die Folge mit einem Aufruf an mithörende Außerirdische, sich zu melden.",
+   "question": "Wen ruft Andreas am Ende der Folge über Außerirdische dazu auf, sich zu melden?",
+   "answer": "Mithörende Außerirdische",
+   "distractors": [
+    "Die NASA",
+    "Hörer:innen aus Hamburg",
+    "Andere Astronom:innen"
+   ],
+   "aha": "",
+   "quote_clean": "Und falls die Außerirdischen mithören, meldet euch doch bei uns.",
+   "quality": 1
+  }
+ ],
+ "id": "9",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

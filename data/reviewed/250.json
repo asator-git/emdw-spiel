@@ -1,0 +1,279 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Folgeneinstieg, kein Wissensgewinn; Aha enthält Pension, die so nicht im Ausschnitt steht.",
+   "stand_note": "",
+   "statement": "Andreas fragt, was man am besten mit Geld macht, das man in ein bis fünf Jahren wieder braucht.",
+   "question": "Mit welcher Frage steigt Andreas in diese Folge über Alternativen zum Sparbuch ein?",
+   "answer": "Wohin mit Geld für die nächsten Jahre?",
+   "distractors": [
+    "Welche Aktie kauft man jetzt am besten?",
+    "Lohnt sich Gold als Altersvorsorge?",
+    "Soll man lieber Wohnung oder ETF kaufen?"
+   ],
+   "aha": "Die Pension liegt bei Andreas eh schon im Welt-Aktien-ETF. Offen war nur der Rest, der irgendwo herumliegt und den er vielleicht bald für eine größere Anschaffung braucht.",
+   "quote_clean": "Die Frage: Geld, das man in ein, zwei, drei, fünf Jahren wieder braucht – was macht man damit am besten?",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat belegt, eindeutig Kommer.",
+   "stand_note": "",
+   "statement": "Bei Geld, das man bald braucht, muss die Rendite hinter der Sicherheit zurückstehen – beides zugleich gibt es nicht.",
+   "question": "Wer sagt in „Erklär mir die Welt“: „Ich kann nicht Sicherheit und hohe Rendite gleichzeitig haben“?",
+   "answer": "Gerd Kommer",
+   "distractors": [
+    "Andreas Sator",
+    "Warren Buffett",
+    "Christine Lagarde"
+   ],
+   "aha": "Für Geld, das in drei bis fünf Jahren wieder da sein muss, ist laut Kommer realistisch nur die Inflation drin, vielleicht ein Schnaps mehr. Wer von zweistelligen Renditen träumt, hat das Ziel Sicherheit schon aufgegeben.",
+   "quote_clean": "Das ist eine Grundvoraussetzung, die ich akzeptieren muss: Ich kann nicht Sicherheit und hohe Rendite gleichzeitig haben.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "100.000 Euro belegt; Aha enthielt Unbelegtes und ungenau (gilt pro Bank).",
+   "stand_note": "",
+   "statement": "Die gesetzliche Einlagensicherung in der EU garantiert Bankguthaben bis 100.000 Euro pro Person und Bank.",
+   "question": "Bis zu welchem Betrag ist dein Guthaben bei einer Bank in der EU gesetzlich abgesichert, falls sie pleitegeht?",
+   "answer": "100.000 Euro",
+   "distractors": [
+    "20.000 Euro",
+    "50.000 Euro",
+    "250.000 Euro"
+   ],
+   "aha": "Die gesetzliche Einlagensicherung gilt pro Person und Bank. Kommers Rat: Tagesgeld nur innerhalb dieser Grenze anlegen.",
+   "quote_clean": "Bitte auch dabei bedenken, dass man Tagesgelder nur innerhalb der staatlichen oder gesetzlichen Einlagensicherung von 100.000 € anlegen sollte.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zwei bis drei Prozent im Transkript belegt, zeitgebunden.",
+   "stand_note": "Stand 2023",
+   "statement": "Im Frühjahr 2023 gab es auf Tagesgeldkonten wieder rund zwei bis drei Prozent Zinsen.",
+   "question": "Wie viel Prozent Zinsen gab es laut Gerd Kommer im Frühjahr 2023 ungefähr auf ein Tagesgeldkonto?",
+   "answer": "2 bis 3 Prozent",
+   "distractors": [
+    "0 bis 0,5 Prozent",
+    "5 bis 6 Prozent",
+    "8 bis 10 Prozent"
+   ],
+   "aha": "Nach Jahren mit praktisch null Zinsen war das wieder was. Unter der damaligen Inflation lag es trotzdem, Kommer hoffte aber, dass sich das in ein, zwei Jahren wieder ausgleicht.",
+   "quote_clean": "Natürlich ist das, was einem dazu zuerst einfällt, einfach ein Tagesgeld. Da gibt es ja jetzt inzwischen wieder zwei, drei Prozent Zinsen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Distraktor 'gesperrt' wäre ebenfalls teilweise richtig; ersetzt.",
+   "stand_note": "",
+   "statement": "Wer ein Festgeld vor Ablauf der Bindungsfrist auflöst, verliert in der Regel die Zinsen und zahlt mitunter noch eine Strafe.",
+   "question": "Was passiert meistens, wenn du ein Festgeld vor Ende der Bindungsfrist auflösen willst?",
+   "answer": "Du verlierst die Zinsen, eventuell plus Strafe",
+   "distractors": [
+    "Du bekommst doppelte Zinsen ausgezahlt",
+    "Nichts, du kommst jederzeit kostenlos ran",
+    "Es fällt nur eine kleine Fixgebühr an"
+   ],
+   "aha": "Tagesgeld kannst du täglich abziehen, der Name sagt es ja. Beim Festgeld legst du dich für ein paar Monate bis zu zwei Jahre fest, und wer sich nicht an die Abmachung hält, zahlt dafür.",
+   "quote_clean": "Innerhalb dieser festgelegten Frist komme ich eigentlich nicht an mein Geld dran, beziehungsweise nur gegen Strafzahlungen. Dann muss ich die Zinsen, die ich in dieser Zeit theoretisch verdienen würde, wieder abgeben.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "2005 belegt; Frage präzisiert auf Kommers Aussage.",
+   "stand_note": "",
+   "statement": "In Deutschland fielen die Steuervorteile für kapitalbildende Lebensversicherungen 2005 im Wesentlichen weg.",
+   "question": "Bis zu welchem Jahr hatten kapitalbildende Lebensversicherungen in Deutschland laut Gerd Kommer noch wesentliche Steuervorteile?",
+   "answer": "2005",
+   "distractors": [
+    "1990",
+    "1999",
+    "2015"
+   ],
+   "aha": "Seither spricht laut Kommer wenig für das Produkt: hohe Kosten, schwache Renditen, und du kommst schlecht an dein Geld. Trotzdem sind Lebensversicherungen in Deutschland und Österreich seit Jahrzehnten ungeheuer populär.",
+   "quote_clean": "In Deutschland bis 2005. Seitdem sind die Steuervorteile in Deutschland, die die Lebensversicherung früher hatte, im Wesentlichen weggefallen.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, als Meinung Kommers gerahmt; Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Kursrückgänge von 30 bis 40 Prozent sind bei Kryptowährungen normal – deshalb taugen sie nicht für Geld, das man bald braucht.",
+   "question": "Warum rät Gerd Kommer von Kryptowährungen für Geld ab, das du in ein paar Jahren brauchst?",
+   "answer": "Minus 30 bis 40 Prozent sind dort normal",
+   "distractors": [
+    "Sie sind in Österreich verboten",
+    "Sie werfen gar keine Rendite ab",
+    "Man kann sie nicht mehr verkaufen"
+   ],
+   "aha": "Wenn du die Wohnung kaufen willst und das Eigenkapital ist gerade um ein Drittel geschrumpft, hast du ein Problem. Über Krypto kann man vieles diskutieren, die Schwankung ist aber kein Fragezeichen.",
+   "quote_clean": "Da kann ich mir einfach nicht leisten, dass in dem Moment dann meine Geldanlage um 30, 40 % nach unten gegangen ist. Und das ist bei Kryptowährungen völlig normal.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Distraktor 'fremde Währung' könnte teils stimmen; Aha enthielt Unbelegtes.",
+   "stand_note": "",
+   "statement": "Die Einlagensicherung ist nur so stark wie der Staat, der sie garantiert – bei Ländern mit schwächerer Bonität ist sie weniger verlässlich.",
+   "question": "Warum ist ein Festgeld bei einer Bank in einem Land mit schwacher Bonität riskanter, obwohl es auch dort Einlagensicherung gibt?",
+   "answer": "Der garantierende Staat ist selbst weniger kreditwürdig",
+   "distractors": [
+    "Dort gilt keine EU-Einlagensicherung",
+    "Die Zinsen werden doppelt besteuert",
+    "Dort zahlen Banken grundsätzlich keine Zinsen"
+   ],
+   "aha": "In einer schweren Krise zählt, ob der Staat die Garantie auch stemmen kann. Ein bis zwei Prozentpunkte mehr Zinsen sind Kommer dieses Risiko nicht wert.",
+   "quote_clean": "Ich meine damit einfach Banken, bei denen der staatliche Garantiegeber, nämlich zum Beispiel der Staat Bulgarien oder der Staat Rumänien, selber eine, naja, ambivalente Bonität hat.",
+   "quality": 2
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Definition so im Transkript, Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Der Geldmarkt ist das kurzfristige Ende des Anleihenmarkts: Anleihen, die nur noch eine sehr kurze Restlaufzeit haben.",
+   "question": "Was ist mit dem „Geldmarkt“ bei Geldmarktfonds gemeint?",
+   "answer": "Anleihen mit sehr kurzer Restlaufzeit",
+   "distractors": [
+    "Bargeld in Banktresoren",
+    "Kurzfristige Aktienspekulation",
+    "Devisenhandel zwischen Notenbanken"
+   ],
+   "aha": "Solche Anleihen laufen nur noch ein paar Monate, weil sie entweder schon alt sind oder gleich kurz ausgegeben wurden. Ein Geldmarktfonds ist damit fast wie Cash, bringt aber oft ein bisschen mehr als Tagesgeld.",
+   "quote_clean": "Sozusagen das kurzfristige Ende – kurzfristig im Sinne von Restlaufzeit der Anleihen – des Anleihenmarktes.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Definition belegt, Aha durch Ausschnitt gedeckt.",
+   "stand_note": "",
+   "statement": "Ein Fonds ist ein kollektives Investment: Viele Anleger:innen legen ihr Geld zusammen, und es wird gemeinsam angelegt.",
+   "question": "Was ist ein Fonds im Kern?",
+   "answer": "Ein Topf, in den viele gemeinsam einzahlen",
+   "distractors": [
+    "Ein Sparkonto mit fixem Zinssatz",
+    "Eine Versicherung gegen Kursverluste",
+    "Ein Kredit an eine einzelne Firma"
+   ],
+   "aha": "Das nimmt dir als Einzelne die Arbeit ab, du musst nicht jede Anleihe selbst aussuchen. Ob ein Mensch oder eine fixe Regel entscheidet, was in den Topf kommt, ist dann der Unterschied zwischen aktivem Fonds und ETF.",
+   "quote_clean": "Ein Fonds ist ja ein kollektives Investment: Viele Menschen zahlen ihr Geld in einen Pool, das Geld wird gepoolt und dann von einem Fondsmanager, einem Experten, gemeinsam in bestimmte Kapitalmarktanlagen investiert.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Aha enthielt Unbelegtes (20 Jahre, Wissenschaft); Buffett als Distraktor riskant, da Index-Befürworter.",
+   "stand_note": "",
+   "statement": "Gerd Kommer bezeichnet sich als fanatischen Fan des passiven Investierens.",
+   "question": "Wer bezeichnet sich in „Erklär mir die Welt“ als „fanatischen Fan von passiv investieren“?",
+   "answer": "Gerd Kommer",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Bankberater",
+    "Eine Fondsmanagerin"
+   ],
+   "aha": "Kommers Argument sind die Kosten: Aktiv gemanagte Fonds kosten oft 1 bis 1,5 Prozent im Jahr, ETFs nur ein Zehntel bis ein Fünftel davon.",
+   "quote_clean": "Proponent von passivem Investieren, also auf keinen Fall aktiv gemanagte Fonds kaufen, sondern ich bin ein fanatischer Fan von passivem Investieren.",
+   "quality": 2
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat belegt; Frage leicht, aber korrekt.",
+   "stand_note": "",
+   "statement": "Beim eigenen Geld ist man selbst die einzige Person ohne Interessenkonflikt.",
+   "question": "Wer sagt zu Andreas: „Du und ich (…) sind die einzigen Menschen, die jeweils überhaupt keinen Interessenskonflikt haben“?",
+   "answer": "Gerd Kommer",
+   "distractors": [
+    "Ein Bankberater",
+    "Eine Konsumentenschützerin",
+    "Ein Versicherungsmakler"
+   ],
+   "aha": "Kommer vergleicht das mit dem Herrenausstatter, der dir auch nicht sagt, dass dir der Anzug gar nicht steht. Beim Anzug ist das wurscht, beim sauer Ersparten nicht.",
+   "quote_clean": "Du und ich, wir beide sind in Bezug auf uns selbst die einzigen Menschen, die überhaupt keinen Interessenskonflikt haben.",
+   "quality": 2
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "kontext"
+   ],
+   "note": "Aussage zu negativem Coupon vereinfacht und 2026 überholt (Realzinsen längst anders).",
+   "stand_note": "",
+   "statement": "Bei inflationsindexierten Euro-Anleihen war die Basisverzinsung 2023 negativ, die Inflation wird erst darauf addiert.",
+   "question": "Wo liegt laut Gerd Kommer der Haken an inflationsindexierten Anleihen im Euroraum?",
+   "answer": "Der Basiskupon ist negativ",
+   "distractors": [
+    "Die Inflation wird nur halb ausgezahlt",
+    "Man darf sie nicht vorzeitig verkaufen",
+    "Sie laufen immer 100 Jahre"
+   ],
+   "aha": "Du startest bei minus ein, zwei Prozent und bekommst dann die Inflation dazu. Besser als eine normale Anleihe fährst du damit nur, wenn die Inflation dauerhaft über zwei bis drei Prozent bleibt.",
+   "quote_clean": "Hinzuaddiert wird, die ist negativ. Praktisch beginne ich mit einem negativen Coupon, also mit einer negativen Zinszahlung, die ist halt bei -1 %, -2 %, und dann kommt die Inflation hinzu.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Eine Million belegt, aber zeitgebunden und leicht Eigenwerbung.",
+   "stand_note": "Stand 2023",
+   "statement": "Gerd Kommers klassische Vermögensverwaltung nimmt Kund:innen erst ab einer Million Euro, seine Bücher gibt es ab rund zehn Euro.",
+   "question": "Ab welchem Vermögen nimmt Gerd Kommers klassische Vermögensverwaltung laut ihm Kund:innen?",
+   "answer": "Ab einer Million Euro",
+   "distractors": [
+    "Ab 10.000 Euro",
+    "Ab 100.000 Euro",
+    "Ab zehn Millionen Euro"
+   ],
+   "aha": "Für alle anderen hat er einen günstigeren Tipp: ein Einsteigerbuch um zehn Euro. Dass das ein bisschen Marketing in eigener Sache ist, sagt er gleich selber dazu.",
+   "quote_clean": "In unserem konventionellen Unternehmen haben wir, leider muss ich fast sagen, ein Eintrittsticket von einer Million Euro. Aber eins meiner Bücher kann man sich vielleicht leisten.",
+   "quality": 2
+  }
+ ],
+ "id": "250",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

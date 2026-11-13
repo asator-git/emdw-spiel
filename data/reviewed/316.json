@@ -1,0 +1,279 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Zahl stimmt mit Transkript (35 %, altersstandardisiert, seit 1990). 'in Österreich' wird nicht gesagt, daher neutral als Andreas' Zusammenfassung formuliert.",
+   "stand_note": "Stand 2024",
+   "statement": "Altersstandardisiert sterben laut Andreas' Zusammenfassung heute rund 35 Prozent weniger Menschen an Krebs als 1990.",
+   "question": "Um wie viel Prozent ist die altersstandardisierte Krebssterblichkeit laut Andreas' Zusammenfassung seit 1990 gesunken?",
+   "answer": "Um rund 35 Prozent",
+   "distractors": [
+    "Um rund 5 Prozent",
+    "Um rund 15 Prozent",
+    "Um rund 60 Prozent"
+   ],
+   "aha": "Krebs wird zwar häufiger, aber nur, weil wir älter werden. Rechnest du die Alterung heraus, sterben heute gut ein Drittel weniger Menschen daran als 1990 – die Behandlung ist deutlich besser geworden.",
+   "quote_clean": "Wenn man die Alterung der Gesellschaft ausklammert, also altersstandardisiert, sterben heute um 35 % weniger Menschen an Krebs als noch 1990.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Aussage belegt. Aha enthielt nicht belegtes Detail (11-Jähriger) und Floskel; neu formuliert.",
+   "stand_note": "",
+   "statement": "Kinder bekommen selten Krebs und sterben noch viel seltener daran, weil ein junger Körper die Krankheit und Behandlung besser verkraftet.",
+   "question": "Warum sterben Kinder viel seltener an Krebs als alte Menschen?",
+   "answer": "Junge Körper verkraften Krankheit und Therapie besser",
+   "distractors": [
+    "Kinder bekommen nur harmlose Krebsarten",
+    "Kinder erhalten keine Chemotherapie",
+    "Krebs wächst bei Kindern langsamer"
+   ],
+   "aha": "Ein junger Körper steckt eine harte Therapie meist besser weg als ein 70- oder 80-jähriger. Für Angehörige ist die Diagnose bei einem Kind trotzdem eine enorme Belastung, wie Andreas am Ende betont.",
+   "quote_clean": "Kinder sind relativ selten betroffen, viel seltener von Diagnosen, und noch viel seltener sterben sie an Krebs. Das liegt daran, dass ein junger Körper noch viel besser damit umgehen kann, als wenn man 70 oder 80 Jahre alt ist.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Zahl belegt (24 Stunden). Statement verallgemeinerte ('oft'); auf Niklas' Erfahrung eingegrenzt.",
+   "stand_note": "",
+   "statement": "Während seiner Chemotherapie durfte Niklas geöffnete Lebensmittel höchstens 24 Stunden lang weiterverwenden.",
+   "question": "Wie viele Stunden durfte Niklas während der Chemo ein geöffnetes Lebensmittel höchstens noch verwenden?",
+   "answer": "24 Stunden",
+   "distractors": [
+    "6 Stunden",
+    "48 Stunden",
+    "72 Stunden"
+   ],
+   "aha": "Ohne funktionierendes Immunsystem werden Keime im Essen zum Risiko. Die große Ketchupflasche reicht dann genau für eine Portion Würstel – bei Niklas übrigens vegane.",
+   "quote_clean": "Es war nicht erlaubt, dass ich Lebensmittel, die länger als 24 Stunden offen sind, noch einmal verwende. 24 Stunden ist eine sehr kurze Zeit bei Packungen, die groß sind.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "10 Minuten und Pilzsporen klar belegt.",
+   "stand_note": "",
+   "statement": "Wegen möglicher Pilzsporen musste Tee während der Chemotherapie 10 Minuten lang gekocht werden.",
+   "question": "Wie viele Minuten musste Niklas' Tee wegen Pilzsporen durchkochen?",
+   "answer": "10 Minuten",
+   "distractors": [
+    "1 Minute",
+    "3 Minuten",
+    "30 Minuten"
+   ],
+   "aha": "In getrockneten Teeblättern können Pilzsporen stecken, die einem gesunden Körper egal sind, einem geschwächten aber nicht. Ein zehn Minuten gekochter Grüntee schmeckt halt eher nach Strafe.",
+   "quote_clean": "Aber auch so etwas wie Tee durfte ich nur trinken, wenn er 10 Minuten gekocht war. Wer mag einen Grüntee trinken, der 10 Minuten durchgekocht wird? Wegen Pilzsporen.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Erklärung entspricht dem Transkript; Aha-Details (keine Öffis, Geschäfte, Maske) belegt.",
+   "stand_note": "",
+   "statement": "Chemotherapie greift neben Krebszellen auch Immunzellen an, deshalb können schon harmlose Erreger gefährlich werden.",
+   "question": "Warum müssen Menschen während einer Chemo so streng auf Hygiene achten?",
+   "answer": "Die Chemo zerstört auch Immunzellen",
+   "distractors": [
+    "Die Chemo macht die Haut durchlässig",
+    "Krebszellen locken Bakterien an",
+    "Infusionen sind oft verunreinigt"
+   ],
+   "aha": "Chemo unterscheidet nicht fein, sie trifft so ziemlich alles im Körper – auch die Immunzellen. Deshalb hieß es für Niklas: keine Öffis, keine Geschäfte, Maske und ständig Hände desinfizieren.",
+   "quote_clean": "Die Chemotherapie tötet zwar den Krebs, aber sie tötet so ziemlich alles in deinem Körper, und da sind die Immunzellen mit dabei. Das führt dazu, dass schon leichter Kontakt zu Krankheitserregern zu sehr groben Komplikationen führen kann.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt: Bluttransfusion, Erythrozyten/Hämoglobin, Sauerstoff, danach fit. Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Rote Blutkörperchen und Hämoglobin transportieren Sauerstoff; fehlen sie, ist man müde – nach einer Bluttransfusion fühlt man sich deshalb oft fitter.",
+   "question": "Warum fühlte sich Niklas nach einer Bluttransfusion meistens richtig fit?",
+   "answer": "Mehr rote Blutkörperchen transportieren mehr Sauerstoff",
+   "distractors": [
+    "Das Spenderblut enthält viel Zucker",
+    "Die Transfusion senkt das Fieber",
+    "Spenderblut bringt neue Immunzellen mit"
+   ],
+   "aha": "Das Hämoglobin in den roten Blutkörperchen schleppt den Sauerstoff durch den Körper. Ist zu wenig davon da, bist du einfach k.o. – darum hat Niklas die Transfusionstage für längere Spiele genutzt.",
+   "quote_clean": "Danach geht es einem immer super, weil Erythrozyten und das Hämoglobin für den Sauerstofftransport zuständig sind, und das führt zu Müdigkeit, wenn du da zu wenig hast.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Wangen/Kortison belegt. Aha enthielt nicht belegte Behauptung (Heißhunger, McDonald's) – entfernt.",
+   "stand_note": "",
+   "statement": "Kortison wirkt stark auf den Hormonhaushalt und kann ein rundes, aufgedunsenes Gesicht verursachen.",
+   "question": "Welche sichtbare Nebenwirkung hatte das Kortison bei Niklas?",
+   "answer": "Ganz runde, dicke Wangen",
+   "distractors": [
+    "Gelbliche Haut",
+    "Dunkle Augenringe",
+    "Rote Flecken im Gesicht"
+   ],
+   "aha": "Kortison greift stark in den Hormonhaushalt ein, deshalb wurde Niklas' Gesicht ganz rund. Er hat es mit Humor genommen und sich auf die Dinge konzentriert, die besser waren als davor.",
+   "quote_clean": "Nebenbei habe ich auch Kortison genommen, ein Medikament, das sehr stark auf die Hormone wirkt, und da werden die Wangen ganz aufgebläht, ganz breit und dick.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt: 97 % eingeprägt, tatsächlich 80 %. Frage eindeutig ('eingeprägt').",
+   "stand_note": "",
+   "statement": "Niklas hatte zuerst von 97 Prozent Heilungschance gehört und die spätere Korrektur auf 80 Prozent unbewusst verdrängt.",
+   "question": "Welche Heilungschance hatte sich Niklas während der Therapie fest eingeprägt?",
+   "answer": "97 Prozent",
+   "distractors": [
+    "50 Prozent",
+    "80 Prozent",
+    "100 Prozent"
+   ],
+   "aha": "Vor der Biopsie hieß es 97 Prozent, danach 80 – das hat Niklas zwar gehört, aber sein Kopf hat es nicht abgespeichert. Erst seine Mutter hat ihn später darauf gebracht. Der Kopf schützt sich manchmal ganz von selbst.",
+   "quote_clean": "Mein Unterbewusstsein hat das einfach gestrichen und ist bei den 97 % geblieben. Im Nachhinein hat mir dann meine Mutter einmal erzählt: Na, es waren eigentlich 80.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Nietzsche-Zitat korrekt zugeschrieben (Götzen-Dämmerung); im Transkript so genannt.",
+   "stand_note": "",
+   "statement": "Der Gedanke, dass man fast jedes Wie erträgt, wenn man ein Warum hat, stammt von Friedrich Nietzsche.",
+   "question": "Von welchem Philosophen stammt der Gedanke, dass man fast jedes Wie erträgt, wenn man ein Warum hat?",
+   "answer": "Friedrich Nietzsche",
+   "distractors": [
+    "Immanuel Kant",
+    "Arthur Schopenhauer",
+    "Søren Kierkegaard"
+   ],
+   "aha": "Viktor Frankl hat genau diesen Nietzsche-Satz berühmt gemacht. Für Niklas waren die Warums ganz klein: übermorgen einen Freund treffen, ein gutes Essen, ein Spiel, auf das er sich freut.",
+   "quote_clean": "Friedrich Nietzsche hat einmal gesagt: Man verträgt fast jedes Wie, wenn man das richtige Warum hat.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Selbstbezeichnung 'realistischer Optimist' wörtlich belegt.",
+   "stand_note": "",
+   "statement": "Niklas bezeichnet sich als realistischen Optimisten und rät Betroffenen, positiv zu bleiben.",
+   "question": "Wie bezeichnet sich Niklas selbst?",
+   "answer": "Als realistischen Optimisten",
+   "distractors": [
+    "Als hoffnungslosen Romantiker",
+    "Als gelassenen Pessimisten",
+    "Als nüchternen Realisten"
+   ],
+   "aha": "Schönreden sei das nicht, sagt Niklas: Er wusste genau, dass er Krebs hat. Er hat sich nur bewusst entschieden, worauf er das Licht lenkt.",
+   "quote_clean": "Bleibt positiv, seid optimistisch. Ich habe immer von mir gesagt: Ich bin ein realistischer Optimist.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage ist trivial (Gast) und die Distraktoren (u. a. Rudi Anschober) wirken beliebig bis unpassend.",
+   "stand_note": "",
+   "statement": "Niklas hat sich während der Therapie bewusst auf das konzentriert, was ihm guttut, statt auf das, was ihm schadet.",
+   "question": "Wer hat's gesagt: „Ich fokussiere mich auf die Dinge, die mir guttun, anstatt auf die, die mir schlecht tun“?",
+   "answer": "Niklas Schober",
+   "distractors": [
+    "Andreas Sator",
+    "Viktor Frankl",
+    "Rudi Anschober"
+   ],
+   "aha": "Für Niklas ist das kein Wegschauen, sondern eine Perspektivenfrage: Jede Situation hat negative und positive Seiten, und man darf sich aussuchen, worauf man schaut.",
+   "quote_clean": "Aber ich fokussiere mich auf die Dinge, die mir guttun, anstatt mich auf die Dinge zu fokussieren, die mir schlecht tun.",
+   "quality": 1
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Straßenbahn-Vergleich belegt (blinkende Anzeige vs. '5 Minuten').",
+   "stand_note": "",
+   "statement": "Unsicherheit belastet oft mehr als eine bekannte Wartezeit – wie bei einer Straßenbahnanzeige, die nur blinkt statt die Minuten anzuzeigen.",
+   "question": "Womit vergleicht Niklas, warum es ihm half, genau über seine Therapie Bescheid zu wissen?",
+   "answer": "Mit einer Straßenbahn-Anzeige",
+   "distractors": [
+    "Mit einem Wetterbericht",
+    "Mit einem Fahrplan am Flughafen",
+    "Mit einer Ampel"
+   ],
+   "aha": "Steht auf der Anzeige fünf Minuten, ärgert man sich kurz und wartet. Blinkt sie nur, wird man nervös. Genauso wollte Niklas immer wissen, wie die nächsten Tage, Wochen und zwei Jahre aussehen.",
+   "quote_clean": "Während, wenn da steht fünf Minuten, dann weiß ich genau: Okay, passt. Das ist für den Wiener manchmal zach.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage über den Gesprächsverlauf, kein Wissensgewinn; Aha enthält nicht belegte Details (12 Uhr).",
+   "stand_note": "",
+   "statement": "Andreas fragt Niklas zum Abschluss, was er Menschen mit einer frischen Krebsdiagnose mitgeben möchte.",
+   "question": "Was fragt Andreas Niklas zum Abschluss des Gesprächs?",
+   "answer": "Was er frisch Diagnostizierten mitgeben möchte",
+   "distractors": [
+    "Ob er Angst vor einem Rückfall hat",
+    "Was er Ärzt:innen vorwirft",
+    "Wie er seine Schulzeit nachgeholt hat"
+   ],
+   "aha": "Niklas' Antwort: positiv bleiben und sich kleine Ziele setzen.",
+   "quote_clean": "Niklas, hast du zum Abschluss noch Dinge, die du Leuten mitgeben möchtest, die vielleicht gerade, in der Zukunft oder vor kurzem so eine Diagnose bekommen haben?",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Photoshop-Avatar-Strich belegt. Aha behauptete unbelegt eine Zeichentrickserie; entfernt. Glatze/Haare waschen belegt.",
+   "stand_note": "",
+   "statement": "Als Niklas wegen der Chemo die Haare verlor, photoshoppte er sich als Erstes einen Avatar-Strich auf die Glatze.",
+   "question": "Was machte Niklas als Erstes, nachdem er durch die Chemo eine Glatze bekommen hatte?",
+   "answer": "Einen Avatar-Strich draufgephotoshoppt",
+   "distractors": [
+    "Eine Perücke gekauft",
+    "Die Glatze bemalen lassen",
+    "Nur noch Hauben getragen"
+   ],
+   "aha": "Statt zu trauern, hat Niklas es mit Humor genommen. Und praktisch fand er die Glatze sowieso: kein Haarewaschen mehr, Kopf abtrocknen und fertig.",
+   "quote_clean": "Das Erste, was ich gemacht habe: Ich habe ein Foto gemacht, auf dem ich mir einen Avatar-Strich auf die Glatze gephotoshoppt habe.",
+   "quality": 3
+  }
+ ],
+ "id": "316",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

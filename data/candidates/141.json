@@ -1,0 +1,649 @@
+{
+ "theme": "Wirtschaft & Arbeit",
+ "summary": "Theresa Imre erzählt, wie sie mit Markta einen digitalen Bauernmarkt aufbaut und was Gründen mit Geld, Nerven und Scheitern zu tun hat.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 2288,
+   "speaker": "Theresa Imre",
+   "quote": "aber gleich zu sehen, hey, das bringt diesen ganzen 160.000 Kleinbäuerinnen und Kleinbauern in Österreich was, neben den Bäckereien",
+   "quote_clean": "Aber gleich zu sehen: Hey, das bringt diesen ganzen 160.000 Kleinbäuerinnen und Kleinbauern in Österreich was, neben den Bäckereien.",
+   "statement": "In Österreich gibt es rund 160.000 Kleinbäuerinnen und Kleinbauern.",
+   "question": "Wie viele Kleinbäuerinnen und Kleinbauern gibt es ungefähr in Österreich?",
+   "answer": "rund 160.000",
+   "distractors": [
+    "rund 16.000",
+    "rund 60.000",
+    "rund 400.000"
+   ],
+   "number_value": 160000,
+   "number_unit": "Betriebe",
+   "slider_min": 20000,
+   "slider_max": 400000,
+   "log_scale": false,
+   "aha": "Rund 160.000 kleine Betriebe, das ist eine ordentliche Menge Höfe für so ein kleines Land. Für Theresa Imre ist genau das der Grund, warum Markta mehr sein soll als ein Onlineshop: Die alle sollen einen Weg abseits vom Supermarkt bekommen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Landwirtschaft",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 968,
+   "speaker": "Theresa Imre",
+   "quote": "Es ist aber auch gleichzeitig natürlich eine Supermarktstruktur, die enorm, gerade wenn man Österreich hernimmt, so zugespitzt gewachsen ist, dass es jetzt nur mehr drei große Ketten gibt, die alles eigentlich dominieren.",
+   "quote_clean": "Es ist aber gleichzeitig natürlich auch eine Supermarktstruktur, die gerade in Österreich so zugespitzt gewachsen ist, dass es jetzt nur mehr drei große Ketten gibt, die eigentlich alles dominieren.",
+   "statement": "Der österreichische Lebensmittelhandel wird von drei großen Supermarktketten dominiert.",
+   "question": "Wie viele große Supermarktketten dominieren laut Theresa Imre den österreichischen Lebensmittelhandel?",
+   "answer": "3",
+   "distractors": [
+    "2",
+    "5",
+    "7"
+   ],
+   "number_value": 3,
+   "number_unit": "Ketten",
+   "slider_min": 1,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Drei Konzerne teilen sich in Österreich den Großteil vom Lebensmittelhandel, das ist im europäischen Vergleich sehr konzentriert. Wer als kleiner Hof da reinwill, verhandelt mit sehr wenigen und sehr mächtigen Einkäufern.",
+   "difficulty": 1,
+   "time_sensitive": true,
+   "tags": [
+    "Supermarkt",
+    "Handel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 934,
+   "speaker": "Theresa Imre",
+   "quote": "Es war davor viel regionaler. Wir wussten eigentlich immer, wo unser Essen herkam als Menschen. Das hat uns geprägt von Jahrtausenden und zig Jahrtausenden. Und eigentlich erst seit 50 Jahren sind wir komplett entkoppelt.",
+   "quote_clean": "Es war davor viel regionaler. Wir wussten als Menschen eigentlich immer, wo unser Essen herkam. Das hat uns seit zig Jahrtausenden geprägt. Und eigentlich erst seit 50 Jahren sind wir komplett entkoppelt.",
+   "statement": "Erst seit etwa 50 Jahren wissen die meisten Menschen nicht mehr, woher ihr Essen kommt.",
+   "question": "Seit wann sind wir laut Theresa Imre davon entkoppelt, woher unser Essen kommt?",
+   "answer": "seit etwa 50 Jahren",
+   "distractors": [
+    "seit etwa 15 Jahren",
+    "seit etwa 150 Jahren",
+    "seit etwa 300 Jahren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Jahrtausendelang war klar, wer dein Brot bäckt und wo die Kuh steht. Mit der modernen Lebensmittelindustrie und den großen Ketten ab den 70ern und 80ern ist dieses Wissen in kurzer Zeit verloren gegangen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ernährung",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 256,
+   "speaker": "Theresa Imre",
+   "quote": "Wir verdienen in Summe circa 30 Prozent. Beim Bauern und bei der Bäuerin bleiben 70 Prozent von dem, was gezahlt wird.",
+   "quote_clean": "Wir verdienen in Summe circa 30 Prozent. Beim Bauern und bei der Bäuerin bleiben 70 Prozent von dem, was gezahlt wird.",
+   "statement": "Bei Markta bleiben rund 70 Prozent des Kaufpreises beim Bauern oder der Bäuerin.",
+   "question": "Wie viel Prozent vom Kaufpreis bleiben bei Markta beim Bauern oder der Bäuerin?",
+   "answer": "rund 70 Prozent",
+   "distractors": [
+    "rund 30 Prozent",
+    "rund 50 Prozent",
+    "rund 90 Prozent"
+   ],
+   "number_value": 70,
+   "number_unit": "Prozent",
+   "slider_min": 10,
+   "slider_max": 95,
+   "log_scale": false,
+   "aha": "Markta kauft die Ware ein und behält etwa 30 Prozent, davon wird unter anderem die gekühlte Logistik bezahlt. Der Rest geht an den Hof, und das ist laut Theresa ein Vielfaches von dem, was über den Supermarkt hängen bleibt.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Markta",
+    "Landwirtschaft"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 267,
+   "speaker": "Theresa Imre",
+   "quote": "Das ist ein Vielfaches von dem, was über den klassischen Weg, über den Supermarkt ein Bauer verdient, weil die sind oftmals die, die leider an letzter Stelle von der ganzen Wertschöpfungskette sind.",
+   "quote_clean": "Das ist ein Vielfaches von dem, was ein Bauer über den klassischen Weg, über den Supermarkt verdient, weil die oftmals leider an letzter Stelle der ganzen Wertschöpfungskette sind.",
+   "statement": "Bäuerinnen und Bauern stehen in der Wertschöpfungskette über den Supermarkt oft an letzter Stelle und verdienen dort wenig.",
+   "question": "Wo stehen Bauern beim Verkauf über den Supermarkt laut Theresa Imre oft in der Wertschöpfungskette?",
+   "answer": "an letzter Stelle",
+   "distractors": [
+    "an erster Stelle",
+    "genau in der Mitte",
+    "gleichauf mit dem Handel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zwischen Feld und Regal verdienen Verarbeitung, Transport und vor allem der Handel mit. Wer ganz am Anfang der Kette steht und wenig Verhandlungsmacht hat, bekommt oft das kleinste Stück vom Kuchen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Landwirtschaft",
+    "Supermarkt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 198,
+   "speaker": "Theresa Imre",
+   "quote": "Das heißt, Magda hat circa, ich glaube, 19 Prozent von dem, was der Preis war, verdient an dem Ganzen.",
+   "quote_clean": "Das heißt, Markta hat circa 19 Prozent vom Preis verdient.",
+   "statement": "Im ersten Provisionsmodell von Markta 2018 verdiente die Plattform rund 19 Prozent vom Preis.",
+   "question": "Wie viel Prozent Provision hat Markta in seinem ersten Modell als reine Webplattform ungefähr verdient?",
+   "answer": "rund 19 Prozent",
+   "distractors": [
+    "rund 5 Prozent",
+    "rund 35 Prozent",
+    "rund 50 Prozent"
+   ],
+   "number_value": 19,
+   "number_unit": "Prozent",
+   "slider_min": 1,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Am Anfang war Markta ein reiner Marktplatz: Die Höfe haben selbst verschickt, Markta hat Software und Logistik-Schnittstellen gestellt und dafür eine Provision kassiert. Erst später kam das eigene Lager mit Einkauf und Verkauf dazu.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Markta",
+    "Geschäftsmodell"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1180,
+   "speaker": "Theresa Imre",
+   "quote": "Sondern ein Business Angel hilft und entwickelt die einfach sehr stark mit und kommt jetzt vielleicht nicht aus einem Freundeskreis heraus, sondern kommt sogar aus der Branche oder kommt aus einem Bereich, dass er mit der jeweiligen Erfahrung auch dem Unternehmen was bringt.",
+   "quote_clean": "Sondern ein Business Angel hilft und entwickelt dich sehr stark mit und kommt vielleicht nicht aus dem Freundeskreis, sondern sogar aus der Branche oder aus einem Bereich, wo er mit seiner Erfahrung dem Unternehmen etwas bringt.",
+   "statement": "Ein Business Angel steigt sehr früh in ein Start-up ein und bringt neben Geld vor allem Branchenerfahrung mit.",
+   "question": "Was unterscheidet einen Business Angel von einer reinen Geldgeberin?",
+   "answer": "Er bringt auch Erfahrung und Mitarbeit ein",
+   "distractors": [
+    "Er verlangt keine Firmenanteile",
+    "Er steigt erst nach dem Börsengang ein",
+    "Er vergibt nur staatliche Förderungen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Business Angel ist früh dabei, oft schon bei der bloßen Idee, und hilft mit Kontakten und Know-how mit. Bei Markta waren in den ersten Phasen so sieben Leute beteiligt, die Theresa vor allem mit Erfahrung unterstützt haben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Start-up",
+    "Finanzierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1655,
+   "speaker": "Theresa Imre",
+   "quote": "Also letztendlich ein Logistiksystem rechnet sich erst, wenn möglichst viele Menschen bestellen, weil sonst zahlt es sich einfach nicht aus, Ware von A nach B zu führen.",
+   "quote_clean": "Letztendlich rechnet sich ein Logistiksystem erst, wenn möglichst viele Menschen bestellen, weil es sich sonst einfach nicht auszahlt, Ware von A nach B zu führen.",
+   "statement": "Ein Logistiksystem für Lebensmittel rechnet sich erst, wenn sehr viele Menschen bestellen.",
+   "question": "Wann rechnet sich laut Theresa Imre ein Liefersystem für Lebensmittel?",
+   "answer": "wenn möglichst viele Menschen bestellen",
+   "distractors": [
+    "wenn die Lieferwege möglichst lang sind",
+    "wenn nur teure Produkte verschickt werden",
+    "wenn jeder Hof selbst zustellt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Kühlauto kostet ungefähr gleich viel, ob es zehn oder hundert Packerl ausliefert. Erst bei großen Mengen verteilen sich Lager, Kühlung und Fahrten auf genug Bestellungen, deshalb ist Bekanntheit für Theresa die größte Mission.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Logistik",
+    "Skaleneffekte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 300,
+   "speaker": "Theresa Imre",
+   "quote": "Und haben da eine coole Kooperation mit einer Firma in Linz, Isolena, eben geschlossen, die uns jetzt eben aus Schafwolle die Dämmmaterialien herstellt, sodass die gekühlten Backerlen österreichweit eben auch ankommen.",
+   "quote_clean": "Und wir haben eine coole Kooperation mit einer Firma in Linz, Isolena, geschlossen, die uns aus Schafwolle die Dämmmaterialien herstellt, sodass die gekühlten Packerl österreichweit ankommen.",
+   "statement": "Markta kühlt seine Lebensmittelpakete mit Dämmmaterial aus Schafwolle.",
+   "question": "Woraus besteht das Dämmmaterial, mit dem Markta gekühlte Pakete verschickt?",
+   "answer": "aus Schafwolle",
+   "distractors": [
+    "aus Styropor",
+    "aus Maisstärke",
+    "aus Altpapier"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Schafwolle isoliert nicht nur am Schaf gut, sie hält auch Kälte im Paket. Dazu kommt ein Pfandsystem: Die Kühlboxen gehen retour, statt im Müll zu landen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Verpackung",
+    "Nachhaltigkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1312,
+   "speaker": "Theresa Imre",
+   "quote": "So wie mal Daumen, also nur mal für den ersten Prototyp von der Website haben wir, glaube ich, schon so 200.000 Euro gebraucht.",
+   "quote_clean": "So Pi mal Daumen haben wir allein für den ersten Prototyp der Website schon so 200.000 Euro gebraucht.",
+   "statement": "Allein der erste Prototyp der Markta-Website kostete rund 200.000 Euro.",
+   "question": "Wie viel Geld hat allein der erste Prototyp der Markta-Website ungefähr gekostet?",
+   "answer": "rund 200.000 Euro",
+   "distractors": [
+    "rund 20.000 Euro",
+    "rund 60.000 Euro",
+    "rund 800.000 Euro"
+   ],
+   "number_value": 200000,
+   "number_unit": "Euro",
+   "slider_min": 5000,
+   "slider_max": 2000000,
+   "log_scale": true,
+   "aha": "Man denkt, eine Website ist schnell gebaut. Aber ein Marktplatz für Hunderte Höfe mit Warenwirtschaft und Logistik-Schnittstellen ist eine ordentliche Software, und in Summe ist bei Markta laut Theresa schon über eine Million Euro reingeflossen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Start-up",
+    "Software"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1458,
+   "speaker": "Theresa Imre",
+   "quote": "Wir haben über Conda die Plattform, das ist ein Crowdinvestment, in Summe über zwei Runden 600.000 Euro von 500 Investorinnen und Investoren bekommen.",
+   "quote_clean": "Wir haben über die Plattform Conda, das ist ein Crowdinvestment, in Summe über zwei Runden 600.000 Euro von 500 Investorinnen und Investoren bekommen.",
+   "statement": "Markta sammelte über Crowdinvesting in zwei Runden 600.000 Euro von rund 500 Investorinnen und Investoren.",
+   "question": "Wie viel Geld hat Markta über zwei Crowdinvesting-Runden ungefähr eingesammelt?",
+   "answer": "rund 600.000 Euro",
+   "distractors": [
+    "rund 60.000 Euro",
+    "rund 150.000 Euro",
+    "rund 3 Millionen Euro"
+   ],
+   "number_value": 600000,
+   "number_unit": "Euro",
+   "slider_min": 10000,
+   "slider_max": 5000000,
+   "log_scale": true,
+   "aha": "Beim Crowdinvesting geben viele Leute kleinere Beträge und werden dafür am Erfolg beteiligt. Im Corona-Jahr ist das bei Markta durch die Decke gegangen, weil plötzlich viele gemerkt haben, wie wichtig regionale Versorgung ist.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Crowdinvesting",
+    "Markta"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1270,
+   "speaker": "Andreas Sator",
+   "quote": "Und zum Verständnis, am Anfang ist es ja gemeinhin so bei Unternehmen, dass man zuerst einmal ein paar Jahre lang eigentlich kein Geld verdient unter dem Strich, sondern dass man eher mehr Geld reinsteckt, als man verdient.",
+   "quote_clean": "Und zum Verständnis: Am Anfang ist es bei Unternehmen gemeinhin so, dass man zuerst ein paar Jahre lang unter dem Strich kein Geld verdient, sondern eher mehr Geld reinsteckt, als man verdient.",
+   "statement": "Junge Unternehmen machen in den ersten Jahren meist Verluste, weil sie mehr investieren, als sie einnehmen.",
+   "question": "Was ist in den ersten Jahren eines jungen Unternehmens meistens der Fall?",
+   "answer": "Es steckt mehr Geld hinein, als es verdient",
+   "distractors": [
+    "Es macht sofort hohe Gewinne",
+    "Es zahlt Investoren gleich Dividenden aus",
+    "Es braucht keinerlei Startkapital"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Software, Lager, Personal: Das alles kostet, lange bevor genug Umsatz da ist. Markta rechnete nach gut drei Jahren damit, im nächsten Jahr zum ersten Mal Gewinn zu machen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Gründen",
+    "Finanzierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 1681,
+   "speaker": "Andreas Sator",
+   "quote": "Es gibt diesen schönen Spruch, selbstständig heißt, man macht alles selbst und das ständig. Wie ist das bei dir?",
+   "quote_clean": "Es gibt diesen schönen Spruch: Selbstständig heißt, man macht alles selbst und das ständig. Wie ist das bei dir?",
+   "statement": "Ein bekannter Spruch lautet: Selbstständig heißt, man macht alles selbst und das ständig.",
+   "question": "Wie geht der Spruch weiter: „Selbstständig heißt, man macht alles selbst und …“?",
+   "answer": "das ständig",
+   "distractors": [
+    "das gerne",
+    "das allein",
+    "das nebenbei"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas holt den alten Kalauer raus, und Theresa bestätigt ihn eher: Am Anfang hat sie sieben Tage die Woche um die 14 Stunden gearbeitet. Wochenenden hat sie sich erst mühsam zurückerobert.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Selbstständigkeit",
+    "Arbeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1556,
+   "speaker": "Theresa Imre",
+   "quote": "Gott sei Dank, habe ich mir im Vorhinein nicht überlegt, wie schwierig, wie aufwendig es ist, 400 individuelle Pakete im eigenen Wohnzimmer mit 20 Freunden zu packen.",
+   "quote_clean": "Gott sei Dank habe ich mir im Vorhinein nicht überlegt, wie schwierig und wie aufwendig es ist, 400 individuelle Pakete im eigenen Wohnzimmer mit 20 Freunden zu packen.",
+   "statement": "2017 packte Theresa Imre mit 20 Freunden 400 Kennenlernpakete in ihrem Wohnzimmer.",
+   "question": "Wo hat Theresa Imre 2017 die ersten 400 Markta-Pakete gepackt?",
+   "answer": "in ihrem Wohnzimmer",
+   "distractors": [
+    "in einer gemieteten Lagerhalle",
+    "auf dem Hof ihrer Eltern",
+    "in einer Postfiliale"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Geplant war ein Nachmittag, geworden ist es bis zwei in der Früh. Theresas Lehre daraus: Gut, dass man vorher nicht immer weiß, wie kompliziert etwas wird, sonst würde man gar nicht anfangen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Gründen",
+    "Anekdote"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 874,
+   "speaker": "Theresa Imre",
+   "quote": "Ideen stehen und fallen mit an der Umsetzung. Das ist etwas, was ich auch in aller Bescheidenheit immer wieder sehr stark erkennen muss. Es gibt ganz, ganz viele Ideen da draußen.",
+   "quote_clean": "Ideen stehen und fallen mit der Umsetzung. Das ist etwas, was ich in aller Bescheidenheit immer wieder sehr stark erkennen muss. Es gibt ganz viele Ideen da draußen.",
+   "statement": "Theresa Imre sagt, Ideen stehen und fallen mit der Umsetzung.",
+   "question": "Woran hängt laut Theresa Imre, ob eine Geschäftsidee etwas wird?",
+   "answer": "an der Umsetzung",
+   "distractors": [
+    "an der Originalität der Idee",
+    "am Startkapital allein",
+    "am perfekten Firmennamen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ideen gibt es wie Sand am Meer, sagt Theresa. Entscheidend ist, ob man sie so auf die Beine stellt, dass sie funktioniert und sich auch wirtschaftlich trägt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gründen",
+    "Idee"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2084,
+   "speaker": "Theresa Imre",
+   "quote": "ich glaube, wir sind in Österreich eben auch nicht so unbedingt gut im Scheitern und es braucht sozusagen auch das gute Scheitern, damit man eben das lernt",
+   "quote_clean": "Ich glaube, wir sind in Österreich auch nicht unbedingt gut im Scheitern, und es braucht auch das gute Scheitern, damit man lernt.",
+   "statement": "Theresa Imre findet, dass Österreich nicht besonders gut im Scheitern ist, obwohl man gerade daraus lernt.",
+   "question": "Worin ist Österreich laut Theresa Imre nicht besonders gut?",
+   "answer": "im Scheitern",
+   "distractors": [
+    "im Sparen",
+    "im Netzwerken",
+    "im Delegieren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Theresa ist Scheitern kein Drama, sondern Lernstoff. Ihre Mama hat ihr mitgegeben, dass man sich im Notfall auch fürs Putzen nicht zu schade ist, und mit der Einstellung verliert die Risikoangst ein bisschen ihren Schrecken.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Scheitern",
+    "Mentalität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2308,
+   "speaker": "Theresa Imre",
+   "quote": "wenn man da einen coolen, eine coole Schnittmenge findet oder etwas findet, was einem selber taugt und andere brauchen, dann ist man definitiv schon einmal am richtigen Weg.",
+   "quote_clean": "Wenn man da eine coole Schnittmenge findet, etwas, was einem selber taugt und was andere brauchen, dann ist man definitiv schon einmal am richtigen Weg.",
+   "statement": "Theresa Imres Rat: Such die Schnittmenge aus dem, was dir selbst taugt, und dem, was andere brauchen.",
+   "question": "Was ist laut Theresa Imre ein guter Ausgangspunkt für unternehmerisches Handeln?",
+   "answer": "Was einem taugt und andere brauchen",
+   "distractors": [
+    "Was am schnellsten Geld bringt",
+    "Was gerade im Trend liegt",
+    "Was noch niemand versucht hat"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zwei Fragen am Anfang: Warum mache ich das, und wem bringt es was? Andreas fand genau diese Schnittmenge die schönste Überlegung der ganzen Folge.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Unternehmergeist",
+    "Motivation"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 981,
+   "speaker": "Theresa Imre",
+   "quote": "Und alle Kreisler sind ausgestorben, der Kaufmann ums Eck, die Tante-Emma-Läden.",
+   "quote_clean": "Und alle Greißler sind ausgestorben, der Kaufmann ums Eck, die Tante-Emma-Läden.",
+   "statement": "Ein Greißler ist in Österreich ein kleiner Lebensmittelladen ums Eck, ähnlich einem Tante-Emma-Laden.",
+   "question": "Was ist in Österreich ein „Greißler“?",
+   "answer": "ein kleines Lebensmittelgeschäft ums Eck",
+   "distractors": [
+    "ein Fleischhauer am Markt",
+    "ein Bauernhof mit Hofladen",
+    "ein Großhändler für Gastronomie"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Greißler war früher in fast jedem Grätzl und Dorf, mit Wurstsemmel und Anschreiben. Mit dem Aufstieg der großen Ketten sind die meisten verschwunden, und genau diese Lücke will Markta wieder ein bisschen füllen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Handel",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1019,
+   "speaker": "Theresa Imre",
+   "quote": "auch der Supermarkt hat sehr viele Ortskerne zerstört, weil halt dann so Shopping-Meilen irgendwo aufgebaut worden sind, die dann halt eben Ortszentren und auch Kaufhäuser und Kreisler total zerstört haben.",
+   "quote_clean": "Auch der Supermarkt hat sehr viele Ortskerne zerstört, weil irgendwo Shopping-Meilen aufgebaut worden sind, die dann Ortszentren, Kaufhäuser und Greißler total zerstört haben.",
+   "statement": "Einkaufszentren und Supermärkte am Ortsrand haben in vielen Gemeinden die Ortskerne mit ihren kleinen Geschäften verdrängt.",
+   "question": "Was hat laut Theresa Imre viele Ortskerne am Land zerstört?",
+   "answer": "Supermärkte und Shopping-Meilen am Ortsrand",
+   "distractors": [
+    "neue Umfahrungsstraßen allein",
+    "der Onlinehandel der 2010er",
+    "strengere Bauvorschriften"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn der große Markt mit Parkplatz draußen an der Straße steht, fährt man halt dorthin. Im Zentrum sperren dann Kaufhaus und Greißler zu, und Theresa kennt das aus ihrer eigenen Kindheit in der Steiermark.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Ortskerne",
+    "Handel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1516,
+   "speaker": "Theresa Imre",
+   "quote": "Das heißt, wir haben vorher Gutscheine für die Plattform verkauft und Kennenlernpakete an die Kundinnen, um letztendlich auch den Produzenten zu zeigen, hey, es gibt da ein riesiges Interesse",
+   "quote_clean": "Das heißt, wir haben vorher Gutscheine für die Plattform und Kennenlernpakete an die Kundinnen verkauft, um letztendlich auch den Produzenten zu zeigen: Hey, es gibt da ein riesiges Interesse.",
+   "statement": "Mit einem Crowdfunding vor dem Start kann man Gutscheine vorab verkaufen und so zeigen, dass es Nachfrage gibt.",
+   "question": "Wozu diente das Crowdfunding von Markta 2017, noch bevor die Plattform online war?",
+   "answer": "um echtes Interesse zu beweisen",
+   "distractors": [
+    "um einen Kredit abzulösen",
+    "um die Firma zu verkaufen",
+    "um Förderungen zurückzuzahlen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Crowdfunding ist nicht nur Geld, sondern auch ein Test: Kaufen Leute wirklich, bevor es das Produkt gibt? Markta hat damit vor allem den skeptischen Höfen gezeigt, dass Online-Kundschaft existiert.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Crowdfunding",
+    "Gründen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 524,
+   "speaker": "Theresa Imre",
+   "quote": "Und letztendlich geht es genau darum, kurze Transportwege von unseren Lebensmitteln zu haben und nicht eben globalisiert die Ware von Südafrika, die Äpfel nach Österreich zu schicken, weil die halt gerade bessere Handelsspannern und Marge drauf haben.",
+   "quote_clean": "Und letztendlich geht es genau darum, kurze Transportwege für unsere Lebensmittel zu haben und nicht globalisiert die Äpfel von Südafrika nach Österreich zu schicken, weil die gerade bessere Handelsspannen und Margen haben.",
+   "statement": "Äpfel werden teils aus Südafrika nach Österreich gebracht, weil der Handel damit bessere Margen hat.",
+   "question": "Warum landen laut Theresa Imre Äpfel aus Südafrika in österreichischen Regalen?",
+   "answer": "wegen besserer Handelsspannen",
+   "distractors": [
+    "weil Österreich keine Äpfel anbaut",
+    "weil sie strenger kontrolliert werden",
+    "weil Bahntransport gratis ist"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Österreich hat selbst jede Menge Äpfel, die Steiermark ist ein echtes Apfelland. Trotzdem fährt Obst um die halbe Welt, wenn es sich für den Handel rechnet, und genau da setzt die Idee der kurzen Wege an.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Transport",
+    "Handel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1440,
+   "speaker": "Theresa Imre",
+   "quote": "Und das war richtig cool, weil die auch durch Corona ziemlich durch die Decke gegangen sind, weil so viele Leute das Bewusstsein auch bekommen haben, wie wichtig regionale und heimische Lebensmittel sind",
+   "quote_clean": "Und das war richtig cool, weil die durch Corona ziemlich durch die Decke gegangen sind, weil so viele Leute das Bewusstsein bekommen haben, wie wichtig regionale und heimische Lebensmittel sind.",
+   "statement": "Die Corona-Lockdowns haben vielen Menschen bewusst gemacht, wie wichtig regionale Lebensmittelversorgung ist.",
+   "question": "Was hat 2020 laut Theresa Imre das Interesse an regionalen Lebensmitteln stark gesteigert?",
+   "answer": "die Corona-Lockdowns",
+   "distractors": [
+    "eine neue EU-Förderung",
+    "ein Lebensmittelskandal",
+    "die Inflation"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Als im Lockdown plötzlich Lieferketten wackelten und Regale leer waren, haben viele zum ersten Mal überlegt, wo ihr Essen herkommt. Markta hat das mit einem enormen Boost gespürt.",
+   "difficulty": 1,
+   "time_sensitive": true,
+   "tags": [
+    "Corona",
+    "Regionalität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "141",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

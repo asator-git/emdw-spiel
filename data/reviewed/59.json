@@ -1,0 +1,274 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Triviale Meta-Frage ohne Wissensgewinn.",
+   "stand_note": "",
+   "quality": 1,
+   "statement": "Andreas bittet seine Gäste zu Beginn, sich kurz vorzustellen.",
+   "question": "Mit welcher Bitte startet Andreas typischerweise ins Gespräch mit dem Gast?",
+   "answer": "Stell dich doch bitte kurz vor",
+   "distractors": [
+    "Erzähl uns von deiner Kindheit",
+    "Was hast du heute gefrühstückt?",
+    "Erklär mir dein Thema in einem Satz"
+   ],
+   "aha": "Bevor es ums EU-Parlament geht, darf sich der Gast selbst vorstellen. So weißt du gleich, mit wem du die nächste Stunde verbringst.",
+   "quote_clean": "Michel, bevor wir loslegen, stell dich doch bitte kurz vor."
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "transkription"
+   ],
+   "note": "Beleg ok; 'Michelle' ist Annahme, quote_clean zurück auf 'Michel'.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Michel Reimon hat seinen französisch klingenden Vornamen, weil seine Mutter ein Fan eines Songs war.",
+   "question": "Woher hat der Burgenländer Michel Reimon seinen französisch klingenden Vornamen?",
+   "answer": "Seine Mutter mochte einen Song",
+   "distractors": [
+    "Sein Vater ist Franzose",
+    "Er wurde in Paris geboren",
+    "Ein Taufpate hieß so"
+   ],
+   "aha": "Klingt nach Paris, kommt aber aus dem Burgenland. In Brüssel reden ihn deshalb ständig alle auf Französisch an, was bei ihm laut eigener Aussage recht begrenzt ist.",
+   "quote_clean": "Ja, mein Name ist Michel Reimon, klingt wahnsinnig französisch, ist aber trotzdem burgenländisch. Meine Mutter war ein großer Fan des Songs „Michel“."
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok, Aussage als Reimons Einschätzung gerahmt.",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Michel Reimon sieht die Abschaffung der Roaming-Gebühren als letzten großen Schritt im psychologischen Zusammenwachsen Europas.",
+   "question": "Welche EU-Maßnahme nannte Michel Reimon den letzten großen fehlenden Schritt im psychologischen Zusammenwachsen Europas?",
+   "answer": "Die Abschaffung der Roaming-Gebühren",
+   "distractors": [
+    "Die Einführung des Euro",
+    "Der Wegfall der Grenzkontrollen",
+    "Das Erasmus-Programm"
+   ],
+   "aha": "Grenzen offen, Euro in der Tasche, aber im Nachbarland traute sich niemand ohne WLAN auf Facebook. Für Reimon war das Ende des Roamings deshalb mehr als eine Spar-Frage: Es geht darum, sich überall in Europa daheim zu fühlen.",
+   "quote_clean": "Man mag das vielleicht für nicht wichtig halten, aber für mich war das im psychologischen Zusammenwachsen Europas der letzte ganz große fehlende Schritt."
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok, Initiativrecht der Kommission stimmt.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "In der EU legt immer die Europäische Kommission den ersten Gesetzesentwurf vor.",
+   "question": "Wer schreibt in der EU den ersten Entwurf für ein neues Gesetz?",
+   "answer": "Die EU-Kommission",
+   "distractors": [
+    "Das EU-Parlament",
+    "Der Europäische Gerichtshof",
+    "Die nationalen Parlamente"
+   ],
+   "aha": "Das Parlament wünscht sich zwar Dinge, aber den Text schreibt die Kommission, im Roaming-Fall der für Telekom zuständige Kommissar Oettinger. Danach verhandeln Parlament und Regierungen, wie sie diesen Grundentwurf umbauen.",
+   "quote_clean": "Den ersten Entwurf für solche Gesetze macht immer die Kommission."
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Ernennung braucht noch Bestätigung durch das Parlament; Frage auf Nominierung präzisiert.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Jede nationale Regierung schickt eine Kommissarin oder einen Kommissar nach Brüssel; sie sind keine gewählten Regierungsmitglieder.",
+   "question": "Wie kommen Mitglieder der EU-Kommission laut Michel Reimon zu ihrem Posten?",
+   "answer": "Jede Regierung schickt jemanden nach Brüssel",
+   "distractors": [
+    "Sie werden direkt von den Bürger:innen gewählt",
+    "Das Parlament wählt sie aus seinen Reihen",
+    "Sie werden per Los bestimmt"
+   ],
+   "aha": "Reimons Vergleich: Stell dir vor, nach der Nationalratswahl schickt jedes Bundesland einen Minister nach Wien. Die Kommissar:innen teilen sich Ressorts wie eine Regierung, gewählte Regierungsmitglieder sind sie aber nicht.",
+   "quote_clean": "Das ist ein bisschen so, wie wenn wir in Österreich eine Nationalratswahl hätten und dann schickt jede Landesregierung einen Minister nach Wien."
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok, 751 stimmt für 2019.",
+   "stand_note": "Stand 2019",
+   "quality": 3,
+   "statement": "Das EU-Parlament hatte 2019 vor dem Brexit 751 Abgeordnete.",
+   "question": "Wie viele Abgeordnete hatte das EU-Parlament 2019, vor dem Brexit?",
+   "answer": "751",
+   "distractors": [
+    "598",
+    "862",
+    "433"
+   ],
+   "aha": "751 Leute, die sich einigen müssen, und dann braucht es auch noch eine Mehrheit der Regierungen. Seit dem Brexit ist die Zahl etwas kleiner, aber es bleibt eines der größten Parlamente der Welt.",
+   "quote_clean": "751 Abgeordnete müssen sich auf etwas einigen. Und eine Mehrheit der Regierungen."
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg ok; Detail '55 Grüne/50 Stimmen' im Ausschnitt nicht belegt, entfernt.",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Im EU-Parlament gibt es keinen Klubzwang, jede:r Abgeordnete stimmt frei ab.",
+   "question": "Was gilt im EU-Parlament beim Abstimmen für die Abgeordneten einer Fraktion?",
+   "answer": "Sie stimmen frei ab, ohne Klubzwang",
+   "distractors": [
+    "Sie müssen geschlossen abstimmen",
+    "Nur die Fraktionschefs stimmen ab",
+    "Die Regierungen geben die Linie vor"
+   ],
+   "aha": "Fraktionen können im EU-Parlament nicht fix zusagen, dass alle mitstimmen. Reimon konnte als Verhandler der Grünen nur sagen, wie viele Stimmen er ungefähr zusammenbringt.",
+   "quote_clean": "Man muss wissen, es gibt dort keinen Zwang, dass sich die Parteien aneinander halten. Jeder Abgeordnete darf abstimmen, wie er möchte."
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Die oder der hauptzuständige Abgeordnete für ein Gesetz im EU-Parlament heißt Berichterstatter:in.",
+   "question": "Wie heißt im EU-Parlament die Person, die für ein Gesetz hauptzuständig ist?",
+   "answer": "Berichterstatter",
+   "distractors": [
+    "Generalsekretär",
+    "Rapportchef",
+    "Ausschussvogt"
+   ],
+   "aha": "Beim Urheberrecht und Artikel 13 war das zum Beispiel der Deutsche Axel Voss. Die anderen Fraktionen schicken Schattenberichterstatter, die mit ihm eine mehrheitsfähige Lösung suchen.",
+   "quote_clean": "Einer ist im Parlament der Hauptzuständige, den nennt man den Berichterstatter."
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok, rechnerisch korrekt für 751 Abgeordnete.",
+   "stand_note": "Stand 2019",
+   "quality": 2,
+   "statement": "Für eine absolute Mehrheit im EU-Parlament mit 751 Abgeordneten brauchte es 376 Stimmen.",
+   "question": "Wie viele Stimmen brauchte man 2019 im EU-Parlament für eine absolute Mehrheit?",
+   "answer": "376",
+   "distractors": [
+    "251",
+    "412",
+    "501"
+   ],
+   "aha": "Die Hälfte von 751 plus ein bisschen. Weil es keinen Klubzwang gibt, musst du diese Stimmen aus Konservativen, Sozialdemokraten, Grünen und Co. mühsam zusammensammeln.",
+   "quote_clean": "Und aus dieser ganzen Gemengelage musst du irgendwie eine Mehrheit von 376 Stimmen zusammenbringen."
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Beleg ok; Aha als Sicht der Grünen formuliert.",
+   "stand_note": "",
+   "quality": 2,
+   "statement": "Die entscheidende Roaming-Verhandlung dauerte bis drei Uhr früh.",
+   "question": "Bis wann dauerte die entscheidende Nacht der Roaming-Verhandlungen?",
+   "answer": "Bis drei Uhr in der Früh",
+   "distractors": [
+    "Bis Mitternacht",
+    "Bis sechs Uhr in der Früh",
+    "Bis zum nächsten Mittag"
+   ],
+   "aha": "Um drei Uhr morgens stand die Mehrheit. Die Grünen waren da laut Reimon schon ausgestiegen, weil im Gegenzug die Netzneutralität geopfert wurde. Für die Abschaffung des Roamings haben sie trotzdem gestimmt.",
+   "quote_clean": "Das waren Verhandlungen bis drei in der Früh. Um drei Uhr morgens gab es dann eine Mehrheit, sowohl bei den Regierungen als auch im Parlament."
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Distraktor 'in der EU verboten' ist heute teils zutreffend, ersetzt.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Wenn Streaming-Daten eines Partners nicht aufs Datenvolumen angerechnet werden, haben kleinere Anbieter kaum noch eine Chance – das untergräbt die Netzneutralität.",
+   "question": "Warum sind Tarife, bei denen ein bestimmter Streamingdienst nicht aufs Datenvolumen zählt, laut Michel Reimon problematisch?",
+   "answer": "Sie benachteiligen kleinere Anbieter",
+   "distractors": [
+    "Sie verlangsamen das ganze Netz",
+    "Sie sind für Kunden zu kompliziert",
+    "Sie verteuern alle anderen Tarife"
+   ],
+   "aha": "Für dich als Kundin klingt Gratis-Streaming super. Aber wenn Telekom-Konzern und Streamingdienst sich zusammentun, ist das Netz nicht mehr neutral, und wer mit einem eigenen Blog oder Dienst startet, hat das Nachsehen.",
+   "quote_clean": "Das bedeutet aber, in dem Moment können sich ein Telekom-Konzern und ein Musik- oder Streaming-Konzern zusammenschließen, und gegen die hat keiner mehr eine Chance."
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Die EU-Ratspräsidentschaft wechselt alle sechs Monate.",
+   "question": "Alle wie viele Monate wechselt die EU-Ratspräsidentschaft?",
+   "answer": "6",
+   "distractors": [
+    "3",
+    "12",
+    "24"
+   ],
+   "aha": "Jedes halbe Jahr ist ein anderes Land dran und spricht in den Verhandlungen für alle Regierungen. Österreich hatte den Vorsitz zuletzt im zweiten Halbjahr 2018.",
+   "quote_clean": "Auf Seiten der Regierungen ist die jeweilige Ratspräsidentschaft. Da war ja Österreich vor kurzem dran. Jedes halbe Jahr gibt es eine andere Ratspräsidentschaft."
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok.",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Das EU-Parlament gilt als Arbeitsparlament, der österreichische Nationalrat als Bühnenparlament.",
+   "question": "Als was wird das EU-Parlament im Gegensatz zum Nationalrat oft bezeichnet?",
+   "answer": "Als Arbeitsparlament",
+   "distractors": [
+    "Als Bühnenparlament",
+    "Als Redeparlament",
+    "Als Schattenparlament"
+   ],
+   "aha": "Im Nationalrat wird im Plenum auf der Bühne präsentiert, was vorher ausgemacht wurde. Im EU-Parlament passiert die Arbeit in den Sitzungsräumen dahinter, darum hält dort manchmal jemand eine Rede vor leeren Sitzen.",
+   "quote_clean": "Man sagt immer, das Europaparlament ist ein Arbeitsparlament. Der Sitzungsraum ist ein Arbeitsraum, und der Nationalrat ist ein Bühnenparlament."
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok, Zitatfrage eher schwach.",
+   "stand_note": "",
+   "quality": 2,
+   "statement": "Michel Reimon hält die EU für das spannendste politische Projekt der Welt, weil sich frühere Kriegsgegner zusammengeschlossen haben.",
+   "question": "Wer nannte die EU im Podcast das spannendste und tollste politische Projekt, das es weltweit gibt?",
+   "answer": "Michel Reimon",
+   "distractors": [
+    "Andreas Sator",
+    "Claudia Gamon",
+    "Julia Reda"
+   ],
+   "aha": "Er gibt zu, dass er das Blabla vom tollsten Projekt selbst fast nicht mehr hören kann. Aber nach fünf Jahren in Brüssel findet er: Es stimmt halt leider.",
+   "quote_clean": "Es ist wirklich das spannendste und tollste politische Projekt, das es weltweit derzeit gibt, dass sich Staaten, die jahrhundertelang Krieg geführt haben, so zusammenschließen und aufeinander abstimmen."
+  }
+ ],
+ "id": "59",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

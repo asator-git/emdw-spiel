@@ -1,0 +1,285 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "transkription"
+   ],
+   "note": "Drei Millionen plus belegt; die früheren Schätzungen sind im Transkript verstümmelt, Aha entsprechend vorsichtiger.",
+   "stand_note": "",
+   "statement": "Beim Holodomor, der Hungersnot Anfang der 1930er-Jahre, starben in den ukrainischen Gebieten nach seriösen Schätzungen mehr als drei Millionen Menschen.",
+   "question": "Wie viele Millionen Menschen starben laut heutiger Forschung beim Holodomor in den ukrainischen Gebieten mindestens?",
+   "answer": "Rund 3 Millionen",
+   "distractors": [
+    "Rund 300.000",
+    "Rund 25 Millionen",
+    "Rund 800.000"
+   ],
+   "aha": "Früher kursierten deutlich höhere Zahlen im zweistelligen Millionenbereich, heute geht die Forschung laut Kerstin Jobst seriös von drei Millionen plus aus. Und betroffen waren nicht nur Ukrainer:innen, sondern auch Deutsche, Polen und andere, die dort lebten.",
+   "quote_clean": "Völkerschaften sich zusammensetzten, unter anderem auch Deutsche, Polen etc., geht man seriös von drei Millionen plus aus.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Zahl stammt von Andreas aus der Recherche, wird von Jobst nicht bestätigt; Schätzungen schwanken stark.",
+   "stand_note": "",
+   "statement": "Auf dem Gebiet der heutigen Ukraine starben im Zweiten Weltkrieg rund acht Millionen Menschen.",
+   "question": "Wie viele Menschen starben im Zweiten Weltkrieg auf dem Gebiet der heutigen Ukraine?",
+   "answer": "Rund 8 Millionen",
+   "distractors": [
+    "Rund 800.000",
+    "Rund 2 Millionen",
+    "Rund 20 Millionen"
+   ],
+   "aha": "Die Ukraine lag mitten in dem, was der Historiker Timothy Snyder die Bloodlands nennt: Hier wüteten Wehrmacht, SS und Stalins Regime gleichzeitig. Andreas war bei der Recherche selbst fassungslos.",
+   "quote_clean": "Als ich mir bei der Recherche die Zahlen angeschaut habe, war ich ganz fassungslos: 8 Millionen tote Menschen in der Ukraine im Zweiten Weltkrieg.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Zahlen und Vergleichswerte (Deutsches Reich, Österreich) stammen von Andreas, sind ungeprüft und der Vergleich ist fragwürdig.",
+   "stand_note": "",
+   "statement": "Auf dem Gebiet der Ukraine wurden im Holocaust rund 1,6 Millionen Jüdinnen und Juden ermordet, im Deutschen Reich etwa eine halbe Million.",
+   "question": "Wie viele Jüdinnen und Juden wurden im Holocaust auf dem Gebiet der Ukraine ermordet?",
+   "answer": "Rund 1,6 Millionen",
+   "distractors": [
+    "Rund 160.000",
+    "Rund 500.000",
+    "Rund 4 Millionen"
+   ],
+   "aha": "Das ist mehr als dreimal so viel wie im Deutschen Reich und rund achtmal so viel wie in Österreich. In Städten wie Lemberg, Vilnius oder Brody hatte es große jüdische Gemeinden gegeben.",
+   "quote_clean": "Und auch die unfassbare Zahl: 1,6 Millionen Juden ermordet in der Ukraine, und zum Vergleich im Deutschen Reich eine halbe Million.",
+   "quality": 1
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Bedeutung 'am Rande' belegt; Aha verwechselte Jobsts Empfehlung (Ukraina statt 'die Ukraine').",
+   "stand_note": "",
+   "statement": "Der Name Ukraine bedeutet „am Rande“ bzw. Grenzland.",
+   "question": "Was bedeutet der Name „Ukraine“ wörtlich?",
+   "answer": "Am Rande",
+   "distractors": [
+    "Land der Kosaken",
+    "Weites Feld",
+    "Schwarze Erde"
+   ],
+   "aha": "Die Ukraine lag am Rand der Steppe und am Rand großer Reiche, von Polen-Litauen über das Zarenreich bis zu den Habsburgern. Kerstin Jobst sagt deshalb lieber „Ukraina“ statt „die Ukraine“, denn das heißt einfach „am Rande“.",
+   "quote_clean": "Ukraina heißt ja „am Rande“. Deshalb ist es eigentlich auch immer besser, wenn man im deutschsprachigen Raum nicht „die Ukraine“ sagt, sondern „Ukraina“, und das heißt einfach „am Rande“.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar.",
+   "stand_note": "",
+   "statement": "Der Name Ukraine funktioniert ähnlich wie Mark Brandenburg oder Steiermark: Er bezeichnet ein Grenzgebiet am Rand eines Herrschaftsraums.",
+   "question": "Mit welchem österreichischen Bundesland vergleicht Kerstin Jobst die Bedeutung des Namens Ukraine?",
+   "answer": "Steiermark",
+   "distractors": [
+    "Tirol",
+    "Kärnten",
+    "Burgenland"
+   ],
+   "aha": "Eine Mark war im Mittelalter ein Grenzgebiet, und genau das steckt auch in der Steiermark. Der Vorteil so einer Randlage: Der Zar ist weit, und die Leute vor Ort können sich oft ganz anders arrangieren.",
+   "quote_clean": "Ukraina heißt im Grunde so etwas wie die Mark Brandenburg, oder wir haben ja auch die Steiermark, also ein Gebiet am Rande.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Etymologie stimmt (holod = Hunger, mor = Seuche/Tod), Transkript verhört, aber eindeutig.",
+   "stand_note": "",
+   "statement": "Das Wort Holodomor setzt sich aus „holod“ (Hunger) und „mor“ (Seuche, Massensterben) zusammen.",
+   "question": "Was steckt im Wort „Holodomor“?",
+   "answer": "Hunger und Seuche",
+   "distractors": [
+    "Hunger und Kälte",
+    "Bauer und Tod",
+    "Getreide und Raub"
+   ],
+   "aha": "Holodomor meint die gewaltige Hungersnot Anfang der 1930er-Jahre in der Sowjetunion. Vor dem jetzigen Krieg war sie laut Kerstin Jobst die stärkste gemeinsame Erinnerung der Ukrainer:innen.",
+   "quote_clean": "Ungefähr: Holod heißt Hunger, und Mor heißt eben Seuche.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Kasachen relativ am meisten Opfer belegt; absolute Zahlen nicht im Ausschnitt, daher gestrichen.",
+   "stand_note": "",
+   "statement": "Gemessen an der Bevölkerung hatten bei den sowjetischen Hungersnöten der frühen 1930er-Jahre die Kasach:innen die meisten Opfer.",
+   "question": "Welche Bevölkerungsgruppe hatte bei den sowjetischen Hungersnöten der 1930er-Jahre im Verhältnis die meisten Opfer?",
+   "answer": "Die Kasach:innen",
+   "distractors": [
+    "Die Ukrainer:innen",
+    "Die Georgier:innen",
+    "Die Belaruss:innen"
+   ],
+   "aha": "Die nomadischen Kasach:innen wurden zwangsweise sesshaft gemacht und konnten nicht mehr mit ihrem Vieh durch die Steppe ziehen. Gemessen an der Bevölkerung traf es sie laut Kerstin Jobst am härtesten.",
+   "quote_clean": "Zum Beispiel die Kasachen, die in der Zeit zwangssesshaft gemacht worden sind und nicht mehr wie früher mit ihrem Vieh durch die Steppen ziehen konnten, haben relativ am meisten Opfer gelassen.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Hauptursache belegt; Aha zu Stalin steht nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Hauptursache der sowjetischen Hungersnot Anfang der 1930er-Jahre war die erzwungene Kollektivierung der Landwirtschaft.",
+   "question": "Was war laut Forschung der Hauptgrund für die Hungersnot in der Sowjetunion Anfang der 1930er-Jahre?",
+   "answer": "Die Zwangskollektivierung",
+   "distractors": [
+    "Eine jahrelange Dürre",
+    "Eine Heuschreckenplage",
+    "Die Wirtschaftsblockade des Westens"
+   ],
+   "aha": "In den 1920ern gab es Lockerungen, Bauern durften zum Teil auf eigene Kappe wirtschaften. Dann wurde die Kollektivierung der Landwirtschaft verstärkt, und laut Forschung war sie der Hauptgrund für die Hungersnot.",
+   "quote_clean": "Der Grund für diese Hungersnot, da ist sich die Forschung eigentlich relativ einig, war die verstärkte Kollektivierung.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Als historische Einordnung belegt.",
+   "stand_note": "",
+   "statement": "Im sowjetischen und postsowjetischen Raum steht „Faschisten“ als eingespielte Chiffre für die Nazis und den Todfeind, darum greift die russische Propaganda auf dieses Wort zurück.",
+   "question": "Warum spricht die russische Propaganda von „Faschisten“ in der Ukraine?",
+   "answer": "Das Wort ist eine eingespielte Feind-Chiffre",
+   "distractors": [
+    "Es ist ein juristischer Fachbegriff",
+    "Es stammt aus der ukrainischen Verfassung",
+    "Es bezeichnet nur italienische Bewegungen"
+   ],
+   "aha": "Im Westen unterscheidet die Forschung sauber zwischen Faschismus à la Mussolini und Nationalsozialismus. In der Sowjetunion hieß der Feind im Großen Vaterländischen Krieg einfach Faschist, und jede:r weiß bis heute, was gemeint ist.",
+   "quote_clean": "Kontext eine gut eingespielte Denkfigur ist: Jeder Sowjetbürger, egal welcher Nationalität und welcher Sprache, weiß: Die Faschisten, das sind unsere Feinde.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Jobsts These belegt; Aha-Details zu Lemberg/Odessa nicht im Ausschnitt.",
+   "stand_note": "Stand 2023",
+   "statement": "Mit seinem Krieg hat Putin genau das vollendet, was er verhindern wollte: die Festigung des ukrainischen Nationalbewusstseins.",
+   "question": "Was hat Putin laut Kerstin Jobst mit seinem Krieg ungewollt vollendet?",
+   "answer": "Das ukrainische Nationalbewusstsein",
+   "distractors": [
+    "Die Spaltung der Ukraine",
+    "Die Rückkehr zur Sowjetunion",
+    "Den Zerfall der NATO"
+   ],
+   "aha": "Laut Kerstin Jobst ist die Nationsbildung in der Ukraine vergleichsweise jung. Putin hat mit seinen Bomben ausgerechnet das gefestigt, was er verhindern wollte: ein gemeinsames ukrainisches Nationalbewusstsein.",
+   "quote_clean": "Hat Putin das, was er eigentlich verhindern wollte, nämlich so etwas wie eine Konsolidierung des ukrainischen Nationalbewusstseins, mit seinen Bomben, mit seinem Krieg gegen die Ukraine eigentlich vollendet.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar.",
+   "stand_note": "",
+   "statement": "Nationalgefühl ist historisch eine junge Erscheinung; früher definierten sich Menschen über Region, Stamm, Großreich oder Religion.",
+   "question": "Worüber definierten sich Menschen laut Kerstin Jobst vor dem 19. Jahrhundert vor allem?",
+   "answer": "Über Region, Reich und Religion",
+   "distractors": [
+    "Über ihre Muttersprache",
+    "Über ihre Nation",
+    "Über ihre Hautfarbe"
+   ],
+   "aha": "Nationen haben sich erst im 18. und 19. Jahrhundert langsam herausgebildet. Auch die Russen dachten im 17. Jahrhundert noch nicht in nationalen Kategorien, die Ukraine ist da also gar nicht so speziell.",
+   "quote_clean": "Dass die Konstruktion einer Nation, eines nationalen Gefühls, historisch insgesamt eine sehr junge Erscheinung ist. Menschen haben sich zu anderen Zeiten durch andere Gruppenbildung definiert.",
+   "quality": 2
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt trivial; als Lückenfrage umgebaut.",
+   "stand_note": "",
+   "statement": "Kerstin Jobst warnt davor, vom Westen aus Heldentum von Russ:innen zu fordern, die in einer Diktatur ihre Familien ernähren müssen.",
+   "question": "Von wo aus ist es laut Kerstin Jobst „immer einfach“, Heldentum zu fordern?",
+   "answer": "Von der Couch aus",
+   "distractors": [
+    "Vom Schreibtisch aus",
+    "Von der Tribüne aus",
+    "Aus dem Exil"
+   ],
+   "aha": "Die Frage, warum sich die Russ:innen nicht endlich auflehnen, hört sie oft. Ihre Antwort: Wer in einem Klima der Repression groß geworden ist, wägt sehr genau ab, und das kennen wir auch aus anderen Diktaturen.",
+   "quote_clean": "Ich weiß nicht, ob ich es machen würde, wenn ich eine Familie zu ernähren habe, eine kranke Mutter und so weiter. Heldentum zu fordern ist immer einfach, aber bitte: von der Couch aus.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Selbstbezeichnung belegt; Aha-Schlusssatz über Fernseh-Spezialist:innen im Ausschnitt abgeschnitten.",
+   "stand_note": "",
+   "statement": "Kerstin Jobst nennt sich selbst scherzhaft den „Ukraine-Erklärbär“, weil sie seit dem Krieg plötzlich sehr gefragt ist.",
+   "question": "Wie nennt sich Kerstin Jobst gegenüber Freund:innen scherzhaft?",
+   "answer": "Ukraine-Erklärbär",
+   "distractors": [
+    "Osteuropa-Orakel",
+    "Kiew-Kompass",
+    "Steppen-Professorin"
+   ],
+   "aha": "Jahrelang hat Kerstin Jobst gegen die Unwissenheit über die Ukraine angeschrieben, und erst der Krieg machte sie so gefragt. Eine ziemlich perverse Situation, wie sie selbst sagt.",
+   "quote_clean": "Ich nenne mich auch gerne Freunden und Freundinnen gegenüber: Ich bin momentan der Ukraine-Erklärbär.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Format-Trivia; Antwortinhalt im Aha nicht im Ausschnitt belegt.",
+   "stand_note": "",
+   "statement": "Zum Abschluss stellt Andreas der Historikerin die Frage, die man Historiker:innen eigentlich nicht stellen darf: Wie geht es weiter?",
+   "question": "Welche Frage stellt Andreas der Historikerin zum Schluss, obwohl man sie ihr „eigentlich nicht stellen darf“?",
+   "answer": "Wie geht's denn weiter?",
+   "distractors": [
+    "Wer ist schuld am Krieg?",
+    "Was war früher besser?",
+    "Welches Reich war das beste?"
+   ],
+   "aha": "Historiker:innen schauen zurück, nicht nach vorn, das weiß Andreas natürlich. Kerstin Jobst antwortete trotzdem, aber düster: Sie sieht weder ein schnelles Ende noch eine militärische Lösung.",
+   "quote_clean": "Jetzt stelle ich dir zum Abschluss eine Frage, die man einer Historikerin eigentlich nicht stellen darf: Wie geht's denn weiter?",
+   "quality": 1
+  }
+ ],
+ "id": "241",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

@@ -1,0 +1,734 @@
+{
+ "theme": "Wirtschaft & Arbeit",
+ "summary": "Warum Bildung Menschen und ganze Länder reicher macht, was Luther damit zu tun hat und wie eine gute Schulreform aussähe.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 2508,
+   "speaker": "Ludger Wößmann",
+   "quote": "jedes zusätzliche Bildungsjahr bringt im Durchschnitt hängt von jedem Land ein bisschen anders aber so P mal Daumen um die 10 % oder knapp 10% höhere Einkommen",
+   "quote_clean": "Jedes zusätzliche Bildungsjahr bringt im Durchschnitt, je nach Land ein bisschen anders, aber so Pi mal Daumen um die 10 % oder knapp 10 % höhere Einkommen.",
+   "statement": "Jedes zusätzliche Bildungsjahr bringt im Durchschnitt rund 10 Prozent höheres Einkommen.",
+   "question": "Um wie viel Prozent steigt das Einkommen im Schnitt pro zusätzlichem Bildungsjahr?",
+   "answer": "Um knapp 10 Prozent",
+   "distractors": [
+    "Um etwa 2 Prozent",
+    "Um etwa 25 Prozent",
+    "Um etwa 40 Prozent"
+   ],
+   "number_value": 10,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 35,
+   "log_scale": false,
+   "aha": "Ein fünfjähriges Studium bringt damit grob 50 Prozent mehr Einkommen. Das ist eine Rendite, bei der die meisten Aktienfonds blass werden.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bildungsrendite",
+    "Einkommen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2385,
+   "speaker": "Ludger Wößmann",
+   "quote": "Menschen mit einer Fachhochschulausbildung verdienen 270.000 € Lebenseinkommen mehr als mit einer Lehre und mit einer Uni sogar 390.000",
+   "quote_clean": "Menschen mit einer Fachhochschulausbildung verdienen 270.000 € Lebenseinkommen mehr als mit einer Lehre, und mit einer Uni sogar 390.000.",
+   "statement": "In Deutschland verdienen Menschen mit Uni-Abschluss im Schnitt rund 390.000 Euro netto mehr Lebenseinkommen als Menschen mit Lehre.",
+   "question": "Wie viel mehr Lebenseinkommen haben Uni-Absolvent:innen in Deutschland im Schnitt als Menschen mit Lehre?",
+   "answer": "Rund 390.000 Euro",
+   "distractors": [
+    "Rund 90.000 Euro",
+    "Rund 1,2 Millionen Euro",
+    "Rund 40.000 Euro"
+   ],
+   "number_value": 390000,
+   "number_unit": "Euro",
+   "slider_min": 10000,
+   "slider_max": 2000000,
+   "log_scale": true,
+   "aha": "Da sind die Jahre ohne Gehalt während des Studiums schon eingerechnet, und die Werte sind netto und abdiskontiert. Laut Wößmann schaut das in Österreich ganz ähnlich aus.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Lebenseinkommen",
+    "Studium"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 588,
+   "speaker": "Ludger Wößmann",
+   "quote": "die Schätzung zu der Zeit war dass etwa 1% der Bevölkerung lesen und schreiben konnte das war wirklich eine Welt wo das ganz große Ausnahme war",
+   "quote_clean": "Die Schätzung zu der Zeit war, dass etwa 1 % der Bevölkerung lesen und schreiben konnte. Das war wirklich eine Welt, wo das die ganz große Ausnahme war.",
+   "statement": "Zur Zeit Martin Luthers konnte schätzungsweise nur etwa 1 Prozent der Bevölkerung lesen und schreiben.",
+   "question": "Wie viel Prozent der Bevölkerung konnten zur Zeit Luthers lesen und schreiben?",
+   "answer": "Etwa 1 Prozent",
+   "distractors": [
+    "Etwa 10 Prozent",
+    "Etwa 25 Prozent",
+    "Etwa 40 Prozent"
+   ],
+   "number_value": 1,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 50,
+   "log_scale": false,
+   "aha": "Die meisten Menschen waren einfache Bauern, Lesen war ein Luxus für ganz wenige. Erst Luthers Idee, dass jeder die Bibel selbst lesen soll, hat das langsam geändert.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Geschichte",
+    "Alphabetisierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 174,
+   "speaker": "Ludger Wößmann",
+   "quote": "dass er alle Fürsten im deutschen Landen dazu aufgefordert hat doch Schulen zu bauen und zwar nicht nur Schulen für Jungs sondern auch für Mädchen",
+   "quote_clean": "Dass er alle Fürsten in deutschen Landen dazu aufgefordert hat, doch Schulen zu bauen, und zwar nicht nur Schulen für Jungs, sondern auch für Mädchen.",
+   "statement": "Martin Luther forderte die deutschen Fürsten auf, Schulen zu bauen – ausdrücklich auch für Mädchen.",
+   "question": "Wofür hat Martin Luther die deutschen Fürsten in Predigten aufgefordert?",
+   "answer": "Schulen auch für Mädchen zu bauen",
+   "distractors": [
+    "Universitäten nur für Theologen zu gründen",
+    "Bücher in Latein drucken zu lassen",
+    "Kinder ab zehn arbeiten zu lassen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer die Bibel selbst lesen soll, muss erst einmal lesen können. Deshalb hat Luther mit der Druckerpresse Predigten verbreitet, in denen er Eltern sogar ins Gewissen geredet hat, ihre Kinder nicht von der Schule fernzuhalten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Luther",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 540,
+   "speaker": "Ludger Wößmann",
+   "quote": "wenn man dann sich das empirisch anschaut ist dieser Unterschied so groß dass er den gesamten Unterschied in dem wirtschaftlichen Erfolg zwischen protestantischen und katholischen Gegenden zu der Zeit erklären kann",
+   "quote_clean": "Wenn man sich das empirisch anschaut, ist dieser Unterschied so groß, dass er den gesamten Unterschied im wirtschaftlichen Erfolg zwischen protestantischen und katholischen Gegenden zu der Zeit erklären kann.",
+   "statement": "Der Bildungsvorsprung protestantischer Gegenden in Preußen erklärt ihren wirtschaftlichen Vorsprung vollständig – ohne Max Webers Arbeitsethik.",
+   "question": "Was erklärt laut Daten aus Preußen, warum protestantische Gegenden reicher waren als katholische?",
+   "answer": "Ihre bessere Bildung",
+   "distractors": [
+    "Ihre strengere Arbeitsethik",
+    "Ihre höhere Sparquote",
+    "Ihre besseren Gesetze"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Max Weber meinte, Protestanten seien fleißiger und sparsamer. Wößmann hat Daten aus 450 preußischen Landkreisen digitalisiert: Rechnet man die Bildung heraus, bleibt für die Arbeitsethik nichts mehr zu erklären übrig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Max Weber",
+    "Protestantismus"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 356,
+   "speaker": "Ludger Wößmann",
+   "quote": "das ist halt genau wie wenn Firma sich entscheidet in eine Maschine oder eine Fabrik zu investieren hat das zunächst große Kosten und die Hoffnung ist man wird später produktiver und holt das dann irgwann wieder rein",
+   "quote_clean": "Das ist genau wie wenn eine Firma sich entscheidet, in eine Maschine oder eine Fabrik zu investieren: Das hat zunächst große Kosten, und die Hoffnung ist, man wird später produktiver und holt das dann irgendwann wieder rein.",
+   "statement": "Ökonomisch betrachtet ist Bildung eine Investition wie eine Maschine: erst Kosten, später höhere Produktivität und Erträge.",
+   "question": "Womit vergleicht Bildungsökonom Ludger Wößmann eine Ausbildung?",
+   "answer": "Mit einer Investition in eine Maschine",
+   "distractors": [
+    "Mit einer Versicherung gegen Arbeitslosigkeit",
+    "Mit einem Lottoschein",
+    "Mit einer Steuer auf die Jugend"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der größte Kostenpunkt sind dabei nicht Schulgeld oder Bücher, sondern die Opportunitätskosten: das Gehalt, das du in der Zeit nicht verdienst. Der Lieblingsbegriff aller Ökonom:innen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Investition",
+    "Opportunitätskosten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1012,
+   "speaker": "Ludger Wößmann",
+   "quote": "die hatten eben solche Wachstumsraten wir sinden es jetzt hier sozusagen langfristig von 6 7 % das heißt de facto dass die Menschen dort heute mehr als neunm so reich sind so wohlhabend sind wie ihre Großeltern vor zwei Generationen",
+   "quote_clean": "Die hatten langfristig Wachstumsraten von 6, 7 %. Das heißt de facto, dass die Menschen dort heute mehr als neunmal so reich, so wohlhabend sind wie ihre Großeltern vor zwei Generationen.",
+   "statement": "Dank Wachstumsraten von 6 bis 7 Prozent sind Menschen in Singapur, Taiwan und Korea heute mehr als neunmal so wohlhabend wie ihre Großeltern.",
+   "question": "Wie viel Mal so reich wie ihre Großeltern sind die Menschen in Singapur, Taiwan und Südkorea heute?",
+   "answer": "Mehr als neunmal so reich",
+   "distractors": [
+    "Etwa doppelt so reich",
+    "Etwa viermal so reich",
+    "Etwa 30-mal so reich"
+   ],
+   "number_value": 9,
+   "number_unit": "-mal",
+   "slider_min": 1,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Zwei Generationen zurück waren das arme Reisbauern-Länder, heute ähneln sie Westeuropa. Ein paar Prozent Wachstum mehr klingen nach wenig, aber über Jahrzehnte addiert sich das gewaltig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wachstum",
+    "Ostasien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1066,
+   "speaker": "Ludger Wößmann",
+   "quote": "jetzt diesen Zusammenhang bildungsjahre und Wirtschaftswachstum anschauen dann können wir damit eigentlich nur etwa ein Viertel dieser Unterschiede in den langfristigen Wachstumsraten erklären",
+   "quote_clean": "Wenn wir uns jetzt diesen Zusammenhang Bildungsjahre und Wirtschaftswachstum anschauen, dann können wir damit eigentlich nur etwa ein Viertel dieser Unterschiede in den langfristigen Wachstumsraten erklären.",
+   "statement": "Die bloße Zahl der Schuljahre erklärt nur etwa ein Viertel der Unterschiede im langfristigen Wirtschaftswachstum von Ländern.",
+   "question": "Welchen Anteil der Wachstumsunterschiede zwischen Ländern erklärt die durchschnittliche Zahl der Schuljahre?",
+   "answer": "Etwa ein Viertel",
+   "distractors": [
+    "Fast nichts",
+    "Etwa die Hälfte",
+    "Fast alles"
+   ],
+   "number_value": 25,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Peru und Thailand haben gleich viele Schuljahre, aber Thailand wuchs fünfmal so schnell. Entscheidend ist eben, was in einem Schuljahr wirklich gelernt wird.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wachstum",
+    "Schuljahre"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1224,
+   "speaker": "Ludger Wößmann",
+   "quote": "dass wir den Großteil der Unterschiede eigentlich erklären oder mit so einem ganz Modell erklären wir über dreiviertel der Unterschiede in den langfristigen Wachstumsraten",
+   "quote_clean": "Dass wir den Großteil der Unterschiede eigentlich erklären: Mit so einem ganz einfachen Modell erklären wir über drei Viertel der Unterschiede in den langfristigen Wachstumsraten.",
+   "statement": "Misst man Bildung über Testleistungen in Mathe und Naturwissenschaften statt über Schuljahre, erklärt sie über drei Viertel der Wachstumsunterschiede zwischen Ländern.",
+   "question": "Wie viel der langfristigen Wachstumsunterschiede zwischen Ländern erklären die Mathe- und Naturwissenschaftskompetenzen der Bevölkerung?",
+   "answer": "Über drei Viertel",
+   "distractors": [
+    "Etwa ein Zehntel",
+    "Etwa ein Viertel",
+    "Etwa ein Drittel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wößmann und Kolleg:innen haben Schülertests bis zurück in die 1960er gesammelt. Es gibt kein Land mit schlecht gebildeter Bevölkerung, das langfristig reich geworden ist – das ostasiatische Wirtschaftswunder ist so gesehen gar kein Wunder.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wachstum",
+    "Kompetenzen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1513,
+   "speaker": "Ludger Wößmann",
+   "quote": "wenn das Beste was ich mit meiner Bildung machen kann eigentlich ist möglichst guter Pirat zu sein und anderen Leuten die Sachen wegzunehmen weil es halt keine Eigentumsrechte gibt dann wirkt sich Bildung halt nicht besonders gut auf die",
+   "quote_clean": "Wenn das Beste, was ich mit meiner Bildung machen kann, eigentlich ist, ein möglichst guter Pirat zu sein und anderen Leuten die Sachen wegzunehmen, weil es keine Eigentumsrechte gibt, dann wirkt sich Bildung nicht besonders gut auf die Wirtschaft aus.",
+   "statement": "Neben Bildung erklären nur sichere Eigentumsrechte zusätzlich, warum Länder reich werden – und sie verstärken die Wirkung von Bildung.",
+   "question": "Welcher Faktor bleibt neben Bildung als einziger robust wichtig für den Wohlstand von Ländern?",
+   "answer": "Sichere Eigentumsrechte",
+   "distractors": [
+    "Die Nähe zu den Tropen",
+    "Die Größe des Landes",
+    "Bodenschätze"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Dutzende Faktoren wurden getestet, auch Geografie und Klima, fast alle verschwinden, sobald man Bildung berücksichtigt. Nur die Institutionen bleiben: Wo dir dein Erfolg nicht weggeraubt wird, zahlt sich Bildung besonders aus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Institutionen",
+    "Eigentumsrechte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3229,
+   "speaker": "Ludger Wößmann",
+   "quote": "die klassische Literatur hat irendwie eigentlich auch schon gezeigt dass das irgendwie höchstens 10% der Erträge von solchen Zertifikaten sind und über 90% ist wirklich das sozusagen die größeren Kompetenzen",
+   "quote_clean": "Die klassische Literatur hat eigentlich auch schon gezeigt, dass das höchstens 10 % der Erträge von solchen Zertifikaten sind, und über 90 % sind wirklich die größeren Kompetenzen.",
+   "statement": "Höchstens 10 Prozent des Mehrverdienstes durch Abschlüsse gehen auf reine Signalwirkung zurück, über 90 Prozent auf tatsächlich erworbene Kompetenzen.",
+   "question": "Wie viel Prozent des Mehrverdienstes durch Abschlüsse sind höchstens reiner Signaleffekt des Zertifikats?",
+   "answer": "Höchstens 10 Prozent",
+   "distractors": [
+    "Etwa 30 Prozent",
+    "Etwa die Hälfte",
+    "Etwa 80 Prozent"
+   ],
+   "number_value": 10,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Ökonom Bryan Caplan meint, Schule zertifiziere nur, wie klug man eh schon ist. Die Daten sagen etwas anderes: Was du lernst, zählt, nicht nur das Papier. Wößmann nennt das Wissenskapital.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Signaling",
+    "Kompetenzen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 3132,
+   "speaker": "Ludger Wößmann",
+   "quote": "so nach etwa 10 Jahren ist es dann so dass ich komplett umgedreht hat da habe ich überhaupt keinen return mehr auf die auf die reine das reine Zertifikat",
+   "quote_clean": "So nach etwa 10 Jahren hat sich das komplett umgedreht: Da habe ich überhaupt keinen Return mehr auf das reine Zertifikat.",
+   "statement": "Am Berufsbeginn zählt vor allem der Abschluss; nach etwa zehn Jahren bezahlen Arbeitgeber nur noch für die tatsächlichen Kompetenzen.",
+   "question": "Wonach richtet sich in den USA das Gehalt etwa zehn Jahre nach dem Berufseinstieg vor allem?",
+   "answer": "Nach den tatsächlichen Kompetenzen",
+   "distractors": [
+    "Nach dem Namen der Uni",
+    "Nach der Abschlussnote",
+    "Nach dem Alter beim Einstieg"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Forscher:innen kannten Mathetests, die Jugendliche mit 17 gemacht hatten und die kein Arbeitgeber je gesehen hat. Mit der Zeit lernen Firmen trotzdem, wer produktiv ist – das nennt man Employer Learning.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Employer Learning",
+    "Arbeitsmarkt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3769,
+   "speaker": "Ludger Wößmann",
+   "quote": "dieses was ich ganz gerne traurige Smiley nenne sozusagen wo dann erstmal die der Mundwinkel ein Stück weit hochgt aber dann eben für die für die zweite Hälfte der Zeit al ab der 2010er wi der deutlich runtergeht",
+   "quote_clean": "Das, was ich ganz gerne traurigen Smiley nenne, wo erstmal der Mundwinkel ein Stück weit hochgeht, aber dann für die zweite Hälfte der Zeit, ab den 2010ern, wieder deutlich runtergeht.",
+   "statement": "Ludger Wößmann nennt den Verlauf der deutschen PISA-Ergebnisse einen „traurigen Smiley“: erst Anstieg, ab den 2010ern deutlicher Abstieg.",
+   "question": "Wer beschreibt die Entwicklung der deutschen Schülerleistungen als „traurigen Smiley“?",
+   "answer": "Ludger Wößmann",
+   "distractors": [
+    "Andreas Sator",
+    "Bryan Caplan",
+    "Max Weber"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nach dem PISA-Schock ging es zehn Jahre bergauf, dann schlief der Fokus auf Lesen, Schreiben und Rechnen wieder ein. Schon vor Corona waren 60 Prozent der Gewinne wieder weg.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "PISA",
+    "Deutschland"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 4067,
+   "speaker": "Ludger Wößmann",
+   "quote": "diese Selbständigkeit führt eben nicht zu besseren Leistung sgar manchmal zu schlechteren Leistung wenn es keine Prüfungen gibt die vergleichbar sind",
+   "quote_clean": "Diese Selbständigkeit führt nicht zu besseren Leistungen, sogar manchmal zu schlechteren Leistungen, wenn es keine Prüfungen gibt, die vergleichbar sind.",
+   "statement": "Schulautonomie verbessert die Leistungen nur dann, wenn es vergleichbare externe Prüfungen gibt; ohne sie kann sie sogar schaden.",
+   "question": "Unter welcher Bedingung führt mehr Autonomie für Schulen zu besseren Schülerleistungen?",
+   "answer": "Wenn es externe, vergleichbare Prüfungen gibt",
+   "distractors": [
+    "Wenn die Klassen kleiner werden",
+    "Wenn Lehrkräfte länger unterrichten",
+    "Wenn das Budget steigt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ohne Prüfungen nutzen Schulen die Freiheit für irgendwas, das ihnen wichtig ist, nur eben nicht für das, was eh keiner überprüft. Mit klaren Zielen und Kontrolle am Ende wissen die Leute vor Ort aber am besten, was ihre Schüler:innen brauchen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schulautonomie",
+    "Zentralmatura"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4670,
+   "speaker": "Ludger Wößmann",
+   "quote": "der Grund warum Deutschland besser geworden ist war nur wegen den schlechtesten und ich glaube was der Punkt dahin hinter ist diese Transparenz hat dazu geführt dass da wo es nicht gut ist schon auch feorer unterm Dach war",
+   "quote_clean": "Der Grund, warum Deutschland besser geworden ist, war nur wegen der Schlechtesten. Und ich glaube, der Punkt dahinter ist: Diese Transparenz hat dazu geführt, dass da, wo es nicht gut ist, schon auch Feuer unterm Dach war.",
+   "statement": "Nach dem PISA-Bundesländervergleich holten die schwächsten deutschen Bundesländer die Hälfte ihres Rückstands auf, während Bayern und Baden-Württemberg stagnierten.",
+   "question": "Wer war nach dem PISA-Schock für Deutschlands Verbesserung verantwortlich?",
+   "answer": "Die schwächsten Bundesländer",
+   "distractors": [
+    "Bayern und Baden-Württemberg",
+    "Vor allem die Privatschulen",
+    "Die Gymnasien in Großstädten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Schlusslichter lagen fast zwei Schuljahre zurück und holten die Hälfte davon auf, weil sie öffentlich als Schlusslicht dastanden. Danach haben die Kultusminister den Ländervergleich wieder abgeschafft.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Transparenz",
+    "PISA"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 4705,
+   "speaker": "Ludger Wößmann",
+   "quote": "das ist so als wenn die Arbeitsminister sich zu zen wür sagen und nicht doof dass wir immer über die Arbeitslosenquoten reden wir hören jetzt auf die nach Bundesländern zu veröffentlichen",
+   "quote_clean": "Das ist so, als wenn die Arbeitsminister sich zusammensetzen würden und sagen: Ist nicht doof, dass wir immer über die Arbeitslosenquoten reden? Wir hören jetzt auf, die nach Bundesländern zu veröffentlichen.",
+   "statement": "Wößmann vergleicht die Abschaffung des PISA-Bundesländervergleichs mit Arbeitsministern, die keine Arbeitslosenquoten mehr veröffentlichen wollen.",
+   "question": "Wer vergleicht das Ende des Bildungs-Ländervergleichs mit Arbeitsministern, die keine Arbeitslosenquoten mehr veröffentlichen?",
+   "answer": "Ludger Wößmann",
+   "distractors": [
+    "Andreas Sator",
+    "Johannes Kopf",
+    "Bryan Caplan"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In der Arbeitsmarktpolitik wäre so viel Intransparenz undenkbar, in der Bildungspolitik ist sie offenbar akzeptabel. Ohne Daten kann eben jedes Land behaupten, das beste Schulsystem der Welt zu haben.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Transparenz",
+    "Bildungspolitik"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 5126,
+   "speaker": "Ludger Wößmann",
+   "quote": "die sind alle gleich und das ist in der Verfassung festgeschrieben gleich finanziert aus öffentlichen Mitteln in Abhängigkeit davon wie viel Kinder dahingehen",
+   "quote_clean": "Die sind alle gleich, und das ist in der Verfassung festgeschrieben: gleich finanziert aus öffentlichen Mitteln, in Abhängigkeit davon, wie viele Kinder dahingehen.",
+   "statement": "In den Niederlanden kann fast jeder eine Schule gründen; öffentliche und freie Schulen werden laut Verfassung gleich pro Kind aus öffentlichen Mitteln finanziert.",
+   "question": "In welchem Land werden öffentliche und frei gegründete Schulen laut Verfassung gleich pro Kind finanziert?",
+   "answer": "In den Niederlanden",
+   "distractors": [
+    "In Österreich",
+    "In Frankreich",
+    "In Großbritannien"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das hat Wurzeln im 19. Jahrhundert, als vor allem Kirchen Schulen betrieben. Eltern können frei wählen, Gebühren obendrauf gibt's nicht, und alle Schulen müssen bei nationalen Tests mitmachen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Niederlande",
+    "Schulwahl"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 5252,
+   "speaker": "Ludger Wößmann",
+   "quote": "die allermeisten zeigen ähm dass durch eine Verkleinerung der Klassen es nicht systematisch dazu kommt dass die Kinder mehr lernen",
+   "quote_clean": "Die allermeisten zeigen, dass es durch eine Verkleinerung der Klassen nicht systematisch dazu kommt, dass die Kinder mehr lernen.",
+   "statement": "Die meisten Studien zeigen, dass kleinere Klassen nicht systematisch dazu führen, dass Kinder mehr lernen.",
+   "question": "Was zeigen die meisten Studien über kleinere Schulklassen?",
+   "answer": "Kinder lernen nicht systematisch mehr",
+   "distractors": [
+    "Kinder lernen deutlich mehr",
+    "Nur Mathe wird deutlich besser",
+    "Kinder lernen spürbar weniger"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine mögliche Erklärung: Viele Lehrkräfte unterrichten bei 25 Kindern eh fast gleich wie bei 30. Und obwohl die Klassen über Jahrzehnte kleiner geworden sind, sind die Leistungen eher gesunken.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Klassengröße",
+    "Schule"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 5521,
+   "speaker": "Ludger Wößmann",
+   "quote": "das Verrückte ist eben dass dass diese Studien wirklich alle zeigen dass die danach keine besseren Lehrkräfte sind die Kinder lernen nicht mehr bei denen",
+   "quote_clean": "Das Verrückte ist, dass diese Studien wirklich alle zeigen, dass die danach keine besseren Lehrkräfte sind: Die Kinder lernen nicht mehr bei denen.",
+   "statement": "In den USA werden Lehrkräfte durch einen zusätzlichen Master-Abschluss nicht messbar besser; ihre Schüler:innen lernen nicht mehr.",
+   "question": "Was bringt es US-Schulkindern, wenn ihre Lehrkraft zusätzlich einen Master macht?",
+   "answer": "Messbar nichts beim Lernerfolg",
+   "distractors": [
+    "Deutlich bessere Mathenoten",
+    "Weniger Schulabbrüche",
+    "Bessere Lesekompetenz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für das Gehalt der Lehrkräfte ist der Master dort total wichtig, für die Kinder offenbar nicht. Was dagegen zählt: Fachwissen im eigenen Fach und ob man die Klasse im Griff hat.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Lehrkräfte",
+    "USA"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 6054,
+   "speaker": "Ludger Wößmann",
+   "quote": "dass eigentlich alle Kinder im Alter von viereinhalb Jahren also im Kindergarten noch m einmal so ein so eine Sprachstandserhebung machen müssen",
+   "quote_clean": "Dass eigentlich alle Kinder im Alter von viereinhalb Jahren, also noch im Kindergarten, einmal so eine Sprachstandserhebung machen müssen.",
+   "statement": "In Hamburg müssen alle Kinder mit viereinhalb Jahren einen Sprachtest machen; wer zu wenig Deutsch kann, wird vorschulpflichtig.",
+   "question": "In welchem Alter müssen Kinder in Hamburg einen verpflichtenden Deutsch-Sprachtest machen?",
+   "answer": "Mit viereinhalb Jahren",
+   "distractors": [
+    "Mit zweieinhalb Jahren",
+    "Mit sechs Jahren",
+    "Mit acht Jahren"
+   ],
+   "number_value": 4.5,
+   "number_unit": "Jahre",
+   "slider_min": 1,
+   "slider_max": 12,
+   "log_scale": false,
+   "aha": "Wer den Test nicht schafft, bekommt intensive Sprachförderung, damit er mit sechs in der Volksschule mitkommt. Je früher, desto besser, sagt die Forschung, und Hamburg gilt deshalb als Vorbild.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Sprache",
+    "Integration"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 6255,
+   "speaker": "Ludger Wößmann",
+   "quote": "was wir dann vielfach in diesen Bereichen sehen ist dass eben darüber hinaus eigentlich per se der reine migra shintergrund kaum noch ein Effekt hat",
+   "quote_clean": "Was wir dann vielfach in diesen Bereichen sehen, ist, dass darüber hinaus eigentlich der reine Migrationshintergrund per se kaum noch einen Effekt hat.",
+   "statement": "Berücksichtigt man Bildung und Einkommen der Eltern, hat ein Migrationshintergrund an sich kaum noch Einfluss auf die Schulleistung.",
+   "question": "Was hat kaum noch Einfluss auf die Schulleistung, wenn man Bildung und Einkommen der Eltern herausrechnet?",
+   "answer": "Der Migrationshintergrund an sich",
+   "distractors": [
+    "Die Bildung der Mutter",
+    "Das Haushaltseinkommen",
+    "Ob vorgelesen wurde"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zusätzlich spielt nur noch eine Rolle, ob daheim die Landessprache gesprochen wird. Kinder aus gut gebildeten zugewanderten Familien können den Schnitt sogar heben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Migration",
+    "Chancengleichheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 6430,
+   "speaker": "Ludger Wößmann",
+   "quote": "dass es irgendwie eigentlich kein Land auf der Welt mehr gibt außer Deutschland und Österreich die das eben nach der vierten Klasse machen diese Aufteilung",
+   "quote_clean": "Dass es eigentlich kein Land auf der Welt mehr gibt außer Deutschland und Österreich, die diese Aufteilung nach der vierten Klasse machen.",
+   "statement": "Außer Deutschland und Österreich teilt kaum ein Land Kinder schon nach der vierten Klasse auf verschiedene Schulformen auf; über zwei Drittel der OECD-Länder tun das nicht vor 15.",
+   "question": "Welche Länder teilen Kinder schon nach der vierten Klasse auf verschiedene Schultypen auf?",
+   "answer": "Fast nur Deutschland und Österreich",
+   "distractors": [
+    "Die meisten OECD-Länder",
+    "Vor allem die skandinavischen Länder",
+    "Fast nur Finnland und Estland"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Je früher aufgeteilt wird, desto stärker hängt der Schulerfolg vom Elternhaus ab, und besser wird das Niveau dadurch auch nicht. Länder, die das reformiert haben, wurden chancengerechter.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Gymnasium",
+    "Chancengleichheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 6667,
+   "speaker": "Ludger Wößmann",
+   "quote": "das hat einen positiven affek Effekt in dem Sinne dass das das um 29% Punkte erhöht hat also sprich mehr als verdoppelt",
+   "quote_clean": "Das hat einen positiven Effekt in dem Sinne, dass es das um 29 Prozentpunkte erhöht hat, also mehr als verdoppelt.",
+   "statement": "Ein einjähriges Mentoringprogramm für benachteiligte Jugendliche hob den Anteil, der eine Lehre beginnt, um 29 Prozentpunkte – mehr als eine Verdoppelung.",
+   "question": "Um wie viele Prozentpunkte erhöhte ein Mentoringprogramm den Anteil benachteiligter Jugendlicher, die eine Lehre beginnen?",
+   "answer": "Um 29 Prozentpunkte",
+   "distractors": [
+    "Um 3 Prozentpunkte",
+    "Um 9 Prozentpunkte",
+    "Um 60 Prozentpunkte"
+   ],
+   "number_value": 29,
+   "number_unit": "Prozentpunkte",
+   "slider_min": 0,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Ohne Mentor:in begannen nur etwa 27 Prozent eine Berufsausbildung. Studierende trafen ihre 14-jährigen Mentees ein Jahr lang alle zwei Wochen, und genau diese persönliche Beziehung macht's aus.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Mentoring",
+    "Chancengleichheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 699,
+   "speaker": "Andreas Sator",
+   "quote": "mit deinen komplizierten Methoden die wir alle nicht verstehen ich hoffe du verstehst sie äh hast dann gezeigt na das liegt tatsächlich an dem dass die besser gebildet waren",
+   "quote_clean": "Mit deinen komplizierten Methoden, die wir alle nicht verstehen – ich hoffe, du verstehst sie –, hast du dann gezeigt: Na, das liegt tatsächlich daran, dass die besser gebildet waren.",
+   "statement": "Andreas fasst Wößmanns Luther-Forschung zusammen und hofft scherzhaft, dass wenigstens der Forscher seine komplizierten Methoden versteht.",
+   "question": "Was hofft Andreas augenzwinkernd über Wößmanns komplizierte Forschungsmethoden?",
+   "answer": "Dass wenigstens Wößmann sie versteht",
+   "distractors": [
+    "Dass sie bald verboten werden",
+    "Dass er sie selbst lernen kann",
+    "Dass sie nie jemand nachrechnet"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas hatte sich zur Vorbereitung durch über 15 Studien gelesen. Ein bisschen Respekt vor der Ökonometrie bleibt trotzdem.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Humor"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 6974,
+   "speaker": "Andreas Sator",
+   "quote": "du hast uns jetzt sehr gut informiert darüber was es braucht damit man im Bildungssektor wieder in eine bessere Richtung gehen verrat uns noch zum Ende ein Medium mit dem Du Dich persönlich",
+   "quote_clean": "Du hast uns jetzt sehr gut darüber informiert, was es braucht, damit man im Bildungssektor wieder in eine bessere Richtung geht. Verrat uns noch zum Ende ein Medium, mit dem du dich persönlich informierst.",
+   "statement": "Zum Abschluss fragt Andreas seine Gäste nach einem Medium, mit dem sie sich persönlich informieren; Wößmann nennt die Tagesschau.",
+   "question": "Welches Medium empfiehlt Ludger Wößmann auf Andreas' typische Schlussfrage?",
+   "answer": "Die Tagesschau der ARD",
+   "distractors": [
+    "Die ZIB 2 im ORF",
+    "Die Zeit",
+    "Den Economist"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine Viertelstunde um 20 Uhr, und man weiß, was am Tag passiert ist. Wößmann bricht dabei gleich eine Lanze für den öffentlich-rechtlichen Rundfunk als gemeinsame Basis in Zeiten von Social Media.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Medientipp"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "339",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

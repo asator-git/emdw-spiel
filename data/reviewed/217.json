@@ -1,0 +1,282 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "97 Prozent bei 486-497 belegt; Aha enthielt einen Satz, der im Transkript nicht steht (Aufklärung beim Arzt).",
+   "stand_note": "",
+   "statement": "Bei rund 97 Prozent der Geburten stehen am Ende eine gesunde Mutter und ein gesundes Kind.",
+   "question": "Bei wie viel Prozent der Geburten stehen am Ende eine gesunde Frau und ein gesundes Kind da?",
+   "answer": "rund 97 Prozent",
+   "distractors": [
+    "rund 62 Prozent",
+    "rund 75 Prozent",
+    "rund 85 Prozent"
+   ],
+   "aha": "Komplikationslos heißt das aber nicht automatisch: Zählt man jede Saugglocke oder jede Unterstützung schon als Komplikation, kommt man nicht auf 97 Prozent. Gemeint ist, dass am Ende Mutter und Kind gesund sind.",
+   "quote_clean": "Mit den 97 % meint man einfach, dass 97 % gesunde Frauen und gesunde Kinder am Ende der Geburt dastehen.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "kontext"
+   ],
+   "note": "3-4 Prozent bei 522 belegt, aber Schätzung der Hebamme von 2022; Attribution ergänzt.",
+   "stand_note": "Stand 2022",
+   "statement": "Laut Hebamme Amelie Zitny kommen in Wien nur etwa 3 bis 4 Prozent der Kinder bei einer Hausgeburt zur Welt, meist nicht beim ersten Kind.",
+   "question": "Wie viel Prozent der Geburten in Wien sind laut Amelie Zitny Hausgeburten?",
+   "answer": "etwa 3 bis 4 Prozent",
+   "distractors": [
+    "unter 0,5 Prozent",
+    "etwa 12 bis 15 Prozent",
+    "etwa 25 Prozent"
+   ],
+   "aha": "Hausgeburten sind fast immer zweite, dritte oder vierte Kinder. Vorher wird genau hingeschaut: Mit Risikofaktoren ist eine Geburt daheim nicht drin.",
+   "quote_clean": "Das ist relativ selten: 3 bis 4 % in Wien machen Hausgeburten, meistens Mehrgebärende, also beim zweiten, dritten oder vierten Kind.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Bei 846-859 belegt, aber als Aussage der Hebamme; Attribution ergänzt.",
+   "stand_note": "",
+   "statement": "Laut Amelie Zitny muss in österreichischen Kliniken bei jeder Geburt ein Arzt oder eine Ärztin dabei sein, auch wenn die Hebamme die Geburt betreut.",
+   "question": "Wer muss bei einer Standardgeburt in einer österreichischen Klinik laut Amelie Zitny immer dabei sein?",
+   "answer": "ein Arzt oder eine Ärztin",
+   "distractors": [
+    "eine zweite Hebamme",
+    "ein Kinderarzt oder eine Kinderärztin",
+    "die Stationsleitung"
+   ],
+   "aha": "Wenn alles normal läuft, steht der Arzt oder die Ärztin als Zeuge daneben. Andreas' Verdacht, dass er dabei am Handy spielt, weist Amelie zurück: Die schauen eh zu.",
+   "quote_clean": "Ja, es ist ein Krankenhausgesetz, dass bei jeder Geburt ein Arzt dabei sein muss. In Wirklichkeit, wenn wir nichts brauchen, steht er daneben und ist dabei.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 711-753 gut belegt, inklusive Pendelbewegung heute.",
+   "stand_note": "",
+   "statement": "Vaginale Geburten aus Beckenendlage waren in den 1990er-Jahren normal, danach bekam lange jede Frau mit Beckenendlage einen Kaiserschnitt.",
+   "question": "Was passierte lange Zeit nach den 1990er-Jahren mit Babys, die mit dem Popo zuerst lagen?",
+   "answer": "Sie kamen per Kaiserschnitt",
+   "distractors": [
+    "Man drehte sie per Medikament",
+    "Sie kamen nur als Hausgeburt",
+    "Man leitete die Geburt früher ein"
+   ],
+   "aha": "Mit dem wachsenden Sicherheitsdenken und der Angst vor Klagen galt der Kaiserschnitt als beste Variante. Inzwischen weiß man um die Nachteile dieser großen Bauchoperation, und das Pendel schlägt langsam zurück.",
+   "quote_clean": "Normalerweise kommen Babys mit dem Kopf zuerst auf die Welt. Es gibt aber auch ein paar Babys, die mit dem Popo zuerst auf die Welt kommen. Das war, als ich gelernt habe, in den 90er-Jahren ganz normal.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Das 'Auspressen' der Lunge als Hauptvorteil der vaginalen Geburt ist medizinisch umstritten und wird hier ohne Einordnung als Faktum abgefragt.",
+   "stand_note": "",
+   "statement": "Bei einer vaginalen Geburt wird der Brustkorb des Babys zusammengedrückt und Fruchtwasser aus der Lunge gepresst, was den Start ins Atmen erleichtert.",
+   "question": "Welchen Vorteil hat eine vaginale Geburt für die Lunge des Babys?",
+   "answer": "Fruchtwasser wird aus der Lunge gepresst",
+   "distractors": [
+    "Die Lunge wächst dabei noch",
+    "Das Baby bekommt mehr Sauerstoff",
+    "Die Lunge wird vorgewärmt"
+   ],
+   "aha": "Im Bauch schwimmt das Kind in Fruchtwasser und kriegt den Sauerstoff über die Nabelschnur. Der enge Geburtskanal quetscht die Lunge quasi aus, danach kann es tief durchatmen. Kaiserschnittkinder brauchen für die Umstellung öfter etwas länger.",
+   "quote_clean": "Bei der Geburt wird zum Beispiel der Brustkorb ausgequetscht, das Fruchtwasser wird aus der Lunge rausgequetscht. Sie können dann tief durchatmen und haben weniger Anpassungsstörungen bei der vaginalen Geburt.",
+   "quality": 2
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Trampolin/Hängematte bei 1650-1656 wörtlich belegt.",
+   "stand_note": "",
+   "statement": "Der Beckenboden ist normalerweise straff wie ein Trampolin, nach Schwangerschaft und Geburt eher wie eine Hängematte, weshalb Rückbildung wichtig ist.",
+   "question": "Womit vergleicht Amelie Zitny den Beckenboden nach Schwangerschaft und Geburt?",
+   "answer": "mit einer Hängematte",
+   "distractors": [
+    "mit einem Luftballon",
+    "mit einem Gummiband",
+    "mit einem Fischernetz"
+   ],
+   "aha": "Der Beckenboden ist die Kellerdecke unseres Körpers und trägt Blase, Darm und Gebärmutter. Nach der Geburt hängt er durch, deshalb ist Beckenbodentraining so wichtig. Übrigens haben auch Männer einen.",
+   "quote_clean": "Im Normalfall ist er so straff wie ein Trampolin. Im Laufe der Schwangerschaft oder nach einer Geburt muss man sich das eher wie eine Hängematte vorstellen.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beschreibung und Misserfolg bei 1799-1833 belegt.",
+   "stand_note": "Stand 2022",
+   "statement": "Beim „Vaginal Seeding“ wird Kaiserschnittbabys mit einem Wattestäbchen Vaginalsekret der Mutter auf die Wangen gestrichen, damit sie deren Mikrobiom bekommen.",
+   "question": "Was macht man beim sogenannten „Vaginal Seeding“ nach einem Kaiserschnitt?",
+   "answer": "Vaginalsekret aufs Gesicht des Babys streichen",
+   "distractors": [
+    "Das Baby in Fruchtwasser baden",
+    "Der Mutter Probiotika spritzen",
+    "Das Baby länger an der Nabelschnur lassen"
+   ],
+   "aha": "Bei einer vaginalen Geburt geht ein Teil des mütterlichen Mikrobioms aufs Kind über, beim Kaiserschnitt sind die ersten Bakterien Hautbakterien. Der Wattestäbchen-Trick sollte das ausgleichen, hat aber laut Amelie leider nicht so funktioniert wie erhofft.",
+   "quote_clean": "Die Idee war, dass man aus der Vagina der Frau mit einem Wattestäbchen Sekret aufsaugt und es dem Kind auf die Wangen streicht, damit das Kind das Mikrobiom bekommt.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "beleg"
+   ],
+   "note": "30 Prozent bei 1995 von Andreas genannt, passt zu 2022; Aha-Teil 'noch nicht überall Usus' steht nicht im Transkript.",
+   "stand_note": "Stand 2022",
+   "statement": "Rund 30 Prozent der Kinder in Österreich kommen per Kaiserschnitt zur Welt.",
+   "question": "Wie viel Prozent der Kinder in Österreich kommen per Kaiserschnitt zur Welt?",
+   "answer": "rund 30 Prozent",
+   "distractors": [
+    "rund 8 Prozent",
+    "rund 15 Prozent",
+    "rund 50 Prozent"
+   ],
+   "aha": "Fast jedes dritte Kind also. Der Kaiserschnitt ist eine große Bauchoperation und eine tolle Entwicklung der Medizin zugleich. Damit auch diese Kinder gleich zur Mama können, gibt es das Sectio-Bonding.",
+   "quote_clean": "Jetzt werden doch 30 Prozent der Kinder in Österreich per Kaiserschnitt geboren.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 2011-2030 belegt.",
+   "stand_note": "",
+   "statement": "Beim Sectio-Bonding wird das Baby auch beim Kaiserschnitt sofort der Mutter auf die Brust gelegt, während die Operation weiterläuft.",
+   "question": "Was passiert beim sogenannten Sectio-Bonding?",
+   "answer": "Baby liegt bei der Mama, während operiert wird",
+   "distractors": [
+    "Vater hält das Baby im Nebenraum",
+    "Baby kommt erst nach Stunden zur Mama",
+    "Mama schläft, Baby kommt in den Brutkasten"
+   ],
+   "aha": "Ideal ist, dass das Baby gleich nackt, Haut an Haut, bei der Mama liegt und in seinem Tempo die Brust sucht. Sectio-Bonding hilft auch gegen das Gefühl vieler Frauen, ihr Kind gar nicht richtig bekommen zu haben.",
+   "quote_clean": "Dass Kinder auch bei der Sectio, also beim Kaiserschnitt, zur Mama auf die Brust kommen, während weiter operiert wird.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "40 Wochen = 10 Mondmonate bei 2153-2165 belegt; Aha präzisiert, dass es die Zählweise der Geburtshilfe ist.",
+   "stand_note": "",
+   "statement": "Eine Schwangerschaft dauert 40 Wochen, das entspricht 10 Mondmonaten, im Volksmund spricht man von 9 Monaten.",
+   "question": "Wie viele Mondmonate dauert eine Schwangerschaft von 40 Wochen?",
+   "answer": "10 Mondmonate",
+   "distractors": [
+    "8 Mondmonate",
+    "9 Mondmonate",
+    "11 Mondmonate"
+   ],
+   "aha": "In der Geburtshilfe rechnet man mit Mondmonaten zu je vier Wochen, also 28 Tagen. Deshalb sind es 10 statt der gefühlten 9 Monate. Amelie sagt selbst: Es gibt viele Varianten zu zählen.",
+   "quote_clean": "Eine Schwangerschaft dauert 40 Wochen, das sind 10 Mondmonate und im Volksmund 9 Monate.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Vergleich bei 2754-2761 belegt, Auslöser (Kopf drückt auf Enddarm) ebenfalls.",
+   "stand_note": "",
+   "statement": "Der Pressdrang am Ende der Geburt ist ein Reflex, ähnlich unkontrollierbar wie der Würgereflex beim Erbrechen.",
+   "question": "Womit vergleicht Amelie Zitny den Pressdrang bei der Geburt?",
+   "answer": "mit dem Drang, erbrechen zu müssen",
+   "distractors": [
+    "mit einem Muskelkrampf beim Sport",
+    "mit einem Niesanfall",
+    "mit Schluckauf"
+   ],
+   "aha": "Ausgelöst wird er, wenn der Kopf des Babys auf den Enddarm drückt. Dann übernimmt der Körper. Für viele Frauen ist das sogar eine Erleichterung, weil sie wissen: Jetzt ist es bald geschafft.",
+   "quote_clean": "Der Pressdrang ist etwas, das kann man nicht kontrollieren. Das ist so, wie wenn man erbrechen muss.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 3648-3688 belegt (Name im Transkript als 'Nalbuffin' geschrieben, korrekt Nalbuphin).",
+   "stand_note": "",
+   "statement": "Amelie Zitny nennt das Opioid-Schmerzmittel Nalbuphin, das unter der Geburt entspannt, den „Joint in Flüssigform“.",
+   "question": "Welches Schmerzmittel bei der Geburt nennt Amelie Zitny den „Joint in Flüssigform“?",
+   "answer": "Nalbuphin",
+   "distractors": [
+    "Lachgas",
+    "Paracetamol",
+    "die PDA"
+   ],
+   "aha": "Nalbuphin gehört zu den Opiaten und lässt Frauen stark entspannen, manchmal sogar einschlafen. Der Haken: Auch das Baby bekommt es mit und ist schläfrig. Davor kommen aber Betreuung, gemeinsames Atmen, Bewegung und die Badewanne.",
+   "quote_clean": "Es gibt das Nalbuphin, das ist, ich sage immer, der Joint in Flüssigform.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Zitat bei 4360-4370 belegt; im Aha standen Details (Schlafmangel, Rat zu Ansprüchen), die im Ausschnitt fehlen.",
+   "stand_note": "",
+   "statement": "Viele Eltern sagen im Nachhinein, die Geburt sei ein Klacks gewesen gegen die erste Zeit mit dem Baby.",
+   "question": "Was sagen viele Eltern laut Amelie Zitny im Nachhinein über die Geburt?",
+   "answer": "Ein Klacks gegen die Zeit danach",
+   "distractors": [
+    "Der schönste Tag ihres Lebens",
+    "Viel schlimmer als erwartet",
+    "Ohne PDA nicht zu schaffen"
+   ],
+   "aha": "Bei der Geburt ist man in Betreuung, im Wochenbett ist man recht auf sich allein gestellt. Darum rät Amelie, sich schon in der Schwangerschaft darauf vorzubereiten, etwa auf Stillen oder Flasche.",
+   "quote_clean": "Aber meistens, wenn man mit den Eltern redet, sagen sie: Die Geburt war ja ein Klacks gegen die erste Zeit mit dem Baby. Das Wochenbett wird massiv unterschätzt.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Bei 2280-2322 belegt; Aha-Behauptung über Andreas' Lehre aus der Folge steht nicht im Transkript.",
+   "stand_note": "",
+   "statement": "Laut Amelie Zitny hilft das Umfeld einer Schwangeren am besten, indem es keine Ratschläge gibt, den Bauch nicht kommentiert und keine Geburtsgeschichten erzählt.",
+   "question": "Wie kann das Umfeld einer Schwangeren laut Amelie Zitny am besten helfen?",
+   "answer": "Indem es den Mund hält",
+   "distractors": [
+    "Indem es Babykleidung schenkt",
+    "Indem es oft zu Besuch kommt",
+    "Indem es eigene Tipps teilt"
+   ],
+   "aha": "Als Schwangere fühlt man sich wie ein Allgemeingut: Der Bauch ist zu groß oder zu klein, und jede:r erzählt die eigene Geburtsgeschichte, meistens die schlechten. Wer das weglässt, ist laut Amelie schon eine Riesenunterstützung.",
+   "quote_clean": "Das Umfeld kann am besten helfen, indem es den Mund hält, keine Ratschläge gibt, die Bauchgröße nicht kommentiert und die eigenen Geburtsgeschichten nicht erzählt.",
+   "quality": 4
+  }
+ ],
+ "id": "217",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

@@ -1,0 +1,678 @@
+{
+ "theme": "Gesellschaft & Kultur",
+ "summary": "Anna Riedl erklärt mir effektiven Altruismus: wie man mit Wissenschaft und Hausverstand herausfindet, wo man am meisten Gutes tun kann.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 574,
+   "speaker": "Anna Riedl",
+   "quote": "Nämlich wir haben eben begrenztes Geld, wir haben begrenzte Zeit und wir haben in unserer Karriere 80.000 Stunden im Durchschnitt.",
+   "quote_clean": "Wir haben begrenztes Geld, wir haben begrenzte Zeit und wir haben in unserer Karriere 80.000 Stunden im Durchschnitt.",
+   "statement": "Ein Mensch arbeitet im Laufe seiner Karriere im Durchschnitt rund 80.000 Stunden.",
+   "question": "Wie viele Stunden arbeitet ein Mensch im Laufe seiner Karriere ungefähr?",
+   "answer": "Rund 80.000 Stunden",
+   "distractors": [
+    "Rund 20.000 Stunden",
+    "Rund 250.000 Stunden",
+    "Rund 8.000 Stunden"
+   ],
+   "number_value": 80000,
+   "number_unit": "Stunden",
+   "slider_min": 5000,
+   "slider_max": 500000,
+   "log_scale": true,
+   "aha": "80.000 Stunden, das ist mehr Zeit, als du für fast alles andere im Leben aufwendest. Deshalb heißt eine bekannte Organisation der Bewegung genau so: 80.000 Hours. Die Idee: Wenn du so viel Zeit im Job verbringst, lohnt es sich, gut zu überlegen, wofür.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Arbeit",
+    "Karriere"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1749,
+   "speaker": "Anna Riedl",
+   "quote": "weil Parasiten auf dieser Welt immer noch, soweit ich weiß, eine Milliarde Menschen betreffen",
+   "quote_clean": "weil Parasiten auf dieser Welt immer noch, soweit ich weiß, eine Milliarde Menschen betreffen",
+   "statement": "Parasitäre Wurminfektionen betreffen weltweit rund eine Milliarde Menschen.",
+   "question": "Wie viele Menschen sind weltweit ungefähr von Parasiten wie Würmern betroffen?",
+   "answer": "Rund eine Milliarde",
+   "distractors": [
+    "Rund 10 Millionen",
+    "Rund 100 Millionen",
+    "Rund 4 Milliarden"
+   ],
+   "number_value": 1000000000,
+   "number_unit": "Menschen",
+   "slider_min": 1000000,
+   "slider_max": 5000000000,
+   "log_scale": true,
+   "aha": "Etwa jeder achte Mensch auf der Welt hat mit Parasiten zu tun, vor allem Kinder in armen Ländern. Die Würmer machen müde, krank und halten Kinder von der Schule fern. Bei uns denkt man da eh kaum dran.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Gesundheit",
+    "Armut"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1753,
+   "speaker": "Anna Riedl",
+   "quote": "und eine Person zu heilen pro Jahr nur 50 Cent kostet, also extrem wenig.",
+   "quote_clean": "und eine Person zu heilen kostet pro Jahr nur 50 Cent, also extrem wenig.",
+   "statement": "Eine Person ein Jahr lang von Parasiten zu befreien, kostet laut Anna Riedl nur rund 50 Cent.",
+   "question": "Wie viel kostet es ungefähr, einen Menschen ein Jahr lang zu entwurmen?",
+   "answer": "Rund 50 Cent",
+   "distractors": [
+    "Rund 5 Euro",
+    "Rund 20 Euro",
+    "Rund 100 Euro"
+   ],
+   "number_value": 0.5,
+   "number_unit": "Euro",
+   "slider_min": 0.1,
+   "slider_max": 100,
+   "log_scale": true,
+   "aha": "Weniger als eine Kugel Eis, und ein Kind ist ein Jahr lang wurmfrei. Genau deshalb empfehlen Evaluatoren wie GiveWell Entwurmungsprogramme wie die Deworm the World Initiative. Viel Wirkung pro Euro ist das ganze Prinzip.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Spenden",
+    "Gesundheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1053,
+   "speaker": "Anna Riedl",
+   "quote": "Wir sind bereit, genauso viel zu spenden, egal ob es jetzt um 20.000 oder um 200.000 Vögel zum Beispiel geht, die jetzt in Öl ertrinken.",
+   "quote_clean": "Wir sind bereit, genauso viel zu spenden, egal ob es um 20.000 oder um 200.000 Vögel geht, die in Öl ertrinken.",
+   "statement": "Menschen spenden etwa gleich viel, egal ob 20.000 oder 200.000 Vögel in Öl zu ertrinken drohen.",
+   "question": "Wie viel mehr spenden Menschen, wenn 200.000 statt 20.000 Vögel in Öl ertrinken?",
+   "answer": "Ungefähr gleich viel",
+   "distractors": [
+    "Etwa zehnmal so viel",
+    "Etwa doppelt so viel",
+    "Etwa halb so viel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zehnmal so viele Vögel, aber nicht mehr Geld: Unser Hirn kann mit großen Zahlen schlicht wenig anfangen. Die Psychologie, etwa rund um Daniel Kahneman, hat solche systematischen Denkfehler gezeigt. Für Anna war das einer der Grundsteine des effektiven Altruismus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Psychologie",
+    "Denkfehler"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 951,
+   "speaker": "Anna Riedl",
+   "quote": "Die nicht nur ein bisschen besser helfen, sondern oft wirklich um mehrere Größenordnungen. Also hundertfach oder tausendfach als andere Sachen.",
+   "quote_clean": "Die nicht nur ein bisschen besser helfen, sondern oft wirklich um mehrere Größenordnungen, also hundertfach oder tausendfach mehr als andere Sachen.",
+   "statement": "Die wirksamsten Hilfsorganisationen helfen pro Euro oft hundert- bis tausendmal mehr als andere.",
+   "question": "Um wie viel wirksamer sind die besten Hilfsorganisationen pro Euro oft als andere?",
+   "answer": "Hundert- bis tausendfach",
+   "distractors": [
+    "Etwa 10 Prozent",
+    "Etwa doppelt so wirksam",
+    "Kaum ein Unterschied"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Spenden ist nicht gleich Spenden. Wohin dein Euro geht, kann einen Unterschied von mehreren Größenordnungen machen. Genau das will GiveWell herausfinden und empfiehlt deshalb nur eine kleine Liste von Organisationen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Spenden",
+    "Wirksamkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 960,
+   "speaker": "Anna Riedl",
+   "quote": "Und das Interessante ist auch, dass viele Interventionen, die eben gut klingen für den Durchschnittsbürger sozusagen, sogar negativen Impact haben oder die meisten eigentlich einfach mal gar keinen Impact haben.",
+   "quote_clean": "Und das Interessante ist auch, dass viele Interventionen, die gut klingen für den Durchschnittsbürger, sogar negativen Impact haben oder die meisten eigentlich gar keinen Impact haben.",
+   "statement": "Viele Hilfsmaßnahmen, die gut klingen, haben keine oder sogar eine negative Wirkung.",
+   "question": "Was gilt laut Anna Riedl für die meisten Hilfsmaßnahmen, die gut klingen?",
+   "answer": "Sie haben gar keine Wirkung",
+   "distractors": [
+    "Sie wirken fast immer gut",
+    "Sie wirken erst nach Jahrzehnten",
+    "Sie wirken nur in Europa"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gut gemeint ist eben nicht gut gemacht. Manche Projekte schaden sogar, obwohl sie super klingen. Deshalb schaut die Bewegung so genau darauf, was am Ende wirklich rauskommt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Entwicklungshilfe",
+    "Wirksamkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 927,
+   "speaker": "Anna Riedl",
+   "quote": "Und das Überraschende war, die haben selber, die Gründer haben selber eigentlich Geld angespart gehabt und wollten das so spenden und haben gemerkt, das macht noch niemand, sich diese Frage zu stellen.",
+   "quote_clean": "Und das Überraschende war, die Gründer haben selber Geld angespart gehabt und wollten das spenden und haben gemerkt, das macht noch niemand, sich diese Frage zu stellen.",
+   "statement": "GiveWell entstand, weil die Gründer selbst spenden wollten und merkten, dass niemand systematisch prüfte, wo Spenden am meisten bewirken.",
+   "question": "Wie ist die Spenden-Bewertungsorganisation GiveWell entstanden?",
+   "answer": "Gründer suchten für eigene Spenden Infos",
+   "distractors": [
+    "Als Projekt der Vereinten Nationen",
+    "Als Abteilung einer Großbank",
+    "Aus einer Uni-Vorlesung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Gründer hatten Geld angespart und wollten es sinnvoll spenden. Dann merkten sie: Niemand vergleicht ernsthaft, wo ein Euro am meisten hilft. Also haben sie es selber gemacht.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "GiveWell",
+    "Spenden"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 163,
+   "speaker": "Anna Riedl",
+   "quote": "Davor habe ich Psychologie gemacht. Kognitionswissenschaften ist im Prinzip eine Mischung aus Psychologie, Neurowissenschaften und künstliche Intelligenz.",
+   "quote_clean": "Davor habe ich Psychologie gemacht. Kognitionswissenschaft ist im Prinzip eine Mischung aus Psychologie, Neurowissenschaften und künstlicher Intelligenz.",
+   "statement": "Kognitionswissenschaft verbindet Psychologie, Neurowissenschaften und künstliche Intelligenz.",
+   "question": "Welche Fächer verbindet die Kognitionswissenschaft?",
+   "answer": "Psychologie, Neurowissenschaft, künstliche Intelligenz",
+   "distractors": [
+    "Philosophie, Theologie, Geschichte",
+    "Biologie, Chemie, Medizin",
+    "Soziologie, Wirtschaft, Recht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Man fragt sich nicht nur, wie Menschen denken und sich verhalten, sondern auch, wie man das als Maschine nachbauen könnte. Deshalb sitzen da Psychologie, Hirnforschung und KI an einem Tisch.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wissenschaft",
+    "KI"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1306,
+   "speaker": "Anna Riedl",
+   "quote": "Also man hat zum Beispiel in einem Experiment zwei Gruppen verschiedene Sachen zu essen gegeben, die einen haben Mandeln bekommen und die anderen Fleisch, und hat sie danach dazu gefragt, was ihre Meinung über Kühe ist,",
+   "quote_clean": "Man hat zum Beispiel in einem Experiment zwei Gruppen verschiedene Sachen zu essen gegeben, die einen haben Mandeln bekommen und die anderen Fleisch, und hat sie danach gefragt, was ihre Meinung über Kühe ist.",
+   "statement": "In einem Experiment sprachen Menschen, die gerade Fleisch gegessen hatten, Kühen eher Gefühle und Intelligenz ab als jene, die Mandeln bekommen hatten.",
+   "question": "Wie urteilten Versuchspersonen über Kühe, nachdem sie Fleisch statt Mandeln gegessen hatten?",
+   "answer": "Sie hielten Kühe für dümmer",
+   "distractors": [
+    "Sie hielten Kühe für klüger",
+    "Sie urteilten genau gleich",
+    "Sie wollten danach weniger Fleisch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das ist kognitive Dissonanz: Wer gerade Fleisch gegessen hat, rechtfertigt das vor sich selbst und hält Kühe plötzlich eher für „total deppert“ und gefühllos. Wie wir uns regelmäßig verhalten, verändert also auch, was wir glauben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Psychologie",
+    "Ernährung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1401,
+   "speaker": "Anna Riedl",
+   "quote": "wie groß ist das Problem, also wie viele Personen oder Tiere betrifft das, für wie lang, und so weiter. Das ist die erste Frage. Die zweite Frage ist, wie lösbar ist dieses Problem,",
+   "quote_clean": "Wie groß ist das Problem, also wie viele Personen oder Tiere betrifft das, für wie lang? Das ist die erste Frage. Die zweite Frage ist: Wie lösbar ist dieses Problem?",
+   "statement": "Effektive Altruist:innen bewerten Probleme nach drei Fragen: Wie groß ist es, wie lösbar ist es und wie vernachlässigt ist es?",
+   "question": "Welche drei Fragen stellt man im effektiven Altruismus, um ein Problem auszuwählen?",
+   "answer": "Größe, Lösbarkeit, Vernachlässigung",
+   "distractors": [
+    "Kosten, Dauer, Beliebtheit",
+    "Nähe, Dringlichkeit, Sichtbarkeit",
+    "Spenden, Medien, Politik"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein riesiges Problem bringt dir nichts, wenn man nichts dagegen tun kann. Und es macht einen Unterschied, ob du die erste Person bist, die daran arbeitet, oder die tausendunderste. Mit diesen drei Fragen sortiert man, wo die eigene Zeit am meisten bewirkt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Methode",
+    "Entscheidungen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 350,
+   "speaker": "Anna Riedl",
+   "quote": "Wenn ich mir jetzt vorstelle, ein Mensch oder sagen wir, ein Freund von mir ertrinkt gerade, dann stelle ich mich ja auch nicht hin und sage, ich habe jetzt eh rumgeschrien, ich habe jetzt so Awareness geschaffen,",
+   "quote_clean": "Wenn ich mir vorstelle, ein Freund von mir ertrinkt gerade, dann stelle ich mich ja auch nicht hin und sage, ich habe eh rumgeschrien, ich habe Awareness geschaffen.",
+   "statement": "Anna Riedl vergleicht Hilfe mit einem ertrinkenden Freund: Es zählt nicht, dass man es versucht hat, sondern dass er überlebt.",
+   "question": "Mit welchem Bild erklärt Anna Riedl, dass gute Absichten nicht reichen?",
+   "answer": "Mit einem ertrinkenden Freund",
+   "distractors": [
+    "Mit einem brennenden Haus",
+    "Mit einem verlorenen Geldbörsel",
+    "Mit einem kaputten Auto"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn ein Freund ertrinkt, gibst du dich nicht damit zufrieden, laut geschrien zu haben. Du willst, dass er überlebt. Genau so denkt der effektive Altruismus: vom Ergebnis rückwärts.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Ethik",
+    "Wirkung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 346,
+   "speaker": "Anna Riedl",
+   "quote": "Und man könnte vielleicht so als Motto sagen, Intentionen reichen nicht.",
+   "quote_clean": "Man könnte als Motto sagen: Intentionen reichen nicht.",
+   "statement": "Das Motto des effektiven Altruismus lautet laut Anna Riedl: Intentionen reichen nicht.",
+   "question": "Welches Motto nennt Anna Riedl für den effektiven Altruismus?",
+   "answer": "Intentionen reichen nicht",
+   "distractors": [
+    "Jeder Euro zählt gleich",
+    "Hilf zuerst deiner Familie",
+    "Spende, was du kannst"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Es geht nicht darum, sich gut zu fühlen, sondern darum, was in der Welt wirklich anders wird. Anna sagt das im Gespräch gleich zweimal. Das Motto sitzt also.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ethik",
+    "Motto"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1455,
+   "speaker": "Anna Riedl",
+   "quote": "weil in der Politik sind andere Menschen mit einer Agenda, und wenn man stärker dagegen pusht, pusht es auch stärker zurück,",
+   "quote_clean": "weil in der Politik andere Menschen mit einer Agenda sind, und wenn man stärker dagegen pusht, pusht es auch stärker zurück.",
+   "statement": "Politische Arbeit ist schwerer in ihrer Wirkung abzuschätzen als etwa eine Krankheit zu heilen, weil Gegner mit eigener Agenda zurückdrängen.",
+   "question": "Warum ist der Nutzen politischer Arbeit laut Anna Riedl schwerer abzuschätzen als der Kampf gegen eine Krankheit?",
+   "answer": "Gegner drängen stärker zurück",
+   "distractors": [
+    "Politik ist zu teuer",
+    "Wahlen sind zu selten",
+    "Politik betrifft zu wenige"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine Krankheit hat keine Meinung dazu, dass du sie bekämpfst. In der Politik sitzen Menschen mit Gegenintention. Je stärker du drückst, desto stärker drücken sie zurück.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Politik",
+    "Wirkung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 991,
+   "speaker": "Anna Riedl",
+   "quote": "Da war sehr einflussreich Peter Singer, der eben diese Frage nach diesem moralischen Kreis gestellt hat, die eben genau die Frage stellt, um wen sollten wir uns kümmern?",
+   "quote_clean": "Da war sehr einflussreich Peter Singer, der diese Frage nach dem moralischen Kreis gestellt hat, die genau die Frage stellt: Um wen sollten wir uns kümmern?",
+   "statement": "Der Philosoph Peter Singer prägte die Frage nach dem moralischen Kreis: Um wen sollten wir uns kümmern?",
+   "question": "Welcher Philosoph hat die Frage nach dem „moralischen Kreis“ geprägt, auf die der effektive Altruismus aufbaut?",
+   "answer": "Peter Singer",
+   "distractors": [
+    "Immanuel Kant",
+    "Karl Popper",
+    "Jürgen Habermas"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nur ich und meine Freunde? Alle Menschen? Alle Lebewesen? Peter Singer hat diese Grenze ernsthaft hinterfragt. Die Ethik war eine von drei Wurzeln der Bewegung, neben Psychologie und Entwicklungsforschung.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Philosophie",
+    "Ethik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1015,
+   "speaker": "Anna Riedl",
+   "quote": "wenn neben mir ein Kind sterben würde, dann würde ich nie an irgendwas anderes denken, sondern diesem Kind helfen. Was ist der Unterschied, dass das Kind jetzt weiter weg ist?",
+   "quote_clean": "Wenn neben mir ein Kind sterben würde, dann würde ich nie an irgendwas anderes denken, sondern diesem Kind helfen. Was ist der Unterschied, wenn das Kind weiter weg ist?",
+   "statement": "Ein Gedankenexperiment fragt: Wenn wir einem sterbenden Kind neben uns sofort helfen würden, warum sollte Entfernung moralisch einen Unterschied machen?",
+   "question": "Was soll das Gedankenexperiment vom sterbenden Kind neben dir zeigen?",
+   "answer": "Entfernung ändert moralisch nichts",
+   "distractors": [
+    "Kinder brauchen mehr Hilfe",
+    "Man sollte nur lokal helfen",
+    "Spenden wirken nur nahebei"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Stirbt neben dir ein Kind, hilfst du, ohne nachzudenken. Ob es ein paar tausend Kilometer weiter weg ist, kann ethisch eigentlich keinen Unterschied machen. Der Gedanke geht auf Peter Singer zurück.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ethik",
+    "Gedankenexperiment"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1076,
+   "speaker": "Anna Riedl",
+   "quote": "Und das dritte war die Forschung von Esther Dufloh zu evidenzbasierter Entwicklungsarbeit, dass man eben sehen kann, aha, man hat schon eine Möglichkeit, zu schauen, welche Interventionen funktionieren und welche funktionieren nicht.",
+   "quote_clean": "Und das Dritte war die Forschung von Esther Duflo zu evidenzbasierter Entwicklungsarbeit, dass man sehen kann: Man hat eine Möglichkeit zu schauen, welche Interventionen funktionieren und welche nicht.",
+   "statement": "Die Ökonomin Esther Duflo hat gezeigt, dass man mit evidenzbasierter Forschung prüfen kann, welche Entwicklungshilfe funktioniert.",
+   "question": "Welche Forscherin steht für evidenzbasierte Entwicklungsarbeit, eine Wurzel des effektiven Altruismus?",
+   "answer": "Esther Duflo",
+   "distractors": [
+    "Mariana Mazzucato",
+    "Hannah Arendt",
+    "Elinor Ostrom"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Statt nach Gefühl zu helfen, testet man Maßnahmen systematisch und schaut, was wirklich wirkt. Duflo hat dafür später auch den Wirtschaftsnobelpreis bekommen. Für die Bewegung war das die dritte große Grundlage.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Entwicklungshilfe",
+    "Forschung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1152,
+   "speaker": "Anna Riedl",
+   "quote": "also die größten Hubs sind eigentlich so in Oxford und in San Francisco, also Bay Area, und dann noch so lose verteilt in Europa.",
+   "quote_clean": "Die größten Hubs sind eigentlich in Oxford und in San Francisco, also der Bay Area, und dann noch lose verteilt in Europa.",
+   "statement": "Die größten Zentren des effektiven Altruismus liegen in Oxford und in der San Francisco Bay Area.",
+   "question": "Wo liegen die größten Zentren der Bewegung des effektiven Altruismus?",
+   "answer": "Oxford und San Francisco Bay Area",
+   "distractors": [
+    "Berlin und New York",
+    "Wien und Zürich",
+    "Paris und Boston"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Und die Hubs ticken unterschiedlich: In der Bay Area geht es eher um Risiken künstlicher Intelligenz, in Oxford um globale Armut und Gefahren für die ganze Menschheit. In Europa sorgen sich laut Anna viele besonders um Tierleid.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Bewegung",
+    "Geografie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1267,
+   "speaker": "Anna Riedl",
+   "quote": "da kann dann sein, dass das ökologische Modell so viel teurer ist, als das nicht so ethische Modell, dass der Unterschied besser wäre, wenn man ihn direkt an eine Organisation spendet,",
+   "quote_clean": "Da kann es sein, dass das ökologische Modell so viel teurer ist als das nicht so ethische Modell, dass der Unterschied besser wäre, wenn man ihn direkt an eine Organisation spendet.",
+   "statement": "Beim Kleidungskauf kann es laut Anna Riedl wirksamer sein, den Aufpreis für das ethische Produkt direkt an eine gute Organisation zu spenden.",
+   "question": "Was kann laut Anna Riedl beim teuren Öko-Gewand manchmal mehr bringen?",
+   "answer": "Den Aufpreis direkt spenden",
+   "distractors": [
+    "Doppelt so viel kaufen",
+    "Nur Second-Hand tragen",
+    "Gar keine Kleidung kaufen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ethisch einkaufen findet Anna grundsätzlich gut. Aber wenn das faire Leiberl ein Vielfaches kostet, kann der Unterschied bei einer wirksamen Organisation mehr bewegen. Ihr Tipp: festlegen, wie viel man monatlich spendet, und das möglichst effektiv.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Konsum",
+    "Spenden"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 821,
+   "speaker": "Anna Riedl",
+   "quote": "ich kann nicht einen Freund, der auf der Straße steht, zu mir nach Hause aufnehmen, wenn ich selber obdachlos bin sozusagen.",
+   "quote_clean": "Ich kann nicht einen Freund, der auf der Straße steht, zu mir nach Hause aufnehmen, wenn ich selber obdachlos bin.",
+   "statement": "Anna Riedl meint, man brauche selbst ein stabiles Fundament, bevor man anderen helfen kann.",
+   "question": "Mit welchem Bild beschreibt Anna Riedl, dass man zuerst selbst stabil stehen muss, um zu helfen?",
+   "answer": "Obdachlos niemanden aufnehmen können",
+   "distractors": [
+    "Ohne Boot niemanden retten",
+    "Hungrig niemanden bekochen",
+    "Krank niemanden pflegen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer sich für das Gute komplett ausbrennt, hilft langfristig niemandem. Anna hat in der Community Leute gesehen, die sehr darunter gelitten haben. Deshalb gehört auch die eigene mentale Gesundheit dazu.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Selbstfürsorge",
+    "Psyche"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1767,
+   "speaker": "Anna Riedl",
+   "quote": "Man kann auch einen Pledge machen, also ein Versprechen regelmäßig hinzusprechen über Organisationen wie The Life You Can Save und Giving What We Can.",
+   "quote_clean": "Man kann auch einen Pledge machen, also ein Versprechen, regelmäßig zu spenden, über Organisationen wie The Life You Can Save und Giving What We Can.",
+   "statement": "Über Organisationen wie Giving What We Can kann man ein Versprechen („Pledge“) abgeben, regelmäßig zu spenden.",
+   "question": "Was ist ein „Pledge“ bei Organisationen wie Giving What We Can?",
+   "answer": "Versprechen, regelmäßig zu spenden",
+   "distractors": [
+    "Ein Ehrenamt im Ausland",
+    "Ein Verzicht auf Fleisch",
+    "Eine Steuererklärung für Spenden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Du versprichst öffentlich, regelmäßig zu spenden, und hast eine Community, die dich dabei bestärkt. Das hilft gegen den inneren Schweinehund. Und zu Weihnachten kannst du allen sagen: Schaut euch zumindest mal GiveWell an.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Spenden",
+    "Community"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 884,
+   "speaker": "Anna Riedl",
+   "quote": "Puh, also in Wien sind wir seit Anfang 2015 aktiv. Hatten dann jeden Monat Events in verschiedenen Locations.",
+   "quote_clean": "In Wien sind wir seit Anfang 2015 aktiv. Wir hatten dann jeden Monat Events in verschiedenen Locations.",
+   "statement": "Die Wiener Lokalgruppe des effektiven Altruismus ist seit Anfang 2015 aktiv.",
+   "question": "Seit welchem Jahr ist die Wiener Gruppe für effektiven Altruismus aktiv?",
+   "answer": "Seit 2015",
+   "distractors": [
+    "Seit 2005",
+    "Seit 2011",
+    "Seit 2018"
+   ],
+   "number_value": 2015,
+   "number_unit": "Jahr",
+   "slider_min": 2000,
+   "slider_max": 2019,
+   "log_scale": false,
+   "aha": "Anna hat die Gruppe selbst gegründet, mit monatlichen Events in verschiedenen Locations. Die Bewegung an sich ist aber ein paar Jahre älter, ihre Wurzeln liegen vor allem in Oxford.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wien",
+    "Bewegung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 604,
+   "speaker": "Andreas Sator",
+   "quote": "Setzt man sich nicht, wie geht es dir damit, das würde mich interessieren, setzt man sich nicht enorm unter Druck? Man will so viel Gutes wie möglich tun.",
+   "quote_clean": "Wie geht es dir damit, das würde mich interessieren: Setzt man sich nicht enorm unter Druck? Man will so viel Gutes wie möglich tun.",
+   "statement": "Andreas fragt Anna, ob man sich als effektive Altruistin nicht enorm unter Druck setzt.",
+   "question": "Was will Andreas von Anna wissen, als er sich vorstellt, am Samstag faul auf der Couch zu liegen?",
+   "answer": "Ob man sich enorm unter Druck setzt",
+   "distractors": [
+    "Ob Fernsehen unmoralisch ist",
+    "Ob sie selbst Netflix schaut",
+    "Ob Faulheit angeboren ist"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas liegt gedanklich auf der Couch, während er eigentlich Flüchtlingen beim Deutschlernen helfen könnte. Anna kennt das Dilemma: Manche fragen sich bei jedem Kaffee, ob sie das Geld nicht spenden sollten. Ihre Antwort: Am Ende ist man ein Mensch und braucht auch Ausgleich.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Druck",
+    "Freizeit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1162,
+   "speaker": "Anna Riedl",
+   "quote": "dass in der Bay Area, da sind die Leute noch sehr viel nerdier, nerdiger, ich weiß gar nicht, wie man das steigert,",
+   "quote_clean": "dass in der Bay Area die Leute noch sehr viel nerdiger sind, ich weiß gar nicht, wie man das steigert.",
+   "statement": "Anna Riedl beschreibt die effektiven Altruist:innen in der Bay Area als noch nerdiger und weiß nicht, wie man das Wort steigert.",
+   "question": "Bei welchem Wort weiß Anna nicht, wie man es steigert, als sie die Bay Area beschreibt?",
+   "answer": "Nerdy",
+   "distractors": [
+    "Smart",
+    "Cool",
+    "Woke"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas' Klischee vom effektiven Altruisten war der weiße Tech-Typ, und Anna gibt zu: ein bisschen nerdy ist der Durchschnitt schon. In der Bay Area sogar noch nerdier. Oder nerdiger. Man weiß es nicht.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Bewegung",
+    "Humor"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "57",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

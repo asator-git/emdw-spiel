@@ -1,0 +1,735 @@
+{
+ "theme": "Österreich & Politik",
+ "summary": "Wem gehören Österreichs Zeitungen? Raiffeisen, Kirche, Dichands, Fellner und viele Stiftungen, ein Gewirr, das Harald Fidler geduldig entwirrt.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 231,
+   "speaker": "Harald Fidler",
+   "quote": "Wenn man im Print schaut und wenn man das ein bisschen erweitert, gibt es noch 40 Prozent, die Raiffeisen an der ORF-Sender-Tochter ORS hält.",
+   "quote_clean": "Wenn man das über Print hinaus erweitert, gibt es noch 40 Prozent, die Raiffeisen an der ORF-Sendertochter ORS hält.",
+   "statement": "Raiffeisen hielt 40 Prozent an der ORS, der Sendertechnik-Tochter des ORF.",
+   "question": "Wie viel Prozent der ORF-Sendertochter ORS hielt Raiffeisen laut Harald Fidler?",
+   "answer": "40 Prozent",
+   "distractors": [
+    "10 Prozent",
+    "25 Prozent",
+    "60 Prozent"
+   ],
+   "number_value": 40,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Eine Bank, die beim ORF mitverdient: Raiffeisen hielt 40 Prozent an der ORS, die die Sendeanlagen betreibt. Laut Harald bringt das den Raiffeisen-Medien sogar am meisten Geld, mehr als der Kurier.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Raiffeisen",
+    "ORF"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 248,
+   "speaker": "Harald Fidler",
+   "quote": "Die ORS betreibt die Rundfunksender und auch im Prinzip vermietet Satellitentransponder unter, also quasi für Fernseh- und Radiosignale über Antenne, über Satellit, macht die die Technik und die technische Plattform und die Abwicklung.",
+   "quote_clean": "Die ORS betreibt die Rundfunksender und vermietet Satellitentransponder unter. Für Fernseh- und Radiosignale über Antenne und Satellit macht sie die Technik, die technische Plattform und die Abwicklung.",
+   "statement": "Die ORF-Tochter ORS betreibt die Rundfunksender und die Technik für Fernseh- und Radiosignale über Antenne und Satellit.",
+   "question": "Was macht die ORF-Tochter ORS?",
+   "answer": "Sie betreibt Sendeanlagen und Satellitentechnik",
+   "distractors": [
+    "Sie verkauft Werbezeiten für den ORF",
+    "Sie produziert Serien für ORF eins",
+    "Sie hebt die ORF-Gebühren ein"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Damit das Programm überhaupt bei dir ankommt, braucht es Sendemasten und Satelliten-Transponder. Genau das macht die ORS, ein eher unsichtbares, aber einträgliches Geschäft.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "ORF",
+    "Technik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 576,
+   "speaker": "Harald Fidler",
+   "quote": "Die Nöhn hält, an der hält, oder am Niederösterreichischen Pressehaus, hält die Diözese St. Pölten eine Mehrheit, 56 Prozent,",
+   "quote_clean": "Am Niederösterreichischen Pressehaus hält die Diözese St. Pölten eine Mehrheit, 56 Prozent.",
+   "statement": "Die Diözese St. Pölten hält 56 Prozent am Niederösterreichischen Pressehaus, das die NÖN herausgibt.",
+   "question": "Wie viel Prozent am Niederösterreichischen Pressehaus (NÖN) hält die Diözese St. Pölten?",
+   "answer": "56 Prozent",
+   "distractors": [
+    "20 Prozent",
+    "34 Prozent",
+    "75 Prozent"
+   ],
+   "number_value": 56,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Die Niederösterreichischen Nachrichten gehören mehrheitlich der Kirche: 56 Prozent hält die Diözese St. Pölten, 20 Prozent Raiffeisen. Bezirksblatt mit bischöflichem Segen, sozusagen.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Kirche",
+    "NÖN"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 611,
+   "speaker": "Harald Fidler",
+   "quote": "Die Styria ist Österreichs zweitgrößter Tageszeitungskonzern, ein Medienkonzern mit so, falls das jemanden interessiert, so 320 Millionen Umsatz im Jahr.",
+   "quote_clean": "Die Styria ist Österreichs zweitgrößter Tageszeitungskonzern, ein Medienkonzern mit rund 320 Millionen Umsatz im Jahr.",
+   "statement": "Die Styria, Österreichs zweitgrößter Tageszeitungskonzern, macht rund 320 Millionen Euro Umsatz im Jahr.",
+   "question": "Wie viel Umsatz im Jahr macht die Styria, Österreichs zweitgrößter Tageszeitungskonzern, ungefähr?",
+   "answer": "rund 320 Millionen Euro",
+   "distractors": [
+    "rund 40 Millionen Euro",
+    "rund 1,2 Milliarden Euro",
+    "rund 3 Milliarden Euro"
+   ],
+   "number_value": 320,
+   "number_unit": "Millionen Euro",
+   "slider_min": 10,
+   "slider_max": 3000,
+   "log_scale": true,
+   "aha": "Zur Styria gehören die Kleine Zeitung und die Presse, dazu Magazine wie die Wienerin. Das ergibt ungefähr 320 Millionen Euro Umsatz, nicht schlecht für einen Konzern, der 1868 aus einem katholischen Verein entstanden ist.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Styria",
+    "Umsatz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 662,
+   "speaker": "Harald Fidler",
+   "quote": "Diese Styria gehört aber, wenn man es ganz streng nimmt, nicht der Kirche, sondern der Katholischen Medienverein Privatstiftung, in der halt aufrechte Katholiken aus der Steiermark und Umgebung sitzen, und deren Gremien bestimmt der Bischof wesentlich mit,",
+   "quote_clean": "Die Styria gehört, streng genommen, nicht der Kirche, sondern der Katholischer Medienverein Privatstiftung, in der aufrechte Katholiken aus der Steiermark und Umgebung sitzen, und deren Gremien bestimmt der Bischof wesentlich mit.",
+   "statement": "Die Styria (Kleine Zeitung, Presse) gehört der Katholischer Medienverein Privatstiftung, deren Gremien der Bischof wesentlich mitbestimmt.",
+   "question": "Wem gehört der Styria-Konzern mit Kleiner Zeitung und Presse?",
+   "answer": "Einer katholischen Privatstiftung",
+   "distractors": [
+    "Der Raiffeisen-Gruppe",
+    "Der Familie Dichand",
+    "Dem deutschen Bertelsmann-Konzern"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Formal gehört die Styria nicht der Kirche, sondern einer Stiftung voller aufrechter Katholiken. Weil der Bischof in deren Gremien kräftig mitredet, ist der Einfluss trotzdem eh da.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kirche",
+    "Styria"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 703,
+   "speaker": "Harald Fidler",
+   "quote": "Die Styria und dieser Medienverein, früher Pressverein, gibt es ja schon seit 1868 oder so, und wurde damals eben gegründet von Katholiken, die etwas gegen den Liberalismus und die Strömungen der neuen Zeit aus Wien dem entgegensetzen wollten, auch publizistisch.",
+   "quote_clean": "Die Styria und diesen Medienverein, früher Pressverein, gibt es schon seit etwa 1868. Er wurde damals von Katholiken gegründet, die dem Liberalismus und den Strömungen der neuen Zeit aus Wien etwas entgegensetzen wollten, auch publizistisch.",
+   "statement": "Der katholische Pressverein, aus dem die Styria hervorging, wurde um 1868 gegründet, um dem Liberalismus etwas entgegenzusetzen.",
+   "question": "In welchem Jahr wurde ungefähr der katholische Pressverein gegründet, aus dem die Styria entstand?",
+   "answer": "um 1868",
+   "distractors": [
+    "um 1918",
+    "um 1945",
+    "um 1815"
+   ],
+   "number_value": 1868,
+   "number_unit": "Jahr",
+   "slider_min": 1800,
+   "slider_max": 1960,
+   "log_scale": false,
+   "aha": "Die Styria ist ein Kind des Kulturkampfs: Katholiken in der Steiermark wollten dem Liberalismus aus Wien publizistisch etwas entgegensetzen. Zuerst mit einem Buchverlag, dann mit der Kleinen Zeitung.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Geschichte",
+    "Styria"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 783,
+   "speaker": "Harald Fidler",
+   "quote": "Der Christoph Dichand besitzt 12,5 Prozent an der Kronenzeitung, aber seine Familie hält genau 50 Prozent an der Kronenzeitung Österreichs,",
+   "quote_clean": "Christoph Dichand besitzt 12,5 Prozent an der Kronen Zeitung, aber seine Familie hält genau 50 Prozent an der Kronen Zeitung.",
+   "statement": "Die Familie Dichand hält genau 50 Prozent an der Kronen Zeitung, Österreichs reichweitenstärkstem Printmedium.",
+   "question": "Wie viel Prozent der Kronen Zeitung hält die Familie Dichand?",
+   "answer": "genau 50 Prozent",
+   "distractors": [
+    "25 Prozent",
+    "75 Prozent",
+    "100 Prozent"
+   ],
+   "number_value": 50,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Exakt halbe-halbe: Die Familie Dichand hält 50 Prozent der Krone, die andere Hälfte gehört der deutschen Funke-Gruppe und René Benko. Christoph Dichand persönlich hat davon 12,5 Prozent.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Krone",
+    "Dichand"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 807,
+   "speaker": "Harald Fidler",
+   "quote": "Und Eva Dichand wiederum hält einerseits über eine Stiftung, andererseits persönlich Minderheitsanteile an der Gratiszeitung heute, die in Wien die weitaus reichweitenstärkste Tageszeitung ist,",
+   "quote_clean": "Eva Dichand hält einerseits über eine Stiftung, andererseits persönlich Minderheitsanteile an der Gratiszeitung Heute, die in Wien die weitaus reichweitenstärkste Tageszeitung ist.",
+   "statement": "Die Gratiszeitung Heute ist in Wien die weitaus reichweitenstärkste Tageszeitung.",
+   "question": "Welche Tageszeitung ist in Wien die mit Abstand reichweitenstärkste?",
+   "answer": "Die Gratiszeitung Heute",
+   "distractors": [
+    "Die Kronen Zeitung",
+    "Der Kurier",
+    "Die Presse"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In ganz Österreich liegt die Krone vorne, in Wien aber schlägt sie das Gratisblatt Heute aus der U-Bahn. Pikant: An Heute ist Eva Dichand beteiligt, also die Familie, der auch die halbe Krone gehört.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Heute",
+    "Wien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 961,
+   "speaker": "Harald Fidler",
+   "quote": "Das ist der größte Zeitungsverlag Österreichs, marktbeherrschend und so 420 Millionen Umsatz.",
+   "quote_clean": "Das ist der größte Zeitungsverlag Österreichs, marktbeherrschend, mit rund 420 Millionen Umsatz.",
+   "statement": "Die Mediaprint, gemeinsamer Verlag von Krone und Kurier, ist Österreichs größter Zeitungsverlag mit rund 420 Millionen Euro Umsatz.",
+   "question": "Wie viel Umsatz macht die Mediaprint, der gemeinsame Verlag von Krone und Kurier, ungefähr?",
+   "answer": "rund 420 Millionen Euro",
+   "distractors": [
+    "rund 60 Millionen Euro",
+    "rund 1,5 Milliarden Euro",
+    "rund 4 Milliarden Euro"
+   ],
+   "number_value": 420,
+   "number_unit": "Millionen Euro",
+   "slider_min": 10,
+   "slider_max": 5000,
+   "log_scale": true,
+   "aha": "Krone und Kurier sind publizistisch Konkurrenten, teilen sich aber einen Verlag: die Mediaprint. Die stellt zu, druckt, verkauft Anzeigen und kommt so auf rund 420 Millionen Euro Umsatz.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Mediaprint",
+    "Umsatz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 972,
+   "speaker": "Harald Fidler",
+   "quote": "Der gemeinsame Verlag macht den Vertrieb der beiden Zeitungen. Also er bringt einerseits die Krone oder den Kurier oder beide in der Früh bis 6 Uhr auf die Türtacke vor der Haustür oder vor der Wohnungstür.",
+   "quote_clean": "Der gemeinsame Verlag macht den Vertrieb der beiden Zeitungen. Er bringt die Krone oder den Kurier oder beide in der Früh bis 6 Uhr auf die Türmatte vor der Haustür oder vor der Wohnungstür.",
+   "statement": "Die Mediaprint übernimmt für Krone und Kurier den Vertrieb, bis zur Zustellung vor die Wohnungstür bis 6 Uhr früh.",
+   "question": "Was macht die Mediaprint für Krone und Kurier unter anderem?",
+   "answer": "Vertrieb und Zustellung bis 6 Uhr früh",
+   "distractors": [
+    "Sie schreibt die Leitartikel beider Zeitungen",
+    "Sie wählt die Chefredakteure aus",
+    "Sie betreibt die Online-Redaktionen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zwei konkurrierende Redaktionen, aber ein gemeinsamer Apparat dahinter: Die Mediaprint legt die Zeitungen bis 6 Uhr vor die Tür, beliefert Trafiken und Tankstellen und kümmert sich ums Anzeigengeschäft.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mediaprint",
+    "Vertrieb"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 996,
+   "speaker": "Harald Fidler",
+   "quote": "Dieser Verlag druckt, er hat eine eigene Druckerei, in der auch der Standard hergestellt wird im Übrigen.",
+   "quote_clean": "Dieser Verlag druckt, er hat eine eigene Druckerei, in der übrigens auch der Standard hergestellt wird.",
+   "statement": "Der Standard wird in der Druckerei der Mediaprint gedruckt, die zu Krone und Kurier gehört.",
+   "question": "Wo wird die Zeitung Der Standard laut Harald Fidler gedruckt?",
+   "answer": "In der Druckerei der Mediaprint",
+   "distractors": [
+    "In einer eigenen Standard-Druckerei",
+    "In einer Druckerei in Deutschland",
+    "In der Druckerei der Styria"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Konkurrenz druckt mit: Der Standard läuft in der Druckerei der Mediaprint vom Band, also beim Verlag von Krone und Kurier. Harald muss es wissen, er arbeitet beim Standard.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Standard",
+    "Mediaprint"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1200,
+   "speaker": "Harald Fidler",
+   "quote": "die ganze Verlagsgruppe News und hat dann 2006 eine Tageszeitung namens Österreich gegründet,",
+   "quote_clean": "die ganze Verlagsgruppe News, und hat dann 2006 eine Tageszeitung namens Österreich gegründet.",
+   "statement": "Wolfgang Fellner gründete 2006 die Tageszeitung Österreich.",
+   "question": "In welchem Jahr gründete Wolfgang Fellner die Tageszeitung Österreich?",
+   "answer": "2006",
+   "distractors": [
+    "1992",
+    "1999",
+    "2013"
+   ],
+   "number_value": 2006,
+   "number_unit": "Jahr",
+   "slider_min": 1980,
+   "slider_max": 2020,
+   "log_scale": false,
+   "aha": "Fellner ist Österreichs Seriengründer: News, die ganze Verlagsgruppe News und 2006 dann die Tageszeitung Österreich, heute samt Gratis-Ausgabe oe24, Fernsehsender und sogar Wetterportal.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fellner",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1356,
+   "speaker": "Harald Fidler",
+   "quote": "Also er hat noch meines Wissens so 15 bis 17 Millionen Euro mitbekommen, irgendwie auf den Weg, mit den Anteilen.",
+   "quote_clean": "Er hat meines Wissens noch 15 bis 17 Millionen Euro mit auf den Weg bekommen, mit den Anteilen.",
+   "statement": "Als Horst Pirker die Verlagsgruppe News von Bertelsmann übernahm, bekam er laut Fidler 15 bis 17 Millionen Euro mit.",
+   "question": "Was bekam Horst Pirker laut Harald Fidler bei der Übernahme der Verlagsgruppe News von Bertelsmann?",
+   "answer": "15 bis 17 Millionen Euro mitgegeben",
+   "distractors": [
+    "Einen Kredit über 100 Millionen Euro",
+    "Nichts außer den Anteilen",
+    "Eine Beteiligung an Bertelsmann"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bertelsmann wollte die Verlagsgruppe News loswerden, weil es bergab ging. Pirker bekam den Magazinkonzern praktisch geschenkt und dazu noch 15 bis 17 Millionen Euro in Krediten und Cash. Harald zollt ihm dafür Respekt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "News",
+    "Pirker"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1551,
+   "speaker": "Harald Fidler",
+   "quote": "Privatstiftungen, zwei Privatstiftungen. Einer von Armin Turnhör, Mitgründer, und einer von Sigmar Schlager, langjähriger Geschäftsführer des Falter.",
+   "quote_clean": "Privatstiftungen, zwei Privatstiftungen. Eine von Armin Thurnher, Mitgründer, und eine von Siegmar Schlager, langjähriger Geschäftsführer des Falter.",
+   "statement": "Der Falter gehört mehrheitlich zwei Privatstiftungen, von Mitgründer Armin Thurnher und vom langjährigen Geschäftsführer Siegmar Schlager.",
+   "question": "Wem gehört der Falter mehrheitlich?",
+   "answer": "Zwei Privatstiftungen von Thurnher und Schlager",
+   "distractors": [
+    "Der Stadt Wien",
+    "Der Raiffeisen-Gruppe",
+    "Der Styria Media Group"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Auch beim Falter landet man bei Stiftungen: Die Mehrheit halten die Privatstiftungen von Armin Thurnher und Siegmar Schlager. Stiftungen sind in Österreichs Medienlandschaft offenbar so beliebt wie die Melange im Kaffeehaus.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Falter",
+    "Stiftung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1603,
+   "speaker": "Harald Fidler",
+   "quote": "In Vorarlberg, da ist die Russ-Media-Gruppe ein besonders dominierendes Unternehmen mit allerlei Medien und vor allem noch immer wahnsinns Reichweiten, vor allem digital jetzt, gehört der Familie Russ. Deswegen auch irgendwie Vorarlberg als Russland gerne bezeichnet.",
+   "quote_clean": "In Vorarlberg ist die Russmedia-Gruppe ein besonders dominierendes Unternehmen mit allerlei Medien und noch immer wahnsinnigen Reichweiten, vor allem digital. Sie gehört der Familie Russ. Deswegen wird Vorarlberg gerne als Russland bezeichnet.",
+   "statement": "Weil die Russmedia-Gruppe der Familie Russ den Vorarlberger Medienmarkt dominiert, wird Vorarlberg gern Russland genannt.",
+   "question": "Welchen Spitznamen hat Vorarlberg wegen seiner dominierenden Mediengruppe?",
+   "answer": "Russland",
+   "distractors": [
+    "Ländle-Land",
+    "Vorarlbergistan",
+    "Russ-Republik"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Vorarlberger Nachrichten und vieles mehr gehören der Russmedia-Gruppe der Familie Russ. Die ist im Ländle so dominant, dass Vorarlberg gern Russland genannt wird, ganz ohne Moskau.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Vorarlberg",
+    "Familienbesitz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1624,
+   "speaker": "Harald Fidler",
+   "quote": "Dann gibt es in Tirol die Tiroler Tageszeitung. Die gehört der Moser Holding. Und die Moser Holding wiederum zu rund 75 Prozent den Erben des Gründers.",
+   "quote_clean": "In Tirol gibt es die Tiroler Tageszeitung. Die gehört der Moser Holding, und die Moser Holding wiederum zu rund 75 Prozent den Erben des Gründers.",
+   "statement": "Die Moser Holding, Eigentümerin der Tiroler Tageszeitung, gehört zu rund 75 Prozent den Erben des Gründers.",
+   "question": "Wie viel Prozent der Moser Holding (Tiroler Tageszeitung) gehören den Erben des Gründers?",
+   "answer": "rund 75 Prozent",
+   "distractors": [
+    "rund 25 Prozent",
+    "rund 50 Prozent",
+    "rund 95 Prozent"
+   ],
+   "number_value": 75,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Auch die Bundesländer-Zeitungen sind Familiensache: Die Tiroler Tageszeitung gehört über die Moser Holding zu drei Vierteln den Erben des Gründers. Salzburger und Oberösterreichische Nachrichten ebenso in Familienhand.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Tirol",
+    "Familienbesitz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1703,
+   "speaker": "Harald Fidler",
+   "quote": "Ich meine, in Österreich gibt es eine Spezialität, es gibt auch noch eine republikseigene Tageszeitung, die Wiener Zeitung, die sollten wir nicht vergessen,",
+   "quote_clean": "In Österreich gibt es eine Spezialität: Es gibt auch noch eine republikseigene Tageszeitung, die Wiener Zeitung, die sollten wir nicht vergessen.",
+   "statement": "Österreich hatte mit der Wiener Zeitung eine Tageszeitung, die der Republik gehört.",
+   "question": "Welche österreichische Tageszeitung gehört(e) der Republik selbst?",
+   "answer": "Die Wiener Zeitung",
+   "distractors": [
+    "Die Presse",
+    "Die Kleine Zeitung",
+    "Der Kurier"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine Zeitung im Staatsbesitz ist eine österreichische Spezialität: die Wiener Zeitung, gegründet 1703, eine der ältesten Zeitungen der Welt. Seit 2023 erscheint sie allerdings nicht mehr täglich auf Papier.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Wiener Zeitung",
+    "Republik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1802,
+   "speaker": "Harald Fidler",
+   "quote": "aber die Medienkonzentration in Österreich ist auch deshalb so hoch, weil es ein Medienunternehmen gibt, das so groß ist wie die drei größten oder vier größten Verlage zusammen, das größer ist als alle Fernsehsender,",
+   "quote_clean": "Die Medienkonzentration in Österreich ist auch deshalb so hoch, weil es ein Medienunternehmen gibt, das so groß ist wie die drei oder vier größten Verlage zusammen, das größer ist als alle Fernsehsender.",
+   "statement": "Der ORF ist so groß wie die drei bis vier größten österreichischen Verlage zusammen, deshalb ist die Medienkonzentration so hoch.",
+   "question": "Wie groß ist der ORF im Vergleich zu Österreichs Verlagen laut Harald Fidler?",
+   "answer": "So groß wie die drei bis vier größten zusammen",
+   "distractors": [
+    "Etwa halb so groß wie die Mediaprint",
+    "Etwa so groß wie die Styria",
+    "Kleiner als jeder der großen Verlage"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer bei Medienkonzentration nur an Zeitungen denkt, übersieht den Elefanten am Küniglberg: Der ORF ist so groß wie die drei oder vier größten Verlage zusammen. Ist ein Unternehmen größer als die nächsten drei, vier, gilt der Markt als konzentriert.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "ORF",
+    "Konzentration"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1867,
+   "speaker": "Harald Fidler",
+   "quote": "Hintergrund ist einfach in Österreich beim ORF die späte Zulassung von Fernsehen und Privatradio und warum das so ist, wollte irgendwie keiner, weder der ORF noch die Politik, der Einfluss auf den ORF, auf einen großen ORF, lieber ist als auf einen kleinen und die Verleger wollten das eigentlich auch nicht, weil sie neue Konkurrenz gefürchtet haben.",
+   "quote_clean": "Hintergrund ist in Österreich die späte Zulassung von Privatfernsehen und Privatradio. Das wollte keiner: weder der ORF noch die Politik, der Einfluss auf einen großen ORF lieber ist als auf einen kleinen, und die Verleger wollten das auch nicht, weil sie neue Konkurrenz gefürchtet haben.",
+   "statement": "Der ORF ist so dominant, weil Privatradio und Privatfernsehen in Österreich spät zugelassen wurden: Politik, ORF und Verleger wollten das nicht.",
+   "question": "Warum wurden Privatsender in Österreich so spät zugelassen?",
+   "answer": "ORF, Politik und Verleger wollten es nicht",
+   "distractors": [
+    "Es gab technisch zu wenige Frequenzen",
+    "Die EU hatte es lange verboten",
+    "Es fanden sich keine Investoren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Österreich war beim Privatrundfunk spät dran, und das hatte Gründe: Die Politik hat lieber Einfluss auf einen großen ORF als auf einen kleinen, und die Zeitungsverleger fürchteten neue Konkurrenz um Werbegeld. So blieb der ORF lange allein auf weiter Flur.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "ORF",
+    "Privatrundfunk"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1958,
+   "speaker": "Harald Fidler",
+   "quote": "Ich würde dafür plädieren, irgendwie Medien, und zwar jedes Medium, kritisch zu konsumieren und vielleicht ein zweites, drittes oder viertes, das vielleicht auch aus einem anderen Hintergrund kommt oder einen anderen Eigentümer hat",
+   "quote_clean": "Ich würde dafür plädieren, jedes Medium kritisch zu konsumieren und vielleicht ein zweites, drittes oder viertes, das aus einem anderen Hintergrund kommt oder einen anderen Eigentümer hat, sich auch anzuschauen.",
+   "statement": "Harald Fidler rät, jedes Medium kritisch zu konsumieren und zusätzlich Medien mit anderem Hintergrund oder anderem Eigentümer zu lesen.",
+   "question": "Was rät der Medienjournalist, wenn man weiß, wem die Medien gehören?",
+   "answer": "Kritisch lesen und andere Eigentümer vergleichen",
+   "distractors": [
+    "Nur noch öffentlich-rechtliche Medien nutzen",
+    "Keine Zeitungen mit Stiftungsbesitz lesen",
+    "Nur Medien im Familienbesitz vertrauen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kein Grund, niemandem mehr zu glauben: Jedes Medium gehört irgendwem, also lies kritisch und schau dir ein zweites oder drittes mit anderem Eigentümer an. Besonders dann, wenn etwas perfekt in dein Weltbild passt.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Medienkompetenz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 489,
+   "speaker": "Harald Fidler",
+   "quote": "Das wandelt sich auch im Laufe der Zeit, aber beim Kurier ist jedenfalls evident, dass über den Eigentümer und über Eigentümerinteressen mit Bedacht meist geschrieben wird.",
+   "quote_clean": "Das wandelt sich auch im Laufe der Zeit, aber beim Kurier ist jedenfalls evident, dass über den Eigentümer und über Eigentümerinteressen meist mit Bedacht geschrieben wird.",
+   "statement": "Beim mehrheitlich Raiffeisen gehörenden Kurier wird über den Eigentümer und dessen Interessen meist mit Bedacht geschrieben.",
+   "question": "Wie wird laut Harald Fidler beim Kurier über den Eigentümer Raiffeisen meist geschrieben?",
+   "answer": "Mit Bedacht",
+   "distractors": [
+    "Besonders kritisch",
+    "Gar nicht",
+    "Nur im Wirtschaftsteil"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Man braucht keine Verschwörungstheorie, sagt Harald: Wer einem Medium gehört, beeinflusst schon mit, was dort steht. Beim Kurier sieht man das daran, wie vorsichtig über Raiffeisen geschrieben wird.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Kurier",
+    "Raiffeisen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 195,
+   "speaker": "Harald Fidler",
+   "quote": "Genau, da wird schon wieder kompliziert. Ich bemühe mich eh. Aber ich habe diese Verhältnisse ja nicht erfunden. Ich hätte sie ja ganz anders erfunden.",
+   "quote_clean": "Genau, da wird es schon wieder kompliziert. Ich bemühe mich eh. Aber ich habe diese Verhältnisse ja nicht erfunden. Ich hätte sie ganz anders erfunden.",
+   "statement": "Harald Fidler entschuldigt sich für die komplizierten Eigentumsverhältnisse: Er habe sie nicht erfunden, er hätte sie ganz anders erfunden.",
+   "question": "Wie reagiert der Gast, als Andreas über die komplizierten Eigentumsverhältnisse stöhnt?",
+   "answer": "Er hätte sie ganz anders erfunden",
+   "distractors": [
+    "Er empfiehlt ein Organigramm zum Ausdrucken",
+    "Er sagt, in Deutschland sei es schlimmer",
+    "Er schlägt vor, das Thema zu wechseln"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Raiffeisen, Kurier, Profil, News: Schon nach drei Minuten verheddern sich die Beteiligungen. Harald nimmt es mit Humor, die Verhältnisse hat er ja nicht erfunden, und er hätte sie ganz anders gebaut.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Moment",
+    "Verflechtungen"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 275,
+   "speaker": "Harald Fidler",
+   "quote": "Raiffeisen hat nicht abgestoßen, Raiffeisen wurde abgestoßen. Der Kurier war eigentlich bis heuer, also 2018, im Sommer, Frühjahr, 25 Prozent Gesellschafter der Verlagsgruppe News.",
+   "quote_clean": "Raiffeisen hat nicht abgestoßen, Raiffeisen wurde abgestoßen. Der Kurier war bis heuer, also bis Frühjahr oder Sommer 2018, zu 25 Prozent Gesellschafter der Verlagsgruppe News.",
+   "statement": "Der Kurier verlor 2018 seine 25-Prozent-Beteiligung an der Verlagsgruppe News, weil die anderen Eigentümer eine Option zogen.",
+   "question": "Was passierte 2018 mit der 25-Prozent-Beteiligung des Kuriers an der Verlagsgruppe News?",
+   "answer": "Sie wurde ohne Bezahlung zurückgeholt",
+   "distractors": [
+    "Sie wurde an Fellner verkauft",
+    "Sie wurde auf 50 Prozent erhöht",
+    "Sie ging an die Styria"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Raiffeisen hat nicht verkauft, Raiffeisen wurde rausgekauft, und zwar für praktisch kein Geld: Die anderen Eigentümer zogen eine alte Option. Nicht einmal der symbolische Euro floss, vermutet Harald.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Kurier",
+    "News"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 1918,
+   "speaker": "Andreas Sator",
+   "quote": "was kannst du den Leuten mitgeben, wenn sie Medien lesen, kann man niemandem mehr glauben oder wie geht man damit um,",
+   "quote_clean": "Was kannst du den Leuten mitgeben, wenn sie Medien lesen? Kann man niemandem mehr glauben oder wie geht man damit um?",
+   "statement": "Andreas fragt zum Schluss, was man Leser:innen mitgeben kann, und ob man nach so vielen Verflechtungen niemandem mehr glauben kann.",
+   "question": "Welche Frage stellt Andreas Harald Fidler zum Abschluss der Folge?",
+   "answer": "Kann man Medien noch glauben, und wie umgehen?",
+   "distractors": [
+    "Welche Zeitung liest du selbst am liebsten?",
+    "Wem würdest du gern eine Zeitung verkaufen?",
+    "Wie viel verdient ein Medienredakteur?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas hört gern mit dem auf, was man aus einer Folge in den Alltag mitnehmen kann. Hier also: Wenn eh jedes Medium irgendwem gehört, kann man dann noch irgendwem glauben?",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Abschlussfrage"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 438,
+   "speaker": "Andreas Sator",
+   "quote": "Harald, du kennst Erklär mir die Welt vielleicht noch nicht so lange, aber da stelle ich die Fragen.",
+   "quote_clean": "Harald, du kennst Erklär mir die Welt vielleicht noch nicht so lange, aber da stelle ich die Fragen.",
+   "statement": "Als Harald Fidler Andreas eine Gegenfrage zum Kurier-Wirtschaftsteil stellt, erinnert ihn Andreas daran, wer hier die Fragen stellt.",
+   "question": "Was sagt Andreas, als Harald Fidler ihm eine Gegenfrage stellt?",
+   "answer": "Da stelle ich die Fragen",
+   "distractors": [
+    "Das schneiden wir raus",
+    "Dazu darf ich nichts sagen",
+    "Frag mich nach der Folge"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Harald wollte wissen, ob Andreas als Wirtschaftsredakteur beim Kurier etwas über Raiffeisen aufgefallen ist. Andreas kontert trocken mit der Hausordnung, Harald entschuldigt sich prompt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Moment",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "44",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

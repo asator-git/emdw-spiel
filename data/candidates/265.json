@@ -1,0 +1,734 @@
+{
+ "theme": "Wissenschaft & Technik",
+ "summary": "Physiker Georg Harrer erklärt, wie man die Sonne auf der Erde nachbaut, warum das so schwierig ist und was Einstein damit zu tun hat.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 147,
+   "speaker": "Georg Harrer",
+   "quote": "Und die meiste Masse von dem ganzen Atom ist im Kern. Also ein Proton ist 2000 Mal so schwer wie ein Elektron.",
+   "quote_clean": "Und die meiste Masse des ganzen Atoms ist im Kern. Ein Proton ist 2000 Mal so schwer wie ein Elektron.",
+   "statement": "Ein Proton ist rund 2000 Mal so schwer wie ein Elektron, deshalb steckt fast die ganze Masse eines Atoms im Kern.",
+   "question": "Wie viel Mal schwerer als ein Elektron ist ein Proton ungefähr?",
+   "answer": "Rund 2000 Mal",
+   "distractors": [
+    "Rund 20 Mal",
+    "Rund 200 Mal",
+    "Rund 200.000 Mal"
+   ],
+   "number_value": 2000,
+   "number_unit": "Mal so schwer",
+   "slider_min": 1,
+   "slider_max": 100000,
+   "log_scale": true,
+   "aha": "Das Elektron ist eigentlich nur ein kleines Ding, das um den Kern herumschwirrt. Welches Element ein Atom ist, bestimmt allein der Kern – ein Proton allein heißt Wasserstoff.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Atom",
+    "Physik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 408,
+   "speaker": "Georg Harrer",
+   "quote": "Also in der Sonne fusionieren 564 Millionen Tonnen Wasserstoff zu 560 Millionen Tonnen Helium jede Sekunde. Und diese 4 Millionen Tonnen Unterschied, das ist das, was an Energie frei wird",
+   "quote_clean": "In der Sonne fusionieren jede Sekunde 564 Millionen Tonnen Wasserstoff zu 560 Millionen Tonnen Helium. Und diese 4 Millionen Tonnen Unterschied, das ist das, was an Energie frei wird.",
+   "statement": "Die Sonne verwandelt durch Kernfusion jede Sekunde rund 4 Millionen Tonnen Masse in Energie.",
+   "question": "Wie viele Tonnen Masse verwandelt die Sonne jede Sekunde in Energie?",
+   "answer": "Rund 4 Millionen Tonnen",
+   "distractors": [
+    "Rund 4 Tonnen",
+    "Rund 4000 Tonnen",
+    "Rund 4 Milliarden Tonnen"
+   ],
+   "number_value": 4000000,
+   "number_unit": "Tonnen pro Sekunde",
+   "slider_min": 1000,
+   "slider_max": 10000000000,
+   "log_scale": true,
+   "aha": "Wasserstoff rein, etwas leichteres Helium raus – die fehlende Masse strahlt als Energie bis zu uns. Wer eine Photovoltaikanlage am Dach hat, nutzt also eh schon Fusionsstrom.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sonne",
+    "Fusion"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 351,
+   "speaker": "Georg Harrer",
+   "quote": "Und genau, mit einem Liter Wasser, wie ich gesagt habe, kann man mit einem Liter Wasser und dem Tritium, das man aus Lithium gewinnt, mit dem Lithium von einer Leptopatrie, kann man einen Österreicher für, also einen Ein-Personen-Haushalt, so für ein Jahr mit Energieversorgung. Und für das braucht man ungefähr, wenn man jetzt mit Kohle rechnet, eine Tonne.",
+   "quote_clean": "Mit einem Liter Wasser und dem Tritium, das man aus dem Lithium einer Laptopbatterie gewinnt, kann man einen Ein-Personen-Haushalt in Österreich ein Jahr lang mit Energie versorgen. Wenn man mit Kohle rechnet, braucht man dafür ungefähr eine Tonne.",
+   "statement": "Ein Liter Wasser plus das Lithium einer Laptopbatterie könnte per Fusion einen Ein-Personen-Haushalt ein Jahr lang versorgen – mit Kohle bräuchte man dafür rund eine Tonne.",
+   "question": "Wie viel Kohle bräuchte man, um so viel Energie zu erzeugen wie die Fusion aus einem Liter Wasser und dem Lithium einer Laptopbatterie?",
+   "answer": "Rund eine Tonne",
+   "distractors": [
+    "Rund ein Kilogramm",
+    "Rund zehn Kilogramm",
+    "Rund hundert Tonnen"
+   ],
+   "number_value": 1,
+   "number_unit": "Tonnen Kohle",
+   "slider_min": 0.001,
+   "slider_max": 1000,
+   "log_scale": true,
+   "aha": "Fusion ist absurd ergiebig: Aus dem Deuterium im Wasser und Tritium aus Lithium holt man so viel wie aus einer Tonne Kohle. Und die Kohle ist danach verbrannt, das Wasser haben wir eh.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Fusion",
+    "Energie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1349,
+   "speaker": "Georg Harrer",
+   "quote": "schießt man ins Plasma und die stoßen dann mit dem Plasma und geben eine Energie an, und somit kann man dann das Plasma auf 100 Millionen Grad bringen. Also das schaffen wir auch schon standardmäßig.",
+   "quote_clean": "Man schießt sie ins Plasma, sie stoßen mit dem Plasma und geben Energie ab, und so kann man das Plasma auf 100 Millionen Grad bringen. Das schaffen wir schon standardmäßig.",
+   "statement": "In Fusionsanlagen wird das Plasma standardmäßig auf rund 100 Millionen Grad erhitzt.",
+   "question": "Auf wie viel Grad Celsius heizt man das Plasma in Fusionsanlagen standardmäßig?",
+   "answer": "Rund 100 Millionen Grad",
+   "distractors": [
+    "Rund 10.000 Grad",
+    "Rund 1 Million Grad",
+    "Rund 10 Milliarden Grad"
+   ],
+   "number_value": 100000000,
+   "number_unit": "Grad",
+   "slider_min": 10000,
+   "slider_max": 100000000000,
+   "log_scale": true,
+   "aha": "Die Sonne braucht weniger, weil ihre riesige Masse die Teilchen zusammenpresst. Auf der Erde muss man das mit Hitze wettmachen – mit Riesen-Mikrowellen, Radiowellen und eingeschossenen Teilchen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Plasma",
+    "Temperatur"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 725,
+   "speaker": "Georg Harrer",
+   "quote": "Und was man da dazu sagen muss, kleiner Asterisk, die Energie, die sie gebraucht haben, um den Laser zu betreiben, war 300 Megajoule. Also es ist immer noch kein Kraftwerk.",
+   "quote_clean": "Und was man dazu sagen muss, kleiner Asterisk: Die Energie, die sie gebraucht haben, um den Laser zu betreiben, war 300 Megajoule. Es ist also immer noch kein Kraftwerk.",
+   "statement": "Beim US-Fusionsdurchbruch kamen aus 2 Megajoule Laserenergie 3 Megajoule heraus, der Betrieb der Laser verbrauchte aber rund 300 Megajoule.",
+   "question": "Wie viele Megajoule brauchte der Laser beim US-Fusionsrekord insgesamt, um 3 Megajoule Fusionsenergie zu erzeugen?",
+   "answer": "Rund 300 Megajoule",
+   "distractors": [
+    "Rund 2 Megajoule",
+    "Rund 30 Megajoule",
+    "Rund 3000 Megajoule"
+   ],
+   "number_value": 300,
+   "number_unit": "Megajoule",
+   "slider_min": 1,
+   "slider_max": 10000,
+   "log_scale": true,
+   "aha": "2 Megajoule kamen am Pellet an, 3 kamen heraus – ein Gewinn von 1,5. Rechnet man den Strom für den riesigen Laser dazu, ist man aber noch weit von einem Kraftwerk entfernt. Gezeigt hat es trotzdem: Es geht grundsätzlich.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Laserfusion",
+    "USA"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1475,
+   "speaker": "Georg Harrer",
+   "quote": "Also ja genau, das Helium hat dann vier Teile und das Neutron 1, das heißt, ein Fünftel der Energie geht aufs Helium und vier Fünftel gingen auf das Neutron.",
+   "quote_clean": "Das heißt, ein Fünftel der Energie geht aufs Helium und vier Fünftel gehen auf das Neutron.",
+   "statement": "Bei der Fusion von Deuterium und Tritium gehen rund vier Fünftel der Energie auf das entstehende Neutron, ein Fünftel auf den Heliumkern.",
+   "question": "Wie viel Prozent der Energie einer Deuterium-Tritium-Fusion trägt das entstehende Neutron davon?",
+   "answer": "80 Prozent",
+   "distractors": [
+    "20 Prozent",
+    "50 Prozent",
+    "95 Prozent"
+   ],
+   "number_value": 80,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Das Neutron ist neutral, dem ist das Magnetfeld wurscht. Es fliegt raus, wird in einer Decke um den Reaktor gefangen und macht dort Wasser warm. Das Helium bleibt drin und heizt das Plasma weiter.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Fusion",
+    "Neutron"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 745,
+   "speaker": "Georg Harrer",
+   "quote": "Und der zweite Durchbruch war, dass der größte momentan existierende Tokamark, das ist die andere Art der Fusion auf der Erde, die magnetische Einschlussfusion, das erste Mal seit 1997 wieder Deuterium und Tritium als Treibstoff verwendet hat",
+   "quote_clean": "Und der zweite Durchbruch war, dass der größte derzeit existierende Tokamak – das ist die andere Art der Fusion auf der Erde, die magnetische Einschlussfusion – zum ersten Mal seit 1997 wieder Deuterium und Tritium als Treibstoff verwendet hat.",
+   "statement": "Der europäische Tokamak JET verwendete 2021 zum ersten Mal seit 1997 wieder echten Deuterium-Tritium-Treibstoff.",
+   "question": "Seit welchem Jahr hatte vor dem JET-Rekord kein Tokamak mehr mit Deuterium-Tritium-Treibstoff gearbeitet?",
+   "answer": "1997",
+   "distractors": [
+    "1968",
+    "1985",
+    "2010"
+   ],
+   "number_value": 1997,
+   "number_unit": "Jahr",
+   "slider_min": 1955,
+   "slider_max": 2020,
+   "log_scale": false,
+   "aha": "Meist forscht man nur mit Deuterium, weil Tritium radioaktiv ist und ganz andere Sicherheitsauflagen braucht. Ein echter D-T-Lauf ist darum selten – und JET schaffte damit ein paar Sekunden Rekordenergie.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Tokamak",
+    "JET"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 219,
+   "speaker": "Georg Harrer",
+   "quote": "Und da gibt es bei Eisen ein Maximum. Das heißt, alles, was schwerer ist als Eisen, kann man spalten. Und alles, was leichter ist als Eisen, kann man fusionieren und damit Energie gewinnen.",
+   "quote_clean": "Und da gibt es bei Eisen ein Maximum. Das heißt, alles, was schwerer ist als Eisen, kann man spalten. Und alles, was leichter ist als Eisen, kann man fusionieren und damit Energie gewinnen.",
+   "statement": "Eisen hat die stabilsten Atomkerne: Schwerere Elemente liefern Energie beim Spalten, leichtere beim Fusionieren.",
+   "question": "Welches Element bildet die Grenze zwischen Kernen, die man zur Energiegewinnung spaltet, und solchen, die man fusioniert?",
+   "answer": "Eisen",
+   "distractors": [
+    "Uran",
+    "Kohlenstoff",
+    "Helium"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei Eisen ist die Bindungsenergie pro Kernbaustein am größten. Uran spaltet man also Richtung Eisen, Wasserstoff fusioniert man Richtung Eisen – beides setzt Energie frei.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kernphysik",
+    "Eisen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 400,
+   "speaker": "Georg Harrer",
+   "quote": "Also wir machen es eh. Jeder, der eine Photovoltaikanlage hat, nutzt Fusionsstrom. Weil die Sonne halt mit Fusionsprozessen funktioniert.",
+   "quote_clean": "Wir machen es eh. Jeder, der eine Photovoltaikanlage hat, nutzt Fusionsstrom, weil die Sonne mit Fusionsprozessen funktioniert.",
+   "statement": "Wer Solarstrom nutzt, nutzt indirekt Fusionsenergie, denn die Sonne gewinnt ihre Energie durch Kernfusion.",
+   "question": "Welche Form der Energiegewinnung nutzt indirekt jede Photovoltaikanlage?",
+   "answer": "Kernfusion",
+   "distractors": [
+    "Kernspaltung",
+    "Erdwärme",
+    "Radioaktiven Zerfall"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Alle Sterne funktionieren so, Fusion ist die Hauptenergiequelle im Universum. Das Kraftwerk steht halt 150 Millionen Kilometer weit weg – und ist zum Glück ziemlich ineffizient, sonst wären wir längst abgebrannt.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Sonne",
+    "Solarenergie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1078,
+   "speaker": "Georg Harrer",
+   "quote": "Und wenn wir jetzt zu den Temperaturen kommen, von denen wir geredet haben, so Millionen von Grad, dann lösen sie die Elektronen von den Kernen und die bewegen sich dann unabhängig voneinander. Und das ist dann ein Plasma, ein ionisiertes Gas.",
+   "quote_clean": "Und wenn wir zu den Temperaturen kommen, von denen wir geredet haben, Millionen von Grad, dann lösen sich die Elektronen von den Kernen und bewegen sich unabhängig voneinander. Und das ist dann ein Plasma, ein ionisiertes Gas.",
+   "statement": "Bei Millionen Grad lösen sich die Elektronen von den Atomkernen: Es entsteht Plasma, ein ionisiertes Gas und der vierte Aggregatzustand.",
+   "question": "Was ist ein Plasma in der Physik?",
+   "answer": "Ein ionisiertes Gas",
+   "distractors": [
+    "Eine besonders dichte Flüssigkeit",
+    "Ein extrem kalter Festkörper",
+    "Ein Gemisch aus Gas und Wasser"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Fest, flüssig, gasförmig – und wenn man noch mehr Energie reinsteckt, fliegen Kerne und Elektronen getrennt herum. Genau dieser vierte Aggregatzustand muss in einer Fusionsanlage schweben, ohne die Wand zu berühren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Plasma",
+    "Aggregatzustand"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2478,
+   "speaker": "Georg Harrer",
+   "quote": "Also ETA zusätzlich zu, dass das jetzt der größte Tokamak ist und ein super Experiment ist das eigentlich was geplant als Friedensprojekt. Also das haben Reagan und Gorbatschow haben das auf die Beine gestellt.",
+   "quote_clean": "ITER ist zusätzlich dazu, dass es der größte Tokamak und ein super Experiment ist, eigentlich als Friedensprojekt geplant. Reagan und Gorbatschow haben das auf die Beine gestellt.",
+   "statement": "Der internationale Fusionsreaktor ITER in Südfrankreich geht auf eine Initiative von Ronald Reagan und Michail Gorbatschow zurück.",
+   "question": "Welche zwei Staatschefs haben das Fusionsprojekt ITER als Friedensprojekt angestoßen?",
+   "answer": "Reagan und Gorbatschow",
+   "distractors": [
+    "Kennedy und Chruschtschow",
+    "Nixon und Breschnew",
+    "Clinton und Jelzin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei ITER sind EU, USA, Russland, China, Japan, Korea und Indien dabei. Jeder baut ein paar Teile, damit danach alle das Know-how haben – ineffizient, aber Georg meint, wenn, dann gäbe es eher den Friedensnobelpreis.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "ITER",
+    "Kalter Krieg"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2728,
+   "speaker": "Georg Harrer",
+   "quote": "sind auch Supraleitern, also die muss man ganz, ganz weit herunterkühlen, damit man hohe Magnetfelder da drinnen erzeugen kann. Das heißt, du hast gleichzeitig den heißesten Ort im Universum und den kältesten Ort nebeneinander,",
+   "quote_clean": "Das sind auch Supraleiter, die muss man ganz, ganz weit herunterkühlen, damit man hohe Magnetfelder erzeugen kann. Das heißt, du hast gleichzeitig den heißesten Ort im Universum und den kältesten Ort nebeneinander.",
+   "statement": "In einem Fusionsreaktor liegen das Millionen Grad heiße Plasma und die extrem gekühlten supraleitenden Magnetspulen direkt nebeneinander.",
+   "question": "Was liegt in einem Fusionsreaktor wie ITER direkt nebeneinander?",
+   "answer": "Extrem heißes Plasma und extrem kalte Magnete",
+   "distractors": [
+    "Ein Kohlekraftwerk und ein Windpark",
+    "Uranstäbe und Wassertanks",
+    "Zwei gegenläufige Laserstrahlen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Damit die Spulen supraleitend werden und starke Magnetfelder machen, kühlt man sie fast auf den absoluten Nullpunkt. Ein paar Meter weiter hat das Plasma 100 Millionen Grad – ähnlich wie bei den Magneten am CERN.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Supraleiter",
+    "ITER"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3190,
+   "speaker": "Andreas Sator",
+   "quote": "Das fand ich in Recherche auch spannend, eine geladene Autobatterie ist schwerer als eine leere, weil mehr Energie drin ist und daher auch die Masse größer ist.",
+   "quote_clean": "Das fand ich bei der Recherche auch spannend: Eine geladene Autobatterie ist schwerer als eine leere, weil mehr Energie drin ist und daher auch die Masse größer ist.",
+   "statement": "Wegen E = mc² ist eine geladene Batterie minimal schwerer als eine leere, weil in ihr mehr Energie steckt.",
+   "question": "Was ist schwerer: eine voll geladene oder eine leere Autobatterie?",
+   "answer": "Die geladene, minimal",
+   "distractors": [
+    "Die leere, minimal",
+    "Beide wiegen exakt gleich",
+    "Die leere, deutlich"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Energie ist gleich Masse, c² ist nur ein Umrechnungsfaktor. Mehr Energie heißt also mehr Masse – messen kann man das bei einer Batterie aber kaum, der Unterschied ist winzig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Einstein",
+    "E=mc²"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2132,
+   "speaker": "Georg Harrer",
+   "quote": "und wir reden über ganz andere Zeitskalen als beim Atomkraftwerk, also wir brauchen keinen Endlager oder so, sondern das ist da so, momentan, also in der momentanen Forschung sind die Materialien so weit, dass die nach 100 Jahren oder 60 Jahren wiederverwendet werden kann.",
+   "quote_clean": "Und wir reden über ganz andere Zeitskalen als beim Atomkraftwerk. Wir brauchen kein Endlager, sondern in der momentanen Forschung sind die Materialien so weit, dass sie nach 60 oder 100 Jahren wiederverwendet werden können.",
+   "statement": "Ein Fusionsreaktor braucht kein Endlager: Die durch Neutronen aktivierten Materialien könnten nach 60 bis 100 Jahren wiederverwendet werden.",
+   "question": "Was passiert mit den radioaktiv gewordenen Teilen eines alten Fusionsreaktors?",
+   "answer": "Nach Jahrzehnten wiederverwenden",
+   "distractors": [
+    "Für Jahrtausende endlagern",
+    "Sofort recyceln",
+    "Im Meer versenken"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Neutronenbeschuss macht die Wände schon radioaktiv, aber nicht auf ewig. Man lässt den Reaktor 60 Jahre stehen und baut ihn dann aus – keine Warnschilder für Menschen in 10.000 Jahren nötig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sicherheit",
+    "Atommüll"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1733,
+   "speaker": "Andreas Sator",
+   "quote": "Es gibt ja diesen Schmäh, in 30 Jahren ist die Kernfusion da, das man seit 60 Jahren, glaube ich, oder hört. Ja, genau. Seit den 1960er Jahren, genau.",
+   "quote_clean": "Es gibt ja diesen Schmäh: In 30 Jahren ist die Kernfusion da – den hört man seit 60 Jahren, glaube ich. – Ja, genau. Seit den 1960er Jahren.",
+   "statement": "Der Spruch „In 30 Jahren ist die Kernfusion da“ kursiert schon seit den 1960er Jahren.",
+   "question": "Seit wann hört man den Spruch „In 30 Jahren ist die Kernfusion da“?",
+   "answer": "Seit den 1960er Jahren",
+   "distractors": [
+    "Seit den 1990er Jahren",
+    "Seit den 2010er Jahren",
+    "Seit den 1920er Jahren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Running Gag der Physik. Georg ist trotzdem optimistischer als früher: Nach den Rekorden fließt viel Geld in die Forschung, alle paar Wochen gibt es ein neues Start-up.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fusion",
+    "Forschung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2083,
+   "speaker": "Georg Harrer",
+   "quote": "und so ein Fusionsreaktor ist halt inhärent sicher, da kann, wenn ein Flugzeug reinfliegt, dann ist es einfach aus, ja, und der kann nicht durchgehen oder so,",
+   "quote_clean": "Und so ein Fusionsreaktor ist inhärent sicher. Wenn ein Flugzeug reinfliegt, dann ist es einfach aus, und der kann nicht durchgehen.",
+   "statement": "Ein Fusionsreaktor kann nicht durchgehen: Bei einer Störung erlischt die Reaktion einfach.",
+   "question": "Was passiert, wenn ein Fusionsreaktor schwer beschädigt wird?",
+   "answer": "Die Reaktion erlischt einfach",
+   "distractors": [
+    "Es droht eine Kernschmelze",
+    "Es kommt zu einer Kettenreaktion",
+    "Es entsteht eine Atomexplosion"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Anders als bei der Spaltung gibt es keine Kettenreaktion, die man ständig bremsen muss. Das Plasma ist so empfindlich, dass es bei jeder Berührung abkühlt – dann ist eh aus.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Sicherheit",
+    "Fusion"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 686,
+   "speaker": "Georg Harrer",
+   "quote": "Und dann komprimiert sich das so zusammen, dass das eben super dicht wird. Also es ist immer nur Wasserstoff, aber der hat dann die Dichte von Blei.",
+   "quote_clean": "Und dann komprimiert sich das so zusammen, dass es super dicht wird. Es ist immer noch Wasserstoff, aber der hat dann die Dichte von Blei.",
+   "statement": "Bei der Laserfusion wird ein gefrorenes Wasserstoff-Pellet so stark zusammengepresst, dass es die Dichte von Blei erreicht.",
+   "question": "Welche Dichte erreicht der Wasserstoff, wenn ihn Laser bei der Trägheitsfusion zusammenpressen?",
+   "answer": "Die Dichte von Blei",
+   "distractors": [
+    "Die Dichte von Wasser",
+    "Die Dichte von Luft",
+    "Die Dichte von Holz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Man friert Deuterium und Tritium auf eine winzige Diamantkugel und beschießt sie von allen Seiten mit einem riesen Laser. Das leichteste Element der Welt wird so kurz dicht wie Blei – und brennt ab.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Laserfusion",
+    "Wasserstoff"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2426,
+   "speaker": "Georg Harrer",
+   "quote": "aber das kann man sich vorstellen, wie lange bleibt das Ding warm, wenn ich aufhöre, Energie reinzupumpen. Oder wie, was ist die Energieeinschlusszeit von dem Kaffee, der da jetzt vor uns steht, ist so ungefähr 20 Minuten oder so.",
+   "quote_clean": "Aber das kann man sich so vorstellen: Wie lange bleibt das Ding warm, wenn ich aufhöre, Energie reinzupumpen? Die Energieeinschlusszeit von dem Kaffee, der da vor uns steht, ist ungefähr 20 Minuten.",
+   "statement": "Die Einschlusszeit beschreibt, wie lange ein Plasma seine Wärme hält – wie ein Kaffee, der nach etwa 20 Minuten kalt ist, in der Thermoskanne aber länger warm bleibt.",
+   "question": "Womit vergleicht Georg Harrer die Energieeinschlusszeit eines Fusionsplasmas?",
+   "answer": "Wie lange ein Kaffee warm bleibt",
+   "distractors": [
+    "Wie lange ein Akku hält",
+    "Wie schnell Eis schmilzt",
+    "Wie lange ein Ofen vorheizt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Temperatur, Dichte und Einschlusszeit müssen stimmen, damit Fusion klappt. Die Einschlusszeit ist ein Maß für die Isolation – und große Maschinen isolieren besser, so wie ein großer Krapfen langsamer auskühlt als ein kleiner.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Plasma",
+    "Vergleich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1511,
+   "speaker": "Georg Harrer",
+   "quote": "Also das heißt, ich muss einmal mit meinen externen Heizungen das Plasma auf eine gewisse Temperatur bringen. Das ist quasi mein Streichholz für das Lagerfeuer. Und ich halte das Streichholz hin zum Lagerfeuer und irgendwann brennt es selber,",
+   "quote_clean": "Das heißt, ich muss das Plasma einmal mit meinen externen Heizungen auf eine gewisse Temperatur bringen. Das ist quasi mein Streichholz für das Lagerfeuer. Ich halte das Streichholz hin, und irgendwann brennt es selber.",
+   "statement": "Ein Fusionsplasma wird zuerst von außen geheizt wie ein Lagerfeuer mit einem Streichholz – danach soll es sich durch die entstehenden Heliumkerne selbst warm halten.",
+   "question": "Womit vergleicht Georg Harrer die externe Heizung, die ein Fusionsplasma zündet?",
+   "answer": "Mit einem Streichholz fürs Lagerfeuer",
+   "distractors": [
+    "Mit einem Turbo im Automotor",
+    "Mit einem Föhn im Winter",
+    "Mit einem Starterkabel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Richtig effizient wird Fusion erst, wenn das Plasma selbst brennt: Die Heliumkerne bleiben im Magnetfeld und heizen weiter. Dann muss man nur noch Wasserstoff nachlegen, wie Holzscheiteln.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Plasma",
+    "Zündung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 823,
+   "speaker": "Georg Harrer",
+   "quote": "Und damit die jetzt am Ende und am Anfang nicht hinausfliegen, also genau, damit die nicht hinausfliegen, nimmt man das Ende und das Anfang und gibt es zusammen und deswegen kriegt man diese Donutform in den Magnetfusionsmaschinen.",
+   "quote_clean": "Und damit die Teilchen am Ende und am Anfang nicht hinausfliegen, nimmt man das Ende und den Anfang und gibt sie zusammen. Deswegen kriegt man diese Donutform in den Magnetfusionsmaschinen.",
+   "statement": "Fusionsanlagen mit Magneteinschluss sind donutförmig, weil man eine gerade Magnetröhre zu einem Ring schließt, damit die Teilchen nicht an den Enden entkommen.",
+   "question": "Warum haben Tokamaks die Form eines Donuts?",
+   "answer": "Damit keine Teilchen am Ende entkommen",
+   "distractors": [
+    "Weil Ringe billiger zu bauen sind",
+    "Damit Laser besser hineinpassen",
+    "Weil sich so Wasser leichter erhitzt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Geladene Teilchen kreisen spiralförmig um Magnetfeldlinien. In einer geraden Röhre würden sie vorne und hinten rausfliegen – also biegt man die Röhre zum Ring, und sie fahren im Kreis.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Tokamak",
+    "Magnetfeld"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2783,
+   "speaker": "Georg Harrer",
+   "quote": "und wenn ich das Magnetfeld zehnmal so hoch mache, dann wird der zehnmal so klein, das heißt, für das Teilchen wirkt die Maschine zehnmal so groß und das heißt, ich kann meine Maschine dann kleiner bauen",
+   "quote_clean": "Und wenn ich das Magnetfeld zehnmal so stark mache, dann wird der Radius zehnmal so klein. Für das Teilchen wirkt die Maschine also zehnmal so groß, und ich kann meine Maschine kleiner bauen.",
+   "statement": "Stärkere Magnetfelder durch Hochtemperatur-Supraleiter lassen die Teilchen enger kreisen, sodass Fusionsanlagen viel kompakter gebaut werden könnten.",
+   "question": "Warum könnten stärkere Magnete Fusionsanlagen kleiner machen?",
+   "answer": "Die Teilchen kreisen auf engeren Bahnen",
+   "distractors": [
+    "Das Plasma wird dadurch kälter",
+    "Man braucht dann keinen Treibstoff",
+    "Die Wände werden dünner"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Start-up aus dem MIT setzt auf Hochtemperatur-Supraleiter für zehnmal stärkere Felder. Für das Teilchen wirkt die Maschine dann zehnmal größer – ein Output wie ITER in einer Halle, in der man gerade noch stehen kann.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Supraleiter",
+    "Start-ups"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 246,
+   "speaker": "Georg Harrer",
+   "quote": "Also das ist im, deshalb das Fusionskraftwerk, dem Kernkraftwerk gemein. Also wir machen auch nur Wasser warm. Es ist alles ein Wasserkocher, ein sehr teurer Wasserkocher.",
+   "quote_clean": "Das hat das Fusionskraftwerk mit dem Kernkraftwerk gemein. Wir machen auch nur Wasser warm. Es ist alles ein Wasserkocher, ein sehr teurer Wasserkocher.",
+   "statement": "Georg Harrer beschreibt ein Fusionskraftwerk wie ein Atomkraftwerk als sehr teuren Wasserkocher.",
+   "question": "Wer hat's gesagt: „Wir machen auch nur Wasser warm. Es ist alles ein Wasserkocher, ein sehr teurer Wasserkocher“?",
+   "answer": "Georg Harrer",
+   "distractors": [
+    "Andreas Sator",
+    "Carlo Masala",
+    "Florian Krammer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am Ende landet die ganze Hightech bei einer ziemlich alten Idee: Wasser heiß machen, Dampf auf eine Turbine, Strom raus. Andreas ergänzt freundlich: aber ein sehr effizienter Wasserkocher.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Kraftwerk",
+    "Vergleich"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3094,
+   "speaker": "Georg Harrer",
+   "quote": "aber ich glaube schon, dass das immer eine neue Erschließung von einer neuen Energietechnologie, vor allem die dauert, hat immer lang, aber dann passieren Sachen, die man sich vorher nicht vorstellen kann. Ich glaube schon, dass Fusion eine transformative Energie, transformative Energiequelle sein kann, durchaus.",
+   "quote_clean": "Aber ich glaube schon: Die Erschließung einer neuen Energietechnologie dauert immer lang, aber dann passieren Sachen, die man sich vorher nicht vorstellen kann. Ich glaube schon, dass Fusion eine transformative Energiequelle sein kann, durchaus.",
+   "statement": "Georg Harrer hält Kernfusion für eine potenziell transformative Energiequelle, auch wenn ihre Erschließung lange dauert.",
+   "question": "Wer hat's gesagt: „Ich glaube schon, dass Fusion eine transformative Energiequelle sein kann“?",
+   "answer": "Georg Harrer",
+   "distractors": [
+    "Andreas Sator",
+    "Carlo Masala",
+    "Florian Krammer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas fragt ganz groß: Blickt man in 200 Jahren auf ein Davor und Danach zurück? Georg bleibt vorsichtig, er sei ja kein Ökonom – aber neue Energiequellen hätten immer Dinge möglich gemacht, die vorher keiner denken konnte.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Zukunft",
+    "Energie"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 3120,
+   "speaker": "Andreas Sator",
+   "quote": "Was nehme ich mir mit? Kernspaltung kennen wir ja schon. Man schießt mit Neutronen auf Atomkerne, spaltet sie und es kommt dann Energie frei.",
+   "quote_clean": "Was nehme ich mir mit? Kernspaltung kennen wir ja schon. Man schießt mit Neutronen auf Atomkerne, spaltet sie und es wird Energie frei.",
+   "statement": "Nach dem Interview fasst Andreas mit der Frage „Was nehme ich mir mit?“ zusammen, was er gelernt hat.",
+   "question": "Mit welcher Frage leitet Andreas nach dem Gespräch seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was habt ihr gelernt?",
+    "Was bleibt am Ende?",
+    "Wie geht es jetzt weiter?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Seine Kurzfassung: Spaltung zerlegt schwere Kerne, Fusion verschmilzt leichte – und weil der neue Kern etwas weniger Masse hat, wird nach E = mc² Energie frei.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zusammenfassung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 2373,
+   "speaker": "Andreas Sator",
+   "quote": "Cool. Habe ich das endlich verstanden? Sehr gut. Mein Physikunterricht war furchtbar. Ein Schüler. Danke dafür. Es kommt viel am Lehrer, denke ich mal.",
+   "quote_clean": "Cool. Habe ich das endlich verstanden? – Sehr gut. – Mein Physikunterricht war furchtbar. – Ein Schüler, danke dafür. Es kommt viel auf den Lehrer an, denke ich mal.",
+   "statement": "Nachdem Andreas E = mc² endlich verstanden hat, gesteht er, dass sein Physikunterricht furchtbar war.",
+   "question": "Was gesteht Andreas, nachdem er E = mc² endlich verstanden hat?",
+   "answer": "Sein Physikunterricht war furchtbar",
+   "distractors": [
+    "Er hatte Physik abgewählt",
+    "Er wollte Physiker werden",
+    "Er hat nie für Physik gelernt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Masse rein, etwas weniger Masse raus, Differenz gleich Energie – und der Groschen fällt. Georg nimmt das Lob gern an und meint, es komme halt viel auf den Lehrer an.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Hinter den Kulissen"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "265",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

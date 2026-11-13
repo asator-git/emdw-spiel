@@ -1,0 +1,288 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg bei 54 passt (ca. 140.000 Leser laut Klenk); Zahl ist eine Momentaufnahme.",
+   "stand_note": "Stand 2018",
+   "statement": "Die Wiener Wochenzeitung Falter hatte 2018 laut ihrem Chefredakteur rund 140.000 Leser:innen.",
+   "question": "Wie viele Leser:innen hatte der Falter laut Florian Klenk 2018 ungefähr?",
+   "answer": "Rund 140.000",
+   "distractors": [
+    "Rund 40.000",
+    "Rund 300.000",
+    "Rund 75.000"
+   ],
+   "aha": "Für eine Wochenzeitung aus Wien ist das eine ordentliche Reichweite. Der Falter hat sich dabei auf Geschichten spezialisiert, die die Betroffenen lieber nicht in der Zeitung sehen würden: Skandale, Verschwendung, Korruption.",
+   "quote_clean": "Der Falter hat ungefähr 140.000 Leser und hat sich dem investigativen Journalismus verschrieben.",
+   "quality": 2
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg bei 86 passt (ca. 18 Redakteure plus freie Mitarbeiter); Momentaufnahme 2018.",
+   "stand_note": "Stand 2018",
+   "statement": "Der Falter hatte 2018 nur rund 18 fest angestellte Redakteur:innen, ergänzt durch freie Mitarbeiter:innen.",
+   "question": "Wie viele Redakteur:innen hatte der Falter 2018 ungefähr?",
+   "answer": "Rund 18",
+   "distractors": [
+    "Rund 45",
+    "Rund 80",
+    "Rund 6"
+   ],
+   "aha": "Eine der bekanntesten Aufdecker-Redaktionen Österreichs ist also eher ein größeres Büro als ein Medienkonzern. Im Vergleich zu deutschen Wochenmagazinen, sagt Florian, ist der Falter ein sehr, sehr kleines Medium.",
+   "quote_clean": "Ich bin Chefredakteur des Falter. Wir sind ein relativ kleines Unternehmen. Wir haben ungefähr 18 Redakteure und einen Stab an freien Mitarbeitern, die zuliefern.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 192-196 passt; Aha-Text zu Pilz als grünem Aufdecker neutraler formuliert.",
+   "stand_note": "",
+   "statement": "Peter Pilz soll über Karl-Heinz Grasser gesagt haben, an ihm stimme gar nichts außer der Frisur.",
+   "question": "Welcher Politiker sagte über Grasser: „An Karl-Heinz Grasser stimmt gar nichts außer die Frisur“?",
+   "answer": "Peter Pilz",
+   "distractors": [
+    "Jörg Haider",
+    "Alexander Van der Bellen",
+    "Wolfgang Schüssel"
+   ],
+   "aha": "Florian holt den Satz hervor, als Andreas fragt, ob man bei den vielen Grasser-Affären überhaupt noch den Überblick behalten kann. Peter Pilz hat sich als Aufdecker jahrelang an Grasser abgearbeitet.",
+   "quote_clean": "Es gab einmal ein sehr schönes Zitat eines Politikers, des Peter Pilz. Er hat gesagt: An Karl-Heinz Grasser stimmt gar nichts außer die Frisur.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 286 passt; Finanzminister seit Februar 2000 ist korrekt.",
+   "stand_note": "",
+   "statement": "Karl-Heinz Grasser wurde im Jahr 2000 überraschend österreichischer Finanzminister.",
+   "question": "In welchem Jahr wurde Karl-Heinz Grasser Finanzminister?",
+   "answer": "2000",
+   "distractors": [
+    "1996",
+    "2003",
+    "2006"
+   ],
+   "aha": "Er kam in der schwarz-blauen Regierung unter Wolfgang Schüssel ins Amt, obwohl er sich vorher mit Jörg Haider total zerstritten hatte. Damals war er ungefähr so jung wie Sebastian Kurz zur Zeit der Aufnahme.",
+   "quote_clean": "Und er ist im Jahr 2000 relativ schnell und unvorhergesehen auf einmal Finanzminister geworden, Finanzminister der Republik Österreich.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 258-263 passt; der Distraktor Schuldenuhr ist dem Countdown zu ähnlich und könnte als richtig gelten, ersetzt.",
+   "stand_note": "",
+   "statement": "Grasser ließ am Finanzministerium eine Countdown-Uhr anbringen, die die Tage bis zum Nulldefizit herunterzählte.",
+   "question": "Was ließ Grasser als Finanzminister am Finanzministerium montieren?",
+   "answer": "Eine Countdown-Uhr bis zum Nulldefizit",
+   "distractors": [
+    "Eine Fahne mit dem Euro-Zeichen",
+    "Ein Plakat mit seinem Porträt",
+    "Eine Anzeigetafel mit dem Budget"
+   ],
+   "aha": "Grasser war ein Meister der Inszenierung: Er zählte öffentlich die Tage bis zum Nulldefizit herunter, also bis der Staat nicht mehr ausgibt, als er einnimmt. Dazu kamen Fotos auf dem Stephansdom und Roadshows wie bei einem Popstar.",
+   "quote_clean": "Er hat eine Uhr, so einen Countdown, am Finanzministerium montieren lassen, wo er die Tage heruntergezählt hat, bis das sogenannte Nulldefizit zu erreichen ist.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 314-323 passt; Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Jörg Haider nannte Grasser einen „ideologischen Flachwurzler“, weil er nicht aus dem rechten Milieu der FPÖ kam.",
+   "question": "Wie nannte Jörg Haider seinen früheren Schützling Karl-Heinz Grasser?",
+   "answer": "Einen ideologischen Flachwurzler",
+   "distractors": [
+    "Einen politischen Leichtmatrosen",
+    "Einen schwarzen Wendehals",
+    "Einen ideologischen Blindgänger"
+   ],
+   "aha": "Ein Flachwurzler ist ein Baum, der nicht tief verwurzelt ist. Haider meinte also, Grasser habe keine echten ideologischen Wurzeln. Er war weder Burschenschafter noch Teil der Buberlpartie um Haider.",
+   "quote_clean": "Jörg Haider hat ihn einen ideologischen Flachwurzler genannt. Damit wollte er sagen, dass er nicht so wie die anderen Freiheitlichen aus dem rechten Milieu kommt, er war kein Burschenschaftler.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Klenk sagt locker, nur der Staat durfte spielen; tatsächlich vergibt der Bund Konzessionen an private Unternehmen und das kleine Glücksspiel liegt bei den Ländern, die Frage wäre faktisch ungenau.",
+   "stand_note": "",
+   "statement": "In Österreich gibt es ein staatliches Glücksspielmonopol: Das große Glücksspiel wie die Lotterien darf nur der Staat betreiben bzw. konzessionieren.",
+   "question": "Wer durfte in Österreich laut Florian Klenk das „große Glücksspiel“ wie die Lotterien betreiben?",
+   "answer": "Nur der Staat",
+   "distractors": [
+    "Jedes Bundesland selbst",
+    "Jede lizenzierte Privatfirma",
+    "Nur gemeinnützige Vereine"
+   ],
+   "aha": "Das kleine Glücksspiel mit Münzautomaten ist eine eigene Geschichte, die Lotterien aber waren Sache des Staates. Grassers Ministerium schrieb am Glücksspielgesetz mit, bei dem es auch darum ging, ob dieses Monopol fallen soll.",
+   "quote_clean": "Wo es darum geht, ob das Glücksspielmonopol fällt. Eigentlich durfte nur der Staat Glücksspiel betreiben. Nicht das kleine Glücksspiel mit den Münzen, sondern das große Glücksspiel, das durfte eigentlich nur der Staat machen, die Lotterien.",
+   "quality": 1
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "fairness"
+   ],
+   "note": "Beleg bei 521-525 passt, aber Klenk spricht von Hochegger und Meischberger als „sogenannten“ Lobbyisten; Frage auf diesen Kontext eingegrenzt, damit sie nicht pauschal über Lobbyisten urteilt.",
+   "stand_note": "",
+   "statement": "Die Lobbyisten und PR-Berater rund um Grasser sollten bei politischen Entscheidungsträger:innen „gutes Wetter machen“.",
+   "question": "Wie beschreibt Florian Klenk die Aufgabe der „sogenannten Lobbyisten“ rund um Grasser?",
+   "answer": "Gutes Wetter bei Entscheidungsträgern machen",
+   "distractors": [
+    "Gesetze im Parlament einbringen",
+    "Wahlkämpfe von Parteien finanzieren",
+    "Ministerien bei Budgets kontrollieren"
+   ],
+   "aha": "Firmen, die zum Beispiel Wohnungen kaufen wollen, gehen zu solchen Beratern und fragen: Wie müssen wir das anstellen? Die hören sich dann im politischen Biotop um. Die Frage ist, ob dabei auch etwas Kriminelles passiert ist.",
+   "quote_clean": "Die beiden waren sogenannte Lobbyisten oder PR-Berater: Leute, die bei politischen Entscheidungsträgern gutes Wetter machen sollten.",
+   "quality": 2
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 889-893 passt, im Zusammenhang mit den abgehörten Telefonaten (863-874); Aussage als Verdacht der Behörden gerahmt.",
+   "stand_note": "",
+   "statement": "In abgehörten Telefonaten vor den Polizeiverhören fiel der legendäre Satz „Wo war meine Leistung?“.",
+   "question": "Welcher legendäre Satz fiel laut Florian Klenk in den abgehörten Telefonaten der Buwog-Beschuldigten?",
+   "answer": "„Wo war meine Leistung?“",
+   "distractors": [
+    "„Wer hat mir das überwiesen?“",
+    "„Das zahlt eh der Steuerzahler“",
+    "„Davon weiß ich gar nichts“"
+   ],
+   "aha": "Die Polizei hörte die Telefone in den Tagen vor den Einvernahmen ab. Da wurde besprochen, was man den Behörden eigentlich sagen soll, und einer fragte eben, wo denn seine Leistung für das viele Geld gewesen sei.",
+   "quote_clean": "Und dann sagt der eine zum anderen: Ja, aber wo war meine Leistung? Der legendäre Satz.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1353-1366 passt; Antwort an den Wortlaut angepasst (Steinchen aufheben, nicht umdrehen).",
+   "stand_note": "",
+   "statement": "Ermittlungen in großen Wirtschaftsfällen sind wie ein Schotterstrand: Unter jedem Steinchen könnte die entscheidende Information liegen.",
+   "question": "Mit welchem Bild erklärt Florian Klenk, warum Wirtschaftsermittlungen so lange dauern?",
+   "answer": "Jedes Steinchen am Schotterstrand aufheben",
+   "distractors": [
+    "Die Nadel im Heuhaufen suchen",
+    "Ein Puzzle ohne Vorlage legen",
+    "Einen Wollknäuel entwirren"
+   ],
+   "aha": "Am Anfang weiß man nicht, welches Steinchen das wichtige ist, also muss man alle aufheben. Bei einem klassischen Verbrechen gibt es das Messer mit Blut und DNA, bei Wirtschaftsstrafsachen sind die Dinge selten so klar.",
+   "quote_clean": "Man muss sich das vorstellen, wie wenn man an einen Schotterstrand geht, und unter jedem Steinchen könnte eine wichtige Information liegen, und man muss jedes Steinchen aufheben.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Beleg bei 1410-1494 passt; Aha behauptete, das Gericht müsse jede Frage beantworten, das sagt Klenk so nicht, daher korrigiert.",
+   "stand_note": "",
+   "statement": "In Wirtschaftsstrafverfahren lässt sich aus einem simplen Sachverhalt eine Vielzahl an Einzelfragen machen, was Verfahren in die Länge ziehen kann.",
+   "question": "Was zeigt Florian Klenk mit dem Beispiel vom Griff in die Supermarkt-Kassa?",
+   "answer": "Wie Verfahren in Einzelfragen zerlegt werden",
+   "distractors": [
+    "Warum Diebstahl härter bestraft wird",
+    "Wie Videoüberwachung Prozesse verkürzt",
+    "Warum Kassiererinnen haften müssen"
+   ],
+   "aha": "Gibt es Videos? Wurden sie gelöscht oder mit Photoshop bearbeitet? Aus einem banalen Vorfall lassen sich so hunderte Einzelfragen machen. Das ist legitim, kann ein Verfahren aber ordentlich in die Länge ziehen.",
+   "quote_clean": "Stellen wir uns vor, wir gehen in einen Supermarkt und greifen der Kassiererin in die Geldlade. Dann wäre das relativ klar: Jemand greift in die Geldlade, das ist Diebstahl. In einem Wirtschaftsstrafverfahren würde man sagen: Erstens, können wir das überhaupt beweisen?",
+   "quality": 2
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Zynisch-hypothetischer Nebensatz („könnte man ihm antworten“), als Wer-sagt-es-Frage wörtlich genommen; zudem überholt durch spätere Urteile gegen Grasser.",
+   "stand_note": "",
+   "statement": "Florian Klenk meint, lange Ermittlungen und öffentliche Kritik seien – zynisch gesagt – das Berufsrisiko eines Ministers.",
+   "question": "Wer sagt über jahrelange Ermittlungen gegen einen Ex-Minister: „Das ist das Berufsrisiko eines Ministers“?",
+   "answer": "Florian Klenk",
+   "distractors": [
+    "Peter Pilz",
+    "Andreas Sator",
+    "Armin Wolf"
+   ],
+   "aha": "Florian gibt Grasser durchaus recht, dass Anwälte und Gutachten viel Geld kosten. Aber wer so jung in so ein Amt geht und ein hohes Gehalt bezieht, muss damit rechnen, auf der öffentlichen Bühne kritisiert zu werden.",
+   "quote_clean": "Das ist jetzt, könnte man ihm wieder zynisch antworten, das Berufsrisiko eines Ministers.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Wer-sagt-es-Frage ohne Wissenswert; der Aha-Text behauptet einen Hinweis, der im Ausschnitt nicht steht.",
+   "stand_note": "",
+   "statement": "Florian Klenk sagt, er würde seine Meinung zur Schuldfrage privat beim Kaffee gern sagen, öffentlich verbiete es ihm aber das Gesetz.",
+   "question": "Wer sagt: „Wenn man mit mir privat auf einen Kaffee geht, dem erzähle ich meine Meinung gerne, aber das Gesetz verbietet es mir“?",
+   "answer": "Florian Klenk",
+   "distractors": [
+    "Peter Pilz",
+    "Karl-Heinz Grasser",
+    "Andreas Sator"
+   ],
+   "aha": "Am Ende der Folge will Andreas natürlich wissen, ob Grasser ins Gefängnis kommt. Florian darf das nicht beantworten, gibt aber einen Hinweis: Man müsse seine Aussagen nur genau anhören, dann könne man sich denken, was er beim Kaffee sagen würde.",
+   "quote_clean": "Das ist nicht, weil ich zu feig bin. Wenn man mit mir privat auf einen Kaffee geht, dem erzähle ich meine Meinung gerne, aber das Gesetz verbietet es mir, und zwar aus gutem Grund.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage über Andreas' Einleitungssatz, kein Wissen.",
+   "stand_note": "",
+   "statement": "Andreas steigt in die Grasser-Folge mit der Bitte ein, ganz am Anfang zu beginnen, damit es wirklich jeder versteht.",
+   "question": "Mit welchen Worten leitet Andreas die erste inhaltliche Frage zu Grasser ein?",
+   "answer": "„Beginnen wir ganz am Anfang“",
+   "distractors": [
+    "„Machen wir es kurz“",
+    "„Springen wir gleich zum Prozess“",
+    "„Fangen wir beim Urteil an“"
+   ],
+   "aha": "Ganz am Anfang beginnen, damit es jeder versteht – das ist das Prinzip von Erklär mir die Welt. Auch wenn Wikipedia schon 17 Kontroversen auflistet, geht es zuerst um die simple Frage: Wer ist dieser Mann eigentlich?",
+   "quote_clean": "Beginnen wir ganz am Anfang, sodass es wirklich jeder versteht: Wer ist Karl-Heinz Grasser?",
+   "quality": 1
+  }
+ ],
+ "id": "8",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

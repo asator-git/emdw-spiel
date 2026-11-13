@@ -1,0 +1,288 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "44 Jahre bei 477 s belegt, aber als Aussage des Gastes zu kennzeichnen; im Aha stand eine nicht belegte Zahl ('Mit 59').",
+   "stand_note": "Stand 1898",
+   "statement": "Laut Christoph Wenisch starben Menschen in Wien-Favoriten um 1898 im Schnitt mit etwa 44 Jahren, oft an Tuberkulose.",
+   "question": "Mit wie vielen Jahren starben Menschen in Wien-Favoriten laut Christoph Wenisch um 1898 im Durchschnitt?",
+   "answer": "Mit etwa 44 Jahren",
+   "distractors": [
+    "Mit etwa 32 Jahren",
+    "Mit etwa 58 Jahren",
+    "Mit etwa 66 Jahren"
+   ],
+   "aha": "Christoph hat für die Folge alte Krankenhausbücher von 1898 gelesen. Rund 90 Prozent der Krankheitsbilder, an denen die Menschen starben, waren Infektionen, etwa Tuberkulose oder eine kleine Wunde mit Steinchen drin. Er selbst wäre damals längst tot gewesen.",
+   "quote_clean": "Ich wäre schon lang tot. Das Durchschnittsalter, mit dem man als Favoritner gestorben ist, lag bei etwa 44 Jahren, eben oft durch die Tuberkulose.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Die Zahl 'üblicherweise drei Spritzen' ist eine lockere Aussage; je nach Stadium genügt laut aktuellen Leitlinien auch eine einzige Injektion, daher ist der Distraktor 'Eine' nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Syphilis wird heute üblicherweise mit drei Penicillin-Spritzen geheilt.",
+   "question": "Wie viele Spritzen braucht es heute üblicherweise, um Syphilis zu heilen?",
+   "answer": "Drei",
+   "distractors": [
+    "Eine",
+    "Zehn",
+    "Zwanzig"
+   ],
+   "aha": "",
+   "quote_clean": "Heutzutage kriegt das keiner mit. Man kriegt seine Kur, konkret üblicherweise drei Spritzen, und die Syphilis ist erledigt.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Quecksilber und schwarze Zähne bei 519-549 s belegt; Sisi-Bezug ist ein hedgender Erzählbericht und wird nicht verallgemeinert, Distraktor 'kahle Stellen' entfernt (Quecksilber kann auch Haarausfall verursachen).",
+   "stand_note": "",
+   "statement": "Vor den Antibiotika wurde Syphilis mit Quecksilberkuren behandelt, die laut Christoph Wenisch die Zähne schwarz färbten.",
+   "question": "Welche unangenehme Folge hatten laut Christoph Wenisch die früheren Quecksilberkuren gegen Syphilis?",
+   "answer": "Schwarze Zähne",
+   "distractors": [
+    "Gelbe Fingernägel",
+    "Blaue Lippen",
+    "Rote Augen"
+   ],
+   "aha": "Quecksilber lagert sich in den Zähnen an, und schwarze Zähne verrieten die Behandlung. Man erzählt sich, dass manche Betroffene ihre Zähne geschminkt haben und bei Empfängen nur kurz blieben, weil der Speichel die Schminke abgewaschen hat.",
+   "quote_clean": "Damals hat man Quecksilberkuren gemacht, und dieses Quecksilber hat die unangenehme Eigenschaft, dass es sich in den Zähnen anlagert, und dann kriegst du schwarze Zähne.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 350-410 s, Aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "In Wien hingen früher überall Schilder mit „Spucken verboten“, weil Spucke Tuberkulose übertrug.",
+   "question": "Warum hingen in Wien früher überall Schilder mit „Spucken verboten“?",
+   "answer": "Gegen die Ausbreitung der Tuberkulose",
+   "distractors": [
+    "Gegen verschmutzte Gehsteige",
+    "Gegen die Ausbreitung der Cholera",
+    "Gegen Streit in der Straßenbahn"
+   ],
+   "aha": "Die Tuberkulose, damals Schwindsucht genannt, ging von Mensch zu Mensch, und Spucke war ein Hauptweg. Behandeln konnte man sie nicht, also legte man Kranke in die Sonne, etwa am Semmering. Heute schluckt man Tabletten, und das Ding geht weg.",
+   "quote_clean": "Wir hatten in Wien überall Schilder, da ist draufgestanden: Spucken verboten. Weil wenn man ausspuckt, sind diese Tuberkulose-Bakterien übertragen worden.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Fleming-Geschichte bei 689-708 s belegt; im Aha war unklar, wer im Krieg half (Penicillin, nicht Fleming).",
+   "stand_note": "",
+   "statement": "Alexander Fleming entdeckte Penicillin, weil zufällig ein Penicillium-Pilz auf einer Bakterienplatte wuchs und rundherum keine Bakterien wuchsen.",
+   "question": "Wie entdeckte Alexander Fleming das Penicillin?",
+   "answer": "Ein Pilz wuchs zufällig auf Bakterien",
+   "distractors": [
+    "Er testete gezielt tausende Pflanzen",
+    "Er analysierte Blut von Genesenen",
+    "Er untersuchte verdorbene Milch"
+   ],
+   "aha": "Rund um den Schimmelpilz wuchsen keine Bakterien, und genau das fiel auf. Daraus wurde der Wirkstoff isoliert und nach dem Pilz Penicillium benannt. Im Zweiten Weltkrieg wurde Penicillin erstmals auch bei Soldaten eingesetzt, die sonst wegen Wundinfektionen Gliedmaßen oder das Leben verloren hätten.",
+   "quote_clean": "Der hatte zufällig einen Pilz auf einer Bakterienplatte, und das war eben ein Pilz namens Penicillium, und der hat dieses Penicillin gebildet.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Pferde-Antitoxin bei Diphtherie bei 760-780 s belegt und weiterhin gültig.",
+   "stand_note": "",
+   "statement": "Das Gegengift gegen Diphtherie wird bis heute aus Antikörpern von Pferden gewonnen.",
+   "question": "Aus welchem Tier gewinnt man bis heute Antikörper als Gegengift bei Diphtherie?",
+   "answer": "Aus Pferden",
+   "distractors": [
+    "Aus Schafen",
+    "Aus Kaninchen",
+    "Aus Hühnern"
+   ],
+   "aha": "Vor den Antibiotika gab es die Serumtherapie: Man spritzt einem Tier den Erreger oder sein Gift, es bildet Antikörper, und die bekommt der Mensch. Bei Diphtherie macht man das bis heute, und das Pferd eignet sich, weil es groß ist und viel Antikörper liefert.",
+   "quote_clean": "Gegen das Toxin wird einem Pferd das Toxin hineingespritzt, und ein Pferd produziert natürlich viele Antikörper, weil es groß ist.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton",
+    "kontext"
+   ],
+   "note": "Eine Milliarde ist als saloppe Schätzung belegt; Frage in Millionen unnatürlich, Aha enthielt nicht belegte Begründung.",
+   "stand_note": "Stand 2026, grobe Schätzung des Gastes",
+   "statement": "Die Entwicklung eines neuen Antibiotikums kostet laut Christoph Wenisch salopp gesagt etwa eine Milliarde Dollar oder Euro, weshalb die Entwicklung ins Stocken geraten ist.",
+   "question": "Wie viel kostet die Entwicklung eines neuen Antibiotikums laut Christoph Wenisch salopp gesagt?",
+   "answer": "Rund eine Milliarde Euro",
+   "distractors": [
+    "Rund 50 Millionen Euro",
+    "Rund 200 Millionen Euro",
+    "Rund 5 Milliarden Euro"
+   ],
+   "aha": "Eine Milliarde, sagt man salopp, und das hat dazu geführt, dass die Entwicklung ein bisschen stehen geblieben ist. Nach dem großen Boom in den 1990ern kam wenig Neues, und der Fokus liegt heute auf resistenten Keimen.",
+   "quote_clean": "Die Entwicklung eines Präparats kostet eine Milliarde Dollar oder Euro, sagt man so salopp. Das hat leider dazu geführt, dass die Entwicklung ein bisschen stehen geblieben ist.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1119-1147 s, Aha stimmt mit dem Ausschnitt überein.",
+   "stand_note": "",
+   "statement": "Eine Lungenentzündung verschlechtert den Gasaustausch und kann so bei vorgeschädigten Gefäßen einen Herzinfarkt oder Schlaganfall auslösen.",
+   "question": "Was kann eine Lungenentzündung bei Menschen mit verengten Herzkranzgefäßen auslösen?",
+   "answer": "Einen Herzinfarkt",
+   "distractors": [
+    "Eine Blinddarmentzündung",
+    "Einen Bandscheibenvorfall",
+    "Eine Schilddrüsenüberfunktion"
+   ],
+   "aha": "Die Lunge liefert weniger Sauerstoff, und das Herz braucht genau den für seinen Muskel. Sind die Gefäße schon verkalkt, oft ohne dass man es weiß, kippt es. Christoph sagt: Oft ist die Lungenentzündung die Henne und der Schlaganfall das Ei.",
+   "quote_clean": "Wenn ich aber verlegte Herzkranzgefäße habe, kann ich nach der Lungenentzündung einen Herzinfarkt bekommen. Das Gleiche gilt für den Schlaganfall.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "'Wer hat's gesagt' mit Gast als Antwort ist trivial, Distraktoren (andere Gäste) sind Spielmeta; Inhalt steckt bereits in Kandidat 9.",
+   "stand_note": "",
+   "statement": "Christoph Wenisch beschreibt die Lungenentzündung als „Henne“, aus der oft ein Schlaganfall als „Ei“ entsteht.",
+   "question": "Wer hat's gesagt: „Oft ist die Lungenentzündung die Henne und das Ei ist dann der Schlaganfall“?",
+   "answer": "Christoph Wenisch",
+   "distractors": [
+    "Andreas Sator",
+    "Florian Krammer",
+    "Gabriele Berg"
+   ],
+   "aha": "",
+   "quote_clean": "Oft ist die Lungenentzündung die Henne, und das Ei ist dann der Schlaganfall. Mit dem Schlaganfall entsteht dann der Pflegefall.",
+   "quality": 1
+  },
+  {
+   "i": 16,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Absolute Aussage 'alle wirken breit' ist überzogen (es gibt sehr schmal wirksame Antibiotika), Distraktoren unplausibel; Aha behauptet nicht Belegtes zum Mikrobiom.",
+   "stand_note": "",
+   "statement": "Es gibt kein Antibiotikum, das wie ein Laserschwert nur einen einzigen Keim trifft; alle haben ein relativ breites Wirkspektrum.",
+   "question": "Gibt es Antibiotika, die gezielt nur einen einzigen Krankheitserreger treffen?",
+   "answer": "Nein, alle wirken relativ breit",
+   "distractors": [
+    "Ja, die meisten modernen",
+    "Ja, aber nur gegen Viren",
+    "Ja, alle Schmalspur-Antibiotika"
+   ],
+   "aha": "",
+   "quote_clean": "Dass es ein ganz schmales, chirurgisches Antibiotikum gibt, das wie ein Laserschwert nur diesen einen Keim rausschneidet, das ist nicht der Fall. Die haben alle ein relativ breites Wirkspektrum.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt bei 3160-3229 s; 'Wer hat's gesagt' mit Gast als Antwort trivial, daher inhaltliche Frage zum Vorschlag.",
+   "stand_note": "",
+   "statement": "Christoph Wenisch hat im Ministerium eine Ökosteuer auf Antibiotika vorgeschlagen, weil sie durch Resistenzen einen Flurschaden anrichten.",
+   "question": "Welche Steuer hat Christoph Wenisch einmal im Ministerium angeregt?",
+   "answer": "Eine Antibiotika-Steuer als Ökosteuer",
+   "distractors": [
+    "Eine Zuckersteuer",
+    "Eine Impfsteuer",
+    "Eine Spitalsabgabe"
+   ],
+   "aha": "Die Idee hatte er schon als Student: Wer Antibiotika produziert, verschreibt oder nimmt, soll ein bisschen was für die künftigen Resistenzen zahlen. Weiterverfolgt wurde das nicht, es war im Moment nicht mehrheitsfähig.",
+   "quote_clean": "Ich habe das sogar mal im Ministerium geäußert: Machen wir eine Antibiotika-Steuer, weil die machen einen Flurschaden. Ökosteuer.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächseinstieg, Distraktoren erfunden, Aha mit Floskel ('Typisch Andreas').",
+   "stand_note": "",
+   "statement": "Andreas steigt mit einem Gedankenexperiment ein: Die moderne Welt, nur ohne Antibiotika, was wäre anders?",
+   "question": "Mit welchem Gedankenexperiment startet Andreas in die Antibiotika-Folge?",
+   "answer": "Heutige Welt, aber ohne Antibiotika",
+   "distractors": [
+    "Mittelalter, aber mit Antibiotika",
+    "Eine Welt ganz ohne Bakterien",
+    "Antibiotika gratis für alle"
+   ],
+   "aha": "",
+   "quote_clean": "Gehen wir davon aus, in der heutigen schönen, bequemen, modernen Welt ist alles so, wie es jetzt ist, außer es gibt keine Antibiotika.",
+   "quality": 2
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Podcast-Ritual ohne Erkenntniswert, Distraktoren erfunden.",
+   "stand_note": "",
+   "statement": "Andreas fragt seine Gäste am Ende jeder Folge nach ihrem Sinn des Lebens.",
+   "question": "Was fragt Andreas seine Gäste am Ende immer?",
+   "answer": "Was ihr Sinn des Lebens ist",
+   "distractors": [
+    "Was sie heute gefrühstückt haben",
+    "Wovor sie am meisten Angst haben",
+    "Was ihr größter Fehler war"
+   ],
+   "aha": "",
+   "quote_clean": "Ich frage am Ende meine Gäste immer, was ihr Sinn des Lebens ist. Hast du darüber nachgedacht?",
+   "quality": 2
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitat bei 2808 s und Ausbildungsjahre (6+6+3+3) belegt; Frage vereinfacht, Distraktoren plausibler gemacht.",
+   "stand_note": "",
+   "statement": "Nach 18 Jahren Studium und Ausbildung sagt Christoph Wenisch, er sei immer noch Student, weil man in seinem Beruf nie auslernt.",
+   "question": "Was sagt Christoph Wenisch über sich, nachdem er seine lange Ausbildung beschrieben hat?",
+   "answer": "Er sei immer noch Student",
+   "distractors": [
+    "Er habe längst ausgelernt",
+    "Er bereue die lange Ausbildung",
+    "Er sei ein Spätberufener"
+   ],
+   "aha": "Sechs Jahre Studium, sechs Jahre Innere Medizin, drei Jahre Infektiologie, drei Jahre Intensivmedizin. Und trotzdem: Wer in dem Beruf stehen bleibt, ist verloren, sagt er, und dankt den Studierenden für ihre unbequemen Fragen.",
+   "quote_clean": "Nein, ich bin immer noch Student. Das bleibt das ganze Leben. In diesem Beruf kann man nie aufhören.",
+   "quality": 3
+  }
+ ],
+ "id": "413",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

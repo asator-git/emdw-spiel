@@ -1,0 +1,283 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Gründung 1971 im Ausschnitt eindeutig belegt, stimmt auch historisch.",
+   "stand_note": "",
+   "statement": "Ärzte ohne Grenzen wurde 1971 von Ärzt:innen und Journalist:innen gegründet.",
+   "question": "In welchem Jahr wurde Ärzte ohne Grenzen gegründet?",
+   "answer": "1971",
+   "distractors": [
+    "1958",
+    "1985",
+    "1992"
+   ],
+   "aha": "Ärzte ohne Grenzen ist 1971 entstanden, und zwar nicht nur aus Medizin, sondern auch aus Journalismus. Darum gehört das Sichtbarmachen von Leid bis heute zur Gründungs-DNA: helfen und darüber reden.",
+   "quote_clean": "Ganz schnell erklärt: 1971, also vor genau 50 Jahren, gegründet von Ärztinnen und Ärzten und Journalistinnen und Journalisten.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "beleg"
+   ],
+   "note": "98 Prozent belegt (Stand 2021); die Neutralitäts-Pointe im aha steht nicht im Ausschnitt und wurde entfernt.",
+   "stand_note": "Stand 2021",
+   "statement": "Ärzte ohne Grenzen finanziert sich laut Marcus Bachmann zu rund 98 Prozent aus privaten Spenden (Stand 2021).",
+   "question": "Wie viel Prozent seines Geldes bekommt Ärzte ohne Grenzen von privaten Spender:innen?",
+   "answer": "98 Prozent",
+   "distractors": [
+    "60 Prozent",
+    "75 Prozent",
+    "85 Prozent"
+   ],
+   "aha": "Fast alles kommt von Privatpersonen, nur rund eineinhalb Prozent des Jahresbudgets sind öffentliche Gelder von einigen wenigen Regierungen. Die Zahl stammt von 2021.",
+   "quote_clean": "Ärzte ohne Grenzen bezieht 98 Prozent seiner Spenden von privaten Spendern weltweit.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Sieben Millionen und über 70 Länder belegt (Stand 2021); Österreich-Vergleich im aha ungenau, entfernt.",
+   "stand_note": "Stand 2021",
+   "statement": "Rund sieben Millionen Menschen weltweit spenden laut Marcus Bachmann an Ärzte ohne Grenzen (Stand 2021).",
+   "question": "Wie viele Spender:innen hat Ärzte ohne Grenzen weltweit ungefähr?",
+   "answer": "Rund 7 Millionen",
+   "distractors": [
+    "Rund 700.000",
+    "Rund 25 Millionen",
+    "Rund 70 Millionen"
+   ],
+   "aha": "Sieben Millionen Menschen weltweit machen es möglich, dass die Organisation in über 70 Ländern in rund 500 Projekten arbeiten kann – fast ganz ohne staatliches Geld. Die Zahl stammt von 2021.",
+   "quote_clean": "Sieben Millionen Spenderinnen weltweit stellen uns mit ihren Spenden die Mittel zur Verfügung.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "beleg"
+   ],
+   "note": "Drei Regierungen belegt, aber 'im Wesentlichen' und Stand 2021; die Begründung im aha war nicht belegt und wurde auf die tatsächliche Aussage (strenge Kriterien) umgestellt.",
+   "stand_note": "Stand 2021",
+   "statement": "Ärzte ohne Grenzen nimmt laut Marcus Bachmann im Wesentlichen nur noch von drei Regierungen Geld an: der Schweiz, Kanada und Neuseeland (Stand 2021).",
+   "question": "Von welchen Regierungen nahm Ärzte ohne Grenzen 2021 im Wesentlichen noch Geld an?",
+   "answer": "Schweiz, Kanada, Neuseeland",
+   "distractors": [
+    "USA, Deutschland, Japan",
+    "Österreich, Schweden, Norwegen",
+    "Frankreich, Großbritannien, Australien"
+   ],
+   "aha": "Die Organisation ist bei öffentlichem Geld sehr streng: Die Kriterien der Geldgeber müssen mit ihren eigenen Prinzipien und hohen Standards übereinstimmen. 2021 blieben dadurch im Wesentlichen nur diese drei Regierungen übrig.",
+   "quote_clean": "Im Wesentlichen sind es nur mehr drei Regierungen, von denen wir in einem sehr beschränkten Umfang Mittel entgegennehmen: die Schweiz, Kanada und die Regierung von Neuseeland.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Spanne 25 bis 90 Prozent im Ausschnitt eindeutig, Erläuterung (zwei bis neun von zehn) ebenfalls belegt.",
+   "stand_note": "",
+   "statement": "Unbehandelt sterben zwischen 25 und 90 Prozent der Ebola-Infizierten.",
+   "question": "Wie hoch ist die Sterblichkeit bei unbehandeltem Ebola?",
+   "answer": "25 bis 90 Prozent",
+   "distractors": [
+    "1 bis 5 Prozent",
+    "5 bis 15 Prozent",
+    "Fast immer 100 Prozent"
+   ],
+   "aha": "Je nach Ausbruch sterben zwei bis neun von zehn Infizierten, oft innerhalb von Stunden oder Tagen. Darum ist Ebola so gefürchtet, obwohl es eine seltene Krankheit ist.",
+   "quote_clean": "Das ist eine virusbedingte Erkrankung, die zwischen 25 und 90 Prozent Sterblichkeit hatte, wenn sie nicht behandelt wird.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aussage belegt; der Schlusssatz im aha (Angst erreichte Europa) steht nicht im Ausschnitt und wurde entfernt.",
+   "stand_note": "",
+   "statement": "Als 2014 die große Ebola-Epidemie in Westafrika begann, gab es weder ein Medikament noch einen Impfstoff gegen Ebola.",
+   "question": "Was gab es 2014 zu Beginn der großen Ebola-Epidemie gegen die Krankheit?",
+   "answer": "Weder Medikament noch Impfstoff",
+   "distractors": [
+    "Nur einen Impfstoff",
+    "Nur ein Medikament",
+    "Impfstoff und Medikament"
+   ],
+   "aha": "Ebola galt als vergessene, vernachlässigte Krankheit: selten und bei Menschen, die weit weg von reichen Ländern leben. Deshalb gab es 2014 weder Medikament noch Impfstoff.",
+   "quote_clean": "Es ist eine sehr seltene Erkrankung, und ich kann mich erinnern: Als ich 2014 meinen ersten Einsatz hatte, gab es kein einziges Medikament und keinen Impfstoff für die Behandlung von Ebola-Patientinnen.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt: abgelegene Urwalddörfer ohne Straßen, selbst isoliert; Distraktoren klar falsch.",
+   "stand_note": "",
+   "statement": "Frühere Ebola-Ausbrüche blieben meist klein, weil sie in abgelegenen Urwalddörfern ohne Straßen auftraten und sich so selbst isolierten.",
+   "question": "Warum blieben Ebola-Ausbrüche vor 2014 meist klein?",
+   "answer": "Sie traten in abgelegenen Dörfern auf",
+   "distractors": [
+    "Es gab schon einen Impfstoff",
+    "Das Virus war damals harmloser",
+    "Sie traten nur in der Trockenzeit auf"
+   ],
+   "aha": "Ohne Straßen kommt auch ein Virus nicht weit. 2014 traf Ebola erstmals dichter besiedelte Länder wie Sierra Leone, Liberia und Guinea, und plötzlich war die natürliche Bremse weg.",
+   "quote_clean": "Ebola ist üblicherweise in isolierten Urwalddörfern aufgetreten, wo Menschen ohne Infrastruktur, ohne Straßen, ohne Wege leben. Das heißt, das hat sich selbst isoliert.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Vergleich im Ausschnitt eindeutig belegt.",
+   "stand_note": "",
+   "statement": "Marcus Bachmann vergleicht die neutrale Hilfe im Krieg mit einem Notarzt bei einem Verkehrsunfall, der auch nicht fragt, wer schuld ist.",
+   "question": "Womit vergleicht Marcus Bachmann es, dass Ärzte ohne Grenzen auch verwundete Kämpfer behandelt?",
+   "answer": "Notarzt bei einem Verkehrsunfall",
+   "distractors": [
+    "Feuerwehr bei einem Hausbrand",
+    "Lehrerin in einer Schulklasse",
+    "Richter vor Gericht"
+   ],
+   "aha": "Der Notarzt fragt nicht, wer den Unfall verursacht hat, er rettet einfach. Genauso behandelt Ärzte ohne Grenzen jeden verletzten Menschen, sobald er keine Waffe mehr trägt.",
+   "quote_clean": "Man muss sich das so vorstellen: Ein Notarzt, der in Wien zu einem Verkehrsunfall an irgendeiner Kreuzung gerufen wird, macht seine Arbeit, rettet das Leben, belebt wieder, stabilisiert den Patienten, um ihn ins Krankenhaus bringen zu können. Er macht keine Untersuchung, ob das jetzt der Schuldige ist.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat im Ausschnitt eindeutig.",
+   "stand_note": "",
+   "statement": "Marcus Bachmann sagt, der einzige Schutz von Ärzte ohne Grenzen sei die Akzeptanz bei der Bevölkerung und den Konfliktparteien.",
+   "question": "Was ist laut Marcus Bachmann der einzige Schutz der Helfer:innen von Ärzte ohne Grenzen?",
+   "answer": "Die Akzeptanz",
+   "distractors": [
+    "Bewaffnete Eskorten",
+    "Schutzwesten und Helme",
+    "Diplomatische Immunität"
+   ],
+   "aha": "Keine Helme, keine Waffen, keine bewaffneten Wachen vor den Spitälern. Sicher ist man nur, wenn alle Seiten die Arbeit als nützlich und neutral wahrnehmen.",
+   "quote_clean": "Wir tragen keine Helme, wir tragen keine Splitterwesten, wir tragen natürlich keine Waffen. Der einzige Schutz, den wir haben, ist die Akzeptanz.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Belegt; im aha war 'Versprecher' falsch (es war ein Schreibfehler in einer Bewerbung), korrigiert.",
+   "stand_note": "",
+   "statement": "Marcus Bachmann betont, dass Ärzte ohne Grenzen sehr wohl Limits hat, vor allem bei der Sicherheit.",
+   "question": "Für welche Organisation wollte eine Bewerberin aus dem Kongo laut Marcus Bachmann arbeiten?",
+   "answer": "Ärzte ohne Limits",
+   "distractors": [
+    "Ärzte ohne Pause",
+    "Ärzte ohne Angst",
+    "Helfer ohne Grenzen"
+   ],
+   "aha": "Die Bewerbung war ein netter Verschreiber mit wahrem Kern: Wenn die Sicherheit nicht mehr gewährleistet ist, muss die Organisation abziehen, auch wenn sie die einzige Hilfe vor Ort ist. Das nennt Marcus die bitterste Entscheidung.",
+   "quote_clean": "Ich erinnere mich an eine Bewerbung einer Mitarbeiterin im Kongo, die geschrieben hat, sie möchte gerne für Ärzte ohne Limits arbeiten. Aber wir sind eben Menschen und auch Ärztinnen mit Limits.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Südsudan, Todesurteil, sechs Stunden und der geflohene Mitarbeiter stehen nicht im Ausschnitt; nur das Rind als Kompensation ist belegt.",
+   "stand_note": "",
+   "statement": "Im Südsudan konnte Marcus Bachmann ein lokales Todesurteil nach sechs Stunden Verhandlung mit einem Rind als Kompensation abwenden.",
+   "question": "Womit hat Marcus Bachmann im Südsudan eine Todesstrafe abgewendet?",
+   "answer": "Mit einem Rind",
+   "distractors": [
+    "Mit einem Sack Reis",
+    "Mit einem Geländewagen",
+    "Mit 1.000 US-Dollar"
+   ],
+   "aha": "Ein Mitarbeiter war geflohen, also sollte nach lokalem Recht sein Chef büßen. Nach einer der schweißtreibendsten Verhandlungen seines Lebens gab es einen Handschlag und ein Rind.",
+   "quote_clean": "Ja, die Währung, die eine sehr wertvolle und auch symbolisch sehr hohe Währung ist, das sind Rinder, und in dem Fall habe ich mit einem Rind die Kompensation begleichen können.",
+   "quality": 2
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aussage belegt; der Satz über geforderte Ausnahmen im aha steht nicht im Ausschnitt und wurde entfernt.",
+   "stand_note": "",
+   "statement": "Antiterrorgesetze verbieten humanitären Organisationen teils sogar, mit bestimmten Konfliktgruppen zu sprechen, was ihre Neutralität gefährdet.",
+   "question": "Warum machen Antiterrorgesetze humanitäre Hilfe laut Marcus Bachmann schwieriger?",
+   "answer": "Sie verbieten Gespräche mit manchen Gruppen",
+   "distractors": [
+    "Sie verbieten Spenden aus dem Ausland",
+    "Sie verbieten Impfungen in Konfliktgebieten",
+    "Sie verbieten ausländische Ärzt:innen"
+   ],
+   "aha": "Wer mit allen Seiten redet, nur mit einer nicht, wirkt nicht mehr neutral. Genau das passiert, wenn Gesetze schon den Kontakt zu bestimmten Konfliktparteien verbieten.",
+   "quote_clean": "Antiterrorgesetze verbieten uns sogar den Kontakt, die Kontaktaufnahme oder gar ein Gespräch mit bestimmten Konfliktgruppen.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitat belegt; der Distraktor 'Ein ganzes Dorf' war wegen 'nie eine Massenbehandlung' ebenfalls fast richtig, ersetzt.",
+   "stand_note": "",
+   "statement": "Marcus Bachmann zieht seine Motivation daraus, dass Ärzt:innen nie eine Statistik, sondern immer einen konkreten Menschen behandeln.",
+   "question": "Was behandeln Ärzt:innen laut Marcus Bachmann nie?",
+   "answer": "Eine Statistik",
+   "distractors": [
+    "Einen Feind",
+    "Eine Diagnose",
+    "Einen Laborwert"
+   ],
+   "aha": "Bei so viel Leid könnte man verzweifeln. Marcus hält sich an die einzelne Begegnung auf Augenhöhe: Er kann die Welt nicht aus den Angeln heben, aber einem konkreten Menschen helfen.",
+   "quote_clean": "Wenn ich an die Arbeit von Ärztinnen und Ärzten denke, dann ist es so, dass wir nie eine Statistik behandeln. Wir machen nie eine Massenbehandlung, sondern es ist immer ein ganz konkreter Mensch.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "'Fragt gern' ist aus einer einzigen Stelle verallgemeinert; das aha (Podcast-Tipp, Filmtipp von Andreas) ist im Ausschnitt nicht belegt; schwache Spielfrage.",
+   "stand_note": "",
+   "statement": "Andreas Sator fragt seine Gäste zum Schluss gern nach einem Buch- oder Filmtipp.",
+   "question": "Wonach fragt Andreas seine Gäste gern zum Ende der Folge?",
+   "answer": "Nach einem Buch- oder Filmtipp",
+   "distractors": [
+    "Nach ihrem Lieblingsessen",
+    "Nach ihrem größten Fehler",
+    "Nach ihrer Prognose für 2050"
+   ],
+   "aha": "Marcus hatte spontan keinen parat und empfahl dann Podcasts von Einsatzkräften, etwa den von Ärzte ohne Grenzen Deutschland. Andreas legte am Ende selbst noch einen Filmtipp nach.",
+   "quote_clean": "Hast du zum Ende einen Buch- oder Filmtipp? Gibt es irgendetwas, das dich sehr begeistert hat?",
+   "quality": 1
+  }
+ ],
+ "id": "174",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

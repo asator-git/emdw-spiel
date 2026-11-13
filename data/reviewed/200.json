@@ -1,0 +1,275 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=325 bis 335 belegt, auch der Aha (heißt immer noch neu, obwohl alt) passt zum Transkript.",
+   "stand_note": "",
+   "statement": "Eine international verwendete Tunnelbaumethode heißt Neue Österreichische Tunnelbauweise.",
+   "question": "Wie heißt die Tunnelbaumethode, die auch international unter ihrem österreichischen Namen bekannt ist?",
+   "answer": "Neue Österreichische Tunnelbauweise",
+   "distractors": [
+    "Wiener Schildvortrieb",
+    "Alpine Bohrmethode",
+    "Donau-Stollenbau"
+   ],
+   "aha": "Österreichische Techniker haben die Methode entwickelt, und österreichische Baufirmen tragen sie fast in die ganze Welt. Sie heißt immer noch „neu“, obwohl sie längst nicht mehr neu ist.",
+   "quote_clean": "Wir arbeiten in weiten Bereichen mit der Neuen Österreichischen Tunnelbauweise, die auch international so heißt.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=366 bis 371 belegt (sechs, sieben, acht Meter), Distraktoren eindeutig außerhalb.",
+   "stand_note": "",
+   "statement": "Schildmaschinen für den U-Bahn-Bau haben etwa sechs bis acht Meter Durchmesser.",
+   "question": "Wie viele Meter Durchmesser hat eine Tunnelbohrmaschine für den U-Bahn-Bau ungefähr?",
+   "answer": "Sechs bis acht Meter",
+   "distractors": [
+    "Zwei bis drei Meter",
+    "15 bis 20 Meter",
+    "30 Meter"
+   ],
+   "aha": "Vorne dreht sich ein Bohrkopf wie bei einer Bohrmaschine, dahinter sichert ein Stahlmantel, und gleich werden die Betontübbinge versetzt. Sechs bis acht Meter Durchmesser, je nach Tunnel.",
+   "quote_clean": "Einerseits verwenden wir Schildmaschinen, das sind große Bohrer, wenn man so will, mit sechs, sieben, acht Meter Durchmesser, je nachdem, was das für ein Tunnel ist.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=407 bis 426 klar belegt.",
+   "stand_note": "",
+   "statement": "Bei der Neuen Österreichischen Tunnelbauweise bilden sich im Boden Gewölbe, die den Hohlraum mittragen.",
+   "question": "Was ist der Trick der Neuen Österreichischen Tunnelbauweise?",
+   "answer": "Der Boden bildet tragende Gewölbe",
+   "distractors": [
+    "Der Boden wird vorher gefroren",
+    "Die Häuser werden vorher angehoben",
+    "Der Tunnel wird von oben gegraben"
+   ],
+   "aha": "Man trägt den Boden in kleinen Stücken ab, sichert sofort mit Spritzbeton, und das Erdreich entspannt sich ein bisschen und bildet ein Gewölbe. So wird der Boden quasi zum Mittragen animiert, und oben passiert nichts.",
+   "quote_clean": "Und der Trick bei der Neuen Österreichischen Tunnelbauweise ist, dass sich durch den leichten Bodenabtrag mit einer leichten Entspannung im Boden Gewölbe bilden.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=476 bis 499 belegt: Bohrkopf lässt sich unterwegs nicht tauschen, daher einheitlicher Boden nötig.",
+   "stand_note": "",
+   "statement": "Eine Tunnelbohrmaschine funktioniert nur, wenn der Boden einheitlich ist, weil man den Bohrkopf unterwegs nicht tauschen kann.",
+   "question": "Warum kann man eine Tunnelbohrmaschine nur bei einheitlichem Boden einsetzen?",
+   "answer": "Der Bohrkopf lässt sich unterwegs nicht tauschen",
+   "distractors": [
+    "Sie wäre sonst zu laut",
+    "Sie braucht immer Grundwasser",
+    "Sie fährt nur bergab"
+   ],
+   "aha": "Wie zu Hause: Mit dem Holzbohrer kommst du durch keine Stahlbetonwand. Unter der Erde kommt man an den Bohrer aber nicht mehr hin, also muss der Boden zur Maschine passen, von sandigem Schotter bis klebrigem Lehm.",
+   "quote_clean": "Das ist wie wenn man im Haus ein Loch bohrt: Mit einem Holzbohrer geht es in der Stahlbetonwand nicht, und umgekehrt.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=521 bis 543 belegt (Mineure, Bergmänner).",
+   "stand_note": "",
+   "statement": "Die Arbeiter, die im Tunnelbau vor Ort den Vortrieb machen, heißen Mineure, wie Bergleute.",
+   "question": "Wie nennt man die Bergleute, die im Tunnelbau vorne den Vortrieb machen?",
+   "answer": "Mineure",
+   "distractors": [
+    "Kumpel-Ingenieure",
+    "Sappeure",
+    "Stollisten"
+   ],
+   "aha": "Andreas hatte das Wort noch nie gehört. Mineure sind Bergmänner, die Schächte und Stollen vorantreiben, und sie erkennen aus Erfahrung schnell, ob es zusätzliche Sicherungen braucht.",
+   "quote_clean": "Das sind Bergmänner. Auch im Bergbau sind es Mineure, die diese Schächte und Stollen vorantreiben.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-Frage in einer Ein-Gast-Folge ist trivial, die Distraktoren sind beliebig.",
+   "stand_note": "",
+   "statement": "Die Trasse einer U-Bahn richtet sich nach dem Bedarf der Menschen, nicht nach der Bequemlichkeit beim Bauen.",
+   "question": "Wer sagt: „Man soll ja dort fahren, wo es die Menschen brauchen, und nicht dort bauen, wo es leicht zu bauen geht“?",
+   "answer": "Günter Steinbauer",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Wiener Bürgermeister",
+    "Ein Berliner Verkehrsforscher"
+   ],
+   "aha": "",
+   "quote_clean": "Man soll ja dort fahren, wo es die Menschen brauchen, und nicht dort bauen, wo es leicht zu bauen geht.",
+   "quality": 1
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Vergleich bei t=669 bis 680 belegt; Steinbauer ist Geschäftsführer für Technik, nicht Chef der Wiener Linien, Frage korrigiert; Aha-Zusatz zu Bim und Bus stand nicht im Transkript.",
+   "stand_note": "",
+   "statement": "Günter Steinbauer vergleicht U-Bahn-Linien mit den Lebensadern im menschlichen Körper.",
+   "question": "Womit vergleicht der Technik-Geschäftsführer der Wiener Linien die Verkehrslinien einer Stadt?",
+   "answer": "Mit Lebensadern im Körper",
+   "distractors": [
+    "Mit Nervenbahnen im Gehirn",
+    "Mit Wurzeln eines Baumes",
+    "Mit Flüssen in einem Delta"
+   ],
+   "aha": "Die Hauptschlagadern führen zum Herz und zur Lunge und nicht irgendwo seitlich vorbei. Genauso soll die U-Bahn dorthin fahren, wo die wichtigen Orte sind: große Wohnbauten, Kultureinrichtungen, Rathaus, Parlament.",
+   "quote_clean": "Verkehrslinien sind die Lebensadern einer Stadt. Und so wie die Lebensadern im menschlichen Körper muss man die wichtigen Organe und Stellen versorgen.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Bei t=800 bis 812 belegt; Distraktoren im Zentimeterbereich passen laut Gast für weniger empfindliche Gebäude, daher durch klar falsche Werte ersetzt.",
+   "stand_note": "",
+   "statement": "Manche Gebäude vertragen rechnerisch nur Setzungen von wenigen Zehntel Millimetern und werden vor dem Tunnelbau verstärkt.",
+   "question": "Wie viel Setzung halten die empfindlichsten Häuser über einem U-Bahn-Tunnel rechnerisch aus?",
+   "answer": "Wenige Zehntel Millimeter",
+   "distractors": [
+    "Rund zwei Millimeter",
+    "Etwa einen halben Meter",
+    "Rund einen Meter"
+   ],
+   "aha": "Beim Graben gibt das Erdreich im Millimeterbereich nach, bevor es trägt. Für die empfindlichsten Häuser sind schon Zehntel Millimeter heikel, deshalb kommen vorher zusätzliche Betonplatten in die Keller.",
+   "quote_clean": "Und dann gibt es Gebäude, die halten rechnerisch nur wenige Zehntel Millimeter aus. Diese Häuser ertüchtigen wir dann auch.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Aussage bei t=877 belegt, aber als Auskunft des Gasts zu kennzeichnen ('praktisch', mit Ausnahmen); Aha-Zusatz zum Eisenbahnenteignungsgesetz nicht im Ausschnitt belegt, ersetzt.",
+   "stand_note": "",
+   "statement": "Laut Günter Steinbauer reicht das Grundeigentum in Österreich rechtlich praktisch bis zum Erdmittelpunkt.",
+   "question": "Bis wohin reicht in Österreich laut Günter Steinbauer rechtlich das Eigentum an einem Grundstück nach unten?",
+   "answer": "Praktisch bis zum Erdmittelpunkt",
+   "distractors": [
+    "Bis zehn Meter Tiefe",
+    "Bis zum Keller",
+    "Bis zum Grundwasser"
+   ],
+   "aha": "Deshalb braucht man für den Tunnel unter einem Haus die Zustimmung der Eigentümer:innen, wie im üblichen Geschäftsleben. Das gelingt den Wiener Linien in den meisten Fällen sehr gut.",
+   "quote_clean": "Die Rechtslage in Österreich ist so, dass das grundbücherliche Eigentum praktisch bis zum Erdmittelpunkt geht.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=1077 bis 1086 belegt (15 bis 20 Meter im Schnitt, NÖT 3 bis 5 Meter).",
+   "stand_note": "",
+   "statement": "Eine Tunnelbohrmaschine schafft im Vortrieb im Schnitt 15 bis 20 Meter Tunnel pro Tag.",
+   "question": "Wie viele Meter U-Bahn-Tunnel schafft eine Schildmaschine im Vortrieb ungefähr pro Tag?",
+   "answer": "15 bis 20 Meter",
+   "distractors": [
+    "1 bis 2 Meter",
+    "50 Meter",
+    "200 Meter"
+   ],
+   "aha": "Wenn die Schildmaschine einmal läuft, geht es flott voran. Mit der Neuen Österreichischen Tunnelbauweise sind es eher drei bis fünf Meter, dafür klappt die bei jedem Boden.",
+   "quote_clean": "Im Vortrieb, wenn die Schildmaschine einmal fährt, gehen schon 15 bis 20 Meter im Schnitt.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei t=1103 bis 1116 belegt (eineinhalb bis zwei Jahre, Schacht als kritischer Weg).",
+   "stand_note": "",
+   "statement": "Der Bau eines großen U-Bahn-Schachts dauert eineinhalb bis zwei Jahre, bevor der Tunnelvortrieb beginnen kann.",
+   "question": "Wie lange dauert es ungefähr, einen großen U-Bahn-Schacht in die Tiefe zu bauen?",
+   "answer": "Eineinhalb bis zwei Jahre",
+   "distractors": [
+    "Drei Monate",
+    "Ein halbes Jahr",
+    "Fünf Jahre"
+   ],
+   "aha": "So ein Schacht ist im Grunde ein Hochhaus, nur verkehrt herum in die Erde gebaut. Er ist der kritische Weg: Erst wenn man unten ist, kann der eigentliche Tunnel losgehen.",
+   "quote_clean": "So ein Schacht ist quasi ein Hochhaus, nach unten gebaut, im Erdreich stufenweise. Und der braucht vorher, je nach Größe, Lage und Tiefe, eineinhalb bis zwei Jahre, bis man unten ist.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Datum 1. August 1976 bei t=1292 belegt und historisch korrekt; Niki-Lauda-Bezug und Donaukanal im Transkript.",
+   "stand_note": "",
+   "statement": "Die Wiener Reichsbrücke stürzte am 1. August 1976 ein.",
+   "question": "In welchem Jahr stürzte die Wiener Reichsbrücke ein?",
+   "answer": "1976",
+   "distractors": [
+    "1968",
+    "1983",
+    "1991"
+   ],
+   "aha": "Am selben Tag verunglückte Niki Lauda am Nürburgring, deshalb weiß das jeder von damals. Der Donaukanal diente danach als Ersatzroute für Frachtschiffe, mitten durch die U1-Baustelle.",
+   "quote_clean": "Die Reichsbrücke ist am 1. August 1976 eingestürzt. Das weiß jeder junge Österreicher von damals.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-Frage in einer Ein-Gast-Folge ist trivial, die Distraktoren sind beliebig.",
+   "stand_note": "",
+   "statement": "Stadtentwicklung und Verkehrsplanung müssen laut Günter Steinbauer gemeinsam passieren.",
+   "question": "Wer sagt: „Stadtentwicklung und Verkehrsentwicklung muss Hand in Hand gehen“?",
+   "answer": "Günter Steinbauer",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Berliner Verkehrsforscherin",
+    "Ein Hörer aus Hernals"
+   ],
+   "aha": "",
+   "quote_clean": "Stadtentwicklung und Verkehrsentwicklung müssen Hand in Hand gehen. Das eine hat ohne das andere keinen Sinn.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Trivia ohne Wissenswert; Aha-Zusatz (drei bis fünf Jahre bis zur Umstellung) ist im Ausschnitt nicht belegt und wäre heute überholt.",
+   "stand_note": "",
+   "statement": "Andreas beendet das Gespräch mit der Frage, warum man die Durchsagen der Wiener Linien so oft nicht versteht.",
+   "question": "Welche Alltagsfrage stellt Andreas dem Technik-Geschäftsführer ganz zum Schluss?",
+   "answer": "Warum man Durchsagen nicht versteht",
+   "distractors": [
+    "Warum die U6 so voll ist",
+    "Warum es keine U7 gibt",
+    "Warum Tickets so teuer sind"
+   ],
+   "aha": "",
+   "quote_clean": "Letzte Frage, Günter: Warum versteht man bei den Durchsagen der Wiener Linien so oft nichts?",
+   "quality": 1
+  }
+ ],
+ "id": "200",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

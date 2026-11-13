@@ -1,0 +1,281 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "5 Tage, ca. 38 Wochen belegt bei 401.",
+   "stand_note": "",
+   "statement": "Schulkinder verbringen mit ihrer Klasse fünf Tage pro Woche, ungefähr 38 Wochen im Jahr.",
+   "question": "Wie viele Wochen im Jahr verbringt ein Schulkind ungefähr mit seiner Klasse?",
+   "answer": "Ungefähr 38 Wochen",
+   "distractors": [
+    "Ungefähr 30 Wochen",
+    "Ungefähr 44 Wochen",
+    "Ungefähr 48 Wochen"
+   ],
+   "aha": "Rund 38 Wochen, fünf Tage die Woche: Das ist viel Zeit. Darum zählt laut Henz die Klasse für den Selbstwert oft fast mehr als der selbst gewählte Freundeskreis.",
+   "quote_clean": "Warum ist das so wichtig? Weil wir mit denen viel mehr Zeit verbringen, nämlich fünf Tage die Woche, ungefähr 38 Wochen im Jahr.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Rhetorische Daumenschätzung im Konditionalsatz, kein belastbarer Fakt.",
+   "stand_note": "",
+   "statement": "Katharina Henz schätzt, dass 90 Prozent der Menschen schlecht abschneiden, wenn nur Coolness und Schönheit zählen.",
+   "question": "Wie viel Prozent der Menschen schneiden laut Katharina Henz schlecht ab, wenn nur Coolness und Schönheit zählen?",
+   "answer": "90 Prozent",
+   "distractors": [
+    "50 Prozent",
+    "70 Prozent",
+    "99 Prozent"
+   ],
+   "aha": "",
+   "quote_clean": "Wenn jetzt nur Coolness und Schönheit das Wichtigste ist, dann schneiden 90 Prozent der Menschen nicht besonders gut ab in dieser Wertung.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Persönlicher Selbstschätzwert der Gästin, nicht ratbar und ohne Erkenntniswert.",
+   "stand_note": "",
+   "statement": "Der explizite Selbstwert ist die bewusste Selbsteinschätzung, etwa auf einer Skala von 0 bis 10; Katharina Henz gibt sich im Schnitt eine Acht.",
+   "question": "Welchen Wert gibt sich Katharina Henz im Schnitt auf einer Selbstwert-Skala von 0 bis 10?",
+   "answer": "8",
+   "distractors": [
+    "5",
+    "6",
+    "10"
+   ],
+   "aha": "",
+   "quote_clean": "Wenn du mich fragst, Kati, auf einer Skala von 0 bis 10, wie hoch ist dein Selbstwert – das ist dann meine Einschätzung.",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Eigene Deutung der Gästin, nicht als Faktum; als 'laut Henz' formuliert.",
+   "stand_note": "",
+   "statement": "Laut Katharina Henz ist das Ideal, cool sein zu müssen, historisch neu und kam mit Hollywood ins Spiel.",
+   "question": "Woher kommt laut Katharina Henz das Ideal, dass man cool sein muss?",
+   "answer": "Aus Hollywood-Filmen",
+   "distractors": [
+    "Aus der Antike",
+    "Aus der Romantik",
+    "Aus dem Adel des Mittelalters"
+   ],
+   "aha": "Henz sagt: Im 14. bis 18. Jahrhundert hat niemand geschrieben, man müsse cool sein. Mit Hollywood kamen Männer, die nichts reden und Lasso schwingen, und plötzlich galt Coolness als Zeichen von großem Selbstwert.",
+   "quote_clean": "Cool sein ist ein relativ neues Konstrukt in der Menschheitsgeschichte. Das ist nie irgendwo abgebildet worden, niemand hat jemals im 14., 15., 16., 17. oder 18. Jahrhundert geschrieben, man müsse cool sein.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aussage belegt; Aha enthielt nicht belegte Details, ersetzt durch belegtes Beispiel.",
+   "stand_note": "",
+   "statement": "Für den Selbstwert von Kindern sind Gruppen, in die man hineingewürfelt wird, wie Schulklassen, fast bedeutender als selbst gewählte Freund:innen.",
+   "question": "Welche Gruppe prägt den Selbstwert von Kindern laut Katharina Henz besonders stark?",
+   "answer": "Die Klasse, in die man reingewürfelt wird",
+   "distractors": [
+    "Die selbst gewählten besten Freund:innen",
+    "Die Großeltern und Verwandten",
+    "Die Online-Bekanntschaften"
+   ],
+   "aha": "Die Klasse sucht man sich nicht aus. Ob man dort der Superstar war oder niemand neben einem sitzen wollte, macht laut Henz etwas mit einem und prägt die Überzeugung über sich selbst.",
+   "quote_clean": "Fast bedeutender sind die Peer Groups, die man sich nicht selbst zusammengestellt hat, sondern in die man reingewürfelt worden ist. Das hat massive Auswirkungen auf meinen Selbstwert.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Aussage belegt; Statement zu pauschal ('ständig beklatscht'), an Wortlaut angepasst.",
+   "stand_note": "",
+   "statement": "Laut Katharina Henz gehört zu einem guten Selbstwert, dass man Scheitern lernt; wer immer abgepuffert wird, lernt das nicht.",
+   "question": "Was brauchen Kinder laut Katharina Henz neben Lob, um einen guten Selbstwert zu entwickeln?",
+   "answer": "Die Erfahrung, scheitern zu dürfen",
+   "distractors": [
+    "Möglichst viel Lob für alles",
+    "Strenge Regeln ohne Ausnahme",
+    "Viele Hobbys gleichzeitig"
+   ],
+   "aha": "Wer immer abgepuffert wird und bei der geringsten Anstrengung beklatscht wird, lernt nicht, auf die Nase zu fallen. Zum Selbstwert gehört laut Henz auch Mut zum Blamieren.",
+   "quote_clean": "Einen guten Selbstwert zu entwickeln heißt auch, dass man Scheitern lernt – und wenn man das nicht gelernt hat, weil man immer gepampert worden ist …",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Definition von Validieren belegt bei 1375-1434.",
+   "stand_note": "",
+   "statement": "Ein Gefühl zu validieren bedeutet, es anzuerkennen, nicht, dem Verhalten zuzustimmen.",
+   "question": "Was bedeutet es, das Gefühl eines Kindes zu validieren?",
+   "answer": "Es anerkennen, ohne zuzustimmen",
+   "distractors": [
+    "Ihm nachgeben, damit es aufhört",
+    "Es ignorieren, bis es vorbei ist",
+    "Es mit einer Belohnung ablenken"
+   ],
+   "aha": "„Jetzt bist du sauer, weil du das nicht bekommen hast“ – und trotzdem gibt's heute keinen Schlecker. Das Gefühl wird erkannt, benannt und für gültig erklärt, die Grenze bleibt.",
+   "quote_clean": "Ein Gefühl zu validieren heißt nicht, dass ich das super finde und dass ich damit einverstanden bin.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Pumpen-Bild belegt bei 917-946.",
+   "stand_note": "",
+   "statement": "Selbstwert funktioniert wie eine Pumpe: Positive Erfahrungen machen mutiger, was wieder zu positiven Erfahrungen führt.",
+   "question": "Mit welchem Bild beschreibt Katharina Henz, wie Selbstwert funktioniert?",
+   "answer": "Mit einer Pumpe",
+   "distractors": [
+    "Mit einem Akku",
+    "Mit einer Waage",
+    "Mit einem Thermometer"
+   ],
+   "aha": "Gutes Feedback, mehr Mut, wieder Gutes, wieder mehr Mut. Selbstwert ist laut Henz nichts, womit man geboren wird, sondern hängt davon ab, was im Leben und im Umfeld passiert.",
+   "quote_clean": "Der Selbstwert funktioniert ein bisschen wie eine Pumpe: Ich kriege was Gutes, dann traue ich mich mehr, dann kriege ich vielleicht wieder mehr Gutes, dann traue ich mich wieder mehr.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Film ist kein 'Lieblingsfilm', sondern ein als Kind gesehener, unbekannter Film; Frage und Aha korrigiert.",
+   "stand_note": "",
+   "statement": "In einem Film, den Katharina Henz als Kind gesehen hat, wird auf der einsamen Insel der Diener zum Anführer und der Lord zum kleinen Wurm.",
+   "question": "Wer wird in dem Film aus Katharina Henz' Kindheit auf der einsamen Insel zum Anführer?",
+   "answer": "Der Diener",
+   "distractors": [
+    "Der Lord",
+    "Die Lady",
+    "Der Kapitän"
+   ],
+   "aha": "Der Diener weiß, wie man mit Holz umgeht und jagt, der Lord nicht. Das zeigt: Status hängt am Kontext. Henz sucht den Film übrigens bis heute und vermutet, dass er ein Grund war, warum sie später Soziologie studierte.",
+   "quote_clean": "Das Schiff säuft ab und sie landen auf einer einsamen Insel, und weil der Kontext weg ist, ändert sich der Status total.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Daumenregel belegt; Statement war als Frage formuliert, umformuliert.",
+   "stand_note": "",
+   "statement": "Eine Daumenregel von Katharina Henz: Hängt die Zufriedenheit am Abend davon ab, wie viel Lob man an diesem Tag bekommen hat, ist der Selbstwert eher wackelig.",
+   "question": "Welche Daumenregel nennt Katharina Henz, um den eigenen Selbstwert einzuschätzen?",
+   "answer": "Hängt meine Zufriedenheit am Lob des Tages?",
+   "distractors": [
+    "Wie viele Freund:innen habe ich?",
+    "Wie oft schaue ich in den Spiegel?",
+    "Wie viel verdiene ich im Monat?"
+   ],
+   "aha": "Wenn du nur nach einem Tag voller Komplimente zufrieden ins Bett gehst, ist der Selbstwert eher fragil. Stabiler heißt: auch nach Kritik sagen können, ich bin trotzdem ein wertvoller Mensch.",
+   "quote_clean": "Wie sehr mache ich mein Glück oder meine Zufriedenheit, wie es mir am Ende eines Tages geht, davon abhängig, wie viel gutes Feedback ich bekommen habe?",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "fairness"
+   ],
+   "note": "'Immer hilfreich' ist eine Pauschalaussage einer praktizierenden Therapeutin und als Fakt überzogen.",
+   "stand_note": "",
+   "statement": "Psychotherapie ist laut Katharina Henz immer hilfreich, man muss nicht warten, bis man krank wird.",
+   "question": "Wann ist Psychotherapie laut Katharina Henz hilfreich?",
+   "answer": "Immer, wenn sie halbwegs gut ist",
+   "distractors": [
+    "Erst bei einer Diagnose",
+    "Nur in akuten Krisen",
+    "Erst nach mehreren Jahren Leidensdruck"
+   ],
+   "aha": "",
+   "quote_clean": "Wenn es eine halbwegs gute Psychotherapeutin ist: immer. – Also muss man nicht warten, bis man krank wird? – Nein, im Gegenteil.",
+   "quality": 2
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Stimmig-Frage belegt bei 1670-1699.",
+   "stand_note": "",
+   "statement": "Ein einfacher Trick, um wieder in Kontakt mit den eigenen Gefühlen zu kommen, ist die Frage: Ist das gerade stimmig oder nicht?",
+   "question": "Welche Frage empfiehlt Katharina Henz, um wieder Kontakt zu den eigenen Gefühlen zu bekommen?",
+   "answer": "Ist das gerade stimmig oder nicht?",
+   "distractors": [
+    "Was würden andere jetzt denken?",
+    "Habe ich das verdient oder nicht?",
+    "Wie kann ich das schnell ändern?"
+   ],
+   "aha": "Wenn etwas anders ist als sonst, kurz fragen: stimmig oder nicht? Du musst nicht jedem Impuls nachgeben, aber du merkst wieder, wie es dir gerade geht.",
+   "quote_clean": "Sich einfach nur die Frage stellen: Ist das gerade stimmig oder nicht? Ich finde, das ist eine sehr schöne, sehr einfache Möglichkeit, um wieder in Kontakt zu kommen.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Mittel- bis langfristiger Prozess belegt bei 2938-2967.",
+   "stand_note": "",
+   "statement": "Den Selbstwert stabil zu steigern ist ein mittel- bis langfristiger Prozess, kein schneller Effekt.",
+   "question": "Wie lange dauert es laut Katharina Henz, den Selbstwert stabil zu steigern?",
+   "answer": "Mittel- bis langfristig, nicht über Nacht",
+   "distractors": [
+    "Ein paar Tage mit dem richtigen Buch",
+    "Genau sechs Wochen",
+    "Das geht gar nicht"
+   ],
+   "aha": "Kurzfristig boosten geht, stabil erhöhen dauert. Es ist nichts, was über Nacht funktioniert oder nach einem schlauen Buch erledigt ist.",
+   "quote_clean": "Den Selbstwert stabil zu erhöhen, das dauert. Das ist nichts, was über Nacht funktioniert oder wenn man ein schlaues Buch gelesen hat.",
+   "quality": 2
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Banale Standard-Anmoderation ohne inhaltlichen Wert; keine Wissensfrage.",
+   "stand_note": "",
+   "statement": "Andreas beginnt seine Folgen mit der Einladung, sich zurückzulehnen und ein Getränk oder einen Snack zu holen.",
+   "question": "Was empfiehlt Andreas zu Beginn, bevor es losgeht?",
+   "answer": "Ein Getränk oder einen Snack holen",
+   "distractors": [
+    "Einen Notizblock bereitlegen",
+    "Das Handy auf lautlos stellen",
+    "Kurz die Augen schließen"
+   ],
+   "aha": "",
+   "quote_clean": "Dafür brauchen wir Zeit und Geduld, also lehn dich zurück, hol dir vielleicht vorher noch ein Getränk oder einen Snack, und legen wir los.",
+   "quality": 1
+  }
+ ],
+ "id": "292",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

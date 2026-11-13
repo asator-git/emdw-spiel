@@ -1,0 +1,293 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg stimmt (t=113, Vilnius ca. 30 km von Belarus); 'in Sichtweite' im aha ist übertrieben und entfällt.",
+   "stand_note": "",
+   "statement": "Litauens Hauptstadt Vilnius liegt nur rund 30 Kilometer von der Grenze zu Belarus entfernt.",
+   "question": "Wie viele Kilometer ist Vilnius ungefähr von der Grenze zu Belarus entfernt?",
+   "answer": "Rund 30 Kilometer",
+   "distractors": [
+    "Rund 90 Kilometer",
+    "Rund 150 Kilometer",
+    "Rund 250 Kilometer"
+   ],
+   "aha": "Vilnius liegt ganz im Südosten Litauens, ziemlich nah an Belarus. Und weil die belarussische Armee laut Gady de facto in die russische integriert ist, ist das für Militärplaner eine ungemütliche Nachbarschaft.",
+   "quote_clean": "Die Hauptstadt Vilnius, die nur 30 km von Belarus entfernt ist, und Belarus hat ja gerade auch wieder ein Verteidigungsabkommen mit Russland geschlossen.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Beleg stimmt (t=136-142); im aha war die Aussage zu russischen Verbänden nicht im Ausschnitt belegt, entfernt.",
+   "stand_note": "Stand 2025",
+   "statement": "Laut Franz-Stefan Gady ist die belarussische Armee relativ schwach und vor allem für die innere Ordnung, also die Kontrolle der eigenen Bevölkerung, konzipiert.",
+   "question": "Wofür ist die belarussische Armee laut Franz-Stefan Gady eigentlich gebaut?",
+   "answer": "Für die Aufrechterhaltung der inneren Ordnung",
+   "distractors": [
+    "Für große Offensiven gegen Nachbarstaaten",
+    "Für Friedensmissionen der UNO",
+    "Für Auslandseinsätze in Afrika"
+   ],
+   "aha": "Gady sagt es zunächst euphemistisch, dann deutlich: In Wirklichkeit ist sie zur Unterdrückung der eigenen Bevölkerung da. Eine große Offensivkraft hat sie laut ihm nicht, sie kann kaum großartig Angriffe gegen andere Staaten führen.",
+   "quote_clean": "Die weißrussische Armee ist relativ schwach, das ist eigentlich eine Truppe zur Aufrechterhaltung der inneren Ordnung.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (t=284-334 und 734); Szenario ist als Gadys Buchszenario erkennbar, aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Bei einer „Eskalation zur Deeskalation“ greift man mit massiven Kräften an, schafft vollendete Tatsachen und bietet dann Verhandlungen an, sodass der Gegner selbst eskalieren müsste.",
+   "question": "Was steckt hinter der Strategie „Eskalation zur Deeskalation“?",
+   "answer": "Schnell angreifen, dann Verhandlungen anbieten",
+   "distractors": [
+    "Langsam aufrüsten, bis der Gegner nachgibt",
+    "Nur mit Cyberangriffen Druck machen",
+    "Den Gegner wirtschaftlich aushungern"
+   ],
+   "aha": "Die Idee: Man überrumpelt den Gegner, nimmt eine Stadt in Geiselhaft und droht notfalls mit Atomwaffen. Dann liegt der Ball bei der NATO, die einen Gegenangriff starten müsste und damit als die dasteht, die eskaliert.",
+   "quote_clean": "Das heißt, eine sogenannte Eskalation-zur-Deeskalation-Strategie. Man greift mit massiven Kräften entlang mehrerer Angriffsachsen an und nimmt zum Beispiel eine Stadt wie Vilnius in Geiselhaft.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage in einer Folge mit nur einem Gast ist trivial, Distraktoren (Rumsfeld, Masala) sind beliebig.",
+   "stand_note": "",
+   "statement": "Franz-Stefan Gady betont, dass Krieg vor allem ein Wettbewerb des Willens ist.",
+   "question": "Wer sagt in „Erklär mir die Welt“: „Krieg ist immer ein Wettbewerb des Willens“?",
+   "answer": "Franz-Stefan Gady",
+   "distractors": [
+    "Carlo Masala",
+    "Andreas Sator",
+    "Donald Rumsfeld"
+   ],
+   "aha": "Der Satz zieht sich durch das ganze Gespräch. Für Gady entscheidet nicht nur, wer mehr Panzer hat, sondern wer bereit ist, länger durchzuhalten und Risiken einzugehen.",
+   "quote_clean": "Was ich auch in der vorherigen Episode gesagt habe: Krieg wird bestimmt durch Willen. Krieg ist immer ein Wettbewerb des Willens.",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg stimmt (t=763-779); Aussage als Gadys Einschätzung gekennzeichnet.",
+   "stand_note": "Stand 2025",
+   "statement": "Laut Franz-Stefan Gady sieht die russische Militärdoktrin im Kriegsfall durchaus den Einsatz taktischer Nuklearwaffen vor; konventionelle und nukleare Stärke sind eng verknüpft.",
+   "question": "Was sieht die russische Militärdoktrin laut Franz-Stefan Gady im Kriegsfall durchaus vor?",
+   "answer": "Den Einsatz taktischer Nuklearwaffen",
+   "distractors": [
+    "Einen Verzicht auf jeden Erstschlag",
+    "Ausschließlich konventionelle Kriegsführung",
+    "Eine automatische Waffenruhe nach drei Tagen"
+   ],
+   "aha": "Konventionelle Stärke und Atomwaffen sind in Russlands Denken eng verkuppelt. Genau das macht das Geiselhaft-Szenario so heikel: Wer zurückschlägt, riskiert die nukleare Dimension.",
+   "quote_clean": "Die russische Militärdoktrin sieht durchaus den Einsatz von taktischen Nuklearwaffen im Kriegsfall vor.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt (t=1020-1050); Frage klarer als Gadys Argument markiert, nicht als Tatsache.",
+   "stand_note": "",
+   "statement": "Gady vergleicht Rüstung mit einer Feuerwehr: Ob es brennt, hänge nicht davon ab, wie stark die Feuerwehr ist; Kriege seien bewusste politische Entscheidungen.",
+   "question": "Womit vergleicht Franz-Stefan Gady Streitkräfte, um zu argumentieren, dass Rüstung nicht von selbst Krieg auslöst?",
+   "answer": "Mit der Feuerwehr in der Nachbarschaft",
+   "distractors": [
+    "Mit einer Alarmanlage am Auto",
+    "Mit einem Schloss an der Haustür",
+    "Mit einem Regenschirm im Gewitter"
+   ],
+   "aha": "Manche sagen, Rüstung entfacht erst das Feuer. Gady hält dagegen: Ob dein Haus brennt, hängt nicht davon ab, wie viele Löschzüge um die Ecke stehen. Krieg ist für ihn zuallererst Politik.",
+   "quote_clean": "Ob dein Haus in Brand gesteckt wird oder es zu einem Brand in deinem Haus kommt, ist unabhängig davon, wie stark die Feuerwehr in deiner unmittelbaren Umgebung ist.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg stimmt (t=1170); im aha war 'Jahr vor der ersten Osterweiterung' falsch (1999 war zwei Jahre später), korrigiert.",
+   "stand_note": "",
+   "statement": "Ein klares Interesse Russlands ist laut Gady eine Rückkehr zum Stand von 1997, also keine NATO-Truppen in den Staaten des ehemaligen Warschauer Pakts.",
+   "question": "Zu welchem Jahr möchte Russland laut Franz-Stefan Gady sicherheitspolitisch zurück?",
+   "answer": "1997",
+   "distractors": [
+    "1989",
+    "2004",
+    "2014"
+   ],
+   "aha": "1997 war die NATO noch nicht nach Osten erweitert: Polen, Tschechien und Ungarn kamen erst 1999 dazu. Russland hätte laut Gady gern wieder eine Pufferzone in Osteuropa, ohne zusätzliche westliche Truppen.",
+   "quote_clean": "Ich glaube, ein klares Interesse Russlands ist eine Rückkehr zu 1997. Das heißt, NATO oder zusätzliche westliche Streitkräfte raus aus Osteuropa.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg stimmt (t=1266-1287); als Gadys Einschätzung gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Laut Gady war der Angriff auf die Ukraine 2022 nicht als Krieg, sondern als schnelle Polizeiaktion konzipiert; manche Einheiten marschierten noch in Friedensformation ein.",
+   "question": "Als was war der russische Angriff auf die Ukraine 2022 laut Franz-Stefan Gady ursprünglich konzipiert?",
+   "answer": "Als schnelle Polizeiaktion",
+   "distractors": [
+    "Als langer Abnutzungskrieg",
+    "Als reine Luftkampagne",
+    "Als begrenzte Grenzübung"
+   ],
+   "aha": "Gady erklärt damit, warum es in den ersten Wochen so holprig lief. Er warnt aber davor, daraus zu schließen, dass ein Angriff aufs Baltikum ähnlich schiefgehen würde: Darauf wäre Russland laut ihm viel besser vorbereitet.",
+   "quote_clean": "Der Krieg in der Ukraine war nicht als Krieg konzipiert, sondern als schnelle Polizeiaktion. Die Russen würden viel besser vorbereitet in einen Krieg im Baltikum gehen.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage bei nur einem Gast ist trivial; Distraktoren (Kant) beliebig.",
+   "stand_note": "",
+   "statement": "Gady vergleicht das Baltikum mit Westberlin im Kalten Krieg: Es ist die schwierigste Verteidigungsfrage Europas.",
+   "question": "Wer sagt: „Was Westberlin war, ist für Europa im 21. Jahrhundert das Baltikum“?",
+   "answer": "Franz-Stefan Gady",
+   "distractors": [
+    "Carlo Masala",
+    "Andreas Sator",
+    "Immanuel Kant"
+   ],
+   "aha": "Im Kalten Krieg zerbrachen sich Militärstrategen den Kopf, wie man Westberlin verteidigt. Heute geht dieser „Gehirnsaft“, wie Gady sagt, in die Frage, wie man das Baltikum halten kann.",
+   "quote_clean": "Was Westberlin war, ist für Europa im 21. Jahrhundert das Baltikum, und da gibt es diese berühmte Suwalki-Lücke.",
+   "quality": 1
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg stimmt (t=1483, 866 = 1866, historisch korrekt); Statement zu Österreich-Ungarn präzisiert, aha-Einstieg gestrafft.",
+   "stand_note": "",
+   "statement": "Die Schlacht von Königgrätz, eine große österreichische Niederlage gegen Preußen, fand 1866 statt; wenig später entstand Österreich-Ungarn.",
+   "question": "In welchem Jahr verlor Österreich die Schlacht von Königgrätz gegen Preußen?",
+   "answer": "1866",
+   "distractors": [
+    "1848",
+    "1859",
+    "1878"
+   ],
+   "aha": "Gady kam darauf, weil er sich bei Königsberg versprochen hat. Nach der Niederlage gegen Preußen kam 1867 der Ausgleich mit Ungarn, und aus dem Kaisertum wurde die Doppelmonarchie.",
+   "quote_clean": "Königgrätz ist die große Niederlage 1866, die quasi das Ende des österreichischen Kaiserreiches besiegelt hat, wo es dann Österreich-Ungarn wurde.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Versprecher-Anekdote ohne Erkenntniswert, doppelt zu Kandidat 11 und leicht bloßstellend.",
+   "stand_note": "",
+   "statement": "Gady verspricht sich und sagt Königgrätz statt Königsberg, was er selbst als freudschen österreichischen Versprecher kommentiert.",
+   "question": "Welchen Ort sagt Franz-Stefan Gady versehentlich statt Königsberg?",
+   "answer": "Königgrätz",
+   "distractors": [
+    "Königstein",
+    "Klagenfurt",
+    "Kaliningrad"
+   ],
+   "aha": "Ausgerechnet die größte Niederlage der österreichischen Militärgeschichte rutscht ihm raus. Er nimmt es mit Humor und liefert gleich einen historischen Exkurs samt Piefke dazu.",
+   "quote_clean": "Siehst du, das ist jetzt ein freudscher österreichischer militärischer Versprecher. Königgrätz ist die große Niederlage 1866.",
+   "quality": 1
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "beleg"
+   ],
+   "note": "Beleg stimmt (t=1842); aha an den Wortlaut angepasst ('im Moment eine Brigade', Division 15.000 bis 20.000/25.000), Stand 2025.",
+   "stand_note": "Stand 2025",
+   "statement": "Eine militärische Brigade umfasst ungefähr 3000 bis 5000 Soldat:innen.",
+   "question": "Wie viele Soldat:innen umfasst eine Brigade ungefähr?",
+   "answer": "Rund 4000 (3000 bis 5000)",
+   "distractors": [
+    "Rund 400",
+    "Rund 15.000",
+    "Rund 40.000"
+   ],
+   "aha": "Deutschland hat im Baltikum im Moment eine Brigade im Blick. Gady hält das für zu wenig: Es müsste eher eine Division sein, mit 15.000 bis 20.000 Mann, die direkt an der Grenze steht.",
+   "quote_clean": "Eine Brigade, also ungefähr irgendwas zwischen 3000 und 5000 Mann, je nachdem, wie das genau im Detail konzipiert wird.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg stimmt (t=2168-2185); Kausalität ist Gadys Analyse, daher gekennzeichnet; 'Welt schaute kaum hin' stand nicht im Ausschnitt.",
+   "stand_note": "Stand 2025",
+   "statement": "Laut Gady konnte Aserbaidschan Bergkarabach militärisch einnehmen, weil Russland durch den Ukrainekrieg abgelenkt war; fast alle Armenier:innen mussten die Region verlassen.",
+   "question": "Warum konnte Aserbaidschan den Konflikt um Bergkarabach laut Franz-Stefan Gady militärisch für sich entscheiden?",
+   "answer": "Russland war durch die Ukraine abgelenkt",
+   "distractors": [
+    "Die USA unterstützten Armenien nicht mehr",
+    "Armenien trat der NATO bei",
+    "Die UNO hatte die Region aufgegeben"
+   ],
+   "aha": "Russland war eine Regionalmacht im Kaukasus, hatte aber plötzlich nicht mehr die militärische Stärke, dort für Frieden zu sorgen. Aserbaidschan nutzte das aus, und fast alle Armenier:innen mussten die Region verlassen.",
+   "quote_clean": "Wenn Großmächte in einen Konflikt verwickelt sind, nutzen das natürlich kleinere Mächte aus, um Rechnungen zu begleichen. Man denke zum Beispiel an Bergkarabach. Ist dieses Problem noch existent? Nein. Warum? Russland war in den letzten Jahren mit dem Konflikt in der Ukraine abgelenkt.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Fragt nach Formulierung einer Moderationsfloskel, Distraktoren beliebig; 'fixes Ritual' und 'drei Punkte' sind nicht belegt.",
+   "stand_note": "",
+   "statement": "Andreas Sator beendet seine Folgen mit der Frage „Was nehme ich mir mit?“ und fasst die wichtigsten Punkte zusammen.",
+   "question": "Mit welcher Frage leitet Andreas am Ende der Folge seine Zusammenfassung ein?",
+   "answer": "„Was nehme ich mir mit?“",
+   "distractors": [
+    "„Was bleibt hängen?“",
+    "„Was lernen wir daraus?“",
+    "„Was heißt das für uns?“"
+   ],
+   "aha": "Das ist sein fixes Ritual: drei Punkte, die er selbst aus dem Gespräch mitnimmt. Diesmal ging es um Glaubwürdigkeit, den Willen zur Verteidigung und die Gefahr eines Zweifrontenkriegs.",
+   "quote_clean": "Lieber Franz, danke für deine Zeit. Was nehme ich mir mit? Erstens: die Glaubwürdigkeit untergraben.",
+   "quality": 1
+  }
+ ],
+ "id": "343",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

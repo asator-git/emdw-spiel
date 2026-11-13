@@ -1,0 +1,3 @@
+# Fünf Sätze für den Newsletter
+
+Ich hab ein Spiel gebaut, also genauer: Claude hat es gebaut, aus allen über 400 Folgen Erklär mir die Welt seit 2018. Jeden Tag gibt's fünf Fragen, die für alle gleich sind: Du schätzt Zahlen, ordnest Zitate unseren Gästen zu und rätst, in welcher Folge etwas vorkam. Das Besondere: Du sagst jedes Mal dazu, wie sicher du dir bist, und wer ehrlich ist, gewinnt mehr als wer blufft – evidenzbasiertes Denken als Spiel, quasi. Nach jeder Antwort kommt der Aha-Moment mit einem Knopf, der dich direkt zur Stelle in der Folge bringt, und am Sternenhimmel siehst du, welche Folgen du schon kennst. Probier's aus, schick mir dein Ergebnis und sag mir, wo's hakt: [LINK]

@@ -1,0 +1,288 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "60 % bei 111 s belegt, es geht um Agrarflächen insgesamt (nicht nur Äcker); Aha präzisiert, Aussage als Andreas' Angabe gekennzeichnet.",
+   "stand_note": "Stand 2023",
+   "statement": "Laut Andreas Sator wird in Österreich auf rund 60 Prozent der Agrarflächen Futter für Nutztiere angebaut.",
+   "question": "Auf wie viel Prozent der österreichischen Agrarflächen wird laut Andreas Futter für Tiere angebaut?",
+   "answer": "Rund 60 Prozent",
+   "distractors": [
+    "Rund 20 Prozent",
+    "Rund 35 Prozent",
+    "Rund 85 Prozent"
+   ],
+   "aha": "Mehr als die Hälfte der Agrarflächen dient also nicht direkt unserer Ernährung, sondern dem Futter für Kühe, Schweine und Hühner. Weniger Fleisch heißt darum: Platz für Schutzgebiete, Hecken, Blühstreifen oder einfach einen Wald.",
+   "quote_clean": "Wir bauen in Österreich auf 60 % der Agrarflächen Futtermittel an. Je weniger Fleisch wir essen, desto weniger Futter für Kühe, Schweine und Hühner müssen wir anbauen.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "fairness"
+   ],
+   "note": "Bei 82 s so gesagt, aber als Andreas' Einordnung in der Anmoderation; Rangfolge ist Gegenstand von Definitionen, daher als seine Aussage markiert.",
+   "stand_note": "Stand 2023",
+   "statement": "Andreas Sator sagt, das Ernährungssystem sei nach dem Verbrennen von Kohle, Öl und Gas der zweitgrößte Treiber der Klimakrise.",
+   "question": "Was nennt Andreas als zweitgrößten Treiber der Klimakrise, nach dem Verbrennen von Kohle, Öl und Gas?",
+   "answer": "Unser Ernährungssystem",
+   "distractors": [
+    "Der Flugverkehr",
+    "Die Zementproduktion",
+    "Das Internet"
+   ],
+   "aha": "Wie wir Äcker, Wiesen und Natur nutzen, entscheidet über Klima und Artenvielfalt gleichermaßen. Darum widmet Andreas dem Essen gleich eine ganze Staffel.",
+   "quote_clean": "Unser Ernährungssystem ist neben dem Verbrennen von Kohle, Öl und Gas der zweitgrößte Treiber der Klimakrise und hauptverantwortlich für das massenhafte Sterben von Vögeln, Wildbienen, Schmetterlingen und Co.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Im Transkript sagt Rust „vegetarisch lebende“ (gemeint: eher vegan) zu einem konkreten Produkt; Statement auf die tragfähige Kernaussage reduziert.",
+   "stand_note": "",
+   "statement": "Veganen Ersatzprodukten wird häufig Vitamin B12 zugesetzt, weil es fast nur in tierischen Lebensmitteln steckt.",
+   "question": "Welches Vitamin wird veganen Ersatzprodukten häufig gezielt zugesetzt?",
+   "answer": "Vitamin B12",
+   "distractors": [
+    "Vitamin C",
+    "Vitamin K",
+    "Vitamin A"
+   ],
+   "aha": "B12 steckt praktisch nur in tierischen Lebensmitteln. Wer darauf verzichtet, muss es anders bekommen, und da kommt eine Anreicherung im Veggie-Speck gelegen.",
+   "quote_clean": "Günstig, weil gerade vegetarisch lebende Personen ansonsten kein Vitamin B12 aufnehmen, und eine Anreicherung mit Vitamin B12 macht hier durchaus Sinn.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Nitritpökelsalz und krebserregende Nitrosamine bei 369-398 s belegt (Transkript „nicht rosamine“ klar als Nitrosamine zu lesen) und fachlich korrekt.",
+   "stand_note": "",
+   "statement": "Aus Nitritpökelsalz in Speck und Wurst können Nitrosamine entstehen, die krebserregend sind.",
+   "question": "Was kann aus dem Nitritpökelsalz in Speck und Wurst entstehen?",
+   "answer": "Krebserregende Nitrosamine",
+   "distractors": [
+    "Gesundes Vitamin D",
+    "Harmlose Milchsäure",
+    "Wertvolle Omega-3-Fette"
+   ],
+   "aha": "Nitritpökelsalz sorgt für die rosa Farbe und Haltbarkeit von Speck und Schinken. Der Haken: Daraus können Nitrosamine werden, und darum gilt bei solchen Produkten eher wenig als viel.",
+   "quote_clean": "Dass man das nicht in extrem hohen Mengen konsumieren sollte, da können Nitrosamine entstehen, und von denen wissen wir, dass sie krebserregend wirken.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Kokosöl-Aussage bei 625-654 s belegt; Aha verallgemeinerte „oft“, belegt ist nur dieses Produkt.",
+   "stand_note": "",
+   "statement": "Kokosöl enthält im Gegensatz zu den meisten Pflanzenölen viele gesättigte Fettsäuren.",
+   "question": "Welches Pflanzenöl enthält auffällig viele gesättigte Fettsäuren?",
+   "answer": "Kokosöl",
+   "distractors": [
+    "Sonnenblumenöl",
+    "Olivenöl",
+    "Rapsöl"
+   ],
+   "aha": "Deshalb hat die getestete vegane Bratwurst ähnlich viele gesättigte Fette wie die vom Schwein. Sonnenblumen-, Mais- oder Olivenöl liefern dagegen vor allem ungesättigte Fettsäuren.",
+   "quote_clean": "Das Kokosöl nimmt eine Sonderstellung ein: Im Vergleich zu anderen pflanzlichen Ölen enthält Kokosöl einen höheren Anteil an gesättigten Fettsäuren.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Sprecher-Ratefrage in Wissensfrage umgebaut (680-709 s belegt); „Uni Wien“ im Aha nicht im Ausschnitt, entfernt.",
+   "stand_note": "",
+   "statement": "Eine lange Zutatenliste spricht oft für einen höheren Verarbeitungsgrad.",
+   "question": "Wofür spricht laut der Ernährungswissenschafterin eine lange Zutatenliste oft?",
+   "answer": "Für einen höheren Verarbeitungsgrad",
+   "distractors": [
+    "Für mehr Vitamine",
+    "Für Zutaten aus der Region",
+    "Für einen höheren Eiweißanteil"
+   ],
+   "aha": "Faustregel von Petra Rust: Im Zweifel lieber das Produkt mit der kürzeren Zutatenliste. Lange Listen deuten oft auf stärkere Verarbeitung hin – das kann, muss aber nicht ungünstig sein.",
+   "quote_clean": "Generell würde ich immer Produkte mit einer kürzeren Zutatenliste bevorzugen. Eine längere Zutatenliste spricht oft für einen höheren Verarbeitungsgrad.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Dublette zu Kandidat 6 (gleiche Stelle); Distraktoren „Bio/Vegan/Teuer heißt gesund“ gehen am Inhalt vorbei.",
+   "stand_note": "",
+   "statement": "Andreas fragt nach, ob eine lange Zutatenliste ein Hinweis auf ein ungesundes Produkt ist.",
+   "question": "Welche Faustregel will Andreas von der Ernährungswissenschafterin überprüft haben?",
+   "answer": "Lange Zutatenliste heißt eher ungesund",
+   "distractors": [
+    "Bio heißt immer gesund",
+    "Vegan heißt immer gesund",
+    "Teuer heißt immer gesund"
+   ],
+   "aha": "",
+   "quote_clean": "Ich habe im Kopf: Je länger eine Zutatenliste, desto wahrscheinlicher ist etwas ungesund. Ist das so, und warum?",
+   "quality": 2
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Sprecher-Ratefrage in Inhaltsfrage umgebaut; Aussage bei 882-905 s belegt.",
+   "stand_note": "",
+   "statement": "Pflanzenbetonte Ernährung bedeutet mehr Gemüse, Hülsenfrüchte, Vollkorn und Obst, nicht den Eins-zu-eins-Tausch von Fleisch gegen Ersatzprodukte.",
+   "question": "Was ist laut der Ernährungswissenschafterin mit pflanzenbetonter Ernährung eigentlich gemeint?",
+   "answer": "Mehr frisches Gemüse, Hülsenfrüchte, Vollkorn und Obst",
+   "distractors": [
+    "Alles Tierische eins zu eins durch Ersatzprodukte tauschen",
+    "Nur noch Rohkost essen",
+    "Ausschließlich vegane Fertigprodukte kaufen"
+   ],
+   "aha": "Für Petra Rust sind Veggie-Würstel ein Einstieg in die Reduktion tierischer Produkte, kein Ziel. Das eigentliche Ziel liegt im Gemüsefach und bei Linsen, Bohnen und Vollkorn.",
+   "quote_clean": "Es wäre nicht wünschenswert, alle tierischen Produkte eins zu eins durch pflanzliche Alternativen zu ersetzen. Mit pflanzenbetonter Ernährung ist eigentlich gemeint, dass wir den Anteil an frischem Gemüse, Hülsenfrüchten, Vollkorngetreide und Obst erhöhen.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Von Andreas bei 940 s so gesagt (nach Telefonat mit Rust), plausible Größenordnung.",
+   "stand_note": "Stand 2023",
+   "statement": "Rund die Hälfte des in Österreich gegessenen Fleisches wird verarbeitet konsumiert, etwa als Wurst, Speck oder Schinken.",
+   "question": "Wie viel Prozent des Fleisches in Österreich wird verarbeitet gegessen, etwa als Wurst oder Schinken?",
+   "answer": "Rund 50 Prozent",
+   "distractors": [
+    "Rund 10 Prozent",
+    "Rund 25 Prozent",
+    "Rund 80 Prozent"
+   ],
+   "aha": "Ein großer Teil vom Fleisch landet also eh schon hoch verarbeitet auf dem Teller. Ob die Wurst vom Schwein oder aus Erbsen kommt, ist gesundheitlich dann ziemlich ähnlich – beides nur in kleinen Mengen.",
+   "quote_clean": "Denn die Hälfte des Fleisches, das wir in Österreich essen, wird verarbeitet konsumiert, also etwa als Wurst, Speck, Schinken und Co.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1144-1172 s belegt (maximal drei Portionen pro Woche, Nationale Ernährungskommission); Empfehlung kann sich ändern.",
+   "stand_note": "Stand 2023",
+   "statement": "Die österreichische Nationale Ernährungskommission empfiehlt maximal drei Portionen Fleisch pro Woche.",
+   "question": "Wie viele Portionen Fleisch pro Woche empfiehlt die Nationale Ernährungskommission maximal?",
+   "answer": "Drei Portionen",
+   "distractors": [
+    "Eine Portion",
+    "Fünf Portionen",
+    "Sieben Portionen"
+   ],
+   "aha": "Drei Portionen, das ist für viele in Österreich deutlich weniger als jetzt. Gesünder wär's, und fürs Klima sowieso.",
+   "quote_clean": "Drei Portionen Fleisch pro Woche maximal ist die Empfehlung der Nationalen Ernährungskommission. Das wäre gesundheitlich besser als die jetzige durchschnittliche österreichische Ernährung.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Aussage bei 1315-1343 s belegt (Fisch am schwierigsten, Käse); Distraktor „Speck und Schinken“ nicht eindeutig falsch (vegane Speck-Alternative fiel im Test durch), ersetzt.",
+   "stand_note": "Stand 2023",
+   "statement": "Geschmacklich am schwierigsten zu ersetzen sind Fisch und Milchprodukte, besonders Käse.",
+   "question": "Bei welchen Lebensmitteln tun sich pflanzliche Alternativen laut der Ernährungswissenschafterin geschmacklich besonders schwer?",
+   "answer": "Fisch und Käse",
+   "distractors": [
+    "Burger und Nuggets",
+    "Brot und Gebäck",
+    "Nudeln und Reis"
+   ],
+   "aha": "Bei Fisch und Käse hinken pflanzliche Alternativen geschmacklich noch hinterher, bei anderen Produkten sind sie schon näher am Original. Andreas' veganer Thunfisch war trotzdem ein Treffer.",
+   "quote_clean": "Fisch ist das Lebensmittel, bei dem es vom Geschmack her die größten Probleme macht, eine Alternative zu finden, genauso wie bei den Milchprodukten, insbesondere bei Käse, wo der Geschmack noch nicht ganz so optimal ist.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Bei 1714-1743 s belegt, aber nur als „kann durchaus Sinn machen“, nicht als Empfehlung; Frage und absurder Distraktor angepasst.",
+   "stand_note": "",
+   "statement": "Fleischprodukte, denen Erbsenprotein oder Pilze beigemischt werden, können helfen, den Fleischanteil zu senken.",
+   "question": "Was kann laut der Ernährungswissenschafterin beim Faschierten ein sinnvoller Zwischenweg sein?",
+   "answer": "Fleisch mit Pilzen oder Erbsenprotein mischen",
+   "distractors": [
+    "Nur noch Fisch essen",
+    "Faschiertes länger braten",
+    "Mehr Kokosfett beimischen"
+   ],
+   "aha": "Mischungen aus Fleisch und Pilzen oder Erbsenprotein gibt's fertig zu kaufen, man kann sie aber auch daheim selber machen. So bleibt der Geschmack vertraut und der Fleischanteil sinkt trotzdem.",
+   "quote_clean": "Mischungen, die am Markt sind, wo man beispielsweise Erbsenproteine oder Pilze zusetzt, um den Anteil von Fleisch zu reduzieren, das kann durchaus Sinn machen.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Subjektiver, relativierter Geschmackseindruck („ich denke“); Distraktor vegane Faschierte/Hendl im Ausschnitt nicht eindeutig widerlegt.",
+   "stand_note": "",
+   "statement": "Beim veganen Burger-Patty hätte Andreas blind nicht erkannt, ob es vegan oder tierisch ist.",
+   "question": "Welches Ersatzprodukt hätte Andreas blind nicht vom tierischen Original unterscheiden können?",
+   "answer": "Das Burger-Patty",
+   "distractors": [
+    "Der vegane Speck",
+    "Das vegane Hendl",
+    "Das vegane Faschierte"
+   ],
+   "aha": "",
+   "quote_clean": "Ich denke, ich hätte mit verbundenen Augen nicht geschafft zu sagen, welches Burger-Patty vegan oder tierisch ist.",
+   "quality": 2
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Bei 1201-1229 s belegt; Aha von der nicht gesagten Redewendung befreit.",
+   "stand_note": "",
+   "statement": "Andreas liebt seit seiner Kindheit Extrawurstsemmerl und kauft nach dem Test nur noch die vegetarische Extrawurst.",
+   "question": "Welches Produkt kauft Andreas nach seinem Test nur noch in der vegetarischen Version?",
+   "answer": "Die Extrawurst",
+   "distractors": [
+    "Den Speck",
+    "Die Fischstäbchen",
+    "Das Faschierte"
+   ],
+   "aha": "Das Extrawurstsemmerl ist für Andreas ein Stück Kindheit. Weil die Veggie-Version richtig gut schmeckt, gesundheitlich nicht schlechter ist und dafür keine Tiere sterben mussten, bleibt er jetzt dabei.",
+   "quote_clean": "Ich esse schon seit meiner Kindheit gerne ein Extrawurstsemmerl oder ein Mohnweckerl mit Extrawurst, ich liebe das einfach.",
+   "quality": 3
+  }
+ ],
+ "id": "s20230112",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

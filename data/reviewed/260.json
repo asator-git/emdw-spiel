@@ -1,0 +1,293 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "12 Prozent bei 469-478 s belegt (Deutschland); Aussage ist eine Schätzung von Kommer und gehört als solche gekennzeichnet.",
+   "stand_note": "Stand 2023",
+   "statement": "Laut Gerd Kommer kosten Kauf und späterer Verkauf einer Wohnimmobilie in Deutschland zusammen im Schnitt rund 12 Prozent der Kaufsumme.",
+   "question": "Wie viel Prozent der Kaufsumme kosten Kauf und Verkauf einer Wohnung in Deutschland laut Gerd Kommer zusammen im Schnitt an Nebenkosten?",
+   "answer": "Rund 12 Prozent",
+   "distractors": [
+    "Rund 3 Prozent",
+    "Rund 25 Prozent",
+    "Rund 6 Prozent"
+   ],
+   "aha": "Steuer, Makler, Notar – das läppert sich. Laut Kommer sind solche Kauf- und Verkaufskosten in Deutschland und Österreich im internationalen Vergleich besonders hoch. Wer nach wenigen Jahren wieder verkauft, hat dieses Geld also praktisch verloren.",
+   "quote_clean": "Beim Kaufen und Verkaufen einer Wohnimmobilie in Deutschland bin ich im Schnitt gleich mal 12 Prozent der Kaufsumme los.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "8 bis 9 Prozent beim Kauf und 4 bis 5 beim Verkauf bei 478 s belegt; Attribution ergänzt, thematisch Nähe zu Kandidat 0.",
+   "stand_note": "Stand 2023",
+   "statement": "Laut Gerd Kommer fallen beim Kauf einer Wohnimmobilie in Deutschland im Schnitt 8 bis 9 Prozent Nebenkosten an, beim Verkauf nochmals 4 bis 5 Prozent.",
+   "question": "Wie viel Prozent Nebenkosten fallen beim Kauf einer Wohnung in Deutschland laut Gerd Kommer im Schnitt an?",
+   "answer": "8 bis 9 Prozent",
+   "distractors": [
+    "1 bis 2 Prozent",
+    "15 bis 16 Prozent",
+    "20 bis 21 Prozent"
+   ],
+   "aha": "Der Großteil fällt schon beim Kauf an, beim Verkauf kommen laut Kommer nochmal 4 bis 5 Prozent dazu. Wer nach ein paar Jahren wieder verkauft, hat dieses Geld also praktisch verloren.",
+   "quote_clean": "Also 8, 9 Prozent im Schnitt beim Kaufen und nochmal 4, 5 Prozent beim Verkaufen.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "20 bis 30 Prozent bei 549 s belegt, aber Ergebnis eines Modellfalls (junger Käufer, 80-90 Prozent Kredit); Aha stellte die Aussage zu pauschal dar.",
+   "stand_note": "Stand 2023",
+   "statement": "In Gerd Kommers Beispielrechnung zahlt ein junger Käufer mit hohem Kredit bei korrekter Rechnung monatlich 20 bis 30 Prozent mehr fürs Wohnen als eine Mieterin in der gleichen Wohnung.",
+   "question": "Wie viel Prozent mehr zahlt in Gerd Kommers Beispielrechnung ein Käufer mit hohem Kredit monatlich fürs Wohnen als eine Mieterin in der gleichen Wohnung?",
+   "answer": "20 bis 30 Prozent",
+   "distractors": [
+    "Gleich viel",
+    "5 bis 10 Prozent",
+    "50 bis 60 Prozent"
+   ],
+   "aha": "Kreditrate, durchschnittliche Instandhaltung, Versicherung, Grundsteuer – alles zusammen ist in Kommers Modell teurer als die Miete. Die Mieterin muss die Differenz allerdings diszipliniert in einen Aktien-ETF stecken, sonst geht die Rechnung nicht auf.",
+   "quote_clean": "Und ich möchte einen starken Hinweis auf korrekte Berechnung machen, nicht Wunschdenken oder Pseudo-Berechnen oder Photoshoppen: 20 bis 30 Prozent mehr gibt er für seinen Wohnnutzen, für seine Wohnkosten aus.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Bei 365 s belegt, aber als Befund von Kommers und anderer Ökonomen Analysen zu kennzeichnen; Aha nannte Portugal, das im Ausschnitt nicht vorkommt.",
+   "stand_note": "Stand 2023",
+   "statement": "Laut Gerd Kommers Analyse war in der Mehrzahl der historischen Zeitfenster der letzten rund 50 Jahre am Ende vermögender, wer mietete und das gesparte Geld am Kapitalmarkt anlegte.",
+   "question": "Wer war laut Gerd Kommers Analyse in den meisten historischen Zeitfenstern der letzten 50 Jahre am Ende vermögender?",
+   "answer": "Mieter:innen, die investiert haben",
+   "distractors": [
+    "Käufer:innen mit Kredit",
+    "Beide genau gleich",
+    "Käufer:innen ohne Kredit"
+   ],
+   "aha": "Kommer verweist auf eigene Berechnungen für Deutschland und auf Studien von Finanzökonom:innen für die USA und Holland. Die Bedingung: Die Mieter:innen müssen das gesparte Geld wirklich anlegen. Kaufen ist also nicht automatisch die bessere Route.",
+   "quote_clean": "Aber in der Mehrzahl dieser Zeitfenster und Szenarien war derjenige, der Mieter war und unter ökonomisch korrekt vergleichbaren Umständen Geld in Kapitalmarktanlagen investiert hat, am Ende der Vermögendere.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1078 s belegt; allgemeingültig und korrekt.",
+   "stand_note": "",
+   "statement": "Bei einem Annuitätenkredit fließt die monatliche Rate am Anfang fast vollständig in die Zinsen und nur wenig in die Tilgung.",
+   "question": "Wohin fließt bei einem Annuitätenkredit in den ersten Jahren der Großteil der Rate?",
+   "answer": "In die Zinsen",
+   "distractors": [
+    "In die Tilgung",
+    "In die Grunderwerbsteuer",
+    "In die Instandhaltung"
+   ],
+   "aha": "Die Rate bleibt gleich, aber anfangs ist die Schuld noch riesig, also auch die Zinsen. Wer nach sechs Jahren verkaufen will, hat darum oft kaum etwas abbezahlt.",
+   "quote_clean": "Bei einer annuitätischen Tilgung fließt am Anfang fast alles in die Zinsen und wenig in die Tilgung.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "transkription"
+   ],
+   "note": "Bei 1181-1194 s belegt, aber als Aussage Kommers zu kennzeichnen; 'USA' ist im Transkript verhört ('wie die USA gemacht'), daher offen formuliert.",
+   "stand_note": "",
+   "statement": "Laut Gerd Kommer zeigen Studien, dass Wohneigentümer:innen mit laufendem Kredit seltener umziehen und eher länger arbeitslos bleiben, statt anderswo einen Job anzunehmen.",
+   "question": "Was zeigen laut Gerd Kommer Studien über Eigentümer:innen mit laufendem Kredit, die arbeitslos werden?",
+   "answer": "Sie bleiben eher länger arbeitslos",
+   "distractors": [
+    "Sie finden schneller einen Job",
+    "Sie ziehen öfter um",
+    "Sie vermieten meist sofort"
+   ],
+   "aha": "Wer an seiner Wohnung hängt, lässt das bessere Jobangebot in einer anderen Stadt eher sausen. Diese Flexibilität der Mieter:innen taucht in keinem Kaufen-oder-Mieten-Rechner auf, sagt Kommer. Er betont aber, dass er von Statistik spricht und der Einzelfall anders aussehen kann.",
+   "quote_clean": "Selbstnutzer mit Kredit an der Backe ziehen einfach nicht um, selbst dann nicht, wenn sie arbeitslos werden und anderswo einen Job bekämen.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Bei 1322-1336 s: vier der Top-5-Motive sind finanziell; quote_clean war inhaltlich verändert, Aha enthielt unbelegte Behauptung.",
+   "stand_note": "",
+   "statement": "Laut Gerd Kommer sind in deutschen Umfragen unter den fünf häufigsten Motiven von Mieter:innen für Wohneigentum vier finanzieller Natur, etwa Altersvorsorge oder Rendite.",
+   "question": "Welche Art von Motiven überwiegt laut Gerd Kommer in deutschen Umfragen, wenn Mieter:innen erklären, warum sie kaufen wollen?",
+   "answer": "Finanzielle Motive",
+   "distractors": [
+    "Gestaltungsfreiheit",
+    "Familiäre Tradition",
+    "Ruhe vor Nachbarn"
+   ],
+   "aha": "Altersvorsorge, rentables Investment, keine Miete zum Fenster hinauswerfen – lauter Geldgründe. Das Bild vom reinen Gefühls- und Lifestyle-Kauf stimmt laut Kommer so nicht.",
+   "quote_clean": "Dann sagen die meisten Mieter: Ja, das strebe ich eigentlich an. Dann wird gefragt: Wenn ja, welche Motive haben Sie dafür? Unter den Top-5-Motiven sind vier finanzieller Natur und nicht Lifestyle-mäßiger Natur.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt war trivial; das Bild bei 1579 s ist aber gut, daher als Inhaltsfrage umformuliert.",
+   "stand_note": "",
+   "statement": "Gerd Kommer vergleicht die Angst vor steigenden Mieten als Kaufgrund mit dem Kauf eines Bauernhofs aus Angst vor steigenden Lebensmittelpreisen.",
+   "question": "Mit welchem Bild kommentiert Gerd Kommer den Wohnungskauf aus Angst vor steigenden Mieten?",
+   "answer": "Bauernhof kaufen wegen steigender Lebensmittelpreise",
+   "distractors": [
+    "Tankstelle kaufen wegen steigender Spritpreise",
+    "Kraftwerk kaufen wegen steigender Strompreise",
+    "Bergwerk kaufen wegen steigender Heizkosten"
+   ],
+   "aha": "Kommer antwortet damit auf die Sorge vor steigenden Mieten und hält sie für unbegründet: Die Mietkostenquote war in Deutschland und Österreich über Jahrzehnte erstaunlich stabil. Andreas fand das ein schönes Bild.",
+   "quote_clean": "Das ist ungefähr gleich sinnvoll, wie zu sagen: Ich habe Angst vor steigenden Lebensmittelpreisen und deswegen kaufe ich mir einen Bauernhof.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton",
+    "beleg"
+   ],
+   "note": "Bei 1790 s belegt; Frage 'selten gut verdienen' war überzogen, Aha enthielt unbelegten Zusatz.",
+   "stand_note": "",
+   "statement": "Laut Gerd Kommer haben private Kleinvermieter:innen Kostennachteile gegenüber großen Vermietern, weil sie Makler, Anwälte und Handwerker teurer einkaufen.",
+   "question": "Welchen Kostennachteil haben Kleinvermieter:innen laut Gerd Kommer gegenüber großen Vermietern?",
+   "answer": "Sie kaufen alle Leistungen teurer ein",
+   "distractors": [
+    "Sie zahlen höhere Grundsteuer",
+    "Sie dürfen weniger Miete verlangen",
+    "Sie bekommen schlechtere Mieter"
+   ],
+   "aha": "Eine Genossenschaft mit zigtausenden Wohnungen schickt überall dieselbe Klempner-Truppe hin, die Kleinvermieterin zahlt für jeden Einsatz extra. Dazu kommt laut Kommer, dass ihr die Spezialkenntnisse der Profis fehlen.",
+   "quote_clean": "Wenn ich nur eine Wohnung zum Vermieten habe, dann stimmen einfach die Volumina nicht. Ich kaufe alles teurer ein, den Makler, den Rechtsanwalt, der mich berät.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Bei 572-591 s belegt; Distraktoren teils albern, ersetzt.",
+   "stand_note": "",
+   "statement": "Für einen fairen Vergleich zwischen Mieten und Kaufen rechnet Gerd Kommer Instandhaltungskosten wie neue Heizung oder Parkettschleifen auf durchschnittliche monatliche oder jährliche Werte um.",
+   "question": "Wie rechnet Gerd Kommer die Instandhaltung beim Vergleich von Mieten und Kaufen?",
+   "answer": "Als durchschnittlicher monatlicher oder jährlicher Wert",
+   "distractors": [
+    "Nur dann, wenn tatsächlich etwas repariert wird",
+    "Gar nicht, weil sie nicht jeden Monat anfällt",
+    "Nur im ersten Jahr nach dem Kauf"
+   ],
+   "aha": "Die Heizung alle 25 Jahre, das Parkett alle zehn – auf jeden Monat umgelegt ergibt das einen fixen Betrag. Man kann die Instandhaltung auch aufschieben, dann kommt sie später umso dicker.",
+   "quote_clean": "Ich weiß auch, dass man nicht jeden Monat Instandhaltung bezahlt, aber zum Beispiel muss man alle 25 Jahre dick in die Heizung investieren und alle zehn Jahre das Parkett neu schleifen lassen.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zuordnungsfrage zum Gast, trivial.",
+   "stand_note": "",
+   "statement": "Gerd Kommer hält den Satz, man wäre blöd, nicht zu kaufen, wenn man es sich leisten kann, für einen Oma-und-Opa-Spruch.",
+   "question": "Wer hat's gesagt: „Das sind Oma- und Opa-Sprüche, die so einfach nicht stimmen“?",
+   "answer": "Gerd Kommer",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Bankberater",
+    "Eine Immobilienmaklerin"
+   ],
+   "aha": "",
+   "quote_clean": "Das sind Oma- und Opa-Sprüche, die so einfach nicht stimmen, auch nicht durch endlose, zehntausendmalige Wiederholung.",
+   "quality": 2
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 604-608 s belegt.",
+   "stand_note": "",
+   "statement": "Wer bei einer eigenen Wohnung die Instandhaltung spart, bezahlt dafür mit geringerer Wertsteigerung.",
+   "question": "Was passiert laut Gerd Kommer, wenn man bei der eigenen Wohnung die Instandhaltung einfach weglässt?",
+   "answer": "Die Wertsteigerung fällt niedriger aus",
+   "distractors": [
+    "Man spart dauerhaft Geld",
+    "Der Wert steigt trotzdem gleich",
+    "Die Grundsteuer sinkt"
+   ],
+   "aha": "Kein Free Lunch, ein Lieblingsbild der Ökonom:innen: Irgendwer zahlt immer. Entweder jetzt für Heizung und Parkett, oder später beim Verkaufspreis.",
+   "quote_clean": "Und man kann auch gar nichts machen, dann ist aber die Wertsteigerung der Wohnung entsprechend niedriger. Es gibt hier kein Free Lunch, kein Gratis-Mittagessen.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "fairness",
+    "ton",
+    "beleg"
+   ],
+   "note": "Franken und Yen bei 1098-1101 s belegt und historisch korrekt; Verhaspler des Gasts aus Statement und Aha entfernt, Aha-Zuordnung (wer 'Schilling' sagt) war unklar.",
+   "stand_note": "",
+   "statement": "Viele Österreicher:innen finanzierten Wohnungen früher gern in Fremdwährungen wie Schweizer Franken oder Yen.",
+   "question": "In welchen Fremdwährungen haben laut Gerd Kommer viele Österreicher:innen früher gern Wohnkredite aufgenommen?",
+   "answer": "Franken und Yen",
+   "distractors": [
+    "Dollar und Pfund",
+    "Rubel und Lira",
+    "Kronen und Zloty"
+   ],
+   "aha": "Fremdwährungskredite waren in Österreich lange beliebt, weil die Zinsen in der Schweiz und in Japan niedriger waren. Das Risiko: Wird die fremde Währung stärker, steigt die Schuld in Euro.",
+   "quote_clean": "Die Österreicher hatten auch mal die Angewohnheit, viel in Franken oder Yen zu finanzieren.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zur Struktur der Folge; 'am Ende jeder Folge' ist im Ausschnitt nicht belegt.",
+   "stand_note": "",
+   "statement": "Andreas leitet seine Zusammenfassung mit der Frage „Was nehme ich mir mit?“ ein.",
+   "question": "Mit welcher Frage beginnt Andreas am Ende der Folge seine persönliche Zusammenfassung?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was lernen wir daraus?",
+    "Was bleibt hängen?",
+    "Und was heißt das jetzt?"
+   ],
+   "aha": "",
+   "quote_clean": "Was nehme ich mir mit? Eine Wohnung zu kaufen oder ein Haus zu bauen oder zu kaufen ist für den Großteil von uns die mit Abstand weitreichendste finanzielle Entscheidung.",
+   "quality": 1
+  }
+ ],
+ "id": "260",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

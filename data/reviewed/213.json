@@ -1,0 +1,281 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2041 passt, Aha (Diplomatie) ebenfalls belegt.",
+   "stand_note": "",
+   "statement": "Die Staaten im frühneuzeitlichen Europa gaben rund 80 bis 90 Prozent ihres Budgets für Kriege aus.",
+   "question": "Wie viel Prozent ihres Budgets gaben Staaten im frühneuzeitlichen Europa für Kriege aus?",
+   "answer": "80 bis 90 Prozent",
+   "distractors": [
+    "20 bis 30 Prozent",
+    "40 bis 50 Prozent",
+    "60 bis 70 Prozent"
+   ],
+   "aha": "Der Staat war damals im Grunde eine Kriegsmaschine. Und weil der Nachbar Verbündeter oder Gegner sein konnte, musste man möglichst viel übereinander wissen, so entstand die moderne Diplomatie.",
+   "quote_clean": "Es gibt kaum einen kriegerischeren Ort in dieser Zeit oder überhaupt in der Weltgeschichte als dieses frühneuzeitliche Europa. Die Staaten geben 80, 90 Prozent ihres Budgets für Kriege aus.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2186-2194, 60 bis 80 Jahre bei 2162 belegt; historisch plausibel (Ochotsk 1639).",
+   "stand_note": "",
+   "statement": "Das Zarenreich dehnte sich rasch durch Sibirien aus und erreichte um 1640 den Pazifik.",
+   "question": "Um welches Jahr erreichte das Zarenreich auf seinem Weg durch Sibirien den Pazifik?",
+   "answer": "um 1640",
+   "distractors": [
+    "um 1520",
+    "um 1760",
+    "um 1850"
+   ],
+   "aha": "In nur 60 bis 80 Jahren stand ganz Sibirien unter der Herrschaft der Zaren. Es gab Flüsse zum Durchfahren und nur wenige Menschen, nach Westen ging es dagegen im Schneckentempo.",
+   "quote_clean": "Und so gelingt es, dass die Grenzen des Zarenreiches sehr rasch nach Osten verschoben werden, bis plus minus 1640 an den Pazifik.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg passt (2402-2406); Aussage ist Muellers Darstellung, daher Zuschreibung ergänzt, Aha ohne Ortsschild-Floskel.",
+   "stand_note": "",
+   "statement": "Laut Wolfgang Mueller besteht der Name St. Petersburg aus drei deutschen Wörtern und bedeutet auf Russisch für sich genommen nichts.",
+   "question": "Aus welcher Sprache stammen laut Wolfgang Mueller die drei Wörter, aus denen St. Petersburg zusammengesetzt ist?",
+   "answer": "Aus dem Deutschen",
+   "distractors": [
+    "Aus dem Russischen",
+    "Aus dem Griechischen",
+    "Aus dem Schwedischen"
+   ],
+   "aha": "Peter der Große war so begeistert von der europäischen Moderne, dass er seiner neuen Hauptstadt gleich einen ausländischen Namen gab. Russland sollte schließlich die führende Großmacht Europas werden.",
+   "quote_clean": "Russland bekommt sein neues Gesicht, es bekommt eine neue Hauptstadt mit einem ausländischen Namen, St. Petersburg. Das heißt auf Russisch per se gar nichts: Sankt heißt nichts, Peter heißt nichts und Burg heißt auch nichts.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Zahl 49,8 Prozent ist belegt, deckt sich aber nicht mit gängigen Angaben zur Volkszählung 1897 (rund 44 Prozent Russen); begründeter Zweifel.",
+   "stand_note": "",
+   "statement": "Bei der ersten Volkszählung im Zarenreich 1897 waren nur 49,8 Prozent der Bevölkerung ethnische Russen.",
+   "question": "Wie viel Prozent der Bevölkerung des Zarenreichs waren bei der ersten Volkszählung 1897 ethnische Russen?",
+   "answer": "49,8 Prozent",
+   "distractors": [
+    "72 Prozent",
+    "85 Prozent",
+    "31 Prozent"
+   ],
+   "aha": "Das Zarenreich war ein Vielvölkerreich, in dem die Russen nicht einmal die Mehrheit stellten. Russische Nationalisten wollten trotzdem einen Staat der Russen daraus machen – die anderen sollten sich halt anpassen.",
+   "quote_clean": "Es sind zwar die ethnischen Russen damals circa 50 Prozent gewesen, 49,8 in der ersten Volkszählung 1897.",
+   "quality": 2
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 447-466 passt, 'mehrheitlich akzeptierte Theorie' wird im Text genannt.",
+   "stand_note": "",
+   "statement": "Laut der am weitesten akzeptierten Theorie stammt der Name Rus von einem finnischen Wort für die Ruderer.",
+   "question": "Wovon leitet sich laut der gängigsten Theorie der Name „Rus“ ab?",
+   "answer": "Vom finnischen Wort für Ruderer",
+   "distractors": [
+    "Vom slawischen Wort für Wald",
+    "Vom griechischen Wort für rot",
+    "Vom Namen eines Wikingerkönigs"
+   ],
+   "aha": "Die Waräger, Wikinger aus Skandinavien, sind mit ihren Drachenbooten die Flüsse entlanggerudert. Daher dürfte der finnische Name für die Ruderer kommen, der später als Name für den ganzen Staat galt.",
+   "quote_clean": "Und von diesen finnischen Stämmen dürfte laut der derzeit mehrheitlich akzeptierten Theorie auch der Name Rus herkommen, nämlich von dem finnischen Wort für die Ruderer.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1695-1708 passt, Aha belegt.",
+   "stand_note": "",
+   "statement": "Moskau ist rund 600 Jahre jünger als Kiew.",
+   "question": "Um wie viele Jahre ist Moskau jünger als Kiew?",
+   "answer": "Rund 600 Jahre",
+   "distractors": [
+    "Rund 100 Jahre",
+    "Rund 300 Jahre",
+    "Rund 900 Jahre"
+   ],
+   "aha": "Kiew bestand schon im 5. oder 6. Jahrhundert und gilt als Mutter der russischen Städte. Moskau wurde erst im späten 12. Jahrhundert gegründet, knapp bevor das Reich von Kiew unterging, und setzte sich dann trotzdem gegen die älteren Städte durch.",
+   "quote_clean": "Moskau ist eher ein Newcomer, es ist um 600 Jahre jünger als Kiew.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg passt (1052-1063); Distraktor Schweinefleischverbot ist in der Chronik-Legende selbst überliefert, daher ersetzt.",
+   "stand_note": "",
+   "statement": "Laut einer Legende aus den Chroniken entschied sich Großfürst Wladimir von Kiew unter anderem wegen des Alkoholverbots gegen den Islam und für das Christentum.",
+   "question": "Was sprach laut der Legende für Großfürst Wladimir von Kiew gegen den Islam?",
+   "answer": "Das Alkoholverbot",
+   "distractors": [
+    "Das Musikverbot",
+    "Das Glücksspielverbot",
+    "Das Fastengebot im Winter"
+   ],
+   "aha": "Dem Großfürsten wurden Judentum, Islam und Christentum angeboten. Ob es so war, weiß man nicht, aber wenn die Geschichte erfunden ist, dann sehr gut. Mit der Monogamie im Christentum soll er es übrigens auch nicht so genau genommen haben.",
+   "quote_clean": "Und dann hat sich der heilige Wladimir für das Christentum entschieden, weil die anderen beiden offenbar gewisse Nachteile gebracht hätten, wie etwa das Alkoholverbot im Islam, mit dem er sich nicht identifizieren oder abgeben wollte.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1203-1219 passt, Aha belegt.",
+   "stand_note": "",
+   "statement": "Im Mittelalter wollte fast jeder Fürst und König in Europa eine oströmische Prinzessin heiraten.",
+   "question": "Welche Braut galt im mittelalterlichen Europa für Fürsten und Könige als das Nonplusultra?",
+   "answer": "Eine oströmische Prinzessin",
+   "distractors": [
+    "Eine fränkische Prinzessin",
+    "Eine venezianische Kaufmannstochter",
+    "Eine Tochter des Papstes"
+   ],
+   "aha": "Konstantinopel war das Zentrum der Welt, reich, mächtig und gebildet. Für die Kiewer Rus hat die Hochzeit geklappt, aber erst, nachdem man sich zum Christentum bekehrt hatte.",
+   "quote_clean": "Es war in dieser Zeit enorm modern: Eigentlich jeder Fürst und jeder König in Europa wollte eine oströmische Prinzessin heiraten. Das war das Nonplusultra.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg passt (2760-2770); Frage präzisiert, da auch Polen-Litauen mehr Einwohner hatte.",
+   "stand_note": "",
+   "statement": "Russland wurde erst im 18. Jahrhundert die bevölkerungsreichste europäische Großmacht, davor war es Frankreich.",
+   "question": "Welche Großmacht war in Europa bis ins 18. Jahrhundert die bevölkerungsreichste, bevor Russland sie überholte?",
+   "answer": "Frankreich",
+   "distractors": [
+    "England",
+    "Spanien",
+    "Schweden"
+   ],
+   "aha": "Russland war riesig, aber dünn besiedelt. Zum bevölkerungsreichsten Land wurde es erst, als es bei den Teilungen Polens die östliche Hälfte annektierte, samt Menschen.",
+   "quote_clean": "Es ist erst im 18. Jahrhundert zum bevölkerungsreichsten Land unter den europäischen Großmächten geworden. Bis dahin war es Frankreich.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg passt (2850-2887); Zuschreibung an Mueller ergänzt, da Flucht auch in andere Richtungen vorkam.",
+   "stand_note": "",
+   "statement": "Laut Wolfgang Mueller liefen geflohene russische Leibeigene ins sogenannte wilde Feld in der heutigen Ukraine, wo aus ihnen und Reitervölkern die Kosaken entstanden.",
+   "question": "Wohin liefen Leibeigene laut Wolfgang Mueller vor allem, wenn sie aus Russland flohen?",
+   "answer": "Ins „wilde Feld“ der heutigen Ukraine",
+   "distractors": [
+    "In die Wälder Sibiriens",
+    "Über die Ostsee nach Schweden",
+    "In die Städte der Hanse"
+   ],
+   "aha": "Das wilde Feld war eine Art Wilder Westen: fruchtbarer Boden, keine Kontrolle, Freiheit. Dort vermischten sich die Geflohenen mit Reitervölkern, und so entstanden die Kosaken.",
+   "quote_clean": "Dort, wo die Leibeigenen hingelaufen sind, wenn sie geflohen sind, das ist die heutige Ukraine. Denn damals war dort nicht Russland. Damals war dort das sogenannte wilde Feld.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage ohne Erkenntnisgewinn, Distraktoren trivial.",
+   "stand_note": "",
+   "statement": "Das Werk von Karl Marx ist reichhaltig, aber keine Anleitung dafür, was ein Parteifunktionär konkret tun soll – diese Lücke füllte Lenin.",
+   "question": "Wer hat's gesagt: Das Werk von Marx sei „sicherlich keine To-do-List für einen Parteifunktionär“?",
+   "answer": "Wolfgang Mueller",
+   "distractors": [
+    "Andreas Sator",
+    "Wladimir Lenin",
+    "Michail Gorbatschow"
+   ],
+   "aha": "Marx war Theoretiker, kein Parteipolitiker. Lenin hat aus der vagen Idee der Diktatur des Proletariats eine konkrete Parteistrategie gemacht – inklusive gewaltsamer Machtübernahme.",
+   "quote_clean": "Man kann mit seinen Schlussfolgerungen einverstanden sein oder nicht, aber es steht außer Zweifel, dass es sich um ein sehr reichhaltiges Werk handelt. Aber es ist sicherlich keine To-do-Liste für einen Parteifunktionär.",
+   "quality": 1
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Beleg passt (3283-3297) als Einschätzung Muellers; Aha enthielt Unbelegtes (Politikwissenschaft, Sowjet-Sprachgebrauch), Zuschreibung ergänzt.",
+   "stand_note": "",
+   "statement": "Laut dem Historiker Wolfgang Mueller war die sogenannte Oktoberrevolution 1917 eigentlich ein Putsch bolschewistischer Paramilitärs, der Roten Garden.",
+   "question": "Was war die Oktoberrevolution 1917 laut Historiker Wolfgang Mueller eigentlich?",
+   "answer": "Ein Putsch von Paramilitärs",
+   "distractors": [
+    "Ein landesweiter Generalstreik",
+    "Eine gewonnene Parlamentswahl",
+    "Ein Aufstand der Bauern"
+   ],
+   "aha": "Die Roten Garden der Bolschewiken besetzten das Regierungszentrum in der Hauptstadt und stürzten die Regierung. Deshalb spricht Mueller lieber von einem Putsch als von einer Revolution.",
+   "quote_clean": "Und im Oktober findet dann die sogenannte Oktoberrevolution statt. Das ist eigentlich ein Putsch von Paramilitärs unter der Kontrolle der Bolschewiken.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Wer-sagt-es-Frage mit trivialen Distraktoren; Aussage zu Putins Geschichtsbild politisch aufgeladen.",
+   "stand_note": "",
+   "statement": "Im Geschichtsbild, das unter Putin propagiert wird, ist Russland immer nur Opfer – dass es mindestens genauso oft selbst angegriffen hat, kommt darin nicht vor.",
+   "question": "Wer hat's gesagt: Russland habe „mindestens genauso oft selbst andere Staaten angegriffen“, wie es angegriffen wurde?",
+   "answer": "Wolfgang Mueller",
+   "distractors": [
+    "Andreas Sator",
+    "Michail Gorbatschow",
+    "Sigismund von Herberstein"
+   ],
+   "aha": "Die Erzählung vom ewig angegriffenen Russland und dem feindlichen, dekadenten Westen ist ein Versatzstück aus dem russischen Nationalismus des 19. Jahrhunderts. Historisch hält sie nicht.",
+   "quote_clean": "Dass Russland in seiner Geschichte mindestens genauso oft selbst andere Staaten angegriffen hat, wie es angegriffen wurde, das hat hier keinen Platz.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg passt (9092-9102); Statement machte aus Andreas' Vermutung eine Ursache, neutral umformuliert.",
+   "stand_note": "",
+   "statement": "Am Ende der Aufnahme zur Folge über Russlands Geschichte hörte das Aufnahmegerät plötzlich auf, Andreas wusste nicht warum.",
+   "question": "Was passierte am Ende der langen Aufnahme über Russlands Geschichte?",
+   "answer": "Das Aufnahmegerät hörte plötzlich auf",
+   "distractors": [
+    "Der Strom im Studio fiel aus",
+    "Der Gast musste dringend weg",
+    "Die Feuerwehr probte den Alarm"
+   ],
+   "aha": "Warum, wusste Andreas selbst nicht, so lange hatte er noch nie aufgenommen. Wolfgangs Schlussgedanken hat er deshalb danach einfach selbst nacherzählt.",
+   "quote_clean": "Am Ende hat leider das Aufnahmegerät plötzlich nicht mehr aufgenommen. Ich habe keine Ahnung warum, aber ehrlich gesagt habe ich auch noch nie so lange aufgenommen.",
+   "quality": 3
+  }
+ ],
+ "id": "213",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

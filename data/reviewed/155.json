@@ -1,0 +1,291 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Beiläufige Verallgemeinerung ('normalerweise zwei, drei Mal'); viele Supermärkte werden häufiger beliefert, als Faktenfrage unsicher und beliebig.",
+   "stand_note": "",
+   "statement": "Ein Supermarkt wird normalerweise zwei- bis dreimal pro Woche beliefert.",
+   "question": "Wie oft pro Woche wird ein Supermarkt normalerweise beliefert?",
+   "answer": "Zwei- bis dreimal",
+   "distractors": [
+    "Einmal",
+    "Zweimal täglich",
+    "Alle zwei Wochen"
+   ],
+   "aha": "",
+   "quote_clean": "Der Supermarkt wird normalerweise zwei, drei Mal in der Woche beliefert. Und die schauen dann auch, dass sie genügend Vorräte haben, um bis zur nächsten Lieferung genügend Ware im Regal zu haben.",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 463-471: Fachbegriff kommissioniert, Antwort korrekt.",
+   "stand_note": "",
+   "statement": "Das Zusammenstellen der bestellten Waren für einen Supermarkt im Verteilzentrum heißt in der Logistik Kommissionieren.",
+   "question": "Wie heißt es in der Logistik, wenn im Verteilzentrum die Ware für einen Supermarkt zusammengestellt wird?",
+   "answer": "Kommissionieren",
+   "distractors": [
+    "Konsolidieren",
+    "Disponieren",
+    "Palettieren"
+   ],
+   "aha": "Das Verteilzentrum geht im Grunde einkaufen wie du: Klopapier, Ravioli-Dosen, Marmelade, Wasser, alles zusammensuchen. Nur landet es nicht im Einkaufswagerl, sondern auf einer Palette, die dann zum Supermarkt fährt.",
+   "quote_clean": "Wenn der Supermarkt beliefert wird, dann wird in diesem Verteilzentrum die Ware für den Supermarkt zusammengepackt. Man nennt das im Fachbegriff kommissioniert.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-das-Frage mit dem Gast als Antwort, kein Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Reinhard Koether vergleicht die Vorratsplanung eines Supermarkts mit der eines Haushalts.",
+   "question": "Wer erklärt im Podcast: „Der Supermarkt agiert genauso wie der Haushalt auch“?",
+   "answer": "Reinhard Koether",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Supermarkt-Filialleiterin",
+    "Ein Klimaforscher"
+   ],
+   "aha": "",
+   "quote_clean": "Der Supermarkt agiert genauso wie der Haushalt auch. Man hat ein Gefühl, wie viel Klopapier, Reis, Kaffee und so weiter man verbraucht.",
+   "quality": 1
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 670-711 stimmt; alberne Distraktoren ersetzt.",
+   "stand_note": "",
+   "statement": "Normale Passagierflugzeuge transportieren im Frachtraum neben dem Gepäck auch Luftfracht.",
+   "question": "Was transportieren normale Passagierflugzeuge im Bauch außer dem Gepäck der Passagiere?",
+   "answer": "Luftfracht für Firmen und Handel",
+   "distractors": [
+    "Nur zusätzlichen Treibstoff",
+    "Bordverpflegung für den Rückflug",
+    "Nichts, der Raum bleibt leer"
+   ],
+   "aha": "Unter deinem Sitz fliegt oft Ware mit. Als in der Pandemie kaum Passagierflieger abhoben, fehlte deshalb plötzlich auch Frachtkapazität, und Airlines mussten umplanen.",
+   "quote_clean": "Es gibt die normalen Passagiermaschinen, die wir alle kennen. Und die haben in ihrem Bauch nicht nur das Gepäck der Passagiere, sondern eben auch Luftfracht.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Beleg bei 639-660 stimmt; Distraktor 'Niederlande per Lkw' nicht eindeutig falsch (Handelsdrehscheibe), ersetzt; Aha als Aussage des Gasts markiert.",
+   "stand_note": "",
+   "statement": "Rosen, die im Februar in Europa verkauft werden, kommen typischerweise per Flugzeug aus Ecuador oder Kenia.",
+   "question": "Woher kommen die Rosen, die du am Valentinstag im Supermarkt kaufst, laut Reinhard Koether typischerweise?",
+   "answer": "Aus Ecuador oder Kenia, per Flugzeug",
+   "distractors": [
+    "Aus Südafrika, per Containerschiff",
+    "Aus Norwegen, per Bahn",
+    "Aus Kanada, per Lkw"
+   ],
+   "aha": "Im Februar blüht bei uns nix, und frische Rosen sollen ja nicht verwelken. Also fliegen sie typischerweise aus Ecuador oder Kenia ein, ein Beispiel für Luftfracht: alles, was schnell gehen muss oder sehr teuer ist.",
+   "quote_clean": "Im Februar wachsen bei uns logischerweise keine Rosen. Also kommen die Rosen entweder aus Ecuador oder aus Kenia. Und die werden typischerweise im Flieger nach Europa gebracht.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 818-837 stimmt; Frage auf die genannten vier Verkehrsmittel eingegrenzt (z. B. Binnenschiff nicht erwähnt).",
+   "stand_note": "",
+   "statement": "Pro Tonnenkilometer braucht das Schiff unter den Transportmitteln Bahn, Lkw, Flugzeug und Schiff am wenigsten Energie.",
+   "question": "Welches dieser Transportmittel braucht pro Tonnenkilometer am wenigsten Energie: Bahn, Lkw, Flugzeug oder Schiff?",
+   "answer": "Das Schiff",
+   "distractors": [
+    "Die Eisenbahn",
+    "Der Lkw",
+    "Das Flugzeug"
+   ],
+   "aha": "Ein Tonnenkilometer heißt: eine Tonne einen Kilometer weit bringen. Da schlägt das Containerschiff laut Reinhard sogar die Bahn. Insgesamt verbraucht so ein Riesenschiff zwar enorm viel, aber es hat eben auch riesige Mengen an Bord.",
+   "quote_clean": "Unter allen Transportmitteln, die wir so haben, Eisenbahn, Lkw, Flugzeug, ist das Schiff mit Abstand das günstigste. Pro Tonnenkilometer, also eine Tonne einen Kilometer weit transportieren, braucht das Schiff am allerwenigsten Energie.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg bei 854-863; Schweröl als Raffinerierückstand korrekt, seit der Schwefelgrenze 2020 teils mit Filtern/Alternativen, im Kern weiter gültig.",
+   "stand_note": "Stand 2021",
+   "statement": "Große Frachtschiffe verbrennen Schweröl, einen teerartigen Rückstand aus der Erdölraffinerie.",
+   "question": "Was ist das Schweröl, mit dem viele Frachtschiffe fahren?",
+   "answer": "Ein Rückstand aus der Raffinerie",
+   "distractors": [
+    "Ein besonders reiner Schiffsdiesel",
+    "Ein Gemisch aus Pflanzenölen",
+    "Unverarbeitetes Rohöl direkt vom Bohrloch"
+   ],
+   "aha": "Schweröl ist das, was in der Raffinerie ganz am Schluss übrig bleibt, im Prinzip eine Art Teer. Billig für die Reedereien, aber sehr dreckig für Luft und Klima.",
+   "quote_clean": "Das Schiff fährt mit Dieselmotoren, und diese Dieselmotoren fahren im Prinzip mit Teer. Dieses Schweröl, das sie verbrennen, ist so der letzte Dreck, der in der Raffinerie übrig bleibt.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Wer-sagt-das-Frage mit dem Gast als Antwort; 'rechtsfreier Raum' ist zudem juristisch überspitzt (Schiffs-Umweltregeln gelten auch auf hoher See).",
+   "stand_note": "",
+   "statement": "Laut Reinhard Koether nutzen Reedereien aus, dass die hohe See umweltrechtlich fast ein rechtsfreier Raum ist.",
+   "question": "Wer beschreibt die hohe See im Podcast als „rechtsfreien Raum, was die Umweltgesetze betrifft“?",
+   "answer": "Reinhard Koether",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Greenpeace-Sprecher",
+    "Ein Reederei-Manager"
+   ],
+   "aha": "",
+   "quote_clean": "Das wird einfach ausgenutzt, dass es auf hoher See ein rechtsfreier Raum ist, was die Umweltgesetze betrifft, und die Schiffe damit diesen Teer dort verbrennen können.",
+   "quality": 1
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg bei 946-952; Größenordnung stimmte 2021, heute fassen die größten Schiffe etwa 24.000 Container.",
+   "stand_note": "Stand 2021",
+   "statement": "Die größten Containerschiffe fassen rund 20.000 kleine Standardcontainer.",
+   "question": "Wie viele kleine Standardcontainer passen ungefähr auf die größten Containerschiffe?",
+   "answer": "Rund 20.000",
+   "distractors": [
+    "Rund 2.000",
+    "Rund 5.000",
+    "Rund 60.000"
+   ],
+   "aha": "Ein kleiner Container ist etwa halb so groß wie eine Lkw-Ladung. Je größer das Schiff, desto weniger Sprit braucht es pro Container, deshalb werden die Schiffe immer größer.",
+   "quote_clean": "Die größten haben 20.000 kleine Container, die sind halb so groß wie eine Lkw-Ladung.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 954-964 stimmt; unplausibler Distraktor 'Kleine Schiffe sind verboten' ersetzt.",
+   "stand_note": "",
+   "statement": "Containerschiffe werden immer größer, weil sie mit wachsender Größe weniger Treibstoff pro Container verbrauchen.",
+   "question": "Warum werden Containerschiffe immer größer?",
+   "answer": "Weniger Sprit pro Container",
+   "distractors": [
+    "Häfen verlangen Mindestgrößen",
+    "Größere Schiffe sind schneller",
+    "Es gibt immer weniger Handelsrouten"
+   ],
+   "aha": "Skaleneffekt auf hoher See: Je größer das Schiff, desto weniger Sprit braucht es pro Container. Deshalb laufen die großen Warenströme zwischen Asien, Europa und Nordamerika über immer riesigere Containerschiffe.",
+   "quote_clean": "Diese Größe der Schiffe hängt damit zusammen, dass sie, je größer sie sind, desto weniger Sprit pro Container brauchen. Deswegen werden die Schiffe immer größer.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 1033-1041 (Andreas; Transkript 'der Wähler' = 'der Welt'); China-Ziel 2060 stimmt weiter, Aha rechnete falsch (zehn statt zwanzig Jahre nach Österreich).",
+   "stand_note": "Stand 2021",
+   "statement": "China hat sich das Ziel gesetzt, bis 2060 klimaneutral zu werden.",
+   "question": "Bis zu welchem Jahr will China klimaneutral sein?",
+   "answer": "2060",
+   "distractors": [
+    "2040",
+    "2050",
+    "2075"
+   ],
+   "aha": "Österreich hat sich 2040 vorgenommen, viele Länder 2050, China 2060. Wenn das alle ernst meinen, muss sich auch die Logistik gewaltig ändern, denn Schiffe und Flieger fahren derzeit fast nur fossil.",
+   "quote_clean": "Jetzt haben alle großen Volkswirtschaften der Welt ambitionierte Klimaziele: Österreich will bis 2040 klimaneutral sein, viele andere Länder bis 2050, China bis 2060.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Die genannte Umwandlungsbilanz (je ca. 30 Prozent Verlust, am Ende etwa die Hälfte) ist eine grobe, eher zu optimistische Schätzung; Wasserstoff-Kette liegt real deutlich darunter.",
+   "stand_note": "",
+   "statement": "Bei der Umwandlung von Strom in Wasserstoff und zurück in Antriebsenergie gehen je Schritt rund 30 Prozent verloren, sodass am Ende nur etwa die Hälfte übrig bleibt.",
+   "question": "Wie viel Prozent der Energie gehen ungefähr bei jedem der beiden Umwandlungsschritte Strom zu Wasserstoff zu Antrieb verloren?",
+   "answer": "Rund 30 Prozent",
+   "distractors": [
+    "Rund 5 Prozent",
+    "Rund 10 Prozent",
+    "Rund 60 Prozent"
+   ],
+   "aha": "",
+   "quote_clean": "Bei beiden Umwandlungsprozessen gehen ungefähr 30 Prozent der Energie verloren, sodass man am Schluss nur noch die Hälfte hat gegenüber dem reinen Strom.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reines Wortlaut-Quiz zur Podcast-Begrüßung, kein Wissensgewinn.",
+   "stand_note": "",
+   "statement": "So begrüßt Andreas Sator die Hörer:innen von Erklär mir die Welt.",
+   "question": "Wie geht Andreas' Begrüßung weiter: „… der Podcast, mit dem du die Welt …“?",
+   "answer": "jede Woche ein bisschen besser verstehen sollst",
+   "distractors": [
+    "endlich ganz genau verstehen wirst",
+    "jeden Tag neu entdecken kannst",
+    "ein bisschen leichter erklären kannst"
+   ],
+   "aha": "",
+   "quote_clean": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "transkription",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 2120-2150; 'Ballgleit' = Ballkleid (Transkriptionsfehler, bereits geglättet); Frage auf Koether statt 'Logistik-Professor' bezogen.",
+   "stand_note": "",
+   "statement": "Als typisches Beispiel für missbräuchliche Retouren nennt Reinhard Koether das Ballkleid, das einmal getragen und dann zurückgeschickt wird.",
+   "question": "Welches Kleidungsstück nennt Reinhard Koether als typisches Beispiel für missbräuchliche Rücksendungen?",
+   "answer": "Das Ballkleid",
+   "distractors": [
+    "Die Skijacke",
+    "Der Hochzeitsanzug",
+    "Das Faschingskostüm"
+   ],
+   "aha": "Einmal am Ball tanzen, dann „passt nicht“ ins Retourenformular schreiben. Händler prüfen deshalb, ob etwas getragen wurde, und stehen dann vor der Frage, wie sie damit umgehen.",
+   "quote_clean": "Zum Teil nutzen das die Kunden auch aus. Das typische Beispiel ist das Ballkleid: Das braucht man nur einmal im Jahr, dann wird ein Kleid bestellt, einmal getragen, ausprobiert und wieder zurückgeschickt.",
+   "quality": 3
+  }
+ ],
+ "id": "155",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

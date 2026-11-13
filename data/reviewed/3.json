@@ -1,0 +1,285 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 137 s stimmt (Wikipedia-Angabe 7-4 v. Chr.); 'spätestens' war missverständlich, Frage präzisiert.",
+   "stand_note": "",
+   "statement": "Nach heutiger Forschung wurde Jesus etwa zwischen 7 und 4 vor Christus geboren, also nicht im Jahr 0.",
+   "question": "Jesus kam nicht im Jahr 0 zur Welt. Bis zu welchem Jahr vor Christus wird seine Geburt nach heutiger Forschung spätestens eingeordnet?",
+   "answer": "4 vor Christus",
+   "distractors": [
+    "1 vor Christus",
+    "10 vor Christus",
+    "12 vor Christus"
+   ],
+   "aha": "Jesus ist also ein paar Jahre vor Jesus geboren, was Andreas gleich aufgefallen ist. Der Grund: Ein Mönch hat die Zeitrechnung im 6. Jahrhundert nachträglich ausgerechnet und sich dabei um einige Jahre vertan.",
+   "quote_clean": "Gleich in der ersten Zeile steht: Jesus, geboren 7 bis 4 vor Christus, in wahrscheinlich Nazareth.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Zulehners 1600-Jahre-Angabe ist historisch eine grobe, anfechtbare Behauptung über die Kirche und als Spielfakt irreführend.",
+   "stand_note": "",
+   "statement": "Laut Paul Zulehner dauerte es rund 1600 Jahre, bis das Christentum Sklaverei als gegen Gottes Absichten verurteilte.",
+   "question": "Wie viele Jahre hat es laut Paul Zulehner gedauert, bis das Christentum die Sklaverei klar verurteilt hat?",
+   "answer": "Rund 1600 Jahre",
+   "distractors": [
+    "Rund 300 Jahre",
+    "Rund 800 Jahre",
+    "Rund 1100 Jahre"
+   ],
+   "aha": "Lange galt die Unterscheidung zwischen Sklaven und Freien als normal, auch in der Kirche.",
+   "quote_clean": "Das hat 1600 Jahre gedauert, bis das Christentum endlich gesagt hat: Sklaverei ist ganz wider die Absichten Gottes.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei ca. 1207-1211 s eindeutig; einfache, aber saubere Frage.",
+   "stand_note": "",
+   "statement": "Jesus wählte zwölf Apostel, weil sie für die zwölf Stämme Israels stehen sollten.",
+   "question": "Jesus hatte so viele Apostel, wie Israel Stämme hatte. Wie viele waren es?",
+   "answer": "12",
+   "distractors": [
+    "7",
+    "10",
+    "14"
+   ],
+   "aha": "Die Zahl der Apostel ist kein Zufall. Jesus wollte mit zwölf Leuten symbolisch einen Neuanfang für das ganze Volk Israel machen, weil er fand, dass Israel seinen eigenen Auftrag nicht mehr schafft.",
+   "quote_clean": "Und er hat gesagt: Da muss ich jetzt wieder mit zwölf Leuten, die für die zwölf Stämme Israels stehen, einen neuen Anfang machen.",
+   "quality": 2
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Nazareth belegt (162 s); Frage an Zulehner gebunden, aha zu Bethlehem vorsichtiger formuliert, da er es nur als eher symbolisch einschätzt.",
+   "stand_note": "",
+   "statement": "Jesus stammt laut Paul Zulehner sicher aus Nazareth, auch wenn Bethlehem als Geburtsort überliefert ist.",
+   "question": "Aus welchem Ort stammt Jesus laut Paul Zulehner sicher?",
+   "answer": "Nazareth",
+   "distractors": [
+    "Bethlehem",
+    "Jerusalem",
+    "Jericho"
+   ],
+   "aha": "Darum heißt er ja auch Jesus von Nazareth. Bethlehem als Geburtsort sieht Zulehner eher als Erzählung, die etwas über Jesu Person ausdrücken will, als als gesicherten Fakt.",
+   "quote_clean": "Er stammt sicher aus Nazareth. Ich habe den Ort besucht. Es gibt noch Reste von den Häusern, wo er wahrscheinlich mit seiner Familie gelebt hat.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Im Transkript wird die Quelle als 'Plinius' genannt (historisch eher Tacitus); die Namensnennung aus quote_clean entfernt, Pilatus-Aussage ist korrekt.",
+   "stand_note": "",
+   "statement": "Auch römische Quellen berichten, dass Jesus unter dem Statthalter Pontius Pilatus hingerichtet wurde.",
+   "question": "Unter welchem römischen Statthalter wurde Jesus hingerichtet?",
+   "answer": "Pontius Pilatus",
+   "distractors": [
+    "Publius Quirinius",
+    "Quinctilius Varus",
+    "Gaius Cassius"
+   ],
+   "aha": "Dass es Jesus gab, belegen nicht nur christliche Texte, sondern auch römische Geschichtsschreiber. Die These, er sei nur ein erfundenes Phantom, glaubt heute kaum noch jemand in der Forschung.",
+   "quote_clean": "Es gibt Schriften auch aus dem Römischen Reich. Da wird ziemlich genau beschrieben, dass er umgebracht worden ist unter dem Statthalter Pontius Pilatus.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 267 s; Galiläa am See Genezareth stimmt.",
+   "stand_note": "",
+   "statement": "Galiläa, wo Jesus lebte und predigte, liegt im heutigen Israel am See Genezareth.",
+   "question": "An welchem Gewässer liegt Galiläa, die Gegend, in der Jesus predigte?",
+   "answer": "Am See Genezareth",
+   "distractors": [
+    "Am Toten Meer",
+    "Am Roten Meer",
+    "Am Nil"
+   ],
+   "aha": "Die Orte aus der Bibel liegen rund um den See und sind archäologisch gut erforscht. Wer dort heute vom Hügel runterschaut, kann sich laut Zulehner gut vorstellen, wie die Leute im Gras saßen und zugehört haben.",
+   "quote_clean": "Das ist heute in Israel, wenn man an den See Genezareth fährt. Das ist eine schöne Landschaft am Ufer entlang, wo die berühmten Städte waren, die in der Bibel genannt werden.",
+   "quality": 2
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei ca. 1131 s (innerhalb 60 s); 'weinen' klar als 'weihen' verhört und in quote_clean korrigiert. Leichte Zuordnungsfrage.",
+   "stand_note": "",
+   "statement": "Paul Zulehner meint, Jesus wollte keine Kirche gründen, sondern eine Bewegung, die die Welt menschlicher macht.",
+   "question": "Wer sagt über Jesus: „Er wollte kein Büro, keine Kirche gründen, keine Bischöfe einsetzen“?",
+   "answer": "Paul Zulehner",
+   "distractors": [
+    "Andreas Sator",
+    "Papst Franziskus",
+    "Martin Luther"
+   ],
+   "aha": "Ein Satz, den man von einem Priester und Pastoraltheologen nicht unbedingt erwartet. Für Zulehner wollte Jesus eine „Zivilisation der Liebe“, keine Behörde.",
+   "quote_clean": "Ich glaube, Jesus wollte kein Büro, keine Kirche gründen, keine Bischöfe einsetzen, keine Priester weihen. Das war nicht sein Programm.",
+   "quality": 2
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1516-1525 s, klar als Zulehners Meinung gerahmt.",
+   "stand_note": "",
+   "statement": "Für Paul Zulehner lebt das Christentum von seinen Märtyrern, nicht von Priestern und Bischöfen.",
+   "question": "Wovon lebt das Christentum laut Paul Zulehner vor allem?",
+   "answer": "Von den Märtyrern",
+   "distractors": [
+    "Von den Bischöfen",
+    "Von den Kirchensteuern",
+    "Von den Klöstern"
+   ],
+   "aha": "Wer bereit ist, für eine Überzeugung zu sterben, hält sie sehr wahrscheinlich für wahr, argumentiert Zulehner. Er stellt die frühen Märtyrer auf eine Stufe mit den Dissidenten im Kommunismus.",
+   "quote_clean": "Ich denke, das Christentum lebt von den Märtyrern und nicht von den Priestern, Bischöfen und Kirchenleuten. Die sind alle vergleichsweise dazu zweitrangig.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1567-1578 s; die Aussage bezieht sich auf Missbrauch Gottes allgemein, Gewalt ist nur der Kontext. Frage präzisiert.",
+   "stand_note": "",
+   "statement": "Paul Zulehner sagt: Wer Gott missbraucht, etwa für Gewalt, verrät ihn.",
+   "question": "Was tut man laut Paul Zulehner, wenn man Gott missbraucht, etwa für Gewalt?",
+   "answer": "Man verrät ihn",
+   "distractors": [
+    "Man verteidigt ihn",
+    "Man beweist ihn",
+    "Man ersetzt ihn"
+   ],
+   "aha": "Zulehner bringt das Beispiel der SS-Gürtel mit der Aufschrift „Gott mit uns“ und zitiert islamische Theologen der Uni Wien, die Selbstmordattentäter als Verräter am Islam sehen.",
+   "quote_clean": "Ich glaube, da muss man als Theologe heute Klartext reden und sagen: Man kann Gott für alles missbrauchen, aber dann bringt man ihn nicht glaubwürdig, sondern man verrät ihn genau genommen.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 515-527 s; Zulehner nennt die Jungfrauengeburt dort nicht ausdrücklich und formuliert vorsichtig ('könnte man sich vorstellen'). Statement entsprechend entschärft.",
+   "stand_note": "",
+   "statement": "Bibelwissenschaftler vergleichen die Kindheitsgeschichten Jesu mit Erzählungen über Kaiser und Pharaonen und finden ähnliche Motive.",
+   "question": "Womit vergleichen Bibelwissenschaftler die Geburtsgeschichten über Jesus?",
+   "answer": "Mit Geschichten über Kaiser und Pharaonen",
+   "distractors": [
+    "Mit griechischen Komödien",
+    "Mit babylonischen Gesetzestexten",
+    "Mit römischen Steuerlisten"
+   ],
+   "aha": "Zulehner vermutet, dass die Evangelisten auf solche Erzählelemente zurückgriffen, um die Bedeutung Jesu herauszustreichen. Wörtlich nehmen muss man diese Kindheitsgeschichten deshalb nicht.",
+   "quote_clean": "Dann vergleichen sie das mit den anderen Geschichten der Kaiser und der Pharaonen, und sie merken, dass da ähnliche Geschichten erzählt werden.",
+   "quality": 2
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 820-827 s; es ist Zulehners Wiedergabe von Jesus, Frage entsprechend gerahmt; Distraktor 'Gedanken' lag zu nah an 'Herz'.",
+   "stand_note": "",
+   "statement": "Laut Paul Zulehner sagte Jesus, man müsse das Herz verändern und nicht den Körper beschneiden.",
+   "question": "Was soll man laut Paul Zulehner nach Jesus „beschneiden“ statt des Körpers?",
+   "answer": "Das Herz",
+   "distractors": [
+    "Die Zunge",
+    "Den Besitz",
+    "Die Hände"
+   ],
+   "aha": "Es gab genaue Regeln fürs Händewaschen, fürs Essen und für die Reinheit. Jesus fand das pingelig: Das Böse kommt aus dir heraus, nicht aus dem, was du isst.",
+   "quote_clean": "Und es hilft dir nichts, weil du musst dein Herz beschneiden und nicht deinen Körper, hat er immer gesagt. Du musst dein Herz verändern und nicht von außen etwas verändern.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 1385-1397 s; im aha wurde die Großmutter genannt, die im Ausschnitt nicht sicher belegt ist, daher entfernt.",
+   "stand_note": "",
+   "statement": "Paul Zulehner deutet die Auferstehung nicht als körperliche Anwesenheit, sondern als tiefe innere Erfahrung der Jünger.",
+   "question": "Wie deutet Theologe Paul Zulehner die Erscheinungen des auferstandenen Jesus?",
+   "answer": "Als tiefe innere Erfahrung der Jünger",
+   "distractors": [
+    "Als reine Erfindung der Apostel",
+    "Als körperliche Rückkehr ins Leben",
+    "Als Verwechslung mit einem Bruder"
+   ],
+   "aha": "Für Zulehner sind die Erzählungen von Himmelfahrt und Co. Bilder für diese innere Erfahrung. Wie die neue Wirklichkeit nach dem Tod aussieht, könne sich niemand vorstellen, man könne nur glauben, dass es sie gibt.",
+   "quote_clean": "Er war da nicht so anwesend, wie wir jetzt einander gegenübersitzen, sondern das war eine tiefe innere Erfahrung, dass der, der in den Tod gegangen ist, nun losgelöst von Raum und Zeit auf eine neue Art und Weise ist.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Reine Begrüßungsfloskel ohne Erkenntniswert; aha macht unbelegte Aussage über heute.",
+   "stand_note": "",
+   "statement": "In den frühen Folgen begrüßte Andreas mit dem Versprechen, dass man die Welt jede Woche ein bisschen besser verstehen soll.",
+   "question": "Wie beschreibt Andreas ganz am Anfang den Podcast?",
+   "answer": "Die Welt jede Woche besser verstehen",
+   "distractors": [
+    "Jede Woche eine neue Meinung",
+    "Die Welt in fünf Minuten",
+    "Jeden Tag ein Gerücht weniger"
+   ],
+   "aha": "",
+   "quote_clean": "Hallo, ich bin Andreas und das ist die dritte Folge von Erklär mir die Welt, einem Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Beleg bei 1222-1226 s; Grammatik der Frage korrigiert, 'brav' im aha war herablassend.",
+   "stand_note": "",
+   "statement": "Andreas unterbricht seinen Gast, weil im Podcast die Regel gilt: keine Fremdwörter, oder sie werden erklärt.",
+   "question": "Woran erinnert Andreas seinen Gast beim Wort „Katechismus“?",
+   "answer": "Fremdwörter müssen erklärt werden",
+   "distractors": [
+    "Keine Bibelzitate verwenden",
+    "Antworten unter einer Minute",
+    "Keine Jahreszahlen nennen"
+   ],
+   "aha": "Zulehner meint zuerst, das verstehen die jungen Leute eh. Dann erklärt er es doch gern: eine Art Gebrauchsanleitung für gläubiges Leben.",
+   "quote_clean": "Katechismus ist wieder so ein Wort: Wir haben hier die Regel, keine Fremdwörter, und wenn du eines benutzt, musst du es erklären.",
+   "quality": 3
+  }
+ ],
+ "id": "3",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

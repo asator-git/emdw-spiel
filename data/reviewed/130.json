@@ -1,0 +1,277 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächseinstieg, kein Wissenswert.",
+   "stand_note": "",
+   "statement": "Andreas startet das Gespräch über Krebs mit der ganz grundsätzlichen Frage, was Krebs überhaupt ist.",
+   "question": "Mit welcher Frage steigt Andreas in die Krebs-Folge ein?",
+   "answer": "Was ist denn Krebs überhaupt?",
+   "distractors": [
+    "Wie viele Menschen sterben an Krebs?",
+    "Wann hast du mit Krebsforschung begonnen?",
+    "Kann man Krebs heute heilen?"
+   ],
+   "aha": "Andreas fängt gern ganz vorne an, auch wenn das Thema riesig ist.",
+   "quote_clean": "Maria, wir fangen ganz von vorne an. Was ist denn Krebs überhaupt?",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt mit nur einer realistischen Antwort (Gästin), erratbar; die Zell-Metapher ist anderswo besser als Inhaltsfrage spielbar.",
+   "stand_note": "",
+   "statement": "Bei Krebs wird aus einer altruistischen Zelle eine egoistische Zelle, die nicht mehr auf die Signale des Körpers hört.",
+   "question": "Wer erklärt Krebs so: „Die altruistische Zelle wird eine egoistische Zelle und macht einfach, was sie will“?",
+   "answer": "Maria Sibilia",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Hausärztin aus Wien",
+    "Ein Onkologe aus Graz"
+   ],
+   "aha": "Die Zelle hört nicht mehr auf ihre Nachbarn, teilt sich und teilt sich.",
+   "quote_clean": "Die altruistische Zelle wird eigentlich eine egoistische Zelle, und die macht einfach, was sie will.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 306-315; Distraktoren eindeutig falsch, Aussage von der Forscherin so gemeint.",
+   "stand_note": "",
+   "statement": "Das Immunsystem könnte Krebszellen eigentlich erkennen, aber Krebszellen manipulieren die Immunzellen und verstecken sich vor ihnen.",
+   "question": "Warum bekämpft das Immunsystem Krebszellen oft nicht?",
+   "answer": "Krebszellen manipulieren und verstecken sich",
+   "distractors": [
+    "Krebszellen sind für Immunzellen unsichtbar klein",
+    "Das Immunsystem erkennt nur Viren",
+    "Krebszellen sind völlig normale Zellen"
+   ],
+   "aha": "Eigentlich fällt eine Krebszelle auf, weil sie sich ganz anders verhält als ihre Nachbarn. Sie trickst das Immunsystem aber aus und kann deshalb weiterwuchern und sich im Körper ausbreiten.",
+   "quote_clean": "Nur ist die Krebszelle so schlau, dass sie die Immunzellen manipuliert und sich vor ihnen versteckt.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 407-431; korrekt und anschaulich.",
+   "stand_note": "",
+   "statement": "Ein Tumor baut sich eigene Blutgefäße, damit Blut, Nährstoffe und Sauerstoff zu ihm gelangen.",
+   "question": "Was baut sich ein wachsender Tumor selbst, um zu überleben?",
+   "answer": "Eigene Blutgefäße",
+   "distractors": [
+    "Eigene Nervenbahnen",
+    "Eine eigene Knochenhülle",
+    "Eigene Lymphknoten"
+   ],
+   "aha": "Ein Tumor funktioniert wie ein zusätzliches Organ: Ohne Versorgung würde er ab einer gewissen Größe verhungern und ersticken. Also holt er sich Blutgefäße, ganz so wie Leber oder Niere.",
+   "quote_clean": "Da kommen natürlich dringend Blutgefäße hinein, denn wenn der Krebs zu groß wird und sich nicht selbst Blutgefäße zurechtmacht, könnten Blut und Nährstoffe nicht in den Tumor kommen.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 463-507 inklusive Angelina Jolie; medizinisch korrekt.",
+   "stand_note": "",
+   "statement": "Vererbte Mutationen in den Genen BRCA1 und BRCA2 erhöhen das Risiko für Brust- und Eierstockkrebs stark.",
+   "question": "Für welche Krebsarten erhöhen vererbte BRCA-Mutationen das Risiko besonders?",
+   "answer": "Brust- und Eierstockkrebs",
+   "distractors": [
+    "Lungen- und Kehlkopfkrebs",
+    "Haut- und Knochenkrebs",
+    "Magen- und Leberkrebs"
+   ],
+   "aha": "Manche Krebsrisiken erbt man einfach mit. Bekanntestes Beispiel ist Angelina Jolie, die sich wegen einer BRCA-Mutation vorsorglich die Brüste entfernen ließ.",
+   "quote_clean": "Ich denke zum Beispiel an das BRCA1- oder BRCA2-Gen. Wenn man diese Mutationen hat, führt das Fehlen dieser Produkte dazu, dass man mit einem viel höheren Risiko Brustkrebs oder auch Eierstockkrebs entwickelt.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Belegt bei 546-551, aber Statement nannte Bronchien (nur Hals und Luftröhre im Ausschnitt) und aha stützte sich auf nicht sichtbare Details; angepasst.",
+   "stand_note": "",
+   "statement": "Stoffe im Zigarettenrauch sind Mutagene: Sie verändern das Erbgut der Zellen, etwa in Hals und Luftröhre.",
+   "question": "Wie nennt man Stoffe im Zigarettenrauch, die das Erbgut verändern?",
+   "answer": "Mutagene",
+   "distractors": [
+    "Antigene",
+    "Enzyme",
+    "Hormone"
+   ],
+   "aha": "Rauchen schädigt die Zellen in Hals und Luftröhre, und die Stoffe im Rauch verändern dabei das Erbgut. So können Fehler entstehen, die Krebs begünstigen.",
+   "quote_clean": "Die Stoffe im Rauch sind sogenannte Mutagene. Das heißt, sie bewirken, dass sich das Erbgut verändert.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 642-664; Bild klar zugeordnet, Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Ein Tumor lässt sich als Wunde beschreiben, die nie heilt: Die Zellen hören nicht auf, sich zu teilen.",
+   "question": "Mit welchem Bild beschreibt Maria Sibilia einen Tumor?",
+   "answer": "Eine Wunde, die nie heilt",
+   "distractors": [
+    "Ein Virus ohne Hülle",
+    "Eine Narbe, die wächst",
+    "Ein Organ ohne Funktion"
+   ],
+   "aha": "Schneidest du dich in den Finger, teilt sich das Gewebe, bis die Wunde zu ist, dann ist Schluss. Beim Tumor fehlt genau dieses Stoppsignal, und es wuchert einfach weiter.",
+   "quote_clean": "Einen Tumor kann man eigentlich auch als eine Wunde definieren, die nie heilt. Das heißt, sie teilt sich immer weiter.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Grobe Schätzung ('ich würde sagen') und als Faktenaussage historisch unsicher, da Lebenserwartung nicht allein durch Antibiotika stieg; zu angreifbar.",
+   "stand_note": "",
+   "statement": "Laut Maria Sibilia hat die Entdeckung der Antibiotika die durchschnittliche Lebenserwartung um etwa zehn bis zwanzig Jahre verlängert.",
+   "question": "Um wie viele Jahre haben Antibiotika die Lebenserwartung laut Maria Sibilia ungefähr verlängert?",
+   "answer": "Etwa 10 bis 20 Jahre",
+   "distractors": [
+    "Etwa 1 bis 2 Jahre",
+    "Etwa 30 bis 40 Jahre",
+    "Etwa 3 bis 5 Jahre"
+   ],
+   "aha": "Weil wir heute viel älter werden und Krebs vor allem im Alter entsteht, gibt es auch mehr Krebsfälle.",
+   "quote_clean": "Die Entdeckung der Antibiotika hat dazu geführt, dass sich die Lebenserwartung der Menschen im Durchschnitt um, ich würde sagen, zehn bis zwanzig Jahre verlängert hat.",
+   "quality": 2
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1232-1249; Vergleich korrekt wiedergegeben.",
+   "stand_note": "",
+   "statement": "Bei jeder Zellteilung muss die DNA kopiert werden, und wie beim Kopieren eines tausendseitigen Buches passieren dabei zwangsläufig Fehler.",
+   "question": "Womit vergleicht Maria Sibilia das Kopieren der DNA bei der Zellteilung?",
+   "answer": "Ein 1000-Seiten-Buch fehlerfrei kopieren",
+   "distractors": [
+    "Ein Puzzle blind zusammensetzen",
+    "Ein Telefonbuch auswendig lernen",
+    "Einen Brief per Hand abschreiben"
+   ],
+   "aha": "Irgendwer kopiert eine Seite doppelt oder vergisst eine, so passiert's auch der Zelle. Reparaturmechanismen fangen das meist ab, aber über die Jahre häufen sich unentdeckte Fehler, und daraus kann Krebs werden.",
+   "quote_clean": "Das ist so, wie wenn man ein Tausend-Seiten-Buch hat, zum Kopierer geschickt wird und hört: Bitte kopieren Sie dieses Buch fehlerfrei.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt war erratbar; als Inhaltsfrage umgebaut (belegt bei 1289-1328, von ihr als einer der Hauptfaktoren genannt).",
+   "stand_note": "",
+   "statement": "Ein Grund für die steigenden Krebszahlen ist, dass man heute fast immer weiß, woran jemand gestorben ist.",
+   "question": "Neben der höheren Lebenserwartung: Was erklärt laut Maria Sibilia noch, dass heute mehr Krebsfälle gezählt werden?",
+   "answer": "Man weiß heute viel öfter, woran jemand gestorben ist",
+   "distractors": [
+    "Krebs ist ansteckender geworden",
+    "Kinder erkranken heute viel häufiger",
+    "Medikamente lösen immer mehr Tumore aus"
+   ],
+   "aha": "Früher hieß es oft einfach: gestorben, weil sie alt war. Ob Krebs dahintersteckte, hat damals kaum jemand geprüft. Heute taucht so ein Fall in der Statistik auf.",
+   "quote_clean": "Jetzt weiß man eigentlich fast immer, woran man gestorben ist. Wenn ich an meine Urgroßmutter denke, da hat man gesagt, sie ist gestorben, weil sie alt war.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1474-1504; korrekt und gut verständlich.",
+   "stand_note": "",
+   "statement": "Bei der Chemotherapie fallen die Haare aus, weil die Chemo alle sich teilenden Zellen angreift, auch die sich ständig erneuernden Haarwurzelzellen.",
+   "question": "Warum fallen bei einer Chemotherapie oft die Haare aus?",
+   "answer": "Haarwurzelzellen teilen sich ständig",
+   "distractors": [
+    "Die Kopfhaut wird schlechter durchblutet",
+    "Das Immunsystem greift Haare an",
+    "Haare speichern das Medikament"
+   ],
+   "aha": "Die Chemo kann gesunde und kranke Zellen nicht unterscheiden, sie trifft alles, was sich schnell teilt. Hört die Behandlung auf, wachsen die Haare wieder nach.",
+   "quote_clean": "Deswegen verliert man während der Chemotherapie zum Beispiel die Haare oder die Haut leidet, weil sich die Haarwurzelzellen ständig erneuern.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Belegt bei 1561 (ungefähr vor 20 Jahren, aus 2020), plausibel (Herceptin Ende der 90er). 'Vor X Jahren' würde veralten, daher auf Jahreszahl umgestellt.",
+   "stand_note": "Stand 2020",
+   "statement": "Die ersten zielgerichteten Krebsmedikamente kamen etwa um das Jahr 2000 auf.",
+   "question": "Um welches Jahr ungefähr kamen die ersten zielgerichteten Krebsmedikamente auf?",
+   "answer": "Um das Jahr 2000",
+   "distractors": [
+    "Um 1950",
+    "Um 1975",
+    "Um 2015"
+   ],
+   "aha": "Erst gab es lange nur die Chemo, die alles trifft, was sich teilt. Um die Jahrtausendwende kamen Medikamente, die gezielt an bestimmte Merkmale von Krebszellen andocken.",
+   "quote_clean": "Danach kamen ungefähr vor 20 Jahren die ersten zielgerichteten Medikamente.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt bei 1792-1823; Frage verwies auf die 'bunte Mischung' (Kugel-Bild) ohne Kontext, daher umformuliert.",
+   "stand_note": "",
+   "statement": "Das Immunsystem kann alle möglichen Varianten von Krebszellen gleichzeitig erkennen und gilt deshalb als ideales Allround-Medikament.",
+   "question": "Was ist laut Maria Sibilia das beste Medikament, um verschiedenartige Krebszellen gleichzeitig zu bekämpfen?",
+   "answer": "Unser eigenes Immunsystem",
+   "distractors": [
+    "Eine hochdosierte Chemotherapie",
+    "Eine Strahlentherapie",
+    "Ein zielgerichteter Antikörper"
+   ],
+   "aha": "Das Immunsystem ist darauf trainiert, alles Mögliche zu erkennen, nicht nur ein bestimmtes Merkmal. Der Haken: Der Tumor hat gelernt, es lahmzulegen.",
+   "quote_clean": "Das beste Medikament, um alle diese farbigen Zellen gleichzeitig zu töten, ist unser Immunsystem.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1994-2005, mit 'je nach Tumorart' und 'sozusagen' korrekt eingeschränkt; Faustregel passt zur Fünf-Jahres-Regel.",
+   "stand_note": "",
+   "statement": "Kommt nach einer Krebs-OP je nach Tumorart drei bis fünf Jahre lang nichts nach, gilt man in der Regel als geheilt.",
+   "question": "Nach wie vielen Jahren ohne Rückfall gilt man nach einer Krebs-OP meist als geheilt (je nach Tumorart)?",
+   "answer": "Nach etwa drei bis fünf Jahren",
+   "distractors": [
+    "Nach etwa einem Jahr",
+    "Nach etwa 15 Jahren",
+    "Nach etwa 25 Jahren"
+   ],
+   "aha": "Die Bildgebung sieht keine einzelnen Zellen, die schon ausgewandert sind. Deshalb geht man nach der OP regelmäßig zur Kontrolle, bis nach einigen Jahren Entwarnung kommt.",
+   "quote_clean": "Man sagt dann: Wenn nach der OP nach drei bis fünf Jahren, je nach Tumorart, nichts mehr nachgekommen ist, ist man sozusagen geheilt.",
+   "quality": 3
+  }
+ ],
+ "id": "130",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

@@ -1,0 +1,282 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg ok; Frage auf Miriam Junges Aussage eingegrenzt, da Lebensberatung in Österreich geregelt ist.",
+   "stand_note": "",
+   "statement": "Die Berufsbezeichnung Coach ist nicht geschützt, jede und jeder darf sich so nennen.",
+   "question": "Wer darf sich laut Miriam Junge Coach nennen?",
+   "answer": "Jede und jeder, ohne Ausbildung",
+   "distractors": [
+    "Nur Psycholog:innen mit Diplom",
+    "Nur wer eine staatliche Coaching-Prüfung hat",
+    "Nur eingetragene Lebensberater:innen"
+   ],
+   "aha": "Coach ist ein völlig freier Begriff, laut Miriam Junge brauchst du dafür nicht einmal ein Wochenendseminar. Darum rät sie, auf eine therapeutische Grundausbildung zu schauen, bevor du jemandem viel Geld überweist.",
+   "quote_clean": "Der Begriff Coach ist nicht geschützt. Jeder kann sich Coach nennen.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 303 s, Aha stimmt mit dem Ausschnitt überein.",
+   "stand_note": "",
+   "statement": "Coaching ist auf die Zukunft ausgerichtet, Psychotherapie setzt eher in der Vergangenheit an einem Problem an.",
+   "question": "Worin unterscheidet sich die Blickrichtung von Coaching und Psychotherapie?",
+   "answer": "Coaching nach vorne, Therapie zurück",
+   "distractors": [
+    "Coaching zurück, Therapie nach vorne",
+    "Beide schauen nur aufs Heute",
+    "Coaching auf den Körper, Therapie auf Gedanken"
+   ],
+   "aha": "Im Coaching geht es um ein Ziel, auf das man gemeinsam losläuft, die Coachin ist eher Sparringpartnerin. In der Therapie erzählt die Patientin mehr, und man schaut oft in die Kindheit, wo ein Problem herkommt.",
+   "quote_clean": "Coaching ist sehr nach vorne ausgerichtet. Therapie beginnt eher in der Kindheit oder in der Vergangenheit, auf einem Problem basierend.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "ICD als Kriteriensystem ist belegt, Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Psychische Störungen werden anhand eines Kriteriensystems namens ICD diagnostiziert.",
+   "question": "Wie heißt das Kriteriensystem, nach dem Therapeut:innen psychische Störungen diagnostizieren?",
+   "answer": "ICD",
+   "distractors": [
+    "ISO",
+    "NACE",
+    "BMI"
+   ],
+   "aha": "Ob etwas eine psychische Störung ist, entscheidet nicht das Bauchgefühl, sondern ein Katalog mit klaren Kriterien. Nur mit so einer Diagnose zahlt die Krankenkasse die Therapie.",
+   "quote_clean": "Wir haben ein Kriteriensystem, ICD-10 oder ICD-11, wo ganz klar ist, was ein Mensch zeigen muss, um eine psychische Störung diagnostiziert zu bekommen.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Im Transkript wird nicht gesagt, dass 11 die neueste Version ist; Aha enthält nicht belegte Details, Slider-Bereich sinnlos.",
+   "stand_note": "",
+   "statement": "Die neueste Version des Diagnosekatalogs ICD trägt die Nummer 11.",
+   "question": "Welche Versionsnummer hat die neueste Ausgabe des Diagnosekatalogs ICD?",
+   "answer": "11",
+   "distractors": [
+    "7",
+    "9",
+    "14"
+   ],
+   "aha": "",
+   "quote_clean": "Wir haben ein Kriteriensystem, ICD-10 oder ICD-11, wo ganz klar ist",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Beleg ok; Distraktor Arbeitsamt ist nicht eindeutig falsch, Frage auf Junges Aussage bezogen.",
+   "stand_note": "",
+   "statement": "Psychotherapie bei einer Diagnose übernimmt die Krankenkasse, Coaching muss man selbst bezahlen.",
+   "question": "Wer zahlt laut Miriam Junge ein Coaching?",
+   "answer": "Man selbst",
+   "distractors": [
+    "Die Krankenkasse",
+    "Der Hausarzt",
+    "Die Gemeinde"
+   ],
+   "aha": "Viele fragen Miriam Junge, ob sie das Coaching nicht über die Kasse laufen lassen kann. Geht nicht: Die Therapieplätze sind für Menschen mit Diagnose gedacht, und davon gibt es ohnehin zu wenige.",
+   "quote_clean": "Psychotherapie zahlt die Krankenkasse. Coaching muss man selbst zahlen.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 657 s, Aha stimmt.",
+   "stand_note": "",
+   "statement": "Für eine Kassentherapie muss der Krankenkasse eine Diagnose gemeldet werden, weil sie nur für Krankheiten zahlt.",
+   "question": "Was muss die Therapeutin der Krankenkasse melden, damit diese eine Psychotherapie zahlt?",
+   "answer": "Eine Diagnose",
+   "distractors": [
+    "Die Zahl der Sitzungen",
+    "Das Einkommen der Patientin",
+    "Eine Empfehlung vom Hausarzt"
+   ],
+   "aha": "Der Name sagt es eh schon: Krankenkasse. Wer ohne Diagnose zur Therapie will, etwa zur Vorbeugung, zahlt selbst, und das findet Miriam Junge sogar sehr sinnvoll.",
+   "quote_clean": "Wenn wir Psychotherapie über die Krankenkasse laufen lassen, müssen wir der Krankenkasse die Diagnose angeben. Es ist eine Krankenkasse, die zahlen für Krankheiten und nicht für Dinge, die man selbst im Leben bewältigen kann.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Inhalt belegt (760-798 s); Statement holprig formuliert, Aha leicht geglättet.",
+   "stand_note": "",
+   "statement": "Ob eine psychische Erkrankung vorliegt, musst du nicht selbst entscheiden, das tut die Psychotherapeutin, so wie der Arzt beim gebrochenen Arm.",
+   "question": "Wer sollte laut Miriam Junge entscheiden, ob du eine Therapie oder ein Coaching brauchst?",
+   "answer": "Die Psychotherapeutin",
+   "distractors": [
+    "Du selbst",
+    "Deine Krankenkasse",
+    "Dein Coach"
+   ],
+   "aha": "Beim Arzt sagst du auch nur, dass der Arm wehtut, und der Arzt entscheidet, was los ist. Genauso bei der Psyche: Wenn du dir Sorgen machst oder erschöpft bist, geh hin, die Einordnung ist deren Fachkunde.",
+   "quote_clean": "Du gehst ja auch nicht zum Arzt und sagst, der Arm ist auf jeden Fall gebrochen.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 897-903 s, Zahl passt zum Kontext.",
+   "stand_note": "",
+   "statement": "Bei Miriam Junge sind die ersten 20 Minuten des Erstgesprächs kostenlos.",
+   "question": "Wie viele Minuten des Erstgesprächs sind bei Miriam Junge gratis?",
+   "answer": "20 Minuten",
+   "distractors": [
+    "5 Minuten",
+    "10 Minuten",
+    "45 Minuten"
+   ],
+   "aha": "In diesen 20 Minuten sollen beide schauen, ob das Bauchgefühl passt. Abgebrochen wird selten, meistens macht man die Stunde voll und steigt gleich tief ein.",
+   "quote_clean": "Bei mir sind immer die ersten 20 Minuten kostenlos, um zu schauen, ob die Chemie beidseitig stimmt.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "50 Minuten belegt; Aha enthielt nicht belegte Begründung und wurde entschärft.",
+   "stand_note": "",
+   "statement": "Eine Coaching- oder Therapiesitzung dauert typischerweise 50 Minuten.",
+   "question": "Wie viele Minuten dauert eine typische Sitzung bei Coaching oder Therapie?",
+   "answer": "50 Minuten",
+   "distractors": [
+    "30 Minuten",
+    "60 Minuten",
+    "90 Minuten"
+   ],
+   "aha": "Miriam Junge macht meist die 50 Minuten voll und steigt dann schon richtig tief ein. Die klassische Therapiestunde hat also keine ganze Stunde, sondern eben 50 Minuten.",
+   "quote_clean": "Meistens machen wir die 50 Minuten voll und steigen dann schon richtig tief ein.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext",
+    "beleg"
+   ],
+   "note": "Meta-Moment ohne Erkenntniswert; quote_clean verändert den Sinn ('einiges' zu 'ein gutes').",
+   "stand_note": "",
+   "statement": "Nach 20 Minuten Interview spielt Andreas auf Miriam Junges kostenloses 20-Minuten-Erstgespräch an und will weitermachen.",
+   "question": "Was sagt Andreas nach 20 Minuten Gespräch in Anspielung auf Miriams Gratis-Erstgespräch?",
+   "answer": "Er würde gerne weitermachen",
+   "distractors": [
+    "Er will lieber abbrechen",
+    "Er fragt nach dem Preis",
+    "Er bittet um Bedenkzeit"
+   ],
+   "aha": "",
+   "quote_clean": "Wir sind jetzt bei 20 Minuten und ich würde gerne weitermachen.",
+   "quality": 1
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat belegt bei 1715-1726 s, Aha stützt sich auf den Ausschnitt.",
+   "stand_note": "",
+   "statement": "Miriam Junge vergleicht mentale Gesundheit mit einem Muskel, den man trainieren kann.",
+   "question": "Womit vergleicht Miriam Junge die mentale Gesundheit?",
+   "answer": "Mit einem Muskel",
+   "distractors": [
+    "Mit einem Akku",
+    "Mit einem Garten",
+    "Mit einem Bankkonto"
+   ],
+   "aha": "Ins Fitnessstudio zu gehen ist völlig normal, sich um die Psyche zu kümmern noch nicht. Dabei sind Achtsamkeit und Meditation laut Miriam Junge präventives Training gegen psychische Störungen.",
+   "quote_clean": "Wie ins Fitnessstudio gehen, sich mit seiner mentalen Gesundheit zu beschäftigen, weil das auch ein Training ist und mentale Gesundheit auch ein Muskel ist.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat belegt bei 1826 s, Aha passt zum Ausschnitt.",
+   "stand_note": "",
+   "statement": "Klient:innen sind die Profis für ihr eigenes Leben, Coaches und Therapeut:innen können nur mit dem arbeiten, was ausgesprochen wird.",
+   "question": "Wer ist laut Miriam Junge der Profi für dein Leben?",
+   "answer": "Du selbst",
+   "distractors": [
+    "Deine Therapeutin",
+    "Dein Coach",
+    "Deine Hausärztin"
+   ],
+   "aha": "Therapeutinnen können keine Gedanken lesen, sagt Miriam Junge, das wäre der größte Quatsch. Darum gibst du Tempo und Themen vor und darfst auch sagen: Das will ich jetzt nicht anschauen.",
+   "quote_clean": "Klienten sind ihre eigenen Profis und wir können nur mit dem arbeiten, was ausgesprochen wird.",
+   "quality": 4
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Distraktor 'öfter vor als gedacht' war sinngleich zur Antwort; Aha enthielt nicht belegte Praxisbeobachtung.",
+   "stand_note": "",
+   "statement": "Niemand ist mit seinem Problem allein auf der Welt.",
+   "question": "Was entgegnet Miriam Junge Menschen, die glauben, sie seien die einzigen mit ihrem Problem?",
+   "answer": "Wir sind mit nichts alleine",
+   "distractors": [
+    "Jedes Problem ist einzigartig",
+    "Darüber redet man besser nicht",
+    "Das geht von selbst vorbei"
+   ],
+   "aha": "Viele kommen ins Coaching und denken, sie seien die Einzigen mit ihrem Problem, weil sie sich einsam fühlen und nicht darüber sprechen. Miriam Junge hält dagegen: Mit nichts sind wir alleine auf der Welt.",
+   "quote_clean": "Das ist niemals so. Wir sind mit nichts alleine auf der Welt. Mit nichts.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Meta-Frage zur Formulierung am Folgenende, nicht erratbar und ohne Erkenntniswert.",
+   "stand_note": "",
+   "statement": "Andreas fasst am Ende der Folge mit der Frage „Was nehme ich mir mit?“ zusammen, was er gelernt hat.",
+   "question": "Mit welcher Frage leitet Andreas seine Zusammenfassung am Ende der Folge ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir heute gelernt?",
+    "Und was heißt das jetzt?",
+    "Was bleibt unterm Strich?"
+   ],
+   "aha": "",
+   "quote_clean": "Was nehme ich mir mit?",
+   "quality": 1
+  }
+ ],
+ "id": "225",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

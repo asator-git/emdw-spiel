@@ -1,0 +1,283 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Zahl steht bei 1946 so im Transkript (Andreas fasst zusammen, nennt Aids Hilfe als Quelle); aha enthielt Behauptung, die nicht im Ausschnitt steht, daher umformuliert.",
+   "stand_note": "Stand 2020",
+   "statement": "In Österreich leben laut Aids Hilfe rund 8.000 bis 9.000 Menschen mit HIV.",
+   "question": "Wie viele Menschen in Österreich haben laut Aids Hilfe HIV?",
+   "answer": "8.000 bis 9.000",
+   "distractors": [
+    "800 bis 900",
+    "30.000 bis 40.000",
+    "2.000 bis 3.000"
+   ],
+   "aha": "Rund jede tausendste Person in Österreich lebt mit HIV, also eh nicht so wenige. Dank Medikamenten leben viele davon ganz normal.",
+   "quote_clean": "Was nehme ich mir mit? In Österreich haben laut Aids Hilfe 8.000 bis 9.000 Menschen HIV.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 648; Philipp sagt 2008 oder 2009, Antwort 'um 2008' passt, Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Seit dem sogenannten Swiss Statement von etwa 2008 gilt offiziell: Wer mit HIV unter der Nachweisgrenze ist, überträgt das Virus nicht.",
+   "question": "In welchem Jahr ungefähr wurde im Swiss Statement erklärt, dass Menschen mit HIV unter der Nachweisgrenze nicht ansteckend sind?",
+   "answer": "Um 2008",
+   "distractors": [
+    "Um 1996",
+    "Um 2018",
+    "Um 1988"
+   ],
+   "aha": "Schweizer Fachleute haben das als Erste offiziell festgehalten, lang bevor es sich herumgesprochen hat. Laut Philipp ist genau diese gute Nachricht in der Kommunikation über HIV ziemlich untergegangen.",
+   "quote_clean": "Seit 2008 oder 2009 gibt es schon das Swiss Statement, wo offiziell deklariert ist, dass man, wenn man unter der Nachweisgrenze ist, nicht übertragbar ist.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Philipp gibt die Empfehlung unsicher aus dem Gedächtnis wieder ('ich weiß, bei der deutschen Aidshilfe heißt es'); als Faktenfrage zu unsicher, zudem hölzerne Formulierung 'pro Jahr'.",
+   "stand_note": "",
+   "statement": "Die Deutsche Aidshilfe empfiehlt sexuell aktiven Menschen, sich einmal im Jahr auf HIV testen zu lassen, auch in monogamen Beziehungen.",
+   "question": "Wie oft pro Jahr sollte man sich laut Deutscher Aidshilfe auf HIV testen lassen, wenn man Sex hat?",
+   "answer": "Einmal im Jahr",
+   "distractors": [
+    "Alle fünf Jahre",
+    "Viermal im Jahr",
+    "Zweimal im Jahr"
+   ],
+   "aha": "Und zwar auch in einer monogamen Beziehung, weil erschreckend viele Diagnosen genau dort passieren. Ein Test im Jahr ist schnell gemacht, bei der Aids Hilfe sogar anonym.",
+   "quote_clean": "Bei der Deutschen Aidshilfe heißt es, man soll sich einmal im Jahr testen lassen, was auch eigentlich ideal wäre.",
+   "quality": 2
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt bei 235; 'meistens' war stärker als 'sehr oft', Frage entsprechend angepasst.",
+   "stand_note": "",
+   "statement": "Menschen mit AIDS sterben nicht an AIDS selbst, sondern sehr oft an anderen Krankheiten wie Lungenentzündungen, gegen die sich ihr geschwächtes Immunsystem nicht mehr wehren kann.",
+   "question": "Woran sterben Menschen mit AIDS sehr oft?",
+   "answer": "An anderen Infektionen, etwa Lungenentzündung",
+   "distractors": [
+    "Am Virus, das Organe zerstört",
+    "An Nebenwirkungen der Medikamente",
+    "An einem plötzlichen Herzstillstand"
+   ],
+   "aha": "AIDS ist eher ein Zustand als eine eigene Krankheit: Das Immunsystem ist so geschwächt, dass Erreger gefährlich werden, die sonst harmlos wären. Darum sind Lungenentzündungen so oft die eigentliche Todesursache.",
+   "quote_clean": "Man stirbt nicht an AIDS selber, man stirbt sehr oft an anderen Krankheiten, Lungenentzündungen und so weiter, weil das Immunsystem einfach viel zu schwach ist, um sich zu verteidigen.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt bei 1477-1487; aha rückt eine Dritte (Date) in den Vordergrund, daher neutral umformuliert.",
+   "stand_note": "",
+   "statement": "HIV wird nicht über Speichel übertragen, Küssen ist also kein Risiko.",
+   "question": "Welche dieser Körperflüssigkeiten überträgt HIV nicht?",
+   "answer": "Speichel",
+   "distractors": [
+    "Blut",
+    "Sperma",
+    "Vaginalflüssigkeit"
+   ],
+   "aha": "Die „heiligen drei“ sind Blut, Sperma und Vaginalflüssigkeit. Speichel gehört nicht dazu, Küssen ist also unbedenklich. Philipp findet, dass von den alten Ängsten aus den 80ern noch viel zu viel hängen geblieben ist.",
+   "quote_clean": "Gerade letztens war ich auf einem Date und sie hat mich tatsächlich gefragt, ob es über Speichel übertragbar ist. Zur Info: Nein, es ist nicht durch Speichel übertragbar.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt bei 931-937; Distraktor 'Erst im AIDS-Stadium' ist nicht eindeutig falsch (unbehandelt steigt die Viruslast dort wieder), ersetzt.",
+   "stand_note": "",
+   "statement": "Kurz nach der Ansteckung mit HIV ist man besonders ansteckend, oft ohne es zu wissen.",
+   "question": "Wann ist ein Mensch mit unbehandeltem HIV besonders ansteckend?",
+   "answer": "Kurz nach der eigenen Ansteckung",
+   "distractors": [
+    "Nur nach einem positiven Test",
+    "Nur bei Fieber",
+    "Etwa zehn Jahre nach Ansteckung"
+   ],
+   "aha": "Am Anfang vermehrt sich das Virus rasant, und das Immunsystem hat noch nicht gegengesteuert. Gemein dabei: Genau in dieser Phase weiß man meist noch gar nichts davon.",
+   "quote_clean": "Gerade in der Anfangszeit ist man mit HIV höchst ansteckend.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 663-681, inhaltlich korrekt und klar erklärt.",
+   "stand_note": "",
+   "statement": "Ist die Viruslast im Blut durch Medikamente unter der Nachweisgrenze, kann HIV weder über Sperma noch über Blut übertragen werden.",
+   "question": "Was bedeutet es, wenn ein Mensch mit HIV „unter der Nachweisgrenze“ ist?",
+   "answer": "So wenig Virus im Blut, dass er nicht ansteckt",
+   "distractors": [
+    "Das Virus ist vollständig geheilt",
+    "Er hat noch keine Antikörper gebildet",
+    "Der Test war fehlerhaft"
+   ],
+   "aha": "Die Medikamente drücken die Virusmenge so weit runter, dass kein Test sie mehr findet. Geheilt ist man nicht, aber ansteckend eben auch nicht mehr.",
+   "quote_clean": "Unter der Nachweisgrenze heißt, dass die Viruslast, also die Anzahl des Virus im Blut, unter einer gewissen Grenze ist. Und wenn das so ist, kann man das Virus weder durch Sperma noch durch Blut übertragen.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 204-210, korrekt und verständlich.",
+   "stand_note": "",
+   "statement": "HIV ist das Virus, das das Immunsystem schrittweise schädigt; AIDS ist das Stadium, in dem das Immunsystem schwer beschädigt ist.",
+   "question": "Was ist der Unterschied zwischen HIV und AIDS?",
+   "answer": "HIV ist das Virus, AIDS das Spätstadium",
+   "distractors": [
+    "Zwei Namen für dasselbe Virus",
+    "AIDS ist das Virus, HIV die Folge",
+    "HIV befällt Männer, AIDS Frauen"
+   ],
+   "aha": "Das Virus nagt Stück für Stück am Immunsystem. Erst wenn es ordentlich angeschlagen ist, spricht man von AIDS, und mit Therapie kommt es heute meist gar nicht so weit.",
+   "quote_clean": "Das Virus schädigt stetig das Immunsystem. Und wenn das Immunsystem zu einem gewissen Grad beschädigt ist, nennt man das AIDS.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt bei 1574-1597; aha mit erfundenem Bild und derbem Zitat geglättet.",
+   "stand_note": "",
+   "statement": "Wer HIV hat und täglich wirksam Medikamente nimmt, überträgt das Virus auch beim Sex ohne Kondom nicht; die Therapie selbst ist der Schutz.",
+   "question": "Was schützt beim Sex mit einem HIV-positiven Menschen unter wirksamer Therapie vor einer Ansteckung?",
+   "answer": "Seine täglichen Medikamente",
+   "distractors": [
+    "Nur ein Kondom",
+    "Eine Impfung gegen HIV",
+    "Nichts, das Risiko bleibt hoch"
+   ],
+   "aha": "Die Therapie schützt also schon von selbst. Philipp verwendet trotzdem Kondome, weil es noch andere Infektionen gibt, die man sich holen kann.",
+   "quote_clean": "Das bedeutet zum Beispiel auch: Weil ich jeden Tag meine Medikamente nehme, kümmere ich mich ja genauso um den Schutz. Ich kann auch ohne Kondom Sex haben, ohne dass irgendwas übertragen wird.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage mit nur zwei realistischen Sprechern, praktisch erratbar; zudem quote_clean änderte 'gefüllten' in 'vollen'.",
+   "stand_note": "",
+   "statement": "Weil er täglich seine HIV-Medikamente nimmt und seinen Status kennt, sieht sich Philipp Spiegel in einer Bar als den wahrscheinlich sichersten Sexpartner.",
+   "question": "Wer hat's gesagt: „In einer Bar bin ich wahrscheinlich der sicherste Sexpartner, den man haben kann.“?",
+   "answer": "Philipp Spiegel",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Arzt der Aids Hilfe",
+    "Eine Sexualtherapeutin"
+   ],
+   "aha": "Klingt frech, stimmt aber: Er weiß, was er hat, und ist mit einer Pille am Tag unter der Nachweisgrenze.",
+   "quote_clean": "Ich nehme eine Pille am Tag. Und in einem gefüllten Raum, in einer Bar, bin ich wahrscheinlich der sicherste Sexpartner, den man haben kann.",
+   "quality": 2
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1743-1749; Philipp-Meinung, korrekt als solche gefragt.",
+   "stand_note": "",
+   "statement": "Für Philipp Spiegel ist das Schlimmste an Geschlechtskrankheiten die irrationale Angst davor; helfen würden Wissen und regelmäßige Tests.",
+   "question": "Was ist laut Philipp Spiegel das Schlimmste im Umgang mit HIV und anderen Geschlechtskrankheiten?",
+   "answer": "Die irrationale Angst",
+   "distractors": [
+    "Die Nebenwirkungen",
+    "Die Kosten der Therapie",
+    "Die vielen Arzttermine"
+   ],
+   "aha": "Sein Rat: lieber eine rationale Angst, also Wissen. Wenn's juckt, nicht in Panik verfallen, sondern sich bei der Aids Hilfe informieren und testen lassen.",
+   "quote_clean": "Ich glaube, das Schlimmste ist die Angst. Die Angst vor HIV, die Angst vor anderen Geschlechtskrankheiten. Nämlich diese irrationale Angst.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsende ohne Wissenswert, kein Spielwert.",
+   "stand_note": "",
+   "statement": "Andreas fragt Philipp zum Schluss, was er jungen Zuhörer:innen im Umgang mit HIV und Geschlechtskrankheiten mitgeben möchte.",
+   "question": "Mit welcher Frage beendet Andreas das Gespräch über HIV?",
+   "answer": "Was er jungen Leuten mitgeben will",
+   "distractors": [
+    "Ob es bald eine Heilung gibt",
+    "Wie viel die Therapie kostet",
+    "Was er heute anders machen würde"
+   ],
+   "aha": "Philipps Antwort: keine irrationale Angst, sondern Wissen und regelmäßig testen.",
+   "quote_clean": "Meine letzte Frage an dich: Es gibt viele junge Leute, die uns zuhören. Was möchtest du ihnen mitgeben?",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt bei 713-722; Distraktor 'Bohemian Rhapsody' ist wegen Freddie Mercury missverständlich, ersetzt.",
+   "stand_note": "",
+   "statement": "Nach seiner Diagnose dachte Philipp Spiegel als Kind der 80er zuerst an den Film Philadelphia und Freddie Mercury und daran, qualvoll zu sterben.",
+   "question": "An welchen Film musste Philipp Spiegel direkt nach seiner HIV-Diagnose denken?",
+   "answer": "Philadelphia",
+   "distractors": [
+    "Trainspotting",
+    "Forrest Gump",
+    "Dirty Dancing"
+   ],
+   "aha": "Tom Hanks im Spitalsbett, dazu Freddie Mercury: So sah HIV für seine Generation aus. Erst später ist ihm klar geworden, dass das alles gar nicht mehr stimmt.",
+   "quote_clean": "Weil ich ein Kind der Achtziger bin, bedeutete HIV für mich der Film Philadelphia und Freddie Mercury. Und der Gedanke: Jetzt werde ich qualvoll sterben.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Scherz über Haare ist kein Wissensfakt und die Aussage über Wien wirkt als Pauschalurteil; wenig Spielwert.",
+   "stand_note": "",
+   "statement": "Philipp Spiegel erlebt beim Dating wegen HIV vor allem in Wien Absagen, nimmt es aber mit Humor: Es könnte auch an seinem schütteren Haar liegen.",
+   "question": "Woran könnte es laut Philipp Spiegel augenzwinkernd auch liegen, dass er in Wien Absagen bekommt?",
+   "answer": "An seinem schütteren Haar",
+   "distractors": [
+    "An seinem Wiener Dialekt",
+    "An seinem Beruf",
+    "An seinem Alter"
+   ],
+   "aha": "Ablehnen kann man jemanden eh aus hundert Gründen.",
+   "quote_clean": "Natürlich kommen auch da Absagen oder Angst, vor allem in Wien, lustigerweise. Aber das kann auch wegen meinem schütteren Haar sein oder sonst irgendwas.",
+   "quality": 1
+  }
+ ],
+ "id": "124",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

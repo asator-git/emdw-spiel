@@ -1,0 +1,303 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Andreas gibt nur die Aussage eines namentlich nicht genannten Soziologen aus der Erinnerung wieder; nicht belegbar und als Tatsache heikel.",
+   "stand_note": "",
+   "statement": "Laut einem deutschen Soziologen war die Einsamkeit in West- und Mitteleuropa seit rund 200 Jahren nie so gering wie heute.",
+   "question": "Seit wie vielen Jahren war die Einsamkeit in West- und Mitteleuropa laut einem Soziologen nie so gering wie heute?",
+   "answer": "Seit 200 Jahren",
+   "distractors": [
+    "Seit 20 Jahren",
+    "Seit 50 Jahren",
+    "Seit 1000 Jahren"
+   ],
+   "aha": "Klingt verkehrt, wo doch alle von der Einsamkeitsepidemie reden. Aber früher waren viele Menschen in Ehen und Großfamilien gefangen, aus denen sie nicht rauskonnten – zusammen und trotzdem allein.",
+   "quote_clean": "dass die Einsamkeit in Deutschland und wahrscheinlich auch in Österreich und in West- und Mitteleuropa seit 200 Jahren noch nie so gering war wie heute.",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Unbelegte, pauschale Aussage von Andreas ohne Quelle; Teile des aha stehen nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "In den USA und in Großbritannien nimmt die Einsamkeit deutlich zu.",
+   "question": "In welchen beiden Ländern nimmt die Einsamkeit laut Andreas' Recherche stark zu?",
+   "answer": "USA und Großbritannien",
+   "distractors": [
+    "Deutschland und Österreich",
+    "Schweden und Norwegen",
+    "Italien und Spanien"
+   ],
+   "aha": "Im englischsprachigen Raum ist Einsamkeit längst ein Politikthema, Großbritannien hat sogar eigens ein Ministerium dafür zuständig gemacht. Für den deutschsprachigen Raum zeigen die Daten aber ein ganz anderes Bild.",
+   "quote_clean": "Was sehr spannend ist: In den USA und in Großbritannien nimmt Einsamkeit total zu. Das wäre auch mein Gefühl gewesen.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Beiläufige, unbelegte Datenangabe ohne Quelle; Frage nach dem Startjahr einer Umfrage ist uninteressant.",
+   "stand_note": "",
+   "statement": "Für Deutschland gibt es seit 1990 Umfragedaten zur Einsamkeit, und sie zeigen einen Rückgang.",
+   "question": "Seit welchem Jahr gibt es für Deutschland Umfragedaten zur Einsamkeit?",
+   "answer": "Seit 1990",
+   "distractors": [
+    "Seit 1950",
+    "Seit 1970",
+    "Seit 2005"
+   ],
+   "aha": "Und die überraschende Pointe: Seither geht die Einsamkeit in Deutschland zurück, nicht hinauf. Andreas hätte eh auch auf das Gegenteil getippt, Caro genauso.",
+   "quote_clean": "Aber eigentlich ist es total spannend, weil es für Deutschland seit 1990 Daten gibt, und da geht die Einsamkeit eigentlich zurück.",
+   "quality": 1
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Pauschale Aussage von Andreas ohne Quelle, mit Länderklischees (Russland, China) als Tatsache.",
+   "stand_note": "",
+   "statement": "In kollektivistischen Gesellschaften wie Russland oder China gibt es im Schnitt mehr Einsamkeit als in individualistischen.",
+   "question": "Wo ist Einsamkeit im Durchschnitt verbreiteter?",
+   "answer": "In kollektivistischen Gesellschaften",
+   "distractors": [
+    "In individualistischen Gesellschaften",
+    "Überall gleich verbreitet",
+    "Nur in Großstädten Westeuropas"
+   ],
+   "aha": "Großfamilie heißt nicht automatisch Geborgenheit. Wenn eng begrenzt ist, wie du sein darfst, kannst du mitten unter Verwandten ziemlich allein sein.",
+   "quote_clean": "aber eigentlich gibt es in kollektivistischen Gesellschaften im Durchschnitt viel mehr Einsamkeit als in den individualistischen, also in Russland und China, wo du in der Großfamilie lebst,",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt (t=2012), 'total einig' ist Übertreibung; Aussage abgeschwächt, schwammigen Distraktor ersetzt.",
+   "stand_note": "",
+   "statement": "Ob man sich einsam fühlt, hängt laut Psychologie weniger vom Beziehungsstatus ab als davon, ob man echte emotionale Verbindung erlebt.",
+   "question": "Wovon hängt laut Psychologie vor allem ab, ob sich jemand einsam fühlt?",
+   "answer": "Von echter emotionaler Verbindung",
+   "distractors": [
+    "Vom Beziehungsstatus",
+    "Von der Größe der Familie",
+    "Vom Einkommen"
+   ],
+   "aha": "Du kannst verheiratet sein und dich trotzdem einsam fühlen, oder allein leben und ganz und gar nicht. Entscheidend ist, ob du dich wirklich verbunden fühlst.",
+   "quote_clean": "weil sich Psychologinnen einig sind, dass Einsamkeit nichts damit zu tun hat, ob du in einer Beziehung oder in einer Familie bist, sondern ob du dort echte emotionale, menschliche Verbindung wahrnimmst.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext",
+    "fairness"
+   ],
+   "note": "Pauschalisierende Wertung ('für die durchschnittliche Frau ein Gefängnis') aus zweiter Hand eines ungenannten Soziologen, Frage baut darauf auf.",
+   "stand_note": "",
+   "statement": "Obwohl heute mehr Menschen allein leben, war die Ehe für viele Frauen vor zwei Generationen ein Gefängnis voller Einsamkeit.",
+   "question": "Warum hängt der Rückgang der Einsamkeit laut einem Soziologen mit der Emanzipation zusammen?",
+   "answer": "Frauen waren früher oft einsam gebunden",
+   "distractors": [
+    "Frauen haben heute mehr Kinder",
+    "Männer arbeiten heute weniger",
+    "Großfamilien sind heute häufiger"
+   ],
+   "aha": "Mehr Singles heißt nicht mehr Einsamkeit. Wer früher in einer Ehe festsaß, aus der es kein Raus gab, war oft einsamer als jemand, der sich heute aussuchen kann, mit wem er lebt.",
+   "quote_clean": "Und auch wenn es heute vielleicht mehr Menschen gibt, die allein leben oder Single sind als früher, war für eine durchschnittliche Frau eine Beziehung vor zwei Generationen eigentlich auch ein Gefängnis, in dem sie sehr einsam war.",
+   "quality": 1
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Wiedergabe eines namentlich nicht genannten Soziologen aus dem Gedächtnis, nicht belegbar.",
+   "stand_note": "",
+   "statement": "Die Einsamkeit nimmt ab, gleichzeitig wächst aber die Angst der Menschen, einsam zu werden.",
+   "question": "Was nimmt laut einem Soziologen zu, während die Einsamkeit selbst abnimmt?",
+   "answer": "Die Angst, einsam zu werden",
+   "distractors": [
+    "Die Zahl der Eheschließungen",
+    "Die Größe der Familien",
+    "Das Vertrauen in Nachbarn"
+   ],
+   "aha": "Das ist der Nebeneffekt der Freiheit: Beziehungen sind heute nicht mehr fürs ganze Leben fix. Man kann gehen, aber man kann auch verlassen werden.",
+   "quote_clean": "Das hat der Soziologe auch so beschrieben: Einsamkeit nimmt ab, aber gleichzeitig haben die Leute mehr Angst, einsam zu werden.",
+   "quality": 1
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "transkription",
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg stimmt (t=1780-1800); 'David Kelly' ist verhört, gemeint ist Kevin Kelly; Aussage als Konzept gekennzeichnet, aha ohne unbelegte Details.",
+   "stand_note": "",
+   "statement": "Beim Konzept der „1000 True Fans“ reichen laut Caroline Wahl und Andreas 1000 Menschen, die dich lieben und feiern, damit du von deiner kreativen Arbeit leben kannst.",
+   "question": "Wie viele wahre Fans braucht man laut dem bekannten Internet-Konzept „True Fans“, um von seiner kreativen Arbeit leben zu können?",
+   "answer": "1000",
+   "distractors": [
+    "100",
+    "10.000",
+    "100.000"
+   ],
+   "aha": "Die Idee stammt von Kevin Kelly aus dem frühen Internet: Du brauchst kein Millionenpublikum, sondern ein paar Leute, die alles von dir kaufen, ob Merch, Bücher oder Konzertkarten. Der Sprecher nennt das sein Lebensziel und sagt, er habe es erreicht.",
+   "quote_clean": "Das Konzept ist: 1000 True Fans, also dass du durch das Internet eigentlich nur 1000 Leute von dir überzeugen musst, und die müssen dich lieben und feiern.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Beleg stimmt (t=3075-3087); sie nennt auch das Bild vom dunklen Filter, Frage präzisiert.",
+   "stand_note": "",
+   "statement": "Caroline Wahl beschreibt Depression unter anderem wie einen dunklen Filter oder eine Glaskugel, durch die alles gedämpft wahrgenommen wird.",
+   "question": "Welches Bild nutzt Caroline Wahl, neben dem dunklen Filter, um zu beschreiben, wie sich Depression anfühlt?",
+   "answer": "Eine Glaskugel, durch die alles gedämpft ist",
+   "distractors": [
+    "Einen Marathon ohne Ziel",
+    "Einen Sturm auf hoher See",
+    "Ein zu lautes Radio"
+   ],
+   "aha": "Das Schwierige ist laut Caro, dass man es Menschen, die es nie erlebt haben, kaum erklären kann. Als Kind hat sie das beim Schreiben für sich einfach „dunkle Gedanken“ genannt.",
+   "quote_clean": "dass man alles wie durch einen dunklen, düsteren Filter wahrnimmt und nicht richtig genießen kann, weil diese Wolken immer um einen sind. Wie eine Glaskugel, durch die man alles wahrnimmt, sodass alles gedämpft ist",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Wer-sagt-es-Frage war trivial; auf den Inhalt umgestellt (t=442-462). Außenseiter-Behauptung im aha war nicht belegt und ist ersetzt.",
+   "stand_note": "",
+   "statement": "Um zu schreiben, muss man laut Caroline Wahl nicht unbedingt viel erleben, aber offen und neugierig durch die Welt gehen, vor allem offen für Menschen.",
+   "question": "Was braucht man laut Caroline Wahl vor allem zum Schreiben, auch wenn man nicht viel erlebt hat?",
+   "answer": "Offenheit und Neugier auf Menschen",
+   "distractors": [
+    "Ein abgeschlossenes Literaturstudium",
+    "Viele Reisen in ferne Länder",
+    "Einen Vertrag mit einem Verlag"
+   ],
+   "aha": "Caro sagt, sie habe gar nicht so viel erlebt. Die Welten, die sie sich beim Schreiben aufbaut, sagen für sie mehr über sie aus als ein Studium oder ein Lebenslauf.",
+   "quote_clean": "Ich glaube, dass man nicht unbedingt Dinge erleben muss. Ich glaube aber, dass man offen durch die Welt gehen muss, vor allem offen in Bezug auf Menschen,",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage in einer Folge mit einem Gast ist trivial; Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Seine Träume laut auszusprechen ist nie falsch, auch wenn man scheitert.",
+   "question": "Wer sagt im Podcast: „Laut aussprechen ist nie falsch“?",
+   "answer": "Caroline Wahl",
+   "distractors": [
+    "Andreas Sator",
+    "Matze Hielscher",
+    "Jacqueline Scheiber"
+   ],
+   "aha": "Caros Rat an junge Kreative: erzählt, dass ihr schreibt oder Musik macht, auch ohne Erfolg. Gescheitert ist für sie nicht, wer es versucht und nicht schafft.",
+   "quote_clean": "Und wenn du es nicht schaffst, ist es immer noch cool, dass du es probiert hast. Laut aussprechen ist nie falsch.",
+   "quality": 1
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt (t=980-1004); 'Verlagsjob in Zürich' stand nicht im Ausschnitt und ist entfernt; Frage als ihre Erklärung markiert.",
+   "stand_note": "",
+   "statement": "Caroline Wahl erklärt sich den Erfolg von „22 Bahnen“ damit, dass das Buch den Leser:innen Hoffnung und Lust aufs Leben gibt.",
+   "question": "Wie erklärt sich Caroline Wahl den Erfolg von „22 Bahnen“?",
+   "answer": "Das Buch gibt Hoffnung und Lust aufs Leben",
+   "distractors": [
+    "Durch eine große Werbekampagne",
+    "Durch eine frühe Verfilmung",
+    "Durch einen Literaturpreis"
+   ],
+   "aha": "Sie hat den Roman abends und am Wochenende geschrieben, als es ihr gar nicht gut ging. Die Welt der beiden Schwestern Tilda und Ida war für sie ein Schutzraum.",
+   "quote_clean": "Die Geschichte gibt den Leserinnen das, was sie mir auch gegeben hat: Hoffnung, Bock aufs Leben, dass es immer wieder aufwärts geht",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Beleg stimmt (t=3737-3793); Antwort präzisiert (WhatsApp-Backup statt 'gar nicht'), 'hörbar entsetzt' ist nicht belegt.",
+   "stand_note": "Stand 2025",
+   "statement": "Caroline Wahl schreibt ihre Romane in einem einzigen Dokument auf dem Laptop, ohne Cloud; als Sicherung schickt sie aktuelle Seiten an Mutter oder Schwester.",
+   "question": "Wie sichert Caroline Wahl das eine Dokument, in dem sie ihre Romane schreibt, am ehesten ab?",
+   "answer": "Sie schickt aktuelle Seiten per WhatsApp an Mutter oder Schwester",
+   "distractors": [
+    "Täglich auf einem USB-Stick",
+    "In drei verschiedenen Clouds",
+    "Als Ausdruck im Tresor"
+   ],
+   "aha": "Eine Cloud nutzt sie nicht, auch wenn man ihr das schon öfter geraten hat. Ihr Notfallplan: Die Seiten liegen im WhatsApp-Chat mit Mama oder Schwester, also ließe sich alles irgendwie rekonstruieren.",
+   "quote_clean": "Das ist nur dieses Dokument. Und das ist auf einer Cloud, hoffentlich? Nee, es ist nicht auf einer Cloud.",
+   "quality": 4
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Moderationsfrage als Spielfrage ungeeignet; auf Caroline Wahls Antwort umgestellt (t=5041-5057), nicht belegte Details (Die Zeit, Hotel) entfernt.",
+   "stand_note": "Stand 2025",
+   "statement": "Auf Andreas' Schlussfrage nach einem Medium nennt Caroline Wahl das Morgenmagazin auf ARD und ZDF als das, was sie am liebsten mag.",
+   "question": "Welches Medium mag Caroline Wahl laut eigener Aussage am liebsten, um sich über die Welt zu informieren?",
+   "answer": "Das Morgenmagazin auf ARD und ZDF",
+   "distractors": [
+    "Eine Tageszeitung am Frühstückstisch",
+    "Das Radio im Auto",
+    "Einen Nachrichten-Newsletter"
+   ],
+   "aha": "Lineares Fernsehen hatte sie früher gar nicht, erst seit sie in Kiel einen Fernseher hat, läuft bei ihr auch die Tagesschau. Sonst informiert sie sich vor allem über das Smartphone.",
+   "quote_clean": "Ich glaube, was ich am liebsten mag, sind Nachrichten und MoMa, das Morgenmagazin auf ARD und ZDF. Gucke ich gerne, um einfach zu wissen, was gerade abgeht.",
+   "quality": 2
+  }
+ ],
+ "id": "349",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

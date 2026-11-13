@@ -1,0 +1,282 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=683 stimmt; als Schätzung vom März 2020 klar gerahmt.",
+   "stand_note": "Stand 2020",
+   "statement": "Ohne Gegenmaßnahmen rechnete man im März 2020 damit, dass sich 30 bis 70 Prozent der Bevölkerung mit dem neuen Coronavirus infizieren.",
+   "question": "Welcher Anteil der Bevölkerung würde sich laut den Schätzungen vom März 2020 ohne Maßnahmen mit dem Coronavirus anstecken?",
+   "answer": "30 bis 70 Prozent",
+   "distractors": [
+    "5 bis 10 Prozent",
+    "10 bis 20 Prozent",
+    "90 bis 100 Prozent"
+   ],
+   "aha": "Gegen ein ganz neues Virus ist niemand immun, also bremst am Anfang nichts die Ausbreitung. Für Österreich hätte das drei bis sechs Millionen Infizierte bedeutet, genau deshalb hat man auf die Stopptaste gedrückt.",
+   "quote_clean": "Es wäre anzunehmen, dass zwischen 30 und 70 Prozent der Bevölkerung infiziert werden, wenn man das unkontrolliert weitergehen lässt.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=862 stimmt; Zahl als frühe Daten gerahmt.",
+   "stand_note": "Stand 2020",
+   "statement": "Nach den frühen Daten von 2020 verliefen etwa 80 Prozent der Covid-19-Erkrankungen mild.",
+   "question": "Wie viel Prozent der Covid-19-Fälle verliefen laut den frühen Daten von 2020 mild?",
+   "answer": "Etwa 80 Prozent",
+   "distractors": [
+    "Etwa 50 Prozent",
+    "Etwa 65 Prozent",
+    "Etwa 95 Prozent"
+   ],
+   "aha": "Die restlichen 20 Prozent sind schwer, müssen ins Spital und brauchen oft Sauerstoff. Auf der Intensivstation landet davon aber nur ein Teil, schwer heißt also nicht automatisch Beatmung.",
+   "quote_clean": "Etwa 80 Prozent der Fälle sind mild und etwa 20 Prozent der Fälle sind schwer.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=900 und Kontext (842-914) stimmen; Zahl als China-Daten 2020 gerahmt.",
+   "stand_note": "Stand 2020",
+   "statement": "In China brauchten zu Beginn der Pandemie ungefähr fünf Prozent der Covid-19-Patient:innen intensivmedizinische Behandlung.",
+   "question": "Wie viel Prozent der Covid-19-Patient:innen brauchten laut den Daten aus China Anfang 2020 die Intensivstation?",
+   "answer": "Ungefähr 5 Prozent",
+   "distractors": [
+    "Ungefähr 1 Prozent",
+    "Ungefähr 15 Prozent",
+    "Ungefähr 25 Prozent"
+   ],
+   "aha": "Fünf Prozent klingt wenig, bis man es hochrechnet: Bei vier Millionen Infizierten wären das rund 200.000 Intensivpatient:innen. Österreich hatte damals ein, zwei Tausend Intensivbetten.",
+   "quote_clean": "Das hat sich in China gezeigt, dass das ungefähr fünf Prozent sind. In Korea ist die Zahl ein wenig geringer.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=800 stimmt, vier humane Coronaviren sind korrekt.",
+   "stand_note": "",
+   "statement": "Schon vor SARS-CoV-2 zirkulierten vier Coronaviren unter Menschen, die nur grippale Infekte auslösen.",
+   "question": "Wie viele andere Coronaviren, die nur harmlose Erkältungen auslösen, zirkulieren schon länger unter Menschen?",
+   "answer": "Vier",
+   "distractors": [
+    "Eines",
+    "Zwei",
+    "Zwölf"
+   ],
+   "aha": "Coronavirus heißt also nicht automatisch Pandemie, ein Teil deiner Schnupfen geht eh auf ihr Konto. Diese vier sind auch saisonal: viel im Herbst, Winter und Frühjahr, wenig im Sommer.",
+   "quote_clean": "Wir haben vier andere Coronaviren in Menschen, die nur grippale Infekte auslösen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=1502 stimmt (ein bis zwei, möglicherweise drei Tage, Studie); Schmierinfektion gilt heute als weniger wichtig.",
+   "stand_note": "Stand 2020",
+   "statement": "Bei niedrigen Temperaturen kann das Coronavirus auf Oberflächen bis zu drei Tage ansteckend bleiben.",
+   "question": "Wie lange kann das Coronavirus bei niedrigen Temperaturen auf Oberflächen ansteckend bleiben?",
+   "answer": "Bis zu drei Tage",
+   "distractors": [
+    "Höchstens zehn Minuten",
+    "Etwa eine Stunde",
+    "Mehrere Monate"
+   ],
+   "aha": "Entscheidend ist, wie viel Virus überhaupt auf der Haltestange oder dem Geldschein gelandet ist. Ein paar Partikel sind nach Stunden weg, Hunderttausende halten entsprechend länger durch.",
+   "quote_clean": "Bei niedrigen Temperaturen kann es schon sein, dass das Virus für ein bis zwei, möglicherweise drei Tage auf den Oberflächen nach wie vor infektiös ist.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Krammer spekuliert ausdrücklich nur über einen Sommereffekt; als Faktenfrage mit eindeutiger Antwort irreführend, und der Sommer bremste die Ausbreitung nicht.",
+   "stand_note": "",
+   "statement": "Auf Oberflächen überlebt das Coronavirus bei Kälte viel länger als bei Wärme; bei 30 Grad nur sehr kurz.",
+   "question": "Warum könnte der Sommer die Ausbreitung von Coronaviren etwas bremsen?",
+   "answer": "Auf warmen Oberflächen stirbt das Virus schneller",
+   "distractors": [
+    "Viren werden durch UV-Licht im Körper zerstört",
+    "Menschen niesen im Sommer seltener",
+    "Das Virus mutiert bei Hitze zu harmlosen Formen"
+   ],
+   "aha": "Die direkte Ansteckung von Mensch zu Mensch ändert sich im Sommer nicht unbedingt. Aber der Umweg über Türklinken und Handys funktioniert bei Hitze schlechter, weil das Virus dort nur sehr kurz überlebt.",
+   "quote_clean": "Wenn es kalt ist, überlebt das Virus viel länger, als wenn es warm ist. Wenn es draußen 30 Grad hat, überlebt das Virus auf einer Oberfläche nur sehr kurze Zeit.",
+   "quality": 2
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Beleg bei t=1573-1585 stimmt (30.000 Basen, RNA); Schieberegler enger gesetzt, Aha sauberer formuliert.",
+   "stand_note": "",
+   "statement": "Das Erbgut des Coronavirus ist etwa 30.000 Basen lang und steckt in einer Fetthülle mit Proteinen.",
+   "question": "Wie groß ist das Erbgut des Coronavirus ungefähr, gemessen in Basen?",
+   "answer": "Etwa 30.000",
+   "distractors": [
+    "Etwa 300",
+    "Etwa 3.000",
+    "Etwa 3 Millionen"
+   ],
+   "aha": "Das Coronavirus trägt RNA statt DNA, und 30.000 Bausteine sind für ein RNA-Virus sogar ziemlich viel. Dein eigenes Erbgut ist rund 100.000-mal größer.",
+   "quote_clean": "Im Fall von Coronavirus ist das eine Fetthülle mit verschiedenen Proteinen drinnen und in der Hülle befindet sich ein Genom. Das ist 30.000 Basenpaare groß.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=1593-1604 stimmt; Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Anders als Bakterien können sich Viren nicht selbst vermehren, sie brauchen dafür eine Wirtszelle.",
+   "question": "Was unterscheidet Viren grundlegend von Bakterien?",
+   "answer": "Viren vermehren sich nur in Wirtszellen",
+   "distractors": [
+    "Viren sind immer größer als Bakterien",
+    "Viren haben überhaupt kein Erbgut",
+    "Viren vermehren sich nur im Wasser"
+   ],
+   "aha": "Ein Virus ist im Grunde nur ein Stück Erbgut in einer Hülle. Es dockt an deine Zellen an, schleust sein Genom ein und lässt die Zelle Tausende Kopien bauen, bis das Immunsystem dazwischenfährt.",
+   "quote_clean": "Das Virus selbst kann sich nicht vermehren. Das ist nicht wie bei Bakterien, die sich, wenn man ihnen Nährstoffe gibt, selbst vermehren können. Es muss in eine Wirtszelle eindringen, um sich selbst vermehren zu können.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Schnupfen ist heute ein häufiges Covid-Symptom; die Frage samt Aha (Covid ähnelt eher Influenza) wäre heute irreführend.",
+   "stand_note": "",
+   "statement": "Typische Symptome der frühen Covid-19-Fälle waren Fieber, trockener Husten, Kurzatmigkeit und Müdigkeit, Schnupfen dagegen kaum.",
+   "question": "Welches Symptom war bei Covid-19 laut Florian Krammer im März 2020 normalerweise NICHT dabei?",
+   "answer": "Schnupfen",
+   "distractors": [
+    "Fieber",
+    "Trockener Husten",
+    "Müdigkeit"
+   ],
+   "aha": "Damit ähnelte Covid eher einer echten Influenza als einem grippalen Infekt. Kopfweh, Durchfall und Gliederschmerzen kamen vor, waren aber seltener.",
+   "quote_clean": "Was man normalerweise nicht sieht, ist Schnupfen oder Niesen. Das kommt im Normalfall nicht vor.",
+   "quality": 2
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg bei t=2952 stimmt; Frage als möglichen Weg laut Krammer gerahmt, Aha vorsichtiger formuliert.",
+   "stand_note": "",
+   "statement": "In offenen Markthallen mit lebenden Tieren können Fledermäuse unterm Dach nisten und Viren über ihren Kot auf andere Tiere übertragen.",
+   "question": "Welchen möglichen Weg nennt Florian Krammer, auf dem Fledermausviren in offenen Markthallen auf andere Tiere gelangen können?",
+   "answer": "Über Fledermauskot, der auf Tiere fällt",
+   "distractors": [
+    "Weil Fledermäuse dort verkauft und gegessen werden",
+    "Über Mückenstiche zwischen den Käfigen",
+    "Über verunreinigtes Trinkwasser der Händler"
+   ],
+   "aha": "Die Geschichte vom gegrillten Fledermaus-Snack hält Florian für einen Mythos, denn Fledermäuse zu essen ist seiner Einschätzung nach in China nicht sehr verbreitet. Plausibler ist der unappetitliche Weg von oben.",
+   "quote_clean": "Da können Fledermäuse reinfliegen und unterm Dach nisten, und wenn dann Kot runterfällt und auf andere Tiere fällt, kann es zu einer Übertragung kommen.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Wer-sagt-es-Frage mit nur einem Gast ist trivial; Aussage zur Laborfrage heute heikel.",
+   "stand_note": "",
+   "statement": "Florian Krammer hält die Natur für die größte Quelle gefährlicher Viren, nicht Labore.",
+   "question": "Wer sagt im Podcast: „Mutter Natur ist der größte Bioterrorist, den wir kennen“?",
+   "answer": "Florian Krammer",
+   "distractors": [
+    "Andreas Sator",
+    "Sebastian Kurz",
+    "Ein Sprecher der WHO"
+   ],
+   "aha": "Ein Virus wie dieses im Labor zu bauen, würde laut Florian wohl Jahre dauern, Biologie ist nämlich sehr schwierig. Influenza, Corona und Co. kommen alle aus Tieren.",
+   "quote_clean": "Die Wahrheit ist, dass Mutter Natur wirklich der größte Bioterrorist ist, den wir kennen.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage trivial (Gast ist der Einzige, der das sagen kann); Distraktor Sebastian Kurz unpassend.",
+   "stand_note": "",
+   "statement": "In ostasiatischen Ländern mit Erfahrung mit SARS und MERS tragen Menschen bei einem neuen Virus von sich aus Masken und halten Abstand.",
+   "question": "Wer sagt über Ostasien: „Social Distancing muss man der Bevölkerung dort nicht beibringen“?",
+   "answer": "Florian Krammer",
+   "distractors": [
+    "Andreas Sator",
+    "Sebastian Kurz",
+    "Ein koreanischer Gesundheitsminister"
+   ],
+   "aha": "Korea, Taiwan und Singapur hatten schon SARS und MERS hinter sich und entsprechend viel Übung. Dazu kommt viel Vertrauen in die Gesundheitsministerien, was das Testen und Isolieren leichter macht.",
+   "quote_clean": "Wenn die Leute hören, da ist ein Virus unterwegs, dann tragen sie Masken. Social Distancing ist etwas, das dort in so einem Fall einfach gemacht wird. Das muss man der Bevölkerung nicht beibringen.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Beleg bei t=4511 stimmt; im Aha stand sinngemäß nicht belegtes (Europa, Masken schützen nur andere) und wurde an den Wortlaut angepasst.",
+   "stand_note": "",
+   "statement": "Andreas gibt zu, dass er sich früher über Tourist:innen mit Mundschutz lustig gemacht hat, und versteht nun, dass sie das aus Verantwortung tun.",
+   "question": "Worüber hat sich Andreas laut eigener Aussage früher ein bisschen lustig gemacht?",
+   "answer": "Über Tourist:innen mit Mundschutz",
+   "distractors": [
+    "Über Leute, die Klopapier horten",
+    "Über Menschen mit Desinfektionsmittel",
+    "Über Videotelefonate mit den Eltern"
+   ],
+   "aha": "Andreas hat am Ende der Folge verstanden: Wer Mundschutz trägt, will die anderen nicht anstecken, das ist Verantwortung und keine Panik. Da müssen wir, sagt er, noch viel lernen.",
+   "quote_clean": "Ich zum Beispiel habe mich immer ein bisschen über die Touristen lustig gemacht, die mit Mundschutz herumliefen. Jetzt habe ich endlich gecheckt, die machen das aus Verantwortung für die Gesellschaft, nicht aus Panik.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Beleg bei t=318-322 stimmt; Aha enthielt 'Monate', das im Ausschnitt nicht steht, und wurde an Krammers Antwort angepasst.",
+   "stand_note": "",
+   "statement": "Die Hörer:innenfrage, die Andreas am häufigsten bekommen hatte, lautete: Wann ist dieser Spuk wieder vorbei?",
+   "question": "Welche Frage haben Andreas im März 2020 die meisten Hörer:innen geschickt?",
+   "answer": "Wann ist dieser Spuk wieder vorbei?",
+   "distractors": [
+    "Wo kann ich mich testen lassen?",
+    "Hilft Ingwertee gegen das Virus?",
+    "Darf ich noch ins Fitnessstudio?"
+   ],
+   "aha": "Andreas saß da schon seit ein paar Tagen daheim eingesperrt am Schreibtisch. Florians Antwort war ehrlich und unbequem: schwer zu sagen, und es kann dauern.",
+   "quote_clean": "Ich fange jetzt aber mit der an, die mir die meisten Leute geschickt haben: Wann ist dieser Spuk wieder vorbei?",
+   "quality": 2
+  }
+ ],
+ "id": "101",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

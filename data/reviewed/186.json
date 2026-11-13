@@ -1,0 +1,286 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "18 Geschmacksnoten ist eine Aussage des Kochs und korrekt zitiert; die Aufzählung 'süß, sauer, salzig, Umami' im aha war nicht belegt und wurde ersetzt.",
+   "stand_note": "",
+   "statement": "Laut Paul Ivic kann eine Tomate bis zu 18 verschiedene Geschmacksnoten haben, weshalb sie sich gut kombinieren lässt.",
+   "question": "Bis zu wie viele verschiedene Geschmacksnoten steckt laut Sternekoch Paul Ivic in einer Tomate?",
+   "answer": "Bis zu 18",
+   "distractors": [
+    "Bis zu 5",
+    "Bis zu 9",
+    "Bis zu 40"
+   ],
+   "aha": "Darum lässt sich die Tomate so vielseitig kombinieren, sagt Paul: in der Marillenzeit mit Marillen, aber auch klassisch mit Mozzarella. Und wer in einem Rezept einfach die Tomatensorte tauscht, hat gleich ein völlig neues Geschmackserlebnis.",
+   "quote_clean": "Das Schöne an einer Tomate ist, die hat eigentlich bis zu 18 verschiedene Geschmacksnoten. Also ist sie auch sehr gut zum Kombinieren.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt; die Distraktoren 'Über 3' und 'Über 10' wären bei über 30 Sorten ebenfalls wahr, daher durch eindeutig zu niedrige Angaben ersetzt.",
+   "stand_note": "",
+   "statement": "Von Karotten gibt es über 30 Sorten, die meisten davon sind wenig bekannt.",
+   "question": "Wie viele Karottensorten gibt es laut Paul Ivic?",
+   "answer": "Über 30",
+   "distractors": [
+    "Knapp 5",
+    "Ein gutes Dutzend",
+    "Knapp 20"
+   ],
+   "aha": "Im Supermarkt sieht man meist nur die eine orange Karotte. Dabei gibt es laut Paul über 30 Sorten, die leider kaum bekannt sind. Sein Tipp: neugierig sein und nach anderen Sorten fragen.",
+   "quote_clean": "Auch von Karotten gibt es über 30 Sorten, die leider nicht so bekannt sind.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext",
+    "fairness"
+   ],
+   "note": "Ungesicherte, polemisch eingebettete Behauptung ohne Quelle und ohne Österreich-Bezug im Ausschnitt; als Tatsache im Spiel nicht haltbar.",
+   "stand_note": "",
+   "statement": "Über 90 Prozent des in Österreich gegessenen Fleisches stammen aus Massentierhaltung.",
+   "question": "Wie viel Prozent unseres Fleischkonsums stammen laut Paul Ivic aus Massentierhaltung?",
+   "answer": "Über 90 Prozent",
+   "distractors": [
+    "Rund 30 Prozent",
+    "Rund 50 Prozent",
+    "Rund 70 Prozent"
+   ],
+   "aha": "Die Bilder von der Alm auf der Verpackung täuschen: Der allergrößte Teil kommt aus intensiver Haltung. Für Paul ist das ein Grund, warum Fleisch oft gar nicht so nach viel schmeckt.",
+   "quote_clean": "Über 90 Prozent unseres Fleischkonsums kommt aus der Massentierhaltung.",
+   "quality": 1
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Der Gast zweifelt die 60 kg gerade an und nennt sie nicht als Fakt; Österreich-Bezug steht nicht im Ausschnitt, das aha enthält Zusätze, die nicht belegt sind.",
+   "stand_note": "",
+   "statement": "Der durchschnittliche Fleischkonsum in Österreich liegt bei rund 60 Kilogramm pro Person und Jahr.",
+   "question": "Wie viele Kilo Fleisch isst eine Person in Österreich im Durchschnitt pro Jahr?",
+   "answer": "Rund 60 Kilogramm",
+   "distractors": [
+    "Rund 15 Kilogramm",
+    "Rund 30 Kilogramm",
+    "Rund 120 Kilogramm"
+   ],
+   "aha": "Das sind über ein Kilo pro Woche, und da sind Vegetarier:innen und Veganer:innen schon mitgerechnet. Paul wundert sich deshalb, wie viel manche dann tatsächlich essen.",
+   "quote_clean": "Ich weiß auch nicht, wie man auf den Durchschnittskonsum von 60 Kilogramm Fleisch kommt.",
+   "quality": 1
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Der Gast spricht allgemein von Knödeln, nicht speziell von Semmelknödeln; Frage entsprechend angepasst.",
+   "stand_note": "",
+   "statement": "Knödel sind laut Paul Ivic entstanden, weil man hartes Brot nicht wegwerfen, sondern verwerten wollte.",
+   "question": "Warum sind Knödel laut Paul Ivic entstanden?",
+   "answer": "Um hartes Brot zu verwerten",
+   "distractors": [
+    "Als Fastenspeise im Kloster",
+    "Als Proviant für Soldaten",
+    "Um Fleisch zu strecken"
+   ],
+   "aha": "Früher war Brot zu wertvoll zum Wegwerfen, also wurde aus hartem Brot noch etwas gemacht: der Knödel. Paul ist über jeden Knödel dankbar, es ist eine seiner Leibspeisen.",
+   "quote_clean": "Schau dir heute das Brot an. Die Knödel sind nur dadurch entstanden, weil man das Brot wertgeschätzt und nicht weggeschmissen hat. Also hat man aus hartem Brot noch versucht, etwas zu machen.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Natürliches Glutamat in Tomaten und starker Umami-Geschmack beim Einkochen belegt (Transkript 'Glutomatt' ist eindeutig Glutamat).",
+   "stand_note": "",
+   "statement": "Tomaten enthalten natürliches Glutamat; eingekocht ergeben sie einen sehr starken Umami-Geschmack.",
+   "question": "Welcher Stoff in Tomaten sorgt für den Umami-Geschmack, besonders wenn man sie einkocht?",
+   "answer": "Natürliches Glutamat",
+   "distractors": [
+    "Lycopin",
+    "Fruchtsäure",
+    "Vitamin C"
+   ],
+   "aha": "Glutamat kennt man als Zusatzstoff, aber Tomaten haben es von Natur aus. Beim Einkochen wird der Umami-Geschmack besonders stark, darum schmeckt ein lang gekochtes Sugo so kräftig.",
+   "quote_clean": "Man kriegt ihn auch mit Tomaten hin. Tomaten enthalten natürliches Glutamat. Und wenn man Tomaten einkocht, kriegt man einen sehr starken Umami-Geschmack.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Belegt; Frage präziser formuliert (statt 'ersetzt', das Paul ablehnt) und missglückte Formulierung im aha korrigiert.",
+   "stand_note": "",
+   "statement": "Ein Sugo schmeckt so intensiv, weil Fleisch, Tomaten und Parmesan alle viel Umami enthalten; vegetarisch erreicht man das mit Pilzen, Paradeisern und Parmesan.",
+   "question": "Welche Zutat nennt Paul Ivic statt Fleisch für eine vegetarische Sugo-Umami-Bombe?",
+   "answer": "Pilze",
+   "distractors": [
+    "Linsen",
+    "Tofu",
+    "Melanzani"
+   ],
+   "aha": "Beim klassischen Sugo bringen Fleisch, Tomaten und Parmesan gleich dreimal Umami. Lässt du das Fleisch weg und nimmst Pilze, hast du mit Paradeisern und Parmesan trotzdem eine echte Umami-Bombe.",
+   "quote_clean": "Sugo ist einfach ein brutaler Umami-Geschmack. Fleisch wird angebraten, es kommen Tomaten dazu und es kommt Parmesan dazu. Also drei Produkte, die sehr Umami-haltig sind.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Pilze als erste Antwort auf die Umami-Frage im Ausschnitt eindeutig belegt.",
+   "stand_note": "",
+   "statement": "Pilze liefern Umami, besonders wenn man sie anbrät oder einreduziert.",
+   "question": "Welches Gemüse nennt Paul Ivic zuerst, wenn es darum geht, Umami-Geschmack ohne Fleisch hinzukriegen?",
+   "answer": "Pilze",
+   "distractors": [
+    "Karotten",
+    "Gurken",
+    "Zucchini"
+   ],
+   "aha": "Umami ist der fünfte Grundgeschmack, dieses runde, fleischige Etwas. Pilze haben davon viel, und durchs Anbraten oder Einkochen wird er noch intensiver.",
+   "quote_clean": "Umami kriegt man mit Pilzen hin, wenn man sie anbrät oder reduzieren lässt.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "'Bithinsäure' ist klar Phytinsäure; Einweichen/Wasser wegschütten und Mineralstoffgewinn im Ausschnitt belegt.",
+   "stand_note": "",
+   "statement": "Getreide sollte man einweichen und das Wasser wegschütten, damit die Phytinsäure abgebaut wird und der Körper mehr Mineralstoffe aufnehmen kann.",
+   "question": "Welcher Stoff im Getreide wird laut Paul Ivic durch Einweichen abgebaut?",
+   "answer": "Phytinsäure",
+   "distractors": [
+    "Zitronensäure",
+    "Milchsäure",
+    "Ascorbinsäure"
+   ],
+   "aha": "Phytinsäure bindet Mineralstoffe wie Eisen und Zink, sodass der Körper sie schlechter aufnimmt. Weicht man Getreide ein und schüttet das Wasser weg, kommt man an mehr Mineralstoffe ran.",
+   "quote_clean": "Bei Getreide gilt auch immer, dass man es einweichen soll. Man muss dann das Wasser weggeben, damit Stoffe wie die Phytinsäure abgebaut werden.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Erklärung des Gastes belegt; die Pointe mit dem Salat aus dem eigenen Garten im aha ist erfunden und wurde ersetzt.",
+   "stand_note": "",
+   "statement": "Monokulturen und der Einsatz von Herbiziden und Pestiziden laugen Böden aus, sodass Gemüse weniger Nährstoffe und Geschmack hat.",
+   "question": "Warum schmeckt Gemüse laut Paul Ivic oft weniger intensiv als früher?",
+   "answer": "Weil die Böden ausgelaugt sind",
+   "distractors": [
+    "Weil es zu früh gekühlt wird",
+    "Weil es zu viel gegossen wird",
+    "Weil es im Glashaus wächst"
+   ],
+   "aha": "Ein ausgelaugter Boden gibt weder Nährstoffe noch Geschmack her, sagt Paul. Darum schaut er beim Einkauf genau, wer dahintersteht und wo der Boden gesund ist, denn dort schmeckt es am besten.",
+   "quote_clean": "Das ist ein bisschen verloren gegangen durch die Monokulturen; durch den Einsatz von Herbiziden und Pestiziden werden die Böden ausgelaugt.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitat belegt; die Wer-hat's-gesagt-Frage war erratbar, deshalb auf den Inhalt umgestellt.",
+   "stand_note": "",
+   "statement": "Paul Ivic sieht Gemüse nie als Beilage, sondern immer als Protagonisten auf dem Teller.",
+   "question": "Welche Rolle spielt ein Lebensmittel laut Paul Ivic immer?",
+   "answer": "Die des Protagonisten",
+   "distractors": [
+    "Die der Beilage",
+    "Die des Statisten",
+    "Die der Dekoration"
+   ],
+   "aha": "„Davon wird man nicht satt“ nennt Paul ein fadenscheiniges Argument. Bei ihm spielt das Gemüse die Hauptrolle, nicht das Schnitzel daneben.",
+   "quote_clean": "Ich sehe Gemüse nie als Beilage, sondern als Hauptzutat. Wir sprechen da von Lebensmitteln. Und ein Lebensmittel ist nie eine Beilage, sondern immer der Protagonist.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Zitat belegt; Wer-hat's-gesagt-Frage durch Inhaltsfrage ersetzt, unbelegte Aussage ('enttäuscht') im aha entfernt.",
+   "stand_note": "",
+   "statement": "Paul Ivic ersetzt in der veganen Küche keine tierischen Produkte, sondern sucht neue Wege.",
+   "question": "Was versucht Paul Ivic laut eigener Aussage nie?",
+   "answer": "Etwas zu ersetzen",
+   "distractors": [
+    "Neue Wege zu gehen",
+    "Rezepte abzuwandeln",
+    "Gewürze zu verwenden"
+   ],
+   "aha": "Auf die Hörerinnenfrage nach einem Ersatz für Sauerrahm oder Creme Fraîche antwortet Paul mit seiner Haltung: nicht ersetzen, sondern neue Wege gehen. Am Anfang sei das anspruchsvoller, aber man lerne, Neues zu entdecken.",
+   "quote_clean": "Ich versuche nie, etwas zu ersetzen. Ich versuche immer, neue Wege zu gehen.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "'Am Ende jeder Folge' ist aus einer Folge verallgemeinert; auf diese Folge begrenzt. Als Spielfrage schwach.",
+   "stand_note": "",
+   "statement": "Andreas leitet am Ende dieser Folge seine Zusammenfassung mit der Frage „Was nehme ich mir mit?“ ein.",
+   "question": "Mit welcher Frage leitet Andreas am Ende dieser Folge seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was hat mich überrascht?",
+    "Was bleibt hängen?",
+    "Was lernen wir daraus?"
+   ],
+   "aha": "Nach dem Gespräch zieht Andreas Bilanz. Diesmal: Umami-Bomben aus Pilzen, Paradeisern und Parmesan und Tomaten mit Marillen im Salat.",
+   "quote_clean": "Danke für deine Zeit, Paul. Vielen Dank. Was nehme ich mir mit?",
+   "quality": 2
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, harmlos und sympathisch; Küche 'sehr klein' ebenfalls im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Paul Ivic kündigt zuhause oft an, in zehn Minuten fertig zu sein, und braucht dann eine Dreiviertelstunde.",
+   "question": "Paul Ivic sagt zuhause, das Essen ist in zehn Minuten fertig. Wie lange braucht er laut eigener Aussage tatsächlich oft?",
+   "answer": "Eine halbe bis Dreiviertelstunde",
+   "distractors": [
+    "Genau zehn Minuten",
+    "Fünf Minuten",
+    "Zwei Stunden"
+   ],
+   "aha": "Wenn er beim Kochen etwas entdeckt, rattert sein Kopf und er macht noch was dazu. Seine Frau kennt das schon, und das in einer winzigen Küche.",
+   "quote_clean": "Ich sage immer, dass in zehn Minuten etwas auf dem Tisch ist. Meine Frau lacht immer, weil ich dann eine halbe Stunde, eine Dreiviertelstunde drin bin.",
+   "quality": 3
+  }
+ ],
+ "id": "186",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

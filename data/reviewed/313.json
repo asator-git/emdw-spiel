@@ -1,0 +1,300 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "110.000 Kinder steht so im Transkript (Malcolm zeigt die Meldung am Bildschirm); der Aha-Text enthielt unbelegte Zusätze (Verbieten statt Üben) und wurde auf Belegtes gekürzt.",
+   "stand_note": "Stand 2024",
+   "statement": "Laut Malcolm Werchota hat die Stadt Oslo für rund 110.000 Kinder und Jugendliche ChatGPT-Lizenzen gekauft.",
+   "question": "Für wie viele Kinder und Jugendliche hat die Stadt Oslo laut Malcolm Werchota ChatGPT-Lizenzen gekauft?",
+   "answer": "110.000",
+   "distractors": [
+    "11.000",
+    "40.000",
+    "300.000"
+   ],
+   "aha": "Dabei geht es nicht um Unistudenten: In Oslo lernen schon Sechs- bis Sechzehnjährige mit ChatGPT. Malcolm glaubt, dass man den Effekt auf die Lernleistung nicht erst in fünf Jahren sieht, sondern schon in eineinhalb bis zwei.",
+   "quote_clean": "Die Stadt Oslo hat für 110.000 Kinder eine ChatGPT-Lizenz gekauft. Crazy. Und wir reden nicht von Unistudenten.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Andreas nennt die Zahl aus dem Kopf als Vorgriff auf einen kommenden Gast; unklar, ob „800 Prozent“ als Faktor oder Zuwachs gemeint ist, und ohne Quelle nicht verlässlich.",
+   "stand_note": "",
+   "statement": "Seit 1950 ist die Arbeitsproduktivität pro Stunde in Deutschland um rund 800 Prozent gestiegen, und trotzdem gibt es so viele Jobs wie nie.",
+   "question": "Um wie viel Prozent ist die Arbeitsproduktivität pro Stunde in Deutschland seit 1950 gestiegen?",
+   "answer": "Um rund 800 Prozent",
+   "distractors": [
+    "Um rund 80 Prozent",
+    "Um rund 250 Prozent",
+    "Um rund 3000 Prozent"
+   ],
+   "aha": "Wenn eine Stunde Arbeit neunmal so viel schafft, müssten eigentlich die Jobs ausgehen. Tun sie aber nicht: Mehr Produktivität heißt mehr Wohlstand, mehr Nachfrage und neue Berufe. Genau deshalb ist das Argument „KI frisst alle Jobs“ nicht so einfach.",
+   "quote_clean": "Seit 1950 hat sich die Arbeitsproduktivität, also das, was ein Mensch in Deutschland pro Stunde leistet, um 800 Prozent erhöht. Und es hat noch nie so viele Jobs in Deutschland gegeben.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "transkription",
+    "kontext"
+   ],
+   "note": "Andreas schränkt selbst ein („glaube ich“); Bevölkerungs- und Jobzahlen sind je nach Bezugsraum (West/Gesamtdeutschland) nicht eindeutig, daher nicht belastbar.",
+   "stand_note": "",
+   "statement": "Seit 1950 ist in Deutschland die Bevölkerung um etwa 15 Prozent gewachsen, die Zahl der Jobs aber um über 40 Prozent.",
+   "question": "Um wie viel Prozent ist die Zahl der Jobs in Deutschland seit 1950 ungefähr gewachsen?",
+   "answer": "Um über 40 Prozent",
+   "distractors": [
+    "Um rund 5 Prozent",
+    "Um rund 15 Prozent",
+    "Um rund 150 Prozent"
+   ],
+   "aha": "Die Jobs sind fast dreimal so stark gewachsen wie die Bevölkerung, obwohl Maschinen und Computer immer mehr Arbeit übernommen haben. Die Leute sind halt von den Feldern in die Fabriken und später ins Büro gewandert.",
+   "quote_clean": "Die Bevölkerung ist, glaube ich, um 15 Prozent gewachsen und die Zahl der Jobs um über 40 Prozent.",
+   "quality": 1
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt; die Faustregel gilt als grobe Näherung (im Englischen eher drei Viertel Wort), daher als Aussage von Malcolm gerahmt.",
+   "stand_note": "",
+   "statement": "Sprachmodelle zerlegen Text in Tokens; laut Malcolm Werchota entspricht ein Token ungefähr einem halben Wort.",
+   "question": "Was ist laut Malcolm Werchota ein „Token“, mit dem Sprachmodelle wie ChatGPT rechnen, ungefähr?",
+   "answer": "Etwa ein halbes Wort",
+   "distractors": [
+    "Ein ganzer Satz",
+    "Ein einzelner Buchstabe",
+    "Eine ganze Seite"
+   ],
+   "aha": "Jedes Token kostet Rechenleistung und damit Geld. Darum ist die KI laut Malcolm „faul“ und gibt dir lieber eine kurze Antwort, wenn du nicht mehr einforderst.",
+   "quote_clean": "Token sind diese kleinen Einheiten, in die das Wort unterteilt wird? – Richtig, ein Token ist mehr oder weniger ein halbes Wort.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, gut erklärt; Aha passt zum Ausschnitt (inkl. Beispiel mit dem 15. Juli).",
+   "stand_note": "",
+   "statement": "Ein großes Sprachmodell sagt im Kern nur das wahrscheinlichste nächste Wort voraus und weiß daher nicht von selbst, was wahr ist.",
+   "question": "Was macht ein großes Sprachmodell wie ChatGPT im Kern?",
+   "answer": "Es sagt das nächste Wort voraus",
+   "distractors": [
+    "Es schlägt Fakten in einer Datenbank nach",
+    "Es führt fix programmierte Regeln aus",
+    "Es kopiert passende Webseiten wörtlich"
+   ],
+   "aha": "Klassische Programme machen aus A immer B, da gibt es kaum falsche Antworten. Ein Sprachmodell ergänzt nur „Alle Wege führen nach …“ mit dem wahrscheinlichsten Wort. Darum weiß es manchmal nicht einmal, welcher Wochentag der 15. Juli ist.",
+   "quote_clean": "Ein Large Language Model ist einfach nur ein Word-Prediction-Model: „Alle Wege führen nach …“ – Rom. Und diese Natur eines Large Language Models muss man verstehen.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Belegt und inhaltlich richtig (Chain of Thought); die Aussage zur Rechenschwäche beschreibt den Stand der damaligen Modelle.",
+   "stand_note": "Stand 2024",
+   "statement": "Sprachmodelle waren von Natur aus schlecht im Rechnen; Techniken wie „Chain of Thought“, also Schritt-für-Schritt-Denken, machen sie bei Mathe deutlich besser.",
+   "question": "Welcher Trick macht Sprachmodelle bei Rechenaufgaben deutlich besser?",
+   "answer": "Schritt für Schritt denken lassen",
+   "distractors": [
+    "Die Frage auf Englisch stellen",
+    "Die Antwort möglichst kurz verlangen",
+    "Mehrmals dieselbe Frage stellen"
+   ],
+   "aha": "Im berühmten Paper ging es um 23 Äpfel, von denen 20 verkocht und 6 dazugekauft werden. Das schafft eine Fünfjährige, viele Modelle scheiterten damals trotzdem. Mit „Sag mir Schritt für Schritt, wie du rechnest“ kam plötzlich die richtige Antwort.",
+   "quote_clean": "Eigentlich sind Large Language Models nicht gut in Mathe und im Rechnen, aber solche Prompt-Techniken wie Chain of Thought wurden in solche Modelle eingebaut, damit sie auch mathematisch oder statistisch viele Daten ausrechnen können.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Belegt (Wolfram Alpha als Rechenmodul); Aussage beschreibt den damaligen Stand der Modelle.",
+   "stand_note": "Stand 2024",
+   "statement": "Weil Sprachmodelle schlecht rechnen, wurden ihnen eigene Rechenmodule wie Wolfram Alpha zur Seite gestellt.",
+   "question": "Welches Werkzeug wurde ChatGPT früh angehängt, damit es besser rechnen kann?",
+   "answer": "Wolfram Alpha",
+   "distractors": [
+    "Google Maps",
+    "Wikipedia",
+    "Microsoft Paint"
+   ],
+   "aha": "Ein Wortvorhersager ist halt kein Taschenrechner. Also gibt man ihm einen echten dazu: Das Sprachmodell versteht die Frage, das Rechenmodul liefert die Zahl.",
+   "quote_clean": "Vorher haben wir zum Beispiel Wolfram Alpha dazugebracht, damit das Rechnen auch gut funktioniert, aber Large Language Models sind generell extrem schlecht in Mathe.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet",
+    "beleg",
+    "ton"
+   ],
+   "note": "Der Effekt ist Malcolms Darstellung einer Studie und modellabhängig; daher als seine Aussage gerahmt, Beispielspruch an das Transkript angepasst und unbelegter Aha-Teil ersetzt.",
+   "stand_note": "Stand 2024",
+   "statement": "Laut Malcolm Werchota führt ein aufmunternder Satz wie aus dem Glückskeks am Ende eines Prompts zu besseren, längeren Antworten mit weniger Halluzinationen.",
+   "question": "Was bewirkt laut Malcolm Werchota ein Glückskeks-Spruch wie „Du wirst einen tollen Job machen“ am Ende eines Prompts?",
+   "answer": "Längere Antworten, weniger Halluzinationen",
+   "distractors": [
+    "Gar nichts, die KI ignoriert ihn",
+    "Kürzere, aber witzigere Antworten",
+    "Die KI verweigert die Antwort"
+   ],
+   "aha": "Malcolm bezieht sich auf die Studie „Large Language Models Understand and Can Be Enhanced by Emotional Stimuli“. Schon ein Satz wie „Das ist wirklich wichtig für meinen Job“ soll die Antworten verbessern. Ob das bei jedem Modell funktioniert, ist eine andere Frage.",
+   "quote_clean": "Du stellst deine Frage und dann sagst du noch einen Glückskeksspruch, und dann kriegst du eine bessere Antwort. Auf vielen Ebenen: einen längeren Text, mehr Performance, mehr Tokens, weniger Halluzinationen.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Belegt als Malcolms Erklärung; die Aha-Stelle mit den zehn Quellen steht nicht im Ausschnitt und wurde gestrichen, Frage als seine Beschreibung gerahmt.",
+   "stand_note": "Stand 2024",
+   "statement": "Bei „Chain of Verification“ lässt man die KI laut Malcolm Werchota ihre Antwort prüfen, indem sie vier oder fünf Fakten sucht, die die Antwort bestätigen.",
+   "question": "Wie funktioniert laut Malcolm Werchota die Technik „Chain of Verification“ gegen KI-Halluzinationen?",
+   "answer": "Die KI sucht Fakten zur Überprüfung",
+   "distractors": [
+    "Die KI antwortet nur mit Ja oder Nein",
+    "Zwei Menschen lesen die Antwort gegen",
+    "Die KI darf nicht ins Internet"
+   ],
+   "aha": "Malcolm vergleicht die KI mit einem extrem gescheiten Azubi, der einen super Report bringt. Erst wenn du nach den Quellen fragst, merkt er: Ah, die muss ich dir noch holen. Die KI muss man also immer challengen.",
+   "quote_clean": "Chain of Verification heißt: Geh bitte nicht online und such mir die Antwort, ob es richtig ist, sondern geh online und such mir vier oder fünf Fakten, um sicherzustellen, dass die Antwort richtig ist.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext",
+    "beleg"
+   ],
+   "note": "„Wer hat gesagt“ ist nicht spielbar, die „zehnmal am Tag“-Zahl ist rhetorische Übertreibung; die Novartis-Angabe im Aha steht nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Malcolm Werchota beginnt Firmenworkshops mit dem Satz, wer ChatGPT nicht zehnmal am Tag nutze, wohne nicht hinterm Mond, sondern Galaxien entfernt.",
+   "question": "Wer sagt in „Erklär mir die Welt“: „Wenn ihr nicht zehnmal am Tag ChatGPT benutzt, dann wohnt ihr nicht hinterm Mond, sondern Galaxien entfernt“?",
+   "answer": "Malcolm Werchota",
+   "distractors": [
+    "Andreas Sator",
+    "Ethan Mollick",
+    "Ludger Wößmann"
+   ],
+   "aha": "So startet Malcolm, Ex-Manager bei Novartis, seine Workshops in Firmen. Danach zeigt er Anwendungsfälle, und dann reden die Leute laut ihm erst einmal eine Viertelstunde gar nichts.",
+   "quote_clean": "So fange ich wirklich immer an, damit alle checken: Leute, wenn ihr nicht zehnmal am Tag ChatGPT benutzt, dann wohnt ihr nicht hinterm Mond, sondern Galaxien entfernt.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Zugespitzte Meinung („kriminell“) gegenüber Bildungseinrichtungen, Distraktoren sind austauschbare Synonyme, und die 30-Kinder-Angabe im Aha steht nicht im Transkript.",
+   "stand_note": "",
+   "statement": "Malcolm Werchota hält es für „kriminell“, Kindern nicht beizubringen, wie sie mit Sprachmodellen schneller lernen.",
+   "question": "Welches Wort verwendet Malcolm Werchota für Bildungseinrichtungen, die Kindern den Umgang mit KI nicht beibringen?",
+   "answer": "Kriminell",
+   "distractors": [
+    "Altmodisch",
+    "Fahrlässig",
+    "Verantwortungslos"
+   ],
+   "aha": "Sein Argument: Mit KI hat jedes Kind den besten Lehrer der Welt an der Seite, der alles personalisiert. Ein Lehrer kann so für 30 Kinder 30 verschiedene Hausaufgaben erstellen, zum Beispiel für ein Mädchen, das gerade erst Deutsch lernt.",
+   "quote_clean": "Wer heute ein Bildungsunternehmen führt, egal wie alt die Kinder sind, und ihnen nicht beibringt, wie man mit Large Language Models das Lernen beschleunigt – ich würde sogar das Wort kriminell benutzen.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Persönliche Schätzung („ich glaube“) im Gespräch, keine belegte Zahl; als Spielfrage würde sie eine Vermutung als Fakt darstellen.",
+   "stand_note": "",
+   "statement": "Malcolm Werchota schätzt, dass 90 Prozent aller Firmen weltweit noch nicht verstanden haben, dass sie ohne generative KI ihren Wettbewerbsvorteil verlieren.",
+   "question": "Wie viel Prozent der Firmen haben laut Malcolm Werchota noch nicht gecheckt, dass sie ohne KI ihren Wettbewerbsvorteil verlieren?",
+   "answer": "90 Prozent",
+   "distractors": [
+    "25 Prozent",
+    "50 Prozent",
+    "10 Prozent"
+   ],
+   "aha": "Andreas hatte von drei Vierteln gesprochen, Malcolm legt noch eins drauf. Für ihn ist das kein Weltuntergangsgerede, sondern schlicht die Realität.",
+   "quote_clean": "Ich glaube wirklich, dass nicht drei Viertel, sondern 90 Prozent aller Firmen auf der ganzen Welt noch nicht gecheckt haben: Leute, wir werden unseren Wettbewerbsvorteil total verlieren.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zum Folgenformat ohne Wissensgewinn; die Nennung der Financial Times im Aha steht nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Am Ende jeder Folge bittet Andreas seine Gäste um einen Shoutout an ein traditionelles Medium und an einen Creator oder eine Creatorin.",
+   "question": "Worum bittet Andreas seine Gäste neuerdings am Ende der Folge?",
+   "answer": "Um Shoutouts an Medium und Creator",
+   "distractors": [
+    "Um ein Lieblingsrezept",
+    "Um eine Prognose fürs nächste Jahr",
+    "Um ihren peinlichsten Moment"
+   ],
+   "aha": "Ein klassisches Medium und eine Creatorin oder ein Creator kommen „vor den Vorhang“. Malcolm wählt die Financial Times und den TikToker Nate Jones, seinen Mentor.",
+   "quote_clean": "Und am Ende machen wir jetzt neu immer einen Shoutout: erstens an ein traditionelles Medium, wo du dich gerne informierst, um das vor den Vorhang zu holen.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Anekdote belegt (Tochter, Regenbogen, Platon, Mücken); Frage und Antwort leicht entschärft, damit sie nicht den Papa bloßstellt, und Aha an den Ausschnitt angepasst.",
+   "stand_note": "",
+   "statement": "Malcolms Tochter redet nach der Schule jeden Tag eine Stunde mit ChatGPT, weil Papa bei Fragen wie „Wie funktioniert ein Regenbogen?“ schnell ins Schwimmen kommt.",
+   "question": "Warum redet Malcolms Tochter nach der Schule lieber mit ChatGPT als mit ihm?",
+   "answer": "Papa kann nicht jede Frage erklären",
+   "distractors": [
+    "Papa hat nie Zeit",
+    "Die Schule schreibt es vor",
+    "ChatGPT erzählt bessere Witze"
+   ],
+   "aha": "Beim Regenbogen fällt Malcolm nur noch „Reflexion“ ein, und seine Tochter fragt sofort: Kann ich ChatGPT fragen? Danach geht es in dem Video um Platon und darum, warum Mücken so viele Augen haben.",
+   "quote_clean": "Jeden Tag kommt sie von der Schule zurück und redet eine Stunde mit ChatGPT. Warum? Weil sie ganz genau weiß: Papa ist full of shit.",
+   "quality": 3
+  }
+ ],
+ "id": "313",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

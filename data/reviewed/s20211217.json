@@ -1,0 +1,288 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1299 s; Jahr korrekt.",
+   "stand_note": "",
+   "statement": "Die ÖVP wurde 1945 aus den Resten verschiedener christlich-sozialer Strömungen gegründet.",
+   "question": "In welchem Jahr wurde die ÖVP gegründet?",
+   "answer": "1945",
+   "distractors": [
+    "1918",
+    "1934",
+    "1955"
+   ],
+   "aha": "Die ÖVP ist jünger, als viele glauben: Sie entstand erst nach dem Zweiten Weltkrieg. Ihre Wurzeln reichen aber zu den christlich-sozialen Bewegungen davor zurück, und die katholische Soziallehre steckt bis heute in ihrer DNA.",
+   "quote_clean": "Nach dem Zweiten Weltkrieg, 1945, wurde dann die ÖVP gegründet, aus den Resten dieser verschiedenen christlich-sozialen Strömungen.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Beleg passt (518-551 s); Einteilung ist Heinischs, daher attribuiert; Distraktor 'Grüne Parteien wie die Grünen' holprig.",
+   "stand_note": "",
+   "statement": "Laut Reinhard Heinisch gehören zur gemäßigten Rechten in Europa neben Christdemokraten und klassischen Konservativen auch liberale Parteien wie NEOS oder die FDP.",
+   "question": "Christdemokraten, klassische Konservative und …? Welchen dritten Typ zählt Politikwissenschafter Heinisch zur gemäßigten Rechten in Europa?",
+   "answer": "Liberale Parteien wie NEOS oder FDP",
+   "distractors": [
+    "Grüne Parteien",
+    "Rechtsradikale Parteien wie die FPÖ",
+    "Reine Bauernparteien"
+   ],
+   "aha": "Heinisch unterscheidet drei Familien der Mainstream-Rechten: Christdemokraten wie die ÖVP, klassische Konservative wie die britischen Tories und Liberale wie NEOS oder FDP. Alle drei gelten als bürgerlich, sind aber ziemlich unterschiedlich.",
+   "quote_clean": "Und dann dürfen wir nicht vergessen, dass die Liberalen, also die liberalen Parteien, NEOS zum Beispiel in Österreich oder die Freien Demokraten in Deutschland, auch Parteien rechts der Mitte sind.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1237-1249 s; Aha durch 1249-1275 s gedeckt.",
+   "stand_note": "",
+   "statement": "Konservative wollen Bestehendes bewahren und verlangen, dass eine Veränderung erst ihre Überlegenheit beweist.",
+   "question": "Wie beschreibt Politikwissenschafter Heinisch die Grundhaltung von Konservativen?",
+   "answer": "Veränderung muss erst beweisen, dass sie besser ist",
+   "distractors": [
+    "Alles Neue wird grundsätzlich abgelehnt",
+    "Der Staat soll sich aus allem raushalten",
+    "Tradition zählt mehr als Mehrheiten"
+   ],
+   "aha": "Konservativ heißt also nicht „nie was ändern“, sondern: Die Beweislast liegt beim Neuen. Lange vertraten Konservative den Adel und die Großgrundbesitzer, bis die Ausweitung des Wahlrechts sie zwang, sich auch für Arbeiter zu öffnen.",
+   "quote_clean": "Ein Konservativer würde sagen: Bevor ich etwas verändere, muss ich überzeugt werden, dass die Veränderung besser ist als das, was Bestand hat.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1531-1551 s; Bismarck-Motiv (weniger Zulauf für Sozialdemokraten) im Transkript gedeckt.",
+   "stand_note": "",
+   "statement": "Der moderne Sozialstaat mit Umlagesystem geht auf den konservativen deutschen Kanzler Otto von Bismarck zurück.",
+   "question": "Wer gilt als Gründer des modernen Sozialstaats?",
+   "answer": "Otto von Bismarck",
+   "distractors": [
+    "Karl Marx",
+    "Bruno Kreisky",
+    "Ferdinand Lassalle"
+   ],
+   "aha": "Ausgerechnet ein konservativer Machtpolitiker hat den Sozialstaat auf den Weg gebracht. Der Hintergedanke: Wenn die Arbeiter abgesichert sind, laufen sie den Sozialdemokraten nicht so in Scharen zu.",
+   "quote_clean": "Der Gründer des modernen Sozialstaats mit dem Umlagesystem ist ein gewisser Otto von Bismarck.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Pauschale Behauptung Heinischs zur Herkunft der Kinderkrippen ist historisch zweifelhaft (Krippen entstanden philanthropisch); Aha erweitert sie zusätzlich.",
+   "stand_note": "",
+   "statement": "Kinderkrippen wurden in Frankreich ursprünglich gefördert, damit der Staat genug Soldaten hat.",
+   "question": "Welches Ziel stand ursprünglich hinter der Förderung von Kinderkrippen in Frankreich?",
+   "answer": "Genug künftige Soldaten zu haben",
+   "distractors": [
+    "Frauen in die Arbeitswelt zu holen",
+    "Kinder früher lesen zu lehren",
+    "Die Geburtenrate auf dem Land zu senken"
+   ],
+   "aha": "Was heute als fortschrittliche Familienpolitik gilt, hatte einen ziemlich militärischen Ursprung.",
+   "quote_clean": "Auch bei der Idee der Kinderkrippen in Frankreich ging es ursprünglich darum, genug Soldaten zu haben.",
+   "quality": 1
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "fairness"
+   ],
+   "note": "Beleg passt (1691 s), aber als Tatsachenfrage zu pauschal und politisch heikel; auf Heinischs Aussage umgestellt, Aha ohne ungedeckte Länderbehauptung.",
+   "stand_note": "",
+   "statement": "Laut Reinhard Heinisch hat der moderne Wohlfahrtsstaat in Europa konservative Wurzeln, mit Ausnahme des sozialdemokratischen Modells in Skandinavien.",
+   "question": "Welche Wurzeln hat der moderne europäische Wohlfahrtsstaat laut Politikwissenschafter Heinisch (mit Ausnahme Skandinaviens)?",
+   "answer": "Konservative Wurzeln",
+   "distractors": [
+    "Sozialdemokratische Wurzeln",
+    "Liberale Wurzeln",
+    "Kommunistische Wurzeln"
+   ],
+   "aha": "Man würde auf die Linke tippen, aber Heinisch nennt es ein großes Paradoxon: Der Sozialstaat sollte die Gesellschaft zusammenhalten, und das war ein konservatives Motiv. Nur in Skandinavien ist das Modell sozialdemokratisch geprägt.",
+   "quote_clean": "Es ist eines der großen Paradoxa, dass der moderne Wohlfahrtsstaat in Europa konservative Wurzeln hat, genau aus den von dir beschriebenen Motiven, mit Ausnahme des sozialdemokratischen Modells in Skandinavien.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg passt (1572-1593 s); Distraktor 'Pfarre' unplausibel, ersetzt.",
+   "stand_note": "Stand 2021",
+   "statement": "Im konservativen österreichischen Sozialstaat waren Frauen und Kinder lange über die Anstellung des Mannes mitversichert.",
+   "question": "Wie waren Frauen im klassischen österreichischen Sozialsystem lange typischerweise versichert?",
+   "answer": "Über die Anstellung ihres Mannes",
+   "distractors": [
+    "Über eine eigene Grundversicherung",
+    "Über die Gemeinde ihres Wohnorts",
+    "Über ihre Eltern"
+   ],
+   "aha": "Das Modell setzte auf den Familienernährer: Der Mann war versichert, Frau und Kinder hingen dran. Wer sich scheiden ließ oder als Junger aus der Familie wegging, stand laut Heinisch plötzlich vor dem Nichts. In Skandinavien hat dagegen jeder Mensch einen eigenen Anspruch.",
+   "quote_clean": "Die Männer waren im österreichischen Sozialsystem in erster Linie diejenigen, die über ihre Anstellung sozialversichert waren. Die Frauen und Kinder waren im Prinzip über die Anstellung ihrer Männer sozialversichert.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitatfrage mit Jargon-Zitat; Wer-sagt-es-Frage mit Gast als einzig naheliegender Antwort, kaum Erkenntnis.",
+   "stand_note": "",
+   "statement": "Jede Demokratie hat radikale Randgruppen; gefährlich wird es, wenn aus dieser normalen Pathologie eine pathologische Normalität wird.",
+   "question": "Wer sagt: Aus einer normalen Pathologie darf keine pathologische Normalität werden?",
+   "answer": "Reinhard Heinisch",
+   "distractors": [
+    "Andreas Sator",
+    "Daniel Ziblatt",
+    "Reinhold Mitterlehner"
+   ],
+   "aha": "Wie ein gesunder Körper hat auch jede Demokratie ihre Krankheiten. Die großen Parteien wirken dabei wie Klebstoff.",
+   "quote_clean": "Es ist ganz wichtig, dass diese normalen Pathologien begrenzt bleiben, dass nicht aus einer normalen Pathologie, also aus einer typischen Krankheit, ein krankes System wird, dass also keine pathologische Normalität entsteht.",
+   "quality": 2
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 2918-2942 s; Distraktoren klar von den drei genannten Optionen abgegrenzt bzw. falsch.",
+   "stand_note": "",
+   "statement": "„Parroting the pariah“ heißt: Eine Mainstream-Partei plappert die Rhetorik der Rechtsaußen nach, ohne ihre Inhalte zu übernehmen, um deren Wähler zu gewinnen.",
+   "question": "Was bedeutet der Fachbegriff „parroting the pariah“?",
+   "answer": "Rechtsaußen-Rhetorik nachplappern, um Wähler abzuwerben",
+   "distractors": [
+    "Mit Rechtsaußen eine Koalition bilden",
+    "Rechtsaußen-Parteien gerichtlich verbieten",
+    "Rechtsaußen-Politiker in die Partei holen"
+   ],
+   "aha": "Mitte-rechts-Parteien haben laut Heinisch drei Optionen gegen Rechtsaußen: Koalition, inhaltlich nach rechts rücken oder wie ein Papagei nur so klingen wie sie. Bei der letzten bleibt der Inhalt gleich, nur der Ton ändert sich.",
+   "quote_clean": "Das nennt man in der Fachsprache „parroting the pariah“. Parrot ist der Papagei. Ich plappere den Pariahs, den ganz Rechten, die unwählbar sind, nach und hoffe, dass die Wähler dann mich wählen und nicht sie.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg passt (3599-3606 s); Aha nannte Landesparteien, im Ausschnitt nur Bünde/Teilorganisationen.",
+   "stand_note": "",
+   "statement": "Ein alter Witz besagt, die ÖVP bestehe nur aus dem Parteichef und seiner Sekretärin, alle anderen gehörten zu Bünden und Teilorganisationen.",
+   "question": "Wer ist laut altem Witz „die ÖVP“?",
+   "answer": "Der Parteichef und seine Sekretärin",
+   "distractors": [
+    "Der Bauernbund und der Pfarrer",
+    "Die Landeshauptleute und ihre Fahrer",
+    "Der Wirtschaftsbund und die Raiffeisen"
+   ],
+   "aha": "Hinter dem Witz steckt laut Heinisch ein wahrer Kern: Das Zentrum der ÖVP war immer schwach, die Macht liegt bei den Bünden und Teilorganisationen. Das macht sie im Zentrum verwundbar, aber auch zäh, weil immer genug andere übrig bleiben, die sie am Leben erhalten.",
+   "quote_clean": "Nach dem alten Witz: Wer ist die ÖVP? Das sind der Parteichef und seine Sekretärin, alle anderen sind in irgendwelchen Bünden oder Teilorganisationen verhaftet.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Jahr belegt (3834 s); Begründung ist Heinischs Deutung und wird als solche attribuiert.",
+   "stand_note": "",
+   "statement": "2017 flogen die Grünen aus dem Nationalrat; laut Reinhard Heinisch auch, weil viele Grünwähler:innen SPÖ wählten, um Blau zu verhindern.",
+   "question": "In welchem Jahr flogen die Grünen aus dem österreichischen Nationalrat?",
+   "answer": "2017",
+   "distractors": [
+    "2002",
+    "2008",
+    "2013"
+   ],
+   "aha": "Laut Heinisch machten damals viele Grün-Wähler:innen taktisch ihr Kreuz bei der SPÖ von Christian Kern, um Blau zu verhindern. Zwei Jahre später waren die Grünen wieder drin und die SPÖ verlor. Rot und Grün tauschen eben viele Stimmen untereinander.",
+   "quote_clean": "Wir haben das sehr schön gesehen, 2017, als die Grünen aus dem Parlament flogen, weil viele Grünwähler in der Situation die SPÖ unter Kern wählten, um Blau zu verhindern.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Frage unterstellte 'ÖVP und FPÖ zusammen', Heinisch sagt 'rechts der Mitte' (nach seiner Definition inkl. Liberale); umformuliert und attribuiert, Aha ohne ungedeckte Namen.",
+   "stand_note": "Stand 2021",
+   "statement": "Laut Reinhard Heinisch gibt es in Österreich seit Mitte der 1980er-Jahre Mehrheiten rechts der Mitte.",
+   "question": "Seit wann gibt es laut Politikwissenschafter Heinisch in Österreich Mehrheiten rechts der Mitte?",
+   "answer": "Seit Mitte der 1980er-Jahre",
+   "distractors": [
+    "Seit Mitte der 1960er-Jahre",
+    "Seit Mitte der 2000er-Jahre",
+    "Seit 2017"
+   ],
+   "aha": "Trotzdem stellte die SPÖ lange den Kanzler. Laut Heinisch liegt das daran, dass die Konservativen sich nur zweimal anders positioniert haben, also nicht mit der Rechten regieren wollten.",
+   "quote_clean": "Man muss sagen: In Österreich haben wir seit Mitte der 80er-Jahre Mehrheiten rechts der Mitte.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Aussage über die Folgenlänge ohne Wissenswert; Aha nennt Schluss-Dank, der im Ausschnitt nicht belegt ist.",
+   "stand_note": "",
+   "statement": "Andreas kündigt diese Folge über die ÖVP als die längste an, die er bis dahin aufgenommen hat.",
+   "question": "Was sagt Andreas zu Beginn über die Länge dieser Deep-Dive-Folge mit Reinhard Heinisch?",
+   "answer": "Die längste, die er je aufgenommen hat",
+   "distractors": [
+    "Die kürzeste Folge des Jahres",
+    "Die erste Folge über eine Partei",
+    "Die erste ohne Schnitt aufgenommene"
+   ],
+   "aha": "Weit über zwei Stunden reden die beiden über Konservative, Kurz und die Zukunft der ÖVP.",
+   "quote_clean": "Das ist heute die längste Folge Erklär mir die Welt, die ich je aufgenommen habe, und für mich auch eine der interessantesten.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage; 'gern' nicht belegt, Aha behauptet späteren Kaffeesud-Kommentar außerhalb des Ausschnitts.",
+   "stand_note": "",
+   "statement": "Andreas bittet seinen Gast mit einem „Blick in die Glaskugel“ um eine Prognose.",
+   "question": "Mit welcher Formulierung bittet Andreas seinen Gast gern um eine Prognose?",
+   "answer": "„Ein Blick in die Glaskugel“",
+   "distractors": [
+    "„Lass uns Kaffeesud lesen“",
+    "„Wetten wir?“",
+    "„Was sagt dein Bauchgefühl?“"
+   ],
+   "aha": "Andreas weiß, dass Prognosen heikel sind, und fragt trotzdem.",
+   "quote_clean": "Jetzt wieder ein Blick in die Glaskugel: Glaubst du, wird diese EU-skeptischere Haltung bleiben?",
+   "quality": 1
+  }
+ ],
+ "id": "s20211217",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

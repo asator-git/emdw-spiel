@@ -1,0 +1,736 @@
+{
+ "theme": "Wissenschaft & Technik",
+ "summary": "Malcolm Werchota bringt mich beim jährlichen KI-Update auf Stand: Deep Research, KI-Agenten, die stundenlang arbeiten, und warum Prompten fast schon vorbei ist.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 406,
+   "speaker": "Malcolm Werchota",
+   "quote": "Vor noch ein zwei Monate konnten sie 2we Stunden lang funktionieren und vor einem Monat hat Clod Agentin gezeigt, die laufen 30 Stunden.",
+   "quote_clean": "Vor ein, zwei Monaten konnten sie zwei Stunden lang funktionieren, und vor einem Monat hat Claude Agenten gezeigt, die 30 Stunden laufen.",
+   "statement": "Im Herbst 2025 präsentierte Anthropic KI-Agenten von Claude, die rund 30 Stunden am Stück autonom arbeiten können.",
+   "question": "Wie viele Stunden am Stück konnten die neuesten Claude-Agenten im Herbst 2025 laut Malcolm autonom arbeiten?",
+   "answer": "30 Stunden",
+   "distractors": [
+    "3 Stunden",
+    "8 Stunden",
+    "72 Stunden"
+   ],
+   "number_value": 30,
+   "number_unit": "Stunden",
+   "slider_min": 1,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Ein Jahr davor haben sich Agenten nach etwa 20 Minuten verlaufen, dann waren es zwei Stunden, jetzt 30. Kein Mensch arbeitet so lang konzentriert durch, eh klar, aber das Tempo der Kurve ist das eigentlich Verrückte.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "KI-Agenten",
+    "Claude"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1001,
+   "speaker": "Malcolm Werchota",
+   "quote": "Diese Forschung zeigt 66 Tage, um eine eine, wie sagt man, eine Routine aufzubauen.",
+   "quote_clean": "Die Forschung zeigt: 66 Tage, um eine Routine aufzubauen.",
+   "statement": "Laut Gewohnheitsforschung braucht es im Schnitt etwa 66 Tage, bis eine neue Routine sitzt.",
+   "question": "Wie viele Tage braucht es laut Forschung im Schnitt, bis eine neue Gewohnheit sitzt?",
+   "answer": "66 Tage",
+   "distractors": [
+    "21 Tage",
+    "30 Tage",
+    "120 Tage"
+   ],
+   "number_value": 66,
+   "number_unit": "Tage",
+   "slider_min": 7,
+   "slider_max": 200,
+   "log_scale": false,
+   "aha": "Die berühmten 21 Tage sind ein Mythos, die Studie dazu kommt auf rund 66. Darum rät Malcolm, sich KI-Agenten nicht drei Tage lang anzuschauen, sondern 66 Tage jeden Tag ein paar Minuten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gewohnheit",
+    "Psychologie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 207,
+   "speaker": "Malcolm Werchota",
+   "quote": "du sagst äh was sind die Top 20 Sachen, die ich machen muss, um mich zu verbessern in meinem Job und der macht innerhalb von so 10 Minuten 300 Tabs auf.",
+   "quote_clean": "Du sagst: Was sind die Top 20 Sachen, die ich machen muss, um mich in meinem Job zu verbessern? Und der macht innerhalb von zehn Minuten 300 Tabs auf.",
+   "statement": "Eine Deep-Research-Anfrage öffnet laut Malcolm innerhalb von etwa zehn Minuten rund 300 Webseiten und fasst sie zu einem Bericht zusammen.",
+   "question": "Wie viele Tabs öffnet eine Deep-Research-KI laut Malcolm in etwa zehn Minuten?",
+   "answer": "Rund 300 Tabs",
+   "distractors": [
+    "Rund 15 Tabs",
+    "Rund 50 Tabs",
+    "Rund 5000 Tabs"
+   ],
+   "number_value": 300,
+   "number_unit": "Tabs",
+   "slider_min": 5,
+   "slider_max": 2000,
+   "log_scale": true,
+   "aha": "So viele Tabs schafft dein Browser nicht einmal ohne Absturz. Raus kommt ein Bericht, für den du dann selbst eine halbe Stunde zum Lesen brauchst.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Deep Research",
+    "KI"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3200,
+   "speaker": "Malcolm Werchota",
+   "quote": "Newsletter, eigentlich nutzen es nur 10% der Menschheit. Wir denken immer, dass KI so Mainstream ist, aber wir sehen es mit den Firmen, wir sehen es bei uns auch.",
+   "quote_clean": "Eigentlich nutzen es nur 10 % der Menschheit. Wir denken immer, dass KI so Mainstream ist, aber wir sehen es bei den Firmen und auch bei uns.",
+   "statement": "Mit rund 700 Millionen wöchentlichen Nutzer:innen erreicht ChatGPT etwa 10 Prozent der Weltbevölkerung.",
+   "question": "Wie viel Prozent der Menschheit nutzen ChatGPT laut dieser Rechnung jede Woche?",
+   "answer": "Rund 10 Prozent",
+   "distractors": [
+    "Rund 2 Prozent",
+    "Rund 25 Prozent",
+    "Rund 40 Prozent"
+   ],
+   "number_value": 10,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "700 Millionen klingt nach der ganzen Welt, bei acht Milliarden Menschen ist es aber nur jede zehnte Person. In unserer Blase wirkt KI allgegenwärtig, global sind wir noch ziemlich am Anfang.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "ChatGPT",
+    "Nutzung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3194,
+   "speaker": "Malcolm Werchota",
+   "quote": "wir sind nur am Anfang, der sagt also Ch 700 also 700 Millionen wöchentliche Users",
+   "quote_clean": "Wir sind erst am Anfang, sagt er: 700 Millionen wöchentliche User.",
+   "statement": "ChatGPT hatte im Herbst 2025 rund 700 Millionen wöchentliche Nutzer:innen.",
+   "question": "Wie viele Menschen nutzten ChatGPT im Herbst 2025 pro Woche?",
+   "answer": "Rund 700 Millionen",
+   "distractors": [
+    "Rund 90 Millionen",
+    "Rund 250 Millionen",
+    "Rund 2 Milliarden"
+   ],
+   "number_value": 700,
+   "number_unit": "Millionen",
+   "slider_min": 20,
+   "slider_max": 3000,
+   "log_scale": true,
+   "aha": "Die Zahl stammt aus dem Newsletter des KI-Professors Ethan Mollick. Das macht ChatGPT zu einer der am schnellsten gewachsenen Apps überhaupt, und trotzdem sagt er: Wir sind erst am Anfang.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "ChatGPT",
+    "Nutzung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2218,
+   "speaker": "Malcolm Werchota",
+   "quote": "Ich sage in einem Unternehmen, wo alle Leute das nutzen, die Champions im Moment in Österreich, die liegen bei 30% 25% der Mitarbeiter und das ist auch fake",
+   "quote_clean": "Die Champions in Österreich, also Unternehmen, wo alle Leute das nutzen, liegen im Moment bei 25 bis 30 % der Mitarbeiter, und selbst das ist fake.",
+   "statement": "Selbst in den österreichischen Vorreiterfirmen nutzen laut Malcolms Einschätzung nur etwa 25 bis 30 Prozent der Mitarbeitenden generative KI.",
+   "question": "Wie viel Prozent der Mitarbeitenden nutzen laut Malcolm in Österreichs KI-Vorreiterfirmen generative KI?",
+   "answer": "Etwa 25 bis 30 Prozent",
+   "distractors": [
+    "Etwa 5 Prozent",
+    "Etwa 50 Prozent",
+    "Etwa 80 Prozent"
+   ],
+   "number_value": 25,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Und selbst das hält Malcolm für geschönt: Wer Copilot offen hat, plant damit vielleicht nur seinen Urlaub. Die echte Nutzung im Arbeitsalltag dürfte also noch niedriger sein.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Österreich",
+    "Unternehmen"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3466,
+   "speaker": "Malcolm Werchota",
+   "quote": "dann sterben diese KI Piloten nach ca. 3 oder 4 Monaten, was mehr oder weniger die Zeit ist, die man braucht, um sich etwas anzulernen, um eine Gewohnheit draus zu machen.",
+   "quote_clean": "Dann sterben diese KI-Piloten nach ca. drei oder vier Monaten, was mehr oder weniger die Zeit ist, die man braucht, um sich etwas anzulernen und eine Gewohnheit daraus zu machen.",
+   "statement": "KI-Pilotprojekte in Firmen schlafen laut Malcolm oft nach etwa drei bis vier Monaten ein – genau dann, wenn sich eine Gewohnheit bilden würde.",
+   "question": "Nach wie vielen Monaten sterben KI-Pilotprojekte in Firmen laut Malcolm oft?",
+   "answer": "Nach etwa 3 bis 4 Monaten",
+   "distractors": [
+    "Nach etwa 2 Wochen",
+    "Nach etwa einem Jahr",
+    "Nach etwa 2 Jahren"
+   ],
+   "number_value": 3.5,
+   "number_unit": "Monate",
+   "slider_min": 1,
+   "slider_max": 12,
+   "log_scale": false,
+   "aha": "Ausgerechnet dann, wenn sich eine Routine gerade einschleifen würde, wird oft abgedreht. Darum rät Malcolm: nicht in einer Abteilung probieren, sondern in allen und mindestens ein halbes Jahr.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Unternehmen",
+    "Gewohnheit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2594,
+   "speaker": "Malcolm Werchota",
+   "quote": "Die haben vor Gericht verloren im Juni. Und was dieses Gerichtsurteil gesagt hat, ist ihr dürft keine Chats mehr löschen.",
+   "quote_clean": "Die haben im Juni vor Gericht verloren. Und dieses Gerichtsurteil hat gesagt: Ihr dürft keine Chats mehr löschen.",
+   "statement": "Nach einer Gerichtsentscheidung in den USA im Juni 2025 durfte OpenAI Chats von Nutzer:innen nicht mehr löschen.",
+   "question": "Was musste OpenAI nach einer US-Gerichtsentscheidung im Juni 2025 tun?",
+   "answer": "Chats dürfen nicht mehr gelöscht werden",
+   "distractors": [
+    "Alle Chats sofort löschen",
+    "Werbung in Chats verbieten",
+    "Gratisversion komplett abschalten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Hintergrund ist eine Urheberrechtsklage, in der Chats als Beweismittel aufbewahrt werden müssen. Für Firmen heißt das: Was Mitarbeitende in Gratis-Konten eintippen, kann eines Tages vor einem US-Gericht landen.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Datenschutz",
+    "OpenAI"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2561,
+   "speaker": "Malcolm Werchota",
+   "quote": "eure Mitarbeiter nutzen das schon. Das nennt sich nicht Shadow IT, das nennt sich Shadow AI.",
+   "quote_clean": "Eure Mitarbeiter nutzen das schon. Das nennt sich nicht Shadow IT, das nennt sich Shadow AI.",
+   "statement": "Wenn Mitarbeitende ohne Freigabe der Firma private KI-Tools für die Arbeit nutzen, nennt man das Shadow AI.",
+   "question": "Wie nennt man es, wenn Mitarbeitende heimlich private KI-Tools für die Arbeit verwenden?",
+   "answer": "Shadow AI",
+   "distractors": [
+    "Ghost Computing",
+    "Dark Prompting",
+    "Silent Cloud"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Während die Chefetage noch an der KI-Strategie feilt, tippen die Leute längst in ChatGPT. Malcolm erzählt von Firmen, in denen das 70 Prozent der Belegschaft tun, und die Firmendaten wandern dabei munter mit.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Unternehmen",
+    "Datenschutz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3651,
+   "speaker": "Malcolm Werchota",
+   "quote": "Es ist die Website, die am schnellsten je in der Geschichte der Menschheit von 0 € auf 100 Millionen Recurring Revwachsen ist. Also in Monaten.",
+   "quote_clean": "Es ist die Website, die am schnellsten in der Geschichte der Menschheit von 0 auf 100 Millionen wiederkehrenden Umsatz gewachsen ist. In Monaten.",
+   "statement": "Die KI-Plattform Lovable, mit der man per Texteingabe Websites und Programme bauen kann, wuchs in nur wenigen Monaten auf 100 Millionen wiederkehrenden Jahresumsatz.",
+   "question": "Welche KI-Plattform zum Bauen von Websites wuchs in wenigen Monaten auf 100 Millionen wiederkehrenden Umsatz?",
+   "answer": "Lovable",
+   "distractors": [
+    "Canva",
+    "Notion",
+    "Wix"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Man beschreibt einfach, was man will, und Lovable baut die Seite samt Design. Malcolms Siebenjährige lässt sich damit Aktien erklären, als interaktive Website mit Bildern – schöner als jedes Schulbuch.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Start-ups",
+    "KI-Tools"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2841,
+   "speaker": "Malcolm Werchota",
+   "quote": "feuern, die nicht die KI nutzen, weil wir haben keine Zeit, sie anzulernen. Chat GPT gibt seit 3 Jahren. Intern haben wir seit einem Jahr einem Kurs",
+   "quote_clean": "… feuern, die die KI nicht nutzen, weil wir keine Zeit haben, sie anzulernen. ChatGPT gibt es seit drei Jahren, intern haben wir seit einem Jahr einen Kurs.",
+   "statement": "Der Beratungskonzern Accenture kündigte 2025 an, sich von Mitarbeitenden zu trennen, die KI nicht nutzen und nicht umgeschult werden können.",
+   "question": "Wen wollte der Beratungsriese Accenture 2025 laut eigener Ankündigung kündigen?",
+   "answer": "Leute, die keine KI nutzen",
+   "distractors": [
+    "Alle über 60-Jährigen",
+    "Alle im Homeoffice",
+    "Alle neuen Trainees"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei einem Konzern mit rund 700.000 Leuten sind 10.000 Kündigungen nicht so ungewöhnlich, die Begründung aber schon. Beim PC hatten Fax-Fans noch zehn Jahre Schonfrist, bei KI geht es laut Malcolm um Monate.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Arbeitsmarkt",
+    "Unternehmen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2983,
+   "speaker": "Malcolm Werchota",
+   "quote": "Also, wenn du WeChat in China nutzt, brauchst du eigentlich gar keine App. Du gehst raus aus dem Haus, du buchst dir das Taxi in WeChat, nicht auf Uber.",
+   "quote_clean": "Wenn du WeChat in China nutzt, brauchst du eigentlich keine andere App. Du gehst aus dem Haus, buchst das Taxi in WeChat, nicht auf Uber.",
+   "statement": "In China erledigt man mit der Super-App WeChat Taxi, Restaurant, Bezahlen und Tickets in einer einzigen App – dieses Plattform-Modell strebt nun auch ChatGPT an.",
+   "question": "Welche chinesische Super-App dient OpenAI als Vorbild, um ChatGPT zur Plattform für alles zu machen?",
+   "answer": "WeChat",
+   "distractors": [
+    "TikTok",
+    "Alibaba",
+    "Weibo"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Taxi, Tisch reservieren, zahlen, Club-Eintritt kaufen – alles ohne die App zu wechseln. OpenAI will genau diese Stickiness: Du sollst ChatGPT gar nicht mehr verlassen müssen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "China",
+    "Plattformen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3018,
+   "speaker": "Malcolm Werchota",
+   "quote": "Ab in nächsten in den nächsten paar Wochen kannst du alles, was Walmart verkauft in Chat GPT kaufen.",
+   "quote_clean": "In den nächsten paar Wochen kannst du alles, was Walmart verkauft, in ChatGPT kaufen.",
+   "statement": "OpenAI kündigte im Herbst 2025 an, dass man das Sortiment des US-Handelsriesen Walmart direkt in ChatGPT kaufen kann.",
+   "question": "Welcher Handelsriese kündigte 2025 an, sein Sortiment direkt in ChatGPT verkaufen zu lassen?",
+   "answer": "Walmart",
+   "distractors": [
+    "Amazon",
+    "Ikea",
+    "Aldi"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Statt zehn Minuten vor dem Milchregal zu stehen, sagst du einfach: vierköpfige Familie, vegan, bio, Wochenplan – und ChatGPT bestellt. Amazon wäre die naheliegende Antwort gewesen, ist aber gerade der Konkurrent.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "ChatGPT",
+    "Handel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3089,
+   "speaker": "Malcolm Werchota",
+   "quote": "Also Chat GPT hat ja eine bestimmte Anzahl von Tagen gebraucht, um auf eine Million Nutzer zu kommen. Sora 2 hat das in der Hälfte der Zeit geschafft.",
+   "quote_clean": "ChatGPT hat eine bestimmte Anzahl von Tagen gebraucht, um auf eine Million Nutzer zu kommen. Sora 2 hat das in der Hälfte der Zeit geschafft.",
+   "statement": "Die Video-KI Sora 2 erreichte eine Million Nutzer:innen noch schneller als ChatGPT.",
+   "question": "Welche OpenAI-App knackte die Million Nutzer:innen laut Malcolm noch schneller als ChatGPT?",
+   "answer": "Die Video-KI Sora 2",
+   "distractors": [
+    "Der Bildgenerator DALL-E",
+    "Die Suchmaschine Perplexity",
+    "Der Browser Comet"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Mit Sora 2 lässt man Politiker:innen Saltos schlagen oder Skateboard fahren, täuschend echt. Der Nebeneffekt: Auch einem Video kannst du heute nicht mehr trauen, nur weil es echt ausschaut.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Sora",
+    "Deepfakes"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 643,
+   "speaker": "Malcolm Werchota",
+   "quote": "Das einfach nur ein bisschen eine Anweisung geben. Das nennt sich by the way Context Engineering und dann lässt du den Agenten arbeiten.",
+   "quote_clean": "Das ist einfach nur ein bisschen eine Anweisung geben. Das nennt sich übrigens Context Engineering, und dann lässt du den Agenten arbeiten.",
+   "statement": "Statt ausgefeilter Prompts gibt man KI-Agenten heute vor allem Kontext und eine knappe Anweisung – das nennt man Context Engineering.",
+   "question": "Wie heißt es, wenn man einem KI-Agenten statt eines ausgefeilten Prompts vor allem Kontext und eine knappe Anweisung gibt?",
+   "answer": "Context Engineering",
+   "distractors": [
+    "Prompt Tuning",
+    "Deep Learning",
+    "Model Training"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Vor einem Jahr hat man noch Mega-Prompts gebastelt. Heute gibst du dem Agenten ein Zip-File voller Rechnungen und sagst grob, was du willst – den Rest erledigt er, und du kannst ihm dabei zuschauen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Prompten",
+    "KI-Agenten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1804,
+   "speaker": "Malcolm Werchota",
+   "quote": "Browser History, die kannst du ja bei Chrome oder bei Safari exportieren und du schmeißt sie in so einic Browser rein und sagst, kannst du mal schauen, was ich generell so mache",
+   "quote_clean": "Die Browser-History kannst du bei Chrome oder Safari exportieren, du schmeißt sie in so einen agentischen Browser rein und sagst: Kannst du mal schauen, was ich generell so mache?",
+   "statement": "Um herauszufinden, welche Aufgaben ein KI-Agent übernehmen könnte, kann man einem agentischen Browser seine exportierte Browser-History eines Monats geben.",
+   "question": "Was kannst du einem agentischen Browser laut Malcolm geben, damit er herausfindet, welche Arbeit er dir abnehmen kann?",
+   "answer": "Deine exportierte Browser-History",
+   "distractors": [
+    "Deinen Lebenslauf",
+    "Deine Kontoauszüge",
+    "Deinen Kalender vom Vorjahr"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die KI erkennt allein aus deinem Surfverhalten, womit du dich beschäftigst, und schlägt vor, was sie übernehmen kann. Agentische Browser wie Comet von Perplexity klicken sich dann selbst durch Websites.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "KI-Agenten",
+    "Browser"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 343,
+   "speaker": "Malcolm Werchota",
+   "quote": "Weißt du, wo Neo einfach sagt z, ich will jetzt Kungfu lernen und eine Minute später kann er Kungfu lernen. Das ist auch für sich eine Skill, die hat sich Neo in eine Sekunde runtergeladen",
+   "quote_clean": "Weißt du, wo Neo sagt, ich will jetzt Kung-Fu lernen, und eine Minute später kann er Kung-Fu. Das ist für sich ein Skill, den hat sich Neo in einer Sekunde runtergeladen.",
+   "statement": "KI-Agenten kann man sich vorstellen wie die Szene aus Matrix, in der sich Neo Kung-Fu als fertige Fähigkeit herunterlädt.",
+   "question": "Mit welcher Filmszene erklärt Malcolm, was KI-Agenten sind?",
+   "answer": "Neo lädt sich in Matrix Kung-Fu herunter",
+   "distractors": [
+    "HAL 9000 verweigert in 2001 den Befehl",
+    "R2-D2 hackt in Star Wars Türen",
+    "Marty springt mit dem DeLorean zurück"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Du weißt nicht, wie man eine Unternehmensstrategie aufsetzt? Statt lang zu prompten, holst du dir einen Agenten, der das kann, gibst ihm deine Daten und sagst: fang an. Das Bild hat Malcolm übrigens aus einem TikTok.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "KI-Agenten",
+    "Matrix"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 694,
+   "speaker": "Malcolm Werchota",
+   "quote": "Eigentlich würden wir sagen, Ford war heutzutage der erste, der Agenten genutzt hat",
+   "quote_clean": "Eigentlich würden wir heute sagen, Ford war der Erste, der Agenten genutzt hat.",
+   "statement": "KI-Agenten funktionieren wie Henry Fords Fließband: Ein großer Arbeitsschritt wird in viele kleine zerlegt, und jeder Agent übernimmt einen davon.",
+   "question": "Mit welchem Pionier der Industriegeschichte vergleicht Malcolm das Arbeiten mit mehreren KI-Agenten?",
+   "answer": "Henry Ford und dem Fließband",
+   "distractors": [
+    "Thomas Edison und der Glühbirne",
+    "James Watt und der Dampfmaschine",
+    "Gottlieb Daimler und dem Motor"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei Ford hat nicht mehr eine Person alles gebaut, sondern einer schraubt, einer legt zusammen, einer kontrolliert. Genauso bei der Reisekostenabrechnung: ein Agent benennt PDFs um, einer trägt in Excel ein, einer prüft.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "KI-Agenten",
+    "Industriegeschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2437,
+   "speaker": "Malcolm Werchota",
+   "quote": "Das heißt, wenn die in Outlook sind, liegen sie auf der Cloud von Microsoft.",
+   "quote_clean": "Das heißt, wenn die in Outlook sind, liegen sie auf der Cloud von Microsoft.",
+   "statement": "Viele Firmen scheuen aus Datenschutzgründen Microsofts KI, obwohl ihre geheimen E-Mails und Dateien in Outlook und OneDrive ohnehin in der Microsoft-Cloud liegen.",
+   "question": "Warum hält Malcolm Datenschutz bei vielen Firmen für eine Ausrede, Microsofts KI nicht zu nutzen?",
+   "answer": "Ihre Daten liegen schon in Microsofts Cloud",
+   "distractors": [
+    "Microsoft speichert keine Daten in Europa",
+    "KI verarbeitet keine personenbezogenen Daten",
+    "Datenschutz gilt nicht für Firmen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die eigentliche Sorge ist, dass das Modell mit den Firmendaten trainiert wird. Genau das schließt Microsoft bei Copilot für Firmen aus – und bei Claude oder ChatGPT gibt es Einstellungen oder Enterprise-Lizenzen dafür.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Datenschutz",
+    "Microsoft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 3809,
+   "speaker": "Malcolm Werchota",
+   "quote": "heißt lass mich ihm halt Fallstudien geben, wie Häuser gebaut worden sind, aber du möchtest wissen, wie mache ich die Elektrik? Und wir haben gemerkt, dass diese Customs Instructions einfach alles überschatten.",
+   "quote_clean": "… lass mich ihm Fallstudien geben, wie Häuser gebaut worden sind – aber du möchtest wissen, wie du die Elektrik machst. Und wir haben gemerkt, dass diese Custom Instructions einfach alles überschatten.",
+   "statement": "Dauerhafte Custom Instructions können KI-Antworten verzerren, weil sie über jeder Anfrage liegen – auch über solchen, die nichts mit dem eigenen Beruf zu tun haben.",
+   "question": "Warum hat Malcolm seine Custom Instructions in ChatGPT geleert?",
+   "answer": "Sie überschatten alle anderen Anfragen",
+   "distractors": [
+    "Sie kosten extra Geld",
+    "Sie machen die KI langsamer",
+    "Sie werden öffentlich angezeigt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Steht drin, dass du Podcaster bist, liefert dir ChatGPT beim Hausbau plötzlich Fallstudien für eine Folge statt Tipps zur Elektrik. Wer KI für sehr unterschiedliche Dinge nutzt, fährt ohne besser oder schaltet sie per Knopf ab.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "ChatGPT",
+    "Tipps"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3266,
+   "speaker": "Malcolm Werchota",
+   "quote": "Ich würde einfach nur sagen, sei nicht monogamisch. Und ich weiß, das ist angeblich monogam. Man tut mich immer drauf korrigieren, aber bitte hört auf monogamisch zu sein, Leute.",
+   "quote_clean": "Ich würde einfach sagen: Sei nicht monogamisch. Ich weiß, es heißt angeblich monogam, man korrigiert mich immer, aber bitte hört auf, monogamisch zu sein, Leute.",
+   "statement": "Malcolm rät, nicht nur ein einziges KI-Modell zu nutzen, sondern mehrere, weil jedes für etwas anderes gut ist.",
+   "question": "Wer rät im Podcast: „Sei nicht monogamisch“ – gemeint ist die Treue zu nur einem KI-Modell?",
+   "answer": "Malcolm Werchota",
+   "distractors": [
+    "Andreas Sator",
+    "Ethan Mollick",
+    "Richard David Precht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die meisten haben sich in ChatGPT verliebt und bleiben dabei. Malcolm nennt das den Multi-LLM-Ansatz: Claude für Texte und Dashboards, Gemini für anderes – und bei großen Fragen ruhig alle drei fragen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "KI-Modelle",
+    "Tipps"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2129,
+   "speaker": "Malcolm Werchota",
+   "quote": "in Unternehmen funktionieren diese Prozesse, wo man mit KI oder mit Agenten arbeitet, sehr gut, wenn man jemand hat, der weiß, wie man das troubleshoohooten kann.",
+   "quote_clean": "In Unternehmen funktionieren diese Prozesse, wo man mit KI oder mit Agenten arbeitet, sehr gut, wenn man jemanden hat, der weiß, wie man das troubleshooten kann.",
+   "statement": "KI-Agenten funktionieren in Firmen gut, wenn jemand da ist, der Fehler erkennen und beheben kann – wie ein Panzerfahrer, der selbst schrauben kann.",
+   "question": "Wer vergleicht KI-Agenten mit einem Panzer, den nur jemand gut fährt, der ihn auch reparieren kann?",
+   "answer": "Malcolm Werchota",
+   "distractors": [
+    "Andreas Sator",
+    "Ethan Mollick",
+    "Sam Altman"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Auf dem Papier ist Panzerfahren wie Autofahren, in echt muss man ständig schrauben. Gibst du ihn einer normalen Autofahrerin, bleibt sie beim ersten Wehwehchen stecken – und genauso ist es mit KI ohne geschulte Leute.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Unternehmen",
+    "KI-Agenten"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2401,
+   "speaker": "Malcolm Werchota",
+   "quote": "Klar, es ist es ist für mich die größte Ausrede, die KI nicht zu nutzen. Schau mal, also wir gehen in Firmen rein",
+   "quote_clean": "Klar, es ist für mich die größte Ausrede, die KI nicht zu nutzen. Schau mal, wir gehen in Firmen rein …",
+   "statement": "Malcolm hält Datenschutz für die größte Ausrede von Firmen, KI nicht zu nutzen.",
+   "question": "Was hält Malcolm für „die größte Ausrede, die KI nicht zu nutzen“?",
+   "answer": "Den Datenschutz",
+   "distractors": [
+    "Die hohen Kosten",
+    "Fehlende Rechenleistung",
+    "Die Angst vor Jobverlust"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Seine Gegenfrage an Firmen: Habt ihr E-Mails in Outlook und Dateien auf OneDrive? Dann liegt das Geheime eh schon in der Cloud. Seine Devise: KI-Strategie in zwei Wochen, dann gleich umsetzen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Datenschutz",
+    "Unternehmen"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 111,
+   "speaker": "Andreas Sator",
+   "quote": "Mal komm, stellen wir uns mal vor. ähm eine Person, die hat im Herbst 2024 ihr Handy",
+   "quote_clean": "Malcolm, stellen wir uns mal vor: Eine Person hat im Herbst 2024 ihr Handy abgegeben …",
+   "statement": "Andreas steigt ins KI-Update mit einem Gedankenexperiment ein: eine Person, die ein Jahr lang nichts über KI mitbekommen hat.",
+   "question": "Mit welchem Gedankenexperiment startet Andreas das KI-Update?",
+   "answer": "Jemand war ein Jahr lang offline",
+   "distractors": [
+    "Jemand kommt aus dem Jahr 1990",
+    "Jemand trifft einen Roboter",
+    "Jemand verliert seinen Job an KI"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Handy, Laptop, Fernseher abgegeben, keine Zeitung, kein Wort über KI – und jetzt bringen wir die Person up to date. Malcolms Antwort: Die Frage könnte genauso lauten, was sich seit letzter Woche getan hat.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Einstieg",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1860,
+   "speaker": "Malcolm Werchota",
+   "quote": "Ich kann keine 20 Stunden durcharbeiten oder 2 Stunden durcha Ich bin so TikTok Generation. Nach 2 Minuten wird mir langweilig.",
+   "quote_clean": "Ich kann keine 20 Stunden durcharbeiten, oder zwei Stunden. Ich bin so TikTok-Generation, nach zwei Minuten wird mir langweilig.",
+   "statement": "Malcolm gibt zu, dass ihm selbst nach zwei Minuten langweilig wird – während ein KI-Browser zweieinhalb Stunden am Stück durcharbeitet.",
+   "question": "Nach wie vielen Minuten wird Malcolm nach eigener Aussage langweilig?",
+   "answer": "Nach 2 Minuten",
+   "distractors": [
+    "Nach 20 Minuten",
+    "Nach einer Stunde",
+    "Nach 10 Sekunden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Kontrast ist herrlich: Sein Agentic Browser Strawberry hat zweieinhalb Stunden ohne Pause gearbeitet, um 20 Euro im Monat. Malcolm dagegen bezeichnet sich als TikTok-Generation.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Moment",
+    "KI-Agenten"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "370",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

@@ -1,0 +1,293 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg ok (823 s, „sieben in Wien“ klar; österreichweit „glaube ich“); Zahl kann sich seither geändert haben.",
+   "stand_note": "Stand 2019",
+   "statement": "Das AMS betreibt in Wien sieben Berufsinfozentren (BIZ).",
+   "question": "Wie viele Berufsinfozentren (BIZ) hatte das AMS 2019 in Wien?",
+   "answer": "7",
+   "distractors": [
+    "3",
+    "12",
+    "23"
+   ],
+   "aha": "Sieben BIZ gab es 2019 allein in Wien, österreichweit waren es um die 70. Du brauchst dort keinen Termin und musst auch nicht arbeitslos gemeldet sein, einfach reinschneien und fragen.",
+   "quote_clean": "In den Berufsinfozentren, davon haben wir sieben in Wien, in Österreich sind es, glaube ich, 72 oder 73.",
+   "quality": 2
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg ok (1021 s), aber „höchstens“ überzieht die Empfehlung „ein, zwei Seiten reichen“; Frage und Antwort angepasst.",
+   "stand_note": "",
+   "statement": "Ein Lebenslauf sollte kurz und übersichtlich sein, ein bis zwei Seiten reichen.",
+   "question": "Wie viele Seiten reichen laut AMS-Berufsberaterin für einen Lebenslauf?",
+   "answer": "Ein bis zwei Seiten",
+   "distractors": [
+    "Drei bis vier Seiten",
+    "Fünf bis sechs Seiten",
+    "Mindestens sieben Seiten"
+   ],
+   "aha": "Ein, zwei Seiten reichen, das muss nicht ewig lang sein. Wichtiger ist eine klare Struktur mit Monat und Jahr und einer kurzen Beschreibung, was du wo gemacht hast.",
+   "quote_clean": "Der Lebenslauf sollte möglichst kurz und übersichtlich sein, ein, zwei Seiten reichen.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Beleg ok (1372-1387 s); „spätestens“ unscharf, sie sagt „zwischen ein und zwei Wochen“; Frage als Rat der Beraterin gefasst.",
+   "stand_note": "",
+   "statement": "Nach einer Bewerbung ohne Rückmeldung rät Daniela Lander, ein bis zwei Wochen zu warten und dann anzurufen.",
+   "question": "Wie lange sollst du laut Daniela Lander nach einer Bewerbung ohne Rückmeldung etwa warten, bevor du bei der Firma nachfragst?",
+   "answer": "Ein bis zwei Wochen",
+   "distractors": [
+    "Vier bis sechs Wochen",
+    "Acht Wochen",
+    "Zwei Monate"
+   ],
+   "aha": "Ein bis zwei Wochen warten, dann ruhig anrufen und fragen, wann du mit einer Rückmeldung rechnen kannst. Daniela hat schon öfter gehört, dass das zu schnelleren Rückrufen und Vorstellungsgesprächen führt.",
+   "quote_clean": "Ich würde zwischen ein und zwei Wochen vergehen lassen. Wenn ich dann keine Rückmeldung bekommen habe, würde ich einfach mal anrufen.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg ok (1389-1396 s); es ist ihre Erfahrungsschätzung, keine Statistik, Frage entsprechend gerahmt; aha ohne unpassenden Einschub.",
+   "stand_note": "",
+   "statement": "Laut Daniela Lander brauchen Firmen im Schnitt drei bis vier Wochen, bis Vorstellungsgespräche vereinbart werden.",
+   "question": "Wie lange brauchen Firmen laut AMS-Berufsberaterin im Schnitt, bis Vorstellungsgespräche vereinbart werden?",
+   "answer": "Drei bis vier Wochen",
+   "distractors": [
+    "Eine Woche",
+    "Sechs Wochen",
+    "Acht bis zehn Wochen"
+   ],
+   "aha": "Drei, vier Wochen sind laut Daniela normal, bis es ans Eingemachte geht. Wenn nach ein paar Tagen noch nichts kommt, ist das also noch kein schlechtes Zeichen.",
+   "quote_clean": "Im Schnitt brauchen Firmen drei, vier Wochen, bis es ans Eingemachte geht und Vorstellungsgespräche vereinbart werden.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg ok (603-618 s); Einschätzung der Beraterin, im aha stand eine nicht belegte Aufforderung.",
+   "stand_note": "",
+   "statement": "Bei der Jobsuche passiert laut Daniela Lander über Freunde, Bekannte und Verwandte immer noch am meisten.",
+   "question": "Über welchen Kanal passiert bei der Jobsuche laut AMS-Beraterin immer noch am meisten?",
+   "answer": "Freunde, Bekannte und Verwandte",
+   "distractors": [
+    "Online-Jobbörsen",
+    "Zeitungsinserate",
+    "Karrieremessen"
+   ],
+   "aha": "Irgendwer kennt irgendwen, der in einem spannenden Unternehmen arbeitet. Darum rät Daniela, möglichst viele verschiedene Kanäle zu nutzen und sich nicht nur auf eine Suchstrategie zu verlassen.",
+   "quote_clean": "Nicht nur online schauen, sondern auch in Zeitungen schauen, Freunde, Bekannte, Verwandte fragen. Das ist immer noch der Kanal, wo am meisten passiert, weil irgendwer irgendwen kennt.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt mit trivialer Antwort (Gästin), kaum Spielwert.",
+   "stand_note": "",
+   "statement": "Die meisten Berufsentscheidungen fallen durch Zufall, und das sind oft nicht die schlechtesten.",
+   "question": "Wer sagt im Podcast: Die meisten Berufsentscheidungen werden vom Zufall getroffen, und das sind oft nicht die schlechtesten?",
+   "answer": "Daniela Lander, AMS-Berufsberaterin",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Personalchef",
+    "Ein Hörer"
+   ],
+   "aha": "Daniela weiß, wovon sie redet: Sie ist selbst in ihren Beruf reingeschlittert, weil sie gar nicht wusste, dass es Bildungs- und Berufsberaterinnen gibt.",
+   "quote_clean": "Die meisten Berufsentscheidungen werden, glaube ich, immer noch vom Zufall getroffen, und das sind oft nicht einmal die schlechtesten.",
+   "quality": 1
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "spielbarkeit"
+   ],
+   "note": "Beleg ok (769-794 s); 2019er Einschätzung, LinkedIn ist heute in Österreich deutlich verbreiteter, daher Stand-Hinweis und Zeitbezug in der Frage.",
+   "stand_note": "Stand 2019",
+   "statement": "2019 sagte die AMS-Beraterin, ein LinkedIn- oder Xing-Profil zahle sich vor allem im IT-Bereich aus, für Berufseinsteiger eher nicht.",
+   "question": "Für welchen Bereich empfahl die AMS-Beraterin 2019 ein LinkedIn- oder Xing-Profil besonders?",
+   "answer": "Für den IT-Bereich",
+   "distractors": [
+    "Für die Gastronomie",
+    "Für das Handwerk",
+    "Für Lehrlinge"
+   ],
+   "aha": "Daniela nannte den IT-Bereich, dazu Leute mit Berufserfahrung im akademischen Bereich und Führungskräfte. Für Berufseinsteiger:innen sagte sie damals eher Nein.",
+   "quote_clean": "In anderen Ländern ist das viel stärker verbreitet als in Österreich. Bei bestimmten Branchen, würde ich sagen, zahlt es sich aus, im IT-Bereich beispielsweise.",
+   "quality": 2
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg ok (1639-1661 s); rechtlich gilt das grundsätzlich (Ausnahmen etwa bei Tendenzbetrieben), daher „grundsätzlich“ und Bezug auf die Beraterin.",
+   "stand_note": "",
+   "statement": "Laut der AMS-Beraterin sind Fragen zu Religionsbekenntnis, sexueller Orientierung, Familie und Privatleben im Bewerbungsgespräch unzulässig.",
+   "question": "Welche dieser Fragen ist im Bewerbungsgespräch laut AMS-Beraterin unzulässig?",
+   "answer": "Die Frage nach dem Religionsbekenntnis",
+   "distractors": [
+    "Die Frage nach dem Gehaltswunsch",
+    "Die Frage nach der Berufserfahrung",
+    "Die Frage nach dem Eintrittstermin"
+   ],
+   "aha": "Alles Höchstpersönliche geht den Arbeitgeber grundsätzlich nichts an, etwa Schwangerschaft, Kinderwunsch oder Religion. Darauf musst du nicht antworten.",
+   "quote_clean": "Oder Fragen, die wirklich ins Höchstpersönliche gehen, zur sexuellen Orientierung, also alles, was zu persönlich ist. Religionsbekenntnis oder Fragen über Familie und Privatleben. Das ist unzulässig.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok (1182-1198 s), Begriff korrekt erklärt, Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Ein funktioneller Lebenslauf stellt Fähigkeiten und Aufgaben in den Vordergrund statt der Daten und kann so Lücken weniger auffällig machen.",
+   "question": "Was steht bei einem funktionellen Lebenslauf im Mittelpunkt?",
+   "answer": "Fähigkeiten und Aufgaben",
+   "distractors": [
+    "Daten in zeitlicher Reihenfolge",
+    "Schulnoten und Zeugnisse",
+    "Referenzen früherer Chefs"
+   ],
+   "aha": "Beim chronologischen Lebenslauf steht das Datum im Fokus, beim funktionellen das, was du kannst. Praktisch, wenn du eine Lücke hast, die nicht im Vordergrund stehen soll.",
+   "quote_clean": "Es gibt verschiedene Varianten, einen Lebenslauf zu schreiben: chronologisch, wo das Datum stark im Fokus ist. Man könnte auch einen funktionellen Lebenslauf schreiben, der sich stark auf Fähigkeiten und Aufgaben konzentriert.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt mit trivialer Antwort (Gästin), kaum Spielwert.",
+   "stand_note": "",
+   "statement": "Wer sich nicht bewirbt, bekommt auf jeden Fall ein Nein.",
+   "question": "Wer sagt im Podcast: Sich nicht zu bewerben ist der Fall, wo ich auf jeden Fall ein Nein kassiere?",
+   "answer": "Daniela Lander, AMS-Berufsberaterin",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Hörer",
+    "Ein Personalchef"
+   ],
+   "aha": "Es gibt nur zwei Szenarien, ein Ja oder ein Nein. Schlimmer als das Nein wird es nicht, und das sichere Nein bekommst du nur, wenn du es gar nicht probierst.",
+   "quote_clean": "Noch schlimmer kann es eigentlich eh nicht kommen. Sich nicht zu bewerben, ist der Fall, wo ich auf jeden Fall ein Nein kassiere.",
+   "quality": 1
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Beleg ok (1139-1211 s); Antwort ist die Haltung der Beraterin (und etwas pauschal), aha-Zusatz zu Personalist:innen war nicht belegt.",
+   "stand_note": "",
+   "statement": "Daniela Lander findet Lücken im Lebenslauf nicht dramatisch, weil sie fast alle haben, und rät, ehrlich damit umzugehen.",
+   "question": "Wie dramatisch sind Lücken im Lebenslauf laut AMS-Beraterin?",
+   "answer": "Nicht dramatisch, die haben fast alle",
+   "distractors": [
+    "Ein klares Ausschlusskriterium",
+    "Nur bei Akademiker:innen problematisch",
+    "Sie sollten verschwiegen werden"
+   ],
+   "aha": "Mut zur Lücke, sagt Daniela. Die meisten von uns waren schon einmal arbeitssuchend, und ehrlich damit umzugehen kommt wahrscheinlich sogar besser an.",
+   "quote_clean": "Nein, wir haben alle Lücken im Lebenslauf. So dramatisch ist es wirklich nicht.",
+   "quality": 2
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg ok (702-738 s); im Transkript steht „vielleicht ist eine Stelle noch nicht ausgeschrieben“, „oft“ war überzogen; sie nennt auch Leerlauf als Nachteil.",
+   "stand_note": "",
+   "statement": "Initiativbewerbungen können klappen, weil vielleicht eine Stelle noch nicht ausgeschrieben ist oder man ein Gebiet abdeckt, für das es im Unternehmen noch niemanden gibt.",
+   "question": "Warum kann sich eine Initiativbewerbung laut Daniela Lander lohnen, obwohl die Firma offiziell niemanden sucht?",
+   "answer": "Eine Stelle ist vielleicht noch nicht ausgeschrieben",
+   "distractors": [
+    "Firmen müssen jede Bewerbung annehmen",
+    "Das AMS vermittelt sie automatisch",
+    "Initiativbewerber verdienen weniger"
+   ],
+   "aha": "Vielleicht gibt es den Bedarf schon, nur das Inserat noch nicht. Daniela räumt ein, dass es auch Leerlauf geben kann, aber Unternehmen freuen sich über Leute, die wirklich bei ihnen arbeiten möchten.",
+   "quote_clean": "Wie überall spielen der richtige Zeitpunkt und der richtige Ort auch da eine Rolle, und vielleicht ist gerade eine Stelle noch nicht ausgeschrieben, oder man deckt ein Gebiet ab, für das es noch keinen Spezialisten im Unternehmen gibt.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Fragt nach einem Begrüßungsspruch, reine Gedächtnisfrage ohne Wissensgewinn; Distraktoren zudem nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Andreas begrüßt mit: Das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "question": "Wie geht Andreas' Begrüßung weiter? Das ist Erklär mir die Welt, der Podcast, mit dem du …",
+   "answer": "die Welt jede Woche besser verstehen sollst",
+   "distractors": [
+    "jeden Tag etwas Neues lernst",
+    "die Welt ein bisschen schöner machst",
+    "nie wieder dumm sterben musst"
+   ],
+   "aha": "So hat Andreas die Folgen damals eröffnet: jede Woche ein bisschen besser verstehen. Heute ging es um die Jobsuche, nicht ganz die Welt, aber ein wichtiger Teil davon.",
+   "quote_clean": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg ok (1157-1161 s); wer „Netflix“ sagt, ist im Transkript nicht eindeutig zugeordnet, Statement neutral gefasst; Zeitstempel zeigt, dass Daniela vorher auch Weiterbildung nennt, Frage auf ihren Satz bezogen.",
+   "stand_note": "",
+   "statement": "Auf die Frage nach einer Lücke im Lebenslauf fällt scherzhaft das Stichwort Netflix; Daniela Lander meint, ein Auslandsaufenthalt wäre besser als Netflix.",
+   "question": "Was wäre als Füllung einer Lücke im Lebenslauf laut Daniela „besser als Netflix“?",
+   "answer": "Ein Auslandsaufenthalt",
+   "distractors": [
+    "Ein Videospiel-Turnier",
+    "Ein Kochkurs auf YouTube",
+    "Ein Sabbatical am Sofa"
+   ],
+   "aha": "Beim Stichwort Netflix als Lückenfüller kontert Daniela trocken mit dem Auslandsaufenthalt. Weiterbildung oder Karenz kannst du übrigens ganz normal angeben.",
+   "quote_clean": "Vielleicht eine Weiterbildung. – Netflix. – Netflix. Auslandsaufenthalt wäre besser als Netflix.",
+   "quality": 3
+  }
+ ],
+ "id": "84",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

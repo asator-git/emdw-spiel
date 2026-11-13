@@ -1,0 +1,739 @@
+{
+ "theme": "Geschichte",
+ "summary": "Historiker Alexander Prenninger erklärt, wie der Alltag im KZ Mauthausen aussah – und wie Menschen dort trotzdem Mensch geblieben sind.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 599,
+   "speaker": "Alexander Prenninger",
+   "quote": "Wir reden ja insgesamt von etwa 190.000 Menschen, die nach Mauthausen gebracht worden sind.",
+   "quote_clean": "Wir reden insgesamt von etwa 190.000 Menschen, die nach Mauthausen gebracht worden sind.",
+   "statement": "Insgesamt wurden etwa 190.000 Menschen in das KZ Mauthausen gebracht.",
+   "question": "Wie viele Menschen wurden insgesamt in das KZ Mauthausen gebracht?",
+   "answer": "Etwa 190.000",
+   "distractors": [
+    "Etwa 20.000",
+    "Etwa 60.000",
+    "Etwa 600.000"
+   ],
+   "number_value": 190000,
+   "number_unit": "Menschen",
+   "slider_min": 5000,
+   "slider_max": 1000000,
+   "log_scale": true,
+   "aha": "1939 war Mauthausen noch ein kleines Lager mit rund tausend Häftlingen. Mit jedem eroberten Land kamen neue Menschen dazu – Polen, Spanier, Ukrainerinnen, Griechen –, bis es fast 200.000 waren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mauthausen",
+    "NS-Zeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1221,
+   "speaker": "Alexander Prenninger",
+   "quote": "Also die neuesten Zahlen gehen davon aus, dass es etwa 90.000 von den 190.000 sind, die das Lager nicht überlebt haben.",
+   "quote_clean": "Die neuesten Zahlen gehen davon aus, dass etwa 90.000 der 190.000 das Lager nicht überlebt haben.",
+   "statement": "Von den rund 190.000 Häftlingen des KZ Mauthausen haben etwa 90.000 nicht überlebt.",
+   "question": "Von rund 190.000 Häftlingen in Mauthausen: Wie viele haben das Lager nicht überlebt?",
+   "answer": "Etwa 90.000",
+   "distractors": [
+    "Etwa 30.000",
+    "Etwa 60.000",
+    "Etwa 150.000"
+   ],
+   "number_value": 90000,
+   "number_unit": "Menschen",
+   "slider_min": 30000,
+   "slider_max": 190000,
+   "log_scale": false,
+   "aha": "Fast jeder Zweite. Manche wurden direkt ermordet, andere starben an Schlägen, Hunger und Krankheiten – Zustände, die die SS bewusst herbeigeführt hat.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mauthausen",
+    "Opferzahlen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 675,
+   "speaker": "Alexander Prenninger",
+   "quote": "Ja, Mauthausen war bis 1944 ein reines Männerlager.",
+   "quote_clean": "Mauthausen war bis 1944 ein reines Männerlager.",
+   "statement": "Das KZ Mauthausen war bis 1944 ein reines Männerlager.",
+   "question": "Bis zu welchem Jahr war das KZ Mauthausen ein reines Männerlager?",
+   "answer": "Bis 1944",
+   "distractors": [
+    "Bis 1939",
+    "Bis 1941",
+    "Bis Kriegsende 1945"
+   ],
+   "number_value": 1944,
+   "number_unit": "Jahr",
+   "slider_min": 1936,
+   "slider_max": 1946,
+   "log_scale": false,
+   "aha": "Erst gegen Kriegsende kamen auch Frauen, etwa Schwesternpaare aus Griechenland, die zusammenblieben und füreinander sorgten.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Mauthausen",
+    "Frauen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2515,
+   "speaker": "Alexander Prenninger",
+   "quote": "Es gab dann ab 41 oder vor allem 42, 43 sehr viele Außenlager. Insgesamt dann etwa an die 50.",
+   "quote_clean": "Ab 1941, vor allem 1942 und 1943 gab es sehr viele Außenlager, insgesamt etwa an die 50.",
+   "statement": "Zum KZ Mauthausen gehörten ab 1941 nach und nach an die 50 Außenlager.",
+   "question": "Wie viele Außenlager hatte das KZ Mauthausen ungefähr?",
+   "answer": "An die 50",
+   "distractors": [
+    "Etwa 5",
+    "Etwa 15",
+    "Über 150"
+   ],
+   "number_value": 50,
+   "number_unit": "Außenlager",
+   "slider_min": 5,
+   "slider_max": 200,
+   "log_scale": false,
+   "aha": "Mauthausen war nicht ein Ort, sondern ein Netz über halb Österreich: Ebensee, Melk, Floridsdorf, die Seegrotte in der Hinterbrühl. Die Bedingungen dort konnten sehr unterschiedlich sein.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mauthausen",
+    "Außenlager"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 4072,
+   "speaker": "Alexander Prenninger",
+   "quote": "Bei den Spaniern sind etwa zwei Drittel in Mauthausen gestorben oder ermordet worden.",
+   "quote_clean": "Bei den Spaniern sind etwa zwei Drittel in Mauthausen gestorben oder ermordet worden.",
+   "statement": "Von den spanischen Häftlingen in Mauthausen ist etwa zwei Drittel gestorben oder ermordet worden.",
+   "question": "Wie viel Prozent der spanischen Häftlinge sind in Mauthausen gestorben oder ermordet worden?",
+   "answer": "Etwa zwei Drittel",
+   "distractors": [
+    "Etwa ein Zehntel",
+    "Etwa ein Drittel",
+    "Fast alle"
+   ],
+   "number_value": 67,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Die Spanier waren Republikaner, die nach dem Bürgerkrieg nach Frankreich geflohen waren und 1940 in deutsche Gefangenschaft gerieten. Die SS hielt sie für besonders gefährlich und schickte sie ins härteste Lager. Wer die ersten Monate überlebte, hatte später oft bessere Posten.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Mauthausen",
+    "Spanien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2315,
+   "speaker": "Alexander Prenninger",
+   "quote": "Was aber nicht heißt, dass weniger Leute sterben, weil viel mehr Menschen dort sind. Und wir haben 1944 dreimal so viele Tote wie im Jahr davor.",
+   "quote_clean": "Was aber nicht heißt, dass weniger Leute sterben, weil viel mehr Menschen dort sind. 1944 haben wir dreimal so viele Tote wie im Jahr davor.",
+   "statement": "Obwohl die Sterberate in Mauthausen 1944 sank, gab es wegen der viel höheren Häftlingszahl dreimal so viele Tote wie 1943.",
+   "question": "1944 hatte Mauthausen eine der niedrigsten Sterberaten seiner Geschichte. Wie viel Mal so viele Tote wie 1943 gab es trotzdem?",
+   "answer": "Dreimal so viele",
+   "distractors": [
+    "Halb so viele",
+    "Gleich viele",
+    "Zehnmal so viele"
+   ],
+   "number_value": 3,
+   "number_unit": "mal so viele",
+   "slider_min": 0.5,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Rate und absolute Zahl sind zwei verschiedene Dinge. Weil die SS Häftlinge für die Rüstungsindustrie brauchte, starben anteilig weniger – aber es kamen so viele Menschen dazu, dass trotzdem dreimal so viele starben.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Mauthausen",
+    "Statistik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 4586,
+   "speaker": "Alexander Prenninger",
+   "quote": "Es war jetzt gerade der Jahrestag, 2. Februar, 80 Jahre, wo etwa über 500 sowjetische Kriegsgefangene aus dem Lager ausgebrochen sind.",
+   "quote_clean": "Es war gerade der Jahrestag, am 2. Februar vor 80 Jahren sind etwa über 500 sowjetische Kriegsgefangene aus dem Lager ausgebrochen.",
+   "statement": "Am 2. Februar 1945 brachen etwa 500 sowjetische Kriegsgefangene aus dem KZ Mauthausen aus.",
+   "question": "Wie viele sowjetische Kriegsgefangene brachen im Februar 1945 aus dem KZ Mauthausen aus?",
+   "answer": "Etwa 500",
+   "distractors": [
+    "Etwa 20",
+    "Etwa 80",
+    "Etwa 3.000"
+   ],
+   "number_value": 500,
+   "number_unit": "Gefangene",
+   "slider_min": 10,
+   "slider_max": 5000,
+   "log_scale": true,
+   "aha": "Sie waren zur Ermordung nach Mauthausen gebracht worden und wussten das. Die meisten wurden bei der „Mühlviertler Hasenjagd“ gefasst und getötet, nur wenige überlebten, versteckt von Bauernfamilien.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mauthausen",
+    "Ausbruch",
+    "Hasenjagd"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 319,
+   "speaker": "Alexander Prenninger",
+   "quote": "Es war ein großer Konzern, der Steinbrüchebetrieb, der Siegelfabrikenbetrieb und die Steinbrüche in Mauthausen waren dann auch der Grund, warum das KZ dort errichtet wurde. Also man wollte den Granit abbauen und verkaufen für zum Beispiel den Straßenbau,",
+   "quote_clean": "Die SS war ein großer Konzern, der Steinbrüche und Ziegelfabriken betrieb, und die Steinbrüche in Mauthausen waren auch der Grund, warum das KZ dort errichtet wurde. Man wollte den Granit abbauen und verkaufen, zum Beispiel für den Straßenbau.",
+   "statement": "Das KZ Mauthausen wurde wegen der Granitsteinbrüche errichtet: Die SS wollte den Granit abbauen und gewinnbringend verkaufen.",
+   "question": "Warum hat die SS das Konzentrationslager gerade in Mauthausen gebaut?",
+   "answer": "Wegen der Granitsteinbrüche",
+   "distractors": [
+    "Wegen der Nähe zur Grenze",
+    "Wegen einer alten Kaserne dort",
+    "Wegen der Abgelegenheit im Wald"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die SS war auch ein Wirtschaftskonzern. Der Granit ging in Straßen, Autobahnen, Bahnstrecken und die Brückenkopfbauten an der Linzer Nibelungenbrücke – Terror und Profit am selben Ort.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mauthausen",
+    "SS",
+    "Zwangsarbeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 632,
+   "speaker": "Alexander Prenninger",
+   "quote": "Das heißt, Menschen, die nicht in Arbeit waren, die Alkoholiker, Drogenabhängige. Aber das geht so weit hin bis zu Männern, die keine Alimente für ihre Kinder zahlen. Also unter diese Kategorien konnte eigentlich fast jeder fallen.",
+   "quote_clean": "Das heißt Menschen, die nicht in Arbeit waren, Alkoholiker, Drogenabhängige. Aber das geht so weit bis zu Männern, die keine Alimente für ihre Kinder zahlen. Unter diese Kategorien konnte eigentlich fast jeder fallen.",
+   "statement": "Als „asozial“ konnten die Nazis fast jeden ins KZ bringen – sogar Männer, die keine Alimente für ihre Kinder zahlten.",
+   "question": "Wer konnte in der NS-Zeit als „asozial“ ins KZ kommen – sogar…?",
+   "answer": "Männer, die keine Alimente zahlten",
+   "distractors": [
+    "Leute, die Steuern zu spät zahlten",
+    "Wer ohne Fahrschein fuhr",
+    "Wer bei Rot über die Straße ging"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ab 1936, 1937 waren KZs nicht mehr nur für politische Gegner da. Arbeitslose, Alkoholkranke, säumige Väter – die Kategorie war so dehnbar, dass fast jeder hineinpasste. Und ihre Arbeitskraft wollte man auch ausnützen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "NS-Zeit",
+    "Verfolgung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1112,
+   "speaker": "Alexander Prenninger",
+   "quote": "Es gibt auch einen ganz bekannten Brief einer Bäuerin, die gegenüber dem Steinbruch ihren Hof hatte und sich beschwert, dass die Häftlinge im Steinbruch schwerst geschlagen gefoltert werden und sie kann diese Schreie nicht mehr hören. Aber sie bittet die Lagerverwaltung etwa nicht, dass sie das aufhört,",
+   "quote_clean": "Es gibt einen bekannten Brief einer Bäuerin, die gegenüber dem Steinbruch ihren Hof hatte und sich beschwert, dass die Häftlinge im Steinbruch schwerst geschlagen und gefoltert werden und sie diese Schreie nicht mehr hören kann. Aber sie bittet die Lagerverwaltung nicht, dass das aufhört.",
+   "statement": "Eine Bäuerin neben dem Steinbruch von Mauthausen beschwerte sich schriftlich über die Folter – aber nur, damit es woanders passiert, wo sie es nicht hört.",
+   "question": "Eine Bäuerin neben dem Mauthausener Steinbruch schrieb an die Lagerverwaltung. Worum bat sie?",
+   "answer": "Die Folter woanders zu machen",
+   "distractors": [
+    "Die Folter sofort zu beenden",
+    "Ihr Häftlinge als Erntehelfer zu geben",
+    "Den Steinbruch zu verlegen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Sie wusste genau, was passiert – sie hörte es jeden Tag. Gestört hat sie nicht die Grausamkeit, sondern der Lärm. Für Andreas eine Erinnerung daran, auch bei kleinen Ungerechtigkeiten nicht wegzuschauen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mauthausen",
+    "Mitwissen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1190,
+   "speaker": "Alexander Prenninger",
+   "quote": "Und es ist auch Mordhausen dort genannt worden. Also Mauthausen war ja ein sogenanntes Lager der Stufe 3.",
+   "quote_clean": "Und es ist dort auch Mordhausen genannt worden. Mauthausen war ein sogenanntes Lager der Stufe 3.",
+   "statement": "Die SS teilte KZs nach Härte in Stufen ein; Mauthausen war ein Lager der härtesten Stufe 3 und wurde „Mordhausen“ genannt.",
+   "question": "Die SS teilte Konzentrationslager nach Härte in Stufen ein. In welche Stufe fiel Mauthausen?",
+   "answer": "Stufe 3, die härteste",
+   "distractors": [
+    "Stufe 1, die mildeste",
+    "Stufe 2, die mittlere",
+    "Gar keine eigene Stufe"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Schon in Buchenwald ging das Gerücht um, Mauthausen sei viel härter – Häftlinge nannten es „Mordhausen“. Die Stufe erklärt auch, warum dort so viele Menschen gestorben sind.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mauthausen",
+    "KZ-System"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1506,
+   "speaker": "Alexander Prenninger",
+   "quote": "Und in Mauthausen, wie auch in anderen KZs, gab es ja keine Tätowierung, sondern man hat die Häftlingsnummer auf der Kleidung gehabt und auch als Armband getragen.",
+   "quote_clean": "In Mauthausen, wie auch in anderen KZs, gab es keine Tätowierung, sondern man hatte die Häftlingsnummer auf der Kleidung und trug sie auch als Armband.",
+   "statement": "In Mauthausen wurde die Häftlingsnummer nicht eintätowiert, sondern auf der Kleidung und als Armband getragen.",
+   "question": "Wie trugen Häftlinge im KZ Mauthausen ihre Häftlingsnummer?",
+   "answer": "Auf Kleidung und als Armband",
+   "distractors": [
+    "Eintätowiert am Unterarm",
+    "Als Brandmal auf der Hand",
+    "Auf einer Halskette aus Blech"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die eintätowierte Nummer kennt man aus Auschwitz, in Mauthausen gab es sie nicht. Und die Nummer musste man schnell auf Deutsch verstehen – wer beim Aufruf nicht reagierte, riskierte Schläge oder den Tod.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mauthausen",
+    "Häftlingsnummer"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2045,
+   "speaker": "Alexander Prenninger",
+   "quote": "Die wichtigste Währung waren dabei Zigaretten. Es gab Häftlinge, die hatten Zugang zu Zigaretten. Die konnten Pakete bekommen von zu Hause, von ihren Familien",
+   "quote_clean": "Die wichtigste Währung waren dabei Zigaretten. Es gab Häftlinge, die Zugang zu Zigaretten hatten, weil sie Pakete von zu Hause, von ihren Familien bekommen konnten.",
+   "statement": "Beim Tauschhandel unter KZ-Häftlingen waren Zigaretten die wichtigste Währung.",
+   "question": "Was war beim Tauschhandel im KZ Mauthausen die wichtigste Währung?",
+   "answer": "Zigaretten",
+   "distractors": [
+    "Brot",
+    "Lagergeld",
+    "Seife"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In der wenigen freien Zeit wurde zwischen den Baracken getauscht. Wer Pakete von daheim bekommen durfte, hatte Zigaretten – und damit Kaufkraft. Spanische Häftlinge durften nicht einmal Briefe schreiben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "KZ-Alltag",
+    "Tauschhandel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4280,
+   "speaker": "Alexander Prenninger",
+   "quote": "die nach § 175 verfolgt wurden, sind auch nach 1945 nicht als Opfer des NS-Regimes anerkannt worden, weil Homosexualität auch nach 1945 noch lange strafbar war.",
+   "quote_clean": "Die nach Paragraf 175 verfolgt wurden, sind auch nach 1945 nicht als Opfer des NS-Regimes anerkannt worden, weil Homosexualität auch nach 1945 noch lange strafbar war.",
+   "statement": "Homosexuelle KZ-Häftlinge wurden nach 1945 lange nicht als NS-Opfer anerkannt, weil Homosexualität weiterhin strafbar war.",
+   "question": "Warum wurden homosexuelle KZ-Häftlinge nach 1945 lange nicht als Opfer des NS-Regimes anerkannt?",
+   "answer": "Homosexualität blieb strafbar",
+   "distractors": [
+    "Es gab keine Akten über sie",
+    "Sie galten als Kriegsgefangene",
+    "Sie stellten nie einen Antrag"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Vorurteile haben die Nazis nicht erfunden, und sie sind 1945 auch nicht verschwunden – selbst unter den Mithäftlingen gab es sie. Wer mit dem rosa Winkel überlebt hatte, war nach dem Gesetz weiter ein Verbrecher.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Homosexualität",
+    "Nachkriegszeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4865,
+   "speaker": "Alexander Prenninger",
+   "quote": "Zum einen gab es dort Fußballspiele, also sozusagen die, würde ich heute sagen, Landesliga, der Ost von Oberdonau, hat dort auch ganz normale Fußballspiele abgehalten mit Zuschauern, direkt außerhalb des Konzentrationslagers.",
+   "quote_clean": "Zum einen gab es dort Fußballspiele: Die, würde ich heute sagen, Landesliga von Oberdonau hat dort ganz normale Fußballspiele mit Zuschauern abgehalten, direkt außerhalb des Konzentrationslagers.",
+   "statement": "Direkt außerhalb des KZ Mauthausen fanden normale Fußballspiele der regionalen Liga mit Zuschauer:innen statt.",
+   "question": "Was fand direkt außerhalb des KZ Mauthausen regelmäßig mit Publikum statt?",
+   "answer": "Fußballspiele der Landesliga",
+   "distractors": [
+    "Pferderennen",
+    "Militärparaden",
+    "Theateraufführungen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Terrassen für die Zuschauerbänke sieht man heute noch. Dazu flirteten SS-Wachen im Ort, der Briefträger brachte die Post – das Lager war nie abgeschottet vom normalen Leben.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Mauthausen",
+    "Alltag",
+    "Mitwissen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4914,
+   "speaker": "Alexander Prenninger",
+   "quote": "Wir haben auch die Rechnungen noch von Firmen und Bauern, die nach 1945, nach der Befreiung noch ihr Geld wollten für das, was sie geliefert haben.",
+   "quote_clean": "Wir haben auch noch die Rechnungen von Firmen und Bauern, die nach 1945, nach der Befreiung, noch ihr Geld für das wollten, was sie geliefert haben.",
+   "statement": "Firmen und Bauern, die das KZ Mauthausen beliefert hatten, verlangten nach der Befreiung 1945 noch ihr Geld.",
+   "question": "Was taten manche Firmen und Bauern, die das KZ Mauthausen beliefert hatten, nach der Befreiung 1945?",
+   "answer": "Sie wollten noch ihr Geld",
+   "distractors": [
+    "Sie spendeten an Überlebende",
+    "Sie vernichteten alle Belege",
+    "Sie zogen weg aus dem Ort"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Lebensmittel, Baumaterial, Fuhrwerke – ein KZ braucht Lieferanten, und die saßen gleich nebenan. Die offenen Rechnungen sind heute ein Beleg dafür, wie eng Ort und Lager verflochten waren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mauthausen",
+    "Mitwissen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 5229,
+   "speaker": "Alexander Prenninger",
+   "quote": "Es gibt einen berühmten Spruch von Robert Musil, es gibt nichts, das so unsichtbar ist wie ein Denkmal, aber es gibt sehr viele dieser Denkmäler, die wir im Alltag oft gar nicht wahrnehmen",
+   "quote_clean": "Es gibt einen berühmten Spruch von Robert Musil: Es gibt nichts, das so unsichtbar ist wie ein Denkmal. Aber es gibt sehr viele dieser Denkmäler, die wir im Alltag oft gar nicht wahrnehmen.",
+   "statement": "Von Robert Musil stammt der Satz „Es gibt nichts, das so unsichtbar ist wie ein Denkmal“.",
+   "question": "Von welchem Schriftsteller stammt der Satz „Es gibt nichts, das so unsichtbar ist wie ein Denkmal“?",
+   "answer": "Robert Musil",
+   "distractors": [
+    "Karl Kraus",
+    "Stefan Zweig",
+    "Thomas Bernhard"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gedenktafeln und Stolpersteine sind überall, nur schaut kaum wer hin. Alexander geht deshalb mit seinen Studierenden durch die Stadt – viele haben so ein Erinnerungszeichen noch nie bewusst gesehen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erinnerung",
+    "Literatur"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 393,
+   "speaker": "Alexander Prenninger",
+   "quote": "Das ist ein Instrument, das bedeutet, dass Menschen ohne Urteil und ohne, dass sie eine Straftat begangen haben, in ein Konservationslager verbracht werden.",
+   "quote_clean": "Das ist ein Instrument, das bedeutet, dass Menschen ohne Urteil und ohne eine Straftat begangen zu haben in ein Konzentrationslager gebracht werden.",
+   "statement": "„Schutzhaft“ bedeutete in der NS-Zeit, dass Menschen ohne Urteil und ohne Straftat in ein KZ gebracht wurden.",
+   "question": "Was bedeutete „Schutzhaft“ in der NS-Zeit?",
+   "answer": "KZ-Haft ohne Urteil und Straftat",
+   "distractors": [
+    "Schutz vor Angriffen durch die Polizei",
+    "Haft nur bis zum Gerichtstermin",
+    "Hausarrest unter Aufsicht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Wort klingt fürsorglich, gemeint war das Gegenteil. Gleich nach dem Anschluss 1938 traf es Anhänger des Ständestaats, Sozialdemokraten, Kommunisten – alle, die das Regime für gefährlich hielt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "NS-Zeit",
+    "Begriffe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1995,
+   "speaker": "Alexander Prenninger",
+   "quote": "Organisieren heißt im Prinzip stehlen. Aber das unterscheiden die Überlebenden sehr stark. Organisieren heißt, Lebensmittel, Kleidung oder was immer notwendig war, aus den Lagern der SS zu stehlen. Aber stehlen, organisieren. Stehlen bedeutet bei den Überlebenden, dass man einem anderen Häftling was wegnimmt.",
+   "quote_clean": "Organisieren heißt im Prinzip stehlen, aber das unterscheiden die Überlebenden sehr stark. Organisieren heißt, Lebensmittel, Kleidung oder was immer notwendig war, aus den Lagern der SS zu stehlen. Stehlen bedeutet bei den Überlebenden, dass man einem anderen Häftling etwas wegnimmt.",
+   "statement": "In der Lagersprache hieß „organisieren“, der SS etwas wegzunehmen – „stehlen“ dagegen hieß, einem Mithäftling etwas wegzunehmen, und das war verpönt.",
+   "question": "Was bedeutete „organisieren“ in der Sprache der KZ-Häftlinge?",
+   "answer": "Der SS etwas stehlen",
+   "distractors": [
+    "Einem Mithäftling etwas stehlen",
+    "Einen Aufstand planen",
+    "Sich zur Arbeit melden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Dasselbe Tun, zwei Wörter und eine klare Moral: Der SS etwas abzuzwacken war Überleben, einem Kameraden etwas wegzunehmen wurde streng geahndet, teils von den Häftlingen selbst.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Lagersprache",
+    "Moral"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 3473,
+   "speaker": "Alexander Prenninger",
+   "quote": "Und Muselmann bedeutet möglicherweise, dass diese extrem geschwächten Häftlinge, die schon sehr apathisch waren, eine Art Körperbewegungen gemacht haben, die an das Beten von Muslimen erinnern.",
+   "quote_clean": "Muselmann bedeutet möglicherweise, dass diese extrem geschwächten, sehr apathischen Häftlinge eine Art Körperbewegungen gemacht haben, die an das Beten von Muslimen erinnern.",
+   "statement": "„Muselmann“ hießen in der Lagersprache völlig entkräftete, apathische Häftlinge – vermutlich, weil ihre Bewegungen an das Gebet von Muslimen erinnerten.",
+   "question": "Wen nannte man in der KZ-Lagersprache „Muselmann“?",
+   "answer": "Völlig entkräftete, apathische Häftlinge",
+   "distractors": [
+    "Häftlinge aus der Türkei",
+    "Besonders brutale Kapos",
+    "Häftlinge, die beteten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Woher der Begriff genau kommt, ist nicht ganz klar – er gehört zum Slang des Lagers, gemischt aus vielen Sprachen. Gemeint waren Menschen an der Schwelle zum Tod; die meisten von ihnen starben.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Lagersprache",
+    "KZ-Alltag"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2477,
+   "speaker": "Alexander Prenninger",
+   "quote": "Aber so das alltägliche Leben, das ist wahrscheinlich wie bei uns im normalen Leben auch, ja, so was man jeden Tag macht, das erinnert man auch nicht besonders gut.",
+   "quote_clean": "Aber das alltägliche Leben ist wahrscheinlich wie bei uns im normalen Leben auch: Was man jeden Tag macht, daran erinnert man sich nicht besonders gut.",
+   "statement": "Überlebende erzählen ausführlich von der Ankunft im KZ, aber wenig vom Alltag – weil man Routine, wie im normalen Leben, schlecht erinnert.",
+   "question": "Warum erzählen KZ-Überlebende viel über ihre Ankunft, aber wenig über den Lageralltag?",
+   "answer": "Routine bleibt schlecht im Gedächtnis",
+   "distractors": [
+    "Der Alltag war streng geheim",
+    "Darüber durften sie nicht reden",
+    "Der Alltag war harmlos"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Gedächtnis speichert das Außergewöhnliche: Ankunft, Befreiung, einzelne Schreckmomente. Manche wissen nicht einmal, ob ihr Transport zwei Tage oder eine Woche dauerte. Für Historiker:innen macht das den Alltag schwer greifbar.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erinnerung",
+    "Gedächtnis"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2780,
+   "speaker": "Alexander Prenninger",
+   "quote": "Es gibt Untersuchungen, sehr frühe Untersuchungen, die zeigen, dass sozusagen alleine es sehr schwierig war zu überleben. Der einsame Wolf, der keine Kontakte hatte, ist eine Figur, die eher schwer überlebt hat.",
+   "quote_clean": "Es gibt sehr frühe Untersuchungen, die zeigen, dass es alleine sehr schwierig war zu überleben. Der einsame Wolf, der keine Kontakte hatte, ist eine Figur, die eher schwer überlebt hat.",
+   "statement": "Im KZ überlebte man allein kaum; wichtig waren kleine Gruppen, oft Zweiergespanne, die sich gegenseitig halfen.",
+   "question": "Welche Figur hatte laut Forschung im KZ besonders schlechte Überlebenschancen?",
+   "answer": "Der einsame Wolf ohne Kontakte",
+   "distractors": [
+    "Wer in einer Zweiergruppe war",
+    "Wer Kontakte in die Küche hatte",
+    "Wer Landsleute im Lager fand"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Keine große internationale Solidarität, eher kleine Zweiergruppen, Landsleute, Nachbarn aus dem Nachbarort. Sie teilten Essen, Informationen, warnten einander – und das konnte über Leben und Tod entscheiden.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Solidarität",
+    "Überleben"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3622,
+   "speaker": "Alexander Prenninger",
+   "quote": "So Dinge, das waren kleine Versuche, eben nicht als Unmensch, wie die SS einen gesehen hat, ein Unmensch zu sein, wie die SS ihn gesehen hat, sondern Mensch zu bleiben.",
+   "quote_clean": "Solche Dinge waren kleine Versuche, eben nicht der Unmensch zu sein, als den die SS einen gesehen hat, sondern Mensch zu bleiben.",
+   "statement": "Gedichte rezitieren, die Kleidung in Ordnung halten oder das Nummernarmband verzieren waren für KZ-Häftlinge kleine Versuche, Mensch zu bleiben.",
+   "question": "Wofür waren gepflegte Kleidung oder verzierte Nummernarmbänder im KZ laut Alexander Prenninger kleine Versuche?",
+   "answer": "Um Mensch zu bleiben",
+   "distractors": [
+    "Um der SS zu gefallen",
+    "Um sie zu verkaufen",
+    "Um Fluchtpläne zu tarnen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer ordentlich aussah, fiel weniger auf und bekam manchmal sogar Respekt. Aber es ging vor allem um die eigene Psyche: ein Stück Kontrolle über das Leben, wenn einem alles andere genommen wurde.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Menschenwürde",
+    "KZ-Alltag"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 5381,
+   "speaker": "Andreas Sator",
+   "quote": "Am Ende bitte ich meine Gäste immer, so ein klassisches Medium vor den Vorhang zu holen, mit dem sie sich gerne über die Welt informieren.",
+   "quote_clean": "Am Ende bitte ich meine Gäste immer, ein klassisches Medium vor den Vorhang zu holen, mit dem sie sich gerne über die Welt informieren.",
+   "statement": "Andreas bittet seine Gäste am Ende immer, ein klassisches Medium vor den Vorhang zu holen; Alexander Prenninger nennt die Zeit.",
+   "question": "Welche Zeitung holt Alexander Prenninger bei Andreas' Abschlussfrage vor den Vorhang?",
+   "answer": "Die Zeit",
+   "distractors": [
+    "Der Standard",
+    "Die Presse",
+    "Der Falter"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Er hat sie abonniert, seit er zu studieren begonnen hat. Am liebsten am Sonntagvormittag beim Kaffee, mit den Riesenblättern auf dem Tisch.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Medientipp",
+    "Abschlussfrage"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 3149,
+   "speaker": "Alexander Prenninger",
+   "quote": "Und er erzählt von einem Überlebenden, der war im Wald eingesetzt. Und dem hat die Arbeit Freude gemacht. Und ist später nach der Befreiung auch Förster geworden.",
+   "quote_clean": "Und er erzählt von einem Überlebenden, der im Wald eingesetzt war. Dem hat die Arbeit Freude gemacht, und er ist nach der Befreiung auch Förster geworden.",
+   "statement": "Ein Mauthausen-Überlebender, der im Lager zur Waldarbeit eingeteilt war, wurde nach der Befreiung Förster.",
+   "question": "Ein Häftling war in Mauthausen zur Waldarbeit eingeteilt. Was wurde er nach der Befreiung?",
+   "answer": "Förster",
+   "distractors": [
+    "Tischler",
+    "Bergführer",
+    "Landwirt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Wald war es ruhig, weit weg von Zäunen und Schreien. So unglaublich es klingt: Auch im KZ gab es für manche schöne Momente – Sonntagsspaziergänge, Gedichte, erzählte Kochrezepte.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Überlebende",
+    "Arbeit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "345",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

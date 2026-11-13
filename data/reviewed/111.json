@@ -1,0 +1,283 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg bei 409 passt; Frage präzisiert als Haslingers Angabe, aha ohne „ein paar Meter“ (oberste Meter schwanken tatsächlich).",
+   "stand_note": "",
+   "statement": "Laut Edith Haslinger hat der ungestörte Boden in Wien bis etwa 15 bis 20 Meter Tiefe rund 12 Grad Celsius.",
+   "question": "Welche Bodentemperatur nennt Edith Haslinger für Wien bis in 15 bis 20 Meter Tiefe?",
+   "answer": "Rund 12 Grad Celsius",
+   "distractors": [
+    "Rund 4 Grad Celsius",
+    "Rund 20 Grad Celsius",
+    "Rund 0 Grad Celsius"
+   ],
+   "aha": "Wenige Meter unter der Oberfläche spielen Jänner und Juli kaum noch eine Rolle: In Wien hat es dort ziemlich gleichbleibend rund 12 Grad. Genau diese Gleichmäßigkeit macht die Erde zu einer verlässlichen Wärmequelle, die nicht auf Sonne oder Wind warten muss.",
+   "quote_clean": "Bis zu 15 bis 20 Meter Tiefe kann man sagen: so 12 Grad Celsius.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 496-508 passt, bekannte Faustformel.",
+   "stand_note": "",
+   "statement": "Als Faustformel wird es pro 100 Meter Tiefe rund 3 Grad Celsius wärmer (geothermischer Gradient).",
+   "question": "Um wie viel Grad wird es pro 100 Meter Tiefe im Erdreich im Schnitt wärmer?",
+   "answer": "Um rund 3 Grad Celsius",
+   "distractors": [
+    "Um rund 0,5 Grad Celsius",
+    "Um rund 10 Grad Celsius",
+    "Um rund 1 Grad Celsius"
+   ],
+   "aha": "Das nennt man den geothermischen Gradienten, und er gilt weltweit im Mittel wie auch in Österreich. Wer 1000 Meter runterbohrt, hat also rund 30 Grad mehr – ziemlich praktisch, wenn man heizen will.",
+   "quote_clean": "Das heißt, man hat in 100 Metern eine um 3 Grad Celsius höhere Temperatur.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 688 passt (Arbeitszahl 3 bis 4).",
+   "stand_note": "",
+   "statement": "Eine Erdwärmepumpe macht aus einem Teil Strom drei bis vier Teile Wärme.",
+   "question": "Wie viele Teile Wärme macht eine Erdwärmepumpe aus einem Teil Strom?",
+   "answer": "Drei bis vier Teile",
+   "distractors": [
+    "Knapp ein Teil",
+    "Zehn bis zwölf Teile",
+    "Eineinhalb Teile"
+   ],
+   "aha": "Die Wärmepumpe erzeugt die Wärme nicht aus dem Strom, sie holt sie aus dem Boden und hebt sie nur aufs Heizniveau. Deshalb kommt mehr Wärme raus, als Strom reingeht – kein Zaubertrick, sondern Physik.",
+   "quote_clean": "Die Wärmepumpe braucht Strom, aber ein Teil Strom wird in der Wärmepumpe zu drei oder sogar vier Teilen Wärme umgewandelt.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 705-742 passt („Umweltspumpe“ = Umwälzpumpe, Transkriptionsfehler im aha richtig aufgelöst).",
+   "stand_note": "",
+   "statement": "Mit Erdwärme kann man ein Gebäude nicht nur heizen, sondern im Sommer auch kühlen.",
+   "question": "Was kann man mit einer Erdwärmeanlage außer Heizen noch machen?",
+   "answer": "Im Sommer kühlen",
+   "distractors": [
+    "Strom ins Netz einspeisen",
+    "Trinkwasser aufbereiten",
+    "Regenwasser speichern"
+   ],
+   "aha": "Im Sommer ist der Boden mit seinen rund 12 Grad kühler als dein Wohnzimmer. Die überschüssige Wärme wird über die Fußbodenheizung aufgenommen und in den Untergrund geschickt – die Wärmepumpe läuft dabei nur als Umwälzpumpe.",
+   "quote_clean": "Das Gute an der Wärmepumpe und an der Erdwärme ist: Obwohl es Erdwärme heißt, kann man damit auch kühlen.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Beleg bei 383-401 passt; Frage war missverständlich (oberste Meter schwanken), auf ihre Aussage zugeschnitten. Inhaltlich nahe an Kandidat 0.",
+   "stand_note": "",
+   "statement": "Laut Edith Haslinger herrschen im Erdreich konstante Bedingungen, unabhängig von Tages- und Jahreszeit.",
+   "question": "Was ist laut Edith Haslinger der große Vorteil des Untergrunds als Wärmequelle?",
+   "answer": "Die Wärme ist immer gleich, unabhängig von Tages- und Jahreszeit",
+   "distractors": [
+    "Die Wärme steigt im Winter an",
+    "Die Wärme folgt der Lufttemperatur",
+    "Die Wärme schwankt, aber nur wenig mit dem Wetter"
+   ],
+   "aha": "Das ist der große Vorteil gegenüber Sonne und Wind, die einmal viel und dann wieder gar nichts liefern. Die Wärme im Boden ist rund um die Uhr und das ganze Jahr gleich da.",
+   "quote_clean": "Ganz wichtig zu wissen ist, dass im Erdreich immer konstante Bedingungen herrschen. Das sind keine fluktuierenden Wärmemengen, die ist unabhängig von Tageszeit, von Jahreszeit.",
+   "quality": 2
+  },
+  {
+   "i": 11,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Pauschalaussage „verboten“ ist verallgemeinert und rechtlich nicht haltbar (Bewilligungsfrage, seither Lockerungen); aha enthält zudem Unbelegtes (Fassadendämmung).",
+   "stand_note": "",
+   "statement": "Bei denkmalgeschützten Gebäuden ist es verboten, Solarpaneele aufs Dach zu montieren.",
+   "question": "Welches Problem haben denkmalgeschützte Gebäude beim Umstieg auf erneuerbare Wärme?",
+   "answer": "Solarpaneele am Dach sind verboten",
+   "distractors": [
+    "Wärmepumpen sind dort verboten",
+    "Bohrungen sind generell untersagt",
+    "Fernwärme darf nicht angeschlossen werden"
+   ],
+   "aha": "Auch Dämmung an der Fassade ist oft tabu, weil man das Gebäude außen nicht verändern darf. Da wird die unsichtbare Erdwärme interessant – die stört kein Ortsbild.",
+   "quote_clean": "Da ist es zum Beispiel verboten, Solarpaneele aufs Dach zu geben.",
+   "quality": 1
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 633-665 passt; Prinzip physikalisch korrekt.",
+   "stand_note": "",
+   "statement": "In der Wärmepumpe verdampft ein Kältemittel schon bei den niedrigen Temperaturen aus dem Boden; durch Komprimieren steigt dann die Temperatur auf Heizniveau.",
+   "question": "Wie schafft es eine Wärmepumpe, aus 12 Grad warmem Boden Heizwärme zu machen?",
+   "answer": "Kältemittel verdampft und wird komprimiert",
+   "distractors": [
+    "Ein Gasbrenner heizt nach",
+    "Das Wasser wird elektrisch erhitzt",
+    "Die Sonde bohrt tiefer nach"
+   ],
+   "aha": "Das Kältemittel verdampft schon bei Bodentemperatur, wird dann zusammengedrückt und dadurch heiß. Diese Wärme geht an die Heizung, das Mittel kondensiert wieder, und das Spiel beginnt von vorn.",
+   "quote_clean": "Das verdampft schon bei niedrigen Temperaturen, also auch bei Temperaturen, wie sie aus dem oberflächennahen Untergrund kommen.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 742-782 passt.",
+   "stand_note": "",
+   "statement": "Wer im Sommer mit Erdwärme kühlt, führt dem Boden Wärme zurück und regeneriert so das Erdreich für den Winter.",
+   "question": "Welchen Nebeneffekt hat das Kühlen mit Erdwärme im Sommer?",
+   "answer": "Das Erdreich wird regeneriert",
+   "distractors": [
+    "Der Boden friert dauerhaft ein",
+    "Das Grundwasser wird verbraucht",
+    "Die Sonden müssen getauscht werden"
+   ],
+   "aha": "Holt man jahrelang nur Wärme raus, kühlt der Boden um die Sonden langsam aus. Die Sommerwärme wieder reinzuschicken hält die Bilanz ausgeglichen und macht die Anlage effizienter.",
+   "quote_clean": "Dadurch kann man nicht nur Gebäude, Wohnungen oder Häuser kühlen, sondern auch das Erdreich regenerieren.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 1848-1892 passt; „nach heißem Wasser“ steht nicht im Ausschnitt, auf Untergrunderkundung geändert.",
+   "stand_note": "",
+   "statement": "Vibro Trucks rütteln mit einer Platte am Boden; die seismischen Wellen dringen mehrere tausend Meter tief ein und werden von Geophonen aufgezeichnet.",
+   "question": "Wie erkundeten die Vibro Trucks in Wien den Untergrund?",
+   "answer": "Mit Rüttelplatten und seismischen Wellen",
+   "distractors": [
+    "Mit Infrarotkameras",
+    "Mit Probebohrungen alle 100 Meter",
+    "Mit Wärmesensoren an der Oberfläche"
+   ],
+   "aha": "In den Untergrund schauen kann niemand, also schickt man Schall hinein und hört dem Echo zu. Die reflektierten Wellen landen bei Geophonen, aus deren Mustern man die Gesteinsschichten ablesen kann.",
+   "quote_clean": "Diese seismischen Wellen, die in den Untergrund gehen, kommen mehrere tausend Meter tief.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 936-965 passt; „Wer sagt“-Frage mit beliebigen Distraktoren durch Inhaltsfrage ersetzt.",
+   "stand_note": "",
+   "statement": "Edith Haslinger sieht die Unsichtbarkeit der Erdwärme als Vorteil und Nachteil zugleich.",
+   "question": "Was ist laut Edith Haslinger zugleich Vor- und Nachteil der Erdwärme?",
+   "answer": "Dass man sie kaum sieht",
+   "distractors": [
+    "Dass sie so viel Platz braucht",
+    "Dass sie nur im Winter funktioniert",
+    "Dass sie so viel Strom braucht"
+   ],
+   "aha": "Windräder und Solarpaneele kann man besichtigen, eröffnen und fotografieren. Erdwärme liegt unter der Erde – deshalb will der 2018 gegründete Verein Geothermie Österreich sie zumindest in den Köpfen sichtbarer machen.",
+   "quote_clean": "Ein Vorteil und gleichzeitig ein Nachteil der Geothermie ist, dass sie wenig sichtbar ist.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Sprecherzuordnung mit beliebigen Distraktoren, kaum Erkenntnisgewinn.",
+   "stand_note": "",
+   "statement": "Erdwärme ist laut Edith Haslinger keine Spinnerei, sondern etwas für grundvernünftige Leute, denen die Umwelt am Herzen liegt.",
+   "question": "Wer sagt: Erdwärme ist für grundvernünftige Leute, denen die Umwelt am Herzen liegt?",
+   "answer": "Edith Haslinger",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Wiener Energiestadtrat",
+    "Ein Heizungsinstallateur"
+   ],
+   "aha": "Andreas hatte frech gefragt, ob ihr Erdwärme-Kleingartenhaus eine Spinnerei sei. Ihre Antwort: Wer nicht fossil heizen will, hat damit eine der guten Möglichkeiten.",
+   "quote_clean": "Es ist eigentlich für grundvernünftige Leute, denen die Umwelt am Herzen liegt.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Beleg bei 1429-1476 passt, als Meinung formuliert; unbelegte Gashahn-Aussage im aha entfernt.",
+   "stand_note": "",
+   "statement": "Edith Haslinger hält vernetzte Gebäude mit eigenen Wärmepumpen in Niedertemperatur-Wärme- und Kältenetzen für die Zukunft der Raumheizung.",
+   "question": "Was hält Edith Haslinger für die Zukunft der Raumheizung?",
+   "answer": "Vernetzte Gebäude mit Wärmepumpen",
+   "distractors": [
+    "Eine Gastherme pro Wohnung",
+    "Große zentrale Kohlekraftwerke",
+    "Elektrische Infrarotpaneele überall"
+   ],
+   "aha": "Statt jede Wohnung mit eigener Therme hängen Gebäude in einem Netz, in dem jedes Wärme oder Kälte beziehen und abgeben kann – je nachdem, wann und auf welchem Temperaturniveau man sie braucht.",
+   "quote_clean": "Und das ist meiner Meinung nach die Zukunft der Raumheizung: dass Gebäude intelligent in Niedertemperatur-, Wärme- und Kältenetzen miteinander verbunden sind.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zur Gesprächsführung, Antwort nicht aus Wissen ableitbar.",
+   "stand_note": "",
+   "statement": "Andreas fragt Edith Haslinger provokant, ob ihre Erdwärmeanlage im Kleingartenhaus eine Öko-Spinnerei ist.",
+   "question": "Wie fragt Andreas Edith Haslinger nach ihrer Erdwärme im Kleingartenhaus?",
+   "answer": "Ob das eine Spinnerei ist",
+   "distractors": [
+    "Ob sie das bereut",
+    "Ob die Nachbarn sich beschwert haben",
+    "Ob das Haus jetzt wärmer ist"
+   ],
+   "aha": "Typisch Andreas: Er stellt die Frage, die sich viele denken, und sagt gleich dazu, dass sie ein bisschen gemein ist.",
+   "quote_clean": "Was ihr in eurem Haus im 14. Bezirk gemacht habt – ist das, ich sage jetzt gemein, eine Spinnerei von jemandem, dem Umwelt und Klima am Herzen liegen?",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 2090-2100 passt; unbelegte Ankündigung im aha entfernt, Spielwert gering.",
+   "stand_note": "",
+   "statement": "In seiner Zusammenfassung gibt Andreas zu, dass ihm die Funktionsweise der Wärmepumpe ab einem gewissen Punkt zu kompliziert war.",
+   "question": "Was gesteht Andreas in seiner Zusammenfassung über die Wärmepumpe?",
+   "answer": "Der Rest war ihm zu kompliziert",
+   "distractors": [
+    "Dass er selbst eine hat",
+    "Dass er sie für überschätzt hält",
+    "Dass er Physik studiert hat"
+   ],
+   "aha": "Das Kältemittel verdampft schon bei niedrigen Temperaturen – bis hierher hat Andreas es verstanden, den Rest fand er ehrlich gesagt zu kompliziert. Zum Glück reicht das Grundprinzip fürs Mitreden.",
+   "quote_clean": "Die Wärmepumpe arbeitet mit einem Kältemittel, das schon bei niedrigen Temperaturen verdampft – alles Weitere war mir ehrlich gesagt zu kompliziert.",
+   "quality": 2
+  }
+ ],
+ "id": "111",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

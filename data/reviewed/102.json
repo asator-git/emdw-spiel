@@ -1,0 +1,287 @@
+{
+ "reviews": [
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Popper betont selbst, dass die 60 Prozent eine fremde Annahme (Drosten, Krammer) und nicht seine Hypothese sind; als Spielfakt heute irreführend.",
+   "stand_note": "Stand 2020",
+   "statement": "Im März 2020 gingen Virolog:innen davon aus, dass sich bis zu knapp 60 Prozent der Bevölkerung infizieren müssten, damit die Epidemie endet.",
+   "question": "Wie viel Prozent der Menschen in Österreich müssten sich laut der Annahme, auf die das TU-Modell im März 2020 kalibriert war, infizieren und immun werden?",
+   "answer": "Bis zu knapp 60 Prozent",
+   "distractors": [
+    "Rund 10 Prozent",
+    "Rund 25 Prozent",
+    "Über 90 Prozent"
+   ],
+   "aha": "Die Zahl stammt nicht von den Mathematikern selbst, sondern von Virologen wie Christian Drosten. Popper betont: Das ist eine Annahme von vielen, nicht ihre eigene Hypothese, und sie war der Ausgangspunkt für die Worst-Case-Rechnung.",
+   "quote_clean": "Wir haben unser Modell auf eine Annahme kalibriert, nämlich, dass bis zu knapp 60 Prozent der Menschen in Österreich diese Krankheit bekommen und sich immunisieren müssen.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "transkription"
+   ],
+   "note": "Popper nennt die Zahl nur aus dem Gedächtnis ('glaube ich', 'sagen die Zahlen'); unsichere Quelle für eine Zahlenfrage.",
+   "stand_note": "",
+   "statement": "In Österreich erkranken pro Jahr etwa 200.000 bis 300.000 Menschen an der Grippe.",
+   "question": "Wie viele Menschen erkranken in Österreich ungefähr pro Jahr an der Grippe?",
+   "answer": "200.000 bis 300.000",
+   "distractors": [
+    "20.000 bis 30.000",
+    "2.000 bis 3.000",
+    "2 bis 3 Millionen"
+   ],
+   "aha": "Die Grippe ist eine andere Krankheit, aber sie zeigt: Eine Viruswelle pro Jahr gehört eh zum Leben dazu. Entscheidend ist für Popper, dass die Krankenhäuser mit der Zahl der Schwerkranken zurechtkommen.",
+   "quote_clean": "Man muss ja sagen, auch wenn die Grippe eine andere Erkrankung ist: Wir haben im Jahr auch, glaube ich, 200.000, 300.000 Grippekranke, zum Beispiel heuer, sagen die Zahlen.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "spielbarkeit"
+   ],
+   "note": "Pandemie-Altersgrenzen aus Studien von 2020 sind heute irreführend; 'Ab 65' als Distraktor ist zudem nicht eindeutig falsch. Außerdem Aussage von Andreas als Zusammenfassung, nicht des Gasts.",
+   "stand_note": "Stand 2020",
+   "statement": "In Studien zum Coronavirus beginnt die Gruppe der Älteren schon bei 60 Jahren, ein leicht erhöhtes Risiko gibt es ab 50.",
+   "question": "Ab welchem Alter zählen Menschen in den Corona-Studien von 2020 zu den Älteren mit höherem Risiko?",
+   "answer": "Ab 60 Jahren",
+   "distractors": [
+    "Ab 70 Jahren",
+    "Ab 80 Jahren",
+    "Ab 65 Jahren"
+   ],
+   "aha": "Bei Risikogruppe denkt man an Pensionist:innen im Pflegeheim, aber die Grenze liegt viel früher. Schon ab 50 steigt das Risiko leicht an, betroffen sind also auch viele, die noch voll im Berufsleben stehen.",
+   "quote_clean": "Wie wir in Folge 101 gesehen haben, beginnt die Definition von Älteren in den Studien schon bei 60. Eigentlich gibt es schon ab 50 ein leicht ansteigendes Risiko.",
+   "quality": 2
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Spekulative Einschätzung im März 2020 ('vielleicht', 'wenn'); dass Durchseuchung ohne Symptome erfreulich sei, ist heute irreführend.",
+   "stand_note": "Stand 2020",
+   "statement": "Eine hohe Dunkelziffer bei Infektionen kann auch eine gute Nachricht sein, wenn viele Menschen ohne Symptome immun werden.",
+   "question": "Warum ist eine hohe Dunkelziffer an Infizierten laut Niki Popper nicht unbedingt schlecht?",
+   "answer": "Viele werden ohne Symptome immun",
+   "distractors": [
+    "Tests werden dadurch günstiger",
+    "Das Virus mutiert dann langsamer",
+    "Spitäler bekommen mehr Personal"
+   ],
+   "aha": "Klingt zuerst bedrohlich: Viel mehr Infizierte, als man weiß. Aber wenn die gar nicht krank werden und trotzdem immun sind, kommt man dem Ziel näher, ohne dass es auf den Intensivstationen sichtbar wird.",
+   "quote_clean": "Da muss man immer sagen, die Dunkelziffer ist in dem Fall nicht unbedingt etwas Negatives. Wenn wir nämlich sehen, dass viele Menschen es vielleicht schon haben,",
+   "quality": 2
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 1209-1247 s ok (Popper nennt es eine von zwei extrem gut wirkenden Maßnahmen); Aha enthielt unbelegtes 'wenig Aufwand'.",
+   "stand_note": "Stand 2020",
+   "statement": "Laut Simulationen gehört es zu den wirksamsten Maßnahmen, Ressourcen in den Schutz von Älteren und Pflegebedürftigen zu stecken.",
+   "question": "Welche Maßnahme wirkt in den Simulationen der TU Wien besonders gut gegen schwere Corona-Verläufe?",
+   "answer": "Ältere und Pflegebedürftige gezielt schützen",
+   "distractors": [
+    "Alle Grenzen dauerhaft schließen",
+    "Nur Großveranstaltungen absagen",
+    "Nur Masken im Freien tragen"
+   ],
+   "aha": "Wenn das Virus zu Menschen kommt, die Pflege und Betreuung brauchen, führt das in den Simulationen besonders oft zu schweren Verläufen. Deshalb setzt Popper darauf, dass dort keine kranken Menschen hinkommen.",
+   "quote_clean": "Eine zweite sehr gute Strategie ist, sehr viele Ressourcen dorthin zu bringen, wo es darum geht, ältere Menschen zu unterstützen und kranke Menschen im Sozialbereich zu pflegen.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1145-1202 s eindeutig; Distraktor 'Nur Risikogruppen isolieren' überschneidet sich mit der zweiten genannten Strategie, ersetzt.",
+   "stand_note": "Stand 2020",
+   "statement": "Am wirksamsten gegen eine Epidemie wäre es, lokale Ausbrüche sofort zu erkennen und gleich zu Beginn einzugreifen.",
+   "question": "Was wäre laut Niki Popper die allereffizienteste Strategie gegen die Ausbreitung einer Epidemie?",
+   "answer": "Lokale Ausbrüche sofort erkennen und stoppen",
+   "distractors": [
+    "Ein landesweiter Dauer-Lockdown",
+    "Alle Grenzen sofort schließen",
+    "Alle Schulen dauerhaft schließen"
+   ],
+   "aha": "Jede Epidemie beginnt irgendwo bei einer Patientin null. Wer jeden Keim gleich am Anfang findet, braucht keinen Hammer für alle. Dafür müsste man aber sehr, sehr viel testen.",
+   "quote_clean": "Was am allermeisten wirken würde, ist, sehr fokussiert herauszufinden, wo wieder ein lokaler Ausbruch ist.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Von Popper selbst als vorsichtige Vorab-Einschätzung gerahmt ('ohne dem vorgreifen zu wollen'), pandemiespezifisch und als Wer-hat's-gesagt-Frage kaum Erkenntnisgewinn.",
+   "stand_note": "Stand 2020",
+   "statement": "Freizeitkontakte lassen sich in einer Pandemie am ehesten reduzieren, ohne Arbeitsplätze zu gefährden.",
+   "question": "Wer hat's gesagt: „Freizeitkontakte lassen sich noch am ehesten reduzieren, ohne dass Arbeitsplätze gefährdet sind.“",
+   "answer": "Niki Popper",
+   "distractors": [
+    "Rudolf Anschober",
+    "Florian Krammer",
+    "Christian Drosten"
+   ],
+   "aha": "Der Simulationsforscher der TU Wien sagt das ganz nüchtern, mit dem Nachsatz: Gott sei Dank muss er das nicht entscheiden. Für junge Leute ist daheimsitzen gefühlt der größte Schaden, aber eine stillstehende Wirtschaft wäre über Monate undenkbar.",
+   "quote_clean": "Man muss sagen, Freizeitkontakte lassen sich noch am ehesten reduzieren, ohne dass Arbeitsplätze gefährdet sind.",
+   "quality": 1
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat bei 1251-1258 s belegt, Aha stimmt mit 1274-1297 s überein; leichte Wer-hat's-gesagt-Frage.",
+   "stand_note": "",
+   "statement": "Halbe Maßnahmen, etwa eine Quarantäne mit vielen Ausnahmen, funktionieren in der Epidemiebekämpfung häufig schlecht.",
+   "question": "Wer hat's gesagt: „Was sehr häufig nicht gut funktioniert, sind halbe Geschichten.“",
+   "answer": "Niki Popper",
+   "distractors": [
+    "Rudolf Anschober",
+    "Florian Krammer",
+    "Christian Drosten"
+   ],
+   "aha": "Wenn die Hälfte rein und raus darf, bringt die Quarantäne oft wenig. Eine Ausnahme hält er für vertretbar: den Güterverkehr, weil viel weniger Menschen Lkw fahren als täglich über die Grenze pendeln.",
+   "quote_clean": "Was sehr häufig nicht gut funktioniert, sind halbe Geschichten. Wenn ich sage, ich mache in einem Bereich eine Quarantäne, aber ich mache Ausnahmen, weil ich die ja machen muss.",
+   "quality": 2
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Zitat bei 864 s belegt; im Aha war das 'Zeltfest' nicht im Transkript, entfernt.",
+   "stand_note": "",
+   "statement": "Bei Epidemie-Maßnahmen ist Hausverstand im Sinn von „das Naheliegende nehmen“ gefährlich, praktisches Wissen über Abläufe aber wertvoll.",
+   "question": "Wer hat's gesagt: „Hausverstand ist in dem Zusammenhang für mich immer ein bisschen gefährlich.“",
+   "answer": "Niki Popper",
+   "distractors": [
+    "Rudolf Anschober",
+    "Florian Krammer",
+    "Christian Drosten"
+   ],
+   "aha": "Andreas hatte nach Hausverstand gefragt, und der Simulationsforscher hat höflich widersprochen. Das Naheliegende ist bei Epidemien oft falsch, praktisches Wissen darüber, wie ein System funktioniert, hingegen Gold wert.",
+   "quote_clean": "Hausverstand ist in dem Zusammenhang für mich immer ein bisschen gefährlich, weil es für mich andeutet, das Naheliegende zu nehmen.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Kalibrieren bei 411-456 s sauber erklärt, Aha deckt sich mit dem Transkript.",
+   "stand_note": "",
+   "statement": "Beim Kalibrieren eines Agentenmodells gibt man das Ergebnis vor und sucht die Eingabeparameter, die dazu führen.",
+   "question": "Was passiert, wenn man ein Agentenmodell wie das der TU Wien kalibriert?",
+   "answer": "Man gibt das Ergebnis vor",
+   "distractors": [
+    "Man löscht alte Daten",
+    "Man halbiert die Bevölkerung",
+    "Man rechnet ohne Kontakte"
+   ],
+   "aha": "Klingt nach Schummeln, ist aber ein Optimierungsproblem: Wenn man nur das Ergebnis kennt, sucht man die Eingaben, mit denen neun Millionen virtuelle Menschen genau dorthin kommen. Dabei lernt man etwas über die Parameter, die man sonst nicht messen kann.",
+   "quote_clean": "Ich gebe vor, welches Ergebnis ich haben möchte, und dann kommt das auch heraus. Das klingt jetzt ein bisschen wie ein fieser Trick.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg bei 1300-1344 s eindeutig; Einschätzung von März 2020, das Prinzip (Ansteckung ohne Symptome) gilt aber weiter.",
+   "stand_note": "Stand 2020",
+   "statement": "Grenzkontrollen nach Symptomen funktionieren schlecht, weil Infizierte das Virus schon ohne Symptome weitergeben können.",
+   "question": "Warum funktionieren Grenzschließungen laut Niki Popper mittelfristig nicht?",
+   "answer": "Infizierte ohne Symptome fallen nicht auf",
+   "distractors": [
+    "Das Virus überlebt keine Grenze",
+    "Lkw-Fahrer sind immun",
+    "Züge fahren dann nicht mehr"
+   ],
+   "aha": "Die zwei Hustenden im Zug haben wahrscheinlich nur einen Schnupfen, die drei Unauffälligen vielleicht das Virus. Um alle zu erwischen, müsste man jeden mehrere Tage an der Grenze festhalten.",
+   "quote_clean": "Ich habe da immer das Beispiel genannt: Wenn man einen Zug anhält und die zwei Hustenden rausholt, dann haben die mit ziemlicher Wahrscheinlichkeit einen Schnupfen. Aber es könnten drei drin sitzen, die ganz normal ausschauen, überhaupt keine Symptome haben, aber das Virus in sich haben.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Von Andreas bei 621-634 s erklärt, Aha deckt sich mit 636-654 s; Begriff stammt aus der Frühphase der Pandemie.",
+   "stand_note": "Stand 2020",
+   "statement": "Das Bild „Der Hammer und der Tanz“ beschreibt einen harten Lockdown, gefolgt von einer Phase, in der Maßnahmen schrittweise gelockert und nachjustiert werden.",
+   "question": "Wofür steht im Bild „Der Hammer und der Tanz“ der Hammer?",
+   "answer": "Für den harten Lockdown",
+   "distractors": [
+    "Für die Impfkampagne",
+    "Für die Grenzkontrollen",
+    "Für die Massentests"
+   ],
+   "aha": "Den Hammer kann man nicht ewig schwingen, das zeigen Arbeitslosenzahlen und Psyche. Danach kommt der Tanz: öffnen, schauen, was mit den Neuinfektionen passiert, und wieder nachjustieren.",
+   "quote_clean": "Hast du diesen Artikel gesehen, The Hammer and the Dance, der Hammer und der Tanz? Kurz für unsere Zuhörerinnen und Zuhörer erklärt: Der Hammer, das ist die Maßnahme, die wir jetzt kennen, alle bleiben zu Hause, fast alle Geschäfte haben zu.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2231-2251 s eindeutig; reine Gesprächsfrage, geringer Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Andreas schloss das Gespräch mit einer Frage, von der er schon wusste, dass sein Gast sie nicht mögen würde: dem Blick in die Glaskugel.",
+   "question": "Mit welcher Frage, die sein Gast „nicht mögen wird“, beendet Andreas das Gespräch mit Niki Popper?",
+   "answer": "Wann gibt es wieder Normalität?",
+   "distractors": [
+    "Wie viele werden noch sterben?",
+    "Wann kommt der Impfstoff?",
+    "Wer ist schuld an der Krise?"
+   ],
+   "aha": "Eine Frage, auf die ein Modellierer keine Zahl geben will. Popper antwortet trotzdem: Normalität kommt bald, aber sie wird ein bisschen anders ausschauen als noch vor ein paar Wochen.",
+   "quote_clean": "Letzte Frage, Niki, du wirst sie nicht mögen. Ein Blick in die Glaskugel: Wann gibt es wieder so etwas wie Normalität in Österreich?",
+   "quality": 2
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 1976-2011 s ok; Aha behauptete eine frühere Präzisierung, die im Ausschnitt nicht belegt ist, und 'Gesundheitsministerium' wird nicht genannt (nur 'der Bundesminister').",
+   "stand_note": "Stand 2020",
+   "statement": "Niki Popper stellte richtig, dass er nicht im Krisenstab sitzt, sondern im Expertengremium, das den Bundesminister berät.",
+   "question": "Was stellt Niki Popper richtig, als Andreas ihn auf den Krisenstab anspricht?",
+   "answer": "Er sitzt im Expertengremium",
+   "distractors": [
+    "Er leitet den Krisenstab",
+    "Er war nie in Wien",
+    "Er ist eigentlich Virologe"
+   ],
+   "aha": "Im Expertengremium sitzen vor allem Medizinerinnen, Virologen und Leute aus dem Apothekenbereich. Popper ist dort, wie er selbst sagt, der Simulationsmensch.",
+   "quote_clean": "Ich sitze nicht im Krisenstab, sondern die Expertinnen und Experten, und das sind ganz viele.",
+   "quality": 2
+  }
+ ],
+ "id": "102",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

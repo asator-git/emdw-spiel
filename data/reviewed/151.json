@@ -1,0 +1,276 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "400.000 sagt Andreas bei 638 (passt zu Siemens um 2010); Frage ist als Allgemeinwissen zu Siemens sauber, aber Zahl stammt nicht von Ederer.",
+   "stand_note": "Stand 2010",
+   "statement": "Der Siemens-Konzern hatte zu Brigitte Ederers Zeit im Vorstand rund 400.000 Beschäftigte weltweit.",
+   "question": "Wie viele Menschen arbeiteten rund um 2010 weltweit für Siemens?",
+   "answer": "Rund 400.000",
+   "distractors": [
+    "Rund 40.000",
+    "Rund 1,2 Millionen",
+    "Rund 150.000"
+   ],
+   "aha": "Siemens war damals einer der größten Arbeitgeber Europas, mit rund 400.000 Leuten auf der ganzen Welt. Andreas nennt Ederer deshalb den Herdenhund von 400.000 Schafen.",
+   "quote_clean": "Und warst dort dann, wenn man so will, Herdenhund von 400.000 Schafen, oder nehmen wir Menschen, die du da führen musstest.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "18.000 bei 789 klar belegt, als Siemens Österreich in Ederers Zeit.",
+   "stand_note": "Stand 2000er-Jahre",
+   "statement": "Siemens Österreich hatte zu Ederers Zeit als Generaldirektorin rund 18.000 Beschäftigte.",
+   "question": "Wie viele Beschäftigte hatte Siemens Österreich in den 2000er-Jahren ungefähr?",
+   "answer": "Rund 18.000",
+   "distractors": [
+    "Rund 3.000",
+    "Rund 60.000",
+    "Rund 7.500"
+   ],
+   "aha": "Siemens war (und ist) einer der größten Industriearbeitgeber in Österreich. Alle 18.000 kennt man als Chefin natürlich nicht, sagt Ederer, aber die führenden Verantwortlichen kannte sie noch persönlich. Im Weltkonzern in München war das dann vorbei.",
+   "quote_clean": "Wir haben damals 18.000 gehabt, natürlich kann man nicht 18.000 Leute kennen, aber ich kannte schon immer noch die führenden Verantwortlichen.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "3000 und 70 Prozent bei 947-997 belegt, auch 741 sagt 70 Prozent.",
+   "stand_note": "Stand 2005",
+   "statement": "Von rund 3000 Softwareentwicklern bei Siemens Österreich arbeiteten etwa 70 Prozent an Software für die weltweite Telefonie-Sparte des Konzerns.",
+   "question": "Wie viel Prozent der rund 3000 Software-Leute bei Siemens Österreich arbeiteten für die Telefonie-Sparte?",
+   "answer": "Rund 70 Prozent",
+   "distractors": [
+    "Rund 15 Prozent",
+    "Rund 40 Prozent",
+    "Rund 95 Prozent"
+   ],
+   "aha": "In Wien saß eine große Software-Mannschaft, die vor allem für die Telefonie des ganzen Konzerns programmierte. Als Siemens um 2005 aus dem Telefongeschäft ausstieg, stand dieser Bereich plötzlich ohne Auftrag da.",
+   "quote_clean": "Und von diesen 3000 haben 70 Prozent dieser Hochqualifizierten für die Telefonie bei Siemens weltweit gearbeitet.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 440-450 passt, aber 'womit verdient Siemens sein Geld' sagt sie nicht; Frage auf 'woraus besteht' umgestellt.",
+   "stand_note": "Stand zu Ederers Zeit",
+   "statement": "Die Medizintechnik von Siemens besteht laut Ederer in erster Linie aus bildgebenden Geräten wie Röntgen, Ultraschall und Computertomografen.",
+   "question": "Woraus besteht die Medizintechnik von Siemens laut Brigitte Ederer in erster Linie?",
+   "answer": "Aus bildgebenden Geräten wie Röntgen und CT",
+   "distractors": [
+    "Aus Medikamenten und Impfstoffen",
+    "Aus Herzschrittmachern und Implantaten",
+    "Aus Spitalsbetten und OP-Möbeln"
+   ],
+   "aha": "Wenn du schon einmal geröntgt oder in eine CT-Röhre geschoben wurdest, stehen die Chancen gut, dass Siemens draufstand. Die Medizintechnik war Ederers erstes Ressort, auch weil sie als Ex-Finanzstadträtin dort keine Verbindung zu ihrer früheren Tätigkeit hatte.",
+   "quote_clean": "Medizintechnik bei Siemens sind in erster Linie bildgebende Geräte. Jeder kennt ein Röntgengerät von uns, jeder kennt Ultraschall, jeder kennt einen Computertomografen.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Ederers Beschreibung ist ungenau (PET arbeitet mit radioaktivem Tracer, nicht einfach Kontrastmittel); die Antwort wäre fachlich schief.",
+   "stand_note": "",
+   "statement": "Ein PET-CT ist ein spezieller Computertomograf, der mithilfe eines Kontrastmittels Vorgänge und Veränderungen im Körper noch genauer sichtbar macht.",
+   "question": "Was ist ein PET-CT?",
+   "answer": "Ein CT, das mit Kontrastmittel genauer zeigt",
+   "distractors": [
+    "Ein Ultraschallgerät für Haustiere",
+    "Ein Röntgengerät ganz ohne Strahlung",
+    "Ein mobiles EKG für daheim"
+   ],
+   "aha": "Das PET-CT verbindet einen Computertomografen mit einer Methode, die zeigt, wo im Körper etwas aktiv ist.",
+   "quote_clean": "Und am Schluss gab es zu meiner Zeit noch PET-CTs. Das sind spezielle Computertomografen, die wir entwickelt haben.",
+   "quality": 1
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg 371-376 passt; Distraktor 'Ampeln' ist riskant, weil Siemens tatsächlich Ampeln baut. Ersetzt.",
+   "stand_note": "",
+   "statement": "Die Stadt Wien kaufte zu Ederers Zeit als Finanzstadträtin bei Siemens unter anderem Straßenbahnen und U-Bahnen.",
+   "question": "Was hat die Stadt Wien, als Ederer Finanzstadträtin war, unter anderem bei Siemens gekauft?",
+   "answer": "Straßenbahnen und U-Bahnen",
+   "distractors": [
+    "Schiffe und Fähren",
+    "Müllautos und Kehrmaschinen",
+    "Busse und Taxis"
+   ],
+   "aha": "Siemens baut nicht nur Elektronik, sondern ganze Züge und Kraftwerke. Ederer kannte den Konzern deshalb schon als Käuferin, bevor sie die Seiten wechselte.",
+   "quote_clean": "Wir bauten zu meiner Zeit ein Kraftwerk, das dann Siemens geliefert hat. Wir kauften Straßenbahnen und U-Bahnen.",
+   "quality": 2
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Anekdote 852-886 klar belegt: Löscher sagt zwei, drei Wochen, Ederer wusste, es dauert viel länger.",
+   "stand_note": "",
+   "statement": "In einem Weltkonzern dauert es viel länger als die Konzernspitze glaubt, bis eine Vorstandsentscheidung in allen Ländern tatsächlich gelebt wird.",
+   "question": "Der Siemens-Chef schätzte, eine Vorstandsregel sei in zwei, drei Wochen in Vietnam angekommen. Was meinte Ederer?",
+   "answer": "Es dauert viel, viel länger",
+   "distractors": [
+    "Es geht sogar in wenigen Tagen",
+    "Die Schätzung passt ziemlich genau",
+    "Solche Regeln kommen dort nie an"
+   ],
+   "aha": "Zwischen dem Vorstand in München und einer Filiale in Vietnam liegt eine lange Kaskade aus Regional- und Länderchefs. Bis eine Regel da unten durchsickert und wirklich so gelebt wird, wie es sich der Vorstand vorstellt, vergeht viel mehr Zeit, als man oben glaubt.",
+   "quote_clean": "Ich habe dem damaligen Generaldirektor Peter Löscher, der war Österreicher, gesagt, wie lange er glaubt, dass eine Regelung, die wir im Vorstand in München beschließen, braucht, bis sie zum Beispiel in Vietnam oder in Serbien ist.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Großmutter-Frage 573-591 belegt, schöner Bezug zum Podcast.",
+   "stand_note": "",
+   "statement": "Brigitte Ederer prüfte Mitarbeitende, indem sie fragte, ob sie ihr Projekt auch ihrer Großmutter erklären könnten.",
+   "question": "Mit welcher Frage testete Brigitte Ederer, ob jemand sein Projekt wirklich versteht?",
+   "answer": "„Haben Sie eine Großmutter?“",
+   "distractors": [
+    "„Würden Sie selbst investieren?“",
+    "„Was sagt Ihr Betriebsrat dazu?“",
+    "„Passt das auf eine Folie?“"
+   ],
+   "aha": "Wer sich wirklich auskennt, kann es auch der Oma erklären, war Ederers Test. Andreas freut das besonders, weil genau das das Prinzip von Erklär mir die Welt ist.",
+   "quote_clean": "Ich habe immer gesagt: Haben Sie eine Großmutter? Dann waren die meisten total irritiert und haben gesagt: Ja, natürlich haben wir eine Großmutter.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg 596-614 stimmt; thematisch doppelt zur Großmutter-Frage, daher nur mittlere Qualität. Aha enger am Gesagten formuliert.",
+   "stand_note": "",
+   "statement": "Wer ein Thema wirklich durchdacht hat, kann es einfach erklären; wer herumredet und viele Folien braucht, hat es laut Ederer oft selbst nicht bis ins Detail durchdacht.",
+   "question": "Woran erkennt man laut Brigitte Ederer, dass jemand sein eigenes Projekt nicht ganz durchdacht hat?",
+   "answer": "Er redet herum und braucht tausend Folien",
+   "distractors": [
+    "Er spricht zu schnell und zu leise",
+    "Er nennt keine konkreten Zahlen",
+    "Er verweist auf den Vorgesetzten"
+   ],
+   "aha": "Komplizierte Erklärungen sind oft kein Zeichen von Kompetenz. Wer verschwurbelt, hat es meist selbst nicht bis ins Detail durchdacht, sagt Ederer.",
+   "quote_clean": "Ich schwöre es Ihnen, wenn Menschen sich wirklich auskennen, wenn sie wissen, worum es geht, können sie das so einfach erklären, einfacher geht es nicht.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Herdenhund bei 309-327 klar belegt.",
+   "stand_note": "",
+   "statement": "Brigitte Ederer verglich ihre Rolle als Führungskraft mit einem Herdenhund, der die Herde in die richtige Richtung lenkt.",
+   "question": "Mit welchem Tier verglich Brigitte Ederer ihre Rolle als Chefin?",
+   "answer": "Mit einem Herdenhund",
+   "distractors": [
+    "Mit einem Leitwolf",
+    "Mit einer Bienenkönigin",
+    "Mit einem Adler"
+   ],
+   "aha": "Kein Leitwolf, der vorne wegläuft, sondern ein Hund, der rundherum kreist und schaut, dass alle in die richtige Richtung gehen. Das sei in der Politik und in der Wirtschaft ziemlich ähnlich, sagt Ederer.",
+   "quote_clean": "Ich habe manchmal das Beispiel gemacht: Ich komme mir vor wie ein Herdenhund, der um ein Rudel kreist und schaut, dass das Rudel in die richtige Richtung geht.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Ein Jahr bei 510-521 belegt; Aha enthielt Ausschmückungen (Quartal, Budgetrunde), die nicht gesagt wurden.",
+   "stand_note": "",
+   "statement": "Wer neu in eine Führungsposition kommt, braucht laut Ederer etwa ein Jahr, bis er alles einmal durchlaufen hat und weiß, worum es geht.",
+   "question": "Wie viel Zeit sollte man sich laut Brigitte Ederer in einem neuen Führungsjob zum Einarbeiten geben?",
+   "answer": "Ein Jahr",
+   "distractors": [
+    "Hundert Tage",
+    "Drei Wochen",
+    "Fünf Jahre"
+   ],
+   "aha": "Das Schwierigste daran ist die Geduld, sagt Ederer: Als Neue will man sofort die Welt niederreißen und alles besser machen. Es dauert aber ein Jahr, bis man alles einmal durchlaufen hat und weiß, worum es geht.",
+   "quote_clean": "Erstens muss man Geduld haben und sich ein Jahr Zeit geben. Das ist das Schwierigste, weil man neu in einen Job kommt und gleich die Welt niederreißen möchte.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Zahnarzt-Vergleich 1315-1324 belegt; die Pointe der Assistentin ist im Transkript unklar, daher nur noch das sicher Belegte (sie lachte).",
+   "stand_note": "",
+   "statement": "Brigitte Ederer verglich ihren Kalender als Siemens-Vorständin mit dem eines Zahnarztes, weil sie ununterbrochen Stundentermine hatte.",
+   "question": "Mit welchem Beruf verglich Brigitte Ederer ihren Kalender voller Stundentermine?",
+   "answer": "Mit einem Zahnarzt",
+   "distractors": [
+    "Mit einer Friseurin",
+    "Mit einem Fluglotsen",
+    "Mit einer Volksschullehrerin"
+   ],
+   "aha": "Ein Termin nach dem anderen, jeweils eine Stunde, wie beim Zahnarzt. Ihre Assistentin hat darüber nur gelacht.",
+   "quote_clean": "Ich habe einmal zu meiner Assistentin gesagt, ich komme mir vor wie ein Zahnarzt, ich habe ununterbrochen diese Stundentermine, nicht halbe Stunden, aber Stundentermine, und sie hat gelacht.",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Aussage 1792-1800 belegt, klar als Ederers persönliche Haltung.",
+   "stand_note": "",
+   "statement": "Brigitte Ederer meint, wer in einer verantwortungsvollen Position nichts gestalten oder verändern will, sollte den Job besser bleiben lassen.",
+   "question": "Was rät Brigitte Ederer Menschen, die in einem Führungsjob nichts verändern wollen?",
+   "answer": "Sie sollen es bleiben lassen",
+   "distractors": [
+    "Sie sollen mehr delegieren",
+    "Sie sollen in die Politik gehen",
+    "Sie sollen länger durchhalten"
+   ],
+   "aha": "Dicke Bretter bohren kostet enorm viel Energie, in der Politik wie in der Privatwirtschaft, sagt Ederer. Wer das nicht will, macht besser einen einfacheren Job.",
+   "quote_clean": "Aber man muss es machen, es ist alternativlos. Wenn man in einem Job nichts will, dann sollte man es bleiben lassen.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage nach Andreas' letzter Frage ist schwach und hat alberne Distraktoren; stattdessen die belegte Antwort (1757-1763) abgefragt.",
+   "stand_note": "",
+   "statement": "Aus ihren Vorstandsjahren ist Brigitte Ederer ein leichtes Misstrauen gegenüber dem Verhalten von Menschen geblieben.",
+   "question": "Was ist Brigitte Ederer aus ihren Vorstandsjahren laut eigener Aussage geblieben?",
+   "answer": "Ein leichtes Misstrauen gegenüber Menschen",
+   "distractors": [
+    "Mehr Gelassenheit in Krisen",
+    "Mehr Vertrauen in Hierarchien",
+    "Eine Abneigung gegen Meetings"
+   ],
+   "aha": "Ihre Erfahrung: Menschen reagieren in Ausnahmesituationen unvorhersehbar. Manche, denen sie wenig zugetraut hätte, waren hervorragend, andere entpuppten sich als feig.",
+   "quote_clean": "Was mir schon geblieben ist, ist ein gewisses leichtes Misstrauen, was das Verhalten von Menschen betrifft.",
+   "quality": 4
+  }
+ ],
+ "id": "151",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

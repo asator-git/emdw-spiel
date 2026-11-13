@@ -1,0 +1,738 @@
+{
+ "theme": "Gesundheit & Körper",
+ "summary": "Wie wäre unser Leben ohne Antibiotika? Infektiologe Christoph Wenisch über Syphilis, Mikrobiom, Resistenzen und warum kürzer oft besser ist.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 473,
+   "speaker": "Christoph Wenisch",
+   "quote": "also ich war halt schon lang tot, ja, von Durchschnittsalter als Favoritner bis gestorben, um etwa mit 44 Jahren, eben oft durch die Tuberkulose,",
+   "quote_clean": "Ich wäre schon lang tot. Das Durchschnittsalter, mit dem man als Favoritner gestorben ist, lag bei etwa 44 Jahren, eben oft durch die Tuberkulose.",
+   "statement": "Um 1898 starben Menschen in Wien-Favoriten im Schnitt mit etwa 44 Jahren, oft an Tuberkulose.",
+   "question": "Mit wie vielen Jahren starben Menschen in Wien-Favoriten um 1898 im Durchschnitt?",
+   "answer": "Mit etwa 44 Jahren",
+   "distractors": [
+    "Mit etwa 32 Jahren",
+    "Mit etwa 58 Jahren",
+    "Mit etwa 66 Jahren"
+   ],
+   "number_value": 44,
+   "number_unit": "Jahre",
+   "slider_min": 20,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Christoph hat für die Folge alte Krankenhausbücher von 1898 gelesen. Fast alles, woran die Leute damals gestorben sind, waren Infektionen: Tuberkulose, Lungenentzündung, eine kleine Wunde mit Steinchen drin. Mit 59 wäre er dort längst tot gewesen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Geschichte",
+    "Lebenserwartung",
+    "Wien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 559,
+   "speaker": "Christoph Wenisch",
+   "quote": "heutzutage kriegt das keiner mit, ja, man kriegt seine Kur, ja, es sind konkret üblicherweise drei Spritzen und Syphilis ist erledigt.",
+   "quote_clean": "Heutzutage kriegt das keiner mit. Man kriegt seine Kur, konkret üblicherweise drei Spritzen, und die Syphilis ist erledigt.",
+   "statement": "Syphilis wird heute üblicherweise mit drei Penicillin-Spritzen geheilt.",
+   "question": "Wie viele Spritzen braucht es heute üblicherweise, um Syphilis zu heilen?",
+   "answer": "Drei",
+   "distractors": [
+    "Eine",
+    "Zehn",
+    "Zwanzig"
+   ],
+   "number_value": 3,
+   "number_unit": "Spritzen",
+   "slider_min": 1,
+   "slider_max": 20,
+   "log_scale": false,
+   "aha": "Früher war Syphilis unheilbar und konnte Haut, Gehirn und sogar die Hauptschlagader angreifen. Heute merkt niemand etwas: ein paar Wochen Penicillin, meist drei Spritzen, und die Sache ist erledigt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Syphilis",
+    "Penicillin"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 519,
+   "speaker": "Christoph Wenisch",
+   "quote": "damals hat man so Quecksilberkuren gemacht und dieses Quecksilber hat halt die unangenehme Eigenschaft, dass er sich in den Zähnen anlagert und dann kriegst du schwarze Zähne,",
+   "quote_clean": "Damals hat man Quecksilberkuren gemacht, und dieses Quecksilber hat die unangenehme Eigenschaft, dass es sich in den Zähnen anlagert, und dann kriegst du schwarze Zähne.",
+   "statement": "Vor den Antibiotika behandelte man Syphilis mit Quecksilberkuren, die die Zähne schwarz färbten.",
+   "question": "Woran erkannte man früher oft, dass jemand wegen Syphilis behandelt wurde?",
+   "answer": "An schwarzen Zähnen",
+   "distractors": [
+    "An gelben Fingernägeln",
+    "An kahlen Stellen am Kopf",
+    "An blauen Lippen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Quecksilberkur lagerte sich in den Zähnen ab, und jeder wusste: schwarze Zähne, da hast du Syphilis. Wer es sich leisten konnte, hat die Zähne geschminkt und blieb bei Empfängen nur kurz, bevor der Speichel die Schminke runterwusch.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Syphilis",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 350,
+   "speaker": "Christoph Wenisch",
+   "quote": "Wir hatten in Wien überall Schilder, da ist draufgestanden, Spucken verboten, weil wenn man da ausspuckt, sind natürlich diese Tuberkulose-Bakterien übertragen worden",
+   "quote_clean": "Wir hatten in Wien überall Schilder, da ist draufgestanden: Spucken verboten. Weil wenn man ausspuckt, sind diese Tuberkulose-Bakterien übertragen worden.",
+   "statement": "In Wien hingen früher überall Schilder mit „Spucken verboten“, weil Spucke Tuberkulose übertrug.",
+   "question": "Warum hingen in Wien früher überall Schilder mit „Spucken verboten“?",
+   "answer": "Gegen die Ausbreitung der Tuberkulose",
+   "distractors": [
+    "Gegen verschmutzte Gehsteige",
+    "Gegen die Ausbreitung der Cholera",
+    "Gegen Streit in der Straßenbahn"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Tuberkulose, damals Schwindsucht genannt, ging von Mensch zu Mensch, und Spucke war ein Hauptweg. Behandeln konnte man sie nicht, also legte man Kranke in die Sonne, etwa am Semmering. Heute schluckt man Tabletten, und das Ding geht weg.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Tuberkulose",
+    "Wien",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 689,
+   "speaker": "Christoph Wenisch",
+   "quote": "der hat so einen Pilz zufällig auf einer Bakterienplatte drauf gehabt und das war eben ein Pilz, logisch, wie heißt der Penicillium und der hat eben dieses Penicillin gebildet,",
+   "quote_clean": "Der hatte zufällig einen Pilz auf einer Bakterienplatte, und das war eben ein Pilz namens Penicillium, und der hat dieses Penicillin gebildet.",
+   "statement": "Alexander Fleming entdeckte Penicillin, weil zufällig ein Penicillium-Pilz auf einer Bakterienplatte wuchs und rundherum keine Bakterien wuchsen.",
+   "question": "Wie entdeckte Alexander Fleming das Penicillin?",
+   "answer": "Ein Pilz wuchs zufällig auf Bakterien",
+   "distractors": [
+    "Er testete gezielt tausende Pflanzen",
+    "Er analysierte Blut von Genesenen",
+    "Er untersuchte verdorbene Milch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Rund um den Schimmelpilz wuchsen keine Bakterien, und genau das fiel Fleming auf. Daraus wurde der Wirkstoff isoliert, benannt nach dem Pilz Penicillium. Im Zweiten Weltkrieg rettete er dann vielen verletzten Soldaten Arme, Beine und Leben.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Penicillin",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 766,
+   "speaker": "Christoph Wenisch",
+   "quote": "also gegen das Toxin, da wird mit dem Toxin wird einem Pferd hineingespritzt, das Pferd produziert, ein Pferd produziert natürlich viel Antikörper, weil es groß ist",
+   "quote_clean": "Gegen das Toxin wird einem Pferd das Toxin hineingespritzt, und ein Pferd produziert natürlich viele Antikörper, weil es groß ist.",
+   "statement": "Das Gegengift gegen Diphtherie wird bis heute aus Antikörpern von Pferden gewonnen.",
+   "question": "Aus welchem Tier gewinnt man bis heute Antikörper als Gegengift bei Diphtherie?",
+   "answer": "Aus Pferden",
+   "distractors": [
+    "Aus Schafen",
+    "Aus Kaninchen",
+    "Aus Hühnern"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Vor den Antibiotika gab es die Serumtherapie: Man spritzt einem Tier den Erreger oder sein Gift, es bildet Antikörper, und die bekommt der Mensch. Bei Diphtherie macht man das bis heute, und das Pferd eignet sich, weil es groß ist und viel Antikörper liefert.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Diphtherie",
+    "Serumtherapie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 865,
+   "speaker": "Christoph Wenisch",
+   "quote": "Entwicklung eines Präparats kostet eine Milliarde Dollar, Euro, sagt man so, salopp. Das hat leider dazu geführt, dass die Entwicklung ein bisschen stehen geblieben ist.",
+   "quote_clean": "Die Entwicklung eines Präparats kostet eine Milliarde Dollar oder Euro, sagt man so salopp. Das hat leider dazu geführt, dass die Entwicklung ein bisschen stehen geblieben ist.",
+   "statement": "Die Entwicklung eines neuen Antibiotikums kostet grob eine Milliarde Euro, weshalb die Forschung ins Stocken geraten ist.",
+   "question": "Wie viele Millionen Euro kostet die Entwicklung eines neuen Antibiotikums grob?",
+   "answer": "Rund 1000 Millionen Euro",
+   "distractors": [
+    "Rund 50 Millionen Euro",
+    "Rund 200 Millionen Euro",
+    "Rund 5000 Millionen Euro"
+   ],
+   "number_value": 1000,
+   "number_unit": "Millionen Euro",
+   "slider_min": 10,
+   "slider_max": 10000,
+   "log_scale": true,
+   "aha": "Eine Milliarde, salopp gesagt, und das für ein Mittel, das man möglichst selten verschreiben soll. Darum ist seit dem großen Boom in den 1990ern wenig Neues gekommen, und der Fokus liegt heute auf resistenten Keimen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Pharmaforschung",
+    "Kosten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1428,
+   "speaker": "Christoph Wenisch",
+   "quote": "das ist lebensentscheidend, ja, man spricht davon sieben Prozent pro Stunde, was die Sterblichkeit ansteigt,",
+   "quote_clean": "Das ist lebensentscheidend. Man spricht von sieben Prozent pro Stunde, um die die Sterblichkeit ansteigt.",
+   "statement": "Bei einer Sepsis steigt die Sterblichkeit um etwa sieben Prozent pro Stunde, die das Antibiotikum zu spät kommt.",
+   "question": "Um wie viel Prozent steigt bei einer Sepsis die Sterblichkeit pro Stunde Verzögerung bis zum Antibiotikum?",
+   "answer": "Um etwa 7 Prozent",
+   "distractors": [
+    "Um etwa 1 Prozent",
+    "Um etwa 15 Prozent",
+    "Um etwa 25 Prozent"
+   ],
+   "number_value": 7,
+   "number_unit": "Prozent pro Stunde",
+   "slider_min": 0,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Die Ärzt:innen nennen das Door-to-Antibiotic-Time: von der Krankenhaustür bis zum Antibiotikum in der Vene. Bei einer Sepsis brennt der Hut, jede Stunde zählt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Sepsis",
+    "Notfall"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1031,
+   "speaker": "Christoph Wenisch",
+   "quote": "heißt ja Antibios, also gegen das Leben. Aber das soll ja gegen das Leben des Bakteriums gerichtet sein, nicht gegen das Leben des Patienten.",
+   "quote_clean": "Es heißt ja Antibios, also gegen das Leben. Aber das soll ja gegen das Leben des Bakteriums gerichtet sein, nicht gegen das Leben des Patienten.",
+   "statement": "Das Wort Antibiotikum kommt aus dem Griechischen und bedeutet sinngemäß „gegen das Leben“.",
+   "question": "Was bedeutet das Wort „Antibiotikum“ wörtlich?",
+   "answer": "Gegen das Leben",
+   "distractors": [
+    "Gegen die Krankheit",
+    "Gegen das Fieber",
+    "Für die Gesundheit"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bios heißt Leben, anti heißt gegen. Gemeint ist natürlich das Leben des Bakteriums, nicht das des Patienten, der hat eh schon eine Krankheit. Darum muss der Arzt immer zwei Rechnungen machen: was hilft gegen den Keim, und was verträgt dieser Mensch.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Begriffe",
+    "Antibiotika"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1139,
+   "speaker": "Christoph Wenisch",
+   "quote": "Wenn ich aber da verlegte Kranzgefäße zum Beispiel habe, kann ich nach der Lungenentzündung einen Herzinfarkt bekommen. Das gleiche Schlaganfall.",
+   "quote_clean": "Wenn ich aber verlegte Herzkranzgefäße habe, kann ich nach der Lungenentzündung einen Herzinfarkt bekommen. Das Gleiche gilt für den Schlaganfall.",
+   "statement": "Eine Lungenentzündung verschlechtert den Gasaustausch und kann so bei vorgeschädigten Gefäßen einen Herzinfarkt oder Schlaganfall auslösen.",
+   "question": "Was kann eine Lungenentzündung bei Menschen mit verengten Herzkranzgefäßen auslösen?",
+   "answer": "Einen Herzinfarkt",
+   "distractors": [
+    "Eine Blinddarmentzündung",
+    "Einen Bandscheibenvorfall",
+    "Eine Schilddrüsenüberfunktion"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Lunge liefert weniger Sauerstoff, und das Herz braucht genau den für seinen Muskel. Sind die Gefäße schon verkalkt, oft ohne dass man es weiß, kippt es. Christoph sagt: Oft ist die Lungenentzündung die Henne und der Schlaganfall das Ei.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Lungenentzündung",
+    "Herz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1192,
+   "speaker": "Christoph Wenisch",
+   "quote": "Das heißt, oft ist die Lungenentzündung die Henne und das Ei ist dann der Schlaganfall. Mit dem Schlaganfall entsteht dann der Pflegefall",
+   "quote_clean": "Oft ist die Lungenentzündung die Henne, und das Ei ist dann der Schlaganfall. Mit dem Schlaganfall entsteht dann der Pflegefall.",
+   "statement": "Christoph Wenisch beschreibt die Lungenentzündung als „Henne“, aus der oft ein Schlaganfall als „Ei“ entsteht.",
+   "question": "Wer hat's gesagt: „Oft ist die Lungenentzündung die Henne und das Ei ist dann der Schlaganfall“?",
+   "answer": "Christoph Wenisch",
+   "distractors": [
+    "Andreas Sator",
+    "Florian Krammer",
+    "Gabriele Berg"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Infektiologe meint die sogenannten heterotopen Effekte: Eine Infektion schadet nicht nur dort, wo sie sitzt. Über den gestörten Sauerstoffhaushalt trifft sie vorgeschädigte Organe, und aus einer Lungenentzündung wird im schlimmsten Fall ein Pflegefall.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Lungenentzündung",
+    "Schlaganfall"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1593,
+   "speaker": "Christoph Wenisch",
+   "quote": "das ist innerhalb von zwei Tagen Krankenhaus, hat man andere Bakterien auf der Haut, der Patient, auch wenn man kein Antibiotikum kriegt.",
+   "quote_clean": "Innerhalb von zwei Tagen im Krankenhaus hat der Patient andere Bakterien auf der Haut, auch wenn er kein Antibiotikum kriegt.",
+   "statement": "Schon nach etwa zwei Tagen im Krankenhaus haben Patient:innen andere Bakterien auf der Haut, auch ohne Antibiotika.",
+   "question": "Nach wie vielen Tagen im Krankenhaus hat man schon eine andere Bakterienflora auf der Haut?",
+   "answer": "Nach etwa zwei Tagen",
+   "distractors": [
+    "Nach etwa einer Woche",
+    "Nach etwa drei Wochen",
+    "Nach etwa zwei Monaten"
+   ],
+   "number_value": 2,
+   "number_unit": "Tage",
+   "slider_min": 0,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Desinfektionsmittel, Stresshormone, Handschuhe, Plastik und Spitalsessen verändern die Flora schnell. Ähnliches passiert übrigens auf Reisen: Raus aus dem gewohnten Umfeld, zack, nach zwei Tagen andere Bakterien.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Mikrobiom",
+    "Krankenhaus"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1676,
+   "speaker": "Christoph Wenisch",
+   "quote": "Früher hat man gesagt, das musst du immer das Backerl ausnehmen, ja, jetzt weiß man, bei einem Handwerksinfekt, wenn ich da habe, drei Tage, bitte schön, das reicht,",
+   "quote_clean": "Früher hat man gesagt, du musst immer das Packerl aufbrauchen. Jetzt weiß man: Bei einem Harnwegsinfekt reichen drei Tage, bitte schön.",
+   "statement": "Die Regel, Antibiotika immer bis zum Ende der Packung zu nehmen, gilt als Mythos; bei einem Harnwegsinfekt reichen oft drei Tage.",
+   "question": "Wie lange reicht bei einem einfachen Harnwegsinfekt oft schon die Antibiotika-Therapie?",
+   "answer": "Drei Tage",
+   "distractors": [
+    "Zwei Wochen",
+    "Zehn Tage",
+    "Drei Wochen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am wirksamsten sind die ersten 48 Stunden. Das neue Mantra heißt: kürzer ist besser, aus 14 Tagen werden zehn, aus fünf drei. Bei manchen Harnwegsinfekten reicht sogar eine einzige Tablette, und das Mikrobiom dankt es dir.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Therapiedauer",
+    "Mythos"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1794,
+   "speaker": "Christoph Wenisch",
+   "quote": "es werden ja etwa 70% der Antibiotika, werden ja, in Österreich, wenn wir es jetzt auf Kilogramm, was die Menschen halt da essen, werden ja im Niederglasernbereich, also nicht im Krankenhaus gegeben, ja, nur 30% sind im Krankenhaus",
+   "quote_clean": "Etwa 70 Prozent der Antibiotika in Österreich, gerechnet in Kilogramm, werden im niedergelassenen Bereich gegeben, also nicht im Krankenhaus. Nur 30 Prozent sind im Krankenhaus.",
+   "statement": "In Österreich werden rund 70 Prozent der Antibiotika außerhalb von Krankenhäusern verschrieben, oft für Infekte, die von selbst heilen.",
+   "question": "Wie viel Prozent der Antibiotika werden in Österreich außerhalb der Krankenhäuser gegeben?",
+   "answer": "Etwa 70 Prozent",
+   "distractors": [
+    "Etwa 30 Prozent",
+    "Etwa 50 Prozent",
+    "Etwa 90 Prozent"
+   ],
+   "number_value": 70,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Der Großteil geht an Hausärzt:innen und andere Niedergelassene, und vieles davon für selbstlimitierende Infekte, zur Absicherung. Die haben oft keine Blutabnahme oder Bildgebung zur Hand und müssen blitzartig entscheiden, da gewinnt manchmal die Angst.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Österreich",
+    "Verschreibung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1870,
+   "speaker": "Christoph Wenisch",
+   "quote": "die im Skandinavien, die haben auch Schnupfen, ja, die haben auch Bronchitis, ja, aber die nehmen die Hälfte Antibiotika für diese Zustandsbilder, wie es wir nehmen,",
+   "quote_clean": "Die in Skandinavien haben auch Schnupfen, die haben auch Bronchitis, aber die nehmen für diese Zustandsbilder halb so viele Antibiotika wie wir.",
+   "statement": "Bei harmlosen Atemwegsinfekten nehmen Skandinavier:innen etwa halb so viele Antibiotika wie Österreicher:innen, Franzosen etwa doppelt so viele.",
+   "question": "Wie viele Antibiotika nehmen Skandinavier:innen bei Schnupfen und Bronchitis im Vergleich zu Österreich?",
+   "answer": "Etwa halb so viele",
+   "distractors": [
+    "Etwa gleich viele",
+    "Etwa doppelt so viele",
+    "Etwa ein Zehntel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Schnupfen haben alle gleich oft, verschrieben wird sehr unterschiedlich. Frankreich nimmt doppelt so viel wie wir, Österreich liegt im Mittelfeld. Oder wie Christoph sagt: Raum für Verbesserung hätten wir.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Europa",
+    "Verschreibung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2027,
+   "speaker": "Christoph Wenisch",
+   "quote": "dass innerhalb von drei bis sechs Monaten das Mikrobiom sich auf den Zustand wieder einbändelt, wie es vor diesem antibiotischen Insult,",
+   "quote_clean": "dass sich das Mikrobiom innerhalb von drei bis sechs Monaten wieder auf den Zustand einpendelt, wie er vor diesem antibiotischen Insult war.",
+   "statement": "Bei jüngeren, sozial gut eingebetteten Menschen erholt sich das Mikrobiom drei bis sechs Monate nach einer Antibiotika-Therapie wieder.",
+   "question": "Wie lange braucht das Mikrobiom gesunder jüngerer Menschen, um sich nach Antibiotika zu erholen?",
+   "answer": "Drei bis sechs Monate",
+   "distractors": [
+    "Zwei bis drei Tage",
+    "Ein bis zwei Wochen",
+    "Fünf bis zehn Jahre"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die gute Nachricht: Das Mikrobiom fängt sich wieder. Ein stabiles soziales Umfeld hilft dabei, weil wir ständig Bakterien mit den Menschen austauschen, mit denen wir leben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mikrobiom",
+    "Erholung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2365,
+   "speaker": "Christoph Wenisch",
+   "quote": "dass es ein ganz schmales Chirurgisches gibt, das wie ein Laserschwert nur diesen einen Keim rausschneidet, das ist nicht der Fall, die haben alle ein relativ breites Wirkspektrum,",
+   "quote_clean": "Dass es ein ganz schmales, chirurgisches Antibiotikum gibt, das wie ein Laserschwert nur diesen einen Keim rausschneidet, das ist nicht der Fall. Die haben alle ein relativ breites Wirkspektrum.",
+   "statement": "Es gibt kein Antibiotikum, das wie ein Laserschwert nur einen einzigen Keim trifft; alle haben ein relativ breites Wirkspektrum.",
+   "question": "Gibt es Antibiotika, die gezielt nur einen einzigen Krankheitserreger treffen?",
+   "answer": "Nein, alle wirken relativ breit",
+   "distractors": [
+    "Ja, die meisten modernen",
+    "Ja, aber nur gegen Viren",
+    "Ja, alle Schmalspur-Antibiotika"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Einteilung in Breitband und Schmalspur hält Christoph für archaisch. Jedes Antibiotikum hat sein Spektrum, und da sind immer x Bakterien drin. Darum ist das Mikrobiom bei jeder Therapie ein Opfer.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wirkspektrum",
+    "Mikrobiom"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2741,
+   "speaker": "Christoph Wenisch",
+   "quote": "die zum Beispiel in der Haut akkumulieren eine Zeit lang. Das hat man sich auch zunutze gemacht für die Therapie der Akne. Das sind eben diese Thetrazykline.",
+   "quote_clean": "die zum Beispiel eine Zeit lang in der Haut akkumulieren. Das hat man sich für die Therapie der Akne zunutze gemacht. Das sind eben diese Tetrazykline.",
+   "statement": "Tetrazykline reichern sich in der Haut an, weshalb man sie gegen Akne einsetzt; dafür können sie in der Sonne starke Sonnenbrände auslösen.",
+   "question": "Gegen welches Hautproblem setzt man Antibiotika ein, die sich in der Haut anreichern?",
+   "answer": "Gegen Akne",
+   "distractors": [
+    "Gegen Schuppenflechte",
+    "Gegen Neurodermitis",
+    "Gegen Altersflecken"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Man nimmt ganz wenig und hat ein, zwei Wochen lang Wirkstoff in der Haut. Der Haken: Manche sind phototoxisch, und dann wird der Ausflug ins Solarium zum riesigen Sonnenbrand.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Haut",
+    "Nebenwirkungen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2905,
+   "speaker": "Christoph Wenisch",
+   "quote": "Es gibt zum Beispiel die Aminoglykoside, die machen Nierenversagen, und Hörstörung, die würde man niemandem so ganz einfach geben.",
+   "quote_clean": "Es gibt zum Beispiel die Aminoglykoside, die machen Nierenversagen und Hörstörungen, die würde man niemandem so ganz einfach geben.",
+   "statement": "Aminoglykoside sind billige Antibiotika, die aber Nierenversagen und Hörstörungen verursachen können und daher als Reserve gelten.",
+   "question": "Welche Nebenwirkung können Aminoglykoside neben Nierenschäden verursachen?",
+   "answer": "Hörstörungen",
+   "distractors": [
+    "Haarausfall",
+    "Farbenblindheit",
+    "Geschmacksverlust"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Reserveantibiotika sind nicht nur die teuren, neuen, sondern auch die giftigen. Aminoglykoside kosten fast nichts, früher hat man sie locker gegeben, heute landen sie wegen Niere und Gehör in der Reserveschublade.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Reserveantibiotika",
+    "Nebenwirkungen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3253,
+   "speaker": "Christoph Wenisch",
+   "quote": "die nicht weggehen aus der Natur, ja, die bleiben da, die werden nicht, die sind, werden nicht abgebaut, das ist quasi eine Ewigkeitschemikalie, ja, das sind die Kinolonen,",
+   "quote_clean": "die nicht aus der Natur weggehen, die bleiben da, die werden nicht abgebaut, das ist quasi eine Ewigkeitschemikalie. Das sind die Chinolone.",
+   "statement": "Chinolon-Antibiotika werden in der Natur kaum abgebaut und wirken quasi wie Ewigkeitschemikalien.",
+   "question": "Welche Antibiotika-Gruppe bleibt in der Umwelt wie eine Ewigkeitschemikalie erhalten?",
+   "answer": "Die Chinolone",
+   "distractors": [
+    "Die Penicilline",
+    "Die Cephalosporine",
+    "Die Tetrazykline"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Indien wird viel Antibiotika produziert, und in den Flüssen unterhalb der Fabriken schwimmen resistente Bakterien. Chinolone werden kaum abgebaut, die bleiben uns erhalten. Darum heißt es: sorgsam umgehen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Umwelt",
+    "Resistenzen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3212,
+   "speaker": "Christoph Wenisch",
+   "quote": "ich habe das sogar mal geäußert im Ministerium, gesagt, machen wir Antibiotika Steuer, weil die machen einen Flurschaden, ja, Ökosteuer,",
+   "quote_clean": "Ich habe das sogar mal im Ministerium geäußert: Machen wir eine Antibiotika-Steuer, weil die machen einen Flurschaden. Ökosteuer.",
+   "statement": "Christoph Wenisch hat im Ministerium eine Ökosteuer auf Antibiotika vorgeschlagen, weil sie durch Resistenzen einen Flurschaden anrichten.",
+   "question": "Wer hat's gesagt: „Machen wir Antibiotika-Steuer, weil die machen einen Flurschaden“?",
+   "answer": "Christoph Wenisch",
+   "distractors": [
+    "Andreas Sator",
+    "Florian Krammer",
+    "Doris Burtscher"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Idee hatte er schon als Student: Wer Antibiotika produziert, verschreibt oder nimmt, soll ein bisschen was für die künftigen Resistenzen zahlen. Mehrheitsfähig war das nicht, aber im Ministerium hat er es trotzdem gesagt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Resistenzen",
+    "Ökosteuer"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1903,
+   "speaker": "Christoph Wenisch",
+   "quote": "Virusinfekt wird ausgesessen, ja, das ist auch die, das muss man wirklich machen, wie ein Kollegen, den man halt nicht haben möchte,",
+   "quote_clean": "Ein Virusinfekt wird ausgesessen. Das muss man wirklich machen, wie bei einem Kollegen, den man halt nicht haben möchte.",
+   "statement": "Christoph Wenisch rät, einen Virusinfekt auszusitzen wie einen unliebsamen Kollegen, statt Antibiotika zu nehmen.",
+   "question": "Wer vergleicht einen Virusinfekt mit einem Kollegen, „den man halt nicht haben möchte“?",
+   "answer": "Christoph Wenisch",
+   "distractors": [
+    "Andreas Sator",
+    "Gabriele Berg",
+    "Florian Krammer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gegen Viren helfen Antibiotika eh nicht. Also: Tee, Nasentropfen, ins Bett legen und das Fieber nicht runterdrücken, um weiterzuarbeiten. Das schont das Mikrobiom und macht am wenigsten Schaden.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Virusinfekt",
+    "Erkältung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 294,
+   "speaker": "Andreas Sator",
+   "quote": "Gehen wir davon aus, in der heutigen Welt, in der schönen, bequemen, moderne, ist alles so, wie es jetzt ist, außer es gibt kein Antibiotika,",
+   "quote_clean": "Gehen wir davon aus, in der heutigen schönen, bequemen, modernen Welt ist alles so, wie es jetzt ist, außer es gibt keine Antibiotika.",
+   "statement": "Andreas steigt mit einem Gedankenexperiment ein: Die moderne Welt, nur ohne Antibiotika, was wäre anders?",
+   "question": "Mit welchem Gedankenexperiment startet Andreas in die Antibiotika-Folge?",
+   "answer": "Heutige Welt, aber ohne Antibiotika",
+   "distractors": [
+    "Mittelalter, aber mit Antibiotika",
+    "Eine Welt ganz ohne Bakterien",
+    "Antibiotika gratis für alle"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Christophs Antwort kam in einem Wort: „Alles.“ Syphilis unheilbar, Tuberkulose überall, eine kleine Wunde reicht. Typisch Andreas: erst einmal das Selbstverständliche wegdenken.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Gedankenexperiment"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 3794,
+   "speaker": "Andreas Sator",
+   "quote": "Ich frage am Ende meine Gäste immer, was ihr Sinn des Lebens ist. Hast du bei dir darüber nachgedacht?",
+   "quote_clean": "Ich frage am Ende meine Gäste immer, was ihr Sinn des Lebens ist. Hast du darüber nachgedacht?",
+   "statement": "Andreas fragt seine Gäste am Ende jeder Folge nach ihrem Sinn des Lebens.",
+   "question": "Was fragt Andreas seine Gäste am Ende immer?",
+   "answer": "Was ihr Sinn des Lebens ist",
+   "distractors": [
+    "Was sie heute gefrühstückt haben",
+    "Wovor sie am meisten Angst haben",
+    "Was ihr größter Fehler war"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Christoph antwortete: Ich möchte morgen besser sein als heute, nicht nur für mich, sondern auch für andere. Und er gab zu, dass er damit oft Leuten auf die Nerven geht.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Sinn des Lebens"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 2808,
+   "speaker": "Christoph Wenisch",
+   "quote": "Nein, ich bin immer noch Student. Also das bleibt das ganze Leben. Also bei dem Beruf, da kann man nie aufhören.",
+   "quote_clean": "Nein, ich bin immer noch Student. Das bleibt das ganze Leben. In diesem Beruf kann man nie aufhören.",
+   "statement": "Nach seiner langen Ausbildung sagt Christoph Wenisch, er sei immer noch Student, weil man in der Medizin nie auslernt.",
+   "question": "Was antwortet Christoph, als Andreas scherzt, er habe nach der langen Ausbildung erst vor zwei Jahren zu arbeiten begonnen?",
+   "answer": "Er sei immer noch Student",
+   "distractors": [
+    "Er sei schon in Pension",
+    "Er habe nie gearbeitet",
+    "Er habe zu früh angefangen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Sechs Jahre Studium, sechs Jahre Innere Medizin, drei Jahre Infektiologie, drei Jahre Intensivmedizin. Und trotzdem: Wer in dem Beruf stehen bleibt, ist verloren, sagt er, und dankt den Studierenden für ihre unbequemen Fragen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Ausbildung",
+    "Medizin"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "413",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

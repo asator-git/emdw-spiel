@@ -1,0 +1,287 @@
+{
+ "reviews": [
+  {
+   "statement": "Ein symmetrisches Gesicht gilt biologisch als Hinweis auf eine stabile Entwicklung ohne viele Störungen.",
+   "question": "Worauf deutet ein symmetrisches Gesicht aus biologischer Sicht hin?",
+   "answer": "Auf eine stabile Entwicklungsgeschichte",
+   "distractors": [
+    "Auf eine hohe Intelligenz",
+    "Auf einen ruhigen Charakter",
+    "Auf ein hohes Lebensalter"
+   ],
+   "aha": "Wer als Kind wenig Krankheiten, Umweltgifte und Hunger erlebt hat, wächst gleichmäßiger. Symmetrie ist also so etwas wie ein Zeugnis über die eigene Kindheit, das man im Gesicht herumträgt.",
+   "quote_clean": "Das deutet darauf hin, dass der Organismus, der wenig asymmetrisch ist – also der Mensch, der ein symmetrisches Gesicht hat –, eine sehr stabile Entwicklungsgeschichte hinter sich hat.",
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Ein symmetrisches Gesicht deutet darauf hin, dass jemand in der Entwicklung wenig Krankheiten und Umweltgiften ausgesetzt und gut ernährt war.",
+   "question": "Welche Bedingungen in der Entwicklung begünstigen laut Biologie ein symmetrisches Gesicht?",
+   "answer": "Wenig Krankheiten, gute Ernährung",
+   "distractors": [
+    "Viel Sonnenlicht, viel Bewegung",
+    "Viel Schlaf, wenig Stress",
+    "Viel Körperkontakt, viel Sprache"
+   ],
+   "aha": "Krankheiten, Gifte und Hungerphasen bringen das Wachstum kurz aus dem Takt, und das sieht man später oft als kleine Ungleichmäßigkeit. Ein ebenmäßiges Gesicht erzählt also von einer eher ruhigen Kindheit.",
+   "quote_clean": "Das heißt, da waren wenige Krankheiten, wenige Umweltgifte, stabile Ernährungszustände und dergleichen vorhanden.",
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Redundant zu Kandidat 0.",
+   "stand_note": "",
+   "quality": 2
+  },
+  {
+   "statement": "Symmetrie wirkt nicht nur bei Menschen, sondern auch im Tierreich anziehend.",
+   "question": "Bei wem wirkt Symmetrie laut Verhaltensbiologie anziehend?",
+   "answer": "Bei Menschen und Tieren",
+   "distractors": [
+    "Nur bei Menschen",
+    "Nur bei Säugetieren",
+    "Nur bei westlichen Kulturen"
+   ],
+   "aha": "Die Vorliebe für Symmetrie ist keine Modeerscheinung aus Hollywood, die gibt's auch bei Tieren. Sie ist ein uraltes Signal dafür, dass ein Körper mit den Herausforderungen der Umwelt gut zurechtkommt.",
+   "quote_clean": "Das wäre so ein Konstruktionsmerkmal, das sich sowohl im Tierreich als auch bei Menschen positiv auf die Attraktivität auswirkt.",
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, leichte Frage.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Die Verhaltensbiologin lehnt den Begriff „einprogrammiert“ ab, weil menschliches Verhalten nicht starr nach Schema abläuft.",
+   "question": "Wer hat's gesagt: „Einprogrammiert finde ich einen ganz schwierigen Begriff“?",
+   "answer": "Elisabeth Oberzaucher",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Hörerin",
+    "Devendra Singh"
+   ],
+   "aha": "Biologie legt uns manches nahe, zwingt uns aber zu nix. Darum mag Elisabeth das Wort „einprogrammiert“ gar nicht: Wir dürfen eh auch einmal etwas Asymmetrisches toll finden.",
+   "quote_clean": "Einprogrammiert finde ich einen ganz schwierigen Begriff. Den würde ich wirklich nicht verwenden, weil das so klingt, als liefe es genau und immer nach diesem Schema ab.",
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat-es-gesagt-Frage.",
+   "stand_note": "",
+   "quality": 1
+  },
+  {
+   "statement": "Dass Sex und Partnerwahl heute von Fortpflanzung getrennt sind, ist eine kulturelle Folge der Verhütung.",
+   "question": "Was hat Partnerwahl und Sexualität von der Fortpflanzung entkoppelt?",
+   "answer": "Die Verhütung",
+   "distractors": [
+    "Die Industrialisierung",
+    "Die Ehe",
+    "Die Urbanisierung"
+   ],
+   "aha": "Evolutionär gesehen hieß Sex lange einfach: Nachwuchs. Erst Verhütung hat das auseinandergerissen, unsere Partnerwahl funktioniert aber noch mit Mechanismen aus der Zeit davor.",
+   "quote_clean": "Dass wir heute die Fortpflanzung von Partnerwahl und Sexualität entkoppelt haben, ist eigentlich nur eine Erfindung der Verhütung.",
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Aha enthielt Instinkt-Formulierung, die der Aussage der Gästin widerspricht; angepasst.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Geschlechtstypische Gesichtsmerkmale steigern die Attraktivität, aber nur bis zu einem Punkt; zu starke Ausprägung wirkt wieder weniger attraktiv.",
+   "question": "Was passiert mit der Attraktivität, wenn Hormonmerkmale im Gesicht sehr stark ausgeprägt sind?",
+   "answer": "Sie nimmt wieder ab",
+   "distractors": [
+    "Sie steigt immer weiter",
+    "Sie bleibt völlig gleich",
+    "Sie spielt keine Rolle mehr"
+   ],
+   "aha": "Ein bisschen kantiges Kinn oder betonte Wangenknochen kommen gut an, weil sie Sexualhormone signalisieren. Aber wie so oft gilt: Zu viel des Guten kippt.",
+   "quote_clean": "Je geschlechtstypischer ein Gesicht, desto attraktiver – aber nur bis zu einem gewissen Grad. Wenn solche Hormonmarker zu stark ausgeprägt sind, wird es wieder weniger attraktiv.",
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Dass Menschen nicht mehr wie Hunde aneinander schnüffeln, hängt wahrscheinlich mit dem aufrechten Gang zusammen – riechen tun wir einander trotzdem.",
+   "question": "Was hat wahrscheinlich dazu geführt, dass wir nicht mehr wie Hunde aneinander schnüffeln?",
+   "answer": "Der aufrechte Gang",
+   "distractors": [
+    "Die Erfindung der Kleidung",
+    "Das Leben in Städten",
+    "Die Entwicklung der Sprache"
+   ],
+   "aha": "Vermutlich liegt es daran, dass wir aufrecht gehen und die Nase nicht mehr auf Hinterteilhöhe haben. Ganz abgeschaltet ist der Geruch aber nicht: Spätestens beim Küssen nehmen wir unser Gegenüber auch über die Nase wahr.",
+   "quote_clean": "Das ist etwas, was durch den aufrechten Gang wahrscheinlich verloren gegangen ist. Aber wir schnuppern durchaus aneinander.",
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Hypothese im Aha als Tatsache formuliert; abgeschwächt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Eine Erklärung für Schönheit lautet: Wir finden Dinge schön, die unser Gehirn leicht verarbeiten kann.",
+   "question": "Welche Erklärung gibt es, warum wir manche Dinge schön finden?",
+   "answer": "Das Gehirn kann sie leicht verarbeiten",
+   "distractors": [
+    "Sie erinnern uns an die Kindheit",
+    "Sie kommen in der Natur selten vor",
+    "Sie sind besonders farbenfroh"
+   ],
+   "aha": "Das faule Gehirn, im Prinzip: Was sich mühelos erfassen lässt, fühlt sich gut an. Schönheit wäre dann ein bisschen auch Bequemlichkeit unseres Denkapparats.",
+   "quote_clean": "Die andere Überlegung ist, dass sich unsere Sinnesorgane und unser Gehirn viel leichter tun, diese schönen Dinge zu verstehen und zu verarbeiten. Deswegen finden wir sie schön, weil unser Gehirn alles toll findet, womit es sich leicht tut.",
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Zuschreibung des faulen Gehirns an Andreas nicht eindeutig belegt; entfernt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Bei einer Studie zu Kleidung stellte sich heraus, dass Studierende der WU genauso angezogen waren wie jene am Biozentrum.",
+   "question": "Was kam bei Elisabeths Kleidungsstudie heraus, als sie WU- und Biologie-Studierende verglich?",
+   "answer": "Sie schauten genau gleich aus",
+   "distractors": [
+    "Die WU-Leute trugen nur Anzüge",
+    "Die Biologen trugen nur Birkenstock",
+    "Die WU-Leute waren eleganter"
+   ],
+   "aha": "Man hätte gewettet: Birkenstock auf der Bio, Sakko auf der WU. Die systematischen Daten sagten aber: kein Unterschied. Ein schönes Beispiel dafür, wie unzuverlässig Alltagsbeobachtungen sind.",
+   "quote_clean": "Als wir dann systematisch Daten erhoben haben, sind wir draufgekommen: Die auf der WU schauen genauso aus wie die auf der Biologie.",
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt als Anekdote.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Weil wir uns mit den medial überrepräsentierten Schönen vergleichen, fühlen wir uns oft schlechter, als wir sind.",
+   "question": "Wer hat's gesagt: „Im Vergleich zu denen schneidet man halt leider ein bisschen ab wie die armen Würsteln“?",
+   "answer": "Elisabeth Oberzaucher",
+   "distractors": [
+    "Andreas Sator",
+    "Devendra Singh",
+    "Eine Hörerin"
+   ],
+   "aha": "Die Science Busterin bleibt auch beim ernsten Thema Selbstbild schön wienerisch. Der Punkt: Der Vergleich mit lauter Supermenschen macht uns alle zu armen Würsteln, obwohl wir eh ganz normal sind.",
+   "quote_clean": "Und dass wir uns eher nach oben orientieren und uns mit denen vergleichen, ist irgendwie naheliegend. Und im Vergleich zu denen schneidet man halt leider ein bisschen ab wie die armen Würsteln.",
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat-es-gesagt-Frage.",
+   "stand_note": "",
+   "quality": 1
+  },
+  {
+   "statement": "Männer und Frauen haben bei der Partnerwahl viel mehr gemeinsam als sie trennt; das Bild von Venus und Mars entsteht aus der Obsession mit Unterschieden.",
+   "question": "Wer hat's gesagt: „Wir haben so viel mehr gemeinsam, als uns trennt“ – über Männer und Frauen?",
+   "answer": "Elisabeth Oberzaucher",
+   "distractors": [
+    "Andreas Sator",
+    "Devendra Singh",
+    "Ein Hörer"
+   ],
+   "aha": "Auf Andreas' Frage nach Männern und Frauen seufzt sie erst einmal hörbar. Ihr Punkt: Wer nur nach Unterschieden sucht, übersieht, dass sich beide Geschlechter bei den wichtigsten Kriterien völlig einig sind.",
+   "quote_clean": "Wir haben so viel mehr gemeinsam, als uns trennt. Dieses seltsame Bild von Venus und Mars ist eigentlich nur dadurch entstanden, dass wir so eine Obsession damit haben, die Unterschiede zu finden.",
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat-es-gesagt-Frage.",
+   "stand_note": "",
+   "quality": 1
+  },
+  {
+   "statement": "Der erste Unterschied zwischen Männern und Frauen zeigt sich erst an etwa vierter bis fünfter Stelle der Partnerwahlkriterien.",
+   "question": "An welcher Stelle der Partnerwahlkriterien zeigt sich laut Elisabeth Oberzaucher der erste Unterschied zwischen Männern und Frauen?",
+   "answer": "An vierter bis fünfter Stelle",
+   "distractors": [
+    "An erster bis zweiter Stelle",
+    "An zweiter bis dritter Stelle",
+    "An neunter bis zehnter Stelle"
+   ],
+   "aha": "Erst an vierter, fünfter Stelle unterscheiden sich die Geschlechter: Männer legen etwas mehr Wert auf Attraktivität. Was davor kommt, wünschen sich alle gleichermaßen.",
+   "quote_clean": "Und erst an vierter, fünfter Stelle der Partnerwahlkriterien kommt der erste Unterschied zutage.",
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Sie sagt vierter, fünfter Stelle; Antwort angepasst, Schieberegler entfernt.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Andreas vergleicht das menschliche Riechen bei der Partnerwahl mit Hunden, die einander beschnüffeln.",
+   "question": "Mit welchem Tier vergleicht Andreas das Beschnuppern bei der Partnerwahl?",
+   "answer": "Mit dem Hund",
+   "distractors": [
+    "Mit der Katze",
+    "Mit dem Schwein",
+    "Mit dem Pferd"
+   ],
+   "aha": "Andreas bringt's wie immer direkt auf den Punkt. Elisabeths trockene Antwort: „Nicht mehr wahrscheinlich.“",
+   "quote_clean": "Der Hund geht ja hin und schnüffelt am Hintern seines Kollegen. Wir machen das ja nicht.",
+   "i": 26,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Derber Scherz von Andreas, kaum Erkenntnis.",
+   "stand_note": "",
+   "quality": 1
+  },
+  {
+   "statement": "Andreas beendet das Gespräch mit der Frage nach der biologischen Erklärung für das Verliebtsein.",
+   "question": "Mit welcher Frage beendet Andreas das Gespräch über Schönheit?",
+   "answer": "Ob es Hormone fürs Verliebtsein gibt",
+   "distractors": [
+    "Ob Schönheit vererbt wird",
+    "Ob Make-up attraktiver macht",
+    "Ob Gegensätze sich anziehen"
+   ],
+   "aha": "Nach Symmetrie, Geruch und Partnerwahlkriterien landet Andreas ganz am Ende beim Kribbeln im Bauch. Die Antwort klingt dann eher nach Chemielabor als nach Romantik.",
+   "quote_clean": "Meine letzte Frage wäre: Gibt es eine biologische Erklärung für die Liebe oder für das Verliebtsein, das Kribbeln im Bauch? Sind das gewisse Hormone?",
+   "i": 27,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Nicht die letzte Frage des Gesprächs, triviale Meta-Frage.",
+   "stand_note": "",
+   "quality": 1
+  }
+ ],
+ "id": "18",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

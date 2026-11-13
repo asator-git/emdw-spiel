@@ -1,0 +1,282 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahl bei 1431 s klar belegt (10 Prozent zur Kommission, weniger vor Gericht); Distraktoren eindeutig falsch.",
+   "stand_note": "Stand 2022",
+   "statement": "Nur etwa 10 Prozent der Anfragen bei der Gleichbehandlungsanwaltschaft landen bei der Gleichbehandlungskommission, noch weniger vor Gericht.",
+   "question": "Wie viel Prozent der Anfragen bei der Gleichbehandlungsanwaltschaft gehen bis zur Gleichbehandlungskommission?",
+   "answer": "Etwa 10 Prozent",
+   "distractors": [
+    "Etwa 30 Prozent",
+    "Etwa 50 Prozent",
+    "Etwa 2 Prozent"
+   ],
+   "aha": "Der Großteil wird vorher erledigt: Die Anwaltschaft schreibt Briefe, verlangt Auskünfte, greift zum Hörer. Die meisten Betroffenen wollen eh kein Verfahren, sondern dass es einfach aufhört.",
+   "quote_clean": "Von unseren Anfragen gehen nur 10 Prozent wirklich zur Gleichbehandlungskommission und noch einmal ein bisschen weniger sogar vor Gericht.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "1991 ist bei 1903-1913 s belegt, Lohn als Top-Thema bei 1914-1919 s; aha stimmt mit dem Ausschnitt überein.",
+   "stand_note": "",
+   "statement": "Die österreichische Gleichbehandlungsanwaltschaft hat 1991 begonnen, damals mit dem Top-Thema gleicher Lohn für gleiche Arbeit.",
+   "question": "In welchem Jahr hat die Gleichbehandlungsanwaltschaft in Österreich ihre Arbeit begonnen?",
+   "answer": "1991",
+   "distractors": [
+    "1975",
+    "2004",
+    "1983"
+   ],
+   "aha": "Am Anfang ging es vor allem um gleichen Lohn für gleiche und gleichwertige Arbeit. Das Thema ist bis heute ein Dauerbrenner, auch wenn inzwischen sexuelle Belästigung die meisten Anfragen bringt.",
+   "quote_clean": "Damit hat die Gleichbehandlungsanwaltschaft übrigens auch begonnen, das sieht man auch an einem sehr lustigen Pickerl, das wir am Anfang hatten, wo man gesehen hat, wie man uns erreicht. Das war 1991.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "2004 ist belegt; im aha stand mit „reinklagen“ eine Behauptung, die so nicht im Ausschnitt steht, daher entfernt.",
+   "stand_note": "Stand 2022",
+   "statement": "Seit 2004 schützt das österreichische Gleichbehandlungsgesetz nicht nur in der Arbeitswelt, sondern auch beim Zugang zu Gütern und Dienstleistungen.",
+   "question": "Seit welchem Jahr schützt das Gesetz in Österreich auch beim Zugang zu Gütern und Dienstleistungen vor Diskriminierung?",
+   "answer": "2004",
+   "distractors": [
+    "1992",
+    "2015",
+    "1998"
+   ],
+   "aha": "Also nicht nur im Job, sondern auch im Fitnessstudio, im Hotel oder bei der Wohnungssuche. Der Haken, den Sandra nennt: In solchen Fällen gibt es nach wie vor eigentlich nur Schadenersatz.",
+   "quote_clean": "Das ist ein recht neuer Bereich, obwohl es auch schon seit 2004 im Gesetz ist. Irgendwann hat sich das gedreht in Richtung: Nicht nur die Arbeitswelt ist diskriminierungsfrei, sondern überhaupt unser Alltagsleben.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "Aussage bei 272-277 s belegt; aha behauptete, die Stelle sei wegen des Lohnthemas gegründet worden, das steht so nicht im Ausschnitt (dort nur: 1991 war Lohn das Top-Thema). Ein Distraktor holprig.",
+   "stand_note": "Stand 2022",
+   "statement": "Sexuelle Belästigung ist das Thema, zu dem die Gleichbehandlungsanwaltschaft die meisten Anfragen bekommt.",
+   "question": "Zu welchem Thema bekommt die Gleichbehandlungsanwaltschaft die meisten Anfragen?",
+   "answer": "Sexuelle Belästigung",
+   "distractors": [
+    "Ungleiche Bezahlung",
+    "Altersdiskriminierung",
+    "Abweisung bei der Wohnungssuche"
+   ],
+   "aha": "Das reicht von unpassenden Situationen bis zu sehr massiven Vorfällen, und es trifft oft auch sehr junge Frauen. Am Anfang, 1991, war dagegen noch gleicher Lohn das Top-Thema.",
+   "quote_clean": "Das Thema sexuelle Belästigung schlägt bei uns nach wie vor am häufigsten auf. Da gibt es nach wie vor die meisten Anfragen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1190-1202 s (kein Verschulden nötig, bewirkt oder bezweckt); aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Für eine sexuelle Belästigung nach dem Gleichbehandlungsgesetz braucht es kein Verschulden: Es zählt, was das Verhalten bewirkt.",
+   "question": "Ist „Ich wollte das gar nicht“ nach dem Gleichbehandlungsgesetz eine gültige Ausrede bei sexueller Belästigung?",
+   "answer": "Nein, es braucht kein Verschulden",
+   "distractors": [
+    "Ja, Absicht ist Voraussetzung",
+    "Nur beim ersten Vorfall",
+    "Nur bei Kolleg:innen, nicht Chefs"
+   ],
+   "aha": "Entscheidend ist, ob das Verhalten die Würde verletzt, unangebracht ist und für die Betroffene unangenehm. Ob es bezweckt war, macht es höchstens schlimmer, aber bewirkt reicht schon.",
+   "quote_clean": "Die muss nicht verschuldet werden. Wir brauchen hier kein Verschulden vom Gegenüber. Dieses „Ich wollte das gar nicht“ ist eigentlich keine Ausrede.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Inhalt bei 1957-1967 s belegt, aber „offenlegen“ legt Öffentlichkeit nahe; im Ausschnitt heißt es „aufschlüsseln“. Frage präzisiert, Stand 2022 (Transparenzregeln ändern sich).",
+   "stand_note": "Stand 2022",
+   "statement": "In Österreich müssen Unternehmen ab einer gewissen Größe in Einkommensberichten aufschlüsseln, was Männer und Frauen in den Lohngruppen verdienen.",
+   "question": "Was müssen Unternehmen ab einer gewissen Größe in Österreich laut Einkommenstransparenz aufschlüsseln?",
+   "answer": "Wie viel Männer und Frauen je Lohngruppe verdienen",
+   "distractors": [
+    "Jedes einzelne Gehalt mit Namen",
+    "Nur das Gehalt der Geschäftsführung",
+    "Die Boni aller Führungskräfte"
+   ],
+   "aha": "So lassen sich strukturelle Muster erkennen, zum Beispiel warum alle Frauen in der niedrigeren Lohngruppe sitzen. Laut Sandra wäre da noch Luft nach oben, aber es gibt zumindest etwas.",
+   "quote_clean": "Unternehmen ab einer gewissen Größe müssen aufschlüsseln, wie viel Männer und Frauen in vergleichbaren Situationen, also in den Lohngruppen, verdienen.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Sandra sagt ausdrücklich, der Spruch sei nicht von ihr; „Wer hat's gesagt“ mit Antwort Sandra ist eine Fangfrage, die Distraktoren sind zudem erfunden.",
+   "stand_note": "",
+   "statement": "Über die Diskriminierung von Frauen mit Kopftuch zitiert die Leiterin der Gleichbehandlungsanwaltschaft einen Spruch aus der Community: Was am Kopf ist, sei wichtiger als was im Kopf ist.",
+   "question": "Wer hat's gesagt: „Das, was am Kopf ist, ist viel wichtiger als das, was im Kopf ist“ – als Spruch aus der Community über Kopftuch-Diskriminierung?",
+   "answer": "Sandra Konstatzky",
+   "distractors": [
+    "Andreas Sator",
+    "Hannah Herbst",
+    "Barbara Kaufmann"
+   ],
+   "aha": "Gemeint ist, dass Frauen mit Kopftuch oft gar nicht erst zum Zug kommen, egal was sie können. Sandra betont, dass der Spruch nicht von ihr ist, sondern von den Betroffenen selbst.",
+   "quote_clean": "Das, was am Kopf ist, ist viel wichtiger als das, was im Kopf ist. Das ist nicht mein Spruch, das ist aus der Community, aber ich finde, er trifft es wirklich gut.",
+   "quality": 1
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "„Wer hat's gesagt“ bei der einzigen Gästin ist trivial, Distraktoren beliebig; kein Erkenntnisgewinn.",
+   "stand_note": "",
+   "statement": "Das Gleichbehandlungsrecht kontrolliert keine Gedanken, setzt aber eine klare Grenze und macht deutlich, was rechtswidrig ist.",
+   "question": "Wer hat's gesagt: „Wir sind nicht die Gedankenpolizei. Aber das Gesetz gebietet zumindest Einhalt.“?",
+   "answer": "Sandra Konstatzky",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Psychologie-Professor",
+    "Eine Richterin am OGH"
+   ],
+   "aha": "Sandras Hoffnung ist, dass das Recht Bewusstsein schafft. Bei sexueller Belästigung hat das nach 30 Jahren funktioniert: Heute wird das in Unternehmen nicht mehr kleingeredet.",
+   "quote_clean": "Das Gesetz ist kein Gedankenkontrolleur. Wir sind nicht die Gedankenpolizei. Wenn jemand rassistisch denken will, wird er das weiterhin tun. Aber das Gesetz gebietet zumindest Einhalt.",
+   "quality": 1
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 821-823 s wörtlich belegt, Kontext sind Belästigungsfälle in der Arbeitswelt; Distraktoren klar falsch.",
+   "stand_note": "",
+   "statement": "Die meisten Betroffenen von Belästigung im Job wollen kein Geld, sondern dass es aufhört.",
+   "question": "Was wollen laut der Gleichbehandlungsanwaltschaft die meisten Betroffenen von Belästigung am Arbeitsplatz?",
+   "answer": "Dass es aufhört",
+   "distractors": [
+    "Möglichst hohen Schadenersatz",
+    "Eine Kündigung des Täters",
+    "Einen öffentlichen Prozess"
+   ],
+   "aha": "Deshalb setzt die Anwaltschaft oft schon im Vorfeld an, beim Arbeitgeber, bevor es überhaupt ein Verfahren gibt. Wichtig ist auch, dass beim anderen ankommt, dass das wirklich ein Problem war.",
+   "quote_clean": "Die wenigsten wollen wirklich den Schadenersatz. Die meisten wollen, dass es aufhört.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "No-Go bei 990-1019 s belegt; im aha war „meistens bestreitet er alles“ übertrieben, auf das Gesagte zurückgenommen.",
+   "stand_note": "",
+   "statement": "Betroffene und Belästiger sofort gemeinsam an einen Tisch zu holen, ist ein No-Go, weil es oft eine weitere Diskriminierung auslöst.",
+   "question": "Was sollten Vorgesetzte NICHT tun, wenn eine Mitarbeiterin sexuelle Belästigung meldet?",
+   "answer": "Sie sofort mit dem Belästiger zusammensetzen",
+   "distractors": [
+    "Die Meldung vertraulich behandeln",
+    "Die Ansprechstelle im Betrieb einbinden",
+    "Den Vorfall genau dokumentieren"
+   ],
+   "aha": "Die Meldung ist eine vertrauliche Handlung, und wenn der Belästiger alles bestreitet, wird es für die Betroffene noch schlimmer. Besser ist, wenn Führungskräfte wissen, dass sie handeln müssen, und es geschulte Ansprechpersonen gibt.",
+   "quote_clean": "Das ist eigentlich ein ziemliches No-Go, weil es erstens eine vertrauliche Handlung ist, zu sagen, mir ist das passiert, und man kann sie dann nicht neben ihn setzen.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Anzeichen bei 1094-1100 s belegt; Distraktor „Häufiger Wechsel des Arbeitsplatzes“ könnte ebenfalls als Anzeichen gelten, ersetzt.",
+   "stand_note": "",
+   "statement": "Mitarbeitende, die belästigt werden, ziehen sich oft aus dem sozialen Leben im Betrieb zurück und verschließen sich.",
+   "question": "Welches Anzeichen kann darauf hindeuten, dass jemand am Arbeitsplatz belästigt wird?",
+   "answer": "Rückzug aus dem sozialen Leben",
+   "distractors": [
+    "Plötzlich mehr Überstunden",
+    "Besonders viele Wortmeldungen in Meetings",
+    "Auffällig gute Laune"
+   ],
+   "aha": "Sexuelle Belästigung hat einen Machtübergriff in sich, und wer betroffen ist, macht oft dicht. Wer in einer Firma Ansprechperson ist, sollte solche Signale kennen.",
+   "quote_clean": "Es gibt Anzeichen wie: Sie ziehen sich aus dem sozialen Leben zurück, sie nehmen nicht mehr teil, sie verschließen sich mehr.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Empfehlung bei 773-781 s belegt; im aha stand „Verfahren ist nicht öffentlich“, das im Ausschnitt nicht vorkommt, entfernt.",
+   "stand_note": "",
+   "statement": "Die Gleichbehandlungsanwaltschaft berät und unterstützt, die Gleichbehandlungskommission ist eine Art Quasi-Gericht, das Empfehlungen ausspricht.",
+   "question": "Was spricht die Gleichbehandlungskommission am Ende eines Verfahrens aus?",
+   "answer": "Eine Empfehlung",
+   "distractors": [
+    "Ein rechtskräftiges Urteil",
+    "Eine Geldstrafe",
+    "Eine Strafanzeige"
+   ],
+   "aha": "Schadenersatz gibt es dadurch nicht automatisch. Mit der Empfehlung in der Hand kann die Anwaltschaft aber wieder einsteigen und eine vergleichsweise Lösung versuchen.",
+   "quote_clean": "Wir sind die beratende und unterstützende Einrichtung, und die Kommission ist so etwas wie ein Quasi-Gericht, ohne ein richtiges Gericht zu sein. Und dann kommt eine Empfehlung raus.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Fall bei 2015-2088 s belegt (fünf Freikarten nach Problematisierung durch die Anwaltschaft, Happy End in der Ausstellung).",
+   "stand_note": "",
+   "statement": "Nachdem zwei minderjährige Flüchtlinge nicht ins Fitnessstudio durften, gab das Studio nach Intervention der Gleichbehandlungsanwaltschaft fünf Freikarten her.",
+   "question": "Wie endete der Fall der zwei minderjährigen Flüchtlinge, die nicht ins Fitnessstudio durften?",
+   "answer": "Das Studio gab fünf Freikarten her",
+   "distractors": [
+    "Das Studio musste zusperren",
+    "Es gab ein Gerichtsurteil",
+    "Die Burschen bekamen Schadenersatz"
+   ],
+   "aha": "Zugeben und Wiedergutmachen steht so nicht im Gesetz, aber mit Gesprächen geht das manchmal trotzdem. Darum ist der Fall auch ein Happy End in der Ausstellung im Volkskundemuseum.",
+   "quote_clean": "Wir haben dort problematisiert, warum die nicht rein dürfen. Die haben sich dann gedacht, das ist vielleicht nicht mehr ganz zeitgemäß und außerdem rassistisch, und haben dann fünf Freikarten hergegeben.",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Standard-Begrüßung, die in jeder Folge gleich ist; kein Faktenwissen und als Frage kaum interessant.",
+   "stand_note": "",
+   "statement": "Andreas begrüßt seine Hörer:innen mit dem Satz, dass man mit dem Podcast die Welt jede Woche ein bisschen besser verstehen soll.",
+   "question": "Wie geht Andreas' Begrüßung weiter: „Das ist Erklär mir die Welt, der Podcast, mit dem du …“?",
+   "answer": "die Welt jede Woche besser verstehen sollst",
+   "distractors": [
+    "jeden Tag etwas Neues lernst",
+    "die Nachrichten endlich durchschaust",
+    "beim Abendessen mitreden kannst"
+   ],
+   "aha": "So fängt es seit Jahren an. Und genau das ist der Plan: eine Expertin, ein Thema, und danach verstehst du die Welt ein kleines Stück besser.",
+   "quote_clean": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quality": 1
+  }
+ ],
+ "id": "211",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

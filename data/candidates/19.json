@@ -1,0 +1,644 @@
+{
+ "theme": "Wirtschaft & Arbeit",
+ "summary": "Nikolaus Jilch erklärt mir, was Bitcoin eigentlich ist, wer es braucht und warum fast alle anderen Kryptowährungen wohl wieder verschwinden.",
+ "candidates": [
+  {
+   "kind": "erklaerung",
+   "t": 238,
+   "speaker": "Nikolaus Jilch",
+   "quote": "Die einfachste Antwort darauf ist, dass Bitcoin ist das erste Mal, durch Bitcoin ist es zum ersten Mal möglich, verlässlich Werte zu übertragen im Internet, von dir zu mir, zwischen zwei Personen ohne einen Mittelsmann.",
+   "quote_clean": "Die einfachste Antwort ist: Durch Bitcoin ist es zum ersten Mal möglich, verlässlich Werte im Internet zu übertragen, von dir zu mir, zwischen zwei Personen ohne einen Mittelsmann.",
+   "statement": "Bitcoin macht es erstmals möglich, verlässlich Werte im Internet zwischen zwei Personen ohne Mittelsmann zu übertragen.",
+   "question": "Was ist laut Nikolaus Jilch die eigentliche Neuerung von Bitcoin?",
+   "answer": "Werte online ohne Mittelsmann übertragen",
+   "distractors": [
+    "Anonym im Internet einkaufen können",
+    "Geld schneller drucken als Zentralbanken",
+    "Gold digital in Banken lagern"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Davor brauchtest du für jede Überweisung im Netz jemanden in der Mitte, dem beide vertrauen: eine Bank, PayPal, eine Kreditkartenfirma. Bei Bitcoin übernimmt das das Netzwerk selbst. Niko vergleicht es damit, jemandem ein Stück Gold in die Hand zu drücken.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bitcoin",
+    "Geld"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 342,
+   "speaker": "Nikolaus Jilch",
+   "quote": "Das heißt, ich kann theoretisch jede Bitcoin-Transaktion bis zu Beginn der Zeit, was bei Bitcoin 2009 ist, nachverfolgen und sehen, wo das Geld herumgewandert ist.",
+   "quote_clean": "Das heißt, ich kann theoretisch jede Bitcoin-Transaktion bis zum Beginn der Zeit, was bei Bitcoin 2009 ist, nachverfolgen und sehen, wo das Geld herumgewandert ist.",
+   "statement": "Die Bitcoin-Blockchain beginnt 2009; jede Transaktion seitdem lässt sich nachverfolgen.",
+   "question": "In welchem Jahr beginnt die Bitcoin-Blockchain, also die „Zeitrechnung“ von Bitcoin?",
+   "answer": "2009",
+   "distractors": [
+    "2003",
+    "2012",
+    "2015"
+   ],
+   "number_value": 2009,
+   "number_unit": "Jahr",
+   "slider_min": 1995,
+   "slider_max": 2020,
+   "log_scale": false,
+   "aha": "Mitten in der Finanzkrise ging Bitcoin an den Start, 2009 wurde der erste Block erzeugt. Weil die Kette nicht mehr veränderbar ist, kannst du jede Transaktion seither zurückverfolgen. Anonym ist das also nur halb.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bitcoin",
+    "Blockchain"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 332,
+   "speaker": "Nikolaus Jilch",
+   "quote": "Transaktionen werden gebündelt, verifiziert von Netzwerk und dann in eine Kette gehängt, die in der Folge nicht mehr veränderbar ist.",
+   "quote_clean": "Transaktionen werden gebündelt, vom Netzwerk verifiziert und dann in eine Kette gehängt, die in der Folge nicht mehr veränderbar ist.",
+   "statement": "Bei der Blockchain werden Transaktionen gebündelt, vom Netzwerk geprüft und an eine unveränderbare Kette gehängt.",
+   "question": "Was passiert bei einer Blockchain mit den Transaktionen?",
+   "answer": "Gebündelt, geprüft, unveränderbar angehängt",
+   "distractors": [
+    "Bei einer Zentralbank gespeichert",
+    "Nach zehn Jahren automatisch gelöscht",
+    "Einzeln an jeden Nutzer gemailt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Daher der Name: Blöcke voller Transaktionen, die aneinandergekettet werden. Niko nennt das ein globales Kassabuch, das niemand im Nachhinein umschreiben kann. Wie genau das technisch geht, muss man laut ihm gar nicht verstehen, beim Euro weißt du das ja auch nicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Blockchain"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 514,
+   "speaker": "Nikolaus Jilch",
+   "quote": "Ja, ultimativ ist der Bitcoin eine Idee, entstanden eigentlich auf dem Papier auf acht Seiten, sogenannt einem White Paper,",
+   "quote_clean": "Ultimativ ist der Bitcoin eine Idee, entstanden eigentlich auf dem Papier auf acht Seiten, einem sogenannten White Paper.",
+   "statement": "Bitcoin wurde ursprünglich in einem nur acht Seiten langen White Paper beschrieben.",
+   "question": "Wie viele Seiten hatte das White Paper, in dem Bitcoin zum ersten Mal beschrieben wurde?",
+   "answer": "8 Seiten",
+   "distractors": [
+    "3 Seiten",
+    "40 Seiten",
+    "120 Seiten"
+   ],
+   "number_value": 8,
+   "number_unit": "Seiten",
+   "slider_min": 1,
+   "slider_max": 200,
+   "log_scale": true,
+   "aha": "Eine ganze neue Währung, beschrieben auf weniger Seiten als manche Hausordnung. Das Papier zeigte nur, wie so ein System funktionieren könnte. Den Rest hat dann die Software und das Netzwerk erledigt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Bitcoin",
+    "White Paper"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 441,
+   "speaker": "Nikolaus Jilch",
+   "quote": "Ursprünglich konntest du Bitcoin minen mit deinem Laptop. Heute sind das nur noch große Konzerne im Grunde schon, die das hauptsächlich an Orten machen, wo die Elektrizität billig ist.",
+   "quote_clean": "Ursprünglich konntest du Bitcoin mit deinem Laptop minen. Heute sind das im Grunde nur noch große Konzerne, die das hauptsächlich an Orten machen, wo die Elektrizität billig ist.",
+   "statement": "Anfangs konnte man Bitcoin am Laptop minen, heute machen das fast nur große Firmen dort, wo Strom billig ist.",
+   "question": "Wo wird Bitcoin heute vor allem gemined?",
+   "answer": "Wo Strom billig ist",
+   "distractors": [
+    "In Rechenzentren der Zentralbanken",
+    "Auf privaten Laptops",
+    "Bei großen Geschäftsbanken"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Miner prüfen die Transaktionen mit Rechenleistung und werden dafür mit neuen Bitcoin belohnt. Weil das enorm viel Strom frisst, lohnt es sich nur, wo Energie günstig ist. Damals nannte Niko Island, Nordeuropa und vor allem China.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Mining",
+    "Energie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 553,
+   "speaker": "Nikolaus Jilch",
+   "quote": "weil die Idee dahinter ist, dass solange 51 Prozent des Gesamtnetzwerkes unter Anführungszeichen einer Meinung sind, solange ist alles in Ordnung.",
+   "quote_clean": "Weil die Idee dahinter ist, dass alles in Ordnung ist, solange 51 Prozent des Gesamtnetzwerkes sozusagen einer Meinung sind.",
+   "statement": "Das Bitcoin-Netzwerk gilt als sicher, solange mindestens 51 Prozent davon einer Meinung sind.",
+   "question": "Wie viel Prozent des Netzwerks müssen sich einig sein, damit bei Bitcoin alles in Ordnung ist?",
+   "answer": "51 Prozent",
+   "distractors": [
+    "33 Prozent",
+    "75 Prozent",
+    "90 Prozent"
+   ],
+   "number_value": 51,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Eine einfache Mehrheit der Rechenleistung entscheidet, was als gültig gilt. Deshalb wird das Netz sicherer, je mehr Leute mitrechnen: Wer manipulieren will, müsste mehr als die Hälfte kontrollieren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Blockchain",
+    "Sicherheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 565,
+   "speaker": "Nikolaus Jilch",
+   "quote": "Das heißt, da können dann auch Leute versuchen, Manipulationen reinzubringen, sobald wieder ein neuer Status hergestellt ist, alle zehn Minuten sind diese Manipulationen weg.",
+   "quote_clean": "Das heißt, da können dann auch Leute versuchen, Manipulationen reinzubringen, aber sobald wieder ein neuer Status hergestellt ist, alle zehn Minuten, sind diese Manipulationen weg.",
+   "statement": "Im Bitcoin-Netzwerk wird etwa alle zehn Minuten ein neuer gemeinsamer Stand hergestellt.",
+   "question": "Wie oft stellt das Bitcoin-Netzwerk ungefähr einen neuen gemeinsamen Stand her?",
+   "answer": "Alle 10 Minuten",
+   "distractors": [
+    "Jede Sekunde",
+    "Einmal pro Stunde",
+    "Einmal am Tag"
+   ],
+   "number_value": 10,
+   "number_unit": "Minuten",
+   "slider_min": 1,
+   "slider_max": 120,
+   "log_scale": true,
+   "aha": "Alle zehn Minuten kommt ungefähr ein neuer Block dazu. Manipulationsversuche, die nicht von der Mehrheit getragen werden, fliegen dabei raus. Darum dauert eine Bitcoin-Zahlung auch länger als ein Bankomatkarten-Bezahlen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Blockchain"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 580,
+   "speaker": "Nikolaus Jilch",
+   "quote": "Die Essenz des Ganzen ist, dass ich in der Lage bin, meine Konto, meine Bank in meiner Tasche mit mir herumzutragen, auf meinem Handy, auf meinem Laptop, und dass keine Bank, keine Regierung, keine Zentralbank, keine Polizei, keine Behörde der Welt auf dieses Geld Zugriff hat.",
+   "quote_clean": "Die Essenz des Ganzen ist, dass ich in der Lage bin, mein Konto, meine Bank in meiner Tasche mit mir herumzutragen, auf meinem Handy, auf meinem Laptop, und dass keine Bank, keine Regierung, keine Zentralbank, keine Polizei, keine Behörde der Welt auf dieses Geld Zugriff hat.",
+   "statement": "Nikolaus Jilch sieht die Essenz von Bitcoin darin, die eigene Bank in der Tasche zu tragen, ohne dass irgendeine Behörde Zugriff hat.",
+   "question": "Wer sagt: „Die Essenz des Ganzen ist, dass ich meine Bank in meiner Tasche mit mir herumtrage“?",
+   "answer": "Nikolaus Jilch",
+   "distractors": [
+    "Andreas Sator",
+    "Christine Lagarde",
+    "Elon Musk"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "So beschreibt Niko, warum ihn Bitcoin seit 2012 nicht loslässt: Kein Staat und keine Bank kommt an dein Geld. Das ist die Freiheit, die Fans lieben, und zugleich der Grund, warum Regierungen nervös werden.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bitcoin",
+    "Freiheit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 636,
+   "speaker": "Nikolaus Jilch",
+   "quote": "Ich glaube, die ersten ernstzunehmenden Beispiele dafür kann man beobachten, beispielsweise in Afrika, in Zimbabwe, auch in Venezuela zum Teil, in Ländern, in denen die Währung des Staates im Grunde nichts wert ist.",
+   "quote_clean": "Ich glaube, die ersten ernstzunehmenden Beispiele dafür kann man beobachten, beispielsweise in Afrika, in Simbabwe, zum Teil auch in Venezuela, in Ländern, in denen die Währung des Staates im Grunde nichts wert ist.",
+   "statement": "Sinnvoll eingesetzt wird Bitcoin vor allem in Ländern wie Simbabwe oder Venezuela, wo die Landeswährung kaum etwas wert ist.",
+   "question": "In welchen Ländern sieht Nikolaus Jilch die ersten ernsthaften Anwendungen für Bitcoin?",
+   "answer": "Länder mit wertloser Landeswährung",
+   "distractors": [
+    "Länder mit sehr hohen Steuern",
+    "Länder mit vielen Banken",
+    "Länder mit billigem Internet"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei uns ist der Euro in zwei Jahren halbwegs gleich viel wert, da fragt man sich eh, wozu Bitcoin. Wenn deine Währung aber pro Woche die Hälfte verliert, ist fast alles besser, auch ein schwankender Bitcoin.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Inflation",
+    "Bitcoin"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 692,
+   "speaker": "Nikolaus Jilch",
+   "quote": "Genau, es war einer von drei verschiedenen Varianten, mit dieser Finanzkrise umzugehen. Es gab sozusagen Griechenland, die hat man voll inhaltlich gerettet. Dann gab es Island, die hat man voll fallen lassen. Und dann gab es Zypern, das war sozusagen die Halb-Halb-Variante,",
+   "quote_clean": "Genau, es war eine von drei verschiedenen Varianten, mit dieser Finanzkrise umzugehen. Es gab Griechenland, das hat man vollinhaltlich gerettet. Dann gab es Island, das hat man voll fallen lassen. Und dann gab es Zypern, das war die Halb-halb-Variante.",
+   "statement": "In der Finanzkrise wurde Griechenland gerettet, Island fallen gelassen und Zypern bekam eine Halb-halb-Lösung mit Abgaben auf Bankguthaben.",
+   "question": "Welches Land bekam in der Finanzkrise laut Nikolaus Jilch die „Halb-halb-Variante“?",
+   "answer": "Zypern",
+   "distractors": [
+    "Griechenland",
+    "Island",
+    "Irland"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Zypern mussten Leute mit großen Guthaben einen Teil ihres Kontos abgeben, getroffen hat das vor allem reiche Russen. Bitcoin hat von dieser Krise stark profitiert, weil plötzlich klar war: Auch das Geld auf der Bank ist nicht unantastbar.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Finanzkrise",
+    "Zypern"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 884,
+   "speaker": "Nikolaus Jilch",
+   "quote": "In der klassischen Finanzkrise würde erstmal alles fallen. Auch Bitcoin. Hat man auch gesehen, wenn man jetzt den Vergleich mit Gold herzieht, in der Finanzkrise 2008. Und Folge ist also auch Gold erstmal gefallen.",
+   "quote_clean": "In der klassischen Finanzkrise würde erst einmal alles fallen, auch Bitcoin. Das hat man auch beim Vergleich mit Gold in der Finanzkrise 2008 gesehen: Auch Gold ist erst einmal gefallen.",
+   "statement": "Zu Beginn einer klassischen Finanzkrise fallen fast alle Anlagen gleichzeitig, sogar Gold – so war es 2008.",
+   "question": "Was passierte mit dem Goldpreis zu Beginn der Finanzkrise 2008?",
+   "answer": "Er fiel zunächst auch",
+   "distractors": [
+    "Er verdoppelte sich sofort",
+    "Er blieb völlig stabil",
+    "Er wurde vom Staat eingefroren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In der ersten Panik verkaufen alle alles, die Finanzleute sagen dazu: Korrelation von 1. Erst später, wenn Staaten das Geld verbilligen, suchen Leute Alternativen wie Gold. Darum ist auch Bitcoin nicht automatisch der Rettungsanker.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Finanzkrise",
+    "Gold"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 966,
+   "speaker": "Nikolaus Jilch",
+   "quote": "Also es gab mal eine Studie von der EU-Kommission, war das glaube ich, das ist erst ein Jahr her oder so, die gesagt haben, naja, wir haben uns das jetzt mal angeschaut und sind draufgekommen, im Grunde sind die klassischen Kriminellen jetzt technisch nicht so begabt, dass sie wirklich Bitcoin einsetzen.",
+   "quote_clean": "Es gab einmal eine Studie, von der EU-Kommission, glaube ich, das ist erst ein Jahr her, die gesagt hat: Wir haben uns das angeschaut und sind draufgekommen, die klassischen Kriminellen sind technisch nicht so begabt, dass sie wirklich Bitcoin einsetzen.",
+   "statement": "Eine EU-Studie kam zum Schluss, dass klassische Kriminelle Bitcoin kaum nutzen, weil sie technisch nicht versiert genug sind.",
+   "question": "Warum nutzen klassische Kriminelle laut einer EU-Studie Bitcoin weniger als gedacht?",
+   "answer": "Sie sind technisch zu wenig versiert",
+   "distractors": [
+    "Bitcoin ist für sie zu teuer",
+    "Banken melden jede Bitcoin-Zahlung",
+    "Bitcoin ist in der EU verboten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Bild vom Drogendealer mit Bitcoin-Wallet stimmt also nur bedingt. Kriminalität gibt's in der Szene trotzdem reichlich, aber eher als Betrug: Laut Niko ist es einfach sehr leicht, Leute dort über den Tisch zu ziehen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Kriminalität",
+    "Bitcoin"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1055,
+   "speaker": "Nikolaus Jilch",
+   "quote": "weil das einer der wichtigen Punkte bei Kryptowährungen und bei Bitcoin ist, dass du eine Transaktion nicht mehr rückgängig machen kannst.",
+   "quote_clean": "Weil das einer der wichtigen Punkte bei Kryptowährungen und bei Bitcoin ist, dass du eine Transaktion nicht mehr rückgängig machen kannst.",
+   "statement": "Eine Bitcoin-Transaktion kann man nicht rückgängig machen – anders als etwa eine missbräuchliche Kreditkartenzahlung.",
+   "question": "Was passiert, wenn jemand mit deinen Bitcoin bezahlt hat und du das reklamierst?",
+   "answer": "Nichts, sie ist nicht rückholbar",
+   "distractors": [
+    "Die Bank erstattet den Betrag",
+    "Das Netzwerk storniert sie nach 24 Stunden",
+    "Die Polizei kann sie zurückbuchen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei der Kreditkarte rufst du die Bank an, sagst „Die Jacke in Italien war nicht ich“, und kriegst dein Geld zurück. Ist Niko selbst passiert. Bei Bitcoin gibt es niemanden in der Mitte, der das rückgängig machen könnte, deshalb trägst du das Risiko ganz allein.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Bitcoin",
+    "Risiko"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1110,
+   "speaker": "Andreas Sator",
+   "quote": "Hast du noch selber Bitcoins? Dazu möchte ich mich nicht äußern. Neben Bitcoin gibt es ja gefühlt eine Million anderer Kryptowährungen.",
+   "quote_clean": "Hast du noch selbst Bitcoins? – Dazu möchte ich mich nicht äußern. – Neben Bitcoin gibt es ja gefühlt eine Million anderer Kryptowährungen.",
+   "statement": "Auf die Frage, ob er selbst Bitcoins besitzt, antwortete Nikolaus Jilch nur: „Dazu möchte ich mich nicht äußern.“",
+   "question": "Was antwortet Niko auf Andreas' Frage, ob er selbst noch Bitcoins hat?",
+   "answer": "Dazu möchte er sich nicht äußern",
+   "distractors": [
+    "Ja, ganz viele",
+    "Nein, nie wieder",
+    "Nur einen halben"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kurz und trocken, und Andreas lässt es dabei. Vorher hatte Niko schon zugegeben, dass er früh gekauft und wieder verkauft hat, weil er dachte, das Ding sei erledigt. Erster Fehler, wie die beiden feststellen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Gespräch"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1178,
+   "speaker": "Nikolaus Jilch",
+   "quote": "Wir sagen, wir machen zwei Millionen Erklär-mir-die-Welt-Coins, machen da so einen sogenannten ICO, was darf ich jetzt da nicht sagen, also einen Art digitalen Börsegang, verkaufen die in die Welt",
+   "quote_clean": "Wir sagen, wir machen zwei Millionen Erklär-mir-die-Welt-Coins, machen so einen sogenannten ICO, also eine Art digitalen Börsegang, und verkaufen die in die Welt.",
+   "statement": "Ein ICO ist eine Art digitaler Börsegang, bei dem neu geschaffene Kryptomünzen an Anleger verkauft werden.",
+   "question": "Was ist ein ICO bei Kryptowährungen?",
+   "answer": "Eine Art digitaler Börsegang",
+   "distractors": [
+    "Eine staatliche Krypto-Aufsicht",
+    "Ein besonders sicheres Wallet",
+    "Ein Rechenzentrum für Mining"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Weil Bitcoin Open-Source-Software ist, kann jede:r sie kopieren, sogar Andreas und Niko mit einer Erklär-mir-die-Welt-Coin. Finden sich genug Käufer:innen, ist man reich und landet irgendwo auf Platz 1500 der Kryptowährungen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Krypto",
+    "ICO"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1237,
+   "speaker": "Nikolaus Jilch",
+   "quote": "Das ist eben das Fass oder die Box der Pandora, die Ethereum geöffnet hat, die Nummer zwei im Markt. Und Ethereum ist eben, würden wir zum Beispiel nutzen für unsere Coin, weil da drücke ich quasi auf einen Knopf und mit kaum einem Wissen kann ich eine eigene Kryptowährung erzeugen.",
+   "quote_clean": "Das ist eben die Büchse der Pandora, die Ethereum geöffnet hat, die Nummer zwei im Markt. Ethereum würden wir zum Beispiel für unsere Coin nutzen, weil ich da quasi auf einen Knopf drücke und mit kaum Wissen eine eigene Kryptowährung erzeugen kann.",
+   "statement": "Mit Ethereum, der Nummer zwei am Kryptomarkt, lässt sich mit wenig Wissen eine eigene Kryptowährung erzeugen.",
+   "question": "Welche Kryptowährung machte es laut Niko besonders leicht, eigene Coins zu erzeugen?",
+   "answer": "Ethereum",
+   "distractors": [
+    "Litecoin",
+    "Ripple",
+    "Dogecoin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Knopfdruck, und du hast deine eigene Währung. Das hat viele Betrüger angelockt, die im Westen das Blaue vom Himmel versprochen haben. Niko nennt Ethereum deshalb die Büchse der Pandora des Kryptomarkts.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Ethereum",
+    "Krypto"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1338,
+   "speaker": "Nikolaus Jilch",
+   "quote": "Amazon gab es auch schon in den Nullerjahren. Und wenn du damals Amazon gekauft hast, auch am absoluten Top, dann brauchst du heute nichts mehr arbeiten,",
+   "quote_clean": "Amazon gab es auch schon in den Nullerjahren. Und wenn du damals Amazon gekauft hast, auch am absoluten Höhepunkt, dann brauchst du heute nicht mehr arbeiten.",
+   "statement": "Wer Amazon-Aktien selbst am Höhepunkt der Dotcom-Blase gekauft hat, hat langfristig trotzdem sehr gut verdient.",
+   "question": "Was lehrt die Dotcom-Blase laut Niko über Amazon?",
+   "answer": "Selbst am Höhepunkt gekauft, lohnte es sich",
+   "distractors": [
+    "Amazon ging damals pleite",
+    "Amazon wurde erst 2010 gegründet",
+    "Amazon-Aktien verloren dauerhaft an Wert"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Dotcom-Leute hatten ja recht, das Internet hat die Welt verändert. Sie waren nur zu früh dran und haben auch Online-Shops für Hundefutter gekauft. Für Krypto heißt das: Blase und echte Innovation schließen einander nicht aus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Dotcom",
+    "Börse"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1592,
+   "speaker": "Nikolaus Jilch",
+   "quote": "Also ich rede fest davon aus, dass 95 bis 99 Prozent dieser sogenannten Kryptowährungen keine Zukunft haben.",
+   "quote_clean": "Ich gehe fest davon aus, dass 95 bis 99 Prozent dieser sogenannten Kryptowährungen keine Zukunft haben.",
+   "statement": "Nikolaus Jilch schätzt, dass 95 bis 99 Prozent aller Kryptowährungen keine Zukunft haben.",
+   "question": "Wie viel Prozent der Kryptowährungen haben laut Nikolaus Jilch keine Zukunft?",
+   "answer": "95 bis 99 Prozent",
+   "distractors": [
+    "30 bis 40 Prozent",
+    "50 bis 60 Prozent",
+    "70 bis 80 Prozent"
+   ],
+   "number_value": 97,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Zugedeckt von Hype, Scams und „Shitcoins“, wie Niko sie nennt, steckt selbst Bitcoin noch in der Experimentierphase. Die meisten anderen Coins hält er für reine Spekulationsobjekte, die wieder verschwinden.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Krypto",
+    "Prognose"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1600,
+   "speaker": "Nikolaus Jilch",
+   "quote": "Und Ethereum zum Beispiel, ganz ehrlich, alle sind begeistert von Ethereum. Ich sehe noch keinerlei Real-World-Anwendung dafür. Es gibt sie einfach nicht.",
+   "quote_clean": "Und Ethereum zum Beispiel, ganz ehrlich, alle sind begeistert von Ethereum. Ich sehe noch keinerlei Real-World-Anwendung dafür. Es gibt sie einfach nicht.",
+   "statement": "Nikolaus Jilch sah 2018 keine echte Anwendung für Ethereum außerhalb des Handels.",
+   "question": "Wer sagt über Ethereum: „Ich sehe noch keinerlei Real-World-Anwendung dafür“?",
+   "answer": "Nikolaus Jilch",
+   "distractors": [
+    "Andreas Sator",
+    "Vitalik Buterin",
+    "Warren Buffett"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Niko weiß, dass ihn die Szene dafür hassen wird. Seine Begründung: Die fünf größten Anwendungsfälle von Ethereum waren damals Börsen, auf denen man wieder nur handelt.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Ethereum"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1551,
+   "speaker": "Nikolaus Jilch",
+   "quote": "Man kann sich Bitcoin, und ich rede jetzt wirklich explizit von Bitcoin, als Ergänzung dieser Protokolle vorstellen, zur Übertragung von Werten und möglicherweise auch einmal zur Identifizierung von Identitäten.",
+   "quote_clean": "Man kann sich Bitcoin, und ich rede jetzt wirklich explizit von Bitcoin, als Ergänzung dieser Protokolle vorstellen, zur Übertragung von Werten und möglicherweise auch einmal zur Identifizierung von Identitäten.",
+   "statement": "Bitcoin lässt sich als Ergänzung offener Internetprotokolle wie E-Mail oder HTTP verstehen – für die Übertragung von Werten.",
+   "question": "Womit vergleicht Niko Bitcoin, wenn er über die Zukunft des Internets spricht?",
+   "answer": "Mit offenen Protokollen wie E-Mail",
+   "distractors": [
+    "Mit einem sozialen Netzwerk",
+    "Mit einer Suchmaschine",
+    "Mit einem Online-Shop"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Internet ist auf offenen Protokollen gebaut, für E-Mail oder Websites zahlst du niemandem Lizenzgebühren. Bitcoin könnte das Protokoll für Werte werden und den großen Tech-Konzernen ein Stück Kontrolle abnehmen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Internet",
+    "Bitcoin"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1444,
+   "speaker": "Nikolaus Jilch",
+   "quote": "Ein klassisches Beispiel sind zum Beispiel alles, an dem viele verschiedene Parteien beteiligt sind, die sich untereinander vielleicht nicht kennen oder nicht vertrauen. Also eine Lieferkette zum Beispiel wäre toll.",
+   "quote_clean": "Ein klassisches Beispiel ist alles, an dem viele verschiedene Parteien beteiligt sind, die sich untereinander vielleicht nicht kennen oder nicht vertrauen. Eine Lieferkette zum Beispiel wäre toll.",
+   "statement": "Blockchains eignen sich theoretisch für Vorgänge mit vielen Beteiligten, die einander nicht kennen oder vertrauen, etwa Lieferketten.",
+   "question": "Wofür könnte eine Blockchain abseits von Kryptowährungen laut Niko theoretisch nützlich sein?",
+   "answer": "Lieferketten mit vielen Beteiligten",
+   "distractors": [
+    "Private Tagebücher",
+    "Einzelne Familienkonten",
+    "Wettervorhersagen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Produkt aus China oder Afrika geht durch viele Hände und über viele Grenzen, mit Formularen ohne Ende. Ein gemeinsames, fälschungssicheres Kassabuch könnte das vereinfachen. Niko bleibt trotzdem skeptisch: Das meiste davon ist noch Theorie.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Blockchain",
+    "Handel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 59,
+   "speaker": "Andreas Sator",
+   "quote": "Heute reden wir über ein Thema, das die meisten so gut verstehen wie den Nahost-Konflikt, nämlich gar nicht. Wir reden über Bitcoin.",
+   "quote_clean": "Heute reden wir über ein Thema, das die meisten so gut verstehen wie den Nahost-Konflikt, nämlich gar nicht. Wir reden über Bitcoin.",
+   "statement": "Andreas leitet die Bitcoin-Folge mit dem Vergleich ein, das Thema verstünden die meisten so gut wie den Nahost-Konflikt.",
+   "question": "Womit vergleicht Andreas zu Beginn, wie gut die meisten Bitcoin verstehen?",
+   "answer": "Mit dem Nahost-Konflikt",
+   "distractors": [
+    "Mit der Quantenphysik",
+    "Mit der Steuererklärung",
+    "Mit dem Brexit"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Also gar nicht, wie er gleich nachschiebt. Ein typischer Andreas-Einstieg in Folge 19: ehrlich zugeben, dass man selbst nicht durchblickt, und dann jemanden fragen, der es erklären kann.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Einstieg"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "19",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

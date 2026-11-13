@@ -1,0 +1,287 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 241-248 s belegt, Größenordnung stimmt (ca. 12 x 35 Jahre).",
+   "stand_note": "",
+   "statement": "Ein Mensch mit Menstruation hat im Laufe des Lebens rund 400 Mal seine Periode.",
+   "question": "Wie oft hat eine Frau im Laufe ihres Lebens ungefähr ihre Periode?",
+   "answer": "Rund 400 Mal",
+   "distractors": [
+    "Rund 150 Mal",
+    "Rund 900 Mal",
+    "Rund 1.500 Mal"
+   ],
+   "aha": "Einmal im Monat, und das rund 40 Jahre lang: Da kommt man schnell auf etwa 400 Perioden. Schwangerschaften und Stillzeiten ziehen ein paar ab, aber die Größenordnung bleibt.",
+   "quote_clean": "Das ist ein ganz spannender Vorgang, der einmal im Monat stattfindet, rund 400 Mal im Leben einer Frau oder eines Menschen mit Menstruation.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Zahl ist Harants grobe Angabe (bei 3000 Tagen wären es 7,5 Tage pro Periode); als ihre Größenordnung gekennzeichnet, Aha-Rechnung 'ein paar Tage' entfernt.",
+   "stand_note": "",
+   "statement": "Laut Annemarie Harant verbringen Menschen mit Menstruation im Laufe ihres Lebens insgesamt rund 3000 Tage mit ihrer Periode.",
+   "question": "Wie viele Tage verbringt eine Frau laut Annemarie Harant im Leben ungefähr mit ihrer Periode?",
+   "answer": "Rund 3000 Tage",
+   "distractors": [
+    "Rund 800 Tage",
+    "Rund 1500 Tage",
+    "Rund 6000 Tage"
+   ],
+   "aha": "3000 Tage sind mehr als acht Jahre. Wie Annemarie sagt: Das ist nicht nichts.",
+   "quote_clean": "Das heißt, wir verbringen rund 3000 Tage blutend. Das ist nicht nichts.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 263-269 s ok; Distraktor 'abgestorbene Eizellen' ist nicht eindeutig falsch, ersetzt.",
+   "stand_note": "",
+   "statement": "Menstruationsblut besteht nicht nur aus Blut, sondern auch aus Teilen der Gebärmutterschleimhaut und Scheidenflüssigkeit.",
+   "question": "Woraus besteht Menstruationsblut?",
+   "answer": "Blut, Schleimhautteilen und Scheidenflüssigkeit",
+   "distractors": [
+    "Ausschließlich aus Blut",
+    "Blut und Urin",
+    "Blut und Fettgewebe"
+   ],
+   "aha": "Bei der Periode wird die Gebärmutterschleimhaut abgestoßen, die als Nest für ein mögliches Baby aufgebaut wurde. Darum ist im sogenannten Blut auch Schleimhaut und Scheidenflüssigkeit mit dabei.",
+   "quote_clean": "Das Menstruationsblut, wie es so schön heißt, ist aber nicht nur Blut, sondern das sind auch Teile der Gebärmutterschleimhaut und Scheidenflüssigkeit.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Mythos bei 353-380 s belegt; Distraktor 'Zwillingsschwangerschaften' war unsinnig, ersetzt.",
+   "stand_note": "",
+   "statement": "Dass man während der Periode nicht schwanger werden kann, ist ein Mythos; Zyklen sind nicht immer gleich.",
+   "question": "Stimmt es, dass eine Frau während ihrer Periode sicher nicht schwanger werden kann?",
+   "answer": "Nein, das ist ein Mythos",
+   "distractors": [
+    "Ja, das ist biologisch ausgeschlossen",
+    "Ja, aber nur am ersten Tag",
+    "Ja, zumindest bei regelmäßigem Zyklus"
+   ],
+   "aha": "Rein rechnerisch ist das Risiko während der Periode eher klein. Aber Zyklen sind nicht immer gleich und verändern sich im Leben, darum taugt die Periode nicht als Verhütung.",
+   "quote_clean": "Das ist auch noch ein Mythos, der oft vorherrscht: dass viele glauben, Menstruation dient der Verhütung. Also wenn eine Frau ihre Periode hat, kann sie nicht schwanger werden. Das stimmt so nicht.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Harant sagt 'schwankt zwischen 20 und 40 Tagen', nicht 'normal'; Frage als ihre Aussage formuliert.",
+   "stand_note": "",
+   "statement": "Nur bei wenigen dauert der Zyklus genau 28 Tage; laut Annemarie Harant schwankt er zwischen 20 und 40 Tagen.",
+   "question": "Wie lang ist ein Menstruationszyklus laut Annemarie Harant in der Realität meistens?",
+   "answer": "Er schwankt zwischen 20 und 40 Tagen",
+   "distractors": [
+    "Er dauert fast immer genau 28 Tage",
+    "Er schwankt zwischen 26 und 30 Tagen",
+    "Er schwankt zwischen 10 und 20 Tagen"
+   ],
+   "aha": "Im Biobuch steht meistens 28 Tage, aber das ist eher ein Durchschnitt als eine Regel. Bei der Erdbeerwoche melden sich viele junge Frauen, die sich mit einem 35-Tage-Zyklus Sorgen machen.",
+   "quote_clean": "Der Zyklus, das sind 28 Tage, und der beginnt mit der Menstruation. Jetzt ist bei den wenigsten Leuten der Zyklus tatsächlich 28 Tage, sondern er schwankt zwischen 20 und 40 Tagen.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Bei 510-514 s belegt, aber grobe Schätzung und gemeint sind Frauen im menstruierenden Alter; als Harants Angabe formuliert, Aha weniger belehrend.",
+   "stand_note": "",
+   "statement": "Laut Annemarie Harant hat in jedem Moment etwa jede fünfte Frau ihre Periode.",
+   "question": "Wie viel Prozent der Frauen haben laut Annemarie Harant in einem beliebigen Moment ungefähr ihre Periode?",
+   "answer": "Rund 20 Prozent",
+   "distractors": [
+    "Rund 5 Prozent",
+    "Rund 35 Prozent",
+    "Rund 50 Prozent"
+   ],
+   "aha": "Jede fünfte Frau, genau jetzt, während du das liest. Im Alltag merkt man davon meistens nichts, weil kaum jemand darüber spricht.",
+   "quote_clean": "Es ist so, dass jede fünfte Frau gerade in diesem Moment, in dem ihr den Podcast hört, ihre Periode hat.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 721-806 s belegt (Eizellen im Fötus angelegt, 'zumindest Teile von uns'), biologisch korrekt.",
+   "stand_note": "",
+   "statement": "Weil die Eizellen einer Frau schon im Fötus angelegt werden, war die Eizelle, aus der man entstanden ist, schon im Bauch der eigenen Großmutter.",
+   "question": "Wo war die Eizelle, aus der du entstanden bist, schon einmal?",
+   "answer": "Im Bauch deiner Großmutter",
+   "distractors": [
+    "Im Bauch deiner Urgroßmutter",
+    "Nur im Körper deiner Mutter",
+    "Erst ab der Pubertät deiner Mutter"
+   ],
+   "aha": "Eine Frau hat alle ihre Eizellen schon bei der Geburt, angelegt werden sie im Fötus. Als deine Mutter im Bauch deiner Oma heranwuchs, war die Eizelle, aus der du wurdest, also schon da.",
+   "quote_clean": "Weil die Eizellen schon im Fötus angelegt sind, waren du und ich schon im Bauch unserer Großmutter vorhanden, in Form von Eizellen.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 980-1016 s klar belegt, Unterschied zum Tampon wörtlich genannt.",
+   "stand_note": "",
+   "statement": "Eine Menstruationskappe ist ein wiederverwendbarer Becher aus medizinischem Silikon, der das Blut auffängt statt es aufzusaugen.",
+   "question": "Was unterscheidet eine Menstruationskappe von einem Tampon?",
+   "answer": "Sie fängt das Blut auf statt es aufzusaugen",
+   "distractors": [
+    "Sie wird außen in die Unterhose geklebt",
+    "Sie löst sich im Körper auf",
+    "Sie stoppt die Blutung hormonell"
+   ],
+   "aha": "Beim Tampon saugt eine Faser das Blut auf, die Kappe sammelt es wie ein kleiner Messbecher. Man leert sie in der Toilette aus und setzt sie wieder ein, das spart Müll und Geld.",
+   "quote_clean": "Die Menstruationskappe ist ein kleiner Becher, zum Beispiel aus medizinischem Silikon, der wie ein Tampon in die Vagina eingeführt werden kann und dort wie ein Messbecher das Blut auffängt.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Bei 1472-1493 s belegt (Blase/Darm bei schlimmen Fällen); Aha nur auf Genanntes (Übelkeit, Erbrechen, Ohnmacht) gestützt.",
+   "stand_note": "",
+   "statement": "Bei Endometriose siedelt sich Gebärmutterschleimhaut auch außerhalb der Gebärmutter an, in schlimmen Fällen etwa an Blase oder Darm, und blutet dort ebenfalls.",
+   "question": "Was passiert bei Endometriose?",
+   "answer": "Schleimhaut wächst auch außerhalb der Gebärmutter",
+   "distractors": [
+    "Die Gebärmutterschleimhaut baut sich gar nicht auf",
+    "Der Eisprung findet zweimal pro Monat statt",
+    "Die Periode bleibt monatelang aus"
+   ],
+   "aha": "Das Gewebe an Blase oder Darm blutet mit, und die Krankheit ist für viele Betroffene ein riesiges Problem. Harant nennt Übelkeit bis zum Erbrechen und sogar Ohnmacht als mögliche Folgen.",
+   "quote_clean": "Bei Endometriose löst sich zu Beginn der Menstruation nicht nur in der Gebärmutter die Gebärmutterschleimhaut ab, sondern Gebärmutterschleimhaut hat sich bei dieser Krankheit auch an anderen Stellen angesiedelt, zum Beispiel in der Blase oder im Darm.",
+   "quality": 4
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Zitat bei 1938-1943 s belegt, aber leichte Frage; im Aha nicht belegte 'Kennzeichnungspflichten' entfernt.",
+   "stand_note": "",
+   "statement": "Annemarie Harant sieht Menstruation nicht nur als Privatsache, sondern als politisches Thema.",
+   "question": "Wer sagt im Podcast: „Menstruation ist vielleicht etwas Individuelles, Privates, aber eigentlich hat sie eine große politische Dimension“?",
+   "answer": "Annemarie Harant",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Gynäkologin",
+    "Eine Wirtschaftshistorikerin"
+   ],
+   "aha": "Für Annemarie geht es um mehr als Monatshygiene: Wer nicht über den eigenen Körper Bescheid weiß, kann auch weniger selbstbestimmt handeln. Darum unterstützt die Erdbeerwoche auch den Appell gegen die Tamponsteuer.",
+   "quote_clean": "Menstruation ist vielleicht etwas Individuelles, Privates, aber eigentlich hat sie eine große politische Dimension.",
+   "quality": 2
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitat bei 1904-1909 s belegt, Aha deckt sich mit dem Ausschnitt; als Frage leicht.",
+   "stand_note": "",
+   "statement": "Annemarie Harant erinnert daran, dass es ohne funktionierende Zyklen keine Menschen gäbe.",
+   "question": "Wer sagt im Podcast: „Gäbe es keine funktionierenden Zyklen, würden wir alle nicht auf diesem Planeten sitzen“?",
+   "answer": "Annemarie Harant",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Hebamme",
+    "Ein Evolutionsbiologe"
+   ],
+   "aha": "Ein trockenes, aber schlagendes Argument gegen das Ekel-Image: Ohne Periode keine Menschheit. Trotzdem wurde sie über Jahrtausende, auch durch Religionen, als Strafe und Bürde dargestellt.",
+   "quote_clean": "Gäbe es keine funktionierenden Zyklen, würden wir alle nicht auf diesem Planeten sitzen.",
+   "quality": 2
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Allgemeiner Satz, nur Sprecher-Zuordnung als Frage, wenig Substanz.",
+   "stand_note": "",
+   "statement": "Annemarie Harant hat erlebt, dass Offenheit beim Thema Menstruation mit Offenheit erwidert wird.",
+   "question": "Wer sagt im Podcast: „Je offener man mit dem Thema umgeht, desto mehr Offenheit bekommt man zurück“?",
+   "answer": "Annemarie Harant",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Sexualpädagogin",
+    "Eine Psychotherapeutin"
+   ],
+   "aha": "Es braucht oft nur eine Person, die sich traut, das Thema am Tisch anzusprechen. Annemaries Wunsch: Menstruation als ganz normales Dinner-Topic.",
+   "quote_clean": "Wir haben wirklich die Erfahrung gemacht: Je offener man mit dem Thema umgeht, desto mehr Offenheit bekommt man zurück.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsverlauf ohne Wissensgehalt.",
+   "stand_note": "",
+   "statement": "Andreas fragt, warum Menstruation ein Tabu ist, obwohl die Hälfte der Welt jeden Monat menstruiert.",
+   "question": "Mit welcher Frage leitet Andreas den gesellschaftlichen Teil der Folge ein?",
+   "answer": "Warum ist das so ein Tabu?",
+   "distractors": [
+    "Wer hat den Tampon erfunden?",
+    "Was kostet eine Menstruationskappe?",
+    "Wie lange dauert ein Zyklus?"
+   ],
+   "aha": "Typisch Andreas: die naheliegende Frage, die sich trotzdem kaum wer laut stellt.",
+   "quote_clean": "Warum ist das eigentlich so ein Tabu, wenn die Hälfte der Welt jedes Monat menstruiert?",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Wortwahl-Trivia mit Vulgarismus; Sprecherzuordnung unklar, 'Nach 60 Jahren Stillstand' im Ausschnitt nicht belegt.",
+   "stand_note": "",
+   "statement": "Andreas nennt die Menstruationskappe den neuen heißen Scheiß, Annemarie stimmt zu, schränkt aber ein, dass sie nicht für alle passt.",
+   "question": "Wie bezeichnet Andreas die Menstruationskappe im Gespräch?",
+   "answer": "Als den neuen heißen Scheiß",
+   "distractors": [
+    "Als Revolution aus Silikon",
+    "Als Becher der Zukunft",
+    "Als Tampon 2.0"
+   ],
+   "aha": "Annemarie übernimmt die Formulierung gleich und legt noch eins drauf: Periodenunterwäsche sei dann der neueste heiße Scheiß.",
+   "quote_clean": "Das ist quasi der neue heiße Scheiß. – Das ist der neue heiße Scheiß, aber auch nicht für alle Frauen geeignet.",
+   "quality": 1
+  }
+ ],
+ "id": "127",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

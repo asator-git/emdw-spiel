@@ -1,0 +1,284 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Datum 1.1.2022 belegt; aha 'hat ICD-10 abgelöst' ist für Österreich irreführend, abgeschwächt.",
+   "stand_note": "",
+   "statement": "Die neue internationale Klassifikation der Krankheiten ICD-11 trat am 1. Jänner 2022 offiziell in Kraft.",
+   "question": "In welchem Jahr trat die ICD-11, die neue internationale Krankheitsklassifikation der WHO, offiziell in Kraft?",
+   "answer": "2022",
+   "distractors": [
+    "2016",
+    "2019",
+    "2025"
+   ],
+   "aha": "Seit 1. Jänner 2022 ist die ICD-11 der Weltgesundheitsorganisation offiziell in Kraft. Für trans Personen ist sie ein wichtiger Schritt, weil Transidentität dort nicht mehr unter den psychischen Störungen steht.",
+   "quote_clean": "Die eigentlich schon verabschiedet wurde. Und diese tritt dann mit 1. Jänner 2022 in Kraft, offiziell.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Redundant zu Kandidat 0 und 2; Distraktor 'Version 12' existiert nicht.",
+   "stand_note": "",
+   "statement": "Die aktuelle Version der International Classification of Diseases ist die Version 11 (ICD-11).",
+   "question": "Die wievielte Version der International Classification of Diseases (ICD) hat Transidentität aus den psychischen Störungen gestrichen?",
+   "answer": "Version 11",
+   "distractors": [
+    "Version 8",
+    "Version 10",
+    "Version 12"
+   ],
+   "aha": "Die ICD wird seit über hundert Jahren immer wieder überarbeitet, und erst die elfte Fassung hat Transidentität aus dem Kapitel der psychischen Störungen herausgenommen. In Version 10 war man als trans Person also offiziell pathologisiert.",
+   "quote_clean": "Das ändert sich mit der nächsten Version der International Classification of Diseases, Version 11, die schon verabschiedet wurde.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Beleg bei 2452-2463 s passt; aha-Zusatz zur Abrechnung steht nicht im Ausschnitt, entfernt.",
+   "stand_note": "",
+   "statement": "In der ICD-11 zählt Transidentität nicht mehr zu den psychischen Störungen, sondern zu den „Conditions of Sexual Health“.",
+   "question": "Unter welcher Kategorie wird Transidentität in der ICD-11 eingeordnet?",
+   "answer": "Conditions of Sexual Health",
+   "distractors": [
+    "Psychische Störungen",
+    "Hormonelle Erkrankungen",
+    "Persönlichkeitsstörungen"
+   ],
+   "aha": "Früher stand Transsexualität bei den Persönlichkeits- und Verhaltensstörungen, man galt also offiziell als psychisch gestört. In der ICD-11 steht sie bei den Zuständen der sexuellen Gesundheit.",
+   "quote_clean": "Und da gehört die Transsexualität oder Transidentität dann nicht mehr zu den psychischen Störungen, sondern ist eingereiht unter den Conditions of Sexual Health.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Beleg passt; unbelegte Aussage zu Hormonen/OP im aha entfernt.",
+   "stand_note": "",
+   "statement": "In der ICD-10 war Transsexualität unter den Persönlichkeits- und Verhaltensstörungen eingeordnet.",
+   "question": "Wo war Transsexualität in der alten Krankheitsklassifikation ICD-10 eingeordnet?",
+   "answer": "Bei den Persönlichkeits- und Verhaltensstörungen",
+   "distractors": [
+    "Bei den Hormonstörungen",
+    "Bei den angeborenen Fehlbildungen",
+    "Bei den Stoffwechselerkrankungen"
+   ],
+   "aha": "Damit galt man als trans Person offiziell als psychisch gestört – genau das ist laut der Interviewpartnerin ein großer Vorwurf an Medizin und Gesellschaft.",
+   "quote_clean": "Transsexualität ist die offizielle medizinische Diagnose nach wie vor und ist eingeordnet unter den psychischen Störungen, unter Persönlichkeits- und Verhaltensstörungen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Distraktoren nicht eindeutig falsch (z. B. Sommersprossen haben im ICD-10 einen Code).",
+   "stand_note": "",
+   "statement": "Auch eine Schwangerschaft ist in der Internationalen Klassifikation der Krankheiten (ICD) als eigene Diagnose aufgelistet.",
+   "question": "Welcher dieser Zustände ist in der Internationalen Klassifikation der Krankheiten (ICD) als eigene Diagnose aufgelistet?",
+   "answer": "Schwangerschaft",
+   "distractors": [
+    "Linkshändigkeit",
+    "Sommersprossen",
+    "Kurzschlaf"
+   ],
+   "aha": "Die ICD ist keine Liste von Krankheiten im engeren Sinn, sondern sammelt alle medizinischen Diagnosen, auch jede Todesart. Dass etwas drinsteht, heißt also nicht automatisch, dass es eine Krankheit ist.",
+   "quote_clean": "Genauso ist Schwangerschaft eine eigene Diagnose, die ist auch dort aufgelistet. Auch wenn man nie auf die Idee käme, Schwangerschaft als eine Krankheit anzusehen.",
+   "quality": 1
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg passt; Distraktor 'Allergiestufe' nicht eindeutig falsch, ersetzt.",
+   "stand_note": "",
+   "statement": "Die ICD listet alle medizinischen Diagnosen auf, darunter auch jede Todesart.",
+   "question": "Was ist in der Internationalen Klassifikation der Krankheiten (ICD) unter anderem als Diagnose aufgelistet?",
+   "answer": "Jede Todesart",
+   "distractors": [
+    "Jede Blutgruppe",
+    "Jede Augenfarbe",
+    "Jede Schuhgröße"
+   ],
+   "aha": "Die ICD ist eher ein riesiges Nachschlagewerk für Ärzt:innen und Statistiken als eine Krankheitsliste. Deswegen findest du dort auch Todesarten, die ja für die Statistik genauso codiert werden müssen.",
+   "quote_clean": "International Classification of Diseases, kurz ICD, im Moment noch Version 10, listet alle medizinischen Diagnosen auf. Da ist auch jede Todesart als Diagnose aufgelistet.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 1587-1616 s klar.",
+   "stand_note": "",
+   "statement": "Statt „Geschlechtsumwandlung“ sagt man heute „geschlechtsangleichende Operation“, weil das Geschlecht nicht gewechselt, sondern der Körper angeglichen wird.",
+   "question": "Welcher Begriff wird heute statt „Geschlechtsumwandlung“ verwendet?",
+   "answer": "Geschlechtsangleichende Operation",
+   "distractors": [
+    "Geschlechtswechselnde Operation",
+    "Geschlechtskorrigierende Therapie",
+    "Umgeschlechtliche Operation"
+   ],
+   "aha": "Die Idee dahinter: Eine trans Frau war schon immer eine Frau, die OP passt nur die Geschlechtsmerkmale an. Umgewandelt wird also nichts, sondern angeglichen.",
+   "quote_clean": "Wenn man daran denkt, dass man das Geschlecht gar nicht wechselt, ist es auch keine Geschlechtsumwandlung. Deswegen sagt man heute geschlechtsangleichende Operationen.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 291-346 s klar.",
+   "stand_note": "",
+   "statement": "Transgender ist ein Regenschirmbegriff, unter den auch genderfluide, nicht-binäre und agender Menschen fallen.",
+   "question": "Welches Bild beschreibt den Begriff Transgender am besten?",
+   "answer": "Ein Regenschirm über vielen Identitäten",
+   "distractors": [
+    "Eine Brücke zwischen zwei Geschlechtern",
+    "Eine Einbahnstraße von Mann zu Frau",
+    "Eine Leiter mit festen Stufen"
+   ],
+   "aha": "Transgender meint nicht nur Menschen, die von Mann zu Frau oder umgekehrt leben. Unter dem Schirm stehen alle, die sich nicht mit dem bei der Geburt zugewiesenen Geschlecht identifizieren, auch genderfluide, nicht-binäre und agender Menschen.",
+   "quote_clean": "Und diese Identitäten, diese Einstellungen fallen alle unter diesen Regenschirm Transgender.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 2276-2354 s klar.",
+   "stand_note": "",
+   "statement": "Der neuere Begriff Transidentität stellt die Geschlechtsidentität in den Vordergrund, während Transsexualität stark auf den körperlichen Behandlungsweg bezogen ist.",
+   "question": "Warum hat sich der Begriff „Transidentität“ statt „Transsexualität“ entwickelt?",
+   "answer": "Er löst sich vom rein Körperlichen",
+   "distractors": [
+    "Er ist medizinisch genauer",
+    "Er gilt nur für Operierte",
+    "Er stammt aus dem Englischen"
+   ],
+   "aha": "Bei Transsexualität geht es um Menschen, die ihren Körper medizinisch angleichen wollen. Transidentität stellt die Identität in den Mittelpunkt und schließt damit auch alle ein, die keine Hormone oder Operationen wollen.",
+   "quote_clean": "Und Transidentität hat sich als Definition entwickelt, um diese Einschränkung auf das Körperliche zu sprengen.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Anonyme Gästin, 'Wer hat's gesagt' nicht sinnvoll spielbar; Distraktoren erfunden.",
+   "stand_note": "",
+   "statement": "Der Gast hält „Geschlechtswechsel“ für ein Unwort, weil man sein Geschlecht nicht wechselt.",
+   "question": "Wer hat's gesagt: „Dieses Wort Geschlechtswechsel ist ein Unwort, weil man sein Geschlecht nicht wechselt“?",
+   "answer": "Die anonyme Transfrau in Folge 129",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Ärztin vom AKH",
+    "Hörerin Lisa"
+   ],
+   "aha": "Ihr Punkt: Sie war von Anfang an Frau, man hat ihr nur aufgrund des Körpers das falsche Geschlecht zugeordnet. Deshalb ist auch „sie war früher ein Mann“ für sie grundfalsch.",
+   "quote_clean": "Genauso ist dieses Wort Geschlechtswechsel ein Unwort, weil man sein Geschlecht nicht wechselt.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Anonyme Gästin, 'Wer hat's gesagt' nicht sinnvoll spielbar.",
+   "stand_note": "",
+   "statement": "Trans zu sein ist laut dem Gast keine Entscheidung, die man an einem Tag trifft.",
+   "question": "Wer hat's gesagt: „Es ist keine Entscheidung. Ich gehe nicht her und sage, bis jetzt war ich Mann, ab morgen bin ich Frau“?",
+   "answer": "Die anonyme Transfrau in Folge 129",
+   "distractors": [
+    "Andreas Sator",
+    "Hörerin Sonja",
+    "Eine Beraterin von Courage"
+   ],
+   "aha": "Bei ihr fing es mit dem Bedürfnis an, Frauenkleidung zu tragen, und der Drang wurde immer stärker. Irgendwann musste es einfach raus, gewählt hat sie das nicht.",
+   "quote_clean": "Das ist auch eine Vorstellung, die nicht richtig ist. Es ist keine Entscheidung. Ich gehe nicht her und sage, okay, bis jetzt war ich Mann, ab morgen bin ich Frau.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Inhalt belegt (2889-2934 s); als Inhaltsfrage statt Zitatfrage umgebaut.",
+   "stand_note": "",
+   "statement": "Als radikalste Veränderung nennt die Interviewpartnerin, dem Thema Geschlecht die Bedeutung zu nehmen und Menschen so leben zu lassen, wie sie möchten.",
+   "question": "Was wäre laut der Interviewpartnerin die radikalste gesellschaftliche Veränderung?",
+   "answer": "Dem Thema Geschlecht die Bedeutung nehmen",
+   "distractors": [
+    "Ein drittes Geschlecht im Pass einführen",
+    "Geschlechtsangleichende Operationen gratis anbieten",
+    "Gendern gesetzlich vorschreiben"
+   ],
+   "aha": "Ihr Argument: Bei der Geburt sagt jemand ‚Das ist ein Penis, das ist ein Mann‘, und damit ist schon fast dein ganzes Leben vorbestimmt. Kaum etwas anderes hat so einen Einfluss – und wir nehmen das Thema viel zu wichtig.",
+   "quote_clean": "Dem Thema Geschlecht einfach die Bedeutung nehmen und die Menschen so leben lassen, wie sie es gerne möchten, solange sie natürlich niemand anderem dabei schaden.",
+   "quality": 3
+  },
+  {
+   "i": 26,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 1441-1491 s klar; Gästin erzählt es selbst, Besucherin bleibt anonym.",
+   "stand_note": "",
+   "statement": "Beim Pride Village in Wien meinte eine Besucherin, der Gast sei verpflichtet, ihr zu sagen, ob sie operiert sei.",
+   "question": "Was verlangte eine Besucherin beim Pride-Stand der Beratungsstelle Courage vom Gast?",
+   "answer": "Zu sagen, ob sie operiert ist",
+   "distractors": [
+    "Ihren echten Namen zu verraten",
+    "Ihren Ausweis herzuzeigen",
+    "Ein gemeinsames Foto zu machen"
+   ],
+   "aha": "Da bleibt einem die Spucke weg, sagt sie. Wer ehrenamtlich Fragen beantwortet, schuldet trotzdem niemandem Auskunft über den eigenen Körper.",
+   "quote_clean": "Und dann hat sie tatsächlich gemeint, weil ich hier am Stand der Courage stehe, eine Transgender-Person bin und Fragen beantworte, bin ich verpflichtet, ihr zu sagen, ob ich operiert bin oder nicht.",
+   "quality": 3
+  },
+  {
+   "i": 27,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage ohne Wissensgewinn; aha enthält unbelegte Behauptung über Andreas.",
+   "stand_note": "",
+   "statement": "Zum Schluss fragt Andreas, was sich gesellschaftlich oder politisch ändern müsste, damit mehr Menschen leichter ein gutes Leben führen können.",
+   "question": "Mit welcher Frage leitet Andreas das Ende des Gesprächs ein?",
+   "answer": "Was müsste sich gesellschaftlich ändern?",
+   "distractors": [
+    "Was war dein schönster Moment?",
+    "Wie geht es dir heute damit?",
+    "Was würdest du anders machen?"
+   ],
+   "aha": "Andreas fragt gern zum Schluss nach dem großen Hebel. Die Antwort hier war radikal: dem Thema Geschlecht einfach die Bedeutung nehmen.",
+   "quote_clean": "Was müsste sich gesellschaftlich oder politisch ändern, damit es vielen Menschen möglich ist, einfacher ein gutes Leben zu führen?",
+   "quality": 1
+  }
+ ],
+ "id": "129",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

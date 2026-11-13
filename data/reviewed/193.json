@@ -1,0 +1,278 @@
+{
+ "reviews": [
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Binnenmarkt-Definition steht so bei 215-249; Antwort korrekt, Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Der EU-Binnenmarkt sorgt dafür, dass Waren, Personen, Dienstleistungen und Kapital zwischen den Mitgliedstaaten so frei fließen wie innerhalb eines Landes.",
+   "question": "Was kann sich im EU-Binnenmarkt so frei bewegen wie innerhalb eines Landes?",
+   "answer": "Waren, Personen, Dienstleistungen, Kapital",
+   "distractors": [
+    "Waren, Steuern, Pensionen, Kapital",
+    "Personen, Gesetze, Waren, Löhne",
+    "Dienstleistungen, Wahlrechte, Waren, Renten"
+   ],
+   "aha": "Das sind die berühmten vier Grundfreiheiten. Arbeitest du als Österreicherin in Spanien, musst du dort genauso behandelt werden wie Spanierinnen. Und dein Geld, falls du welches hast, darfst du überall anlegen wie Einheimische.",
+   "quote_clean": "Der Binnenmarkt bedeutet, dass der Austausch von Waren, Personen – sprich Arbeitnehmern –, Dienstleistungen und Kapital innerhalb der Union so funktioniert, wie er innerhalb eines Mitgliedstaates funktioniert, sodass es keine Zölle gibt.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Gericht als unterste Instanz unter dem EuGH-Dach steht bei 312-326; Google-Strafe bei 369 belegt.",
+   "stand_note": "",
+   "statement": "Der Europäische Gerichtshof besteht aus zwei Instanzen: dem „Gericht“ als unterer Instanz und dem eigentlichen Gerichtshof darüber.",
+   "question": "Wie heißt die untere Instanz unter dem Dach des Europäischen Gerichtshofs?",
+   "answer": "Das Gericht der EU",
+   "distractors": [
+    "Der Europarat",
+    "Der Europäische Rechnungshof",
+    "Der Gerichtshof für Menschenrechte"
+   ],
+   "aha": "Ja, die untere Instanz heißt schlicht „das Gericht“. Dort geht es vor allem um Wettbewerbsrecht oder um Journalist:innen, die Dokumente von EU-Institutionen haben wollen. Wer verliert, etwa ein Konzern nach einer Milliardenstrafe, kann noch zum Gerichtshof gehen.",
+   "quote_clean": "Das Gericht und der EuGH gehören zusammen. Das ist ein Dach, das man als EuGH oder Europäischen Gerichtshof bezeichnet. Und der besteht, könnte man sagen, aus zwei Instanzen. Die unterste Instanz ist das Gericht.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Aufhebung von EU-Recht bei Verstoß gegen Verträge/Grundrechtecharta bei 388-401 belegt; letzte Instanz bei 409.",
+   "stand_note": "",
+   "statement": "Der Europäische Gerichtshof funktioniert ähnlich wie ein Verfassungsgericht und darf EU-Recht aufheben, wenn es den Verträgen oder der Grundrechtecharta widerspricht.",
+   "question": "Was darf der Europäische Gerichtshof ähnlich wie ein Verfassungsgericht tun?",
+   "answer": "EU-Recht aufheben",
+   "distractors": [
+    "EU-Kommissare absetzen",
+    "Nationale Wahlen annullieren",
+    "Neue EU-Gesetze beschließen"
+   ],
+   "aha": "Auch Regeln, die Parlament und Ministerrat gemeinsam beschlossen haben, sind nicht unantastbar. Verstoßen sie gegen die Verträge oder die Grundrechtecharta, kippt sie der EuGH. Im Unionsrecht ist er die letzte Instanz.",
+   "quote_clean": "Und das ist so ein bisschen wie ein Verfassungsgericht. Der Europäische Gerichtshof darf zum Beispiel Bestimmungen des EU-Rechts aufheben, wenn sie nicht mit den Verträgen oder der Grundrechtecharta übereinstimmen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Geldbußen (428) und fehlende Armee (434) belegt; im aha ist die Aussage zur Abzugsregelung verdreht (Berger sagt: nicht einzahlen, sondern von Förderungen abgezogen).",
+   "stand_note": "",
+   "statement": "EuGH-Urteile sind vollstreckbar, aber die EU hat keine Armee oder Polizei, die sie mit Gewalt durchsetzen könnte; Druckmittel sind vor allem Geldstrafen.",
+   "question": "Womit setzt die EU Urteile des Europäischen Gerichtshofs gegen widerspenstige Staaten durch?",
+   "answer": "Mit Geldstrafen",
+   "distractors": [
+    "Mit einer EU-Polizeitruppe",
+    "Mit dem Entzug des Stimmrechts",
+    "Mit Grenzkontrollen"
+   ],
+   "aha": "Die EU hat keine Armee, die Urteile mit Zwang durchsetzen könnte. Staaten, die sich nicht an ein Urteil halten, können zu Geldbußen verurteilt werden. Und selbst wenn ein Staat nicht freiwillig zahlt, wird das Geld einfach von den EU-Förderungen abgezogen.",
+   "quote_clean": "Aber es gibt keine Armee der Europäischen Union, die die Urteile quasi mit Zwang durchsetzen könnte.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Aussage (hat mit der EU nichts zu tun, Konvention aus den 50ern) belegt; Frage/Antwort waren schief formuliert, Europarat nur Weltwissen, aber korrekt.",
+   "stand_note": "",
+   "statement": "Der Europäische Gerichtshof für Menschenrechte ist keine EU-Institution, sondern beruht auf der Europäischen Menschenrechtskonvention aus den 1950er-Jahren.",
+   "question": "Zu welcher Organisation gehört der Europäische Gerichtshof für Menschenrechte?",
+   "answer": "Zum Europarat",
+   "distractors": [
+    "Zur Europäischen Kommission",
+    "Zum Europäischen Parlament",
+    "Zu den Vereinten Nationen"
+   ],
+   "aha": "Die zwei Gerichtshöfe werden ständig verwechselt. Der in Luxemburg ist der EuGH der EU. Der Menschenrechtsgerichtshof in Straßburg gehört zum Europarat und beruht auf einem eigenen völkerrechtlichen Vertrag, dem auch viele Nicht-EU-Länder beigetreten sind.",
+   "quote_clean": "Und der EGMR, den du angesprochen hast, der Europäische Gerichtshof für Menschenrechte, hat mit der Europäischen Union an sich nichts zu tun.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Berger nennt 47, 48 (unsicher); 47 stimmt für 2021. Russland-Ausschluss 2022 und danach 46 sind korrekt.",
+   "stand_note": "Stand 2021",
+   "statement": "Der Europäischen Menschenrechtskonvention gehörten 2021 rund 47 Staaten an, darunter Russland, die Türkei und Georgien.",
+   "question": "Wie viele Staaten gehörten 2021 der Europäischen Menschenrechtskonvention ungefähr an?",
+   "answer": "Rund 47",
+   "distractors": [
+    "Rund 27",
+    "Rund 35",
+    "Rund 60"
+   ],
+   "aha": "Das sind viel mehr als die 27 EU-Staaten, bis an die Grenze zu Asien. Russland war damals noch dabei, wurde aber 2022 nach dem Angriff auf die Ukraine ausgeschlossen. Seither sind es 46.",
+   "quote_clean": "Das sind, glaube ich, jetzt 47, 48 Mitgliedstaaten. Und das geht weit über die Europäische Union hinaus. Das sind auch Länder wie Russland, die Türkei oder Georgien.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Vorlage durch nationale Gerichte belegt (546-555); die Behauptung im aha, das seien laut Berger die bedeutendsten Verfahren, steht nicht im Ausschnitt und wurde gestrichen.",
+   "stand_note": "",
+   "statement": "Die meisten Fälle am EuGH kommen von nationalen Gerichten, die wissen wollen, wie eine EU-Regel richtig anzuwenden ist.",
+   "question": "Wie landen die meisten Fälle beim Europäischen Gerichtshof?",
+   "answer": "Nationale Gerichte legen sie vor",
+   "distractors": [
+    "Bürger:innen klagen direkt",
+    "Die Kommission schickt sie",
+    "Das EU-Parlament beantragt sie"
+   ],
+   "aha": "Ist sich etwa ein österreichisches Gericht unsicher, ob eine Kündigung wegen der Religion verbotene Diskriminierung ist, fragt es in Luxemburg nach. So kommen auch Alltagsfälle aus Österreich vor den EuGH.",
+   "quote_clean": "Die Fälle, die zum Europäischen Gerichtshof kommen, sind meistens Fälle, die von den Gerichten der Mitgliedstaaten dem Europäischen Gerichtshof vorgelegt werden, weil es um die richtige Anwendung von unionsrechtlichen Bestimmungen geht.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Inhalt bei 694-777 belegt (allgemeines Verbot, Neutralität; alleiniges Kopftuchverbot nicht erlaubt); aha enthielt Grammatikfehler.",
+   "stand_note": "",
+   "statement": "Laut EuGH darf ein Unternehmen das Kopftuch am Arbeitsplatz verbieten, wenn es alle sichtbaren religiösen Zeichen gleichermaßen verbietet; ein reines Kopftuchverbot wäre unzulässig.",
+   "question": "Unter welcher Bedingung darf ein Arbeitgeber laut EuGH das Kopftuch verbieten?",
+   "answer": "Wenn alle religiösen Zeichen verboten sind",
+   "distractors": [
+    "Wenn die Kundschaft sich beschwert",
+    "Wenn es im Arbeitsvertrag steht",
+    "Nur im öffentlichen Dienst"
+   ],
+   "aha": "Ausgangsfall war eine Rezeptionistin bei einer belgischen Sicherheitsfirma. Das Unternehmen wollte religiös neutral auftreten und untersagte allen sichtbare religiöse Zeichen. Gilt das auch fürs große Kreuz und die Kippa, ist es erlaubt. Ein Verbot nur fürs Kopftuch wäre es nicht.",
+   "quote_clean": "Wenn das Tragen von sichtbaren Zeichen der Religionszugehörigkeit generell in einem Unternehmen verboten ist, weil das Unternehmen gegenüber den Kunden als religiös neutral dastehen möchte, dann ist es zulässig, Arbeitnehmer, die sich daran nicht halten, zu kündigen.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Begründung der Aufhebung bei 905-926 belegt; Antwort war deutlich länger als die Distraktoren und wurde angeglichen.",
+   "stand_note": "",
+   "statement": "Der EuGH erklärte die Vorratsdatenspeicherung für ungültig, weil das anlasslose Speichern der Kommunikationsdaten aller Bürger:innen unverhältnismäßig ist.",
+   "question": "Warum hat der EuGH die EU-Richtlinie zur Vorratsdatenspeicherung gekippt?",
+   "answer": "Sie traf alle, auch ohne Verdacht",
+   "distractors": [
+    "Sie war zu teuer für Telekomfirmen",
+    "Sie wurde nie richtig beschlossen",
+    "Sie galt nur für einige Staaten"
+   ],
+   "aha": "Gespeichert worden wäre bei allen, nicht nur bei Verdächtigen. Das verletzt laut EuGH den Schutz des Privatlebens und der persönlichen Daten aus der Grundrechtecharta. Wenn die EU so etwas will, braucht es eine viel engere Regel.",
+   "quote_clean": "Und der EuGH hat das geprüft, vor allem die Verhältnismäßigkeit dieser Datensammlung von allen Bürgerinnen und Bürgern, unabhängig davon, ob ein konkreter Verdacht besteht, und hat das Sammeln von allen Kommunikationsdaten als zu weitgehend und unverhältnismäßig eingestuft und die Richtlinie deshalb für ungültig erklärt.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "1 Mio Euro pro Tag bei 1367-1374 belegt und stimmt (Anordnung Oktober 2021); Zusatzdetails im aha (Vorlage an den EuGH) stehen nicht im Ausschnitt und wurden entfernt.",
+   "stand_note": "Stand 2021",
+   "statement": "2021 verhängte der EuGH gegen Polen ein Zwangsgeld von einer Million Euro pro Tag, solange es die Disziplinarverfahren gegen Richter nicht einstellt.",
+   "question": "Wie hoch war das tägliche Zwangsgeld, das der EuGH 2021 gegen Polen wegen der Disziplinarkammer für Richter verhängte?",
+   "answer": "1 Million Euro pro Tag",
+   "distractors": [
+    "10.000 Euro pro Tag",
+    "100.000 Euro pro Tag",
+    "10 Millionen Euro pro Tag"
+   ],
+   "aha": "Der EuGH wollte per einstweiliger Anordnung erreichen, dass Polen die Disziplinarverfahren gegen unliebsame Richter sofort einstellt. Für jeden Tag, an dem Polen sich nicht daran hält, werden eine Million Euro fällig. Eine Beugestrafe, die schnell teuer wird.",
+   "quote_clean": "Und für jeden Tag, an dem sich Polen nicht daran hält, ist eine Million Euro zu zahlen.",
+   "quality": 4
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "100.000 Euro pro Tag bei 1398 belegt; 'Urwahls' klar als Urwald erkennbar. Dass Polen aufhörte, ist Bergers Darstellung und wird als solche gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Um die Abholzung des letzten Urwalds Europas in Polen zu stoppen, drohte der EuGH mit 100.000 Euro Strafe pro Tag; laut Berger stellte Polen daraufhin die Schlägerungen ein.",
+   "question": "Wie viel Strafe pro Tag drohte der EuGH Polen, falls es die Abholzung des letzten Urwalds Europas fortsetzt?",
+   "answer": "100.000 Euro pro Tag",
+   "distractors": [
+    "5.000 Euro pro Tag",
+    "1 Million Euro pro Tag",
+    "20.000 Euro pro Tag"
+   ],
+   "aha": "Es ging um den Białowieża-Urwald an der Grenze zu Belarus. Laut Berger hat die Drohung gewirkt und Polen hat die Schlägerungen eingestellt. Manchmal reicht der Blick aufs Konto.",
+   "quote_clean": "Wir haben das schon einmal angewendet, vor einigen Jahren, als es um die Abholzung des letzten Urwalds Europas gegangen ist, wo wir pro Tag, an dem diese illegalen Schlägerungen fortgesetzt werden, 100.000 Euro verhängt haben.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Verein/Club-Vergleich bei 1598-1634 wörtlich belegt, Kontext korrekt wiedergegeben.",
+   "stand_note": "",
+   "statement": "Maria Berger vergleicht die EU mit einem Verein, dessen Mitglieder ein renitentes Mitglied irgendwann fragen müssen, ob es noch dabei sein will.",
+   "question": "Womit vergleicht Ex-EuGH-Richterin Maria Berger die EU, wenn es um den Umgang mit Polen geht?",
+   "answer": "Mit einem Verein oder Club",
+   "distractors": [
+    "Mit einer Großfamilie",
+    "Mit einer Firma",
+    "Mit einer Wohngemeinschaft"
+   ],
+   "aha": "Wie in jedem Club gilt: Wer sich dauerhaft nicht an die gemeinsamen Spielregeln hält, wird irgendwann gefragt, ob er noch Mitglied sein will. Die Arbeit könne man nicht nur Kommission und Gerichtshof überlassen. Die anderen 26 Staaten sind gefordert.",
+   "quote_clean": "Letztendlich ist die Europäische Union in ihren Grundlagen immer noch ein Zusammenschluss der Mitgliedstaaten, die gemeinsam einen Verein, einen Club gegründet haben.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Aussage bei 2044-2047 belegt, Antwort passt, Kontext (Politik trägt Verantwortung) korrekt wiedergegeben.",
+   "stand_note": "",
+   "statement": "Maria Berger meint, Gerichte könnten Fehlentwicklungen in Mitgliedstaaten bremsen, dürften sich aber nicht überschätzen; die Verantwortung trage die Politik.",
+   "question": "Was dürfen Gerichte laut Ex-EuGH-Richterin Maria Berger nicht tun, wenn es um Demokratie und Rechtsstaat geht?",
+   "answer": "Sich selbst überschätzen",
+   "distractors": [
+    "Sich in Politik einmischen",
+    "Regierungen kritisieren",
+    "Strafen verhängen"
+   ],
+   "aha": "Der EuGH ist eine zusätzliche Ebene über den Staaten, die komplett fehlgegangene Entwicklungen aufhalten kann. Aber retten muss es am Ende die Gemeinschaft der Mitgliedstaaten. Ob Rechtsstaat oder Klimaschutz: Die Verantwortung trägt die Politik.",
+   "quote_clean": "Aber wir dürfen uns als Gerichte auch nicht selbst überschätzen. Das kann einen bestimmten Erfolg haben, man kann vielleicht manches aufhalten.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Reine Meta-Frage zur Formulierung der Moderation, ohne inhaltlichen Wert; Distraktoren beliebig, aha-Behauptung 'oft' nicht belegt.",
+   "stand_note": "",
+   "statement": "Am Ende der Folge fasst Andreas mit „Was nehme ich mir mit?“ zusammen: Der EuGH ist der Chef unter den Gerichten in der EU.",
+   "question": "Mit welcher Frage leitet Andreas am Ende der Folge seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir heute gelernt?",
+    "Was bleibt hängen?",
+    "Und jetzt in einem Satz?"
+   ],
+   "aha": "Nach dem Interview kommt bei Andreas oft dieses kleine Resümee. Diesmal: Der EuGH ist so etwas wie der Chef unter den Gerichten der EU. Und in Polen und Ungarn fast die letzte Bastion des Rechtsstaats.",
+   "quote_clean": "Was nehme ich mir mit? Der EuGH, also der Europäische Gerichtshof, ist das oberste Gericht der EU, und weil EU-Recht über nationalem Recht steht, kann man auch sagen: der Chef unter den Gerichten in der EU.",
+   "quality": 1
+  }
+ ],
+ "id": "193",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

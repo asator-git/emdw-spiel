@@ -1,0 +1,736 @@
+{
+ "theme": "Wissenschaft & Technik",
+ "summary": "Martin Moder erklärt mir, wie stark unsere Gene uns prägen, was Vererbbarkeit wirklich heißt und was CRISPR künftig kann.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 183,
+   "speaker": "Martin Moder",
+   "quote": "So, davon haben wir in fast allen unserer Zellen eine sehr lange Wurst, die etwa drei Milliarden dieser Basen lang ist.",
+   "quote_clean": "Davon haben wir in fast allen unseren Zellen eine sehr lange Wurst, die etwa drei Milliarden dieser Basen lang ist.",
+   "statement": "Die menschliche Erbinformation in einer Zelle ist etwa drei Milliarden Basenpaare lang.",
+   "question": "Aus wie vielen Basen (Buchstaben) besteht das menschliche Erbgut ungefähr?",
+   "answer": "etwa 3 Milliarden",
+   "distractors": [
+    "etwa 3 Millionen",
+    "etwa 300 Millionen",
+    "etwa 30 Milliarden"
+   ],
+   "number_value": 3000000000,
+   "number_unit": "Basenpaare",
+   "slider_min": 1000000,
+   "slider_max": 100000000000,
+   "log_scale": true,
+   "aha": "Drei Milliarden Buchstaben, geschrieben in nur vier Zeichen: A, T, G und C. Martin nennt das eine sehr lange Wurst, und die steckt fast in jeder deiner Zellen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "DNA",
+    "Genom"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 252,
+   "speaker": "Martin Moder",
+   "quote": "Ja, und die nennt man dann Gene. Und davon haben wir plus minus 21.000. Da ist man sich noch nicht so ganz einig.",
+   "quote_clean": "Und die nennt man dann Gene. Davon haben wir plus minus 21.000. Da ist man sich noch nicht ganz einig.",
+   "statement": "Der Mensch hat ungefähr 21.000 Gene, die genaue Zahl ist noch umstritten.",
+   "question": "Wie viele Gene hat ein Mensch ungefähr?",
+   "answer": "rund 21.000",
+   "distractors": [
+    "rund 2.100",
+    "rund 210.000",
+    "rund 2,1 Millionen"
+   ],
+   "number_value": 21000,
+   "number_unit": "Gene",
+   "slider_min": 1000,
+   "slider_max": 1000000,
+   "log_scale": true,
+   "aha": "Nur rund 21.000 Abschnitte im Erbgut sind klassische Gene, die einen Bauplan für Eiweiße enthalten. Ganz einig ist sich die Forschung über die genaue Zahl aber eh noch nicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gene",
+    "Genom"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 352,
+   "speaker": "Martin Moder",
+   "quote": "Man muss zum Beispiel die roten Blutkörperchen ausnehmen, die haben keine DNA.",
+   "quote_clean": "Man muss zum Beispiel die roten Blutkörperchen ausnehmen, die haben keine DNA.",
+   "statement": "Rote Blutkörperchen haben keine DNA.",
+   "question": "Welche Zellen deines Körpers enthalten keine DNA?",
+   "answer": "Rote Blutkörperchen",
+   "distractors": [
+    "Nervenzellen",
+    "Leberzellen",
+    "Hautzellen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Fast jede Zelle trägt den kompletten Bauplan für deinen Körper. Die roten Blutkörperchen sind eine der Ausnahmen: Sie haben gar keine DNA, genauso wie manche Zellen in deinen Augen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zellen",
+    "DNA"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 363,
+   "speaker": "Martin Moder",
+   "quote": "Aber grob kann man sagen, du bestehst aus über 30 Billionen Zellen. Das ist eine Zahl mit 13 Nullen.",
+   "quote_clean": "Grob kann man sagen, du bestehst aus über 30 Billionen Zellen. Das ist eine Zahl mit 13 Nullen.",
+   "statement": "Der menschliche Körper besteht aus über 30 Billionen Zellen.",
+   "question": "Aus wie vielen Zellen besteht dein Körper ungefähr?",
+   "answer": "über 30 Billionen",
+   "distractors": [
+    "über 30 Milliarden",
+    "über 300 Millionen",
+    "über 30 Billiarden"
+   ],
+   "number_value": 30000000000000,
+   "number_unit": "Zellen",
+   "slider_min": 1000000000,
+   "slider_max": 10000000000000000,
+   "log_scale": true,
+   "aha": "Eine Zahl mit 13 Nullen. Und fast jede dieser Zellen hätte im Prinzip das Potenzial, einen ganzen neuen Menschen zu formen, einen Klon von dir, weil überall derselbe Bauplan drinsteckt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zellen",
+    "Körper"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 387,
+   "speaker": "Martin Moder",
+   "quote": "Und das, was deine Zellen dann aber so unterschiedlich macht. Der Grund, warum die Zellen in deinem Ohrwaschel nicht genauso ausschauen wie die Zellen in deiner Niere, ist einfach, weil andere Teile dieser Erbinformation abgelesen werden. Aber die Erbinformation ist überall die gleiche.",
+   "quote_clean": "Der Grund, warum die Zellen in deinem Ohrwaschel nicht genauso ausschauen wie die Zellen in deiner Niere, ist einfach, weil andere Teile dieser Erbinformation abgelesen werden. Aber die Erbinformation ist überall die gleiche.",
+   "statement": "Zellen im Ohr und in der Niere haben dieselbe Erbinformation, lesen aber unterschiedliche Teile davon ab.",
+   "question": "Warum sehen Zellen im Ohr anders aus als Zellen in der Niere?",
+   "answer": "Sie lesen andere Teile der DNA ab",
+   "distractors": [
+    "Sie haben eine andere DNA",
+    "Sie stammen von anderen Eltern",
+    "Sie haben weniger Chromosomen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Dein Ohrwaschel und deine Niere haben denselben Bauplan. Der Unterschied ist nur, welche Seiten davon gerade aufgeschlagen sind, also welche Gene abgelesen werden.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zellen",
+    "Genaktivität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 446,
+   "speaker": "Martin Moder",
+   "quote": "Aber in Wirklichkeit haben wir 23 so Chromosomenpaare. Und die Hälfte deiner Chromosome stammen von der Mutter und die andere Hälfte vom Vater, grob gesagt.",
+   "quote_clean": "In Wirklichkeit haben wir 23 Chromosomenpaare. Die Hälfte deiner Chromosomen stammt von der Mutter und die andere Hälfte vom Vater, grob gesagt.",
+   "statement": "Der Mensch hat 23 Chromosomenpaare, je eine Hälfte stammt von Mutter und Vater.",
+   "question": "Wie viele Chromosomenpaare hat ein Mensch?",
+   "answer": "23",
+   "distractors": [
+    "12",
+    "32",
+    "46"
+   ],
+   "number_value": 23,
+   "number_unit": "Chromosomenpaare",
+   "slider_min": 1,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Meistens denkt man nur an X und Y, die Geschlechtschromosomen. Dabei sind es 23 Paare, und von jedem Paar kommt grob gesagt eines von der Mama und eines vom Papa.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Chromosomen",
+    "Vererbung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 494,
+   "speaker": "Martin Moder",
+   "quote": "Da ist es tendenziell eher so, dass die hellen Haarfarben sind rezessiv und die dunklen sind eher die dominanten.",
+   "quote_clean": "Da ist es tendenziell eher so, dass die hellen Haarfarben rezessiv sind und die dunklen eher dominant.",
+   "statement": "Bei der Haarfarbe sind helle Farben tendenziell rezessiv, dunkle tendenziell dominant.",
+   "question": "Ein Elternteil vererbt das Gen für blonde, das andere für schwarze Haare. Welche Haarfarbe ist wahrscheinlicher?",
+   "answer": "Schwarz",
+   "distractors": [
+    "Blond",
+    "Ein Mittelbraun aus beiden",
+    "Rot"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Dunkle Haarfarben setzen sich tendenziell durch, sie sind dominant, helle sind rezessiv. Martin warnt aber gleich: Das ist stark vereinfacht, bei der Nase etwa wirken viel zu viele Gene mit.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Vererbung",
+    "Haarfarbe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 530,
+   "speaker": "Martin Moder",
+   "quote": "Weil in Wirklichkeit ist dieses Denken, ein Gen, eine Eigenschaft, das ist die absolute Ausnahme.",
+   "quote_clean": "In Wirklichkeit ist dieses Denken – ein Gen, eine Eigenschaft – die absolute Ausnahme.",
+   "statement": "Dass ein einzelnes Gen genau eine Eigenschaft bestimmt, ist die absolute Ausnahme.",
+   "question": "Wie oft bestimmt ein einzelnes Gen genau eine Eigenschaft?",
+   "answer": "Fast nie, das ist die Ausnahme",
+   "distractors": [
+    "Bei fast allen Eigenschaften",
+    "Bei etwa der Hälfte",
+    "Nur bei äußeren Merkmalen immer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Gen, eine Eigenschaft, so lernt man es in der Schule. Das trifft höchstens auf manche Erbkrankheiten zu, fast alles andere wird von sehr vielen Stellen im Genom mitbestimmt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gene",
+    "Vererbung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 746,
+   "speaker": "Martin Moder",
+   "quote": "ich nehme eineige Zwillinge und zweieige Zwillinge und sehe die eineigen, also die genetischen Denten, sind fast immer genau gleich groß. Und ich sehe bei den zweieigen Zwillingen, da schwankt diese Größe sehr stark.",
+   "quote_clean": "Ich nehme eineiige und zweieiige Zwillinge und sehe, die eineiigen, also die genetisch identen, sind fast immer genau gleich groß. Und bei den zweieiigen Zwillingen schwankt diese Größe sehr stark.",
+   "statement": "Zwillingsstudien vergleichen eineiige und zweieiige Zwillinge, um den genetischen Anteil an Eigenschaften zu messen.",
+   "question": "Womit trennt die Forschung seit Jahrzehnten den Einfluss von Genen und Umwelt?",
+   "answer": "Mit Zwillingsstudien",
+   "distractors": [
+    "Mit Blutgruppentests",
+    "Mit Hirnscans bei Babys",
+    "Mit Ahnenforschung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein- und zweieiige Zwillinge wachsen meist gleich auf, gleiche Familie, gleiches Essen, gleiche Schule. Unterscheiden sich nur die zweieiigen stark, etwa bei der Größe, steckt viel Genetik dahinter.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Zwillinge",
+    "Vererbbarkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 812,
+   "speaker": "Martin Moder",
+   "quote": "die größte Übersichtsarbeit, die jemals gemacht wurde über Zwillingsstudien, die hat um die 3000 wissenschaftliche Veröffentlichungen zusammengefasst, die über 15 Millionen Zwillingspärchen untersucht haben und dabei die Vererbbarkeit von etwa 18.000 menschlichen Eigenschaften untersucht haben.",
+   "quote_clean": "Die größte Übersichtsarbeit, die jemals über Zwillingsstudien gemacht wurde, hat um die 3000 wissenschaftliche Veröffentlichungen zusammengefasst, die über 15 Millionen Zwillingspärchen untersucht haben, und dabei die Vererbbarkeit von etwa 18.000 menschlichen Eigenschaften.",
+   "statement": "Die größte Übersichtsarbeit zu Zwillingsstudien untersuchte die Vererbbarkeit von etwa 18.000 menschlichen Eigenschaften – keine war unabhängig von den Genen.",
+   "question": "Wie viele menschliche Eigenschaften hat die größte Übersichtsarbeit zu Zwillingsstudien untersucht?",
+   "answer": "etwa 18.000",
+   "distractors": [
+    "etwa 180",
+    "etwa 1.800",
+    "etwa 180.000"
+   ],
+   "number_value": 18000,
+   "number_unit": "Eigenschaften",
+   "slider_min": 100,
+   "slider_max": 500000,
+   "log_scale": true,
+   "aha": "3000 Studien, über 15 Millionen Zwillingspaare, rund 18.000 Eigenschaften. Und das Ergebnis: keine einzige davon ist unabhängig von unserer Genetik.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Zwillinge",
+    "Studien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 874,
+   "speaker": "Martin Moder",
+   "quote": "Also Body Mass Index zum Beispiel als Maß für das Übergewicht, da kommt man in aller Regel auf so eine Vererbbarkeit von etwa 70 Prozent.",
+   "quote_clean": "Beim Body Mass Index zum Beispiel, als Maß für das Übergewicht, kommt man in aller Regel auf eine Vererbbarkeit von etwa 70 Prozent.",
+   "statement": "Der Body Mass Index hat eine Vererbbarkeit von etwa 70 Prozent.",
+   "question": "Wie hoch ist die Vererbbarkeit des Body Mass Index ungefähr?",
+   "answer": "etwa 70 Prozent",
+   "distractors": [
+    "etwa 10 Prozent",
+    "etwa 30 Prozent",
+    "etwa 95 Prozent"
+   ],
+   "number_value": 70,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "70 Prozent heißt nicht, dass du nur 30 Prozent deines Gewichts beeinflussen kannst. Es heißt: In einer gemessenen Gruppe lassen sich 70 Prozent der BMI-Unterschiede genetisch erklären.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Vererbbarkeit",
+    "Übergewicht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 987,
+   "speaker": "Martin Moder",
+   "quote": "Also ganz blöd formuliert, wenn ich eine Gruppe messe und da kommt raus für die Vererbbarkeit des BMI eine Vererbbarkeit von 99 Prozent und ich gebe denen aber eine Woche nichts zu essen, nehmen es trotzdem alle ab.",
+   "quote_clean": "Ganz blöd formuliert: Wenn ich eine Gruppe messe und für den BMI kommt eine Vererbbarkeit von 99 Prozent heraus, ich gebe denen aber eine Woche nichts zu essen, nehmen trotzdem alle ab.",
+   "statement": "Vererbbarkeitswerte beschreiben Unterschiede in einer gemessenen Gruppe, nicht die Grenzen eines einzelnen Menschen.",
+   "question": "Was sagt eine hohe Vererbbarkeit einer Eigenschaft aus?",
+   "answer": "Wie viel der Unterschiede Gene erklären",
+   "distractors": [
+    "Wie viel man selbst ändern kann",
+    "Wie sicher Kinder es erben",
+    "Wie viele Gene beteiligt sind"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Selbst bei 99 Prozent Vererbbarkeit nehmen alle ab, wenn sie eine Woche nichts essen. Die Zahl beschreibt den Ist-Zustand einer Gruppe, kein Schicksal für dich persönlich.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Vererbbarkeit",
+    "Statistik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1053,
+   "speaker": "Martin Moder",
+   "quote": "diese DNA, wenn ich es jetzt aus einer Zelle rausholen würde, wäre die fast zwei Meter lang und besteht aus um den drei Milliarden Buchstaben",
+   "quote_clean": "Wenn ich diese DNA aus einer Zelle rausholen würde, wäre sie fast zwei Meter lang und bestünde aus um die drei Milliarden Buchstaben.",
+   "statement": "Die DNA aus einer einzigen menschlichen Zelle wäre ausgestreckt fast zwei Meter lang.",
+   "question": "Wie lang wäre die DNA aus einer einzigen deiner Zellen, wenn man sie ausstreckt?",
+   "answer": "fast zwei Meter",
+   "distractors": [
+    "etwa zwei Millimeter",
+    "etwa zwei Zentimeter",
+    "etwa zwei Kilometer"
+   ],
+   "number_value": 2,
+   "number_unit": "Meter",
+   "slider_min": 0.001,
+   "slider_max": 1000,
+   "log_scale": true,
+   "aha": "Fast zwei Meter Erbgut, zusammengefaltet in einem Zellkern, den du mit freiem Auge nicht siehst. Und das in fast jeder deiner Billionen Zellen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "DNA",
+    "Zellen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1059,
+   "speaker": "Martin Moder",
+   "quote": "und besteht aus um den drei Milliarden Buchstaben und zu 99,9 Prozent, ja, ist diese DNA zwischen mir und dir vollkommen ident, ja, zwischen allen Menschen.",
+   "quote_clean": "Sie besteht aus um die drei Milliarden Buchstaben, und zu 99,9 Prozent ist diese DNA zwischen mir und dir vollkommen ident, zwischen allen Menschen.",
+   "statement": "Die DNA aller Menschen ist zu etwa 99,9 Prozent identisch.",
+   "question": "Zu wie viel Prozent ist die DNA zweier beliebiger Menschen gleich?",
+   "answer": "zu 99,9 Prozent",
+   "distractors": [
+    "zu 75 Prozent",
+    "zu 90 Prozent",
+    "zu 98 Prozent"
+   ],
+   "number_value": 99.9,
+   "number_unit": "Prozent",
+   "slider_min": 50,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Alles, was dich von deiner Nachbarin unterscheidet, steckt in einem Bruchteil von einem Prozent. Meist sind das einzelne vertauschte Buchstaben, sogenannte Snips.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "DNA",
+    "Vielfalt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1209,
+   "speaker": "Martin Moder",
+   "quote": "Und das Gen, das sich da hinschreibt, das ist ein kurzer Ausschnitt von einem Oxytocin-Rezeptor-Gen, das spielt mitunter im Gehirn eine große Rolle",
+   "quote_clean": "Das Gen, das ich da hinschreibe, ist ein kurzer Ausschnitt von einem Oxytocin-Rezeptor-Gen, das im Gehirn eine große Rolle spielt.",
+   "statement": "Ein einzelner Buchstabe im Oxytocin-Rezeptor-Gen hat einen messbaren, aber kleinen Einfluss auf empathisches Verhalten.",
+   "question": "Ein einzelner DNA-Buchstabe in welchem Gen beeinflusst messbar, wie empathisch Menschen sind?",
+   "answer": "Im Oxytocin-Rezeptor-Gen",
+   "distractors": [
+    "Im Insulin-Gen",
+    "Im Melanin-Gen",
+    "Im Hämoglobin-Gen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Oxytocin kennt man als Kuschelhormon, sein Rezeptor prägt unser Sozialverhalten. Ein einzelner Buchstabe dort wirkt sich in Studien mit 500.000 Menschen messbar aus, aber nur winzig.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Oxytocin",
+    "Empathie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1426,
+   "speaker": "Martin Moder",
+   "quote": "Wenn ich die Verehrbarkeit der Intelligenz bei sehr jungen Kindern messe, kommt ein sehr niedriger Prozentsatz raus. 20 Prozent so in der Größenordnung.",
+   "quote_clean": "Wenn ich die Vererbbarkeit der Intelligenz bei sehr jungen Kindern messe, kommt ein sehr niedriger Prozentsatz heraus, 20 Prozent in der Größenordnung.",
+   "statement": "Bei sehr jungen Kindern liegt die gemessene Vererbbarkeit der Intelligenz bei etwa 20 Prozent, bei alten Menschen deutlich höher.",
+   "question": "Wie hoch ist die gemessene Vererbbarkeit der Intelligenz bei sehr jungen Kindern ungefähr?",
+   "answer": "etwa 20 Prozent",
+   "distractors": [
+    "etwa 5 Prozent",
+    "etwa 50 Prozent",
+    "etwa 80 Prozent"
+   ],
+   "number_value": 20,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Je älter die Menschen, desto höher die gemessene Vererbbarkeit der Intelligenz, bei sehr alten Leuten liegt sie zuverlässig hoch. Ein Grund: Wir suchen uns mit der Zeit eine Umwelt, die zu unserer Veranlagung passt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Intelligenz",
+    "Vererbbarkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1570,
+   "speaker": "Martin Moder",
+   "quote": "Also zum Beispiel, wenn ich 1,40 Meter groß bin, werde ich nicht versuchen, Basketballspieler zu werden.",
+   "quote_clean": "Zum Beispiel: Wenn ich 1,40 Meter groß bin, werde ich nicht versuchen, Basketballspieler zu werden.",
+   "statement": "Gene beeinflussen auch unsere Umwelt, weil wir Entscheidungen treffen, die zu unserer Veranlagung passen.",
+   "question": "Warum werden Gene und Umwelt mit dem Alter immer schwerer zu trennen?",
+   "answer": "Wir wählen Umwelten passend zur Veranlagung",
+   "distractors": [
+    "Gene mutieren mit dem Alter stärker",
+    "Ältere werden seltener untersucht",
+    "Die Umwelt verändert die DNA-Abfolge"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer 1,40 Meter groß ist, wird nicht Basketballprofi, wer sehr introvertiert ist, eher nicht Polizist. Mit jeder Entscheidung baust du dir eine Umwelt, die zu deinen Genen passt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gene",
+    "Umwelt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1688,
+   "speaker": "Martin Moder",
+   "quote": "und dann im Laufe von zehn Jahren mit weit über tausend Forschenden für über drei Milliarden Dollar Budget einmal grob aufgeschrieben gehabt",
+   "quote_clean": "Und dann hat man es im Laufe von zehn Jahren mit weit über tausend Forschenden für über drei Milliarden Dollar Budget einmal grob aufgeschrieben.",
+   "statement": "Das Human Genome Project brauchte rund zehn Jahre, über tausend Forschende und über drei Milliarden Dollar.",
+   "question": "Wie viel kostete das Human Genome Project, das erstmals das menschliche Erbgut entschlüsselte?",
+   "answer": "über 3 Milliarden Dollar",
+   "distractors": [
+    "etwa 30 Millionen Dollar",
+    "etwa 300 Millionen Dollar",
+    "über 30 Milliarden Dollar"
+   ],
+   "number_value": 3000000000,
+   "number_unit": "Dollar",
+   "slider_min": 10000000,
+   "slider_max": 100000000000,
+   "log_scale": true,
+   "aha": "Zehn Jahre, über tausend Forschende, über drei Milliarden Dollar, und dann war es nicht einmal komplett. Dafür hat die Forschung seither ein Referenzgenom zum Abgleichen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Humangenom",
+    "Forschung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1724,
+   "speaker": "Martin Moder",
+   "quote": "ich kann heute ein komplettes menschliches Genom ablesen um weniger als tausend Euro auf einem Gerät, das nicht viel größer ist als ein USB-Stick und das quasi über Nacht.",
+   "quote_clean": "Ich kann heute ein komplettes menschliches Genom um weniger als tausend Euro ablesen, auf einem Gerät, das nicht viel größer ist als ein USB-Stick, und das quasi über Nacht.",
+   "statement": "Ein komplettes menschliches Genom lässt sich heute für unter tausend Euro über Nacht auf einem Gerät in USB-Stick-Größe auslesen.",
+   "question": "Wie groß ist ein Gerät, mit dem man heute ein ganzes menschliches Genom ablesen kann?",
+   "answer": "Kaum größer als ein USB-Stick",
+   "distractors": [
+    "So groß wie ein Kühlschrank",
+    "So groß wie ein Schreibtisch",
+    "So groß wie eine Garage"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Vom Milliardenprojekt zum Gerät im USB-Stick-Format, für unter tausend Euro und über Nacht. Die Kosten fürs DNA-Lesen sind schneller gefallen, als die Leistung von Computern gestiegen ist.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Sequenzierung",
+    "Technik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1816,
+   "speaker": "Martin Moder",
+   "quote": "Da gibt es zum Beispiel so ein Projekt, das heißt, das Genetic Heroes Project. Die haben einfach gesunde untersucht nach Genabschnitten, die eigentlich extrem stark mit Krankheiten assoziiert sind.",
+   "quote_clean": "Da gibt es zum Beispiel ein Projekt, das Genetic Heroes Project. Die haben einfach Gesunde nach Genabschnitten untersucht, die eigentlich extrem stark mit Krankheiten assoziiert sind.",
+   "statement": "Es gibt Menschen, die genetisch etwa Zystische Fibrose haben müssten, aber gesund sind; das Genetic Heroes Project sucht nach ihnen.",
+   "question": "Wonach sucht das Genetic Heroes Project?",
+   "answer": "Gesunden mit krankmachenden Genvarianten",
+   "distractors": [
+    "Sportlern mit Rekord-Genen",
+    "Menschen mit besonders langem Leben",
+    "Familien mit vielen Zwillingen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Manche Menschen haben genetisch Zystische Fibrose, aber sie haben sie einfach nicht. Vielleicht kompensiert etwas anderes im Genom den Fehler, und genau das könnte ein Weg zu neuen Therapien sein.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Erbkrankheiten",
+    "Forschung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2090,
+   "speaker": "Martin Moder",
+   "quote": "Du musst nur noch festlegen, an welcher Stelle dieses Protein den Schnitt machen soll. Und das kannst du mit Hilfe von einem kurzen Stück Erbinformation, von dem 20 so Buchstaben so designed sein müssen, dass sie an einer bestimmten Stelle in deiner Erbinformation binden können.",
+   "quote_clean": "Du musst nur noch festlegen, an welcher Stelle dieses Protein den Schnitt machen soll. Das kannst du mit einem kurzen Stück Erbinformation, von dem etwa 20 Buchstaben so designt sein müssen, dass sie an einer bestimmten Stelle in deiner Erbinformation binden.",
+   "statement": "Die Genschere CRISPR-Cas9 wird von einer Guide-RNA mit rund 20 Buchstaben an die richtige Stelle im Erbgut gelenkt.",
+   "question": "Wie viele Buchstaben lang ist der Abschnitt der Guide-RNA, der CRISPR-Cas9 an die richtige Stelle lenkt?",
+   "answer": "rund 20",
+   "distractors": [
+    "rund 3",
+    "rund 200",
+    "rund 2.000"
+   ],
+   "number_value": 20,
+   "number_unit": "Buchstaben",
+   "slider_min": 1,
+   "slider_max": 5000,
+   "log_scale": true,
+   "aha": "Cas9 ist die Schere, die Guide-RNA das Navi. Rund 20 Buchstaben reichen, um im Erbgut die eine richtige Stelle zu finden, designt am Computer und am nächsten Tag geliefert.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "CRISPR",
+    "Gentechnik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2233,
+   "speaker": "Martin Moder",
+   "quote": "dass du wahrscheinlich weniger Unterschied damit machst, ob du jetzt diese eine Genposition veränderst oder ob es dein Kind einmal mehr oder weniger anschreist und da ist deutlich weniger Arbeit drin.",
+   "quote_clean": "dass du wahrscheinlich weniger Unterschied machst, ob du diese eine Genposition veränderst, als ob du dein Kind einmal mehr oder weniger anschreist, und da ist deutlich weniger Arbeit drin.",
+   "statement": "Eine einzelne Genposition per CRISPR zu ändern, macht beim Sozialverhalten wohl weniger Unterschied als die Erziehung.",
+   "question": "Womit vergleicht Martin Moder den Effekt, eine einzelne Genposition beim Embryo zu verändern?",
+   "answer": "Mit dem Kind seltener anschreien",
+   "distractors": [
+    "Mit einem Lottogewinn",
+    "Mit einem Wohnortwechsel",
+    "Mit einer Impfung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Theoretisch könnte man das Sozialverhalten eines Embryos per Genschere ein bisserl verschieben. Praktisch ist der Effekt so winzig, dass weniger Schreien mehr bringt, und das ist deutlich weniger Arbeit.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "CRISPR",
+    "Erziehung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2760,
+   "speaker": "Martin Moder",
+   "quote": "Im Prinzip ist es ein kleines Fettpartikel, genauso wie das, was dein Cholesterol transportiert im Körper, also ist dasselbe Transportsystem, das den Körper auch verwendet",
+   "quote_clean": "Im Prinzip ist es ein kleines Fettpartikel, genauso wie das, was dein Cholesterin im Körper transportiert, also dasselbe Transportsystem, das der Körper auch verwendet.",
+   "statement": "Die Lipid-Nanopartikel der mRNA-Impfstoffe sind kleine Fetttröpfchen, ähnlich jenen, die im Körper Cholesterin transportieren.",
+   "question": "Worin ist die mRNA im Biontech-Impfstoff verpackt?",
+   "answer": "In winzigen Fetttröpfchen",
+   "distractors": [
+    "In abgeschwächten Viren",
+    "In Zuckerkristallen",
+    "In Metallpartikeln"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Lipid-Nanopartikel klingt gefährlich, ist aber im Prinzip ein Fetttröpfchen wie jene, die dein Cholesterin transportieren. Martin nennt den Namen einen großen PR-Fehler.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "mRNA",
+    "Impfung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1977,
+   "speaker": "Martin Moder",
+   "quote": "Aber ich habe sogar die Feiglingsvariante gemacht. Alle in meinem Jahrgang, während meinem Doktorat, haben das gemacht.",
+   "quote_clean": "Ich habe sogar die Feiglingsvariante gemacht. Alle in meinem Jahrgang haben das während meines Doktorats gemacht.",
+   "statement": "Martin Moder ließ seine Gene erst testen, nachdem er gesehen hatte, dass seine Kolleg:innen im Doktorat gut mit ihren Ergebnissen zurechtkamen.",
+   "question": "Wie ging Martin Moder an seinen eigenen Gentest heran?",
+   "answer": "Er wartete erst die Kolleg:innen ab",
+   "distractors": [
+    "Er ließ ihn heimlich machen",
+    "Er lehnte ihn grundsätzlich ab",
+    "Er machte ihn als Erster im Labor"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Feiglingsvariante: Erst schauen, ob bei den anderen jemand panisch wird. Wurde niemand, also machte er den Test auch, und am Ende war es ein nettes Weihnachtsgeschenk.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Gentest",
+    "Anekdote"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 415,
+   "speaker": "Andreas Sator",
+   "quote": "Ich habe zum Beispiel die Nase von meinem Vater, die große Nase und die Zahnlücke von meiner Mutter. Ich würde mich da gerne wo beschweren.",
+   "quote_clean": "Ich habe zum Beispiel die große Nase von meinem Vater und die Zahnlücke von meiner Mutter. Ich würde mich da gerne wo beschweren.",
+   "statement": "Andreas Sator hat nach eigenen Worten die Nase vom Vater und die Zahnlücke von der Mutter geerbt und würde sich gern beschweren.",
+   "question": "Was hat Andreas laut eigener Aussage von seiner Mutter geerbt?",
+   "answer": "Die Zahnlücke",
+   "distractors": [
+    "Die große Nase",
+    "Die Locken",
+    "Die Sommersprossen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nase vom Papa, Zahnlücke von der Mama, und keine Beschwerdestelle in Sicht. Martin tröstet ihn: Bei der Nasenform weiß nicht einmal er, wie viele Gene da mitspielen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Vererbung",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "163",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

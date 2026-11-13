@@ -1,0 +1,285 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Luy nennt die Differenz allgemein (viereinhalb bis fünf Jahre, damals gute sechs); die Länder Österreich/Deutschland stehen nicht im Ausschnitt. Auf Mitteleuropa bezogen, mit Stand.",
+   "stand_note": "Stand 2026",
+   "statement": "Frauen leben in Mitteleuropa heute im Schnitt etwa viereinhalb bis fünf Jahre länger als Männer.",
+   "question": "Um wie viele Jahre leben Frauen in Mitteleuropa heute im Schnitt länger als Männer?",
+   "answer": "Etwa 4,5 bis 5 Jahre",
+   "distractors": [
+    "Etwa 1 Jahr",
+    "Etwa 10 Jahre",
+    "Etwa 2 Jahre"
+   ],
+   "aha": "Als Marc Luy 1997 mit seiner Diplomarbeit anfing, waren es noch gute sechs Jahre. Die Lücke schrumpft also langsam – aber viereinhalb Jahre sind immer noch eine ganze Menge Leben.",
+   "quote_clean": "Jetzt sind wir aber trotzdem immer noch bei etwa fünf Jahren, viereinhalb, fünf Jahren Differenz. Das ist schon viel.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Zahl belegt. Der Vergleich mit Raucher/Nichtraucher war im Ausschnitt nur vage („fast Richtung“), und der Grund der Mönche nicht belegt; aha angepasst.",
+   "stand_note": "",
+   "statement": "Männer, die im Kloster leben, werden im Schnitt etwa fünf Jahre älter als Männer in der Allgemeinbevölkerung.",
+   "question": "Wie viele Jahre leben Mönche laut der Klosterstudie im Schnitt länger als Männer außerhalb des Klosters?",
+   "answer": "Etwa 5 Jahre",
+   "distractors": [
+    "Etwa 1 Jahr",
+    "Etwa 12 Jahre",
+    "Etwa 2 Jahre"
+   ],
+   "aha": "Das ist laut Marc Luy schon fast so viel wie der Unterschied zwischen Rauchern und Nichtrauchern. Im Kloster ist der Alltag stark geregelt: beten und arbeiten, jeden Tag ähnlich.",
+   "quote_clean": "Aber die erste Frage, die sich anbietet, ist: Was machen denn die Ordensmänner, dass sie so viel länger leben? Wir sprechen von fünf Jahren im Durchschnitt.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahlen (über sechs Jahre in der Gesamtbevölkerung, eineinhalb im Kloster) stehen so im Ausschnitt, Schlussfolgerung stimmt mit Luy überein.",
+   "stand_note": "",
+   "statement": "Im Kloster leben Frauen nur etwa eineinhalb Jahre länger als Männer, in der Gesamtbevölkerung waren es damals über sechs Jahre.",
+   "question": "Wie groß ist im Kloster der Unterschied in der Lebenserwartung zwischen Frauen und Männern?",
+   "answer": "Etwa eineinhalb Jahre",
+   "distractors": [
+    "Etwa sechs Jahre",
+    "Gar keiner",
+    "Etwa vier Jahre"
+   ],
+   "aha": "Wenn Männer und Frauen sehr ähnlich leben, schrumpft die Lücke auf ein Viertel. Für Marc war das das Schlüsselergebnis: Der größte Teil des Unterschieds kann nicht Biologie sein.",
+   "quote_clean": "Während in der Gesamtbevölkerung die Differenz, wie gesagt, über sechs Jahre war, hatten wir im Kloster nur eineinhalb Jahre Differenz.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "„Bis zu“-Antworten waren logisch nicht trennscharf (bis zu 25 ist auch richtig). Antwort auf „etwa die Hälfte“ umgestellt; „Killer Nummer eins“ nicht belegt.",
+   "stand_note": "",
+   "statement": "Das unterschiedliche Rauchverhalten von Frauen und Männern erklärt in manchen Jahren bis zur Hälfte des Unterschieds in der Lebenserwartung.",
+   "question": "Welchen Anteil am Unterschied in der Lebenserwartung zwischen Männern und Frauen kann das Rauchen in manchen Jahren allein erklären?",
+   "answer": "Bis zur Hälfte",
+   "distractors": [
+    "Rund fünf Prozent",
+    "Rund ein Viertel",
+    "Fast alles"
+   ],
+   "aha": "Rauchen ist laut Marc Luy der wichtigste Einzelfaktor. Danach kommen Alkohol und andere Drogen, Ernährung, Bewegung und Stress im Beruf – alles Dinge, die man beeinflussen kann.",
+   "quote_clean": "In einigen Jahren erklärt allein das unterschiedliche Rauchverhalten von Frauen und Männern bis zur Hälfte der Differenz.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Befund belegt. Die Erklärung im aha (Krankenpflege, Schichtdienst) steht nicht im Ausschnitt; entfernt.",
+   "stand_note": "",
+   "statement": "Ordensfrauen leben im Schnitt nicht länger als Frauen außerhalb des Klosters – nur Mönche profitieren deutlich vom Klosterleben.",
+   "question": "Wie lange leben Nonnen im Vergleich zu Frauen außerhalb des Klosters?",
+   "answer": "Etwa gleich lang",
+   "distractors": [
+    "Rund fünf Jahre länger",
+    "Rund drei Jahre kürzer",
+    "Rund zehn Jahre länger"
+   ],
+   "aha": "Marc Luy war selbst überrascht: Er hatte immer im Kopf, dass Ordensfrauen unglaublich alt werden, und im Kloster trifft man ja tatsächlich vor allem sehr alte Schwestern. Gerechnet mit demografischen Methoden zeigte sich aber kein Vorsprung gegenüber Frauen draußen.",
+   "quote_clean": "Und die Daten haben gezeigt: Die Frauen leben im Kloster nicht länger als außerhalb des Klosters.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Geschichte mit dem blauen Stift steht so im Ausschnitt (aus Luys Erzählung); Aha passt.",
+   "stand_note": "",
+   "statement": "Die „Blue Zones“ heißen so, weil ein Mediziner auf Sardinien die Orte mit Hundertjährigen mit einem blauen Kugelschreiber auf einer Karte markiert hat.",
+   "question": "Warum heißen die Blue Zones, Regionen mit besonders vielen Hundertjährigen, eigentlich „blau“?",
+   "answer": "Wegen eines blauen Kugelschreibers",
+   "distractors": [
+    "Wegen der Nähe zum Meer",
+    "Wegen des blauen Himmels",
+    "Wegen einer UN-Kennzeichnung"
+   ],
+   "aha": "Ein italienischer Mediziner setzte für die Hundertjährigen auf Sardinien blaue Punkte auf eine Karte und kreiste die Häufungen ein. Die Farbe hat also keine Bedeutung – mit einem gelben Stift würden wir heute von Yellow Zones sprechen.",
+   "quote_clean": "Er hat von den Blue Zones auf seiner Karte gesprochen. Hätte er einen gelben Stift gehabt, würden wir heute wahrscheinlich von den Yellow Zones sprechen.",
+   "quality": 5
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Definition über den Anteil der Hundertjährigen und die Trennung von Lebenserwartung stehen so im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Blue Zones sind ursprünglich über den Anteil der Hundertjährigen definiert, nicht über eine hohe Lebenserwartung – beides hängt nicht unbedingt zusammen.",
+   "question": "Was macht eine Region ursprünglich zu einer Blue Zone?",
+   "answer": "Ein hoher Anteil an Hundertjährigen",
+   "distractors": [
+    "Die höchste Lebenserwartung im Land",
+    "Die niedrigste Kindersterblichkeit",
+    "Die meisten Nichtraucher"
+   ],
+   "aha": "Wenn viele früh sterben, sinkt die Lebenserwartung, der Anteil der Hundertjährigen kann trotzdem hoch sein. Umgekehrt wären die Mönche als eigenes Land in manchen Jahren weltweit auf Platz eins bei der Lebenserwartung, hätten aber eher wenige Hundertjährige.",
+   "quote_clean": "Der Anteil derjenigen, die das Alter 100 erreichen, kann auch bei einer sehr niedrigen Lebenserwartung sehr hoch sein.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Erklärung stimmt mit Luy überein; Schlusssatz im aha als nicht belegte Behauptung entschärft.",
+   "stand_note": "",
+   "statement": "Die Lebenserwartung ist keine Prognose, sondern eine Momentaufnahme: Sie fasst die Sterbewahrscheinlichkeiten eines einzigen Jahres zusammen, als würde man sein ganzes Leben in diesem Jahr verbringen.",
+   "question": "Was sagt die Zahl „Lebenserwartung bei Geburt“ eigentlich aus?",
+   "answer": "Eine Momentaufnahme eines Jahres",
+   "distractors": [
+    "Eine Prognose für heutige Babys",
+    "Das Alter der heute Sterbenden",
+    "Das häufigste Sterbealter"
+   ],
+   "aha": "Man schickt 100.000 fiktive Neugeborene durch die Sterbewahrscheinlichkeiten eines Jahres, Alter für Alter, und schaut, wie alt sie im Schnitt werden. Das ist kein echter Lebensverlauf, aber ein guter Vergleichswert zwischen Jahren, Ländern oder Gruppen.",
+   "quote_clean": "Wenn man die Zahl interpretieren will, wäre es die durchschnittliche Lebenserwartung der 2025 Neugeborenen unter der Annahme, dass sie ihr ganzes Leben im Jahr 2025 verbringen.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Begriff und Erklärung stehen so im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Weil erst Säuglinge, dann Kinder und junge Erwachsene kaum mehr sterben, wird die Überlebenskurve immer viereckiger – das nennt man Rektangularisierung.",
+   "question": "Wie nennen Demograf:innen es, wenn die Überlebenskurve einer Bevölkerung immer viereckiger wird?",
+   "answer": "Rektangularisierung",
+   "distractors": [
+    "Kompression",
+    "Linearisierung",
+    "Demografische Dividende"
+   ],
+   "aha": "Früher ging die Kurve gleich nach der Geburt steil runter. Heute überleben fast alle bis ins Alter, dann fällt sie steil ab. Ist die Kurve schon fast ein Viereck, bleibt laut Luy nur noch die Frage, ob man das Ende nach hinten verschieben kann.",
+   "quote_clean": "Das heißt, diese Kurve wurde immer mehr viereckig, man nennt es Rektangularisierung.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Kernaussage (Kloster als nächstmögliches Experiment) belegt; die Behauptungen im aha zu Aufstehen, Essen und Rauchen stehen nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Klöster sind für Marc Luy das Nächstbeste zu einem perfekten Experiment: Männer und Frauen leben dort sehr ähnlich, sodass man biologische von verhaltensbedingten Unterschieden besser trennen kann.",
+   "question": "Warum eignen sich Klöster laut Marc Luy so gut, um den Unterschied in der Lebenserwartung von Männern und Frauen zu erforschen?",
+   "answer": "Männer und Frauen leben dort sehr ähnlich",
+   "distractors": [
+    "Dort gibt es keine Krankheiten",
+    "Ordensleute sind genetisch verwandt",
+    "Klöster haben eigene Ärzte"
+   ],
+   "aha": "Das perfekte Experiment wäre, Neugeborene ein Leben lang unter Laborbedingungen aufwachsen zu lassen – das geht natürlich nicht. Im Kloster ist der Alltag für alle von Beten und Arbeiten geprägt, das ist laut Luy dem Experiment am nächsten.",
+   "quote_clean": "Und so etwas geht eben nicht. Wenn man sich dieses Experiment vorstellt, kommt man ihm in den Klöstern wahrscheinlich noch am nächsten.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "„Wer sagt“ bei einem Gast ist trivial, Distraktor Rolf Dobelli unpassend. Das Ticket-Bild ist ohne Frage schon im aha der anderen Karten abgedeckt.",
+   "stand_note": "",
+   "statement": "Marc Luy vergleicht den verbreiteten Irrglauben, die Lebensdauer sei vorherbestimmt, mit einem Ticket, auf dem bei der Geburt das Sterbealter steht.",
+   "question": "Wer beschreibt den Irrglauben über Lebenserwartung so: „als würde man mit einem Ticket in der Hand geboren, wo das Lebensalter draufsteht“?",
+   "answer": "Marc Luy",
+   "distractors": [
+    "Andreas Sator",
+    "Rolf Dobelli",
+    "Ein Mönch aus der Studie"
+   ],
+   "aha": "Bei Vorträgen überrascht Luy immer wieder, wie viele glauben, man könne an der Lebenserwartung nur wenig ändern.",
+   "quote_clean": "So als würde man mit einem Ticket in der Hand geboren, auf dem das Lebensalter draufsteht.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "„Wer sagt“ bei einem Gast ist trivial; Distraktoren (David Allen, Lars Bobach) sind beliebig.",
+   "stand_note": "",
+   "statement": "Es gibt kein Wundermittel für ein langes Leben; der Schlüssel besteht darin, Gesundheits- und Sterberisiken zu umgehen.",
+   "question": "Wer sagt im Podcast: „Der Schlüssel zum langen und gesunden Leben besteht darin, Gesundheits- und Sterberisiken zu umgehen“?",
+   "answer": "Marc Luy",
+   "distractors": [
+    "Andreas Sator",
+    "David Allen",
+    "Lars Bobach"
+   ],
+   "aha": "Kein Apfel am Tag gleicht Rauchen und Trinken aus.",
+   "quote_clean": "Diesen Schlüssel gibt es nicht. Der Schlüssel zum langen und gesunden Leben besteht im Prinzip darin, Gesundheits- und Sterberisiken zu umgehen.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Anekdote belegt (rund 100 Klöster, zunächst keine Antwort, Anruf der Oberin, Korea-Verwechslung). Die Angaben zu den 12.000 Lebensdaten stehen nicht im Ausschnitt; entfernt.",
+   "stand_note": "",
+   "statement": "Marc Luy schrieb 1997 für seine Diplomarbeit rund 100 Klöster per Brief an und bekam zunächst keine einzige Antwort.",
+   "question": "Wie viele der rund 100 Klöster, die Marc 1997 per Brief anschrieb, antworteten ihm zunächst?",
+   "answer": "Kein einziges",
+   "distractors": [
+    "Etwa die Hälfte",
+    "Rund zehn",
+    "Fast alle"
+   ],
+   "aha": "Er war schon kurz davor aufzugeben. Dann rief die Oberin der Kreuzschwestern aus Gemünden am Main an – sie hatte ihn wegen seines Namens zuerst in Korea vermutet – und lud ihn zu sich ein.",
+   "quote_clean": "Und gewartet. Und Antwort kam dann keine, keine einzige Rückmeldung, und ich war eigentlich schon kurz davor aufzugeben.",
+   "quality": 4
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Reine Gesprächsdramaturgie ohne Erkenntnisgewinn; „bringt Gäste ins Schwitzen“ ist eine Zuschreibung ohne Beleg.",
+   "stand_note": "",
+   "statement": "Gegen Ende fragt Andreas seinen Gast, ob es eine Frage gibt, die er nicht gestellt hat, die der Gast aber gerne beantworten würde.",
+   "question": "Welche Frage stellt Andreas seinem Gast gegen Ende des Gesprächs?",
+   "answer": "Welche Frage er vergessen hat",
+   "distractors": [
+    "Wie alt er werden will",
+    "Was er heute gefrühstückt hat",
+    "Ob er ins Kloster gehen würde"
+   ],
+   "aha": "Marc nutzte die Gelegenheit, um seine Botschaft zusammenzufassen: Wir haben viel selbst in der Hand.",
+   "quote_clean": "Marc, habe ich dir eine Frage nicht gestellt, die du gerne beantworten würdest? Zu was auch immer.",
+   "quality": 1
+  }
+ ],
+ "id": "397",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

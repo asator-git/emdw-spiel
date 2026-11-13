@@ -1,0 +1,269 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Zahl 400 und sieben Dienste belegt; aha enthielt Details (Elektriker, Informatik), die im Ausschnitt nicht stehen, daher auf Belegtes gekürzt.",
+   "stand_note": "Stand 2019",
+   "statement": "Die Parlamentsdirektion, die unabhängig von den Parteien die Abgeordneten unterstützt, hatte 2019 rund 400 Bedienstete.",
+   "question": "Wie viele Bedienstete hatte die österreichische Parlamentsdirektion 2019 ungefähr?",
+   "answer": "Rund 400",
+   "distractors": [
+    "Rund 80",
+    "Rund 1.500",
+    "Rund 4.000"
+   ],
+   "aha": "Hinter den Abgeordneten steht eine ganze Verwaltung: Die rund 400 Bediensteten sind in sieben Diensten organisiert und unterstützen Nationalrat, Bundesrat und die österreichischen EU-Abgeordneten.",
+   "quote_clean": "Ich bin eine von 400 Bediensteten der Parlamentsdirektion. Die Parlamentsdirektion ist eine von den politischen Parteien und auch sonstigen Institutionen unabhängige Verwaltungseinheit.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 329-357: Opposition kann nur Initiativanträge einbringen, Regierungsfraktionen nutzen die Ministerien.",
+   "stand_note": "",
+   "statement": "Oppositionsabgeordnete können Gesetze nur über Initiativanträge ins Parlament bringen, weil ihnen kein Ministerium zuarbeitet.",
+   "question": "Wie bringt die Opposition im Nationalrat einen eigenen Gesetzesvorschlag ein?",
+   "answer": "Über einen Initiativantrag",
+   "distractors": [
+    "Über eine Regierungsvorlage",
+    "Über den Bundespräsidenten",
+    "Über einen Ministerialentwurf"
+   ],
+   "aha": "Regierungsparteien können sich einen Entwurf einfach von den Beamt:innen im Ministerium schreiben lassen. Die Opposition hat diese Hilfe nicht und muss selbst einen Antrag einbringen.",
+   "quote_clean": "Oder in einer Oppositionsfraktion. Deswegen, weil die Oppositionsfraktionen nur Initiativanträge einbringen können.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Vier Möglichkeiten werden bei 335-416 genannt und aufgezählt (Initiativantrag, Regierungsvorlage, Bundesrat, Volksbegehren).",
+   "stand_note": "",
+   "statement": "Es gibt vier Wege, wie ein Gesetzesvorschlag in den Nationalrat kommt: Initiativantrag, Regierungsvorlage, Antrag des Bundesrates und Volksbegehren.",
+   "question": "Auf wie vielen verschiedenen Wegen kann ein Gesetzesvorschlag in Österreich in den Nationalrat kommen?",
+   "answer": "4",
+   "distractors": [
+    "2",
+    "6",
+    "9"
+   ],
+   "aha": "Abgeordnete, die Regierung, der Bundesrat und wir Bürger:innen per Volksbegehren. Der übliche Weg ist aber die Regierungsvorlage, weil die Regierung eh die Mehrheit hat.",
+   "quote_clean": "Es gibt vier Möglichkeiten, wie ein Gesetz in den Nationalrat kommt.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Einstimmigkeit im Ministerrat bei 377-386 klar belegt und sachlich richtig.",
+   "stand_note": "",
+   "statement": "Ein Ministerialentwurf wird erst zur Regierungsvorlage, wenn der Ministerrat ihn einstimmig beschlossen hat.",
+   "question": "Welche Mehrheit braucht ein Gesetzesentwurf im Ministerrat, bevor er als Regierungsvorlage ins Parlament geht?",
+   "answer": "Einstimmigkeit",
+   "distractors": [
+    "Einfache Mehrheit",
+    "Zweidrittelmehrheit",
+    "Nur die Kanzlerunterschrift"
+   ],
+   "aha": "Im Ministerrat sitzen alle Minister:innen, und jede:r hat quasi ein Vetorecht. Darum wird in Koalitionen vorher so lang gestritten, bevor ein Gesetz überhaupt ins Parlament kommt.",
+   "quote_clean": "Und erst wenn der Ministerrat diesen Ministerialentwurf einstimmig angenommen hat, kommt er als Regierungsvorlage ins Parlament.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "2017 bei 493 klar belegt; Feature-Beschreibung stimmt mit dem Ausschnitt überein.",
+   "stand_note": "Stand 2019",
+   "statement": "Seit 2017 kann man im erweiterten Begutachtungsverfahren auf der Parlamentswebsite Stellungnahmen zu Gesetzesentwürfen per Like-Button unterstützen.",
+   "question": "Seit welchem Jahr kann man auf der Parlamentswebsite Stellungnahmen zu Gesetzesentwürfen mit einem Like unterstützen?",
+   "answer": "2017",
+   "distractors": [
+    "2005",
+    "2011",
+    "2021"
+   ],
+   "aha": "Rechtlich verbindlich ist so ein Like nicht. Aber die Abgeordneten sehen vorab, was die Öffentlichkeit von einem Entwurf hält, und du kannst auch selbst eine Stellungnahme schicken.",
+   "quote_clean": "Und jetzt seit 2017, im erweiterten Begutachtungsverfahren, wie wir das nennen, bekommt auch die Öffentlichkeit die Chance, zu jeder Stellungnahme einen Like-Button zu drücken.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Die Parlamentskorrespondenz sitzt in den Ausschüssen und berichtet, daher war 'auch keine Medien' ungenau; Frage auf die Nichtöffentlichkeit zugespitzt.",
+   "stand_note": "Stand 2019",
+   "statement": "Die Ausschüsse des Nationalrats tagen bis auf wenige Ausnahmen nicht öffentlich, sondern hinter verschlossenen Türen.",
+   "question": "Wie läuft die Detailarbeit an Gesetzen in den Ausschüssen des Nationalrats normalerweise ab?",
+   "answer": "Hinter verschlossenen Türen, nicht öffentlich",
+   "distractors": [
+    "Öffentlich mit Tribüne für alle",
+    "Öffentlich im Livestream",
+    "Öffentlich, nur für Journalist:innen"
+   ],
+   "aha": "Damit trotzdem alle erfahren, was passiert, kommt der Ausschussbericht immer ins Plenum, wo öffentlich diskutiert wird. Und die hauseigene Parlamentskorrespondenz sitzt in den Ausschüssen und berichtet.",
+   "quote_clean": "Weil das Ausschussverfahren bis auf wenige Ausnahmen nicht öffentlich stattfindet, sondern hinter verschlossenen Türen, wo auch du als Medienvertreter nicht zuhören darfst.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat bei 907-913 wörtlich belegt, Kontext klar, harmlos und charmant.",
+   "stand_note": "",
+   "statement": "Auf die Frage, wie viel im Ausschuss noch verändert wird, antwortet Sarah König mit der „Lieblingsantwort des Juristen“: Es kommt darauf an.",
+   "question": "Was nennt Sarah König die „Lieblingsantwort des Juristen“?",
+   "answer": "Es kommt darauf an.",
+   "distractors": [
+    "Das ist verfassungswidrig.",
+    "Siehe Geschäftsordnung.",
+    "Das regelt der Bund."
+   ],
+   "aha": "Manchmal kommt im Ausschuss noch eine gute Idee dazu, manchmal braucht man eine kleine Partei für die Verfassungsmehrheit. Wie viel sich ändert, hängt auch davon ab, wie emotional ein Thema diskutiert wird.",
+   "quote_clean": "Ich glaube, da kann man keine allgemeine Antwort geben. Es kommt also die Lieblingsantwort des Juristen. Es kommt darauf an.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Parteibegriffe und Club binnen eines Monats bei 965-1007 belegt; Antwort eindeutig.",
+   "stand_note": "",
+   "statement": "Das österreichische Recht unterscheidet drei Begriffe: die politische Partei, die Wahlpartei für eine Wahl und den parlamentarischen Club im Nationalrat.",
+   "question": "Was gründen die Abgeordneten einer Liste nach dem Einzug in den Nationalrat, um gemeinsam zu arbeiten?",
+   "answer": "Einen parlamentarischen Club",
+   "distractors": [
+    "Eine Wahlpartei",
+    "Einen Ministerrat",
+    "Eine Präsidialkonferenz"
+   ],
+   "aha": "Eine Partei gründest du recht leicht, für die Wahl brauchst du dann eine Wahlpartei. Und wer gewählt ist, gründet binnen eines Monats einen Club, der etwa in der Präsidialkonferenz sitzt und Ausschussvorsitze stellen kann.",
+   "quote_clean": "Ein kurzer Exkurs zu den drei verschiedenen Parteibegriffen, die wir in unserer österreichischen Rechtsordnung unterscheiden: die politische Partei, die man laut Parteiengesetz sehr leicht gründen kann.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Scherzhafte Hypothese bei 1076-1085 belegt, aha (Zustimmung des Nationalrats) bei 1100-1107 belegt; harmlos.",
+   "stand_note": "",
+   "statement": "Andreas fragt, ob sich Abgeordnete verschiedener Parteien theoretisch zu einem „Club der lustigen Trinkerinnen und Trinker“ zusammenschließen könnten.",
+   "question": "Welchen erfundenen Parlamentsclub schlägt Andreas als Gedankenexperiment vor?",
+   "answer": "Club der lustigen Trinkerinnen und Trinker",
+   "distractors": [
+    "Club der freien Radfahrer",
+    "Club der stillen Mitte",
+    "Club der wilden Wiener"
+   ],
+   "aha": "Ganz so einfach geht das nicht: Abgeordnete aus verschiedenen Listen dürfen nur mit Zustimmung des Nationalrats einen gemeinsamen Club bilden. Die lustigen Trinker:innen müssen also warten.",
+   "quote_clean": "Das heißt, es könnten sich, sehr theoretisch, alle Abgeordneten von ÖVP und SPÖ im Parlament zusammentun zum Club der lustigen Trinkerinnen und Trinker.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "31 bei 1498-1501 belegt; Rechnung 183/3=61, davon die Hälfte aufgerundet 31 stimmt; Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Weil für einen einfachen Gesetzesbeschluss ein Drittel der Abgeordneten anwesend sein und die Hälfte davon zustimmen muss, reichen im Extremfall 31 von 183 Abgeordneten.",
+   "question": "Wie viele der 183 Nationalratsabgeordneten können im Extremfall ein einfaches Gesetz beschließen?",
+   "answer": "31",
+   "distractors": [
+    "61",
+    "92",
+    "122"
+   ],
+   "aha": "Ein Drittel muss da sein, das sind 61, und davon reicht die Hälfte. Passiert aber so nie, weil das Präsidium sehr genau schaut, wie voll der Saal ist.",
+   "quote_clean": "Im Extremfall können 31 Abgeordnete ein Gesetz beschließen, wenn man sich das anschaut und durchrechnet.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1756-1773 belegt: Landtage entsenden die Bundesrät:innen; sachlich korrekt.",
+   "stand_note": "",
+   "statement": "Die Mitglieder des Bundesrats werden nicht direkt gewählt, sondern von den Landtagen entsendet, um Landesinteressen zu vertreten.",
+   "question": "Wie kommen die Mitglieder des österreichischen Bundesrats in ihr Amt?",
+   "answer": "Die Landtage entsenden sie",
+   "distractors": [
+    "Direktwahl durch das Volk",
+    "Ernennung durch den Bundespräsidenten",
+    "Wahl durch den Nationalrat"
+   ],
+   "aha": "Du wählst den Landtag, und der schickt Leute in die zweite Kammer des Parlaments. Darum hat kaum wer einen Bundesrat oder eine Bundesrätin persönlich gewählt.",
+   "quote_clean": "Als Bürger wählen wir die Bundesräte und Bundesrätinnen nicht direkt, so wie wir das mit den Abgeordneten des Nationalrates machen, sondern wir wählen unsere Landtage.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Budgethoheit bei 2171-2175 belegt; aha deckt sich mit 2147-2170.",
+   "stand_note": "",
+   "statement": "Weil der Nationalrat beschließt, wofür der Staat Geld ausgibt, sagt man, das Parlament hat die Budgethoheit.",
+   "question": "Wie nennt man das Recht des Parlaments, zu beschließen, wofür der Staat Geld ausgibt?",
+   "answer": "Budgethoheit",
+   "distractors": [
+    "Finanzhoheit des Kanzlers",
+    "Steuerprärogativ",
+    "Haushaltsvorbehalt"
+   ],
+   "aha": "Das Wort klingt nach Krone und Hofstaat, meint aber das Gegenteil: Nicht die Regierung allein, sondern die gewählten Abgeordneten entscheiden öffentlich über das Geld und kontrollieren es danach.",
+   "quote_clean": "Man sagt deswegen auch, dass das Parlament die Budgethoheit hat. Das klingt noch sehr monarchistisch, ist aber tatsächlich eine wichtige Aufgabe.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsende ohne Wissenswert; Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Zum Schluss fragt Andreas, wie man das österreichische Parlament moderner oder besser machen könnte.",
+   "question": "Mit welcher Frage schließt Andreas das Gespräch über das Parlament ab?",
+   "answer": "Wie man es besser machen könnte",
+   "distractors": [
+    "Wie oft sie selbst wählt",
+    "Welche Partei sie wählen würde",
+    "Wie viel Abgeordnete verdienen"
+   ],
+   "aha": "Andreas bringt als Beispiel die Hearings im US-Senat. Sarah König verweist auf das Geschäftsordnungskomitee und darauf, dass auch du deine Ideen einem Club oder der Parlamentsdirektion schicken kannst.",
+   "quote_clean": "Gibt es irgendetwas, wie man das Parlament in Österreich moderner oder besser machen könnte?",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage mit der Studiogästin als Antwort ist trivial; Distraktoren (Kern, Fischer) unpassend.",
+   "stand_note": "",
+   "statement": "Sarah König findet, Parlamentarismus muss lebendig bleiben, und verweist auf ein Crowdsourcing-Projekt des Parlaments.",
+   "question": "Wer sagt: „Parlamentarismus muss lebendig bleiben“?",
+   "answer": "Sarah König",
+   "distractors": [
+    "Andreas Sator",
+    "Christian Kern",
+    "Heinz Fischer"
+   ],
+   "aha": "Beim Crowdsourcing wurden Bürger:innen gefragt, wie sie sich das neue Besucher:innenzentrum im sanierten Parlament vorstellen. Offen für Veränderung bleiben, das ist ihr Punkt.",
+   "quote_clean": "Ich glaube, Parlamentarismus muss lebendig bleiben, und wir haben jetzt im Parlament auch Crowdsourcing gestartet.",
+   "quality": 1
+  }
+ ],
+ "id": "73",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

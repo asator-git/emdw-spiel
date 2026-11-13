@@ -1,0 +1,292 @@
+{
+ "reviews": [
+  {
+   "statement": "Die Fristenlösung, die Abtreibungen in Österreich in den ersten drei Monaten straffrei stellt, gilt seit 1. Jänner 1975.",
+   "question": "In welchem Jahr trat in Österreich die Fristenlösung in Kraft?",
+   "answer": "1975",
+   "distractors": [
+    "1968",
+    "1983",
+    "1991"
+   ],
+   "aha": "Das war Teil der großen Strafrechtsreform der Kreisky-Ära, angetrieben von einer starken Frauenbewegung in Wien. Andi Glasner ist in Klagenfurt aufgewachsen und erinnert sich, wie erleichtert damals die Ärzt:innen in seinem Umfeld waren.",
+   "quote_clean": "Alle waren fast erleichtert, als am 1.1.1975 die Fristenlösung in Kraft trat, die der Nationalrat verabschiedet hatte. Das war ein sehr großer, positiver Moment.",
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (1.1.1975, Transkript 'verkürzt'), historisch korrekt; aha gedeckt.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Vor der Fristenlösung war ein Schwangerschaftsabbruch in Österreich nach Paragraph 144 generell strafbar.",
+   "question": "Welcher Paragraph stellte Abtreibungen in Österreich vor 1975 unter Strafe?",
+   "answer": "Paragraph 144",
+   "distractors": [
+    "Paragraph 218",
+    "Paragraph 175",
+    "Paragraph 20"
+   ],
+   "aha": "Der Paragraph 144 wurde mit der Reform durch die Paragraphen 96 und 97 ersetzt. Paragraph 218 ist übrigens das deutsche Pendant, das man öfter hört.",
+   "quote_clean": "Bis dorthin hat es einen Paragraphen 144 gegeben, nach dem es für Frauen unmöglich und unter Strafe gestellt war, einen Schwangerschaftsabbruch machen zu können.",
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "§144 belegt; Distraktor 'Paragraph 96' ist heute das geltende Abtreibungsverbot und damit missverständlich, ersetzt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "In Österreich ist ein Schwangerschaftsabbruch in den ersten drei Monaten, also bis zur 12. Woche, straffrei.",
+   "question": "Bis zu welcher Schwangerschaftswoche ist eine Abtreibung in Österreich ohne Begründung straffrei?",
+   "answer": "12. Woche",
+   "distractors": [
+    "8. Woche",
+    "16. Woche",
+    "20. Woche"
+   ],
+   "aha": "Genau genommen ist der Abbruch im Strafrecht weiterhin verboten, Paragraph 97 stellt ihn in den ersten drei Monaten nur straffrei. Deshalb sagt Andreas am Schluss auch, dass Abtreibungen in Österreich noch nicht ganz entkriminalisiert sind.",
+   "quote_clean": "dass der Schwangerschaftsabbruch in den ersten drei Monaten ab Beginn der Schwangerschaft straffrei gestellt wird. Das heißt, jede Frau kann diese Entscheidung treffen, wenn sie es möchte.",
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext",
+    "beleg"
+   ],
+   "note": "Glasner zählt 'drei Monate ab Beginn der Schwangerschaft' (12 Wochen); in üblicher SSW-Zählung wären es 16, Frage mehrdeutig; aha-Schlusssatz nicht im Ausschnitt.",
+   "stand_note": "",
+   "quality": 2
+  },
+  {
+   "statement": "Auch nach den ersten drei Monaten ist ein Abbruch in Österreich erlaubt, wenn Leben oder psychische Gesundheit der Frau belastet sind.",
+   "question": "Ist eine Abtreibung in Österreich auch nach den ersten drei Monaten noch möglich?",
+   "answer": "Ja, etwa bei Gefahr für die Frau",
+   "distractors": [
+    "Nein, unter keinen Umständen",
+    "Nur mit Zustimmung des Partners",
+    "Nur bis zum vierten Monat"
+   ],
+   "aha": "Weitere Ausnahmen sind eine zu erwartende schwere Behinderung des Kindes oder wenn die Schwangere unmündig ist. Für die 1970er war dieser Rahmen sehr weit gespannt.",
+   "quote_clean": "Nach diesen 12 Wochen ist der Schwangerschaftsabbruch weiterhin möglich, wenn durch die Schwangerschaft das Leben der Frau oder ihre psychische Gesundheit belastet ist.",
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wochenzählung mehrdeutig; auf 'drei Monate' umformuliert.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Anders als in Deutschland gibt es in Österreich vor einer Abtreibung keine verpflichtende Wartefrist.",
+   "question": "Welche Regel zur Überlegungszeit gibt es in Deutschland vor einer Abtreibung, in Österreich aber nicht?",
+   "answer": "Eine Wartefrist von ein paar Tagen",
+   "distractors": [
+    "Eine Wartefrist von mindestens vier Wochen",
+    "Eine Wartefrist von mindestens zwei Wochen",
+    "Eine Wartefrist von mindestens drei Monaten"
+   ],
+   "aha": "Laut Glasner gibt es in Deutschland außerdem die Regel, dass der aufklärende Arzt den Abbruch nicht selbst durchführen darf. In Österreich fällt beides weg, und Glasner nennt das eine weise, weitblickende Entscheidung.",
+   "quote_clean": "In Deutschland gibt es zwei Unterschiede: Der aufklärende, betreuende Arzt darf den Abbruch nicht durchführen, und man hat eine Wartefrist, eine Überlegungsphase von ein paar Tagen.",
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Es gibt zwei Unterschiede (auch Arztregel); Frage auf die Überlegungsfrist präzisiert.",
+   "stand_note": "Stand 2025",
+   "quality": 2
+  },
+  {
+   "statement": "Ein medikamentöser Abbruch im ambulanten Bereich, auch zu Hause, ist nur bis Ende der 7. Schwangerschaftswoche möglich.",
+   "question": "Bis zum Ende welcher Schwangerschaftswoche ist ein medikamentöser Abbruch zu Hause möglich?",
+   "answer": "7. Woche",
+   "distractors": [
+    "4. Woche",
+    "10. Woche",
+    "12. Woche"
+   ],
+   "aha": "Danach steigt das Schwangerschaftshormon so stark an, dass die Tabletten kaum mehr wirken. An der Klinik in Graz geht es unter bestimmten Umständen bis zur neunten Woche, die Vakuumaspiration geht dagegen immer.",
+   "quote_clean": "Der medikamentöse Schwangerschaftsabbruch im ambulanten Bereich, der also auch zu Hause möglich ist, geht nur bis Ende der 7. Woche.",
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Glasners Wochenzählung (Ende 7. Woche) weicht von der üblichen SSW-Zählung (bis ca. 9. SSW) ab; als Faktenfrage irreführend.",
+   "stand_note": "",
+   "quality": 2
+  },
+  {
+   "statement": "Beim medikamentösen Abbruch wirkt die erste Tablette 48 Stunden, bevor vier weitere Tabletten die Blutung auslösen.",
+   "question": "Wie viele Stunden wirkt beim medikamentösen Abbruch laut Andreas Glasner die erste Tablette, bevor die weiteren genommen werden?",
+   "answer": "48 Stunden",
+   "distractors": [
+    "6 Stunden",
+    "12 Stunden",
+    "96 Stunden"
+   ],
+   "aha": "Die erste Tablette stoppt die Schwangerschaft, zwei Tage später lösen Prostaglandine die Blutung aus. Deshalb muss man den Termin gut planen, die Frau soll an dem Tag Zeit haben und nicht allein sein.",
+   "quote_clean": "Beim medikamentösen Abbruch muss man die erste Tablette vor Ort nehmen, die muss dann 48 Stunden wirken, dann löst man die Blutung mit vier weiteren Tabletten aus.",
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Als Glasners Ablauf formuliert (in der Praxis variiert das Intervall).",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Das Hauptmedikament beim medikamentösen Abbruch wirkt wie ein Anti-Schwangerschaftshormon und bringt die Schwangerschaft zum Stillstand.",
+   "question": "Wie wirkt das erste Medikament bei einer medikamentösen Abtreibung?",
+   "answer": "Es wirkt gegen das Schwangerschaftshormon",
+   "distractors": [
+    "Es löst sofort die Blutung aus",
+    "Es betäubt die Gebärmutter",
+    "Es tötet die Eizelle chemisch ab"
+   ],
+   "aha": "Das Präparat heißt Mifegyne. Es lässt die Schwangerschaft stehen bleiben und bereitet die Gebärmutterschleimhaut vor, damit sie zwei Tage später mit den Prostaglandin-Tabletten abbluten kann.",
+   "quote_clean": "Das erste Medikament, das Hauptmedikament, Mifegyne, ist einfach gesagt ein Anti-Schwangerschaftshormon. Es bringt den Eierstock dazu, das Schwangerschaftshormon nicht mehr zu bilden, und die Schwangerschaft bleibt stehen.",
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Glasners Formulierung zum Eierstock ist medizinisch ungenau; Antwort allgemeiner.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Weil das Schwangerschaftshormon in den ersten Wochen steil ansteigt, funktioniert der medikamentöse Abbruch nur in einer frühen Phase.",
+   "question": "Warum funktioniert der medikamentöse Abbruch nur früh in der Schwangerschaft?",
+   "answer": "Das Schwangerschaftshormon steigt zu stark an",
+   "distractors": [
+    "Die Tabletten sind nur kurz zugelassen",
+    "Der Magen verträgt sie später nicht",
+    "Die Gebärmutter wird zu klein"
+   ],
+   "aha": "Die Tablette muss das Hormon neutralisieren, und irgendwann ist die Maximaldosis erreicht. Ab etwa der zwölften Woche übernimmt dann die Plazenta die Hormonproduktion.",
+   "quote_clean": "weil das Schwangerschaftshormon ab den ersten Wochen sehr steil ansteigt, bis zur 12. Woche, dann bleibt es stehen, dann übernimmt die Plazenta, und deswegen hat der medikamentöse Abbruch ein frühes Limit.",
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Medizinische Erklärung im Ausschnitt vereinfacht/ungenau, aha enthält nicht belegte Details ('Maximaldosis').",
+   "stand_note": "",
+   "quality": 2
+  },
+  {
+   "statement": "Menstruationsblut gerinnt kaum, die Blutung nach einem medikamentösen Abbruch enthält dagegen normales, gerinnendes Blut.",
+   "question": "Was unterscheidet Menstruationsblut von der Blutung nach einem medikamentösen Abbruch?",
+   "answer": "Menstruationsblut gerinnt kaum",
+   "distractors": [
+    "Menstruationsblut ist sauerstoffreicher",
+    "Menstruationsblut enthält keine Zellen",
+    "Menstruationsblut gerinnt schneller"
+   ],
+   "aha": "Weil sich Blutgerinnsel bilden, sieht man im Ultraschall am nächsten Tag nicht, ob das ein Gerinnsel oder ein Geweberest ist. Deshalb wartet man zehn bis zwölf Tage auf die Kontrolle.",
+   "quote_clean": "Diese Blutung ist nicht wie eine Menstruation. Menstruationsblut ist ungerinnbar, damit die Schleimhaut abgeblutet werden kann. Da ist aber normales Blut dabei.",
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Menstruationsblut kann auch Gerinnsel enthalten, daher 'kaum'.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Andreas Glasner bezeichnet die Natur als Institution, die bei gewollten Schwangerschaften ungefragt Abbrüche macht.",
+   "question": "Wer hat's gesagt: „Es gibt noch eine Institution, die ungefragt bei gewollten Schwangerschaften einen Abbruch macht, und das ist die Natur“?",
+   "answer": "Andreas Glasner",
+   "distractors": [
+    "Andreas Sator",
+    "Die Frauenministerin",
+    "Ein Ethiker"
+   ],
+   "aha": "Gemeint sind Fehlgeburten, die bei etwa jeder vierten Schwangerschaft passieren. Damit argumentiert er, warum ein Abbruch eigentlich genauso eine Kassenleistung sein könnte.",
+   "quote_clean": "Es gibt noch eine Institution, die ungefragterweise bei gewollten Schwangerschaften einen Abbruch macht, und das ist die Natur.",
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "'Wer hat's gesagt' mit nur einem Gast trivial; Natur-Vergleich kann bei Fehlgeburten verletzend wirken.",
+   "stand_note": "",
+   "quality": 1
+  },
+  {
+   "statement": "Andreas Glasner betont, dass bei einem Abbruch nicht der Ort entscheidend ist, sondern wie die Frau betreut wird.",
+   "question": "Wer hat's gesagt: „Es ist nicht der Ort, es ist das Wie“ – über die Betreuung bei Abtreibungen?",
+   "answer": "Andreas Glasner",
+   "distractors": [
+    "Andreas Sator",
+    "Die Frauenministerin",
+    "Bruno Kreisky"
+   ],
+   "aha": "Ob Spital, spezialisiertes Zentrum oder niedergelassene Fachärztin ist für ihn zweitrangig. Wichtig ist die passende Methode und dass im Fall einer Komplikation schnell geholfen werden kann.",
+   "quote_clean": "Da ist wieder die Beratung wichtig, die Aufklärung ist wichtig. Es ist nicht der Ort, es ist das Wie.",
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "'Wer hat's gesagt' ohne Wissenswert, trivial.",
+   "stand_note": "",
+   "quality": 1
+  },
+  {
+   "statement": "Andreas holt seinen Gast mit „zurück in die Schule, Biologie Basics“ zu den Grundlagen der Schwangerschaft.",
+   "question": "Mit welchen Worten leitet Andreas in dieser Folge zu den Grundlagen der Schwangerschaft über?",
+   "answer": "Zurück in die Schule, Biologie Basics",
+   "distractors": [
+    "Jetzt wird's ein bisschen nerdig",
+    "Erklär's mir wie einem Kind",
+    "Lass uns ganz vorne anfangen"
+   ],
+   "aha": "Andreas versucht dann selbst, die Befruchtung zu erklären, inklusive „Juhu, gewonnen“ für die siegreiche Samenzelle. Der Gast übernimmt dann lieber.",
+   "quote_clean": "Andy, gehen wir mit dir noch mal kurz zurück in die Schule. Biologie-Basics. Erklär uns mal, was bei einer Schwangerschaft im Körper einer Frau passiert.",
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Moderationsfloskel, erfundene Distraktoren.",
+   "stand_note": "",
+   "quality": 1
+  },
+  {
+   "statement": "Andreas Glasner will lieber Andi genannt werden, weil er bei „Andreas“ an den Moment denkt, als er mit 20 den BMW seines Vaters zerlegt hat.",
+   "question": "Warum will der Gast lieber Andi statt Andreas genannt werden?",
+   "answer": "Erinnert ihn an einen geschrotteten BMW",
+   "distractors": [
+    "So nennt ihn seine Mutter",
+    "Es gibt zu viele Andreasse",
+    "Andreas klingt ihm zu streng"
+   ],
+   "aha": "Mit 20 hat er unerlaubterweise den BMW seines Vaters zerlegt, und der Vater hat ihn angeschaut und „Andreas“ gesagt. Für Glasner ist Andreas deshalb mit solchen Momenten verbunden, und Andi ist ihm ausdrücklich recht.",
+   "quote_clean": "Eines davon war, wie ich mit 20 unerwarteter- und unerlaubterweise den BMW meines Vaters zerlegt habe, und der hat mich dann angeschaut und gesagt: Andreas.",
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Selbst erzählte, harmlose Anekdote; 'Seitdem' war nicht belegt.",
+   "stand_note": "",
+   "quality": 3
+  }
+ ],
+ "id": "353",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

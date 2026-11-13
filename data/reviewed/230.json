@@ -1,0 +1,284 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg bei 502 passt; Schwellen sind Stand 2022 (Deutschland wurde später gesenkt), Aha entsprechend präzisiert.",
+   "stand_note": "Stand 2022",
+   "statement": "Laut Marianne Schulze gilt das französische Lieferkettengesetz nur für Unternehmen ab 5.000 Mitarbeiter:innen.",
+   "question": "Ab wie vielen Mitarbeiter:innen gilt das französische Lieferkettengesetz laut Marianne Schulze für ein Unternehmen?",
+   "answer": "5.000",
+   "distractors": [
+    "500",
+    "1.000",
+    "20.000"
+   ],
+   "aha": "Frankreich nimmt nur die ganz Großen direkt in die Pflicht, Deutschland setzte die Grenze 2022 bei 3.000 an. Die Kleinen erwischt es trotzdem indirekt, weil die Konzerne bei ihren Zulieferern nachfragen müssen.",
+   "quote_clean": "die nicht so wie in Frankreich zum Beispiel nur Unternehmen ab 5.000 Mitarbeiterinnen und Mitarbeitern oder in Deutschland ab 3.000 erfasst",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 661 passt; Zahl ist Schulzes Angabe und wird zugeschrieben, Aha enthielt Spekulation über NGO-Motive.",
+   "stand_note": "Stand 2022",
+   "statement": "Laut Marianne Schulze ist der Ölkonzern Total für rund ein Prozent des weltweiten CO2-Ausstoßes verantwortlich.",
+   "question": "Wie viel Prozent des weltweiten CO2-Ausstoßes gehen laut Marianne Schulze auf den Ölkonzern Total zurück?",
+   "answer": "Rund 1 Prozent",
+   "distractors": [
+    "Rund 0,01 Prozent",
+    "Rund 5 Prozent",
+    "Rund 12 Prozent"
+   ],
+   "aha": "Ein einziger Konzern, ein Hundertstel der globalen Emissionen. Total hat sich außerdem mit sehr vagen Vorsorgemaßnahmen angreifbar gemacht, deshalb wurde in Frankreich geklagt.",
+   "quote_clean": "Die haben auch ein Prozent Anteil am weltweiten CO2-Ausstoß und haben sich da sehr angreifbar gemacht.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 926-930 passt, als Vorwurf formuliert; Pipeline im Westen Ugandas bei 870.",
+   "stand_note": "Stand 2022",
+   "statement": "Sechs NGOs werfen Total vor, dass für Ölbohrungen in Uganda rund 100.000 Menschen vertrieben wurden.",
+   "question": "Wie viele Menschen sollen laut sechs NGOs für Totals Ölprojekt in Uganda vertrieben worden sein?",
+   "answer": "Rund 100.000",
+   "distractors": [
+    "Rund 1.000",
+    "Rund 10.000",
+    "Rund 1 Million"
+   ],
+   "aha": "Es geht um eine Pipeline im Westen Ugandas. Geklagt wird in Frankreich, weil das französische Gesetz Konzerne für ihre Sorgfalt im Ausland in die Pflicht nimmt.",
+   "quote_clean": "Und da ist jetzt der Vorwurf von sechs NGOs in Frankreich, dass 100.000 Leute für die Ölbohrungen vertrieben wurden.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "kontext"
+   ],
+   "note": "Beleg bei 1461-1465 passt; Prozentgrenze gilt nur bei sehr großen Unternehmen, Aha-Meinung entschärft.",
+   "stand_note": "Stand 2022",
+   "statement": "Beim deutschen Lieferkettengesetz können Strafen laut Marianne Schulze bis zu zwei Prozent des Jahresumsatzes betragen.",
+   "question": "Bis zu wie viel Prozent des Jahresumsatzes können Strafen nach dem deutschen Lieferkettengesetz laut Marianne Schulze ausmachen?",
+   "answer": "2 Prozent",
+   "distractors": [
+    "0,2 Prozent",
+    "10 Prozent",
+    "25 Prozent"
+   ],
+   "aha": "Bei einem Konzern mit Milliardenumsatz sind zwei Prozent kein Trinkgeld mehr. Deshalb reicht Freiwilligkeit allein nicht, es braucht auch spürbare Anreize.",
+   "quote_clean": "In Deutschland geht das teilweise bis zu einer halben Million Euro beziehungsweise zwei Prozent des Jahresumsatzes. Das tut dann doch ganz schön weh.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 281-296 passt, Aha (funktioneller Analphabetismus) belegt.",
+   "stand_note": "",
+   "statement": "Es gibt kein Land der Welt, in dem die Menschenrechte zu 100 Prozent eingehalten werden.",
+   "question": "In wie vielen Ländern der Welt werden die Menschenrechte laut Marianne Schulze vollständig eingehalten?",
+   "answer": "In keinem einzigen",
+   "distractors": [
+    "In rund zehn Ländern",
+    "In allen EU-Staaten",
+    "Nur in Skandinavien"
+   ],
+   "aha": "Auch in Österreich nicht. Marianne nennt zum Beispiel den funktionellen Analphabetismus im Bildungswesen als massives Problem. Menschenrechte sind also nicht nur ein Thema weit weg.",
+   "quote_clean": "Zunächst einmal ist es mir wichtig festzuhalten: Es gibt kein Land auf der Welt, wo die Menschenrechte zu 100 Prozent eingehalten werden.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 362-403 passt; als Einschätzung Schulzes zugeschrieben.",
+   "stand_note": "",
+   "statement": "Laut Marianne Schulze betonte der Westen im Kalten Krieg bürgerliche Freiheiten wie Meinungs- und Versammlungsfreiheit, während im Osten soziale Rechte wie Arbeit und Gesundheit eher als Wohlfahrtsleistungen galten.",
+   "question": "Welche Menschenrechte hat der Westen im Kalten Krieg laut Marianne Schulze besonders betont?",
+   "answer": "Freiheitsrechte wie die Meinungsfreiheit",
+   "distractors": [
+    "Das Recht auf Arbeit",
+    "Das Recht auf Gesundheitsversorgung",
+    "Das Recht auf Bildung"
+   ],
+   "aha": "Im Osten standen dagegen Arbeit, Gesundheit und Bildung im Vordergrund, nur eben eher als Wohlfahrt gedacht und weniger als Menschenrechte. Mit dem Ende des Kalten Krieges kehrte der Gedanke zurück: alle Menschenrechte für alle.",
+   "quote_clean": "Bei uns wird die Meinungsfreiheit sehr wertgeschätzt und die Versammlungsfreiheit sehr betont.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 494-509 passt; Stand 2022 (Richtlinie, kein Gesetz).",
+   "stand_note": "Stand 2022",
+   "statement": "Japans Wirtschaftsministerium hat eine umfassende Lieferketten-Richtlinie erlassen, die auch kleine und mittlere Betriebe in die Pflicht nimmt.",
+   "question": "Was ist an Japans Lieferketten-Richtlinie im Vergleich zu Frankreich und Deutschland besonders?",
+   "answer": "Sie gilt auch für kleinere Betriebe",
+   "distractors": [
+    "Sie gilt nur für Ölkonzerne",
+    "Sie sieht Haftstrafen vor",
+    "Sie gilt nur für Importe aus China"
+   ],
+   "aha": "In Europa erwischt es die Kleinen eher indirekt, über die Großen, die nachfragen müssen. Japan nimmt kleine und mittlere Unternehmen gleich direkt mit.",
+   "quote_clean": "Das Neueste ist, dass in Japan das Wirtschaftsministerium eine sehr umfassende Richtlinie herausgegeben hat – kein Gesetz, eine Richtlinie.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 513-527 passt.",
+   "stand_note": "",
+   "statement": "Lieferkettengesetze für Großkonzerne betreffen über einen Trickle-Down-Effekt auch kleinere Betriebe, weil die Konzerne bei ihren Zulieferern nachfragen müssen.",
+   "question": "Warum betreffen Lieferkettengesetze, die nur für Großkonzerne gelten, trotzdem auch kleine Betriebe?",
+   "answer": "Konzerne müssen bei Zulieferern nachfragen",
+   "distractors": [
+    "Kleine Betriebe zahlen eine Abgabe",
+    "Der Staat kontrolliert alle Betriebe",
+    "Kleine Betriebe müssen Berichte veröffentlichen"
+   ],
+   "aha": "Wer einen großen Kunden beliefern will, muss erklären können, wie er produziert. So rieselt die Pflicht die Lieferkette hinunter, auch ohne dass das Gesetz die Kleinen direkt nennt.",
+   "quote_clean": "Bei der deutschen, französischen bzw. niederländisch-finnischen Gesetzgebung ist das ein Trickle-Down-Effekt: Die großen Unternehmen müssen es umsetzen, müssen dann aber bei ihren Lieferantinnen und Lieferanten nachfragen.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 616-630 passt; Aha-Aussage 'Total ist gescheitert' überzieht (Verfahren lief noch), korrigiert.",
+   "stand_note": "Stand 2022",
+   "statement": "Laut Marianne Schulze geht es bei den Sorgfaltspflichten im französischen Gesetz vor allem um Prävention: Unternehmen sollen ihre Risiken kennen und Maßnahmen offenlegen, nicht jeden Zulieferer persönlich kontrollieren.",
+   "question": "Worum geht es bei den Sorgfaltspflichten des französischen Gesetzes laut Marianne Schulze vor allem?",
+   "answer": "Um Prävention und Risikoanalyse",
+   "distractors": [
+    "Um automatische Haftung für jeden Vorfall",
+    "Um Kontrollbesuche bei jedem Zulieferer",
+    "Um ein Verbot von Importen"
+   ],
+   "aha": "Ein Konzern mit tausenden Zulieferern kann nicht überall daneben stehen. Aber er muss wissen, wo es brenzlig werden kann, und das transparent machen. Bei Total heißt der Vorwurf, die Maßnahmen seien zu vage gewesen.",
+   "quote_clean": "Da geht es vor allem um Präventionsmaßnahmen. Es geht nicht um die Idee, bei jedem Lieferanten vor Ort vorstellig zu werden und zu sagen, ihr müsst jetzt A, B und C machen, sondern darum, das Bewusstsein zu heben und sich anzuschauen, wo ich ein Risiko habe.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 648-654 passt; Aha enthielt nicht belegte Jahresangabe (zehn, fünfzehn Jahre).",
+   "stand_note": "Stand 2022",
+   "statement": "Das französische Gesetz erlaubt Einzelpersonen und NGOs, gegen unzureichende Sorgfaltsmaßnahmen von Konzernen zu klagen.",
+   "question": "Wer kann in Frankreich klagen, wenn ein Konzern zu wenig für Menschenrechte in seiner Lieferkette tut?",
+   "answer": "Einzelpersonen und NGOs",
+   "distractors": [
+    "Nur die Staatsanwaltschaft",
+    "Nur betroffene Staaten",
+    "Nur Aktionär:innen des Konzerns"
+   ],
+   "aha": "Früher wurde bei ähnlichen Vorwürfen oft jahrelang nur darüber gestritten, wer überhaupt klagen darf. Das Gesetz klärt das vorab, und so konnte das Verfahren gegen Total ins Rollen kommen.",
+   "quote_clean": "Sie geben einzelnen Personen und vor allem auch Nichtregierungsorganisationen, also NGOs, die Möglichkeit, das zu beanstanden und eine Klage einzubringen.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 2307-2345 passt; Aha enthielt Unbelegtes (Kundgebungen).",
+   "stand_note": "",
+   "statement": "Beim Einkaufen kritisch bleiben, aber sich nicht verrückt machen – das rät Marianne Schulze.",
+   "question": "Welchen Rat gibt Marianne Schulze für das eigene Einkaufsverhalten?",
+   "answer": "Kritisch bleiben, aber sich nicht narrisch machen",
+   "distractors": [
+    "Nur noch Fairtrade kaufen",
+    "Jedes Label genau recherchieren",
+    "Am besten gar nichts mehr kaufen"
+   ],
+   "aha": "Nicht jede:r kann sich gerade bei der Teuerung das faire Produkt leisten, und das ist laut Marianne okay. Jede:r leistet einen Beitrag im Rahmen des Möglichen, nachfragen reicht, ohne es zu übertreiben.",
+   "quote_clean": "Kritisch bleiben, Dinge durchaus in Frage stellen, aber, überspitzt formuliert, sich nicht narrisch machen.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Satz ist abgerissen und im Gesprächsfluss unklar eingebettet; Fragestellung gibt Schulzes Punkt (Abwehr von Paternalismus-Kritik) nicht wieder.",
+   "stand_note": "",
+   "statement": "Fast alle Menschen sind unter gewissen Umständen korrumpierbar – deshalb braucht es Transparenz.",
+   "question": "Was hält Marianne Schulze über Korruption für ein Faktum?",
+   "answer": "Fast alle sind unter Umständen korrumpierbar",
+   "distractors": [
+    "Korruption gibt es nur im globalen Süden",
+    "Nur Konzerne sind korrumpierbar",
+    "Korruption ist seit 1990 verschwunden"
+   ],
+   "aha": "Genau deshalb setzen Lieferkettengesetze auf Transparenz. Wer offenlegen muss, was er tut, hat es schwerer, krumme Deals zu machen.",
+   "quote_clean": "Dass fast alle Menschen unter gewissen Umständen korrumpierbar sind, das ist ein Faktum.",
+   "quality": 2
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zur Gesprächsführung ohne Wissensgewinn; 'oft' nicht belegt.",
+   "stand_note": "",
+   "statement": "Andreas bittet seine Gäste am Ende oft um einen Gedanken für die Hörer:innen, was sie selbst im Alltag tun können.",
+   "question": "Wie leitet Andreas in dieser Folge seine letzte Frage an Marianne ein?",
+   "answer": "Mit einem Gedanken für die Hörer:innen",
+   "distractors": [
+    "Mit einer Frage nach ihrem Lieblingsbuch",
+    "Mit einer Bitte um eine Prognose für 2050",
+    "Mit der Frage nach ihrem größten Fehler"
+   ],
+   "aha": "Schuhe, Gewand, Computer: Wir entscheiden jeden Tag, was wir kaufen. Andreas will daher am Schluss wissen, was man selbst machen kann, bis der Staat das für einen regelt.",
+   "quote_clean": "Hast du noch einen Gedanken für meine Hörer:innen zum Schluss, wie man mit dieser Frage umgeht, die einen jeden Tag betrifft?",
+   "quality": 1
+  },
+  {
+   "i": 25,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Beleg bei 160-170 passt; 'musste' überzieht (sie versuchte es), Aha warm umformuliert.",
+   "stand_note": "",
+   "statement": "Als Menschenrechtskonsulentin versuchte Marianne Schulze einmal, einer Regierung klarzumachen, dass eine Hexenverordnung nicht mehr zeitgemäß ist.",
+   "question": "Wovon versuchte Marianne Schulze als Menschenrechtsberaterin zuletzt eine Regierung zu überzeugen?",
+   "answer": "Dass eine Hexenverordnung nicht zeitgemäß ist",
+   "distractors": [
+    "Dass die Todesstrafe abgeschafft gehört",
+    "Dass Frauen wählen dürfen",
+    "Dass Kinderarbeit verboten gehört"
+   ],
+   "aha": "Solche Verordnungen gibt es in manchen Ländern tatsächlich noch. Marianne erzählt auch, dass sie in einer Verfassung klarstellen wollte, dass alkoholkranke Menschen nicht diskriminiert werden dürfen.",
+   "quote_clean": "habe zuletzt zum Beispiel versucht, einer Regierung klarzumachen, dass eine Hexenverordnung nicht mehr zeitgemäß ist",
+   "quality": 4
+  }
+ ],
+ "id": "230",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

@@ -1,0 +1,281 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "10 Millionen bei 60 s belegt (Selbstbeschreibung von Amnesty).",
+   "stand_note": "Stand 2023",
+   "statement": "Amnesty International bezeichnet sich als weltgrößte Menschenrechtsbewegung und vereint rund 10 Millionen Menschen.",
+   "question": "Wie viele Menschen engagieren sich weltweit bei Amnesty International?",
+   "answer": "Rund 10 Millionen",
+   "distractors": [
+    "Rund 500.000",
+    "Rund 2 Millionen",
+    "Rund 50 Millionen"
+   ],
+   "aha": "Zehn Millionen Leute, das ist mehr als ganz Österreich Einwohner:innen hat. Die meisten davon sitzen nicht in einem Büro, sondern unterschreiben Petitionen, schreiben Briefe oder spenden. Genau diese Masse ist der Hebel.",
+   "quote_clean": "Amnesty ist, wie wir so sagen, die weltgrößte Menschenrechtsbewegung, die 10 Millionen Menschen auf der ganzen Welt vereint, die sich für Menschenrechte einsetzen.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "1948 bei 487 s belegt, Kontext Weltkrieg/Holocaust bei 459 s.",
+   "stand_note": "",
+   "statement": "Die Allgemeine Erklärung der Menschenrechte wurde 1948 als Reaktion auf den Zweiten Weltkrieg und den Holocaust verabschiedet.",
+   "question": "In welchem Jahr wurde die Allgemeine Erklärung der Menschenrechte verabschiedet?",
+   "answer": "1948",
+   "distractors": [
+    "1919",
+    "1955",
+    "1966"
+   ],
+   "aha": "Nach dem Zweiten Weltkrieg und dem Holocaust haben sich die Staaten zusammengesetzt und gesagt: nie mehr wieder. Die Geschichte der Menschenrechte ist also eigentlich eine Horrorgeschichte, sagt Annemarie Schlack. Das Ergebnis ist aber bis heute das Fundament.",
+   "quote_clean": "Die Allgemeine Erklärung der Menschenrechte gibt's seit 1948, als Ausfluss dieser schrecklichen Kriege.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "'Vor 100 Jahren' ist eine lose Redewendung, kein Fakt; 'in Europa' steht nicht im Transkript; Frauenwahlrecht kam je nach Land sehr unterschiedlich.",
+   "stand_note": "",
+   "statement": "Dass Frauen wählen dürfen, war vor rund 100 Jahren noch nicht selbstverständlich und musste erkämpft werden.",
+   "question": "Vor ungefähr wie vielen Jahren war das Frauenwahlrecht in Europa noch alles andere als selbstverständlich?",
+   "answer": "Rund 100 Jahre",
+   "distractors": [
+    "Rund 30 Jahre",
+    "Rund 200 Jahre",
+    "Rund 300 Jahre"
+   ],
+   "aha": "",
+   "quote_clean": "Dass Frauen wählen gehen dürfen, war vor 100 Jahren noch nicht so selbstverständlich, das wurde erkämpft.",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 659 s belegt und historisch korrekt (Beteiligte aus Libanon, China, Chile, Frankreich, USA u. a.).",
+   "stand_note": "",
+   "statement": "Die Allgemeine Erklärung der Menschenrechte wurde nicht nur von westlichen Diplomaten verfasst, sondern unter Mitwirkung von Menschen aus vielen Ländern und Kontinenten.",
+   "question": "Wer hat die Allgemeine Erklärung der Menschenrechte 1948 ausgearbeitet?",
+   "answer": "Vertreter:innen vieler Länder und Kontinente",
+   "distractors": [
+    "Ausschließlich US-amerikanische Juristen",
+    "Nur die vier Siegermächte",
+    "Eine Kommission des Vatikans"
+   ],
+   "aha": "Der Vorwurf, Menschenrechte seien eine Erfindung des Westens, wird oft laut, etwa aus China. Nur: Am Text haben Leute aus ganz verschiedenen Ländern und Kontinenten mitgeschrieben, teils in führenden Rollen. Das fällt in der Erzählung gern unter den Tisch.",
+   "quote_clean": "Auch 1948: Die Allgemeine Erklärung der Menschenrechte wurde von verschiedensten Menschen geschrieben, nicht nur von westlichen Diplomaten. Das vergisst man auch immer in der Erzählung.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Sehr steile, strittige Aussage ('einziges normatives System, das weltweit gilt'), die als Faktum kaum haltbar ist; Antwort wirkt wie eine Fangfrage.",
+   "stand_note": "",
+   "statement": "Die Menschenrechte sind das einzige normative Rechtssystem, das auf der ganzen Welt gilt.",
+   "question": "Was ist laut Amnesty das Besondere an den Menschenrechten als Rechtssystem?",
+   "answer": "Sie gelten als einziges weltweit",
+   "distractors": [
+    "Sie gelten nur in Demokratien",
+    "Sie gelten nur in UNO-Gründerstaaten",
+    "Sie gelten nur in Friedenszeiten"
+   ],
+   "aha": "",
+   "quote_clean": "Ganz wichtig ist zu sagen: Menschenrechte sind das einzige normative System, also ein Rechtssystem, das auf der ganzen Welt gilt.",
+   "quality": 2
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Aussage von Andreas über Tom Holland bei 487-515 s belegt (als These); Aha schrieb Annemarie eine Ergänzung zu, die Andreas selbst sagt.",
+   "stand_note": "",
+   "statement": "Der Historiker Tom Holland argumentiert, dass der universale Anspruch der Menschenrechte – sie gelten für jeden Menschen auf der Welt – aus dem Christentum stammt.",
+   "question": "Aus welcher Tradition stammt laut Historiker Tom Holland die Idee, dass Rechte für alle Menschen weltweit gelten?",
+   "answer": "Aus dem Christentum",
+   "distractors": [
+    "Aus dem römischen Recht",
+    "Aus der griechischen Demokratie",
+    "Aus dem Buddhismus"
+   ],
+   "aha": "Andreas hat gerade ein rund 600 Seiten dickes Buch von Tom Holland gelesen. Dessen These: Mit der Taufe gehört man einer Gemeinschaft an, die nicht an einem Dorf oder Land endet, und daraus wurde der Gedanke universeller Rechte. Gleichzeitig gab es ähnliche Ideen auch in anderen Kulturen und Religionen schon lange vorher.",
+   "quote_clean": "Und der beschreibt, dass dieser universale Anspruch, den man mit Menschenrechten hat, nämlich dass sie nicht nur in unserem Dorf oder in unserem Land gelten, sondern für jeden Menschen auf dieser Welt, ein Gedanke ist, der eigentlich aus dem Christentum kommt.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 744 s belegt; Büro-Schließung in Hongkong ist auch öffentlich bekannt.",
+   "stand_note": "Stand 2023",
+   "statement": "Amnesty International musste sein Büro in Hongkong schließen, weil es für die Mitarbeiter:innen zu gefährlich wurde.",
+   "question": "Was musste Amnesty International nach den Protesten in Hongkong tun?",
+   "answer": "Sein Büro in Hongkong schließen",
+   "distractors": [
+    "Sein Büro nach Hongkong verlegen",
+    "Ein zweites Büro in Hongkong eröffnen",
+    "Seine Hongkong-Kampagnen an die UNO abgeben"
+   ],
+   "aha": "Hongkong war britische Kolonie, die Leute konnten leben wie im Westen. Nach der Rückgabe an China wurden Freiheiten eingeschränkt, die Überwachung nahm zu, und die Polizei reagierte hart. Die Sicherheit der Leute ging vor, also hat Amnesty das Büro zugesperrt.",
+   "quote_clean": "Wir von Amnesty hatten auch ein eigenes Büro in Hongkong, das wir dann aufgeben mussten, weil es einfach zu gefährlich wurde für die Mitarbeiterinnen.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Kontext (staatliche Zeitung nannte Mitarbeitende 'Volksverräter') bei 890 s; 'Regierungsmedien' präzisiert.",
+   "stand_note": "Stand 2023",
+   "statement": "Die ungarischen Amnesty-Mitarbeiter:innen, die in einer staatlichen Zeitung als „Volksverräter“ bezeichnet wurden, empfinden es mittlerweile als Auszeichnung, wenn sie wieder irgendwo aufscheinen.",
+   "question": "Wie gehen die Amnesty-Leute in Ungarn laut Annemarie Schlack heute damit um, wenn sie in staatlichen Medien angeprangert werden?",
+   "answer": "Sie sehen es als Auszeichnung",
+   "distractors": [
+    "Sie klagen jedes Mal dagegen",
+    "Sie arbeiten nur noch anonym",
+    "Sie haben das Büro aufgegeben"
+   ],
+   "aha": "Statt sich einschüchtern zu lassen, haben die Kolleg:innen in Budapest den Spieß umgedreht. Laut Annemarie Schlack sind sie zuversichtlich und haben sogar wahnsinnigen Spaß dabei. Humor als Strategie gegen Repression, gar nicht so blöd.",
+   "quote_clean": "Ja, das Büro gibt es noch. Sie haben Wege gefunden, damit umzugehen, und mittlerweile finden sie es wirklich schon eine Auszeichnung, wenn sie da wieder irgendwo aufscheinen.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 976 s belegt (Tradition, ca. 20 Leute, Prosecco zu Mittag).",
+   "stand_note": "",
+   "statement": "Wenn eine Person, für die sich Amnesty eingesetzt hat, freikommt, feiert das Wiener Büro mit Prosecco – auch zu Mittag.",
+   "question": "Wie feiert das Amnesty-Büro in Wien, wenn eine inhaftierte Person freikommt?",
+   "answer": "Mit Prosecco, auch zu Mittag",
+   "distractors": [
+    "Mit einer Schweigeminute",
+    "Mit einer Pressekonferenz",
+    "Mit einem freien Nachmittag"
+   ],
+   "aha": "Wer beruflich quasi alle Probleme der Welt auf dem Tisch hat, braucht solche Momente. Als die Nachricht von der Freilassung der jungen Iranerin kam, standen rund 20 Leute im Büro zusammen. Und dann gab's eben Prosecco zum Mittagessen.",
+   "quote_clean": "Wir haben uns alle zusammengestellt im Büro, wir waren ungefähr 20 Leute, und ja, da darf es eine Flasche Prosecco auch zu Mittag sein. Das brauchen wir einfach.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Bei 1005 s belegt; Aha nannte den Iran, der in dieser Passage nicht vorkommt.",
+   "stand_note": "Stand 2023",
+   "statement": "Der Eindruck, die Menschenrechtslage werde immer schlechter, entsteht auch, weil sich schlechte Nachrichten besser verbreiten.",
+   "question": "Warum glauben viele, die Lage der Menschenrechte werde weltweit immer schlechter?",
+   "answer": "Schlechte Nachrichten verbreiten sich besser",
+   "distractors": [
+    "Es gibt weniger Menschenrechtsgesetze",
+    "Die UNO veröffentlicht keine Daten",
+    "Demokratien wurden weltweit abgeschafft"
+   ],
+   "aha": "Krisen wie der Krieg in der Ukraine sind real, aber sie sind nicht das ganze Bild: Extreme Armut und Kindersterblichkeit sind in den letzten 50 Jahren deutlich zurückgegangen. Annemarie Schlacks Tipp: ein bisschen weniger Nachrichten konsumieren, sich zurücklehnen und fragen, was man selbst tun kann.",
+   "quote_clean": "Ich glaube, da haben Nachrichten eine Rolle, die sie spielen: dass sie natürlich schlechte Nachrichten besser verbreiten.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zuordnungsfrage zur Gästin ohne Erkenntnis, Distraktoren (FIFA-Funktionär) wirken beliebig.",
+   "stand_note": "",
+   "statement": "Für Amnesty ist das politische System eines Landes zweitrangig, weil Menschenrechtsverletzungen überall vorkommen.",
+   "question": "Wer hat's gesagt: „Uns ist es egal, in welchem System Menschen leben, weil Menschenrechtsverletzungen überall passieren“?",
+   "answer": "Annemarie Schlack",
+   "distractors": [
+    "Andreas Sator",
+    "Ein UNO-Generalsekretär",
+    "Ein FIFA-Funktionär"
+   ],
+   "aha": "",
+   "quote_clean": "Das klingt jetzt komisch, aber uns ist es egal, in welchem System Menschen leben, weil Menschenrechtsverletzungen überall passieren.",
+   "quality": 2
+  },
+  {
+   "i": 14,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Triviale Zuordnungsfrage; politisch gefärbte Passage im Umfeld.",
+   "stand_note": "",
+   "statement": "Die Grundhaltung der Amnesty-Geschäftsführerin lautet: alle Menschenrechte für alle.",
+   "question": "Wer hat's gesagt: „Meine Basis ist alle Menschenrechte für alle“?",
+   "answer": "Annemarie Schlack",
+   "distractors": [
+    "Andreas Sator",
+    "Eleanor Roosevelt",
+    "Ein Sprecher der UNO"
+   ],
+   "aha": "",
+   "quote_clean": "Meine Basis ist: alle Menschenrechte für alle.",
+   "quality": 2
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage nach Formulierung einer Interviewfrage, kein Wissen.",
+   "stand_note": "",
+   "statement": "Andreas fragt nach, warum sich ein Regime wie das iranische um Petitionen kümmern sollte.",
+   "question": "Mit welchen zwei Wörtern leitet Andreas seine kritische Nachfrage ein?",
+   "answer": "„Blöde Frage, aber …“",
+   "distractors": [
+    "„Ganz ehrlich jetzt …“",
+    "„Mal provokant gefragt …“",
+    "„Sei mir nicht böse …“"
+   ],
+   "aha": "",
+   "quote_clean": "Blöde Frage, aber wenn ich jetzt Teil der iranischen Regierung bin, was kümmert mich das, wenn es eine Petition gibt?",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zur Schlussfrage, kein Wissen.",
+   "stand_note": "",
+   "statement": "Zum Schluss fragt Andreas, wo man anfangen kann, wenn man mitmachen will.",
+   "question": "Was fragt Andreas Annemarie Schlack zum Abschluss der Folge?",
+   "answer": "Wo man anfängt, wenn man mitmachen will",
+   "distractors": [
+    "Was sie selbst am meisten frustriert",
+    "Welches Land am schlimmsten ist",
+    "Ob sie je ans Aufhören denkt"
+   ],
+   "aha": "",
+   "quote_clean": "Eine letzte Frage: Wenn uns jetzt Leute zuhören, die sagen, cool, was diese Frau macht, ich möchte mitmachen – wo fängt man an?",
+   "quality": 1
+  }
+ ],
+ "id": "248",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

@@ -1,0 +1,284 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 1705 s, Zahl passt zu österreichischen Verbrauchsdaten; Aha enthielt erfundene Schnitzelrechnung, ersetzt.",
+   "stand_note": "Stand 2022",
+   "statement": "In Österreich isst eine Person laut Philipp Stangl im Schnitt rund 1,2 Kilo Fleisch pro Woche.",
+   "question": "Wie viel Kilo Fleisch isst eine Person in Österreich laut Philipp Stangl im Schnitt pro Woche?",
+   "answer": "Rund 1,2 Kilo",
+   "distractors": [
+    "Rund 0,4 Kilo",
+    "Rund 2,5 Kilo",
+    "Rund 0,7 Kilo"
+   ],
+   "aha": "Das ist mehr als ein Kilo Fleisch, jede Woche und pro Kopf. Laut Philipp Stangl wäre nur etwa ein Viertel davon gesund und nachhaltig.",
+   "quote_clean": "Wir essen aktuell rund 1,2 Kilo Fleisch pro Woche pro Person.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 1709-1716 s; als Aussage von Stangl gekennzeichnet, Aha entschlackt.",
+   "stand_note": "",
+   "statement": "Philipp Stangl nennt als wissenschaftliche Empfehlung für eine gesunde und nachhaltige Ernährung etwa 300 Gramm Fleisch pro Woche.",
+   "question": "Wie viel Gramm Fleisch pro Woche empfiehlt laut Philipp Stangl die Wissenschaft für eine gesunde und nachhaltige Ernährung?",
+   "answer": "Etwa 300 Gramm",
+   "distractors": [
+    "Etwa 800 Gramm",
+    "Etwa 100 Gramm",
+    "Etwa 600 Gramm"
+   ],
+   "aha": "300 Gramm, das ist ein Viertel dessen, was wir heute essen. Um dorthin zu kommen, braucht es laut Philipp alles: vegane Alternativen, andere Rezepte und Mischprodukte wie Rebel Meat.",
+   "quote_clean": "Und die wissenschaftliche Empfehlung, wie wir uns nachhaltig und gesund ernähren sollten, ist 300 Gramm. Das ist ein Viertel davon.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 849-855 s; Marktanteil Bio-Fleisch ca. 5 % passt zu damaligen Daten.",
+   "stand_note": "Stand 2022",
+   "statement": "Biofleisch hat in Österreich einen Marktanteil von etwa 5 Prozent.",
+   "question": "Wie viel Prozent des Fleischs in Österreich ist Biofleisch?",
+   "answer": "Etwa 5 Prozent",
+   "distractors": [
+    "Etwa 20 Prozent",
+    "Etwa 12 Prozent",
+    "Etwa 35 Prozent"
+   ],
+   "aha": "Österreich gilt als Bio-Musterland, beim Fleisch ist es aber nur ein kleiner Teil. Deshalb haben Biobetriebe Rebel Meat eher als Verbündete gegen die anderen 95 Prozent gesehen statt als Konkurrenz.",
+   "quote_clean": "In Wahrheit haben wir einen Marktanteil von 5 Prozent bei Biofleisch in Österreich. Das heißt, der große Gegner sind die 95 Prozent.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "transkription",
+    "spielbarkeit"
+   ],
+   "note": "Stangl meint den Bauern nebenan als Beispiel, nicht eine allgemeine Herkunft; Distraktoren (Ukraine, Kanada) sind als Sojaquellen nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Auch Tiere in Österreich werden teils mit Soja aus Brasilien gefüttert, für das Regenwald gerodet wurde.",
+   "question": "Woher stammt oft das Soja, mit dem auch österreichische Kühe gefüttert werden?",
+   "answer": "Aus Brasilien",
+   "distractors": [
+    "Aus dem Burgenland",
+    "Aus Kanada",
+    "Aus der Ukraine"
+   ],
+   "aha": "„Regional“ klingt nach heiler Welt, sagt aber nichts darüber, was im Futtertrog landet. Für Philipp ist das der Grund, warum man genauer hinschauen muss als nur aufs Österreich-Fähnchen.",
+   "quote_clean": "Das ist aber leider nicht so, weil es auch beim Bauern nebenan die Schweine am Vollspaltenboden gibt und auch die Kuh nebenan mit Soja aus Brasilien gefüttert wird, wo vorher Regenwald gestanden ist.",
+   "quality": 2
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 765-771 s; Kunstdünger aus Erdgas stimmt (Haber-Bosch), zeitlos.",
+   "stand_note": "",
+   "statement": "Kunstdünger wird aus Erdgas hergestellt, deshalb treiben hohe Gaspreise auch die Lebensmittelpreise.",
+   "question": "Aus welchem Rohstoff wird Kunstdünger hergestellt?",
+   "answer": "Aus Erdgas",
+   "distractors": [
+    "Aus Erdöl-Teer",
+    "Aus Braunkohle",
+    "Aus Kalkstein"
+   ],
+   "aha": "Für Stickstoffdünger braucht man jede Menge Erdgas. Wird Gas teuer, wird also auch dein Gemüse teurer – Betriebe, die mit Tiermist düngen, trifft das weniger.",
+   "quote_clean": "Oder muss ich meine Felder mit Kunstdünger düngen, der aus Erdgas gewonnen wird? Das ist auch einer der Gründe, warum die Preise jetzt so steigen.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 603-613 s; als Aussage von Stangl formuliert, mit „kann“ vorsichtig.",
+   "stand_note": "",
+   "statement": "Eine Kuh, die viel auf der Weide steht, kann dazu beitragen, dass Boden aufgebaut und CO2 im Boden gespeichert wird.",
+   "question": "Was kann eine Kuh, die rund 200 Tage im Jahr auf der Weide steht, laut Philipp Stangl für den Boden tun?",
+   "answer": "Boden aufbauen und CO2 einlagern",
+   "distractors": [
+    "Den Grundwasserspiegel heben",
+    "Schädlinge im Boden vertreiben",
+    "Den Boden für Mais auflockern"
+   ],
+   "aha": "„It's not the cow, it's the how“: Nicht die Kuh an sich ist das Problem, sondern wie sie gehalten wird. Beweidung kann Humus aufbauen, und Humus speichert Kohlenstoff.",
+   "quote_clean": "Eine Kuh, die 365 Tage Auslauf hat und 200 Tage auf der Weide steht, kann sogar dazu beitragen, dass der Boden wieder aufgebaut wird und dadurch CO2 im Boden eingelagert wird.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Wer-sagt-was-Frage ohne Wissensgewinn; Spruch stammt nicht von Stangl selbst.",
+   "stand_note": "",
+   "statement": "Philipp Stangl hat „It's not the cow, it's the how“ als Leitmotiv für Rebel Meat gewählt.",
+   "question": "Wer hat den Spruch „It's not the cow, it's the how“ zu seinem Leitmotiv gemacht?",
+   "answer": "Philipp Stangl",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Bio-Bauer aus Tirol",
+    "Ein Sternekoch aus Wien"
+   ],
+   "aha": "Der Rebel-Meat-Gründer meint damit: Entscheidend ist, wie Fleisch hergestellt wird – Futter, Weide, Auslauf. Schwarz-Weiß-Denken bei der Ernährung bringt laut ihm wenig.",
+   "quote_clean": "Wir haben zum Beispiel diesen Spruch „It's not the cow, it's the how“ für uns als Leitmotiv entdeckt.",
+   "quality": 1
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 320-333 s; Erfahrungsaussage, passend formuliert.",
+   "stand_note": "",
+   "statement": "Beim Verkosten beeinflusst einen die Farbe eines Lebensmittels oft am meisten, noch vor Geruch und Geschmack.",
+   "question": "Was beeinflusst dich beim Verkosten eines neuen Lebensmittels laut Philipp Stangl am allermeisten?",
+   "answer": "Die Farbe",
+   "distractors": [
+    "Der Geschmack",
+    "Die Konsistenz",
+    "Der Preis"
+   ],
+   "aha": "Erst Farbe, dann Geruch und irgendwann der Geschmack: Das Auge isst wirklich mit. Bei der Entwicklung von Rebel Meat sind laut Philipp einige sehr spannend gefärbte Mischungen entstanden.",
+   "quote_clean": "Das Lustige ist: Wenn man etwas verkostet, beeinflusst einen fast die Farbe am allermeisten.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Anekdotische Beobachtung als Faktenfrage; Distraktor „Grillen im Garten“ ist nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Viele, die weniger Fleisch essen, verzichten zuerst zu Hause und essen Fleisch vor allem auswärts, wo die Herkunft am wenigsten klar ist.",
+   "question": "Wo essen viele Menschen, die ihren Fleischkonsum reduzieren, noch am ehesten Fleisch?",
+   "answer": "Auswärts, etwa im Restaurant",
+   "distractors": [
+    "Zu Hause beim Kochen",
+    "Beim Grillen im Garten",
+    "Beim Frühstück daheim"
+   ],
+   "aha": "Ausgerechnet im Gasthaus oder in der Kantine weißt du am wenigsten, woher das Fleisch kommt. Deshalb hätte sich Philipp die Herkunftskennzeichnung auch für die Gastronomie gewünscht.",
+   "quote_clean": "Gerade dort essen viele Leute, die weniger Fleisch essen, es zuerst einmal zu Hause nicht mehr und dann nur noch, wenn sie auswärts essen. Das ist aber genau verkehrt, weil man dort noch viel weniger weiß, wo es herkommt.",
+   "quality": 2
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 992-1012 s; klar als Position von Stangl formuliert.",
+   "stand_note": "",
+   "statement": "Konventionelles Fleisch ist zu billig, weil seine Folgekosten für Umwelt und Gesellschaft nicht im Preis stecken.",
+   "question": "Warum ist konventionelles Fleisch laut Philipp Stangl zu billig?",
+   "answer": "Folgekosten sind nicht eingepreist",
+   "distractors": [
+    "Bauern bekommen zu viele Förderungen",
+    "Der Handel verkauft es unter Einkauf",
+    "Fleisch wird kaum besteuert"
+   ],
+   "aha": "Ökonom:innen nennen das Externalitäten: Schäden für Klima, Böden und Gewässer, die nicht an der Kassa bezahlt werden. Würden sie eingepreist, würden viele laut Philipp ganz automatisch zu nachhaltigeren Produkten greifen.",
+   "quote_clean": "Und natürlich die Externalitäten, die durch konventionelles Fleisch entstehen, besser einpreisen. Denn wir wissen alle: Fleisch ist viel zu billig.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "transkription"
+   ],
+   "note": "Wer-sagt-was-Frage; im Transkript „Fleischhässer“, Wortlaut unsicher.",
+   "stand_note": "",
+   "statement": "Philipp Stangl vergleicht die Veggie-Ecke im Supermarkt für viele Fleischesser mit Weihwasser für den Teufel.",
+   "question": "Wer hat gesagt, die Veggie-Ecke sei für viele Fleischesser „wie das Weihwasser für den Teufel“?",
+   "answer": "Philipp Stangl",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Supermarkt-Manager",
+    "Ein Ernährungswissenschaftler"
+   ],
+   "aha": "Der Rebel-Meat-Chef hätte gern, dass Fleisch und Alternativen im Regal nebeneinander liegen. Dann probieren auch Leute was Neues, die sonst einen großen Bogen um die Veggie-Ecke machen.",
+   "quote_clean": "Für viele Fleischesser ist die Veggie-Ecke wie das Weihwasser für den Teufel, sie machen einen großen Bogen.",
+   "quality": 1
+  },
+  {
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "fairness"
+   ],
+   "note": "„Meuterei“ ist scherzhaft übertrieben und würde wörtlich genommen; bloßstellend für die Unteroffiziere.",
+   "stand_note": "",
+   "statement": "Als das Bundesheer fleischlose Tage einführen wollte, gab es Protest unter den Unteroffizieren, also setzte man auf 50-50-Produkte.",
+   "question": "Was passierte, als das Bundesheer ganz fleischlose Tage einführen wollte?",
+   "answer": "Die Unteroffiziere meuterten",
+   "distractors": [
+    "Die Kantine blieb leer",
+    "Die Rekruten jubelten",
+    "Der Minister stoppte es"
+   ],
+   "aha": "Die Lösung war dann der Kompromiss: halb Fleisch, halb Gemüse – und alle waren happy. Andreas merkte trocken an, dass eine Meuterei beim Heer eher heikel ist, weil die bewaffnet sind.",
+   "quote_clean": "Das österreichische Bundesheer ist jetzt ein großer Kunde von uns geworden. Man hat dort auch versucht, ganz vegane Tage umzusetzen. Da gab es dann eine durchaus ansehnliche Meuterei unter den Unteroffizieren.",
+   "quality": 1
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zum Interview, keine Wissensfrage; Statement („fragt gern direkt“) nicht belegt.",
+   "stand_note": "",
+   "statement": "Andreas fragt Gründer:innen gern ganz direkt, wie viel Geld sie schon verdienen.",
+   "question": "Welche Frage stellt Andreas dem Rebel-Meat-Gründer ganz unverblümt?",
+   "answer": "Wie viel Geld verdient ihr schon?",
+   "distractors": [
+    "Wie schmeckt dir dein Produkt?",
+    "Würdest du nochmal gründen?",
+    "Isst du selbst noch Fleisch?"
+   ],
+   "aha": "Andreas hakt beim Geld gern nach – später will er sogar wissen, wie viel von einer Packung Würstel beim Start-up bleibt. Die Antwort: fast eine Million verkaufte Produkte, aber nur winzige Margen.",
+   "quote_clean": "Und wie viel Geld verdient ihr schon? Oder wie viele Leute habt ihr schon erreicht?",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-was-Frage zu einer Meinungsaussage, kein Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Philipp Stangl meint, viele Menschen mit etwas weniger Fleisch bewirken mehr als wenige, die ganz verzichten.",
+   "question": "Wer hat gesagt, dass viele Menschen mit weniger Fleisch mehr bewirken als wenige, die ganz verzichten?",
+   "answer": "Philipp Stangl",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Veganer-Verband",
+    "Eine Klimaforscherin"
+   ],
+   "aha": "Das ist der Kern von Rebel Meat: kein Entweder-oder, sondern ein goldener Mittelweg. Mit 50-50 will Philipp auch die Leute mitnehmen, die nie vegan leben würden.",
+   "quote_clean": "Wenn viele Leute weniger Fleisch essen, hat das einen viel größeren Impact, als wenn ganz wenige gar kein Fleisch mehr essen.",
+   "quality": 1
+  }
+ ],
+ "id": "215",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

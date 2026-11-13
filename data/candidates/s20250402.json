@@ -1,0 +1,744 @@
+{
+ "theme": "Geschichte",
+ "summary": "Lucia Heilman hat als Kind die Nazi-Zeit in einer Wiener Werkstatt versteckt überlebt und erzählt, wie das war und was wir heute tun müssen.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 276,
+   "speaker": "Andreas Sator",
+   "quote": "Also, das klingt jetzt nach nicht viel, wenn man jetzt in Wien oder in Salzburg oder in Niederösterreich lebt, aber wenn man in Uganda lebt, dann ist das für eine Person schnell mal das Einkommen, das man sonst in zwei Jahren hat.",
+   "quote_clean": "Das klingt jetzt nach nicht viel, wenn man in Wien, in Salzburg oder in Niederösterreich lebt, aber wenn man in Uganda lebt, dann ist das für eine Person schnell mal das Einkommen, das man sonst in zwei Jahren hat.",
+   "statement": "Die rund 800 bis 900 Euro, die GiveDirectly armen Menschen in Uganda überweist, entsprechen dort schnell dem Einkommen von etwa zwei Jahren.",
+   "question": "GiveDirectly schenkt armen Menschen in Uganda einmalig rund 800 bis 900 Euro. Wie vielen Jahren Einkommen entspricht das dort für eine Person ungefähr?",
+   "answer": "Etwa zwei Jahren",
+   "distractors": [
+    "Etwa drei Monaten",
+    "Etwa sechs Monaten",
+    "Etwa fünf Jahren"
+   ],
+   "number_value": 2,
+   "number_unit": "Jahre",
+   "slider_min": 0.5,
+   "slider_max": 8,
+   "log_scale": false,
+   "aha": "Für uns ist das ein besserer Urlaub, in Uganda ist es das Einkommen von zwei Jahren. Genau deshalb kann so ein Geldgeschenk dort ein Leben umkrempeln: Felder zurückkaufen, Tiere, ein neues Dach.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Armut",
+    "Entwicklungshilfe",
+    "Uganda"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 468,
+   "speaker": "Andreas Sator",
+   "quote": "Wer keines hat, bekommt für so 20 Dollar dann ein Mobiltelefon von der NGO und dort auf das Mobiltelefon, da hat man ein Bankkonto drauf und dort wird das Geld hin überwiesen.",
+   "quote_clean": "Wer keines hat, bekommt für rund 20 Dollar ein Mobiltelefon von der NGO, und auf dem Mobiltelefon hat man ein Bankkonto, auf das das Geld überwiesen wird.",
+   "statement": "Wer bei GiveDirectly kein Handy hat, bekommt eines um rund 20 Dollar – das Geld landet dann auf einem Konto am Telefon.",
+   "question": "Wie viel kostet ungefähr das Handy, das GiveDirectly Empfänger:innen ohne Telefon gibt, damit das Geld darauf überwiesen werden kann?",
+   "answer": "Rund 20 Dollar",
+   "distractors": [
+    "Rund 5 Dollar",
+    "Rund 80 Dollar",
+    "Rund 150 Dollar"
+   ],
+   "number_value": 20,
+   "number_unit": "Dollar",
+   "slider_min": 5,
+   "slider_max": 150,
+   "log_scale": false,
+   "aha": "Bargeld in einem Dorf zu verteilen wäre eine Einladung an Diebe. Mit einem billigen Handy und einem Konto darauf kommt das Geld sicher an – in Uganda läuft eh schon sehr viel Zahlungsverkehr übers Telefon.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Armut",
+    "Mobile Money"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 970,
+   "speaker": "Lucia Heilman",
+   "quote": "1941 begannen die Abtransporte der noch in Wien lebenden jüdischen Menschen.",
+   "quote_clean": "1941 begannen die Abtransporte der noch in Wien lebenden jüdischen Menschen.",
+   "statement": "1941 begannen die systematischen Deportationen der noch in Wien lebenden Jüdinnen und Juden.",
+   "question": "In welchem Jahr begannen die systematischen Deportationen der noch in Wien lebenden Jüdinnen und Juden?",
+   "answer": "1941",
+   "distractors": [
+    "1938",
+    "1939",
+    "1943"
+   ],
+   "number_value": 1941,
+   "number_unit": "Jahr",
+   "slider_min": 1935,
+   "slider_max": 1950,
+   "log_scale": false,
+   "aha": "Ab 1941 rollten die Transporte regelmäßig, und alle wussten, was das heißt: Wer auf Transport geht, fährt in den Tod. Genau in diesem Jahr hat Reinhold Duschka Lucia und ihre Mutter in seiner Werkstatt versteckt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "NS-Zeit",
+    "Wien",
+    "Deportation"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 742,
+   "speaker": "Lucia Heilman",
+   "quote": "Also vier Jahre waren wir, meine Mutter und ich, bei ihm versteckt. Er hat die ganzen Jahre für uns gesorgt.",
+   "quote_clean": "Vier Jahre waren wir, meine Mutter und ich, bei ihm versteckt. Er hat die ganzen Jahre für uns gesorgt.",
+   "statement": "Lucia Heilman und ihre Mutter waren vier Jahre lang bei Reinhold Duschka versteckt.",
+   "question": "Wie viele Jahre waren Lucia Heilman und ihre Mutter in Wien versteckt?",
+   "answer": "Vier Jahre",
+   "distractors": [
+    "Ein Jahr",
+    "Zwei Jahre",
+    "Sieben Jahre"
+   ],
+   "number_value": 4,
+   "number_unit": "Jahre",
+   "slider_min": 1,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Von 1941 bis 1945, für ein Kind von zehn, elf Jahren eine Ewigkeit: keine Schule, keine anderen Kinder, nur die Mutter und Reinhold. Und jedes Läuten an der Tür hätte das Ende sein können.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Versteck",
+    "NS-Zeit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1175,
+   "speaker": "Lucia Heilman",
+   "quote": "Binnen 14 Tagen mussten wir die Wohnung räumen. Und die haben die Wohnung übernommen.",
+   "quote_clean": "Binnen 14 Tagen mussten wir die Wohnung räumen. Und die haben die Wohnung übernommen.",
+   "statement": "Nachdem ein Ehepaar sich die Wohnung ausgesucht hatte, musste Lucias Familie sie binnen 14 Tagen räumen.",
+   "question": "Ein Ehepaar sucht sich die Wohnung von Lucias Familie aus. Wie viele Tage hat die Familie Zeit, auszuziehen?",
+   "answer": "14 Tage",
+   "distractors": [
+    "3 Tage",
+    "30 Tage",
+    "60 Tage"
+   ],
+   "number_value": 14,
+   "number_unit": "Tage",
+   "slider_min": 1,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Die Leute kamen mit einer Liste vom Bezirksamt, schauten sich die Wohnung an, sie gefiel ihnen – und zwei Wochen später war sie ihre. So einfach lief Bereicherung damals.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Arisierung",
+    "Wohnung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 425,
+   "speaker": "Andreas Sator",
+   "quote": "Und die Studien zeigen wirklich durch die Bank, dass die Empfänger vom Geldtransferter das Geld in der Regel nicht für Alkohol oder Zigaretten ausgeben, was, finde ich, auch ihr gutes Recht wäre, sondern, dass die das Geld sehr sinnvoll ausgeben, oft für Tiere oder für die Bildung ihrer Kinder oder sie investieren es in ihr Haus.",
+   "quote_clean": "Die Studien zeigen durch die Bank, dass die Empfänger von Geldtransfers das Geld in der Regel nicht für Alkohol oder Zigaretten ausgeben, was auch ihr gutes Recht wäre, sondern sehr sinnvoll, oft für Tiere, für die Bildung ihrer Kinder oder sie investieren es in ihr Haus.",
+   "statement": "Studien zeigen, dass Empfänger:innen von Geldtransfers das Geld meist sinnvoll ausgeben – für Tiere, die Bildung der Kinder oder ihr Haus – und nicht für Alkohol oder Zigaretten.",
+   "question": "Wofür geben arme Menschen geschenktes Geld laut Studien meistens aus?",
+   "answer": "Tiere, Bildung der Kinder, das Haus",
+   "distractors": [
+    "Vor allem Alkohol und Zigaretten",
+    "Vor allem Feste und Hochzeiten",
+    "Vor allem Fernseher und Handys"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Vorurteil hält sich hartnäckig, die Daten sagen etwas anderes: Das Geld fließt in Ziegen, Schulgeld und ein dichtes Dach. Andreas findet übrigens, ein Bier wäre auch ihr gutes Recht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Armut",
+    "Geldtransfers",
+    "Studien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 785,
+   "speaker": "Lucia Heilman",
+   "quote": "Jeder hat nur eine Karte bekommen, wo drauf gestanden ist, eine Bezugskarte hat sich das genannt. Da war aufgeschrieben, ein Kilo Mehl, ein halbes Brot, zehn Decker Butter.",
+   "quote_clean": "Jeder hat nur eine Karte bekommen, eine Bezugskarte hat sich das genannt. Da war aufgeschrieben: ein Kilo Mehl, ein halbes Brot, zehn Deka Butter.",
+   "statement": "Im Zweiten Weltkrieg waren Lebensmittel rationiert: Kaufen konnte man sie nur mit einer Bezugskarte, auf der die Mengen standen.",
+   "question": "Wie hieß im Krieg die Karte, ohne die man rationierte Lebensmittel nicht kaufen konnte?",
+   "answer": "Bezugskarte",
+   "distractors": [
+    "Kennkarte",
+    "Ahnenpass",
+    "Arbeitsbuch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Kilo Mehl, ein halbes Brot, zehn Deka Butter – und das nur gegen Karte und Geld. Reinhold Duschka hatte nur eine Karte für drei Menschen, also musste er am verbotenen Schwarzmarkt dazukaufen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zweiter Weltkrieg",
+    "Alltag"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 980,
+   "speaker": "Lucia Heilman",
+   "quote": "Eines Tages hat man erfahren, dass in Graz Transparente über die Straßen gespannt waren, wo draufgestanden ist, Graz ist Judenrein. Und denen ist es, also Graz ist es gelungen, als erste Stadt in Österreich, also alle jüdischen Menschen abzutransportieren.",
+   "quote_clean": "Eines Tages hat man erfahren, dass in Graz Transparente über die Straßen gespannt waren, auf denen stand: Graz ist judenrein. Graz ist es als erster Stadt in Österreich gelungen, alle jüdischen Menschen abzutransportieren.",
+   "statement": "Laut Lucia Heilman hängten die Nazis in Graz Transparente auf, die die Stadt als erste in Österreich für „judenrein“ erklärten.",
+   "question": "Über welcher österreichischen Stadt hingen laut Lucia Heilman als erster Transparente mit der Aufschrift „judenrein“?",
+   "answer": "Graz",
+   "distractors": [
+    "Linz",
+    "Innsbruck",
+    "Salzburg"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Nazis haben das nicht versteckt, sondern stolz über die Straße gespannt. Für die Jüdinnen und Juden in Wien war die Nachricht aus Graz eine klare Ansage, was als Nächstes kommt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "NS-Zeit",
+    "Graz",
+    "Deportation"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1057,
+   "speaker": "Lucia Heilman",
+   "quote": "und von dort zu den Bahnhöfen, wobei der Aspank Bahnhof einer der am meisten Befahrenen, aber auch alle anderen Bahnhöfe wurden die Menschen in Viehwaggons gepfercht, ohne sanitäre Möglichkeiten, ohne Wasser, ohne Nahrung",
+   "quote_clean": "und von dort zu den Bahnhöfen, wobei der Aspangbahnhof einer der meistbefahrenen war. Aber auch auf allen anderen Bahnhöfen wurden die Menschen in Viehwaggons gepfercht, ohne sanitäre Möglichkeiten, ohne Wasser, ohne Nahrung.",
+   "statement": "Von Wien aus wurden Jüdinnen und Juden vor allem über den Aspangbahnhof in Viehwaggons deportiert – ohne Wasser, Nahrung oder Toiletten.",
+   "question": "Von welchem Wiener Bahnhof fuhren besonders viele Deportationszüge ab?",
+   "answer": "Aspangbahnhof",
+   "distractors": [
+    "Westbahnhof",
+    "Franz-Josefs-Bahnhof",
+    "Südbahnhof"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Erst Sammelwohnung, dann Sammellager, dann der Bahnhof – und dort Viehwaggons ohne Wasser und Essen. Der Aspangbahnhof im dritten Bezirk ist heute verschwunden, an seiner Stelle erinnert ein Mahnmal daran.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wien",
+    "Deportation"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1182,
+   "speaker": "Lucia Heilman",
+   "quote": "Heute gibt es vor den Häusern, wo man solche jüdischen Wohnungen requiriert hat, gibt es solche kleinen Tafeln. Sie heißen Stolpersteine.",
+   "quote_clean": "Heute gibt es vor den Häusern, wo man jüdische Wohnungen requiriert hat, solche kleinen Tafeln. Sie heißen Stolpersteine.",
+   "statement": "Vor Häusern, aus denen Jüdinnen und Juden vertrieben wurden, erinnern kleine Messingtafeln namens Stolpersteine an sie.",
+   "question": "Wie heißen die kleinen Messingtafeln im Gehsteig, die an vertriebene und ermordete Bewohner:innen eines Hauses erinnern?",
+   "answer": "Stolpersteine",
+   "distractors": [
+    "Mahnplatten",
+    "Gedenknägel",
+    "Wegzeichen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Auf jedem steht, wer hier gewohnt hat, Geburtsdatum, Todestag und wohin man die Person deportiert hat. Man stolpert nicht mit den Füßen, sondern mit dem Kopf darüber.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Erinnerung",
+    "Wien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1300,
+   "speaker": "Lucia Heilman",
+   "quote": "Es war verboten, Juden auch nur eine Kleinigkeit behilflich zu sein. Das war alles unter Gefängnisstrafe, Todesstrafe. Wenn man ihn entdeckt hätte, dass er uns gerettet hat, hätte man ihn sofort erschossen.",
+   "quote_clean": "Es war verboten, Juden auch nur bei einer Kleinigkeit behilflich zu sein. Darauf standen Gefängnisstrafe und Todesstrafe. Hätte man entdeckt, dass er uns gerettet hat, hätte man ihn sofort erschossen.",
+   "statement": "In der NS-Zeit war es verboten, Jüdinnen und Juden auch nur ein bisschen zu helfen; Helfer:innen riskierten Gefängnis oder den Tod.",
+   "question": "Was riskierte in der NS-Zeit, wer Jüdinnen und Juden half?",
+   "answer": "Gefängnis oder sogar den Tod",
+   "distractors": [
+    "Eine Geldstrafe",
+    "Eine schriftliche Verwarnung",
+    "Den Verlust des Wahlrechts"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Reinhold Duschka hat trotzdem eine Frau mit Kind in seiner Metallwerkstatt versteckt, vier Jahre lang. Er war einer der ganz wenigen, die nicht weggeschaut haben.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "NS-Zeit",
+    "Widerstand"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1912,
+   "speaker": "Lucia Heilman",
+   "quote": "und einige Wochen später ist ein Telegramm gekommen zu meiner Mutter, dass er getötet wurde und dass man beantragen kann die Urne gegen Bezahlung von der Lagerleitung Buchenwald.",
+   "quote_clean": "Einige Wochen später ist ein Telegramm zu meiner Mutter gekommen, dass er getötet wurde und dass man die Urne gegen Bezahlung bei der Lagerleitung Buchenwald beantragen kann.",
+   "statement": "Nach dem Tod ihres Großvaters im KZ Buchenwald konnte die Familie per Telegramm die Urne beantragen – gegen Bezahlung.",
+   "question": "Was konnten Angehörige laut Lucia Heilman nach dem Tod eines Häftlings im KZ Buchenwald bei der Lagerleitung beantragen?",
+   "answer": "Die Urne, gegen Bezahlung",
+   "distractors": [
+    "Seine Kleidung und Papiere",
+    "Eine Entschädigungszahlung",
+    "Ein Begräbnis in Wien"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Erst holen zwei SS-Männer den 64-jährigen Großvater ab, über das Wiener Stadion geht es nach Buchenwald. Wenige Wochen später kommt ein Telegramm samt Rechnung. Die Bürokratie des Mordens in einem Satz.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "KZ",
+    "Buchenwald",
+    "NS-Zeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2154,
+   "speaker": "Lucia Heilman",
+   "quote": "und am 13. April 1945 hat die russische Armee auch die Gumpendorfer Straße erobert und man hat, Krieg ist sehr laut und auf einmal wird es still",
+   "quote_clean": "Am 13. April 1945 hat die russische Armee auch die Gumpendorfer Straße erobert. Krieg ist sehr laut, und auf einmal wird es still.",
+   "statement": "Am 13. April 1945 eroberte die Rote Armee Wien – auch die Gumpendorfer Straße, wo Lucia Heilman versteckt war.",
+   "question": "Wann erreichte die Rote Armee die Gumpendorfer Straße in Wien, wo Lucia Heilman zuletzt versteckt war?",
+   "answer": "Am 13. April 1945",
+   "distractors": [
+    "Am 8. Mai 1945",
+    "Am 27. April 1945",
+    "Am 1. März 1945"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zuerst wird es still, dann nur noch einzelne Schüsse, dann kommen Soldaten mit Pelzmützen. Für Lucia war das die Befreiung, knapp vier Wochen vor Kriegsende in Europa.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kriegsende",
+    "Wien",
+    "1945"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2275,
+   "speaker": "Lucia Heilman",
+   "quote": "haben sie gelassen sogenannte verbrannte Erde. Das war die Bezeichnung dafür, dass sie also alle Dörfer, alle Felder angezündet haben, bevor sie das Land verlassen haben",
+   "quote_clean": "haben sie sogenannte verbrannte Erde hinterlassen. Das war die Bezeichnung dafür, dass sie alle Dörfer und alle Felder angezündet haben, bevor sie das Land verlassen haben.",
+   "statement": "Beim Rückzug aus Russland zündete die deutsche Wehrmacht Dörfer und Felder an – die Taktik der „verbrannten Erde“.",
+   "question": "Wie nennt man die Taktik, beim Rückzug alle Dörfer und Felder anzuzünden?",
+   "answer": "Verbrannte Erde",
+   "distractors": [
+    "Blitzkrieg",
+    "Kesselschlacht",
+    "Zermürbungskrieg"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Feind soll nichts mehr vorfinden, kein Dach, kein Getreide. Die Soldaten haben das sogar nach Hause geschrieben – deshalb wusste man in Österreich 1945 genau, wovor man sich fürchten müsste.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Zweiter Weltkrieg",
+    "Kriegsführung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1403,
+   "speaker": "Lucia Heilman",
+   "quote": "Und damals wurde Persien von den Engländern besetzt. Und die haben alle ausländischen Staatsbürger von Persien abtransportiert nach Australien.",
+   "quote_clean": "Und damals wurde Persien von den Engländern besetzt. Und die haben alle ausländischen Staatsbürger aus Persien nach Australien abtransportiert.",
+   "statement": "Nach der britischen Besetzung Persiens im Zweiten Weltkrieg wurden dort lebende Ausländer nach Australien gebracht und interniert.",
+   "question": "Lucias Vater arbeitete im Krieg in Persien. Wohin brachten die Briten nach der Besetzung die dort lebenden Ausländer?",
+   "answer": "Nach Australien",
+   "distractors": [
+    "Nach Kanada",
+    "Nach Südafrika",
+    "Nach Großbritannien"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ihr Vater war als Siemens-Ingenieur in Teheran, um eine Trabrennbahn zu beleuchten, und hoffte, Visa für die Familie zu bekommen. Stattdessen landete er in einem Internierungslager in Australien – und überlebte so den Krieg.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Zweiter Weltkrieg",
+    "Persien",
+    "Exil"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 147,
+   "speaker": "Andreas Sator",
+   "quote": "Manche Dinge bringen viel, zum Beispiel so Gesundheitsinterventionen, Moskitonetze, Impfungen, sauberes Wasser. Aber ganz viele so wirtschaftliche Interventionen, wo man versucht, die Wirtschaft eines Landes anzuschieben, aufzubauen, hat eigentlich nie wirklich funktioniert.",
+   "quote_clean": "Manche Dinge bringen viel, zum Beispiel Gesundheitsinterventionen: Moskitonetze, Impfungen, sauberes Wasser. Aber viele wirtschaftliche Interventionen, bei denen man versucht, die Wirtschaft eines Landes anzuschieben und aufzubauen, haben eigentlich nie wirklich funktioniert.",
+   "statement": "Gesundheitsmaßnahmen wie Moskitonetze, Impfungen und sauberes Wasser wirken in der Entwicklungshilfe gut, Versuche, die Wirtschaft eines Landes anzuschieben, dagegen kaum.",
+   "question": "Welche Art von Entwicklungshilfe wirkt laut Forschung besonders zuverlässig?",
+   "answer": "Moskitonetze, Impfungen, sauberes Wasser",
+   "distractors": [
+    "Programme zum Wirtschaftsaufbau",
+    "Große Infrastrukturkredite",
+    "Kleider- und Sachspenden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Bilanz der Entwicklungshilfe ist gemischt. Gesundheit wirkt verlässlich, große Wirtschaftsprogramme selten – und dann gibt es noch die simple Idee, den Menschen einfach direkt Geld zu geben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Entwicklungshilfe",
+    "Gesundheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1131,
+   "speaker": "Lucia Heilman",
+   "quote": "Weil die Bereicherung der österreichischen Bevölkerung an den Juden war ja enorm. Es war eine riesige Arbeitslosigkeit. Alle jüdischen Menschen wurden sofort gekündigt, wie der Hitler gekommen ist. Es war eine große Wohnungsnot. Die jüdischen Menschen wurden aus den Wohnungen hinausgeworfen.",
+   "quote_clean": "Die Bereicherung der österreichischen Bevölkerung an den Juden war enorm. Es gab eine riesige Arbeitslosigkeit, und alle jüdischen Menschen wurden sofort gekündigt, als Hitler gekommen ist. Es gab eine große Wohnungsnot, und die jüdischen Menschen wurden aus den Wohnungen hinausgeworfen.",
+   "statement": "Viele Österreicher:innen bereicherten sich ab 1938 an Jüdinnen und Juden: Bei hoher Arbeitslosigkeit und Wohnungsnot übernahmen sie deren Jobs und Wohnungen.",
+   "question": "Welche zwei Nöte führten laut Lucia Heilman dazu, dass sich viele Österreicher:innen ab 1938 an Jüdinnen und Juden bereicherten?",
+   "answer": "Arbeitslosigkeit und Wohnungsnot",
+   "distractors": [
+    "Hungersnot und Kälte",
+    "Inflation und hohe Steuern",
+    "Seuchen und Missernten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer einen jüdischen Kollegen loswurde, hatte einen Job, wer eine jüdische Familie hinauswarf, eine Wohnung. Darum, sagt Lucia, hofften viele, dass die Abtransportierten nie mehr zurückkommen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Arisierung",
+    "Österreich",
+    "NS-Zeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1158,
+   "speaker": "Lucia Heilman",
+   "quote": "Auch zu uns ist man gekommen, hat an der Tür geläutet, war ein Ehepaar draußen, hat eine Liste vom Bezirksamt bekommen, wo alle jüdischen Wohnungen aufgeschrieben waren.",
+   "quote_clean": "Auch zu uns ist man gekommen, hat an der Tür geläutet. Draußen stand ein Ehepaar, das eine Liste vom Bezirksamt bekommen hatte, auf der alle jüdischen Wohnungen aufgeschrieben waren.",
+   "statement": "Wohnungssuchende bekamen in Wien vom Bezirksamt Listen mit jüdischen Wohnungen, die sie sich aussuchen konnten.",
+   "question": "Woher wussten Wohnungssuchende in Wien, welche Wohnungen jüdischen Familien gehörten?",
+   "answer": "Von einer Liste des Bezirksamts",
+   "distractors": [
+    "Aus Zeitungsinseraten",
+    "Aus dem Telefonbuch",
+    "Von der Pfarre"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Enteignung lief ganz amtlich: Liste holen, anläuten, Wohnung anschauen. Gefällt sie, muss die Familie raus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Arisierung",
+    "Wien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2250,
+   "speaker": "Lucia Heilman",
+   "quote": "während die österreichische Bevölkerung hat das als Besatzung empfunden und hat sich entsprechend vor dieser russischen Armee gefürchtet, weil sie gedacht haben, dass die russischen Soldaten sich so verhalten würden wie die deutschen Soldaten in Russland.",
+   "quote_clean": "während die österreichische Bevölkerung das als Besatzung empfunden und sich entsprechend vor der russischen Armee gefürchtet hat, weil sie gedacht haben, dass die russischen Soldaten sich so verhalten würden wie die deutschen Soldaten in Russland.",
+   "statement": "Während Verfolgte 1945 die Rote Armee als Befreiung erlebten, fürchteten viele Österreicher:innen, die Russen würden sich so verhalten wie die deutschen Soldaten in Russland.",
+   "question": "Warum fürchteten sich 1945 viele Österreicher:innen vor der Roten Armee?",
+   "answer": "Sie wussten, was Deutsche in Russland taten",
+   "distractors": [
+    "Die Propaganda zeigte gefälschte Bilder",
+    "Die Rote Armee kündigte Rache an",
+    "Sie hatten Angst vor Hungersnot"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Soldaten hatten heimgeschrieben, wie sie in Russland gewütet hatten – verbrannte Dörfer, Menschen in Kirchen eingesperrt. Man rechnete mit Vergeltung. Für Lucia waren dieselben Soldaten die Befreier.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kriegsende",
+    "Rote Armee"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1214,
+   "speaker": "Lucia Heilman",
+   "quote": "Das wurde alles auf diese kleinen Tafeln aufgeschrieben. Und für mich bedeuten diese kleinen Messingtafeln Grabsteine.",
+   "quote_clean": "Das wurde alles auf diese kleinen Tafeln aufgeschrieben. Und für mich bedeuten diese kleinen Messingtafeln Grabsteine.",
+   "statement": "Für Lucia Heilman sind die Stolpersteine vor Wiener Häusern Grabsteine.",
+   "question": "Was sind die Stolpersteine für Lucia Heilman?",
+   "answer": "Grabsteine",
+   "distractors": [
+    "Wegweiser",
+    "Visitenkarten",
+    "Briefe"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Viele der Ermordeten haben kein Grab, nur eine Asche irgendwo in einem Lager. Die kleine Messingtafel vor dem Haus ist oft das Einzige, wo ihr Name steht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erinnerung",
+    "Stolpersteine"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2433,
+   "speaker": "Lucia Heilman",
+   "quote": "Die Frage an mich ist nicht richtig gestellt. Die muss man nicht an mich stellen. Die muss man an alle Menschen, die rund um mich sind, alle die jünger sind als ich, alle die sich so eine Zeit nicht vorstellen können und nicht wünschen.",
+   "quote_clean": "Die Frage an mich ist nicht richtig gestellt. Die muss man nicht an mich stellen, sondern an alle Menschen rund um mich, alle, die jünger sind als ich, alle, die sich so eine Zeit nicht vorstellen können und nicht wünschen.",
+   "statement": "Auf die Frage, ob sich die NS-Zeit wiederholen könnte, sagt Lucia Heilman, man müsse sie nicht ihr, sondern allen Jüngeren stellen.",
+   "question": "An wen muss man laut Lucia Heilman die Frage richten, ob sich die NS-Zeit wiederholen könnte?",
+   "answer": "An alle, die jünger sind als sie",
+   "distractors": [
+    "An die Politikerinnen und Politiker",
+    "An Historikerinnen und Historiker",
+    "An Zeitzeuginnen wie sie selbst"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Lucia dreht die Frage einfach um: Sie hat ihren Teil erlebt, jetzt sind die anderen dran. Und Fragen allein reicht ihr nicht, man muss auch etwas tun.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erinnerung",
+    "Verantwortung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2468,
+   "speaker": "Lucia Heilman",
+   "quote": "die Frage stellen allein ist nicht genug? Man muss auch etwas dagegen tun. Man muss viel tun, aber es kann gelingen.",
+   "quote_clean": "Die Frage stellen allein ist nicht genug. Man muss auch etwas dagegen tun. Man muss viel tun, aber es kann gelingen.",
+   "statement": "Lucia Heilman sagt: Sich zu fragen, ob sich das wiederholt, reicht nicht – man muss viel dagegen tun, aber es kann gelingen.",
+   "question": "Wer hat's gesagt: „Man muss auch etwas dagegen tun. Man muss viel tun, aber es kann gelingen.“?",
+   "answer": "Lucia Heilman",
+   "distractors": [
+    "Andreas Sator",
+    "Reinhold Duschka",
+    "Lucias Mutter"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Konkret heißt das für sie: im eigenen kleinen Umfeld einen Standpunkt vertreten und auf Ungeheuerlichkeiten hinweisen. Und sich mit anderen zusammentun, weil einzeln ist das zu wenig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zivilcourage",
+    "Erinnerung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 2084,
+   "speaker": "Andreas Sator",
+   "quote": "Was sich viele junge Menschen heute fragen, ist, wie konnten Menschen, je anderen Menschen so etwas antun? Hast du darauf eine Antwort?",
+   "quote_clean": "Was sich viele junge Menschen heute fragen: Wie konnten Menschen anderen Menschen je so etwas antun? Hast du darauf eine Antwort?",
+   "statement": "Andreas fragt Lucia Heilman, wie Menschen anderen so etwas antun konnten – sie sagt, das sei unbeantwortbar.",
+   "question": "Andreas fragt Lucia, wie Menschen anderen so etwas antun konnten. Was antwortet sie?",
+   "answer": "Das ist unbeantwortbar",
+   "distractors": [
+    "Aus Angst vor Strafe",
+    "Wegen der Propaganda",
+    "Aus blindem Gehorsam"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das fragen sich schon die Menschen seit damals, sagt Lucia, auch viele Rabbiner. Vor allem bei den zehntausenden ermordeten Kindern findet sie keine Antwort.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Interview",
+    "Holocaust"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1632,
+   "speaker": "Lucia Heilman",
+   "quote": "Aber am Sonntag mussten wir ganz ruhig sein, weil in diesem Werkstättenhof, in dem sich diese Werkstatt auch vom Reinhold befunden hat, am Sonntag hat niemand gearbeitet.",
+   "quote_clean": "Aber am Sonntag mussten wir ganz ruhig sein, weil in dem Werkstättenhof, in dem sich auch Reinholds Werkstatt befunden hat, am Sonntag niemand gearbeitet hat.",
+   "statement": "Im Versteck war der Sonntag der schlimmste Tag, weil im Werkstättenhof niemand arbeitete und Lucia und ihre Mutter völlig still sein mussten.",
+   "question": "Welcher Wochentag war für Lucia Heilman im Versteck der schlimmste?",
+   "answer": "Der Sonntag",
+   "distractors": [
+    "Der Montag",
+    "Der Freitag",
+    "Der Samstag"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Unter der Woche wurde gehämmert und gelötet, da fiel ein bisschen Lärm nicht auf. Am Sonntag war der ganze Hof still – und der Tag ist nie vergangen, trotz Karl May.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Versteck",
+    "Alltag"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1727,
+   "speaker": "Lucia Heilman",
+   "quote": "Und ich habe also jedes Mal, wenn im Radio verlautmiert wurde, diese Stadt, jede Stadt wurde eingenommen. Und ich habe das mit Stecknadeln, habe ich das auf dieser Karte fixiert.",
+   "quote_clean": "Und ich habe jedes Mal, wenn im Radio verlautbart wurde, dass eine Stadt eingenommen wurde, das mit Stecknadeln auf dieser Karte fixiert.",
+   "statement": "Im Versteck markierte die kleine Lucia jeden deutschen Vormarsch in Russland, den das Radio meldete, mit Stecknadeln auf einer Landkarte.",
+   "question": "Womit verfolgte Lucia Heilman im Versteck den Kriegsverlauf auf einer Landkarte?",
+   "answer": "Mit Stecknadeln",
+   "distractors": [
+    "Mit Bleistiftkreuzen",
+    "Mit Papierfähnchen",
+    "Mit Kreidestrichen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Nachrichten kamen aus einem kleinen Volksempfänger in der Werkstatt. Erst war jede Nadel ein Schrecken, nach der Wende im Osten wurde das Stecken für sie viel schöner.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Versteck",
+    "Zweiter Weltkrieg"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "s20250402",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

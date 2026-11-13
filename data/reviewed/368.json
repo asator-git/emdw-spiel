@@ -1,0 +1,288 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "25 Jahre sind belegt und entsprechen § 90 StGB; „heimgeschickt“ im Aha war nicht belegt und wurde neutral formuliert.",
+   "stand_note": "Stand 2025",
+   "statement": "In Österreich ist eine Sterilisation auf eigenen Wunsch grundsätzlich erst ab 25 Jahren erlaubt.",
+   "question": "Ab welchem Alter darf man sich in Österreich ohne besonderen medizinischen Grund sterilisieren lassen?",
+   "answer": "Ab 25 Jahren",
+   "distractors": [
+    "Ab 18 Jahren",
+    "Ab 21 Jahren",
+    "Ab 30 Jahren"
+   ],
+   "aha": "Das Strafgesetzbuch erlaubt die Sterilisation mit Einwilligung ab 25, davor nur, wenn sie aus anderen Gründen ärztlich geboten ist. Julia hat mit Anfang 20 gefragt und war noch zu jung, also hieß es: warten.",
+   "quote_clean": "Ich habe dann Anfang 20 einfach mal gefragt und war dann aber noch zu jung, weil in Österreich geht das erst ab 25.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Julia hedgt selbst („ich denke mal“); für Deutschland und die Schweiz ist die Altersangabe so nicht gesichert belegt.",
+   "stand_note": "",
+   "statement": "In Deutschland und in der Schweiz ist eine Sterilisation grundsätzlich schon ab 18 Jahren möglich.",
+   "question": "Ab welchem Alter ist eine Sterilisation in Deutschland und der Schweiz grundsätzlich möglich?",
+   "answer": "Ab 18 Jahren",
+   "distractors": [
+    "Ab 16 Jahren",
+    "Ab 25 Jahren",
+    "Ab 30 Jahren"
+   ],
+   "aha": "Dort reicht im Prinzip die Volljährigkeit.",
+   "quote_clean": "In Deutschland und in der Schweiz funktioniert es, dass es ab 18 ist.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Zeitangabe ist Julias Erfahrung, daher in der Frage als „laut Julia“ gerahmt.",
+   "stand_note": "",
+   "statement": "Laut Julia Brandner dauert eine Sterilisation per Bauchspiegelung etwa 20 Minuten, man kann meist am selben Tag heimgehen.",
+   "question": "Wie viele Minuten dauert die Sterilisation per Bauchspiegelung laut Julia ungefähr?",
+   "answer": "Etwa 20 Minuten",
+   "distractors": [
+    "Etwa 5 Minuten",
+    "Etwa 90 Minuten",
+    "Etwa 3 Stunden"
+   ],
+   "aha": "Klingt nach Riesending, ist aber laut Julia ein kleiner Routineeingriff, ungefähr wie eine Blinddarm-OP. Keine Woche Krankenhaus, oft geht man noch am selben Tag nach Hause.",
+   "quote_clean": "Das ist wie eine Blinddarmentfernung eigentlich, also diese Laparoskopie. Es dauert 20 Minuten. Du kannst am selben Tag wieder heimgehen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "„Die meisten“ ist zu pauschal; der häufigste und gefährlichste Typ entsteht oft im Eileiter. Frage entsprechend abgeschwächt.",
+   "stand_note": "",
+   "statement": "Viele, gerade die häufigen und aggressiven Formen von Eierstockkrebs entstehen im Eileiter; deshalb wird dieser bei der Sterilisation oft gleich ganz entfernt.",
+   "question": "Wo nimmt der häufigste und gefährlichste Eierstockkrebs oft seinen Ausgang?",
+   "answer": "Im Eileiter",
+   "distractors": [
+    "In der Gebärmutterschleimhaut",
+    "Im Gebärmutterhals",
+    "In den Lymphknoten"
+   ],
+   "aha": "Der Name täuscht: Viele sogenannte Eierstocktumore starten eigentlich im Eileiter. Julias Ärztin hat ihr deshalb geraten, die Eileiter gleich ganz zu entfernen, statt sie nur zu veröden, ein netter Gesundheits-Bonus.",
+   "quote_clean": "Meine Ärztin hat gesagt, wenn wir eh schon zugange sind, dann nehmen wir sie besser gleich komplett raus, weil die meisten Eierstockkrebsarten im Eileiter entstehen, und dann hast du ein vermindertes Krebsrisiko.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Sachkundenachweis in Wien stimmt; der Distraktor Hundehaftpflicht ist in Wien ebenfalls verpflichtend und daher nicht eindeutig falsch, ersetzt.",
+   "stand_note": "Stand 2025",
+   "statement": "Wer sich in Wien einen Hund zulegen will, muss einen Sachkundenachweis ablegen.",
+   "question": "Was musst du in Wien vorweisen, bevor du dir als Neuhalter:in einen Hund zulegst?",
+   "answer": "Einen Sachkundenachweis",
+   "distractors": [
+    "Ein ärztliches Attest",
+    "Einen Garten mit Zaun",
+    "Ein polizeiliches Führungszeugnis"
+   ],
+   "aha": "In Wien gibt es für Hundehalter:innen einen verpflichtenden Kurs mit Nachweis. Julia findet es ein bisschen paradox, dass man für einen Zwergpudel mehr Voraussetzungen erfüllen muss als fürs Kinderkriegen.",
+   "quote_clean": "In Wien musst du einen Sachkundenachweis ablegen, wenn du dir einen Hund zulegen willst.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat sinngemäß belegt, Pudel bei Freunden und Scheidungskind-Scherz stehen im Ausschnitt; thematisch nah an Kandidat 5.",
+   "stand_note": "",
+   "statement": "Julia Brandner findet es paradox, dass sie für einen Zwergpudel mehr Voraussetzungen erfüllen musste als man für ein Kind braucht.",
+   "question": "Wofür musste Julia nach eigener Aussage mehr Voraussetzungen erfüllen als für ein Kind?",
+   "answer": "Für einen Zwergpudel",
+   "distractors": [
+    "Für den Führerschein",
+    "Für eine Mietwohnung",
+    "Für ein Bankkonto"
+   ],
+   "aha": "In Wien braucht man für einen Hund einen Sachkundenachweis, fürs Elternwerden gar nichts. Der Pudel wohnt inzwischen übrigens bei Freunden, Julia sieht sich als Elternteil eines Scheidungskindes.",
+   "quote_clean": "Ich habe für einen Zwergpudel mehr Voraussetzungen erfüllen müssen als für ein Kind. Finde ich schon ein bisschen paradox.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Andreas sagt es nur beiläufig und mit „glaube“; historisch stimmt die Regel bis zur Familienrechtsreform 1975 weitgehend. Aha neutraler und ohne Meta-Kommentar.",
+   "stand_note": "",
+   "statement": "Bis zur Familienrechtsreform 1975 brauchten verheiratete Frauen in Österreich die Zustimmung ihres Mannes, um arbeiten zu dürfen.",
+   "question": "Bis wann brauchten verheiratete Frauen in Österreich die Zustimmung ihres Mannes, um arbeiten zu dürfen?",
+   "answer": "Bis in die 1970er Jahre",
+   "distractors": [
+    "Bis in die 1920er Jahre",
+    "Bis in die 1940er Jahre",
+    "Bis in die 1990er Jahre"
+   ],
+   "aha": "Erst die Familienrechtsreform 1975 hat diese Regel in Österreich abgeschafft. Andreas fällt das ein, als es um das Gutachten geht, das Julia für ihre Sterilisation gebraucht hat: Auch da entscheidet jemand anderer über etwas, das eigentlich sie selbst betrifft.",
+   "quote_clean": "Ich denke gerade daran, dass man noch bis in die 60er, 70er Jahre als Frau eine Unterschrift brauchte, damit man arbeiten durfte.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beschreibung des freiwilligen Pensionssplittings stimmt im Kern (Übertragung von Teilgutschrift); Aha im Ausschnitt belegt.",
+   "stand_note": "Stand 2025",
+   "statement": "Beim freiwilligen Pensionssplitting in Österreich überträgt der hauptverdienende Elternteil einen Teil seiner Pensionsansprüche auf die Person, die hauptsächlich die Kinder betreut.",
+   "question": "Was passiert beim freiwilligen Pensionssplitting in Österreich?",
+   "answer": "Pensionsansprüche gehen teils an den erziehenden Elternteil",
+   "distractors": [
+    "Der Staat zahlt Eltern eine Zusatzpension",
+    "Beide Eltern gehen früher in Pension",
+    "Die Kinder erben die Pensionsansprüche"
+   ],
+   "aha": "Wer daheim bleibt und Kinder großzieht, verdient weniger und bekommt später weniger Pension. Mit einem Formular kann der Hauptverdiener einen Teil seiner Ansprüche abgeben. Julia schickt Freundinnen den Link dazu gleich mit der Gratulation.",
+   "quote_clean": "Freiwilliges Pensionssplitting gibt es in Österreich. Du kannst ein Formular ausfüllen, das dafür sorgt, dass der Elternteil, der Hauptverdiener ist, einen Teil seiner Pensionsansprüche auf die hauptsächlich erziehende Person überträgt.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Antwort Eileiter ist zu leicht, doppelt sich mit Kandidat 4 und stammt aus einer von Andreas nur vorgelesenen ChatGPT-Erklärung („glaube ich“).",
+   "stand_note": "",
+   "statement": "Eizelle und Spermium treffen sich normalerweise im Eileiter; wird diese Verbindung bei der Sterilisation entfernt, kann keine Befruchtung mehr stattfinden.",
+   "question": "Wo treffen sich Eizelle und Spermium normalerweise bei der Befruchtung?",
+   "answer": "Im Eileiter",
+   "distractors": [
+    "In der Gebärmutter",
+    "Im Eierstock",
+    "Im Gebärmutterhals"
+   ],
+   "aha": "Der Eileiter ist die Verbindung zwischen Eierstock und Gebärmutter, und genau dort passiert die Befruchtung. Nimmt man ihn weg, fehlt der Treffpunkt.",
+   "quote_clean": "Dann treffen sie sich im Eileiter. Also Eierstock, Eileiter, Gebärmutter. Und indem man bei dir diese Verbindung wegtut, kommt die Eizelle nicht mehr dorthin und das Spermium kann sie nicht treffen.",
+   "quality": 2
+  },
+  {
+   "i": 14,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Zuordnungsfrage mit nur einer Gästin; Distraktor Kelsey Piper kommt im Ausschnitt nicht vor, Zitat ist zudem eine zugespitzte Meinung.",
+   "stand_note": "",
+   "statement": "Julia Brandner findet es seltsam, Sterilisation radikal zu nennen, während lebenslange Hormoneinnahme als normal gilt.",
+   "question": "Wer sagt: Sich ein Leben lang Hormone zu ballern, die eine Schwangerschaft vortäuschen, sei doch auch kein radikaler Schritt?",
+   "answer": "Julia Brandner",
+   "distractors": [
+    "Andreas Sator",
+    "Kelsey Piper",
+    "Julias Gynäkologin"
+   ],
+   "aha": "Für Julia ist die Sterilisation einfach Verhütung, nur sehr sicher und nebenwirkungsarm.",
+   "quote_clean": "Ich finde das immer so lustig, wenn Leute sagen, dass das so ein radikaler Schritt ist, wo ich mir denke: Sich ein Leben lang Hormone zu ballern, die im Körper eine Schwangerschaft vortäuschen, ist kein radikaler Schritt?",
+   "quality": 1
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Argument ist im Ausschnitt klar belegt und als Julias Position gerahmt.",
+   "stand_note": "",
+   "statement": "Julia Brandner argumentiert, dass auch der Kinderwunsch egoistisch ist, weil man ein Kind bekommt, weil man selbst eines möchte.",
+   "question": "Warum ist laut Julia Brandner auch der Wunsch nach Kindern eine egoistische Entscheidung?",
+   "answer": "Man bekommt ein Kind, weil man selbst will",
+   "distractors": [
+    "Weil Kinder später die Pension zahlen",
+    "Weil Eltern weniger Steuern zahlen",
+    "Weil Kinder Ansehen in der Familie bringen"
+   ],
+   "aha": "Den Egoismus-Vorwurf lässt Julia gelten, dreht ihn aber um: Das Kind wurde nicht gefragt, man kriegt es, weil man es sich wünscht. Egoistisch heißt hier nicht schlecht, es geht nur um den Wunsch, nicht ums Elternsein danach.",
+   "quote_clean": "So ein Kind fragt man ja auch nicht, ob es auf die Welt kommen will. Im besten Fall kriegt man ein Kind, weil man ein Kind möchte.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Private Anekdote, die den Vater als Dritten wenig schmeichelhaft darstellt; kaum Spielwert.",
+   "stand_note": "",
+   "statement": "Julia Brandner wollte beim Vater-Mutter-Kind-Spielen im Kindergarten immer der Vater sein.",
+   "question": "Welche Rolle wollte Julia beim Vater-Mutter-Kind-Spielen im Kindergarten immer haben?",
+   "answer": "Den Vater",
+   "distractors": [
+    "Die Mutter",
+    "Das Kind",
+    "Den Hund"
+   ],
+   "aha": "Für die kleine Julia war das die sympathischste Rolle.",
+   "quote_clean": "Im Kindergarten wird ja öfter Vater, Mutter, Kind gespielt, und ich wollte einfach immer der Vater sein, weil ich das von meinem Vater gekannt habe: Der sitzt einfach nur im Arbeitszimmer vor seinem Computer.",
+   "quality": 1
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zum Podcast-Format, kein Weltwissen; „fixer Schluss“ ist im Ausschnitt nicht belegt, Distraktoren sind beliebig.",
+   "stand_note": "",
+   "statement": "Andreas Sator fasst seine Folgen am Ende mit der Frage zusammen: Was nehme ich mir mit?",
+   "question": "Mit welcher Frage leitet Andreas am Ende der Folge seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir heute gelernt?",
+    "Was bleibt am Ende übrig?",
+    "Was soll ich mir merken?"
+   ],
+   "aha": "Diesmal Punkt eins: Wer sich gegen Kinder entscheidet, ist nicht gegen Kinder.",
+   "quote_clean": "Was nehme ich mir mit? Erstens: Wer sich gegen Kinder entscheidet, ist nicht gegen Kinder.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Zuordnungsfrage („Wer sagt …?“) mit nur einer Gästin; Distraktor Kelsey Piper kommt im Ausschnitt nicht vor.",
+   "stand_note": "",
+   "statement": "Julia Brandner meint, wer sich nicht verstellt, zieht die richtigen Menschen an.",
+   "question": "Wer sagt: Wenn du dich verstellst, ziehst du Leute an, die deine verstellte Version mögen?",
+   "answer": "Julia Brandner",
+   "distractors": [
+    "Andreas Sator",
+    "Kelsey Piper",
+    "Julias Mama"
+   ],
+   "aha": "Man kann es eh nie allen recht machen, also kann man gleich die Richtigen anziehen.",
+   "quote_clean": "Wenn du so bist, wie du bist, ziehst du meistens nur die richtigen Leute an. Wenn du dich verstellst, ziehst du Leute an, die deine verstellte Version mögen, aber dich im Wesentlichen nicht unbedingt.",
+   "quality": 1
+  }
+ ],
+ "id": "368",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

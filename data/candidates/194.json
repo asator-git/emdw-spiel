@@ -1,0 +1,707 @@
+{
+ "theme": "Klima & Energie",
+ "summary": "Geht Österreich mit Strom nur aus Wasser, Sonne und Wind wirklich nicht das Licht aus? Demet Suna erklärt Speicher, Netze und flexible Nachfrage.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 381,
+   "speaker": "Andreas Sator",
+   "quote": "Und was es aber schon noch gibt, ist einen 14-prozentigen Anteil von Gas und Strom.",
+   "quote_clean": "Was es aber schon noch gibt, ist einen 14-prozentigen Anteil von Gas im Strom.",
+   "statement": "Rund 14 Prozent des österreichischen Stroms kamen 2021 noch aus Gaskraftwerken.",
+   "question": "Wie viel Prozent des österreichischen Stroms kamen 2021 noch aus Gas?",
+   "answer": "Rund 14 Prozent",
+   "distractors": [
+    "Rund 4 Prozent",
+    "Rund 30 Prozent",
+    "Rund 45 Prozent"
+   ],
+   "number_value": 14,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 50,
+   "log_scale": false,
+   "aha": "Gas ist der letzte große fossile Brocken im österreichischen Strommix. Ein Gaskraftwerk lässt sich halt bequem auf- und abdrehen, wenn Sonne und Wind gerade Pause machen. Genau dafür braucht es künftig Alternativen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Strommix",
+    "Gas"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 374,
+   "speaker": "Demet Suna",
+   "quote": "Ist vor kurzem, ich glaube letztes Jahr das letzte Kraftwerk. Letztes Jahr war das letzte Kraftwerk vom Netz gegangen.",
+   "quote_clean": "Ist vor kurzem, ich glaube letztes Jahr, das letzte Kraftwerk. Letztes Jahr war das letzte Kraftwerk vom Netz gegangen.",
+   "statement": "Österreichs letztes Kohlekraftwerk ging 2020 in der Steiermark vom Netz.",
+   "question": "In welchem Jahr ging Österreichs letztes Kohlekraftwerk vom Netz?",
+   "answer": "2020",
+   "distractors": [
+    "2005",
+    "2012",
+    "2025"
+   ],
+   "number_value": 2020,
+   "number_unit": "Jahr",
+   "slider_min": 1990,
+   "slider_max": 2030,
+   "log_scale": false,
+   "aha": "Das letzte Kohlekraftwerk stand in der Steiermark und wurde 2020 abgedreht. Seither gibt es in Österreich keinen Kohlestrom mehr aus eigener Produktion. Nicht schlecht für ein Land, das lange stolz auf seine Industrie war.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kohle",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1058,
+   "speaker": "Demet Suna",
+   "quote": "Also derzeit zum Beispiel ungefähr 1300 Windanlagen in Österreich existieren",
+   "quote_clean": "Derzeit existieren zum Beispiel ungefähr 1300 Windanlagen in Österreich.",
+   "statement": "In Österreich standen 2021 rund 1300 Windkraftanlagen.",
+   "question": "Wie viele Windräder standen 2021 ungefähr in Österreich?",
+   "answer": "Rund 1300",
+   "distractors": [
+    "Rund 300",
+    "Rund 5000",
+    "Rund 12000"
+   ],
+   "number_value": 1300,
+   "number_unit": "Windanlagen",
+   "slider_min": 100,
+   "slider_max": 20000,
+   "log_scale": true,
+   "aha": "Rund 1300 Windräder drehen sich in Österreich, die meisten im Osten. Wenn sich die Windstromleistung bis 2030 verdoppeln soll, braucht es aber nicht doppelt so viele Räder, weil die neuen deutlich stärker sind.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Windkraft",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1151,
+   "speaker": "Demet Suna",
+   "quote": "Genau, zum Beispiel derzeit ist dann ungefähr 2,4 Megawatt eine Anlagengröße durchschnittlich, aber eine neue Anlage liegt zwischen 5 bis 6 Megawatt.",
+   "quote_clean": "Derzeit ist ungefähr 2,4 Megawatt die durchschnittliche Anlagengröße, aber eine neue Anlage liegt zwischen 5 und 6 Megawatt.",
+   "statement": "Ein durchschnittliches Windrad in Österreich hat rund 2,4 Megawatt Leistung, neue Anlagen haben 5 bis 6 Megawatt.",
+   "question": "Wie viel Leistung hat ein neues Windrad in Österreich ungefähr?",
+   "answer": "5 bis 6 Megawatt",
+   "distractors": [
+    "0,5 bis 1 Megawatt",
+    "1 bis 2 Megawatt",
+    "15 bis 20 Megawatt"
+   ],
+   "number_value": 5.5,
+   "number_unit": "Megawatt",
+   "slider_min": 0.5,
+   "slider_max": 20,
+   "log_scale": false,
+   "aha": "Neue Windräder schaffen mehr als doppelt so viel wie der Durchschnitt im Bestand mit rund 2,4 Megawatt. Darum kann man alte Standorte aufrüsten und kommt mit weniger zusätzlichen Rädern aus, als man glauben würde. Dafür brauchen die großen mehr Abstand zueinander.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Windkraft",
+    "Technik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1730,
+   "speaker": "Demet Suna",
+   "quote": "Die ungewollten Abschaltungen waren im Jahr 2020, laut E-Control, 26 Minuten.",
+   "quote_clean": "Die ungewollten Abschaltungen waren im Jahr 2020 laut E-Control 26 Minuten.",
+   "statement": "Laut E-Control hatten Stromkund:innen in Österreich 2020 im Schnitt nur 26 Minuten ungeplanten Stromausfall.",
+   "question": "Wie viele Minuten ungeplanten Stromausfall gab es in Österreich 2020 im Schnitt?",
+   "answer": "26 Minuten",
+   "distractors": [
+    "3 Minuten",
+    "90 Minuten",
+    "8 Stunden"
+   ],
+   "number_value": 26,
+   "number_unit": "Minuten",
+   "slider_min": 1,
+   "slider_max": 600,
+   "log_scale": true,
+   "aha": "Ganze 26 Minuten im Jahr war man in Österreich 2020 im Schnitt ungewollt ohne Strom. Damit gehört das österreichische Netz zu den sichersten in Europa. Kein schlechter Startpunkt für die Umstellung auf Erneuerbare.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Versorgungssicherheit",
+    "Blackout"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1299,
+   "speaker": "Demet Suna",
+   "quote": "Beim Hinkley Point war der Fall, über 35 Jahre so eine garantierte Einspeisetarif bekommt,",
+   "quote_clean": "Bei Hinkley Point war es der Fall, dass man über 35 Jahre einen garantierten Einspeisetarif bekommt.",
+   "statement": "Das britische Atomkraftwerk Hinkley Point bekommt für 35 Jahre einen garantierten Einspeisetarif.",
+   "question": "Wie viele Jahre lang bekommt das neue AKW Hinkley Point einen garantierten Strompreis?",
+   "answer": "35 Jahre",
+   "distractors": [
+    "10 Jahre",
+    "20 Jahre",
+    "60 Jahre"
+   ],
+   "number_value": 35,
+   "number_unit": "Jahre",
+   "slider_min": 5,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Der Ausbau von Hinkley Point in Großbritannien rechnet sich nur, weil der Staat dem Betreiber 35 Jahre lang einen fixen Preis garantiert. Für Demet Suna ist das der Beweis, dass neue Atomkraftwerke riesige Förderungen brauchen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Atomkraft",
+    "Förderung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1423,
+   "speaker": "Demet Suna",
+   "quote": "Aber Europa hat auch ein Ziel, im 2030 Emissionen 55 Prozent zu reduzieren.",
+   "quote_clean": "Aber Europa hat auch ein Ziel, bis 2030 die Emissionen um 55 Prozent zu reduzieren.",
+   "statement": "Die EU will ihre Emissionen bis 2030 um 55 Prozent senken.",
+   "question": "Um wie viel Prozent will die EU ihre Emissionen bis 2030 senken?",
+   "answer": "55 Prozent",
+   "distractors": [
+    "25 Prozent",
+    "40 Prozent",
+    "80 Prozent"
+   ],
+   "number_value": 55,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Minus 55 Prozent bis 2030, bis 2050 dann komplett dekarbonisiert: Das ist der europäische Fahrplan. Darum glaubt Demet Suna auch, dass Atomstrom aus den Nachbarländern in den nächsten Jahrzehnten eher weniger wird.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "EU",
+    "Klimaziele"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 174,
+   "speaker": "Demet Suna",
+   "quote": "Also Österreich hat ein Ziel gesetzt, im Ausmaß Energie aus Erneuerbaren zu erzeugen, dass bilanziell nationaler Verbrauch 100% aus Erneuerbaren gedeckt werden soll. Und dieses Ziel für 2030",
+   "quote_clean": "Österreich hat sich das Ziel gesetzt, so viel Energie aus Erneuerbaren zu erzeugen, dass der nationale Verbrauch bilanziell zu 100 Prozent aus Erneuerbaren gedeckt wird. Und dieses Ziel für 2030",
+   "statement": "Österreich will ab 2030 seinen Stromverbrauch bilanziell zu 100 Prozent aus Erneuerbaren decken.",
+   "question": "Bis zu welchem Jahr will Österreich bilanziell 100 Prozent Ökostrom erreichen?",
+   "answer": "2030",
+   "distractors": [
+    "2025",
+    "2040",
+    "2050"
+   ],
+   "number_value": 2030,
+   "number_unit": "Jahr",
+   "slider_min": 2020,
+   "slider_max": 2060,
+   "log_scale": false,
+   "aha": "Bilanziell heißt: Übers Jahr gerechnet soll so viel Ökostrom erzeugt werden, wie verbraucht wird. In einzelnen Stunden kann trotzdem importiert werden, dafür wird zu anderen Zeiten exportiert. Ziemlich ambitioniert für 2030.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Klimaziele",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 630,
+   "speaker": "Demet Suna",
+   "quote": "Also grundsätzlich funktionieren Pumpspeicher so. Es gibt zwei Becken, ein höherer Becken und ein unterer Becken.",
+   "quote_clean": "Grundsätzlich funktionieren Pumpspeicher so: Es gibt zwei Becken, ein höheres Becken und ein unteres Becken.",
+   "statement": "Ein Pumpspeicherkraftwerk pumpt mit überschüssigem Strom Wasser in ein oberes Becken und lässt es bei Knappheit durch Turbinen wieder hinunter.",
+   "question": "Wie speichert ein Pumpspeicherkraftwerk Strom?",
+   "answer": "Es pumpt Wasser in ein höheres Becken",
+   "distractors": [
+    "Es lädt riesige Batterien im Berg",
+    "Es erzeugt daraus Wasserstoff im Stausee",
+    "Es erhitzt Wasser in großen Tanks"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zwei Becken, eins oben, eins unten. Gibt es zu viel Strom, wird Wasser hinaufgepumpt, wird es knapp, rauscht es durch Turbinen wieder hinunter. Eine Art Riesenakku aus Wasser und Schwerkraft, und davon hat Österreich dank der Berge eine Menge.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Speicher",
+    "Wasserkraft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1524,
+   "speaker": "Demet Suna",
+   "quote": "Sie können so vorstellen, Verteilnetze ist dann wie eine Landstraße und Übertragungsnetze ist dann Autobahn,",
+   "quote_clean": "Sie können sich das so vorstellen: Das Verteilnetz ist wie eine Landstraße und das Übertragungsnetz ist die Autobahn.",
+   "statement": "Das Übertragungsnetz ist wie eine Autobahn für Strom, das Verteilnetz wie eine Landstraße.",
+   "question": "Womit vergleicht Demet Suna das Verteilnetz, wenn das Übertragungsnetz die Autobahn ist?",
+   "answer": "Mit einer Landstraße",
+   "distractors": [
+    "Mit einer Bahnstrecke",
+    "Mit einem Fahrradweg",
+    "Mit einer Wasserleitung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Auf der Autobahn, dem Übertragungsnetz, rauscht der Strom quer durch Europa. Auf der Landstraße, dem Verteilnetz, kommt er zu dir nach Hause. Und weil dort immer mehr kleine Photovoltaikanlagen einspeisen, muss gerade die Landstraße schlauer und digitaler werden.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Stromnetz",
+    "Vergleich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1761,
+   "speaker": "Demet Suna",
+   "quote": "Die Kraftwerke, die von außen keinen Strom brauchen, vom Netz keinen Strom brauchen, um wiederzufahren. Und wir nennen das in unserem Bereich Schwarzstartfähigkeit eines Kraftwerkes.",
+   "quote_clean": "Kraftwerke, die vom Netz keinen Strom brauchen, um wieder hochzufahren, nennen wir in unserem Bereich schwarzstartfähig.",
+   "statement": "Kraftwerke, die nach einem Blackout ohne Strom aus dem Netz wieder hochfahren können, nennt man schwarzstartfähig.",
+   "question": "Wie nennt man Kraftwerke, die nach einem Blackout ohne Strom von außen wieder hochfahren können?",
+   "answer": "Schwarzstartfähig",
+   "distractors": [
+    "Inselbetriebsbereit",
+    "Notstromgekoppelt",
+    "Kaltstartsicher"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Viele Kraftwerke brauchen selbst Strom, um anzulaufen, nach einem Blackout ein blödes Henne-Ei-Problem. Schwarzstartfähige Kraftwerke schaffen das allein, vor allem Wasser- und Pumpspeicherkraftwerke. Sie sind dann die Starthilfe für alle anderen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Blackout",
+    "Wasserkraft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 478,
+   "speaker": "Demet Suna",
+   "quote": "Unsere Modelle zeigen, dass Österreich im Jahr 2030 Nettoexportor wird aus diesen erneuerbaren Kapazitäten.",
+   "quote_clean": "Unsere Modelle zeigen, dass Österreich im Jahr 2030 aus diesen erneuerbaren Kapazitäten Nettoexporteur wird.",
+   "statement": "Laut Modellen des AIT wird Österreich 2030 dank Erneuerbarer mehr Strom exportieren als importieren.",
+   "question": "Was zeigen die AIT-Modelle für Österreichs Stromhandel im Jahr 2030?",
+   "answer": "Österreich wird Nettoexporteur",
+   "distractors": [
+    "Österreich wird stark importabhängig",
+    "Österreich handelt gar keinen Strom mehr",
+    "Österreich importiert nur noch Atomstrom"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn die Ausbauziele halten, produziert Österreich 2030 unterm Strich mehr Ökostrom, als es braucht, und verkauft den Überschuss an die Nachbarn. Dafür müssen aber die Leitungen ins Ausland verstärkt werden.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Stromhandel",
+    "Prognose"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 487,
+   "speaker": "Demet Suna",
+   "quote": "Wenn in Österreich zum Beispiel keine Sonne gibt, heißt das nicht, dass es nirgendwo in Europa Sonne gibt.",
+   "quote_clean": "Wenn es in Österreich zum Beispiel keine Sonne gibt, heißt das nicht, dass es nirgendwo in Europa Sonne gibt.",
+   "statement": "Ein gut vernetztes europäisches Stromnetz gleicht aus, dass Sonne und Wind nicht überall gleichzeitig fehlen.",
+   "question": "Warum hilft ein starkes europäisches Stromnetz gegen Flauten bei Sonne und Wind?",
+   "answer": "Irgendwo in Europa gibt es meist Strom",
+   "distractors": [
+    "Leitungen speichern selbst viel Strom",
+    "Strom wird beim Transport stärker",
+    "Nachbarländer haben fixe Notreserven für Österreich"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine Windfront zieht etwa von Frankreich über Deutschland und die Schweiz nach Österreich. Wenn überall Windräder stehen und die Netze gut verbunden sind, wandert der Strom quasi mit dem Wetter mit. Flaute in Österreich heißt nicht Flaute in Europa.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Stromnetz",
+    "Europa"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 883,
+   "speaker": "Demet Suna",
+   "quote": "Dies kann man so erklären eigentlich, dass der steigende Ausbau auch eine gewisse Massenproduktion verursachte. Und durch Massenproduktion sind die Kosten runtergegangen.",
+   "quote_clean": "Das kann man so erklären, dass der steigende Ausbau eine gewisse Massenproduktion verursacht hat. Und durch Massenproduktion sind die Kosten runtergegangen.",
+   "statement": "Wind- und Solarstrom wurden vor allem durch Massenproduktion und technologisches Lernen so viel billiger.",
+   "question": "Warum sind Wind- und Solarstrom so stark billiger geworden?",
+   "answer": "Massenproduktion und technologisches Lernen",
+   "distractors": [
+    "Hohe Steuern auf Kohle und Öl",
+    "Billigere Rohstoffe aus dem Bergbau",
+    "Staatliche Preisobergrenzen für Strom"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Je mehr Anlagen gebaut werden, desto billiger wird jede einzelne, das sind die klassischen Skaleneffekte. Dazu kommt das technologische Lernen, von der Herstellung bis zur Montage. Und laut Demet Suna ist da noch Luft nach unten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Photovoltaik",
+    "Kosten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 854,
+   "speaker": "Andreas Sator",
+   "quote": "Und ich glaube, Sonnenkraft war vor 30 Jahren eine der teuersten Formen der Energieherstellung und gilt heute gemeinhin als die billigste Form der Energiegewinnung, die es je gegeben hat.",
+   "quote_clean": "Sonnenkraft war vor 30 Jahren eine der teuersten Formen der Energieherstellung und gilt heute gemeinhin als die billigste Form der Energiegewinnung, die es je gegeben hat.",
+   "statement": "Solarstrom war vor 30 Jahren eine der teuersten Energieformen und gilt heute als die billigste, die es je gab.",
+   "question": "Welche Energieform gilt heute als die billigste, die es je gegeben hat?",
+   "answer": "Solarstrom",
+   "distractors": [
+    "Kohlestrom",
+    "Atomstrom",
+    "Strom aus Erdgas"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Vor 30 Jahren war Photovoltaik noch ein teures Spielzeug für Satelliten und Idealist:innen. Heute ist Sonnenstrom an guten Standorten unschlagbar günstig, eine kleine Revolution, die bei vielen noch gar nicht angekommen ist.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Photovoltaik",
+    "Kosten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1262,
+   "speaker": "Demet Suna",
+   "quote": "Also, ich muss sagen, Atomkraftwerk ist auf keineswegs billiger als Wind oder Solar.",
+   "quote_clean": "Ich muss sagen, Atomkraft ist keineswegs billiger als Wind oder Solar.",
+   "statement": "Demet Suna hält Atomkraft für keineswegs billiger als Wind- oder Solarstrom.",
+   "question": "Wer sagt: „Atomkraft ist keineswegs billiger als Wind oder Solar“?",
+   "answer": "Demet Suna",
+   "distractors": [
+    "Andreas Sator",
+    "Emmanuel Macron",
+    "Ein Sprecher von EDF"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für die Energietechnikerin vom AIT ist die Sache vor allem eine Rechnung: lange Bauzeiten, ständige Verzögerungen, ungelöstes Müllproblem und riesige Förderungen. Wirtschaftlich, sagt sie, kann sie sich neue AKWs nicht erklären.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Atomkraft",
+    "Kosten"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1380,
+   "speaker": "Demet Suna",
+   "quote": "Aber ich kenne Atomkraftwerke nicht als flexibel einsetzbar. Also das kann man nicht eine Minute auf die andere ein- und ausschalten.",
+   "quote_clean": "Aber ich kenne Atomkraftwerke nicht als flexibel einsetzbar. Die kann man nicht von einer Minute auf die andere ein- und ausschalten.",
+   "statement": "Atomkraftwerke lassen sich nicht flexibel von einer Minute auf die andere hoch- und runterfahren.",
+   "question": "Warum passen Atomkraftwerke schlecht als Ausgleich zu Sonne und Wind?",
+   "answer": "Sie lassen sich nicht flexibel regeln",
+   "distractors": [
+    "Sie produzieren nur nachts Strom",
+    "Sie brauchen ständig Wind zur Kühlung",
+    "Sie dürfen nur im Winter laufen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Stromsystem mit viel Sonne und Wind braucht Partner, die schnell einspringen, wenn eine Wolke kommt. Gaskraftwerke, Pumpspeicher und Importe können das. Ein AKW läuft lieber stur durch, als im Minutentakt auf- und abgedreht zu werden.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Atomkraft",
+    "Flexibilität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 769,
+   "speaker": "Demet Suna",
+   "quote": "Dass die Elektroautos als Speicher für das System sind, ist eigentlich bekannt als Konzept Vehicle to Grid.",
+   "quote_clean": "Dass Elektroautos als Speicher für das System dienen, ist als Konzept Vehicle to Grid bekannt.",
+   "statement": "Das Konzept, Elektroautos als Speicher fürs Stromnetz zu nutzen, heißt Vehicle to Grid.",
+   "question": "Wie heißt das Konzept, bei dem E-Autos Strom zurück ins Netz speisen?",
+   "answer": "Vehicle to Grid",
+   "distractors": [
+    "Smart Metering",
+    "Power to Gas",
+    "Peak Shaving"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein E-Auto steht die meiste Zeit herum, mit einem vollen Akku. Bei Vehicle to Grid gibt es bei Bedarf Strom zurück ins Netz und hilft so, kurzfristige Schwankungen auszugleichen. Noch ist das vor allem Forschung, aber eine viel diskutierte Option.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Elektroauto",
+    "Speicher"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 683,
+   "speaker": "Andreas Sator",
+   "quote": "Aber was dahinter steckt, ist ja eigentlich ganz kompliziert, weil, wenn ich das richtig verstehe, das Angebot und Nachfrage sich immer genau decken muss. Also es muss immer genau so viel produziert werden, wie jetzt nachgefragt wird.",
+   "quote_clean": "Aber was dahinter steckt, ist eigentlich ganz kompliziert, weil sich Angebot und Nachfrage immer genau decken müssen. Es muss immer genau so viel produziert werden, wie gerade nachgefragt wird.",
+   "statement": "Im Stromnetz muss in jedem Moment genau so viel Strom erzeugt werden, wie verbraucht wird.",
+   "question": "Was muss im Stromnetz in jedem Moment gelten?",
+   "answer": "Erzeugung und Verbrauch sind gleich groß",
+   "distractors": [
+    "Erzeugung ist doppelt so hoch",
+    "Verbrauch liegt immer unter der Hälfte",
+    "Ein Zehntel kommt aus Batterien"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn du dein Handy ansteckst, muss irgendwo genau diese Strommenge zusätzlich erzeugt werden. Das Netz ist ein ständiger Balanceakt. Mit Sonne und Wind, die nicht auf Knopfdruck liefern, braucht es dafür mehr Speicher, Leitungen und flexible Verbraucher.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Stromnetz",
+    "Grundlagen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1594,
+   "speaker": "Demet Suna",
+   "quote": "Das größte Potenzial liegt auch im Gewerbebereich und Industrie.",
+   "quote_clean": "Das größte Potenzial liegt im Gewerbe und in der Industrie.",
+   "statement": "Das größte Potenzial, den Stromverbrauch an die Erzeugung anzupassen, liegt bei Gewerbe und Industrie.",
+   "question": "Wo liegt das größte Potenzial, den Stromverbrauch an Sonne und Wind anzupassen?",
+   "answer": "In Gewerbe und Industrie",
+   "distractors": [
+    "In Privathaushalten",
+    "In Schulen und Spitälern",
+    "In der Straßenbeleuchtung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Betrieb mit großen Maschinen kann seinen Verbrauch viel eher verschieben als du deine Waschmaschine. Damit das passiert, braucht es Preissignale: Strom soll billig sein, wenn viel da ist, und teuer, wenn er knapp wird.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Flexibilität",
+    "Industrie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1640,
+   "speaker": "Andreas Sator",
+   "quote": "Also übersetzt, dass wenn jetzt zum Beispiel alle Menschen laden zur selben Zeit ihr Auto, drehen die Waschmaschine auf und kochen, brauchen viel Strom. In so einer Zeit soll es eher teurer sein, der Strom.",
+   "quote_clean": "Übersetzt: Wenn zum Beispiel alle Menschen zur selben Zeit ihr Auto laden, die Waschmaschine aufdrehen und kochen, brauchen sie viel Strom. In so einer Zeit soll der Strom eher teurer sein.",
+   "statement": "Flexible Strompreise sollen Strom teurer machen, wenn alle gleichzeitig viel verbrauchen, und billiger, wenn wenig Bedarf ist.",
+   "question": "Wozu sollen zeitabhängige Strompreise für Haushalte dienen?",
+   "answer": "Verbrauch in günstige Zeiten verschieben",
+   "distractors": [
+    "Den Gesamtverbrauch verdoppeln",
+    "Stromimporte komplett verbieten",
+    "Netzkosten auf Firmen abwälzen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am Abend kochen alle, waschen und stecken das Auto an. Wenn Strom dann teurer ist und tagsüber, wenn die Sonne scheint, billiger, lohnt es sich, umzudenken. So hilft jede Waschmaschine ein bisschen beim Netzgleichgewicht.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Strompreis",
+    "Flexibilität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 929,
+   "speaker": "Demet Suna",
+   "quote": "Und wir sind noch nicht am Ende des technologischen Lernens. Und wir können in der kommenden Zeit noch Preissenkungen erwarten.",
+   "quote_clean": "Wir sind noch nicht am Ende des technologischen Lernens. Wir können in der kommenden Zeit noch Preissenkungen erwarten.",
+   "statement": "Laut Demet Suna werden Wind- und Solarstrom durch technologisches Lernen noch billiger.",
+   "question": "Wer sagt: „Wir sind noch nicht am Ende des technologischen Lernens“?",
+   "answer": "Demet Suna",
+   "distractors": [
+    "Andreas Sator",
+    "Florian Krammer",
+    "Reinhard Heinisch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Demet Suna ist Energietechnikerin am Austrian Institute of Technology und rechnet mit weiter sinkenden Kosten bei Wind und Photovoltaik. Andreas fragt nach: Wird also noch billiger? Ihre Antwort: Wird noch billiger.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Photovoltaik",
+    "Kosten"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1026,
+   "speaker": "Andreas Sator",
+   "quote": "oder teilweise auch auf der Freifläche, also auf der Wiese oder in Kombination mit Landwirtschaft gibt es ja auch spannende Modelle, wo Himbeeren angebaut werden und drüber steht dann eine Photovoltaikanlage.",
+   "quote_clean": "Oder teilweise auch auf der Freifläche, also auf der Wiese, oder in Kombination mit Landwirtschaft: Es gibt spannende Modelle, wo Himbeeren angebaut werden und darüber eine Photovoltaikanlage steht.",
+   "statement": "Photovoltaik lässt sich mit Landwirtschaft kombinieren, etwa mit Himbeeren, die unter den Paneelen wachsen.",
+   "question": "Was wächst in manchen Modellen direkt unter Photovoltaikanlagen?",
+   "answer": "Himbeeren",
+   "distractors": [
+    "Weinreben",
+    "Zuckerrüben",
+    "Kürbisse"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Agri-Photovoltaik heißt das Prinzip: Oben Strom, unten Ernte. Die Paneele spenden den Himbeeren Schatten und schützen vor Hagel, und die Wiese wird gleich doppelt genutzt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Photovoltaik",
+    "Landwirtschaft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 1919,
+   "speaker": "Andreas Sator",
+   "quote": "Was nehme ich mir von der heutigen Folge mit?",
+   "quote_clean": "Was nehme ich mir von der heutigen Folge mit?",
+   "statement": "Andreas fasst am Ende jeder Folge zusammen, was er sich mitnimmt.",
+   "question": "Mit welcher Frage leitet Andreas seine Zusammenfassung am Ende ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was habe ich falsch gedacht?",
+    "Was sagen die Hörer:innen dazu?",
+    "Was kommt als Nächstes?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nach dem Gespräch kommt bei Erklär mir die Welt immer Andreas' persönliches Fazit. Diesmal: 100 Prozent Erneuerbare gehen, wenn Europa seine Netze ausbaut und so schnell wie möglich Windräder und Photovoltaik baut.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Podcast",
+    "Fazit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "194",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

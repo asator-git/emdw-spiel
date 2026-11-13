@@ -1,0 +1,286 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Zahl wird nur aus der Erinnerung zitiert ('habe ich beim Reuters-Institut gesehen'), Jahr und Definition offen und vermutlich überholt; als Faktenfrage nicht belastbar.",
+   "stand_note": "",
+   "statement": "Laut Reuters Institute informieren sich in Österreich 42 Prozent der Menschen über gedruckte Medien, in Frankreich nur 15 Prozent.",
+   "question": "Wie viel Prozent der Menschen in Österreich informieren sich laut Reuters Institute über Printmedien?",
+   "answer": "42 Prozent",
+   "distractors": [
+    "18 Prozent",
+    "27 Prozent",
+    "61 Prozent"
+   ],
+   "aha": "",
+   "quote_clean": "Ich habe das beim Reuters-Institut gesehen: 42 Prozent informieren sich in Österreich über Print, in Frankreich zum Beispiel 15 Prozent.",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei t=312-342; Dänemark-Vergleich im aha steht nicht im Transkript, entfernt.",
+   "stand_note": "",
+   "statement": "Der deutsche Medienmarkt ist etwa zehnmal so groß wie der österreichische, und beide teilen dieselbe Sprache.",
+   "question": "Wievielmal so groß ist der deutsche Medienmarkt ungefähr im Vergleich zum österreichischen?",
+   "answer": "Etwa zehnmal so groß",
+   "distractors": [
+    "Etwa dreimal so groß",
+    "Etwa fünfmal so groß",
+    "Etwa zwanzigmal so groß"
+   ],
+   "aha": "Weil in Österreich Deutsch gesprochen wird, sind seit dem Kabelfernsehen der 80er-Jahre alle deutschen Sender zu empfangen. Österreichische Medien konkurrieren also mit einem viel größeren und ressourcenstärkeren Markt.",
+   "quote_clean": "Eine besondere Herausforderung für Medienmachende in Österreich ist, dass wir die gleiche Sprache sprechen wie unser nördlicher Nachbar, ein zehnmal so großer Medienmarkt. Das betrifft natürlich besonders den Fernsehbereich.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg bei t=599-628, von Loudon selbst mit 'soweit ich weiß' relativiert; Stand 2024.",
+   "stand_note": "Stand 2024",
+   "statement": "Während Gratis-Tageszeitungen anderswo in Europa verschwunden sind, gab es 2024 in Wien noch zwei: Heute und Österreich.",
+   "question": "Wie viele Gratis-Tageszeitungen gibt es laut Sebastian Loudon (Stand 2024) noch in Wien, während andere europäische Städte keine mehr haben?",
+   "answer": "Zwei",
+   "distractors": [
+    "Keine",
+    "Eine",
+    "Vier"
+   ],
+   "aha": "Anfang der 2000er war die Gratiszeitung in der U-Bahn ein europaweiter Renner. Dass sich in Wien gleich zwei halten, liegt laut Loudon zu einem großen Teil an Inseraten der öffentlichen Hand.",
+   "quote_clean": "Und was ist heute? Soweit ich weiß, gibt es in keiner Stadt Europas mehr eine Gratis-Tageszeitung, in Wien gibt's immer noch zwei.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=599, 2004 klar (20-Jahr-Jubiläum), U-Express-Hintergrund belegt.",
+   "stand_note": "",
+   "statement": "Die Wiener Gratiszeitung Heute wurde 2004 gegründet, nachdem der U-Express eingestellt worden war.",
+   "question": "In welchem Jahr wurde die Gratiszeitung Heute gegründet?",
+   "answer": "2004",
+   "distractors": [
+    "1998",
+    "2001",
+    "2009"
+   ],
+   "aha": "Vorher gab es den U-Express, eine bewusst lieblos gemachte Gratiszeitung, die vor allem die Skandinavier aus Wien fernhalten sollte. Als der eingestellt wurde, kam Heute, 2006 dann noch Österreich.",
+   "quote_clean": "Daraufhin entstand in einer nicht ganz geklärten Gründungsgeschichte die Gratiszeitung Heute, 2004. Die feiern auch 20-jähriges Jubiläum.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Nur vom Hörensagen ('von Dossier mal die Zahl gehört'), nicht überprüfbar; Aussage zu Inseratenausgaben ist politisch heikel.",
+   "stand_note": "",
+   "statement": "Die öffentliche Hand gibt in Deutschland ungefähr gleich viel für Inserate aus wie in Österreich, obwohl Deutschland rund neunmal so groß ist.",
+   "question": "Wie hoch sind die Inserate der öffentlichen Hand in Deutschland im Vergleich zu Österreich?",
+   "answer": "Ungefähr gleich hoch",
+   "distractors": [
+    "Etwa zehnmal so hoch",
+    "Etwa dreimal so hoch",
+    "Etwa halb so hoch"
+   ],
+   "aha": "",
+   "quote_clean": "In Deutschland sind die Inserate der öffentlichen Hand ungefähr genauso hoch wie in Österreich, aber es ist ein zehnmal oder neunmal so großes Land.",
+   "quality": 1
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "fairness"
+   ],
+   "note": "Beleg bei t=857-886; wertender Schluss im aha entfernt, neutral gefasst.",
+   "stand_note": "",
+   "statement": "Die Expertenregierung unter Brigitte Bierlein strich während ihrer rund halbjährigen Amtszeit laut Andreas viele Regierungsinserate.",
+   "question": "Welche österreichische Regierung hat laut Andreas sehr viele Inserate gestrichen?",
+   "answer": "Die Expertenregierung Bierlein",
+   "distractors": [
+    "Die Regierung Kurz I",
+    "Die Regierung Faymann",
+    "Die Regierung Schüssel I"
+   ],
+   "aha": "Die Expertenregierung war nach der Ibiza-Affäre rund ein halbes Jahr im Amt. Laut Andreas hat sie viele Inserate gestrichen, weil Ministerien ja auch andere Kanäle haben, um über ihre Arbeit zu informieren.",
+   "quote_clean": "Die haben sehr viele Inserate gestrichen, weil sie sich gedacht haben: Wozu brauchen wir das eigentlich? Man hat ja vielfältige Kanäle, um als Ministerium über seine Arbeit zu informieren.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=1427-1457, klar als Einschätzung von Zielina gerahmt.",
+   "stand_note": "",
+   "statement": "Laut Anita Zielina erleben Medien nach der digitalen nun vor allem eine mobile Revolution: Fast alles wird am Smartphone konsumiert.",
+   "question": "Welche Revolution prägt laut Anita Zielina den Medienkonsum heute vor allem?",
+   "answer": "Die mobile Revolution",
+   "distractors": [
+    "Die Fernsehrevolution",
+    "Die Radiorevolution",
+    "Die Print-Renaissance"
+   ],
+   "aha": "Dass wir mehr im Internet lesen als auf Papier, ist eh schon alt. Neu ist, dass fast alles am Handy passiert, und bei den Unter-40-Jährigen ist dieser Bruch noch viel stärker.",
+   "quote_clean": "Wir sprechen jetzt eigentlich nicht mehr von einer digitalen Revolution, das haben wir alle schon längst erledigt, sondern eigentlich ist es eine mobile Revolution.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "transkription",
+    "beleg"
+   ],
+   "note": "Cent-Angaben pro 1000 Leser:innen sind für Online-Werbung unrealistisch niedrig (üblich sind Euro-Beträge); vermutlich Sprech- oder Transkriptionsfehler, nicht belastbar.",
+   "stand_note": "",
+   "statement": "Online-Werbung bringt Medien oft nur ein bis zehn Cent – und zwar pro tausend Leser:innen, nicht pro Person.",
+   "question": "Für wie viele Leser:innen bekommt ein Medium online laut Anita Zielina oft nur ein paar Cent Werbeerlös?",
+   "answer": "1000 Leser:innen",
+   "distractors": [
+    "10 Leser:innen",
+    "100 Leser:innen",
+    "100.000 Leser:innen"
+   ],
+   "aha": "",
+   "quote_clean": "Den 10.000 oder 20.000 Euro für ein Inserat im Print steht im Internet leider ein Cent gegenüber, oder vielleicht 5 Cent, wenn man Glück hat, oder 10 Cent – aber nicht pro einzelnem Menschen, der das liest, sondern pro 1000 Menschen.",
+   "quality": 1
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei t=2117-2175; Zuordnung zum Sprecher nicht eindeutig, deshalb ohne Namen; Antwort präzisiert.",
+   "stand_note": "",
+   "statement": "Politischer Journalismus war in der Tageszeitung nie ein eigenes tragfähiges Geschäft: Er wurde von Horoskop, Kinoprogramm, Sport und Kleinanzeigen quersubventioniert.",
+   "question": "Wovon wurde der politische Journalismus in der klassischen Tageszeitung eigentlich quersubventioniert?",
+   "answer": "Von Horoskop, Kinoprogramm, Sport und Kleinanzeigen",
+   "distractors": [
+    "Von Parteibeiträgen der Leser:innen",
+    "Von staatlicher Presseförderung allein",
+    "Von Spenden der Leserschaft"
+   ],
+   "aha": "Die Zeitung brauchte man früher zum Leben in der Stadt: Todesanzeigen, Kulturprogramm, Klatsch. All das ist heute gratis auf Willhaben, Facebook und Co. gewandert, und damit fehlt das Geld, das die Analyse auf Seite 3 mitgetragen hat.",
+   "quote_clean": "Die wenigsten Menschen haben sich eine Tageszeitung wegen der innenpolitischen Analyse auf Seite 3 gekauft, sondern es war das Horoskop, das Kinoprogramm, die Sportberichterstattung.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Sprecher-Zuordnung, kein Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Anita Zielina sieht jeden guten Journalismus als Service, der Menschen hilft, besser zu leben.",
+   "question": "Wer sagt in dieser Folge, dass jeder gute Journalismus eigentlich Servicejournalismus ist?",
+   "answer": "Anita Zielina",
+   "distractors": [
+    "Sebastian Loudon",
+    "Andreas Sator",
+    "Jeff Jarvis"
+   ],
+   "aha": "",
+   "quote_clean": "Jeder gute Journalismus ist Servicejournalismus zum besser Leben, was auch immer das besser Leben halt heißt: bessere demokratische Entscheidungen treffen.",
+   "quality": 1
+  },
+  {
+   "i": 11,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zugespitzter Vergleich als Zitat-Nachsprechen, wenig Wissensgewinn, Drogenvergleich als Spielfrage unglücklich.",
+   "stand_note": "",
+   "statement": "Sebastian Loudon vergleicht den aktuellen Umgang mit Smartphones mit einem gefährlichen Experiment.",
+   "question": "Womit vergleicht Sebastian Loudon unseren derzeitigen Umgang mit dem Smartphone?",
+   "answer": "Gemeinsam Heroin rauchen und zuschauen",
+   "distractors": [
+    "Mit Kettenrauchen im Kaffeehaus",
+    "Mit einem Dauerfernsehabend",
+    "Mit einem Glücksspielautomaten"
+   ],
+   "aha": "",
+   "quote_clean": "Ein derartig gefährliches Experiment. Das ist, wie wenn wir alle Heroin rauchen und uns gegenseitig dabei zuschauen.",
+   "quality": 2
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=4499, als Einschätzung von Loudon gerahmt.",
+   "stand_note": "",
+   "statement": "Im digitalen Bereich belohnen Algorithmen Polarisierung und Empörung, während nuancierte, reflektierte Inhalte benachteiligt werden – Loudon nennt das Marktversagen.",
+   "question": "Welche Inhalte belohnen die Algorithmen sozialer Plattformen laut Sebastian Loudon?",
+   "answer": "Polarisierendes, das Empörung erzeugt",
+   "distractors": [
+    "Lange, ausgewogene Analysen",
+    "Möglichst neutrale Agenturmeldungen",
+    "Inhalte mit vielen Quellenangaben"
+   ],
+   "aha": "Für Loudon gibt es deshalb ein doppeltes Problem: ein Staatsversagen in der Medienpolitik und ein Marktversagen im Digitalen. Wer überlegt und in Grautönen berichtet, wird vom Algorithmus eher versteckt.",
+   "quote_clean": "Alles, was polarisiert, Aufregung erzeugt, Empörung erzeugt, wird von den Algorithmen belohnt, und alles, was Nuancen zeigt, was Grauschattierungen zeigt, wird bestraft.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Sprecher-Zuordnung, kein Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Anita Zielina hält Abhängigkeit von nur einer Geldquelle für gefährlich.",
+   "question": "Wer sagt in dieser Folge: Abhängigkeit ist gefährlich, weil sie zu unmoralischen Angeboten verführt?",
+   "answer": "Anita Zielina",
+   "distractors": [
+    "Sebastian Loudon",
+    "Andreas Sator",
+    "Priya Parker"
+   ],
+   "aha": "",
+   "quote_clean": "Abhängigkeit ist gefährlich, weil sie in Versuchung führt, Dinge zu tun, die nicht ganz okay sind, unmoralische Angebote anzunehmen.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsaufbau, kein Faktenwissen.",
+   "stand_note": "",
+   "statement": "Andreas bittet Anita Zielina, in die Glaskugel zu schauen und eine Utopie für 2040 zu skizzieren.",
+   "question": "In welches Jahr schickt Andreas Anita Zielina für ihre Medien-Utopie?",
+   "answer": "2040",
+   "distractors": [
+    "2030",
+    "2035",
+    "2050"
+   ],
+   "aha": "",
+   "quote_clean": "Dafür würde ich gerne was Unseriöses machen und dich, Anita, bitten, in die Glaskugel zu blicken. Schildere uns mal: Wir gehen jetzt ins Jahr 2040, Österreich ist klimaneutral.",
+   "quality": 1
+  }
+ ],
+ "id": "311",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

@@ -1,0 +1,270 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahl und Kontext (Schätzung, abgeleitet) stimmen mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Für Österreich schätzt man rund 30.000 Chlamydien-Infektionen; bei Frauen verlaufen sie meist ohne Symptome.",
+   "question": "Von wie vielen Chlamydien-Infektionen geht man in Österreich ungefähr aus?",
+   "answer": "Rund 30.000",
+   "distractors": [
+    "Rund 3.000",
+    "Rund 300.000",
+    "Rund 800"
+   ],
+   "aha": "Österreich hat dazu kaum eigene Daten, die Zahl ist von vergleichbaren Ländern abgeleitet. Das Gemeine: Die meisten Frauen merken gar nicht, dass sie Chlamydien haben.",
+   "quote_clean": "Man geht in Österreich von 30.000 Infektionen bei Chlamydien aus. Das ist schon eine relevante Anzahl, aber die Chlamydien sind insofern recht fies, dass sie vor allem bei Frauen in den allermeisten Fällen asymptomatisch verlaufen.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Faktor 100 bzw. 300 bis 500 Fälle ist belegt; Dunkelziffer erwähnt.",
+   "stand_note": "",
+   "statement": "Tripper (Gonorrhö) ist in Österreich deutlich seltener als Chlamydien, ungefähr um den Faktor hundert.",
+   "question": "Wie häufig ist Tripper in Österreich im Vergleich zu Chlamydien?",
+   "answer": "Etwa hundertmal seltener",
+   "distractors": [
+    "Etwa doppelt so häufig",
+    "Ungefähr gleich häufig",
+    "Etwa zehnmal häufiger"
+   ],
+   "aha": "Zieh von den geschätzten 30.000 Chlamydien-Fällen zwei Nullen ab, dann bist du ungefähr bei den Tripper-Fällen. Die Dunkelziffer dürfte aber deutlich höher sein.",
+   "quote_clean": "Wobei da die Dunkelziffer wahrscheinlich weit über dem liegt, was wir wissen. Aber von den 30.000 kann man zwei Dezimalstellen abziehen, dann sind wir ungefähr bei den Fällen von den Gonokokken.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Zahl belegt, Quelle Verhütungsbericht 2024 nennt Andreas; aha enthielt Unbelegtes (Aids-Schreck der 80er) und wurde neu formuliert.",
+   "stand_note": "Stand 2024",
+   "statement": "Laut österreichischem Verhütungsbericht 2024 verhüten rund 40 Prozent der Jugendlichen beim Sex gar nicht.",
+   "question": "Wie viel Prozent der Jugendlichen in Österreich verhüten beim Sex laut Verhütungsbericht 2024 gar nicht?",
+   "answer": "Rund 40 Prozent",
+   "distractors": [
+    "Rund 10 Prozent",
+    "Rund 20 Prozent",
+    "Rund 65 Prozent"
+   ],
+   "aha": "Mirjiam Hall sieht darin wenig Risikobewusstsein in der Bevölkerung: Der Kondomgebrauch geht in allen Altersgruppen zurück. Deshalb ihr Appell, dass Prävention, Testen und frühe Therapie wirklich alle betreffen.",
+   "quote_clean": "40 % der Jugendlichen verhüten gar nicht, wenn sie Geschlechtsverkehr haben, weder gegen Schwangerschaft noch gegen sexuell übertragbare Erkrankungen. Der Kondomgebrauch geht insgesamt in allen Altersgruppen zurück.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Behauptung 8 bis 10 Jahre als Durchschnitt ist ungesichert und weicht von gängigen Studien (eher 11 bis 13) ab; nicht als Fakt tauglich.",
+   "stand_note": "",
+   "statement": "Burschen sehen im Schnitt schon mit 8 bis 10 Jahren zum ersten Mal Pornos, oft über WhatsApp-Klassengruppen.",
+   "question": "Wie alt sind Burschen im Schnitt, wenn sie zum ersten Mal Pornos sehen?",
+   "answer": "8 bis 10 Jahre",
+   "distractors": [
+    "12 bis 13 Jahre",
+    "14 bis 15 Jahre",
+    "5 bis 6 Jahre"
+   ],
+   "aha": "Die Clips kommen oft gar nicht gesucht, sondern über die WhatsApp-Gruppe der Klasse.",
+   "quote_clean": "Das Durchschnittsalter liegt zwischen 8 und 10, wo Burschen im Schnitt das erste Mal Pornos sehen, über WhatsApp in irgendwelchen Klassengruppen.",
+   "quality": 1
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Ablauf belegt; Corona-Behauptung im aha ist nicht im Ausschnitt und wurde entfernt.",
+   "stand_note": "",
+   "statement": "Bei einem normalen STI-Check machen die meisten Menschen den Abstrich selbst, dazu kommt eine Blutabnahme.",
+   "question": "Wie läuft ein normaler STI-Check meistens ab?",
+   "answer": "Selbstabstrich plus Blutabnahme",
+   "distractors": [
+    "Nur eine Urinprobe",
+    "Untersuchung unter Narkose",
+    "Speichelprobe und Röntgen"
+   ],
+   "aha": "Man bekommt eine Anleitung, geht auf die Toilette und macht den Abstrich selbst, ohne dass jemand die Geschlechtsteile angreifen muss. Dazu kommt noch eine Blutabnahme, und damit ist es erledigt.",
+   "quote_clean": "Das sind keine wilden Untersuchungen, da braucht man sich nicht fürchten. Das ist in den meisten Fällen ein Selbstabstrich, wo nicht einmal irgendein Arzt oder eine Ärztin die Geschlechtsteile angreifen muss, dazu kommt eine Blutabnahme.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "fairness"
+   ],
+   "note": "Die Angabe 'mehrere Dutzend Kontakte bis zur sicheren Ansteckung' ist medizinisch unscharf und als Spielfakt riskant (könnte Risikoverhalten fördern).",
+   "stand_note": "",
+   "statement": "Ein einzelner ungeschützter Kontakt mit einer HIV-positiven Person führt nicht automatisch zur Ansteckung; im Schnitt braucht es mehrere Dutzend Kontakte.",
+   "question": "Führt ein einziger ungeschützter Kontakt mit einer HIV-positiven Person automatisch zur Ansteckung?",
+   "answer": "Nein, im Schnitt braucht es Dutzende",
+   "distractors": [
+    "Ja, praktisch immer",
+    "Ja, in rund der Hälfte",
+    "Nein, HIV ist sexuell nicht übertragbar"
+   ],
+   "aha": "Das Risiko pro Kontakt ist kleiner, als viele glauben.",
+   "quote_clean": "Man muss im Schnitt mehrere Dutzend Male mit einer Person Geschlechtsverkehr haben, um sich sicher anzustecken.",
+   "quality": 1
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Mechanismus (Ausbreitung in Bauchraum, Verklebungen, Fruchtbarkeitsstörungen) belegt; aha mit allgemein gesichertem Wissen.",
+   "stand_note": "",
+   "statement": "Unbehandelte Chlamydien können über Gebärmutter und Eileiter in den Bauchraum wandern, Verklebungen verursachen und so unfruchtbar machen.",
+   "question": "Warum können unbehandelte Chlamydien Frauen unfruchtbar machen?",
+   "answer": "Sie verkleben Eileiter und Eierstöcke",
+   "distractors": [
+    "Sie zerstören die Eizellen direkt",
+    "Sie verändern den Hormonspiegel",
+    "Sie lösen Gebärmutterkrebs aus"
+   ],
+   "aha": "Im Bauchraum sieht es dann aus wie von Spinnweben verklebt, und das gesprungene Ei kommt nicht mehr in die Gebärmutter. Oft entdeckt man die Chlamydien erst bei der Abklärung eines unerfüllten Kinderwunsches.",
+   "quote_clean": "Dass sie, wenn sie unbehandelt bleiben, ein extrem relevanter Faktor sind, zum Beispiel in Bezug auf spätere Fruchtbarkeitsstörungen bei Frauen, weil Chlamydien dann über die Gebärmutter und die Eileiter in den Bauchraum wandern.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Kaskade Resistenz/Reserveantibiotika im Ausschnitt belegt.",
+   "stand_note": "",
+   "statement": "Werden Reserve-Antibiotika häufig eingesetzt, lernen Bakterien auch gegen sie zu überleben, bis keine Reserve mehr übrig ist.",
+   "question": "Warum sollen Reserve-Antibiotika möglichst selten eingesetzt werden?",
+   "answer": "Sonst werden Bakterien auch dagegen resistent",
+   "distractors": [
+    "Weil sie nur ein Jahr haltbar sind",
+    "Weil sie nur gegen Viren wirken",
+    "Weil sie nur als Salbe wirken"
+   ],
+   "aha": "Erst weicht man auf heftigere Mittel aus, dann auf Infusionen, schließlich bleiben nur noch Reserve-Antibiotika. Wird auch die Reserve verbraucht, landet man wieder in einer Welt ohne wirksame Antibiotika.",
+   "quote_clean": "Und wenn man die dann häufig einsetzen muss, lernen die Bakterien wieder Überlebensstrategien gegenüber diesen Reservemitteln, und dann hat man irgendwann keine Reserve mehr, und das ist die Kaskade, die man verhindern muss.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Definition belegt; Behauptung zu kaum AIDS-Fällen in Österreich nicht im Ausschnitt, aha ersetzt.",
+   "stand_note": "",
+   "statement": "HIV ist das Virus; AIDS ist die Krankheit, die es auslöst, wenn die Infektion unbehandelt bleibt.",
+   "question": "Was ist der Unterschied zwischen HIV und AIDS?",
+   "answer": "HIV ist das Virus, AIDS die Krankheit",
+   "distractors": [
+    "AIDS ist das Virus, HIV die Krankheit",
+    "Beides sind verschiedene Viren",
+    "HIV ist die Impfung gegen AIDS"
+   ],
+   "aha": "AIDS ist eine Immunschwäche, die viele Organe treffen kann und ohne Therapie tödlich endet. Wo der Zugang zu Medizin fehlt, etwa im globalen Süden, bedeutet eine HIV-Ansteckung deshalb sehr oft AIDS.",
+   "quote_clean": "HIV ist das Virus, mit dem man sich ansteckt, und das Virus löst irgendwann, wenn es unbehandelt bleibt, eine Krankheit aus, die als AIDS bezeichnet wird.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Zuordnungsfrage zur Gästin, Distraktoren beliebig; kein Spielwert.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Zuordnungsfrage, Distraktoren beliebig; kein Spielwert.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Zuordnungsfrage, Distraktoren aus anderen Folgen; kein Spielwert.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  },
+  {
+   "i": 26,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Frage verallgemeinerte eine persönliche Anekdote; auf Freundinnen und Frauen, mit denen er was hatte, eingegrenzt, aha ohne das Zitat eines anderen Sprechers.",
+   "stand_note": "",
+   "statement": "Andreas erzählt, dass Freundinnen und Frauen, mit denen er was hatte, das Gespräch übers Testen eher sexy als unsexy fanden.",
+   "question": "Wie reagierten laut Andreas Freundinnen und Frauen, mit denen er was hatte, wenn man vor dem Sex übers Testen redete?",
+   "answer": "Sie fanden es sexy",
+   "distractors": [
+    "Sie fanden es peinlich",
+    "Sie wechselten das Thema",
+    "Sie fühlten sich kontrolliert"
+   ],
+   "aha": "Unter männlichen Freunden hieß es eher, so ein Gespräch killt die Stimmung. Bei den Frauen war es laut Andreas umgekehrt: Wer sich um die eigene Gesundheit und die der anderen kümmert, wirkt verantwortungsvoll.",
+   "quote_clean": "Wow, das ist ein verantwortungsvoller Mensch, der sich um seine eigene Gesundheit und die seiner Mitmenschen kümmert. Das ist eigentlich ziemlich sexy.",
+   "quality": 3
+  },
+  {
+   "i": 27,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsablauf, kein Wissensgewinn.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  }
+ ],
+ "id": "384",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

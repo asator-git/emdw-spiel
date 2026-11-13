@@ -1,0 +1,282 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "1918 bei 539 s genannt und bei 656 s von Andreas bestätigt; stimmt historisch.",
+   "stand_note": "",
+   "statement": "Gustav Klimt starb 1918 und geriet danach in Vergessenheit, weil seine Bilder kaum öffentlich zu sehen waren.",
+   "question": "In welchem Jahr ist Gustav Klimt gestorben?",
+   "answer": "1918",
+   "distractors": [
+    "1908",
+    "1925",
+    "1938"
+   ],
+   "aha": "Klimt starb 1918, am Ende des Ersten Weltkriegs. Weil seine Porträts in privaten Wohnzimmern hingen und kaum ein Museum ihn gekauft hatte, war er danach praktisch unsichtbar und geriet in Vergessenheit.",
+   "quote_clean": "Klimt ist nach seinem Tod 1918 in Vergessenheit geraten, weil er in der Öffentlichkeit nicht präsent war.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Restitution 2006 bei 362 und 607 s belegt, stimmt historisch.",
+   "stand_note": "",
+   "statement": "Die Rückgabe der „goldenen Adele“ an die Erben im Jahr 2006 trieb die Preise für Klimt-Bilder stark nach oben.",
+   "question": "In welchem Jahr wurde die „goldene Adele“ an die Erben der Familie Bloch-Bauer zurückgegeben?",
+   "answer": "2006",
+   "distractors": [
+    "1998",
+    "1955",
+    "2015"
+   ],
+   "aha": "Erst 2006 bekamen die Erben das Porträt von Adele Bloch-Bauer nach einem langen Rechtsstreit zurück. Die spektakuläre Restitution machte Klimt weltweit bekannt, und die Preise für seine Bilder schossen in die Höhe.",
+   "quote_clean": "Die goldene Adele, also das Porträt von Adele Bloch-Bauer, und diese spektakuläre Restitution im Jahr 2006 haben die Preise getrieben.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 313-319 s ('um 1990'); als ungefähre Angabe der Gästin gerahmt.",
+   "stand_note": "",
+   "statement": "Der Klimt-Hype ist relativ neu: Er begann erst um 1990.",
+   "question": "Ab ungefähr welchem Jahr setzte der weltweite Klimt-Hype ein?",
+   "answer": "um 1990",
+   "distractors": [
+    "um 1920",
+    "um 1950",
+    "um 1970"
+   ],
+   "aha": "Klimt hängt heute gefühlt auf jeder zweiten Tasse in Wien, aber das ist ein junges Phänomen. Erst ab etwa 1990, mit Gedenkausstellung und Restitutionsprozessen, wurde aus dem fast vergessenen Maler ein Weltstar.",
+   "quote_clean": "Der Klimt-Hype ist etwas sehr Neues, nämlich eine Sache, die erst um 1990 angefangen hat.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "kontext"
+   ],
+   "note": "Pauschale Behauptung, alle anderen namhaften Wiener Künstler seien antisemitisch gewesen, ist als Spielfakt zu sweeping und unfair gegenüber Dritten; Frage stellt sie unattribuiert als Tatsache.",
+   "stand_note": "",
+   "statement": "Klimt war laut Mona Horncastle der einzige namhafte Künstler in Wien, der nicht antisemitisch war – ein Grund, warum ihn das jüdische Großbürgertum beauftragte.",
+   "question": "Warum ließ sich das jüdische Großbürgertum in Wien vor allem von Klimt porträtieren?",
+   "answer": "Er war als einziger namhafter Künstler kein Antisemit",
+   "distractors": [
+    "Er war selbst Teil einer jüdischen Familie",
+    "Er malte billiger als alle Konkurrenten",
+    "Er war der offizielle Hofmaler der Habsburger"
+   ],
+   "aha": "",
+   "quote_clean": "Zum einen war er der einzige namhafte Künstler in Wien, der nicht antisemitisch war.",
+   "quality": 1
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 704-730 s (Abspaltung; Berlin, München, Wien); Aha-Details passen zum Kontext.",
+   "stand_note": "",
+   "statement": "Das Wort „Secession“ bedeutet Abspaltung; Secessionen gab es um 1900 nicht nur in Wien, sondern auch in Berlin und München.",
+   "question": "Was bedeutet das Wort „Secession“?",
+   "answer": "Abspaltung",
+   "distractors": [
+    "Nachfolge",
+    "Erneuerung",
+    "Versammlung"
+   ],
+   "aha": "Secession heißt Abspaltung: Junge Künstler kehrten dem Establishment den Rücken, in Wien dem Künstlerhaus. Das Vorbild kam aus Paris, wo die Impressionisten ihren eigenen unabhängigen Salon gegründet hatten.",
+   "quote_clean": "Das ist kein Wiener Phänomen, sondern Secession heißt Abspaltung und war in der Zeit um die Jahrhundertwende verbreitet.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Beleg bei 1379 s; Aussage ist Horncastles Angabe, daher attribuiert. Belvedere-Hinweis im Aha steht nicht im Ausschnitt, entfernt.",
+   "stand_note": "",
+   "statement": "Laut Mona Horncastle stellte Klimt seine Aktzeichnungen zu Lebzeiten nie aus; heute hängen sie in Museen.",
+   "question": "Wie oft hat Klimt seine Aktzeichnungen laut Mona Horncastle zu Lebzeiten ausgestellt?",
+   "answer": "Nie",
+   "distractors": [
+    "Bei jeder Secessions-Ausstellung",
+    "Einmal, in Paris",
+    "Nur in seinem Atelier für Gäste"
+   ],
+   "aha": "Die Aktzeichnungen waren Klimts ganz persönliches Feld, inspiriert von japanischen Shunga. Gezeigt hat er sie zu Lebzeiten nie, heute sind sie Museumsstücke.",
+   "quote_clean": "Er hat diese Aktzeichnungen zu Lebzeiten nie ausgestellt. Die werden heute aber natürlich in Museen gezeigt.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 571-589 s; vereinfachte Erklärung der Gästin, daher in der Frage attribuiert.",
+   "stand_note": "",
+   "statement": "Laut Mona Horncastle forderten die Erben enteigneter jüdischer Familien Klimt-Bilder lange nicht zurück, weil Restitutionsprozesse teuer und langwierig sind und sich nur bei wertvollen Werken lohnen.",
+   "question": "Warum haben die Erben enteigneter jüdischer Familien Klimt-Bilder laut Mona Horncastle jahrzehntelang nicht zurückgefordert?",
+   "answer": "Prozesse waren teuer, Klimt galt wenig",
+   "distractors": [
+    "Rückforderungen waren gesetzlich verboten",
+    "Die Bilder galten als verschollen",
+    "Die Erben kannten Klimt nicht"
+   ],
+   "aha": "Ein Restitutionsprozess kostet viel Geld und Jahre. Das zahlt sich nur aus, wenn das Bild etwas wert ist. Erst eine Gedenkausstellung Ende der 80er zeigte: Moment, das ist ein Künstler von Rang.",
+   "quote_clean": "Die Erben der enteigneten Juden, die weltweit und vor allem in Amerika lebten, haben sich nie um die Restitution gekümmert, weil so ein Prozess wahnsinnig teuer ist und sehr lang dauert.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 852-861 s; der Begriff 'Gesamtkunstwerk' stammt nicht von den Secessionisten, daher als Horncastles Aussage über die prägende Idee formuliert.",
+   "stand_note": "",
+   "statement": "Laut Mona Horncastle stand hinter der Wiener Secession und der Wiener Werkstätte die Idee des Gesamtkunstwerks, bei dem Architektur, Ausstellung und Kunst ineinandergreifen.",
+   "question": "Welche Idee prägte laut Mona Horncastle die Wiener Secession und die Wiener Werkstätte?",
+   "answer": "Das Gesamtkunstwerk",
+   "distractors": [
+    "Das Readymade",
+    "Den Kubismus",
+    "Die Pop-Art"
+   ],
+   "aha": "Vom Gebäude über die Ausstellung bis zu den Bildern sollte alles zu einem Thema zusammenspielen. Ein Ausstellungsbesuch war damit nicht nur Kunstgenuss, sondern Bildung.",
+   "quote_clean": "Daher kam die Idee der Sezessionisten in Wien und auch der Wiener Werkstätte, die das Gesamtkunstwerk entwickelt haben.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 939-952 s; Erklärung der Gästin, daher attribuiert. Distraktor 'mangelnde Nachfrage' überschnitt sich mit 'nur eine Elite', ersetzt; Distraktor 'Streit Klimt/Schiele' war unplausibel.",
+   "stand_note": "",
+   "statement": "Laut Mona Horncastle scheiterte die Wiener Werkstätte an ihrem hohen Anspruch an Material und Form, weil Herstellung und Entwicklung zu teuer waren.",
+   "question": "Woran ist die Wiener Werkstätte laut Mona Horncastle letztlich zugrunde gegangen?",
+   "answer": "An zu teuren Materialien und Herstellung",
+   "distractors": [
+    "An einem Verbot durch die Habsburger",
+    "An einem Brand ihrer Werkstätten",
+    "An fehlenden Architekten und Handwerkern"
+   ],
+   "aha": "Klimts Stoclet-Fries entstand mit Edelsteinen und Edelmetallen, das war unfassbar teuer. Leisten konnte sich so etwas nur eine kleine Elite, und die reichte als Kundschaft nicht.",
+   "quote_clean": "Die Wiener Werkstätte ist an ihrem hohen Anspruch an Material und Form letztendlich zugrunde gegangen, weil Herstellung und Entwicklung zu teuer waren.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 831-848 s eindeutig (Idealismus einer kleinen Gruppe).",
+   "stand_note": "",
+   "statement": "Klimt und sein Kreis glaubten, dass Menschen in einer schönen Umgebung moralisch besser werden.",
+   "question": "Welche Utopie teilte Klimt mit den Wiener Secessionisten?",
+   "answer": "In einer schönen Welt sind wir bessere Menschen",
+   "distractors": [
+    "Kunst muss vor allem provozieren",
+    "Nur Handarbeit macht Menschen glücklich",
+    "Kunst gehört allein in Museen"
+   ],
+   "aha": "Der Gedanke dahinter: Umgib Menschen mit schönen Dingen, und ihre Moral bessert sich. Daraus entstand die Idee des Gesamtkunstwerks, vom Gebäude bis zum Kaffeelöffel.",
+   "quote_clean": "Kurz gesagt: Wenn wir in einer schönen Welt leben, sind wir bessere Menschen.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Wer-sagt-das-Frage zur Gästin ist kein Wissenswert; zudem Deutung statt Fakt.",
+   "stand_note": "",
+   "statement": "Klimts Aktzeichnungen sind laut Mona Horncastle nicht pornografisch, weil er nicht mit männlichem Blick auf die Frauen schaut.",
+   "question": "Wer sagt über Klimt: „Der schaut nicht mit männlichem Blick auf die Frauen“?",
+   "answer": "Mona Horncastle",
+   "distractors": [
+    "Andreas Sator",
+    "Egon Schiele",
+    "Emilie Flöge"
+   ],
+   "aha": "",
+   "quote_clean": "Dann sieht man: Gustav Klimt hat keine pornografischen Akte gemacht. Er schaut nicht mit männlichem Blick auf die Frauen.",
+   "quality": 1
+  },
+  {
+   "i": 27,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1732-1747 s eindeutig.",
+   "stand_note": "",
+   "statement": "Klimt öffnete seine Ateliertür nur, wenn jemand ein geheimes Klopfzeichen benutzte, das nur ein kleiner Kreis kannte.",
+   "question": "Wie kam man in Klimts Atelier, ohne ignoriert zu werden?",
+   "answer": "Mit einem geheimen Klopfzeichen",
+   "distractors": [
+    "Mit einer schriftlichen Voranmeldung",
+    "Über die Hintertür im Garten",
+    "Nur in Begleitung von Emilie Flöge"
+   ],
+   "aha": "Klimt war kein Gesellschaftstier, eher wortkarg und ein bisschen grummelig. Wer das Klopfzeichen nicht kannte, konnte klopfen, so viel er wollte.",
+   "quote_clean": "Seine Privatsphäre und seine Ruhe zum Arbeiten waren ihm so wichtig, dass es ein geheimes Klopfzeichen gab.",
+   "quality": 4
+  },
+  {
+   "i": 28,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Beleg bei 205-217 s; sie war skeptisch, hat nicht abgelehnt. Frage präzisiert, Distraktor 'zu kitschig' war zu nah an 'nicht spektakulär' und ersetzt.",
+   "stand_note": "",
+   "statement": "Mona Horncastle war zunächst skeptisch, über Klimt zu schreiben, weil sie Dingen misstraut, die alle toll finden.",
+   "question": "Warum war Mona Horncastle anfangs skeptisch, als sie über Klimt schreiben sollte?",
+   "answer": "Sie misstraut Dingen, die alle toll finden",
+   "distractors": [
+    "Sie hielt Klimt für zu unbekannt",
+    "Sie hatte keine Zeit dafür",
+    "Sie wollte lieber über Schiele schreiben"
+   ],
+   "aha": "Als der Verlag 2012 einen Klimt-Comic wollte, dachte sie sich: „Oh na, ehrlich, jetzt Gustav Klimt.“ Heute beschäftigt sie sich seit über zehn Jahren mit ihm und hat 2018 die erste Klimt-Biografie mitgeschrieben.",
+   "quote_clean": "Ich habe so eine angeborene Skepsis gegenüber Dingen, die alle immer toll finden.",
+   "quality": 2
+  },
+  {
+   "i": 29,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage nach dem Gesprächseinstieg ohne Wissenswert; Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Andreas steigt mit der Frage ein, warum man sich überhaupt für Klimt interessieren sollte.",
+   "question": "Mit welcher Frage steigt Andreas in die Klimt-Folge ein?",
+   "answer": "Warum sollte man sich für Klimt interessieren?",
+   "distractors": [
+    "Wie viel ist die goldene Adele wert?",
+    "Wo kann man Klimt in Wien sehen?",
+    "Was hat Klimt mit Schiele zu tun?"
+   ],
+   "aha": "",
+   "quote_clean": "Mona, was ist interessant an Klimt? Warum sollte man sich für Klimt interessieren?",
+   "quality": 1
+  }
+ ],
+ "id": "159",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

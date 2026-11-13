@@ -1,0 +1,708 @@
+{
+ "theme": "Österreich & Politik",
+ "summary": "Kurz vor der Nationalratswahl: Wie entscheiden Menschen in Österreich, wen sie wählen, und wie trifft man eine informierte Wahl?",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1851,
+   "speaker": "Sylvia Kritzinger",
+   "quote": "Also in Österreich kann man auch Vorzugsstimmen geben. Das ist seit 1992 möglich, dass man eben auf den verschiedenen Listen,",
+   "quote_clean": "In Österreich kann man auch Vorzugsstimmen geben. Das ist seit 1992 möglich, auf den verschiedenen Listen.",
+   "statement": "Bei Nationalratswahlen in Österreich kann man seit 1992 Vorzugsstimmen vergeben.",
+   "question": "Seit welchem Jahr kann man in Österreich bei Nationalratswahlen Vorzugsstimmen vergeben?",
+   "answer": "1992",
+   "distractors": [
+    "1955",
+    "1971",
+    "2007"
+   ],
+   "number_value": 1992,
+   "number_unit": "Jahr",
+   "slider_min": 1945,
+   "slider_max": 2015,
+   "log_scale": false,
+   "aha": "Seit 1992 kannst du auf Bundes-, Landes- und Regionalliste einzelnen Kandidat:innen eine Vorzugsstimme geben. Damit kannst du die Reihung der Partei ein bisschen durcheinanderbringen, zumindest theoretisch.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlrecht",
+    "Vorzugsstimme"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2142,
+   "speaker": "Andreas Sator",
+   "quote": "Vereinfacht kann man sagen, ganz oben im Bund braucht man sieben Prozent aller Stimmen der Partei, die sie insgesamt bekommen hat.",
+   "quote_clean": "Vereinfacht kann man sagen: Ganz oben im Bund braucht man sieben Prozent aller Stimmen, die die Partei insgesamt bekommen hat.",
+   "statement": "Um auf der Bundesliste per Vorzugsstimmen vorgereiht zu werden, braucht man vereinfacht sieben Prozent der Stimmen der eigenen Partei.",
+   "question": "Wie viel Prozent der Stimmen ihrer Partei braucht eine Kandidatin, um auf der Bundesliste per Vorzugsstimmen vorgereiht zu werden?",
+   "answer": "7 Prozent",
+   "distractors": [
+    "2 Prozent",
+    "15 Prozent",
+    "25 Prozent"
+   ],
+   "number_value": 7,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Sieben Prozent klingt wenig, ist es aber nicht: Bei einer großen Partei sind das schnell an die 100.000 persönliche Kreuzerl. Darum schafft das kaum wer.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Wahlrecht",
+    "Vorzugsstimme"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2166,
+   "speaker": "Andreas Sator",
+   "quote": "Auf der Landesliste braucht man 10 Prozent und auf der Regionalliste 14 Prozent des Wahlkreises.",
+   "quote_clean": "Auf der Landesliste braucht man 10 Prozent und auf der Regionalliste 14 Prozent des Wahlkreises.",
+   "statement": "Für eine Vorreihung auf der Regionalliste braucht man vereinfacht 14 Prozent der Parteistimmen im Wahlkreis.",
+   "question": "Wie viel Prozent der Parteistimmen im Wahlkreis braucht man, um auf der Regionalliste per Vorzugsstimmen vorgereiht zu werden?",
+   "answer": "14 Prozent",
+   "distractors": [
+    "5 Prozent",
+    "25 Prozent",
+    "33 Prozent"
+   ],
+   "number_value": 14,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 40,
+   "log_scale": false,
+   "aha": "Je kleiner die Ebene, desto höher die Hürde: Bund 7, Land 10, Region 14 Prozent. Dafür kennt man die Leute im eigenen Wahlkreis eher persönlich.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Wahlrecht",
+    "Vorzugsstimme"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2155,
+   "speaker": "Andreas Sator",
+   "quote": "Bei den drei großen Parteien, die alle über eine Million Stimmen bekommen haben bei der letzten Wahl, braucht man also schnell an die 100.000 Stimmen, damit man vorgereiht wird.",
+   "quote_clean": "Bei den drei großen Parteien, die bei der letzten Wahl alle über eine Million Stimmen bekommen haben, braucht man also schnell an die 100.000 Stimmen, damit man vorgereiht wird.",
+   "statement": "Bei großen Parteien mit über einer Million Stimmen braucht man auf der Bundesliste an die 100.000 Vorzugsstimmen für eine Vorreihung.",
+   "question": "Wie viele Vorzugsstimmen braucht man bei einer großen Partei ungefähr, um auf der Bundesliste vorgereiht zu werden?",
+   "answer": "Rund 100.000",
+   "distractors": [
+    "Rund 5.000",
+    "Rund 20.000",
+    "Rund 500.000"
+   ],
+   "number_value": 100000,
+   "number_unit": "Stimmen",
+   "slider_min": 1000,
+   "slider_max": 1000000,
+   "log_scale": true,
+   "aha": "Sieben Prozent von über einer Million Parteistimmen ergeben eben schnell sechsstellige Zahlen. Ohne große Kampagne kommt da niemand von Platz zehn nach vorne.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Wahlrecht",
+    "Vorzugsstimme"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1790,
+   "speaker": "Sylvia Kritzinger",
+   "quote": "sondern man muss, wie auch schon gesagt worden ist, auch in Betracht ziehen, dass da ja nur 26 Positionen drinnen sind.",
+   "quote_clean": "Man muss, wie schon gesagt, auch in Betracht ziehen, dass da ja nur 26 Positionen drinnen sind.",
+   "statement": "Die Wahlhilfe wahlkabine.at fragte zur Nationalratswahl 2019 26 Positionen ab.",
+   "question": "Wie viele Fragen musste man 2019 bei wahlkabine.at beantworten?",
+   "answer": "26",
+   "distractors": [
+    "10",
+    "50",
+    "80"
+   ],
+   "number_value": 26,
+   "number_unit": "Fragen",
+   "slider_min": 5,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "26 Fragen sind gut für eine erste Tendenz. Aber wenn genau das Thema fehlt, das dir am wichtigsten ist, kommt vielleicht eine ganz andere Partei raus, warnt Sylvia Kritzinger.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Wahlhilfe",
+    "Wahlkabine"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1711,
+   "speaker": "Sylvia Kritzinger",
+   "quote": "Wenn sozusagen der Wähler in Österreich nur eine Stimme hat, das ist ja in anderen Ländern anders, wie zum Beispiel in Deutschland, da hat der Wähler zwei Stimmen,",
+   "quote_clean": "Der Wähler in Österreich hat nur eine Stimme. Das ist in anderen Ländern anders, zum Beispiel in Deutschland, da hat der Wähler zwei Stimmen.",
+   "statement": "Bei der Bundestagswahl in Deutschland hat man zwei Stimmen, bei der Nationalratswahl in Österreich nur eine Parteistimme.",
+   "question": "Wie viele Stimmen hat man bei der Bundestagswahl in Deutschland?",
+   "answer": "Zwei",
+   "distractors": [
+    "Eine",
+    "Drei",
+    "Vier"
+   ],
+   "number_value": 2,
+   "number_unit": "Stimmen",
+   "slider_min": 0,
+   "slider_max": 5,
+   "log_scale": false,
+   "aha": "In Deutschland gibt es Erst- und Zweitstimme, man kann also Person und Partei getrennt wählen. In Österreich hast du nur ein Kreuzerl für eine Partei, deshalb ist taktisches Wählen hier ein größeres Abwägen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlrecht",
+    "Deutschland"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 503,
+   "speaker": "Sylvia Kritzinger",
+   "quote": "Es war auch zum Beispiel in den 60er Jahren noch so, dass Frauen eher konservative Parteien, also in diesem Fall die ÖVP, gewählt haben.",
+   "quote_clean": "In den 60er Jahren war es zum Beispiel noch so, dass Frauen eher konservative Parteien, in diesem Fall die ÖVP, gewählt haben.",
+   "statement": "In den 1960er Jahren wählten Frauen in Österreich eher konservativ, also die ÖVP; ab den 70ern verschob sich das nach links.",
+   "question": "Welche Partei wählten Frauen in Österreich in den 1960er Jahren eher?",
+   "answer": "Die ÖVP",
+   "distractors": [
+    "Die SPÖ",
+    "Die FPÖ",
+    "Die KPÖ"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Heute denkt man eher an Frauen links, Männer rechts. In den 60ern war es aber umgekehrt: Frauen wählten konservativ, erst ab den 70ern gingen sie Richtung SPÖ und später Grüne.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlverhalten",
+    "Geschichte",
+    "Gender"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 591,
+   "speaker": "Sylvia Kritzinger",
+   "quote": "Er kommt aus dahingehend, wie sich eben die politischen Repräsentanten im französischen Parlament nach der französischen Revolution hingesetzt haben.",
+   "quote_clean": "Er kommt daher, wie sich die politischen Repräsentanten im französischen Parlament nach der Französischen Revolution hingesetzt haben.",
+   "statement": "Die Begriffe links und rechts in der Politik stammen von der Sitzordnung im französischen Parlament nach der Französischen Revolution.",
+   "question": "Woher kommen die politischen Begriffe links und rechts?",
+   "answer": "Sitzordnung im französischen Parlament",
+   "distractors": [
+    "Sitzordnung im britischen Unterhaus",
+    "Lager im Amerikanischen Bürgerkrieg",
+    "Flügel im römischen Senat"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nach der Französischen Revolution saßen die Progressiven links und die Konservativen rechts im Saal. Die Sitzordnung ist längst Geschichte, die Wörter sind geblieben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Geschichte",
+    "Links und rechts"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1113,
+   "speaker": "Sylvia Kritzinger",
+   "quote": "weil wir ein parteienzentriertes Wahlsystem haben. Das heißt, wir wählen bei der Wahl eine Partei und nicht eine Person.",
+   "quote_clean": "Weil wir ein parteienzentriertes Wahlsystem haben. Das heißt, wir wählen bei der Wahl eine Partei und nicht eine Person.",
+   "statement": "Österreich hat ein parteienzentriertes Wahlsystem: Bei der Nationalratswahl wählt man in erster Linie eine Partei, keine Person.",
+   "question": "Was wählt man bei der Nationalratswahl in Österreich in erster Linie?",
+   "answer": "Eine Partei",
+   "distractors": [
+    "Den Bundeskanzler",
+    "Einen Wahlkreisabgeordneten",
+    "Eine Regierungskoalition"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Auch wenn im Wahlkampf alle nur über die Spitzenkandidat:innen reden: Dein Kreuzerl gilt der Partei. Vorzugsstimmen kommen erst im zweiten Schritt, darum lohnt sich der Blick aufs ganze Team.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlsystem",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2178,
+   "speaker": "Andreas Sator",
+   "quote": "Wichtig noch, wenn du die SPÖ ankreuzt zum Beispiel, aber eine Vorzugsstimme für Sebastian Kurz abgibst, dann geht Kurz leer aus, denn es zählt die Stimme nur für die Partei.",
+   "quote_clean": "Wichtig noch: Wenn du zum Beispiel die SPÖ ankreuzt, aber eine Vorzugsstimme für Sebastian Kurz abgibst, dann geht Kurz leer aus, denn die Stimme zählt nur für die Partei.",
+   "statement": "Kreuzt man eine Partei an und gibt einer Person einer anderen Partei eine Vorzugsstimme, zählt nur die Parteistimme.",
+   "question": "Du kreuzt Partei A an, gibst aber jemandem von Partei B eine Vorzugsstimme. Was zählt?",
+   "answer": "Nur die Stimme für Partei A",
+   "distractors": [
+    "Nur die Vorzugsstimme",
+    "Beide Stimmen",
+    "Der Stimmzettel wird ungültig"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Konfliktfall schlägt die Partei die Person. Dein Kreuzerl bei der Partei gilt, die Vorzugsstimme für jemanden von der Konkurrenz verpufft einfach.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlrecht",
+    "Vorzugsstimme"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1609,
+   "speaker": "Sylvia Kritzinger",
+   "quote": "Also diese Veränderungen können Medien weniger hervorrufen, aber sie können Verstärkungseffekte, sie können Mobilisierungseffekte hervorrufen",
+   "quote_clean": "Diese Veränderungen können Medien weniger hervorrufen, aber sie können Verstärkungseffekte und Mobilisierungseffekte hervorrufen.",
+   "statement": "Laut Forschung bringen Medien Wähler:innen selten dazu, die Partei zu wechseln; sie verstärken eher bestehende Meinungen und mobilisieren.",
+   "question": "Was können Medien laut Wahlforschung am wenigsten bewirken?",
+   "answer": "Dass jemand die Partei wechselt",
+   "distractors": [
+    "Dass jemand wählen geht",
+    "Dass sich eine Meinung verstärkt",
+    "Dass jemand etwas über Politik lernt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer Grün wählen wollte, wird durch Zeitungslesen kaum plötzlich FPÖ-Wähler. Medien wirken eher so: Sie bringen Leute zur Urne oder halten sie davon ab, und sie bestärken, was man eh schon denkt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Medien",
+    "Wahlforschung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 757,
+   "speaker": "Sylvia Kritzinger",
+   "quote": "Die Stammwähler und Wählerinnen haben über die Zeit hinweg sehr stark abgenommen. Also früher, man denke nur an die 1960er Jahre zurück, war es vollkommen klar,",
+   "quote_clean": "Die Stammwähler und -wählerinnen haben über die Zeit hinweg sehr stark abgenommen. Früher, man denke nur an die 1960er Jahre zurück, war es vollkommen klar.",
+   "statement": "Die Zahl der Stammwähler:innen in Österreich ist seit den 1960er Jahren stark geschrumpft; Wähler:innen sind mobiler geworden.",
+   "question": "Wie hat sich der Anteil der Stammwähler:innen in Österreich seit den 1960er Jahren entwickelt?",
+   "answer": "Stark gesunken",
+   "distractors": [
+    "Stark gestiegen",
+    "Ungefähr gleich geblieben",
+    "Erst gesunken, dann verdoppelt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In den 60ern wusste man ziemlich genau, wie viele Stammwähler SPÖ und ÖVP haben. Heute wählen viele bei der EU-Wahl anders als bei der Nationalratswahl, die treue Gefolgschaft ist eher die Ausnahme.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlverhalten",
+    "Stammwähler"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1936,
+   "speaker": "Sylvia Kritzinger",
+   "quote": "Wobei es in Österreich hier eine Besonderheit dafür gibt, dass bestimmte Personen sich auf mehreren Listen wiederfinden, um sicherzustellen, dass man auch sicherlich in den Nationalrat kommt.",
+   "quote_clean": "Wobei es in Österreich hier eine Besonderheit gibt: Bestimmte Personen finden sich auf mehreren Listen wieder, um sicherzustellen, dass sie sicher in den Nationalrat kommen.",
+   "statement": "In Österreich kandidieren manche Politiker:innen gleichzeitig auf Bundes-, Landes- und Regionalliste, um sicher ins Parlament zu kommen.",
+   "question": "Warum stehen manche Politiker:innen in Österreich auf mehreren Wahllisten gleichzeitig?",
+   "answer": "Um sicher ins Parlament zu kommen",
+   "distractors": [
+    "Um mehr Wahlkampfgeld zu bekommen",
+    "Weil das Gesetz es vorschreibt",
+    "Um doppelt abstimmen zu dürfen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bund, Land, Region: Wer auf mehreren Listen steht, hat mehrere Chancen auf ein Mandat. Eine Art Sicherheitsnetz für die Leute, die die Partei unbedingt im Nationalrat haben will.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlrecht",
+    "Nationalrat"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2217,
+   "speaker": "Andreas Sator",
+   "quote": "Man kann auch alles durchstreichen und nur eine Partei nicht. Dann geht auch hervor, dass du diese Partei wählen willst.",
+   "quote_clean": "Man kann auch alles durchstreichen und nur eine Partei nicht. Dann geht auch hervor, dass du diese Partei wählen willst.",
+   "statement": "Ein Stimmzettel ist gültig, wenn alle Parteien bis auf eine durchgestrichen sind, weil der Wählerwille eindeutig erkennbar ist.",
+   "question": "Du streichst am Stimmzettel alle Parteien durch außer einer. Was passiert mit deiner Stimme?",
+   "answer": "Sie zählt für diese Partei",
+   "distractors": [
+    "Sie ist ungültig",
+    "Sie zählt als Weißwahl",
+    "Sie wird nachträglich geprüft"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Entscheidend ist, dass klar hervorgeht, wen du wählen willst. Das Kreuzerl im Kreis ist der übliche Weg, aber nicht der einzige.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlrecht",
+    "Stimmzettel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 2198,
+   "speaker": "Andreas Sator",
+   "quote": "Und noch zum Penis am Wahlzettel, den könnt ihr überall hinzeichnen, solange klar hervorgeht, welche Partei ihr damit wählen wollt.",
+   "quote_clean": "Und noch zum Penis am Wahlzettel: Den könnt ihr überall hinzeichnen, solange klar hervorgeht, welche Partei ihr wählen wollt.",
+   "statement": "Kritzeleien machen einen österreichischen Stimmzettel nicht ungültig, solange klar erkennbar ist, welche Partei gewählt wird.",
+   "question": "Wird ein Stimmzettel ungültig, wenn du neben dein Kreuzerl eine Zeichnung kritzelst?",
+   "answer": "Nein, wenn die Wahl klar erkennbar ist",
+   "distractors": [
+    "Ja, jede Zeichnung macht ihn ungültig",
+    "Nur wenn sie im Kreis ist",
+    "Nur bei Briefwahl"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine Hörerin wollte wissen, wo man am Wahlzettel einen Penis zeichnen darf. Die Politikwissenschafterin musste passen, Andreas hat recherchiert: überall, solange klar ist, wen du wählst.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Stimmzettel",
+    "Hörerfrage"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1225,
+   "speaker": "Sylvia Kritzinger",
+   "quote": "Genau, wir nennen das in der Politikwissenschaft retrospektives Wählen, also in die Vergangenheit zurückschauendes Wählen, dass wir uns anschauen, sind wir damit zufrieden mit dem, was die Parteien erreicht haben in der Vergangenheit",
+   "quote_clean": "Genau, wir nennen das in der Politikwissenschaft retrospektives Wählen, also in die Vergangenheit zurückschauendes Wählen: Wir schauen uns an, ob wir mit dem zufrieden sind, was die Parteien in der Vergangenheit erreicht haben.",
+   "statement": "Retrospektives Wählen heißt, eine Partei danach zu beurteilen, ob man mit ihren bisherigen Leistungen zufrieden ist.",
+   "question": "Wie nennt die Politikwissenschaft es, wenn du eine Partei danach wählst, was sie in der Vergangenheit erreicht hat?",
+   "answer": "Retrospektives Wählen",
+   "distractors": [
+    "Prospektives Wählen",
+    "Taktisches Wählen",
+    "Expressives Wählen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Retrospektiv schaut zurück, prospektiv nach vorne. Viele schauen nur aufs Wahlprogramm, aber erst der Blick zurück zeigt, ob die Ankündigungen schon einmal gemacht und nie umgesetzt wurden.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlforschung",
+    "Begriffe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 693,
+   "speaker": "Sylvia Kritzinger",
+   "quote": "wo steht man sozusagen wirtschaftspolitisch und wo steht man sozusagen auf gesellschaftspolitischer Ebene, wie wir das in der Politikwissenschaft nennen, auf der kulturellen Ebene.",
+   "quote_clean": "Wo steht man wirtschaftspolitisch und wo steht man auf gesellschaftspolitischer Ebene, auf der kulturellen Ebene, wie wir das in der Politikwissenschaft nennen.",
+   "statement": "Die Politikwissenschaft unterscheidet beim Links-Rechts-Schema eine wirtschaftspolitische und eine gesellschaftspolitische, also kulturelle Dimension.",
+   "question": "Wie nennt die Politikwissenschaft die gesellschaftspolitische Dimension neben der wirtschaftlichen im Links-Rechts-Schema?",
+   "answer": "Die kulturelle Ebene",
+   "distractors": [
+    "Die moralische Ebene",
+    "Die soziale Ebene",
+    "Die nationale Ebene"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Mit nur einer Achse kommst du nicht weit: NEOS und Grüne sind beide gesellschaftlich liberal, wirtschaftlich aber auf verschiedenen Seiten. Darum schaut man sich Wirtschaft und Kultur getrennt an.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Links und rechts",
+    "Politikwissenschaft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1905,
+   "speaker": "Sylvia Kritzinger",
+   "quote": "Und mit dieser Vorzugsstimme kann er oder sie dann sagen, ich möchte eigentlich die Person, die auf Platz Nummer 10 von der Partei gereiht ist, viel mehr nach vorne reiten.",
+   "quote_clean": "Und mit dieser Vorzugsstimme kann er oder sie dann sagen: Ich möchte eigentlich die Person, die von der Partei auf Platz Nummer 10 gereiht ist, viel weiter nach vorne reihen.",
+   "statement": "Mit einer Vorzugsstimme können Wähler:innen die von der Partei festgelegte Reihung der Kandidat:innen beeinflussen.",
+   "question": "Wozu dient eine Vorzugsstimme bei der Nationalratswahl?",
+   "answer": "Kandidat:innen auf der Liste vorreihen",
+   "distractors": [
+    "Eine zweite Partei unterstützen",
+    "Den Bundeskanzler direkt wählen",
+    "Die eigene Stimme doppelt zählen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Parteien legen in ihren Gremien geschlossene Listen fest: wer auf Platz eins, zwei, drei steht. Mit der Vorzugsstimme sagst du: Die auf Platz zehn hätte ich gern weiter vorne.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlrecht",
+    "Vorzugsstimme"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1728,
+   "speaker": "Sylvia Kritzinger",
+   "quote": "kann es durchaus sinnvoll sein, dass ich anfange, taktisch zu wählen und vielleicht nicht für meine erste Präferenz, sondern für meine zweite Präferenz wähle,",
+   "quote_clean": "Kann es durchaus sinnvoll sein, dass ich anfange, taktisch zu wählen, und vielleicht nicht für meine erste, sondern für meine zweite Präferenz stimme.",
+   "statement": "Taktisch wählen heißt, die zweitliebste Partei zu wählen, um die Wahrscheinlichkeit einer gewünschten Koalition zu erhöhen.",
+   "question": "Was bedeutet taktisches Wählen?",
+   "answer": "Zweitpräferenz wählen für eine Wunschkoalition",
+   "distractors": [
+    "Erst kurz vor Schluss abstimmen",
+    "Ungültig wählen aus Protest",
+    "Nur per Briefwahl abstimmen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer nur eine Stimme hat, aber eine Koalition im Kopf, kann den kleineren Partner stärken. Sicher ist dabei nichts, man erhöht nur Wahrscheinlichkeiten.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlverhalten",
+    "Koalition"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1359,
+   "speaker": "Sylvia Kritzinger",
+   "quote": "Das Volk ist ja nicht homogen. Das Volk ist ja heterogen. Das Volk hat ja sehr viele soziale Gruppen mit unterschiedlichen Vorstellungen, Präferenzen.",
+   "quote_clean": "Das Volk ist nicht homogen. Das Volk ist heterogen. Das Volk hat sehr viele soziale Gruppen mit unterschiedlichen Vorstellungen und Präferenzen.",
+   "statement": "Sylvia Kritzinger betont, dass das Volk nicht homogen ist, sondern aus vielen Gruppen mit unterschiedlichen Präferenzen besteht.",
+   "question": "Wer sagt im Podcast: „Das Volk ist nicht homogen. Das Volk ist heterogen.“?",
+   "answer": "Sylvia Kritzinger",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Hörer",
+    "Ein Parteisprecher"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer von „den Parteien gegen das Volk“ redet, übersieht das: Jede Partei vertritt bestimmte Gruppen besonders gut. Erst zusammen bringen sie alle Stimmen ins Parlament.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Demokratie",
+    "Repräsentation"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 855,
+   "speaker": "Sylvia Kritzinger",
+   "quote": "Ich glaube, es ist eine Mischung. Das muss auch eine Mischung sein. Alles andere wäre zu altruistisch und alles andere wäre zu egoistisch.",
+   "quote_clean": "Ich glaube, es ist eine Mischung. Das muss auch eine Mischung sein. Alles andere wäre zu altruistisch oder zu egoistisch.",
+   "statement": "Auf die Frage, ob man nach Eigeninteresse oder Gemeinwohl wählen soll, antwortet Sylvia Kritzinger: eine Mischung aus beidem.",
+   "question": "Soll man nach dem eigenen Vorteil oder nach dem Wohl der Gesellschaft wählen? Was rät die Politikwissenschafterin?",
+   "answer": "Eine Mischung aus beidem",
+   "distractors": [
+    "Nur nach dem eigenen Vorteil",
+    "Nur nach dem Gemeinwohl",
+    "Nach der Mehrheitsmeinung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine Studentin hat andere Sorgen bei der Uni-Politik als ein 60-Jähriger, das ist legitim. Gleichzeitig hat man auch eine Vorstellung davon, wohin sich Österreich entwickeln soll.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlentscheidung",
+    "Hörerfrage"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1495,
+   "speaker": "Sylvia Kritzinger",
+   "quote": "Ich nenne das immer eine breite Nachrichtendjet antue, sodass ich mir vielleicht nicht nur ein Magazin, eine Zeitung anschaue,",
+   "quote_clean": "Ich nenne das immer eine breite Nachrichtendiät, sodass ich mir nicht nur ein Magazin oder eine Zeitung anschaue.",
+   "statement": "Sylvia Kritzinger empfiehlt eine breite „Nachrichtendiät“: verschiedene Medien unterschiedlicher Richtungen lesen.",
+   "question": "Was empfiehlt Sylvia Kritzinger, um sich im Nachrichtendschungel vor der Wahl zurechtzufinden?",
+   "answer": "Eine breite Nachrichtendiät",
+   "distractors": [
+    "Einen Monat Fernsehpause",
+    "Nur Wahlprogramme lesen",
+    "Nur öffentlich-rechtliche Sender"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas hatte gefragt, ob man vor der Wahl am besten den Fernseher abdreht. Ihre Antwort: lieber nicht, sondern mehrere Zeitungen verschiedener Richtungen lesen und sich selbst ein Bild machen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Medien",
+    "Tipps"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 2016,
+   "speaker": "Andreas Sator",
+   "quote": "Was nehme ich mir mit? Besonders interessant finde ich das mit rechts und links.",
+   "quote_clean": "Was nehme ich mir mit? Besonders interessant finde ich das mit rechts und links.",
+   "statement": "Am Ende der Folge fasst Andreas mit „Was nehme ich mir mit?“ zusammen, was er gelernt hat.",
+   "question": "Mit welcher Frage leitet Andreas seine Zusammenfassung am Ende der Folge ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir gelernt?",
+    "Was bleibt hängen?",
+    "Wie geht's jetzt weiter?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nach dem Gespräch kommt bei Andreas die kurze Nachbetrachtung. Diesmal hängen geblieben: Links und rechts kommt aus Frankreich, reicht aber allein nicht weit.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Podcast"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1627,
+   "speaker": "Andreas Sator",
+   "quote": "Was hältst du von Weiß wählen? Ich habe das einmal gemacht. Ich hatte einfach kein Interesse, irgendeine Partei, die da am Zettel stand, zu wählen",
+   "quote_clean": "Was hältst du vom Weißwählen? Ich habe das einmal gemacht. Ich hatte einfach kein Interesse, irgendeine Partei zu wählen, die da am Zettel stand.",
+   "statement": "Andreas erzählt, dass er einmal ungültig gewählt hat, weil ihm keine Partei auf dem Stimmzettel zusagte.",
+   "question": "Was hat Andreas laut eigener Aussage bei einer Wahl einmal gemacht?",
+   "answer": "Ungültig gewählt",
+   "distractors": [
+    "Gar nicht gewählt",
+    "Zwei Parteien gewählt",
+    "Per Los entschieden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Er hat einfach alle angekreuzt, weil er bei der Wahlbeteiligung dabei sein wollte. Sylvia Kritzinger findet: Man könnte eine eigene Option „keine der genannten Parteien“ einführen, dann wüsste man, was gemeint ist.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Weißwählen"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "78",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

@@ -1,0 +1,739 @@
+{
+ "theme": "Klima & Energie",
+ "summary": "Wie wir ohne Öl und Gas heizen: Wärmepumpe, Fernwärme, Erdwärme und warum Holz nicht die große Rettung ist.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 308,
+   "speaker": "Peter Holzer",
+   "quote": "Dazu braucht sie Strom, aber dazu braucht sie nur etwa ein Drittel oder ein Viertel von der Energiemenge, die sie nachher in den Raum abgeben kann.",
+   "quote_clean": "Dazu braucht sie Strom, aber nur etwa ein Drittel oder ein Viertel von der Energiemenge, die sie nachher in den Raum abgeben kann.",
+   "statement": "Eine Wärmepumpe braucht nur etwa ein Drittel bis ein Viertel der Wärmemenge, die sie abgibt, als Strom.",
+   "question": "Wie viel Prozent der abgegebenen Wärme muss eine Wärmepumpe ungefähr als Strom bekommen?",
+   "answer": "Etwa 25 bis 33 Prozent",
+   "distractors": [
+    "Etwa 60 bis 70 Prozent",
+    "Etwa 90 bis 100 Prozent",
+    "Etwa 5 bis 10 Prozent"
+   ],
+   "number_value": 25,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Den Rest holt sich die Wärmepumpe gratis aus Luft, Erde oder Grundwasser. Aus einer Kilowattstunde Strom werden so drei bis vier Kilowattstunden Wärme, das ist der ganze Trick.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wärmepumpe",
+    "Strom"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 265,
+   "speaker": "Peter Holzer",
+   "quote": "Also der Vergleich mit dem Kühlschrank ist der, der Kühlschrank nimmt aus seinem Inneren bei 4 Grad Wärme raus und schiebt sie als Abwärme hinten auf seinen Heizrippen in den Raum rein.",
+   "quote_clean": "Der Vergleich mit dem Kühlschrank ist der: Der Kühlschrank nimmt aus seinem Inneren bei 4 Grad Wärme raus und schiebt sie als Abwärme hinten über seine Heizrippen in den Raum.",
+   "statement": "Eine Wärmepumpe funktioniert wie ein umgekehrter Kühlschrank: Sie zieht Wärme aus einer kalten Quelle und gibt sie auf höherer Temperatur ab.",
+   "question": "Mit welchem Haushaltsgerät lässt sich das Prinzip einer Wärmepumpe am besten vergleichen?",
+   "answer": "Mit einem Kühlschrank",
+   "distractors": [
+    "Mit einem Wasserkocher",
+    "Mit einem Föhn",
+    "Mit einem Backofen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Kühlschrank will die Kälte innen, die Wärme an seinen Rippen hinten ist Nebensache. Die Wärmepumpe dreht das um: Sie will die Wärme und nimmt die Kälte draußen in Kauf.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Wärmepumpe",
+    "Physik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 353,
+   "speaker": "Peter Holzer",
+   "quote": "Dieses Fernwärmenetz wird mit etwa 80 Grad in verschiedenen Stufen, aber zu den Häusern kommt es meistens mit 80 Grad in der Stadt verteilt.",
+   "quote_clean": "Dieses Fernwärmenetz wird in verschiedenen Stufen, meistens aber mit etwa 80 Grad zu den Häusern in der Stadt verteilt.",
+   "statement": "Das Wasser der Wiener Fernwärme kommt meist mit etwa 80 Grad bei den Häusern an.",
+   "question": "Mit wie viel Grad kommt das Wasser der Wiener Fernwärme meistens bei den Häusern an?",
+   "answer": "Etwa 80 Grad",
+   "distractors": [
+    "Etwa 40 Grad",
+    "Etwa 120 Grad",
+    "Etwa 55 Grad"
+   ],
+   "number_value": 80,
+   "number_unit": "°C",
+   "slider_min": 20,
+   "slider_max": 150,
+   "log_scale": false,
+   "aha": "Das Wasser wird zentral erhitzt und in gut gedämmten Leitungen unter der Erde zu den Häusern gepumpt. Im Haus selbst braucht man dann fast nichts mehr, um eine Zentralheizung zu betreiben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fernwärme",
+    "Wien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 369,
+   "speaker": "Peter Holzer",
+   "quote": "Und die Fernwärme selbst wird in Wien aus Müllverbrennungsanlagen geheizt und aus Kraftwerksblöcken, die gleichzeitig Wärme und Strom machen.",
+   "quote_clean": "Die Fernwärme selbst wird in Wien aus Müllverbrennungsanlagen geheizt und aus Kraftwerksblöcken, die gleichzeitig Wärme und Strom machen.",
+   "statement": "Die Wiener Fernwärme stammt aus Müllverbrennung und aus Kraftwerken, die gleichzeitig Strom und Wärme erzeugen.",
+   "question": "Woher kommt die Wärme der Wiener Fernwärme hauptsächlich?",
+   "answer": "Müllverbrennung und Strom-Wärme-Kraftwerke",
+   "distractors": [
+    "Solaranlagen auf Gemeindebauten",
+    "Holzkraftwerke im Wienerwald",
+    "Atomstrom aus dem Ausland"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Fernwärme ist zu einem guten Teil Abwärme aus der Stromproduktion. Weil diese Kraftwerke aber mit Gas laufen, ist auch die Fernwärme noch nicht klimaneutral.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Fernwärme",
+    "Wien",
+    "Müll"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 423,
+   "speaker": "Andreas Sator",
+   "quote": "Wenn wir aufs Land blicken, dann gibt es da noch viele Ölheizungen in Österreich, circa eine halbe Million Ölheizungen, typischerweise, glaube ich, in einem Einfamilienhaus.",
+   "quote_clean": "Wenn wir aufs Land blicken, gibt es noch viele Ölheizungen in Österreich, circa eine halbe Million, typischerweise in einem Einfamilienhaus.",
+   "statement": "In Österreich gibt es (Stand 2021) rund eine halbe Million Ölheizungen, meist in Einfamilienhäusern.",
+   "question": "Wie viele Ölheizungen gab es 2021 ungefähr in Österreich?",
+   "answer": "Rund 500.000",
+   "distractors": [
+    "Rund 50.000",
+    "Rund 2 Millionen",
+    "Rund 150.000"
+   ],
+   "number_value": 500000,
+   "number_unit": "Ölheizungen",
+   "slider_min": 10000,
+   "slider_max": 3000000,
+   "log_scale": true,
+   "aha": "Eine halbe Million Öltanks im Keller, vor allem am Land. Die gute Nachricht: Wo ein Ölkessel steht, gibt es schon Platz und einen Rauchfang, der Tausch ist also vergleichsweise einfach.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Ölheizung",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 554,
+   "speaker": "Peter Holzer",
+   "quote": "Also so eine Umstellung im Einfamilienhausbereich muss man sicher mit den gesamten Umstellungskosten von 20.000 Euro rechnen.",
+   "quote_clean": "So eine Umstellung im Einfamilienhaus muss man mit gesamten Umstellungskosten von 20.000 Euro rechnen.",
+   "statement": "Der Umstieg auf eine Wärmepumpe kostet im Einfamilienhaus insgesamt rund 20.000 Euro (Stand 2021).",
+   "question": "Mit wie viel Euro Gesamtkosten muss man 2021 für den Umstieg auf eine Wärmepumpe im Einfamilienhaus rechnen?",
+   "answer": "Rund 20.000 Euro",
+   "distractors": [
+    "Rund 5.000 Euro",
+    "Rund 60.000 Euro",
+    "Rund 2.000 Euro"
+   ],
+   "number_value": 20000,
+   "number_unit": "Euro",
+   "slider_min": 1000,
+   "slider_max": 100000,
+   "log_scale": true,
+   "aha": "Das ist viel Geld auf einmal, darum sagt Peter: Das darf keine reine Privatentscheidung sein. Förderungen von Land, Bund und Gemeinde können ein Drittel bis die Hälfte davon übernehmen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Wärmepumpe",
+    "Kosten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 679,
+   "speaker": "Peter Holzer",
+   "quote": "Das kostet, wenn man das hochmultipliziert, dieser Heizungstausch kostet vielleicht 20 Milliarden. Auf 20 Jahre aufgeteilt ist das eine Milliarde.",
+   "quote_clean": "Wenn man das hochrechnet, kostet dieser Heizungstausch vielleicht 20 Milliarden. Auf 20 Jahre aufgeteilt ist das eine Milliarde.",
+   "statement": "Der Tausch aller fossilen Heizungen in Österreich kostet geschätzt rund 20 Milliarden Euro, verteilt auf 20 Jahre etwa eine Milliarde pro Jahr.",
+   "question": "Wie viele Milliarden Euro kostet der Tausch aller fossilen Heizungen in Österreich laut Schätzung insgesamt?",
+   "answer": "Rund 20 Milliarden Euro",
+   "distractors": [
+    "Rund 2 Milliarden Euro",
+    "Rund 200 Milliarden Euro",
+    "Rund 70 Milliarden Euro"
+   ],
+   "number_value": 20,
+   "number_unit": "Milliarden Euro",
+   "slider_min": 1,
+   "slider_max": 300,
+   "log_scale": true,
+   "aha": "Klingt riesig, auf 20 Jahre gestreckt ist es aber eine Milliarde im Jahr. Dürren, Hochwässer und Ernteausfälle würden laut Peter ein Vielfaches davon kosten.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Kosten",
+    "Heizungstausch"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 612,
+   "speaker": "Peter Holzer",
+   "quote": "Also es ist kein altruistisches, es ist kein Schutz des Klimas, weil wir das Klima so lieb haben, sondern es ist der ganz radikale Eigenschutz",
+   "quote_clean": "Es ist nicht altruistisch, es ist kein Schutz des Klimas, weil wir das Klima so lieb haben, sondern es ist der ganz radikale Eigenschutz.",
+   "statement": "Peter Holzer sieht den Ausstieg aus fossilen Energien nicht als Klimaschutz aus Liebe, sondern als radikalen Selbstschutz.",
+   "question": "Wer hat's gesagt: „Es ist kein Schutz des Klimas, weil wir das Klima so lieb haben, sondern es ist der ganz radikale Eigenschutz“?",
+   "answer": "Energietechniker Peter Holzer",
+   "distractors": [
+    "Ein Ölkonzern-Chef",
+    "Ein Wiener Rauchfangkehrer",
+    "Ein Förster aus der Steiermark"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Peter geht's ums eigene Korn auf den Feldern und um die Hochwässer, die uns sonst jährlich um die Ohren fliegen. Wir müssen uns das leisten, weil wir uns das Nichtstun nicht leisten können.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Klimawandel",
+    "Haltung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 750,
+   "speaker": "Peter Holzer",
+   "quote": "Zum Beispiel, wenn Benzin eineinhalb Euro kostet und zehn Kilowattstunden hat, dann weiß ich, es kostet 15 Cent eine Kilowattstunde.",
+   "quote_clean": "Zum Beispiel: Wenn Benzin eineinhalb Euro kostet und zehn Kilowattstunden hat, dann kostet eine Kilowattstunde 15 Cent.",
+   "statement": "Ein Liter Benzin enthält rund zehn Kilowattstunden Energie.",
+   "question": "Wie viele Kilowattstunden Energie stecken ungefähr in einem Liter Benzin?",
+   "answer": "Rund 10 Kilowattstunden",
+   "distractors": [
+    "Rund 1 Kilowattstunde",
+    "Rund 50 Kilowattstunden",
+    "Rund 3 Kilowattstunden"
+   ],
+   "number_value": 10,
+   "number_unit": "kWh pro Liter",
+   "slider_min": 0.5,
+   "slider_max": 200,
+   "log_scale": true,
+   "aha": "Energietechniker rechnen alles in Cent pro Kilowattstunde, damit man Benzin, Öl, Pellets und Strom vergleichen kann. Bei eineinhalb Euro pro Liter kostet die Kilowattstunde Benzin also 15 Cent.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Energie",
+    "Benzin"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 779,
+   "speaker": "Peter Holzer",
+   "quote": "Das heißt, Strom ist viel teurer als Öl. Die Wärmepumpe braucht aber eben nur ein Viertel Strom und holt sich drei Viertel gratis aus der Umgebung.",
+   "quote_clean": "Das heißt, Strom ist viel teurer als Öl. Die Wärmepumpe braucht aber nur ein Viertel Strom und holt sich drei Viertel gratis aus der Umgebung.",
+   "statement": "Obwohl Strom pro Kilowattstunde viel teurer ist als Heizöl, heizt eine Wärmepumpe günstig, weil sie drei Viertel der Wärme gratis aus der Umgebung holt.",
+   "question": "Warum kann eine Wärmepumpe günstig heizen, obwohl Strom viel teurer ist als Heizöl?",
+   "answer": "Sie holt drei Viertel gratis aus der Umgebung",
+   "distractors": [
+    "Wärmepumpenstrom ist steuerfrei",
+    "Sie speichert Wärme vom Sommer",
+    "Sie verbrennt zusätzlich Restgas"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Heizöl lag laut Peter bei 4 bis 7 Cent pro Kilowattstunde, Strom bei rund 20. Weil die Wärmepumpe aber nur ein Viertel Strom braucht, wird es am Ende ein Kopf-an-Kopf-Rennen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wärmepumpe",
+    "Kosten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 878,
+   "speaker": "Peter Holzer",
+   "quote": "Und es ist keine Technologie, die irgendwo in den Sternen ist, sondern es gibt schon in Österreich 400.000 Haushalte, die mit Wärmepumpe heizen.",
+   "quote_clean": "Es ist keine Technologie, die irgendwo in den Sternen ist, sondern es gibt in Österreich schon 400.000 Haushalte, die mit Wärmepumpe heizen.",
+   "statement": "2021 heizten in Österreich bereits rund 400.000 Haushalte mit einer Wärmepumpe.",
+   "question": "Wie viele Haushalte in Österreich heizten 2021 schon mit einer Wärmepumpe?",
+   "answer": "Rund 400.000",
+   "distractors": [
+    "Rund 40.000",
+    "Rund 1,5 Millionen",
+    "Rund 120.000"
+   ],
+   "number_value": 400000,
+   "number_unit": "Haushalte",
+   "slider_min": 10000,
+   "slider_max": 3000000,
+   "log_scale": true,
+   "aha": "Die Wärmepumpe ist also keine Zukunftsmusik, sondern längst Alltag. Ölheizungen werden seit Jahren weniger, Wärmepumpen immer mehr.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Wärmepumpe",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1068,
+   "speaker": "Peter Holzer",
+   "quote": "der innerhalb eines Tages eine Sonde in die Erde bohrt, tief hinunter 150 Meter und mehrere solche Sonden bohrt",
+   "quote_clean": "der innerhalb eines Tages eine Sonde 150 Meter tief in die Erde bohrt und mehrere solche Sonden bohrt",
+   "statement": "Für eine Erdwärmepumpe in einem Wiener Innenhof bohrt ein Baugerät an einem Tag eine rund 150 Meter tiefe Sonde.",
+   "question": "Wie tief wird eine Erdsonde für eine Erdwärmepumpe typischerweise gebohrt?",
+   "answer": "Rund 150 Meter",
+   "distractors": [
+    "Rund 5 Meter",
+    "Rund 1.500 Meter",
+    "Rund 20 Meter"
+   ],
+   "number_value": 150,
+   "number_unit": "Meter",
+   "slider_min": 1,
+   "slider_max": 3000,
+   "log_scale": true,
+   "aha": "Das dauert pro Sonde nur einen Tag, und danach sieht man nichts mehr: Das Rohr wird einbetoniert, der Garten kann drüber wachsen. Mehrere Sonden reichen für ein ganzes Wohnhaus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erdwärme",
+    "Wärmepumpe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1166,
+   "speaker": "Peter Holzer",
+   "quote": "Wenn ich eine Reihung vornehmen würde, dann würde ich sagen, die erste Wahl in der Stadt in Situationen wie hier wäre die Fernwärme.",
+   "quote_clean": "Wenn ich eine Reihung vornehmen würde, wäre die erste Wahl in der Stadt in Situationen wie hier die Fernwärme.",
+   "statement": "In der Stadt ist Fernwärme laut Peter Holzer die erste Wahl, danach kommt die Erdwärmepumpe, dann die Luftwärmepumpe.",
+   "question": "Was ist für ein Wiener Gaswohnhaus laut Energietechniker die erste Wahl als Ersatz?",
+   "answer": "Fernwärme",
+   "distractors": [
+    "Luftwärmepumpe am Balkon",
+    "Pelletskessel im Keller",
+    "Elektrische Infrarotpaneele"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn Fernwärme da ist oder hinkommt, ist sie am einfachsten. Sonst Erdsonden im Innenhof, und erst wenn dafür kein Platz ist, die Luftwärmepumpe mit ihrem rauschenden Kasten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Stadt",
+    "Fernwärme"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1381,
+   "speaker": "Andreas Sator",
+   "quote": "das war mir ein total neu, 1,2 Millionen Haushalte heizen schon. Mit Fernwärme.",
+   "quote_clean": "Das war mir total neu: 1,2 Millionen Haushalte heizen schon mit Fernwärme.",
+   "statement": "In Österreich heizten 2021 bereits rund 1,2 Millionen Haushalte mit Fernwärme.",
+   "question": "Wie viele Haushalte in Österreich heizten 2021 mit Fernwärme?",
+   "answer": "Rund 1,2 Millionen",
+   "distractors": [
+    "Rund 120.000",
+    "Rund 3 Millionen",
+    "Rund 400.000"
+   ],
+   "number_value": 1200000,
+   "number_unit": "Haushalte",
+   "slider_min": 50000,
+   "slider_max": 4000000,
+   "log_scale": true,
+   "aha": "Das sind deutlich mehr als die Gas- oder Ölhaushalte. Darum ist die Frage so wichtig, woher die Fernwärme selbst ihre Wärme bekommt.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Fernwärme",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1437,
+   "speaker": "Peter Holzer",
+   "quote": "In Wien gibt es in etwa ein bis zwei Kilometern Tiefe Warmwasser, warmes Grundwasser und dieses warme Grundwasser ist eine riesige Ressource",
+   "quote_clean": "In Wien gibt es in etwa ein bis zwei Kilometern Tiefe warmes Grundwasser, und dieses warme Grundwasser ist eine riesige Ressource.",
+   "statement": "Unter Wien liegt in ein bis zwei Kilometern Tiefe warmes Grundwasser, das für die Fernwärme genutzt werden könnte.",
+   "question": "Was liegt in ein bis zwei Kilometern Tiefe unter Wien und könnte die Fernwärme klimafreundlich machen?",
+   "answer": "Warmes Grundwasser",
+   "distractors": [
+    "Ein großes Erdgaslager",
+    "Ein unterirdischer Salzsee",
+    "Heißer Vulkangesteinsdampf"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein erster Bohrversuch ist schiefgegangen, ein zweiter läuft. Klappt es, könnte laut Peter fast ein Drittel der Wiener Fernwärme auf einen Schlag erneuerbar werden.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Geothermie",
+    "Wien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1609,
+   "speaker": "Peter Holzer",
+   "quote": "Ein Rohr, das das Wasser ansaugt. Ein Rohr, das es wieder zurückgibt. Und es saugt eben das Wasser an, kühlt es um vielleicht 5 Grad oder 8 Grad ab und gibt es so abgekühlt wieder zurück.",
+   "quote_clean": "Ein Rohr, das das Wasser ansaugt, ein Rohr, das es wieder zurückgibt. Es saugt das Wasser an, kühlt es um vielleicht 5 oder 8 Grad ab und gibt es so abgekühlt wieder zurück.",
+   "statement": "Eine Großwärmepumpe am Fluss saugt Flusswasser an, kühlt es um etwa 5 bis 8 Grad ab und nutzt diese Wärme für die Fernwärme.",
+   "question": "Um wie viel Grad kühlt eine Großwärmepumpe am Donaukanal das Flusswasser ungefähr ab?",
+   "answer": "Um etwa 5 bis 8 Grad",
+   "distractors": [
+    "Um etwa 30 bis 40 Grad",
+    "Um etwa ein halbes Grad",
+    "Um etwa 15 bis 20 Grad"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Man muss sich das wie einen Turnsaal neben dem Fluss vorstellen, mit zwei 40 Zentimeter dicken Rohren ins Wasser. Kühlschrankprinzip, nur in groß: Aus kühlem Flusswasser wird warmes Fernwärmewasser.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wärmepumpe",
+    "Fluss",
+    "Fernwärme"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1524,
+   "speaker": "Peter Holzer",
+   "quote": "Und grünes Gas lässt sich produzieren aus Sonnenstrom. Man kann zum Beispiel im Sommer mit Sonnenstrom grünes Gas machen, das dann für den Winter speichern.",
+   "quote_clean": "Grünes Gas lässt sich aus Sonnenstrom produzieren. Man kann zum Beispiel im Sommer mit Sonnenstrom grünes Gas machen und das dann für den Winter speichern.",
+   "statement": "Mit Sonnenstrom lässt sich im Sommer grünes Gas wie Wasserstoff erzeugen und für den Winter speichern.",
+   "question": "Wie kann man Sonnenstrom aus dem Sommer für den Winter aufheben?",
+   "answer": "Man macht daraus grünes Gas",
+   "distractors": [
+    "Man pumpt ihn ins Grundwasser",
+    "Man speichert ihn in Holzpellets",
+    "Man friert ihn in Eisspeichern ein"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gas ist ein wertvoller Speicher, weil man es schnell mit hoher Leistung verbrennen kann. Wenn im Winter Sonne und Wind fehlen, laufen Kraftwerke mit grünem Gas, und ihre Abwärme geht in die Fernwärme.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wasserstoff",
+    "Speicher"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1699,
+   "speaker": "Andreas Sator",
+   "quote": "In Österreich gibt es 700.000 Haushalte, die mit Holz heizen.",
+   "quote_clean": "In Österreich gibt es 700.000 Haushalte, die mit Holz heizen.",
+   "statement": "In Österreich heizten 2021 rund 700.000 Haushalte mit Holz.",
+   "question": "Wie viele Haushalte in Österreich heizten 2021 mit Holz?",
+   "answer": "Rund 700.000",
+   "distractors": [
+    "Rund 70.000",
+    "Rund 2 Millionen",
+    "Rund 250.000"
+   ],
+   "number_value": 700000,
+   "number_unit": "Haushalte",
+   "slider_min": 20000,
+   "slider_max": 3000000,
+   "log_scale": true,
+   "aha": "Holz ist in Österreich also ein großes Ding, mehr Haushalte als mit Öl. Peter hält es trotzdem nicht für den großen Problemlöser der Energiewende.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Holz",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1852,
+   "speaker": "Peter Holzer",
+   "quote": "Derzeit bindet der österreichische Wald, fast ein Viertel unserer Kohlenstoffemissionen, also ein Viertel der Kohlenstoffemissionen, die wir derzeit in die Luft lassen,",
+   "quote_clean": "Derzeit bindet der österreichische Wald fast ein Viertel der Kohlenstoffemissionen, die wir in die Luft lassen.",
+   "statement": "Der österreichische Wald bindet jedes Jahr fast ein Viertel der Kohlenstoffemissionen des Landes.",
+   "question": "Welchen Anteil der österreichischen CO2-Emissionen bindet der heimische Wald derzeit jedes Jahr?",
+   "answer": "Fast ein Viertel",
+   "distractors": [
+    "Rund fünf Prozent",
+    "Mehr als die Hälfte",
+    "Rund 90 Prozent"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das kann der Wald aber nur, wenn man ihn alt werden lässt. Studien zeigen, dass schon 20 Prozent weniger Holzeinschlag eine große Klimaschutzwirkung hätten.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Wald",
+    "CO2"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1882,
+   "speaker": "Peter Holzer",
+   "quote": "Also ein Baum, dem man fällt, dessen Fähigkeit, Kohlenstoff zu binden, ist schlagartig zu Ende und bis der junge Baum, der dort nachwächst, das wieder kann, vergehen 60 oder 80 Jahre.",
+   "quote_clean": "Ein Baum, den man fällt, dessen Fähigkeit, Kohlenstoff zu binden, ist schlagartig zu Ende, und bis der junge Baum, der dort nachwächst, das wieder kann, vergehen 60 oder 80 Jahre.",
+   "statement": "Wird ein Baum gefällt, dauert es 60 bis 80 Jahre, bis ein nachwachsender Baum wieder ähnlich viel Kohlenstoff binden kann.",
+   "question": "Wie lange dauert es, bis ein nachgepflanzter Baum wieder so viel Kohlenstoff bindet wie der gefällte?",
+   "answer": "60 bis 80 Jahre",
+   "distractors": [
+    "5 bis 10 Jahre",
+    "Etwa 200 Jahre",
+    "20 bis 30 Jahre"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Alte Bäume speichern viel mehr Kohlenstoff als junge. Darum ist Holz zwar erneuerbar, aber Brennholz aus dem Wald zu holen ist für das Klima nicht gratis.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wald",
+    "Holz",
+    "CO2"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1992,
+   "speaker": "Peter Holzer",
+   "quote": "Die Fichte wird unter 1000 Meter in Österreich verschwinden müssen, weil sie die Hitze nicht mehr aushält.",
+   "quote_clean": "Die Fichte wird unter 1000 Meter in Österreich verschwinden müssen, weil sie die Hitze nicht mehr aushält.",
+   "statement": "Wegen der Klimaerwärmung wird die Fichte in Österreich unterhalb von 1000 Metern Seehöhe verschwinden müssen.",
+   "question": "Welcher Baum wird in Österreich unter 1000 Metern Seehöhe wegen der Hitze verschwinden müssen?",
+   "answer": "Die Fichte",
+   "distractors": [
+    "Die Buche",
+    "Die Eiche",
+    "Die Linde"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Fichte, Brotbaum der heimischen Forstwirtschaft, hält die Hitze in tieferen Lagen nicht mehr aus. Waldbesitzer müssen ihre Holzarten umstellen, das ist wichtiger als Brennholz.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wald",
+    "Klimawandel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1980,
+   "speaker": "Peter Holzer",
+   "quote": "Holz ist zwar eine erneuerbare Ressource, aber es ist eine beschränkte Ressource und der Klimawandel hat große Herausforderungen für die Waldbesitzer,",
+   "quote_clean": "Holz ist zwar eine erneuerbare Ressource, aber es ist eine beschränkte Ressource, und der Klimawandel bringt große Herausforderungen für die Waldbesitzer.",
+   "statement": "Holz ist erneuerbar, aber begrenzt, und darf deshalb nicht als großer Problemlöser der Energiewende gelten.",
+   "question": "Wer hat's gesagt: „Holz ist zwar eine erneuerbare Ressource, aber es ist eine beschränkte Ressource“?",
+   "answer": "Energietechniker Peter Holzer",
+   "distractors": [
+    "Ein Pelletshändler aus Tirol",
+    "Eine Ölheizungs-Lobbyistin",
+    "Ein Wiener Rauchfangkehrer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am Land, in alten unsanierten Häusern oder bei eigenem Restholz kann Biomasse passen. Großflächig in der Stadt aber nicht, auch wegen des Feinstaubs.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Holz",
+    "Energiewende"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1323,
+   "speaker": "Peter Holzer",
+   "quote": "Also da möchte ich ehrlich sein, wir brauchen Windkraft und die Diskussion, ob wir sie schön oder nicht schön finden, können wir uns nicht leisten,",
+   "quote_clean": "Da möchte ich ehrlich sein: Wir brauchen Windkraft, und die Diskussion, ob wir sie schön oder nicht schön finden, können wir uns nicht leisten.",
+   "statement": "Peter Holzer findet, dass sich Österreich die Debatte über die Schönheit von Windrädern nicht leisten kann.",
+   "question": "Wer hat's gesagt: „Wir brauchen Windkraft, und die Diskussion, ob wir sie schön oder nicht schön finden, können wir uns nicht leisten“?",
+   "answer": "Energietechniker Peter Holzer",
+   "distractors": [
+    "Ein Bürgermeister aus Tirol",
+    "Eine Ölhändlerin aus Linz",
+    "Ein Landschaftsfotograf"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ohne Öl und Gas brauchen wir viel mehr Strom, für Wärmepumpen und erst recht für den Verkehr. Peter selbst findet Windräder übrigens schön, gibt aber zu, dass er ein Umwelt-Nerd ist.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Windkraft",
+    "Strom"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 2234,
+   "speaker": "Andreas Sator",
+   "quote": "haben wir schon das nötige Tempo in diesem Bereich? Peter überlegt. Ja, ich überlege, das notwendige Tempo,",
+   "quote_clean": "Haben wir schon das nötige Tempo in diesem Bereich? Peter überlegt. Ja, ich überlege, das notwendige Tempo …",
+   "statement": "Auf die Frage, ob Österreich schnell genug saniert, braucht Peter Holzer eine lange Denkpause, die Andreas live kommentiert.",
+   "question": "Was macht Andreas, als sein Gast bei der Frage nach dem Sanierungstempo lange schweigt?",
+   "answer": "Er sagt: „Peter überlegt.“",
+   "distractors": [
+    "Er stellt eine neue Frage",
+    "Er spielt Musik ein",
+    "Er beantwortet sie selbst"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Elf Sekunden Stille im Podcast sind eine Ewigkeit. Die ehrliche Antwort danach: Nein, das nötige Tempo haben wir noch nicht, aber 20 Jahre sind ein realistischer Zeitraum.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Sanierung",
+    "Podcast"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 148,
+   "speaker": "Andreas Sator",
+   "quote": "Schön, dass du da bist. Magst du dich zu Beginn noch kurz vorstellen, bitte?",
+   "quote_clean": "Schön, dass du da bist. Magst du dich zu Beginn noch kurz vorstellen, bitte?",
+   "statement": "Andreas bittet seine Gäste zu Beginn, sich kurz selbst vorzustellen.",
+   "question": "Wie startet Andreas typischerweise das Gespräch mit seinem Gast?",
+   "answer": "Er bittet ihn, sich kurz vorzustellen",
+   "distractors": [
+    "Er liest einen Hörerbrief vor",
+    "Er fragt nach dem Lieblingsessen",
+    "Er stellt eine Quizfrage"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bevor es um Wärmepumpen geht, darf der Gast erzählen, wer er ist. Peter Holzer: Maschinenbau in Wien studiert, seither mit großer Begeisterung beim Heizen, Lüften und manchmal Kühlen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Podcast",
+    "Einstieg"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "192",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

@@ -1,0 +1,278 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar, Basiswissen.",
+   "stand_note": "",
+   "statement": "Der UN-Sicherheitsrat hat fünf ständige Mitglieder mit Vetorecht, darunter Russland.",
+   "question": "Wie viele ständige Mitglieder mit Vetorecht hat der UN-Sicherheitsrat?",
+   "answer": "5",
+   "distractors": [
+    "3",
+    "7",
+    "10"
+   ],
+   "aha": "USA, China, Russland, Frankreich und Großbritannien können jede Resolution blockieren. Deshalb wird Russland für den Angriff auf die Ukraine zwar verurteilt, aber vom Sicherheitsrat nie sanktioniert – es müsste ja gegen sich selbst stimmen.",
+   "quote_clean": "Weil im Sicherheitsrat der Vereinten Nationen Russland eine der fünf ständigen Vetomächte ist. Ohne die Zustimmung Russlands wird nichts passieren.",
+   "quality": 2
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "38 Staaten zweimal im Transkript, als Masalas Angabe formuliert.",
+   "stand_note": "",
+   "statement": "Für den Irakkrieg 2003 stellten die USA eine Koalition von 38 Staaten zusammen, die sie militärisch nicht gebraucht hätten.",
+   "question": "Aus wie vielen Staaten bestand laut Carlo Masala die Koalition, die die USA für den Irakkrieg zusammenstellten?",
+   "answer": "38",
+   "distractors": [
+    "12",
+    "64",
+    "5"
+   ],
+   "aha": "Militärisch hätten die USA das eh alleine gemacht. Die vielen Partner waren vor allem fürs Bild da: Eine Koalition von 38 Staaten gegen Saddam Hussein wirkt legitimer als ein Alleingang.",
+   "quote_clean": "Irakkrieg. Ja, natürlich haben die Vereinigten Staaten eine Koalition von 38 Staaten zusammengestellt, die sie militärisch alle nicht brauchten.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Rund 6000 passt zu den SIPRI-Schätzungen 2022; Stand 2022.",
+   "stand_note": "Stand 2022",
+   "statement": "Russland verfügt über rund 6000 nukleare Sprengköpfe.",
+   "question": "Wie viele nukleare Sprengköpfe hat Russland ungefähr?",
+   "answer": "Rund 6000",
+   "distractors": [
+    "Rund 600",
+    "Rund 1500",
+    "Rund 25.000"
+   ],
+   "aha": "Russland hat das größte Atomwaffenarsenal der Welt. Masala sorgt sich, dass abtrünnige Teilrepubliken die Waffen zwar nicht zünden, aber als Erpressungsmaterial benutzen könnten – die Codes fehlen ihnen nämlich.",
+   "quote_clean": "Und da sind noch immer 6000 nukleare Sprengköpfe irgendwo. Die werden diese autonomen Republiken nicht selber nutzen können, weil sie die Codes nicht haben.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Masala sagt 'nicht unterschrieben'; faktisch haben USA und Russland unterzeichnet und später zurückgezogen. Neutraler: keine Vertragsstaaten.",
+   "stand_note": "",
+   "statement": "Russland, China und die USA sind keine Vertragsstaaten des Internationalen Strafgerichtshofs in Den Haag.",
+   "question": "Welche drei Großmächte sind keine Vertragsstaaten des Internationalen Strafgerichtshofs?",
+   "answer": "Russland, China und die USA",
+   "distractors": [
+    "Frankreich, Großbritannien und Deutschland",
+    "Japan, Brasilien und Kanada",
+    "Italien, Spanien und Polen"
+   ],
+   "aha": "Der Strafgerichtshof gilt nur für Staaten, die dem Römischen Statut beigetreten sind. Wer nicht dabei ist, liefert auch niemanden nach Den Haag aus – ausgerechnet drei der mächtigsten Staaten bleiben also draußen.",
+   "quote_clean": "Aber er ist nur gültig für die Staaten, die das Römische Statut unterschrieben haben. Für die Staaten, die es nicht unterschrieben haben, gilt der Internationale Strafgerichtshof nicht. Haben Russland, China, die USA unterschrieben? Nein, haben sie nicht.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar.",
+   "stand_note": "",
+   "statement": "Der Soziologe Charles Tilly prägte den Satz: Staaten wurden durch Kriege gemacht und Staaten machen Kriege.",
+   "question": "Wie lautet der berühmte Satz des Soziologen Charles Tilly über Staaten?",
+   "answer": "Kriege machen Staaten, Staaten machen Kriege",
+   "distractors": [
+    "Staaten entstehen aus Handel und Märkten",
+    "Ohne Steuern gibt es keine Staaten",
+    "Staaten sind erfundene Gemeinschaften"
+   ],
+   "aha": "Für Masala bringt der Satz das Grundproblem auf den Punkt: Der Staat löst das Sicherheitsproblem nach innen und ist gleichzeitig das Sicherheitsproblem nach außen.",
+   "quote_clean": "Charles Tilly, der große Soziologe, hat mal ein Buch geschrieben, in dem er diesen schönen Satz gesagt hat: Staaten wurden durch Kriege gemacht und Staaten machen Kriege.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Masalas Wortlaut kehrt Albrights bekannte Formel (multilateral wenn möglich, unilateral wenn nötig) um; Zuschreibung unsicher.",
+   "stand_note": "",
+   "statement": "Die frühere US-Außenministerin Madeleine Albright fasste die US-Außenpolitik so zusammen: alleine, wo wir können, zusammen, wo wir müssen.",
+   "question": "Welche US-Außenministerin sagte: „Alleine, wo wir können, zusammen, wo wir müssen“?",
+   "answer": "Madeleine Albright",
+   "distractors": [
+    "Condoleezza Rice",
+    "Hillary Clinton",
+    "Nancy Pelosi"
+   ],
+   "aha": "Nach dem Kalten Krieg waren die USA die unangefochtene Supermacht und brauchten kaum noch Partner. Partner heißt Kompromisse – und warum Kompromisse machen, wenn man es auch alleine kann?",
+   "quote_clean": "Nochmal Madeleine Albright zitierend: Alleine, wo wir können, zusammen, wo wir müssen. Und damit ganz klar: Multilateralismus ist eine Funktion.",
+   "quality": 1
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar, gute Erklärfrage.",
+   "stand_note": "",
+   "statement": "Rüstet ein Staat auf, um sicherer zu sein, fühlt sich ein anderer unsicherer und rüstet seinerseits auf – das Sicherheitsdilemma lässt sich nur abmildern, nie auflösen.",
+   "question": "Was beschreibt das Sicherheitsdilemma in der internationalen Politik?",
+   "answer": "Mehr eigene Sicherheit verunsichert andere",
+   "distractors": [
+    "Bündnisse machen alle Staaten sicherer",
+    "Kleine Staaten sind immer am sichersten",
+    "Abrüstung führt automatisch zu Krieg"
+   ],
+   "aha": "Sicherheit gibt es nur im Vergleich mit anderen. Kauft das Bundesheer Fähigkeiten gegen eine bestimmte Bedrohung, fühlt sich genau dieser Nachbar unsicherer – und schon dreht sich der Kreislauf weiter.",
+   "quote_clean": "Man nennt das in der Politikwissenschaft das Macht- und Sicherheitsdilemma. Und ganz wichtig ist zu verstehen, dass das ein Dilemma ist. Und im Wort Dilemma ist enthalten, dass es nie aufgelöst werden kann. Es kann nur abgemildert werden.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aha behauptet 'gilt als unmoralisch', das sagt Masala im Ausschnitt nicht.",
+   "stand_note": "",
+   "statement": "Früher bot man Diktatoren oft ein sicheres Exil an; seit den 90ern gibt es diesen Ausweg kaum noch, weshalb sie bis zum Ende kämpfen.",
+   "question": "Was war laut Carlo Masala die „französische Lösung“ im Umgang mit Diktatoren?",
+   "answer": "Ein sicheres Exil mit Villa und Geld",
+   "distractors": [
+    "Ein Prozess vor einem Sondergericht",
+    "Wirtschaftssanktionen bis zum Rücktritt",
+    "Gezielte Tötung durch Spezialkräfte"
+   ],
+   "aha": "Seit den 90ern gibt es diese Ausstiegsoption laut Masala nicht mehr. Ein Potentat, der weiß, dass es um sein Leben geht, kämpft deshalb bis zum Schluss.",
+   "quote_clean": "Entweder die französische Lösung, zu sagen: Hier hast du eine Villa an der Côte d'Azur, kannst dein ganzes Geld mitnehmen, kommst raus aus dem Land und hältst dich politisch raus. Oder aber den britischen Weg, sehr übertrieben: Wir senden Spezialkräfte rein.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar.",
+   "stand_note": "",
+   "statement": "Wer einen Gegner zum absolut Bösen erklärt, verbaut sich Verhandlungen, weil er der eigenen Bevölkerung keinen Kompromiss mehr erklären kann.",
+   "question": "Warum ist es laut Carlo Masala gefährlich, Diktatoren als „das absolut Böse“ darzustellen?",
+   "answer": "Dann sind Verhandlungen kaum mehr möglich",
+   "distractors": [
+    "Dann verlieren sie ihre Verbündeten",
+    "Dann steigen die Ölpreise stark",
+    "Dann greift sofort die UNO ein"
+   ],
+   "aha": "Die moralische Kategorie hilft, die eigene Bevölkerung hinter einen Einsatz 5000 Kilometer entfernt zu bringen. Aber mit dem Bösen verhandelt man nicht – und der Gegner weiß, dass er nur siegen oder sterben kann.",
+   "quote_clean": "Kämpfe ich aber gegen das absolut Böse, gegen einen Balkan-Hitler, gegen einen Nahost-Hitler und so weiter, dann gibt es keine Verhandlungen. Weil das absolut Böse muss vernichtet werden.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Wer-hat's-gesagt trivial; als Inhaltsfrage umgebaut, nicht belegtes Aha-Zitat entfernt.",
+   "stand_note": "",
+   "statement": "Carlo Masala hält die österreichische Neutralität für reine Folklore, weil Österreich sich darauf verlässt, dass andere es verteidigen.",
+   "question": "Wie nennt Carlo Masala die österreichische Neutralität?",
+   "answer": "Eine absolute Folklore",
+   "distractors": [
+    "Ein Auslaufmodell",
+    "Ein Erfolgsmodell",
+    "Ein Sicherheitsrisiko"
+   ],
+   "aha": "Masala meint, Österreich verlasse sich darauf, dass andere im Ernstfall den dreckigen Job übernehmen, und sei damit eigentlich Trittbrettfahrer. Eine Außensicht, die in Österreich nicht jeder gerne hört.",
+   "quote_clean": "Um das Erste abzuräumen: Ich halte die österreichische Neutralität für eine absolute Folklore.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt trivial; als Inhaltsfrage umgebaut.",
+   "stand_note": "",
+   "statement": "Carlo Masala sieht die Europäische Union nicht als idealistisches, sondern als knallhartes machtpolitisches Projekt.",
+   "question": "Was war die Europäische Union laut Carlo Masala von Anfang an?",
+   "answer": "Ein knallhartes machtpolitisches Projekt",
+   "distractors": [
+    "Ein idealistisches Friedensprojekt",
+    "Ein reines Wirtschaftsprojekt",
+    "Ein Projekt der Neutralen"
+   ],
+   "aha": "Schon Jean Monnet warb laut Masala mit drei nüchternen Gründen für die Montanunion: die Sowjetunion ausbalancieren, Deutschland kontrollieren und die Wirtschaft ankurbeln.",
+   "quote_clean": "Was ich sagen will, ist: Die Europäische Union ist kein idealistisches Projekt gewesen, sondern ein sehr knallhartes, realistisches, machtpolitisches Projekt.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "spielbarkeit"
+   ],
+   "note": "Politische Prognose von 2022, Wer-hat's-gesagt trivial.",
+   "stand_note": "",
+   "statement": "Carlo Masala sieht Russland als Juniorpartner Chinas, der das auch bleiben wird.",
+   "question": "Wer hat's gesagt: „Russland ist das kleine Anhängsel von China“?",
+   "answer": "Carlo Masala",
+   "distractors": [
+    "Andreas Sator",
+    "John Mearsheimer",
+    "Angela Stent"
+   ],
+   "aha": "Masala sieht Russland durch den Krieg enorm geschwächt. Im Kaukasus und in Zentralasien brechen alte Konflikte auf, Kasachstan orientiert sich Richtung China.",
+   "quote_clean": "Russland ist das kleine Anhängsel von China. Das ist der Weg, den Russland gewählt hat. Russland ist der Juniorpartner von China und wird der Juniorpartner von China bleiben.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Einstiegs-Trivia ohne Wissensgehalt.",
+   "stand_note": "",
+   "statement": "Andreas steigt ins Gespräch ein, indem er einen Gedanken aus Carlo Masalas Buch skizziert, der ihn nicht mehr loslässt.",
+   "question": "Wie steigt Andreas ins Gespräch mit Carlo Masala ein?",
+   "answer": "Mit einem Gedanken aus dessen Buch",
+   "distractors": [
+    "Mit einer Frage zur Kindheit",
+    "Mit aktuellen Frontberichten",
+    "Mit einer Hörerinnenfrage"
+   ],
+   "aha": "Andreas fasst dann gleich die halbe Menschheitsgeschichte zusammen: von Gruppen ohne Polizei bis zum Gewaltmonopol. Masala bestätigt – genau das ist die Grundkonstante seines Denkens.",
+   "quote_clean": "Als ich dein Buch gelesen habe, war für mich ein Gedanke drin, der mich bis heute nicht loslässt. Und ich möchte ihn gerne kurz skizzieren.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar, harmlose Anekdote.",
+   "stand_note": "",
+   "statement": "Mitten in der Analyse über Diktatoren unterbricht Andreas, weil es quietscht – es ist Carlo Masalas alter Bürostuhl.",
+   "question": "Was quietscht während des Gesprächs immer wieder bei Carlo Masala?",
+   "answer": "Sein alter Bürostuhl",
+   "distractors": [
+    "Seine Zimmertür",
+    "Sein Kopfhörer",
+    "Sein Hund"
+   ],
+   "aha": "Gerade ging es noch um Balkan-Hitler und den letzten Blutstropfen, dann um einen alten Sessel. Masala entschuldigt sich trocken: schlechter Podcast-Sessel.",
+   "quote_clean": "Kurze Unterbrechung, es gibt immer wieder so ein kleines Quietschen bei dir. – Das ist mein Stuhl. Ich habe so einen Bürostuhl, der so alt ist. Und jedes Mal, wenn ich mich bewege, quietscht der.",
+   "quality": 2
+  }
+ ],
+ "id": "s20221208",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

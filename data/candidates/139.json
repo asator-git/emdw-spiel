@@ -1,0 +1,736 @@
+{
+ "theme": "Wissenschaft & Technik",
+ "summary": "Lena Doppel-Prix erklärt, wie wir Handy, Laptop und Cloud absichern: Zwei-Faktor, Passwortmanager, Backups, Messenger, Cookies und VPN – ganz ohne Panik.",
+ "candidates": [
+  {
+   "kind": "erklaerung",
+   "t": 338,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Wenn ich beim Telebanking einsteige, habe ich normalerweise zwei Informationen, meinen Benutzernamen, mein Passwort. Wenn ich dann aber etwas überweisen will, brauche ich einen sogenannten TAN.",
+   "quote_clean": "Wenn ich beim Telebanking einsteige, habe ich normalerweise zwei Informationen: meinen Benutzernamen und mein Passwort. Wenn ich dann aber etwas überweisen will, brauche ich eine sogenannte TAN.",
+   "statement": "Zwei-Faktor-Authentifizierung funktioniert wie beim Online-Banking: Neben Benutzername und Passwort braucht man einen zusätzlichen Code, etwa eine TAN.",
+   "question": "Welches bekannte Beispiel für Zwei-Faktor-Authentifizierung kennst du vom Online-Banking?",
+   "answer": "Die TAN beim Überweisen",
+   "distractors": [
+    "Die Kontonummer im Login",
+    "Die PIN der Bankomatkarte",
+    "Die Sicherheitsfrage beim Login"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Benutzername und Passwort allein reichen beim Banking nicht zum Überweisen, du brauchst noch die TAN. Genau dieses Prinzip gibt es auch für Facebook, Twitter, iCloud oder Dropbox: Wer nur dein Passwort hat, kommt trotzdem nicht rein.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Zwei-Faktor",
+    "Passwort"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 554,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Und die moderneren dieser Softwarepakete können folgendes, dass man sie sowohl am Handy installiert hat, als auch am Computer installiert hat, auf jedem Browser installiert hat und übergreifend über all diese Geräte hinweg sich kein Passwort merken muss, außer das Passwort des Passwortmanagers.",
+   "quote_clean": "Die moderneren dieser Softwarepakete können Folgendes: Man hat sie am Handy, am Computer und auf jedem Browser installiert und muss sich über all diese Geräte hinweg kein Passwort merken außer dem Passwort des Passwortmanagers.",
+   "statement": "Ein Passwortmanager läuft auf Handy, Computer und Browser und man muss sich nur noch ein einziges Passwort merken: das des Passwortmanagers.",
+   "question": "Wie viele Passwörter musst du dir mit einem Passwortmanager noch merken?",
+   "answer": "Nur eines, das Masterpasswort",
+   "distractors": [
+    "Eines pro Gerät",
+    "Eines pro Browser",
+    "Gar keines mehr"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Passwortmanager füllt Benutzername und Passwort auf allen Geräten automatisch aus. Deshalb kannst du überall lange, komplizierte Passwörter verwenden, die du dir nie merken müsstest.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Passwortmanager"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 689,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Also was ich gerne mache bei Masterpasswörtern ist, dass ich eine Phrase, entweder nehme ich die Phrase selber, das heißt eine Phrase, die woanders nicht vorkommt, also die nicht zu sein oder nicht sein, das ist hier die Frage, sondern die Prinzessin auf der Erbste tanzt auf dem Eis.",
+   "quote_clean": "Was ich gerne mache bei Masterpasswörtern: Ich nehme eine Phrase, die woanders nicht vorkommt, also nicht „Sein oder nicht sein, das ist hier die Frage“, sondern „Die Prinzessin auf der Erbse tanzt auf dem Eis“.",
+   "statement": "Für ein gutes Masterpasswort eignet sich eine selbst ausgedachte Phrase, die nirgends sonst vorkommt – kein bekanntes Zitat.",
+   "question": "Welches Masterpasswort ist nach Lenas Tipp das bessere?",
+   "answer": "Eine selbst erfundene, unsinnige Phrase",
+   "distractors": [
+    "Ein berühmtes Shakespeare-Zitat",
+    "Hallo123 mit Rufzeichen",
+    "Der eigene Name mit Geburtsjahr"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Berühmte Zitate stehen in jeder Liste, die Passwortknacker durchprobieren. „Die Prinzessin auf der Erbse tanzt auf dem Eis“ gibt es dagegen nirgends – lang, merkbar und schwer zu erraten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Passwort",
+    "Masterpasswort"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 791,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Und da sagen auch die Anbieter, wir haben keinen Backdoor, wir haben keinen Schlüssel, der das sozusagen wieder aufsperrt, weil das wäre gefährlich.",
+   "quote_clean": "Und da sagen auch die Anbieter: Wir haben keine Backdoor, wir haben keinen Schlüssel, der das wieder aufsperrt, weil das wäre gefährlich.",
+   "statement": "Wer das Masterpasswort seines Passwortmanagers vergisst, kann sich nicht vom Anbieter helfen lassen: Es gibt keinen Generalschlüssel.",
+   "question": "Was passiert, wenn du das Masterpasswort deines Passwortmanagers vergisst?",
+   "answer": "Der Anbieter kann den Tresor nicht öffnen",
+   "distractors": [
+    "Der Anbieter schickt einen Zweitschlüssel",
+    "Der Support setzt es per SMS zurück",
+    "Nach 24 Stunden wird er entsperrt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Generalschlüssel wäre ein Sicherheitsrisiko: Fällt er wem in die Hände, könnte der 100.000 Passwort-Safes aufsperren. Der Trost: Die meisten Konten hängen an deiner E-Mail-Adresse und lassen sich darüber wiederherstellen – mühsam, aber machbar.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Passwortmanager",
+    "Verschlüsselung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 847,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Wenn ich nur ein lokales Backup mache und meine Wohnung bringt ab, samt Computer und Backup, dann habe ich kein Backup.",
+   "quote_clean": "Wenn ich nur ein lokales Backup mache und meine Wohnung brennt ab, samt Computer und Backup, dann habe ich kein Backup.",
+   "statement": "Ein Backup, das am selben Ort liegt wie der Computer, ist bei einem Wohnungsbrand mit verloren.",
+   "question": "Wer sagt: „Wenn meine Wohnung abbrennt, samt Computer und Backup, dann habe ich kein Backup“?",
+   "answer": "Lena Doppel-Prix",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Versicherungsmakler",
+    "Ein Feuerwehrkommandant"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Deshalb wandert bei Lena eine von zwei Backup-Festplatten regelmäßig an einen anderen Ort. Andreas hatte seine Backup-Platte direkt neben dem Mac liegen – und hat danach umgedacht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Backup"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 899,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "eine Anordnung von mehreren Festplatten, die redundant arbeitet. Das heißt, ich habe so ein Gehäuse, da sind mehrere Festplatten drin und auf den Festplatten sind meine Daten zweimal, dreimal vorhanden.",
+   "quote_clean": "Eine Anordnung von mehreren Festplatten, die redundant arbeitet. Ich habe so ein Gehäuse, da sind mehrere Festplatten drin, und auf den Festplatten sind meine Daten zwei-, dreimal vorhanden.",
+   "statement": "Ein RAID ist ein Verbund mehrerer Festplatten, auf denen dieselben Daten mehrfach gespeichert sind.",
+   "question": "Was ist ein RAID?",
+   "answer": "Mehrere Festplatten mit doppelt gespeicherten Daten",
+   "distractors": [
+    "Ein verschlüsselter Cloud-Speicher",
+    "Ein Programm gegen Computerviren",
+    "Ein besonders schneller USB-Stick"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Weil die Daten auf mehreren Platten liegen, macht es nichts, wenn eine davon kaputtgeht. Gegen einen Brand hilft das aber nicht – darum bringt Lena ihr RAID abwechselnd an einen anderen Ort.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Backup",
+    "Festplatte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1135,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Das heißt, da muss ich die kleinsten Business-Pakete nehmen. Und das bei der Dropbox ist 300 Euro im Jahr.",
+   "quote_clean": "Das heißt, da muss ich die kleinsten Business-Pakete nehmen. Und das ist bei Dropbox 300 Euro im Jahr.",
+   "statement": "Für Selbstständige, die DSGVO-konform in der Cloud speichern wollen, kostete das kleinste Dropbox-Business-Paket rund 300 Euro im Jahr.",
+   "question": "Wie viel kostete laut Lena das kleinste DSGVO-taugliche Business-Paket bei Dropbox pro Jahr (in Euro)?",
+   "answer": "Rund 300 Euro",
+   "distractors": [
+    "Rund 30 Euro",
+    "Rund 100 Euro",
+    "Rund 1.000 Euro"
+   ],
+   "number_value": 300,
+   "number_unit": "Euro pro Jahr",
+   "slider_min": 0,
+   "slider_max": 1000,
+   "log_scale": false,
+   "aha": "Sogar die einfachen bezahlten Privat-Accounts bei Dropbox und Google sind laut Lena nicht datenschutzkonform. Wer gewerblich speichert, braucht ein Business-Paket – und das ist eben nicht das billigste.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Cloud",
+    "DSGVO",
+    "Kosten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1157,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Und für Nicht-Selbstständige ist es relativ wurscht. Da für private Zwecke die Datenschutz-Grundverordnung nicht gilt,",
+   "quote_clean": "Und für Nicht-Selbstständige ist es relativ wurscht, da die Datenschutz-Grundverordnung für private Zwecke nicht gilt.",
+   "statement": "Die Datenschutz-Grundverordnung gilt nicht für rein private Zwecke, etwa ein privates Adressbuch in der Cloud.",
+   "question": "Gilt die Datenschutz-Grundverordnung, wenn du dein privates Adressbuch in der Cloud speicherst?",
+   "answer": "Nein, für Privates gilt sie nicht",
+   "distractors": [
+    "Ja, sie gilt für alle Daten",
+    "Nur bei Cloud-Anbietern in den USA",
+    "Nur ab mehr als 100 Kontakten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die DSGVO regelt, wie Firmen und Organisationen mit Daten umgehen, nicht, was du privat machst. Lenas Tipp trotzdem: Adressbuch, Kalender und Mails einmal im Jahr exportieren und aufs eigene Backup legen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "DSGVO",
+    "Datenschutz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1229,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Das heißt, dieses Schlüsselverfahren funktioniert so, ich schicke jemanden einen Schlüssel, mit dem man nur zusperren kann und der schickt mir dann die verschlüsselte E-Mail und nur ich kann sie aufsperren.",
+   "quote_clean": "Dieses Schlüsselverfahren funktioniert so: Ich schicke jemandem einen Schlüssel, mit dem man nur zusperren kann, der schickt mir dann die verschlüsselte E-Mail, und nur ich kann sie aufsperren.",
+   "statement": "Bei PGP verschickt man einen öffentlichen Schlüssel, mit dem andere nur zusperren können; aufsperren kann nur man selbst.",
+   "question": "Was kann man mit dem öffentlichen Schlüssel bei PGP-Verschlüsselung machen?",
+   "answer": "Nur zusperren, nicht aufsperren",
+   "distractors": [
+    "Nur aufsperren, nicht zusperren",
+    "Zusperren und aufsperren",
+    "Nur die Absenderin prüfen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der öffentliche Schlüssel ist wie ein offenes Vorhängeschloss: Jede:r kann es zudrücken, aber nur du hast den passenden Schlüssel zum Öffnen. Darum kann man ihn bedenkenlos herumschicken.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Verschlüsselung",
+    "E-Mail"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1241,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Heutzutage ist es so, dass die E-Mail-Server im Normalfall über SSL, also über die gleiche Verschlüsselung, die auch Webseiten verwenden, abgerufen werden. Das heißt, es ist zwar nicht die Mail selber verschlüsselt, aber die Kommunikation zwischen mir und dem E-Mail-Server.",
+   "quote_clean": "Heutzutage werden die E-Mail-Server im Normalfall über SSL abgerufen, also über die gleiche Verschlüsselung, die auch Webseiten verwenden. Es ist zwar nicht die Mail selbst verschlüsselt, aber die Kommunikation zwischen mir und dem E-Mail-Server.",
+   "statement": "Bei normalen E-Mails ist meist nur der Weg zum Mailserver verschlüsselt, nicht die Mail selbst.",
+   "question": "Was ist bei einer ganz normalen E-Mail heute üblicherweise verschlüsselt?",
+   "answer": "Die Verbindung zum Mailserver",
+   "distractors": [
+    "Der Inhalt der Mail selbst",
+    "Gar nichts, alles ist offen",
+    "Nur die Anhänge"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Unterwegs kann niemand mitlesen, aber am Server liegt die Mail im Klartext – wer den Server betreut, könnte sie öffnen. Für wirklich Heikles empfiehlt Lena deshalb Ende-zu-Ende-verschlüsselte Messenger.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "E-Mail",
+    "Verschlüsselung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1292,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Und End-to-ende bedeutet, da ist kein Server dazwischen, der was lesen kann. Ich schicke jemandem die Nachricht und die Nachricht kann nur von der Person entschlüsselt werden.",
+   "quote_clean": "End-to-End bedeutet: Da ist kein Server dazwischen, der etwas lesen kann. Ich schicke jemandem die Nachricht, und die Nachricht kann nur von dieser Person entschlüsselt werden.",
+   "statement": "Bei Ende-zu-Ende-Verschlüsselung kann nur die Empfängerin die Nachricht entschlüsseln, kein Server dazwischen.",
+   "question": "Wer kann eine Ende-zu-Ende-verschlüsselte Nachricht lesen?",
+   "answer": "Nur Absender und Empfängerin",
+   "distractors": [
+    "Auch der Betreiber des Servers",
+    "Jeder im selben WLAN",
+    "Der Handy-Hersteller"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Will ein Geheimdienst mitlesen, müsste er dir das Handy wegnehmen – einen Server irgendwo in Delaware zu knacken, bringt nichts. Bei normaler E-Mail könnte dagegen der Serverbetreiber reinschauen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Verschlüsselung",
+    "Messenger"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1398,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "jemand macht mir einen Account bei sich, schickt mir den Benutzernamen per E-Mail, schickt mir das Passwort in einem Messenger oder per SMS.",
+   "quote_clean": "Jemand macht mir einen Account bei sich, schickt mir den Benutzernamen per E-Mail und das Passwort in einem Messenger oder per SMS.",
+   "statement": "Zugangsdaten verschickt man sicherer, wenn man Benutzername und Passwort über zwei verschiedene Kanäle schickt.",
+   "question": "Wie verschickst du Zugangsdaten an jemanden am besten?",
+   "answer": "Benutzername und Passwort getrennt",
+   "distractors": [
+    "Beides in einer E-Mail",
+    "Beides als Foto im Chat",
+    "Beides im Betreff einer Mail"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer nur einen Kanal abfängt, hat bloß die halbe Information. Für solche Alltagsanwendungen hält Lena WhatsApp für sicher genug – Andreas hat das bisher übrigens telefonisch erledigt.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Passwort",
+    "Messenger"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1498,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "da hört man mal die Geschichten, man spricht über was und das Handy liegt im Raum und nachher kriegt man dafür Werbung. Das ist meistens sehr unsinnig.",
+   "quote_clean": "Da hört man Geschichten: Man spricht über etwas, das Handy liegt im Raum, und nachher kriegt man dafür Werbung. Das ist meistens sehr unsinnig.",
+   "statement": "Die verbreitete Geschichte, das Handy belausche Gespräche, um passende Werbung anzuzeigen, ist laut Lena Doppel-Prix meist unsinnig.",
+   "question": "Du redest über ein Produkt und siehst danach Werbung dafür. Hört dein Handy heimlich mit, um Werbung zu schalten?",
+   "answer": "Meistens nicht, das ist ein Mythos",
+   "distractors": [
+    "Ja, das ist gängige Praxis",
+    "Nur bei Android-Handys",
+    "Nur wenn die Kamera an ist"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Werbung braucht es keine Wanze: Likes, Kommentare und angeschaute Artikel verraten schon genug. Eine Freundin von Lena hat über das Kopftuchverbot diskutiert und prompt Burka-Werbung bekommen – das kann man in den Werbeeinstellungen aber abdrehen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Werbung",
+    "Smartphone"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1528,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Das Problem mit Android ist, dass Android schon lang nicht mehr eins ist. Android war ursprünglich gedacht als ein einheitliches Betriebssystem, weil es so viele andere gegeben hat neben iOS, aber es ist sehr auseinandergewandert mit den verschiedenen Hardwareanbietern.",
+   "quote_clean": "Das Problem mit Android ist, dass Android schon lange nicht mehr eins ist. Android war ursprünglich als einheitliches Betriebssystem gedacht, weil es neben iOS so viele andere gegeben hat, aber es ist mit den verschiedenen Hardwareanbietern sehr auseinandergewandert.",
+   "statement": "Android gilt als schwerer abzusichern, weil es je nach Hardwarehersteller in viele Varianten zerfallen ist; iOS ist einheitlicher.",
+   "question": "Warum gilt iOS (aktuell gehalten) als etwas sicherer als Android?",
+   "answer": "Android ist in viele Varianten zersplittert",
+   "distractors": [
+    "Android ist gar nicht verschlüsselt",
+    "iOS hat keine App-Stores",
+    "Android hat keine Updates"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Jeder Hersteller baut sein eigenes Android, also kommen Updates unterschiedlich schnell oder gar nicht. Dafür ist Android offener: Es gibt gratis Virenscanner-Apps, die bei iOS gar nicht so umfassend möglich wären.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Android",
+    "iOS",
+    "Betriebssystem"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1855,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "alte Leute, ältere Leute fürchten sich oft vor diesen Fenstern, weil sie sich denken, ich weiß nicht, was das heißt. Junge Leute denken, sich das nervt. Beide klicken auf OK.",
+   "quote_clean": "Ältere Leute fürchten sich oft vor diesen Fenstern, weil sie sich denken: Ich weiß nicht, was das heißt. Junge Leute denken sich: Das nervt. Beide klicken auf OK.",
+   "statement": "Bei Pop-up-Fenstern klicken Ältere aus Unsicherheit und Jüngere aus Genervtheit gleichermaßen einfach auf OK.",
+   "question": "Wer beobachtet: „Ältere fürchten sich vor diesen Fenstern, Junge finden sie nervig – beide klicken auf OK“?",
+   "answer": "Lena Doppel-Prix",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Microsoft-Entwicklerin",
+    "Ein Polizeisprecher"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Lenas wichtigster Tipp bei Apps: lesen, was da kommt, und überlegen, was man will. Braucht ein Adressbuch wirklich deinen Standort? Eher nicht – und „nur während der Nutzung“ spart obendrein Akku.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Apps",
+    "Berechtigungen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2183,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Und diese kleinen Dokumente sind einerseits notwendig, weil wir sonst uns bei jeder neuen Facebook-Seite wieder in Facebook einloggen müssten.",
+   "quote_clean": "Diese kleinen Dokumente sind einerseits notwendig, weil wir uns sonst bei jeder neuen Facebook-Seite wieder in Facebook einloggen müssten.",
+   "statement": "Ohne Session-Cookies müsste man sich bei jedem Seitenwechsel neu einloggen, weil das Web-Protokoll HTTP sich nichts merkt.",
+   "question": "Wozu sind sogenannte Session-Cookies tatsächlich notwendig?",
+   "answer": "Damit du eingeloggt bleibst",
+   "distractors": [
+    "Damit Werbung personalisiert wird",
+    "Damit Seiten schneller laden",
+    "Damit Viren erkannt werden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "HTTP ist schlicht nicht so gebaut, dass es sich merkt, wer du bist. Lästig sind vor allem die Tracking-Cookies, die anderen verraten, welchen Kühlschrank du dir auf Amazon angeschaut hast. Im Cookie-Fenster kannst du nur die notwendigen erlauben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Cookies",
+    "Internet"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2549,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Also grundsätzlich funktioniert ja diese Spracherkennung so, diese Geräte lauschen nach einem Keyword und das wäre eben Alexa oder Siri und wenn dieses Keyword kommt, dann senden sie alles, was danach kommt, in die Wolke.",
+   "quote_clean": "Grundsätzlich funktioniert diese Spracherkennung so: Diese Geräte lauschen nach einem Keyword, etwa Alexa oder Siri, und wenn dieses Keyword kommt, senden sie alles, was danach kommt, in die Cloud.",
+   "statement": "Sprachassistenten lauschen lokal auf ein Aktivierungswort und schicken erst danach das Gesagte in die Cloud.",
+   "question": "Was schickt ein Sprachassistent wie Alexa normalerweise in die Cloud?",
+   "answer": "Alles nach dem Aktivierungswort",
+   "distractors": [
+    "Ununterbrochen alles im Raum",
+    "Nur das Aktivierungswort selbst",
+    "Gar nichts, alles bleibt am Gerät"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Gerät selbst ist ziemlich dumm und kennt quasi nur sein eigenes Wort. Weil es nicht besonders genau hinhört, springt es manchmal auch falsch an – dann landen Wortfetzen in der Cloud, die du nie schicken wolltest.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sprachassistent",
+    "Alexa"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 2579,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "da kam öfter das Wort Serious vor und jedes Mal, wenn das Wort Serious vorkommt, ist Siri angesprochen und hat die Fernsehserie in die Wolke geschickt.",
+   "quote_clean": "Da kam öfter das Wort „serious“ vor, und jedes Mal, wenn das Wort „serious“ vorkam, fühlte sich Siri angesprochen und hat die Fernsehserie in die Cloud geschickt.",
+   "statement": "Beim Schauen einer englischen Serie fühlte sich Siri bei jedem „serious“ angesprochen und schickte Ton in die Cloud.",
+   "question": "Welches englische Wort in einer Serie hat bei Lena immer wieder Siri aufgeweckt?",
+   "answer": "Serious",
+   "distractors": [
+    "Seriously",
+    "Sorry",
+    "Series"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "„Serious“ klingt eben fast wie „Siri“. Und beim lauten Reden während des Trainings meint ihre Uhr manchmal auch, sie wolle was – die Dinger lauschen wirklich intensiv mit.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Siri",
+    "Sprachassistent"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2793,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Videokamera kann man abbicken, aber das Mikro komplett tonfrei zu kriegen, ist fast unmöglich bei einem Computer.",
+   "quote_clean": "Die Videokamera kann man abkleben, aber das Mikrofon komplett tonfrei zu kriegen, ist bei einem Computer fast unmöglich.",
+   "statement": "Die Laptop-Kamera lässt sich abkleben, das Mikrofon dagegen kaum wirksam stummschalten.",
+   "question": "Was bringt es, das Mikrofon am Laptop abzukleben?",
+   "answer": "Wenig, der Ton kommt trotzdem durch",
+   "distractors": [
+    "Es macht den Laptop völlig abhörsicher",
+    "Es ist genauso wirksam wie bei der Kamera",
+    "Es blockiert auch das WLAN"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Bild braucht freie Sicht, Schall kommt auch durch ein Klebeband. Wer wirklich Angst vor Überwachung hat, sollte elektronische Geräte lieber gar nicht auf dem Tisch haben – das betrifft aber die wenigsten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Laptop",
+    "Überwachung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2823,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Das ist im Prinzip ein verschlüsselter Kanal, also man kann sagen, so wie ein Tunnel eben zwischen mir und einem anderen Computer am Internet.",
+   "quote_clean": "Das ist im Prinzip ein verschlüsselter Kanal, man kann sagen, wie ein Tunnel zwischen mir und einem anderen Computer im Internet.",
+   "statement": "Ein VPN ist ein verschlüsselter Tunnel zwischen dem eigenen Gerät und einem anderen Computer im Internet.",
+   "question": "Wann ist ein VPN laut Lena für Privatleute besonders sinnvoll?",
+   "answer": "In offenen WLANs ohne Passwort",
+   "distractors": [
+    "Beim Laden des Handy-Akkus",
+    "Beim Schreiben von SMS",
+    "Beim Ausdrucken von Dokumenten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im unverschlüsselten WLAN im Café könnte theoretisch jemand mitschneiden, was zwischen dir und dem Router läuft. Der Tunnel schützt davor. Andere nutzen VPN, um auf Firmenserver zuzugreifen – oder, wie Andreas, um BBC-Fußball zu schauen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "VPN",
+    "WLAN"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3047,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Also wir wissen aus Statistiken, dass mit wenigen Ausnahmen und eine der Ausnahmen ist WhatsApp. Da posten mehr Leute als Leute es passiv nutzen. Die meisten Leute Social Media passiv nutzen,",
+   "quote_clean": "Wir wissen aus Statistiken, dass die meisten Leute Social Media passiv nutzen – mit wenigen Ausnahmen, eine davon ist WhatsApp. Da schreiben mehr Leute, als es passiv zu nutzen.",
+   "statement": "Die meisten Menschen nutzen soziale Medien passiv wie ein Massenmedium; WhatsApp ist eine Ausnahme, dort schreiben die meisten selbst.",
+   "question": "Wie nutzen die meisten Menschen soziale Medien laut Statistik?",
+   "answer": "Vor allem passiv, sie lesen nur",
+   "distractors": [
+    "Vor allem aktiv, sie posten täglich",
+    "Halb aktiv, halb passiv",
+    "Hauptsächlich für Werbung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die meisten scrollen, lesen und schweigen – Social Media als Massenmedium. Darum hält Lena die Gefahr, dass „das Internet nicht vergisst“, für Normalnutzer:innen für überschaubar. Bei WhatsApp ist es umgekehrt: Dort schreibt fast jede:r mit.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Social Media",
+    "WhatsApp"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3065,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "am einfachsten ist es nur etwas zu posten, was man sich auch laut neben dem örtlichen Rathaus, also laut stimmt hier nicht, aber in großen Buchstaben neben dem örtlichen Rathaus auf eine große Werbetafel schreiben trauen würde.",
+   "quote_clean": "Am einfachsten ist es, nur etwas zu posten, was man sich auch in großen Buchstaben neben dem örtlichen Rathaus auf eine große Werbetafel zu schreiben trauen würde.",
+   "statement": "Eine einfache Faustregel fürs Posten: Nur veröffentlichen, was man auch groß auf eine Werbetafel neben dem Rathaus schreiben würde.",
+   "question": "Wer gibt die Faustregel: Poste nur, was du dich auch auf eine Werbetafel neben dem Rathaus schreiben trauen würdest?",
+   "answer": "Lena Doppel-Prix",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Social-Media-Manager von Twitter",
+    "Eine Bürgermeisterin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Machen wir alle oft nicht, gibt Lena selbst zu. Ihr praktischer Tipp: einmal im Jahr die eigenen Daten bei Facebook oder Twitter exportieren und nach heiklen Begriffen durchsuchen – die DSGVO verlangt, dass das geht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Social Media",
+    "Privatsphäre"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3109,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Was uns die Datenschutzgrundverordnung leichter macht, ist, dass sie inzwischen vorgibt, dass man aus einem Service, wie auch Facebook oder Twitter, seine gesamten Daten exportieren können muss.",
+   "quote_clean": "Was uns die Datenschutzgrundverordnung leichter macht: Sie gibt inzwischen vor, dass man aus einem Service wie Facebook oder Twitter seine gesamten Daten exportieren können muss.",
+   "statement": "Die DSGVO schreibt vor, dass man aus Diensten wie Facebook oder Twitter alle eigenen Daten exportieren können muss.",
+   "question": "Was müssen Dienste wie Facebook oder Twitter dir wegen der DSGVO ermöglichen?",
+   "answer": "Alle deine Daten zu exportieren",
+   "distractors": [
+    "Dein Konto anonym weiterzuführen",
+    "Werbung komplett abzuschalten",
+    "Fremde Beiträge über dich zu löschen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Früher ging das nicht so einfach. Heute kannst du dir das ganze Archiv als PDF oder HTML holen und nach Begriffen durchsuchen – denn was man vor zwei Wochen gepostet hat, weiß man meistens eh schon nicht mehr.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "DSGVO",
+    "Social Media"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3186,
+   "speaker": "Lena Doppel-Prix",
+   "quote": "Ich glaube, dass viele Leute das Problembewusstsein schon haben, aber dass sie bequem sind. Also es ist eine Frage der Bequemlichkeit",
+   "quote_clean": "Ich glaube, dass viele Leute das Problembewusstsein schon haben, aber dass sie bequem sind. Es ist eine Frage der Bequemlichkeit.",
+   "statement": "Viele Menschen wissen um Datenschutzprobleme, scheitern aber an der Bequemlichkeit.",
+   "question": "Woran liegt es laut Lena, dass so wenige auf sichere Messenger wie Signal umsteigen?",
+   "answer": "An Bequemlichkeit, nicht Unwissen",
+   "distractors": [
+    "An fehlendem Problembewusstsein",
+    "An den hohen Kosten",
+    "An schlechter Sprachqualität"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Allgemeine Appelle bringen laut Lena gar nichts. Was wirkt: Menschen persönlich ansprechen und ihnen direkt den Signal-Link schicken – „ich möchte gern mit dir über Signal kommunizieren“.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Signal",
+    "Bequemlichkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 3283,
+   "speaker": "Andreas Sator",
+   "quote": "Was nehme ich mir mit? Viel zu viel, um das jetzt alles genau zusammenzufassen.",
+   "quote_clean": "Was nehme ich mir mit? Viel zu viel, um das jetzt alles genau zusammenzufassen.",
+   "statement": "Andreas schließt seine Folgen mit der Frage, was er sich aus dem Gespräch mitnimmt.",
+   "question": "Mit welcher Frage leitet Andreas am Ende der Folge seine persönliche Zusammenfassung ein?",
+   "answer": "„Was nehme ich mir mit?“",
+   "distractors": [
+    "„Was haben wir heute gelernt?“",
+    "„Was bleibt am Ende übrig?“",
+    "„Was sollt ihr euch merken?“"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Diesmal war es so viel, dass er beim Schneiden mitgeschrieben hat. Ergebnis: Facebook, Twitter und Dropbox laufen jetzt mit Zwei-Faktor, ein Passwortmanager kommt fix – und die Fotos sollen nicht mehr nur auf einer Platte in der Wohnung liegen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Abschluss"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "139",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

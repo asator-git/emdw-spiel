@@ -1,0 +1,765 @@
+{
+ "theme": "Natur & Ernährung",
+ "summary": "Chemie im Essen, igitt? Lebensmittelchemiker Daniel Wefers erklärt, warum Zusatzstoffe harmloser sind als ihr Ruf und natürlich nicht automatisch gesund heißt.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 805,
+   "speaker": "Daniel Wefers",
+   "quote": "normal gekocht mit den etwa 50 55% Zucker brauchen wir in der Regel keine Konservierungsstoffe",
+   "quote_clean": "Normal gekocht, mit den etwa 50, 55 % Zucker, brauchen wir in der Regel keine Konservierungsstoffe.",
+   "statement": "Normal gekochte Marmelade enthält etwa 50 bis 55 Prozent Zucker und braucht deshalb in der Regel keine Konservierungsstoffe.",
+   "question": "Wie viel Prozent Zucker hat eine klassisch gekochte Marmelade ungefähr, sodass sie ohne Konservierungsstoffe auskommt?",
+   "answer": "Etwa 50 bis 55 Prozent",
+   "distractors": [
+    "Etwa 15 bis 20 Prozent",
+    "Etwa 30 bis 35 Prozent",
+    "Etwa 75 bis 80 Prozent"
+   ],
+   "number_value": 55,
+   "number_unit": "Prozent",
+   "slider_min": 5,
+   "slider_max": 90,
+   "log_scale": false,
+   "aha": "Der viele Zucker bindet das Wasser, und ohne verfügbares Wasser haben Schimmel und Co. schlechte Karten. Darum braucht Omas Marmelade keine Konservierungsstoffe, die zuckerreduzierte aus dem Supermarkt oft schon.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Marmelade",
+    "Zucker",
+    "Konservierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1448,
+   "speaker": "Daniel Wefers",
+   "quote": "da ist es dann meistens eine Sterilisierung das heißt es wird dann bei 121° erhitzt und dadurch wird einfach jeglicher lebensfähiger Organismus und irgendwelche Dauerform abgetötet",
+   "quote_clean": "Da ist es dann meistens eine Sterilisierung, das heißt, es wird bei 121 Grad erhitzt, und dadurch wird jeglicher lebensfähige Organismus und jede Dauerform abgetötet.",
+   "statement": "Fleischhaltige Konserven und Eintöpfe in Dosen werden meist bei 121 Grad sterilisiert, wodurch alle lebensfähigen Organismen und Dauerformen abgetötet werden.",
+   "question": "Auf wie viel Grad Celsius werden Dosen-Eintöpfe mit Fleisch beim Sterilisieren typischerweise erhitzt?",
+   "answer": "121 Grad",
+   "distractors": [
+    "85 Grad",
+    "100 Grad",
+    "180 Grad"
+   ],
+   "number_value": 121,
+   "number_unit": "Grad Celsius",
+   "slider_min": 60,
+   "slider_max": 200,
+   "log_scale": false,
+   "aha": "Kochendes Wasser mit 100 Grad reicht nicht, weil manche Bakterien hitzefeste Sporen bilden. Mit 121 Grad unter Druck sind auch die erledigt, deshalb hält das Gulasch in der Dose so lange.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Konserven",
+    "Sterilisierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1503,
+   "speaker": "Daniel Wefers",
+   "quote": "das macht man z.B auch bei hamilch dass man schon sehr hoch geht mit der Temperaturen die es aber nur ganz ganz kurz hält also z.B hab ich 135° rum für 3 Sekunden",
+   "quote_clean": "Das macht man zum Beispiel auch bei H-Milch, dass man sehr hoch geht mit der Temperatur, die aber nur ganz kurz hält, also zum Beispiel um die 135 Grad für 3 Sekunden.",
+   "statement": "H-Milch wird nur ganz kurz sehr stark erhitzt, etwa auf rund 135 Grad für 3 Sekunden.",
+   "question": "Wie viele Sekunden wird H-Milch ungefähr auf rund 135 Grad erhitzt?",
+   "answer": "Etwa 3 Sekunden",
+   "distractors": [
+    "Etwa 30 Sekunden",
+    "Etwa 3 Minuten",
+    "Etwa 15 Minuten"
+   ],
+   "number_value": 3,
+   "number_unit": "Sekunden",
+   "slider_min": 1,
+   "slider_max": 1000,
+   "log_scale": true,
+   "aha": "Der Trick ist: sehr heiß, aber extrem kurz. So sterben die Keime, während die Nährstoffe weitgehend heil bleiben. Molekular kann man die Behandlung nachweisen, der Nährwert leidet aber kaum.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Milch",
+    "Haltbarkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1899,
+   "speaker": "Daniel Wefers",
+   "quote": "weil sie eben um ein Vielfaches also 100 bis tausendfach süßer sind als Zucker kriegt man dadurch trotzdem süßes Lebensmittel",
+   "quote_clean": "Weil sie um ein Vielfaches, also 100- bis 1000-fach süßer sind als Zucker, kriegt man dadurch trotzdem süße Lebensmittel.",
+   "statement": "Süßstoffe sind 100- bis 1000-mal süßer als Zucker und werden deshalb nur in sehr geringen Mengen zugesetzt.",
+   "question": "Um wie viel süßer als Zucker sind Süßstoffe ungefähr?",
+   "answer": "100- bis 1000-mal süßer",
+   "distractors": [
+    "2- bis 5-mal süßer",
+    "10- bis 20-mal süßer",
+    "Eine Million Mal süßer"
+   ],
+   "number_value": 1000,
+   "number_unit": "-fach",
+   "slider_min": 1,
+   "slider_max": 100000,
+   "log_scale": true,
+   "aha": "Deshalb reicht eine winzige Prise für einen ganzen Liter Limo. Und Süßstoff ist nicht gleich Süßstoff: Chemisch sind das ganz verschiedene Moleküle, die man nicht alle in einen Topf werfen kann.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Süßstoffe",
+    "Zucker"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1080,
+   "speaker": "Daniel Wefers",
+   "quote": "wenn man sich Sorgen um 0,1 0,2% Konservierungsstoffe macht gleichzeitig aber 30% Fett und Weißmehl und irgendwas in rohen Mengen ist",
+   "quote_clean": "Wenn man sich Sorgen um 0,1, 0,2 % Konservierungsstoffe macht, gleichzeitig aber 30 % Fett und Weißmehl in rauen Mengen isst ...",
+   "statement": "Konservierungsstoffe machen in Fertiggerichten oft nur 0,1 bis 0,2 Prozent aus, während Fett und Weißmehl einen viel größeren Effekt auf die Gesundheit haben.",
+   "question": "Wie viel Prozent eines Fertiggerichts machen Konservierungsstoffe laut Daniel Wefers typischerweise aus?",
+   "answer": "Etwa 0,1 bis 0,2 Prozent",
+   "distractors": [
+    "Etwa 2 bis 3 Prozent",
+    "Etwa 5 bis 8 Prozent",
+    "Etwa 10 bis 15 Prozent"
+   ],
+   "number_value": 0.2,
+   "number_unit": "Prozent",
+   "slider_min": 0.01,
+   "slider_max": 20,
+   "log_scale": true,
+   "aha": "Beim fertigen Cordon bleu ist der Konservierungsstoff das kleinste Problem. Die 30 Prozent Fett und das Weißmehl wirken auf deinen Körper deutlich stärker als ein paar Promille gut geprüfter Zusatzstoffe.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Konservierungsstoffe",
+    "Fertiggerichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1424,
+   "speaker": "Daniel Wefers",
+   "quote": "es gibt da zwei verschiedene F Verfahren die Pasteurisierung die meist unter 100° eben gemacht wird also etwas schon da die kann man machen bei ihrer saureren Produkten",
+   "quote_clean": "Es gibt zwei verschiedene Verfahren: die Pasteurisierung, die meist unter 100 Grad gemacht wird, die kann man bei eher saureren Produkten machen.",
+   "statement": "Pasteurisierung findet meist unter 100 Grad statt und reicht bei eher sauren Produkten wie Obstkonserven.",
+   "question": "Bei welcher Temperatur wird beim Pasteurisieren meist erhitzt?",
+   "answer": "Unter 100 Grad",
+   "distractors": [
+    "Genau 121 Grad",
+    "Über 150 Grad",
+    "Unter 40 Grad"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Säure macht es Mikroorganismen ohnehin schwer, darum genügt bei Obstkonserven die sanftere Pasteurisierung. Gemüse und Fleisch sind weniger sauer und brauchen die härtere Sterilisierung.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Pasteurisierung",
+    "Konserven"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 157,
+   "speaker": "Daniel Wefers",
+   "quote": "beim Apfel finden wir auf jeden Fall auch z.B Vitamin C und Vitamin C ist ja z.B auch ein Zusatzstoff den finden wir als Zusatzstoff dann eben nur als Askorbinsäure",
+   "quote_clean": "Beim Apfel finden wir auf jeden Fall auch zum Beispiel Vitamin C, und Vitamin C ist auch ein Zusatzstoff, den finden wir als Zusatzstoff dann eben als Ascorbinsäure.",
+   "statement": "Der Zusatzstoff Ascorbinsäure ist nichts anderes als Vitamin C, das auch natürlich im Apfel steckt.",
+   "question": "Was verbirgt sich hinter dem Zusatzstoff Ascorbinsäure?",
+   "answer": "Vitamin C",
+   "distractors": [
+    "Ein künstlicher Farbstoff",
+    "Ein Geschmacksverstärker",
+    "Ein Süßstoff"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Auf der Packung klingt Ascorbinsäure nach Labor, im Apfel steckt sie ganz selbstverständlich. Wer für einen Apfel alle Inhaltsstoffe aufschreibt, bekommt eine Zutatenliste, die locker mit jedem Fertigprodukt mithält.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Zusatzstoffe",
+    "Vitamin C"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 201,
+   "speaker": "Daniel Wefers",
+   "quote": "zum zur Saftgewinnung verwendet wird ja ausgepresst es bleibt ein drer zurück und aus dem extrahiert man dann Pektin und setzt es z.B Marmelade ein das die geliert",
+   "quote_clean": "Wenn der Apfel zur Saftgewinnung verwendet wird, wird er ausgepresst, es bleibt ein Trester zurück, und aus dem extrahiert man dann Pektin und setzt es zum Beispiel in Marmelade ein, damit sie geliert.",
+   "statement": "Das Geliermittel Pektin wird aus dem Trester gewonnen, der beim Auspressen von Äpfeln für Saft übrig bleibt.",
+   "question": "Woraus wird das Geliermittel Pektin häufig gewonnen?",
+   "answer": "Aus Apfeltrester von der Saftherstellung",
+   "distractors": [
+    "Aus Schweinehaut und Knochen",
+    "Aus Erdöl-Nebenprodukten",
+    "Aus getrockneten Algen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Pektin ist ein Baustein der pflanzlichen Zellwand, also eh im Apfel drin. Man holt es nur aus dem Pressrest und gibt es in die Marmelade, damit sie fest wird.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Pektin",
+    "Zusatzstoffe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1609,
+   "speaker": "Daniel Wefers",
+   "quote": "sowas wie Tomaten oder Parmesan recht hohe glutamatgehalte haben und gerade bei äh den den Lebensmitteln in den früher Glutamat drinne war als Zusatzstoff",
+   "quote_clean": "Lebensmittel wie Tomaten oder Parmesan haben recht hohe Glutamatgehalte.",
+   "statement": "Tomaten und Parmesan enthalten von Natur aus recht viel Glutamat.",
+   "question": "Welche Lebensmittel enthalten von Natur aus recht viel Glutamat?",
+   "answer": "Tomaten und Parmesan",
+   "distractors": [
+    "Äpfel und Birnen",
+    "Reis und Kartoffeln",
+    "Gurken und Salat"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Glutamat ist eine natürliche Aminosäure und genau der Grund, warum Tomaten und Parmesan so herzhaft schmecken. Wer über die Tütensuppe noch Parmesan reibt, holt sich das Glutamat eben selber rein.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Glutamat",
+    "Geschmack"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1623,
+   "speaker": "Daniel Wefers",
+   "quote": "dann kam dieser Trend eben möchte eher weniger Zusatzstoffe gibt es dann verschiedene clean Label Zutaten und das bekannteste sicherlich Hefeextrakt wo dann eben auch entsprechend geschmacksverstärkend wirkt",
+   "quote_clean": "Dann kam der Trend, eher weniger Zusatzstoffe zu wollen, und es gibt verschiedene Clean-Label-Zutaten, die bekannteste ist sicher Hefeextrakt, das ebenfalls geschmacksverstärkend wirkt.",
+   "statement": "Produkte ohne den Zusatzstoff Glutamat enthalten oft Hefeextrakt, das ebenfalls geschmacksverstärkend wirkt.",
+   "question": "Welche Zutat ersetzt in Produkten mit „ohne Geschmacksverstärker“ oft das Glutamat?",
+   "answer": "Hefeextrakt",
+   "distractors": [
+    "Zitronensäure",
+    "Pektin",
+    "Ascorbinsäure"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Hefeextrakt gilt nicht als Zusatzstoff, bringt aber selbst Glutamat mit. Das „ohne“ auf der Packung heißt also oft nur: anders draufgeschrieben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Glutamat",
+    "Clean Label"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1651,
+   "speaker": "Daniel Wefers",
+   "quote": "also im Prinzip eine glutamatfreie Diät ist eigentlich sehr sehr schwierig bis unmöglich",
+   "quote_clean": "Im Prinzip ist eine glutamatfreie Diät sehr schwierig bis unmöglich.",
+   "statement": "Eine glutamatfreie Ernährung ist praktisch unmöglich, weil Glutamat als natürliche Aminosäure in fast allen Lebensmitteln vorkommt.",
+   "question": "Wie realistisch ist es, sich komplett glutamatfrei zu ernähren?",
+   "answer": "Praktisch unmöglich",
+   "distractors": [
+    "Einfach, ohne Fertigprodukte",
+    "Gut machbar mit Bio-Produkten",
+    "Nur bei veganer Ernährung leicht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Glutamat steckt in so ziemlich jedem Lebensmittel, mal mehr, mal weniger. Wer es meiden will, müsste aufs Essen an sich verzichten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Glutamat"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 872,
+   "speaker": "Daniel Wefers",
+   "quote": "das ist vielleicht auch ein Missverständnis was manchmal vorherrscht aber die sind wirklich da um das die Qualität zu erhalten",
+   "quote_clean": "Das ist vielleicht auch ein Missverständnis, das manchmal vorherrscht, aber die sind wirklich da, um die Qualität zu erhalten.",
+   "statement": "Konservierungsstoffe erhalten die Qualität eines Lebensmittels, sie können verdorbenes Essen aber nicht wieder genießbar machen.",
+   "question": "Was können Konservierungsstoffe nicht?",
+   "answer": "Verdorbenes Essen wieder genießbar machen",
+   "distractors": [
+    "Schimmelwachstum verlangsamen",
+    "Abgepacktes Brot länger frisch halten",
+    "Geöffnete Marmelade länger haltbar machen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Konservierungsstoffe halten nur einen guten Zustand aufrecht. Was schon schlecht ist, bleibt schlecht, da hilft auch keine Chemie.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Konservierungsstoffe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 847,
+   "speaker": "Daniel Wefers",
+   "quote": "es gibt auch welche die sind z.B wichtig für abgepacktes Brot was eben mit einer hohen Feuchtigkeit eingeschweißt wird dass da nicht irgendwie Mikroorganismen wachsen können",
+   "quote_clean": "Es gibt auch welche, die zum Beispiel wichtig für abgepacktes Brot sind, das mit einer hohen Feuchtigkeit eingeschweißt wird, damit da keine Mikroorganismen wachsen können.",
+   "statement": "Abgepacktes Brot braucht oft Konservierungsstoffe, weil es mit hoher Feuchtigkeit eingeschweißt wird und sonst Mikroorganismen wachsen.",
+   "question": "Warum enthält abgepacktes Brot oft Konservierungsstoffe?",
+   "answer": "Es wird feucht eingeschweißt",
+   "distractors": [
+    "Es wird ohne Hefe gebacken",
+    "Es enthält besonders viel Zucker",
+    "Es wird bei niedriger Hitze gebacken"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Feuchtigkeit plus Plastikhülle ist ein Wellnessurlaub für Schimmelpilze. Der Konservierungsstoff sorgt dafür, dass das Brot bis zum Ablaufdatum essbar bleibt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Brot",
+    "Konservierungsstoffe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1222,
+   "speaker": "Daniel Wefers",
+   "quote": "kann dann sogar teilweise so sein dass da noch ein größer vitaminerhalt hat ist da ist also z.B wenn man jetzt auch Tiefkühlgemüse mit Ja zu Hause länger gelagertem vergleicht",
+   "quote_clean": "Es kann sogar teilweise so sein, dass da ein größerer Vitaminerhalt da ist, also zum Beispiel, wenn man Tiefkühlgemüse mit zu Hause länger gelagertem vergleicht.",
+   "statement": "Tiefkühlgemüse kann teilweise mehr Vitamine enthalten als Gemüse, das zu Hause länger gelagert wurde.",
+   "question": "Was kann mehr Vitamine enthalten als Gemüse, das ein paar Tage offen in der Küche liegt?",
+   "answer": "Tiefkühlgemüse",
+   "distractors": [
+    "Gemüse aus der Dose",
+    "Getrocknetes Gemüse",
+    "Eingelegtes Essiggemüse"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gemüse verliert beim Herumliegen laufend Vitamine. Tiefkühlware wird frisch verarbeitet und eingefroren, da passiert danach kaum noch was.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Tiefkühlgemüse",
+    "Vitamine"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1338,
+   "speaker": "Daniel Wefers",
+   "quote": "prinzipiell kann man dann wenn man es wirklich tief gekühlt hat das auch sehr lange also es bleibt mikrobiologisch absolut sicher und es kommt höchstens noch zu geschmacklichen Beeinträchtigungen jetzt durch Gefrierbrand",
+   "quote_clean": "Prinzipiell kann man es, wenn es wirklich tiefgekühlt ist, sehr lange lagern, es bleibt mikrobiologisch absolut sicher, und es kommt höchstens zu geschmacklichen Beeinträchtigungen durch Gefrierbrand.",
+   "statement": "Richtig tiefgekühlte Lebensmittel bleiben mikrobiologisch sicher, mit der Zeit leidet höchstens der Geschmack durch Gefrierbrand.",
+   "question": "Was passiert mit wirklich tiefgekühltem Essen, wenn es sehr lange im Gefrierfach liegt?",
+   "answer": "Höchstens der Geschmack leidet",
+   "distractors": [
+    "Es wird giftig",
+    "Es beginnt langsam zu schimmeln",
+    "Bakterien vermehren sich langsam"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei Tiefkühltemperaturen passiert einfach fast nichts mehr, auch nicht für Mikroorganismen. Der Gefrierbrand ist unappetitlich, aber kein Gesundheitsrisiko.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Tiefkühlen",
+    "Lebensmittelsicherheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1253,
+   "speaker": "Daniel Wefers",
+   "quote": "so ein direkten Vergleich von absolut identischen Lebensmitteln in Anführungszeichen verarbeitet und selber hergestellt ähm ja meines Wissens nach wurde nie angestellt es ist alles über Beobachtung letztendlich",
+   "quote_clean": "So einen direkten Vergleich von absolut identischen Lebensmitteln, verarbeitet und selbst hergestellt, hat meines Wissens nach nie jemand angestellt, es ist letztendlich alles über Beobachtung.",
+   "statement": "Dass Fertigprodukte ungesünder seien, beruht auf Beobachtungsstudien, ein direkter Vergleich identischer verarbeiteter und selbst gekochter Gerichte wurde laut Wefers nie gemacht.",
+   "question": "Worauf beruht die Annahme, dass Menschen, die viele Fertigprodukte essen, ungesünder leben?",
+   "answer": "Auf Beobachtungsstudien",
+   "distractors": [
+    "Auf direkten Vergleichsexperimenten",
+    "Auf Tierversuchen mit Ratten",
+    "Auf Messungen der Zusatzstoffe"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer viele Fertigprodukte isst, hat oft auch weniger Zeit und Geld zum Frischkochen. Diese sozialen Faktoren spielen mit, und reine Beobachtung kann sie nur schwer vom Essen selbst trennen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Fertigprodukte",
+    "Forschung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 650,
+   "speaker": "Daniel Wefers",
+   "quote": "na ja sagen mal so die die Homöopathie kommt aus Deutschland es kommen ähnliche Dinge aus Deutschland und und sowas setzt sich hier natürlich wo es entsteht",
+   "quote_clean": "Sagen wir mal so: Die Homöopathie kommt aus Deutschland, es kommen ähnliche Dinge aus Deutschland, und so etwas setzt sich natürlich dort fest, wo es entsteht.",
+   "statement": "Die Homöopathie stammt aus Deutschland, was laut Wefers ein Grund sein könnte, warum solche Denkweisen dort stärker verankert sind.",
+   "question": "Aus welchem Land stammt die Homöopathie?",
+   "answer": "Aus Deutschland",
+   "distractors": [
+    "Aus Frankreich",
+    "Aus Indien",
+    "Aus der Schweiz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Erfunden hat sie der deutsche Arzt Samuel Hahnemann. Wefers vermutet, dass so eine Tradition mitprägt, warum man im deutschsprachigen Raum skeptischer auf Chemie im Essen schaut als etwa in den USA.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Homöopathie",
+    "Kultur"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 812,
+   "speaker": "Daniel Wefers",
+   "quote": "wenn wir Zucker ruzierte Marmelade haben dann haben wir dadurch dass wir weniger Zucker haben mehr verfügbares Wasser Mikroorganismen können wachsen",
+   "quote_clean": "Wenn wir zuckerreduzierte Marmelade haben, dann haben wir dadurch, dass wir weniger Zucker haben, mehr verfügbares Wasser, und Mikroorganismen können wachsen.",
+   "statement": "Zuckerreduzierte Marmelade hat mehr verfügbares Wasser, in dem Mikroorganismen wachsen können, und braucht deshalb eher Konservierungsstoffe.",
+   "question": "Warum braucht zuckerreduzierte Marmelade eher Konservierungsstoffe als normale?",
+   "answer": "Mehr verfügbares Wasser für Mikroorganismen",
+   "distractors": [
+    "Weniger Säure aus dem Obst",
+    "Sie wird weniger stark gekocht",
+    "Sie enthält mehr Pektin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zucker bindet Wasser, und Schimmel braucht freies Wasser zum Wachsen. Nimmt man Zucker raus, steht den Keimen mehr zur Verfügung, vor allem wenn jeden Morgen das abgeschleckte Messer reinwandert.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Marmelade",
+    "Konservierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 922,
+   "speaker": "Daniel Wefers",
+   "quote": "Mikroorganismen um unser Essen und das ist ja letztendlich auch was was z.B zu Lebensmittelverschwendung massiv beiträgt dass Sachen durch mikrobieren Befall nicht mehr genießbar sind",
+   "quote_clean": "Wir konkurrieren mit Mikroorganismen um unser Essen, und das ist letztendlich auch etwas, das zur Lebensmittelverschwendung massiv beiträgt: dass Sachen durch mikrobiellen Befall nicht mehr genießbar sind.",
+   "statement": "Wir konkurrieren mit Mikroorganismen um unser Essen, und mikrobieller Befall trägt massiv zur Lebensmittelverschwendung bei.",
+   "question": "Mit wem konkurrieren wir laut Daniel Wefers ständig um unser Essen?",
+   "answer": "Mit Mikroorganismen",
+   "distractors": [
+    "Mit Nutztieren",
+    "Mit Insekten im Vorratsschrank",
+    "Mit der Lebensmittelindustrie"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bakterien und Schimmelpilze wollen dasselbe Essen wie wir, und sie sind überall, auch auf deiner Haut. Konservierung ist im Grunde ein Wettrennen, damit wir als Erste zugreifen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Mikroorganismen",
+    "Lebensmittelverschwendung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1686,
+   "speaker": "Daniel Wefers",
+   "quote": "das dann noch extra zu bewerben weil das suggeriert automatisch dass damit was verkehrt sein muss obwohl das gar nicht der Fall ist",
+   "quote_clean": "Das dann noch extra zu bewerben, suggeriert automatisch, dass damit etwas verkehrt sein muss, obwohl das gar nicht der Fall ist.",
+   "statement": "Aufschriften wie „ohne Geschmacksverstärker“ suggerieren, dass mit dem Stoff etwas nicht stimmt, und bestärken so Mythen.",
+   "question": "Was bewirken Aufschriften wie „ohne Geschmacksverstärker“ laut Daniel Wefers?",
+   "answer": "Sie suggerieren, der Stoff sei schädlich",
+   "distractors": [
+    "Sie belegen einen Gesundheitsvorteil",
+    "Sie sind gesetzlich vorgeschrieben",
+    "Sie haben auf Käufer keinen Einfluss"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Erst kommt ein Gerücht auf, dann druckt der Hersteller „ohne“ drauf, und schon wirkt das Gerücht bestätigt. Beim Gluten lief das ganz ähnlich, samt glutenfreien Produkten für Leute, die sie gar nicht brauchen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Marketing",
+    "Mythen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 251,
+   "speaker": "Daniel Wefers",
+   "quote": "das heißt meiner Meinung nach zählt das Argument Chemie ist drin nichts weil überall ist Chemie drin",
+   "quote_clean": "Das heißt, meiner Meinung nach zählt das Argument „Chemie ist drin“ nichts, weil überall Chemie drin ist.",
+   "statement": "Das Argument „Da ist Chemie drin“ zählt nichts, weil in allem Chemie steckt.",
+   "question": "Wer hat's gesagt: „Das Argument ‚Chemie ist drin‘ zählt nichts, weil überall Chemie drin ist“?",
+   "answer": "Daniel Wefers",
+   "distractors": [
+    "Andreas Sator",
+    "Michael Pollan",
+    "Eine Ernährungswissenschaftlerin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Alles besteht aus Molekülen, der Apfel genauso wie der Fertigpudding. Für den Lebensmittelchemiker ist „Chemie im Essen“ deshalb ungefähr so aussagekräftig wie „Wasser im Meer“.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Chemie",
+    "Mythen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1932,
+   "speaker": "Daniel Wefers",
+   "quote": "man vergisst do manchmal dabei mit was man Süßstoffe eigentlich vergleicht man vergleicht sie mit Zucker und ja bei Zucker wissen wir auch dass wir vielleicht nicht zu viel davon essen sollten",
+   "quote_clean": "Man vergisst manchmal, womit man Süßstoffe eigentlich vergleicht: Man vergleicht sie mit Zucker, und bei Zucker wissen wir auch, dass wir nicht zu viel davon essen sollten.",
+   "statement": "Süßstoffe muss man mit Zucker vergleichen, nicht mit Wasser, und auch Zucker sollte man nicht zu viel essen.",
+   "question": "Womit sollte man Süßstoffe laut Daniel Wefers fairerweise vergleichen?",
+   "answer": "Mit Zucker",
+   "distractors": [
+    "Mit Wasser",
+    "Mit Honig",
+    "Mit Salz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Light-Limo ersetzt ja nicht das Glas Wasser, sondern die zuckrige Limo. Wer Süßstoffe verteufelt, ohne auf die Alternative zu schauen, vergleicht Äpfel mit Leitungswasser.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Süßstoffe",
+    "Zucker"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 354,
+   "speaker": "Daniel Wefers",
+   "quote": "dann kann man sicher sagen dass ich in der einen Gruppe mehr ungesunde verbergen der andere mehr gesunde aber man kann nicht sagen die sind alle ungesund und die sind alle gesund",
+   "quote_clean": "Dann kann man sicher sagen, dass sich in der einen Gruppe mehr ungesunde verbergen und in der anderen mehr gesunde, aber man kann nicht sagen, die sind alle ungesund und die sind alle gesund.",
+   "statement": "Unter Lebensmitteln mit langen Zutatenlisten gibt es mehr ungesunde, aber eine lange Zutatenliste allein macht ein Produkt nicht ungesund.",
+   "question": "Was sagt eine lange Zutatenliste laut Daniel Wefers über ein Lebensmittel aus?",
+   "answer": "Ein grober Hinweis, aber kein Urteil",
+   "distractors": [
+    "Es ist sicher ungesund",
+    "Es ist besonders gut geprüft",
+    "Es ist hochwertiger als andere"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Als Faustregel für Leute, die sich wenig mit Ernährung befassen, taugt die kurze Zutatenliste schon. Aber ein ballaststoffreicher Fleischersatz mit 15 Zutaten kann gesünder sein als das Original mit drei.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zutatenliste",
+    "Ernährung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 273,
+   "speaker": "Daniel Wefers",
+   "quote": "ich habe so eine Zutatenliste mal für kuhilch geschrieben und die gepostet oder ich zeige die auch manchmal in Vorträgen und dann ähm ja vermuten die Leute eigentlich nie Milch dahinter",
+   "quote_clean": "Ich habe so eine Zutatenliste mal für Kuhmilch geschrieben und gepostet, ich zeige die auch manchmal in Vorträgen, und dann vermuten die Leute eigentlich nie Milch dahinter.",
+   "statement": "Daniel Wefers hat eine vollständige Zutatenliste für Kuhmilch erstellt, und die Leute erkennen darin praktisch nie Milch.",
+   "question": "Für welches Lebensmittel hat Daniel Wefers eine lange Zutatenliste geschrieben, das niemand dahinter vermutet?",
+   "answer": "Für Kuhmilch",
+   "distractors": [
+    "Für Schwarzbrot",
+    "Für Bananen",
+    "Für Bier"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Leute tippen auf irgendein Milchmischgetränk. Zutatenlisten braucht es halt nur, wenn Menschen mischen, wenn das im Euter der Kuh passiert, muss nichts draufstehen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Milch",
+    "Zutatenliste"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 2247,
+   "speaker": "Andreas Sator",
+   "quote": "was nehme ich mir mit erstens jedes Lebensmittel ist chemisch egal ob es auf einem Acker wächst von einem baumfät oder in einem Labor produziert wurde",
+   "quote_clean": "Was nehme ich mir mit? Erstens: Jedes Lebensmittel ist chemisch, egal ob es auf einem Acker wächst, von einem Baum fällt oder in einem Labor produziert wurde.",
+   "statement": "Andreas fasst am Ende der Folge zusammen, was er sich mitnimmt, beginnend damit, dass jedes Lebensmittel chemisch ist.",
+   "question": "Mit welcher Formulierung leitet Andreas am Ende der Folge seine Zusammenfassung ein?",
+   "answer": "„Was nehme ich mir mit?“",
+   "distractors": [
+    "„Was lernen wir daraus?“",
+    "„Lass uns zusammenfassen.“",
+    "„Was ist dein Fazit?“"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am Schluss sortiert Andreas das Gespräch in nummerierte Punkte. Punkt eins diesmal: Chemie ist überall, ob vom Acker, vom Baum oder aus dem Labor.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Zusammenfassung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 682,
+   "speaker": "Andreas Sator",
+   "quote": "warum die Ablehnung von Gentechnik so groß ist in deutschsprachigen Ländern und das ja faszinierend wenn man sich die Schweiz anschaut dann ist im Deutsch sprachigen Teil der Schweiz die abbelhnung viel",
+   "quote_clean": "Warum die Ablehnung von Gentechnik so groß ist in deutschsprachigen Ländern, und das ist faszinierend: Wenn man sich die Schweiz anschaut, dann ist im deutschsprachigen Teil der Schweiz die Ablehnung viel größer.",
+   "statement": "Im deutschsprachigen Teil der Schweiz ist die Ablehnung von Gentechnik deutlich größer als im Rest des Landes, was man mit der deutschen Romantik erklärt.",
+   "question": "Wo in der Schweiz ist die Ablehnung von Gentechnik besonders groß?",
+   "answer": "Im deutschsprachigen Teil",
+   "distractors": [
+    "Im französischsprachigen Teil",
+    "Im italienischsprachigen Tessin",
+    "Überall gleich groß"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine Erklärung reicht 200 Jahre zurück: Als Gegenbewegung zur Industrialisierung feierte die deutsche Romantik, etwa Caspar David Friedrich, das Natürliche gegen das Maschinelle. Dieses Bild hat sich in der Kultur festgesetzt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Gentechnik",
+    "Kultur",
+    "Schweiz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "308",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

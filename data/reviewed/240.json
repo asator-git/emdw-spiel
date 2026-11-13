@@ -1,0 +1,291 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Zahl belegt bei 1234 s; Aha enthielt nicht belegte Details (Miete, Strom, Umsatzsteuer) und wurde vereinfacht.",
+   "stand_note": "",
+   "statement": "Einer kleinen Buchhandlung bleiben vom Ladenpreis eines Buches ungefähr 30 bis 40 Prozent.",
+   "question": "Wie viel Prozent vom Ladenpreis eines Buches bleiben ungefähr bei einer kleinen Buchhandlung?",
+   "answer": "30 bis 40 Prozent",
+   "distractors": [
+    "5 bis 10 Prozent",
+    "15 bis 20 Prozent",
+    "55 bis 65 Prozent"
+   ],
+   "aha": "Bei einem 20-Euro-Buch sind das 6 bis 8 Euro. Buchhändler schlagen nicht wie bei Pullovern etwas drauf, sie bekommen einen Rabatt vom festen Ladenpreis – und große Buchhandlungen handeln sich mehr heraus als kleine Läden.",
+   "quote_clean": "Vom Ladenpreis bleibt ungefähr eine Spanne von zwischen 30 und 40 Prozent bei mir. Das wäre jetzt bei 20 Euro 6 bis 8 Euro, die dann bei dir bleiben.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt bei 1057 s, aber es ist Andreas' eigenes Buch; Frage auf diesen Fall bezogen.",
+   "stand_note": "",
+   "statement": "Von Andreas' Buch, das 22 Euro gekostet hat, bekommt der Autor etwas weniger als zwei Euro.",
+   "question": "Wie viel bekommt ein Autor laut Andreas ungefähr von einem Verlagsbuch, das 22 Euro kostet?",
+   "answer": "Etwas weniger als 2 Euro",
+   "distractors": [
+    "Etwa 5 Euro",
+    "Etwa 8 Euro",
+    "Etwa 11 Euro"
+   ],
+   "aha": "Das sind keine zehn Prozent vom Preis. Den Rest teilen sich Verlag, Druck, Vertrieb und Buchhandlung, weshalb Andreas mit dem Gedanken an den Eigenverlag gespielt hat. Reich wird man vom Bücherschreiben also eher nicht.",
+   "quote_clean": "Ich habe mal überlegt, ein Buch im Eigenverlag herauszugeben, online, weil zum Beispiel mein Buch 22 Euro gekostet hat, als Autor kriegt man davon ein bisschen weniger als zwei Euro.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1261 s.",
+   "stand_note": "",
+   "statement": "Wegen der Buchpreisbindung in Österreich dürfen Buchhändler ein Buch nicht unter einem festgelegten Mindestpreis verkaufen.",
+   "question": "Was regelt die Buchpreisbindung in Österreich?",
+   "answer": "Bücher dürfen nicht billiger verkauft werden",
+   "distractors": [
+    "Bücher dürfen nur im Laden verkauft werden",
+    "Verlage müssen Bücher zurücknehmen",
+    "Autoren bekommen einen fixen Anteil"
+   ],
+   "aha": "Ohne Mindestpreis könnten große Ketten, die tausende Stück auf einmal nehmen, Bestseller billiger hergeben als der kleine Laden, der vom selben Titel erst einmal fünf bestellt. Die Preisbindung soll genau diese Konzentration verhindern.",
+   "quote_clean": "Die Buchhändler sind verpflichtet, einen Mindestpreis für dieses Buch einzuhalten, und dürfen es nicht darunter verkaufen, weil sonst die Gefahr besteht, dass große Buchhandlungen die Verlage so erpressen können, dass sie mehr Rabatt bekommen.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "fairness"
+   ],
+   "note": "Satz bricht ab („auf 90 Cent auf…“), Bedeutung unklar; Aha erfindet Beispielpreise; Behauptung über Ketten ungeprüft.",
+   "stand_note": "",
+   "statement": "Laut Tilman Eder runden große Buchhandelsketten den Mindestpreis oft auf 90 Cent auf und verkaufen Bücher damit teurer als kleine Läden.",
+   "question": "Was machen große Buchhandelsketten laut Tilman Eder mit dem Mindestpreis eines Buches?",
+   "answer": "Sie runden auf 90 Cent auf",
+   "distractors": [
+    "Sie runden auf ganze Euro ab",
+    "Sie geben zehn Prozent Rabatt",
+    "Sie verlangen genau den Mindestpreis"
+   ],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt bei 769-799 s; Frage enger am Beispiel formuliert, Distraktoren waren teils real denkbar oder unklar.",
+   "stand_note": "",
+   "statement": "Buchhändler können mit Verlagen oft vereinbaren, unverkaufte Bücher etwa nach einer Buchpräsentation zurückzuschicken.",
+   "question": "Was vereinbart eine Buchhandlung mit dem Verlag, wenn sie für eine Buchpräsentation 100 Bücher bestellt, aber nur 30 sicher verkaufen wird?",
+   "answer": "Dass sie unverkaufte Bücher zurückschicken darf",
+   "distractors": [
+    "Dass der Verlag die Präsentation bezahlt",
+    "Dass sie die übrigen Bücher billiger verkaufen darf",
+    "Dass der Autor die übrigen Bücher kauft"
+   ],
+   "aha": "Die Verlage spielen oft mit, weil sich ein Buch eher verkauft, wenn es im Regal steht. Selbstverständlich ist das aber nicht: Im Regelfall trägt der Händler das Risiko.",
+   "quote_clean": "Ich bestelle mal 100 Bücher, damit theoretisch jeder, der kommen könnte, auch eins kriegt. Und dann rufe ich beim Verlag an: Ich weiß nicht, wie viele Leute kommen, liefert mir 100 Bücher unter der Bedingung, dass ich auch 70 davon zurückschicken darf, wenn nur 30 Bücher verkauft werden.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "transkription",
+    "kontext"
+   ],
+   "note": "Vage, selbst korrigierte Schätzung („vielleicht eher zehn Prozent“), Transkript an der Stelle verwirrt.",
+   "stand_note": "",
+   "statement": "Im Buchhandel sorgen laut Tilman Eder eher 10 Prozent der Titel für 80 Prozent des Umsatzes, also weniger als die klassischen 20 Prozent nach dem Pareto-Prinzip.",
+   "question": "Wie viel Prozent der Titel sorgen im Buchhandel laut Tilman Eder für 80 Prozent des Umsatzes?",
+   "answer": "Etwa 10 Prozent",
+   "distractors": [
+    "Etwa 30 Prozent",
+    "Etwa 45 Prozent",
+    "Etwa 60 Prozent"
+   ],
+   "aha": "",
+   "quote_clean": "Vielleicht sind es eher zehn Prozent, nein, zehn Prozent der Titel sorgen für 80 Prozent des Umsatzes.",
+   "quality": 1
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Belegt bei 1465 s („höchstwahrscheinlich morgen“); Aha enthielt nicht belegte Details zu Großhändlern.",
+   "stand_note": "",
+   "statement": "Ein in einer Wiener Buchhandlung bestelltes Buch ist laut Tilman Eder meist schon am nächsten Tag da, also ähnlich schnell wie beim Onlinehandel.",
+   "question": "Wie schnell ist ein Buch laut Tilman Eder meist da, das du in einer Wiener Buchhandlung bestellst?",
+   "answer": "Am nächsten Tag",
+   "distractors": [
+    "Nach etwa einer Woche",
+    "Nach zwei bis drei Wochen",
+    "Nach etwa einem Monat"
+   ],
+   "aha": "Wer im Grätzl ein Buch bestellt, hat es oft schon am nächsten Tag und muss kein Paket beim Schuster oder im Kaffeehaus abholen, sondern geht einfach ums Eck.",
+   "quote_clean": "Die sind ja genauso schnell wie diese Amerikaner. Das heißt, wenn du bei mir heute ein Buch bestellst, dann ist es höchstwahrscheinlich morgen auch da.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt bei nur einem Gast ist trivial, Distraktoren absurd.",
+   "stand_note": "",
+   "statement": "Tilman Eder glaubt, dass Lesen nie unmodern wird, weil ein Buch Entspannung ohne Akku und Ladegerät bietet.",
+   "question": "Wer sagt im Podcast, dass das Lesen nie unmodern wird, solange man Entspannung sucht?",
+   "answer": "Tilman Eder",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Verlagsvertreterin",
+    "Ein Hörer"
+   ],
+   "aha": "",
+   "quote_clean": "Man setzt sich aufs Sofa und hat mit einem Buch einfach eine totale Entspannung, und ob man das jetzt Detox nennt oder sonst irgendeinen modernen Begriff dafür: Das Lesen wird nie unmodern werden, solange man einfach auch Entspannung sucht.",
+   "quality": 1
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt bei nur einem Gast ist trivial, Distraktoren absurd.",
+   "stand_note": "",
+   "statement": "Wer ein Geschäft eröffnet, sollte schauen, wer schon vor Ort ist, und sich eine Nische suchen.",
+   "question": "Wer erklärt die Nischensuche so: Wenn schon drei Läden rote Socken verkaufen, verkaufe ich grüne?",
+   "answer": "Tilman Eder",
+   "distractors": [
+    "Andreas Sator",
+    "Peter Windischhofer",
+    "Donna Leon"
+   ],
+   "aha": "",
+   "quote_clean": "Sich zu positionieren und für sich selber eine Nische zu finden: Wenn schon drei Läden dort sind, die rote Socken verkaufen, dann verkaufe ich grüne.",
+   "quality": 1
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 257-286 s.",
+   "stand_note": "",
+   "statement": "Für eine Buchhandlung und andere kleine Läden ist Mundpropaganda wichtiger als Laufkundschaft.",
+   "question": "Worauf sollte ein kleiner Laden laut Tilman Eder eher setzen als auf Laufkundschaft?",
+   "answer": "Auf Mundpropaganda",
+   "distractors": [
+    "Auf eine Straßenbahnhaltestelle",
+    "Auf große Schaufenster",
+    "Auf Rabattaktionen"
+   ],
+   "aha": "Sein Laden ist so versteckt, dass man leicht vorbeiläuft. Im Grätzl der Josefstadt sind aber viele zu Fuß unterwegs und erzählen weiter, wo es was gibt. Eine Haltestelle vor der Tür braucht es dafür nicht.",
+   "quote_clean": "Man sollte gar nicht so sehr auf Laufkundschaft setzen, sondern das Beste für eine Buchhandlung, aber auch für jeden anderen Laden, ist tatsächlich, dass es sich durch Mundpropaganda herumspricht.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Persönliche Meinung des Gastes ohne Beleg als Fakt; Distraktoren teils absurd.",
+   "stand_note": "",
+   "statement": "Nicht jedes online bestellte Buch wäre sonst in einer Buchhandlung gekauft worden, darum nimmt Amazon dem Buchhandel weniger weg, als man denkt.",
+   "question": "Warum wird Amazon für den Buchhandel laut Tilman Eder überschätzt?",
+   "answer": "Online- und Ladenkäufer überschneiden sich wenig",
+   "distractors": [
+    "Amazon verkauft kaum deutsche Bücher",
+    "Amazon muss höhere Preise verlangen",
+    "Amazon liefert in Wien nicht"
+   ],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 2
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Hedged Vermutung („ich glaube“); Aha enthält Unbelegtes (Chicago/New York, Wien-Krimis).",
+   "stand_note": "",
+   "statement": "Viele lesen Romane über Menschen in ähnlichen Lebensrealitäten, um zu sehen, wie andere damit umgehen.",
+   "question": "Warum lesen viele Menschen laut Tilman Eder gern Romane über Leute in ähnlichen Lebensrealitäten?",
+   "answer": "Um zu sehen, wie andere damit umgehen",
+   "distractors": [
+    "Weil sie leichter zu lesen sind",
+    "Weil sie billiger angeboten werden",
+    "Weil Buchhändler sie öfter empfehlen"
+   ],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 2
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Belegt bei 456 s, aber „an“ statt „in“ den Wänden; Aha enthielt Unbelegtes (Friseurin, Haarspray) und wurde bereinigt; Antwort konkreter.",
+   "stand_note": "",
+   "statement": "Beim Renovieren fand Tilman Eder an den Wänden alte Zeitungen, darunter ein Interview mit Prohaska und Polster ein halbes Jahr vor Córdoba.",
+   "question": "Was entdeckte Tilman Eder beim Renovieren seines Ladens an den Wänden?",
+   "answer": "Alte Zeitungen mit einem Interview mit Prohaska und Polster",
+   "distractors": [
+    "Einen alten Liebesbrief des Vormieters",
+    "Eine Erstausgabe von Arthur Schnitzler",
+    "Ein Bündel alter Schillingscheine"
+   ],
+   "aha": "Vier Monate lang haben er und Freunde das Lokal selbst hergerichtet. Dabei tauchte ein Interview mit Prohaska und Polster auf – ein halbes Jahr, bevor Österreich 1978 in Córdoba Deutschland schlug.",
+   "quote_clean": "An den Wänden waren alte Zeitungen, und in einer Zeitung war ein Interview mit Prohaska und Polster, ein halbes Jahr bevor sie nach Argentinien geflogen sind, also ein halbes Jahr vor Córdoba.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Triviale Meta-Frage zum Gesprächsablauf; Aha nennt Bücher/Autor:innen, die im Ausschnitt nicht belegt sind.",
+   "stand_note": "",
+   "statement": "Zum Schluss bittet Andreas den Buchhändler um drei Buchempfehlungen, die die Hörer:innen ziemlich sicher noch nicht kennen.",
+   "question": "Worum bittet Andreas den Buchhändler Tilman Eder zum Schluss der Folge?",
+   "answer": "Um drei unbekannte Buchempfehlungen",
+   "distractors": [
+    "Um seinen liebsten Wien-Krimi",
+    "Um einen Tipp für Gründer",
+    "Um eine Lesung aus seinem Buch"
+   ],
+   "aha": "",
+   "quote_clean": "Magst du meinen Hörerinnen und Hörern zum Schluss noch drei Bücher empfehlen, die sie ziemlich sicher noch nicht gelesen haben?",
+   "quality": 1
+  }
+ ],
+ "id": "240",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

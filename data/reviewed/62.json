@@ -1,0 +1,291 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg bei 123 stimmt; Frage muss auf den Aufnahmezeitpunkt bezogen werden, sonst heute falsch.",
+   "stand_note": "Stand 2019",
+   "statement": "Zum Zeitpunkt der Aufnahme (2019) lebte Monika Zeisenböck seit fünf Jahren im Pflegeheim St. Barbara in Wien.",
+   "question": "Wie viele Jahre lebte Monika zum Zeitpunkt der Aufnahme schon im Pflegeheim St. Barbara?",
+   "answer": "5",
+   "distractors": [
+    "2",
+    "9",
+    "12"
+   ],
+   "aha": "Fünf Jahre, und sie gehört nach eigenen Worten schon zum Inventar. Ursprünglich kommt sie aus Tirol, nach Wien hat sie die Liebe gebracht. Die Liebe ist gegangen, sie ist geblieben.",
+   "quote_clean": "Hallo, ich bin die Monika. Ich komme ursprünglich aus Tirol. Ich lebe jetzt seit fünf Jahren in St. Barbara im Pflegeheim, und da gefällt es mir sehr gut.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "68 ist belegt (557); der Aha-Text nannte Krankheitsdetails, die im Ausschnitt nicht stehen, und die Aussage wertete.",
+   "stand_note": "Stand 2019",
+   "statement": "Monika war zum Zeitpunkt der Aufnahme 68 Jahre alt.",
+   "question": "Wie alt war Monika, als sie im Podcast von ihrem Leben im Pflegeheim erzählt hat?",
+   "answer": "68 Jahre",
+   "distractors": [
+    "79 Jahre",
+    "84 Jahre",
+    "91 Jahre"
+   ],
+   "aha": "Viele denken bei einem Pflegeheim nur an Hochbetagte. Monika lebt seit fünf Jahren dort, ist also mit Anfang 60 eingezogen, nachdem es ihr daheim zuletzt sehr schlecht gegangen war.",
+   "quote_clean": "Wie alt bist du, Monika? Ich bin 68.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Kernaussage steht bei 375-380, nicht im gewählten Zitat; Zitat und Statement angepasst.",
+   "stand_note": "",
+   "statement": "Viele alte Menschen haben laut Monika ein Problem mit der Eingewöhnung, wenn sie direkt von daheim ins Heim kommen.",
+   "question": "Wem fällt laut Monika der Umzug ins Pflegeheim oft besonders schwer?",
+   "answer": "Wer direkt von daheim kommt",
+   "distractors": [
+    "Wer vorher im Spital war",
+    "Wer ein Einzelzimmer bekommt",
+    "Wer aus dem Ausland kommt"
+   ],
+   "aha": "Monika war vor dem Heim zwei Monate im Spital und sagt, das war schon ein ganz anderer Ablauf als daheim. Wer direkt aus der eigenen Wohnung kommt, erlebt den Bruch auf einen Schlag, und da hört sie oft: Warum muss ich da sein?",
+   "quote_clean": "Ich glaube, mit dem haben eigentlich viele alte Menschen ein Problem, wenn sie direkt von daheim ins Heim kommen.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Belegt bei 1153/1165; persönliche Einschätzung einer Bewohnerin 2019, daher Stand-Hinweis; Zitat geglättet ohne Sinnänderung.",
+   "stand_note": "Stand 2019",
+   "statement": "Zeit ist laut Monika im Pflegeheim die größte Mangelware beim Pflegepersonal.",
+   "question": "Was fehlt den Pflegerinnen und Pflegern im Heim laut Monika am meisten?",
+   "answer": "Zeit",
+   "distractors": [
+    "Ausbildung",
+    "Freundlichkeit",
+    "Geduld"
+   ],
+   "aha": "Versorgt fühlt sich Monika gut, nur zum Plaudern bleibt kaum Luft. Sie spürt auch, dass gespart wird. Ihr Fazit zum Job: kein Honiglecken, Hut ab vor allen, die ihn machen.",
+   "quote_clean": "Die Zeit, das ist das Einzige, das haben sie einfach nicht. Zeit ist wirklich Mangelware da drinnen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "FSW belegt (1320); Aha enthielt nicht belegtes Hotel-Zitat; Regelung kann sich seit 2019 geändert haben.",
+   "stand_note": "Stand 2019",
+   "statement": "In Wien übernahm der Fonds Soziales Wien laut Monika die Mehrkosten für ihr Einzelzimmer im Pflegeheim.",
+   "question": "Wer zahlt in Monikas Fall die Mehrkosten für das Einzelzimmer im Wiener Pflegeheim?",
+   "answer": "Der Fonds Soziales Wien",
+   "distractors": [
+    "Ihre Tochter",
+    "Die Krankenkasse",
+    "Die Caritas"
+   ],
+   "aha": "Der Fonds Soziales Wien ist eine Einrichtung der Stadt Wien, die Pflege- und Betreuungsleistungen fördert. Monika bekam das Einzelzimmer angeboten, als eines frei wurde, und nahm es natürlich an.",
+   "quote_clean": "Das kostet schon mehr, aber das zahlt der Fonds Soziales Wien. Die zahlen das, ja.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1463-1497 belegt, als Einschätzung klar mit laut Monika gerahmt.",
+   "stand_note": "",
+   "statement": "Wer im Heim sagt, er wäre lieber tot, hat laut Monika meist weniger mit Schmerzen zu kämpfen als damit, das Heimleben nicht zu akzeptieren.",
+   "question": "Was steckt laut Monika meist dahinter, wenn Heimbewohner:innen sagen, sie wären lieber tot?",
+   "answer": "Sie akzeptieren das Heimleben nicht",
+   "distractors": [
+    "Sie haben starke Schmerzen",
+    "Sie bekommen keinen Besuch",
+    "Das Essen schmeckt ihnen nicht"
+   ],
+   "aha": "Schmerzmäßig seien im Heim alle gut eingestellt, sagt Monika. Das Problem sitze im Kopf: Wer sich nicht eingesteht, dass es daheim nicht mehr geht, findet alles schlecht, vom Essen bis zur Schwester, die nicht kommt.",
+   "quote_clean": "Ich glaube, das sind genau die, die sich nicht damit abfinden können, im Heim leben zu müssen. Und ich glaube, das ist das größte Problem für sie.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt (703-725), aber Antwort und Distraktoren ungleich lang und die Frage verwirrend; neu gefasst.",
+   "stand_note": "",
+   "statement": "Beim Einleben ins Pflegeheim kam bei Monika zuerst die Vernunft und erst mit der Zeit das Wohlfühlgefühl.",
+   "question": "Wie hat sich Monikas Einleben im Heim laut ihr entwickelt?",
+   "answer": "Erst die Vernunft, dann das Wohlfühlen",
+   "distractors": [
+    "Erst das Wohlfühlen, dann die Vernunft",
+    "Beides sofort am ersten Tag",
+    "Beides erst nach vielen Jahren"
+   ],
+   "aha": "Zuerst hat sie sich gefragt: Was würdest du daheim machen, wenn du am Boden liegst und nicht aufkommst? Das hat sie vernunftmäßig überzeugt. Das Wohlfühlgefühl kam erst, als sie das Haus und die Leute kannte.",
+   "quote_clean": "Das Wohlfühlgefühl ist erst mit der Zeit gekommen. Man muss das Haus einmal kennenlernen, man muss wissen, wie das rennt. Und nachher wächst man so ein bisschen hinein.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Gemeindebau-Vergleich bei 1056 belegt; Aha-Text enthielt unklare Formulierung (stellt man aus).",
+   "stand_note": "",
+   "statement": "Monika vergleicht das Zusammenleben im Pflegeheim mit dem in einem Wiener Gemeindebau.",
+   "question": "Womit vergleicht Monika das Zusammenleben mit den anderen Bewohner:innen?",
+   "answer": "Mit einem Gemeindebau",
+   "distractors": [
+    "Mit einer Schulklasse",
+    "Mit einem Kloster",
+    "Mit einer Kaserne"
+   ],
+   "aha": "Man trifft sich am Gang oder im Garten, mit manchen versteht man sich, anderen geht man eher aus dem Weg. Ganz normale Nachbarschaft also, nur mit Speisesaal und Abendprogramm.",
+   "quote_clean": "Aber das ist nicht anders, als wenn ich heute in einem Gemeindebau lebe. Da gibt es Leute, die ich mag, und die, die ich nicht mag.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Zitat nennt die Bedingung (Glück, halbwegs schmerzfrei) im Original; Frage auf die Bedingung umgestellt statt banaler Wer-sagte-Frage.",
+   "stand_note": "",
+   "statement": "Ein herrliches Leben im Pflegeheim ist laut Monika möglich, wenn man sich wirklich einlässt und halbwegs schmerzfrei ist.",
+   "question": "Was gehört laut Monika dazu, damit man im Pflegeheim ein herrliches Leben haben kann?",
+   "answer": "Sich einlassen und halbwegs schmerzfrei sein",
+   "distractors": [
+    "Viel Besuch und ein Einzelzimmer",
+    "Ein straffes Therapieprogramm",
+    "Ein guter Koch im Haus"
+   ],
+   "aha": "Ein Jahr bevor sie ins Heim kam, hat Monika noch für andere eingekauft und gekocht. Pflegeheim war für sie nie ein Thema. Heute sagt sie: Jetzt ist meine beste Zeit.",
+   "quote_clean": "Aber wenn man sich dann wirklich einlässt, dann kann man es genießen, und wenn man Glück hat, halbwegs schmerzfrei zu sein, kann man darin ein herrliches Leben haben.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 136 belegt, Aussage eindeutig.",
+   "stand_note": "",
+   "statement": "Monika kam der Liebe wegen von Tirol nach Wien und blieb, als die Liebe ging.",
+   "question": "Warum ist Monika ursprünglich von Tirol nach Wien gezogen?",
+   "answer": "Der Liebe wegen",
+   "distractors": [
+    "Wegen eines Jobs",
+    "Für das Studium",
+    "Wegen ihrer Tochter"
+   ],
+   "aha": "Ein Satz wie ein Liedtext: Die Liebe ist gegangen, ich bin geblieben. Aus der Tirolerin wurde eine Wienerin, die heute im Pflegeheim in St. Barbara lebt.",
+   "quote_clean": "Ja, das war einmal der Liebe wegen. Die Liebe ist gegangen, ich bin geblieben.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt bei 1747-1750; Frage vage und Distraktoren Strohmänner, daher präzisiert.",
+   "stand_note": "",
+   "statement": "Monika sagt zum Klimawandel, dass rigoros etwas passieren muss.",
+   "question": "Was muss laut Monika beim Klimawandel passieren?",
+   "answer": "Es muss rigoros etwas passieren",
+   "distractors": [
+    "Die Jungen sollen das lösen",
+    "Man soll erst neue Technik abwarten",
+    "Es reicht, wenn jeder ein bisschen spart"
+   ],
+   "aha": "Ausgerechnet die 68-Jährige im Pflegeheim macht sich Sorgen um die Jungen. Ihre Generation habe es mit dem Aufbau schön gehabt, die Jungen müssten noch viel aushalten.",
+   "quote_clean": "Es ist euch Jungen wirklich zu wünschen, aber es muss rigoros etwas passieren.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Belegt bei 941-956; der Aha-Text gab einen falschen Grund an (Hauptgrund ist, dass sie das Essen im Speisesaal unappetitlich findet).",
+   "stand_note": "",
+   "statement": "Monika isst mittags im Zimmer und genießt dazu ein alkoholfreies Bier aus dem Kühlschrank.",
+   "question": "Was trinkt Monika gern zum Mittagessen in ihrem Zimmer?",
+   "answer": "Alkoholfreies Bier",
+   "distractors": [
+    "Gespritzten Apfelsaft",
+    "Ein Achterl Rotwein",
+    "Kamillentee"
+   ],
+   "aha": "Einen Speisesaal gäbe es, aber Monika isst lieber in Ruhe im Zimmer. Dort steht im Kühlschrank ihr alkoholfreies Bier, und das genießt sie zum Essen so richtig.",
+   "quote_clean": "Ich esse auch zu Mittag im Zimmer. Wir hätten einen Speisesaal. Aber ich muss ehrlich sagen, ich trinke zu Mittag. Da habe ich im Kühlschrank ein Clausthaler, also alkoholfreies Bier.",
+   "quality": 4
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Sie sagt, sie sei schon immer Frühaufsteherin; die Katzen füttert sie erst gegen halb sechs. Frage-Kausalität war falsch, daher umgestellt.",
+   "stand_note": "",
+   "statement": "Monika füttert jeden Morgen gegen halb sechs die Streunerkatzen im Garten des Heims.",
+   "question": "Was macht Monika jeden Morgen gegen halb sechs?",
+   "answer": "Streunerkatzen im Garten füttern",
+   "distractors": [
+    "Zeitung lesen",
+    "Morgengymnastik machen",
+    "Im Speisesaal frühstücken"
+   ],
+   "aha": "Danach geht sie mit ihrer eigenen Katze Paula im Garten spazieren. Wenn sie einmal eine Stunde verschläft, ist sie ganz aus dem Häusl, weil die Katzen warten.",
+   "quote_clean": "Ich stehe so um fünf, Viertel nach fünf auf. Dann gehe ich ins Bad und mache mich frisch. So um halb sechs richte ich Katzenfutter her, weil ich im Garten Streunerkatzen habe, die ich füttern gehe.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage nach einer Floskel von Andreas, nicht erratbar und ohne Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Am Ende der Folge fasst Andreas mit der Frage „Was nehme ich mir mit?“ zusammen, was er gelernt hat.",
+   "question": "Mit welcher Frage leitet Andreas am Ende der Folge seine persönliche Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was habe ich gelernt?",
+    "Was bleibt hängen?",
+    "Was heißt das für uns?"
+   ],
+   "aha": "Seine Lehre aus dem Gespräch: sich auf eine neue Lebensphase einlassen, schauen, was realistisch ist, und das Beste daraus machen.",
+   "quote_clean": "Was nehme ich mir mit? Was ich bei Monika sehr spannend fand, war der Gedanke, dass man sich auf das Leben einlassen muss.",
+   "quality": 1
+  }
+ ],
+ "id": "62",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

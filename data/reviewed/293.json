@@ -1,0 +1,278 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg stimmt (436, keiner überprüft); Frage um Quellenangabe ergänzt, Aha neutraler formuliert.",
+   "stand_note": "",
+   "statement": "Laut Florian Klenk reichte Novomatic beim Spielapparate-Beirat 436 Automaten zur Begutachtung ein, der Beirat überprüfte keinen einzigen davon.",
+   "question": "Wie viele Glücksspielautomaten reichte Novomatic laut Florian Klenk beim Spielapparate-Beirat ein, ohne dass einer davon überprüft wurde?",
+   "answer": "436",
+   "distractors": [
+    "48",
+    "1.200",
+    "3.500"
+   ],
+   "aha": "Der Beirat sollte prüfen, ob ein Automat harmloses kleines Glücksspiel ist oder schon großes. Laut Florian Klenk wurde bei keinem der 436 Geräte tatsächlich geprüft. Die Vorgänge liegen laut ihm 15 bis 20 Jahre zurück.",
+   "quote_clean": "436 Automaten eingereicht, und der Spielapparate-Beirat hat keinen einzigen überprüft. Null.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (8 Jahre, erste Instanz); Frage ist ausdrücklich auf erste Instanz bezogen, höhere Instanzen später separat.",
+   "stand_note": "Stand 2024",
+   "statement": "Der frühere Finanzminister Karl-Heinz Grasser wurde in erster Instanz zu acht Jahren Haft verurteilt.",
+   "question": "Zu wie vielen Jahren Haft wurde Ex-Finanzminister Karl-Heinz Grasser in erster Instanz verurteilt?",
+   "answer": "8 Jahre",
+   "distractors": [
+    "2 Jahre",
+    "5 Jahre",
+    "12 Jahre"
+   ],
+   "aha": "Bei der Buwog-Privatisierung ging es um rund 10 Millionen Euro Bestechungsgeld, laut Urteil ein Viertel davon für Grasser. Die Frage bezieht sich auf das Urteil der ersten Instanz, was in den höheren Instanzen daraus wurde, ist eine eigene Geschichte.",
+   "quote_clean": "Der Fall Grasser: Karl-Heinz Grasser wird verurteilt zu acht Jahren Haft. Auch hier ein kleiner Rückblick.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Zahl stimmt, aber 'im großen Stil' steht nicht im Transkript; Frage auf Klenks Kontext (Bestechung durch Medien) eingegrenzt.",
+   "stand_note": "Stand 2024",
+   "statement": "Laut Florian Klenk droht bei Bestechung von Politiker:innen durch Medien eine Strafe von bis zu zehn Jahren, bei einer Falschaussage bis zu drei.",
+   "question": "Wie viele Jahre Haft drohen laut Florian Klenk maximal, wenn Politiker:innen von Medien bestochen wurden?",
+   "answer": "10 Jahre",
+   "distractors": [
+    "3 Jahre",
+    "5 Jahre",
+    "20 Jahre"
+   ],
+   "aha": "Beim Kurz-Prozess ging es um eine Falschaussage, da liegt die Strafdrohung laut Klenk bei drei Jahren. Bei Bestechung sind es bis zu zehn, deshalb steht bei der Inseratenaffäre so viel auf dem Spiel. Für alle Beteiligten gilt die Unschuldsvermutung.",
+   "quote_clean": "von den Medien bestochen wurden. Die Strafdrohung dafür ist nicht wie jetzt drei Jahre, sondern zehn Jahre. Und ein Bundeskanzler, der einer Bestechung überführt würde, würde eine unbedingte Haftstrafe bekommen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "Zahlen stimmen (19 % Krone, 8 % Falter); Aha enthielt eine nicht belegte Behauptung (Krone bekomme 'ein Vielfaches'), neu formuliert; Reichweiten sind Stand 2024.",
+   "stand_note": "Stand 2024",
+   "statement": "Die Kronen Zeitung erreicht in Wien rund 19 Prozent, mehr als doppelt so viel wie der Falter mit rund 8 Prozent.",
+   "question": "Wie viel Prozent der Wiener:innen erreicht die Kronen Zeitung laut Florian Klenk?",
+   "answer": "19 Prozent",
+   "distractors": [
+    "8 Prozent",
+    "35 Prozent",
+    "52 Prozent"
+   ],
+   "aha": "Der Falter kommt in Wien auf rund 8 Prozent Reichweite, die Krone auf 19. Klenks Punkt: Bei den Regierungsinseraten müsste die Krone gemessen daran deutlich mehr bekommen als der Falter, und dessen Zeitung bekam im Halbjahr 2023 rund 200.000 Euro.",
+   "quote_clean": "Die Kronen Zeitung hat in Wien eine Reichweite von 19 Prozent, also ein bisschen mehr als doppelt so viel wie der Falter.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Klenk sagt 'Welser Deklaration', die Antwort 'Welser Erklärung' und die Herkunft 'beschlossen in Wels' sind nicht belegt; die pauschale Behauptung zur Parteimitgliedschaft ist rechtlich nicht gesichert und die Distraktoren sind erfunden.",
+   "stand_note": "",
+   "statement": "Österreichs Richter:innen und Staatsanwält:innen haben sich in der Welser Erklärung verpflichtet, nicht Mitglied politischer Organisationen zu werden – anders als die Polizei.",
+   "question": "Wie heißt die Erklärung, mit der sich Österreichs Richter:innen und Staatsanwält:innen zur Parteifreiheit verpflichtet haben?",
+   "answer": "Welser Erklärung",
+   "distractors": [
+    "Linzer Erklärung",
+    "Salzburger Kodex",
+    "Grazer Charta"
+   ],
+   "aha": "Bei der Polizei ist Parteimitgliedschaft kein Problem, bei Richter:innen und Staatsanwält:innen schon.",
+   "quote_clean": "Die Staatsanwälte sind in Österreich parteifrei, so wie die Richter. Die haben eine sogenannte Welser Deklaration unterschrieben, dass sie, anders als die Polizei, nicht bei politischen Organisationen Mitglied werden.",
+   "quality": 1
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt, Klenk formuliert vorsichtig ('ziemlich sicher nicht'), Frage trägt das mit 'wohl'; bezieht sich auf damalige Rechtslage.",
+   "stand_note": "Stand 2019",
+   "statement": "Zur Zeit des Ibiza-Videos war das sogenannte Anfüttern von Abgeordneten in Österreich nicht strafbar.",
+   "question": "Warum war Straches Auftritt im Ibiza-Video laut Florian Klenk wohl keine Straftat?",
+   "answer": "Anfüttern von Abgeordneten war nicht strafbar",
+   "distractors": [
+    "Das Video war illegal aufgenommen",
+    "Die Tat war bereits verjährt",
+    "Spanisches Recht war zuständig"
+   ],
+   "aha": "Anfüttern heißt: jemandem Vorteile zukommen lassen, ohne dass schon ein konkretes Gegengeschäft vereinbart ist. Für Abgeordnete war das damals eine Lücke im Gesetz, politisch war Ibiza trotzdem ein Erdbeben.",
+   "quote_clean": "Da geht's darum, ob Strache eine Straftat begangen hat. Ziemlich sicher nicht, weil damals das Anfüttern von Abgeordneten nicht strafbar war.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (Andreas, ca. Sekunde 57-84); harmlose Einstiegsfrage.",
+   "stand_note": "",
+   "statement": "Andreas schlägt vor, die Ibiza-Affäre wie eine Matrjoschka zu erklären: In jeder Affäre steckt eine weitere.",
+   "question": "Mit welchem Bild schlägt Andreas vor, die vielen Affären rund um Ibiza zu ordnen?",
+   "answer": "Eine Matrjoschka-Puppe",
+   "distractors": [
+    "Ein Kartenhaus",
+    "Eine Zwiebel",
+    "Ein Dominospiel"
+   ],
+   "aha": "Ganz außen Ibiza, darin die Casinos-Affäre, darin die Inseratenaffäre, darin Benko und so weiter. Jede Puppe, die man aufmacht, bringt die nächste zum Vorschein.",
+   "quote_clean": "Wir stellen uns die Ibiza-Affäre vor – jetzt geht's ja viel um Russland – wie eine Matrjoschka, diese kleinen russischen Puppen, wo du immer eine aufmachst und eine kleinere drin ist.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt, als Verdacht der WKStA korrekt gerahmt, Unschuldsvermutung erwähnt.",
+   "stand_note": "Stand 2024",
+   "statement": "Die WKStA vermutet in der Inseratenaffäre, dass ein Medium der Politik positive Berichterstattung als Vorteil anbot, um an Inserate zu kommen – die Medien hätten also die Politik bestochen.",
+   "question": "Wer hat laut dem Verdacht der WKStA in der Inseratenaffäre wen bestochen?",
+   "answer": "Die Medien die Politik",
+   "distractors": [
+    "Die Politik die Medien",
+    "Die Parteien die Beamten",
+    "Die Unternehmen die Medien"
+   ],
+   "aha": "Der Kniff: Positive Berichterstattung ist selbst ein Vorteil. Wer sie einem Beamten anbietet, damit der die Staatskasse für Inserate öffnet, besticht ihn. Für alle Beteiligten gilt die Unschuldsvermutung.",
+   "quote_clean": "einen Vorteil an, nämlich positive Berichterstattung, um ihn zu einem Amtsgeschäft zu bringen. Das heißt: Nicht die Politik hat die Medien bestochen, sondern die Medien haben die Politik bestochen.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt, entspricht der Kronzeugenregelung (neue Informationen nötig).",
+   "stand_note": "",
+   "statement": "Kronzeuge wird in Österreich nur, wer der Justiz Straftaten offenbart, die sie noch nicht kennt – ein bloßes Geständnis reicht nicht.",
+   "question": "Was muss jemand in Österreich liefern, um Kronzeug:in zu werden?",
+   "answer": "Neue, noch unbekannte Straftaten aufdecken",
+   "distractors": [
+    "Ein Geständnis vor Gericht ablegen",
+    "Den Schaden vollständig zurückzahlen",
+    "Eine Kaution bei Gericht hinterlegen"
+   ],
+   "aha": "Laut Klenk wollte Thomas Schmid denselben Deal wie Sabine Beinschab. Die Staatsanwält:innen sagten sinngemäß: Was wir eh schon wissen, zählt nicht. Also begann er, über weitere Fälle auszupacken, etwa rund um Benko.",
+   "quote_clean": "Die Staatsanwälte haben gesagt: Schön für dich, aber du musst uns was Neues erzählen, weil wir wissen schon viel über dich. Nur weil wir dich überführt haben, wirst du kein Kronzeuge.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Beleg stimmt (dreimal); Aha war an einer Stelle sinnentstellt (Rechnung 'unter falschem Namen nicht gezahlt') und ist jetzt korrekt; Quellenangabe ergänzt.",
+   "stand_note": "",
+   "statement": "Laut Florian Klenk ließ ein Mitarbeiter aus dem Kanzleramt in der Schredder-Affäre fünf Festplatten bei der Firma Reißwolf dreimal schreddern.",
+   "question": "Wie oft ließ ein Kanzleramts-Mitarbeiter in der Schredder-Affäre die Festplatten laut Florian Klenk bei der Firma Reißwolf schreddern?",
+   "answer": "Dreimal",
+   "distractors": [
+    "Einmal",
+    "Zweimal",
+    "Fünfmal"
+   ],
+   "aha": "Klenk beschreibt es so: Der Staub, der unten aus der Maschine kam, wurde gleich noch zweimal oben hineingeworfen, wie bei der Mühle in Max und Moritz. Den Sack mit dem Staub nahm er mit, und die Rechnung bezahlte er nicht, weil er unter falschem Namen auftrat.",
+   "quote_clean": "nimmt fünf Festplatten aus dem Bundeskanzleramt, fährt zur Firma Reißwolf und lässt sie dort dreimal schreddern.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg stimmt (Oper-Vergleich); quote_clean war mitten im Satz abgeschnitten, ergänzt.",
+   "stand_note": "",
+   "statement": "Florian Klenk vergleicht die Ausrede „Das machen doch alle“ mit jemandem, der in der Oper laut furzt und dann behauptet, alle anderen würden das auch tun.",
+   "question": "Womit vergleicht Florian Klenk die Ausrede „Das machen doch alle“?",
+   "answer": "Mit einem lauten Furz in der Oper",
+   "distractors": [
+    "Mit Schwarzfahren in der Straßenbahn",
+    "Mit Falschparken vor dem Parlament",
+    "Mit Schummeln beim Schnapsen"
+   ],
+   "aha": "Wer erwischt wird, sagt gern: Das machen eh alle. Klenks Gegenargument: Die meisten in der Oper wollen einfach eine ordentliche Aufführung, und gestört hat die Veranstaltung trotzdem der, der es getan hat.",
+   "quote_clean": "Abgesehen davon haben jetzt nicht alle in der Oper einen Schas gelassen. Das ist eine Schutzbehauptung, du vernebelst damit die Wahrheit.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (Sekunde ca. 3539-3580), Bild eindeutig.",
+   "stand_note": "",
+   "statement": "Florian Klenk sieht Parlament, Medien und Justiz als Sicherungskasten der Demokratie, der in den Ibiza-Jahren funktioniert hat.",
+   "question": "Welches Bild verwendet Florian Klenk für Parlament, Medien und Justiz als Kontrolle der Regierung?",
+   "answer": "Einen Sicherungskasten",
+   "distractors": [
+    "Einen Rettungsschirm",
+    "Eine Feuerwehr",
+    "Ein Sicherheitsnetz"
+   ],
+   "aha": "U-Ausschüsse, Presse und Justiz sind für Klenk die Sicherungen. Wer daran herumfummelt, riskiert laut ihm, dass ihm der Blitz zurück auf die Finger fährt.",
+   "quote_clean": "Also der Sicherungskasten Parlament, der Sicherungskasten Medien, aber auch der Sicherungskasten Justiz funktionieren.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (Sekunde ca. 4318-4346), Klenks eigene Einordnung als entscheidende Frage ist korrekt wiedergegeben.",
+   "stand_note": "",
+   "statement": "Für Florian Klenk ist die entscheidende Frage für eine liberale Demokratie, ob für Mächtige dieselben Ermittlungsregeln gelten wie für alle anderen.",
+   "question": "Welche Frage ist für Florian Klenk entscheidend für eine liberale Demokratie?",
+   "answer": "Ob es eine Zweiklassenjustiz gibt",
+   "distractors": [
+    "Ob die Urteile streng genug sind",
+    "Ob Prozesse live übertragen werden",
+    "Ob Richter:innen gewählt werden"
+   ],
+   "aha": "Ob am Ende Freisprüche oder Schuldsprüche stehen, ist für ihn zweitrangig. Wichtig ist, dass Ermittler:innen Sachverhalte aufklären dürfen, auch im Kanzleramt.",
+   "quote_clean": "Aber haben wir eine Zweiklassenjustiz in dem Sinn, dass wenn du was ausfrisst, die Polizei deine ganze Wohnung durchsuchen darf, aber wenn ich als Bundeskanzler was ausfress, sagen kann: Die Polizei muss draußen bleiben?",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt, aber reine Floskel-Frage ohne Erkenntnis; Distraktoren sind austauschbare Phrasen, nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Am Ende der Folge fasst Andreas mit „Was nehme ich mir mit?“ seine wichtigsten Erkenntnisse zusammen.",
+   "question": "Mit welcher Frage leitet Andreas am Ende der Folge seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir gelernt?",
+    "Was bleibt am Ende übrig?",
+    "Was heißt das jetzt für uns?"
+   ],
+   "aha": "Seine drei Punkte diesmal: Alles hängt zusammen, die Staatsanwält:innen machen ihren Job, und dass so viel ermittelt wird, ist ein Zeichen für eine starke Justiz.",
+   "quote_clean": "Was nehme ich mir mit? Erstens: Man verliert da ja schnell die Übersicht über die verschiedenen Verfahren.",
+   "quality": 1
+  }
+ ],
+ "id": "293",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

@@ -1,0 +1,773 @@
+{
+ "theme": "Gesellschaft & Kultur",
+ "summary": "Wer schreibt eigentlich Wikipedia, wer kontrolliert das, und warum fehlen Frauen und Nachwuchs? Ein Administrator erklärt das Lexikon, das wir alle täglich nutzen.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 839,
+   "speaker": "Thomas Planinger",
+   "quote": "Aber aus diversen statistischen Erhebungen und auch aus den Erfahrungen, die wir in Offline-Treffen machen, können wir jetzt relativ genau sagen, dass es so zwischen 80 und 90 Prozent Männer sind, die in der Wikipedia mitarbeiten.",
+   "quote_clean": "Aus diversen statistischen Erhebungen und aus den Erfahrungen, die wir in Offline-Treffen machen, können wir relativ genau sagen, dass es zwischen 80 und 90 Prozent Männer sind, die in der Wikipedia mitarbeiten.",
+   "statement": "Zwischen 80 und 90 Prozent der Wikipedia-Autor:innen sind Männer.",
+   "question": "Wie viel Prozent der Leute, die bei Wikipedia mitschreiben, sind ungefähr Männer?",
+   "answer": "Rund 85 Prozent",
+   "distractors": [
+    "Rund 55 Prozent",
+    "Rund 65 Prozent",
+    "Rund 97 Prozent"
+   ],
+   "number_value": 85,
+   "number_unit": "Prozent",
+   "slider_min": 30,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Ganz genau weiß es niemand, weil Wikipedianer:innen unter Pseudonym schreiben. Umfragen und Offline-Treffen zeigen aber klar: Es sind zu 80 bis 90 Prozent Männer, oft Studis und Pensionisten, also Leute mit viel Freizeit.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Wikipedia",
+    "Gender Gap"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 320,
+   "speaker": "Thomas Planinger",
+   "quote": "Das wäre der Fall gewesen vor dem Jahr 2007. Vor dem Jahr 2007 war es tatsächlich so, dass man auf Bearbeiten geklickt hat. Man musste sich nicht einmal anmelden und konnte sofort jeden Artikel bearbeiten.",
+   "quote_clean": "Das wäre vor dem Jahr 2007 der Fall gewesen. Vor 2007 war es so, dass man auf Bearbeiten geklickt hat. Man musste sich nicht einmal anmelden und konnte sofort jeden Artikel bearbeiten.",
+   "statement": "Bis 2007 gingen Änderungen in der deutschsprachigen Wikipedia sofort und ohne Kontrolle online, auch ohne Anmeldung.",
+   "question": "Bis zu welchem Jahr ging jede Änderung in der deutschsprachigen Wikipedia sofort und ungeprüft online?",
+   "answer": "2007",
+   "distractors": [
+    "2003",
+    "2011",
+    "2015"
+   ],
+   "number_value": 2007,
+   "number_unit": "Jahr",
+   "slider_min": 2001,
+   "slider_max": 2020,
+   "log_scale": false,
+   "aha": "Am Anfang war Wikipedia wirklich Wilder Westen: Klick auf Bearbeiten, fertig, live. Seit 2007 müssen Änderungen von Neulingen erst von erfahrenen Leuten abgesegnet werden. Anmelden musst du dich bis heute nicht.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Geschichte des Internets"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1720,
+   "speaker": "Thomas Planinger",
+   "quote": "wir haben jetzt 2,5 Millionen deutschsprachige Artikel hinter uns gelassen, gehen jetzt mit großen Schritten auf die 3 Millionen deutschsprachigen Artikel zu.",
+   "quote_clean": "Wir haben jetzt 2,5 Millionen deutschsprachige Artikel hinter uns gelassen und gehen mit großen Schritten auf die 3 Millionen deutschsprachigen Artikel zu.",
+   "statement": "Die deutschsprachige Wikipedia hatte 2021 mehr als 2,5 Millionen Artikel.",
+   "question": "Wie viele Artikel hatte die deutschsprachige Wikipedia im Jahr 2021 ungefähr?",
+   "answer": "Rund 2,5 Millionen",
+   "distractors": [
+    "Rund 400.000",
+    "Rund 900.000",
+    "Rund 12 Millionen"
+   ],
+   "number_value": 2500000,
+   "number_unit": "Artikel",
+   "slider_min": 100000,
+   "slider_max": 30000000,
+   "log_scale": true,
+   "aha": "Es wird weiterhin deutlich mehr geschrieben als gelöscht, darum wächst die Zahl stetig Richtung 3 Millionen. Das Problem: Die Zahl der aktiven Autor:innen schrumpft, und irgendwer muss die ganzen Artikel ja auch aktuell halten.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Wikipedia",
+    "Statistik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1821,
+   "speaker": "Thomas Planinger",
+   "quote": "In Österreich gibt es aktive Autorinnen und Autoren. Wir nennen ein Autor oder eine Autorin aktiv, wenn er oder sie mindestens zehn Bearbeitungen pro Monat vornimmt, um die 150.",
+   "quote_clean": "In Österreich gibt es um die 150 aktive Autorinnen und Autoren. Wir nennen jemanden aktiv, wenn er oder sie mindestens zehn Bearbeitungen pro Monat vornimmt.",
+   "statement": "In Österreich gibt es nur rund 150 aktive Wikipedia-Autor:innen.",
+   "question": "Wie viele aktive Wikipedia-Autor:innen gibt es ungefähr in Österreich?",
+   "answer": "Um die 150",
+   "distractors": [
+    "Um die 1.500",
+    "Um die 6.000",
+    "Um die 40"
+   ],
+   "number_value": 150,
+   "number_unit": "Personen",
+   "slider_min": 10,
+   "slider_max": 10000,
+   "log_scale": true,
+   "aha": "Ein ganzes Land liest täglich mit, aber nur rund 150 Leute schreiben regelmäßig. Andreas reagiert im Gespräch mit einem trockenen „Wow“. Wer also Lust hat: Konto anlegen, ist gratis.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Wikipedia",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1824,
+   "speaker": "Thomas Planinger",
+   "quote": "Wir nennen ein Autor oder eine Autorin aktiv, wenn er oder sie mindestens zehn Bearbeitungen pro Monat vornimmt",
+   "quote_clean": "Wir nennen einen Autor oder eine Autorin aktiv, wenn er oder sie mindestens zehn Bearbeitungen pro Monat vornimmt.",
+   "statement": "Bei Wikipedia gilt als aktiv, wer mindestens zehn Bearbeitungen pro Monat macht.",
+   "question": "Wie viele Bearbeitungen pro Monat braucht man mindestens, damit man bei Wikipedia als aktive:r Autor:in zählt?",
+   "answer": "10",
+   "distractors": [
+    "1",
+    "50",
+    "100"
+   ],
+   "number_value": 10,
+   "number_unit": "Bearbeitungen pro Monat",
+   "slider_min": 1,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Die Latte liegt gar nicht so hoch: zehn kleine Korrekturen im Monat, und du zählst offiziell zu den Aktiven. Ein Tippfehler hier, eine fehlende Quelle dort, das geht sich eh aus.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Mitmachen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1221,
+   "speaker": "Thomas Planinger",
+   "quote": "weil wir eigentlich die zweitgrößte Wikipedia sind, aber die Cebuano-sprachige und die schwedischsprachige Wikipedia haben sich mit Bot-generierten Artikeln noch dazwischen geschummelt.",
+   "quote_clean": "Wir sind eigentlich die zweitgrößte Wikipedia, aber die Cebuano-sprachige und die schwedischsprachige Wikipedia haben sich mit Bot-generierten Artikeln dazwischen geschummelt.",
+   "statement": "Die cebuanosprachige und die schwedischsprachige Wikipedia sind vor allem durch automatisch von Bots erzeugte Artikel so groß geworden.",
+   "question": "Warum haben die Wikipedia auf Cebuano und die auf Schwedisch mehr Artikel als die deutschsprachige?",
+   "answer": "Bots haben massenhaft Artikel erzeugt",
+   "distractors": [
+    "Sie zählen Weiterleitungen als Artikel mit",
+    "Dort schreiben viel mehr Freiwillige mit",
+    "Sie übersetzen automatisch die englische Version"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nach reiner Artikelzahl ist die deutschsprachige Wikipedia nur Nummer vier. Ein fleißiger Programmierer hat per Bot Millionen kurze Artikelschnipsel in die Cebuano-Version gespült. Realistisch ist Deutsch aber die Nummer zwei nach Englisch.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Wikipedia",
+    "Sprachen",
+    "Bots"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1202,
+   "speaker": "Thomas Planinger",
+   "quote": "Es ist so, dass Wikipedia nicht nach Ländern gegliedert ist, sondern nach Sprachen.",
+   "quote_clean": "Wikipedia ist nicht nach Ländern gegliedert, sondern nach Sprachen.",
+   "statement": "Wikipedia ist nach Sprachen organisiert, nicht nach Ländern; jede Sprachversion gibt sich ihre Regeln selbst.",
+   "question": "Wonach ist Wikipedia organisiert, etwa wenn es darum geht, wer die Regeln festlegt?",
+   "answer": "Nach Sprachen",
+   "distractors": [
+    "Nach Ländern",
+    "Nach Kontinenten",
+    "Nach Fachgebieten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine österreichische Wikipedia gibt es nicht, wir teilen uns die deutschsprachige mit Deutschland, der Schweiz und allen anderen. Die Regeln macht die jeweilige Sprach-Community selbst, per Abstimmung, dem sogenannten Meinungsbild.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Organisation"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 373,
+   "speaker": "Thomas Planinger",
+   "quote": "Ein sogenannter Sichter oder eine sogenannte Sichterin muss das Hackerl geben, dass die Bearbeitung okay ist. Dann wird die Bearbeitung auch freigeschaltet, sodass sie jeder und jede sehen kann.",
+   "quote_clean": "Ein sogenannter Sichter oder eine Sichterin muss das Hackerl geben, dass die Bearbeitung okay ist. Dann wird die Bearbeitung freigeschaltet, sodass sie alle sehen können.",
+   "statement": "Änderungen von nicht angemeldeten oder neuen Nutzer:innen müssen in der deutschsprachigen Wikipedia erst von einem Sichter freigegeben werden.",
+   "question": "Wie heißen die erfahrenen Wikipedianer:innen, die Änderungen von Neulingen freigeben?",
+   "answer": "Sichter:innen",
+   "distractors": [
+    "Kurator:innen",
+    "Moderator:innen",
+    "Lektor:innen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn du ohne Konto oder ganz frisch angemeldet etwas ausbesserst, ist das nicht sofort für alle sichtbar. Erst schaut jemand mit Erfahrung drüber und setzt das Hackerl. Dann geht die Korrektur live.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Qualitätskontrolle"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 459,
+   "speaker": "Thomas Planinger",
+   "quote": "Das ist tatsächlich ein, unter Anführungszeichen, ein Schlupfloch ein Stück weit, dass auch nicht angemeldete oder erst kürzlich angemeldete Benutzer neue Artikel anlegen können und diese Artikel werden sofort veröffentlicht.",
+   "quote_clean": "Das ist unter Anführungszeichen ein Schlupfloch, dass auch nicht angemeldete oder erst kürzlich angemeldete Benutzer neue Artikel anlegen können und diese Artikel sofort veröffentlicht werden.",
+   "statement": "Neue Wikipedia-Artikel werden sofort veröffentlicht, auch von Neulingen, und erst danach von der Community geprüft.",
+   "question": "Was passiert, wenn ein:e Neuling einen ganz neuen Wikipedia-Artikel anlegt?",
+   "answer": "Er ist sofort online, wird danach geprüft",
+   "distractors": [
+    "Er wartet auf Freigabe durch Sichter",
+    "Er braucht zuerst einen Mentor",
+    "Er erscheint erst nach einer Woche"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kurios: Eine kleine Korrektur muss gesichtet werden, ein ganz neuer Artikel geht sofort raus. Dafür gibt es viele Freiwillige, die den ganzen Tag nichts anderes machen, als neue Artikel zu prüfen und notfalls zur Löschung vorzuschlagen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Qualitätskontrolle"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 414,
+   "speaker": "Thomas Planinger",
+   "quote": "Also wenn man jetzt beispielsweise den Artikel über, ich weiß nicht, Donald Trump oder über Österreich abruft, dann ist die Wahrscheinlichkeit sehr gering, dass ein Fehler durchrutschen kann, weil diese Artikel sehr, sehr häufig von Personen abgerufen werden.",
+   "quote_clean": "Wenn man beispielsweise den Artikel über Donald Trump oder über Österreich abruft, ist die Wahrscheinlichkeit sehr gering, dass ein Fehler durchrutscht, weil diese Artikel sehr häufig abgerufen werden.",
+   "statement": "Je öfter ein Wikipedia-Artikel gelesen wird, desto unwahrscheinlicher bleiben Fehler darin stehen.",
+   "question": "Welcher Wikipedia-Artikel hat eher weniger Fehler?",
+   "answer": "Einer, der sehr oft gelesen wird",
+   "distractors": [
+    "Einer, der selten bearbeitet wird",
+    "Einer mit wenigen Fußnoten",
+    "Einer, der sehr kurz ist"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Crowd-Prinzip: Bei Donald Trump oder Österreich schauen täglich so viele Leute drauf, dass ein Fehler schnell auffällt. Beim Artikel über Hintertupfing kann so etwas schon länger durchrutschen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Crowd",
+    "Verlässlichkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 262,
+   "speaker": "Thomas Planinger",
+   "quote": "Aber ich würde vielleicht sagen, Wikipedia ist drum die beste Sache, nicht weil jeder schreiben kann, was er will, sondern weil jeder korrigieren kann, was er vorfindet.",
+   "quote_clean": "Ich würde sagen, Wikipedia ist darum die beste Sache, nicht weil jeder schreiben kann, was er will, sondern weil jeder korrigieren kann, was er vorfindet.",
+   "statement": "Wikipedia ist nicht deshalb gut, weil jeder schreiben kann, was er will, sondern weil jeder korrigieren kann, was er vorfindet.",
+   "question": "Wer hat's gesagt: „Wikipedia ist die beste Sache, nicht weil jeder schreiben kann, was er will, sondern weil jeder korrigieren kann, was er vorfindet.“",
+   "answer": "Thomas Planinger, Wikipedia-Administrator",
+   "distractors": [
+    "Ein Wikimedia-Sprecher in den USA",
+    "Eine Bibliothekarin über Lexika",
+    "Ein Informatiker über Open Source"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas hat ihm ein Zitat aus „The Office“ vorgelegt, wo Michael Scott Wikipedia lobt, weil jeder schreiben kann, was er will. Thomas dreht das um: Die Stärke ist das gemeinsame Ausbessern.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Crowd"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 629,
+   "speaker": "Thomas Planinger",
+   "quote": "Wir nennen das Original Research, also eigene Forschung, eigene Theorien sollen gerade nicht in Wikipedia eingebracht werden, sondern wir publizieren nur das, was andere bereits einmal geschrieben haben.",
+   "quote_clean": "Wir nennen das Original Research: Eigene Forschung und eigene Theorien sollen gerade nicht in Wikipedia eingebracht werden, sondern wir publizieren nur das, was andere bereits geschrieben haben.",
+   "statement": "Auf Wikipedia ist eigene Forschung („Original Research“) verboten; es wird nur veröffentlicht, was anderswo schon belegt ist.",
+   "question": "Was ist auf Wikipedia ausdrücklich nicht erlaubt, selbst wenn es stimmt?",
+   "answer": "Eigene Forschung und eigene Theorien",
+   "distractors": [
+    "Zeitungsartikel als Quelle",
+    "Artikel über lebende Personen",
+    "Fotos unter freier Lizenz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wikipedia ist eine Enzyklopädie, kein Forschungsinstitut. Auch wenn du genau weißt, wer in Hintertupfing Bürgermeister ist: Ohne Quelle, die das schon geschrieben hat, kommt es nicht rein.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Quellen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 668,
+   "speaker": "Thomas Planinger",
+   "quote": "Die Tatsache, dass auch Medienberichte falsch sein können, ist in dieser Überlegung bereits mit eingepreist. Also wir nehmen das in Kauf, aber wir dürfen nicht selber sagen, ich weiß aber, dass dieser Medienbericht falsch ist und ich verwende deswegen diese Quelle nicht",
+   "quote_clean": "Dass auch Medienberichte falsch sein können, ist in dieser Überlegung bereits eingepreist. Wir nehmen das in Kauf, aber wir dürfen nicht selbst sagen: Ich weiß, dass dieser Medienbericht falsch ist, und verwende deswegen diese Quelle nicht.",
+   "statement": "Wikipedia akzeptiert Medienberichte als Quellen, obwohl sie falsch sein können, weil Autor:innen sie nicht aufgrund eigenen Wissens verwerfen dürfen.",
+   "question": "Warum stützt sich Wikipedia oft auf Zeitungsberichte, obwohl die auch falsch sein können?",
+   "answer": "Eigenes Wissen darf Quellen nicht ersetzen",
+   "distractors": [
+    "Zeitungen werden vorab von Wikimedia geprüft",
+    "Wissenschaftliche Quellen sind ausdrücklich verboten",
+    "Medienhäuser zahlen für die Verlinkung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ideal wären wissenschaftliche Quellen, aber über den Bürgermeister von Hintertupfing forscht halt niemand. Also greift man auf Medienberichte zurück, und das Risiko, dass die danebenliegen, ist bewusst eingepreist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Quellen",
+    "Medien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 707,
+   "speaker": "Thomas Planinger",
+   "quote": "Wir Administratoren und Administratoren bezeichnen uns oft als die Hausmeisterinnen und Hausmeister der Wikipedia.",
+   "quote_clean": "Wir Administratorinnen und Administratoren bezeichnen uns oft als die Hausmeisterinnen und Hausmeister der Wikipedia.",
+   "statement": "Wikipedia-Administrator:innen bezeichnen sich selbst als die Hausmeister:innen der Wikipedia.",
+   "question": "Als was bezeichnen sich Wikipedia-Administrator:innen gern selbst?",
+   "answer": "Als Hausmeister:innen der Wikipedia",
+   "distractors": [
+    "Als Polizei der Wikipedia",
+    "Als Chefredaktion der Wikipedia",
+    "Als Richter:innen der Wikipedia"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Klingt bescheiden, trifft es aber: Admins werden gewählt und dürfen ein bisschen mehr, etwa nach einer Löschdiskussion den Löschknopf drücken oder Leute sperren, die gegen die Regeln verstoßen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Administratoren"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 729,
+   "speaker": "Thomas Planinger",
+   "quote": "Das wird im Zuge einer Löschdiskussion entschieden und am Ende des Tages muss ein Administrator oder eine Administratorin dann den Löschknopf drücken. Das können nicht alle Benutzerinnen und Benutzer.",
+   "quote_clean": "Das wird im Zuge einer Löschdiskussion entschieden, und am Ende muss ein Administrator oder eine Administratorin den Löschknopf drücken. Das können nicht alle Benutzerinnen und Benutzer.",
+   "statement": "Ob ein Wikipedia-Artikel gelöscht wird, entscheidet eine Löschdiskussion; den Löschknopf drücken dürfen nur Administrator:innen.",
+   "question": "Wer darf auf Wikipedia einen Artikel tatsächlich löschen?",
+   "answer": "Nur gewählte Administrator:innen",
+   "distractors": [
+    "Jede angemeldete Person",
+    "Nur die Person, die ihn angelegt hat",
+    "Nur Angestellte der Wikimedia Foundation"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Löschen vorschlagen kann jede:r, dann wird diskutiert, oft hitzig. Am Ende drückt aber jemand mit Admin-Rechten den Knopf. Und Admins sind keine Angestellten, sondern von der Community gewählte Freiwillige.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Administratoren"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1115,
+   "speaker": "Thomas Planinger",
+   "quote": "weil wir beispielsweise zu jedem Kampfpanzer, der jemals im Zweiten Weltkrieg zum Einsatz kam, einen Artikel haben, aber nicht zu böhmischen Strick waren beispielsweise.",
+   "quote_clean": "Wir haben beispielsweise zu jedem Kampfpanzer, der jemals im Zweiten Weltkrieg zum Einsatz kam, einen Artikel, aber nicht zu böhmischen Strickwaren.",
+   "statement": "Weil vor allem Männer schreiben, sind klassisch männlich konnotierte Themen auf Wikipedia viel ausführlicher behandelt als weiblich konnotierte.",
+   "question": "Welches Beispiel nennt ein Wikipedia-Admin für den Geschlechter-Bias in den Artikeln?",
+   "answer": "Jeder Weltkriegspanzer, aber keine böhmischen Strickwaren",
+   "distractors": [
+    "Jeder Fußballer, aber keine Fußballerinnen",
+    "Jedes Auto, aber keine Kochrezepte",
+    "Jeder Papst, aber keine Äbtissinnen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer schreibt, bestimmt, worüber geschrieben wird. Darum gibt es Artikel zu jedem Kampfpanzer und Schlachtkreuzer, aber kaum Tiefe bei klassisch weiblich konnotierten Themen. Für ein Projekt, das das Wissen der Menschheit sammeln will, ein echtes Problem.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Gender Gap",
+    "Bias"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1376,
+   "speaker": "Thomas Planinger",
+   "quote": "Und wenn es nicht funktioniert, dann bleibt die Information draußen. Weil wir nicht haben wollen, dass einseitige Informationen in einem Artikel drinstehen",
+   "quote_clean": "Und wenn es nicht funktioniert, dann bleibt die Information draußen, weil wir nicht wollen, dass einseitige Informationen in einem Artikel stehen.",
+   "statement": "Können sich Wikipedia-Autor:innen bei einem Streitpunkt nicht einigen, bleibt die umstrittene Information lieber ganz draußen.",
+   "question": "Was passiert auf Wikipedia, wenn sich die Autor:innen bei einer umstrittenen Info nicht einigen?",
+   "answer": "Die Info bleibt draußen",
+   "distractors": [
+    "Die Mehrheit setzt sich durch",
+    "Beide Versionen kommen hinein",
+    "Wikimedia entscheidet per Weisung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wikipedia setzt auf Konsens, notfalls auf einen Minimalkonsens. Thomas hat das bei einem Corona-Artikel erlebt, wo sich Impfskeptiker:innen und Impfbefürworter auf eine neutrale Formulierung geeinigt haben. Klappt das nicht, lieber gar nichts als etwas Einseitiges.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Konsens"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1440,
+   "speaker": "Thomas Planinger",
+   "quote": "Und daher bildet sich sehr häufig noch so ein Konsens oder ein sogenannter Konsens minus eins.",
+   "quote_clean": "Und daher bildet sich sehr häufig ein Konsens oder ein sogenannter Konsens minus eins.",
+   "statement": "Auf Wikipedia gibt es den „Konsens minus eins“: Einzelne Dauer-Blockierer können eine von allen anderen getragene Änderung nicht verhindern.",
+   "question": "Wie nennt man es auf Wikipedia, wenn alle bis auf eine Person einer Änderung zustimmen und sie trotzdem umgesetzt wird?",
+   "answer": "Konsens minus eins",
+   "distractors": [
+    "Mehrheitsvotum",
+    "Admin-Entscheid",
+    "Veto-Bruch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn zehn, zwölf, fünfzehn Leute konstruktiv an einem Kompromiss gearbeitet haben und eine Person aus Prinzip dagegen ist, setzt ein Admin um, was die vielen wollen. So kann ein einzelner Querulant nicht den ganzen Artikel blockieren.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Konsens"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1515,
+   "speaker": "Thomas Planinger",
+   "quote": "Das heißt, jemand, der erst einen, zwei, drei, zehn Beiträge geleistet hat, dessen Stimme, dessen Meinung wird weniger stark gewichtet, in diesen Diskussionen",
+   "quote_clean": "Das heißt, jemand, der erst ein, zwei, drei oder zehn Beiträge geleistet hat, dessen Meinung wird in diesen Diskussionen weniger stark gewichtet.",
+   "statement": "In Wikipedia-Diskussionen zählt die Stimme von Leuten mit wenigen Beiträgen weniger als die von erfahrenen Autor:innen.",
+   "question": "Was schützt Wikipedia davor, dass eine organisierte Gruppe von Neulingen Diskussionen kapert?",
+   "answer": "Neulinge haben weniger Gewicht",
+   "distractors": [
+    "Alle müssen sich mit Ausweis anmelden",
+    "Diskussionen sind für Neulinge gesperrt",
+    "Ein Algorithmus erkennt Gruppen automatisch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Theoretisch wären hunderte Querdenker:innen ein Einfallstor. Um ernst genommen zu werden, müsstest du aber erst substanzielle Artikelarbeit leisten. Wer zehntausend Bearbeitungen hat, zählt in der Diskussion mehr als jemand mit drei.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Manipulation"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1628,
+   "speaker": "Thomas Planinger",
+   "quote": "Das fällt in aller Regel bei den ersten zwei Sätzen auch, sobald Superlative verwendet werden, sobald jemand als besonders großartig herausgestellt wird, was ja häufig der Sinn und Zweck von PR ist.",
+   "quote_clean": "Das fällt in aller Regel schon bei den ersten zwei Sätzen auf, sobald Superlative verwendet werden, sobald jemand als besonders großartig herausgestellt wird, was ja häufig der Sinn und Zweck von PR ist.",
+   "statement": "Artikel von PR-Agenturen fallen auf Wikipedia meist sofort auf, weil sie Superlative verwenden und ihre Kunden als großartig darstellen.",
+   "question": "Woran erkennen Wikipedianer:innen meistens Artikel, die eine PR-Agentur geschrieben hat?",
+   "answer": "An Superlativen gleich am Anfang",
+   "distractors": [
+    "An auffällig vielen Fußnoten",
+    "An der IP-Adresse der Agentur",
+    "An fehlenden Bildern im Artikel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Neutral über den eigenen Kunden schreiben, das schaffen laut Thomas nur ganz wenige Agenturen. Spätestens beim zweiten „führend“ oder „einzigartig“ schrillen die Alarmglocken. Wer einen Interessenkonflikt hat, soll ihn offenlegen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "PR",
+    "Interessenkonflikt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1849,
+   "speaker": "Thomas Planinger",
+   "quote": "Das Geld fließt zunächst einmal an die Wikimedia Foundation. Die Wikimedia Foundation ist eine Stiftung nach dem Recht des US-Bundesstaats Florida mit Sitz in San Francisco.",
+   "quote_clean": "Das Geld fließt zunächst an die Wikimedia Foundation. Die Wikimedia Foundation ist eine Stiftung nach dem Recht des US-Bundesstaats Florida mit Sitz in San Francisco.",
+   "statement": "Spenden für Wikipedia gehen an die Wikimedia Foundation, eine Stiftung nach dem Recht von Florida mit Sitz in San Francisco.",
+   "question": "Wohin fließt das Geld zuerst, wenn du für Wikipedia spendest?",
+   "answer": "An die Wikimedia Foundation in den USA",
+   "distractors": [
+    "An die Autor:innen als Honorar",
+    "An den nationalen Wikimedia-Verein",
+    "An die Administrator:innen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Großteil zahlt Server, Technik, Markenrechte und Angestellte der Foundation. Ein kleiner Teil fließt zurück in Länder wie Österreich. Die Autor:innen selbst bekommen keinen Cent, das bleibt ein Freizeitvergnügen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Spenden",
+    "Wikimedia"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1925,
+   "speaker": "Thomas Planinger",
+   "quote": "Wenn ich also für die Recherche für einen Artikel beispielsweise nach Innsbruck fahre, dann würde mir Wikimedia Österreich die Zugfahrkarte nach Innsbruck zahlen, damit ich für diese Recherche keine eigenen privaten Ausgaben habe.",
+   "quote_clean": "Wenn ich für die Recherche für einen Artikel beispielsweise nach Innsbruck fahre, würde mir Wikimedia Österreich die Zugfahrkarte zahlen, damit ich für diese Recherche keine privaten Ausgaben habe.",
+   "statement": "Wikipedia-Autor:innen werden nicht bezahlt, aber Wikimedia Österreich übernimmt Kosten wie Zugtickets für Recherchen.",
+   "question": "Wie unterstützt Wikimedia Österreich die freiwilligen Wikipedia-Autor:innen?",
+   "answer": "Es übernimmt Kosten wie Zugtickets",
+   "distractors": [
+    "Es zahlt ein Honorar pro Artikel",
+    "Es zahlt ein kleines Monatsgehalt",
+    "Es vergibt Preisgelder für Top-Artikel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Geld fürs Schreiben gibt es keines, Wikipedia bleibt Ehrenamt. Aber das Hobby soll dich auch nichts kosten: Fährst du für eine Recherche nach Innsbruck, zahlt der Verein das Zugticket.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Österreich",
+    "Ehrenamt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1968,
+   "speaker": "Thomas Planinger",
+   "quote": "Ganz, ganz unten findet sich bei jedem Artikel die Abrufstatistik. Das ist wirklich spannend, sich das mal anzuschauen.",
+   "quote_clean": "Ganz unten findet sich bei jedem Artikel die Abrufstatistik. Das ist wirklich spannend, sich das einmal anzuschauen.",
+   "statement": "Ganz unten auf jeder Wikipedia-Seite (Desktop) findet man eine täglich aktualisierte Abrufstatistik des Artikels.",
+   "question": "Was findest du ganz unten auf jeder Wikipedia-Artikelseite am PC, das kaum jemand kennt?",
+   "answer": "Die Abrufstatistik des Artikels",
+   "distractors": [
+    "Die Namen aller Autor:innen",
+    "Einen Faktencheck-Score",
+    "Das Spendenkonto der Foundation"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Abrufzahlen werden täglich aktualisiert. Bei Themen, die gerade in den Medien sind, siehst du richtig, wie das Interesse hochschnellt. Für Forscher:innen eine kleine Fundgrube zur öffentlichen Meinung.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Statistik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2111,
+   "speaker": "Thomas Planinger",
+   "quote": "Früher hätte man wahrscheinlich auch nicht den Brockhaus zitiert, wenn man sich zu einem Thema informiert, sondern man hätte den Brockhaus genommen, um sich mal einen Überblick über ein Thema zu verschaffen und hätte dann von dort aus weiter recherchiert.",
+   "quote_clean": "Früher hätte man auch nicht den Brockhaus zitiert, sondern man hätte den Brockhaus genommen, um sich einen Überblick über ein Thema zu verschaffen, und hätte dann von dort aus weiter recherchiert.",
+   "statement": "Wikipedia sollte man wie früher den Brockhaus nutzen: für den Überblick, zitiert werden aber die Quellen dahinter.",
+   "question": "Wie sollten Schüler:innen Wikipedia laut einem Wikipedia-Admin für Referate nutzen?",
+   "answer": "Als Einstieg, zitiert werden die Quellen",
+   "distractors": [
+    "Gar nicht, das ist zu unsicher",
+    "Direkt als Hauptquelle zitieren",
+    "Nur für Bilder und Grafiken"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Den Brockhaus hat man auch nicht zitiert, man hat sich dort einen Überblick geholt. Genau so ist Wikipedia gedacht: schnell einlesen, dann über die Einzelnachweise in die echten Quellen weiterrecherchieren und die angeben.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Schule",
+    "Recherche"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 200,
+   "speaker": "Thomas Planinger",
+   "quote": "Was macht man so als 14-Jähriger? Naja, man schaut viel Fernsehen in meinem Fall. Ich hatte damals eine Lieblingsfernsehserie, die hieß Ein Käfig voller Helden.",
+   "quote_clean": "Was macht man so als 14-Jähriger? Man schaut viel fern, in meinem Fall. Ich hatte damals eine Lieblingsfernsehserie, die hieß „Ein Käfig voller Helden“.",
+   "statement": "Thomas Planinger kam mit 14 zur Wikipedia, weil er im Artikel über seine Lieblingsserie „Ein Käfig voller Helden“ einen Fehler fand und ausbesserte.",
+   "question": "Wie ist Thomas Planinger mit 14 Jahren zur Wikipedia gekommen?",
+   "answer": "Fehler im Artikel zu seiner Lieblingsserie",
+   "distractors": [
+    "Referat über die Römer in der Schule",
+    "Artikel über sein Heimatdorf",
+    "Fehler im Artikel zu seinem Fußballklub"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Serie lief damals auf Kabel 1, Thomas stolperte im Artikel über einen Fehler, besserte ihn aus und blieb hängen, weil es Spaß gemacht hat. Heute ist er Administrator und im Vorstand von Wikimedia Österreich.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Gast"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 231,
+   "speaker": "Andreas Sator",
+   "quote": "Ich würde gerne mit einem Zitat aus meiner Lieblingsserie The Office anfangen. Da sagt der Hauptdarsteller so übersetzt, Wikipedia ist die beste Sache überhaupt, denn da kann jeder schreiben, was er will",
+   "quote_clean": "Ich würde gerne mit einem Zitat aus meiner Lieblingsserie „The Office“ anfangen. Da sagt der Hauptdarsteller, übersetzt: Wikipedia ist die beste Sache überhaupt, denn da kann jeder schreiben, was er will.",
+   "statement": "Andreas startet das Wikipedia-Gespräch mit einem Zitat aus seiner Lieblingsserie „The Office“.",
+   "question": "Mit einem Zitat aus welcher Serie steigt Andreas ins Gespräch über Wikipedia ein?",
+   "answer": "The Office",
+   "distractors": [
+    "Parks and Recreation",
+    "The Big Bang Theory",
+    "Brooklyn Nine-Nine"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Michael Scott findet Wikipedia super, weil jeder schreiben kann, was er will, und er so die beste Information bekommt. Thomas unterschreibt das nur halb: Gut ist sie, weil jeder korrigieren kann.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Popkultur"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "162",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

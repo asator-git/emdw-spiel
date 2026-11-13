@@ -1,0 +1,280 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Gady nennt die Zahl nur vage („glaube ich, irgendwas bei 950.000“) und mischt sie mit unklaren Schätzungen; als Fakt nicht belastbar.",
+   "stand_note": "",
+   "statement": "Rund 950.000 Männer in der österreichischen Bevölkerung haben den Grundwehrdienst beim Bundesheer absolviert.",
+   "question": "Wie viele Männer in Österreich sind ungefähr schon durch das Bundesheer gegangen?",
+   "answer": "Rund 950.000",
+   "distractors": [
+    "Rund 300.000",
+    "Rund 2,1 Millionen",
+    "Rund 550.000"
+   ],
+   "aha": "Fast eine Million Männer haben einmal die Uniform angehabt. Auf dem Papier gehören sie damit zur Miliz, in Wirklichkeit übt aber kaum wer von ihnen jemals wieder.",
+   "quote_clean": "Die jetzige Größe ist, glaube ich, bei irgendwas bei 950.000 Mann in der Bevölkerung, die durch das Bundesheer gegangen sind.",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Zahl (ca. 16.000 pro Jahr) steht so im Transkript; der Aha-Text mit Küche und Wache ist im Ausschnitt nicht belegt und wurde ersetzt.",
+   "stand_note": "Stand 2024",
+   "statement": "Pro Jahr leisten in Österreich ungefähr 16.000 junge Männer den Grundwehrdienst.",
+   "question": "Wie viele Grundwehrdiener hat das Bundesheer ungefähr pro Jahr?",
+   "answer": "Rund 16.000",
+   "distractors": [
+    "Rund 4.000",
+    "Rund 45.000",
+    "Rund 90.000"
+   ],
+   "aha": "Rund 16.000 Grundwehrdiener pro Jahr, und die gehen nach den sechs Monaten eigentlich alle in die Miliz über. Das Problem laut Franz Gady: Verpflichtende Übungen gibt es danach keine, deshalb verliert das Heer den Großteil von ihnen.",
+   "quote_clean": "Es gibt im Jahr ungefähr 16.000 Grundwehrdiener, die dann alle eigentlich in die Miliz übergehen.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Dauer stimmt (sechs Monate, früher acht oder neun); die Aussage im Aha, man lerne militärisch erst gehen, steht nicht im Ausschnitt und wurde ersetzt.",
+   "stand_note": "Stand 2024",
+   "statement": "Der Grundwehrdienst in Österreich dauert heute sechs Monate, früher waren es acht bzw. neun Monate.",
+   "question": "Wie viele Monate dauert der Grundwehrdienst in Österreich heute?",
+   "answer": "6 Monate",
+   "distractors": [
+    "8 Monate",
+    "9 Monate",
+    "12 Monate"
+   ],
+   "aha": "Früher waren es neun, dann acht, heute sind es sechs Monate. Laut Franz Gady lernst du dabei nur die Basics, die eigentliche Einsatzfunktion kommt erst über die Übungen danach.",
+   "quote_clean": "Das waren mal neun Monate, acht Monate, mittlerweile sind es sechs Monate. Und die wichtigste Komponente ist nicht dieser Grundwehrdienst.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Steht so im Transkript, klar als Aussage von Gady gerahmt; Aha passt zum Ausschnitt.",
+   "stand_note": "Stand 2024",
+   "statement": "Österreichs Bundesheer ist laut Franz-Stefan Gady die einzige Milizarmee der Welt ohne verpflichtende Milizübungen.",
+   "question": "Was unterscheidet das Bundesheer laut Franz-Stefan Gady von allen anderen Milizarmeen der Welt?",
+   "answer": "Keine verpflichtenden Milizübungen",
+   "distractors": [
+    "Keine Wehrpflicht für Männer",
+    "Kein eigener Generalstab",
+    "Keine Panzer im Bestand"
+   ],
+   "aha": "Die Verfassung sieht ein Milizsystem vor, aber nach dem Grundwehrdienst muss niemand mehr üben. Nur wer freiwillig unterschreibt, kommt zu Übungen, und das sind vor allem Offiziere und Unteroffiziere.",
+   "quote_clean": "Wir sind grundsätzlich eine Milizarmee, wir sind aber die einzige Milizarmee der Welt, die keine verpflichtenden Milizübungen hat, und das ist ein irrsinnig großes Problem.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahlen 240 und 140 klar belegt, Aha passt zum Ausschnitt.",
+   "stand_note": "Stand 2024",
+   "statement": "Eine Kompanie der österreichischen Jägertruppe hatte früher 240 Mann, heute sind es nur noch etwa 140.",
+   "question": "Wie viele Soldaten hat eine Kompanie der Jägertruppe im Bundesheer heute ungefähr?",
+   "answer": "Rund 140",
+   "distractors": [
+    "Rund 240",
+    "Rund 60",
+    "Rund 400"
+   ],
+   "aha": "Früher waren es 240 Mann, heute nur noch rund 140. Manche Bataillone sind so klein wie früher eine Kompanie, das Personalproblem kann man nicht schönreden.",
+   "quote_clean": "Kompanien hatten in der Jägertruppe einmal eine Stärke von 240 Mann, mittlerweile sind es nur mehr 140 Mann.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Erklärung steht so im Transkript, Aha passt (Panzergrenadiere ab den 1930ern).",
+   "stand_note": "",
+   "statement": "Der Begriff Grenadier geht auf Soldaten im 18. Jahrhundert zurück, die Granaten warfen.",
+   "question": "Woher kommt die Bezeichnung Grenadier?",
+   "answer": "Von Soldaten, die Granaten warfen",
+   "distractors": [
+    "Von der Stadt Granada",
+    "Vom Wort für Grenzwache",
+    "Von einer Gewehrmarke"
+   ],
+   "aha": "Im 18. Jahrhundert waren Grenadiere die schwere Infanterie, die Granaten geschleudert hat. In den 1930ern wurden daraus die Panzergrenadiere, die mit den Panzern mitfahren und sie schützen.",
+   "quote_clean": "Dort heißen sie Panzergrenadiere. Grenadiere waren früher, im 18. Jahrhundert, Soldaten, die Granaten geworfen haben, das war die schwere Infanterie.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar, Distraktoren eindeutig falsch, Aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Im Kalten Krieg sollte das Bundesheer einen Angriff des Warschauer Pakts für etwa 10 bis 20 Tage verzögern können.",
+   "question": "Was war im Kalten Krieg das Ziel des Bundesheers bei einem Angriff des Warschauer Pakts?",
+   "answer": "Ihn 10 bis 20 Tage verzögern",
+   "distractors": [
+    "Ihn an der Grenze stoppen",
+    "Gegenangriff bis Budapest",
+    "Sofort kapitulieren und verhandeln"
+   ],
+   "aha": "Nicht gewinnen, sondern Zeit kaufen. Mit so einem klaren Szenario konnte man genau planen, wie viele Panzer und Flieger man braucht. Genau diese Klarheit fehlt heute.",
+   "quote_clean": "Das besagt: Wir müssen unsere Streitkräfte so aufbauen, dass wir einen ungarischen Angriff oder einen Angriff des Warschauer Pakts für 10, 15, 20 Tage verzögern.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Vergleich mit Schere-Stein-Papier steht klar im Transkript; Aha passt.",
+   "stand_note": "",
+   "statement": "Der Kampf der verbundenen Waffen funktioniert wie Schere-Stein-Papier: Panzer brauchen Infanterie als Schutz gegen feindliche Fußsoldaten mit Panzerabwehrraketen.",
+   "question": "Mit welchem Spiel vergleicht Franz-Stefan Gady den Kampf der verbundenen Waffen?",
+   "answer": "Schere, Stein, Papier",
+   "distractors": [
+    "Schach",
+    "Mensch ärgere dich nicht",
+    "Tauziehen"
+   ],
+   "aha": "Der Panzer ist stark, aber ein Soldat mit Panzerabwehrrakete kann ihn erledigen. Darum steigen Panzergrenadiere aus und schauen, ob sich wer versteckt, und die Artillerie ebnet den Weg.",
+   "quote_clean": "Das habe ich oft schon als Schere-Stein-Papier-Prinzip erklärt: Der Kampfpanzer ist verwundbar gegenüber gegnerischer Infanterie, also gegnerischen Fußsoldaten, die mit Panzerabwehrraketen diesen Panzer abschießen könnten.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "fairness",
+    "beleg"
+   ],
+   "note": "Gadys zugespitzte Einschätzung wird als seine Sicht gerahmt; die Behauptung, den Soldaten sei das im Ausland peinlich, steht nicht im Ausschnitt und wurde gestrichen.",
+   "stand_note": "Stand 2024",
+   "statement": "Laut Franz-Stefan Gady war Österreichs eigentliche Sicherheitsversicherung jahrzehntelang nicht das Bundesheer, sondern die NATO.",
+   "question": "Was war laut Franz-Stefan Gady jahrzehntelang Österreichs eigentliche sicherheitspolitische Versicherung?",
+   "answer": "Die NATO",
+   "distractors": [
+    "Das Bundesheer",
+    "Die UNO",
+    "Die Schweiz"
+   ],
+   "aha": "Weil der Warschauer Pakt auch Österreich angegriffen hätte, hat das Verteidigungsbündnis uns indirekt mitverteidigt. Gady sagt selbst, dass er das bewusst zugespitzt formuliert, und betont, dass Österreich inzwischen auch auf EU-Ebene mehr beiträgt.",
+   "quote_clean": "Unsere Versicherungspolizze war nicht das österreichische Bundesheer, sondern über Jahrzehnte die NATO. Wir haben davon profitiert, dass es dieses Militärbündnis gibt, ohne etwas einzahlen oder einen Beitrag leisten zu müssen.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Prinzip und Kritik stehen so im Transkript; Aha (Lehrgänge ohne volle Kompanie) ist belegt.",
+   "stand_note": "Stand 2024",
+   "statement": "Das oberste Prinzip in Streitkräften ist „You train as you fight“, doch das Bundesheer übt derzeit nicht so, wie es kämpfen würde.",
+   "question": "Welches oberste Prinzip befolgt das Bundesheer laut Franz-Stefan Gady derzeit nicht?",
+   "answer": "You train as you fight",
+   "distractors": [
+    "Leave no man behind",
+    "Speed is security",
+    "First in, last out"
+   ],
+   "aha": "Weil das Heer in einer Friedensstruktur übt, haben Brigaden bei Übungen nie ihre volle Stärke. Wer im Kompaniekommandanten-Lehrgang sitzt, hat oft gar keine ganze Kompanie zum Führen.",
+   "quote_clean": "Das oberste Prinzip in den Streitkräften ist: You train as you fight. Du übst so, wie du kämpfst. Und im Moment üben wir nicht so, wie wir kämpfen würden.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar, Aussage eindeutig als Gadys Einschätzung formuliert.",
+   "stand_note": "",
+   "statement": "Kulturelle Veränderungen in Streitkräften sind das Schwierigste, denn die Kultur frisst die Doktrin.",
+   "question": "Was frisst laut Franz-Stefan Gady jede militärische Doktrin?",
+   "answer": "Die Kultur",
+   "distractors": [
+    "Die Bürokratie",
+    "Das Budget",
+    "Die Politik"
+   ],
+   "aha": "Eine Doktrin regelt alles, vom Marschieren zum Essen bis zum Häuserkampf. Aber wenn sich eine Kultur einmal verankert hat, ist sie ganz schwer wieder zu lösen, egal was auf dem Papier steht.",
+   "quote_clean": "Kulturelle Veränderung innerhalb von Streitkräften ist das Allerschwierigste. Die Kultur frisst deine Doktrin.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Definition belegt; der Polen-Vergleich im Aha steht nicht im Ausschnitt, und zwei Distraktoren sind für Österreich tatsächlich wahr (kein Meer, Gebirge).",
+   "stand_note": "",
+   "statement": "Österreich liegt in der „strategischen Tiefe“ Europas: Es grenzt an keine feindlich gesinnten Staaten.",
+   "question": "Was bedeutet es, dass Österreich in der „strategischen Tiefe“ liegt?",
+   "answer": "Es grenzt an keine feindlichen Staaten",
+   "distractors": [
+    "Es hat besonders tiefe Bunkeranlagen",
+    "Es hat Truppen tief im Ausland stationiert",
+    "Es liegt mitten in der NATO"
+   ],
+   "aha": "Klingt gemütlich, hat aber einen Haken: Es macht fahrlässig, sagt Franz Gady. Wir sehen Gefahren zu wenig als etwas, dem Europa gemeinsam begegnen muss. Dasselbe Problem haben übrigens auch die Deutschen.",
+   "quote_clean": "Strategische Tiefe heißt einfach, dass wir nicht an Staaten angrenzen, die uns feindlich gesinnt sind.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Hagelsturm-Vergleich belegt; die Aha-Angabe zum Nachtzug war ungenau (erste Entspannung erst in Kiew bzw. Dnipro) und wurde korrigiert.",
+   "stand_note": "",
+   "statement": "Franz-Stefan Gady beschreibt den Aufenthalt nahe der Front in der Ukraine wie einen Hagelsturm, in dem der Körper tagelang angespannt ist.",
+   "question": "Womit vergleicht Franz-Stefan Gady das Gefühl, nahe der Front in der Ukraine zu sein?",
+   "answer": "Mit einem Hagelsturm",
+   "distractors": [
+    "Mit einer Achterbahnfahrt",
+    "Mit einer Prüfung",
+    "Mit einem Marathonlauf"
+   ],
+   "aha": "Kopf eingezogen, als würde gleich eine Watschn kommen, und das mehrere Tage lang. Die Spannung fällt erst langsam ab, und daheim braucht er dann noch rund zwei Wochen, bis er geistig wieder angekommen ist.",
+   "quote_clean": "Wenn du in dieser Zone bist, ist es so, als ob du in einem Hagelsturm bist: Dein Körper ist angespannt, der Kopf ist ein bisschen eingezogen.",
+   "quality": 4
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zum Folgenanfang ohne Wissensgewinn; der Aha-Text (Söldnergruppen, überraschte Antwort) ist im Ausschnitt nicht belegt.",
+   "stand_note": "",
+   "statement": "Andreas eröffnet die Folge mit der Frage, vor wem uns das Bundesheer eigentlich schützt.",
+   "question": "Mit welcher Frage steigt Andreas in die Folge mit Franz-Stefan Gady ein?",
+   "answer": "Vor wem schützt uns eigentlich das Bundesheer?",
+   "distractors": [
+    "Warst du selbst beim Bundesheer?",
+    "Braucht Österreich überhaupt Panzer?",
+    "Sollte Österreich der NATO beitreten?"
+   ],
+   "aha": "Die Antwort hat ihn dann selbst überrascht: Vorbereitet wird vor allem auf einen hybriden Gegner, etwa Söldnergruppen im Land, nicht auf einen konventionellen Krieg wie in der Ukraine.",
+   "quote_clean": "Vor wem schützt uns eigentlich das Bundesheer? Wir geben Milliarden für Panzer oder Raketen aus, aber auf welches Szenario bereiten wir uns eigentlich vor?",
+   "quality": 1
+  }
+ ],
+ "id": "295",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

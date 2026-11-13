@@ -1,0 +1,291 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "80 % belegt (t=232), aber als Martins Angabe zu führen (medizinisch werden meist um 70 bis 80 % genannt); das aha enthielt unbelegte Details (Zähneputzen, Vietnam).",
+   "stand_note": "",
+   "statement": "Laut Martin findet man bei etwa 80 Prozent der Gesichtslähmungen (Fazialisparese) keine Ursache.",
+   "question": "Bei wie viel Prozent der Fazialisparesen, also halbseitigen Gesichtslähmungen, bleibt die Ursache laut Martin Zinggl unklar?",
+   "answer": "Rund 80 Prozent",
+   "distractors": [
+    "Rund 20 Prozent",
+    "Rund 45 Prozent",
+    "Rund 5 Prozent"
+   ],
+   "aha": "Martin bekam die Lähmung im Urlaub, wurde heimgeholt und landete an seinem 40. Geburtstag direkt vom Flughafen im Spital. Zehn Tage lang wurde er auf Herz und Nieren getestet, am Ende hieß es: Ursache nicht feststellbar, vermutlich Stress.",
+   "quote_clean": "und konnten die Ursache nicht feststellen, wie es meistens ist. Bei 80 % der Fazialisparesen übrigens.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "72 Stunden belegt (t=202) und medizinisch plausibel; im aha stand 'Vietnam', das im Ausschnitt nicht vorkommt.",
+   "stand_note": "",
+   "statement": "Bei einer Gesichtslähmung müssen bestimmte Medikamente innerhalb von 72 Stunden genommen werden.",
+   "question": "Innerhalb wie vieler Stunden müssen bei einer akuten Gesichtslähmung bestimmte Medikamente genommen werden?",
+   "answer": "72 Stunden",
+   "distractors": [
+    "6 Stunden",
+    "24 Stunden",
+    "168 Stunden"
+   ],
+   "aha": "Darum wurde Martin aus dem Urlaub per Rücktransport nach Wien geholt und landete an seinem 40. Geburtstag direkt vom Flughafen im Spital. Das Zeitfenster ist kurz, Abwarten zahlt sich nicht aus.",
+   "quote_clean": "Du musst nach Wien in ein richtiges Krankenhaus, weil du ganz bestimmte Medikamente brauchst, die du innerhalb von 72 Stunden nehmen musst. Also Rücktransport, alles ein Riesendrama.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg",
+    "veraltet"
+   ],
+   "note": "'Halbe Million' ist bei Martin eine rhetorische Übertreibung (Gänsemarsch), nicht eine Jahreszahl; die Frage nach Pilgern pro Jahr ist nicht aus dem Ausschnitt belegt und zeitabhängig. Außerdem abwertend gegenüber Jakobsweg-Wandernden.",
+   "stand_note": "",
+   "statement": "Den Jakobsweg gehen jedes Jahr rund eine halbe Million Menschen.",
+   "question": "Wie viele Menschen gehen ungefähr pro Jahr den Jakobsweg?",
+   "answer": "Rund eine halbe Million",
+   "distractors": [
+    "Rund 50.000",
+    "Rund 5 Millionen",
+    "Rund 10.000"
+   ],
+   "aha": "Genau deshalb wollte Martin nicht auf den Jakobsweg: Gänsemarsch, Streit um Schlafplätze und Leute, die fünf Kilometer vor dem Ziel ins Taxi steigen. Auf seinem Sultans Trail war er dafür fast ganz allein.",
+   "quote_clean": "Was ist daran heilend oder spirituell, wenn ich mit einer halben Million Menschen im Gänsemarsch diesen perfekt ausgeschilderten, in Watte gelegten Weg gehe?",
+   "quality": 1
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "2400 km belegt (t=613); im aha standen 'gut 100 Tage' und die Flugdauer nach Istanbul, beides nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Der Sultans Trail ist ein Weitwanderweg, der rund 2400 Kilometer von Wien nach Istanbul führt.",
+   "question": "Wie viele Kilometer lang ist der Sultans Trail von Wien nach Istanbul?",
+   "answer": "Rund 2400 Kilometer",
+   "distractors": [
+    "Rund 900 Kilometer",
+    "Rund 1500 Kilometer",
+    "Rund 4000 Kilometer"
+   ],
+   "aha": "Martin wusste damals nicht, was 2400 Kilometer in der Praxis bedeuten. Zur Einordnung rechnete er sich vor: Das ist etwa die Strecke eines Flugs von Wien nach Lissabon, also drei, dreieinhalb Stunden im Flugzeug. Was das am Boden heißt, wusste er nicht.",
+   "quote_clean": "Wenn man Weitwanderwege Europa mit Wien in Google eintippt, dann kommt irgendwann der Sultans Trail raus, ein Weitwanderweg, der 2400 Kilometer von Wien nach Istanbul führt.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei t=973–1042 (Richtung umgekehrt zum Feldzug, Zeichen des Friedens); aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Der Sultans Trail wurde von einer niederländischen Stiftung ins Leben gerufen und verläuft bewusst umgekehrt zum Feldzug: von Wien nach Istanbul, als Zeichen des Friedens.",
+   "question": "In welche Richtung verläuft der Sultans Trail – und warum?",
+   "answer": "Wien nach Istanbul, als Friedenszeichen",
+   "distractors": [
+    "Istanbul nach Wien, wie der Feldzug",
+    "Wien nach Istanbul, wegen des Wetters",
+    "Istanbul nach Wien, wegen der Berge"
+   ],
+   "aha": "1529 zog Sultan Süleiman I. von Konstantinopel Richtung Wien. Knapp 500 Jahre später schuf eine niederländische Stiftung den Weg in umgekehrter Richtung, als Zeichen des Friedens und der Völkerverständigung und als Alternative zum überlaufenen Jakobsweg: Man kann ja nicht immer nur nach Westen gehen.",
+   "quote_clean": "Knapp 500 Jahre später hat die Sultans Trail Foundation, eine niederländische Stiftung von Outdoor-Experten und Wanderbegeisterten, diesen Weg ins Leben gerufen, allerdings in umgekehrter Richtung, also von Wien nach Istanbul, um ein Zeichen des Friedens zu setzen.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Plowdiw 'älter als Rom und Athen' ist die Aussage der Männerrunde am Lagerfeuer, wiedergegeben von Martin (t=1863); Distraktor Belgrad ist ebenfalls sehr alt besiedelt und daher nicht eindeutig falsch, 'Balkan-Trio in der Fischerhütte' steht so nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Plowdiw in Bulgarien gilt als rund 8000 Jahre alt und damit als eine der ältesten Städte Europas – älter als Rom und Athen.",
+   "question": "Welche Stadt am Sultans Trail gilt laut Martins Lagerfeuer-Runde als älter als Rom und Athen?",
+   "answer": "Plowdiw in Bulgarien",
+   "distractors": [
+    "Bratislava in der Slowakei",
+    "Budapest in Ungarn",
+    "Edirne in der Türkei"
+   ],
+   "aha": "Eine Dreiergruppe am Lagerfeuer hat Martin motiviert: Du gehst von der schönsten Stadt Wien über die älteste Stadt Plowdiw in die größte Stadt Europas, Istanbul. Mit so einer Route im Kopf geht man gleich beflügelter weiter.",
+   "quote_clean": "Über die älteste Stadt, Plowdiw – das weiß man auch nicht, dass Plowdiw in Bulgarien 8000 Jahre alt ist, älter als Rom und Athen.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Trick belegt (t=2173–2200); im aha standen unbelegte Details (Übelkeit bei Istanbul, '1000 Zeichen statt 25.000').",
+   "stand_note": "",
+   "statement": "Ein riesiges Ziel wird machbar, wenn man es in Mini-Etappen zerlegt – etwa nur bis zum Ende des nächsten Ackers.",
+   "question": "Mit welchem Trick hat sich Martin weitergehen lassen, wenn er nicht mehr wollte?",
+   "answer": "Nur bis zum Ende des Ackers",
+   "distractors": [
+    "Kilometer in der App zählen",
+    "An Istanbul denken",
+    "Laut Musik hören"
+   ],
+   "aha": "Erst bis zum Ende des Ackers, dann bis zum nächsten Acker, dann bis zum nächsten Dorf und schließlich bis zum Tagesziel. Martin nutzt die Methode auch zu Hause, wenn er beim Schreiben von 25.000-Zeichen-Geschichten prokrastiniert.",
+   "quote_clean": "Ich habe beim Gehen einfach gesagt, wenn ich keinen Bock mehr gehabt habe oder nicht mehr konnte oder nicht mehr wollte: Bis zum Ende des Ackers gehe ich noch, und da bleibst du dann stehen, wenn du keinen Bock mehr hast.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Zitat belegt (t=2493); die Wer-sagt-Frage war schlecht spielbar (Scherz-Distraktoren), daher als Inhaltsfrage umformuliert; das aha enthielt Beziehung/Job/Kohle, das im Ausschnitt nicht steht.",
+   "stand_note": "",
+   "statement": "Wer vor seinen Problemen davongeht, nimmt sie mit – der Stress verlagert sich nur.",
+   "question": "Welche Erkenntnis nahm Martin von seinem Weg über Stress mit?",
+   "answer": "Vor dem eigenen Stress kann man nicht davonlaufen",
+   "distractors": [
+    "Weit weg lösen sich Probleme von selbst",
+    "Ohne Handy wird man automatisch ruhig",
+    "Zu Fuß ist Stress leichter zu tragen"
+   ],
+   "aha": "Unterwegs hießen Martins Alltagssorgen plötzlich zugewucherte Wege, sümpfige Böden, launische Grenzbeamte und bissige Hunde. Der Stress hat sich also nicht aufgelöst, sondern nur verlagert: Egal wie weit man geht, man nimmt sich selbst mit.",
+   "quote_clean": "Da habe ich dann realisiert: Egal wo du hingehst, egal wie weit du gehst, du nimmst dich selbst und deinen Scheiß immer mit.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt bei t=2693–2721; Distraktor Donaudelta ist als Konkurrenz zu 'Amazonas Europas' nicht eindeutig falsch und wurde ersetzt.",
+   "stand_note": "",
+   "statement": "Das Donau-Grenzgebiet zwischen Serbien und Kroatien wird als „Amazonas Europas“ bezeichnet.",
+   "question": "Welche Gegend an Martins Route wird „Amazonas Europas“ genannt?",
+   "answer": "Donau-Grenzgebiet Serbien–Kroatien",
+   "distractors": [
+    "Spreewald in Deutschland",
+    "Plattensee in Ungarn",
+    "Wachau in Österreich"
+   ],
+   "aha": "Dort sind die Wege so zugewachsen, dass bei einem gebrochenen Bein wochenlang niemand vorbeikäme. Genau deshalb hat Martin sein Handy doch als Notfallpaket mitgenommen, obwohl er es eigentlich daheim lassen wollte.",
+   "quote_clean": "Du gehst ja durch wirklich sehr unwirkliches Terrain, gerade die Gegend im Grenzgebiet Serbien–Kroatien, die Donau dort, das nennt man den Amazonas Europas.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Zitat belegt (t=3138), aber als Wer-sagt-Frage nicht spielbar und eine subjektive Meinung; die belegte Zahl (vier Wochen bis zum Gedankenleere-Moment, t=3088/3138) ist die bessere Frage.",
+   "stand_note": "",
+   "statement": "Bei Martin dauerte es vier Wochen Gehen, bis er zum ersten Mal für einen Moment an gar nichts dachte.",
+   "question": "Nach wie vielen Wochen Gehen dachte Martin zum ersten Mal für einen Moment an gar nichts?",
+   "answer": "Nach etwa vier Wochen",
+   "distractors": [
+    "Nach etwa zwei Tagen",
+    "Nach etwa einer Woche",
+    "Nach etwa zehn Wochen"
+   ],
+   "aha": "Martin nennt diesen Moment im Buch Gedankenleere. Er fand ihn so schön, dass er danach nicht umkehrte, sondern mehr davon wollte. Seine Folgerung: Mit einer Woche Urlaub komme man kaum völlig entspannt zurück.",
+   "quote_clean": "Bei mir hat es vier Wochen gedauert, bis ich mal für eine Sekunde oder Millisekunde an gar nichts gedacht habe.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "transkription",
+    "beleg"
+   ],
+   "note": "Pistole belegt (t=3978–4007); der Name des Gastgebers ist im Transkript uneindeutig ('Dan', 'Dao') und die Herkunft Bulgarien steht nicht im Ausschnitt, deshalb ohne Namen und Land.",
+   "stand_note": "",
+   "statement": "Ein Gastgeber ließ Martin in seinem Haus übernachten, ohne dass darüber gesprochen wurde, und wollte ihm am nächsten Morgen seine Pistole gegen die Hunde schenken.",
+   "question": "Was wollte Martins Gastgeber ihm schenken, nachdem er von seinen Hundeproblemen erzählt hatte?",
+   "answer": "Seine Pistole",
+   "distractors": [
+    "Seinen Hund",
+    "Ein Fahrrad",
+    "Eine Flasche Schnaps"
+   ],
+   "aha": "Der Mann kannte Martin keine 24 Stunden, ließ ihn allein in seinem Haus schlafen und redete mit ihm nie darüber. Die Waffe lehnte Martin dankend ab: Das klinge nach Indiana Jones, sei aber weniger cool, als es klingt.",
+   "quote_clean": "Und dann wollte er mir auch noch seine Pistole schenken, weil ich am Tag zuvor von meinen Hundeproblemen erzählt habe, und die habe ich natürlich abgelehnt, weil ich nicht mit einer geladenen Waffe auf dem Balkan herumlaufen kann.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Erklärung belegt (t=4185–4208), ist aber Martins Einschätzung und nicht gesichertes Wissen; als 'laut Martin' formuliert.",
+   "stand_note": "",
+   "statement": "Laut Martin sind viele aggressive Straßenhunde in Serbien ausgesetzte ehemalige Hirten- oder Wachhunde, die ihren Bewachungstrieb behalten haben.",
+   "question": "Warum sind laut Martin manche Straßenhunde in Serbien für Wandernde so gefährlich?",
+   "answer": "Ausgesetzte Wachhunde bewachen weiter Territorium",
+   "distractors": [
+    "Sie haben Tollwut",
+    "Sie werden gezielt abgerichtet",
+    "Sie jagen in großen Rudeln"
+   ],
+   "aha": "Wenn ein Hund sich einbildet, diese sieben Quadratmeter bis zum Tod bewachen zu müssen, und genau dort führt der Wanderweg durch, ist Unheil vorprogrammiert. Martin erzählt, dass ihm das sehr oft passiert ist.",
+   "quote_clean": "Darum bekloppt, weil das einmal Hirten- oder Wachhunde waren, die, als sie nicht mehr gebraucht wurden, ausgesetzt, misshandelt und echt schlecht behandelt wurden. Die Straßenhunde in Serbien haben kein lustiges Leben, aber diese Hunde haben ihren Trieb, etwas zu bewachen, nicht abgelegt.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt bei t=2595–2605; Scherz-Distraktor 'Grab des Sultans' ersetzt.",
+   "stand_note": "",
+   "statement": "Für Martin war weder der Weg noch Istanbul das Ziel, sondern das Gehen selbst.",
+   "question": "Was war für Martin auf seiner Reise wirklich das Ziel?",
+   "answer": "Das Gehen selbst",
+   "distractors": [
+    "Der Weg",
+    "Istanbul",
+    "Ein Rekord"
+   ],
+   "aha": "Martin hasst das Sprichwort „Der Weg ist das Ziel“. Er hätte überall hingehen können, nur nicht auf den Jakobsweg. Istanbul bot sich einfach an, weil es von seiner Wiener Haustür aus in einer Richtung lag.",
+   "quote_clean": "Ich hasse dieses Sprichwort „Der Weg ist das Ziel“. Bei mir ist auch nicht das Ziel das Ziel, sondern bei mir war das Gehen das Ziel.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei t=5779–5808; aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Andreas' erste Lehre aus der Folge: Große Dinge sind machbar, wenn man sie radikal verkleinert.",
+   "question": "Was ist Andreas' erste Erkenntnis bei „Was nehme ich mir mit?“ aus dieser Folge?",
+   "answer": "Große Dinge radikal verkleinern",
+   "distractors": [
+    "Nie ohne Training losgehen",
+    "Immer zu zweit reisen",
+    "Fremden lieber misstrauen"
+   ],
+   "aha": "Wer ein dreijähriges Kind erzieht, zieht ihm auch zuerst die Schuhe an und denkt nicht schon an die Pubertät. Und wer nur von Dorf zu Dorf geht, kommt irgendwann in Istanbul an.",
+   "quote_clean": "Was nehme ich mir mit? Erstens: Große Dinge sind machbar, wenn man sie radikal verkleinert. Zu Fuß von Wien nach Istanbul zu gehen ist verrückt. Zu Fuß ins nächste Dorf zu gehen ist fordernd, aber machbar.",
+   "quality": 3
+  }
+ ],
+ "id": "377",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

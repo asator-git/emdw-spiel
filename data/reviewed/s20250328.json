@@ -1,0 +1,264 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 117-147 stimmt, real liegt das Kosmos Theater in der Siebensterngasse im 7. Bezirk. Eher lokales Wissen.",
+   "stand_note": "",
+   "statement": "Das Kosmos Theater in Wien liegt im siebten Bezirk.",
+   "question": "In welchem Wiener Bezirk liegt das Kosmos Theater?",
+   "answer": "Im 7. Bezirk (Neubau)",
+   "distractors": [
+    "Im 4. Bezirk (Wieden)",
+    "Im 9. Bezirk (Alsergrund)",
+    "Im 2. Bezirk (Leopoldstadt)"
+   ],
+   "aha": "Das Kosmos Theater sitzt in Neubau, also mitten im Siebten. Für Valentina ist es das Lieblingstheater in Wien, sie hat sogar eine Folge mit der Intendantin aufgenommen.",
+   "quote_clean": "Lieblingstheater in Wien: Kosmos Theater. Das war im siebten Bezirk, oder? Genau, im siebten Bezirk.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 204 stimmt, Kunst Haus Wien trägt den Beinamen Museum Hundertwasser.",
+   "stand_note": "",
+   "statement": "Das Kunsthaus Wien ist auch als Museum Hundertwasser bekannt.",
+   "question": "Welches Wiener Museum ist auch als Museum Hundertwasser bekannt?",
+   "answer": "Das Kunsthaus Wien",
+   "distractors": [
+    "Das Leopold Museum",
+    "Die Albertina",
+    "Das Belvedere"
+   ],
+   "aha": "Das Kunsthaus Wien ist das Museum Hundertwasser, mit den typisch schiefen Böden und bunten Fassaden. Valentina hat dort in der Ausstellungsorganisation gelernt, wie Kunstvermittlung funktioniert.",
+   "quote_clean": "Ich habe dann ein Praktikum in einem Museum gemacht, im Kunsthaus, im Museum Hundertwasser, und habe dort in der Ausstellungsorganisation mitgearbeitet.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Beleg bei 1650 stimmt (7 Uhr, real ebenfalls). Im Aha war 'oft nachträglich auf Spotify' im Transkript unklar und 'fix wie der erste Kaffee' Füllsatz; gekürzt.",
+   "stand_note": "Stand 2025",
+   "statement": "Das Ö1-Morgenjournal läuft um 7 Uhr früh.",
+   "question": "Um wie viel Uhr in der Früh läuft das Ö1-Morgenjournal?",
+   "answer": "Um 7 Uhr",
+   "distractors": [
+    "Um 6 Uhr",
+    "Um 8 Uhr",
+    "Um 5 Uhr"
+   ],
+   "aha": "Valentina nennt das Morgenjournal von Ö1 als ihr klassisches Medium und sagt, es gehört für sie zu jedem Tag dazu, immer um 7 Uhr.",
+   "quote_clean": "Ich liebe das Morgenjournal von Ö1, das gehört für mich eigentlich zu jedem Tag dazu, immer um 7 Uhr.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Beleg bei 1523-1552 stimmt als Valentinas Einschätzung ('laut Valentina' ergänzt). Aha nannte einen deutschen Titel, bei dem sich Valentina selbst unsicher war, und 'auseinanderdriften', das nicht gesagt wurde; entfernt.",
+   "stand_note": "",
+   "statement": "Laut Valentina schreibt die italienische Schriftstellerin Viola Ardone über gesellschaftliche Umbrüche zwischen Nord- und Süditalien im 20. Jahrhundert.",
+   "question": "Worum geht es laut Valentina in den Romanen der Italienerin Viola Ardone?",
+   "answer": "Umbrüche zwischen Nord- und Süditalien",
+   "distractors": [
+    "Das antike Rom und Pompeji",
+    "Italiens Kolonien in Afrika",
+    "Die Modeindustrie in Mailand"
+   ],
+   "aha": "Valentina hat alle Bücher von Viola Ardone gelesen und empfiehlt sie allen, die sich für Italien interessieren. Als Beispiel hat sie „Il treno dei bambini“ mitgebracht.",
+   "quote_clean": "Ich bin extrem verliebt in die Schriftstellerin Viola Ardone. Ich habe alle ihre Bücher gelesen und kann sie wirklich sehr empfehlen, wenn man sich für Italien interessiert und für gesellschaftliche Umbrüche innerhalb des Landes zwischen Norden und Süden.",
+   "quality": 2
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1552-1582 stimmt. Distraktor 'Indochinakrieg' ist nicht eindeutig falsch (der Roman berührt auch diese Zeit); ersetzt.",
+   "stand_note": "",
+   "statement": "Der Roman „Gesang der Berge“ einer vietnamesischen Schriftstellerin handelt laut Valentina vom Vietnamkrieg.",
+   "question": "Von welchem historischen Ereignis handelt der Roman „Gesang der Berge“ laut Valentina?",
+   "answer": "Vom Vietnamkrieg",
+   "distractors": [
+    "Vom Koreakrieg",
+    "Von der Kulturrevolution",
+    "Vom Zweiten Weltkrieg"
+   ],
+   "aha": "Valentina hat das historische Buch auf ihrem Kindle gelesen. Es hat sie sehr berührt, und sie hat es gleich ihrer besten Freundin mit vietnamesischen Wurzeln empfohlen.",
+   "quote_clean": "Auf meinem Kindle habe ich das Buch „Gesang der Berge“ gelesen. Es ist von einer vietnamesischen Schriftstellerin, und es geht um den Vietnamkrieg.",
+   "quality": 2
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Beleg bei 1012-1042 stimmt. Frage 'Wie nutzt...' ließ Distraktoren wie 'Fragen schreiben' als möglich zu; auf die konkret genannte Rolle umgestellt. KI-Nutzung Stand 2025.",
+   "stand_note": "Stand 2025",
+   "statement": "Andreas bereitet Interviews unter anderem vor, indem er ChatGPT die Rolle eines allwissenden Experten gibt und ihm Fragen stellt.",
+   "question": "Welche Rolle gibt Andreas ChatGPT bei der Interviewvorbereitung zum Beispiel zum Thema Katzen?",
+   "answer": "Die eines allwissenden Experten",
+   "distractors": [
+    "Die eines kritischen Interviewers",
+    "Die eines Übersetzers",
+    "Die eines Lektors"
+   ],
+   "aha": "Andreas sagt der KI: Du bist ein unendlich kluger Katzenexperte, und dann fragt er drauflos. So versteht er vorab vieles, wofür man sich früher mühsam einlesen musste.",
+   "quote_clean": "Meine Vorbereitung war unter anderem, dass ich ChatGPT gesagt habe: Okay, du bist ein unendlich kluger Experte zu Katzen, du weißt alles über Geschichte, Biologie, Verhalten, Psychologie und den Umgang von Mensch und Katze.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Beleg bei 1355-1385 stimmt. Frage auf Erklär mir die Welt bezogen; Aha enthielt eine nicht belegte Behauptung zu Podcast-Apps, ersetzt.",
+   "stand_note": "",
+   "statement": "Kurze Ausschnitte als Reels, Shorts oder TikToks werden von Algorithmen an neue Leute ausgespielt und helfen Erklär mir die Welt, neues Publikum zu erreichen.",
+   "question": "Warum spielt Erklär mir die Welt laut Andreas Ausschnitte als Reels, Shorts oder TikToks aus?",
+   "answer": "Algorithmen bringen neues Publikum",
+   "distractors": [
+    "Kurze Clips bringen mehr Werbegeld",
+    "Lange Folgen sind dort verboten",
+    "Stammhörer wollen nur Clips"
+   ],
+   "aha": "Über die Algorithmen von YouTube, TikTok und Instagram können laut Andreas viele Leute neu von Erklär mir die Welt erfahren, die den Podcast bisher gar nicht kannten.",
+   "quote_clean": "Wir können Ausschnitte davon als Reels oder Shorts ausspielen oder als TikTok-Videos, und durch diese Algorithmen können ganz viele Leute neu von Erklär mir die Welt erfahren. Das ist eine riesige Chance, neues Publikum zu erreichen.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1385 stimmt (Andreas' Beobachtung). Instagram/TikTok als Distraktoren sinnlos, da dort kein Podcast-Abo existiert; ersetzt.",
+   "stand_note": "Stand 2025",
+   "statement": "Laut Andreas hören Abonnent:innen in der Podcast-App viel mehr Folgen als jene, die den Kanal auf YouTube abonniert haben.",
+   "question": "Wo hören Abonnent:innen eines Podcasts laut Andreas mehr Folgen?",
+   "answer": "In der Podcast-App",
+   "distractors": [
+    "Auf YouTube",
+    "Bei beiden gleich viele",
+    "Auf Instagram"
+   ],
+   "aha": "Auf YouTube ist alles fluktuierender, man pickt sich einzelne Videos raus. In der Podcast-App hören Abonnent:innen dagegen viel treuer Folge um Folge.",
+   "quote_clean": "Nicht jedes Video. Ein Abo auf YouTube ist anders als ein Abo in einer Podcast-App: Die Leute hören viel mehr Folgen in der Podcast-App als auf YouTube.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 647-675 stimmt (350 ca., passt zur Zählung der Folgen im Feed); er sagt, aufgenommen seien sogar noch mehr.",
+   "stand_note": "",
+   "statement": "Nach sieben Jahren hat Erklär mir die Welt rund 350 Folgen veröffentlicht.",
+   "question": "Wie viele Folgen hatte Erklär mir die Welt zum 7. Geburtstag ungefähr?",
+   "answer": "Rund 350",
+   "distractors": [
+    "Rund 150",
+    "Rund 500",
+    "Rund 250"
+   ],
+   "aha": "Rund 350 Folgen in sieben Jahren, und aufgenommen sind sogar noch ein paar mehr. Inzwischen wird nämlich Monate im Voraus geplant.",
+   "quote_clean": "Wie viele Folgen haben wir bis jetzt schon aufgenommen? Ich weiß es gar nicht ganz genau. 350 circa.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "drop",
+   "issues": [
+    "transkription",
+    "beleg"
+   ],
+   "note": "Andreas sagt 'Downloads auf YouTube', gemeint wohl Aufrufe; der Kandidat deutet das um. Der folgende Satz (100000 ...) ist unverständlich transkribiert, Einheit und Zeitraum unklar.",
+   "stand_note": "Stand 2025",
+   "statement": "Erklär mir die Welt hatte zum 7. Geburtstag bereits eineinhalb Millionen Aufrufe auf YouTube.",
+   "question": "Wie viele Millionen Aufrufe hatte Erklär mir die Welt zum 7. Geburtstag auf YouTube?",
+   "answer": "1,5 Millionen",
+   "distractors": [
+    "0,5 Millionen",
+    "3 Millionen",
+    "5 Millionen"
+   ],
+   "aha": "Eineinhalb Millionen Aufrufe nach rund zwei Jahren YouTube. Dort ist das Publikum flüchtiger, aber viele Leute lernen den Podcast so überhaupt erst kennen.",
+   "quote_clean": "Das machen wir schon: Wir haben schon eineinhalb Millionen Downloads auf YouTube.",
+   "quality": 2
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 673 stimmt (Mitte März weiß er, was Mitte Juni kommt). Planungsstand von 2025.",
+   "stand_note": "Stand 2025",
+   "statement": "Erklär mir die Welt plant seine Folgen rund drei Monate im Voraus.",
+   "question": "Wie viele Monate im Voraus plant Erklär mir die Welt inzwischen seine Folgen?",
+   "answer": "Rund 3 Monate",
+   "distractors": [
+    "Rund 1 Monat",
+    "Rund 6 Monate",
+    "Rund 12 Monate"
+   ],
+   "aha": "Mitte März weiß Andreas schon, was Mitte Juni erscheint. Früher hat er manchmal am Montag noch schnell ein Interview für Dienstag organisiert.",
+   "quote_clean": "Ich weiß jetzt schon Mitte März, was wir Mitte Juni ausspielen werden.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 476-506 stimmt.",
+   "stand_note": "",
+   "statement": "Die Folge über die Intelligenz von Schweinen wurde direkt im Schweinestall aufgenommen.",
+   "question": "Wo wurde die Folge über die Intelligenz der Schweine aufgenommen?",
+   "answer": "Im Schweinestall",
+   "distractors": [
+    "Im Tiergarten Schönbrunn",
+    "Im Studio in Wien",
+    "In einem Schlachthof"
+   ],
+   "aha": "Für die Schweine-Folge ging es auf einen Bauernhof, mitten in den Stall. Valentina dachte sich damals: Was habe ich eigentlich für einen Job, Podcast im Schweinestall.",
+   "quote_clean": "Wir waren mal am Bauernhof und haben eine Folge über die Intelligenz der Schweine aufgenommen, und die haben wir im Schweinestall aufgenommen.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Beleg bei 1495-1501 stimmt; 'jeder Folge' leicht überzogen (Gästefolgen), Rubrik Stand 2025. Aha an den Transkriptdetails ausgerichtet, nicht 'jede Folge'.",
+   "stand_note": "Stand 2025",
+   "statement": "Andreas fragt seine Gäste am Ende des Gesprächs, welche drei Bücher sie den Hörer:innen empfehlen möchten.",
+   "question": "Was fragt Andreas seine Gäste immer am Ende?",
+   "answer": "Welche drei Bücher sie empfehlen",
+   "distractors": [
+    "Was sie heute gelernt haben",
+    "Welche Frage sie sich wünschen",
+    "Wen er als Nächstes einladen soll"
+   ],
+   "aha": "Auch Valentina hat Bücher mitgebracht: zwei echte und eines, das sie auf dem Kindle gelesen hat.",
+   "quote_clean": "Valentina, ich frage meine Gäste immer am Ende, welche drei Bücher sie unseren Hörerinnen empfehlen möchten.",
+   "quality": 3
+  }
+ ],
+ "id": "s20250328",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

@@ -1,0 +1,282 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Beleg bei 727-746: 'wahrscheinlich so um die zwei Prozent', also Schätzung der Gästin; in der Frage als ungefähre Angabe von Natascha kenntlich gemacht, Stand 2019.",
+   "stand_note": "Stand 2019",
+   "statement": "Aktive Aktienfonds, wie sie Banken oft verkaufen, haben laut Natascha Wegelin laufende Kosten von rund zwei Prozent pro Jahr.",
+   "question": "Wie viel Prozent pro Jahr kosten aktive Aktienfonds von der Bank laut Natascha Wegelin ungefähr an laufenden Gebühren?",
+   "answer": "Rund 2 Prozent",
+   "distractors": [
+    "Rund 0,2 Prozent",
+    "Rund 5 Prozent",
+    "Rund 8 Prozent"
+   ],
+   "quote_clean": "Die haben laufende Kosten von wahrscheinlich um die zwei Prozent. Das heißt, von allem, was da von mir drin liegt, schnappen die sich immer zwei Prozent.",
+   "aha": "Zwei Prozent klingen nach wenig, aber das geht jedes Jahr weg, ob der Fonds gut läuft oder nicht. Bezahlt werden davon die Leute, die laufend entscheiden, ob jetzt mehr BMW oder mehr Mercedes ins Depot kommt.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Beleg bei 746-753 stimmt (0,35 Prozent im Durchschnitt); Angabe der Gästin und Stand 2019, in der Frage kenntlich gemacht.",
+   "stand_note": "Stand 2019",
+   "statement": "Ein ETF, also ein passiver Aktienfonds, kostet laut Natascha Wegelin im Durchschnitt etwa 0,35 Prozent pro Jahr.",
+   "question": "Wie viel Prozent pro Jahr kostet ein ETF laut Natascha Wegelin im Durchschnitt an laufenden Gebühren?",
+   "answer": "0,35 Prozent",
+   "distractors": [
+    "0,05 Prozent",
+    "1,5 Prozent",
+    "2,5 Prozent"
+   ],
+   "quote_clean": "Zum Vergleich: Ein ETF, also ein passiver Aktienfonds, kostet im Durchschnitt 0,35 Prozent pro Jahr.",
+   "aha": "Bei einem ETF sitzt niemand, der dauernd Aktien hin und her schiebt, er bildet einfach einen Index nach. Darum kostet er nur einen Bruchteil eines aktiven Fonds, und über Jahrzehnte macht das einen ordentlichen Batzen aus.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 625-629 eindeutig.",
+   "stand_note": "",
+   "statement": "Die Abkürzung ETF steht für Exchange Traded Fund, also einen börsengehandelten Fonds.",
+   "question": "Wofür steht die Abkürzung ETF?",
+   "answer": "Exchange Traded Fund",
+   "distractors": [
+    "Equity Transfer Fund",
+    "European Trust Fund",
+    "Electronic Trading Fee"
+   ],
+   "quote_clean": "Dafür gibt es diese sogenannten ETFs. Ein ETF steht für Exchange Traded Fund.",
+   "aha": "Ein ETF ist ein Fonds, den man direkt an der Börse handeln kann wie eine einzelne Aktie. Kompliziertes Wort, wie Andreas sagt, aber eine recht einfache Sache dahinter.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 564-582 und 633-643: Blumenstrauß-Bild.",
+   "stand_note": "",
+   "statement": "Ein Aktienfonds ist wie ein fertig gebundener Blumenstrauß aus vielen Aktien, von dem man einen Teil kauft, statt einzelne Blumen auszusuchen.",
+   "question": "Mit welchem Bild erklärt Natascha Wegelin einen Aktienfonds?",
+   "answer": "Ein gebundener Blumenstrauß",
+   "distractors": [
+    "Ein gemischter Obstkorb",
+    "Eine bunte Bonbonniere",
+    "Ein volles Bücherregal"
+   ],
+   "quote_clean": "Ich muss mir nicht die Nike-, die Adidas- und die Amazon-Aktie selber raussuchen, sondern das hat schon jemand für mich gemacht und daraus einen Blumenstrauß gebunden. Ich kann mir einen Teil von diesem Blumenstrauß kaufen, anstatt einer einzelnen Blume.",
+   "aha": "Statt selber jede einzelne Aktie auszusuchen, kaufst du ein Stück vom ganzen Strauß. Geht eine Blume ein, schaut der Strauß trotzdem noch gut aus, und genau darum geht es beim Streuen des Risikos.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg bei 935-942: DAX 30 mit den 30 größten Unternehmen; Frage ist auf 2019 datiert, aha nennt die Erweiterung auf 40 (2021).",
+   "stand_note": "Stand 2019",
+   "statement": "Der deutsche Leitindex DAX enthielt zum Zeitpunkt der Folge die 30 größten börsennotierten Unternehmen Deutschlands.",
+   "question": "Wie viele Unternehmen enthielt der deutsche Leitindex DAX im Jahr 2019?",
+   "answer": "30",
+   "distractors": [
+    "10",
+    "50",
+    "100"
+   ],
+   "quote_clean": "Wenn ich den DAX 30 in Deutschland nehme, da sind die 30 größten börsennotierten Unternehmen in Deutschland drin. Das sind aber nur 30, das ist viel zu wenig.",
+   "aha": "Daher auch der Name DAX 30. Für Natascha sind 30 Firmen viel zu wenig, um das Risiko ordentlich zu streuen. Seit 2021 sind es übrigens 40.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 789-801 stimmt; quote_clean war ein zusammengeschnittener Dialog und wurde auf Nataschas Satz reduziert.",
+   "stand_note": "",
+   "statement": "Der wichtigste Aktienindex der Wiener Börse heißt ATX.",
+   "question": "Wie heißt der wichtigste Aktienindex der Wiener Börse?",
+   "answer": "ATX",
+   "distractors": [
+    "DAX",
+    "SMI",
+    "WBX"
+   ],
+   "quote_clean": "Der ATX ist beispielsweise ein Index. Und der Index bildet die Entwicklung von allen Unternehmen ab, die da mit drin sind.",
+   "aha": "Die Berlinerin Natascha kennt natürlich den DAX, beim österreichischen Index muss Andreas einspringen. Der ATX bildet die Entwicklung der großen Wiener Börsenunternehmen ab.",
+   "quality": 2
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg bei 1137-1141 stimmt; sie nennt auch '10 bis 15 Jahre', daher als Faustregel formuliert. Die Behauptung 'immer Gewinn' im aha entfernt, da als Tatsache irreführend.",
+   "stand_note": "",
+   "statement": "Als Faustregel sollte man laut Natascha Wegelin mindestens 15 Jahre in Aktien oder ETFs investiert bleiben.",
+   "question": "Wie viele Jahre sollte man laut Natascha Wegelin als Faustregel mindestens in Aktien investiert bleiben?",
+   "answer": "15 Jahre",
+   "distractors": [
+    "3 Jahre",
+    "5 Jahre",
+    "25 Jahre"
+   ],
+   "quote_clean": "Deswegen sagt man: 15 Jahre sollte man mindestens dabei bleiben.",
+   "aha": "Krisen dauern gern einmal vier, fünf, sechs Jahre, und wer genau dann verkaufen muss, macht echten Verlust. Darum die Faustregel: Geld, das du früher brauchst, gehört aufs Sparkonto und nicht ins Depot. Eine Anlageberatung ist das nicht.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 1301-1304 stimmt (bekannter Börsenspruch); aha als Ansicht der Gästin gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Ein Börsenspruch lautet „Hin und her macht Taschen leer“, weil häufiges Kaufen und Verkaufen Gebühren kostet und selten etwas bringt.",
+   "question": "Wie geht der Börsenspruch weiter: „Hin und her macht …“?",
+   "answer": "Taschen leer",
+   "distractors": [
+    "Kassen voll",
+    "Depots schwer",
+    "Banken reich"
+   ],
+   "quote_clean": "Deswegen gibt es auch diesen schönen Spruch: Hin und her macht Taschen leer. Weil dieses Kaufen und Verkaufen – ach, jetzt ist es doch gestiegen, dann gehe ich wieder rein.",
+   "aha": "Jeder Kauf und Verkauf kostet eine Gebühr bei der Bank, und niemand hat eine Glaskugel, auch die Expert:innen nicht. Darum rät Natascha: lieber kaufen und liegen lassen, statt ständig hin und her zu springen.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Wer-hat's-gesagt-Frage ohne Faktenkern; 'am besten nie verkaufen' ist eine pauschale Anlage-Ansicht, die als Spielfakt nicht taugt.",
+   "stand_note": "",
+   "statement": "Auf die Frage, wann man Aktien verkaufen sollte, antwortet Natascha Wegelin: am besten nie, sondern kaufen und halten.",
+   "question": "Wer sagt im Podcast auf die Frage, wann man Aktien verkaufen soll: „Am besten nie. Kaufen und halten, halten, halten“?",
+   "answer": "Natascha Wegelin",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Bankberater",
+    "Warren Buffett"
+   ],
+   "quote_clean": "Am besten nie. Kaufen und halten, halten, halten.",
+   "aha": "Weil niemand weiß, wie es morgen weitergeht, ist Nichtstun laut Natascha die beste Methode.",
+   "quality": 1
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1354-1371: goldene Gans als Bild, klar als Metapher gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Ein über Jahrzehnte aufgebautes Aktienportfolio ist wie eine goldene Gans: Man muss sie nicht verkaufen, sondern lebt von den Eiern, also den Erträgen.",
+   "question": "Mit welchem Tier vergleicht Natascha Wegelin ein gut gefülltes Aktienportfolio in der Pension?",
+   "answer": "Einer goldenen Gans",
+   "distractors": [
+    "Einer fetten Kuh",
+    "Einem fleißigen Eichhörnchen",
+    "Einem Sparschwein"
+   ],
+   "quote_clean": "Wenn ich alles gut durchgeplant habe, ist mein Portfolio so groß – ich nenne das immer die goldene Gans –, ich habe sie über die letzten 20, 30 Jahre so fett gestopft, dass die Eier, die diese Gans legt, so groß sind, dass ich davon leben kann.",
+   "aha": "Die Idee: Du verkaufst die Gans nicht, sondern lebst von ihren Eiern, also den Gewinnen und Ausschüttungen. Dafür muss man sie aber 20, 30 Jahre lang ordentlich stopfen.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 336-356: Umschlagmethode, Bäcker-Beispiel.",
+   "stand_note": "",
+   "statement": "Bei der Umschlagmethode steckt man das Budget für jeden Ausgabeposten als Bargeld in einen eigenen Umschlag; ist er leer, ist das Budget aufgebraucht.",
+   "question": "Wie heißt die Sparmethode, bei der man Bargeld für jeden Ausgabeposten getrennt in Kuverts steckt?",
+   "answer": "Umschlagmethode",
+   "distractors": [
+    "Gurkenglasmethode",
+    "Schubladenprinzip",
+    "Kassasturz"
+   ],
+   "quote_clean": "Was sich bewährt hat, ist die sogenannte Umschlagmethode. Total offline: Ich ziehe mir Geld aus dem Automaten, stecke es in einen Umschlag und schreibe „Bäcker“ drauf. Dann kommen da 20 Euro rein.",
+   "aha": "Für den Bäcker kommen 20 Euro ins Kuvert, und wenn das leer ist, gibt es halt kein Kipferl mehr. So kann man sein Budget gar nicht reißen, ganz ohne App.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage mit beliebigen Distraktoren, kein Faktenkern.",
+   "stand_note": "",
+   "statement": "Ein Grundsatz beim Investieren lautet laut Natascha Wegelin: Nur das Geld anlegen, das man nicht zum Leben braucht.",
+   "question": "Wer sagt im Podcast: „Nur das Geld investieren, was man nicht braucht“ sei ihr Credo?",
+   "answer": "Natascha Wegelin",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Ökonom aus Wien",
+    "Eine Bankberaterin"
+   ],
+   "quote_clean": "Wenn ich nur das Geld investiere, das ich eh nicht zum Leben brauche, wovon nichts in meinem Leben abhängt – das ist so ein Credo: nur das Geld investieren, das man nicht braucht.",
+   "aha": "Hängt nichts Wichtiges an dem Geld, kann man Krisen gelassen aussitzen.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Gesprächseröffnung ohne Wissenswert.",
+   "stand_note": "",
+   "statement": "Andreas beginnt das Gespräch mit der Bitte an den Gast, sich kurz vorzustellen.",
+   "question": "Womit startet Andreas das Gespräch mit Natascha Wegelin?",
+   "answer": "Sie soll sich kurz vorstellen",
+   "distractors": [
+    "Er fragt nach ihrem Kontostand",
+    "Er erzählt von seinem Depot",
+    "Er fragt nach ihrem Lieblingsbuch"
+   ],
+   "quote_clean": "Hi Natascha. Bevor wir loslegen, stell dich doch bitte kurz vor.",
+   "aha": "Der klassische Einstieg: Der Gast stellt sich selbst vor.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1743-1760: Serie Katsching im Standard.",
+   "stand_note": "",
+   "statement": "Andreas hat im Standard eine Serie namens Katsching geschrieben, in der er dokumentiert, wie er sein Geld anlegt.",
+   "question": "Wie heißt Andreas' Serie im Standard, in der er dokumentiert hat, wie er sein Geld anlegt?",
+   "answer": "Katsching",
+   "distractors": [
+    "Klimpergeld",
+    "Kassasturz",
+    "Moneten"
+   ],
+   "quote_clean": "Wenn euch das heute zu schnell gegangen ist, googelt mal Katsching. Katsching, so wie der Sound, wenn man eine Kasse aufmacht.",
+   "aha": "Benannt nach dem Geräusch einer aufspringenden Registrierkasse, das Andreas zur Sicherheit gleich selbst vorführt. Dort hat er von Anfang an dokumentiert, wie er sein Geld anlegt.",
+   "quality": 3
+  }
+ ],
+ "id": "87",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

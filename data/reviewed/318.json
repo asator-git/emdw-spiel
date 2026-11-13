@@ -1,0 +1,277 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 174 s.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Wer ungefähr ein Jahr lang erfolglos versucht, ein Kind zu bekommen, sollte sich ärztliche Hilfe holen.",
+   "question": "Nach wie vielen Monaten erfolglosem Probieren rät man Paaren, sich Hilfe zu holen?",
+   "answer": "Nach etwa 12 Monaten",
+   "distractors": [
+    "Nach etwa 3 Monaten",
+    "Nach etwa 24 Monaten",
+    "Nach etwa 6 Monaten"
+   ],
+   "aha": "Ein Jahr ist die Faustregel: Erst dann gilt ein Kinderwunsch medizinisch als unerfüllt. Der erste Weg führt zur Frauenärztin, von dort geht's meistens weiter ins Kinderwunschzentrum.",
+   "quote_clean": "So ca. nach 12 Monaten ist der Cut, wo man sich Hilfe suchen sollte, erstmal beim Frauenarzt."
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Als Aussage der Ärztin gerahmt; unbelegte Aha-Behauptung entfernt.",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Die Ursache für einen unerfüllten Kinderwunsch liegt etwa gleich oft bei der Frau wie beim Mann.",
+   "question": "Zu wie viel Prozent liegt die Ursache für ungewollte Kinderlosigkeit laut Magdalena ungefähr beim Mann?",
+   "answer": "Etwa 50 Prozent",
+   "distractors": [
+    "Etwa 10 Prozent",
+    "Etwa 25 Prozent",
+    "Etwa 80 Prozent"
+   ],
+   "aha": "Laut Magdalena ist es fifty-fifty: Die Ursache kann bei der Frau liegen oder beim Mann, zum Beispiel im Spermiogramm. Darum gehören beide von Anfang an zur Abklärung.",
+   "quote_clean": "Es ist fifty-fifty bei der Frau oder beim Mann: Es kann das Spermiogramm nicht in Ordnung sein."
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 460 s.",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Von außen zugeführtes Testosteron, etwa Anabolika im Fitnessstudio, kann Männer unfruchtbar machen.",
+   "question": "Was kann junge Männer, die im Fitnessstudio Muskeln aufbauen, unfruchtbar machen?",
+   "answer": "Zugeführtes Testosteron",
+   "distractors": [
+    "Zu viel Eiweißpulver",
+    "Zu häufiges Training",
+    "Kreatin-Präparate"
+   ],
+   "aha": "Klingt paradox, weil Testosteron ja als Männlichkeitshormon gilt. Kommt es aber von außen, fährt der Körper die eigene Produktion herunter, und damit auch die Samenzellen. Laut Magdalena wird das oft auf die leichte Schulter genommen.",
+   "quote_clean": "Testosteron, das extern zugeführt wird, gerade wenn man als junger Mann im Fitnesscenter Muskeln aufbauen will, ist ein großes Problem."
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 755 s.",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Der eigentliche Taktgeber des weiblichen Zyklus ist nicht die Regelblutung, sondern der Eisprung.",
+   "question": "Was ist laut Gynäkologin der eigentliche Taktgeber des weiblichen Zyklus?",
+   "answer": "Der Eisprung",
+   "distractors": [
+    "Die Regelblutung",
+    "Die Schilddrüse",
+    "Die Einnistung"
+   ],
+   "aha": "Der Eisprung teilt den Zyklus in zwei Hälften: In der ersten reift die Eizelle heran, in der zweiten kann sich eine befruchtete Eizelle einnisten. Die Blutung ist eher das Ende vom Lied.",
+   "quote_clean": "Man glaubt immer, die Regelblutung ist der Taktgeber, aber der eigentliche Taktgeber ist der Eisprung, der den weiblichen Zyklus in zwei Hälften teilt."
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 914 s.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "IVF funktioniert, weil ein Embryo die ersten fünf Tage ohnehin unterwegs ist und erst dann die Gebärmutter braucht.",
+   "question": "Wie viele Tage kann ein Embryo bei der IVF im Schälchen wachsen, bevor er die Gebärmutter braucht?",
+   "answer": "Etwa fünf Tage",
+   "distractors": [
+    "Etwa einen Tag",
+    "Etwa zwei Wochen",
+    "Etwa zehn Tage"
+   ],
+   "aha": "Auch natürlich wandert die befruchtete Eizelle rund fünf Tage durch den Eileiter. Ob sie dabei schwimmt oder in einer Laborschale liegt, ist dem Embryo laut Magdalena ziemlich egal.",
+   "quote_clean": "Dem ist es egal, ob er im Eileiter dahinschwimmt oder ob er in einem Schälchen ist und dort 5 Tage alt wird, aber er braucht am ungefähr fünften Tag dann wieder die Gebärmutter."
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "kontext"
+   ],
+   "note": "Pauschale Behauptung, in Deutschland gebe es \"viel mehr\" Zwillinge, ist heute strittig (Einzelembryotransfer üblich).",
+   "stand_note": "",
+   "quality": 2,
+   "statement": "Weil in Deutschland alle bis zum fünften Tag kultivierten Embryonen eingesetzt werden müssen, gibt es dort bei IVF mehr Zwillinge.",
+   "question": "Warum gibt es in Deutschland bei IVF mehr Zwillinge als in anderen Ländern?",
+   "answer": "Kultivierte Embryonen müssen alle eingesetzt werden",
+   "distractors": [
+    "Deutsche Kliniken bevorzugen Zwillinge",
+    "Hormondosen sind dort höher",
+    "Paare zahlen pro Embryo weniger"
+   ],
+   "aha": "In Österreich darf man Embryonen bis zum fünften Tag beobachten, einen einsetzen und den Rest einfrieren. Deutschland erlaubt das nur sehr eingeschränkt, darum landen dort öfter mehrere Embryonen in der Gebärmutter.",
+   "quote_clean": "Die muss man dann alle einsetzen in Deutschland, und darum gibt's in Deutschland bei der IVF viel mehr Zwillinge als in anderen Ländern."
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1113 s.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Bei der Hormonstimulation für IVF wird gleichzeitig Gas gegeben und gebremst, damit viele Eizellen gleichmäßig heranwachsen.",
+   "question": "Mit welchem Bild beschreibt die Gynäkologin die Hormonspritzen bei der IVF-Stimulation?",
+   "answer": "Gas und Bremse",
+   "distractors": [
+    "Säen und Ernten",
+    "Ebbe und Flut",
+    "Zuckerbrot und Peitsche"
+   ],
+   "aha": "Eine Spritze holt möglichst viele Eizellen ins Rennen, eine zweite verhindert, dass eine davonzieht. Ziel ist, dass alle zur selben Zeit reif sind, wenn sie entnommen werden.",
+   "quote_clean": "Das ist ein Spiel wie mit Gas und Bremse: Zuerst gibt man Gas und rekrutiert möglichst viele Eizellen, und dann steigt man gleichzeitig auf die Bremse, damit nicht eine schon sehr groß wird und die andere noch sehr klein bleibt."
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1286-1313 s.",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Bei der ICSI wählt ein Biologe ein einzelnes Spermium aus und spritzt es mit einer feinen Nadel direkt in die Eizelle.",
+   "question": "Was passiert bei der ICSI, einer Variante der IVF?",
+   "answer": "Spermium wird direkt in Eizelle gespritzt",
+   "distractors": [
+    "Eizelle wird im Körper befruchtet",
+    "Spermien werden eingefroren und aufgetaut",
+    "Mehrere Eizellen werden verschmolzen"
+   ],
+   "aha": "ICSI heißt intrazytoplasmatische Spermieninjektion, ein Wort zum Zungenbrechen. Der Biologe sucht dafür das Spermium aus, das am normalsten aussieht und am schnellsten schwimmt.",
+   "quote_clean": "Da sucht sich der Biologe ein Spermium und eine Eizelle aus und spritzt mit einer ganz dünnen Nadel das Spermium in die Eizelle hinein."
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Als Schätzung der Ärztin gerahmt, Distraktor 8 % ist literaturnah, ersetzt; Aha nicht überzogen.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Vom PCO-Syndrom, einer Hormonstörung, sind Schätzungen zufolge rund 20 Prozent der Frauen betroffen.",
+   "question": "Wie viel Prozent der Frauen sind laut Magdalenas Schätzung vom PCO-Syndrom betroffen?",
+   "answer": "Etwa 20 Prozent",
+   "distractors": [
+    "Etwa 1 Prozent",
+    "Etwa 45 Prozent",
+    "Etwa 60 Prozent"
+   ],
+   "aha": "Das polyzystische Ovarialsyndrom ist eine Hormonstörung, von der laut Magdalena schätzungsweise jede fünfte Frau betroffen ist. Je leichter die Grunderkrankung, desto besser sind die IVF-Chancen.",
+   "quote_clean": "So eine Hormonstörung, die relativ viele Frauen betrifft: 20 % ist mittlerweile die Schätzung, dass Frauen davon betroffen sind."
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 57-116 s.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Die Gynäkologin mag das Wort künstliche Befruchtung nicht, weil bei IVF nichts künstlich hergestellt wird.",
+   "question": "Warum mag die Kinderwunsch-Ärztin das Wort „künstliche Befruchtung“ nicht?",
+   "answer": "Es ist nichts Künstliches dabei",
+   "distractors": [
+    "Es klingt zu technisch",
+    "Es ist medizinisch falsch",
+    "Es betrifft nur Männer"
+   ],
+   "aha": "Für Magdalena unterstützt IVF die Natur nur von außen. Ei- und Samenzellen kommen ja trotzdem vom Paar, für viele macht das einen Unterschied, wie sie über ihr Kind denken.",
+   "quote_clean": "Wir brauchen den Mann und wir brauchen die Frau, und da ist nichts Künstliches dabei. Wir brauchen die Natur, den Eierstock, die Samenzellen, die Eizellen."
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Von \"Wer hat's gesagt\" zu inhaltlicher Frage umgebaut; Beleg bei 2459-2488 s.",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Laut Magdalena macht eine IVF emotional auch deshalb so zu schaffen, weil man im Detail viel mehr über den eigenen Körper weiß, als man sonst wüsste.",
+   "question": "Was macht eine IVF-Behandlung laut Magdalena emotional besonders schwierig?",
+   "answer": "Man weiß im Detail viel mehr über den eigenen Körper",
+   "distractors": [
+    "Die Spritzen sind extrem schmerzhaft",
+    "Die Behandlung dauert viele Monate am Stück",
+    "Man darf niemandem davon erzählen"
+   ],
+   "aha": "Normalerweise weiß niemand, wie viele Eizellen gerade reifen oder dass ein Embryo im Körper sitzt. Bei der IVF weiß man das alles, und genau dieses Wissen macht die zwei Wochen Warten so zermürbend.",
+   "quote_clean": "Man ist irgendwie schwanger, aber irgendwie auch nicht schwanger. Das ist emotional wirklich schwierig."
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Von \"Wer hat's gesagt\" zu inhaltlicher Frage umgebaut; Beleg bei 2965-2983 s.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Magdalena vergleicht den Kinderwunsch mit dem Wunsch nach einer Villa: Auf die Villa verzichtet man, wenn man sie sich nicht leisten kann, den Kinderwunsch kann man rational nicht abstellen.",
+   "question": "Mit welchem Wunsch vergleicht Magdalena den Kinderwunsch, um zu zeigen, dass er sich rational nicht abstellen lässt?",
+   "answer": "Mit dem Wunsch nach einer Villa",
+   "distractors": [
+    "Mit dem Wunsch nach einem Haustier",
+    "Mit dem Wunsch nach einer Karriere",
+    "Mit dem Wunsch nach einer Weltreise"
+   ],
+   "aha": "Eine Villa, die man sich nicht leisten kann, gibt man irgendwann auf. Beim Kinderwunsch geben Paare dagegen oft das letzte Hemd, sagt Magdalena.",
+   "quote_clean": "Es sagt niemand: Na, dann geht das halt nicht mit dem Kind. Das ist rational nicht abstellbar."
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Nebensächlicher Scherz, schwache Spielfrage.",
+   "stand_note": "",
+   "quality": 1,
+   "statement": "Andreas fragt als Fußballer erleichtert nach, ob ein Ball gegen die Hoden schon unfruchtbar machen kann.",
+   "question": "Was will Andreas als Fußballer wissen, als es um Unfälle und Unfruchtbarkeit geht?",
+   "answer": "Ob Fußball schon reicht",
+   "distractors": [
+    "Ob Radfahren schadet",
+    "Ob Kopfbälle gefährlich sind",
+    "Ob Sauna schadet"
+   ],
+   "aha": "Es geht um schwere Schläge und Unfälle gegen die Hoden. Ein normales Match reicht laut Magdalena nicht, vielleicht hängt's von der Anzahl der Bälle ab, scherzt Andreas.",
+   "quote_clean": "Fußball reicht ja nicht, sage ich als Fußballer? Nein, Gott sei Dank."
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsablauf ohne Wissensgehalt.",
+   "stand_note": "",
+   "quality": 1,
+   "statement": "Am Ende der Folge stellt Andreas Fragen, die Hörer:innen vorab über die Website eingeschickt haben.",
+   "question": "Womit leitet Andreas gegen Ende der Folge über?",
+   "answer": "Mit Fragen von Hörer:innen",
+   "distractors": [
+    "Mit einem Quiz für den Gast",
+    "Mit einer Werbepause",
+    "Mit seiner Lieblingszahl"
+   ],
+   "aha": "Bevor die Bücher-Empfehlungen kommen, sind die Hörer:innen dran. Diesmal ging's etwa um Risiken für IVF-Kinder und die Höchstzahl an Kindern pro Samenspender.",
+   "quote_clean": "Ich habe am Ende noch ein paar Fragen von Hörerinnen bekommen. Ihr könnt sie immer auf erklärmir.at/fragen, eure Fragen an meine Gäste, einsenden."
+  }
+ ],
+ "id": "318",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

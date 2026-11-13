@@ -1,0 +1,285 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Bei 182-190 belegt; Aha-Zusatz zu Stimmen und Mandaten war überflüssig und unklar. Frage ist recht einfach.",
+   "stand_note": "",
+   "statement": "Eine Koalition wird nötig, wenn keine Partei allein mehr als 50 Prozent der Mandate im Parlament hat.",
+   "question": "Ab wie viel Prozent der Mandate hat eine Partei die absolute Mehrheit im Parlament?",
+   "answer": "Mehr als 50 Prozent",
+   "distractors": [
+    "Mehr als 40 Prozent",
+    "Mehr als 60 Prozent",
+    "Mehr als 66 Prozent"
+   ],
+   "aha": "Wer mehr als die Hälfte der Sitze hat, kann allein regieren. Weil das in Österreich seit Jahrzehnten keine Partei schafft, müssen sich mindestens zwei zusammentun.",
+   "quote_clean": "Man braucht im Parlament eine Mehrheit der Stimmen. Und nachdem es keine Partei gibt, die eine absolute Mehrheit hat, das heißt mehr als 50 Prozent der Mandate, müssen sich zumindest zwei Parteien zu einer Koalition finden.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 194-202 belegt, fünf Parteien (ÖVP, SPÖ, FPÖ, Grüne, NEOS) nach der Wahl 2019 stimmt; Frage steht in der Vergangenheit.",
+   "stand_note": "Stand 2019",
+   "statement": "Nach der Nationalratswahl 2019 saßen fünf Parteien im österreichischen Parlament.",
+   "question": "Wie viele Parteien zogen 2019 in den österreichischen Nationalrat ein?",
+   "answer": "5",
+   "distractors": [
+    "3",
+    "4",
+    "7"
+   ],
+   "aha": "ÖVP, SPÖ, FPÖ, Grüne und NEOS: Fünf Parteien heißt viele mögliche Kombinationen. Sebastian Kurz musste sich also mindestens einen Partner suchen.",
+   "quote_clean": "Und jetzt gibt es in Österreich im neu gewählten Parlament fünf Parteien.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Bei 169-175 belegt; die Behauptung, das Wort ziehe sich durchs ganze Gespräch, ist nicht belegt.",
+   "stand_note": "",
+   "statement": "Eine Koalition ist eine politische Zweckgemeinschaft: Parteien tun sich zusammen, um gemeinsam eine Mehrheit zu haben.",
+   "question": "Wie beschreibt Willi Molterer eine Koalition?",
+   "answer": "Als politische Zweckgemeinschaft",
+   "distractors": [
+    "Als politische Liebesheirat",
+    "Als Bündnis Gleichgesinnter",
+    "Als vorübergehender Waffenstillstand"
+   ],
+   "aha": "Man muss sich nicht lieben, man braucht einander, weil sonst keine Mehrheit zusammenkommt. Molterer nennt die Koalition gleich zu Beginn eine Zweckgemeinschaft.",
+   "quote_clean": "Zuerst einmal: Was ist eigentlich eine Koalition? Eine Koalition ist eine politische Zweckgemeinschaft. Und warum braucht man eine Koalition?",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 217-224 belegt, üblicherweise ist im Aha richtig eingeordnet.",
+   "stand_note": "",
+   "statement": "In Österreich beauftragt der Bundespräsident üblicherweise den Chef der stimmenstärksten Partei mit der Regierungsbildung.",
+   "question": "Wer beauftragt in Österreich nach einer Wahl üblicherweise jemanden mit der Regierungsbildung?",
+   "answer": "Der Bundespräsident",
+   "distractors": [
+    "Die Nationalratspräsidentin",
+    "Der Verfassungsgerichtshof",
+    "Der scheidende Bundeskanzler"
+   ],
+   "aha": "Das Wort üblicherweise ist wichtig: Es ist eine Gepflogenheit, kein Automatismus. Meistens bekommt der Chef der stärksten Partei den Auftrag, und der geht dann auf die anderen zu.",
+   "quote_clean": "Der Bundespräsident Alexander Van der Bellen beauftragt üblicherweise den Stimmstärksten, also in dem Fall klar Sebastian Kurz.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Sondierung bei 229-258 belegt; die Beispielthemen im Aha (Europa, Budget) stehen nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Die ersten Gespräche zwischen Parteien vor eigentlichen Koalitionsverhandlungen nennt man Sondierung.",
+   "question": "Wie heißt die erste Phase, in der Parteien ausloten, ob eine Koalition überhaupt möglich ist?",
+   "answer": "Sondierung",
+   "distractors": [
+    "Ratifizierung",
+    "Konsultation",
+    "Präliminarien"
+   ],
+   "aha": "Sondieren heißt abtasten: Wo gibt es Gemeinsamkeiten, und mit wem geht es gar nicht? Erst wenn bei den Grundfragen genug zusammenpasst, wird wirklich verhandelt, und selbst dann kann es noch scheitern.",
+   "quote_clean": "Er führt mit allen Parteien ein Gespräch. Das hat sich eingebürgert, das nennt man Sondierung.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 458-471 belegt, Distraktoren eindeutig falsch, Aha stimmt.",
+   "stand_note": "",
+   "statement": "Am Ende von Koalitionsverhandlungen steht ein unterschriebener Vertrag, das Regierungsübereinkommen.",
+   "question": "Wie heißt der Vertrag, den Koalitionsparteien in Österreich am Ende unterschreiben?",
+   "answer": "Regierungsübereinkommen",
+   "distractors": [
+    "Staatsvertrag",
+    "Koalitionsgesetz",
+    "Regierungserklärung"
+   ],
+   "aha": "Darin verpflichten sich die Parteien, bestimmte Maßnahmen gemeinsam umzusetzen. Die Regierungserklärung ist dagegen nur die Rede, mit der die neue Regierung sich im Parlament vorstellt.",
+   "quote_clean": "Am Ende steht so etwas wie ein Vertrag. Den nennt man dann Regierungsübereinkommen. Der wird dann unterschrieben.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "transkription",
+    "kontext"
+   ],
+   "note": "Fünf Jahre bei 519 belegt; im Zitat war ein Zusatz (desto besser) hinzugefügt, der nicht gesagt wurde; Aha präzisiert.",
+   "stand_note": "",
+   "statement": "Ein Regierungsprogramm in Österreich ist ein politisches Programm für fünf Jahre.",
+   "question": "Für wie viele Jahre wird in Österreich ein Regierungsprogramm geplant?",
+   "answer": "5 Jahre",
+   "distractors": [
+    "3 Jahre",
+    "4 Jahre",
+    "6 Jahre"
+   ],
+   "aha": "Eine Legislaturperiode dauert in Österreich seit der Reform 2007/08 fünf statt vier Jahre. Darum hält Molterer wenig von schnellen Verhandlungen: Was man vorher nicht klärt, streitet man nachher aus.",
+   "quote_clean": "Je solider so etwas vorbereitet ist, weil es ja immerhin um ein politisches Programm für fünf Jahre geht.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Bei 778-791 belegt; Aha-Formulierung schnapsen war nicht belegt und salopp.",
+   "stand_note": "",
+   "statement": "Was eine Arbeitsgruppe nicht lösen kann, geht als zwei gegenüberstehende Positionen nach oben zu den Chefs.",
+   "question": "Was passiert mit heiklen Punkten, bei denen sich eine Untergruppe nicht einigen kann?",
+   "answer": "Sie werden an die Chefs weitergegeben",
+   "distractors": [
+    "Sie werden ersatzlos gestrichen",
+    "Sie gehen an das Parlament",
+    "Darüber stimmt die Parteibasis ab"
+   ],
+   "aha": "Unten wird das meiste fixiert, oben bleibt eine Liste mit den Positionen von Partei A und Partei B. Am Ende entscheiden die Chefs mit ihren Oberverhandlern.",
+   "quote_clean": "Dann gibt es aber in jeder dieser Gruppen, sage ich mal, fünf heikle Punkte. Da stehen dann zwei Positionen, die der Partei A und die der Partei B. Die Untergruppe kann sich nicht einigen und gibt das nach oben.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Kobra bei 1277 belegt, Riess-Passer korrekt zugeordnet, harmlose Anekdote.",
+   "stand_note": "",
+   "statement": "Bei einem legendären gemeinsamen Ausflug der Regierungsspitze in den Tiergarten bekam jedes Regierungsmitglied ein Tier zugeteilt.",
+   "question": "Welches Tier bekam Vizekanzlerin Susanne Riess-Passer beim legendären Regierungsausflug in den Tiergarten zugeteilt?",
+   "answer": "Die Kobra",
+   "distractors": [
+    "Den Löwen",
+    "Den Pinguin",
+    "Das Nashorn"
+   ],
+   "aha": "Klingt nach Schulausflug, war aber Teambuilding: Laut Molterer hatte das enormen Einfluss darauf, dass der Eindruck entstand, da wollen Leute wirklich miteinander arbeiten.",
+   "quote_clean": "Legendär, ein paar Leute erinnern sich daran, mit Susanne Riess-Passer zum Beispiel: der Ausflug in den Tiergarten, wo dann plötzlich jeder sein Tier zugeteilt bekommen hat. Vor allem war Susanne Riess-Passer die Cobra.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Bei 942-964 belegt; der Landtmann-Satz im Aha war missverständlich.",
+   "stand_note": "",
+   "statement": "Bei einer Regierungsverhandlung wartete ein ORF-Journalist im Privatauto vor Molterers Haustür, um ihm zum geheimen Treffpunkt nachzufahren.",
+   "question": "Wie wollte ein ORF-Journalist einmal herausfinden, wo Molterer geheim verhandelt?",
+   "answer": "Ihm von daheim nachfahren",
+   "distractors": [
+    "Sein Telefon abhören lassen",
+    "Den Chauffeur bestechen",
+    "Sein Büro beschatten lassen"
+   ],
+   "aha": "Molterer hat zufällig ins Auto geschaut und gesagt: nice try, aber so funktioniert es nicht. Informelle Treffen ohne Medien gehören für ihn einfach dazu, und das ist laut ihm auch gut so.",
+   "quote_clean": "Wir hatten auch einmal eine Regierungsverhandlung, wo die Medien bei mir zu Hause gewartet haben, vor der Haustür im privaten Auto, ein Journalist des ORF, um mir dann nachzufahren.",
+   "quality": 4
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Zitat bei 1166-1181 belegt; Wer-sagte-Frage zu schwach, Aha enthielt eine erfundene Folgerung zu den Studiengebühren. Auf die ideale Koalition umgestellt.",
+   "stand_note": "",
+   "statement": "Die ideale Koalition nimmt laut Willi Molterer das Beste von allem heraus, denn keine Partei hat die Weisheit mit dem Löffel gefressen.",
+   "question": "Was ist laut Willi Molterer die ideale Koalition?",
+   "answer": "Eine, die das Beste von allem herausnimmt",
+   "distractors": [
+    "Eine, in der eine Partei klar führt",
+    "Eine mit möglichst wenigen Verhandlungen",
+    "Eine, die jeden Streit vermeidet"
+   ],
+   "aha": "Keine Partei hat die Weisheit mit dem Löffel gefressen, sagt der langjährige ÖVP-Verhandler: Es gibt aus jeder Partei gute und weniger gute Ideen. Bei den Studiengebühren 2007 und den Gesprächen mit den Grünen 2003 sind für ihn so kreative Lösungen entstanden.",
+   "quote_clean": "Keine Partei hat die Weisheit mit dem Löffel gefressen. Keine. Und es gibt aus jeder Partei gute Ideen und weniger gute Ideen. Und die ideale Koalition ist eigentlich: Ich nehme das Beste von allem heraus.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "transkription",
+    "veraltet"
+   ],
+   "note": "Bei 610-618 belegt; Zitat war umformuliert, Wer-sagte-Frage schwach; Parteischwerpunkte sind Molterers Prognose 2019.",
+   "stand_note": "Stand 2019",
+   "statement": "In einer Koalition muss laut Willi Molterer jede Partei Abstriche machen, mit dem Kopf durch die Wand geht nicht.",
+   "question": "Was muss laut Willi Molterer in einer Koalition jede Partei tun?",
+   "answer": "Abstriche machen",
+   "distractors": [
+    "Das eigene Programm ganz aufgeben",
+    "Sich der größten Partei unterordnen",
+    "Auf alle roten Linien verzichten"
+   ],
+   "aha": "Koalition heißt Kompromiss, und der ist für Molterer gar nichts Schlechtes, sondern der Weg der Mitte. Er erwartete damals, dass die Grünen auf Klimaschutz setzen, die ÖVP auf den Wirtschaftsstandort, und dazwischen müsse ein gemeinsamer Weg gefunden werden.",
+   "quote_clean": "Das heißt, jeder muss Abstriche machen. Das ist völlig klar. Es ist eben kein Kopf durch die Wand. Kopf durch die Wand geht nicht.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Bei 1647-1664 belegt; Wer-sagte-Frage durch inhaltliche Frage ersetzt, nicht belegte Uhrzeit (sechs Uhr früh) aus dem Aha entfernt.",
+   "stand_note": "",
+   "statement": "Emotionen in Koalitionsverhandlungen zeigen laut Willi Molterer, dass dort Menschen sitzen und keine Maschinen, und das findet er gut.",
+   "question": "Warum möchte Willi Molterer Emotionen in Koalitionsverhandlungen nicht missen?",
+   "answer": "Sie zeigen, dass dort Menschen sitzen",
+   "distractors": [
+    "Sie beschleunigen die Verhandlungen",
+    "Sie machen Kompromisse überflüssig",
+    "Sie beeindrucken die Medien"
+   ],
+   "aha": "Bei den Verhandlungen mit den Grünen 2003 sind laut Molterer auch einige Tränen geflossen. Umsonst war es für ihn nicht, auch wenn es am Ende vergebens war: Das Verständnis füreinander sei gestiegen.",
+   "quote_clean": "Die Emotionen zeigen ja auch, das sind keine Maschinen, die dort sitzen, sondern Menschen mit ihren Wünschen, mit ihren Träumen, mit ihren Fähigkeiten, und das ist auch gut so. Ich finde Emotionen in der Politik etwas Wichtiges.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Triviale Meta-Frage zur Gesprächseröffnung ohne Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Andreas startet das Gespräch, indem er den Gast bittet, sich selbst kurz vorzustellen.",
+   "question": "Womit beginnt Andreas das Gespräch mit Willi Molterer?",
+   "answer": "Er bittet ihn, sich vorzustellen",
+   "distractors": [
+    "Er fragt nach dem Wahlergebnis",
+    "Er liest seinen Lebenslauf vor",
+    "Er fragt nach seinem Lieblingsminister"
+   ],
+   "aha": "Molterer antwortet mit 65 Lebensjahren und vielen politischen Jahren am Buckel.",
+   "quote_clean": "Willi, falls dich jemand nicht kennt, stell dich doch bitte noch einmal kurz vor.",
+   "quality": 1
+  }
+ ],
+ "id": "80",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

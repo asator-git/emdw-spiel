@@ -1,0 +1,294 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "veraltet",
+    "kontext"
+   ],
+   "note": "Robert beschreibt hier grob und aus der Erinnerung 'vollen Sozialanspruch' mit 5 Jahren Meldung und 2 Jahren Arbeit; für Gemeindewohnungen galt in Wien 2019 eine andere (kürzere) Voraussetzung, die Zahl ist als Fakt nicht belastbar und heute überholt.",
+   "stand_note": "",
+   "statement": "Für den vollen Sozialanspruch in Wien, etwa auf eine Gemeindewohnung, muss man laut Robert Tatar fünf Jahre in Wien gemeldet gewesen sein.",
+   "question": "Wie viele Jahre musste man laut Robert in Wien gemeldet sein, um vollen Sozialanspruch zu haben, etwa auf eine Gemeindewohnung?",
+   "answer": "5 Jahre",
+   "distractors": [
+    "2 Jahre",
+    "3 Jahre",
+    "10 Jahre"
+   ],
+   "aha": "",
+   "quote_clean": "Wenn man diesen Anspruch haben möchte, muss man schon fünf Jahre in Wien gemeldet gewesen sein.",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Bundesland-Prinzip bei 855-861 s belegt; 'Sozialhilfe/Notschlafstellen' war enger als Roberts Aussage, daher auf 'Sozialleistungen' angepasst und als Stand 2019 gekennzeichnet.",
+   "stand_note": "Stand 2019",
+   "statement": "Laut Robert Tatar wird der Anspruch auf Sozialleistungen in Österreich pro Bundesland erworben, nicht österreichweit.",
+   "question": "Auf welcher Ebene wird in Österreich laut Robert der Anspruch auf Sozialleistungen erworben?",
+   "answer": "Pro Bundesland",
+   "distractors": [
+    "Österreichweit",
+    "Pro Gemeinde",
+    "EU-weit"
+   ],
+   "aha": "Robert erzählt: Wer zehn Jahre in Salzburg gelebt und gearbeitet hat und dann nach Wien zieht, hat in Wien nach einem Jahr womöglich keinen vollen Anspruch. Föderalismus, wie er leibt und lebt.",
+   "quote_clean": "Es wird sogar noch ein bisschen komplizierter, weil das in Österreich nicht auf nationaler Ebene gilt, sondern auf Bundeslandebene.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Namensbedeutung belegt (610 s); das aha erwähnte Büchereien, die in diesem Zusammenhang nicht vorkommen.",
+   "stand_note": "",
+   "statement": "Das Wiener Streetwork-Team „Sam“ heißt so als Abkürzung für „sozial aktiv mobil“.",
+   "question": "Wofür steht der Name des Wiener Streetwork-Teams „Sam“?",
+   "answer": "Sozial aktiv mobil",
+   "distractors": [
+    "Soziale Arbeit mobil",
+    "Straßen-Assistenz Mitte",
+    "Sozialamt mobil"
+   ],
+   "aha": "Streetworker sind Sozialarbeiter, die in öffentlichen Räumen nach Menschen schauen, die auffallen. Bei Robert hat sie die Security vom Westbahnhof gerufen, weil er jeden Tag mit Laptop im Foodcourt saß.",
+   "quote_clean": "Sam ist eine Streetworking-Organisation, die Abkürzung steht für „sozial aktiv mobil“.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "24-Stunden-Versorgung belegt (969-981 s); der Zusatz zu Anspruchsberechtigten aus anderen Bundesländern ist im Transkript widersprüchlich (vermutlich 'nicht'-Verhörer) und wurde entfernt.",
+   "stand_note": "Stand 2019",
+   "statement": "Laut Robert Tatar hat die Gruft in Wien sowohl ein Tageszentrum als auch eine Notschlafstelle und bietet damit eine seltene 24-Stunden-Versorgung.",
+   "question": "Was macht die Wiener Obdachloseneinrichtung Gruft laut Robert besonders?",
+   "answer": "Sie bietet Versorgung rund um die Uhr",
+   "distractors": [
+    "Sie ist die älteste Einrichtung Europas",
+    "Sie nimmt nur Frauen auf",
+    "Sie wird nur aus Spenden finanziert"
+   ],
+   "aha": "Tageszentrum und Notschlafstelle unter einem Dach, das ist laut Robert in Wien sehr selten. So kann man dort tagsüber und nachts Hilfe bekommen.",
+   "quote_clean": "Bestes Beispiel ist die Gruft, eine der bekanntesten sozialen Einrichtungen in Wien, die Obdachlosen hilft und sowohl ein Tageszentrum als auch eine Notschlafstelle hat. Somit gibt es dort eine 24-Stunden-Versorgung, was sehr selten ist.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Teufelskreis bei 390-418 s sauber belegt, Distraktoren sind plausibel, aber nicht die genannte Logik.",
+   "stand_note": "",
+   "statement": "Ohne Meldeadresse kein fester Job, ohne Job und Lohnnachweis keine Wohnung – ein Teufelskreis, der Obdachlose festhält.",
+   "question": "Was beschreibt Robert als den größten Teufelskreis der Obdachlosigkeit?",
+   "answer": "Ohne Adresse kein Job, ohne Job keine Wohnung",
+   "distractors": [
+    "Ohne Handy keine Termine beim AMS",
+    "Ohne Ausweis kein Essen in Einrichtungen",
+    "Ohne Schlaf keine Kraft für Bewerbungen"
+   ],
+   "aha": "Für Job, Versicherung und Bankkonto braucht man eine Adresse, für eine Wohnung aber Lohnnachweise. Robert ist genau da hängen geblieben, bis sein Erspartes weg war und er im Westbahnhof saß.",
+   "quote_clean": "Und zwar, dass man schnell in einen Teufelskreis gerät, wenn man keine feste Meldeadresse und keinen festen Arbeitsplatz hat. Wenn man einen festen Arbeitsplatz haben möchte, braucht man eine Meldeadresse.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Arbeitsvertrag als Weg zur Adresse über ein Tageszentrum belegt (2965-2974 s) als Roberts Schilderung; Details im aha (Shades Tours, Krankenkasse, AMS-Reihenfolge) nicht im Ausschnitt, daher gekürzt.",
+   "stand_note": "Stand 2019",
+   "statement": "Laut Robert Tatar bekommt man in Wien mit einem Arbeitsvertrag über ein Tageszentrum der Obdachlosenhilfe eine Adresse ausgestellt.",
+   "question": "Was half Robert, über ein Tageszentrum eine Adresse ausgestellt zu bekommen?",
+   "answer": "Ein Arbeitsvertrag",
+   "distractors": [
+    "Ein deutscher Reisepass",
+    "Eine Empfehlung der Polizei",
+    "Ein abgeschlossenes Studium"
+   ],
+   "aha": "Ein geringfügiges Dienstverhältnis war für Robert das Schlupfloch im Wiener Sozialsystem: Mit dem Arbeitsvertrag bekam er über das Tageszentrum P7 eine Adresse.",
+   "quote_clean": "Wenn man in Wien einen Arbeitsvertrag hat, muss man über eines der Tageszentren der Obdachlosenhilfe auch eine Adresse ausgestellt bekommen.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Öffnungszeit 9 Uhr belegt (2286 s); Distraktor '7 Uhr' kollidiert mit der Öffnung der Barmherzigen Schwestern, im aha stand Nichtbelegtes (Stiegenhaus, Nachtbus).",
+   "stand_note": "Stand 2019",
+   "statement": "Viele Frühstücksausspeisungen für Obdachlose in Wien machen laut Robert Tatar erst um neun Uhr auf; die Barmherzigen Schwestern in Gumpendorf bieten schon ab halb acht Essen an.",
+   "question": "Um wie viel Uhr öffnen laut Robert viele Frühstücksausspeisungen für Obdachlose in Wien?",
+   "answer": "Um 9 Uhr",
+   "distractors": [
+    "Um 6 Uhr",
+    "Um 10 Uhr",
+    "Um 11 Uhr"
+   ],
+   "aha": "Bei den Barmherzigen Schwestern in Gumpendorf konnte Robert schon kurz nach sieben hinein, ab halb acht gab es zu essen. Für ihn war das richtig toll, auch weil es dort warmes Wasser zum Waschen und eine Tasse Tee gab.",
+   "quote_clean": "die das früheste Frühstück in Wien haben, was so toll ist, weil man schon kurz nach sieben hineingehen kann und ab halb acht zu essen bekommt. Viele andere Frühstücksausspeisungen machen in Wien erst um neun Uhr auf.",
+   "quality": 2
+  },
+  {
+   "i": 14,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "veraltet",
+    "spielbarkeit"
+   ],
+   "note": "Sehr obskures Detail (Gültigkeitsdauer eines Passes) aus der Erinnerung, Name und Regeln nicht verlässlich nachprüfbar und heute vermutlich überholt; aha ('gratis in Museen') nicht im Transkript.",
+   "stand_note": "",
+   "statement": "Der Wiener Kulturpass ist ein Jahr gültig, wenn ihn eine Sozialeinrichtung ausstellt, aber nur ein halbes Jahr, wenn er über das AMS kommt.",
+   "question": "Wie viele Monate ist der Wiener Kulturpass laut Robert gültig, wenn ihn das AMS ausstellt?",
+   "answer": "6 Monate",
+   "distractors": [
+    "3 Monate",
+    "12 Monate",
+    "24 Monate"
+   ],
+   "aha": "",
+   "quote_clean": "Wenn man ihn über eine Einrichtung wie das Internetcafé Zwischenschritt ausgestellt bekommt, ist er ein Jahr gültig. Wenn man ihn über das AMS bekommt, ist er nur ein halbes Jahr gültig.",
+   "quality": 1
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Kältetelefon der Caritas belegt (4337-4360 s); der Distraktor 'Rettung' wäre bei akuter Gefahr tatsächlich richtig, Frage daher auf Roberts Tipp umgestellt und Sicherheitshinweis ergänzt.",
+   "stand_note": "Stand 2019",
+   "statement": "Laut Robert Tatar kann man bei Kälte das Kältetelefon der Caritas anrufen, wenn man einen frierenden Menschen auf der Straße sieht; Streetworker schauen dann vorbei.",
+   "question": "Welche Anlaufstelle nennt Robert, wenn man bei Kälte einen frierenden Menschen auf der Straße sieht?",
+   "answer": "Das Kältetelefon",
+   "distractors": [
+    "Das Bezirksamt",
+    "Die Hausverwaltung",
+    "Das Fundamt"
+   ],
+   "aha": "Das Kältetelefon wird vom Streetworking-Team der Caritas betrieben. Die Streetworker sind für solche Begegnungen ausgebildet und haben Decken dabei, das sei meistens besser als die Polizei, sagt Robert. Wirkt jemand bewusstlos oder in akuter Gefahr, ruf natürlich trotzdem die Rettung.",
+   "quote_clean": "Zum Beispiel das Kältetelefon, das vom Streetworking-Team der Caritas betrieben wird: Dort kann man anrufen und Bescheid sagen, dass an einem bestimmten Ort jemand auffällt.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Süßstoff als Beispiel belegt (4462-4497 s); Robert sagt nicht, dass kaum jemand daran denkt, sondern nennt es als Beispiel, was Einrichtungen brauchen.",
+   "stand_note": "",
+   "statement": "Robert Tatar nennt Süßstoff als Beispiel für etwas, das Obdachloseneinrichtungen jeden Tag brauchen, weil ein heißes, süßes Getränk für Obdachlose nichts Alltägliches ist.",
+   "question": "Welche Spende nennt Robert als Beispiel dafür, was Obdachloseneinrichtungen jeden Tag brauchen?",
+   "answer": "Süßstoff",
+   "distractors": [
+    "Zahnbürsten",
+    "Regenschirme",
+    "Sonnencreme"
+   ],
+   "aha": "Viele Obdachlose werfen fünf, sechs Kapseln in den Tee, damit er richtig süß ist. Eine Palette Süßstoff kostet nicht die Welt und kommt direkt an. Am besten fragt man vorher bei der Einrichtungsleitung nach, was gerade fehlt.",
+   "quote_clean": "Weil ein heißer, süßer Kaffee oder ein heißer, süßer Tee etwas ist, das ein Obdachloser nicht alltäglich bekommt.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Wer-sagt-das-Frage mit dem Gast als Antwort ist trivial, Distraktoren zum Teil unbrauchbar; zudem ein heikles Thema als Zitatratespiel.",
+   "stand_note": "",
+   "statement": "Robert Tatar meint, man solle Bettelnden nicht vorschreiben, wofür sie das gespendete Geld ausgeben.",
+   "question": "Wer sagt im Podcast über Spenden an Bettelnde: „Wer bist du, um ihm auch die letzte freie Entscheidung abzunehmen?“",
+   "answer": "Robert Tatar",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Caritas-Streetworkerin",
+    "Eine Hörerin des Podcasts"
+   ],
+   "aha": "",
+   "quote_clean": "Wer bist du, um ihm auch die letzte freie Entscheidung abzunehmen, die er noch hat, nämlich was er mit dem Geld macht, das du ihm gibst?",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Triviale Zuordnung zum Gast; Distraktoren (Gründerin von Shades Tours, Sozialarbeiter von Sam) sind erfunden und bringen keinen Spielwert.",
+   "stand_note": "",
+   "statement": "Robert Tatar beschreibt, dass man sich in Sozialeinrichtungen trotz bester Betreuung immer als Bittsteller von unten fühlt.",
+   "question": "Wer beschreibt im Podcast das Gefühl in Sozialeinrichtungen so: „Du hast niemals das Gefühl, wirklich auf gleicher Ebene zu sein“?",
+   "answer": "Robert Tatar",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Sozialarbeiter von Sam",
+    "Die Gründerin von Shades Tours"
+   ],
+   "aha": "",
+   "quote_clean": "Aber du hast immer das Gefühl, dass du von unten kommst. Du bist derjenige, der zu ihnen geht, um Hilfe zu bitten. Du hast niemals das Gefühl, wirklich auf gleicher Ebene zu sein.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Wasserkocher-Moment bei 3639-3652 s wörtlich belegt, zweieinhalb Jahre stimmt, warm und nicht bloßstellend.",
+   "stand_note": "",
+   "statement": "Auch zweieinhalb Jahre nach der Obdachlosigkeit staunt Robert Tatar noch darüber, dass er einen Wasserkocher besitzt und jederzeit heißen Tee machen kann.",
+   "question": "Über welchen Alltagsgegenstand staunt Robert auch zweieinhalb Jahre nach der Obdachlosigkeit noch?",
+   "answer": "Seinen Wasserkocher",
+   "distractors": [
+    "Seine Waschmaschine",
+    "Seinen Kühlschrank",
+    "Seinen Fernseher"
+   ],
+   "aha": "Heißer Tee, wann immer er will, ohne zu warten, bis das Tageszentrum aufmacht. Roberts Kommentar: Wie geil ist das denn?",
+   "quote_clean": "Trotzdem bin ich teilweise erstaunt, dass ich einen Wasserkocher habe.",
+   "quality": 4
+  },
+  {
+   "i": 24,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Hörerfrage und Leberkässemmel-Beispiel bei 4058-4104 s korrekt wiedergegeben; Antwort nicht ganz scharf, aber eindeutig genug.",
+   "stand_note": "",
+   "statement": "Andreas Sator stellt zum Schluss die Frage, die ihm Hörer:innen am häufigsten geschickt haben: wie man Obdachlosen richtig hilft.",
+   "question": "Welche Hörer:innen-Frage stellt Andreas zum Schluss, weil sie ihm mit Abstand am häufigsten geschickt wurde?",
+   "answer": "Wie man als Helfende:r richtig reagiert",
+   "distractors": [
+    "Wie viele Obdachlose es in Wien gibt",
+    "Ob man Straßenzeitungen kaufen soll",
+    "Wie man selbst Streetworker wird"
+   ],
+   "aha": "Eine Hörerin wollte einem Obdachlosen eine Leberkässemmel kaufen und war unsicher, ob sie ihm damit zu nahe tritt. Vielen ging es genauso, sie fühlten sich sozial total überfordert.",
+   "quote_clean": "Wie geht man mit dieser Situation um, als jemand, der helfen möchte?",
+   "quality": 3
+  }
+ ],
+ "id": "47",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

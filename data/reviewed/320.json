@@ -1,0 +1,281 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "11 % bei 3515 s belegt (repräsentative Erhebung Österreich); Stand-Hinweis nötig.",
+   "stand_note": "Stand 2024",
+   "statement": "Laut einer repräsentativen Erhebung sagen nur 11 Prozent der Menschen in Österreich, sie könnten jemand anderem erklären, was KI ist.",
+   "question": "Wie viel Prozent der Menschen in Österreich trauen sich laut einer Erhebung zu, jemand anderem zu erklären, was KI ist?",
+   "answer": "11 Prozent",
+   "distractors": [
+    "27 Prozent",
+    "42 Prozent",
+    "4 Prozent"
+   ],
+   "aha": "Nur etwa jede neunte Person, und wie viele es dann wirklich können, ist noch einmal eine andere Frage. Für Martina Mara ist das erschreckend wenig, weil gerade Wissen über KI davor schützt, auf simulierte Menschlichkeit reinzufallen.",
+   "quote_clean": "Neueste repräsentative Erhebungen aus Österreich: 11 % der Österreicherinnen und Österreicher sagen, ich könnte jemand anderem erklären, was KI ist. Das halte ich für erschreckend wenig.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Nur mit „glaube ich“ genannt, Bezug und Messgröße unklar, heute weit überholt (Distraktor 900 Mio. wäre nahe an heutigen Zahlen).",
+   "stand_note": "",
+   "statement": "ChatGPT hatte im Herbst 2024 rund 200 Millionen Nutzer:innen.",
+   "question": "Wie viele Millionen Nutzer:innen hatte ChatGPT laut der Folge im Herbst 2024 ungefähr?",
+   "answer": "Rund 200 Millionen",
+   "distractors": [
+    "Rund 20 Millionen",
+    "Rund 60 Millionen",
+    "Rund 900 Millionen"
+   ],
+   "aha": "Zwei Jahre nach dem Start chatten also Hunderte Millionen Menschen mit einem Sprachmodell.",
+   "quote_clean": "Diese KI-Systeme, die ja mittlerweile einen Wahnsinnsimpact in unserem Leben haben – die hat, glaube ich, gerade die 200-Millionen-Nutzerinnenzahl überschritten.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "kontext"
+   ],
+   "note": "Wasserverbrauch pro Chat ist eine umstrittene, grobe Schätzung und gilt nach neueren Zahlen als deutlich überhöht; als Fakt irreführend.",
+   "stand_note": "",
+   "statement": "Ein längerer Chat mit ChatGPT verbraucht rund einen halben Liter Wasser zur Kühlung der Rechenzentren.",
+   "question": "Wie viel Wasser braucht ein längerer Chat mit ChatGPT laut der Folge zur Kühlung der Rechenzentren?",
+   "answer": "Etwa 500 Milliliter",
+   "distractors": [
+    "Etwa 5 Milliliter",
+    "Etwa 50 Milliliter",
+    "Etwa 5 Liter"
+   ],
+   "aha": "Eine kleine Flasche Wasser pro Plauderei.",
+   "quote_clean": "KI benötigt wahnsinnig viel Energie, Strom und Ressourcen. Ein längerer Chat mit ChatGPT braucht so einen halben Liter Wasser zur Kühlung der Rechenzentren.",
+   "quality": 1
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "2013 bei 2747 s von Andreas genannt und korrekt (Her, 2013).",
+   "stand_note": "",
+   "statement": "Der Film „Her“, in dem sich ein Mann in eine KI verliebt, kam 2013 heraus.",
+   "question": "In welchem Jahr kam der Film „Her“ heraus, in dem sich ein Mann in sein KI-Betriebssystem verliebt?",
+   "answer": "2013",
+   "distractors": [
+    "2004",
+    "2017",
+    "2021"
+   ],
+   "aha": "Andreas hat den Film damals in der Mitte abgebrochen, weil er ihn absurd fand. Ein gutes Jahrzehnt später findet er es creepy, wie nah wir dran sind. Angeblich ist es der Lieblingsfilm von OpenAI-Chef Sam Altman.",
+   "quote_clean": "Der ist schon älter, 2013, ist, wenn ich das richtig im Kopf habe, der Lieblingsfilm von Sam Altman.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Etymologie bei 115 s wörtlich belegt und korrekt.",
+   "stand_note": "",
+   "statement": "Anthropomorphismus kommt vom griechischen „anthropos“ (Mensch) und „morphe“ (Gestalt) und bedeutet, Nicht-Menschlichem menschliche Eigenschaften zuzuschreiben.",
+   "question": "Was bedeutet das griechische „morphe“ im Wort Anthropomorphismus?",
+   "answer": "Gestalt oder Form",
+   "distractors": [
+    "Seele oder Geist",
+    "Sprache oder Wort",
+    "Gefühl oder Herz"
+   ],
+   "aha": "Anthropos ist der Mensch, morphe die Gestalt. Wir geben Dingen also eine Menschengestalt, zum Beispiel wenn wir sagen, der Rasenmähroboter ist müde und fährt heim zur Ladestation.",
+   "quote_clean": "Das setzt sich ja zusammen aus Anthropos, das ist einfach das griechische Wort für Mensch, und Morphe für Gestalt oder Form.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 417 s passt; im Aha stand eine Manipulations-Aussage, die so nicht im Ausschnitt fällt.",
+   "stand_note": "",
+   "statement": "Je menschenähnlicher Menschen ein KI-System wahrnehmen, desto stärker beeinflussen sie dessen Empfehlungen.",
+   "question": "Was passiert laut Forschung, wenn Menschen ChatGPT stark vermenschlichen?",
+   "answer": "Seine Empfehlungen beeinflussen sie stärker",
+   "distractors": [
+    "Sie nutzen es seltener",
+    "Sie misstrauen ihm mehr",
+    "Sie merken sich weniger"
+   ],
+   "aha": "Was die KI ausspuckt, fühlt sich dann an wie ein Tipp von einer guten Freundin. Dadurch wird sie einflussreicher, etwa bei unserer Meinungsbildung.",
+   "quote_clean": "Je stärker Personen ChatGPT oder ähnlichen Systemen menschenähnliche Eigenschaften zuschreiben, desto stärker wirkt beispielsweise auch eine Empfehlung, die das System abgibt, auf uns.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Ergebnis der Online-Studie bei 432 s bis 460 s belegt.",
+   "stand_note": "",
+   "statement": "Wer ein Sprachmodell stärker vermenschlicht, findet es eher moralisch schwierig, den Computer auszuschalten, und eher, dass KI Rechte bräuchte.",
+   "question": "Was sagen Menschen, die ChatGPT stark vermenschlichen, in einer Studie der JKU Linz eher?",
+   "answer": "Abschalten wäre moralisch schwierig",
+   "distractors": [
+    "KI sollte verboten werden",
+    "KI ist nur ein Werkzeug",
+    "KI macht sie einsamer"
+   ],
+   "aha": "Je stärker der Anthropomorphismus getriggert wird, desto eher fühlt sich die Maschine wie ein Wesen an, dem wir etwas schulden. Dabei ist sie ein Programm, das Wörter vorhersagt.",
+   "quote_clean": "Ja, ich finde es moralisch schwierig, den Computer auszuschalten, wenn die KI sagt, sie möchte das nicht, oder: Ich finde, solche KI-Systeme bräuchten eigentlich auch so etwas wie Rechte zu ihrem eigenen Schutz.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zeichenstudie bei 2180 s bis 2238 s sauber belegt.",
+   "stand_note": "",
+   "statement": "In einer Studie der JKU zeichneten Menschen zu Roboterstimmen fast immer menschenähnliche Körper – je menschlicher die Stimme, desto detailreicher.",
+   "question": "Was zeichneten Studienteilnehmer:innen, nachdem sie eine Roboterstimme gehört hatten?",
+   "answer": "Fast immer einen menschenähnlichen Körper",
+   "distractors": [
+    "Meist einen Lautsprecher",
+    "Meist eine Wolke oder Welle",
+    "Fast immer ein Tier"
+   ],
+   "aha": "Ganz ohne Bild, nur mit einer Stimme, entstand im Kopf ein Körper. Bei weniger menschlichen Stimmen waren es abstrakte Figuren, bei menschlichen kamen Haare, Nasen und Gewand dazu. Wer mit Alexa redet, stellt sich also eher eine Frau vor.",
+   "quote_clean": "Fast alle Zeichnungen haben einen mehr oder weniger menschenähnlichen Körper dargestellt, aber bei den besonders menschlich klingenden Stimmen wurde es immer detailreicher, da kamen Beine und Arme dazu, Nasen, Gewand, Haare.",
+   "quality": 4
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Gedankenexperiment bei 316 s korrekt wiedergegeben, als Hypothese gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Dass Menschen sich Götter menschenähnlich vorstellen, ist Anthropomorphismus – Pferde würden ihre Götter wohl als Pferde zeichnen.",
+   "question": "Wie würden Pferde ihre Götter laut Martina Mara wohl zeichnen, wenn sie es könnten?",
+   "answer": "In Pferdeform",
+   "distractors": [
+    "Als Menschen",
+    "Als Lichtgestalt",
+    "Als riesige Sonne"
+   ],
+   "aha": "Wir stellen uns das Allmächtige in unserer eigenen Gestalt vor, mit allen Stärken und Schwächen, siehe die griechischen Götter und ihre Flirt-Tricks. Naheliegend und ein bisschen narzisstisch, sagt Martina Mara.",
+   "quote_clean": "Darüber nachdenken, wie das so wäre, wenn Pferde oder Katzen zeichnen könnten, wie die sich dann ihre Gottesfiguren vorstellen würden. Man würde davon ausgehen, dass Pferde wahrscheinlich dann auch Götter in Pferdeform hinzeichnen würden.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Erklärung bei 1837 s belegt.",
+   "stand_note": "",
+   "statement": "Anthropomorphismus ist die schnellste verfügbare Erklärung: Wir schließen von uns selbst auf die Maschine.",
+   "question": "Warum vermenschlichen wir Maschinen laut Martina Mara so schnell?",
+   "answer": "Es ist die einfachste verfügbare Erklärung",
+   "distractors": [
+    "Weil wir es in der Schule lernen",
+    "Weil Maschinen es uns vorschreiben",
+    "Weil es nur Kinder tun"
+   ],
+   "aha": "Schreibt ein Chatbot „Ich möchte dir helfen“, greifen wir zur bequemsten Erklärung: Der ist halt freundlich, so wie ich. Wer genau weiß, dass das an Trainingsdaten liegt, braucht dieses Schema seltener.",
+   "quote_clean": "Einfach die schnellste verfügbare Erklärmöglichkeit: Das System möchte etwas, möchte freundlich sein. Das liegt wahrscheinlich daran, weil es so ähnlich ist wie ich. Wir schließen bei Anthropomorphismus ja von uns selbst auf das andere.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Wer-hat's-gesagt beim einzigen Gast ist trivial; „niemals Empfindungen“ ist eine kontroverse Grundsatzaussage, nicht als Fakt geeignet.",
+   "stand_note": "",
+   "statement": "Eine Liebesbeziehung mit einer KI bleibt immer einseitig, weil die Maschine keine Empfindungen haben kann und vom Unternehmen dahinter abhängt.",
+   "question": "Wer hat's gesagt: „Es wird immer einseitig sein, weil im Endeffekt wird die Maschine niemals Empfindungen für mich haben können“?",
+   "answer": "Martina Mara",
+   "distractors": [
+    "Andreas Sator",
+    "Kate Crawford",
+    "Sam Altman"
+   ],
+   "aha": "Die Roboterpsychologin hält es für nicht ausgeschlossen, dass man sich in eine KI verliebt, so wie der Protagonist in „Her“. Erwidert wird das aber nie, das Gegenüber ist ein Produkt.",
+   "quote_clean": "Aber es wird immer einseitig sein, weil im Endeffekt wird die Maschine niemals Empfindungen für mich haben können, sich wirklich um mich kümmern können, sondern immer davon abhängig sein, was das Unternehmen dahinter gerade so reinprogrammiert.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Tipp bei 1465 s belegt; Aha-Behauptung zu Andreas und dem Folgentitel ist im Ausschnitt nicht gedeckt, entfernt.",
+   "stand_note": "",
+   "statement": "Statt die KI alles zu fragen, kann man den Spieß umdrehen und sich von ihr Fragen stellen lassen, um selbst kreativ zu werden.",
+   "question": "Welchen Tipp gibt Martina Mara, um mit KI kreativer zu werden?",
+   "answer": "Sich von der KI Fragen stellen lassen",
+   "distractors": [
+    "Immer mehrere KIs vergleichen",
+    "Nur auf Englisch prompten",
+    "Die KI alles schreiben lassen"
+   ],
+   "aha": "Das Motto: „Don’t prompt AI, let AI prompt you.“ So bleibt das eigene Hirn eingeschaltet, und man erlebt sich selbst als kompetent, was gut für die Motivation ist.",
+   "quote_clean": "Also nicht immer für alles die KI fragen, sondern wir könnten das mal umdrehen und versuchen, dass wir der KI sagen: Hey, stell uns auf die Probe, stell mir Fragen.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Anekdote bei 1263 s bis 1292 s belegt, selbstironisch; quote_clean begann mitten im Satz und wurde ergänzt.",
+   "stand_note": "",
+   "statement": "Andreas übernahm KI-Vorschläge für YouTube-Titel so unkritisch, dass er sein eigenes Hirn abschaltete – und die Titel funktionierten nicht.",
+   "question": "Was ist Andreas bei den YouTube-Titeln passiert, die er sich von ChatGPT vorschlagen ließ?",
+   "answer": "Er hat sein eigenes Hirn abgeschaltet",
+   "distractors": [
+    "Die KI hat sich geweigert",
+    "Die Titel gingen viral",
+    "YouTube hat sie gesperrt"
+   ],
+   "aha": "Ausgerechnet der Journalist, der sich ständig mit KI beschäftigt, hat die Vorschläge brav übernommen. Zwei Tage später sah er: Das funktioniert nicht. Ein schönes Beispiel dafür, wie leicht man einer Maschine zu viel Kompetenz zuschreibt.",
+   "quote_clean": "Ich habe so viel Mühe gegeben, wie ich das aufbaue, und dann immer wieder so Schritte: Mach neue, denk an das noch, und hab dem so viel Kompetenz zugewiesen, dass ich eigentlich mein eigenes Hirn abgeschaltet habe.",
+   "quality": 2
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Floskel ohne Erkenntniswert; „am Ende jeder Folge“ nicht durch den Ausschnitt belegt.",
+   "stand_note": "",
+   "statement": "Andreas fasst am Ende jeder Folge mit der Frage „Was nehme ich mir mit?“ seine Learnings zusammen.",
+   "question": "Mit welcher Frage leitet Andreas am Ende der Folge seine Zusammenfassung ein?",
+   "answer": "„Was nehme ich mir mit?“",
+   "distractors": [
+    "„Was haben wir gelernt?“",
+    "„Was bleibt hängen?“",
+    "„Was heißt das für uns?“"
+   ],
+   "aha": "Sein Learning Nummer eins diesmal: Menschen sehen in allem Menschen, von Blitzen über Wolken bis zum Staubsaugerroboter.",
+   "quote_clean": "Liebe Martina, danke für deine Zeit. Was nehme ich mir mit? Erstens: Menschen sehen in allem Menschen, ob das jetzt Blitze sind, Wolken, Hunde, Staubsaugerroboter oder KI-Sprachmodelle.",
+   "quality": 1
+  }
+ ],
+ "id": "320",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

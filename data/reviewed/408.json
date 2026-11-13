@@ -1,0 +1,283 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 250-258 klar: drei Zentralen, zwei Linz, eine Wels.",
+   "stand_note": "Stand 2026",
+   "statement": "In Oberösterreich gibt es drei rund um die Uhr besetzte Feuerwehr-Einsatzzentralen, zwei in Linz und eine in Wels.",
+   "question": "Wie viele ständig besetzte Feuerwehr-Einsatzzentralen gibt es in Oberösterreich?",
+   "answer": "3",
+   "distractors": [
+    "1",
+    "9",
+    "15"
+   ],
+   "aha": "Ein ganzes Bundesland, und die Notrufe laufen bei nur drei Zentralen zusammen: zweimal Linz, einmal Wels. Dort sitzt rund um die Uhr jemand, nimmt den Anruf entgegen und schaut am Rechner, welche Feuerwehr zuständig ist.",
+   "quote_clean": "In Oberösterreich ist es so, dass wir drei ständig besetzte Einsatzzentralen haben. In Linz gibt es zwei und eine in Wels.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Nummer 122 stimmt; die Aussage zu Standleitungen/Weiterverbinden steht nicht im Ausschnitt, raus.",
+   "stand_note": "",
+   "statement": "Die Notrufnummer der Feuerwehr in Österreich ist 122.",
+   "question": "Welche Nummer wählst du in Österreich, um die Feuerwehr zu rufen?",
+   "answer": "122",
+   "distractors": [
+    "133",
+    "144",
+    "141"
+   ],
+   "aha": "122 ist die Feuerwehr, 133 die Polizei, 144 die Rettung. In Oberösterreich nimmt dann jemand in einer rund um die Uhr besetzten Zentrale deinen Anruf entgegen.",
+   "quote_clean": "Lieber Gerald, fangen wir mal an. Es ruft jemand 122 an, es brennt. Was passiert dann?",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Gerald nennt diese vier W-Fragen; Frage als seine Aussage rahmen, aha entschlacken.",
+   "stand_note": "",
+   "statement": "Laut Gerald Lindinger lernen Kinder in der Schule vier W-Fragen für den Notruf: Wo, wer, was und wie viel.",
+   "question": "Welche vier W-Fragen lernen Kinder laut Gerald Lindinger für den Notruf?",
+   "answer": "Wo, wer, was, wie viel",
+   "distractors": [
+    "Wann, wie, warum, wer",
+    "Wo, wann, wieso, womit",
+    "Wer, wem, wessen, wen"
+   ],
+   "aha": "Wo ist es passiert, wer ruft an, was ist los und wie viel, also wie viele, sind betroffen. Mit diesen Infos kann die Zentrale die richtigen Einsatzmittel alarmieren, meistens gleich mit Polizei oder Rettung dazu.",
+   "quote_clean": "Die Kinder lernen das in der Schule auch schon, diese vier W-Fragen: Wo, wer, was und wie viel.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Aussage stimmt (Andreas im Ausschnitt, allgemein bekannt); aha enthielt nicht belegte Behauptung zu Betrieben.",
+   "stand_note": "",
+   "statement": "Die Feuerwehr in Österreich ist großteils ehrenamtlich organisiert – die meisten Feuerwehrleute haben einen anderen Hauptberuf.",
+   "question": "Wie ist die Feuerwehr in Österreich großteils organisiert?",
+   "answer": "Ehrenamtlich, als Freiwillige Feuerwehr",
+   "distractors": [
+    "Als Teil des Bundesheeres",
+    "Als Berufsfeuerwehr der Länder",
+    "Als private Sicherheitsfirmen"
+   ],
+   "aha": "Wer in Österreich ausrückt, sitzt sonst im Büro, auf dem Traktor oder schläft gerade. Landwirte sind oft flexibler, und in vielen Gemeinden sind sogar die Männer vom Bauhof standardmäßig bei der Feuerwehr.",
+   "quote_clean": "Die Feuerwehr in Österreich ist ja großteils freiwillig organisiert. Das heißt, die Menschen, die da kommen, machen ja sonst noch etwas anderes.",
+   "quality": 2
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg passt; im aha ist 'mockt' ein Dialektwort, glätten.",
+   "stand_note": "",
+   "statement": "Feuerwehren alarmieren trotz Smartphone-Apps weiterhin per Sirene und Pager, weil Apps bei Großschadensereignissen überlastet sein können.",
+   "question": "Warum tragen Feuerwehrleute trotz Alarmierungs-App noch einen Pager?",
+   "answer": "Weil Apps bei Großeinsätzen ausfallen können",
+   "distractors": [
+    "Weil Pager billiger als Handys sind",
+    "Weil Handys im Einsatz verboten sind",
+    "Weil der Pager auch den Einsatzort navigiert"
+   ],
+   "aha": "Die App ist praktisch: Der Einsatzleiter sieht sofort, wer kommt und wer nicht. Aber wenn eine Sturmfront von Bayern hereinzieht und 40, 50, 60 Feuerwehren fast gleichzeitig alarmiert werden, hakt die Technik manchmal. Sirene und Pager müssen dagegen immer funktionieren.",
+   "quote_clean": "Bei Großschadensereignissen ist es so, dass die App manchmal nicht oder zeitverzögert funktioniert. Das ist kein Mittel, auf das wir uns hundertprozentig verlassen. Darum ist es wichtig, dass wir den Pager haben, weil der eigentlich immer geht.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2566-2582 klar; Gemeinde-Alarmplan ebenfalls belegt.",
+   "stand_note": "",
+   "statement": "Feuerwehr-Alarmpläne werden rückwärts vom Strahlrohr berechnet: Wie viele Strahlrohre braucht ein Brand, wie viele Tankwagen speisen sie, wie viele Pumpen bringen das Wasser zu den Tankwagen.",
+   "question": "Wovon geht die Berechnung eines Feuerwehr-Alarmplans aus?",
+   "answer": "Von der Zahl der nötigen Strahlrohre",
+   "distractors": [
+    "Von der Einwohnerzahl der Gemeinde",
+    "Von der Fläche des Gebäudes",
+    "Von der Zahl verfügbarer Feuerwehrleute"
+   ],
+   "aha": "Das ist eine Kette: Strahlrohre brauchen Tankwagen, Tankwagen brauchen Pumpenfahrzeuge, die das Wasser heranschaffen. Und jede Gemeinde macht sich ihren Alarmplan selbst, je nach eigenen Fahrzeugen und Hydrantennetz.",
+   "quote_clean": "Wie viele Strahlrohre brauche ich für ein gewisses Brandszenario? Und damit ich diese Strahlrohre bedienen kann, wie viele Tankwagen brauche ich? Und damit ich die Tankwagen bedienen kann, wie viele Pumpenfahrzeuge brauche ich, damit ich das Wasser auch zu den Tankwagen bringe?",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 3042-3082 passt, Beispiel Heuboden belegt.",
+   "stand_note": "",
+   "statement": "Bei großen Bränden verhindert die Feuerwehr zuerst die Ausbreitung und löscht erst danach den eigentlichen Brandherd.",
+   "question": "Was hat bei einem Großbrand für die Feuerwehr zuerst Vorrang?",
+   "answer": "Die Ausbreitung zu verhindern",
+   "distractors": [
+    "Den Brandherd sofort zu löschen",
+    "Das Dach abzutragen",
+    "Die Brandursache zu sichern"
+   ],
+   "aha": "Wenn der Heuboden brennt, kämpft man nicht zuerst dort, sondern schaut, dass das Feuer nicht auf den Wohntrakt übergreift, idealerweise hilft eine Feuermauer. Erst wenn alles abgesichert ist, geht's an die eigentliche Brandbekämpfung.",
+   "quote_clean": "Das ist das Wichtigste bei großen Bränden, dass man immer schaut, dass man das Brandszenario einschränkt und in den Griff kriegt, und dann löscht man nieder.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 3821-3830 und '8-Jährigen' bei 3851 stützen 8; Frage ist auf Geralds Aussage bezogen.",
+   "stand_note": "Stand 2026",
+   "statement": "Das Einstiegsalter bei der Feuerwehrjugend wurde schrittweise von 12 auf 10 und dann auf 8 Jahre gesenkt.",
+   "question": "Ab welchem Alter kann man heute laut Gerald Lindinger zur Feuerwehrjugend?",
+   "answer": "Ab 8 Jahren",
+   "distractors": [
+    "Ab 6 Jahren",
+    "Ab 12 Jahren",
+    "Ab 14 Jahren"
+   ],
+   "aha": "Die Feuerwehr konkurriert um Kinder mit dem Fußballverein und allem anderen. Darum wurde das Einstiegsalter von 12 auf 10 und dann auf 8 gesenkt. Ein 8-jähriges Mädel und einen 14-jährigen Burschen in einer Gruppe zu betreuen, ist allerdings eine Challenge.",
+   "quote_clean": "Früher war Jugend ab 12, so wie ich, ich war halt noch nicht ganz 12, aber dann hat man das ein bisschen mitgenommen. Dann war es einmal ab 10, und jetzt ab 8.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Alter kann je nach Bundesland variieren, daher an Gerald binden; nicht belegtes 'Grundausbildung nebenbei' im aha entfernt.",
+   "stand_note": "",
+   "statement": "Laut Gerald Lindinger wird man bei der Freiwilligen Feuerwehr mit 16 aktiv.",
+   "question": "Mit wie vielen Jahren wird man laut Gerald Lindinger bei der Freiwilligen Feuerwehr aktiv?",
+   "answer": "Mit 16",
+   "distractors": [
+    "Mit 14",
+    "Mit 18",
+    "Mit 21"
+   ],
+   "aha": "Mit 16 geht's von der Jugendgruppe in den Aktivstand. Gerald hat dann seinen Zivildienst sogar beim Landesfeuerwehrkommando gemacht, weil ihn sein damaliger Kommandant als Mentor dazu ermuntert hat.",
+   "quote_clean": "Mit 16 wird man aktiv. Weil du gesagt hast, du warst Zivi beim Roten Kreuz: Ich war Zivi bei der Feuerwehr.",
+   "quality": 2
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt ist trivial, da nur Gerald oder Andreas in Frage kommen; Distraktoren künstlich.",
+   "stand_note": "",
+   "statement": "Gerald Lindinger warnt, dass Österreich ohne das Ehrenamt der Feuerwehrleute stillstehen würde.",
+   "question": "Wer hat's gesagt: „Wenn dieses Ehrenamt von einem Tag auf den anderen nicht mehr funktionieren würde, steht die Mühle“?",
+   "answer": "Gerald Lindinger",
+   "distractors": [
+    "Andreas Sator",
+    "Herfried Münkler",
+    "Florian Krammer"
+   ],
+   "aha": "",
+   "quote_clean": "Wenn das nicht mehr funktioniert, haben wir wirklich ein Problem in Österreich. Wenn dieses Ehrenamt von einem Tag auf den anderen nicht mehr funktionieren würde, steht die Mühle.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Vergleich mit Bestatter belegt; Fernsehprogramm-Detail im aha nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Gerald Lindinger vergleicht die nötige Distanz von Einsatzkräften mit der eines Bestatters: Ein gewisser Schutzschild ist notwendig.",
+   "question": "Mit welchem Beruf vergleicht Gerald Lindinger die nötige emotionale Distanz bei Einsätzen?",
+   "answer": "Mit einem Bestatter",
+   "distractors": [
+    "Mit einem Chirurgen",
+    "Mit einem Polizisten",
+    "Mit einem Richter"
+   ],
+   "aha": "Empathie zeigen, helfen und sich danach wieder distanzieren: Das ist laut Gerald eine Schutzfunktion, kein Zynismus. Bei Menschen, die man persönlich kennt, funktioniert das allerdings nicht.",
+   "quote_clean": "Wenn ein Bestatter sich das immer zu Herzen nimmt, dann wird er irgendwann ein Problem kriegen, und so sehe ich das auch. Das ist, glaube ich, eine Schutzfunktion, die man hat.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Kern belegt; Molkerei-/verbrüht-Detail steht nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Nach Gerald Lindingers Erfahrung bleiben von belastenden Einsätzen Geräusche und Gerüche viel stärker im Gedächtnis als Bilder.",
+   "question": "Was bleibt Gerald Lindinger von schlimmen Einsätzen am stärksten in Erinnerung?",
+   "answer": "Geräusche und Gerüche",
+   "distractors": [
+    "Die Bilder der Unfallstelle",
+    "Die Namen der Opfer",
+    "Die Uhrzeit des Alarms"
+   ],
+   "aha": "Andreas kennt das auch: Bei einem Unfall in Wien hat er nichts gesehen, aber den Schrei einer Frau vergisst er nie. Gerald sagt, dass bei ihm vor allem der Geruch hängen bleibt, etwa bei Brandopfern, viel stärker als der Anblick.",
+   "quote_clean": "Ich nehme aus Einsätzen sicher Bilder mit, die im Kopf sind, aber Geräusche und Gerüche sind die Dinge, die viel, viel mehr bleiben.",
+   "quality": 4
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Antwort Mentor belegt; Aussage 'Andreas fragt Gäste gern' und aha-Details (Kommando voller Schützlinge, Outro) nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Auf Andreas' Frage nach dem Sinn seines Lebens antwortete Gerald Lindinger: Mentor zu sein.",
+   "question": "Was antwortete Gerald Lindinger auf Andreas' Frage nach dem Sinn seines Lebens?",
+   "answer": "Mentor zu sein",
+   "distractors": [
+    "Menschenleben zu retten",
+    "Bürgermeister zu werden",
+    "Seine Heimat zu schützen"
+   ],
+   "aha": "Gerald hatte selbst einen Mentor: Der damalige Kommandant brachte ihn auf die Idee, den Zivildienst beim Landesfeuerwehrkommando zu machen. Heute freut er sich, wenn ihm Leute sagen, dass es cool war, was er ihnen mitgegeben hat.",
+   "quote_clean": "Hast du mal darüber nachgedacht, was der Sinn deines Lebens ist? – Ja. – Und? – Mentor zu sein, das ist es auf jeden Fall.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 4562-4585 passt; Spekulation im aha entschärft.",
+   "stand_note": "",
+   "statement": "Bei seiner Hochzeit 2009 bat Gerald Lindingers Frau ihn, die Gäste in der Kirche nicht wie ein Feuerwehrkommandant zu begrüßen.",
+   "question": "Worum bat Gerald Lindingers Frau ihn vor der Begrüßung bei ihrer Hochzeit?",
+   "answer": "Nicht wie ein Feuerwehrkommandant zu klingen",
+   "distractors": [
+    "Keine Uniform zu tragen",
+    "Den Pager auszuschalten",
+    "Nicht über Einsätze zu reden"
+   ],
+   "aha": "2008 wurde Gerald Feuerwehrkommandant, 2009 haben die beiden geheiratet. Seine Frau kannte ihn offenbar gut genug, um zu ahnen, wie er begrüßen würde. Da ist ihm bewusst geworden, wie sehr ihn die Feuerwehr geprägt hat.",
+   "quote_clean": "Ich sollte die Begrüßung machen, und dann hat meine Frau gesagt: Aber nicht, dass du so begrüßt wie ein Feuerwehrkommandant.",
+   "quality": 4
+  }
+ ],
+ "id": "408",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

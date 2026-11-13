@@ -1,0 +1,678 @@
+{
+ "theme": "Österreich & Politik",
+ "summary": "Vizebürgermeister Daniel Kosak erklärt, wie eine Gemeinde tickt: Geld, Widmung, Bankomat, Freibad-Defizit und warum der Arzt im Ortskern so wichtig ist.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 523,
+   "speaker": "Daniel Kosak",
+   "quote": "Und mein Gefühl ist, dass die Größe, in der du einen Kreislauf schaffen kannst, in dem das alles sich gegenseitig befruchtet und versorgt, wird wohl so zwischen 4.000 und 5.000 Einwohner liegen.",
+   "quote_clean": "Mein Gefühl ist, dass die Größe, in der du einen Kreislauf schaffen kannst, in dem sich alles gegenseitig befruchtet und versorgt, wohl zwischen 4.000 und 5.000 Einwohnern liegt.",
+   "statement": "Laut Vizebürgermeister Daniel Kosak liegt die ideale Gemeindegröße bei etwa 4.000 bis 5.000 Einwohner:innen.",
+   "question": "Ab wie vielen Einwohner:innen trägt sich eine Gemeinde laut Daniel Kosak ideal selbst (Mittelwert)?",
+   "answer": "etwa 4.500 Einwohner:innen",
+   "distractors": [
+    "etwa 1.500 Einwohner:innen",
+    "etwa 10.000 Einwohner:innen",
+    "etwa 25.000 Einwohner:innen"
+   ],
+   "number_value": 4500,
+   "number_unit": "Einwohner:innen",
+   "slider_min": 500,
+   "slider_max": 15000,
+   "log_scale": false,
+   "aha": "Bei 4.000 bis 5.000 Leuten geht sich ein Kreislauf aus: ein, zwei Kindergärten, Volksschule, Mittelschule, und genug Menschen rund ums Zentrum, dass sich Friseur, Bäckerei und Arzt rentieren. Die meisten Gemeinden in Österreich sind deutlich kleiner.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gemeinde",
+    "Infrastruktur"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1322,
+   "speaker": "Daniel Kosak",
+   "quote": "Davon kriegen die Gemeinden in ganz Österreich ungefähr 9 Milliarden.",
+   "quote_clean": "Davon kriegen die Gemeinden in ganz Österreich ungefähr 9 Milliarden.",
+   "statement": "Von den rund 80 bis 90 Milliarden Euro an Bundessteuern erhalten die österreichischen Gemeinden zusammen etwa 9 Milliarden Euro als Ertragsanteile.",
+   "question": "Wie viele Milliarden Euro aus dem gemeinsamen Steuertopf bekommen alle österreichischen Gemeinden zusammen pro Jahr?",
+   "answer": "etwa 9 Milliarden Euro",
+   "distractors": [
+    "etwa 2 Milliarden Euro",
+    "etwa 25 Milliarden Euro",
+    "etwa 45 Milliarden Euro"
+   ],
+   "number_value": 9,
+   "number_unit": "Milliarden Euro",
+   "slider_min": 1,
+   "slider_max": 40,
+   "log_scale": false,
+   "aha": "Der Bund hebt die großen Steuern ein und teilt den Kuchen zwischen sich, den Ländern und den Gemeinden auf. Für die Gemeinden bleibt grob ein Zehntel, die sogenannten Ertragsanteile. Stand der Folge: 2020.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Finanzausgleich",
+    "Steuern"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1341,
+   "speaker": "Daniel Kosak",
+   "quote": "Das heißt, eine kleine Gemeinde am Land kriegt pro Kopf ein bisschen weniger als eine Stadtgemeinde in einem Ballungsraum.",
+   "quote_clean": "Eine kleine Gemeinde am Land kriegt pro Kopf ein bisschen weniger als eine Stadtgemeinde in einem Ballungsraum.",
+   "statement": "Wegen des abgestuften Bevölkerungsschlüssels bekommt eine kleine Landgemeinde pro Kopf weniger Geld vom Bund als eine Stadtgemeinde.",
+   "question": "Wer bekommt in Österreich pro Kopf mehr Steuergeld vom Bund: eine kleine Landgemeinde oder eine Stadt?",
+   "answer": "Die Stadtgemeinde im Ballungsraum",
+   "distractors": [
+    "Die kleine Landgemeinde",
+    "Beide genau gleich viel",
+    "Die Gemeinde mit mehr Fläche"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Ding heißt wunderbar sperrig „abgestufter Bevölkerungsschlüssel“. Je größer die Gemeinde, desto mehr Geld gibt's pro Einwohner:in, weil Städte auch Aufgaben fürs Umland übernehmen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Finanzausgleich",
+    "Stadt-Land"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1363,
+   "speaker": "Daniel Kosak",
+   "quote": "Das heißt, Kommunalsteuer zum Beispiel, das ist eine Arbeitsplatzsteuer.",
+   "quote_clean": "Die Kommunalsteuer zum Beispiel ist eine Arbeitsplatzsteuer.",
+   "statement": "Die Kommunalsteuer ist eine Abgabe auf Arbeitsplätze: Jeder Arbeitsplatz in der Gemeinde bringt ihr Geld.",
+   "question": "Wofür kassiert eine österreichische Gemeinde die Kommunalsteuer?",
+   "answer": "Für Arbeitsplätze im Gemeindegebiet",
+   "distractors": [
+    "Für jeden Hauptwohnsitz",
+    "Für jedes gemeldete Auto",
+    "Für bebaute Grundstücke"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Jeder Job, der in der Gemeinde angesiedelt ist, spült über die Kommunalsteuer Geld in die Gemeindekasse. Darum rittern Bürgermeister:innen so gern um Betriebe.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Steuern",
+    "Gemeinde"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1104,
+   "speaker": "Daniel Kosak",
+   "quote": "Ich glaube, es gibt kein einziges kommunal betriebenes Freibad in ganz Österreich, das irgendwie kostendeckend wirtschaften kann.",
+   "quote_clean": "Ich glaube, es gibt kein einziges kommunal betriebenes Freibad in ganz Österreich, das kostendeckend wirtschaften kann.",
+   "statement": "Gemeindefreibäder in Österreich machen praktisch immer Verlust; kostendeckend wirtschaftet kaum eines.",
+   "question": "Wie viele Gemeindefreibäder in Österreich arbeiten laut Daniel Kosak kostendeckend?",
+   "answer": "Praktisch keines",
+   "distractors": [
+    "Etwa die Hälfte",
+    "Fast alle großen",
+    "Rund ein Viertel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Freibad ist für Gemeinden kein Geschäft, sondern ein Angebot, das man sich leisten will. Man kann nur entscheiden, wie groß das Defizit sein darf.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Freibad",
+    "Gemeindefinanzen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1096,
+   "speaker": "Daniel Kosak",
+   "quote": "Na, da gibt es also Grundregel, kleines Freibad, kleines Defizit, großes Freibad, großes Defizit.",
+   "quote_clean": "Da gibt es eine Grundregel: kleines Freibad, kleines Defizit, großes Freibad, großes Defizit.",
+   "statement": "Daniel Kosak fasst die Ökonomie von Freibädern so zusammen: kleines Freibad, kleines Defizit, großes Freibad, großes Defizit.",
+   "question": "Wer hat's gesagt: „Kleines Freibad, kleines Defizit, großes Freibad, großes Defizit“?",
+   "answer": "Daniel Kosak",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Bademeister aus Wien",
+    "Der Finanzminister"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Vizebürgermeister von Altlengbach ist nebenbei unbezahlter Geschäftsführer des örtlichen Freibads, weil es rechtlich einen braucht. Er weiß also, wovon er redet.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Freibad",
+    "Zitat"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1160,
+   "speaker": "Daniel Kosak",
+   "quote": "Und wir haben ungefähr, also wenn es gut rennt, ein Jahresdefizit zwischen 20.000 und 30.000 Euro,",
+   "quote_clean": "Wir haben, wenn es gut läuft, ein Jahresdefizit zwischen 20.000 und 30.000 Euro.",
+   "statement": "Das kleine Freibad in Altlengbach macht in guten Jahren rund 20.000 bis 30.000 Euro Verlust.",
+   "question": "Wie viel Verlust macht das kleine Freibad von Altlengbach in einem guten Jahr ungefähr?",
+   "answer": "20.000 bis 30.000 Euro",
+   "distractors": [
+    "2.000 bis 3.000 Euro",
+    "200.000 bis 300.000 Euro",
+    "80.000 bis 100.000 Euro"
+   ],
+   "number_value": 25000,
+   "number_unit": "Euro",
+   "slider_min": 0,
+   "slider_max": 100000,
+   "log_scale": false,
+   "aha": "Ein 15-Meter-Becken, zwei Kinderbecken, Liegewiese, Kantine: Selbst so ein kleines Bad bleibt im Minus, und da ist das Rasenmähen der Gemeindearbeiter nur halb eingerechnet. Bei einem Budget von 5 bis 8 Millionen ist das aber verkraftbar.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Freibad",
+    "Gemeindefinanzen"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 882,
+   "speaker": "Daniel Kosak",
+   "quote": "Das ist auch der Grund, warum in Österreich man an jedem Bankomaten abheben kann, egal wo man sein Konto hat.",
+   "quote_clean": "Das ist auch der Grund, warum man in Österreich an jedem Bankomaten abheben kann, egal wo man sein Konto hat.",
+   "statement": "In Österreich kann man an jedem Bankomaten abheben, egal bei welcher Bank man das Konto hat, weil die Banken die Geräte über eine gemeinsame Gesellschaft betreiben.",
+   "question": "Warum kann man in Österreich an praktisch jedem Bankomaten gratis abheben, egal wo das Konto ist?",
+   "answer": "Die Banken betreiben ihn gemeinsam",
+   "distractors": [
+    "Ein EU-Gesetz schreibt es vor",
+    "Die Nationalbank zahlt die Gebühren",
+    "Die Gemeinden betreiben alle Bankomaten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Hinter den Geräten steckt eine gemeinsame Gesellschaft der Banken, ein Bankenverbund. In anderen europäischen Ländern ist das teils nicht so, dort zahlt man bei fremden Automaten öfter drauf.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Bankomat",
+    "Banken"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 898,
+   "speaker": "Daniel Kosak",
+   "quote": "Die stellen einen Bankomaten hin und sagen, du brauchst eine Anzahl an Mindestbehebungen pro Monat.",
+   "quote_clean": "Die stellen einen Bankomaten hin und sagen, du brauchst eine Anzahl an Mindestbehebungen pro Monat.",
+   "statement": "Wer in Österreich einen Bankomaten betreibt, muss eine Mindestzahl an Behebungen pro Monat erreichen; sonst zahlt er für jede fehlende Abhebung.",
+   "question": "Wann kostet ein selbst betriebener Bankomat in Österreich den Betreiber Geld?",
+   "answer": "Wenn zu wenige abheben",
+   "distractors": [
+    "Wenn zu viel Bargeld fehlt",
+    "Wenn er nachts eingeschaltet ist",
+    "Sobald mehr als drei Banken mitmachen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "De facto kann jeder einen Bankomaten betreiben, auch eine Gemeinde. Solange genug Leute Geld abheben, kostet er nichts. Bleibt man drunter, ist pro fehlender Abhebung ein Betrag fällig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bankomat",
+    "Bargeld"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 852,
+   "speaker": "Daniel Kosak",
+   "quote": "Dann, neun von zehn haben keine Bankomatkasse und sind darauf angewiesen, dass die Leute mit Bargeld dort hinkommen können.",
+   "quote_clean": "Neun von zehn haben keine Bankomatkasse und sind darauf angewiesen, dass die Leute mit Bargeld kommen.",
+   "statement": "Von den Geschäften im Ortszentrum von Altlengbach hatten neun von zehn keine Bankomatkasse und waren auf Barzahlung angewiesen.",
+   "question": "Wie viele von zehn Geschäften im Ortszentrum von Altlengbach hatten keine Bankomatkasse?",
+   "answer": "neun von zehn",
+   "distractors": [
+    "drei von zehn",
+    "fünf von zehn",
+    "eines von zehn"
+   ],
+   "number_value": 9,
+   "number_unit": "von 10 Geschäften",
+   "slider_min": 0,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Deshalb war der Gemeinde der Bankomat so wichtig, als die Bankfiliale zusperrte. Ohne Bargeld im Ort wären die kleinen Geschäfte noch mehr unter Druck gekommen.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Bargeld",
+    "Nahversorgung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1042,
+   "speaker": "Daniel Kosak",
+   "quote": "Wir haben uns die Adressen besorgt und haben siebentausend Ärzte angeschrieben und gesagt, wir brauchen einen Arzt.",
+   "quote_clean": "Wir haben uns die Adressen besorgt, siebentausend Ärzte angeschrieben und gesagt, wir brauchen einen Arzt.",
+   "statement": "Auf der Suche nach einem Gemeindearzt schrieb Altlengbach rund 7.000 Allgemeinmediziner:innen an; 15 meldeten sich.",
+   "question": "Wie viele Ärzt:innen schrieb Altlengbach an, um einen neuen Gemeindearzt zu finden?",
+   "answer": "rund 7.000",
+   "distractors": [
+    "rund 70",
+    "rund 700",
+    "rund 70.000"
+   ],
+   "number_value": 7000,
+   "number_unit": "Ärzt:innen",
+   "slider_min": 10,
+   "slider_max": 100000,
+   "log_scale": true,
+   "aha": "Fast zwei Jahre war die Stelle offen, über die Krankenkasse fand sich niemand. Also Brief an alle mit Zulassung: 15 meldeten sich, und die neue Ärztin ist heute froh, dass man sie gefragt hat.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Ärztemangel",
+    "Gemeinde"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1743,
+   "speaker": "Daniel Kosak",
+   "quote": "Viele Zonen, die darin ausgewiesen sind und das sind in der Regel 80, 90 Prozent des Gemeindegebietes, sind darin als unbebaubar eingestuft",
+   "quote_clean": "Viele Zonen, die darin ausgewiesen sind, in der Regel 80, 90 Prozent des Gemeindegebietes, sind als unbebaubar eingestuft.",
+   "statement": "Im Raumentwicklungskonzept einer Gemeinde sind in der Regel 80 bis 90 Prozent des Gemeindegebiets als unbebaubar eingestuft.",
+   "question": "Wie viel Prozent einer Gemeindefläche sind laut Raumordnungskonzept typischerweise unbebaubar?",
+   "answer": "80 bis 90 Prozent",
+   "distractors": [
+    "20 bis 30 Prozent",
+    "40 bis 50 Prozent",
+    "60 bis 65 Prozent"
+   ],
+   "number_value": 85,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Gemeinde und Land legen gemeinsam fest, wo überhaupt jemals gebaut werden darf, für mindestens zehn Jahre. Der allergrößte Teil bleibt Wald, Wiese und Acker, und das mutmaßlich für immer.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Raumordnung",
+    "Boden"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1711,
+   "speaker": "Daniel Kosak",
+   "quote": "Es gibt drei Ebenen, die relevant sind. Das eine ist ein überörtliches Raumentwicklungskonzept.",
+   "quote_clean": "Es gibt drei Ebenen, die relevant sind. Die eine ist ein überörtliches Raumentwicklungskonzept.",
+   "statement": "Die Raumordnung in Österreich hat drei Ebenen: das mit dem Land erstellte Raumentwicklungskonzept, die Widmung durch den Gemeinderat und die Bauordnung.",
+   "question": "Welche Ebene der Raumordnung beschließt der Gemeinderat selbst?",
+   "answer": "Die Flächenwidmung",
+   "distractors": [
+    "Das Raumentwicklungskonzept",
+    "Die Bauordnung",
+    "Die Grundsteuer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zuerst legt die Gemeinde mit dem Land fest, wo überhaupt Siedlung denkbar ist. Innerhalb davon widmet der Gemeinderat. Und wer gewidmetes Bauland hat, kann sich auf die Bauordnung berufen, die für alle gleich gilt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Raumordnung",
+    "Widmung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1901,
+   "speaker": "Daniel Kosak",
+   "quote": "Also wenn ein Grundstück gewidmet wird, dann ist da ein Bauzwang drauf.",
+   "quote_clean": "Wenn ein Grundstück gewidmet wird, dann ist da ein Bauzwang drauf.",
+   "statement": "Wird heute in Altlengbach ein Grundstück zu Bauland gewidmet, gilt ein Bauzwang; wird nicht gebaut, wird es wieder rückgewidmet.",
+   "question": "Was passiert heute mit frisch gewidmetem Bauland, auf dem nicht gebaut wird?",
+   "answer": "Es wird wieder rückgewidmet",
+   "distractors": [
+    "Es wird automatisch versteigert",
+    "Der Wert wird doppelt besteuert",
+    "Es fällt an das Land"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Früher kauften Leute Grund, ließen ihn widmen und ließen ihn als Wertanlage jahrzehntelang liegen. Diese alten Baulücken hat heute jede Gemeinde, neue sollen so verhindert werden.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Raumordnung",
+    "Bodenspekulation"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1478,
+   "speaker": "Daniel Kosak",
+   "quote": "weil auch das, glaube ich, wissen die wenigsten, dass Kinderbetreuung in großem Ausmaß Gemeindeaufgabe ist,",
+   "quote_clean": "Das wissen, glaube ich, die wenigsten: dass Kinderbetreuung in großem Ausmaß Gemeindeaufgabe ist.",
+   "statement": "Kinderbetreuung und die Erhaltung der Pflichtschulen sind in Österreich zu einem großen Teil Aufgabe der Gemeinden; nur das pädagogische Personal zahlen sie nicht.",
+   "question": "Was zahlt eine Gemeinde bei Volks- und Mittelschulen typischerweise NICHT?",
+   "answer": "Das pädagogische Personal",
+   "distractors": [
+    "Das Schulgebäude",
+    "Die Reinigung",
+    "Die Heizung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Altlengbach arbeiten in Kinderbetreuung und Schule fast 50 Leute für die Gemeinde, mehr als in Amt und Bauhof zusammen. Die Lehrer:innen zahlt aber jemand anderer.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bildung",
+    "Gemeindeaufgaben"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1538,
+   "speaker": "Daniel Kosak",
+   "quote": "Also die sogenannten Gebührenhaushalte, also das, was du für Kanal und Wasser zahlst, muss gesetzlich geregelt eigentlich kostendeckend sein.",
+   "quote_clean": "Die sogenannten Gebührenhaushalte, also das, was du für Kanal und Wasser zahlst, müssen gesetzlich geregelt kostendeckend sein.",
+   "statement": "Gebühren für Kanal und Wasser müssen gesetzlich kostendeckend sein; Gemeinden dürfen damit nur Reserven für die Erneuerung bilden.",
+   "question": "Wie viel Gewinn darf eine Gemeinde mit Wasser- und Kanalgebühren machen?",
+   "answer": "Keinen, nur Reserven für Erneuerung",
+   "distractors": [
+    "Bis zu 30 Prozent",
+    "So viel sie will",
+    "Genau zehn Prozent"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für die Gemeinde sind das Durchläufer: Du bekommst eine Leistung und zahlst dafür. Ein kleiner Aufschlag ist erlaubt, damit man Rohre und Kläranlage irgendwann erneuern kann.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gebühren",
+    "Gemeindefinanzen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 322,
+   "speaker": "Daniel Kosak",
+   "quote": "Und es gibt ja, das kritisiert man hin und wieder, tatsächlich keine Ausbildung für Bürgermeisterinnen oder Bürgermeister,",
+   "quote_clean": "Es gibt, das kritisiert man hin und wieder, tatsächlich keine Ausbildung für Bürgermeisterinnen oder Bürgermeister.",
+   "statement": "In Österreich gibt es keine verpflichtende Ausbildung für Bürgermeister:innen; wer gewählt wird, ist es.",
+   "question": "Welche Ausbildung braucht man in Österreich, um Bürgermeister:in zu werden?",
+   "answer": "Keine",
+   "distractors": [
+    "Eine Verwaltungsprüfung",
+    "Ein Jus-Studium",
+    "Einen Kurs beim Land"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer sich aufstellen lässt und gewählt wird, ist Bürgermeister:in, ob man ein Budget lesen kann oder nicht. Dabei ist der Job längst eher Management als Repräsentation.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Bürgermeister",
+    "Politik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1307,
+   "speaker": "Daniel Kosak",
+   "quote": "Der Bund nimmt Steuern ein und teilt dieses Gesamtsteueraufkommen zwischen sich selbst, den Bundesländern und den Gemeinden auf.",
+   "quote_clean": "Der Bund nimmt Steuern ein und teilt dieses Gesamtsteueraufkommen zwischen sich selbst, den Bundesländern und den Gemeinden auf.",
+   "statement": "Der größte Einnahmeposten einer Gemeinde sind Ertragsanteile: Der Bund teilt die Steuereinnahmen zwischen sich, den Ländern und den Gemeinden auf.",
+   "question": "Woher kommt der größte Teil des Geldes einer österreichischen Gemeinde?",
+   "answer": "Ertragsanteile aus Bundessteuern",
+   "distractors": [
+    "Grundsteuer der Bewohner:innen",
+    "Gebühren für Wasser und Müll",
+    "Förderungen der EU"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Altlengbach sind das rund 2 Millionen Euro im Jahr. Dazu kommen eigene Abgaben wie die Kommunalsteuer, Gebühren für Wasser, Kanal und Müll und projektbezogene Förderungen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Finanzausgleich",
+    "Gemeindefinanzen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 631,
+   "speaker": "Daniel Kosak",
+   "quote": "Wer einmal ins Auto steigt und rausfährt aus der Gemeinde, hast eine hohe Gefahr, dass er dann die Dinge woanders erledigt.",
+   "quote_clean": "Wer einmal ins Auto steigt und aus der Gemeinde rausfährt, bei dem ist die Gefahr hoch, dass er die Dinge woanders erledigt.",
+   "statement": "Je mehr Angebote im Ortszentrum gebündelt sind, desto eher erledigen Menschen dort ihre Wege; wer einmal hinausfährt, kauft meist woanders ein.",
+   "question": "Warum ist ein Arzt im Ortszentrum laut Daniel Kosak auch gut für Bäckerei und Friseur?",
+   "answer": "Man erledigt gleich andere Wege dort",
+   "distractors": [
+    "Ärzte zahlen höhere Kommunalsteuer",
+    "Patient:innen bekommen dort Rabatte",
+    "Der Arzt mietet deren Räume"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer eh zum Arzt geht und stehen bleibt, holt gleich das Brot und geht zum Friseur. Sitzt man einmal im Auto, ist der Großmarkt in zehn Minuten erreicht, und die kleinen Läden schauen durch die Finger.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Nahversorgung",
+    "Ortskern"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 696,
+   "speaker": "Daniel Kosak",
+   "quote": "Also ich wäre ja blöd, wenn ich ein eigenes Wassernetz installiere, das am Ende meiner Gemeinde aufhört.",
+   "quote_clean": "Ich wäre ja blöd, wenn ich ein eigenes Wassernetz installiere, das am Ende meiner Gemeinde aufhört.",
+   "statement": "Daniel Kosak hält Gemeindekooperationen bei Wasser, Abwasser, Müll und Schulen für selbstverständlich sinnvoll.",
+   "question": "Wer hat's gesagt: „Ich wäre ja blöd, wenn ich ein eigenes Wassernetz installiere, das am Ende meiner Gemeinde aufhört“?",
+   "answer": "Daniel Kosak",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Wasserwerks-Chef",
+    "Eine Raumplanerin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei Kooperationen ist er ganz dafür: gemeinsame Schule, Abfallverband, Wasserverband, Kläranlage. Bei Gemeindezusammenlegungen ist er skeptisch, solange man den Nutzen nicht genau zeigen kann.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gemeindekooperation",
+    "Zitat"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2080,
+   "speaker": "Daniel Kosak",
+   "quote": "Also ich kriege einfach instant gesagt, wenn irgendwas ein Scheiß ist und auf der kommunalen Ebene.",
+   "quote_clean": "Ich kriege auf der kommunalen Ebene einfach sofort gesagt, wenn irgendwas ein Scheiß ist.",
+   "statement": "Daniel Kosak schätzt an der Kommunalpolitik, dass das Feedback der Bürger:innen unmittelbar kommt.",
+   "question": "Wer hat's gesagt: „Ich kriege einfach instant gesagt, wenn irgendwas ein Scheiß ist“?",
+   "answer": "Daniel Kosak",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Bundesminister",
+    "Eine Wiener Gemeinderätin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Brotberuf ist er Pressesprecher im Landwirtschaftsministerium, nebenbei Vizebürgermeister. Im Ort ist das Feedback direkter, und genau das sorgt laut ihm für viel Befriedigung.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kommunalpolitik",
+    "Zitat"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 122,
+   "speaker": "Daniel Kosak",
+   "quote": "Ich bin aktuell sogar in Charge, weil mein Bürgermeister auf Urlaub ist.",
+   "quote_clean": "Ich bin aktuell sogar in Charge, weil mein Bürgermeister auf Urlaub ist.",
+   "statement": "Zum Zeitpunkt der Aufnahme hatte Vizebürgermeister Daniel Kosak zwei Wochen lang das Sagen, weil der Bürgermeister auf Urlaub war.",
+   "question": "Warum hatte Daniel Kosak bei der Aufnahme gerade „die Macht“ in seiner Gemeinde?",
+   "answer": "Der Bürgermeister war auf Urlaub",
+   "distractors": [
+    "Er wurde gerade neu gewählt",
+    "Der Bürgermeister war zurückgetreten",
+    "Er gewann eine Wette"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zwei Wochen Vertretung, und schon hat man laut eigener Aussage tatsächlich die Macht in der Gemeinde. Andreas hat ihn also in einem historischen Moment erwischt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Gemeinde",
+    "Moment"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 1092,
+   "speaker": "Andreas Sator",
+   "quote": "Erzähl uns mal so quasi der Economics of a Freibad.",
+   "quote_clean": "Erzähl uns mal von den Economics of a Freibad.",
+   "statement": "Andreas Sator fragt nach der Wirtschaftlichkeit eines Gemeindefreibads mit den Worten „Economics of a Freibad“.",
+   "question": "Mit welcher Formulierung fragt Andreas nach den Finanzen des Freibads?",
+   "answer": "„Economics of a Freibad“",
+   "distractors": [
+    "„Business Case Badewiese“",
+    "„Freibad Bilanz-Check“",
+    "„Profit and Loss am Beckenrand“"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas hatte auf Facebook gelesen, dass Daniel seit einem Monat Geschäftsführer des Freibads ist. Die Antwort kam prompt: kleines Freibad, kleines Defizit.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Freibad"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "128",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

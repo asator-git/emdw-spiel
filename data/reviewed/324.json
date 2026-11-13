@@ -1,0 +1,279 @@
+{
+ "reviews": [
+  {
+   "statement": "Laut Luisa Neubauer traf der frühere deutsche Verkehrsminister Andreas Scheuer in seiner vierjährigen Amtszeit im Schnitt jede Sitzungswoche einen Autolobbyisten.",
+   "question": "Wie oft traf Deutschlands Ex-Verkehrsminister Andreas Scheuer laut Luisa Neubauer im Schnitt Autolobbyisten?",
+   "answer": "Jede Sitzungswoche einmal",
+   "distractors": [
+    "Einmal pro Quartal",
+    "Einmal im Jahr",
+    "Zweimal pro Monat"
+   ],
+   "aha": "Vier Jahre lang, praktisch jede Sitzungswoche, ein Termin mit der Autobranche – und das ist alles öffentlich einsehbar. Luisas Punkt: Selbst wenn die Gespräche uninspiriert waren, irgendwann redest du vielleicht selber ein bisschen wie ein Autolobbyist.",
+   "quote_clean": "Der hat in dieser Legislaturperiode, das sind vier Jahre, im Durchschnitt jede Woche einen Autolobbyisten getroffen, jede einzelne Sitzungswoche über vier Jahre. Das ist auch alles öffentlich, das kann man einsehen.",
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Behauptung von Luisa, daher Attribution ergänzt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Laut Luisa Neubauer traf Andreas Scheuer in vier Jahren als Verkehrsminister nur ein einziges Mal Vertreter:innen von Umweltverbänden.",
+   "question": "Wie oft traf Andreas Scheuer in vier Jahren als Verkehrsminister laut Luisa Neubauer Umweltverbände?",
+   "answer": "Ein einziges Mal",
+   "distractors": [
+    "Rund zwanzig Mal",
+    "Etwa einmal im Monat",
+    "Gar nicht"
+   ],
+   "aha": "Jede Sitzungswoche die Autobranche, genau einmal die Umweltverbände. Da muss man sich, sagt Luisa, nicht lange wundern, warum die deutsche Verkehrspolitik so gut für Autokonzerne und so schlecht fürs Klima ist.",
+   "quote_clean": "Zum Vergleich: In denselben vier Jahren hat derselbe Verkehrsminister ein einziges Mal Vertreter von Umweltverbänden getroffen.",
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Attribution ergänzt; 'rund 200 Wochen' im aha nicht belegt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Laut Luisa Neubauer hat China 2023 mehr neue Solaranlagen gebaut als alle anderen Länder zusammen.",
+   "question": "Wie viel neue Solarleistung hat China laut Luisa Neubauer 2023 gebaut?",
+   "answer": "Mehr als alle anderen Länder zusammen",
+   "distractors": [
+    "Etwa so viel wie die EU",
+    "Knapp ein Viertel der Weltmenge",
+    "Weniger als die USA"
+   ],
+   "aha": "Ausgerechnet China, das lange vor allem Kohlekraftwerke hochgezogen hat, baut jetzt mehr Solar als der Rest der Welt gemeinsam. Für Luisa ein Zeichen, dass sich auf den Märkten ganz real was verschiebt – auch wenn's noch nicht reicht.",
+   "quote_clean": "Jetzt sehen wir: China hat im letzten Jahr mehr Solaranlagen neu gebaut als alle anderen Länder zusammen.",
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Jahr präzisiert und Attribution ergänzt.",
+   "stand_note": "Stand 2023",
+   "quality": 3
+  },
+  {
+   "statement": "Der Spiegel brachte in den 1990er-Jahren in 520 Ausgaben nur eine einzige Titelgeschichte zum Klima.",
+   "question": "In wie vielen Spiegel-Ausgaben der 90er gab es nur eine einzige Klima-Titelgeschichte?",
+   "answer": "520 Ausgaben",
+   "distractors": [
+    "120 Ausgaben",
+    "260 Ausgaben",
+    "1.040 Ausgaben"
+   ],
+   "aha": "Zehn Jahre wöchentlich, also rund 520 Hefte – und genau ein Klima-Cover. Und das in einer Zeit, in der man eigentlich schon ziemlich genau wusste, was auf uns zukommt. Für Luisa ein kleines Beispiel für ein großes Medienversagen.",
+   "quote_clean": "In den ganzen 90er-Jahren hat das deutsche Spiegel-Magazin eine einzige Titelgeschichte zum Klima gemacht, in 520 Ausgaben über zehn Jahre.",
+   "i": 4,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Behauptung (eine einzige Spiegel-Titelgeschichte zum Klima in den 90ern) ist sachlich zweifelhaft, Frage ungünstig formuliert.",
+   "stand_note": "",
+   "quality": 1
+  },
+  {
+   "statement": "Seriöse Klimaforschung gibt es seit den 1950er-Jahren.",
+   "question": "Seit welchem Jahrzehnt gibt es laut Luisa Neubauer valide Klimaforschung?",
+   "answer": "Seit den 1950er-Jahren",
+   "distractors": [
+    "Seit den 1980er-Jahren",
+    "Seit den 1970er-Jahren",
+    "Seit den 1990er-Jahren"
+   ],
+   "aha": "Die Klimakrise ist keine neue Erkenntnis: Seit den 50ern wird ernsthaft dazu geforscht, seit den 60ern öffentlich darüber geredet. Wir wissen also seit Großelterngenerationen Bescheid.",
+   "quote_clean": "Seit den 50ern gibt es valide Klimaforschung, seit den 1960ern gibt es einen öffentlichen Diskurs.",
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Vage Jahrzehntangabe, nicht eindeutig (Klimaforschung reicht weiter zurück).",
+   "stand_note": "",
+   "quality": 1
+  },
+  {
+   "statement": "Laut Luisa Neubauer schalteten fossile Konzerne vor allem in den 1980er-Jahren ganzseitige Zeitungsanzeigen, die die Klimakrise als unsicher darstellten.",
+   "question": "In welchem Jahrzehnt schalteten fossile Konzerne laut Luisa Neubauer vor allem ganzseitige Anzeigen gegen die Klimawissenschaft?",
+   "answer": "In den 1980er-Jahren",
+   "distractors": [
+    "In den 1960er-Jahren",
+    "In den 2000er-Jahren",
+    "In den 2010er-Jahren"
+   ],
+   "aha": "Das Zauberwort hieß „uncertainty“: Man hat nicht behauptet, dass alles falsch ist, sondern nur, dass alles unsicher sei. Das reicht schon, damit viele lieber abwarten.",
+   "quote_clean": "Vor allem in den 80ern haben fossile Industrien ganzseitige Anzeigen in großen Zeitungen geschaltet und das Klima geleugnet, immer unter diesem Credo: Es ist alles nicht ganz belastbar.",
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Historische Einordnung ist Luisas Aussage, Attribution ergänzt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Der CO2-Fußabdruckrechner lenkte nach vielen Ölunglücken die Aufmerksamkeit von den Konzernen auf das Verhalten Einzelner.",
+   "question": "Wozu diente der CO2-Fußabdruckrechner der Ölkonzerne laut Luisa Neubauer?",
+   "answer": "Vom Konzernversagen auf Einzelne ablenken",
+   "distractors": [
+    "Eigene Emissionen transparent offenlegen",
+    "Strompreise für Haushalte senken",
+    "Neue Ölfelder rechtfertigen"
+   ],
+   "aha": "Die Ölkonzerne waren nach etlichen Ölunglücken in Bedrängnis. Also haben sie den Spieß umgedreht: Statt über Öllecks auf dem Meer redeten plötzlich alle über ihre eigene Waschmaschine.",
+   "quote_clean": "Guckt mal weg von diesen großen Öllecks, die wir hier auf euren Lebensgrundlagen produzieren, aber berechne mal, was deine Waschmaschine an Emissionen verursacht. Und auf einmal sind alle Leute zurück nach Hause und haben überlegt: Oh je, darf ich jetzt noch die Waschmaschine anmachen?",
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Luisa Neubauer sagt: Ungerechter Klimaschutz ist niemals nachhaltig, weil er Menschen abschreckt.",
+   "question": "Wer hat's gesagt: „Ungerechter Klimaschutz ist kategorisch niemals nachhaltig“?",
+   "answer": "Luisa Neubauer",
+   "distractors": [
+    "Greta Thunberg",
+    "Leonore Gewessler",
+    "Andreas Sator"
+   ],
+   "aha": "Für Luisa muss Klimaschutz die Ärmsten mitdenken, also auch die, die sich keine teuren Biosachen oder spontanen Bahnfahrten leisten können. Sonst verunsichert er Menschen nachhaltig, statt Sicherheit zu schaffen.",
+   "quote_clean": "Wenn Klimaschutz ungerecht wird, dann schreckt der Menschen ab. Das heißt, ungerechter Klimaschutz ist kategorisch niemals nachhaltig.",
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Luisa Neubauer sagt: In der Politik setzt sich nicht das bessere, sondern das mächtigere Argument durch.",
+   "question": "Welches Argument setzt sich laut Luisa Neubauer in der Politik meistens durch?",
+   "answer": "Das, hinter dem Macht steht",
+   "distractors": [
+    "Das wissenschaftlich bestbelegte",
+    "Das moralisch überzeugendste",
+    "Das am einfachsten erklärbare"
+   ],
+   "aha": "Lange dachte man, die Klimawissenschaft hat die besseren Argumente, also kommt der Klimaschutz von selbst. Luisas Befund: Macht – Geld, Märkte, Mehrheiten – war lange dort, wo das Klima zerstört wurde.",
+   "quote_clean": "Es setzt sich gar nicht immer das bessere Argument durch, das ist eher eine Ausnahme, und auch nicht das moralische Argument, als wäre es die moralische Sache, Klimaschutz zu machen, sondern was sich durchsetzt, ist das Argument, hinter dem sich Macht versammelt.",
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Der Traum vom Eigenheim war politisch gewollt, weil er Bauindustrie, Arbeitsplätze und Wohnraum brachte – heute versiegelt er zu viel Fläche.",
+   "question": "Warum war der Traum vom Eigenheim politisch lange so erwünscht?",
+   "answer": "Er brachte Bauboom und Arbeitsplätze",
+   "distractors": [
+    "Er senkte die Steuerlast der Familien",
+    "Er entlastete die Städte vom Verkehr",
+    "Er schützte die Landwirtschaft"
+   ],
+   "aha": "Wenn alle vom Haus im Grünen träumen, wird gebaut, die Industrie boomt, es gibt Jobs. Nur: Mittlerweile ist schon viel Fläche versiegelt. Wer den alten Traum wegnimmt, muss laut Luisa einen neuen anbieten.",
+   "quote_clean": "In Deutschland gibt's einen Traum vom Eigenheim. Das war mal ein ganz wichtiges Modell: Alle Leute träumen vom Eigenheim, das heißt nämlich, es wird gebaut, die Industrie boomt, es gibt Arbeitsplätze, es wird Wohnraum geschaffen.",
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Luisa Neubauer hasste ihre Fahrstunden, unter anderem weil sie St.-Pauli-Fan war und ihre Fahrlehrerin HSV-Fan.",
+   "question": "Warum waren Luisa Neubauers Fahrstunden laut ihr eine Katastrophe?",
+   "answer": "Die Fahrlehrerin war HSV-Fan",
+   "distractors": [
+    "Sie hatte Angst vor Autobahnen",
+    "Das Auto war ständig kaputt",
+    "Sie fiel dreimal durch"
+   ],
+   "aha": "In Hamburg gibt's zwei Lager, HSV und St. Pauli, und Luisa saß im falschen Auto. Den Lappen hat sie trotzdem gemacht – und wollte sofort auf Roadtrip.",
+   "quote_clean": "Ich komme aus Hamburg. Es gibt in Hamburg zwei Fußballclubs, HSV und St. Pauli. Ich war St.-Pauli-Fan, meine Fahrlehrerin war HSV-Fan, und es war eine Katastrophe.",
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Massenproteste erzeugen öffentlichen Druck über Bilder in den Medien, der Lobbygespräche ausgleichen kann.",
+   "question": "Wie kann laut Luisa Neubauer eine Demo gegen Lobbydruck wirken?",
+   "answer": "Durch Bilder, die öffentliche Meinung prägen",
+   "distractors": [
+    "Durch direkte Gesetzesvorschläge",
+    "Durch Spendengelder an Parteien",
+    "Durch Klagen vor Gericht"
+   ],
+   "aha": "Der Minister hat die Lobby im einen Ohr, aber in der Zeitung sieht er Demofotos, im Wahlkreis eine Blockade, bei Bürgergesprächen immer wieder das Thema Klima. Irgendwann denkt er sich: Vielleicht muss ich doch was tun.",
+   "quote_clean": "Auf einmal steht da vielleicht ein Verkehrsminister, auf einem Ohr voll gequatscht von Automobillobbyisten, und stellt aber fest: Wenn ich die Zeitung aufschlage, kommen da immer Fotos von Demos vor meinem Ministerium.",
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Luisa Neubauer rät, Klimaschutz dort anzugehen, wo man die meiste Zeit verbringt: in Schule, Uni oder Arbeit.",
+   "question": "Wo sollte man laut Luisa Neubauer am ehesten fürs Klima aktiv werden?",
+   "answer": "Dort, wo man die meiste Zeit verbringt",
+   "distractors": [
+    "Vor allem beim eigenen Einkauf",
+    "Nur bei großen Demos",
+    "In einer neu gegründeten Gruppe"
+   ],
+   "aha": "Klimaschutz in der Freizeit, hauptberuflich aber mittendrin im Problem: Das geht für Luisa nicht auf. Also fragen: Hat meine Schule Nachhaltigkeitsziele, investiert meine Uni noch in Kohle, Öl und Gas, was macht mein Arbeitgeber?",
+   "quote_clean": "Weil es heute diesen Mythos gibt, als würden wir die Klimakrise in unserer Freizeit lösen, sie aber hauptberuflich zerstören.",
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Aha enthielt Erfundenes (Mülltrennen); neu formuliert.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Andreas Sator fragt zum Schluss, wo Zuhörer:innen anfangen können, wenn sie selbst etwas tun wollen.",
+   "question": "Mit welcher Frage beendet Andreas das Gespräch mit Luisa Neubauer?",
+   "answer": "Wo fängt man an, etwas zu tun?",
+   "distractors": [
+    "Was macht dir am meisten Angst?",
+    "Wo siehst du dich in zehn Jahren?",
+    "Welches Buch empfiehlst du uns?"
+   ],
+   "aha": "Andreas will am Ende was Praktisches für die Hörer:innen. Luisas Antwort: Schau bei dir vor Ort, schließ dich was an, red mit Freundinnen und Verwandten drüber.",
+   "quote_clean": "Luisa, letzte Frage: Die Leute, die uns jetzt zuhören, die denken, ich will auch was machen. Wo fängt man an?",
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsende, kaum spielbar.",
+   "stand_note": "",
+   "quality": 1
+  }
+ ],
+ "id": "324",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

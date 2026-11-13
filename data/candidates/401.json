@@ -1,0 +1,718 @@
+{
+ "theme": "Gesellschaft & Kultur",
+ "summary": "Leonhard Dobusch erklärt, warum unsere Öffentlichkeit auf käuflichen Plattformen ein Problem ist und wie das dezentrale Fediverse eine Alternative sein könnte.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1114,
+   "speaker": "Leonhard Dobusch",
+   "quote": "Wir schicken jedes Video, egal wie unbekannt der Creator ist, hat der schon Follower oder nicht, ist uns egal, das schicken wir mal an 200 Leuten in den Feed",
+   "quote_clean": "Wir schicken jedes Video, egal wie unbekannt der Creator ist und ob er schon Follower hat oder nicht, einmal an 200 Leute in den Feed.",
+   "statement": "TikTok spielt laut Leonhard Dobusch jedes neue Video zunächst etwa 200 Leuten aus und entscheidet anhand ihrer Reaktionen, ob es weiterverbreitet wird.",
+   "question": "Wie vielen Leuten spielt TikTok ein neues Video laut Leonhard Dobusch zuerst als Test aus?",
+   "answer": "Etwa 200",
+   "distractors": [
+    "Etwa 20",
+    "Etwa 5.000",
+    "Etwa 50.000"
+   ],
+   "number_value": 200,
+   "number_unit": "Personen",
+   "slider_min": 10,
+   "slider_max": 10000,
+   "log_scale": true,
+   "aha": "TikTok geht das fast sozialwissenschaftlich an, mit mehreren Stufen von Beta-Tests. Kommt das Video bei den ersten 200 gut an, geht es an 2.000, dann an noch mehr, egal ob der Creator schon Follower hat.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "TikTok",
+    "Algorithmus"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 712,
+   "speaker": "Leonhard Dobusch",
+   "quote": "RSS steht für Real Simple Syndication. Also frei übersetzt, ganz einfache Syndizierung. Und ist ein offenes Protokoll.",
+   "quote_clean": "RSS steht für Really Simple Syndication, also frei übersetzt ganz einfache Syndizierung. Und es ist ein offenes Protokoll.",
+   "statement": "RSS steht für Really Simple Syndication und ist ein offenes Protokoll, das niemandem gehört.",
+   "question": "Wofür steht die Abkürzung RSS, mit der man Blogs und Podcasts abonniert?",
+   "answer": "Really Simple Syndication",
+   "distractors": [
+    "Remote Server Service",
+    "Rapid Site Sharing",
+    "Real-time Stream System"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "RSS ist ein Standard, auf den sich Webseitenbetreiber geeinigt haben, und gehört niemandem. Damit kannst du eine Website abonnieren wie einen Newsletter, und dein Feed-Reader schaut für dich nach, ob es was Neues gibt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "RSS",
+    "Internet",
+    "Blogs"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1476,
+   "speaker": "Leonhard Dobusch",
+   "quote": "weil auch Podcasts mit Real Simple Syndication, mit RSS, abonnierbar sind, wie ein Blog.",
+   "quote_clean": "Weil auch Podcasts mit Really Simple Syndication, mit RSS, abonnierbar sind, wie ein Blog.",
+   "statement": "Podcasts funktionieren technisch wie Blogs: Man kann sie über einen offenen RSS-Feed abonnieren.",
+   "question": "Welche Technik steckt dahinter, dass du einen Podcast in jeder beliebigen Podcast-App abonnieren kannst?",
+   "answer": "Ein offener RSS-Feed",
+   "distractors": [
+    "Eine Spotify-Lizenz",
+    "Ein Apple-Patent",
+    "Ein YouTube-Kanal"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Leonhard ist ein Podcast nichts anderes als ein Blog im Audio-Format. Du kannst ihn auf Spotify hören, aber genauso gut über den RSS-Feed in einer anderen App, ganz ohne Plattform dazwischen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Podcast",
+    "RSS"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 557,
+   "speaker": "Leonhard Dobusch",
+   "quote": "Also für mich das klassische Beispiel ist eh der Buchdruck mit beweglichen Lettern, der wahrscheinlich einen wesentlichen Beitrag dazu geleistet hat, dass es zur Kirchenspaltung kam, zum Dreißigjährigen Krieg, der Europa entvölkert hat.",
+   "quote_clean": "Das klassische Beispiel ist der Buchdruck mit beweglichen Lettern, der wahrscheinlich wesentlich dazu beigetragen hat, dass es zur Kirchenspaltung kam, zum Dreißigjährigen Krieg, der Europa entvölkert hat.",
+   "statement": "Neue Kommunikationstechnologien lösen oft politische Umwälzungen aus: Der Buchdruck trug wesentlich zur Kirchenspaltung und zum Dreißigjährigen Krieg bei.",
+   "question": "Welche historische Umwälzung hat der Buchdruck mit beweglichen Lettern laut Leonhard Dobusch wesentlich mit ausgelöst?",
+   "answer": "Die Kirchenspaltung",
+   "distractors": [
+    "Die Französische Revolution",
+    "Den Fall Konstantinopels",
+    "Die Industrielle Revolution"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Auf einmal konnte jeder einen Zettel drucken und verteilen, nicht nur ein paar Mönche im Kloster lesen. Das brachte Aufklärung und Demokratie, aber zuerst auch Kirchenspaltung und den Dreißigjährigen Krieg. Leonhard hofft, dass wir mit dem Internet nicht in diese Fußstapfen treten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Buchdruck",
+    "Geschichte",
+    "Medien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 537,
+   "speaker": "Leonhard Dobusch",
+   "quote": "Das ist aber, finde ich, gar nicht verwunderlich, weil eben dieses Internet, das erste Masse-zu-Masse-Kommunikationsmittel der Geschichte der Menschheit,",
+   "quote_clean": "Das ist aber gar nicht verwunderlich, weil dieses Internet das erste Masse-zu-Masse-Kommunikationsmittel der Geschichte der Menschheit ist.",
+   "statement": "Das Internet ist das erste Kommunikationsmittel der Geschichte, bei dem viele mit vielen gleichzeitig kommunizieren können (many to many).",
+   "question": "Was unterscheidet das Internet laut Leonhard Dobusch grundsätzlich von Zeitung, Radio und Fernsehen?",
+   "answer": "Viele senden an viele",
+   "distractors": [
+    "Einer sendet an viele",
+    "Es ist schneller als Funk",
+    "Es braucht keinen Strom"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Klassische Massenmedien funktionieren one to many: Ein Sender, ganz viele Empfänger. Das Internet ist many to many, und weil es dafür noch kaum Regeln und Institutionen gibt, ruckelt es gerade ordentlich.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Internet",
+    "Medien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1781,
+   "speaker": "Leonhard Dobusch",
+   "quote": "Das hat dann natürlich auch technische Gründe, weil man gesagt hat, okay, es gibt Begrenzungen im Frequenzspektrum, man kann nicht unendlich Radiosender quasi starten und durch die Gegend funken lassen.",
+   "quote_clean": "Das hat auch technische Gründe, weil es Begrenzungen im Frequenzspektrum gibt. Man kann nicht unendlich viele Radiosender starten und durch die Gegend funken lassen.",
+   "statement": "Der öffentlich-rechtliche Rundfunk hat auch technische Gründe: Weil das Frequenzspektrum begrenzt ist, kann es nicht unendlich viele Radio- und Fernsehsender geben.",
+   "question": "Welcher technische Grund sprach dafür, Radio und Fernsehen nicht einfach dem freien Markt zu überlassen?",
+   "answer": "Das Frequenzspektrum ist begrenzt",
+   "distractors": [
+    "Sendemasten waren zu teuer",
+    "Radios waren anfangs Staatseigentum",
+    "Funkwellen störten den Flugverkehr"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zeitungen kann jeder drucken, Frequenzen aber gibt es nur begrenzt. Deshalb hat man ein duales System gebaut: private Medien plus öffentlich-rechtliche, die einem demokratischen Auftrag verpflichtet sind.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Rundfunk",
+    "Medienpolitik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2222,
+   "speaker": "Leonhard Dobusch",
+   "quote": "unter den 15- bis 25-Jährigen schauen zur Prime Time, also wenn die allermeisten Leute vor dem Fernseher sitzen, keine 10% mehr fern.",
+   "quote_clean": "Unter den 15- bis 25-Jährigen schauen zur Primetime, also wenn die allermeisten Leute vor dem Fernseher sitzen, keine 10 Prozent mehr fern.",
+   "statement": "Von den 15- bis 25-Jährigen schaut zur Primetime weniger als jede:r Zehnte noch fern.",
+   "question": "Wie viel Prozent der 15- bis 25-Jährigen schauen zur Primetime noch fern?",
+   "answer": "Weniger als 10 Prozent",
+   "distractors": [
+    "Rund 25 Prozent",
+    "Rund 40 Prozent",
+    "Rund 60 Prozent"
+   ],
+   "number_value": 10,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Nicht nur nicht ORF, die schauen einfach überhaupt nicht mehr fern. Deshalb findet Leonhard, dass öffentlich-rechtliche Sender auch auf TikTok und YouTube sein müssen, wo die Jungen eben sind.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Fernsehen",
+    "Jugend",
+    "Medien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2950,
+   "speaker": "Leonhard Dobusch",
+   "quote": "für den einzelnen Nutzer, für die einzelne Nutzerin ist die Plattform dann wertvoller, nutzbarer, spannender, interessanter, je mehr Leute dort sind.",
+   "quote_clean": "Für den einzelnen Nutzer, die einzelne Nutzerin ist die Plattform wertvoller, nutzbarer, spannender, interessanter, je mehr Leute dort sind.",
+   "statement": "Netzwerkeffekte bedeuten, dass eine Plattform für jede:n Einzelne:n umso wertvoller wird, je mehr Menschen sie nutzen, was zu Monopolen führt.",
+   "question": "Wie heißt der Effekt, durch den eine Plattform umso wertvoller wird, je mehr Leute sie nutzen?",
+   "answer": "Netzwerkeffekt",
+   "distractors": [
+    "Skaleneffekt",
+    "Mitnahmeeffekt",
+    "Rebound-Effekt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Was eine Plattform wertvoll macht, ist nicht der Like-Button, sondern die Leute darauf. Deshalb kommst du nicht von WhatsApp weg, obwohl du Signal sympathischer findest: Der Klassenchat und die halbe Verwandtschaft sind halt dort.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Plattformen",
+    "Monopol",
+    "Ökonomie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3017,
+   "speaker": "Leonhard Dobusch",
+   "quote": "egal ob ich jetzt bei A1 oder bei T-Mobile meinen Handyvertrag habe, ich kann mit allen telefonieren und SMS schicken und MMS. Warum kann ich nicht mit meinen unterschiedlichen Messagen Fotos und Textnachrichten austauschen?",
+   "quote_clean": "Egal ob ich bei A1 oder bei T-Mobile meinen Handyvertrag habe, ich kann mit allen telefonieren und SMS und MMS schicken. Warum kann ich nicht mit meinen unterschiedlichen Messengern Fotos und Textnachrichten austauschen?",
+   "statement": "Im Mobilfunk ist vorgeschrieben, dass alle Netze miteinander sprechen können; bei Messengern wie WhatsApp und Signal fehlt eine solche Interoperabilitätspflicht.",
+   "question": "Warum kannst du von A1 zu T-Mobile telefonieren, aber nicht von Signal zu WhatsApp schreiben?",
+   "answer": "Nur im Mobilfunk ist Interoperabilität Pflicht",
+   "distractors": [
+    "Messenger verschlüsseln technisch inkompatibel",
+    "Handynetze gehören alle demselben Konzern",
+    "Signal hat die Verbindung selbst blockiert"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Technisch wäre das überhaupt kein Problem, sagt Leonhard. Es fehlt bisher nur eine Regulierung, die das durchsetzt, wie sie es im Telekombereich längst gibt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Interoperabilität",
+    "Messenger",
+    "Regulierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3164,
+   "speaker": "Leonhard Dobusch",
+   "quote": "Es ist der Cory Doctorow. Den muss man hier nennen. Der hat nämlich den Begriff der Entschittification geprägt,",
+   "quote_clean": "Es ist Cory Doctorow, den muss man hier nennen. Der hat nämlich den Begriff der Enshittification geprägt.",
+   "statement": "Den Begriff Enshittification für den schleichenden Niedergang großer Tech-Plattformen hat der Autor und Blogger Cory Doctorow geprägt.",
+   "question": "Wer hat den Begriff Enshittification für den Verfall großer Plattformen geprägt?",
+   "answer": "Cory Doctorow",
+   "distractors": [
+    "Jaron Lanier",
+    "Shoshana Zuboff",
+    "Tim Berners-Lee"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Erst sind Plattformen nett zu dir und gratis, dann beherrschen sie den Markt und drücken Werbung rein, und am Ende werden auch die Werbekunden ausgequetscht. Keiner hat mehr Spaß, aber alle haben das Gefühl, sie kommen nicht weg.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Enshittification",
+    "Plattformen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3368,
+   "speaker": "Leonhard Dobusch",
+   "quote": "Das waren damals die Stories, der Story-Feature. Das war da eigentlich Snapchat erfunden oder groß gemacht, sagen wir so. Und das haben sie dann einfach in Instagram übernommen.",
+   "quote_clean": "Das waren damals die Stories. Die hat eigentlich Snapchat erfunden oder groß gemacht, und das haben sie dann einfach in Instagram übernommen.",
+   "statement": "Das Story-Feature hat Snapchat groß gemacht; Meta hat es kopiert und in Instagram eingebaut, nachdem eine Übernahme von Snapchat gescheitert war.",
+   "question": "Von welcher App hat Instagram das Story-Feature übernommen?",
+   "answer": "Von Snapchat",
+   "distractors": [
+    "Von TikTok",
+    "Von Twitter",
+    "Von Pinterest"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Meta wollte Snapchat kaufen, das hat nicht geklappt. Also haben sie die Killer-Features beinhart kopiert und mit ihrer riesigen Nutzerbasis den Wettbewerb plattgemacht.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Instagram",
+    "Snapchat",
+    "Wettbewerb"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2801,
+   "speaker": "Leonhard Dobusch",
+   "quote": "als sich sein eigenes Boutique Social Media Truth Social gegründet, das basiert auf quasi der Fediverse-Technologie, das ist eigentlich eine Art Mastoton-Variante,",
+   "quote_clean": "Er hat sich sein eigenes Boutique-Social-Media Truth Social gegründet. Das basiert auf der Fediverse-Technologie, das ist eigentlich eine Art Mastodon-Variante.",
+   "statement": "Donald Trumps Plattform Truth Social basiert technisch auf Fediverse-Technologie und ist eine Art Mastodon-Variante.",
+   "question": "Auf welcher Technologie basiert Donald Trumps Plattform Truth Social?",
+   "answer": "Auf einer Mastodon-Variante",
+   "distractors": [
+    "Auf einem Twitter-Klon von Musk",
+    "Auf der Facebook-Software",
+    "Auf einer eigenen Blockchain"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nachdem Trump von Twitter geflogen war, gründete er sein eigenes Netzwerk, ausgerechnet auf offener Fediverse-Technik. Gerade weil es dezentral ist, bleibt er dort halt eher unter sich.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Fediverse",
+    "Mastodon",
+    "Truth Social"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4353,
+   "speaker": "Leonhard Dobusch",
+   "quote": "Und außerhalb von Europa ist es so, dass ich mit Threads auch Fediverse-Konten abonnieren kann.",
+   "quote_clean": "Außerhalb von Europa kann ich mit Threads auch Fediverse-Konten abonnieren.",
+   "statement": "Mit Metas Kurznachrichtendienst Threads kann man außerhalb Europas auch Konten aus dem Fediverse abonnieren.",
+   "question": "Welcher Dienst von Meta erlaubt es außerhalb Europas, Fediverse-Konten zu abonnieren?",
+   "answer": "Threads",
+   "distractors": [
+    "WhatsApp",
+    "Instagram Reels",
+    "Facebook Messenger"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ausgerechnet Meta zeigt, dass kommerzielle und offene Netzwerke kein Widerspruch sein müssen. Leonhard fände es gut, Plattformen gesetzlich zu verpflichten, zumindest das Abonnieren öffentlicher Quellen zu erlauben.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Threads",
+    "Fediverse",
+    "Meta"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 4638,
+   "speaker": "Leonhard Dobusch",
+   "quote": "90% konsumieren nur, 1% der Leute macht die Inhalte, grob. Aber es reicht, wenn 1% mitbaut.",
+   "quote_clean": "90 Prozent konsumieren nur, 1 Prozent der Leute macht grob die Inhalte. Aber es reicht, wenn 1 Prozent mitbaut.",
+   "statement": "Im Internet konsumiert grob 90 Prozent der Leute nur, während etwa 1 Prozent die Inhalte erstellt.",
+   "question": "Wie viel Prozent der Leute im Internet erstellen grob die Inhalte?",
+   "answer": "Etwa 1 Prozent",
+   "distractors": [
+    "Etwa 10 Prozent",
+    "Etwa 25 Prozent",
+    "Etwa 50 Prozent"
+   ],
+   "number_value": 1,
+   "number_unit": "Prozent",
+   "slider_min": 0.1,
+   "slider_max": 50,
+   "log_scale": true,
+   "aha": "Die allermeisten schauen nur zu. Für Leonhard ist das eine gute Nachricht: Damit das Fediverse funktioniert, braucht es keine Massenbewegung, sondern nur eine klitzekleine Minderheit, die mitbaut.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Internet",
+    "Nutzung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 5727,
+   "speaker": "Leonhard Dobusch",
+   "quote": "Wikipedia gibt es seit 25 Jahren jetzt und ist immer noch so stabil.",
+   "quote_clean": "Wikipedia gibt es jetzt seit 25 Jahren und sie ist immer noch so stabil.",
+   "statement": "Wikipedia gibt es seit rund 25 Jahren (Stand 2026).",
+   "question": "Seit wie vielen Jahren gibt es Wikipedia (Stand 2026)?",
+   "answer": "Seit 25 Jahren",
+   "distractors": [
+    "Seit 15 Jahren",
+    "Seit 20 Jahren",
+    "Seit 32 Jahren"
+   ],
+   "number_value": 25,
+   "number_unit": "Jahre",
+   "slider_min": 5,
+   "slider_max": 40,
+   "log_scale": false,
+   "aha": "Wikipedia ist nicht kommerziell, werbefrei, spendenfinanziert und hat trotzdem alles überlebt. Für Leonhard ist sie der Leuchtturm demokratischer Öffentlichkeit im Internet.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Wikipedia",
+    "Internet"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 5608,
+   "speaker": "Leonhard Dobusch",
+   "quote": "Es gibt in der Wikipedia zu jedem Thema genau einen Artikel.",
+   "quote_clean": "Es gibt in der Wikipedia zu jedem Thema genau einen Artikel.",
+   "statement": "In der Wikipedia gibt es pro Sprache zu jedem Thema genau einen Artikel, über dessen Inhalt diskutiert statt abgestimmt wird.",
+   "question": "Warum setzt sich auf Wikipedia nicht einfach durch, wer am lautesten schreit?",
+   "answer": "Pro Thema gibt es nur einen Artikel",
+   "distractors": [
+    "Nur Fachleute dürfen Artikel schreiben",
+    "Artikel werden per Mehrheit abgestimmt",
+    "Ein Algorithmus blendet Lautes aus"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Man kann nicht einfach seinen eigenen Artikel pushen, man muss sich ausstreiten. Und abgestimmt wird auch nicht: Selbst wenn die Mehrheit glaubt, die Erde sei eine Scheibe, ist sie trotzdem keine.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wikipedia",
+    "Diskurs"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 4829,
+   "speaker": "Leonhard Dobusch",
+   "quote": "wir haben in Deutschland neun Landesrundfunkanstalten der ARD, die jeweils wiederum nur in ihren Landesgrenzen eigentlich stark orientiert sind.",
+   "quote_clean": "Wir haben in Deutschland neun Landesrundfunkanstalten der ARD, die jeweils stark an ihren Landesgrenzen orientiert sind.",
+   "statement": "Die ARD in Deutschland besteht aus neun Landesrundfunkanstalten.",
+   "question": "Aus wie vielen Landesrundfunkanstalten besteht die deutsche ARD?",
+   "answer": "Neun",
+   "distractors": [
+    "Fünf",
+    "Zwölf",
+    "Sechzehn"
+   ],
+   "number_value": 9,
+   "number_unit": "Anstalten",
+   "slider_min": 1,
+   "slider_max": 20,
+   "log_scale": false,
+   "aha": "Jede davon ist stark regional ausgerichtet, was im Vergleich zu Netflix eher wie eine Schwäche wirkt. Im Fediverse könnte das zum Vorteil werden: Jede Anstalt moderiert ihre eigene Ecke, aber alle bleiben miteinander sprechfähig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "ARD",
+    "Rundfunk",
+    "Deutschland"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 3664,
+   "speaker": "Leonhard Dobusch",
+   "quote": "Völlige Interoperabilität ist da. Und die Idee ist jetzt eigentlich, dass man das Ganze umlegt auf soziale Netzwerke",
+   "quote_clean": "Völlige Interoperabilität ist da. Und die Idee ist jetzt, dass man das Ganze auf soziale Netzwerke umlegt.",
+   "statement": "Das Fediverse funktioniert wie E-Mail: Man ist bei verschiedenen Servern angemeldet, kann aber mit allen anderen kommunizieren.",
+   "question": "Mit welchem bekannten Dienst vergleicht Leonhard Dobusch das Prinzip des Fediverse?",
+   "answer": "Mit E-Mail",
+   "distractors": [
+    "Mit dem Telefonbuch",
+    "Mit WhatsApp-Gruppen",
+    "Mit einer Suchmaschine"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Von deiner Uni-Adresse kannst du an GMX oder Gmail schreiben, egal wer der Anbieter ist. Im Fediverse ist es genauso: Jeder Server hat seinen eigenen Spamfilter und blockt, wen er will, aber prinzipiell reden alle miteinander.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fediverse",
+    "E-Mail",
+    "Interoperabilität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2557,
+   "speaker": "Leonhard Dobusch",
+   "quote": "Peertube ist quasi so das YouTube-Pendant im Fediverse.",
+   "quote_clean": "Peertube ist quasi das YouTube-Pendant im Fediverse.",
+   "statement": "Peertube ist eine dezentrale Videoplattform im Fediverse, vergleichbar mit YouTube.",
+   "question": "Wie heißt das YouTube-Pendant im Fediverse?",
+   "answer": "Peertube",
+   "distractors": [
+    "Pixelfed",
+    "Bluesky",
+    "Vimeo"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Fediverse gibt es für viele große Plattformen eine dezentrale Alternative: Mastodon statt X, Pixelfed statt Instagram, Peertube statt YouTube. Weil jeder Server selbst entscheidet, mit wem er föderiert, kann man problematische Sender einfach abklemmen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Fediverse",
+    "Video"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1453,
+   "speaker": "Leonhard Dobusch",
+   "quote": "der große Nachteil auf den kommerziellen Social Plattformen ist, die, die am lautesten schreien, werden am meisten gehört.",
+   "quote_clean": "Der große Nachteil auf den kommerziellen Social-Plattformen ist: Die, die am lautesten schreien, werden am meisten gehört.",
+   "statement": "Leonhard Dobusch sieht den großen Nachteil kommerzieller Social-Media-Plattformen darin, dass die Lautesten am meisten gehört werden.",
+   "question": "Wer sagt in Erklär mir die Welt: „Die, die am lautesten schreien, werden am meisten gehört“?",
+   "answer": "Leonhard Dobusch",
+   "distractors": [
+    "Cory Doctorow",
+    "Andreas Sator",
+    "Barbara Blaha"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Algorithmen sind auf Verweildauer und Engagement optimiert, weil die Plattformen von Werbung leben. Wer Wut erzeugt, bekommt Kommentare, und genau das pusht der Algo.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Social Media",
+    "Algorithmus"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2367,
+   "speaker": "Leonhard Dobusch",
+   "quote": "ich will auch nicht mich darauf verlassen müssen, dass der europäische Milliardär netter ist als der amerikanische Milliardär.",
+   "quote_clean": "Ich will mich auch nicht darauf verlassen müssen, dass der europäische Milliardär netter ist als der amerikanische.",
+   "statement": "Leonhard Dobusch hält ein europäisches TikTok nicht für die Lösung, weil das strukturelle Problem die Käuflichkeit zentraler Plattformen ist.",
+   "question": "Warum ist ein europäisches TikTok für Leonhard Dobusch keine Lösung?",
+   "answer": "Das Problem ist die Käuflichkeit selbst",
+   "distractors": [
+    "Europa hat zu wenig Programmierer",
+    "TikTok ist technisch nicht kopierbar",
+    "Die EU verbietet eigene Plattformen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein europäisches TikTok wäre dasselbe, nur halt in einer anderen Farbe. Machtkonzentration in diesem Ausmaß ist ungesund, egal in welchen Händen, sagt Leonhard.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Macht",
+    "Plattformen"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2112,
+   "speaker": "Leonhard Dobusch",
+   "quote": "Masks Übernahme von Twitter ist das Beste, was der Idee dezentraler sozialer Netzwerke passiert ist, seit der Erfindung von TCPIP.",
+   "quote_clean": "Musks Übernahme von Twitter ist das Beste, was der Idee dezentraler sozialer Netzwerke passiert ist, seit der Erfindung von TCP/IP.",
+   "statement": "Leonhard Dobuschs meistgeteiltes Mastodon-Posting lautete, Musks Twitter-Übernahme sei das Beste für dezentrale Netzwerke seit der Erfindung von TCP/IP.",
+   "question": "Womit vergleicht Leonhard Dobusch in seinem meistgeteilten Mastodon-Posting Musks Twitter-Übernahme?",
+   "answer": "Mit der Erfindung von TCP/IP",
+   "distractors": [
+    "Mit der Erfindung des Buchdrucks",
+    "Mit dem Start von Wikipedia",
+    "Mit dem ersten iPhone"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "TCP/IP ist das Internetprotokoll, das an Unis entwickelt wurde und niemandem gehört. Musk hat für Leonhard eindrucksvoll gezeigt, wie problematisch es ist, wenn ein Reicher einfach den öffentlichen Platz kaufen kann.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Mastodon",
+    "Twitter",
+    "Internet"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 325,
+   "speaker": "Leonhard Dobusch",
+   "quote": "habe ich immer noch Feedbackbögen von Studierenden bekommen, Herr Dobusch ist wegen seinem Dialekt nicht gut zu verstehen",
+   "quote_clean": "Ich habe immer noch Feedbackbögen von Studierenden bekommen: Herr Dobusch ist wegen seines Dialekts nicht gut zu verstehen.",
+   "statement": "Obwohl Leonhard Dobusch zehn Jahre in Deutschland lebte und unterrichtete, bemängelten Studierende in Feedbackbögen seinen Dialekt.",
+   "question": "Was stand nach zehn Jahren in Deutschland immer noch in Leonhard Dobuschs Feedbackbögen?",
+   "answer": "Sein Dialekt sei schwer verständlich",
+   "distractors": [
+    "Er rede viel zu schnell",
+    "Seine Folien seien zu voll",
+    "Er überziehe ständig die Zeit"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Leonhard fand das total gemein, weil er seiner Meinung nach sehr verständlich gesprochen hat. Seitdem wechselt er, sobald er an Deutschland denkt, sofort ins Hochdeutsche, ein kleines Trauma, sagt er.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Dialekt",
+    "Anekdote"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 5762,
+   "speaker": "Andreas Sator",
+   "quote": "unabhängig vom Thema oder zum Thema, was ist eine Frage, die ich dir nicht gestellt habe, die du gerne beantworten möchtest?",
+   "quote_clean": "Unabhängig vom Thema oder zum Thema: Was ist eine Frage, die ich dir nicht gestellt habe, die du gerne beantworten möchtest?",
+   "statement": "Andreas Sator probiert in dieser Folge eine neue Frage aus: Welche Frage, die er nicht gestellt hat, würde der Gast gerne beantworten?",
+   "question": "Welche neue Frage stellt Andreas gegen Ende des Gesprächs mit Leonhard Dobusch?",
+   "answer": "Welche ungestellte Frage du beantworten willst",
+   "distractors": [
+    "Was du deinem jüngeren Ich rätst",
+    "Worüber du deine Meinung geändert hast",
+    "Was dich nachts wach hält"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Leonhard war erst der zweite Gast, der diese Höllenfrage bekam, und sie hat ihn fast überfordert. Seine Antwort: Er hätte gern erzählt, welche Blogs er liest.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Interview"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "401",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

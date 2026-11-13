@@ -1,0 +1,280 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "1994 und Schock-Aussage stehen im Ausschnitt, historisch korrekt.",
+   "stand_note": "",
+   "statement": "Erdoğan wurde 1994 Bürgermeister von Istanbul, der größten Stadt der Türkei.",
+   "question": "In welchem Jahr wurde Erdoğan Bürgermeister von Istanbul?",
+   "answer": "1994",
+   "distractors": [
+    "1987",
+    "2001",
+    "1999"
+   ],
+   "aha": "Bevor er das Land regiert hat, hat Erdoğan Istanbul regiert. Für die etablierten Parteien war sein Sieg damals ein Schock, und als Bürgermeister hat er sich mit pragmatischer Sachpolitik über ideologische Grenzen hinweg einen Namen gemacht.",
+   "quote_clean": "Der große Wendepunkt ist 1994, wo er für seine Partei zum ersten Mal die Gemeindewahlen in Istanbul gewinnt und Bürgermeister der größten Stadt der Türkei wird.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Gründung 2001 und Wirtschaftskrise belegt; aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Erdoğans Partei AKP wurde 2001 gegründet, im Jahr einer großen Wirtschaftskrise in der Türkei.",
+   "question": "In welchem Jahr wurde Erdoğans Partei AKP gegründet?",
+   "answer": "2001",
+   "distractors": [
+    "1994",
+    "2008",
+    "1997"
+   ],
+   "aha": "Die AKP kam quasi aus dem Nichts: Nach der Krise wurde das ganze alte Establishment abgewählt, und die frisch gegründete Partei holte gleich die absolute Mehrheit. Seitdem regiert sie.",
+   "quote_clean": "Die Partei wird 2001 gegründet, und es gibt 2001 eine große Wirtschaftskrise in der Türkei.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg stimmt; 'islamisch-konservative Partei' im aha steht nicht im Ausschnitt, durch Belegtes ersetzt.",
+   "stand_note": "",
+   "statement": "Die Abkürzung AKP steht für „Partei für Gerechtigkeit und Entwicklung“.",
+   "question": "Wofür steht der Name von Erdoğans Partei AKP?",
+   "answer": "Partei für Gerechtigkeit und Entwicklung",
+   "distractors": [
+    "Partei für Freiheit und Fortschritt",
+    "Partei für Glaube und Ordnung",
+    "Partei für Einheit und Wohlstand"
+   ],
+   "aha": "Der Name sollte nach Neuanfang klingen, nach einem weißen Blatt. Erdoğan gründete die Partei, nachdem er mit seiner früheren Partei im Clinch lag und kurz im Gefängnis gesessen war.",
+   "quote_clean": "Die Abkürzung steht für Partei für Gerechtigkeit und Entwicklung, und sie wollte ein neues, weißes Blatt aufmachen.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Referendum 2017 belegt (Einsetzung 2018); aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Mit einem Referendum 2017 wechselte die Türkei vom parlamentarischen System zum Präsidialsystem.",
+   "question": "In welchem Jahr stimmte die Türkei per Referendum für ein Präsidialsystem?",
+   "answer": "2017",
+   "distractors": [
+    "2011",
+    "2014",
+    "2020"
+   ],
+   "aha": "Seitdem sitzt die Macht nicht mehr bei einem Ministerpräsidenten, der dem Parlament verantwortlich ist, sondern im Präsidentenpalast. Dort ist laut Cengiz eine eigene Bürokratie gewachsen, die selbst ein Interesse daran hat, dass alles so bleibt.",
+   "quote_clean": "Dazu ist zu sagen, dass die Türkei 2017 mit einem Referendum den Übergang vom parlamentarischen zu einem Präsidialsystem vollzogen hat.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Jahr belegt; die Polizeigewalt-Aussage ist Cengiz' Einschätzung und wird im aha als solche markiert.",
+   "stand_note": "",
+   "statement": "Die Gezi-Proteste 2013 entzündeten sich an einem Bauprojekt in einem Park im Zentrum Istanbuls.",
+   "question": "In welchem Jahr fanden die Gezi-Proteste in Istanbul statt?",
+   "answer": "2013",
+   "distractors": [
+    "2008",
+    "2016",
+    "2010"
+   ],
+   "aha": "Ausgerechnet ein Park hat die Wende gebracht: Gegen ein Bauprojekt gingen vor allem Junge auf die Straße. Laut Cengiz war es das erste Mal, dass Erdoğan brutale Polizeigewalt gegen Proteste einsetzte.",
+   "quote_clean": "Die Gezi-Proteste, die ein wichtiger Wendepunkt waren, 2013, wo zum ersten Mal vor allem Junge, aber die Zivilgesellschaft in Istanbul und auch in anderen Städten wegen eines Bauprojekts um einen Park mitten im Zentrum von Istanbul protestiert haben – daran hat es sich entfacht.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Straßenbahn-Vergleich belegt; quote_clean änderte den Sinn ('nicht mehr brauchst'), aha enthielt erfundene Wertung ('erstaunlich ehrlich').",
+   "stand_note": "",
+   "statement": "Erdoğan sagte früher, Demokratie sei wie eine Straßenbahn, aus der man an der passenden Haltestelle aussteigt.",
+   "question": "Womit hat Erdoğan die Demokratie einmal verglichen?",
+   "answer": "Mit einer Straßenbahn",
+   "distractors": [
+    "Mit einem Fußballspiel",
+    "Mit einem Wintermantel",
+    "Mit einer Leiter"
+   ],
+   "aha": "Man steigt ein, fährt ein Stück mit und steigt an der passenden Haltestelle wieder aus. Auf diesen Satz aus Erdoğans früher Zeit berufen sich laut Cengiz Oppositionelle heute immer wieder.",
+   "quote_clean": "Demokratie ist wie eine Straßenbahn: Wenn du sie brauchst, steigst du bei der Haltestelle aus. Das deutet schon darauf hin, dass er ein anderes Verständnis von Demokratie hat als ein inklusives, liberales.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Gut belegte Einschätzung von Cengiz, in der Frage als solche attribuiert.",
+   "stand_note": "",
+   "statement": "In Mischsystemen wie der Türkei gibt es Wahlen, Zeitungen und Opposition, aber der politische Wettbewerb ist laut Cengiz Günay nicht fair.",
+   "question": "Was fehlt laut Cengiz Günay in einem Land wie der Türkei, obwohl es Wahlen gibt?",
+   "answer": "Ein fairer, gleicher Wettbewerb",
+   "distractors": [
+    "Eine Opposition im Parlament",
+    "Unabhängige Zeitungen überhaupt",
+    "Das Wahlrecht für Frauen"
+   ],
+   "aha": "Auf dem Papier ist alles da, was eine Demokratie braucht. Nur nutzt die Regierung laut Cengiz alle Ressourcen des Staates für sich und drängt die Opposition Stück für Stück zurück – das Spielfeld ist gekippt.",
+   "quote_clean": "Scheinbar ist Demokratie. Es gibt auch Wahlen. Du kannst wählen, du kannst eine Partei unterstützen. Du gehst auch nicht gleich ins Gefängnis, nur weil du oppositionell bist. Es gibt Zeitungen, es gibt Zivilgesellschaft, aber der Wettkampf in diesem politischen Spiel ist nicht gleich.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bild und Zuschreibung (ungarische Dissidentin, Name unbekannt) korrekt wiedergegeben.",
+   "stand_note": "",
+   "statement": "Eine ungarische Dissidentin verglich moderne Autokratien mit einem Tennisball, der lange ins Leere fliegt und einen plötzlich von hinten trifft.",
+   "question": "Mit welchem Bild beschreibt eine ungarische Dissidentin den Unterschied zwischen Kommunismus und heutigen Autokratien?",
+   "answer": "Tennisball gegen eine Wand",
+   "distractors": [
+    "Schachspiel ohne Regeln",
+    "Fahrt im dichten Nebel",
+    "Tanz auf dünnem Eis"
+   ],
+   "aha": "Im Kommunismus kam der Ball direkt zurück, man wusste, wo die Grenze ist. Heute wirfst du den Ball in einen scheinbar offenen Raum, lange passiert nichts – und dann trifft's dich von hinten.",
+   "quote_clean": "Im Kommunismus war es so: Da gab es eine Wand, wir wussten, das ist die Wand, und wir haben den Tennisball immer gegen die Wand gespielt, und es war klar, dass der Ball mich direkt trifft. Jetzt gibt es scheinbar keine Wand. Wir werfen den Ball in den Raum, es passiert lange nichts.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Begriff belegt; letzter Satz im aha steht nicht im Ausschnitt, entfernt.",
+   "stand_note": "",
+   "statement": "Ein Wirtschaftssystem, in dem regimenahe Firmen Staatsaufträge bekommen und Geld an das Regime zurückfließt, nennt man Crony Capitalism oder Kumpelkapitalismus.",
+   "question": "Wie nennt man ein System, in dem Freunde der Regierung Staatsaufträge bekommen und dafür loyal bleiben?",
+   "answer": "Kumpelkapitalismus",
+   "distractors": [
+    "Staatskapitalismus",
+    "Turbokapitalismus",
+    "Sozialpartnerschaft"
+   ],
+   "aha": "Bauaufträge, Umwidmungen, Ausschreibungen: Das Geld landet bei befreundeten Firmen und fließt dank Loyalitätsvereinbarung wieder an das Regime zurück. Auf Englisch heißt das Crony Capitalism, und laut Cengiz kennt man es auch aus Ungarn.",
+   "quote_clean": "Was man auch von Orbán in Ungarn kennt – man nennt das in der Literatur Crony Capitalism, das ist der Kumpelkapitalismus.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Aussage ist Cengiz' Einschätzung; Statement und Frage entsprechend attribuiert.",
+   "stand_note": "",
+   "statement": "Laut Cengiz Günay wird in der Türkei nicht massenhaft, sondern gezielt verhaftet – weil niemand weiß, wen es trifft, schweigen viele.",
+   "question": "Warum wirken die Verhaftungen in der Türkei laut Cengiz Günay so einschüchternd?",
+   "answer": "Sie sind selektiv und unvorhersehbar",
+   "distractors": [
+    "Sie treffen immer ganze Familien",
+    "Sie werden live im Fernsehen gezeigt",
+    "Sie betreffen nur Ausländer:innen"
+   ],
+   "aha": "Wer nicht weiß, wo die Grenze ist, hält sicherheitshalber den Mund. Genau das ist der Effekt: Viele trauen sich laut Cengiz nicht einmal mehr, auf Social Media ihre Meinung zu sagen.",
+   "quote_clean": "Diese Verhaftungen sind nicht Massenverhaftungen, sondern selektiv. Und niemand weiß, wen es treffen wird. Das erzeugt ein Gefühl der Angst.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg und Weltwissen stimmen (Türkei als erstes Land ratifiziert 2011, Rückzug 2021); Distraktor 'Erstes Land, das sie umsetzte' war zu nah an der Wahrheit, ersetzt.",
+   "stand_note": "Stand 2026",
+   "statement": "Die Türkei trieb die Istanbul-Konvention zum Schutz von Frauen mit voran und trat rund zehn Jahre später wieder aus.",
+   "question": "Welche Rolle spielte die Türkei bei der Istanbul-Konvention zum Schutz von Frauen?",
+   "answer": "Treibende Kraft, trat später aus",
+   "distractors": [
+    "Hat sie nie unterzeichnet",
+    "Hat sie von Anfang an abgelehnt",
+    "War nur Beobachterin"
+   ],
+   "aha": "Unter Erdoğan war die Türkei eine der treibenden Kräfte. Etwa zehn Jahre später ist sie auf Druck konservativer Gruppen ausgetreten, die behauptet hatten, das Abkommen fördere LGBTIQ-Rechte. Für Cengiz ein Beispiel dafür, wie wendig Erdoğan je nach Lage ist.",
+   "quote_clean": "Ein Extrembeispiel ist die Istanbul-Konvention, die die Türkei mit vorangetrieben hat, ein internationales Abkommen zum Schutz von Frauen und gefährdeten Personen.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Gefühlige Schlussbotschaft, Antwort erraten, Distraktoren beliebig; aha-Satz 'macht auch ihm Mut' nicht belegt.",
+   "stand_note": "",
+   "statement": "Cengiz Günay sieht in der Hoffnung die eigentliche Kraft der türkischen Opposition.",
+   "question": "Was ist laut Cengiz Günay die eigentliche Kraft der türkischen Opposition?",
+   "answer": "Die Hoffnung",
+   "distractors": [
+    "Das Geld aus Europa",
+    "Die Unterstützung der Armee",
+    "Die sozialen Medien"
+   ],
+   "aha": "Trotz Verhaftungen und Niederlagen geben viele nicht auf. Die Hoffnung, sagt Cengiz, kann einem niemand wegnehmen – und das macht auch ihm Mut.",
+   "quote_clean": "Ich glaube: nicht aufgeben, dranbleiben und nicht verzweifeln. Trotz all dieser furchtbaren Niederschläge ist die eigentliche Kraft die Hoffnung. Die kann einem niemand wegnehmen und sollte es auch nicht können.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zur Moderation ohne Wissenswert; kein Spielfakt.",
+   "stand_note": "",
+   "statement": "Andreas fragt, warum man sich überhaupt für Erdoğan und die Türkei interessieren sollte.",
+   "question": "Mit welcher Frage holt Andreas zu Beginn skeptische Hörer:innen ab?",
+   "answer": "Warum sollte mich Erdoğan interessieren?",
+   "distractors": [
+    "Warst du schon einmal in Ankara?",
+    "Wie würdest du Erdoğan wählen?",
+    "Was isst man in Istanbul?"
+   ],
+   "aha": "Typisch Andreas: erst einmal die Frage stellen, die sich eh alle denken. Cengiz' Antwort: Die Türkei ist gar nicht so weit weg, sie zeigt uns verzögert, was auch mitten in Europa passiert.",
+   "quote_clean": "Fragen sich jetzt vielleicht manche meiner Hörer:innen: Warum sollte ich mich überhaupt für Erdoğan interessieren oder dafür, was politisch in der Türkei los ist? Das ist irgendwie weit weg. Was sagst du ihnen?",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Belangloser Moment; aha behauptet Übungsverhalten von Andreas, das nicht im Ausschnitt steht, und könnte bloßstellend wirken.",
+   "stand_note": "",
+   "statement": "Gleich zu Beginn bekommt Andreas eine kleine Ausspracheschulung für den Namen Erdoğan.",
+   "question": "Was passiert, als Andreas zum ersten Mal nach der Person Erdoğan fragt?",
+   "answer": "Er bekommt Aussprache-Nachhilfe",
+   "distractors": [
+    "Das Mikrofon fällt aus",
+    "Cengiz verweigert die Antwort",
+    "Andreas verwechselt das Land"
+   ],
+   "aha": "Das ğ mit dem Häkchen wird anders gesprochen als ein normales G. Andreas übt brav mehrmals hintereinander – und hält sich daran danach mal mehr, mal weniger.",
+   "quote_clean": "Beginnen wir mal mit der Person Erdoğan, kannst du ein bisschen schildern? – Erdoğan. Das G spricht man so, weil ein Häkchen drauf ist.",
+   "quality": 1
+  }
+ ],
+ "id": "404",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

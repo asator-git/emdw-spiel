@@ -1,0 +1,736 @@
+{
+ "theme": "Wissenschaft & Technik",
+ "summary": "Marcus Wadsak erklärt mir, was Wetter eigentlich ist, warum Prognosen heute 15 Tage reichen und was die KI daran ändert.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1584,
+   "speaker": "Marcus Wadsak",
+   "quote": "in Österreich seit 250 Jahren die Temperatur Vorreiter hier ein Kloster, also Krims Münster hat die längste Temperaturaufzeichnung, weil Mönche äh sehr oft in Astronomie und Mologie bewandt waren",
+   "quote_clean": "In Österreich messen wir seit 250 Jahren die Temperatur. Vorreiter war ein Kloster: Kremsmünster hat die längste Temperaturaufzeichnung, weil Mönche sehr oft in Astronomie und Meteorologie bewandert waren.",
+   "statement": "Im Stift Kremsmünster wird seit rund 250 Jahren die Temperatur gemessen – die längste Messreihe Österreichs.",
+   "question": "Seit wie vielen Jahren wird im Stift Kremsmünster die Temperatur aufgezeichnet?",
+   "answer": "Rund 250 Jahre",
+   "distractors": [
+    "Rund 100 Jahre",
+    "Rund 150 Jahre",
+    "Rund 400 Jahre"
+   ],
+   "number_value": 250,
+   "number_unit": "Jahre",
+   "slider_min": 50,
+   "slider_max": 500,
+   "log_scale": false,
+   "aha": "Lange bevor es Wetterdienste gab, haben Mönche in Oberösterreich schon brav Thermometer abgelesen. Die waren oft eh in Astronomie bewandert, und so steht in Kremsmünster die längste Temperaturreihe des Landes.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Messgeschichte",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2146,
+   "speaker": "Marcus Wadsak",
+   "quote": "Wir verändern diesen Iszustand bei unserem Hauptmodell, z.B. bei einem, das Europa weit rechnet 64 mal mit kleinen Fehlern.",
+   "quote_clean": "Wir verändern diesen Istzustand bei unserem Hauptmodell, zum Beispiel bei einem, das europaweit rechnet, 64 Mal mit kleinen Fehlern.",
+   "statement": "Beim europäischen Hauptmodell wird der Ausgangszustand 64 Mal leicht verändert durchgerechnet, um die Unsicherheit der Prognose abzuschätzen.",
+   "question": "Wie oft wird der Ausgangszustand beim europäischen Hauptmodell mit kleinen Fehlern zusätzlich durchgerechnet?",
+   "answer": "64 Mal",
+   "distractors": [
+    "8 Mal",
+    "500 Mal",
+    "1000 Mal"
+   ],
+   "number_value": 64,
+   "number_unit": "Läufe",
+   "slider_min": 1,
+   "slider_max": 1000,
+   "log_scale": true,
+   "aha": "Weil niemand genau weiß, wie das Wetter gerade ist, rechnen die Modelle nicht nur einmal, sondern 64 Mal mit leicht verschobenen Startwerten. Laufen die Varianten lange beisammen, ist die Prognose sicher; driften sie auseinander, wird's wackelig.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Ensemble",
+    "Wettermodell"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2935,
+   "speaker": "Marcus Wadsak",
+   "quote": "Heute rechnen wir 15 Tage. Wir haben Prognosen für 15 Tage, die meistens zumindest für 10 Tage sehr brauchbar sind.",
+   "quote_clean": "Heute rechnen wir 15 Tage. Wir haben Prognosen für 15 Tage, die meistens zumindest für 10 Tage sehr brauchbar sind.",
+   "statement": "Vor 30 Jahren gab es Wetterprognosen für drei Tage, heute werden 15 Tage gerechnet, von denen meist zehn sehr brauchbar sind.",
+   "question": "Für wie viele Tage sind heutige Wetterprognosen laut Marcus Wadsak meistens sehr brauchbar?",
+   "answer": "10 Tage",
+   "distractors": [
+    "3 Tage",
+    "5 Tage",
+    "20 Tage"
+   ],
+   "number_value": 10,
+   "number_unit": "Tage",
+   "slider_min": 1,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Als Marcus beim ORF angefangen hat, war nach drei Tagen Schluss, mehr ging einfach nicht. Heute rechnet man 15 Tage voraus, und zehn davon taugen meistens wirklich was.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Prognose",
+    "Fortschritt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2965,
+   "speaker": "Marcus Wadsak",
+   "quote": "Du hast alle 10 Minuten 250 Messstationen im Vergleich zu einmal in der Stunde 9 damals.",
+   "quote_clean": "Du hast alle zehn Minuten 250 Messstationen im Vergleich zu einmal in der Stunde neun damals.",
+   "statement": "Heute liefern in Österreich 250 Messstationen alle zehn Minuten Daten; vor 30 Jahren kamen einmal pro Stunde Meldungen von neun Landeshauptstädten.",
+   "question": "Wie viele Wetter-Messstationen liefern in Österreich heute alle zehn Minuten Daten?",
+   "answer": "250",
+   "distractors": [
+    "50",
+    "1.000",
+    "2.500"
+   ],
+   "number_value": 250,
+   "number_unit": "Messstationen",
+   "slider_min": 10,
+   "slider_max": 5000,
+   "log_scale": true,
+   "aha": "Vor 30 Jahren kamen einmal pro Stunde per Fernschreiber Meldungen aus den neun Landeshauptstädten, so in der Art „Wien 17 Grad, Eisenstadt stark bewölkt“. Heute tickern 250 Stationen alle zehn Minuten Temperatur, Druck, Feuchte und Niederschlag rein.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Messnetz",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1429,
+   "speaker": "Marcus Wadsak",
+   "quote": "Wir haben vor zwei Jahren zum ersten Mal in London 40° erlebt. Das ist wirklich die warme Luft, die es früher niemals darauf geschafft hätte.",
+   "quote_clean": "Wir haben vor zwei Jahren zum ersten Mal in London 40 Grad erlebt. Das ist wirklich die warme Luft, die es früher niemals da hinauf geschafft hätte.",
+   "statement": "In London wurden 2022 erstmals 40 Grad gemessen, weil Hochdruckgebiete warme Luft aus dem Süden immer weiter nach Norden lenken.",
+   "question": "Welche Temperatur wurde in London 2022 zum ersten Mal überhaupt erreicht?",
+   "answer": "40 Grad",
+   "distractors": [
+    "34 Grad",
+    "37 Grad",
+    "43 Grad"
+   ],
+   "number_value": 40,
+   "number_unit": "Grad Celsius",
+   "slider_min": 25,
+   "slider_max": 50,
+   "log_scale": false,
+   "aha": "Hochdruckgebiete schieben die warme Luft aus dem Süden heute viel weiter nach Norden als früher. So hat es eine Hitze bis nach London geschafft, die dort vorher schlicht nie angekommen ist.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Klimawandel",
+    "Hitze"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1466,
+   "speaker": "Marcus Wadsak",
+   "quote": "wir hatten so einen Rhythmus, alle 7 Tage wechselt sich das Wetter. Daher hatten wir im Sommer auch nie so lange Hitzephasen.",
+   "quote_clean": "Wir hatten so einen Rhythmus: Alle sieben Tage wechselt sich das Wetter. Daher hatten wir im Sommer auch nie so lange Hitzephasen.",
+   "statement": "Früher wechselte das Wetter in Mitteleuropa etwa alle sieben Tage; weil sich die Westströmung verlangsamt hat, halten Wetterlagen heute länger an.",
+   "question": "In welchem Rhythmus hat das Wetter in Österreich früher typischerweise gewechselt?",
+   "answer": "Etwa alle 7 Tage",
+   "distractors": [
+    "Etwa alle 2 Tage",
+    "Etwa alle 14 Tage",
+    "Etwa alle 21 Tage"
+   ],
+   "number_value": 7,
+   "number_unit": "Tage",
+   "slider_min": 1,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Weil Hochs und Tiefs heute weiter nach Norden und Süden ausschlagen, bremst das die ganze Westströmung. Statt nach einer Woche zu wechseln, bleiben Föhnlagen, Hitzewellen oder Kältephasen jetzt gern sieben bis zehn Tage picken.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Klimawandel",
+    "Wetterlagen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 808,
+   "speaker": "Marcus Wadsak",
+   "quote": "Wenn die Wolke aber sehr hoch steigt und wir reden wirklich von 8 km, 9 km, 10 km in den Tropen 13 km, da oben ist es saukalt - 60° oder solche Temperaturen",
+   "quote_clean": "Wenn die Wolke aber sehr hoch steigt, und wir reden wirklich von 8, 9, 10 Kilometern, in den Tropen 13 Kilometern, da oben ist es saukalt, minus 60 Grad oder solche Temperaturen.",
+   "statement": "Gewitterwolken reichen bei uns 8 bis 10 Kilometer hoch, in den Tropen bis 13 Kilometer, wo es rund minus 60 Grad hat.",
+   "question": "Wie kalt ist es ungefähr an der Spitze einer hohen Gewitterwolke?",
+   "answer": "Rund minus 60 Grad",
+   "distractors": [
+    "Rund minus 5 Grad",
+    "Rund minus 20 Grad",
+    "Rund minus 120 Grad"
+   ],
+   "number_value": -60,
+   "number_unit": "Grad Celsius",
+   "slider_min": -100,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Erst so hoch oben, wo es saukalt ist, frieren die Tröpfchen zu Eiskristallen. Und genau diese Eisphase braucht es, damit sich die Wolke elektrisch auflädt: ohne Eis kein Blitz.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gewitter",
+    "Wolken"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 955,
+   "speaker": "Marcus Wadsak",
+   "quote": "oder wir haben jetzt vielleicht 8 Stunden hell von Sonne müssen wir im November oft gar nicht reden, aber 8 Stunden hell sind. Im Sommer sind es 16.",
+   "quote_clean": "Wir haben jetzt vielleicht acht Stunden hell – von Sonne müssen wir im November oft gar nicht reden –, aber acht Stunden hell sind es. Im Sommer sind es 16.",
+   "statement": "In Österreich ist es Ende November nur etwa acht Stunden hell, im Sommer rund 16 Stunden – das ist die Folge der geneigten Erdachse.",
+   "question": "Wie viele Stunden ist es in Österreich im Sommer ungefähr hell?",
+   "answer": "Rund 16 Stunden",
+   "distractors": [
+    "Rund 12 Stunden",
+    "Rund 14 Stunden",
+    "Rund 20 Stunden"
+   ],
+   "number_value": 16,
+   "number_unit": "Stunden",
+   "slider_min": 8,
+   "slider_max": 24,
+   "log_scale": false,
+   "aha": "Die Neigung der Erdachse spürt man am stärksten an der Tageslänge: im November gerade acht Stunden hell, im Sommer doppelt so viel. Das macht die Jahreszeiten, nicht der Abstand zur Sonne.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Jahreszeiten",
+    "Erdachse"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 929,
+   "speaker": "Marcus Wadsak",
+   "quote": "interessanterweise sind wir im Winter der Erde der Sonne näher als im Sommer. Du würde mir jetzt glauben, da da muss ja im Winter wärmer sein, weil wir sind doch näher bei der Sonne.",
+   "quote_clean": "Interessanterweise ist die Erde im Winter der Sonne näher als im Sommer. Du würdest jetzt glauben, da muss es ja im Winter wärmer sein, weil wir doch näher bei der Sonne sind.",
+   "statement": "Im Nordhalbkugel-Winter ist die Erde der Sonne näher als im Sommer; die Jahreszeiten entstehen durch die Neigung der Erdachse.",
+   "question": "Wann ist die Erde der Sonne näher – in unserem Winter oder in unserem Sommer?",
+   "answer": "Im Winter",
+   "distractors": [
+    "Im Sommer",
+    "Im Frühling",
+    "Immer gleich nah"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Erde zieht auf einer Ellipse um die Sonne, und im Jänner ist sie ihr am nächsten. Warm wird's trotzdem nicht, weil die geneigte Erdachse uns im Winter von der Sonne wegdreht und die Tage kurz macht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Jahreszeiten",
+    "Astronomie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1376,
+   "speaker": "Marcus Wadsak",
+   "quote": "Viele Wetterregeln haben ihren Tag nicht übersiedelt, als die gregorianische Kalenderreform kam. Also viele Tage gelten noch für das alte Datum und sind daher nicht richtig.",
+   "quote_clean": "Viele Wetterregeln sind nicht mit ihrem Tag übersiedelt, als die gregorianische Kalenderreform kam. Viele Tage gelten also noch für das alte Datum und sind daher nicht richtig.",
+   "statement": "Viele Bauernregeln stimmen nicht mehr, weil sie bei der gregorianischen Kalenderreform nicht auf das neue Datum verschoben wurden.",
+   "question": "Warum passen viele alte Bauernregeln nicht mehr zum heutigen Datum?",
+   "answer": "Wegen der gregorianischen Kalenderreform",
+   "distractors": [
+    "Wegen der Einführung der Sommerzeit",
+    "Wegen falscher Übersetzungen aus dem Latein",
+    "Wegen der Verschiebung der Erdachse"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bauernregeln beruhen auf jahrhundertelanger Beobachtung, oft an Feiertage gebunden. Als der Kalender umgestellt wurde, sind die Regeln aber nicht mitübersiedelt, und dazu kommt heute noch der Klimawandel, der die alten Muster durcheinanderbringt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bauernregeln",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2512,
+   "speaker": "Marcus Wadsak",
+   "quote": "Die die waren bis zum Brexit in Redding in England beheimatet. mussten dann äh aufgrund des Brexits äh sich einen neuen Ort suchen. Sind jetzt in Italien",
+   "quote_clean": "Die waren bis zum Brexit in Reading in England beheimatet, mussten sich dann aufgrund des Brexits einen neuen Ort suchen und sind jetzt in Italien.",
+   "statement": "Das Europäische Zentrum für mittelfristige Wettervorhersage (ECMWF) war in Reading in England und hat wegen des Brexits Teile nach Italien verlegt.",
+   "question": "Wohin musste das europäische Wetterzentrum ECMWF wegen des Brexits ausweichen?",
+   "answer": "Nach Italien",
+   "distractors": [
+    "Nach Deutschland",
+    "Nach Frankreich",
+    "Nach Österreich"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das ECMWF rechnet das beste Wettermodell Europas, auch die 15-Tage-Prognosen. Jahrzehntelang saß es in Reading, aber nach dem Brexit musste ein Teil in die EU übersiedeln, und zwar nach Bologna.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "ECMWF",
+    "Europa"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2561,
+   "speaker": "Marcus Wadsak",
+   "quote": "weil es den großen Vorteil hat, das ist umsonst ist das GFS, das ist umsonst, das kann das steckt auch in den meisten Apps drinnen.",
+   "quote_clean": "Weil es den großen Vorteil hat, dass es umsonst ist: das GFS. Das ist umsonst, das steckt auch in den meisten Apps drinnen.",
+   "statement": "In den meisten Wetter-Apps steckt das amerikanische Gratis-Modell GFS, das für Europa nicht immer das beste ist.",
+   "question": "Welches Wettermodell steckt laut Marcus Wadsak in den meisten Gratis-Wetter-Apps?",
+   "answer": "Das amerikanische Modell GFS",
+   "distractors": [
+    "Das europäische Modell ECMWF",
+    "Ein japanisches Modell",
+    "Ein KI-Modell von Google"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das GFS ist gratis, und Apps, die nichts kosten dürfen, greifen halt gern zu Gratisdaten. Es ist auf Amerika ausgerichtet, für Europa nutzen Meteorolog:innen es eher als Kontrolle: Zeigt es was ganz anderes, heißt's aufpassen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Wetter-Apps",
+    "Modelle"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2417,
+   "speaker": "Marcus Wadsak",
+   "quote": "Es gibt weltweit eine einheitliche Vercodierung von Wetter. Das ist so eine lange Wursst immer aus fünf Nummern da, das können wir noch immer lesen. Also das z.B. 73 steht für Schneefall.",
+   "quote_clean": "Es gibt weltweit eine einheitliche Verschlüsselung von Wetter. Das ist so eine lange Wurst immer aus fünf Nummern, die können wir noch immer lesen. Zum Beispiel steht 73 für Schneefall.",
+   "statement": "Wetterbeobachtungen werden weltweit in einem einheitlichen Zahlencode übermittelt, in dem etwa die Ziffer 73 für Schneefall steht.",
+   "question": "Wie werden Wetterbeobachtungen weltweit seit jeher einheitlich ausgetauscht?",
+   "answer": "Als Code aus Zahlengruppen",
+   "distractors": [
+    "Als Morsecode-Wörter",
+    "Als Farbcode auf Karten",
+    "Auf Englisch im Klartext"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Wetter kennt keine Grenzen, also muss Sydney genauso lesbar sein wie Linz. Darum gibt's seit Fernschreiber-Zeiten Fünfergruppen aus Zahlen: 73 heißt Schneefall, 62 oder 63 Regen, und Meteorolog:innen lesen das wie Zeitung.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Datenaustausch",
+    "WMO"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 853,
+   "speaker": "Marcus Wadsak",
+   "quote": "Viel öfter blitzt es aber innerhalb von Wolken oder von Wolke zu Wolke. Das sind viel häufigere Blitze.",
+   "quote_clean": "Viel öfter blitzt es aber innerhalb von Wolken oder von Wolke zu Wolke. Das sind viel häufigere Blitze.",
+   "statement": "Die meisten Blitze schlagen nicht in den Boden ein, sondern entladen sich innerhalb einer Wolke oder zwischen Wolken.",
+   "question": "Wo entladen sich die meisten Blitze?",
+   "answer": "Innerhalb von Wolken oder zwischen ihnen",
+   "distractors": [
+    "Am Boden auf Bergspitzen",
+    "Über dem offenen Meer",
+    "In hohen Gebäuden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In der Gewitterwolke trennen sich oben Eiskristalle und unten Wassertropfen, dabei entstehen zwei elektrisch geladene Pole. Die Spannung entlädt sich meistens gleich in der Wolke selbst, die Einschläge am Boden sind die Minderheit.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Blitz",
+    "Gewitter"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3169,
+   "speaker": "Marcus Wadsak",
+   "quote": "ist der Bereich 5 7 10 Tage. Das ist so der Bereich, wo man derzeit davon ausgeht, wo erste Studien zeigen, dass da mit der KI echt noch was rauszuholen",
+   "quote_clean": "Ist der Bereich fünf, sieben, zehn Tage. Das ist der Bereich, wo man derzeit davon ausgeht, wo erste Studien zeigen, dass da mit der KI echt noch was rauszuholen ist.",
+   "statement": "Erste Studien zeigen, dass KI-Wettermodelle vor allem bei Prognosen über fünf bis zehn Tage Verbesserungen bringen, kaum bei den ersten drei Tagen.",
+   "question": "Bei welchem Prognosezeitraum bringt KI laut ersten Studien die größte Verbesserung?",
+   "answer": "5 bis 10 Tage",
+   "distractors": [
+    "Die nächsten Stunden",
+    "1 bis 3 Tage",
+    "Mehrere Monate"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die ersten drei Tage rechnen die Physikmodelle mittlerweile so gut, dass für die KI kaum Luft nach oben bleibt. Weiter hinten, wo die Unsicherheit wächst, kann sie mit ihrem Blitzvergleich tausender alter Wetterlagen noch was rausholen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "KI",
+    "Prognose"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 379,
+   "speaker": "Marcus Wadsak",
+   "quote": "Das wäre so wie wenn du in einer Badewanne auf der einen Seite warmes Wasser reinschüttest, auf der anderen kalt ist. Das wird sich sehr rasch ausgleichen und du hast eine mittlere Temperatur.",
+   "quote_clean": "Das wäre so, wie wenn du in einer Badewanne auf der einen Seite warmes Wasser reinschüttest und es auf der anderen kalt ist. Das wird sich sehr rasch ausgleichen und du hast eine mittlere Temperatur.",
+   "statement": "Würde sich die Erde nicht drehen, würden sich die Temperaturen zwischen Äquator und Polen ausgleichen wie warmes und kaltes Wasser in einer Badewanne.",
+   "question": "Was wäre, wenn sich die Erde nicht um die eigene Achse drehen würde?",
+   "answer": "Es hätte überall ähnliches Wetter",
+   "distractors": [
+    "Es gäbe keinen Wind mehr",
+    "Die Pole wären wärmer als der Äquator",
+    "Es würde ununterbrochen regnen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am Äquator kommt mehr Sonne an, an den Polen weniger, und die Luft will das ausgleichen. Ohne Erdrotation ginge das so glatt wie in der Badewanne. Erst die Corioliskraft lenkt die Strömung ab, und so entstehen Hochs, Tiefs und Fronten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wind",
+    "Corioliskraft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 672,
+   "speaker": "Marcus Wadsak",
+   "quote": "Da verdampft das Wasser aus dem Topf und den Dampf sehe ich eigentlich nicht, aber kurz danach, weil es so rasch abkühlt beim Aufsteigen, kondensiert es schon wieder.",
+   "quote_clean": "Da verdampft das Wasser aus dem Topf, und den Dampf sehe ich eigentlich nicht. Aber kurz danach, weil es beim Aufsteigen so rasch abkühlt, kondensiert es schon wieder.",
+   "statement": "Echter Wasserdampf ist unsichtbar; was über einem Kochtopf sichtbar aufsteigt, sind bereits wieder kondensierte, flüssige Tröpfchen – wie in einer Wolke.",
+   "question": "Was siehst du eigentlich, wenn über dem Kochtopf „Dampf“ aufsteigt?",
+   "answer": "Winzige flüssige Wassertröpfchen",
+   "distractors": [
+    "Unsichtbaren Wasserdampf",
+    "Kleine Eiskristalle",
+    "Gelöste Luftbläschen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gasförmiges Wasser kann man nicht sehen. Sobald es über dem Topf ein bisserl abkühlt, wird's wieder flüssig, und genau das sind Wolken auch. Du zauberst dir also beim Nudelnkochen eine kleine Wolke.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wasser",
+    "Wolken"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 3055,
+   "speaker": "Marcus Wadsak",
+   "quote": "Die sagt, die Wetterlage ist so, ich schaue in einer Sekunde tausende Wetterlagen durch und holen mir die 20 ähnlichsten und schaue, wie sich das",
+   "quote_clean": "Die sagt: Die Wetterlage ist so, ich schaue in einer Sekunde tausende Wetterlagen durch, hole mir die 20 ähnlichsten und schaue, wie sich das Wetter entwickelt hat.",
+   "statement": "Klassische Wettermodelle rechnen mit physikalischen Gesetzen, KI-Modelle hingegen suchen in Sekunden die ähnlichsten vergangenen Wetterlagen und schauen, wie es damals weiterging.",
+   "question": "Wie gehen KI-Wettermodelle anders vor als klassische Wettermodelle?",
+   "answer": "Sie vergleichen mit ähnlichen früheren Wetterlagen",
+   "distractors": [
+    "Sie rechnen genauere Physikgleichungen",
+    "Sie messen mehr Stationen selbst",
+    "Sie werten Bauernregeln automatisch aus"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die bisherigen Modelle sind frei von Statistik: Istzustand rein, Physik drüber, Zukunft raus. Die KI macht genau das Gegenteil und blättert in alten Wetterlagen. Das ist um Stunden schneller und viel billiger, darum ist sie eine willkommene zweite Meinung.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "KI",
+    "Wettermodell"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 3591,
+   "speaker": "Marcus Wadsak",
+   "quote": "Also, wenn in der Früh so wirklich harmlose Wölkchen mit so kleinen Türmchen siehst, die verschwinden dann wieder gemeinerweise nach dem ersten Kaffee sind die weg und du denkst du ein schöner Sommertag, die sind ein guter Hinweis, dass es später gewittrig werden kann",
+   "quote_clean": "Wenn du in der Früh wirklich harmlose Wölkchen mit kleinen Türmchen siehst, die gemeinerweise nach dem ersten Kaffee wieder weg sind, und du denkst, ein schöner Sommertag – die sind ein guter Hinweis, dass es später gewittrig werden kann.",
+   "statement": "Kleine türmchenartige Wolken am Morgen (Cumulus castellanus) sind ein guter Hinweis darauf, dass es am Nachmittag Gewitter geben kann.",
+   "question": "Was verraten kleine Wölkchen mit Türmchen am Morgen eines Sommertags?",
+   "answer": "Später kann es Gewitter geben",
+   "distractors": [
+    "Der Tag bleibt sicher wolkenlos",
+    "Es kommt bald eine Kaltfront mit Schnee",
+    "Es wird sehr windstill"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Diese Wolken heißen Cumulus castellanus, weil sie wie eine kleine Burg ausschauen. Dass sie nach dem Frühstück wieder verschwinden, ist der gemeine Teil: Die Luft ist instabil, und am Nachmittag kann's krachen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wolken",
+    "Gewitter"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1829,
+   "speaker": "Marcus Wadsak",
+   "quote": "Also, es ist wirklich so, wenn ich aus dem Fenster rausschaue, da draußen passiert nichts zufällig.",
+   "quote_clean": "Es ist wirklich so: Wenn ich aus dem Fenster rausschaue, da draußen passiert nichts zufällig.",
+   "statement": "Marcus Wadsak betont, dass das Wetter streng physikalischen Gesetzen folgt und draußen nichts zufällig passiert.",
+   "question": "Wer hat's gesagt: „Wenn ich aus dem Fenster rausschaue, da draußen passiert nichts zufällig“?",
+   "answer": "Marcus Wadsak",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Bauer in einer Bauernregel",
+    "Ein KI-Forscher"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Marcus ist die Natur ein Musterbeispiel, das sich strikt an die Physik hält. Darum wäre Wetter grundsätzlich exakt vorhersagbar, wenn wir nur genau genug wüssten, wie es gerade ist.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Physik",
+    "Zitat"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1720,
+   "speaker": "Marcus Wadsak",
+   "quote": "Ich muss wissen, wie das Wetter ist. Und das ist ein Punkt, den man einfach zugeben muss. Wir wissen zu ungenau, wie das Wetter momentan ist.",
+   "quote_clean": "Ich muss wissen, wie das Wetter ist. Und das ist ein Punkt, den man einfach zugeben muss: Wir wissen zu ungenau, wie das Wetter momentan ist.",
+   "statement": "Das größte Problem der Wettervorhersage ist laut Marcus Wadsak, dass man den aktuellen Zustand der Atmosphäre zu ungenau kennt.",
+   "question": "Was ist laut Marcus Wadsak der wesentliche Grund, warum Wetter nicht beliebig weit vorhersagbar ist?",
+   "answer": "Wir kennen das aktuelle Wetter zu ungenau",
+   "distractors": [
+    "Die Physik des Wetters ist unbekannt",
+    "Das Wetter ist reiner Zufall",
+    "Es gibt zu viele Wetter-Apps"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Über Österreich gibt's ein dichtes Messnetz, aber über den Ozeanen und in der Höhe sind die Lücken riesig. Wetterballone steigen nur an wenigen Orten zweimal am Tag auf, und jeder Fehler im Startzustand wächst in der Prognose mit.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Messung",
+    "Prognose"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1054,
+   "speaker": "Marcus Wadsak",
+   "quote": "Also, ich glaube übers Wetter raunzen bringt nichts, weil über Dinge sich ärgern, die man nicht ändern kann, ähm hat keinen Sinn und wir können das Wetter nicht ändern.",
+   "quote_clean": "Ich glaube, übers Wetter raunzen bringt nichts, weil sich über Dinge zu ärgern, die man nicht ändern kann, keinen Sinn hat – und wir können das Wetter nicht ändern.",
+   "statement": "Marcus Wadsak findet, dass Raunzen übers Wetter nichts bringt, weil man es nicht ändern kann.",
+   "question": "Wer hat's gesagt: „Übers Wetter raunzen bringt nichts, wir können das Wetter nicht ändern“?",
+   "answer": "Marcus Wadsak",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Skilehrer in Kärnten",
+    "Martin Suter"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas hat den November „schirch“ genannt, und Marcus hat heftigst Einspruch erhoben. Jedes Wetter hat seine Reize, findet er: Kerzen an, Buch auf, und das Lieblingswetter kommt eh fix wieder.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Haltung",
+    "Jahreszeiten"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 77,
+   "speaker": "Marcus Wadsak",
+   "quote": "Ja, wenn man Wetter googelt, ist das für mich sehr lustig. Da kommt zuerst mal Friedrich Wetter. Das war ein Bischof irgendwo in Deutschland.",
+   "quote_clean": "Wenn man „Wetter“ googelt, ist das für mich sehr lustig. Da kommt zuerst mal Friedrich Wetter. Das war ein Bischof irgendwo in Deutschland.",
+   "statement": "Wer bei Google „Wetter“ sucht, findet laut Marcus Wadsak zuerst den deutschen Kirchenmann Friedrich Wetter.",
+   "question": "Was findet Marcus Wadsak an der Google-Suche nach „Wetter“ lustig?",
+   "answer": "Zuerst kommt Bischof Friedrich Wetter",
+   "distractors": [
+    "Zuerst kommt ein Kochrezept",
+    "Zuerst kommt seine eigene Website",
+    "Zuerst kommt ein Schlager"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bevor es um Atmosphäre und Physik ging, hat Marcus erst einmal den Kirchenmann aus Deutschland aus dem Weg geräumt. Das Wetter, um das es geht, ist der momentane Zustand der Atmosphäre an einem Ort.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Einstieg",
+    "Humor"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 3495,
+   "speaker": "Marcus Wadsak",
+   "quote": "jetzt wird's wild und dann passiert das manchmal, dass mich ein paar Leute kennen und dann auch beginnen zusammenzupacken.",
+   "quote_clean": "Jetzt wird's wild – und dann passiert es manchmal, dass mich ein paar Leute erkennen und dann auch beginnen zusammenzupacken.",
+   "statement": "Wenn Marcus Wadsak am See zusammenpackt, weil ein Gewitter kommt, packen manchmal Leute, die ihn erkennen, gleich mit zusammen.",
+   "question": "Was passiert manchmal, wenn Marcus Wadsak am See seine Sachen zusammenpackt?",
+   "answer": "Andere Badegäste packen auch zusammen",
+   "distractors": [
+    "Die Leute fragen nach Autogrammen",
+    "Der Bademeister schließt das Bad",
+    "Es fängt sofort zu schneien an"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der ORF-Wettermann als lebendes Gewitterwarnsystem: Wer ihn erkennt, vertraut lieber gleich seinem Bauchgefühl. Blöd nur, wenn er aus ganz anderen Gründen heimgeht.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Humor",
+    "Gewitter"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 72,
+   "speaker": "Andreas Sator",
+   "quote": "Markus, fahren wir mal ganz grundsätzlich an. Wetter, was ist das eigentlich?",
+   "quote_clean": "Markus, fangen wir mal ganz grundsätzlich an: Wetter, was ist das eigentlich?",
+   "statement": "Andreas Sator beginnt das Gespräch mit der ganz grundsätzlichen Frage, was Wetter eigentlich ist.",
+   "question": "Mit welcher Frage steigt Andreas ins Gespräch mit Marcus Wadsak ein?",
+   "answer": "Wetter, was ist das eigentlich?",
+   "distractors": [
+    "Welche Wetter-App ist die beste?",
+    "Wie wird der heurige Winter?",
+    "Warum irrt sich die Prognose so oft?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Typisch Andreas: erst einmal ganz von vorn. Marcus' Antwort: Wetter ist der momentane Zustand der Atmosphäre an einem bestimmten Ort zu einer bestimmten Zeit, also alles, was du draußen spüren und messen kannst.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Einstieg",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "383",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

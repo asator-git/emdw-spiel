@@ -1,0 +1,285 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 1109-1116 passt (180 Minuten inkl. Verpackung bis Kommissionierung); Aha nannte Barcode/Silo, was nicht im Ausschnitt steht, und wurde auf Belegtes umgestellt.",
+   "stand_note": "",
+   "statement": "Ein Industriebrot ist laut Josef Weghaupt vom Mischen bis zur fertig verpackten Ware in rund 180 Minuten hergestellt.",
+   "question": "Wie viele Minuten dauert es laut Josef Weghaupt in der Industrie, bis ein Brot hergestellt und verpackt ist?",
+   "answer": "180 Minuten",
+   "distractors": [
+    "60 Minuten",
+    "420 Minuten",
+    "720 Minuten"
+   ],
+   "aha": "Drei Stunden, inklusive Verpackung. Teig portionieren, gehen lassen, backen, verpacken: Alles läuft automatisch über Anlagen und Förderband, der Mensch steht fast nur daneben. Beim Josef-Brot dauert derselbe Weg fünf bis sechs Tage.",
+   "quote_clean": "Dieser Prozess dauert in der Industrie bei einem Brot 180 Minuten. In 180 Minuten hast du das Brot hergestellt, inklusive Verpackung bis zur Übergabe an die Kommissionierung.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 808-811 passt (Vorteig/Poolish, 24 Stunden vor dem Hauptteig); 'Bullisch' ist erkennbar verhörtes Poolish.",
+   "stand_note": "",
+   "statement": "Ein Vorteig (Poolish) wird bei Josef Brot 24 Stunden vor dem Hauptteig angesetzt.",
+   "question": "Wie viele Stunden vor dem Hauptteig wird bei Josef Brot der Vorteig (Poolish) angesetzt?",
+   "answer": "24 Stunden",
+   "distractors": [
+    "2 Stunden",
+    "8 Stunden",
+    "72 Stunden"
+   ],
+   "aha": "Ein ganzer Tag Vorlauf, bevor überhaupt der eigentliche Teig gemischt wird. Der Vorteig bringt Aroma und hat Zeit zu verquellen, das hilft beim späteren Mischen. Geduld schmeckt man eben.",
+   "quote_clean": "Die eine Vorstufe ist ein Vorteig, auch Poolish genannt. Das ist ein Teig, der 24 Stunden, bevor der Hauptteig gemischt wird, hergestellt wird.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Beleg bei 518-524 passt, ist aber eine pauschale Einschätzung von Josef; Aha behauptete ein Scheitern des Plans, das im Ausschnitt nicht belegt ist.",
+   "stand_note": "Stand 2021",
+   "statement": "Laut Josef Weghaupt haben Österreichs Bäckereien große Überkapazitäten: Viele produzieren nur sechs bis acht Stunden am Tag, wenn überhaupt.",
+   "question": "Wie lange laufen viele Bäckereien in Österreich laut Josef Weghaupt pro Tag?",
+   "answer": "Nur sechs bis acht Stunden",
+   "distractors": [
+    "Rund um die Uhr",
+    "Zwölf bis vierzehn Stunden",
+    "Nur zwei bis drei Stunden"
+   ],
+   "aha": "Die Öfen stehen also einen Großteil des Tages still. Genau das wollte Josef 2009 nutzen: Er wollte sein Brot in fremden Bäckereien herstellen lassen und selbst Vertrieb und Marketing übernehmen.",
+   "quote_clean": "Es gibt in Österreich nach wie vor wahnsinnige Überproduktionskapazitäten. Das heißt, Bäckereien produzieren sechs, acht Stunden, wenn überhaupt.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Zeitangabe ist ausdrücklich 'meiner Ansicht nach' und vage (50 bis 70 Jahre); inhaltlich von Kandidat 5 und 6 abgedeckt.",
+   "stand_note": "",
+   "statement": "Laut Josef Weghaupt ging das traditionelle Bäckerhandwerk vor 50 bis 70 Jahren verloren, als die Backmittelindustrie aufkam.",
+   "question": "Was hat laut Josef Weghaupt vor 50 bis 70 Jahren das traditionelle Bäckerhandwerk verdrängt?",
+   "answer": "Die Backmittelindustrie",
+   "distractors": [
+    "Die Einführung des Elektroofens",
+    "Der Import von Weizen aus Übersee",
+    "Das Verbot der Nachtarbeit"
+   ],
+   "aha": "Fertigmischungen haben das Backen schneller und einfacher gemacht. Der Preis dafür: Sortenvielfalt und das Wissen über Sauerteig sind verloren gegangen.",
+   "quote_clean": "Und das ist dann irgendwann in Vergessenheit geraten, meiner Ansicht nach vor 70 bis 50 Jahren. Da ist was passiert. Und was ist da passiert? Da ist die Backmittelindustrie gekommen.",
+   "quality": 2
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2502-2514 passt; Sackerl-Mischung mit Wasser, schneller und einfacher.",
+   "stand_note": "",
+   "statement": "Die Backmittelindustrie verkaufte Bäckern fertige Mischungen im Sackerl, zu denen man nur noch Wasser geben muss.",
+   "question": "Womit hat die Backmittelindustrie laut Josef Weghaupt die Bäckereien erobert?",
+   "answer": "Fertigmischungen: Sackerl auf, Wasser dazu",
+   "distractors": [
+    "Billigere Öfen auf Ratenzahlung",
+    "Gratis-Lieferwagen für Bäcker",
+    "Neue Getreidesorten aus dem Labor"
+   ],
+   "aha": "Das Versprechen: schneller und einfacher. Hat ja auch funktioniert, nur schmeckt das Brot dann überall gleich, sagt Josef. Und Vielfalt, Handwerk und das Wissen über Sauerteig gehen dabei verloren.",
+   "quote_clean": "Die haben gesagt: Du hast ein Sackerl. Du greifst in das Sackerl, gibst Wasser dazu und es kommt ein Produkt raus. So haben die gestartet. Die haben dem Bäcker gesagt, du kannst es schneller und einfacher machen.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2553-2580 passt; Josef nennt Nachtarbeit ausdrücklich als einen von mehreren Faktoren, Frage ist entsprechend formuliert.",
+   "stand_note": "",
+   "statement": "Backmittel verbreiteten sich auch, weil immer weniger Menschen nachts in der Backstube arbeiten wollten: Fertigmischungen ersparten die Nachtarbeit.",
+   "question": "Welches Versprechen machte Backmittel für Bäcker laut Josef Weghaupt so attraktiv?",
+   "answer": "Keine Nachtarbeit mehr",
+   "distractors": [
+    "Doppelt so lange Haltbarkeit",
+    "Halb so viel Mehlverbrauch",
+    "Keine Hygienekontrollen mehr"
+   ],
+   "aha": "Sauerteig braucht Zeit und Aufmerksamkeit, oft mitten in der Nacht. Als sich die Leute die Nachtarbeit nicht mehr gefallen ließen, kam die Industrie mit der Abkürzung. Josef sagt aber auch: Es gab mehrere Gründe, nicht nur einen.",
+   "quote_clean": "Die haben gesagt, ich will nicht in der Nacht arbeiten, ich will nicht ausgebeutet werden. Der Beruf ist auch körperlich wahnsinnig anstrengend. Da gibt es immer mehrere Faktoren. Aber das hat die Backmittelindustrie gespürt und gesagt: Hör zu, dann brauchst du nicht mehr in der Nacht arbeiten.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "veraltet",
+    "spielbarkeit"
+   ],
+   "note": "Preise sind eine undatierte, illustrative Erzählung zu einem Markenprodukt (Kornspitz), nicht als Weckerl-Fakt belegt; Statement nennt fälschlich 'Vollkornweckerl'; Distraktor 52 Cent ist kaum von 56 unterscheidbar.",
+   "stand_note": "",
+   "statement": "Im Handel kostete ein industriell gebackenes Vollkornweckerl etwa 30 Cent, beim Bäcker 56 Cent – das trieb viele Bäckereien in den Ruin.",
+   "question": "Wie viel Cent kostete laut Josef Weghaupt ein industrielles Weckerl im Handel, wenn der Bäcker 56 Cent verlangte?",
+   "answer": "30 Cent",
+   "distractors": [
+    "15 Cent",
+    "45 Cent",
+    "52 Cent"
+   ],
+   "aha": "Fast halb so viel für ein Gebäck, das gleich aussieht.",
+   "quote_clean": "Der Kunde ist dann dorthin gegangen und hat gesagt, ich kaufe den K-Spitz um 30 Cent, weil der Bäcker 56 Cent verlangt. Und somit sind die Bäcker dann alle gestorben.",
+   "quality": 1
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1233-1275 passt, aber es geht um Josefs sehr festen Sauerteig; die Frage war zu pauschal ('keinen festen Sauerteig').",
+   "stand_note": "",
+   "statement": "Josefs sehr fester Sauerteig lässt sich nicht maschinell verarbeiten, weil Industriebäckereien mit Flüssigsauerteig aus Tanks arbeiten, der pumpfähig sein muss.",
+   "question": "Warum lässt sich Josefs sehr fester Sauerteig laut Josef Weghaupt nicht industriell verarbeiten?",
+   "answer": "Die Industrie braucht pumpfähigen Sauerteig",
+   "distractors": [
+    "Fester Sauerteig ist in Fabriken verboten",
+    "Fester Sauerteig verdirbt dort zu schnell",
+    "Fester Sauerteig verbrennt im Industrieofen"
+   ],
+   "aha": "In der Fabrik läuft alles über Leitungen und Tanks, da greift niemand mit der Hand in eine Schale. Also muss der Sauerteig flüssig sein. Josefs harter Sauerteig mit relativ wenig Wasser ist damit automatisch Handarbeit.",
+   "quote_clean": "Die Industrie hat Flüssigsauerteig-Tanks. Das heißt, er muss pumpfähig sein, damit es maschinell funktioniert. Da stellt sich keiner hin und holt den Sauerteig aus der Schale raus.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Distraktoren sind nicht eindeutig falsch (Salz und kaltes Wasser bremsen Enzyme ebenfalls); im Ausschnitt nur Josefs knappe Aussage, die Erklärung im Aha geht darüber hinaus.",
+   "stand_note": "",
+   "statement": "Je höher der Vollkornanteil im Teig, desto stärker sind die Enzyme aktiv – Sauerteig kann diese Aktivität bremsen.",
+   "question": "Was bremst laut Josef Weghaupt die starke Enzymaktivität in einem Teig mit viel Vollkorn?",
+   "answer": "Der Sauerteig",
+   "distractors": [
+    "Mehr Salz im Teig",
+    "Kaltes Wasser",
+    "Längeres Kneten"
+   ],
+   "aha": "Im ganzen Korn stecken mehr Enzyme. Der Sauerteig kann sie wieder bremsen.",
+   "quote_clean": "Je mehr Vollkornanteil drinnen ist, desto enzymatischer wird es. Das geht richtig ab, da passiert was. Mit dem Sauerteig kann ich das wieder hemmen.",
+   "quality": 2
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1181-1205 passt: Josef schildert seine frühere Arbeit in der Industrie (Pitch, billigster gewinnt).",
+   "stand_note": "Stand 2021",
+   "statement": "Supermärkte lassen laut Josef Weghaupt mehrere Industriebäcker ein Produkt nachbauen und vergeben den Auftrag an den billigsten.",
+   "question": "Wie vergibt der Lebensmittelhandel laut Josef Weghaupt Aufträge an Industriebäcker?",
+   "answer": "Wer das Produkt am billigsten kopiert, gewinnt",
+   "distractors": [
+    "Wer das älteste Rezept hat, gewinnt",
+    "Die Kundschaft stimmt per App ab",
+    "Es wird jedes Jahr ausgelost"
+   ],
+   "aha": "Josef kennt das von innen: Produkte kopieren und nachbauen war eine seiner Hauptaufgaben in der Industrie. Darum hat er sein eigenes Brot von Anfang an so gebaut, dass es keine Maschine nachmachen kann.",
+   "quote_clean": "Das heißt, du gehst zum Kunden, dem Lebensmittelhandel, und pitchst. Der lädt drei Industriebäcker ein und sagt: Das ist das Produkt, das ich haben möchte. Und wer es mir billiger machen kann, kriegt den Job.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 3092-3103 passt; es ist eine klar gekennzeichnete Meinung Josefs, daher Frage auf seine Aussage ('Verantwortung nicht wahrgenommen') beschränken; 'Billigbrot' hat er nicht gesagt.",
+   "stand_note": "",
+   "statement": "Josef Weghaupt meint, nicht die Industrie sei schuld am System, sondern der Handel habe seine Verantwortung nicht wahrgenommen.",
+   "question": "Wer hat laut Josef Weghaupt seine Verantwortung im Brotsystem nicht wahrgenommen?",
+   "answer": "Der Lebensmittelhandel",
+   "distractors": [
+    "Die Industriebäcker",
+    "Die Konsument:innen",
+    "Die Bauern"
+   ],
+   "aha": "Viele Industriebäcker stehen laut Josef mit dem Rücken zur Wand: Sie müssen liefern, was der Handel verlangt. Das ist seine Einschätzung, und sie kommt von jemandem, der selbst lange in der Brotindustrie gearbeitet hat.",
+   "quote_clean": "Ich möchte aber auch ganz klar sagen: Ich glaube nicht, dass die Industrie schuld ist an diesem System, sondern der Handel hat seine Verantwortung nicht wahrgenommen und nimmt sie bis heute nicht wahr.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Zuordnungsfrage 'Wer sagt das?' bei nur einem Gast; Distraktoren trivial, kein Erkenntnisgewinn.",
+   "stand_note": "",
+   "statement": "Josef Weghaupt meint, das Falten von Brotteig sei Gefühlssache: Manche Laien können es sofort, viele gelernte Bäcker nicht.",
+   "question": "Wer sagt: „Du hast einfach ein Feeling in den Fingern. Es gibt viele Bäcker, die es nicht spüren.“?",
+   "answer": "Josef Weghaupt",
+   "distractors": [
+    "Andreas Sator",
+    "Helmut Gragger",
+    "Thomas Pauli"
+   ],
+   "aha": "Beim Brotfalten zählt Gespür mehr als der Lehrbrief.",
+   "quote_clean": "Das ist kein Scherz, du musst das spüren. Ich kann mich mit dir hinstellen, du hast keine Ahnung vom Brot und du kannst das. Du hast einfach ein Feeling in den Fingern. Es gibt viele Bäcker, die es nicht spüren.",
+   "quality": 1
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1767-1771 passt; harmlose Anekdote, eindeutige Antwort.",
+   "stand_note": "Stand 2021",
+   "statement": "Ein Frühstück bei Josef Brot heißt „Little English“ – Josef wollte es eigentlich „Little Britain“ nennen.",
+   "question": "Wie wollte Josef Weghaupt sein Frühstück „Little English“ ursprünglich nennen?",
+   "answer": "Little Britain",
+   "distractors": [
+    "Big Ben Breakfast",
+    "English Rose",
+    "Full Josef"
+   ],
+   "aha": "Little Britain hat er nicht durchgebracht, geworden ist es Little English. Mit Wurst und Speck von einem kleinen Produzenten, der sich kein Bio-Siegel leisten kann.",
+   "quote_clean": "Wir haben zum Beispiel ein Frühstück auf der Karte, das heißt Little English. Ich wollte Little Britain, aber das habe ich leider nicht durchgekriegt.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsbeginn, kein Wissen und kein Aha-Moment.",
+   "stand_note": "",
+   "statement": "Andreas beginnt das Gespräch, indem er den Gast bittet, sich kurz vorzustellen.",
+   "question": "Womit startet Andreas das Gespräch mit Josef Weghaupt?",
+   "answer": "Er bittet ihn, sich kurz vorzustellen",
+   "distractors": [
+    "Er fragt nach seinem Lieblingsbrot",
+    "Er fragt nach dem Brotpreis",
+    "Er erzählt von seinem Einkauf"
+   ],
+   "aha": "Der klassische EMDW-Einstieg.",
+   "quote_clean": "Hallo, lieber Josef, schön, dass du da bist. Magst du dich zu Beginn bitte kurz vorstellen?",
+   "quality": 1
+  }
+ ],
+ "id": "175",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

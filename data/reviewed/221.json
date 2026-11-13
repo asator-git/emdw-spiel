@@ -1,0 +1,278 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1704 eindeutig, Zahl plausibel und im Kontext klar.",
+   "stand_note": "Stand 2022",
+   "statement": "Im Niger gab es 2022 im ganzen Land nur vier Psychiater.",
+   "question": "Wie viele Psychiater gab es 2022 im ganzen Niger?",
+   "answer": "4",
+   "distractors": [
+    "40",
+    "120",
+    "15"
+   ],
+   "aha": "Vier. Für ein Land mit rund 24 Millionen Menschen. Psychiatrie kann man im Niger kaum studieren, und viele psychische Krankheiten gelten dort gar nicht als Krankheit – deshalb bildet der UNHCR selbst Psycholog:innen für Traumata aus.",
+   "quote_clean": "Es gibt zum Beispiel im ganzen Land hier nur vier Psychiater, man kann es fast gar nicht studieren.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Von ihr selbst als „irgendwo gelesen“ eingeführt, deckt sich aber mit gängigen Angaben (ca. 80 % Sahara/Wüste).",
+   "stand_note": "",
+   "statement": "Rund 80 Prozent der Fläche des Niger sind Wüste und kaum bewohnbar.",
+   "question": "Wie viel Prozent der Fläche des Niger sind Wüste?",
+   "answer": "Rund 80 Prozent",
+   "distractors": [
+    "Rund 30 Prozent",
+    "Rund 50 Prozent",
+    "Rund 95 Prozent"
+   ],
+   "aha": "Der Niger liegt in der Sahelzone und reicht weit in die Sahara hinein. Gelebt wird vor allem im schmalen Süden, entlang des Flusses Niger – Städte gibt es nur ganz wenige.",
+   "quote_clean": "dass es auf 80 Prozent des gesamten Landes gar nicht möglich ist zu leben, weil es einfach Wüste ist.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Zahl stimmt im Transkript, bezieht sich aber auf die Flüchtlinge „hier“ in der Region; das muss in Frage und Aussage stehen.",
+   "stand_note": "Stand 2022",
+   "statement": "Laut Bettina Schulte können nur etwa 1 bis 2 Prozent der Flüchtlinge in der Region, in der sie arbeitet, offiziell in Drittstaaten wie Europa oder Kanada umgesiedelt werden.",
+   "question": "Für wie viel Prozent der Flüchtlinge in Bettina Schultes Einsatzregion ist eine offizielle Übersiedlung nach Europa oder Kanada (Resettlement) möglich?",
+   "answer": "1 bis 2 Prozent",
+   "distractors": [
+    "10 bis 12 Prozent",
+    "5 bis 6 Prozent",
+    "20 bis 25 Prozent"
+   ],
+   "aha": "Resettlement ist die absolute Ausnahme. Die allermeisten bleiben in der Region – und damit in Ländern, die selbst wenig haben und für Schulen, Kliniken und Ackerland aufkommen müssen.",
+   "quote_clean": "Das Resettlement-Programm, also die Übersiedlung in Drittstaaten, nach Europa oder Kanada, ist nur für ungefähr 1 bis 2 Prozent aller Flüchtlinge hier möglich.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Von ihr mit „ich glaube“ eingeschränkt; offiziell hat der Niger rund 10 Nationalsprachen, der Distraktor „Rund 10“ ist also nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Im Niger werden über 20 lokale Sprachen gesprochen, Verwaltungssprache ist Französisch.",
+   "question": "Wie viele nationale, lokale Sprachen gibt es ungefähr im Niger?",
+   "answer": "Über 20",
+   "distractors": [
+    "Rund 5",
+    "Über 100",
+    "Rund 10"
+   ],
+   "aha": "",
+   "quote_clean": "Die Menschen sprechen hier über 20 nationale, lokale Sprachen. Die Verwaltungssprache ist Französisch.",
+   "quality": 1
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 509-521 klar belegt; Aussage als Haltung der Regierung formuliert, Distraktoren eindeutig falsch.",
+   "stand_note": "Stand 2022",
+   "statement": "Der Niger verzichtet weitgehend auf Flüchtlingscamps und bringt Geflüchtete in bestehenden Dörfern unter.",
+   "question": "Wie bringt der Niger die meisten Flüchtlinge unter?",
+   "answer": "In bestehenden Dörfern",
+   "distractors": [
+    "In großen Zeltlagern",
+    "In Camps an der Grenze",
+    "In Sammelquartieren der Hauptstadt"
+   ],
+   "aha": "Camps wären für Hilfsorganisationen eigentlich einfacher zu planen. Die Regierung wollte aber, dass die Menschen nicht abgeschirmt, sondern integriert werden – im Nachbarland Tschad gibt es dagegen noch etliche Camps.",
+   "quote_clean": "Aber die nigrische Regierung hat, mit Unterstützung vom UNHCR, gesagt: Nein, wir wollen keine Flüchtlingscamps. Wir wollen, dass die Flüchtlinge integriert werden.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 899-912 belegt, verständlich; „oft“ in der Antwort ist angemessen.",
+   "stand_note": "",
+   "statement": "Die meisten Flüchtlinge im Niger sprechen dieselbe Sprache wie die Menschen in den Dörfern, die sie aufnehmen, und gehören teils derselben Volksgruppe an.",
+   "question": "Warum klappt die Integration von Flüchtlingen im Niger relativ leicht?",
+   "answer": "Sie sprechen oft dieselbe Sprache",
+   "distractors": [
+    "Sie bekommen hohe Sozialhilfe",
+    "Sie müssen Sprachkurse besuchen",
+    "Sie leben getrennt in Camps"
+   ],
+   "aha": "Die Grenzen in Westafrika wurden irgendwann mal gezogen, die Menschen links und rechts davon sind oft dieselbe Gemeinschaft. Darum reden die Leute im Niger von Brüdern und Schwestern – viele heiraten auch untereinander.",
+   "quote_clean": "dass die meisten Flüchtlinge, die kommen, die gleiche Sprache sprechen wie die Menschen in den Dörfern, wo sie unterkommen. Sie sind zum Teil wirklich von der gleichen ethnischen Gruppe.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Inhaltlich fast identisch mit Kandidat 7; Distraktor „Sie sind alle verwandt“ ist nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Viele Grenzen in Westafrika trennen Menschen derselben Volksgruppe, weshalb Flüchtlinge im Niger als „Brüder und Schwestern“ gelten.",
+   "question": "Warum nennen viele Menschen im Niger die Flüchtlinge aus den Nachbarländern „Brüder und Schwestern“?",
+   "answer": "Grenzen trennten dieselben Volksgruppen",
+   "distractors": [
+    "Sie sind alle verwandt",
+    "Es ist ein religiöser Brauch",
+    "Die Regierung schreibt es vor"
+   ],
+   "aha": "",
+   "quote_clean": "Und das ist das, was ich meinte mit unseren Brüdern und Schwestern: Da wurden halt irgendwann mal irgendwelche Grenzen gezogen.",
+   "quality": 2
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "Beleg bei 969-1001 ok („auf dem Papier“, Praxis schwierig). Aha-Vergleich mit Österreich ist wertend und nicht im Ausschnitt belegt; neu formuliert.",
+   "stand_note": "Stand 2022",
+   "statement": "Im Niger haben Flüchtlinge per Gesetz denselben Zugang zu Gesundheit, Bildung und Arbeitsmarkt wie alle anderen.",
+   "question": "Dürfen Flüchtlinge im Niger laut Gesetz arbeiten?",
+   "answer": "Ja, wie alle anderen auch",
+   "distractors": [
+    "Nein, erst nach dem Asylbescheid",
+    "Nur in Flüchtlingscamps",
+    "Nur mit Sondergenehmigung"
+   ],
+   "aha": "So steht es im Gesetz: Flüchtlinge dürfen zum Arzt, in die Schule und sich um einen Job bemühen. In der Praxis ist es trotzdem schwer, denn in einem der ärmsten Länder der Welt haben auch viele Einheimische keine Arbeit.",
+   "quote_clean": "Dann gibt es ein Gesetz hier im Niger, das besagt, dass alle Menschen Zugang zur Gesundheitsversorgung, zur Bildung und zum Arbeitsmarkt haben sollten, unabhängig davon, ob man Flüchtling ist oder nicht.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1376-1409 belegt; Motiv (Neid vermeiden) ist ihre eigene Erklärung, Beispiele im Aha stimmen mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Hilfsorganisationen unterstützen bewusst auch die einheimische Bevölkerung, damit kein Neid auf die Flüchtlinge entsteht.",
+   "question": "Warum hilft der UNHCR im Niger auch der einheimischen Bevölkerung?",
+   "answer": "Damit kein Neid entsteht",
+   "distractors": [
+    "Weil es Spender:innen verlangen",
+    "Weil Einheimische Steuern zahlen",
+    "Damit Flüchtlinge schneller heimkehren"
+   ],
+   "aha": "Wenn der Neuankömmling ein Haus und Essen bekommt und der Nachbar nichts, gibt es schnell Spannungen. Darum werden zum Beispiel Steine für Häuser gemeinsam produziert und Gemüsegärten gemeinsam bewirtschaftet.",
+   "quote_clean": "Was wichtig ist bei unserer Arbeit: dass wir nicht nur den Flüchtlingen helfen, weil sonst die lokale Bevölkerung sieht: Oh, jetzt hat der hier aus Nigeria ein Haus gekriegt.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1533-1550 und 1644 belegt, „zumindest früher“ ist in der Frage mit „ursprünglich“ abgedeckt.",
+   "stand_note": "",
+   "statement": "Humanitäre Hilfe war ursprünglich als kurzfristige Nothilfe gedacht; weil Krisen heute oft lange dauern, plant der UNHCR zunehmend langfristig.",
+   "question": "Wofür war humanitäre Hilfe ursprünglich gedacht?",
+   "answer": "Für kurzfristige Nothilfe",
+   "distractors": [
+    "Für langfristigen Wirtschaftsaufbau",
+    "Für den Bau von Infrastruktur",
+    "Für politische Vermittlung"
+   ],
+   "aha": "Dach, Wasser, Schutz – und dann wieder weg, so war der Plan. Weil sich aber Konflikte, Klimawandel und Ressourcenknappheit überlagern, bleiben viele Menschen jahrelang. Deshalb denkt der UNHCR heute langfristiger.",
+   "quote_clean": "Bei der humanitären Hilfe war früher immer die Idee, dass es nicht so lange dauern wird. Es geht erstmal darum: Die Menschen brauchen ein Dach über dem Kopf, sie brauchen sauberes Trinkwasser.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage mit nur zwei realen Sprecher:innen; Inhalt verrät die Antwort, kein Erkenntnisgewinn. Aha enthält zudem Unbelegtes (UNO seit 2008).",
+   "stand_note": "",
+   "statement": "Bettina Schulte wünscht sich, dass Europäer:innen verstehen, dass nicht jeder Mensch in Afrika nach Europa will.",
+   "question": "Wer hat's gesagt: „… dass nicht einfach jeder auf diesem Kontinent unbedingt nach Europa kommen möchte“?",
+   "answer": "Bettina Schulte",
+   "distractors": [
+    "Andreas Sator",
+    "Eine EU-Kommissarin",
+    "Ein nigrischer Minister"
+   ],
+   "aha": "",
+   "quote_clean": "Aber ich würde mir manchmal schon wünschen, dass vielen Menschen klar ist, dass nicht einfach jeder auf diesem Kontinent unbedingt nach Europa kommen möchte.",
+   "quality": 1
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitatfrage ohne Rätselwert: Distraktoren („Ein Arzt ohne Grenzen“, „Eine Klimaforscherin“) sind offensichtlich unpassend.",
+   "stand_note": "",
+   "statement": "Bettina Schulte erzählt von dunklen Momenten in ihrer Arbeit, die sich auflösen, wenn sie in die Dörfer kommt.",
+   "question": "Wer hat's gesagt: „Es gibt so diese dunklen Momente, wo ich denke, oh Mann, die Welt ist einfach zu schlimm“?",
+   "answer": "Bettina Schulte",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Arzt ohne Grenzen",
+    "Eine Klimaforscherin"
+   ],
+   "aha": "",
+   "quote_clean": "Es gibt so diese dunklen Momente, wo ich denke: Oh Mann, die Welt ist einfach zu schlimm. Aber dann wiederum, gerade wenn man die Möglichkeit hat, aus der Hauptstadt rauszukommen und in die Dörfer zu gehen.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitatfrage ohne Rätselwert, Antwort ergibt sich aus dem Gast-Setting; Distraktoren schwach.",
+   "stand_note": "",
+   "statement": "UN-Organisationen wie UNHCR, Welternährungsprogramm und UNICEF teilen sich Aufgaben, weil keine allein alles stemmen kann.",
+   "question": "Wer hat's gesagt: „… dass keine Organisation das alleine stemmen kann“?",
+   "answer": "Bettina Schulte",
+   "distractors": [
+    "Andreas Sator",
+    "Ein UNICEF-Sprecher",
+    "Eine österreichische Ministerin"
+   ],
+   "aha": "",
+   "quote_clean": "Was auch wichtig ist: Keine Organisation kann das alleine stemmen, gerade wenn die Finanzierung eng wird.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Fragt nach dem Wortlaut einer Moderationsfloskel, kein Wissen oder Aha; Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Andreas fasst am Ende der Folge mit „Was nehme ich mir mit?“ seine wichtigsten Erkenntnisse zusammen.",
+   "question": "Mit welcher Frage leitet Andreas am Ende der Folge seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir gelernt?",
+    "Was bleibt am Ende?",
+    "Was heißt das für uns?"
+   ],
+   "aha": "",
+   "quote_clean": "Was nehme ich mir mit? Die meisten Flüchtlinge auf der Welt kommen nicht nach Europa.",
+   "quality": 1
+  }
+ ],
+ "id": "221",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

@@ -1,0 +1,278 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "500 Jahre Kolonialismus im Transkript belegt, als Ulrichs Einschätzung gerahmt.",
+   "stand_note": "",
+   "statement": "Laut Bernd Ulrich geht gerade eine rund 500 Jahre lange Epoche des europäischen Kolonialismus zu Ende.",
+   "question": "Wie viele Jahre Kolonialismus gehen laut Bernd Ulrich gerade zu Ende?",
+   "answer": "500 Jahre",
+   "distractors": [
+    "200 Jahre",
+    "300 Jahre",
+    "800 Jahre"
+   ],
+   "aha": "Die Rechnung beginnt grob um 1500, als europäische Seefahrer anfingen, sich die Welt aufzuteilen. Für Bernd ist das, was wir gerade erleben, deshalb kein Wackler, sondern ein epochaler Umbruch.",
+   "quote_clean": "Das heißt, 500 Jahre Kolonialismus gehen zu Ende oder 100 Jahre amerikanisch-westliche Dominanz.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "1917 bis 2017 klar belegt, durch Kontext (Kriegseintritt der USA) plausibel.",
+   "stand_note": "",
+   "statement": "Bernd Ulrich datiert das Jahrhundert amerikanischer Übermacht auf die Jahre 1917 bis 2017.",
+   "question": "Mit welchem Jahr lässt Bernd Ulrich das Jahrhundert der amerikanischen Übermacht beginnen?",
+   "answer": "1917",
+   "distractors": [
+    "1865",
+    "1945",
+    "1898"
+   ],
+   "aha": "1917 sind die USA in den Ersten Weltkrieg eingestiegen und damit endgültig auf die Weltbühne getreten. Genau 100 Jahre später, 2017, zog Trump ins Weiße Haus. Ein ziemlich runder Bogen.",
+   "quote_clean": "Die Chinesen werden niemals eine solche ökonomische und militärische Übermacht haben, wie die Amerikaner sie zwischen 1917 und 2017 hatten.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Ulrich sagt „exakt dasselbe BIP“, 2018 ungefähr zutreffend (EU damals inkl. Großbritannien); heute wäre die EU deutlich kleiner.",
+   "stand_note": "Stand 2018, EU damals mit Großbritannien",
+   "statement": "Die USA und die EU hatten 2018 eine ungefähr gleich große Wirtschaftsleistung.",
+   "question": "Wie verhielt sich 2018 laut Bernd Ulrich das Bruttoinlandsprodukt der USA zu dem der EU?",
+   "answer": "Ungefähr gleich groß",
+   "distractors": [
+    "Doppelt so groß",
+    "Halb so groß",
+    "Dreimal so groß"
+   ],
+   "aha": "Für Bernd ist das das Argument, warum Europa mehr für die eigene Sicherheit tun muss. Wären die USA doppelt so reich, könnte man sich das schönreden, aber so gibt es keinen Grund, dass Washington die Rechnung zahlt.",
+   "quote_clean": "Warum soll ein Land wie die USA mit exakt demselben Bruttoinlandsprodukt wie die EU für unsere Sicherheit aufkommen?",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Japan belegt; aha behauptete „weiter im Osten als fast alles andere“, das stimmt so nicht, korrigiert.",
+   "stand_note": "",
+   "statement": "Zum politischen Westen zählt man je nach Rechnung auch Japan und Australien, obwohl sie geografisch weit weg liegen.",
+   "question": "Welches asiatische Land wird je nach Rechnung auch zum politischen Westen gezählt?",
+   "answer": "Japan",
+   "distractors": [
+    "China",
+    "Indien",
+    "Indonesien"
+   ],
+   "aha": "Der Westen ist eher ein Klub als eine Himmelsrichtung: reich, demokratisch, verbunden über Werte und Bündnisse. Darum kann Japan dazugezählt werden, obwohl es ganz im Osten liegt.",
+   "quote_clean": "Vielleicht auch noch, je nach Rechnung, Japan, obwohl es sehr weit im Osten liegt, oder auch Australien, obwohl es sehr weit im Süden liegt.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt; Nordatlantik ist ein Ozean, kein Meer, Frage und Distraktoren angepasst.",
+   "stand_note": "",
+   "statement": "Mit dem Westen meint man traditionell die Staaten rund um den Nordatlantik: USA, Kanada und die EU-Staaten.",
+   "question": "Um welchen Ozean scharen sich die Staaten, die traditionell als „der Westen“ gelten?",
+   "answer": "Den Nordatlantik",
+   "distractors": [
+    "Den Pazifik",
+    "Den Indischen Ozean",
+    "Den Südatlantik"
+   ],
+   "aha": "Das Bündnis, das den Westen lange zusammengehalten hat, trägt den Ozean sogar im Namen: die NATO, North Atlantic Treaty Organization. Dazu kamen gemeinsame Werte: reich, demokratisch, westlich.",
+   "quote_clean": "Der Westen gilt traditionell als die Staaten, die sich im Prinzip um den Atlantik scharen, um den Nordatlantik, also USA, Kanada und die EU-Staaten.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt; Sweeping-Aussage („von allen anderen Ländern“) ist Ulrichs Sicht, entsprechend gerahmt; quote_clean als ganzer Satz.",
+   "stand_note": "",
+   "statement": "Laut Bernd Ulrich erzählen die Deutschen ihre Nationalgeschichte nicht nur als Helden- und Opfergeschichte, sondern auch als Geschichte von Schuld und Sühne.",
+   "question": "Wie erzählen die Deutschen laut Bernd Ulrich ihre Nationalgeschichte anders als andere Länder?",
+   "answer": "Auch als Geschichte von Schuld",
+   "distractors": [
+    "Nur als Heldengeschichte",
+    "Vor allem als Opfergeschichte",
+    "Als reine Erfolgsgeschichte"
+   ],
+   "aha": "Bernd sagt ausdrücklich: die Deutschen, nicht die Österreicher. Aus seiner Sicht haben sie gelernt, Schuld einzugestehen und trotzdem selbstbewusst zu bleiben, und genau das muss jetzt der ganze Westen lernen.",
+   "quote_clean": "Die Deutschen erzählen ihre eigene Nationalgeschichte nicht nur als Helden- und Opfergeschichte, sondern auch als eine Geschichte von Schuld, Verantwortung, Läuterung, Sühne.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitat-Zuordnung zum Studiogast ist trivial.",
+   "stand_note": "",
+   "statement": "Der Westen kann laut Bernd Ulrich nicht mehr allein bestimmen, was in der Globalisierung hinaus- und hereinkommt.",
+   "question": "Wer hat's gesagt: „Wir sind nicht mehr die Herren der Globalisierung“?",
+   "answer": "Bernd Ulrich",
+   "distractors": [
+    "Andreas Sator",
+    "Emmanuel Macron",
+    "Angela Merkel"
+   ],
+   "aha": "",
+   "quote_clean": "Wir sind nicht mehr die Herren der Globalisierung. Wir können nicht mehr entscheiden, was wir exportieren und was reinkommt.",
+   "quality": 2
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat und Sinn belegt (Deutschland nur als Teil der EU wirksam).",
+   "stand_note": "",
+   "statement": "Deutschland kann laut Bernd Ulrich nur als Teil der EU Wirkung entfalten, nicht mit nationalen Alleingängen.",
+   "question": "Was passiert laut Bernd Ulrich, wenn Deutschland seine nationale Macht ausspielt?",
+   "answer": "Es hat sie schon verloren",
+   "distractors": [
+    "Es führt Europa an",
+    "Es wird zur Weltmacht",
+    "Es stärkt die EU"
+   ],
+   "aha": "Bernd sieht Deutschland nur als Teil der EU wirksam. Wer seine relative Macht in Europa zu sehr betont, verspielt sie, und das führt laut ihm zu nichts Gutem.",
+   "quote_clean": "In dem Moment, wo Deutschland seine nationale Macht ausspielt, hat es sie schon verloren.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Öl gegen Sicherheit belegt; Distraktor „Waffen gegen Geld“ ist real mitschwingend, ersetzt.",
+   "stand_note": "",
+   "statement": "Laut Bernd Ulrich beruht die enge Partnerschaft von USA und Saudi-Arabien auf einem Tauschgeschäft: Öl gegen Sicherheit für das Königshaus.",
+   "question": "Worauf beruht laut Bernd Ulrich die enge Partnerschaft zwischen den USA und Saudi-Arabien?",
+   "answer": "Öl gegen Sicherheit",
+   "distractors": [
+    "Getreide gegen Waffen",
+    "Getreide gegen Öl",
+    "Technik gegen Gas"
+   ],
+   "aha": "Die Vereinbarung zwischen dem saudischen Königshaus, den USA und vor allem den Ölfirmen hat sich über Jahrzehnte aus Sicht der Beteiligten bewährt. Der Preis dafür war laut Bernd aber hoch.",
+   "quote_clean": "Die einen liefern das Öl und die anderen liefern die Sicherheit für die saudische Herrscherfamilie.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Aussage zu Denkpfaden belegt, Kontext (Öl im Mittleren Osten) in der Frage enthalten.",
+   "stand_note": "",
+   "statement": "Politik, die aus einem bestimmten Interesse entstanden ist, lebt oft Jahrzehnte weiter, auch wenn das ursprüngliche Interesse schon verschwunden ist.",
+   "question": "Warum macht der Westen laut Bernd Ulrich im Mittleren Osten weiter Öl-Politik, obwohl das Öl für die USA weniger wichtig ist?",
+   "answer": "Denkgewohnheiten überleben ihren Ursprung",
+   "distractors": [
+    "Die Verträge laufen weiter",
+    "Die Ölpreise steigen wieder",
+    "Die Wähler verlangen es"
+   ],
+   "aha": "Politik ist träge: Aus alten Interessen werden Gewohnheiten und Strukturen, die einfach weiterlaufen. Darum reicht es laut Bernd nicht, zu warten, bis das Öl unwichtig wird, man muss aktiv umdenken.",
+   "quote_clean": "Die dauert noch 10, 20, 30 Jahre weiter, weil einfach Pfade entstehen, Denkpfade, Denkgewohnheiten und Strukturen, die ihren eigentlichen Ursprungsgrund überleben.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Erklärung wörtlich belegt, gut spielbar.",
+   "stand_note": "",
+   "statement": "Die kopernikanische Wende war ursprünglich die Erkenntnis, dass sich die Erde um die Sonne dreht; seither nennt man jede sehr große Umwälzung so.",
+   "question": "Was war die ursprüngliche kopernikanische Wende?",
+   "answer": "Die Erde dreht sich um die Sonne",
+   "distractors": [
+    "Die Erde ist eine Kugel",
+    "Die Sonne ist ein Stern",
+    "Der Mond dreht sich um die Erde"
+   ],
+   "aha": "Bernd wendet das Bild auf den Westen an: Seit der Flüchtlingskrise drehen sich unsere Interessen zum ersten Mal um die Menschen im Mittleren Osten und in Afrika, statt umgekehrt.",
+   "quote_clean": "Ursprünglich war die kopernikanische Wende die Erkenntnis, dass sich doch nicht die Sonne um die Erde dreht, sondern umgekehrt.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "2015 belegt und korrekt; quote_clean war ein abgebrochener Satz, als ganzer Satz formuliert.",
+   "stand_note": "",
+   "statement": "Die große Flüchtlingskrise in Europa war 2015; Bernd Ulrich sieht darin den Moment, ab dem der Westen ein eigenes Interesse daran hat, dass es den Menschen im Mittleren Osten und in Afrika gut geht.",
+   "question": "In welchem Jahr war die Flüchtlingskrise, die Bernd Ulrich als größte Erkenntnis für den Westen beschreibt?",
+   "answer": "2015",
+   "distractors": [
+    "2011",
+    "2013",
+    "2017"
+   ],
+   "aha": "Für Bernd war das die Lehre: Zum ersten Mal hat der Westen ein drängendes, materielles Interesse daran, dass es den Menschen dort so gut geht, dass sie nicht in großer Zahl herkommen.",
+   "quote_clean": "Die größte Erkenntnis war in der Flüchtlingskrise, egal wie man sie im Einzelnen bewertet, 2015: Seit es den Westen gibt, haben wir zum ersten Mal ein drängendes Interesse daran, dass es den Menschen im Mittleren Osten und in Afrika gut geht.",
+   "quality": 2
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Kaum spielbar, Distraktoren albern, Statement beschreibt nur die Gesprächssituation.",
+   "stand_note": "",
+   "statement": "Bernd Ulrich versucht, prognostisch demütig zu sein und nicht zu viele Voraussagen zu treffen.",
+   "question": "Wie beschreibt Bernd Ulrich seine Haltung zu Prognosen?",
+   "answer": "Prognostisch demütig",
+   "distractors": [
+    "Prognostisch mutig",
+    "Grundsätzlich pessimistisch",
+    "Völlig gleichgültig"
+   ],
+   "aha": "",
+   "quote_clean": "Ich versuche ja, prognostisch demütig zu sein, das heißt, nicht zu viele Voraussagen zu treffen.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächseinstieg, kein Faktenwissen.",
+   "stand_note": "",
+   "statement": "Andreas steigt mit der Frage ein, ob die Welt unübersichtlicher geworden ist.",
+   "question": "Mit welcher Frage steigt Andreas ins Gespräch über die Weltpolitik ein?",
+   "answer": "Ob die Welt unübersichtlicher geworden ist",
+   "distractors": [
+    "Ob Trump wiedergewählt wird",
+    "Ob China die USA überholt",
+    "Ob Europa zerfällt"
+   ],
+   "aha": "",
+   "quote_clean": "Bernd, täuscht das, oder ist die Welt unübersichtlicher geworden?",
+   "quality": 1
+  }
+ ],
+ "id": "13",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

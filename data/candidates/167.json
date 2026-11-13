@@ -1,0 +1,740 @@
+{
+ "theme": "Wissenschaft & Technik",
+ "summary": "Molekularbiologe Martin Moder erklärt, was Gentechnik ist, warum sie gesundheitlich unbedenklich ist und wieso die Regeln dafür oft absurd sind.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1604,
+   "speaker": "Martin Moder",
+   "quote": "Und wenn man jetzt Schädlingsvernichtungsmittel und Unkrautvernichtungsmittel zusammenfasst, ist es so, dass durch Umstieg auf Gentechnik insgesamt die Menge an verwendeten Pestiziden, was der Überbegriff ist, die Menge an verwendeten Pestiziden um mehr als 35 Prozent sinkt, wenn man auf Gentechnik umsteigt.",
+   "quote_clean": "Wenn man Schädlings- und Unkrautvernichtungsmittel zusammenfasst, sinkt durch den Umstieg auf Gentechnik insgesamt die Menge an verwendeten Pestiziden um mehr als 35 Prozent.",
+   "statement": "Wer auf gentechnisch veränderte Pflanzen umsteigt, verwendet insgesamt um mehr als 35 Prozent weniger Pestizide.",
+   "question": "Um wie viel Prozent sinkt die Menge an Pestiziden insgesamt, wenn Landwirt:innen auf Gentechnik umsteigen?",
+   "answer": "Um mehr als 35 Prozent",
+   "distractors": [
+    "Um rund 5 Prozent",
+    "Um rund 15 Prozent",
+    "Um rund 70 Prozent"
+   ],
+   "number_value": 35,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Unkrautvernichtungsmittel werden zwar eher mehr gespritzt, weil das mit herbizidresistenten Pflanzen so bequem ist. Aber Mittel gegen Fraßfeinde braucht man kaum noch, wenn der Maiszünsler an der Pflanze gar nicht mehr knabbern kann. Unterm Strich also deutlich weniger Gift am Feld.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Pestizide",
+    "Landwirtschaft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2527,
+   "speaker": "Martin Moder",
+   "quote": "Und sie machen deutlich mehr Gewinn, also um die 70 Prozent mehr Gewinn, wenn Pharma absteigen.",
+   "quote_clean": "Und sie machen deutlich mehr Gewinn, um die 70 Prozent mehr Gewinn, wenn sie umsteigen.",
+   "statement": "Landwirt:innen, die auf gentechnisch verändertes Saatgut umsteigen, machen im Schnitt um die 70 Prozent mehr Gewinn.",
+   "question": "Um wie viel Prozent steigt der Gewinn von Landwirt:innen ungefähr, wenn sie auf gentechnisch verändertes Saatgut umsteigen?",
+   "answer": "Um rund 70 Prozent",
+   "distractors": [
+    "Um rund 10 Prozent",
+    "Um rund 30 Prozent",
+    "Um rund 150 Prozent"
+   ],
+   "number_value": 70,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 200,
+   "log_scale": false,
+   "aha": "Niemand zwingt die Bauern, jedes Jahr das neue Saatgut zu kaufen, sie könnten eh wieder ihr altes anbauen. Sie tun es halt nicht, weil sich das neue so deutlich rechnet.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Einkommen",
+    "Saatgut"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 955,
+   "speaker": "Martin Moder",
+   "quote": "Das kann man machen, wenn man extrem viele Ratten pro Versuchsgruppe verwendet. Der hatte zehn Ratten pro Versuchsgruppe.",
+   "quote_clean": "Das kann man machen, wenn man extrem viele Ratten pro Versuchsgruppe verwendet. Er hatte zehn Ratten pro Versuchsgruppe.",
+   "statement": "Die berühmte, später zurückgezogene Studie, wonach Gen-Mais bei Ratten Krebs auslöse, verwendete nur zehn Ratten pro Versuchsgruppe.",
+   "question": "Wie viele Ratten pro Versuchsgruppe hatte die berühmte, später zurückgezogene Studie, wonach Gen-Mais Krebs auslöse?",
+   "answer": "Zehn",
+   "distractors": [
+    "Fünfzig",
+    "Hundert",
+    "Zweihundert"
+   ],
+   "number_value": 10,
+   "number_unit": "Ratten",
+   "slider_min": 1,
+   "slider_max": 200,
+   "log_scale": true,
+   "aha": "Bei so wenigen Tieren kann jede Statistikerin nur abwinken, zumal die verwendete Rattenart ohnehin oft spontan Tumore bekommt. Eine große, öffentlich finanzierte Wiederholung fand dann überhaupt keinen Effekt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Studien",
+    "Gesundheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 950,
+   "speaker": "Martin Moder",
+   "quote": "Man hat eine Rattenart verwendet, die eine Fifty-Fifty-Chance hat, spontan Tumore zu entwickeln.",
+   "quote_clean": "Man hat eine Rattenart verwendet, die eine Fifty-Fifty-Chance hat, spontan Tumore zu entwickeln.",
+   "statement": "In der umstrittenen Gen-Mais-Krebsstudie wurde eine Rattenart verwendet, die zu etwa 50 Prozent spontan Tumore entwickelt.",
+   "question": "Wie hoch war die Chance, dass die Ratten der umstrittenen Gen-Mais-Krebsstudie ganz von selbst Tumore bekommen?",
+   "answer": "Rund 50 Prozent",
+   "distractors": [
+    "Rund 5 Prozent",
+    "Rund 20 Prozent",
+    "Rund 90 Prozent"
+   ],
+   "number_value": 50,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Wenn die Hälfte der Tiere sowieso Tumore kriegt, siehst du mit zehn Ratten pro Gruppe nur Zufall. Genau so schauten die Daten auch aus: In manchen Käfigen hatten die Tiere mit am wenigsten Gen-Mais die meisten Tumore.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Studien",
+    "Statistik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 602,
+   "speaker": "Martin Moder",
+   "quote": "Und da hat man etwas begonnen, das man als Mutagenese-Züchtung bezeichnet. Ich glaube, es war vor allem in den 60ern sehr präsent.",
+   "quote_clean": "Da hat man etwas begonnen, das man als Mutagenese-Züchtung bezeichnet. Ich glaube, es war vor allem in den 60ern sehr präsent.",
+   "statement": "Die Mutagenese-Züchtung, bei der man Samen etwa radioaktiv bestrahlt, war vor allem in den 1960er-Jahren verbreitet.",
+   "question": "In welchem Jahrzehnt war die Mutagenese-Züchtung, also das Bestrahlen von Saatgut, besonders verbreitet?",
+   "answer": "In den 1960ern",
+   "distractors": [
+    "In den 1920ern",
+    "In den 1990ern",
+    "In den 2010ern"
+   ],
+   "number_value": 1960,
+   "number_unit": "Jahr (Jahrzehnt)",
+   "slider_min": 1900,
+   "slider_max": 2020,
+   "log_scale": false,
+   "aha": "Die Bevölkerung explodierte und man fürchtete weltweite Hungersnöte. Also wollte man den Zufall der Züchtung beschleunigen, mit Strahlung, Chemikalien oder UV-Licht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Züchtung",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 510,
+   "speaker": "Martin Moder",
+   "quote": "Und die Urform nennt man Theosinte. Das ist eigentlich eine Wildgras-Sorte. Kann jeder gerne googeln, würde man im Traum nicht auf die Idee kommen, dass daraus der Mais wurde.",
+   "quote_clean": "Die Urform nennt man Teosinte. Das ist eigentlich eine Wildgras-Sorte. Kann jeder gerne googeln, man würde im Traum nicht auf die Idee kommen, dass daraus der Mais wurde.",
+   "statement": "Die Urform des Maises ist Teosinte, ein Wildgras, das dem heutigen Mais kaum ähnelt.",
+   "question": "Aus welcher Wildpflanze ist unser heutiger Mais entstanden?",
+   "answer": "Aus dem Wildgras Teosinte",
+   "distractors": [
+    "Aus dem wilden Hafer",
+    "Aus der Hirse",
+    "Aus dem wilden Weizen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Mexiko hat man über Jahrtausende immer die Pflanzen mit etwas mehr Ausbeute weitergezüchtet. So wurde aus einem unscheinbaren Gras der Mais, auch der im Bioladen ist also ein ordentlicher Mutant.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mais",
+    "Züchtung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 718,
+   "speaker": "Martin Moder",
+   "quote": "Und hat gesehen, gut, da waren welche dabei, die haben ein glänzendes Schale gehabt, die waren länger haltbar, die waren ein bisschen größer. Und hat man gesagt, passt, die nennen wir jetzt Golden Heidegg, weil da haben wir es radioaktiv bestrahlt.",
+   "quote_clean": "Und man hat gesehen, da waren welche dabei, die hatten eine glänzende Schale, waren länger haltbar und ein bisschen größer. Und man hat gesagt, passt, die nennen wir jetzt Golden Haidegg, weil wir sie dort radioaktiv bestrahlt haben.",
+   "statement": "Die österreichische Apfelsorte Golden Haidegg entstand, indem man Nachkommen des Golden Delicious radioaktiv bestrahlte.",
+   "question": "Wie ist die österreichische Apfelsorte Golden Haidegg entstanden?",
+   "answer": "Durch radioaktive Bestrahlung",
+   "distractors": [
+    "Durch Kreuzung mit Wildäpfeln",
+    "Durch Einbau eines Bakterien-Gens",
+    "Durch Pfropfen auf Birnbäume"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Haidegg in der Steiermark hat man Golden-Delicious-Nachkommen bestrahlt und geschaut, was Brauchbares rauskommt: glänzender, größer, länger haltbar. Weil niemand weiß, welche Gene sich dabei verändert haben, gilt das nicht als Gentechnik.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Äpfel",
+    "Österreich",
+    "Züchtung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 739,
+   "speaker": "Martin Moder",
+   "quote": "In dem Moment, wo ich genetisch irgendwas zufällig verändere, was rein theoretisch auch durch Zufall einfach so auftreten könnte, solange ich nicht weiß, was ich da verändere, zählt es nicht als Gentechnik.",
+   "quote_clean": "In dem Moment, wo ich genetisch irgendwas zufällig verändere, was rein theoretisch auch durch Zufall auftreten könnte, zählt es nicht als Gentechnik, solange ich nicht weiß, was ich da verändere.",
+   "statement": "Zufällig erzeugte Genveränderungen, etwa durch Bestrahlung, gelten nicht als Gentechnik, solange man nicht weiß, was genau verändert wurde.",
+   "question": "Warum gilt eine radioaktiv bestrahlte Pflanze in der EU nicht als gentechnisch verändert?",
+   "answer": "Weil die Veränderungen zufällig und unbekannt sind",
+   "distractors": [
+    "Weil Strahlung keine Gene verändert",
+    "Weil nur ein Gen verändert wird",
+    "Weil bestrahlte Pflanzen extra geprüft werden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Paradox, aber so ist es: Du darfst ein Genom kräftig durchschütteln und das Ergebnis im Bioladen verkaufen. Änderst du gezielt einen einzigen Buchstaben, ist es Gentechnik und praktisch nicht zulassbar.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Regulierung",
+    "Mutagenese"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 859,
+   "speaker": "Martin Moder",
+   "quote": "Das heißt, diese ganz, ganz merkwürdige Situation ist die, dass ob etwas als Gentechnik gilt oder nicht, ist nicht so sehr davon abhängig, was da jetzt rauskommt. Es ist vor allem davon abhängig, mit welcher Methode ich diese Veränderungen herbeiführe.",
+   "quote_clean": "Diese ganz merkwürdige Situation ist die, dass es nicht so sehr davon abhängt, was rauskommt, ob etwas als Gentechnik gilt oder nicht. Es hängt vor allem davon ab, mit welcher Methode ich diese Veränderungen herbeiführe.",
+   "statement": "Ob eine Pflanze als gentechnisch verändert gilt, hängt in der EU vor allem von der Methode ab, nicht vom Ergebnis.",
+   "question": "Wovon hängt es in der EU vor allem ab, ob eine Pflanze als gentechnisch verändert gilt?",
+   "answer": "Von der Methode der Veränderung",
+   "distractors": [
+    "Von der Zahl veränderter Gene",
+    "Vom Ursprungsland der Pflanze",
+    "Vom Ergebnis der Veränderung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Martin bringt das Absurde auf den Punkt: Zwei Pflanzen können am Ende genetisch gleich sein, die eine landet im Bioregal, die andere gilt als Gentechnik. Entscheidend ist nur der Weg dorthin.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Regulierung",
+    "EU"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1057,
+   "speaker": "Martin Moder",
+   "quote": "eine Kiwi, die in Österreich als Lebensmittel ganz normal verkauft wird, wenn ein Kiwi ein gentechnisch verändertes Lebensmittel wäre, das hätte nie eine Chance in Europa, eine Zulassung zu bekommen, weil viel zu viele Menschen allergisch auf Kiwis reagieren.",
+   "quote_clean": "Eine Kiwi, die in Österreich ganz normal als Lebensmittel verkauft wird, hätte als gentechnisch verändertes Lebensmittel nie eine Chance auf eine Zulassung in Europa, weil viel zu viele Menschen allergisch auf Kiwis reagieren.",
+   "statement": "Wäre die Kiwi ein gentechnisch verändertes Lebensmittel, würde sie in Europa wegen ihres Allergiepotenzials keine Zulassung bekommen.",
+   "question": "Warum hätte die Kiwi als gentechnisch verändertes Lebensmittel in Europa keine Chance auf Zulassung?",
+   "answer": "Zu viele Menschen sind allergisch darauf",
+   "distractors": [
+    "Sie enthält zu viel Zucker",
+    "Sie ist zu schnell verderblich",
+    "Ihre Kerne sind leicht giftig"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gentechnisch veränderte Lebensmittel müssen eine jahrelange Prüfung mit Unmengen an Daten durchlaufen. Herkömmliche Lebensmittel nicht, und so manches davon würde an diesen Hürden glatt scheitern.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zulassung",
+    "Allergien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1199,
+   "speaker": "Martin Moder",
+   "quote": "Und da hat man einfach gesehen, die Konzentration an Pilzgiften war um einiges höher beim konventionellen Mais im Vergleich zum gentechnisch veränderten.",
+   "quote_clean": "Da hat man gesehen, die Konzentration an Pilzgiften war um einiges höher beim konventionellen Mais im Vergleich zum gentechnisch veränderten.",
+   "statement": "Konventioneller Mais enthält deutlich mehr Pilzgifte als gentechnisch veränderter Mais.",
+   "question": "Welcher Mais enthält laut Studien mehr Pilzgifte: konventioneller oder gentechnisch veränderter?",
+   "answer": "Konventioneller Mais",
+   "distractors": [
+    "Gentechnisch veränderter Mais",
+    "Beide gleich viel",
+    "Nur Bio-Mais"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Gen-Mais wird von Fraßfeinden kaum angeknabbert, und wo nichts angeknabbert ist, wachsen auch weniger Pilze. Laut Martin ist das der einzige belastbare Gesundheitsunterschied, den er je in der Literatur gefunden hat.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mais",
+    "Gesundheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1410,
+   "speaker": "Martin Moder",
+   "quote": "Und wir bringen aber ein Gen ein aus einem Bakterium, von dem wir wissen, dass es dieselbe Aufgabe erfüllt, wie das Gen in der Pflanze, aber dass es gegen diesen wirkstoffresistent ist.",
+   "quote_clean": "Wir bringen ein Gen aus einem Bakterium ein, von dem wir wissen, dass es dieselbe Aufgabe erfüllt wie das Gen in der Pflanze, aber gegen diesen Wirkstoff resistent ist.",
+   "statement": "Glyphosatresistente Pflanzen tragen ein Bakterien-Gen, das dieselbe Aufgabe wie das pflanzeneigene Gen erfüllt, aber vom Wirkstoff nicht gehemmt wird.",
+   "question": "Woher stammt das Gen, das Pflanzen gegen Glyphosat resistent macht?",
+   "answer": "Aus einem Bakterium",
+   "distractors": [
+    "Aus einem Pilz",
+    "Aus einem Insekt",
+    "Aus einer Alge"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Glyphosat legt ein Enzym lahm, das jede grüne Pflanze braucht, die EPSP-Synthase. Die Bakterien-Version macht denselben Job, ist aber unempfindlich. Sprühst du drüber, stirbt alles am Feld außer deinem Mais.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Glyphosat",
+    "Herbizide"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2021,
+   "speaker": "Martin Moder",
+   "quote": "aber wenn ich versuchen würde, die ganze Welt ausschließlich mit Bio-Lebensmitteln zu ernähren, die, bei all den Vorteilen, die sie ja tatsächlich auch haben, eine furchtbare Landnutzungseffizienz haben, weil sie einfach sehr ertragsarm pro Fläche sind, dann müsste ich Unmengen an Land in Ackerfläche umwandeln.",
+   "quote_clean": "Wenn ich versuchen würde, die ganze Welt ausschließlich mit Bio-Lebensmitteln zu ernähren, die bei all ihren Vorteilen eine furchtbare Landnutzungseffizienz haben, weil sie sehr ertragsarm pro Fläche sind, müsste ich Unmengen an Land in Ackerfläche umwandeln.",
+   "statement": "Weil Bio-Landwirtschaft pro Fläche weniger Ertrag bringt, bräuchte eine reine Bio-Ernährung der Welt deutlich mehr Ackerland.",
+   "question": "Warum wäre es ökologisch problematisch, die ganze Welt nur mit Bio-Lebensmitteln zu ernähren?",
+   "answer": "Man bräuchte viel mehr Ackerfläche",
+   "distractors": [
+    "Bio-Dünger verseucht das Grundwasser",
+    "Bio-Pflanzen brauchen mehr Pestizide",
+    "Bio-Saatgut ist nicht vermehrbar"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer mehr Ertrag pro Hektar hat, muss weniger Wald in Felder umwandeln. Deshalb schauen Felder mit hohen Erträgen, auch gentechnisch veränderte, beim CO2-Fußabdruck oft überraschend gut aus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bio",
+    "Landnutzung",
+    "Klima"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2178,
+   "speaker": "Martin Moder",
+   "quote": "es gibt ein Spritzmittel, das heißt Spinosat. Das ist in der Biolandwirtschaft zugelassen, wird da häufig verwendet, zum Beispiel gegen den Kartoffelkäfer. Und das ist eine der bienenschädlichsten Substanzen, die man kennt.",
+   "quote_clean": "Es gibt ein Spritzmittel, das heißt Spinosad. Das ist in der Biolandwirtschaft zugelassen und wird dort häufig verwendet, zum Beispiel gegen den Kartoffelkäfer. Und das ist eine der bienenschädlichsten Substanzen, die man kennt.",
+   "statement": "Spinosad ist in der Biolandwirtschaft zugelassen, wird etwa gegen den Kartoffelkäfer eingesetzt und gehört zu den bienenschädlichsten bekannten Substanzen.",
+   "question": "Spinosad wird im Bio-Kartoffelanbau gegen den Kartoffelkäfer gespritzt. Für welche Tiere ist es besonders gefährlich?",
+   "answer": "Für Bienen",
+   "distractors": [
+    "Für Regenwürmer",
+    "Für Vögel",
+    "Für Fische"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bienenschädlichkeitsstufe B1, also ganz oben. Dabei gäbe es schon Kartoffeln, die per RNA-Interferenz von Haus aus gegen den Käfer resistent sind, nur gelten die halt als Gentechnik.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bio",
+    "Bienen",
+    "Pestizide"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1788,
+   "speaker": "Martin Moder",
+   "quote": "Was man auf jeden Fall sagen kann, ist, dass allein in Indien durch die Baumwolle jedes Jahr Millionen Vergiftungsfälle verhindert werden.",
+   "quote_clean": "Was man auf jeden Fall sagen kann, ist, dass allein in Indien durch die Baumwolle jedes Jahr Millionen Vergiftungsfälle verhindert werden.",
+   "statement": "Schädlingsresistente Gentechnik-Baumwolle verhindert allein in Indien jedes Jahr Millionen Pestizidvergiftungen bei Landwirt:innen.",
+   "question": "Wie viele Pestizidvergiftungen verhindert schädlingsresistente Baumwolle in Indien ungefähr pro Jahr?",
+   "answer": "Millionen",
+   "distractors": [
+    "Einige Hundert",
+    "Einige Tausend",
+    "Rund Zehntausend"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Viele Kleinbauern dort haben keinen Traktor mit Schutzausrüstung, sondern gehen mit der Pumpsprühdose durchs Feld. Wenn die Pflanze sich selbst gegen Schädlinge wehrt, fällt das Spritzen einfach weg.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Indien",
+    "Baumwolle",
+    "Pestizide"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2384,
+   "speaker": "Martin Moder",
+   "quote": "Wenn du ein Kleinbauer irgendwo in Indien bist, dann kannst du das nicht sagen. Dann ist deine Ernte einfach Orsch, wenn viel Unkraut daherkommt.",
+   "quote_clean": "Wenn du ein Kleinbauer irgendwo in Indien bist, dann kannst du das nicht sagen. Dann ist deine Ernte einfach im Oasch, wenn viel Unkraut daherkommt.",
+   "statement": "Kleinbauern in armen Ländern haben kaum Alternativen zur Unkrautbekämpfung und profitieren deshalb am meisten von Gentechnik.",
+   "question": "Wer profitiert laut Studien am meisten von gentechnisch veränderten Pflanzen?",
+   "answer": "Kleinbauern in armen Ländern",
+   "distractors": [
+    "Großbetriebe in den USA",
+    "Bio-Höfe in Europa",
+    "Supermarktketten in Europa"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Europa nimmst halt den Traktor und pflügst, wenn du kein Herbizid willst. Ein Kleinbauer in Indien hat diese Wahl nicht, deshalb sind dort auch die Einkommensgewinne am größten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Armut",
+    "Einkommen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2472,
+   "speaker": "Martin Moder",
+   "quote": "Das wird häufig verwechselt mit Hybrid-Saatgut. Das gibt schon viel länger als gentechnisch verändertes Saatgut gibt. Das ist auch nicht vermehrungsfähig, aber das hat mit Gentechnik nichts zu tun.",
+   "quote_clean": "Das wird häufig mit Hybrid-Saatgut verwechselt. Das gibt es schon viel länger als gentechnisch verändertes Saatgut. Das ist auch nicht vermehrungsfähig, hat aber mit Gentechnik nichts zu tun.",
+   "statement": "Nicht vermehrungsfähiges Saatgut ist meist Hybrid-Saatgut, das es schon lange vor der Gentechnik gab; gentechnisch steriles Saatgut wurde nie zugelassen.",
+   "question": "Welches Saatgut lässt sich tatsächlich nicht sinnvoll nachbauen und wird oft mit Gentechnik verwechselt?",
+   "answer": "Hybrid-Saatgut",
+   "distractors": [
+    "Bio-Saatgut",
+    "Mutagenese-Saatgut",
+    "Wildsaatgut"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Dass Gentechnik-Pflanzen absichtlich unfruchtbar gemacht werden, ist ein Mythos, so eine Pflanze wurde nie zugelassen. Dass Bauern jedes Jahr neu kaufen, liegt an Lizenzverträgen, nicht an der Genetik.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Saatgut",
+    "Mythen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2799,
+   "speaker": "Martin Moder",
+   "quote": "da nimmst du eine Gene-Gun, die heißt wirklich Gene-Gun, und die schießt mikroskopisch kleine Goldpartikel in deine Pflanzenzellen rein und auf der Oberfläche dieser Goldpartikel hast du festmontiert die Gene, die du einbringen willst.",
+   "quote_clean": "Da nimmst du eine Gene-Gun, die heißt wirklich Gene-Gun, und die schießt mikroskopisch kleine Goldpartikel in deine Pflanzenzellen. Auf der Oberfläche dieser Goldpartikel hast du die Gene festmontiert, die du einbringen willst.",
+   "statement": "Bei einer älteren Methode der Gentechnik schießt eine Gene-Gun winzige, mit Genen beschichtete Goldpartikel in Pflanzenzellen.",
+   "question": "Womit schießt die sogenannte Gene-Gun neue Gene in Pflanzenzellen?",
+   "answer": "Mit winzigen Goldpartikeln",
+   "distractors": [
+    "Mit Wassertröpfchen",
+    "Mit Laserstrahlen",
+    "Mit Viren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das ist die alte Brachial-Gentechnik. Heute geht es mit der Genschere CRISPR viel feiner: Statt ganze Gene reinzuschießen, kannst du einen einzelnen Buchstaben umschreiben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Methoden",
+    "CRISPR"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3112,
+   "speaker": "Martin Moder",
+   "quote": "kein Labor der Welt, keine Forschenden der Welt können nachweisen, dass ich die gentechnisch verändert habe.",
+   "quote_clean": "Kein Labor der Welt, keine Forschenden der Welt können nachweisen, dass ich sie gentechnisch verändert habe.",
+   "statement": "Eine mit der Genschere gezielt gesetzte Punktmutation lässt sich nicht von einer spontanen Mutation unterscheiden und daher nicht als Gentechnik nachweisen.",
+   "question": "Kann ein Labor nachweisen, dass ein einzelner Gen-Buchstabe mit CRISPR statt durch Zufall verändert wurde?",
+   "answer": "Nein, das ist nicht nachweisbar",
+   "distractors": [
+    "Ja, mit einem einfachen Schnelltest",
+    "Ja, aber nur in den ersten Jahren",
+    "Nur bei Mais und Soja"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein umgeschriebener Buchstabe schaut genauso aus wie eine natürliche Spontanmutation. Die EU hat damit laut Martin etwas verboten, das man regulatorisch gar nicht überprüfen kann.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "CRISPR",
+    "Regulierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3431,
+   "speaker": "Martin Moder",
+   "quote": "warum der Großteil aller noch lebenden Nobelpreisträgerinnen und Nobelpreisträger vor ein paar Jahren einen offenen Brief an Greenpeace geschrieben hat, wo sie gesagt haben, Leute, überdenkt eure Position zur Gentechnik.",
+   "quote_clean": "Der Großteil aller noch lebenden Nobelpreisträgerinnen und Nobelpreisträger hat vor ein paar Jahren einen offenen Brief an Greenpeace geschrieben, in dem sie gesagt haben: Leute, überdenkt eure Position zur Gentechnik.",
+   "statement": "Ein großer Teil der lebenden Nobelpreisträger:innen forderte Greenpeace in einem offenen Brief auf, seine Haltung zur Gentechnik zu überdenken.",
+   "question": "An welche Organisation schrieben zahlreiche Nobelpreisträger:innen einen offenen Brief wegen ihrer Haltung zur Gentechnik?",
+   "answer": "An Greenpeace",
+   "distractors": [
+    "An die WHO",
+    "An die EU-Kommission",
+    "An den WWF"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Anlass war vor allem der Widerstand gegen den Golden Rice, bei dem sogar Versuchsfelder zerstört wurden. Der Vorwurf der Forschenden war hart: Wer so etwas blockiert, nimmt Tote in Kauf.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Golden Rice",
+    "Wissenschaft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3287,
+   "speaker": "Martin Moder",
+   "quote": "Wir wissen, dass viele Pflanzen die Vorstufe von Vitamin A beinhalten, nämlich Beta-Carotin.",
+   "quote_clean": "Wir wissen, dass viele Pflanzen die Vorstufe von Vitamin A enthalten, nämlich Beta-Carotin.",
+   "statement": "Beim Golden Rice wird die Bildung von Beta-Carotin, der Vorstufe von Vitamin A, in den Reis eingebaut.",
+   "question": "Welcher Stoff wird beim sogenannten Golden Rice im Reiskorn gebildet?",
+   "answer": "Beta-Carotin, die Vorstufe von Vitamin A",
+   "distractors": [
+    "Eisen, gegen Blutarmut",
+    "Vitamin C, gegen Skorbut",
+    "Jod, gegen Kropfbildung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Beta-Carotin gibt der Karotte ihre Farbe und färbt auch den Reis golden. Die Idee: eine Schüssel am Tag deckt den Vitamin-A-Bedarf, und die Bauern dürfen das Saatgut ohne Lizenzgebühren jedes Jahr nachbauen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Golden Rice",
+    "Vitamin A"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1001,
+   "speaker": "Martin Moder",
+   "quote": "Das Gute an diesen gentechnisch veränderten Lebensmitteln ist ja das, dass sie die mit Abstand am besten untersuchten Lebensmittel der Welt sind.",
+   "quote_clean": "Das Gute an diesen gentechnisch veränderten Lebensmitteln ist, dass sie die mit Abstand am besten untersuchten Lebensmittel der Welt sind.",
+   "statement": "Gentechnisch veränderte Lebensmittel sind die mit Abstand am besten untersuchten Lebensmittel der Welt.",
+   "question": "Welche Lebensmittel sind laut Molekularbiologe Martin Moder die am besten untersuchten der Welt?",
+   "answer": "Gentechnisch veränderte Lebensmittel",
+   "distractors": [
+    "Bio-Lebensmittel",
+    "Babynahrung",
+    "Nahrungsergänzungsmittel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bevor so ein Lebensmittel zugelassen wird, schleppt sich die Prüfung über viele Jahre und braucht Unmengen an Daten, ökologisch wie gesundheitlich. Ausgerechnet das, wovor viele das größte Bauchweh haben, ist also am gründlichsten durchgecheckt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gesundheit",
+    "Zulassung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3062,
+   "speaker": "Martin Moder",
+   "quote": "wenn ich radioaktiv draufstrahle, da 430 Genpositionen verändere, dann ist Bio und geil und super und kein Problem. Und in dem Moment, wo ich hergehe und ein A zu einem G umändere, dann ist böse Gentechnik",
+   "quote_clean": "Wenn ich radioaktiv draufstrahle und 430 Genpositionen verändere, dann ist es Bio und geil und super und kein Problem. Und in dem Moment, wo ich hergehe und ein A zu einem G umändere, dann ist es böse Gentechnik.",
+   "statement": "Radioaktive Bestrahlung mit hunderten zufälligen Genveränderungen gilt als biotauglich, das gezielte Ändern eines einzigen DNA-Buchstabens dagegen als Gentechnik.",
+   "question": "Wer hat's gesagt: Radioaktiv bestrahlen ist Bio, aber ein A zu einem G ändern ist böse Gentechnik?",
+   "answer": "Martin Moder",
+   "distractors": [
+    "Andreas Sator",
+    "Florian Krammer",
+    "Robert Habeck"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Martin packt es bis heute nicht, dass hunderte zufällige Mutationen okay sind, ein gezielter Buchstabentausch aber nicht. Er nennt das hardcore absurd.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Regulierung",
+    "CRISPR"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 277,
+   "speaker": "Martin Moder",
+   "quote": "Aber der Grund, warum das Flecken bei 30 Grad herausbringt, der ist, dass da drin ein Enzym ist, das eben Fett oder was auch immer diese Flecken sind, lösen kann, abbauen kann und dass dieses Enzym mit Hilfe gentechnisch veränderter Organismen hergestellt wurde.",
+   "quote_clean": "Der Grund, warum das Flecken bei 30 Grad herausbringt, ist, dass da ein Enzym drin ist, das Fett oder was auch immer diese Flecken sind, lösen und abbauen kann, und dass dieses Enzym mit Hilfe gentechnisch veränderter Organismen hergestellt wurde.",
+   "statement": "Enzyme in Waschmitteln, die Flecken schon bei niedrigen Temperaturen lösen, werden mit Hilfe gentechnisch veränderter Organismen hergestellt.",
+   "question": "Wie werden die Enzyme in Waschmitteln hergestellt, die Flecken schon bei 30 Grad lösen?",
+   "answer": "Mit gentechnisch veränderten Organismen",
+   "distractors": [
+    "Aus Erdöl synthetisiert",
+    "Aus Schweinemägen gewonnen",
+    "Aus Zitrusschalen extrahiert"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das ist die sogenannte weiße Gentechnik, und die regt kaum jemanden auf, weil es fast niemand weiß. Und was in der Waschmaschine ist, geht eh in die Donau und nicht in den eigenen Körper, so zumindest das Bauchgefühl.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Weiße Gentechnik",
+    "Alltag"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 2729,
+   "speaker": "Martin Moder",
+   "quote": "ich habe nämlich so komische Cheese-Bällchen genommen, einfach weil man dachte, die kann man gut durchgeben und da kann sich jeder was rausnehmen, nur waren die Inherenz so grauslich,",
+   "quote_clean": "Ich habe nämlich so komische Cheese-Bällchen genommen, weil ich dachte, die kann man gut durchgeben und jeder kann sich was rausnehmen, nur waren die einfach so grauslich,",
+   "statement": "Martin Moder ließ bei Vorträgen gentechnisch veränderte Snacks durchgeben, wählte zuerst aber Käsebällchen, die so grauslich rochen, dass unklar blieb, warum niemand zugriff.",
+   "question": "Welchen Snack ließ Martin Moder bei Vorträgen zuerst durchgeben, mit wenig Erfolg?",
+   "answer": "Grausliche Cheese-Bällchen",
+   "distractors": [
+    "Gen-Mais-Popcorn",
+    "Soja-Chips",
+    "Glyphosat-freie Gummibärli"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Er wusste dann nie, ob die Leute nicht zugreifen, weil sie keine Gentechnik wollen, oder weil es beim Aufmachen schon so gestunken hat. Später nahm er Reese's, die schmecken laut Martin ziemlich gut.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Vortrag",
+    "Lebensmittel"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "167",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

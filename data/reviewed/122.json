@@ -1,0 +1,273 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 495-500 s belegt (150 km, rund 20 kWh, 2010); historische Aussage, nicht veraltet.",
+   "stand_note": "",
+   "statement": "Die ersten alltagstauglichen Elektroautos um 2010 hatten eine Reichweite von etwa 150 Kilometern.",
+   "question": "Wie viele Kilometer kamen die ersten vernünftigen Elektroautos um 2010 ungefähr weit?",
+   "answer": "Etwa 150 Kilometer",
+   "distractors": [
+    "Etwa 60 Kilometer",
+    "Etwa 300 Kilometer",
+    "Etwa 450 Kilometer"
+   ],
+   "aha": "In den Autos steckten damals rund 20 Kilowattstunden Batterie. Für den Weg ins Büro hat das gereicht, für den Ausflug ins Waldviertel eher nicht.",
+   "quote_clean": "Die hatten Reichweiten in der Gegend von etwa 150 Kilometern.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 504-514 s belegt; Frage nennt 2020 ausdrücklich, heutige Durchschnittswerte sind höher.",
+   "stand_note": "Stand 2020",
+   "statement": "Ein durchschnittliches Elektroauto hatte 2020 eine Batterie mit rund 50 Kilowattstunden.",
+   "question": "Wie viele Kilowattstunden hatte die Batterie eines durchschnittlichen E-Autos im Jahr 2020 ungefähr?",
+   "answer": "Etwa 50 Kilowattstunden",
+   "distractors": [
+    "Etwa 10 Kilowattstunden",
+    "Etwa 25 Kilowattstunden",
+    "Etwa 150 Kilowattstunden"
+   ],
+   "aha": "2010 waren es noch rund 20 Kilowattstunden. Mit 50 kommt man laut Manfred so 250 bis 300 Kilometer weit, die Reichweite hat sich in zehn Jahren also ungefähr verdoppelt.",
+   "quote_clean": "In der Zwischenzeit hat das durchschnittliche Elektroauto ungefähr 50 Kilowattstunden.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Schrödl nennt 300.000 km bis zu einer Million; Frage auf 'locker' mit Mindestwert präzisiert, damit die Antwort eindeutig ist.",
+   "stand_note": "Stand 2020",
+   "statement": "Laut Manfred Schrödl halten E-Auto-Batterien erfahrungsgemäß locker acht bis zehn Jahre und 300.000 Kilometer, teils sogar deutlich mehr.",
+   "question": "Welche Kilometerleistung schaffen E-Auto-Batterien laut Manfred Schrödl locker?",
+   "answer": "Rund 300.000 Kilometer",
+   "distractors": [
+    "Rund 50.000 Kilometer",
+    "Rund 100.000 Kilometer",
+    "Rund 3 Millionen Kilometer"
+   ],
+   "aha": "Dass die Akkus so lange halten, war anfangs gar nicht klar. Inzwischen sind aber Millionen E-Autos unterwegs, und man redet schon von bis zu einer Million Kilometern.",
+   "quote_clean": "Und man sieht, dass die Batterien locker acht bis zehn Jahre halten und Kilometerleistungen von 300.000 Kilometern bis, man redet jetzt schon von einer Million Kilometern,",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1266 s belegt (100 Prozent bei Bleibatterien), 'praktisch alle' ist korrekt und auch heute zutreffend.",
+   "stand_note": "",
+   "statement": "Alte Bleibatterien, etwa Starterbatterien aus Autos, werden praktisch vollständig wiederverwertet.",
+   "question": "Wie viele der alten Blei-Autobatterien werden heute wiederverwertet?",
+   "answer": "Praktisch alle",
+   "distractors": [
+    "Etwa die Hälfte",
+    "Etwa ein Viertel",
+    "Kaum welche"
+   ],
+   "aha": "Bei der Bleibatterie hat man einen echten Kreislauf geschafft. Genau das ist laut Manfred auch das Ziel für die Lithium-Ionen-Akkus der E-Autos.",
+   "quote_clean": "Bei der Bleibatterie hat man es geschafft, dass 100 Prozent der Bleibatterien wiederverwertet werden.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Schrödl formuliert vorsichtig ('gehe davon aus, vielleicht'); als Schätzung gekennzeichnet statt als harter Fakt.",
+   "stand_note": "Stand 2020",
+   "statement": "Manfred Schrödl schätzt, dass ein Elektroauto in Österreich über seinen Lebenszyklus etwa ein Drittel der Emissionen eines Benziners oder Diesels verursacht.",
+   "question": "Wie viel Emissionen verursacht ein E-Auto in Österreich laut Manfred Schrödls Schätzung über sein ganzes Leben im Vergleich zu einem Verbrenner?",
+   "answer": "Etwa ein Drittel",
+   "distractors": [
+    "Etwa gleich viel",
+    "Etwa zwei Drittel",
+    "Etwa doppelt so viel"
+   ],
+   "aha": "Die Herstellung des Akkus kostet zwar viel Energie, aber im Betrieb holt das E-Auto das wieder rein. Mit Österreichs vielem Wasserkraftstrom bleibt laut Manfred am Ende nur rund ein Drittel der Emissionen übrig.",
+   "quote_clean": "Ich gehe davon aus, dass ein Elektroauto vielleicht ein Drittel der Emissionsbelastung über seinen Lebenszyklus hat im Vergleich zu einem Benziner und Diesel.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 841-858 s klar; Distraktoren (USB-C, Schuko, Qi) waren unplausibel, durch echte Ladestandards ersetzt.",
+   "stand_note": "",
+   "statement": "In Europa hat sich mit CCS ein einheitlicher Ladestandard für E-Autos durchgesetzt.",
+   "question": "Wie heißt der Ladestandard, der sich in Europa für Elektroautos durchgesetzt hat?",
+   "answer": "CCS",
+   "distractors": [
+    "CHAdeMO",
+    "GB/T",
+    "NACS"
+   ],
+   "aha": "CCS ist eine Steckertype mit einem festen Protokoll, und alle halten sich daran. Damit hat in Europa jedes Auto quasi denselben Anschluss, egal ob Tesla oder deutscher Hersteller.",
+   "quote_clean": "Das heißt, der Tesla kann CCS, die deutschen Hersteller können CCS und so weiter.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1193-1206 s belegt, Begründung korrekt wiedergegeben.",
+   "stand_note": "",
+   "statement": "Nächtliches Laden von E-Autos passt gut ins Stromnetz, weil nachts die Industrie wenig Strom braucht.",
+   "question": "Warum ist es für das Stromnetz praktisch, wenn E-Autos über Nacht laden?",
+   "answer": "Nachts ist die Industrie heruntergefahren",
+   "distractors": [
+    "Nachts ist der Strom grüner",
+    "Nachts leitet das Netz besser",
+    "Nachts laden Akkus schneller"
+   ],
+   "aha": "Nachts gibt es im Netz ein Riesenloch, das gar nicht genutzt wird. Oder Potenzial, wie Manfred sich selbst korrigiert, und genau das können E-Autos füllen.",
+   "quote_clean": "Und nachdem die Leute gern über Nacht laden, ist das super, weil in der Nacht die Industrie heruntergefahren ist.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Schrödl sagt 'Macht der großen Zahlen', nicht 'Gesetz'; Formulierung an das Transkript angepasst und 'ausgeschlossen' zu 'sehr unwahrscheinlich' abgeschwächt.",
+   "stand_note": "Stand 2020",
+   "statement": "Dass alle E-Autos gleichzeitig laden, ist laut Manfred Schrödl wegen der Macht der großen Zahlen sehr unwahrscheinlich.",
+   "question": "Warum ist es laut Manfred Schrödl unwahrscheinlich, dass eine Million E-Autos gleichzeitig laden und das Netz überlasten?",
+   "answer": "Wegen der Macht der großen Zahlen",
+   "distractors": [
+    "Weil Autos sich automatisch abwechseln",
+    "Weil Ladestationen gedrosselt sind",
+    "Weil es zu wenige Ladesäulen gibt"
+   ],
+   "aha": "Manfreds Bild: Es ist auch nie die eine Bim um fünf Uhr gerammelt voll und die nächste komplett leer. Bei vielen Menschen verteilt sich das Laden von selbst über Netz und Tag.",
+   "quote_clean": "Es ist ziemlich unwahrscheinlich, dass zum Beispiel in einer Straßenbahn um 5 Uhr alles voll ist und die nächste Straßenbahn leer ist.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "R-Faktor-Vergleich bei 284-292 s klar belegt.",
+   "stand_note": "",
+   "statement": "Die Verbreitung von E-Autos funktioniert wie eine Ansteckung: Entscheidend ist, wie viele andere ein E-Auto-Fahrer überzeugt.",
+   "question": "Womit vergleicht Manfred Schrödl die Verbreitung von Elektroautos?",
+   "answer": "Mit dem R-Faktor einer Epidemie",
+   "distractors": [
+    "Mit dem Mooreschen Gesetz",
+    "Mit einem Dominoeffekt",
+    "Mit dem Zinseszins"
+   ],
+   "aha": "Wenn man bei null startet, ist man am Anfang immer unbedeutend. Entscheidend sind die Steigerungszahlen, denn positiv rückgekoppelte Vorgänge gehen irgendwann rasch hoch, das kennen wir seit Corona.",
+   "quote_clean": "Der Faktor R, also wie viele andere ein Elektroautofahrer ansteckt, zeigt uns, wie rasch das gehen wird.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Eier-Vergleich bei 1353-1368 s belegt, Aha korrekt.",
+   "stand_note": "",
+   "statement": "Manfred Schrödl vergleicht nachhaltig abgebaute Batterierohstoffe mit Eiern vom Bauern statt aus Batteriehaltung.",
+   "question": "Mit welchem Vergleich erklärt Manfred Schrödl, dass nachhaltige Batterierohstoffe eine Preisfrage sind?",
+   "answer": "Ei aus Batteriehaltung gegen Bauernei",
+   "distractors": [
+    "Billigjeans gegen Bio-Baumwolle",
+    "Diskonterbrot gegen Bäckerbrot",
+    "Flugreise gegen Zugreise"
+   ],
+   "aha": "Das Ei vom Bauern, dessen Hühner hinterm Haus auf der Wiese laufen, kostet vielleicht einen Euro, das aus Batteriehaltung 30 Cent. Wer ein bisschen Geld in die Hand nimmt, bekommt auch beim Kobalt sozialverträglichere Standards.",
+   "quote_clean": "Ich kann ein Ei aus Batteriehaltung kaufen, das kostet vielleicht 30 Cent.",
+   "quality": 4
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat bei 1436 s belegt und im Kontext korrekt (Elon Musk, Tesla); Aha deckt sich mit 1466-1470 s.",
+   "stand_note": "",
+   "statement": "Laut Manfred Schrödl brauchte es Elon Musk, damit die Autoindustrie Elektroautos ernst nimmt.",
+   "question": "Wer sagt über den Durchbruch der E-Autos: „Es war notwendig, dass da einer kommt und auf den Tisch haut“?",
+   "answer": "Manfred Schrödl",
+   "distractors": [
+    "Andreas Sator",
+    "Elon Musk",
+    "Ein VW-Manager"
+   ],
+   "aha": "Mit Diesel und Benzin hat es sich für die Autoindustrie wunderbar gelebt. Erst Tesla hat gezeigt, dass ein E-Auto cool sein kann. Der Durchbruch war laut Manfred also eher ökonomisch als politisch.",
+   "quote_clean": "Es war notwendig, dass da einer kommt und auf den Tisch haut.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1254-1285 s belegt; Aha ist eine milde, plausible Ergänzung.",
+   "stand_note": "",
+   "statement": "Bei einem Massenprodukt wie der E-Auto-Batterie muss das Recycling schon bei der Entwicklung mitgedacht werden.",
+   "question": "Wann muss man laut Manfred Schrödl bei einem Massenprodukt wie dem Akku an die Wiederverwertung denken?",
+   "answer": "Schon bei der Entwicklung",
+   "distractors": [
+    "Erst am Ende der Lebensdauer",
+    "Sobald die Deponien voll sind",
+    "Wenn es ein Gesetz verlangt"
+   ],
+   "aha": "Lithium, Kobalt, Mangan: Das alles muss man später wieder auseinandertrennen können. Das geht leichter, wenn man es von Anfang an einplant.",
+   "quote_clean": "Dann muss ich bei der Entwicklung bereits überlegen, wie ich das Ding entsorge beziehungsweise wiederverwerte.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsbeginn ohne Wissensgehalt.",
+   "stand_note": "",
+   "statement": "Andreas steigt mit der Frage ein, ob Elektroautos ein Hype oder die Zukunft des Individualverkehrs sind.",
+   "question": "Mit welcher Frage steigt Andreas in die Folge über Elektroautos ein?",
+   "answer": "Hype oder Zukunft des Individualverkehrs?",
+   "distractors": [
+    "Wie teuer ist ein E-Auto?",
+    "Wie weit kommt ein E-Auto?",
+    "Wie funktioniert ein Elektromotor?"
+   ],
+   "aha": "Manfreds Antwort ist eindeutig: Die Verbrenner sind sicher nicht die Zukunft. Er rechnet damit, dass der Umstieg in 10 bis 20 Jahren passiert, weil ein heute gekaufter Verbrenner noch lange läuft.",
+   "quote_clean": "Manfred, Elektroautos: Ist das ein Hype oder ist das die Zukunft des Individualverkehrs?",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Persönliche Randnotiz, vage ('irgendwann, sagen wir mal, in den 70ern'), kein Lerngewinn.",
+   "stand_note": "",
+   "statement": "Andreas hakt nach, wann Manfreds Jugendzeit war, weil die Hörer:innen ihn ja nicht sehen können.",
+   "question": "In welchem Jahrzehnt lag Manfred Schrödls Jugendzeit, als ein eigenes Auto noch eine Sensation war?",
+   "answer": "In den 70er-Jahren",
+   "distractors": [
+    "In den 50er-Jahren",
+    "In den 60er-Jahren",
+    "In den 80er-Jahren"
+   ],
+   "aha": "Damals war ein Auto, aber auch ein Farbfernseher, etwas, auf das man lange gespart hat.",
+   "quote_clean": "Wann war deine Jugendzeit? Die Leute sehen dich jetzt nicht.",
+   "quality": 1
+  }
+ ],
+ "id": "122",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

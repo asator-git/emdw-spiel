@@ -1,0 +1,481 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 226-242 s: eine Tonne pro Person und Strecke, zwei hin und zurück.",
+   "stand_note": "",
+   "statement": "Ein Flug von New York nach Wien verursacht pro Passagier ungefähr eine Tonne CO2, hin und retour also rund zwei Tonnen.",
+   "question": "Wie viele Tonnen CO2 verursacht ein einfacher Flug New York–Wien pro Person ungefähr?",
+   "answer": "Rund 1 Tonne",
+   "distractors": [
+    "Rund 0,1 Tonnen",
+    "Rund 5 Tonnen",
+    "Rund 10 Tonnen"
+   ],
+   "aha": "Eine Tonne – und zwar nicht für den ganzen Flieger, sondern für dich allein, hinten am Mittelsitz. Hin und zurück sind's zwei Tonnen, also ein ordentlicher Brocken vom Jahresbudget eines Durchschnittseuropäers.",
+   "quote_clean": "Boston–Wien oder New York–Wien sind ungefähr eine Tonne CO2. Nicht der ganze Flieger, ich persönlich.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg ok (263, 308, 1214); Zahl ist Stand 2019, heutige Schätzungen liegen deutlich höher.",
+   "stand_note": "Stand 2019",
+   "statement": "Die berechenbaren Klimaschäden einer Tonne CO2 werden von Ökonomen auf etwa 40 bis 50 Euro geschätzt; das gilt als Untergrenze.",
+   "question": "Wie viel Schaden verursacht eine Tonne CO2 laut den berechenbaren Schätzungen, die Gernot Wagner 2019 nennt?",
+   "answer": "Etwa 40 bis 50 Euro",
+   "distractors": [
+    "Etwa 1 bis 2 Euro",
+    "Etwa 400 bis 500 Euro",
+    "Etwa 4.000 Euro"
+   ],
+   "aha": "Dafür rechnen Ökonom:innen die Schäden von heute bis in hunderte Jahre zurück in heutige Euro. Und das ist nur, was sich berechnen lässt – die unbekannten Unbekannten machen die Zahl laut Wagner noch deutlich höher. Neuere Schätzungen liegen auch tatsächlich klar darüber.",
+   "quote_clean": "Die Dinge, die wir tatsächlich berechnen können, machen pro Tonne CO2 in heutigen Zahlen um die 40, 50 Dollar oder Euro.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 294 s, Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "CO2, das heute ausgestoßen wird, bleibt hunderte Jahre in der Atmosphäre.",
+   "question": "Wie lange bleibt CO2, das heute ausgestoßen wird, ungefähr in der Atmosphäre?",
+   "answer": "Hunderte Jahre",
+   "distractors": [
+    "Ein paar Wochen",
+    "Etwa zehn Jahre",
+    "Rund ein Jahr"
+   ],
+   "aha": "Darum geht's bei den Klimakosten nicht nur um heute und morgen, sondern um Schäden in 100 oder 1000 Jahren. Dein Flug von heute wärmt also noch die Ururenkel.",
+   "quote_clean": "Jede Tonne CO2, die heute ausgestoßen wird, bleibt hunderte Jahre oben in der Atmosphäre.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 192 s ok; Frage präzisiert, Statement zeitlos formuliert.",
+   "stand_note": "",
+   "statement": "Schon in den 1920er-Jahren überlegten Ökonomen, wie man Externalitäten eindämmen kann – die Idee hinter der CO2-Steuer ist also rund 100 Jahre alt.",
+   "question": "In welchem Jahrzehnt ging es Ökonomen laut Gernot Wagner erstmals darum, Externalitäten wie CO2 einzudämmen?",
+   "answer": "In den 1920er-Jahren",
+   "distractors": [
+    "In den 1970er-Jahren",
+    "In den 1990er-Jahren",
+    "In den 1870er-Jahren"
+   ],
+   "aha": "Laut Wagner gab es die Lösung also schon länger als das Problem. Die Ökonomen damals dachten natürlich noch nicht ans Klima, aber das Prinzip passt eh perfekt.",
+   "quote_clean": "In den 1920er Jahren ging es darum, zu eruieren, wie man das, was Ökonomen Externalitäten nennen, eindämmen kann.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 356 s, Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Der Ökonom Arthur Pigou gilt als Erfinder der Idee, Externalitäten über einen Preis zu internalisieren.",
+   "question": "Welcher Ökonom hat die Idee hinter der CO2-Steuer im Prinzip erfunden?",
+   "answer": "Arthur Pigou",
+   "distractors": [
+    "John Maynard Keynes",
+    "Adam Smith",
+    "Milton Friedman"
+   ],
+   "aha": "Nach ihm heißen solche Abgaben bis heute Pigou-Steuern. Die Idee: Wer Schaden verursacht, zahlt ihn selbst, statt ihn auf sieben Milliarden andere aufzuteilen.",
+   "quote_clean": "Der Ökonom war Arthur Pigou, der diese Lösung im Prinzip erfunden hat. Es geht darum, diese Externalitäten zu internalisieren.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "Beleg ok (439-447 s, ca. 50 Prozent); Satzbau im aha holprig; Zahl ist Stand 2019.",
+   "stand_note": "Stand 2019",
+   "statement": "Der EU-Emissionshandel setzt eine Obergrenze für CO2 und deckte 2019 etwa die Hälfte der Emissionen in der EU ab.",
+   "question": "Wie viel Prozent der EU-Emissionen deckte der Emissionshandel laut Gernot Wagner 2019 ungefähr ab?",
+   "answer": "Rund 50 Prozent",
+   "distractors": [
+    "Rund 10 Prozent",
+    "Rund 90 Prozent",
+    "Rund 25 Prozent"
+   ],
+   "aha": "Eine EU-weite CO2-Steuer gibt es nicht, dafür diesen Deckel mit handelbaren Zertifikaten. Er gilt unter anderem für Kraftwerke, Industrie und Flüge innerhalb Europas – dein Ticket enthält also schon einen CO2-Preis.",
+   "quote_clean": "Es gibt ein Emissionshandelsgesetz, das eine Obergrenze für CO2-Emissionen setzt. Nicht alle EU-weit, sondern ungefähr 50 Prozent der Emissionen sind abgedeckt.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 570-576 s, Einstimmigkeit bei EU-Steuern stimmt auch faktisch.",
+   "stand_note": "",
+   "statement": "Eine EU-weite Steuer müsste von allen Mitgliedstaaten einstimmig beschlossen werden, deshalb setzte die EU beim CO2 auf den Emissionshandel.",
+   "question": "Warum hat die EU statt einer CO2-Steuer einen Emissionshandel eingeführt?",
+   "answer": "Steuern bräuchten Einstimmigkeit aller Staaten",
+   "distractors": [
+    "Steuern verbietet das Völkerrecht",
+    "Die USA haben eine Steuer blockiert",
+    "Der Emissionshandel ist billiger zu verwalten"
+   ],
+   "aha": "Bei Steuern hat in der EU jedes Land ein Vetorecht. Ein einziges Nein reicht, und darum kam statt der Steuer der Emissionshandel.",
+   "quote_clean": "Es gibt keine EU-weiten Steuern, weil alle Staaten einstimmig darüber bestimmen müssten. Geht einfach politisch nicht.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Wer-sagt-das-Frage mit nur einem Gast; Distraktoren trivial.",
+   "stand_note": "",
+   "statement": "Gernot Wagner sagt, Interessengruppen kämpfen um ihre Gewinne – und der Planet verliert derzeit.",
+   "question": "Wer sagt im Podcast: „Der Planet verliert derzeit. Die Kosten des Klimawandels sind enorm“?",
+   "answer": "Gernot Wagner",
+   "distractors": [
+    "Ottmar Edenhofer",
+    "Andreas Sator",
+    "Greta Thunberg"
+   ],
+   "aha": "Wagner meint damit die paar wenigen, die am stärksten betroffen wären – Öl- und Kohlefirmen –, die mit aller Kraft gegen einen CO2-Preis argumentieren. Ihre Gewinne sind konzentriert, die Klimaschäden auf alle verteilt.",
+   "quote_clean": "Natürlich geht es um deren Geld, um deren Gewinne. Der Planet verliert derzeit. Die Kosten des Klimawandels sind enorm.",
+   "quality": 1
+  },
+  {
+   "i": 8,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "fairness"
+   ],
+   "note": "Prognose von 2019 hat sich bisher nicht erfüllt; als Spielfrage heute eher bloßstellend.",
+   "stand_note": "Stand 2019",
+   "statement": "Gernot Wagner hielt 2019 eine CO2-Steuer in den USA für eine Frage der Zeit, nicht des Ob.",
+   "question": "Was sagte Gernot Wagner 2019 über eine CO2-Steuer in den USA?",
+   "answer": "Nur eine Frage der Zeit",
+   "distractors": [
+    "Unter Trump bald fix",
+    "In den USA unmöglich",
+    "Kommt erst nach China"
+   ],
+   "aha": "Seine Begründung: Unter Trump schwingt das Pendel so stark in die eine Richtung, dass es danach umso stärker zurückschwingt. Ohne Trump, meint er, gäbe es vermutlich nicht einmal Fridays for Future.",
+   "quote_clean": "Ich würde sagen, es ist eine Frage der Zeit, wann wir in Amerika eine CO2-Steuer bekommen, nicht ob wir sie überhaupt bekommen.",
+   "quality": 2
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Beleg ok (956-983 s), aber OMV-Beispiel und Energielieferanten sind nicht im Transkript; neu gefasst.",
+   "stand_note": "",
+   "statement": "Eine CO2-Steuer wird nicht an der Supermarktkasse berechnet, sondern dort, wo CO2 ins Wirtschaftssystem kommt – bei wenigen Unternehmen.",
+   "question": "Wo wird eine CO2-Steuer laut Gernot Wagner eingehoben?",
+   "answer": "Bei wenigen Unternehmen am Anfang der Kette",
+   "distractors": [
+    "Direkt an der Supermarktkasse",
+    "Über die Lohnsteuer jedes Einzelnen",
+    "Beim Recycling am Ende"
+   ],
+   "aha": "Zahlen müssten das ein paar Dutzend Unternehmen ganz am Anfang der Kette, die die Kosten teilweise über die Preise an dich weitergeben. So musst du nicht bei jeder Büroklammer ausrechnen, wie viel CO2 drinsteckt – das Preissignal erledigt das.",
+   "quote_clean": "Es wird ja nicht direkt bei der Supermarktkasse berechnet. Es geht darum, den CO2-Input in das System, in die Wirtschaft, zu besteuern. Das heißt, die paar wenigen Unternehmen, und das sind tatsächlich wenige Unternehmen,",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1278-1280 s; Faustzahl Wagners, im Wortlaut als solche gekennzeichnet.",
+   "stand_note": "Stand 2019, Wagners Faustzahl",
+   "statement": "Laut Gernot Wagner verursacht ein Durchschnittseuropäer rund 10 Tonnen CO2 pro Jahr.",
+   "question": "Wie viele Tonnen CO2 verursacht ein:e Durchschnittseuropäer:in laut Gernot Wagner pro Jahr?",
+   "answer": "Rund 10 Tonnen",
+   "distractors": [
+    "Rund 1 Tonne",
+    "Rund 40 Tonnen",
+    "Rund 100 Tonnen"
+   ],
+   "aha": "Zehn Tonnen – das sind fünf Hin-und-Retour-Flüge über den Atlantik. Bei 50 Euro pro Tonne kommst du so auf rund 500 Euro CO2-Steuer im Jahr.",
+   "quote_clean": "Der Durchschnittseuropäer stößt 10 Tonnen CO2 pro Jahr aus.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1283-1288 s; Rechnung 10 t mal 50 Euro stimmt.",
+   "stand_note": "",
+   "statement": "Bei einer CO2-Steuer von 50 Euro pro Tonne würde ein Durchschnittseuropäer etwa 500 Euro im Jahr zahlen.",
+   "question": "Wie viel würde ein:e Durchschnittseuropäer:in bei 50 Euro pro Tonne jährlich an CO2-Steuer zahlen?",
+   "answer": "Rund 500 Euro",
+   "distractors": [
+    "Rund 50 Euro",
+    "Rund 5.000 Euro",
+    "Rund 2.000 Euro"
+   ],
+   "aha": "Zehn Tonnen mal 50 Euro, simple Rechnung. Und Wagner will das nicht obendrauf: Die Lohnsteuer soll im Gegenzug um ungefähr denselben Betrag sinken.",
+   "quote_clean": "Der Durchschnittseuropäer zahlt dann 500 Euro pro Jahr CO2-Steuer. Das ist je nach Perspektive eigentlich sehr machbar.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg ok (1317-1350 s); Distraktor Pensionsbeiträge ist mehrdeutig, ersetzt.",
+   "stand_note": "",
+   "statement": "Ökonomen schlagen einen Steuertausch vor: weniger Steuern auf Arbeit, die gut ist, und mehr auf CO2, das schadet.",
+   "question": "Was soll laut Gernot Wagner im Gegenzug sinken, wenn eine CO2-Steuer kommt?",
+   "answer": "Die Steuern auf Arbeit",
+   "distractors": [
+    "Die Mehrwertsteuer auf Kaffee",
+    "Die Steuern auf Benzin",
+    "Die Steuern auf Vermögen"
+   ],
+   "aha": "Steuern machen Dinge teurer und damit seltener. Bei Arbeit ist das blöd, bei CO2 genau erwünscht – also Lohnsteuer runter, CO2-Steuer rauf, und unterm Strich bleibt die Belastung gleich.",
+   "quote_clean": "Wir besteuern derzeit die Arbeit. Arbeit ist gut. Wir wollen, dass mehr Leute Arbeit finden und Arbeit haben. Warum besteuern wir etwas, das eigentlich gut wäre?",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Wer-sagt-das-Frage mit trivialen Distraktoren; aha enthält Behauptung (Dachwohnung) ohne Beleg.",
+   "stand_note": "",
+   "statement": "Gernot Wagner fasst seinen Vorschlag so zusammen: weniger Lohnsteuer, mehr CO2-Steuer.",
+   "question": "Wer bringt es im Podcast so auf den Punkt: „Weniger Lohnsteuer, mehr CO2-Steuer. Einfach. Simpel.“?",
+   "answer": "Gernot Wagner",
+   "distractors": [
+    "Arthur Pigou",
+    "Andreas Sator",
+    "Ottmar Edenhofer"
+   ],
+   "aha": "Für den Umweltökonomen ist das der Kern: Arbeit ist gut, CO2 ist schlecht, also besteuer das Schlechte. Wer in der Dachwohnung lebt und radelt, steigt dabei sogar besser aus.",
+   "quote_clean": "Weniger Lohnsteuer, mehr CO2-Steuer. Einfach. Simpel. Und es würde alles, was wir für richtig und wichtig halten, in die richtige Richtung lenken.",
+   "quality": 1
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1586-1590 s ok; Distraktoren angepasst (Edenhofer-Verweis nicht belegt).",
+   "stand_note": "",
+   "statement": "Auf die Frage, wie hoch die wahren CO2-Kosten sind, sagt Gernot Wagner, dass eine solche Berechnung gerade auf seinem Computer läuft.",
+   "question": "Was antwortet Gernot Wagner auf die Frage nach den wahren Kosten einer Tonne CO2?",
+   "answer": "Die Berechnung läuft gerade auf seinem Computer",
+   "distractors": [
+    "Er nennt die Zahl sofort aus dem Kopf",
+    "Er verweist auf sein Buch Klimaschock",
+    "Er tippt auf genau 400 Euro"
+   ],
+   "aha": "Die Antwort hätte es also in zwei Tagen gegeben – nur halt nicht im Podcast. Ernsthaft meint er: Eine richtige Zahl gibt es nicht, nur dass es mehr als 40, 50 Euro sein müssen.",
+   "quote_clean": "Eine dieser Berechnungen läuft gerade auf meinem eigenen Computer. Antwort gibt es in zwei Tagen.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Beleg bei 1823-1838 s; Lichtbogenöfen laufen meist mit Schrott, Aussage vorsichtiger gefasst; Distraktoren teils real (Holzkohle) ersetzt.",
+   "stand_note": "",
+   "statement": "Stahl lässt sich laut Wagner in Elektrolichtbogenöfen mit Strom herstellen; mit Ökostrom wäre das ein fast CO2-freier Weg.",
+   "question": "Womit lässt sich Stahl laut Wagner auch ohne Kohle herstellen?",
+   "answer": "Mit Strom im Lichtbogenofen",
+   "distractors": [
+    "Mit Erdöl im Hochofen",
+    "Mit Dampf aus Kohlekraftwerken",
+    "Mit Biomüll im Hochofen"
+   ],
+   "aha": "Auf Deutsch heißen die Dinger Elektrolichtbogenöfen, Wagner fiel das Wort nicht ein. Läuft der Strom aus Wind und Sonne, zahlt selbst die voestalpine laut Wagner null CO2-Steuer.",
+   "quote_clean": "Diese Stahlöfen gibt es tatsächlich schon. Electric Arc Furnaces – auf Deutsch kenne ich den Begriff nicht, aber die gibt es schon. Man kann tatsächlich Stahl nur mit Elektrizität herstellen.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1940-1947 s ok; erster Distraktor war als Negation sperrig, ersetzt.",
+   "stand_note": "",
+   "statement": "Ein Flugzeug, das nur mit Solarzellen auf den Flügeln angetrieben wird, hat bereits die Welt umrundet.",
+   "question": "Was hat ein Flugzeug mit Solarzellen auf den Flügeln schon geschafft?",
+   "answer": "Die Welt umrundet",
+   "distractors": [
+    "Tausende Passagiere befördert",
+    "Nur Testflüge über dem Flugplatz",
+    "Mit Passagieren den Atlantik überquert"
+   ],
+   "aha": "Gemeint ist die Solar Impulse, die 2016 die Weltumrundung geschafft hat – allerdings mit einem einzigen Piloten im Cockpit. Kommerziell fliegst du damit noch lange nicht nach Amerika.",
+   "quote_clean": "Es gibt auch diesen Solarflieger, der mittlerweile die Welt umrundet hat, mit Solaranlagen am Flügel.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 2140-2144 s ok; Distraktor Brauereien nicht eindeutig falsch (CO2-Verkauf), ersetzt.",
+   "stand_note": "",
+   "statement": "Firmen in der Schweiz und Kanada holen CO2 direkt aus der Luft – das eine vergräbt es in der Erde, das andere macht daraus Treibstoff.",
+   "question": "Was macht das Schweizer Unternehmen, von dem Gernot Wagner erzählt, mit CO2 aus der Luft?",
+   "answer": "Es vergräbt es in der Erde",
+   "distractors": [
+    "Es verwandelt es in Biosprit",
+    "Es schießt es ins All",
+    "Es löst es im Meer auf"
+   ],
+   "aha": "CO2 aus dünner Luft zu holen geht also schon, ist aber verdammt teuer. Damit sich das rechnet, bräuchte es laut Wagner erst recht eine hohe CO2-Steuer.",
+   "quote_clean": "Beim Schweizer Unternehmen geht es darum, das CO2 in der Erde zu vergraben. Bei Carbon Engineering geht es darum, das CO2 in Sprit umzuwandeln und dann CO2-negative Flüssigtreibstoffe herzustellen.",
+   "quality": 4
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2252-2256 s und 2272-2298 s.",
+   "stand_note": "",
+   "statement": "Beim Solar Geoengineering, also dem Reflektieren von Sonnenlicht, sieht Gernot Wagner das Problem darin, dass es zu billig ist.",
+   "question": "Was ist laut Gernot Wagner das Problem beim Solar Geoengineering?",
+   "answer": "Es ist eigentlich zu billig",
+   "distractors": [
+    "Es ist viel zu teuer",
+    "Es wirkt erst nach 500 Jahren",
+    "Es ist technisch unmöglich"
+   ],
+   "aha": "Weil es so billig ist, können Ölkonzerne und Ölstaaten darauf zeigen und sagen: Da ist die Lösung, wir brauchen keine CO2-Steuer. Das CO2-Problem selbst löst es aber nicht.",
+   "quote_clean": "Da ist das Problem, dass es eigentlich zu billig ist. Das klingt jetzt komisch, weil rational gesehen doch nie irgendetwas zu billig sein kann.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2401-2403 s; Distraktoren sind andere Begriffe.",
+   "stand_note": "",
+   "statement": "Wenn eine vermeintliche Notlösung dazu verleitet, weniger gegen das eigentliche Problem zu tun, nennen Ökonomen das Moral Hazard.",
+   "question": "Wie nennen Ökonomen es, wenn eine Absicherung dazu verleitet, das eigentliche Problem zu vernachlässigen?",
+   "answer": "Moral Hazard",
+   "distractors": [
+    "Trittbrettfahrer-Effekt",
+    "Rebound-Effekt",
+    "Tragik der Allmende"
+   ],
+   "aha": "Beim Geoengineering heißt das: Wenn es billige Spiegel im All gibt, warum dann noch Emissionen senken? Genau diese Ausrede fürchtet Wagner bei Ölkonzernen und Ölstaaten.",
+   "quote_clean": "Da gibt es sogar einen Fachausdruck dazu, Moral Hazard heißt dieses Phänomen, und die Gefahr besteht natürlich.",
+   "quality": 4
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg bei 2329-2344 s; aha überzeichnete Wagners Einschätzung (er sagt nur, wir seien mittlerweile schon dort).",
+   "stand_note": "",
+   "statement": "Gernot Wagner vergleicht Solar Geoengineering mit Chemotherapie: Für den schwer Kranken ist sie ein Segen, für Gesunde kein Grund, mit dem Rauchen anzufangen.",
+   "question": "Mit welcher medizinischen Behandlung vergleicht Gernot Wagner Solar Geoengineering zuerst?",
+   "answer": "Mit Chemotherapie",
+   "distractors": [
+    "Mit einer Impfung",
+    "Mit einer Herztransplantation",
+    "Mit einer Blutwäsche"
+   ],
+   "aha": "Nur weil es eine Chemo gibt, fängt die 15-Jährige nicht zu rauchen an. Die große Frage ist, ob der Planet schon der 70-jährige Patient ist – und Wagner meint: Ja, so weit sind wir mittlerweile.",
+   "quote_clean": "Es ist wie Chemotherapie in dem Sinn, dass der 70-jährige Krebspatient natürlich froh ist, dass es Chemotherapie gibt. Die 15-Jährige sollte nicht mit dem Rauchen anfangen.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-das-Frage mit nur einem Gast; Distraktoren trivial.",
+   "stand_note": "",
+   "statement": "Gernot Wagner nennt Solar Geoengineering ein planetarisches Schmerzmittel, das das Grundproblem nicht löst.",
+   "question": "Wer vergleicht Solar Geoengineering im Podcast mit einem Schmerzmittel für den Planeten?",
+   "answer": "Gernot Wagner",
+   "distractors": [
+    "Ottmar Edenhofer",
+    "Andreas Sator",
+    "Arthur Pigou"
+   ],
+   "aha": "Sein Bild: der übergewichtige 70-Jährige mit Bandscheibenvorfall, der jetzt froh ist über Schmerzmittel – und damit wenigstens wieder Stiegen steigen kann. Die Diät der letzten 60 Jahre ersetzt das aber nicht.",
+   "quote_clean": "Solar Geoengineering ist ungefähr wie ein Schmerzmittel. Das fundamentale Problem wird dadurch nicht gelöst.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zu Andreas; aha behauptet kurze Antwort Wählen, im Ausschnitt nicht belegt.",
+   "stand_note": "",
+   "statement": "Andreas greift für seine Abschlussfrage das Schmerzmittel-Bild des Gastes auf und fragt, was Hörer:innen heute tun können.",
+   "question": "Welches Bild greift Andreas in seiner letzten Frage an Gernot Wagner auf?",
+   "answer": "Überdosis planetarischer Schmerzmittel",
+   "distractors": [
+    "Der 70-jährige Krebspatient",
+    "Das schwingende Pendel",
+    "Der Apfel aus Südafrika"
+   ],
+   "aha": "Typisch Andreas: Er nimmt das Bild des Gastes und macht daraus die Frage, was du selbst tun kannst. Wagners Antwort war kurz und politisch: wählen.",
+   "quote_clean": "Meine letzte Frage: Wenn meinen Hörerinnen und Hörern das Klima ein Anliegen ist und sie nicht irgendwann auf eine Überdosis planetarischer Schmerzmittel angewiesen sein wollen – was können sie jetzt und heute tun?",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 2739-2744 s; Frage zu vage, präzisiert.",
+   "stand_note": "Stand 2019",
+   "statement": "Gernot Wagner ist Vegetarier und hatte noch nie einen Führerschein.",
+   "question": "Was erzählt Gernot Wagner über seine eigene Mobilität?",
+   "answer": "Er hatte noch nie einen Führerschein",
+   "distractors": [
+    "Er fliegt nie mehr in die USA",
+    "Er fährt ein Elektroauto",
+    "Er lebt ohne Strom"
+   ],
+   "aha": "Er ist Vegetarier und hat nie einen Führerschein gemacht. Dabei ist er sich bewusst, dass er reich und privilegiert genug ist, um so zu leben. Einzelaktionen sind für ihn richtig, aber keine Lösung – dafür braucht es das System.",
+   "quote_clean": "Natürlich sollen wir das. Ich selbst bin Vegetarier, ich habe keinen Führerschein, bin noch nie gefahren, habe noch nie einen Führerschein gehabt.",
+   "quality": 3
+  }
+ ],
+ "id": "68",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

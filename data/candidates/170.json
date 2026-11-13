@@ -1,0 +1,707 @@
+{
+ "theme": "Wirtschaft & Arbeit",
+ "summary": "Warum hat der Staat Schulden, wer borgt ihm das Geld fast gratis, und ab wann wird's eigentlich gefährlich?",
+ "candidates": [
+  {
+   "kind": "aha",
+   "t": 229,
+   "speaker": "Markus Marterbauer",
+   "quote": "Es ist interessant, dass der Staat etwa in Österreich gleich stark verschuldet ist wie alle Unternehmen zusammen.",
+   "quote_clean": "Es ist interessant, dass der Staat in Österreich etwa gleich stark verschuldet ist wie alle Unternehmen zusammen.",
+   "statement": "Der österreichische Staat hat ungefähr gleich viele Schulden wie alle privaten Unternehmen in Österreich zusammen.",
+   "question": "Wer hat in Österreich ungefähr gleich viele Schulden wie der Staat?",
+   "answer": "Alle Unternehmen zusammen",
+   "distractors": [
+    "Alle Haushalte zusammen",
+    "Die Bundesländer zusammen",
+    "Die Banken zusammen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Staat und Unternehmen sind die zwei großen Investoren im Land: Bahnstrecken, Schulen, Maschinen, Fabriken. Und beide finanzieren einen Teil davon auf Pump, nur redet bei den Firmen kaum wer drüber.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Staatsschulden",
+    "Unternehmen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 240,
+   "speaker": "Markus Marterbauer",
+   "quote": "Also die Summe der Schulden der privaten Unternehmen sind circa so hoch wie die Schulden des Staates. Beides gut 300 Milliarden Euro.",
+   "quote_clean": "Die Summe der Schulden der privaten Unternehmen ist circa so hoch wie die Schulden des Staates. Beides gut 300 Milliarden Euro.",
+   "statement": "Die Staatsschulden Österreichs lagen 2021 bei gut 300 Milliarden Euro.",
+   "question": "Wie viele Milliarden Euro Schulden hatte der österreichische Staat 2021 ungefähr?",
+   "answer": "Gut 300 Milliarden Euro",
+   "distractors": [
+    "Gut 80 Milliarden Euro",
+    "Gut 900 Milliarden Euro",
+    "Gut 1.500 Milliarden Euro"
+   ],
+   "number_value": 300,
+   "number_unit": "Milliarden Euro",
+   "slider_min": 50,
+   "slider_max": 1000,
+   "log_scale": false,
+   "aha": "Gut 300 Milliarden, und genauso viel schulden alle privaten Unternehmen zusammen. Klingt nach irrsinnig viel, aber dem stehen auch Bahnstrecken, Schulen und Grundstücke gegenüber.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Staatsschulden",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 272,
+   "speaker": "Markus Marterbauer",
+   "quote": "Im Wesentlichen entstehen Staatsschulden einfach, das klingt jetzt banal, daraus, dass die Ausgaben des Staates in einem Jahr höher sind als die Einnahmen.",
+   "quote_clean": "Im Wesentlichen entstehen Staatsschulden einfach, das klingt jetzt banal, daraus, dass die Ausgaben des Staates in einem Jahr höher sind als die Einnahmen.",
+   "statement": "Staatsschulden entstehen, weil die Einnahmen stark von der Konjunktur abhängen und am Jahresende oft mehr ausgegeben als eingenommen wurde.",
+   "question": "Warum lässt sich das Defizit eines Staates im Voraus so schwer planen?",
+   "answer": "Die Steuereinnahmen hängen von der Wirtschaftslage ab",
+   "distractors": [
+    "Das Parlament beschließt kein Budget",
+    "Die Zinsen werden jährlich neu verhandelt",
+    "Die EU legt die Ausgaben fest"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ausgaben stehen im Budget, Einnahmen nicht so wirklich. Wenn Jobs, Löhne und Konsum wachsen, sprudeln Lohnsteuer und Mehrwertsteuer von selbst, in einer Flaute eben nicht. Was am Ende fehlt, ist das Defizit.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Budget",
+    "Defizit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 320,
+   "speaker": "Markus Marterbauer",
+   "quote": "Das heißt, der Staat schreibt sozusagen international aus, ich möchte mir für zehn Jahre zwei Milliarden Euro borgen und dann stellen sich die internationalen Anleger von deutschen Banken, schottischen Pensionskassen, amerikanischen Fonds an und zeichnen diese Staatsanleihen, das heißt borgen dem Staat Geld.",
+   "quote_clean": "Der Staat schreibt international aus: Ich möchte mir für zehn Jahre zwei Milliarden Euro borgen. Dann stellen sich internationale Anleger von deutschen Banken, schottischen Pensionskassen und amerikanischen Fonds an und zeichnen diese Staatsanleihen, borgen dem Staat also Geld.",
+   "statement": "Der Staat verschuldet sich über Anleihen, die er international ausschreibt und die von Banken, Pensionskassen und Fonds gezeichnet werden.",
+   "question": "Wie leiht sich der österreichische Staat hauptsächlich Geld?",
+   "answer": "Er gibt Staatsanleihen an Anleger aus",
+   "distractors": [
+    "Er nimmt Kredite bei der EZB auf",
+    "Er leiht sich Geld von den Bundesländern",
+    "Er druckt über die Nationalbank Geld"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Staat sagt sinngemäß: Wer borgt mir zwei Milliarden für zehn Jahre? Dann stellen sich deutsche Banken, schottische Pensionskassen und amerikanische Fonds an. Und diese Anleihen kann man später auch weiterverkaufen, anders als einen Kredit.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Anleihen",
+    "Finanzmärkte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 340,
+   "speaker": "Markus Marterbauer",
+   "quote": "Im Moment ist es so, dass wenn der österreichische Staat eine Anleihe begibt, die etwa vier- bis fünffach überzeichnet ist,",
+   "quote_clean": "Im Moment ist es so, dass, wenn der österreichische Staat eine Anleihe begibt, die etwa vier- bis fünffach überzeichnet ist.",
+   "statement": "Österreichische Staatsanleihen waren 2021 etwa vier- bis fünffach überzeichnet: Die Nachfrage war um ein Vielfaches höher als der Geldbedarf.",
+   "question": "Wie oft überzeichnet waren österreichische Staatsanleihen 2021 etwa?",
+   "answer": "Vier- bis fünffach",
+   "distractors": [
+    "Knapp einfach",
+    "Zwanzig- bis dreißigfach",
+    "Zwei- bis dreifach"
+   ],
+   "number_value": 4.5,
+   "number_unit": "-fach",
+   "slider_min": 1,
+   "slider_max": 20,
+   "log_scale": false,
+   "aha": "Wenn Österreich zwei Milliarden haben will, bieten Anleger acht bis zehn. Die Investoren streiten sich quasi darum, der Republik Geld borgen zu dürfen.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Anleihen",
+    "Vertrauen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 388,
+   "speaker": "Andreas Sator",
+   "quote": "Und im Moment ist, wenn man so ein zehnjähriges Staatspapier von Österreich kauft, sagt Blumberg, da ist der Durchschnitt 0,08 Prozent, also 0,08 Prozent Zinsen.",
+   "quote_clean": "Im Moment ist es, wenn man so ein zehnjähriges Staatspapier von Österreich kauft, laut Bloomberg im Durchschnitt 0,08 Prozent Zinsen.",
+   "statement": "Zehnjährige österreichische Staatsanleihen brachten im Juni 2021 laut Bloomberg nur rund 0,08 Prozent Zinsen.",
+   "question": "Wie viel Prozent Zinsen brachte eine zehnjährige österreichische Staatsanleihe im Juni 2021?",
+   "answer": "0,08 Prozent",
+   "distractors": [
+    "1,5 Prozent",
+    "3,2 Prozent",
+    "0,8 Prozent"
+   ],
+   "number_value": 0.08,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 3,
+   "log_scale": false,
+   "aha": "Quasi gratis Geld für die Republik: Sie muss in zehn Jahren nur zurückzahlen, was sie geborgt hat. Das macht viele Investitionen, etwa in Öffis, plötzlich sehr vernünftig.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Zinsen",
+    "Anleihen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 466,
+   "speaker": "Markus Marterbauer",
+   "quote": "Ja, klingt verrückt, aber der österreichische Staat ist eben ein sehr, sehr guter Schuldner. Das heißt, der schottische Pensionsfonds verlässt sich darauf, dass er das Geld von uns zurückbekommt.",
+   "quote_clean": "Klingt verrückt, aber der österreichische Staat ist eben ein sehr guter Schuldner. Der schottische Pensionsfonds verlässt sich darauf, dass er das Geld von uns zurückbekommt.",
+   "statement": "Anleger borgen Österreich fast zinslos Geld, weil der Staat als sehr sicherer Schuldner gilt, der anders als ein Unternehmen nicht in Konkurs geht.",
+   "question": "Warum verlangen Anleger von Österreich kaum Zinsen?",
+   "answer": "Österreich gilt als sehr sicherer Schuldner",
+   "distractors": [
+    "Die EU garantiert alle Anleihen",
+    "Österreich zahlt Zinsen in Gold",
+    "Die Anleihen sind steuerfrei"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Unternehmen kann in zehn Jahren pleite sein, die Republik Österreich wird es ziemlich sicher noch geben. Für einen Pensionsfonds ist das ein sicherer Parkplatz, und dafür verzichtet er eben auf Zinsen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zinsen",
+    "Risiko"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 506,
+   "speaker": "Markus Marterbauer",
+   "quote": "Österreich hat ja zuletzt auch selbst hundertjährige Anleihen gegeben mit relativ niedrigen Zinssätzen, ein Prozent und zum Teil drüber.",
+   "quote_clean": "Österreich hat zuletzt auch selbst hundertjährige Anleihen begeben, mit relativ niedrigen Zinssätzen von einem Prozent und zum Teil darüber.",
+   "statement": "Österreich hat Staatsanleihen mit einer Laufzeit von 100 Jahren ausgegeben, zu Zinsen um ein Prozent.",
+   "question": "Welche Laufzeit hatten die längsten Anleihen, die Österreich zuletzt ausgegeben hat?",
+   "answer": "100 Jahre",
+   "distractors": [
+    "30 Jahre",
+    "50 Jahre",
+    "200 Jahre"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Hundert Jahre, und das zu rund einem Prozent Zinsen. Man kann sich als Staat also fast ewig verschulden, weil Anleger darauf vertrauen, dass es die Republik auch 2117 noch gibt.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Anleihen",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 593,
+   "speaker": "Markus Marterbauer",
+   "quote": "Und jetzt wäre es ökonomisch falsch, wenn die heutigen Steuerzahlerinnen und Steuerzahler den gesamten Basistunnel zahlen müssen.",
+   "quote_clean": "Es wäre ökonomisch falsch, wenn die heutigen Steuerzahlerinnen und Steuerzahler den gesamten Basistunnel zahlen müssten.",
+   "statement": "Langfristige Investitionen wie der Brenner-Basistunnel werden sinnvollerweise über Schulden finanziert, damit alle Generationen, die davon profitieren, mitzahlen.",
+   "question": "Warum ist es laut Ökonomen sinnvoll, einen großen Tunnel über Schulden zu finanzieren?",
+   "answer": "Künftige Generationen nutzen ihn und zahlen mit",
+   "distractors": [
+    "Weil Steuern dafür verboten sind",
+    "Weil Tunnel keine Zinsen kosten",
+    "Weil die EU die Schulden übernimmt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Brenner-Basistunnel kostet rund zehn Milliarden und wird über viele Generationen genutzt. Wenn ihn nur die heutigen Steuerzahler:innen stemmen, zahlen sie für die Enkel mit. Über Anleihen zahlen die künftigen Nutzer:innen ihren Teil.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Investitionen",
+    "Generationen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 661,
+   "speaker": "Markus Marterbauer",
+   "quote": "Denn wenn der Staat seine Ausgaben kürzt, bedeutet das, es gibt weniger Familienbeihilfen oder weniger Arbeitslosengelder, weniger Pensionen. Und die Einnahmen der Haushalte sinken, die können selber wieder weniger ausgeben.",
+   "quote_clean": "Denn wenn der Staat seine Ausgaben kürzt, gibt es weniger Familienbeihilfen, weniger Arbeitslosengelder, weniger Pensionen. Die Einnahmen der Haushalte sinken, und sie können selbst weniger ausgeben.",
+   "statement": "Wer in einer Rezession Staatsausgaben kürzt, verschärft die Krise, weil Haushalte weniger Geld haben, weniger ausgeben und dadurch Jobs und Steuereinnahmen weiter sinken.",
+   "question": "Was passiert laut Ökonomen, wenn ein Staat mitten in einer Rezession stark spart?",
+   "answer": "Die Krise verschärft sich",
+   "distractors": [
+    "Die Zinsen steigen sofort stark",
+    "Die Arbeitslosigkeit sinkt rasch",
+    "Die Inflation fällt unter null"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Weniger Familienbeihilfe und Arbeitslosengeld heißt: Die Leute geben weniger aus, Firmen verkaufen weniger, Jobs gehen verloren, und dem Staat fehlen erst recht Einnahmen. Ein Teufelskreis, den ein Defizit abbremsen kann.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Rezession",
+    "Sparpolitik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 99,
+   "speaker": "Andreas Sator",
+   "quote": "Hallo Markus, schön, dass du da bist. Magst du dich zu Beginn bitte kurz vorstellen?",
+   "quote_clean": "Hallo Markus, schön, dass du da bist. Magst du dich zu Beginn bitte kurz vorstellen?",
+   "statement": "Andreas beginnt seine Gespräche oft damit, den Gast zu bitten, sich kurz selbst vorzustellen.",
+   "question": "Womit startet Andreas in dieser Folge das Gespräch mit seinem Gast?",
+   "answer": "Er bittet ihn, sich kurz vorzustellen",
+   "distractors": [
+    "Er fragt nach seinem Lieblingsbuch",
+    "Er fragt, wie es ihm heute geht",
+    "Er erzählt einen Witz über Ökonomen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Klassiker bei Erklär mir die Welt: Erst einmal soll der Gast selber sagen, wer er ist. Markus erzählt dann von WU, WIFO und Arbeiterkammer.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Podcast",
+    "Einstieg"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 790,
+   "speaker": "Markus Marterbauer",
+   "quote": "Der Staat kann das eigentlich nicht tun und soll es auch nicht tun, im Gegenteil, er sollte eigentlich, wie wir Ökonomen sagen, antizyklisch vorgehen, also in der Krise sozusagen gerade investieren,",
+   "quote_clean": "Der Staat kann das eigentlich nicht tun und soll es auch nicht tun. Im Gegenteil, er sollte, wie wir Ökonomen sagen, antizyklisch vorgehen, also gerade in der Krise investieren.",
+   "statement": "Anders als Haushalte und Unternehmen sollte der Staat in der Krise nicht zurückhaltend sein, sondern antizyklisch gerade dann investieren.",
+   "question": "Wie sollte sich der Staat laut Markus Marterbauer in einer Wirtschaftskrise verhalten?",
+   "answer": "Antizyklisch, also gerade dann investieren",
+   "distractors": [
+    "Wie ein Haushalt sparen",
+    "Steuern sofort deutlich erhöhen",
+    "Investitionen um ein Jahr verschieben"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Haushalte legen mehr auf die Seite, wenn der Nachbar arbeitslos wird, Firmen verschieben den Maschinenkauf. Wenn der Staat das auch macht, bricht alles noch mehr ein. Darum soll er genau dann gegensteuern.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Konjunktur",
+    "Krise"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 889,
+   "speaker": "Markus Marterbauer",
+   "quote": "Wir würden immer beide Seiten der Bilanz anschauen. Beim Staat schauen wir aber immer nur auf die Verschuldung.",
+   "quote_clean": "Wir würden immer beide Seiten der Bilanz anschauen. Beim Staat schauen wir aber immer nur auf die Verschuldung.",
+   "statement": "Bei Unternehmen betrachtet man Schulden und Vermögen gemeinsam, beim Staat schaut man meist nur auf die Schulden.",
+   "question": "Was kritisiert Markus Marterbauer an der üblichen Debatte über Staatsschulden?",
+   "answer": "Man ignoriert das Vermögen des Staates",
+   "distractors": [
+    "Man unterschätzt die Zinslast",
+    "Man vergleicht nur mit Deutschland",
+    "Man rechnet die Gemeinden nicht mit"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei einer Firma würde niemand nur auf die Schulden schauen, ohne Maschinen, Gebäude und Patente mitzurechnen. Beim Staat passiert genau das, auch weil sich sein Vermögen schwer bewerten lässt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bilanz",
+    "Vermögen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 900,
+   "speaker": "Markus Marterbauer",
+   "quote": "Dem österreichischen Staat gehört der Artersee. Wie viel ist der Artersee wert? Ja, ich würde sagen, ganz viel, weil ich komme selber aus der Gegend. Man kann dort wunderbar schwimmen.",
+   "quote_clean": "Dem österreichischen Staat gehört der Attersee. Wie viel ist der Attersee wert? Ich würde sagen, ganz viel, weil ich selber aus der Gegend komme. Man kann dort wunderbar schwimmen.",
+   "statement": "Um zu zeigen, wie schwer Staatsvermögen zu bewerten ist, fragt Markus Marterbauer, wie viel der Attersee wert ist.",
+   "question": "Mit welchem See zeigt Markus Marterbauer, wie schwer Staatsvermögen zu bewerten ist?",
+   "answer": "Mit dem Attersee",
+   "distractors": [
+    "Mit dem Wörthersee",
+    "Mit dem Neusiedler See",
+    "Mit dem Traunsee"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Attersee gehört der Republik, aber was steht da in der Bilanz? Markus meint: ganz viel, er kommt nämlich selber aus der Gegend und schwimmt dort gern. Objektiv ist anders, aber ehrlich.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Vermögen",
+    "Attersee"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 931,
+   "speaker": "Markus Marterbauer",
+   "quote": "Es wurde viel investiert und ich würde grundsätzlich glauben, aber mit allen Bewertungsunsicherheiten, dass das staatliche Vermögen etwa den staatlichen Schulden entspricht, größenordnungsmäßig.",
+   "quote_clean": "Es wurde viel investiert, und ich würde grundsätzlich glauben, mit allen Bewertungsunsicherheiten, dass das staatliche Vermögen größenordnungsmäßig etwa den staatlichen Schulden entspricht.",
+   "statement": "Das Vermögen des österreichischen Staates entspricht laut Markus Marterbauer größenordnungsmäßig etwa seinen Schulden.",
+   "question": "Wie groß ist das Vermögen des österreichischen Staates im Vergleich zu seinen Schulden ungefähr?",
+   "answer": "Etwa gleich groß",
+   "distractors": [
+    "Etwa ein Zehntel davon",
+    "Etwa doppelt so groß",
+    "Etwa ein Viertel davon"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Vor allem Städten und Gemeinden gehören sehr viele Grundstücke und Immobilien. Die genaue Bewertung ist schwierig, aber unterm Strich steht den Schulden einiges gegenüber.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Vermögen",
+    "Staatsschulden"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1170,
+   "speaker": "Markus Marterbauer",
+   "quote": "Die 60 Prozent sind aus Zufall entstanden, weil zu Beginn der Währungsunion 1997 der Durchschnitt der Staatsschulden im Euro war um etwa 60 Prozent.",
+   "quote_clean": "Die 60 Prozent sind aus Zufall entstanden, weil zu Beginn der Währungsunion 1997 der Durchschnitt der Staatsschulden im Euroraum bei etwa 60 Prozent lag.",
+   "statement": "Die EU-Schuldengrenze von 60 Prozent der Wirtschaftsleistung entspricht einfach dem damaligen Durchschnitt der Staatsschulden zu Beginn der Währungsunion.",
+   "question": "Woher kommt die EU-Schuldengrenze von 60 Prozent der Wirtschaftsleistung?",
+   "answer": "Sie war damals der Durchschnittswert",
+   "distractors": [
+    "Aus einer Studie des IWF",
+    "Aus dem deutschen Grundgesetz",
+    "Aus einem Nobelpreis-Modell"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Keine Formel, keine Studie: Man hat einfach genommen, was zu Beginn der Währungsunion da war. Markus findet sie deshalb im Wesentlichen willkürlich, weil sie nicht unterscheidet, ob mit den Schulden Infrastruktur oder bloß Subventionen finanziert wurden.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "EU",
+    "Fiskalregeln"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1038,
+   "speaker": "Andreas Sator",
+   "quote": "In der Corona-Krise ist das in Österreich von 70 auf zuletzt 84 Prozent gestiegen.",
+   "quote_clean": "In der Corona-Krise ist das in Österreich von 70 auf zuletzt 84 Prozent gestiegen.",
+   "statement": "Die Staatsschuldenquote Österreichs stieg in der Corona-Krise von rund 70 auf 84 Prozent der Wirtschaftsleistung.",
+   "question": "Auf wie viel Prozent der Wirtschaftsleistung stiegen Österreichs Staatsschulden in der Corona-Krise?",
+   "answer": "84 Prozent",
+   "distractors": [
+    "64 Prozent",
+    "104 Prozent",
+    "124 Prozent"
+   ],
+   "number_value": 84,
+   "number_unit": "Prozent",
+   "slider_min": 40,
+   "slider_max": 140,
+   "log_scale": false,
+   "aha": "Vor Corona waren es rund 70 Prozent, dann ging es in einem Jahr auf 84 hinauf, und Markus rechnet eher mit 87, 88. Die EU-Grenze von 60 Prozent ist da weit weg, überschuldet ist Österreich laut ihm trotzdem nicht.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Schuldenquote",
+    "Corona"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1326,
+   "speaker": "Markus Marterbauer",
+   "quote": "Also nur um eine Zahl zu nennen, 70 Prozent aller Staatsausgaben werden für soziales, Gesundheit und Bildung ausgegeben.",
+   "quote_clean": "Nur um eine Zahl zu nennen: 70 Prozent aller Staatsausgaben werden für Soziales, Gesundheit und Bildung ausgegeben.",
+   "statement": "Rund 70 Prozent aller österreichischen Staatsausgaben fließen in Soziales, Gesundheit und Bildung.",
+   "question": "Wie viel Prozent der österreichischen Staatsausgaben gehen in Soziales, Gesundheit und Bildung?",
+   "answer": "70 Prozent",
+   "distractors": [
+    "30 Prozent",
+    "45 Prozent",
+    "90 Prozent"
+   ],
+   "number_value": 70,
+   "number_unit": "Prozent",
+   "slider_min": 10,
+   "slider_max": 95,
+   "log_scale": false,
+   "aha": "Sieben von zehn Euro, die der Staat ausgibt, landen bei Pensionen, Spitälern, Schulen und Co. Also Ausgaben, die der Bevölkerung recht unmittelbar zugutekommen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Staatsausgaben",
+    "Sozialstaat"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1523,
+   "speaker": "Markus Marterbauer",
+   "quote": "Vor zehn Jahren haben wir pro Jahr, der österreichische Staat, noch neun Milliarden Euro an Zinsen für vergangene Schulden gezahlt. Im Moment sind es gut vier Milliarden",
+   "quote_clean": "Vor zehn Jahren hat der österreichische Staat pro Jahr noch neun Milliarden Euro an Zinsen für vergangene Schulden gezahlt. Im Moment sind es gut vier Milliarden.",
+   "statement": "Der österreichische Staat zahlte um 2011 rund neun Milliarden Euro Zinsen pro Jahr, 2021 nur noch gut vier Milliarden.",
+   "question": "Wie viele Milliarden Euro Zinsen zahlte Österreichs Staat um 2011 pro Jahr ungefähr?",
+   "answer": "Rund 9 Milliarden Euro",
+   "distractors": [
+    "Rund 2 Milliarden Euro",
+    "Rund 25 Milliarden Euro",
+    "Rund 50 Milliarden Euro"
+   ],
+   "number_value": 9,
+   "number_unit": "Milliarden Euro",
+   "slider_min": 1,
+   "slider_max": 40,
+   "log_scale": false,
+   "aha": "Neun Milliarden waren es vor zehn Jahren, 2021 nur noch gut vier, Tendenz Richtung zwei, drei Milliarden. Trotz höherer Schulden zahlt der Staat also viel weniger Zinsen, weil das Zinsniveau so tief ist.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Zinsen",
+    "Budget"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1487,
+   "speaker": "Markus Marterbauer",
+   "quote": "Also das sind in der Gegend von 20 Milliarden Euro, die man sich dann erspart, wenn die Unternehmen auf eigenen Beinen wieder stellen könnten.",
+   "quote_clean": "Das sind in der Gegend von 20 Milliarden Euro, die man sich dann erspart, wenn die Unternehmen wieder auf eigenen Beinen stehen können.",
+   "statement": "Die Corona-Hilfen für Unternehmen in Österreich beliefen sich auf rund 20 Milliarden Euro.",
+   "question": "Wie viele Milliarden Euro machten die Corona-Unternehmenshilfen in Österreich etwa aus?",
+   "answer": "Rund 20 Milliarden Euro",
+   "distractors": [
+    "Rund 2 Milliarden Euro",
+    "Rund 60 Milliarden Euro",
+    "Rund 150 Milliarden Euro"
+   ],
+   "number_value": 20,
+   "number_unit": "Milliarden Euro",
+   "slider_min": 1,
+   "slider_max": 100,
+   "log_scale": true,
+   "aha": "So hohe Subventionen für Unternehmen gab es laut Markus noch nie wie 2020 und 2021. Fallen sie weg, konsolidiert sich das Budget ein Stück weit von selbst.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Corona",
+    "Subventionen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1441,
+   "speaker": "Markus Marterbauer",
+   "quote": "Denn nach der Finanzkrise 2009 haben sich die Länder rasch darauf verständigt, jetzt ist vor allem auch gegenüber Ländern wie Spanien, Italien, jetzt ist rasch wieder Abbau der Staatsschulden angesagt. Und die Folge war, dass die Wirtschaft neuerlich eingebrochen ist und die Arbeitslosigkeit wieder enorm gestiegen ist.",
+   "quote_clean": "Nach der Finanzkrise 2009 haben sich die Länder rasch darauf verständigt, vor allem gegenüber Ländern wie Spanien und Italien, dass rasch wieder Abbau der Staatsschulden angesagt ist. Die Folge war, dass die Wirtschaft neuerlich eingebrochen und die Arbeitslosigkeit wieder enorm gestiegen ist.",
+   "statement": "Der rasche Schuldenabbau in Europa nach der Finanzkrise 2009 führte zu einem neuerlichen Wirtschaftseinbruch und stark steigender Arbeitslosigkeit.",
+   "question": "Was folgte in Europa auf den raschen Schuldenabbau nach der Finanzkrise 2009?",
+   "answer": "Ein neuerlicher Wirtschaftseinbruch",
+   "distractors": [
+    "Ein langer Aufschwung",
+    "Eine Phase hoher Inflation",
+    "Ein Rekord bei den Exporten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Lehre aus damals: Sparen erst, wenn die Krise wirklich vorbei ist. Markus würde das etwa daran festmachen, dass die Arbeitslosigkeit wieder auf dem Niveau von 2019 ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Finanzkrise",
+    "Sparpolitik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1615,
+   "speaker": "Markus Marterbauer",
+   "quote": "Weil je höher die Staatsschulden sind, desto abhängiger wird man davon, dass die Zinsen niedrig bleiben.",
+   "quote_clean": "Je höher die Staatsschulden sind, desto abhängiger wird man davon, dass die Zinsen niedrig bleiben.",
+   "statement": "Hohe Staatsschulden sind bei niedrigen Zinsen kaum eine Last, machen einen Staat aber anfällig, sobald die Zinsen wieder steigen.",
+   "question": "Warum sind hohe Staatsschulden auch bei Niedrigzinsen riskant?",
+   "answer": "Steigende Zinsen würden das Budget belasten",
+   "distractors": [
+    "Anleihen verlieren automatisch ihren Wert",
+    "Die EU verhängt sofort Strafen",
+    "Die Inflation steigt automatisch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Steigt das Zinsniveau von einem auf vier, fünf Prozent, geht plötzlich ein großer Teil der Steuereinnahmen für Zinsen drauf. Das fehlt dann bei Sozialleistungen und Investitionen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zinsen",
+    "Risiko"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1223,
+   "speaker": "Markus Marterbauer",
+   "quote": "Ohne Zweifel kann der Staat Geld für unsinnige Dinge ausgeben, aber er kann auch Geld für Bildung, für Pflege, gegen den Klimawandel ausgeben.",
+   "quote_clean": "Ohne Zweifel kann der Staat Geld für unsinnige Dinge ausgeben, aber er kann auch Geld für Bildung, für Pflege, gegen den Klimawandel ausgeben.",
+   "statement": "Ob Staatsschulden sinnvoll sind, hängt davon ab, wofür das Geld ausgegeben wird.",
+   "question": "Worauf kommt es laut Markus Marterbauer bei Staatsschulden vor allem an?",
+   "answer": "Wofür das Geld ausgegeben wird",
+   "distractors": [
+    "Wie hoch die Schuldenquote ist",
+    "Wer die Anleihen kauft",
+    "Wie lang die Laufzeit ist"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Schulden sind nicht gleich Schulden, beim Staat genauso wie bei dir: Ein Hauskredit ist was anderes als 40.000 Euro für ein Auto, das in drei Jahren Schrott ist. Budgetpolitik heißt, Prioritäten zu setzen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Budgetpolitik",
+    "Prioritäten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 755,
+   "speaker": "Markus Marterbauer",
+   "quote": "Also wenn man sieht, der Nachbar wird arbeitslos, dann kann man bei vielen Haushalten beobachten, dass sie selbst eher ein bisschen mehr zurücklegen vom laufenden Einkommen und ihr Sparen erhöhen eben aus Unsicherheit.",
+   "quote_clean": "Wenn man sieht, der Nachbar wird arbeitslos, kann man bei vielen Haushalten beobachten, dass sie selbst eher mehr vom laufenden Einkommen zurücklegen und ihr Sparen aus Unsicherheit erhöhen.",
+   "statement": "In Wirtschaftskrisen sparen Haushalte aus Unsicherheit mehr, auch wenn sie selbst noch nicht betroffen sind.",
+   "question": "Was machen viele Haushalte, wenn in ihrem Umfeld jemand arbeitslos wird?",
+   "answer": "Sie sparen mehr",
+   "distractors": [
+    "Sie nehmen mehr Kredite auf",
+    "Sie kaufen mehr Aktien",
+    "Sie konsumieren mehr"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Vielleicht trifft es ja mich als Nächstes, denkt man sich, und legt mehr auf die Seite. Klug für den einzelnen Haushalt, aber wenn alle das tun, fehlt der Wirtschaft die Nachfrage. Genau deshalb muss dann der Staat einspringen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Sparen",
+    "Krise"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "170",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

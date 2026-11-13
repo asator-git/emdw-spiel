@@ -1,0 +1,276 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Drei Jahre England im Transkript belegt und historisch korrekt; Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Gandhi studierte drei Jahre lang in England Jus, bevor er Rechtsanwalt wurde.",
+   "question": "Wie viele Jahre hat Gandhi in England studiert?",
+   "answer": "3 Jahre",
+   "distractors": [
+    "1 Jahr",
+    "6 Jahre",
+    "8 Jahre"
+   ],
+   "aha": "Drei Jahre London, und wohl hat er sich dort nicht gefühlt. Als Vegetarier hat er kaum was Gscheites zu essen gefunden, sein Studium hat er trotzdem zügig abgeschlossen.",
+   "quote_clean": "nachdem er drei Jahre in England studiert hatte und sich dort eigentlich nicht so richtig wohlfühlte.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Etwas über 20 Jahre Südafrika belegt (auch historisch 1893 bis 1914); aha durch Transkript gedeckt.",
+   "stand_note": "",
+   "statement": "Gandhi lebte etwas mehr als 20 Jahre mit seiner Familie in Südafrika.",
+   "question": "Wie viele Jahre lebte Gandhi ungefähr in Südafrika?",
+   "answer": "Etwas über 20 Jahre",
+   "distractors": [
+    "Etwa 5 Jahre",
+    "Etwa 10 Jahre",
+    "Über 35 Jahre"
+   ],
+   "aha": "Bevor er Indien befreit hat, war Gandhi zwei Jahrzehnte in Südafrika. Dort hat er erlebt, wie Inder als Bürger zweiter Klasse behandelt werden, und das hat ihn erst politisiert.",
+   "quote_clean": "Etwas über 20 Jahre hat er mit seiner Familie in Südafrika gelebt.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "1885 im Transkript genannt und historisch korrekt; aha gedeckt.",
+   "stand_note": "",
+   "statement": "Die indische Kongresspartei wurde 1885 gegründet und war zunächst eine reine Elitenpartei.",
+   "question": "In welchem Jahr wurde die indische Kongresspartei gegründet?",
+   "answer": "1885",
+   "distractors": [
+    "1857",
+    "1905",
+    "1920"
+   ],
+   "aha": "Die Partei gab es also schon Jahrzehnte vor Gandhis großem Auftritt. Drin waren aber vor allem Anwälte, Beamte und Ärzte, einfache Bauern eher nicht.",
+   "quote_clean": "Die Kongresspartei war zwar schon 1885 gegründet worden, aber es war im Grunde eine reine Elitenpartei.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "1930 belegt; im aha standen Fußmarsch ans Meer und Wochenschauen, die im Ausschnitt nicht vorkommen. Durch belegten Brief an die Kolonialregierung ersetzt.",
+   "stand_note": "",
+   "statement": "Gandhis berühmter Salzmarsch fand 1930 statt.",
+   "question": "In welchem Jahr führte Gandhi den Salzmarsch an?",
+   "answer": "1930",
+   "distractors": [
+    "1919",
+    "1942",
+    "1947"
+   ],
+   "aha": "Der Salzmarsch von 1930 war für Gandhi ein Musterbeispiel seiner Methode: Er hat erst das Problem benannt und der Kolonialregierung wegen der Salzsteuer einen Brief geschrieben, bevor es richtig losging.",
+   "quote_clean": "Das war 1930 eine Aktion, die sehr typisch dafür ist, wie er sie konzipiert hat.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zugszene und Gandhis Einordnung als erste Erfahrung mit Gewaltlosigkeit (t=582) im Ausschnitt belegt; Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "In Südafrika wurde Gandhi trotz gültigen Erste-Klasse-Tickets aus dem Zug geworfen, weil er als Inder dort nicht sitzen durfte.",
+   "question": "Welches Erlebnis beschrieb Gandhi als seine erste Erfahrung mit Gewaltlosigkeit?",
+   "answer": "Rauswurf aus der ersten Zugklasse",
+   "distractors": [
+    "Verhaftung bei einer Demo",
+    "Hungerstreik im Gefängnis",
+    "Prügel durch Polizisten"
+   ],
+   "aha": "Er hatte bezahlt, aber als „Kuli“, wie man die Inder dort bezeichnete, durfte er laut Schaffner nicht in der ersten Klasse sitzen. In die dritte Klasse wechseln wollte er nicht, also flog er am Bahnhof raus und nahm die Konsequenz in Kauf.",
+   "quote_clean": "Aber er wird kontrolliert und der Schaffner wirft ihn bei einem Stopp hinaus, weil er angeblich nicht den richtigen Platz eingenommen hat.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt; Distraktor 'Keinen Alkohol' ist historisch ebenfalls Teil von Gandhis Versprechen an die Mutter, daher ersetzt.",
+   "stand_note": "",
+   "statement": "Bevor Gandhi zum Studium nach England ging, musste er seiner Mutter versprechen, kein Fleisch zu essen.",
+   "question": "Was musste Gandhi seiner Mutter vor dem Studium in England versprechen?",
+   "answer": "Kein Fleisch zu essen",
+   "distractors": [
+    "Jeden Tag zu schreiben",
+    "Nicht zu heiraten",
+    "Jeden Tag zu beten"
+   ],
+   "aha": "Im London des 19. Jahrhunderts war das gar nicht so leicht, er hat oft kaum was zu essen gefunden. Dafür hat er dort die Vegetarian Society kennengelernt.",
+   "quote_clean": "weil er Vegetarier war und seiner Mutter versprechen musste, dass er kein Fleisch isst.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, Selbsteinschätzung wörtlich im Ausschnitt; aha gedeckt.",
+   "stand_note": "",
+   "statement": "Gandhi war als junger Anwalt ein eher unbegabter Redner und sagte selbst, er sei nicht zum Redner geboren.",
+   "question": "Was sagte Gandhi später selbst über seine Fähigkeiten als Redner?",
+   "answer": "Er sei nicht zum Redner geboren",
+   "distractors": [
+    "Er sei ein Naturtalent gewesen",
+    "Er habe Rhetorik in London studiert",
+    "Er habe nie öffentlich gesprochen"
+   ],
+   "aha": "Klein, schmächtig, kein Redetalent: Als Anwalt vor Gericht hat er sich anfangs schwergetan. In die Rolle des politischen Führers hat er sich erst über viele Jahre hineingearbeitet.",
+   "quote_clean": "Er war damals ein eher unbegabter Redner. Er hat auch selber später immer gesagt, dass er nicht zum Redner geboren wurde.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt; Distraktor 'britische Pässe' ist fragwürdig, da Inder britische Untertanen waren, daher ersetzt.",
+   "stand_note": "",
+   "statement": "Indische Kontraktarbeiter in Südafrika waren keine Sklaven, verkauften aber ihre Arbeitskraft für mehrere Jahre und konnten nicht vorzeitig zurück.",
+   "question": "Was unterschied indische Kontraktarbeiter in Südafrika von Sklaven?",
+   "answer": "Sie verkauften Arbeitskraft auf Zeit",
+   "distractors": [
+    "Sie durften jederzeit kündigen",
+    "Sie wurden auf Märkten gehandelt",
+    "Sie arbeiteten ohne Lohn"
+   ],
+   "aha": "Auf Englisch hießen sie indentured laborers. Sie bekamen einen fixen Lohn, waren aber mehrere Jahre gebunden und mussten danach normalerweise zurück nach Indien, frei war das also nicht.",
+   "quote_clean": "Das war keine Sklaverei. Sie haben sich nicht verkauft, aber sie haben ihre Arbeitskraft normalerweise über einen Zeitraum von mehreren Jahren verkauft.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Erster Schritt belegt; die Vorab-Ankündigung der Aktionen liegt im Ausschnitt nicht mehr vor, aus Statement und aha entfernt.",
+   "stand_note": "",
+   "statement": "Gandhis Strategie begann damit, das Problem klar zu benennen und es den Verantwortlichen zu übermitteln.",
+   "question": "Was war bei Gandhis Protestmethode der erste Schritt?",
+   "answer": "Das Problem klar benennen",
+   "distractors": [
+    "Sofort eine Demo starten",
+    "Mit Gewalt drohen",
+    "Geheim Verbündete sammeln"
+   ],
+   "aha": "Vor dem Salzmarsch schrieb Gandhi der Kolonialregierung einen Brief und forderte die Abschaffung der Salzsteuer. Dass sie das nicht tun würde, war ihm klar, aber er gab ihr zuerst die Chance, das Problem zu lösen.",
+   "quote_clean": "Das gehört zu dieser Strategie, dass man erst einmal ganz klar sagt: Wo liegt das Problem, wogegen kämpfen wir?",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt; zwei Distraktoren waren unplausibel oder heikel (Muslime ausschließen), ersetzt.",
+   "stand_note": "",
+   "statement": "Gandhi verwandelte die Kongresspartei innerhalb weniger Jahre von einer Elitepartei in eine Partei, in der auch Dorfbewohner Mitglied werden konnten.",
+   "question": "Wie veränderte Gandhi die indische Kongresspartei?",
+   "answer": "Er öffnete sie für Dorfbewohner",
+   "distractors": [
+    "Er löste sie komplett auf",
+    "Er machte sie zur Kaderpartei",
+    "Er benannte sie nach sich selbst"
+   ],
+   "aha": "Vorher saßen dort Anwälte, Kolonialbeamte und Ärzte. Gandhi zog von Dorf zu Dorf, und Bauern konnten ihren Beitrag sogar mit gesponnener Wolle zahlen. Das war laut Martin Gaenszle sein großer Beitrag.",
+   "quote_clean": "Er hat diese Elitepartei, die hauptsächlich aus ein paar führenden Männern bestand, völlig neu gruppiert. Und er hat darauf bestanden, dass auch die Menschen in den Dörfern die Möglichkeit haben, Parteimitglied zu werden.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat belegt (t=2453); Meinung des Experten, als solche formuliert; Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Martin Gaenszle sieht Gewaltlosigkeit als machtvolle Form der politischen Auseinandersetzung, deren Botschaft bis heute aktuell ist.",
+   "question": "Was ist laut dem Südasien-Experten die wichtigste Lehre von Gandhi für heute?",
+   "answer": "Gewaltlosigkeit ist machtvoll, nicht schwach",
+   "distractors": [
+    "Politik braucht starke Führer",
+    "Fasten verändert die Welt",
+    "Religion gehört aus der Politik"
+   ],
+   "aha": "Gewaltlosigkeit heißt bei Gandhi eben nicht Nichtstun. Man kann etwas erreichen, ohne seine Forderungen mit Gewalt durchzusetzen.",
+   "quote_clean": "Gewaltlosigkeit ist eine sehr machtvolle Form der politischen Auseinandersetzung. Ich glaube, das ist eine Botschaft, die nach wie vor sehr aktuell ist.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Aha behauptet konservative Kastenansichten, im Transkript lehnt Gandhi das Kastensystem 'strikt ab'; zudem schwache Wer-sagt-es-Frage mit albernen Distraktoren.",
+   "stand_note": "",
+   "statement": "Martin Gaenszle meint, Gandhi werde oft missverstanden.",
+   "question": "Wer sagte im Podcast: „Gandhi wird durchaus oft missverstanden“?",
+   "answer": "Martin Gaenszle",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Hörer im Feedback",
+    "Gandhis Biograf im Film"
+   ],
+   "aha": "",
+   "quote_clean": "Es ist tatsächlich so, dass Gandhi durchaus oft missverstanden wird.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Frage nach Andreas' Einstiegsfrage ist kaum spielbar; Distraktoren offensichtlich falsch, kein Erkenntnisgewinn.",
+   "stand_note": "",
+   "statement": "Andreas steigt in die Folge mit der Frage ein, wer Gandhi für jemanden wäre, der noch nie von ihm gehört hat.",
+   "question": "Mit welcher Frage steigt Andreas in die Gandhi-Folge ein?",
+   "answer": "Wer war dieser Mann?",
+   "distractors": [
+    "Warum ist Gandhi heute wichtig?",
+    "Wie ist Gandhi gestorben?",
+    "Was hat Gandhi gegessen?"
+   ],
+   "aha": "",
+   "quote_clean": "Martin, wenn ich noch nie etwas über Gandhi gehört habe: Wer war dieser Mann?",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Ernährungsexperimente im Ausschnitt belegt (kleiner Transkriptionsfehler 'für Nüssen' = von Nüssen); Distraktoren nicht genannt.",
+   "stand_note": "",
+   "statement": "Gandhi probierte zahlreiche Diäten aus, lebte etwa eine Zeit lang nur von Nüssen oder trank nur Ziegenmilch.",
+   "question": "Wovon lebte Gandhi bei einem seiner Ernährungsexperimente eine Zeit lang?",
+   "answer": "Nur von Nüssen",
+   "distractors": [
+    "Nur von Reis",
+    "Nur von Bananen",
+    "Nur von Linsen"
+   ],
+   "aha": "Gandhi war quasi ein früher Diät-Influencer: Nüsse, Milchprodukte, nur Ziegenmilch. Martin Gaenszle erinnert das an die Diätexperimente, die man heute so durchmacht.",
+   "quote_clean": "Er hat eine Zeit lang nur von Nüssen gelebt, dann eine Zeit lang von Milchprodukten, eine Zeit lang hat er nur Ziegenmilch getrunken und so weiter.",
+   "quality": 4
+  }
+ ],
+ "id": "48",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

@@ -1,0 +1,277 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "VDU 1949 klar belegt und historisch korrekt; Distraktoren eindeutig andere Daten.",
+   "stand_note": "",
+   "statement": "Der VDU, der Verband der Unabhängigen und Vorgänger der FPÖ, wurde 1949 gegründet.",
+   "question": "In welchem Jahr wurde der VDU gegründet, der Vorgänger der FPÖ?",
+   "answer": "1949",
+   "distractors": [
+    "1945",
+    "1955",
+    "1962"
+   ],
+   "aha": "Die FPÖ hat einen Vorläufer: den Verband der Unabhängigen, gegründet vier Jahre nach Kriegsende. Er sollte bürgerlich-liberale Wähler:innen sammeln, die weder ÖVP noch SPÖ wollten.",
+   "quote_clean": "Fangen wir mit dem Vorgänger der FPÖ an, dem sogenannten VDU, Verband der Unabhängigen. Der wurde 1949 gegründet.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Reimann und Kraus als liberale Journalisten belegt und korrekt.",
+   "stand_note": "",
+   "statement": "Der VDU, Vorgänger der FPÖ, wurde von zwei liberalen Journalisten gegründet, Viktor Reimann und Herbert Kraus.",
+   "question": "Wer hat den VDU gegründet, den Vorläufer der FPÖ?",
+   "answer": "Zwei liberale Journalisten",
+   "distractors": [
+    "Zwei ehemalige Wehrmachtsoffiziere",
+    "Eine Gruppe Kärntner Bauern",
+    "Zwei frühere ÖVP-Minister"
+   ],
+   "aha": "Am Anfang standen also zwei bürgerliche Journalisten, Viktor Reimann und Herbert Kraus. Ganz lang haben sie die Partei aber nicht in der Hand gehabt.",
+   "quote_clean": "Die Gründer waren zwei liberale, bürgerliche Journalisten: Viktor Reimann und Herbert Kraus.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Sammelbecken auch fuer minderbelastete Nationalsozialisten wird im Transkript klar und sachlich belegt; historisch korrekt.",
+   "stand_note": "",
+   "statement": "Der VDU sollte auch ein Sammelbecken für ehemalige, sogenannte minderbelastete Nationalsozialisten sein.",
+   "question": "Welche Gruppe wollte der VDU neben liberalen Bildungsbürgern gezielt ansprechen?",
+   "answer": "Minderbelastete ehemalige Nationalsozialisten",
+   "distractors": [
+    "Heimkehrende Exil-Sozialdemokraten",
+    "Katholische Bauernverbände",
+    "Gewerkschaftlich organisierte Arbeiter"
+   ],
+   "aha": "Die Idee war, diese Menschen für die Demokratie zu gewinnen und nebenbei ein neues Wählersegment zu erschließen. Minderbelastet hieß: nicht wegen Verbrechen verurteilt.",
+   "quote_clean": "Andererseits sollte sie auch eine Art Sammelbecken für Menschen darüber hinaus sein, auch für ehemalige, sogenannte minderbelastete Nationalsozialisten. Das ist eine Krux der Partei geworden.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Ziel der grossdeutschen Parteien klar belegt; Aha stuetzt sich auf Aussagen im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Die nationalliberalen, großdeutschen Parteien des 19. Jahrhunderts wollten, dass Österreich in einem größeren Deutschland aufgeht.",
+   "question": "Was war das große Ziel der großdeutschen Parteien im Österreich des 19. Jahrhunderts?",
+   "answer": "Aufgehen Österreichs in einem größeren Deutschland",
+   "distractors": [
+    "Wiederherstellung des Heiligen Römischen Reichs",
+    "Unabhängigkeit Österreichs von Ungarn",
+    "Abschaffung der Monarchie in Europa"
+   ],
+   "aha": "Auf dieses deutschnationale Lager bezieht sich die FPÖ bis heute. Viele seiner Anhänger sind später zu den Nazis übergelaufen, weil die das Großdeutsche Reich versprochen haben.",
+   "quote_clean": "Es gab im 19. Jahrhundert diverse nationalliberale, großdeutsche Parteien, die vom Gedankengut zwischen national und liberal angesiedelt waren. Ihr großes Ziel war, dass Österreich in einem größeren Deutschland aufgeht.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Pink nennt 1955; die FPOe konstituierte sich formal erst beim Gruendungsparteitag 1956, daher 'laut Oliver Pink' und Hinweis im Aha.",
+   "stand_note": "",
+   "statement": "Laut Oliver Pink wurde die FPÖ 1955 neu gegründet, nachdem die liberalen VDU-Gründer hinausgedrängt worden waren.",
+   "question": "In welchem Jahr wurde die FPÖ laut Oliver Pink gegründet?",
+   "answer": "1955",
+   "distractors": [
+    "1949",
+    "1966",
+    "1970"
+   ],
+   "aha": "Im selben Jahr wie der Staatsvertrag. Die ehemaligen Nationalsozialisten waren schlicht mehr, haben die liberalen Gründer rausgedrängt und die Partei neu aufgestellt. Formell konstituiert hat sie sich dann beim Gründungsparteitag 1956.",
+   "quote_clean": "So kam es 1955 nach langen Querelen dazu, was absehbar war, dass die Gründer Reimann und Kraus, die eher auf der liberaleren Seite waren, rausgedrängt wurden.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Transkript schreibt 'Reintaler', korrekt ist Reinthaller (in quote_clean schon richtig); Rolle in der NS-Regierung in Berlin belegt.",
+   "stand_note": "",
+   "statement": "Der erste FPÖ-Obmann Anton Reinthaller war zuvor Teil der NS-Regierung im Landwirtschaftsministerium in Berlin.",
+   "question": "Was hatte Anton Reinthaller, der erste Obmann der FPÖ, vorher gemacht?",
+   "answer": "Er war in der NS-Regierung in Berlin",
+   "distractors": [
+    "Er war Bürgermeister von Linz",
+    "Er war Chefredakteur einer Wiener Zeitung",
+    "Er war ÖVP-Abgeordneter im Parlament"
+   ],
+   "aha": "Die Partei war damit klar in der Hand der ehemaligen Nationalsozialisten. Reinthaller hatte im Landwirtschaftsministerium in Berlin gesessen.",
+   "quote_clean": "Der erste Obmann war Anton Reinthaller, der davor Mitglied der nationalsozialistischen Regierung im Landwirtschaftsministerium in Berlin gewesen war.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Konflikt liberal gegen national belegt; Aha-Details (Steger, Liberales Forum) im Ausschnitt gestuetzt.",
+   "stand_note": "",
+   "statement": "Der Konflikt zwischen liberalem und nationalem Flügel ist der FPÖ seit ihrer Gründung erhalten geblieben.",
+   "question": "Welcher Konflikt zieht sich laut Oliver Pink durch die ganze Geschichte der FPÖ?",
+   "answer": "Liberal gegen national",
+   "distractors": [
+    "Stadt gegen Land",
+    "Ost gegen West",
+    "Jung gegen Alt"
+   ],
+   "aha": "Das ist die große Konstante der Partei: In den 70ern und 80ern hat es der liberale Flügel um Norbert Steger versucht, später hat sich das Liberale Forum abgespalten.",
+   "quote_clean": "Wobei man sagen muss: Dieser Konflikt zwischen liberal und national blieb der Partei erhalten.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "fairness"
+   ],
+   "note": "Pink sagt vorsichtig 'glaube ich bekannt'; das Motiv der SPOe darf nicht als reine Tatsache stehen, daher 'laut Oliver Pink'.",
+   "stand_note": "",
+   "statement": "Laut Oliver Pink unterstützte die SPÖ die junge Freiheitliche Partei, um das bürgerliche Lager zu spalten.",
+   "question": "Warum hat laut Oliver Pink ausgerechnet die SPÖ der jungen Freiheitlichen Partei geholfen?",
+   "answer": "Um das bürgerliche Lager zu spalten",
+   "distractors": [
+    "Um eine Große Koalition zu verhindern",
+    "Um den Staatsvertrag zu sichern",
+    "Um die Kommunisten zu schwächen"
+   ],
+   "aha": "Eine zweite Partei rechts von der ÖVP macht die bürgerliche Mehrheit kleiner. Politisch nüchtern gedacht, auch wenn es heute eher überrascht.",
+   "quote_clean": "Die Geschichte ist, glaube ich, bekannt, dass die SPÖ der neu entstehenden Freiheitlichen Partei auch Hilfe geleistet hat, um das bürgerliche Lager zu spalten.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Definition belegt; im Aha sagte Pink, Kreisky habe das minderheitenfreundliche Wahlrecht 'versprochen', nicht 'bekommen'.",
+   "stand_note": "",
+   "statement": "Bei einer Minderheitsregierung regiert eine Partei ohne absolute Mehrheit und braucht andere, die sie tolerieren.",
+   "question": "Was ist eine Minderheitsregierung?",
+   "answer": "Eine Partei regiert ohne absolute Mehrheit",
+   "distractors": [
+    "Eine Regierung nur aus Kleinparteien",
+    "Eine Regierung für Minderheitenrechte",
+    "Eine Regierung ohne Parlamentsbeschluss"
+   ],
+   "aha": "Wer allein regiert, aber keine Mehrheit hat, braucht jemanden, der stillhält. Bei Kreisky war das eine Zeit lang die FPÖ, der er dafür ein minderheitenfreundlicheres Wahlrecht versprochen hat.",
+   "quote_clean": "Eine Minderheitsregierung ist eine Regierung, in der nur eine Partei regiert, die aber über keine absolute Mehrheit verfügt.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Zahl zu einer wenig bekannten Person ohne Erkenntnisgewinn; Statement/Aha verknuepfen ausserdem eine Napola-Lehrertaetigkeit mit einem Dritten, die nur Pinks Aussage stuetzt.",
+   "stand_note": "",
+   "statement": "Otto Rösch war während Kreiskys gesamter Regierungszeit 13 Jahre lang Minister, obwohl er in der NS-Zeit an einer Napola unterrichtet hatte.",
+   "question": "Wie viele Jahre war Otto Rösch unter Bruno Kreisky Minister?",
+   "answer": "13 Jahre",
+   "distractors": [
+    "4 Jahre",
+    "8 Jahre",
+    "20 Jahre"
+   ],
+   "aha": "Erst Innen-, dann Verteidigungsminister, und das die ganze Ära Kreisky lang. Dass er in der NS-Zeit an einer Napola, einer Eliteschule der Nazis, unterrichtet hatte, war damals kein Hindernis.",
+   "quote_clean": "Der war, das kann man sich heute gar nicht mehr vorstellen, die ganze Regierungszeit Kreiskys, 13 Jahre lang, Minister.",
+   "quality": 1
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "1986 wird von Andreas vorgeschlagen und von Pink bestaetigt (t=493); historisch korrekt, Innsbrucker Parteitag im Ausschnitt belegt.",
+   "stand_note": "",
+   "statement": "Jörg Haider übernahm 1986 die Führung der FPÖ.",
+   "question": "In welchem Jahr hat Jörg Haider die FPÖ übernommen?",
+   "answer": "1986",
+   "distractors": [
+    "1979",
+    "1990",
+    "1994"
+   ],
+   "aha": "Am Innsbrucker Parteitag 1986 hat Haider den liberalen Vizekanzler Norbert Steger gestürzt, mit Hilfe des nationalen Flügels und vieler Junger, die ihn als Hoffnungsträger sahen.",
+   "quote_clean": "Dann ist es nicht mehr weit, bis Jörg Haider die FPÖ übernommen hat.",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "fairness"
+   ],
+   "note": "Bypass-Zitat belegt; es ist Pinks Analyse der FPOe-Strategie von 2018, daher 'laut Pink' und Stand-Hinweis.",
+   "stand_note": "Stand 2018",
+   "statement": "Laut Oliver Pink nutzt die FPÖ soziale Medien als Bypass um die herkömmlichen Medien, um ihr Zielpublikum direkt zu erreichen.",
+   "question": "Wie beschreibt Oliver Pink die Medienstrategie der FPÖ mit einem Bild aus der Medizin?",
+   "answer": "Als Bypass um herkömmliche Medien",
+   "distractors": [
+    "Als Impfung gegen Kritik",
+    "Als Infusion für die Basis",
+    "Als Herzschrittmacher der Partei"
+   ],
+   "aha": "Laut Pink sieht die FPÖ seit Haider die klassischen Medien als Feindbild. Also hat sie sich eigene Wege gebaut, zuerst einen eigenen Fernsehsender, dann Social Media.",
+   "quote_clean": "Wir spielen das jetzt als Bypass um die herkömmlichen Medien herum, wir erreichen so direkt über die sozialen Medien unser Zielpublikum.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beilaeufige Bemerkung zweier Sprecher, keine Aussage; Statement macht daraus eine gemeinsame These. Distraktoren beliebig, Aha spekulativ.",
+   "stand_note": "",
+   "statement": "Andreas und Oliver sind sich einig, dass sich Österreich mit Koalitionsfrust und FPÖ-Aufstieg im Kreis dreht.",
+   "question": "Welche Formel finden Andreas und Oliver für die österreichische Innenpolitik?",
+   "answer": "Wir drehen uns im Kreis",
+   "distractors": [
+    "Es geht immer bergauf",
+    "Alles bleibt im Fluss",
+    "Nichts ist mehr wie früher"
+   ],
+   "aha": "Rot-Schwarz zerstritten, die FPÖ legt zu, landet in der Regierung. Das war 1999 so, und 2018 sah es ziemlich ähnlich aus.",
+   "quote_clean": "Wir drehen uns im Kreis in Österreich. Wir drehen uns im Kreis, genau, so wie es immer ist.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gespraechsablauf ohne Wissensgewinn; Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Andreas beendet das Gespräch mit einem Gedankenexperiment über eine FPÖ-Alleinregierung.",
+   "question": "Womit leitet Andreas die Schlussfrage dieser Folge ein?",
+   "answer": "Mit einem Gedankenexperiment",
+   "distractors": [
+    "Mit einer Hörer:innenfrage",
+    "Mit einem Zitat von Kreisky",
+    "Mit einer Umfrage auf Instagram"
+   ],
+   "aha": "Was wäre, wenn die FPÖ mit absoluter Mehrheit allein regiert? Olivers Antwort: Vieles hat sie eh schon durchgesetzt, und an die demokratischen Spielregeln hat sie sich bisher gehalten.",
+   "quote_clean": "Ich würde zum Abschluss gerne ein Gedankenexperiment machen. Stellen wir uns vor, Sebastian Kurz passiert ein Hoppala nach dem anderen.",
+   "quality": 1
+  }
+ ],
+ "id": "34",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

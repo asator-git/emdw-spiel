@@ -1,0 +1,736 @@
+{
+ "theme": "Gesundheit & Körper",
+ "summary": "März 2020, alle sitzen daheim: Virologe Florian Krammer erklärt aus New York, was das neue Coronavirus so gefährlich macht und wie es weitergeht.",
+ "candidates": [
+  {
+   "kind": "aha",
+   "t": 683,
+   "speaker": "Florian Krammer",
+   "quote": "Und es wäre anzunehmen, dass zwischen 30 und 70 Prozent der Bevölkerung infiziert werden, wenn man das unkontrolliert weitergehen lässt.",
+   "quote_clean": "Es wäre anzunehmen, dass zwischen 30 und 70 Prozent der Bevölkerung infiziert werden, wenn man das unkontrolliert weitergehen lässt.",
+   "statement": "Ohne Gegenmaßnahmen rechnete man im März 2020 damit, dass sich 30 bis 70 Prozent der Bevölkerung mit dem neuen Coronavirus infizieren.",
+   "question": "Welcher Anteil der Bevölkerung würde sich laut den Schätzungen vom März 2020 ohne Maßnahmen mit dem Coronavirus anstecken?",
+   "answer": "30 bis 70 Prozent",
+   "distractors": [
+    "5 bis 10 Prozent",
+    "10 bis 20 Prozent",
+    "90 bis 100 Prozent"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gegen ein ganz neues Virus ist niemand immun, also bremst am Anfang nichts die Ausbreitung. Für Österreich hätte das drei bis sechs Millionen Infizierte bedeutet, genau deshalb hat man auf die Stopptaste gedrückt.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Coronavirus",
+    "Pandemie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 862,
+   "speaker": "Florian Krammer",
+   "quote": "Also etwa 80 Prozent der Fälle sind mild und etwa 20 Prozent der Fälle sind schwer.",
+   "quote_clean": "Etwa 80 Prozent der Fälle sind mild und etwa 20 Prozent der Fälle sind schwer.",
+   "statement": "Nach den frühen Daten von 2020 verliefen etwa 80 Prozent der Covid-19-Erkrankungen mild.",
+   "question": "Wie viel Prozent der Covid-19-Fälle verliefen laut den frühen Daten von 2020 mild?",
+   "answer": "Etwa 80 Prozent",
+   "distractors": [
+    "Etwa 50 Prozent",
+    "Etwa 65 Prozent",
+    "Etwa 95 Prozent"
+   ],
+   "number_value": 80,
+   "number_unit": "Prozent",
+   "slider_min": 20,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Die restlichen 20 Prozent sind schwer, müssen ins Spital und brauchen oft Sauerstoff. Auf der Intensivstation landet davon aber nur ein Teil, schwer heißt also nicht automatisch Beatmung.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Coronavirus",
+    "Krankheitsverlauf"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 900,
+   "speaker": "Florian Krammer",
+   "quote": "Das hat sich in China gezeigt, dass das ungefähr fünf Prozent sind. In Korea ist die Zahl ein wenig geringer.",
+   "quote_clean": "Das hat sich in China gezeigt, dass das ungefähr fünf Prozent sind. In Korea ist die Zahl ein wenig geringer.",
+   "statement": "In China brauchten zu Beginn der Pandemie ungefähr fünf Prozent der Covid-19-Patient:innen intensivmedizinische Behandlung.",
+   "question": "Wie viel Prozent der Covid-19-Patient:innen brauchten laut den Daten aus China Anfang 2020 die Intensivstation?",
+   "answer": "Ungefähr 5 Prozent",
+   "distractors": [
+    "Ungefähr 1 Prozent",
+    "Ungefähr 15 Prozent",
+    "Ungefähr 25 Prozent"
+   ],
+   "number_value": 5,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Fünf Prozent klingt wenig, bis man es hochrechnet: Bei vier Millionen Infizierten wären das rund 200.000 Intensivpatient:innen. Österreich hatte damals ein, zwei Tausend Intensivbetten.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Coronavirus",
+    "Intensivstation"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 800,
+   "speaker": "Florian Krammer",
+   "quote": "Also wir haben vier andere Coronaviren in Menschen, die nur grippale Infekte auslösen. Dann wäre das relativ egal.",
+   "quote_clean": "Wir haben vier andere Coronaviren in Menschen, die nur grippale Infekte auslösen.",
+   "statement": "Schon vor SARS-CoV-2 zirkulierten vier Coronaviren unter Menschen, die nur grippale Infekte auslösen.",
+   "question": "Wie viele andere Coronaviren, die nur harmlose Erkältungen auslösen, zirkulieren schon länger unter Menschen?",
+   "answer": "Vier",
+   "distractors": [
+    "Eines",
+    "Zwei",
+    "Zwölf"
+   ],
+   "number_value": 4,
+   "number_unit": "Coronaviren",
+   "slider_min": 0,
+   "slider_max": 15,
+   "log_scale": false,
+   "aha": "Coronavirus heißt also nicht automatisch Pandemie, ein Teil deiner Schnupfen geht eh auf ihr Konto. Diese vier sind auch saisonal: viel im Herbst, Winter und Frühjahr, wenig im Sommer.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Coronaviren",
+    "Erkältung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1502,
+   "speaker": "Florian Krammer",
+   "quote": "Aber bei niedrigen Temperaturen kann es da schon sein, dass das Virus für ein bis zwei, möglicherweise drei Tage auf den Oberflächen nach wie vor infektiös ist.",
+   "quote_clean": "Bei niedrigen Temperaturen kann es schon sein, dass das Virus für ein bis zwei, möglicherweise drei Tage auf den Oberflächen nach wie vor infektiös ist.",
+   "statement": "Bei niedrigen Temperaturen kann das Coronavirus auf Oberflächen bis zu drei Tage ansteckend bleiben.",
+   "question": "Wie lange kann das Coronavirus bei niedrigen Temperaturen auf Oberflächen ansteckend bleiben?",
+   "answer": "Bis zu drei Tage",
+   "distractors": [
+    "Höchstens zehn Minuten",
+    "Etwa eine Stunde",
+    "Mehrere Monate"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Entscheidend ist, wie viel Virus überhaupt auf der Haltestange oder dem Geldschein gelandet ist. Ein paar Partikel sind nach Stunden weg, Hunderttausende halten entsprechend länger durch.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Oberflächen",
+    "Übertragung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1451,
+   "speaker": "Florian Krammer",
+   "quote": "Wenn es kalt ist, überlebt das Virus viel länger, als wenn es warm ist. Wenn es draußen 30 Grad hat, überlebt das Virus auf einer Oberfläche nur sehr, sehr kurze Zeit.",
+   "quote_clean": "Wenn es kalt ist, überlebt das Virus viel länger, als wenn es warm ist. Wenn es draußen 30 Grad hat, überlebt das Virus auf einer Oberfläche nur sehr kurze Zeit.",
+   "statement": "Auf Oberflächen überlebt das Coronavirus bei Kälte viel länger als bei Wärme; bei 30 Grad nur sehr kurz.",
+   "question": "Warum könnte der Sommer die Ausbreitung von Coronaviren etwas bremsen?",
+   "answer": "Auf warmen Oberflächen stirbt das Virus schneller",
+   "distractors": [
+    "Viren werden durch UV-Licht im Körper zerstört",
+    "Menschen niesen im Sommer seltener",
+    "Das Virus mutiert bei Hitze zu harmlosen Formen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die direkte Ansteckung von Mensch zu Mensch ändert sich im Sommer nicht unbedingt. Aber der Umweg über Türklinken und Handys funktioniert bei Hitze schlechter, weil das Virus dort nur sehr kurz überlebt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Saisonalität",
+    "Oberflächen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1573,
+   "speaker": "Florian Krammer",
+   "quote": "Im Fall von Coronavirus ist das eine Fett-Hülle sozusagen mit verschiedenen Proteinen drinnen und in der Hülle befindet sich ein Genom. Das ist 30.000 Basenbare groß.",
+   "quote_clean": "Im Fall von Coronavirus ist das eine Fetthülle mit verschiedenen Proteinen drinnen und in der Hülle befindet sich ein Genom. Das ist 30.000 Basenpaare groß.",
+   "statement": "Das Erbgut des Coronavirus ist etwa 30.000 Basen lang und steckt in einer Fetthülle mit Proteinen.",
+   "question": "Wie groß ist das Erbgut des Coronavirus ungefähr, gemessen in Basen(-paaren)?",
+   "answer": "Etwa 30.000",
+   "distractors": [
+    "Etwa 300",
+    "Etwa 3.000",
+    "Etwa 3 Millionen"
+   ],
+   "number_value": 30000,
+   "number_unit": "Basen",
+   "slider_min": 100,
+   "slider_max": 2000000,
+   "log_scale": true,
+   "aha": "Das Coronavirus trägt RNA statt DNA, und 30.000 Bausteine sind für ein RNA-Virus sogar ziemlich viel. Dein eigenes Erbgut ist rund 100.000-mal größer, aber das Virus braucht eh nur deine Zellen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Virologie",
+    "Erbgut"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1593,
+   "speaker": "Florian Krammer",
+   "quote": "Und das Virus selbst kann sich ja nicht vermehren. Das ist nicht wie bei Bakterien, die sich, wenn man denen Nährstoffe gibt, selbst vermehren können. Das muss in eine Wirtszelle eindringen, um sich selber vermehren zu können.",
+   "quote_clean": "Das Virus selbst kann sich nicht vermehren. Das ist nicht wie bei Bakterien, die sich, wenn man ihnen Nährstoffe gibt, selbst vermehren können. Es muss in eine Wirtszelle eindringen, um sich selbst vermehren zu können.",
+   "statement": "Anders als Bakterien können sich Viren nicht selbst vermehren, sie brauchen dafür eine Wirtszelle.",
+   "question": "Was unterscheidet Viren grundlegend von Bakterien?",
+   "answer": "Viren vermehren sich nur in Wirtszellen",
+   "distractors": [
+    "Viren sind immer größer als Bakterien",
+    "Viren haben überhaupt kein Erbgut",
+    "Viren vermehren sich nur im Wasser"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Virus ist im Grunde nur ein Stück Erbgut in einer Hülle. Es dockt an deine Zellen an, schleust sein Genom ein und lässt die Zelle Tausende Kopien bauen, bis das Immunsystem dazwischenfährt.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Virologie",
+    "Bakterien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1736,
+   "speaker": "Florian Krammer",
+   "quote": "Also die Inkubationszeit, von der Sie da sprechen, das dauert zwischen drei und 14 Tagen. Also man kann das Virus recht lang in sich tragen, ohne dass man krank wird.",
+   "quote_clean": "Die Inkubationszeit dauert zwischen drei und 14 Tagen. Man kann das Virus recht lang in sich tragen, ohne dass man krank wird.",
+   "statement": "Die Inkubationszeit des neuen Coronavirus lag nach damaligem Wissen zwischen drei und 14 Tagen.",
+   "question": "Wie viele Tage konnte die Inkubationszeit des Coronavirus laut Florian Krammer höchstens dauern?",
+   "answer": "14 Tage",
+   "distractors": [
+    "3 Tage",
+    "7 Tage",
+    "30 Tage"
+   ],
+   "number_value": 14,
+   "number_unit": "Tage",
+   "slider_min": 1,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Daher kam auch die berühmte 14-tägige Quarantäne. Gemein ist, dass man schon ein, zwei, drei Tage vor dem richtigen Kranksein viel Virus ausscheiden kann.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Inkubationszeit",
+    "Quarantäne"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1988,
+   "speaker": "Florian Krammer",
+   "quote": "Was man normalerweise nicht sieht, ist Schnupfen oder Niesen. Also das kommt im Normalfall nicht vor.",
+   "quote_clean": "Was man normalerweise nicht sieht, ist Schnupfen oder Niesen. Das kommt im Normalfall nicht vor.",
+   "statement": "Typische Symptome der frühen Covid-19-Fälle waren Fieber, trockener Husten, Kurzatmigkeit und Müdigkeit, Schnupfen dagegen kaum.",
+   "question": "Welches Symptom war bei Covid-19 laut Florian Krammer im März 2020 normalerweise NICHT dabei?",
+   "answer": "Schnupfen",
+   "distractors": [
+    "Fieber",
+    "Trockener Husten",
+    "Müdigkeit"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Damit ähnelte Covid eher einer echten Influenza als einem grippalen Infekt. Kopfweh, Durchfall und Gliederschmerzen kamen vor, waren aber seltener.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Symptome",
+    "Coronavirus"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2276,
+   "speaker": "Florian Krammer",
+   "quote": "Es gibt Viren, wo nur ein Partikel notwendig ist, um Leute zu infizieren. Zum Beispiel Ebola. Also da braucht man wirklich wenige Partikel, um eine Infektion auszulösen.",
+   "quote_clean": "Es gibt Viren, wo nur ein Partikel notwendig ist, um Leute zu infizieren, zum Beispiel Ebola. Da braucht man wirklich wenige Partikel, um eine Infektion auszulösen.",
+   "statement": "Bei manchen Viren wie Ebola reichen schon sehr wenige Viruspartikel für eine Infektion, bei anderen braucht es zehntausende.",
+   "question": "Bei welchem Virus reichen laut Florian Krammer schon sehr wenige Partikel für eine Infektion?",
+   "answer": "Ebola",
+   "distractors": [
+    "Schnupfenviren",
+    "Influenza",
+    "Masern"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Dosis macht das Gift, aber bei Viren nur eingeschränkt. Während andere Viren zehntausende Partikel brauchen, um dich krank zu machen, kann bei Ebola eine Handvoll genügen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Viruslast",
+    "Ebola"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2414,
+   "speaker": "Florian Krammer",
+   "quote": "Wir wissen auch, dass Leute, die damals mit SARS infiziert waren, ein bis drei Jahre stark neutralisierende Immunantworten hatten.",
+   "quote_clean": "Wir wissen auch, dass Leute, die damals mit SARS infiziert waren, ein bis drei Jahre stark neutralisierende Immunantworten hatten.",
+   "statement": "Menschen, die 2003 mit SARS infiziert waren, hatten danach ein bis drei Jahre lang stark neutralisierende Immunantworten.",
+   "question": "Wie lange hatten Menschen nach einer SARS-Infektion 2003 eine stark schützende Immunantwort?",
+   "answer": "Ein bis drei Jahre",
+   "distractors": [
+    "Zwei bis drei Wochen",
+    "Etwa zwei Monate",
+    "Ein Leben lang"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "SARS von 2003 ist ein enger Verwandter des neuen Coronavirus, darum war es der beste Hinweis, den man damals hatte. Man ging also von Schutz für Monate bis einige Jahre aus, nicht für immer.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Immunität",
+    "SARS"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2694,
+   "speaker": "Florian Krammer",
+   "quote": "Wenn ein Kind Masern kriegt oder Mumps, ist das meistens viel, viel weniger schlimm, als wenn ein 50-Jähriger Masern oder Mumps bekommt.",
+   "quote_clean": "Wenn ein Kind Masern oder Mumps kriegt, ist das meistens viel weniger schlimm, als wenn ein 50-Jähriger Masern oder Mumps bekommt.",
+   "statement": "Masern und Mumps verlaufen bei Kindern meist viel milder als bei 50-Jährigen.",
+   "question": "Bei wem verlaufen Masern und Mumps in der Regel schwerer?",
+   "answer": "Bei 50-Jährigen",
+   "distractors": [
+    "Bei Kleinkindern",
+    "Bei Schulkindern",
+    "Bei allen gleich schwer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kinder sind zwar ständig verschnupft, aber ihre angeborene Immunabwehr ist besonders stark. Dass das neue Coronavirus Kinder eher verschont, ist daher gar nicht so ungewöhnlich.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kinder",
+    "Immunsystem"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2853,
+   "speaker": "Florian Krammer",
+   "quote": "Und in 2003 war der Fall, dass das Virus von Fledermäusen auf andere Tiere übertragen wurde, also Zieweltkatzen in dem Fall, und dann von den Zieweltkatzen weiter auf Menschen übertragen worden ist.",
+   "quote_clean": "2003 war es der Fall, dass das Virus von Fledermäusen auf andere Tiere übertragen wurde, in dem Fall Zibetkatzen, und dann von den Zibetkatzen weiter auf Menschen.",
+   "statement": "Das SARS-Virus von 2003 sprang von Fledermäusen auf Zibetkatzen über und von diesen auf den Menschen.",
+   "question": "Über welches Tier gelangte das SARS-Virus 2003 von Fledermäusen zum Menschen?",
+   "answer": "Zibetkatzen",
+   "distractors": [
+    "Schuppentiere",
+    "Hausschweine",
+    "Kamele"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Viele Viren nehmen so einen Umweg über einen Zwischenwirt, oft Tiere, die auf Märkten gehandelt werden. Ob das beim neuen Coronavirus auch so war, war im März 2020 noch offen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "SARS",
+    "Zoonose"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2952,
+   "speaker": "Florian Krammer",
+   "quote": "Also da können Fledermäuse reinfliegen und unterm Dach nisten und wenn dann natürlich Kot runterfällt und auf andere Tiere fällt, kann es da zu einer Übertragung kommen.",
+   "quote_clean": "Da können Fledermäuse reinfliegen und unterm Dach nisten, und wenn dann Kot runterfällt und auf andere Tiere fällt, kann es zu einer Übertragung kommen.",
+   "statement": "In offenen Markthallen mit lebenden Tieren können Fledermäuse unterm Dach nisten und Viren über ihren Kot auf andere Tiere übertragen.",
+   "question": "Wie können Fledermausviren auf offenen Tiermärkten auf andere Tiere überspringen?",
+   "answer": "Über Fledermauskot, der auf Tiere fällt",
+   "distractors": [
+    "Weil Fledermäuse dort verkauft und gegessen werden",
+    "Über Mückenstiche zwischen den Käfigen",
+    "Über verunreinigtes Trinkwasser der Händler"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Geschichte vom gegrillten Fledermaus-Snack hält Florian für sehr unwahrscheinlich, Fledermäuse essen ist in China eh nicht verbreitet. Viel plausibler ist der unappetitliche Weg von oben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zoonose",
+    "Fledermäuse"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3031,
+   "speaker": "Florian Krammer",
+   "quote": "Und die Wahrheit ist, dass Mutter Natur wirklich der größte Bioterrorist ist, den wir kennen.",
+   "quote_clean": "Die Wahrheit ist, dass Mutter Natur wirklich der größte Bioterrorist ist, den wir kennen.",
+   "statement": "Florian Krammer hält die Natur für die größte Quelle gefährlicher Viren, nicht Labore.",
+   "question": "Wer sagt im Podcast: „Mutter Natur ist der größte Bioterrorist, den wir kennen“?",
+   "answer": "Florian Krammer",
+   "distractors": [
+    "Andreas Sator",
+    "Sebastian Kurz",
+    "Ein Sprecher der WHO"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Virus wie dieses im Labor zu bauen, würde laut Florian wohl Jahre dauern, Biologie ist nämlich sehr schwierig. Influenza, Corona und Co. kommen alle aus Tieren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ursprung",
+    "Verschwörungsmythen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3409,
+   "speaker": "Florian Krammer",
+   "quote": "Normalerweise, wenn man einen Impfstoff entwickelt, das dauert 10 bis 15 Jahre, bis man den am Markt hat.",
+   "quote_clean": "Normalerweise dauert es 10 bis 15 Jahre, bis man einen neu entwickelten Impfstoff am Markt hat.",
+   "statement": "Die Entwicklung eines Impfstoffs dauert normalerweise 10 bis 15 Jahre, bis er auf den Markt kommt.",
+   "question": "Wie viele Jahre dauert es normalerweise mindestens, bis ein neuer Impfstoff am Markt ist?",
+   "answer": "Etwa 10 Jahre",
+   "distractors": [
+    "Etwa 2 Jahre",
+    "Etwa 5 Jahre",
+    "Etwa 25 Jahre"
+   ],
+   "number_value": 10,
+   "number_unit": "Jahre",
+   "slider_min": 1,
+   "slider_max": 40,
+   "log_scale": false,
+   "aha": "Normal sind 10 bis 15 Jahre, weil jeder Impfstoff durch drei klinische Phasen muss und dann noch in Massen produziert werden will. Florian tippte im März 2020 trotzdem auf Anfang 2021, und lag damit ziemlich richtig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Impfstoff",
+    "Forschung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3690,
+   "speaker": "Florian Krammer",
+   "quote": "Ich glaube, in der Provinz Hubei, wo sich eben Wuhan befindet, waren das zumindest 57 Millionen Menschen. Das war sehr restriktiv.",
+   "quote_clean": "In der Provinz Hubei, wo sich Wuhan befindet, waren das zumindest 57 Millionen Menschen. Das war sehr restriktiv.",
+   "statement": "In der chinesischen Provinz Hubei durften Anfang 2020 mindestens 57 Millionen Menschen wochenlang ihre Wohnungen nicht verlassen.",
+   "question": "Wie viele Millionen Menschen durften in der Provinz Hubei rund um Wuhan Anfang 2020 wochenlang nicht aus ihren Wohnungen?",
+   "answer": "Mindestens 57 Millionen",
+   "distractors": [
+    "Etwa 9 Millionen",
+    "Etwa 20 Millionen",
+    "Etwa 140 Millionen"
+   ],
+   "number_value": 57,
+   "number_unit": "Millionen Menschen",
+   "slider_min": 5,
+   "slider_max": 250,
+   "log_scale": false,
+   "aha": "Das sind mehr als sechsmal so viele Menschen, wie in ganz Österreich leben. Florian hielt dieses Modell für nicht übertragbar, Korea, Taiwan und Singapur setzten lieber auf Testen und Kontakte isolieren.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "China",
+    "Lockdown"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 3432,
+   "speaker": "Florian Krammer",
+   "quote": "Aber das Problem ist, dass diese klinische Entwicklung durch drei Phasen gehen muss. Also zuerst wird einmal in ganz wenigen Leuten getestet, ob der Impfstoff sicher ist und ob das Immunsystem so stimuliert, wie man sich das vorgestellt hat.",
+   "quote_clean": "Das Problem ist, dass diese klinische Entwicklung durch drei Phasen gehen muss. Zuerst wird in ganz wenigen Leuten getestet, ob der Impfstoff sicher ist und ob er das Immunsystem so stimuliert, wie man sich das vorgestellt hat.",
+   "statement": "Impfstoffe durchlaufen drei klinische Phasen: erst Sicherheit an wenigen Menschen, dann mehr Proband:innen, zuletzt der Nachweis des Schutzes.",
+   "question": "Durch wie viele klinische Phasen muss ein neuer Impfstoff vor der Zulassung?",
+   "answer": "Drei Phasen",
+   "distractors": [
+    "Eine Phase",
+    "Zwei Phasen",
+    "Sieben Phasen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Phase 1 prüft an ganz wenigen Leuten, ob der Impfstoff sicher ist, Phase 2 an mehr Menschen. Erst Phase 3 zeigt, ob Geimpfte wirklich geschützt sind, und dann kommt noch die Zulassung.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Impfstoff",
+    "Studien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3492,
+   "speaker": "Florian Krammer",
+   "quote": "das nennt sich Remdesivir. Das ist schon klinisch getestet worden gegen Ebola. Hat da zwar nicht besonders gut funktioniert, funktioniert aber sehr gut in Tieren gegen Coronaviren.",
+   "quote_clean": "Das nennt sich Remdesivir. Das ist schon klinisch gegen Ebola getestet worden. Es hat da zwar nicht besonders gut funktioniert, funktioniert aber sehr gut in Tieren gegen Coronaviren.",
+   "statement": "Das Medikament Remdesivir wurde ursprünglich gegen Ebola getestet und wirkte dort kaum, im Tierversuch aber gut gegen Coronaviren.",
+   "question": "Gegen welche Krankheit wurde Remdesivir klinisch getestet, bevor es gegen Corona ins Spiel kam?",
+   "answer": "Ebola",
+   "distractors": [
+    "Malaria",
+    "Tuberkulose",
+    "Hepatitis C"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Alte Medikamente für neue Viren auszuprobieren spart Jahre, weil die Sicherheit schon geprüft ist. Das zweite Mittel, das damals getestet wurde, war übrigens ein HIV-Medikament.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Medikamente",
+    "Ebola"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3873,
+   "speaker": "Florian Krammer",
+   "quote": "Solche Pandemien kommen normalerweise in Wellen, also 2009 zum Beispiel mit Influenza, ist es dann im Herbst wieder zu einer riesigen Welle gekommen.",
+   "quote_clean": "Solche Pandemien kommen normalerweise in Wellen. 2009 zum Beispiel ist es bei der Influenza im Herbst wieder zu einer riesigen Welle gekommen.",
+   "statement": "Pandemien kommen meist in Wellen; bei der Influenza-Pandemie 2009 kam im Herbst eine riesige zweite Welle.",
+   "question": "Wann kam bei der Influenza-Pandemie 2009 die große zweite Welle?",
+   "answer": "Im Herbst",
+   "distractors": [
+    "Im Frühling",
+    "Im Hochsommer",
+    "Erst zwei Jahre später"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein ruhigerer Sommer heißt also nicht, dass es vorbei ist. Genau deshalb hat Florian im März 2020 vorhergesagt, dass uns das Virus das ganze Jahr beschäftigen wird, und so kam es auch.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Pandemie",
+    "Influenza"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3734,
+   "speaker": "Florian Krammer",
+   "quote": "Wenn die Leute hören, da ist ein Virus unterwegs, dann tragen die Masken. Das Social Distancing ist etwas, das dort einfach gemacht wird in so einem Fall. Das muss man der Bevölkerung nicht beibringen.",
+   "quote_clean": "Wenn die Leute hören, da ist ein Virus unterwegs, dann tragen sie Masken. Social Distancing ist etwas, das dort in so einem Fall einfach gemacht wird. Das muss man der Bevölkerung nicht beibringen.",
+   "statement": "In ostasiatischen Ländern mit Erfahrung mit SARS und MERS tragen Menschen bei einem neuen Virus von sich aus Masken und halten Abstand.",
+   "question": "Wer sagt über Ostasien: „Social Distancing muss man der Bevölkerung dort nicht beibringen“?",
+   "answer": "Florian Krammer",
+   "distractors": [
+    "Andreas Sator",
+    "Sebastian Kurz",
+    "Ein koreanischer Gesundheitsminister"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Korea, Taiwan und Singapur hatten schon SARS und MERS hinter sich und entsprechend viel Übung. Dazu kommt viel Vertrauen in die Gesundheitsministerien, was das Testen und Isolieren leichter macht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ostasien",
+    "Masken"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 456,
+   "speaker": "Florian Krammer",
+   "quote": "Man muss auch im Kopf behalten, dass wenn man diese Maßnahmen setzt, dass es zumindest ein bis zwei, möglicherweise drei Wochen dauert, bis man einen Effekt sieht.",
+   "quote_clean": "Man muss auch im Kopf behalten, dass es nach dem Setzen dieser Maßnahmen zumindest ein bis zwei, möglicherweise drei Wochen dauert, bis man einen Effekt sieht.",
+   "statement": "Nach Kontaktbeschränkungen dauert es mindestens ein bis zwei, möglicherweise drei Wochen, bis sich ein Effekt in den Fallzahlen zeigt.",
+   "question": "Wie lange dauert es nach Kontaktbeschränkungen ungefähr, bis man einen Effekt bei den Fallzahlen sieht?",
+   "answer": "Ein bis drei Wochen",
+   "distractors": [
+    "Zwei bis drei Tage",
+    "Etwa drei Monate",
+    "Ein halbes Jahr"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer sich heute ansteckt, merkt das wegen der Inkubationszeit erst Tage später, und getestet und gemeldet wird noch später. Darum hieß es 2020 auch: Wir machen das jetzt einmal bis Ostern und schauen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Maßnahmen",
+    "Lockdown"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 4511,
+   "speaker": "Andreas Sator",
+   "quote": "Ich zum Beispiel habe mich immer ein bisschen über die Touristen lustig gemacht, die mit Mundschutz herumliefen. Jetzt habe ich endlich gecheckt, die machen das aus Verantwortung für die Gesellschaft, nicht aus Panik.",
+   "quote_clean": "Ich zum Beispiel habe mich immer ein bisschen über die Touristen lustig gemacht, die mit Mundschutz herumliefen. Jetzt habe ich endlich gecheckt, die machen das aus Verantwortung für die Gesellschaft, nicht aus Panik.",
+   "statement": "Andreas gibt zu, dass er sich früher über Tourist:innen mit Mundschutz lustig gemacht hat, und versteht nun, dass sie das aus Verantwortung tun.",
+   "question": "Worüber hat sich Andreas laut eigener Aussage früher ein bisschen lustig gemacht?",
+   "answer": "Über Tourist:innen mit Mundschutz",
+   "distractors": [
+    "Über Leute, die Klopapier horten",
+    "Über Menschen mit Desinfektionsmittel",
+    "Über Videotelefonate mit den Eltern"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am Ende der Folge kommt die Einsicht: Die Masken sollen nicht einen selbst schützen, sondern die anderen. Da müssen wir in Europa, sagt Andreas, noch viel lernen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Masken",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 318,
+   "speaker": "Andreas Sator",
+   "quote": "Ich fange jetzt aber mal mit der an, die mir am meisten Leute geschickt haben. Wann ist denn dieser Spuk wieder vorbei?",
+   "quote_clean": "Ich fange jetzt aber mit der an, die mir die meisten Leute geschickt haben: Wann ist dieser Spuk wieder vorbei?",
+   "statement": "Die Hörer:innenfrage, die Andreas am häufigsten bekommen hatte, lautete: Wann ist dieser Spuk wieder vorbei?",
+   "question": "Welche Frage haben Andreas im März 2020 die meisten Hörer:innen geschickt?",
+   "answer": "Wann ist dieser Spuk wieder vorbei?",
+   "distractors": [
+    "Wo kann ich mich testen lassen?",
+    "Hilft Ingwertee gegen das Virus?",
+    "Darf ich noch ins Fitnessstudio?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas saß da schon seit ein paar Tagen daheim eingesperrt am Schreibtisch. Florians Antwort war ehrlich und unbequem: Das kann Monate dauern.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Hörer:innenfrage",
+    "Lockdown"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "101",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

@@ -1,0 +1,737 @@
+{
+ "theme": "Wissenschaft & Technik",
+ "summary": "Petra Mellunig nimmt uns mit auf die Reise des Erdöls: vom Meeresgrund über Triest und Kärnten in die Raffinerie Schwechat bis zur Tankstelle.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1667,
+   "speaker": "Andreas Sator",
+   "quote": "aus 100 Liter Rohöl, ist jetzt je nach Sorte, ist da gestanden, werden 24 Liter Benzin und 21 Liter Diesel. Nur so circa,",
+   "quote_clean": "Aus 100 Liter Rohöl werden, je nach Sorte, 24 Liter Benzin und 21 Liter Diesel. Nur so circa.",
+   "statement": "Aus 100 Litern Rohöl werden je nach Sorte grob 24 Liter Benzin gewonnen.",
+   "question": "Wie viele Liter Benzin gewinnt man ungefähr aus 100 Litern Rohöl?",
+   "answer": "Rund 24 Liter",
+   "distractors": [
+    "Rund 8 Liter",
+    "Rund 55 Liter",
+    "Rund 80 Liter"
+   ],
+   "number_value": 24,
+   "number_unit": "Liter",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Aus einem Fass Rohöl wird also nur knapp ein Viertel Benzin. Der Rest wird Diesel, Kerosin, Gase, Bitumen oder Grundstoff für Kunststoff, und wie viel wovon, hängt stark von der Rohölsorte ab.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erdöl",
+    "Benzin",
+    "Raffinerie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1671,
+   "speaker": "Andreas Sator",
+   "quote": "werden 24 Liter Benzin und 21 Liter Diesel. Nur so circa, damit man sich ein bisschen etwas vorstellen kann.",
+   "quote_clean": "Werden 24 Liter Benzin und 21 Liter Diesel. Nur so circa, damit man sich ein bisschen etwas vorstellen kann.",
+   "statement": "Aus 100 Litern Rohöl werden je nach Sorte grob 21 Liter Diesel gewonnen.",
+   "question": "Wie viele Liter Diesel entstehen ungefähr aus 100 Litern Rohöl?",
+   "answer": "Rund 21 Liter",
+   "distractors": [
+    "Rund 5 Liter",
+    "Rund 45 Liter",
+    "Rund 70 Liter"
+   ],
+   "number_value": 21,
+   "number_unit": "Liter",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Benzin und Diesel zusammen machen also nicht einmal die Hälfte aus. Wer glaubt, Rohöl sei einfach flüssiger Sprit, unterschätzt, was da sonst noch alles drinsteckt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erdöl",
+    "Diesel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 909,
+   "speaker": "Petra Mellunig",
+   "quote": "Ganz unten habe ich die höchste Temperatur. Das sind um die 400 Grad herum. Und das, was da nicht verdampft, was da flüssig bleibt, das ist der sogenannte Rückstand.",
+   "quote_clean": "Ganz unten habe ich die höchste Temperatur, das sind um die 400 Grad. Und das, was da nicht verdampft und flüssig bleibt, ist der sogenannte Rückstand.",
+   "statement": "Ganz unten in der Destillationskolonne einer Raffinerie hat das Rohöl rund 400 Grad.",
+   "question": "Wie heiß ist es ungefähr ganz unten in der Destillationskolonne einer Raffinerie?",
+   "answer": "Rund 400 Grad",
+   "distractors": [
+    "Rund 120 Grad",
+    "Rund 900 Grad",
+    "Rund 1500 Grad"
+   ],
+   "number_value": 400,
+   "number_unit": "Grad Celsius",
+   "slider_min": 50,
+   "slider_max": 1500,
+   "log_scale": false,
+   "aha": "Unten ist es am heißesten, nach oben hin wird die Kolonne immer kühler. Was bei 400 Grad noch flüssig bleibt, ist der Rückstand, aus dem später etwa Bitumen für die Straße wird.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Destillation",
+    "Raffinerie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 577,
+   "speaker": "Petra Mellunig",
+   "quote": "Es wird meistens dann eine Menge, also die Menge wird immer für drei Tage gekauft.",
+   "quote_clean": "Die Menge wird immer für drei Tage gekauft.",
+   "statement": "Die Raffinerie Schwechat kauft Rohöl jeweils in Mengen, die für drei Tage reichen.",
+   "question": "Für wie viele Tage kauft die Raffinerie Schwechat jeweils eine Rohölmenge ein?",
+   "answer": "Für drei Tage",
+   "distractors": [
+    "Für einen Tag",
+    "Für drei Wochen",
+    "Für drei Monate"
+   ],
+   "number_value": 3,
+   "number_unit": "Tage",
+   "slider_min": 1,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Weil die Pipeline aus Triest auch Raffinerien in Deutschland versorgt, gibt es nur gewisse Zeitfenster zum Pumpen. Also wird portionsweise eingekauft, eine Ladung für drei Tage.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Raffinerie",
+    "Logistik"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 512,
+   "speaker": "Petra Mellunig",
+   "quote": "Und wenn das Schiff dann, dann kommt es einmal nach Triest, weil unsere Pipeline, mit der wir versorgt werden, ist einfach die Tal, die transalpine Leitung.",
+   "quote_clean": "Und das Schiff kommt einmal nach Triest, weil unsere Pipeline, mit der wir versorgt werden, die TAL ist, die Transalpine Leitung.",
+   "statement": "Das Rohöl für Österreich kommt per Schiff nach Triest und von dort über die Transalpine Pipeline (TAL).",
+   "question": "In welchem Hafen kommt das Rohöl für die Raffinerie Schwechat an?",
+   "answer": "In Triest",
+   "distractors": [
+    "In Hamburg",
+    "In Rotterdam",
+    "In Koper"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Österreich hat kein Meer, also landet das Öl in Triest und fließt dann durch die Transalpine Leitung über die Alpen. In Kärnten zweigt die Adria-Wien-Pipeline ab, die direkt nach Schwechat führt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Pipeline",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 530,
+   "speaker": "Petra Mellunig",
+   "quote": "Aus Triest geht die weg, geht bei uns, gibt es dann einen Abzweiger in Kärnten, in Würmlach. Da ist es dann die Adria-Wien-Pipeline und kommt über die Adria-Wien-Pipeline direkt nach Schwächert.",
+   "quote_clean": "Aus Triest geht die weg, bei uns gibt es dann einen Abzweiger in Kärnten, in Würmlach. Da ist es dann die Adria-Wien-Pipeline und kommt über die Adria-Wien-Pipeline direkt nach Schwechat.",
+   "statement": "In Würmlach in Kärnten zweigt von der Transalpinen Pipeline die Adria-Wien-Pipeline ab, die nach Schwechat führt.",
+   "question": "In welchem Bundesland zweigt die Adria-Wien-Pipeline von der Transalpinen Leitung ab?",
+   "answer": "In Kärnten",
+   "distractors": [
+    "In Tirol",
+    "In der Steiermark",
+    "In Salzburg"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im kleinen Würmlach im Gailtal gibt es einen Abzweiger und ein Zwischenlager. Von dort fließt das Öl über die Adria-Wien-Pipeline quer durchs Land bis nach Schwechat.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Pipeline",
+    "Kärnten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 558,
+   "speaker": "Petra Mellunig",
+   "quote": "Das ist ein groß organisatorischer Aufwand, weil die Tal eben nicht nur zu uns geht. Die geht dann weiter nach Deutschland, versorgt dort auch mehrere Raffinerien.",
+   "quote_clean": "Das ist ein großer organisatorischer Aufwand, weil die TAL eben nicht nur zu uns geht. Die geht dann weiter nach Deutschland und versorgt dort auch mehrere Raffinerien.",
+   "statement": "Die Transalpine Pipeline aus Triest versorgt nicht nur Österreich, sondern auch mehrere Raffinerien in Deutschland.",
+   "question": "Wohin führt die Transalpine Pipeline aus Triest außer nach Österreich weiter?",
+   "answer": "Nach Deutschland",
+   "distractors": [
+    "Nach Ungarn",
+    "Nach Tschechien",
+    "In die Schweiz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Leitung ist eine Art Gemeinschaftsrohr: Mehrere Raffinerien hängen dran. Deshalb bekommt Schwechat nur bestimmte Zeitfenster, in denen es sein Öl abzapfen kann.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Pipeline",
+    "Deutschland"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 856,
+   "speaker": "Petra Mellunig",
+   "quote": "Ich glaube, das, was man am meisten kennt, ist einfach Schnapsbrennen. Schnapsbrennen ist eine einfache Destillation. Ich heize das Wasser auf, der Alkohol fängt schneller an zum Verdampfen.",
+   "quote_clean": "Ich glaube, was man am meisten kennt, ist Schnapsbrennen. Schnapsbrennen ist eine einfache Destillation. Ich heize das Wasser auf, der Alkohol fängt schneller an zu verdampfen.",
+   "statement": "Die Rohöldestillation funktioniert nach demselben Prinzip wie das Schnapsbrennen: Stoffe mit niedrigerem Siedepunkt verdampfen zuerst.",
+   "question": "Mit welchem bekannten Verfahren vergleicht Petra die Destillation von Rohöl?",
+   "answer": "Mit dem Schnapsbrennen",
+   "distractors": [
+    "Mit dem Kaffeerösten",
+    "Mit dem Bierbrauen",
+    "Mit dem Käsereifen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Beim Schnaps verdampft der Alkohol früher als das Wasser. In der Raffinerie ist es dasselbe, nur mit vielen Flüssigkeiten gleichzeitig, die man in Siedebereiche, sogenannte Fraktionen, auftrennt.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Destillation",
+    "Physik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 841,
+   "speaker": "Petra Mellunig",
+   "quote": "Die Destillation an und für sich ist ein physikalisches Trennverfahren aufgrund der Siedepunkte. Das heißt, unterschiedliche Flüssigkeiten verdampfen bei unterschiedlichen Temperaturen.",
+   "quote_clean": "Die Destillation an und für sich ist ein physikalisches Trennverfahren aufgrund der Siedepunkte. Das heißt, unterschiedliche Flüssigkeiten verdampfen bei unterschiedlichen Temperaturen.",
+   "statement": "Die Destillation von Rohöl ist ein physikalisches, kein chemisches Verfahren: Sie trennt nach Siedepunkten, ohne die Moleküle zu verändern.",
+   "question": "Was für ein Verfahren ist die Destillation von Rohöl?",
+   "answer": "Ein physikalisches Trennverfahren",
+   "distractors": [
+    "Eine chemische Umwandlung",
+    "Ein biologischer Abbau",
+    "Eine elektrische Spaltung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas hat sich vorbereitet und sagt trotzdem chemisch, Petra korrigiert sofort. Beim Destillieren bleiben die Moleküle gleich, sie werden nur sortiert. Chemisch wird es erst, wenn man sie beim Cracken gezielt spaltet.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Destillation",
+    "Chemie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1031,
+   "speaker": "Petra Mellunig",
+   "quote": "Das Ziel ist grundsätzlich, die kürzeren Ketten sind eigentlich die wertvolleren für uns.",
+   "quote_clean": "Grundsätzlich sind die kürzeren Ketten eigentlich die wertvolleren für uns.",
+   "statement": "In der Raffinerie gelten Kohlenwasserstoffe mit kürzeren Molekülketten, also weniger Kohlenstoffatomen, als die wertvolleren.",
+   "question": "Welche Moleküle sind in der Raffinerie als Faustregel die wertvolleren?",
+   "answer": "Die mit kürzeren Ketten",
+   "distractors": [
+    "Die mit längeren Ketten",
+    "Die mit mehr Schwefel",
+    "Die mit Ringstruktur"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Weniger C-Atome im Molekül heißt meist mehr Wert. Deshalb wird beim Cracken versucht, lange, schwere Ketten aufzuspalten, damit mehr von den Produkten rauskommt, die sich gut verkaufen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Chemie",
+    "Cracken"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1117,
+   "speaker": "Petra Mellunig",
+   "quote": "Butadien, aus dem wird dann der Synthese-Kautschuk hergestellt, aus dem werden dann die Reifen hergestellt für das Auto.",
+   "quote_clean": "Aus Butadien wird der Synthesekautschuk hergestellt, aus dem dann die Reifen für das Auto hergestellt werden.",
+   "statement": "Aus dem Raffinerieprodukt Butadien wird synthetischer Kautschuk hergestellt, aus dem Autoreifen gemacht werden.",
+   "question": "Welcher Stoff aus der Raffinerie ist Ausgangsprodukt für synthetischen Kautschuk für Autoreifen?",
+   "answer": "Butadien",
+   "distractors": [
+    "Methanol",
+    "Paraffin",
+    "Glycerin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Auto fährt also doppelt auf Erdöl: im Tank und an den Reifen. Butadien entsteht beim Cracken, und daraus wird Synthesekautschuk.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Reifen",
+    "Kunststoff"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1232,
+   "speaker": "Petra Mellunig",
+   "quote": "Am Bitumen, also in den Straßen zum Beispiel. Bitumen, das braucht man für ein Teer oder? Zum Straßenbelag machen, ja.",
+   "quote_clean": "Im Bitumen, also in den Straßen zum Beispiel. – Bitumen, das braucht man für Teer, oder? – Zum Straßenbelag machen, ja.",
+   "statement": "Aus dem schweren Rückstand der Rohöldestillation wird Bitumen für den Straßenbelag gemacht.",
+   "question": "Wofür wird Bitumen aus dem Rohöl-Rückstand vor allem verwendet?",
+   "answer": "Für den Straßenbelag",
+   "distractors": [
+    "Für Kerzenwachs",
+    "Für Flugbenzin",
+    "Für Speiseöl"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Was ganz unten in der Kolonne übrig bleibt, landet auf der Autobahn. Es gibt sogar Flüsterbitumen, das mit Zusätzen versetzt wird, damit die Straße leiser ist.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Bitumen",
+    "Straße"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1244,
+   "speaker": "Petra Mellunig",
+   "quote": "Da gibt es dann auch Flüsterbitumen zum Beispiel, die was extra dann noch versetzt werden mit Zusätzen.",
+   "quote_clean": "Da gibt es dann zum Beispiel auch Flüsterbitumen, das extra noch mit Zusätzen versetzt wird.",
+   "statement": "Es gibt sogenanntes Flüsterbitumen, ein mit Zusätzen versetztes Bitumen für leisere Straßenbeläge.",
+   "question": "Wie heißt Bitumen, das mit Zusätzen für leisere Straßen versetzt wird?",
+   "answer": "Flüsterbitumen",
+   "distractors": [
+    "Leisasphalt",
+    "Silentteer",
+    "Ruhebelag"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Name ist Programm: Mit bestimmten Zusätzen rollen die Reifen leiser. Auch das ist ein Rohölprodukt, nur eben eines, das man nicht tankt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bitumen",
+    "Lärm"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1322,
+   "speaker": "Petra Mellunig",
+   "quote": "Rohöl befindet sich immer noch in Kosmetikern, sogar in Medikamenten. Und sonst eben in den Kunststoffbereichen eben ganz wichtig, von Auto bis Möbeln, über Kleidung,",
+   "quote_clean": "Rohöl befindet sich auch in Kosmetika, sogar in Medikamenten. Und sonst in den Kunststoffbereichen ganz wichtig, von Auto bis Möbeln, über Kleidung.",
+   "statement": "Rohöl steckt nicht nur in Treibstoffen, sondern auch in Kosmetik, Medikamenten, Möbeln und Kleidung.",
+   "question": "In welchem dieser Produkte steckt laut Petra sogar Rohöl?",
+   "answer": "In Medikamenten",
+   "distractors": [
+    "In Speisesalz",
+    "In Glasflaschen",
+    "In Leitungswasser"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Erdöl ist weit mehr als Sprit. Über Kunststoffe und Grundchemikalien steckt es im Lippenstift, im Pulli, im Sofa und auch in Einwegprodukten im Spital.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erdöl",
+    "Alltag"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1622,
+   "speaker": "Petra Mellunig",
+   "quote": "Also ich kann einen Rohl haben, das hat die Farbe, die Farbe geht von wirklich gelblich, also von gelb bis zu schwarz.",
+   "quote_clean": "Ich kann ein Rohöl haben, die Farbe geht von wirklich gelblich, also von gelb bis zu schwarz.",
+   "statement": "Rohöl ist nicht immer schwarz: Je nach Sorte reicht die Farbe von gelblich bis schwarz.",
+   "question": "Welche Farben kann Rohöl je nach Sorte haben?",
+   "answer": "Von gelblich bis schwarz",
+   "distractors": [
+    "Immer tiefschwarz",
+    "Von grün bis blau",
+    "Von weiß bis grau"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Rohöl ist nicht gleich Rohöl. Manche Sorten sind hell und voller Benzin und Diesel, andere dunkel und schwer, mit viel Rückstand. Wie viel Sprit rauskommt, hängt genau davon ab.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Rohöl",
+    "Sorten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 771,
+   "speaker": "Petra Mellunig",
+   "quote": "weil ich habe das Rohöl ja schon erwärmt, mit Wärmetauschern, mit Gegenstrumprinzip. Also ich verwende die Abwärme vom fertigen Produkt, um das neue Produkt zu erwärmen.",
+   "quote_clean": "Weil ich das Rohöl schon erwärmt habe, mit Wärmetauschern nach dem Gegenstromprinzip. Ich verwende die Abwärme vom fertigen Produkt, um das neue Produkt zu erwärmen.",
+   "statement": "In der Raffinerie wird neues Rohöl mit der Abwärme der fertigen Produkte vorgewärmt, über Wärmetauscher nach dem Gegenstromprinzip.",
+   "question": "Womit wird das frische Rohöl in der Raffinerie vorgewärmt?",
+   "answer": "Mit Abwärme der fertigen Produkte",
+   "distractors": [
+    "Mit Strom aus dem Netz",
+    "Mit Sonnenkollektoren am Dach",
+    "Mit heißem Grundwasser"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die fertigen Produkte müssen ohnehin abkühlen, das frische Rohöl muss heiß werden. Also lässt man beides in Wärmetauschern aneinander vorbeifließen, und keiner verschwendet Energie.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Energie",
+    "Raffinerie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 178,
+   "speaker": "Petra Mellunig",
+   "quote": "Also irgendwann einmal waren Pflanzen, waren Lebewesen, die abgestorben sind, die sich dann am Boden abgesetzt haben, am Meeresgrund, die dann zugedeckt wurden mit Sedimenten, wodurch dann auch Druck entstand, Temperatur entstand",
+   "quote_clean": "Irgendwann einmal waren Pflanzen und Lebewesen, die abgestorben sind und sich am Meeresgrund abgesetzt haben, die dann mit Sedimenten zugedeckt wurden, wodurch Druck und Temperatur entstanden.",
+   "statement": "Erdöl entstand aus abgestorbenen Pflanzen und Lebewesen, die am Meeresgrund von Sedimenten bedeckt und durch Druck und Temperatur umgewandelt wurden.",
+   "question": "Woraus ist Erdöl ursprünglich entstanden?",
+   "answer": "Aus abgestorbenen Meereslebewesen und Pflanzen",
+   "distractors": [
+    "Aus Vulkanlava im Erdinneren",
+    "Aus Dinosaurierknochen an Land",
+    "Aus Meteoriteneinschlägen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Entscheidend war die Decke aus Sedimenten: Statt einfach zu verwesen, wurde die organische Masse unter Druck und Hitze zu Kohlenwasserstoffen. Im Tank verbrennt man also uralte Sonnenenergie.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Erdöl",
+    "Geologie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1459,
+   "speaker": "Petra Mellunig",
+   "quote": "Da werden nämlich dann eben Plastikabfälle gesammelt und die werden zu einem synthetischen Öl, einer Art synthetischen Rohöl verarbeitet, damit ich sie wieder verwenden kann, einfach in der Raffinerie schon.",
+   "quote_clean": "Da werden Plastikabfälle gesammelt und zu einem synthetischen Öl, einer Art synthetischem Rohöl, verarbeitet, damit ich sie in der Raffinerie wieder verwenden kann.",
+   "statement": "In der ReOil-Anlage in Schwechat werden Plastikabfälle zu synthetischem Rohöl verarbeitet, das in der Raffinerie wiederverwendet wird.",
+   "question": "Was wird in der ReOil-Anlage der Raffinerie Schwechat aus Plastikabfällen gemacht?",
+   "answer": "Synthetisches Rohöl",
+   "distractors": [
+    "Holzersatzplatten",
+    "Pflanzendünger",
+    "Strom für das Netz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Plastiksackerl und Becher gehen zurück an den Anfang der Kette. Derzeit wird nur ein bisschen von dem synthetischen Öl beigemischt, weil die Mengen noch klein sind, die Anlage wird aber ausgebaut.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Recycling",
+    "Plastik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 474,
+   "speaker": "Andreas Sator",
+   "quote": "das meiste Rohöl, das nach Österreich importiert wird, kommt aus Kasachstan, habe ich gelesen, Irak, Russland und Algerien.",
+   "quote_clean": "Das meiste Rohöl, das nach Österreich importiert wird, kommt aus Kasachstan, Irak, Russland und Algerien.",
+   "statement": "Das meiste nach Österreich importierte Rohöl kam damals aus Kasachstan, dem Irak, Russland und Algerien.",
+   "question": "Aus welchem Land kam 2022 ein großer Teil des nach Österreich importierten Rohöls?",
+   "answer": "Kasachstan",
+   "distractors": [
+    "Norwegen",
+    "Venezuela",
+    "Kanada"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kasachstan steht ganz oben auf der Liste, obwohl man eher an Saudi-Arabien denken würde. Weil die Raffinerie Schwechat verschiedene Sorten verarbeiten kann, ist sie aber von keinem einzelnen Land abhängig.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Import",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 893,
+   "speaker": "Petra Mellunig",
+   "quote": "Also Benzin ist jetzt nicht ein reines Produkt, sondern auch wieder ein Gemisch von Kohlenwasserstoffen.",
+   "quote_clean": "Benzin ist kein reines Produkt, sondern auch wieder ein Gemisch von Kohlenwasserstoffen.",
+   "statement": "Benzin ist kein reiner Stoff, sondern ein Gemisch verschiedener Kohlenwasserstoffe.",
+   "question": "Was ist Benzin chemisch gesehen?",
+   "answer": "Ein Gemisch von Kohlenwasserstoffen",
+   "distractors": [
+    "Ein einzelner reiner Stoff",
+    "Eine Art flüssiger Alkohol",
+    "Ein gelöstes Metallsalz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In der Kolonne trennt man nicht in einzelne Stoffe, sondern in Siedebereiche. Alles, was in einem bestimmten Temperaturfenster verdampft, landet in derselben Fraktion, etwa beim Benzin.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Benzin",
+    "Chemie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1264,
+   "speaker": "Petra Mellunig",
+   "quote": "Ich kann dann noch Vakuum destillieren. Dadurch muss ich die Temperatur nicht erhöhen. Das ist wichtig, weil wird die Temperatur zu hoch, beginnen die Produkte eben zu cracken, sich zu spalten.",
+   "quote_clean": "Ich kann dann noch vakuumdestillieren. Dadurch muss ich die Temperatur nicht erhöhen. Das ist wichtig, denn wird die Temperatur zu hoch, beginnen die Produkte zu cracken, sich zu spalten.",
+   "statement": "Mit Vakuumdestillation kann man schwere Rohölteile trennen, ohne die Temperatur so weit zu erhöhen, dass die Moleküle ungewollt zerfallen.",
+   "question": "Warum destilliert man den Rohöl-Rückstand unter Vakuum?",
+   "answer": "Damit die Moleküle nicht ungewollt zerfallen",
+   "distractors": [
+    "Damit das Öl schneller abkühlt",
+    "Damit kein Schwefel entweicht",
+    "Damit das Öl dunkler wird"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei weniger Druck sieden Stoffe schon bei niedrigerer Temperatur. So kann man trennen, ohne dass die Moleküle zufällig zu cracken beginnen. Spalten will man sie schon, aber gezielt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Destillation",
+    "Physik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1714,
+   "speaker": "Petra Mellunig",
+   "quote": "LKWs, im Normalfall, also zum größten Teil über LKWs, statt für Österreich im Tanklager Lobau und im Tanklager St. Valentin.",
+   "quote_clean": "Der Verkauf findet im Normalfall, also zum größten Teil, über Lkws statt, für Österreich im Tanklager Lobau und im Tanklager St. Valentin.",
+   "statement": "Benzin und Diesel kommen von den Tanklagern Lobau und St. Valentin großteils per Lkw zu den österreichischen Tankstellen.",
+   "question": "Wie kommt Benzin aus den Tanklagern meistens zu den Tankstellen in Österreich?",
+   "answer": "Großteils per Lkw",
+   "distractors": [
+    "Großteils per Bahn",
+    "Großteils per Pipeline",
+    "Großteils per Schiff"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bis zum Tanklager fließt alles durch Rohre, die letzte Etappe fährt der Tankwagen. Damit die Lkws im Westen nicht so weit fahren müssen, versorgt eine Pipeline von der Lobau das Tanklager St. Valentin.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Tankstelle",
+    "Logistik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1390,
+   "speaker": "Petra Mellunig",
+   "quote": "Ich glaube aber, dass der Rohölverbrauch nicht nur deshalb zurückgehen wird, weil wir sagen, wir fahren jetzt nicht mehr mit dem Auto, sondern auch, weil einfach man vieles vielleicht wahrscheinlich wieder beginnt zu recyceln.",
+   "quote_clean": "Ich glaube aber, dass der Rohölverbrauch nicht nur deshalb zurückgehen wird, weil wir nicht mehr mit dem Auto fahren, sondern auch, weil man vieles wieder zu recyceln beginnt.",
+   "statement": "Petra Mellunig erwartet, dass der Rohölverbrauch nicht nur wegen weniger Autofahrten, sondern auch durch mehr Recycling sinken wird.",
+   "question": "Wer sagt im Podcast: Der Rohölverbrauch wird nicht nur wegen weniger Autofahren sinken, sondern auch durch Recycling?",
+   "answer": "Petra Mellunig",
+   "distractors": [
+    "Andreas Sator",
+    "Karl Steininger",
+    "Manfred Lütz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ausgerechnet aus der Raffinerie kommt der Blick nach vorn: Verbranntes Benzin ist weg, aber ein Plastiksackerl kann man theoretisch wieder zu Öl machen. Genau daran arbeitet Schwechat mit der ReOil-Anlage.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Recycling",
+    "Zukunft"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 314,
+   "speaker": "Andreas Sator",
+   "quote": "Also könnte man mich auch mal vertanken dann in der Zukunft, wenn ich verwese und… Wenn du unter den richtigen Bedingungen dich zersetzt, dann… Und mit viel Zeit wäre das wahrscheinlich möglich, ja.",
+   "quote_clean": "Also könnte man mich in Zukunft auch mal vertanken, wenn ich verwese? – Wenn du dich unter den richtigen Bedingungen zersetzt und mit viel Zeit, wäre das wahrscheinlich möglich, ja.",
+   "statement": "Andreas fragt, ob man ihn in ferner Zukunft vertanken könnte, und Petra meint: unter den richtigen Bedingungen und mit viel Zeit wahrscheinlich ja.",
+   "question": "Was fragt Andreas Petra, nachdem sie erklärt hat, dass auch Menschen aus Kohlenwasserstoffen bestehen?",
+   "answer": "Ob man ihn einmal vertanken könnte",
+   "distractors": [
+    "Ob er brennbar ist",
+    "Ob er Benzin trinken darf",
+    "Ob Pflanzen Erdöl machen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Petra nimmt die Frage ernst und sagt: Mit den richtigen Bedingungen und sehr viel Zeit wohl schon. Andreas legt nach, das wäre doch nachhaltiges Fliegen, und schiebt gleich ein Schmäh hinterher.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Humor",
+    "Erdöl"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 1781,
+   "speaker": "Andreas Sator",
+   "quote": "Was nehme ich mir mit? Fossile Energie steckt in viel mehr Materialien, als uns bewusst ist oder als mir bewusst war,",
+   "quote_clean": "Was nehme ich mir mit? Fossile Energie steckt in viel mehr Materialien, als uns bewusst ist oder als mir bewusst war.",
+   "statement": "Am Ende jeder Folge fasst Andreas mit der Frage „Was nehme ich mir mit?“ zusammen, was er gelernt hat.",
+   "question": "Mit welcher Frage leitet Andreas am Ende der Folge seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir gelernt?",
+    "Was bleibt uns übrig?",
+    "Was sagt die Wissenschaft?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Diesmal ist sein Fazit: Erdöl steckt in Autobahnen, Lippenstiften, Computern, Reifen und Waschmittel. Wie das in einer Raffinerie im Detail funktioniert, war ihm vorher überhaupt nicht bewusst.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Fazit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "214",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

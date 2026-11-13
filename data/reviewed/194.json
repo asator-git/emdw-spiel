@@ -1,0 +1,277 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Andreas nennt 14 Prozent Gas im Strom, plausibel (Anteil Gas an der Stromerzeugung ca. 14-15 Prozent); Transkript 'Gas und Strom' ist Verhörer für 'Gas im Strom'.",
+   "stand_note": "Stand 2021",
+   "statement": "Rund 14 Prozent des österreichischen Stroms kamen 2021 noch aus Gaskraftwerken.",
+   "question": "Wie viel Prozent des österreichischen Stroms kamen 2021 noch aus Gas?",
+   "answer": "Rund 14 Prozent",
+   "distractors": [
+    "Rund 4 Prozent",
+    "Rund 30 Prozent",
+    "Rund 45 Prozent"
+   ],
+   "aha": "Gas ist der letzte große fossile Brocken im österreichischen Strommix. Ein Gaskraftwerk lässt sich halt bequem auf- und abdrehen, wenn Sonne und Wind gerade Pause machen. Genau dafür braucht es künftig Alternativen.",
+   "quote_clean": "Was es aber schon noch gibt, ist einen 14-prozentigen Anteil von Gas im Strom.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg stimmt (Mellach, Steiermark, 2020); aha-Schluss wirkt belehrend und ist nicht belegt.",
+   "stand_note": "",
+   "statement": "Österreichs letztes Kohlekraftwerk ging 2020 in der Steiermark vom Netz.",
+   "question": "In welchem Jahr ging Österreichs letztes Kohlekraftwerk vom Netz?",
+   "answer": "2020",
+   "distractors": [
+    "2005",
+    "2012",
+    "2025"
+   ],
+   "aha": "Das letzte Kohlekraftwerk stand in der Steiermark und wurde 2020 abgedreht. Seither kommt der Strom in Österreich ganz ohne Kohle aus eigenen Kraftwerken.",
+   "quote_clean": "Ist vor kurzem, ich glaube letztes Jahr, das letzte Kraftwerk. Letztes Jahr war das letzte Kraftwerk vom Netz gegangen.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, Zahl passt zur Realität 2021 (ca. 1.350 Anlagen).",
+   "stand_note": "Stand 2021",
+   "statement": "In Österreich standen 2021 rund 1300 Windkraftanlagen.",
+   "question": "Wie viele Windräder standen 2021 ungefähr in Österreich?",
+   "answer": "Rund 1300",
+   "distractors": [
+    "Rund 300",
+    "Rund 5000",
+    "Rund 12000"
+   ],
+   "aha": "Rund 1300 Windräder drehen sich in Österreich, die meisten im Osten. Wenn sich die Windstromleistung bis 2030 verdoppeln soll, braucht es aber nicht doppelt so viele Räder, weil die neuen deutlich stärker sind.",
+   "quote_clean": "Derzeit existieren zum Beispiel ungefähr 1300 Windanlagen in Österreich.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, plausibel für Österreich 2021.",
+   "stand_note": "Stand 2021",
+   "statement": "Ein durchschnittliches Windrad in Österreich hat rund 2,4 Megawatt Leistung, neue Anlagen haben 5 bis 6 Megawatt.",
+   "question": "Wie viel Leistung hat ein neues Windrad in Österreich ungefähr?",
+   "answer": "5 bis 6 Megawatt",
+   "distractors": [
+    "0,5 bis 1 Megawatt",
+    "1 bis 2 Megawatt",
+    "15 bis 20 Megawatt"
+   ],
+   "aha": "Neue Windräder schaffen mehr als doppelt so viel wie der Durchschnitt im Bestand mit rund 2,4 Megawatt. Darum kommt man mit weniger zusätzlichen Rädern aus, als man glauben würde. Dafür brauchen die großen mehr Abstand zueinander.",
+   "quote_clean": "Derzeit ist ungefähr 2,4 Megawatt die durchschnittliche Anlagengröße, aber eine neue Anlage liegt zwischen 5 und 6 Megawatt.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Klar belegt, gut verständlich.",
+   "stand_note": "",
+   "statement": "Ein Pumpspeicherkraftwerk pumpt mit überschüssigem Strom Wasser in ein oberes Becken und lässt es bei Knappheit durch Turbinen wieder hinunter.",
+   "question": "Wie speichert ein Pumpspeicherkraftwerk Strom?",
+   "answer": "Es pumpt Wasser in ein höheres Becken",
+   "distractors": [
+    "Es lädt riesige Batterien im Berg",
+    "Es erzeugt daraus Wasserstoff im Stausee",
+    "Es erhitzt Wasser in großen Tanks"
+   ],
+   "aha": "Zwei Becken, eins oben, eins unten. Gibt es zu viel Strom, wird Wasser hinaufgepumpt, wird es knapp, rauscht es durch Turbinen wieder hinunter. Eine Art Riesenakku aus Wasser und Schwerkraft, und davon hat Österreich dank der Berge eine Menge.",
+   "quote_clean": "Grundsätzlich funktionieren Pumpspeicher so: Es gibt zwei Becken, ein höheres Becken und ein unteres Becken.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1524-1533 stimmt, Bild ist klar.",
+   "stand_note": "",
+   "statement": "Das Übertragungsnetz ist wie eine Autobahn für Strom, das Verteilnetz wie eine Landstraße.",
+   "question": "Womit vergleicht Demet Suna das Verteilnetz, wenn das Übertragungsnetz die Autobahn ist?",
+   "answer": "Mit einer Landstraße",
+   "distractors": [
+    "Mit einer Bahnstrecke",
+    "Mit einem Fahrradweg",
+    "Mit einer Wasserleitung"
+   ],
+   "aha": "Auf der Autobahn, dem Übertragungsnetz, rauscht der Strom quer durch Europa. Auf der Landstraße, dem Verteilnetz, kommt er zu dir nach Hause. Und weil dort immer mehr kleine Photovoltaikanlagen einspeisen, muss gerade die Landstraße schlauer und digitaler werden.",
+   "quote_clean": "Sie können sich das so vorstellen: Das Verteilnetz ist wie eine Landstraße und das Übertragungsnetz ist die Autobahn.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Begriff und Erklärung klar belegt.",
+   "stand_note": "",
+   "statement": "Kraftwerke, die nach einem Blackout ohne Strom aus dem Netz wieder hochfahren können, nennt man schwarzstartfähig.",
+   "question": "Wie nennt man Kraftwerke, die nach einem Blackout ohne Strom von außen wieder hochfahren können?",
+   "answer": "Schwarzstartfähig",
+   "distractors": [
+    "Inselbetriebsbereit",
+    "Notstromgekoppelt",
+    "Kaltstartsicher"
+   ],
+   "aha": "Viele Kraftwerke brauchen selbst Strom, um anzulaufen, nach einem Blackout ein blödes Henne-Ei-Problem. Schwarzstartfähige Kraftwerke schaffen das allein, vor allem Wasser- und Pumpspeicherkraftwerke. Sie sind dann die Starthilfe für alle anderen.",
+   "quote_clean": "Kraftwerke, die vom Netz keinen Strom brauchen, um wieder hochzufahren, nennen wir in unserem Bereich schwarzstartfähig.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt als Modellaussage; Prognose, daher mit Stand-Hinweis.",
+   "stand_note": "Stand 2021, Modellprognose",
+   "statement": "Laut Modellen des AIT wird Österreich 2030 dank Erneuerbarer mehr Strom exportieren als importieren.",
+   "question": "Was zeigen die AIT-Modelle für Österreichs Stromhandel im Jahr 2030?",
+   "answer": "Österreich wird Nettoexporteur",
+   "distractors": [
+    "Österreich wird stark importabhängig",
+    "Österreich handelt gar keinen Strom mehr",
+    "Österreich importiert nur noch Atomstrom"
+   ],
+   "aha": "Wenn die Ausbauziele halten, produziert Österreich 2030 unterm Strich mehr Ökostrom, als es braucht, und verkauft den Überschuss an die Nachbarn. Dafür müssen aber die Leitungen ins Ausland verstärkt werden.",
+   "quote_clean": "Unsere Modelle zeigen, dass Österreich im Jahr 2030 aus diesen erneuerbaren Kapazitäten Nettoexporteur wird.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg ok; Antwort 'meist Strom' war unscharf, präzisiert, Distraktoren angeglichen.",
+   "stand_note": "",
+   "statement": "Ein gut vernetztes europäisches Stromnetz gleicht aus, dass Sonne und Wind nicht überall gleichzeitig fehlen.",
+   "question": "Warum hilft ein starkes europäisches Stromnetz gegen Flauten bei Sonne und Wind?",
+   "answer": "Irgendwo in Europa weht meist Wind oder scheint Sonne",
+   "distractors": [
+    "Die Leitungen speichern selbst viel Strom",
+    "Strom wird beim Transport stärker",
+    "Nachbarländer halten fixe Notreserven bereit"
+   ],
+   "aha": "Eine Windfront zieht etwa von Frankreich über Deutschland und die Schweiz nach Österreich. Wenn überall Windräder stehen und die Netze gut verbunden sind, wandert der Strom quasi mit dem Wetter mit. Flaute in Österreich heißt nicht Flaute in Europa.",
+   "quote_clean": "Wenn es in Österreich zum Beispiel keine Sonne gibt, heißt das nicht, dass es nirgendwo in Europa Sonne gibt.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Aussage kommt von Andreas ('ich glaube'), Demet bestätigt die Kostensenkung; Frage so umgestellt, dass sie die Kostenentwicklung abfragt und nicht eine pauschale Superlativ-Behauptung.",
+   "stand_note": "Stand 2021",
+   "statement": "Solarstrom war vor 30 Jahren eine der teuersten Energieformen und gilt heute als die billigste, die es je gab.",
+   "question": "Welche Stromquelle war vor 30 Jahren noch eine der teuersten und gilt heute als die billigste, die es je gab?",
+   "answer": "Solarstrom",
+   "distractors": [
+    "Kohlestrom",
+    "Atomstrom",
+    "Strom aus Erdgas"
+   ],
+   "aha": "Vor 30 Jahren war Photovoltaik noch ein teures Nischenprodukt. Durch Massenproduktion und technologisches Lernen ist Sonnenstrom an guten Standorten unschlagbar günstig geworden, eine kleine Revolution, die bei vielen noch gar nicht angekommen ist.",
+   "quote_clean": "Sonnenkraft war vor 30 Jahren eine der teuersten Formen der Energieherstellung und gilt heute gemeinhin als die billigste Form der Energiegewinnung, die es je gegeben hat.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Wer-sagt-Frage mit nur zwei Sprechern, Distraktoren trivial; Kostenaussage zu Atomkraft ist strittig.",
+   "stand_note": "",
+   "statement": "Demet Suna hält Atomkraft für keineswegs billiger als Wind- oder Solarstrom.",
+   "question": "Wer sagt: „Atomkraft ist keineswegs billiger als Wind oder Solar“?",
+   "answer": "Demet Suna",
+   "distractors": [
+    "Andreas Sator",
+    "Emmanuel Macron",
+    "Ein Sprecher von EDF"
+   ],
+   "aha": "",
+   "quote_clean": "Ich muss sagen, Atomkraft ist keineswegs billiger als Wind oder Solar.",
+   "quality": 1
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg ok (Demet und Andreas); Antwort präzisiert.",
+   "stand_note": "",
+   "statement": "Atomkraftwerke lassen sich nicht flexibel von einer Minute auf die andere hoch- und runterfahren.",
+   "question": "Warum passen Atomkraftwerke laut Demet Suna schlecht als Ausgleich zu Sonne und Wind?",
+   "answer": "Sie lassen sich nicht schnell hoch- und runterfahren",
+   "distractors": [
+    "Sie produzieren nur nachts Strom",
+    "Sie brauchen ständig Wind zur Kühlung",
+    "Sie dürfen nur im Winter laufen"
+   ],
+   "aha": "Ein Stromsystem mit viel Sonne und Wind braucht Partner, die schnell einspringen, wenn eine Wolke kommt. Gaskraftwerke, Pumpspeicher und Importe können das. Ein AKW läuft lieber stur durch, als im Minutentakt auf- und abgedreht zu werden.",
+   "quote_clean": "Aber ich kenne Atomkraftwerke nicht als flexibel einsetzbar. Die kann man nicht von einer Minute auf die andere ein- und ausschalten.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-Frage ohne Erkenntnisgewinn; Distraktoren (Krammer, Heinisch) willkürlich; aha enthält Gesprächsprotokoll statt Aha.",
+   "stand_note": "",
+   "statement": "Laut Demet Suna werden Wind- und Solarstrom durch technologisches Lernen noch billiger.",
+   "question": "Wer sagt: „Wir sind noch nicht am Ende des technologischen Lernens“?",
+   "answer": "Demet Suna",
+   "distractors": [
+    "Andreas Sator",
+    "Florian Krammer",
+    "Reinhard Heinisch"
+   ],
+   "aha": "",
+   "quote_clean": "Wir sind noch nicht am Ende des technologischen Lernens. Wir können in der kommenden Zeit noch Preissenkungen erwarten.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zum Podcast-Format, nicht zum Inhalt; 'am Ende jeder Folge' ist hier nicht belegt.",
+   "stand_note": "",
+   "statement": "Andreas fasst am Ende jeder Folge zusammen, was er sich mitnimmt.",
+   "question": "Mit welcher Frage leitet Andreas seine Zusammenfassung am Ende ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was habe ich falsch gedacht?",
+    "Was sagen die Hörer:innen dazu?",
+    "Was kommt als Nächstes?"
+   ],
+   "aha": "",
+   "quote_clean": "Was nehme ich mir von der heutigen Folge mit?",
+   "quality": 1
+  }
+ ],
+ "id": "194",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

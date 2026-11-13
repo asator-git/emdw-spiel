@@ -1,0 +1,285 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Zahl belegt (2527 s, 1,5 Mio.), passt zu EU-SILC 2022; der Aha-Text enthielt nicht Belegtes und wurde ersetzt.",
+   "stand_note": "Stand 2023",
+   "statement": "In Österreich gelten rund 1,5 Millionen Menschen als armuts- oder ausgrenzungsgefährdet.",
+   "question": "Wie viele Menschen in Österreich gelten als armuts- oder ausgrenzungsgefährdet?",
+   "answer": "Rund 1,5 Millionen",
+   "distractors": [
+    "Rund 300.000",
+    "Rund 700.000",
+    "Rund 3 Millionen"
+   ],
+   "aha": "Das ist ungefähr jede sechste Person im Land. Dani betont zugleich, dass davon viele nicht nur knapp über der Grenze, sondern wirklich massiv kämpfen.",
+   "quote_clean": "Wir haben 1,5 Millionen Armuts- und Ausgrenzungsgefährdete, aber die Zahl derer, die wirklich in absoluter Armut leben,",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "transkription",
+    "kontext"
+   ],
+   "note": "Zahlen von der Gästin selbst unsicher genannt („ich glaube … oder so“), Definition von absoluter Armut im Ausschnitt unklar; zu riskant.",
+   "stand_note": "",
+   "statement": "Die Zahl der Menschen in Österreich, die in absoluter Armut leben, ist binnen eines Jahres von rund 160.000 auf über 210.000 gestiegen.",
+   "question": "Auf wie viele Menschen ist die Zahl derer, die in Österreich in absoluter Armut leben, zuletzt gestiegen?",
+   "answer": "Über 210.000",
+   "distractors": [
+    "Rund 60.000",
+    "Rund 120.000",
+    "Über 500.000"
+   ],
+   "aha": "Gemeint sind Leute, bei denen nicht einmal ein kaputter Kühlschrank ersetzt werden kann.",
+   "quote_clean": "Die ist im letzten Jahr von 160.000 auf über 210.000 gestiegen.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt, aber es ist Danis Angabe; Frage als Aussage von Dani formuliert und Stand 2023 gesetzt.",
+   "stand_note": "Stand 2023",
+   "statement": "Laut Dani liegt die Nachmittagsbetreuungsquote bei Volksschulkindern in Oberösterreich unter 30 Prozent.",
+   "question": "Wie hoch ist laut Dani die Nachmittagsbetreuungsquote bei Volksschulkindern in Oberösterreich?",
+   "answer": "Unter 30 Prozent",
+   "distractors": [
+    "Rund 50 Prozent",
+    "Rund 65 Prozent",
+    "Über 80 Prozent"
+   ],
+   "aha": "Wer um Mittag das Kind abholen muss, kann schwer Vollzeit arbeiten. Für Dani ist der Ausbau der Kinderbetreuung darum ein zentraler Hebel gegen Armut, vor allem gegen die von Frauen.",
+   "quote_clean": "Wir haben zum Beispiel in Oberösterreich eine Nachmittagsbetreuungsquote bei Volksschulkindern unter 30 Prozent.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Im Transkript klar belegt (2696-2731 s), Verlauf stimmt.",
+   "stand_note": "Stand 2022/23",
+   "statement": "In Oberösterreich wurde Sozialhilfeempfänger:innen der 150-Euro-Teuerungsbonus zunächst von der Sozialhilfe abgezogen – zu Unrecht, wie sich später herausstellte.",
+   "question": "Was passierte in Oberösterreich zunächst mit dem 150-Euro-Teuerungsbonus für Sozialhilfeempfänger:innen?",
+   "answer": "Er wurde von der Sozialhilfe abgezogen",
+   "distractors": [
+    "Er wurde doppelt ausbezahlt",
+    "Er wurde als Gutschein ausgegeben",
+    "Er ging nur an Pensionist:innen"
+   ],
+   "aha": "Die Betroffenen haben beim Land nachgefragt und gehört, das sei korrekt so. Erst als ein paar Leute auf Twitter Wirbel gemacht haben, wurde der Fehler korrigiert und das Geld kam doch noch an.",
+   "quote_clean": "In Oberösterreich ist Sozialhilfeempfängerinnen der Teuerungsbonus, diese 150 Euro, von der Sozialhilfe abgezogen worden.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (2567-2575 s) und sachlich korrekt: Armutsgefährdung wird über das Einkommen gemessen.",
+   "stand_note": "",
+   "statement": "Die Armutsgefährdungsgrenze wird am Einkommen gemessen, nicht daran, was nach den Fixkosten übrig bleibt.",
+   "question": "Woran wird gemessen, ob jemand offiziell als armutsgefährdet gilt?",
+   "answer": "Am Einkommen",
+   "distractors": [
+    "Am Vermögen",
+    "Am Geld nach Fixkosten",
+    "An der Wohnungsgröße"
+   ],
+   "aha": "Wenn Miete, Strom und Gas teurer werden, ändert das an der Statistik erst einmal nichts. Dani würde lieber schauen, was nach den fixen Ausgaben bleibt – dann wären plötzlich auch viele aus der Mittelschicht dabei.",
+   "quote_clean": "Aber die Armutsgrenze und die Armutszahlen definieren sich nicht an dem, was dir pro Monat überbleibt, sondern am Einkommen, was ich falsch finde.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Danis Aussage zu freien Dienstnehmern ist rechtlich zweifelhaft (freie Dienstnehmer sind sozialversichert, Krankengeld ist möglich); Scheinselbstständigkeit im Aha nicht belegt.",
+   "stand_note": "",
+   "statement": "Freie Dienstnehmer:innen werden in Österreich ähnlich wie Selbstständige behandelt: kein bezahlter Urlaub und kein Anspruch auf Krankengeld.",
+   "question": "Was fehlt freien Dienstnehmer:innen in Österreich im Vergleich zu Angestellten?",
+   "answer": "Bezahlter Urlaub und Krankengeld",
+   "distractors": [
+    "Nur das 13. Gehalt",
+    "Nur die Pensionsversicherung",
+    "Nur der Kündigungsschutz"
+   ],
+   "aha": "",
+   "quote_clean": "Das heißt, in Österreich wirst du behandelt wie ein Selbstständiger. Sprich: kein Urlaub, keine freien Tage. Wenn du nicht arbeitest, wirst du nicht bezahlt. Kein Anspruch auf Krankengeld.",
+   "quality": 1
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Antwort enger am Transkript formuliert (Scham wird nicht gesagt), mehrdeutigen Distraktor ersetzt, Aha auf Belegtes gekürzt.",
+   "stand_note": "",
+   "statement": "Dani erzählt, dass sie sich zurückgezogen hat, weil sie nicht ständig sagen wollte, dass sie sich etwas nicht leisten kann, und die gut gemeinten Spartipps nicht mehr hören mochte.",
+   "question": "Warum hat sich Dani laut ihrer Erzählung von Freund:innen zurückgezogen?",
+   "answer": "Sie wollte nicht ständig sagen, dass sie sich etwas nicht leisten kann",
+   "distractors": [
+    "Sie war lieber allein",
+    "Sie musste weit wegziehen",
+    "Sie hatte keine Lust auf Gesellschaft"
+   ],
+   "aha": "Erst sagst du ehrlich ab, dann erfindest du Ausreden – und irgendwann wirst du einfach nicht mehr gefragt. Dani meint heute, mit mehr Offenheit hätte sich im Umfeld wohl einiges geändert.",
+   "quote_clean": "Weil du nicht die ganze Zeit sagen willst, dass du es dir nicht leisten kannst. Weil dann kriegst du meistens zu hören: Ja, bei uns geht es ja auch, wir schaffen es ja auch irgendwie. Und dann kriegst du die Ratschläge.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (1425-1445 s), sinngemäß korrekt wiedergegeben.",
+   "stand_note": "",
+   "statement": "Armutsbetroffene übernehmen häufig die Beschämung von außen und glauben schließlich selbst, sie seien schuld an ihrer Lage.",
+   "question": "Was passiert laut Dani mit Armutsbetroffenen, die jahrelang von der „sozialen Hängematte“ hören?",
+   "answer": "Sie glauben es irgendwann selbst",
+   "distractors": [
+    "Sie werden dadurch motivierter",
+    "Sie wehren sich öffentlich",
+    "Sie hören einfach weg"
+   ],
+   "aha": "Wer ständig hört, er sei faul, fängt an, an den eigenen Fähigkeiten zu zweifeln. Das Selbstbewusstsein rutscht in den Keller, und genau das macht den Weg raus noch schwerer.",
+   "quote_clean": "Und das ist ein typisches Anzeichen von Armutsbetroffenen: Sie übernehmen die Beschämungen von außen. Wenn du jahrelang gesagt kriegst und in den Medien hörst und in den Zeitungen liest, Armutsbetroffene brauchen Anreize, liegen in der sozialen Hängematte, bemühen sich zu wenig, dann glaubst du das.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Statement behauptete eine Statistik, die so nicht gesagt wird; auf Danis Aussage zurückgeführt, Distraktor ersetzt, der selbst plausibel richtig wäre.",
+   "stand_note": "",
+   "statement": "Laut Dani wachsen die nächsten Armutsbetroffenen heran, wenn man nichts gegen Kinderarmut tut.",
+   "question": "Warum ist der Kampf gegen Kinderarmut laut Dani auch wirtschaftlich klug?",
+   "answer": "Sonst wächst die nächste arme Generation heran",
+   "distractors": [
+    "Weil Schulen dann weniger Personal brauchen",
+    "Weil Eltern dann mehr Steuern zahlen",
+    "Weil Wohnungen dann billiger werden"
+   ],
+   "aha": "Kinder in Armut meiden Ausflüge und Montagmorgen-Runden, fehlen öfter, wiederholen Klassen – und schließen manchmal nicht einmal die Pflichtschule ab. Ohne Abschluss ist man heute schnell wieder dort, wo die Eltern waren.",
+   "quote_clean": "Das heißt, wenn wir nichts gegen Kinderarmut machen, produzieren wir die nächsten Armutsbetroffenen, die wieder vom Sozialstaat abhängig sind.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt bei der einzigen Gästin ist trivial; Distraktoren stammen nicht aus der Folge.",
+   "stand_note": "",
+   "statement": "Das Leben in Armut ist Dauerstress, weil sich vom Aufstehen bis zum Schlafengehen alles ums Geld dreht.",
+   "question": "Wer hat's gesagt: „Das Leben in Armut ist Dauerstress. Du stehst in der Früh auf, es geht ums Geld“?",
+   "answer": "Daniela Brodesser",
+   "distractors": [
+    "Christoph Badelt",
+    "Martin Schenk",
+    "Barbara Blaha"
+   ],
+   "aha": "",
+   "quote_clean": "Das Leben in Armut ist Dauerstress. Es belastet dich jeden Tag. In einem armutsbetroffenen Haushalt spielt Geld gedanklich eine der wichtigsten Rollen. Du stehst in der Früh auf, es geht ums Geld. Du gehst ins Bett, es geht ums Geld.",
+   "quality": 1
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Wer-hat's-gesagt bei der einzigen Gästin ist trivial; quote_clean fügt Wörter („einsehen“) hinzu, die nicht gesagt wurden.",
+   "stand_note": "",
+   "statement": "Eine Gesellschaft ist nur so stark, wie sie die behandelt, denen es am schlechtesten geht.",
+   "question": "Wer hat's gesagt: „Wir sind als Gesellschaft nur so stark, wie wir diejenigen behandeln, denen es am schlechtesten geht“?",
+   "answer": "Daniela Brodesser",
+   "distractors": [
+    "Christoph Badelt",
+    "Martin Schenk",
+    "Barbara Blaha"
+   ],
+   "aha": "",
+   "quote_clean": "Wir sind als Gesellschaft nur so stark, wie wir diejenigen behandeln, denen es am schlechtesten geht.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (1299-1344 s); die Mitarbeiterin wird von Dani ausdrücklich als lieb und engagiert beschrieben, nichts Bloßstellendes.",
+   "stand_note": "",
+   "statement": "Eine Mitarbeiterin einer Sozialberatungsstelle sagte Dani, sie sehe nicht arm aus – obwohl ihre Kleidung vom Flohmarkt war.",
+   "question": "Was sagte eine Mitarbeiterin der Sozialberatungsstelle zu Dani, als sie dort hinkam?",
+   "answer": "Sie sehe gar nicht arm aus",
+   "distractors": [
+    "Sie solle mehr arbeiten",
+    "Sie komme zu spät",
+    "Sie brauche einen Anwalt"
+   ],
+   "aha": "Die Kleidung war vom Flohmarkt oder von ihrer Mutter. Für Dani zeigt die Szene, wie stark das Bild aus Trash-TV-Sendungen wirkt: Arm hat angeblich verlottert auszusehen.",
+   "quote_clean": "Aber die schaut mich an, und ich war damals ähnlich angezogen wie jetzt, und sagt: Naja, so wie Sie ausschauen, kann ich mir nicht vorstellen, dass Sie arm sind.",
+   "quality": 4
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (134-151 s), harmlos und charmant, aber inhaltlich leicht.",
+   "stand_note": "",
+   "statement": "Auf Andreas' Frage nach Motorradplänen für die Midlife-Crisis erzählt Dani, dass sie mit dem Fitnessstudio angefangen hat.",
+   "question": "Womit kündigt sich laut Dani ihre Midlife-Crisis an?",
+   "answer": "Sie geht neuerdings ins Fitnessstudio",
+   "distractors": [
+    "Sie hat sich ein Motorrad gekauft",
+    "Sie lernt jetzt Gitarre",
+    "Sie hat sich tätowieren lassen"
+   ],
+   "aha": "Andreas hätte eher auf ein Motorrad getippt. Er ist übrigens auch im Fitnessstudio – aber Dani besteht darauf: Bei ihr ist es neu, und das ist das Zeichen.",
+   "quote_clean": "Nein, ich habe mit dem Fitnessstudio angefangen. Ich komme wirklich in die Midlife-Crisis.",
+   "quality": 2
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsverlauf, kein Faktenwissen und kaum spielbar.",
+   "stand_note": "",
+   "statement": "Andreas fragt Dani, was passieren müsste, damit es ihren Aktivismus nicht mehr braucht.",
+   "question": "Welche Frage stellt Andreas Dani gegen Ende der Folge?",
+   "answer": "Was nötig wäre, damit es sie nicht braucht",
+   "distractors": [
+    "Ob sie in die Politik gehen will",
+    "Wie viel ihr Buch verkauft hat",
+    "Was sie heute anders machen würde"
+   ],
+   "aha": "",
+   "quote_clean": "Was müsste politisch und gesellschaftlich passieren, damit es dich und deinen Aktivismus in Zukunft nicht mehr braucht?",
+   "quality": 1
+  }
+ ],
+ "id": "270",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

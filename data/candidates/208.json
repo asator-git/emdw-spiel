@@ -1,0 +1,678 @@
+{
+ "theme": "Wirtschaft & Arbeit",
+ "summary": "Helga fährt seit 28 Jahren Massivholzhäuser quer durch Europa und erzählt, wie das Leben im Lkw wirklich ausschaut.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1240,
+   "speaker": "Andreas Sator",
+   "quote": "Ist nicht die Obergrenze neun Stunden am Tag, die man gesetzlich fahren darf? Ja, neun Stunden, aber man darf zweimal in der Woche auf zehn Stunden ausweiten.",
+   "quote_clean": "Ist nicht die Obergrenze neun Stunden am Tag, die man gesetzlich fahren darf? Ja, neun Stunden, aber man darf zweimal in der Woche auf zehn Stunden ausweiten.",
+   "statement": "Lkw-Fahrer:innen dürfen in der EU normalerweise höchstens neun Stunden pro Tag fahren.",
+   "question": "Wie viele Stunden darf ein Lkw-Fahrer in der EU normalerweise pro Tag am Steuer sitzen?",
+   "answer": "9 Stunden",
+   "distractors": [
+    "7 Stunden",
+    "11 Stunden",
+    "12 Stunden"
+   ],
+   "number_value": 9,
+   "number_unit": "Stunden",
+   "slider_min": 4,
+   "slider_max": 16,
+   "log_scale": false,
+   "aha": "Neun Stunden reine Lenkzeit sind die Regel, zweimal pro Woche dürfen es zehn sein. Für Helga heißt das: London liegt rund zwei Arbeitstage von der Steiermark entfernt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Lenkzeit",
+    "Recht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1245,
+   "speaker": "Helga Dröscher",
+   "quote": "Ja, neun Stunden, aber man darf zweimal in der Woche auf zehn Stunden ausweiten.",
+   "quote_clean": "Ja, neun Stunden, aber man darf zweimal in der Woche auf zehn Stunden ausweiten.",
+   "statement": "Die tägliche Lenkzeit von neun Stunden darf zweimal pro Woche auf zehn Stunden verlängert werden.",
+   "question": "Wie oft pro Woche darf ein Lkw-Fahrer seine Lenkzeit auf zehn Stunden ausdehnen?",
+   "answer": "Zweimal pro Woche",
+   "distractors": [
+    "Nie",
+    "Einmal pro Woche",
+    "An jedem Tag"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Ausnahme ist streng begrenzt: zwei längere Tage pro Woche, mehr nicht. So geht sich bei Helga die Fahrt nach London samt Rückweg in einer Woche aus.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Lenkzeit",
+    "Recht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1560,
+   "speaker": "Andreas Sator",
+   "quote": "Aber wenn man sich die Entwicklung anschaut, dann haben wir angeschaut, seit 1990 ist der Bkw-Verkehr in Österreich um 50 Prozent gestiegen und der Lkw-Verkehr um 150 Prozent.",
+   "quote_clean": "Wenn man sich die Entwicklung anschaut: Seit 1990 ist der Pkw-Verkehr in Österreich um 50 Prozent gestiegen und der Lkw-Verkehr um 150 Prozent.",
+   "statement": "Seit 1990 ist der Lkw-Verkehr in Österreich um rund 150 Prozent gewachsen, der Pkw-Verkehr um etwa 50 Prozent.",
+   "question": "Um wie viel Prozent ist der Lkw-Verkehr in Österreich seit 1990 gestiegen?",
+   "answer": "Um rund 150 Prozent",
+   "distractors": [
+    "Um rund 30 Prozent",
+    "Um rund 60 Prozent",
+    "Um rund 400 Prozent"
+   ],
+   "number_value": 150,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 400,
+   "log_scale": false,
+   "aha": "Der Lkw-Verkehr ist dreimal so stark gewachsen wie der Pkw-Verkehr. Von wegen \"mehr auf die Bahn\": Die Nachfrage nach Lastwagen ist eher explodiert.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Verkehr",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1725,
+   "speaker": "Helga Dröscher",
+   "quote": "Aber ein LKW-Fahrer hat 10 Euro brutto Stundenlohn. Bei uns macht das dann eigentlich nur die Menge aus, weil wir eigentlich jeden Tag 13, 15 Stunden arbeiten.",
+   "quote_clean": "Aber ein Lkw-Fahrer hat 10 Euro brutto Stundenlohn. Bei uns macht das nur die Menge aus, weil wir jeden Tag 13, 15 Stunden arbeiten.",
+   "statement": "Ein Lkw-Fahrer in Österreich verdient laut Helga Dröscher etwa 10 Euro brutto pro Stunde.",
+   "question": "Wie viel Euro brutto verdient ein Lkw-Fahrer in Österreich laut Helga ungefähr pro Stunde?",
+   "answer": "Etwa 10 Euro",
+   "distractors": [
+    "Etwa 6 Euro",
+    "Etwa 18 Euro",
+    "Etwa 25 Euro"
+   ],
+   "number_value": 10,
+   "number_unit": "Euro pro Stunde",
+   "slider_min": 2,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Das Gehalt passt am Ende nur, weil die Tage so lang sind: 13 bis 15 Stunden Arbeit sind keine Seltenheit. Gut verdienen heißt hier vor allem viel arbeiten.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Lohn",
+    "Arbeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1741,
+   "speaker": "Helga Dröscher",
+   "quote": "Aber unser Stundenlohn ist seit 30 Jahren der gleiche. Also findest du nicht fair? Ja, nicht fair.",
+   "quote_clean": "Aber unser Stundenlohn ist seit 30 Jahren der gleiche. Findest du das nicht fair? Ja, nicht fair.",
+   "statement": "Laut Helga Dröscher ist der Stundenlohn von Lkw-Fahrer:innen seit rund 30 Jahren unverändert.",
+   "question": "Wie hat sich der Stundenlohn von Lkw-Fahrer:innen laut Helga in den letzten 30 Jahren entwickelt?",
+   "answer": "Er ist gleich geblieben",
+   "distractors": [
+    "Er hat sich verdoppelt",
+    "Er ist leicht gesunken",
+    "Er ist um die Hälfte gestiegen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Höher zahlen geht laut Helga kaum, weil die Branche eh schon am Limit kalkuliert. Irgendwer fährt immer noch billiger.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Lohn",
+    "Arbeit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1775,
+   "speaker": "Helga Dröscher",
+   "quote": "wenn der Osten nicht fahren darf bei uns, ist sowieso der Zusammenbruch, weil es ohne den gar nicht mehr geht. Aber die haben nur 2, 3 Euro Stundenlohn.",
+   "quote_clean": "Wenn der Osten nicht fahren darf bei uns, ist sowieso der Zusammenbruch, weil es ohne sie gar nicht mehr geht. Aber die haben nur 2, 3 Euro Stundenlohn.",
+   "statement": "Viele Lkw-Fahrer aus Osteuropa bekommen laut Helga Dröscher nur 2 bis 3 Euro Stundenlohn, ohne sie würde der Transport aber zusammenbrechen.",
+   "question": "Wie hoch ist laut Helga der Stundenlohn vieler Lkw-Fahrer aus Osteuropa?",
+   "answer": "2 bis 3 Euro",
+   "distractors": [
+    "5 bis 6 Euro",
+    "8 bis 9 Euro",
+    "0,50 bis 1 Euro"
+   ],
+   "number_value": 2.5,
+   "number_unit": "Euro pro Stunde",
+   "slider_min": 0,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Ohne die Fahrer aus dem Osten würde der Verkehr laut Helga zusammenbrechen. Weil sie so wenig kosten, können ihre Firmen die Fracht billiger anbieten. Helga findet, das gehört von oben besser geregelt.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Lohn",
+    "Europa"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1459,
+   "speaker": "Helga Dröscher",
+   "quote": "Und der gleiche fährt jetzt nur 2, 3, 80, da braucht er auf 100 km um 2 Liter ungefähr weniger.",
+   "quote_clean": "Und der Gleiche fährt jetzt nur 82, 83, da braucht er auf 100 km ungefähr 2 Liter weniger.",
+   "statement": "Ein Lkw, der etwa 82 statt 89 km/h fährt, braucht rund 2 Liter Diesel weniger auf 100 Kilometer.",
+   "question": "Wie viel Diesel spart ein Lkw auf 100 km, wenn er rund 82 statt 89 km/h fährt?",
+   "answer": "Rund 2 Liter",
+   "distractors": [
+    "Rund 0,2 Liter",
+    "Rund 6 Liter",
+    "Rund 10 Liter"
+   ],
+   "number_value": 2,
+   "number_unit": "Liter",
+   "slider_min": 0,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Ein paar km/h weniger klingen nach nix, aber der Luftwiderstand steigt mit dem Tempo stark an. Bei 700, 800 Kilometern am Tag summiert sich das ordentlich.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Diesel",
+    "Tempo"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1466,
+   "speaker": "Helga Dröscher",
+   "quote": "Und das ist, wo wir eigentlich jeden Tag 700, 800 km fahren, ist das dann schon, ja, dieselsparend.",
+   "quote_clean": "Und weil wir jeden Tag 700, 800 km fahren, ist das dann schon dieselsparend.",
+   "statement": "Fernfahrer:innen legen pro Tag oft 700 bis 800 Kilometer zurück.",
+   "question": "Wie viele Kilometer fährt eine Fernfahrerin wie Helga an einem typischen Tag?",
+   "answer": "700 bis 800 km",
+   "distractors": [
+    "200 bis 300 km",
+    "400 bis 500 km",
+    "1.200 bis 1.300 km"
+   ],
+   "number_value": 750,
+   "number_unit": "Kilometer",
+   "slider_min": 100,
+   "slider_max": 1500,
+   "log_scale": false,
+   "aha": "Neun bis zehn Stunden Lenkzeit bei rund 80 km/h ergeben eben diese Strecke. Genau deshalb zählt jeder eingesparte Liter Diesel.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fernverkehr",
+    "Strecke"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 350,
+   "speaker": "Helga Dröscher",
+   "quote": "Ja, man hat da einfach so seine 20 Stunden von daheim weg. Reine Fahrzeit. Also London sind 20 Stunden, Barcelona sind ein bisschen lieber 20 Stunden.",
+   "quote_clean": "Man hat da einfach so seine 20 Stunden von daheim weg. Reine Fahrzeit. London sind 20 Stunden, Barcelona ein bisschen über 20 Stunden.",
+   "statement": "Mit dem Lkw sind es von der Steiermark nach London rund 20 Stunden reine Fahrzeit.",
+   "question": "Wie viele Stunden reine Fahrzeit braucht ein Lkw von der Steiermark nach London?",
+   "answer": "Rund 20 Stunden",
+   "distractors": [
+    "Rund 8 Stunden",
+    "Rund 12 Stunden",
+    "Rund 40 Stunden"
+   ],
+   "number_value": 20,
+   "number_unit": "Stunden",
+   "slider_min": 4,
+   "slider_max": 50,
+   "log_scale": false,
+   "aha": "Bei neun bis zehn Stunden Lenkzeit am Tag sind das zwei Fahrtage. Hin, abladen, zurück: Das geht sich in einer Woche aus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fernverkehr",
+    "Europa"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 147,
+   "speaker": "Helga Dröscher",
+   "quote": "Okay, ich bin die Helga aus der Steiermark und bin seit 28 Jahren mittlerweile Lkw-Fahrerin.",
+   "quote_clean": "Okay, ich bin die Helga aus der Steiermark und bin mittlerweile seit 28 Jahren Lkw-Fahrerin.",
+   "statement": "Helga Dröscher aus der Steiermark fährt seit 28 Jahren Lkw.",
+   "question": "Seit wie vielen Jahren ist Helga Dröscher Lkw-Fahrerin?",
+   "answer": "Seit 28 Jahren",
+   "distractors": [
+    "Seit 8 Jahren",
+    "Seit 15 Jahren",
+    "Seit 40 Jahren"
+   ],
+   "number_value": 28,
+   "number_unit": "Jahre",
+   "slider_min": 0,
+   "slider_max": 50,
+   "log_scale": false,
+   "aha": "Helga ist seit den 90ern auf der Straße und fährt Massivholzhäuser quer durch Europa. Ob sie als Fahrerin alt werden will, fragt sie sich selbst seit 15 Jahren.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Beruf",
+    "Helga"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 174,
+   "speaker": "Helga Dröscher",
+   "quote": "Naja, wenn das Haus nicht allzu groß ist, geht ein ganzes Haus auf. Wirklich? Wow. Also so ein kleines, lauschiges Einfamilienhaus, das bringe ich ja noch.",
+   "quote_clean": "Wenn das Haus nicht allzu groß ist, geht ein ganzes Haus auf. Wirklich? Wow. So ein kleines, lauschiges Einfamilienhaus, das bringe ich noch.",
+   "statement": "Ein kleines Einfamilienhaus aus Massivholz passt in Fertigteilen komplett auf einen einzigen Sattelauflieger.",
+   "question": "Wie viel von einem kleinen Massivholz-Einfamilienhaus passt auf einen einzigen Lkw?",
+   "answer": "Das ganze Haus",
+   "distractors": [
+    "Etwa ein Viertel",
+    "Nur das Dach",
+    "Etwa die Hälfte"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Wände kommen als fertige Elemente, sorgfältig nach Plan geschlichtet. Vor Ort hebt der Kran sie direkt vom Auflieger und nach drei Stunden stehen schon die ersten Räume.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Holzbau",
+    "Transport"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 228,
+   "speaker": "Helga Dröscher",
+   "quote": "Naja, LKW selber, den befüllst du ja nicht, sondern den Aufleger. Und den kann man auch immer wechseln.",
+   "quote_clean": "Den Lkw selber befüllst du ja nicht, sondern den Auflieger. Und den kann man auch immer wechseln.",
+   "statement": "Beim Sattelzug wird nicht die Zugmaschine beladen, sondern der Auflieger, der sich austauschen lässt.",
+   "question": "Was wird bei einem Sattelzug eigentlich beladen?",
+   "answer": "Der austauschbare Auflieger",
+   "distractors": [
+    "Die Zugmaschine",
+    "Das Führerhaus",
+    "Ein fix verbauter Container"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Weil das Aufladen der Holzhäuser irrsinnig lang dauert, wird vorgeladen. Helga sattelt in der Früh einfach den fertigen Auflieger an ihre Zugmaschine und fährt los.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Lkw",
+    "Logistik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 401,
+   "speaker": "Helga Dröscher",
+   "quote": "Und dann entweder aufs Schiff oder mit dem Zug unter dem Meer durch. Also gibt es einen Tunnel unter dem Meer. Da gibt es den Tunnel, ja, den Eurotunnel.",
+   "quote_clean": "Und dann entweder aufs Schiff oder mit dem Zug unter dem Meer durch. Es gibt also einen Tunnel unter dem Meer. Da gibt es den Tunnel, ja, den Eurotunnel.",
+   "statement": "Lkw kommen nach England entweder per Fähre oder auf einem Zug durch den Eurotunnel unter dem Ärmelkanal.",
+   "question": "Wie kommt ein Lkw ohne Schiff von Frankreich nach England?",
+   "answer": "Per Zug durch den Eurotunnel",
+   "distractors": [
+    "Über eine Kanalbrücke",
+    "Über Irland",
+    "Auf eigener Achse durch einen Straßentunnel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Eurotunnel fährt der Lkw nicht selbst, er wird auf einen Zug verladen. Dafür muss man durch die Kontrollen in Calais, und die können stundenlang dauern.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Eurotunnel",
+    "Europa"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 516,
+   "speaker": "Helga Dröscher",
+   "quote": "Es ist ein Kühlschrank drinnen, ich habe eine Mikrowelle drinnen, notfalls noch einen Gaskocher. Also man kann sich wirklich alles, man muss nur die Lebensmittel mitholen.",
+   "quote_clean": "Es ist ein Kühlschrank drinnen, ich habe eine Mikrowelle drinnen, notfalls noch einen Gaskocher. Man kann sich wirklich alles kochen, man muss nur die Lebensmittel mitnehmen.",
+   "statement": "Moderne Fernverkehrs-Lkw haben Kühlschrank und Mikrowelle eingebaut, sodass Fahrer:innen selbst kochen können.",
+   "question": "Womit kochen Fernfahrer:innen in modernen Lkw oft selbst?",
+   "answer": "Kühlschrank, Mikrowelle und Gaskocher",
+   "distractors": [
+    "Nur mit einem Wasserkocher",
+    "Gar nicht, sie essen nur an Raststätten",
+    "Mit einem eingebauten Backofen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Führerhaus steckt ein kompletter Haushalt. Helga kocht vor allem im Norden selbst, weil dort an den Raststätten das Preis-Leistungs-Verhältnis nicht passt. Ein Paar Frankfurter gehen auch im Lkw.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Alltag",
+    "Lkw"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1379,
+   "speaker": "Helga Dröscher",
+   "quote": "Aber ich glaube, du meinst doch jetzt die klassischen Elefantenrennen, wo der eine einen holen kann, der ein paar schneller ist wie der andere.",
+   "quote_clean": "Aber ich glaube, du meinst die klassischen Elefantenrennen, wo der eine den anderen überholen kann, weil er ein paar km/h schneller ist als der andere.",
+   "statement": "Wenn ein Lkw einen anderen mit nur minimal höherem Tempo minutenlang überholt, nennt man das Elefantenrennen.",
+   "question": "Wie nennt man es, wenn ein Lkw einen anderen mit kaum höherem Tempo minutenlang überholt?",
+   "answer": "Elefantenrennen",
+   "distractors": [
+    "Schneckenrallye",
+    "Nashornlauf",
+    "Kolonnenhupf"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Lkw sind fast gleich schnell, also dauert das Überholen ewig und alle dahinter warten. Helga hält davon nichts: Sie geht mit dem Tempomat ein paar km/h zurück und lässt den anderen vorbei.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Verkehr",
+    "Überholen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1590,
+   "speaker": "Helga Dröscher",
+   "quote": "Naja, das geht vielleicht, wenn der Lkw jeden Tag zurück in seine Ladestation fahren kann, so wie bei der Müllabfuhr oder bei der Post. Das geht wahrscheinlich gut, aber bei uns im Fernverkehr,",
+   "quote_clean": "Das geht vielleicht, wenn der Lkw jeden Tag zurück zu seiner Ladestation fahren kann, so wie bei der Müllabfuhr oder bei der Post. Das geht wahrscheinlich gut, aber bei uns im Fernverkehr ...",
+   "statement": "Elektro-Lkw eignen sich laut Helga Dröscher vor allem dort, wo sie täglich zur eigenen Ladestation zurückkehren, etwa bei Müllabfuhr oder Post.",
+   "question": "Wo funktionieren Elektro-Lkw laut Helga am ehesten?",
+   "answer": "Wo sie täglich zur Ladestation zurückkehren",
+   "distractors": [
+    "Im Fernverkehr nach Skandinavien",
+    "Auf Bergstrecken im Winter",
+    "Bei Schwertransporten quer durch Europa"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer jeden Abend ins Depot zurückkommt, lädt dort einfach an. Im Fernverkehr fehlen Ladestationen für Lkw, und bei minus 25 Grad in Norwegen will Helga auch nicht ohne Strom für die Heizung dastehen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "E-Mobilität",
+    "Klima"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1694,
+   "speaker": "Helga Dröscher",
+   "quote": "Das wäre bei Wasserstoff einfacher, weil das ist im Prinzip das genauso tanken wie mit Diesel. Aber alles noch in Kinderschuhen.",
+   "quote_clean": "Das wäre bei Wasserstoff einfacher, weil man das im Prinzip genauso tankt wie Diesel. Aber alles noch in den Kinderschuhen.",
+   "statement": "Wasserstoff-Lkw lassen sich ähnlich schnell betanken wie Diesel-Lkw, die Technik steckt aber noch in den Kinderschuhen.",
+   "question": "Welchen Vorteil hat Wasserstoff für Lkw laut Helga gegenüber Batterie-Strom?",
+   "answer": "Man tankt ihn ähnlich wie Diesel",
+   "distractors": [
+    "Er ist deutlich billiger",
+    "Er braucht keine Tankstellen",
+    "Er ist leiser beim Fahren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Stundenlang an einer womöglich besetzten Ladesäule warten geht im Fernverkehr nicht. In Schweden gibt es schon erste Wasserstoff-Lkw, Helga würde gern abwarten, ob es dort bei Kälte klappt.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Wasserstoff",
+    "Klima"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1356,
+   "speaker": "Helga Dröscher",
+   "quote": "So lange die Lastwagen fahren, ist alles in Ordnung. Wenn einmal die Lastwagenkolonnen weg sind, sollte man sich anfangen zu Sorgen machen.",
+   "quote_clean": "Solange die Lastwagen fahren, ist alles in Ordnung. Wenn einmal die Lastwagenkolonnen weg sind, sollte man anfangen, sich Sorgen zu machen.",
+   "statement": "Helga Dröscher sieht Lkw-Kolonnen als Zeichen, dass die Versorgung funktioniert.",
+   "question": "Wer sagt im Podcast: Solange die Lastwagen fahren, ist alles in Ordnung?",
+   "answer": "Lkw-Fahrerin Helga Dröscher",
+   "distractors": [
+    "Ein Logistikprofessor",
+    "Ein Verkehrsminister",
+    "Ein Bahnmanager"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer sich über die Lkw-Kolonne vor sich ärgert, sollte kurz umdenken: Ohne sie gäbe es leere Regale. Gerade in Krisenzeiten war Helga das wichtig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Versorgung",
+    "Lkw"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1871,
+   "speaker": "Helga Dröscher",
+   "quote": "Nein, Anerkennung kriegt man keine. Anerkennung, die muss man sich selber geben.",
+   "quote_clean": "Nein, Anerkennung kriegt man keine. Anerkennung muss man sich selber geben.",
+   "statement": "Helga Dröscher erlebt ihren Beruf als essenziell, aber kaum wertgeschätzt.",
+   "question": "Wer sagt: Anerkennung kriegt man keine, die muss man sich selber geben?",
+   "answer": "Lkw-Fahrerin Helga Dröscher",
+   "distractors": [
+    "Eine Pflegerin",
+    "Ein Müllfahrer",
+    "Eine Volksschullehrerin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ohne Lkw würde die Wirtschaft zusammenbrechen, trotzdem bedankt sich kaum wer. Helga und ihre Kolleg:innen halten sich an ihre Berufsehre und ihren Stolz.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Anerkennung",
+    "Beruf"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 560,
+   "speaker": "Helga Dröscher",
+   "quote": "Wir haben uns irgendwann an den Lärm gewöhnt, aber ein normaler Mensch, der kann mir sicher drei Wochen nicht schlafen im Lassen.",
+   "quote_clean": "Wir haben uns irgendwann an den Lärm gewöhnt, aber ein normaler Mensch kann sicher drei Wochen nicht schlafen im Lastwagen.",
+   "statement": "Auf Lkw-Parkplätzen ist es die ganze Nacht laut, nur Routinierte können dort gut schlafen.",
+   "question": "Wie lange könnte laut Helga ein normaler Mensch im Lkw auf dem Parkplatz nicht schlafen?",
+   "answer": "Sicher drei Wochen",
+   "distractors": [
+    "Eine Nacht",
+    "Zwei Tage",
+    "Ein halbes Jahr"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Da springt ein Kühlaggregat an, dort fährt einer weg, irgendwo hupt wer. Für Fernfahrer:innen ist das Alltag, für alle anderen eine sehr lange Nacht.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Schlaf",
+    "Alltag"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 980,
+   "speaker": "Helga Dröscher",
+   "quote": "Ja, mein besonderes Gefühl, das war letztes Jahr noch Hammerfest. Das ist die nördlichste Stadt der Welt. Und da habe ich eine ganze Woche gebraucht, bis ich oben war.",
+   "quote_clean": "Mein besonderes Erlebnis war letztes Jahr Hammerfest. Das ist die nördlichste Stadt der Welt. Da habe ich eine ganze Woche gebraucht, bis ich oben war.",
+   "statement": "Von der Steiermark bis Hammerfest, das oft als nördlichste Stadt der Welt bezeichnet wird, braucht ein Lkw rund eine Woche.",
+   "question": "Wie lange braucht ein Lkw von der Steiermark bis nach Hammerfest im Norden Norwegens?",
+   "answer": "Etwa eine Woche",
+   "distractors": [
+    "Etwa zwei Tage",
+    "Etwa drei Tage",
+    "Etwa drei Wochen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Hammerfest gilt oft als nördlichste Stadt der Welt, weit oben in Norwegen. Helga ist am Freitag los und war knapp bis zum nächsten Freitag oben, mit Fotostopps bei Rentieren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Norwegen",
+    "Reise"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1305,
+   "speaker": "Helga Dröscher",
+   "quote": "Ich habe mir eigentlich vorgenommen, dass ich eine sehr höfliche Lust zum Fahrer sein werde. Heuer mit 1. Jänner. Das ist mein Vorjahrssatz.",
+   "quote_clean": "Ich habe mir vorgenommen, dass ich eine sehr höfliche Lastwagenfahrerin sein werde. Heuer mit 1. Jänner. Das ist mein Neujahrsvorsatz.",
+   "statement": "Helga Dröschers Neujahrsvorsatz war, eine besonders höfliche Lkw-Fahrerin zu sein.",
+   "question": "Welchen Neujahrsvorsatz hat Helga für sich gefasst?",
+   "answer": "Eine sehr höfliche Fahrerin sein",
+   "distractors": [
+    "Weniger Kaffee trinken",
+    "Öfter nach Norwegen fahren",
+    "Mehr Podcasts hören"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kein Schimpfen, kein Ärgern mehr: Helga bedankt sich, wenn sie wer reinlässt. Und wenn jemand vor ihr Mist baut, sagt sie halt \"Danke für nichts\".",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Verkehr",
+    "Humor"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 2015,
+   "speaker": "Andreas Sator",
+   "quote": "Schönen Dank für deine Zeit, Helga. Was nehme ich mir mit? Ich fand das sehr spannend, in diesen Beruf blicken zu können.",
+   "quote_clean": "Schönen Dank für deine Zeit, Helga. Was nehme ich mir mit? Ich fand das sehr spannend, in diesen Beruf blicken zu können.",
+   "statement": "Andreas beendet seine Folgen mit einer Zusammenfassung unter der Frage, was er sich mitnimmt.",
+   "question": "Mit welcher Frage leitet Andreas seine Zusammenfassung am Ende der Folge ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir heute gelernt?",
+    "Was bleibt hängen?",
+    "Was ist die Moral?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nach dem Gespräch fasst Andreas allein zusammen, was bei ihm hängen geblieben ist. Diesmal: Rentiere, lange Arbeitstage und aufgeschnittene Lkw-Planen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Podcast",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "208",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

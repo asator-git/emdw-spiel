@@ -1,0 +1,281 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "622 als Beginn der Zeitrechnung stimmt; die Transkript-Passage ist als Zitat missverständlich (622 ist das Startjahr, nicht das heutige Jahr), Aha war flapsig.",
+   "stand_note": "",
+   "statement": "Die islamische Zeitrechnung beginnt im Jahr 622 christlicher Zeitrechnung.",
+   "question": "In welchem Jahr christlicher Zeitrechnung beginnt die islamische Zeitrechnung?",
+   "answer": "622",
+   "distractors": [
+    "570",
+    "700",
+    "632"
+   ],
+   "aha": "Das Jahr 622 ist kein Geburtsjahr, sondern ein Umzug: Mohammed zieht mit seinen Anhängern von Mekka nach Medina, und dort beginnt die islamische Zeitrechnung.",
+   "quote_clean": "Mohammed ist mit seinen Anhängern von Mekka nach Medina. Und dann beginnt die islamische Zeitrechnung. Wir sind da bei 622.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 574-583 eindeutig, Distraktoren klar falsch.",
+   "stand_note": "",
+   "statement": "Die islamische Zeitrechnung beginnt mit Mohammeds Auswanderung nach Medina, wo auch die islamische Gemeinschaft gegründet wurde.",
+   "question": "Mit welchem Ereignis beginnt die islamische Zeitrechnung?",
+   "answer": "Mohammeds Auswanderung nach Medina",
+   "distractors": [
+    "Mohammeds Geburt in Mekka",
+    "Mohammeds Tod in Medina",
+    "Der ersten Offenbarung des Korans"
+   ],
+   "aha": "Vorher war das eine Gruppe von Leuten, die einem Prediger zugehört haben. Erst in Medina wurde daraus eine Gemeinschaft mit Regeln und allem, was man braucht – deshalb fängt dort auch die Zeit zu zählen an.",
+   "quote_clean": "Das ist der Moment, wo die islamische Zeitrechnung anfängt: mit der Auswanderung nach Medina. Und das ist der Ort, wo die islamische Gemeinschaft eigentlich gegründet wurde.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "570 als Überlieferung klar belegt und in der Frage korrekt als Überlieferung markiert.",
+   "stand_note": "",
+   "statement": "Laut Überlieferung wurde Mohammed im Jahr 570 geboren.",
+   "question": "In welchem Jahr wurde Mohammed laut islamischer Überlieferung geboren?",
+   "answer": "570",
+   "distractors": [
+    "622",
+    "480",
+    "650"
+   ],
+   "aha": "Eine Geburtsurkunde gibt's für niemanden aus dieser Zeit. Das Jahr 570 hängt an einer Geschichte: Damals soll ein äthiopischer Herrscher versucht haben, in die arabische Halbinsel einzudringen – und gescheitert sein.",
+   "quote_clean": "Wir haben eine Tradition, die besagt, dass er 570 christlicher Zeitrechnung geboren sei.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "632 als Todesjahr stimmt mit Transkript und Weltwissen überein.",
+   "stand_note": "",
+   "statement": "Der Prophet Mohammed lebte bis zum Jahr 632.",
+   "question": "Bis zu welchem Jahr lebte der Prophet Mohammed?",
+   "answer": "632",
+   "distractors": [
+    "610",
+    "660",
+    "701"
+   ],
+   "aha": "Beim Geburtsjahr ist vieles Überlieferung, beim Todesjahr sind sich Historiker ziemlich sicher. Zwischen der Auswanderung nach Medina und seinem Tod liegen also gerade einmal zehn Jahre.",
+   "quote_clean": "Wir wissen aber genug, dass der Prophet Mohammed bis 632 gelebt hat. Davon können wir ausgehen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Zitat gibt eine von Lohlker abgelehnte Fremdmeinung wieder und wird verkürzt missverständlich; Distraktoren (Muslima aus Folge 1) unsinnig.",
+   "stand_note": "",
+   "statement": "Die These, Mohammed sei eine spätere Erfindung, lässt sich durch frühe Felsinschriften kaum halten.",
+   "question": "Wer hat's gesagt: Die These, es habe den Propheten nicht gegeben, sei schwer zu halten, wenn man vor einem Stein mit Inschrift steht?",
+   "answer": "Rüdiger Lohlker",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Muslima aus Folge 1",
+    "Ein Historiker über Jesus"
+   ],
+   "aha": "Es gibt Felsinschriften, in denen von Mohammed, von seinem Nachfolger Omar und von der islamischen Zeitrechnung die Rede ist.",
+   "quote_clean": "Eigentlich hat es den Propheten nicht gegeben, eine Erfindung des 9. Jahrhunderts – das ist ein bisschen schwierig zu halten, wenn ich vor einem Stein stehe, in dem was eingeritzt ist.",
+   "quality": 1
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Distraktor „Byzantinische Steuerlisten“ nicht eindeutig falsch, Frage suggeriert Beweislage, die in der Forschung differenzierter ist; überschneidet sich mit anderen Fragen.",
+   "stand_note": "",
+   "statement": "Es gibt frühe Felsinschriften, die Mohammed und seinen zweiten Nachfolger Omar erwähnen.",
+   "question": "Welche Quelle belegt laut Islamwissenschaft, dass Mohammed tatsächlich gelebt hat?",
+   "answer": "Felsinschriften, die ihn erwähnen",
+   "distractors": [
+    "Seine Geburtsurkunde aus Mekka",
+    "Byzantinische Steuerlisten",
+    "Ein erhaltenes Tagebuch"
+   ],
+   "aha": "Aus Stein eingeritzte Texte nennen Mohammed, Omar und die islamische Zeitrechnung.",
+   "quote_clean": "Wir haben auch, und das wird häufig ignoriert, Felsinschriften, in denen von Mohammed die Rede ist, von Omar, seinem zweiten Nachfolger, und andere Dinge mehr.",
+   "quality": 2
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Aussage stammt als Verallgemeinerung von Lohlker; als seine Einschätzung markieren.",
+   "stand_note": "",
+   "statement": "Laut Lohlker war auf der arabischen Halbinsel vor dem Islam die Vorstellung verbreitet, dass mit dem Tod alles vorbei ist.",
+   "question": "Welche Vorstellung vom Tod war laut Lohlker vor dem Islam auf der arabischen Halbinsel verbreitet?",
+   "answer": "Danach ist einfach alles vorbei",
+   "distractors": [
+    "Man wird als Tier wiedergeboren",
+    "Alle kommen ins Paradies",
+    "Die Seele wandert zu den Ahnen"
+   ],
+   "aha": "Wenn nach dem Tod eh alles vorbei ist, ist auch wurscht, wie man lebt. Mohammed hat dagegengesetzt: Es gibt ein Leben danach, und das muss man sich verdienen – damals eine ziemlich revolutionäre Idee.",
+   "quote_clean": "Es gab auf der arabischen Halbinsel die Vorstellung: Wenn die Menschen sterben, dann sind sie tot. Es gibt kein Leben nach dem Tode, also ist auch ziemlich egal, was ich mache.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 438-448 klar; Aha deckt sich mit 451-459.",
+   "stand_note": "",
+   "statement": "Revolutionär an Mohammeds Predigt war, dass man sich das Leben nach dem Tod durch ein verändertes Leben verdienen muss.",
+   "question": "Was war an Mohammeds Predigt in Mekka besonders revolutionär?",
+   "answer": "Man muss sich das Jenseits verdienen",
+   "distractors": [
+    "Man darf nur noch fasten",
+    "Händler sollen keine Zinsen nehmen",
+    "Jeder Stamm braucht einen König"
+   ],
+   "aha": "Das Neue war nicht nur der eine Gott, sondern die Konsequenz: Wie du hier lebst, entscheidet, wie es dir danach geht. Freunde hat ihm das in Mekka nicht gebracht, eher viele Angriffe aus der eigenen Verwandtschaft.",
+   "quote_clean": "Und, was wichtig ist, das muss man sich verdienen. Ich muss selber mein Leben verändern, um das Leben nach dem Tode zu erreichen. Und das war eine ziemlich revolutionäre Idee.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 481-494, historisch korrekt (Auswanderung nach Abessinien).",
+   "stand_note": "",
+   "statement": "Eine erste Gruppe von Mohammeds Anhängern wanderte ins christliche Äthiopien aus.",
+   "question": "Wohin wanderte eine erste Gruppe von Mohammeds Anhängern aus, als sie in Mekka angefeindet wurden?",
+   "answer": "Ins christliche Äthiopien",
+   "distractors": [
+    "Ins jüdische Jerusalem",
+    "Nach Konstantinopel",
+    "Ins persische Ktesiphon"
+   ],
+   "aha": "Bevor es nach Medina ging, schickte Mohammed Gläubige übers Rote Meer ins christliche Reich am Horn von Afrika. Die Logik: Die glauben auch an einen Gott, dort seid ihr sicherer als in Mekka.",
+   "quote_clean": "Es gibt ein bisschen übers Meer im Horn von Afrika ein Reich wie Äthiopien, das ist christlich. Die glauben also auch an einen Gott. Also ist eine Gruppe seiner Gläubigen dorthin ausgewandert.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 538-562 eindeutig.",
+   "stand_note": "",
+   "statement": "Mohammed wurde nach Medina eingeladen, um dort als unbeteiligter Schiedsrichter einen gewaltsamen Konflikt zu schlichten.",
+   "question": "Warum holten die Leute aus Medina Mohammed in ihre Stadt?",
+   "answer": "Als Schiedsrichter in einem Konflikt",
+   "distractors": [
+    "Als Heerführer gegen Byzanz",
+    "Als Händler für ihren Markt",
+    "Als Priester für ihren Tempel"
+   ],
+   "aha": "In Medina gab es eine gewaltsame Auseinandersetzung, und man holte sich traditionell einen Außenstehenden zum Schlichten. Mohammed passte: nicht beteiligt und mit interessanten religiösen Vorstellungen.",
+   "quote_clean": "Normalerweise war das zu der Zeit so: Man sucht sich jemanden, der nicht direkt an den Auseinandersetzungen beteiligt ist, als Schiedsrichter. Und als solcher wurde Mohammed ausgewählt.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "„sagen wir 600 Jahren“ ist eine grobe Schätzung des Gasts, keine belastbare Zahl; als Schätzfrage unfair.",
+   "stand_note": "",
+   "statement": "Bis vor etwa 600 Jahren waren die meisten heute islamischen Länder religiös gemischt mit vielen Minderheiten.",
+   "question": "Bis vor wie vielen Jahren waren die meisten heute islamischen Länder noch stark religiös gemischt?",
+   "answer": "Etwa 600 Jahren",
+   "distractors": [
+    "Etwa 100 Jahren",
+    "Etwa 1300 Jahren",
+    "Etwa 50 Jahren"
+   ],
+   "aha": "Erobert war schnell, islamisiert dauerte Jahrhunderte.",
+   "quote_clean": "Allerdings waren bis vor, sagen wir, 600 Jahren die meisten heute islamischen Länder gar nicht zu 100 Prozent islamisch. Es gab viele Minderheiten verschiedener Religionen.",
+   "quality": 2
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1467-1494 klar; Aha passt.",
+   "stand_note": "",
+   "statement": "Laut einer bekannten Aussage des Propheten sind Kriegszüge nur der kleine Dschihad, der Kampf mit sich selbst ist der große.",
+   "question": "Was gilt laut einer bekannten Prophetenaussage als der große Dschihad?",
+   "answer": "Der Kampf mit sich selbst",
+   "distractors": [
+    "Die Eroberung Mekkas",
+    "Die Pilgerfahrt nach Mekka",
+    "Der Krieg gegen Byzanz"
+   ],
+   "aha": "Dschihad heißt wörtlich Anstrengung. Der militärische Kampf ist die kleine Variante, die wichtigere ist die Auseinandersetzung mit dir selbst – denn am Ende zählt, wie du vor Gott dastehst.",
+   "quote_clean": "Der Prophet hat gesagt: Was ihr macht, Kriegszüge, das ist der sogenannte kleine Dschihad. Der große Dschihad, der Kampf gegen den inneren Schweinehund, ist sehr viel wichtiger.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Wer-hat's-gesagt-Frage über eine beiläufige Metapher; Distraktor „Der Prophet Mohammed“ nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Für den Tag der Auferstehung zählt nicht die Zahl der Kämpfe, sondern das innere Leben.",
+   "question": "Wer hat's gesagt: Man müsse nicht 350 Kerben im Schwert haben, es zähle, wie man in sich drin ausschaut?",
+   "answer": "Rüdiger Lohlker",
+   "distractors": [
+    "Andreas Sator",
+    "Der Prophet Mohammed",
+    "Ein Sufi-Lehrer"
+   ],
+   "aha": "So erklärt der Islamwissenschafter den Unterschied zwischen kleinem und großem Dschihad.",
+   "quote_clean": "Da musst du nicht 350 Kerben in deinem Schwert haben, sondern es zählt, wie du in dir drin ausschaust.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Transkript sagt nur, er sei wie ein Mensch gestorben und nicht entrückt worden; „begraben“ wird nicht gesagt. Antwort präzisiert.",
+   "stand_note": "",
+   "statement": "Laut Lohlker ist Mohammed historisch gesehen als normaler Mensch gestorben und nicht entrückt worden.",
+   "question": "Jesus starb am Kreuz – wie ist Mohammed laut Lohlker gestorben?",
+   "answer": "Als normaler Mensch, nicht entrückt",
+   "distractors": [
+    "Am Kreuz hingerichtet",
+    "In einer Schlacht gefallen",
+    "In den Himmel entrückt"
+   ],
+   "aha": "Kein Kreuz und keine Entrückung wie bei Buddha: Historisch gesehen ist Mohammed am Ende seines Lebens gestorben wie jeder Mensch. Sein Grab liegt bis heute in Medina.",
+   "quote_clean": "Wir haben viel über Mohammed geredet. Jesus ist am Kreuz gestorben. Wie ist Mohammed gestorben? – Mohammed ist wie ein Mensch gestorben, am Ende seines Lebens, wie jeder Mensch.",
+   "quality": 2
+  }
+ ],
+ "id": "25",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

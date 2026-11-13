@@ -1,0 +1,289 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "147 stimmte im Juni 2025, doch seither haben weitere Staaten Palästina anerkannt; die Zahl ist heute klar überholt und die Frage wäre irreführend.",
+   "stand_note": "Stand Juni 2025",
+   "statement": "Der 1988 von der PLO im Exil ausgerufene Staat Palästina wird von 147 UN-Mitgliedstaaten anerkannt.",
+   "question": "Wie viele UN-Mitgliedstaaten erkennen Palästina als Staat an?",
+   "answer": "147",
+   "distractors": [
+    "58",
+    "96",
+    "181"
+   ],
+   "aha": "Das sind über drei Viertel aller Länder der Welt. Die Lücken liegen vor allem im Westen: die USA und viele westeuropäische Staaten, darunter Österreich und Deutschland, sind nicht dabei.",
+   "quote_clean": "Der Staat, den die PLO zunächst im Exil 1988 ausgerufen hat und der mittlerweile als Nichtmitgliedstaat in den Vereinten Nationen ist, der von 147 Mitgliedstaaten der UN als Staat anerkannt ist.",
+   "quality": 2
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Anerkennungslage ändert sich laufend; Aussage zu Österreich und Deutschland ist ein Stand von Juni 2025 und heute nicht sicher zutreffend. Distraktoren zudem erfundene Jahreszahlen.",
+   "stand_note": "Stand Juni 2025",
+   "statement": "Österreich und Deutschland haben den Staat Palästina nicht anerkannt, obwohl rund drei Viertel der Länder der Welt das getan haben.",
+   "question": "Hat Österreich den Staat Palästina offiziell anerkannt?",
+   "answer": "Nein, Österreich hat ihn nicht anerkannt",
+   "distractors": [
+    "Ja, schon seit 1988",
+    "Ja, seit dem EU-Beitritt 1995",
+    "Ja, gemeinsam mit Deutschland 2012"
+   ],
+   "aha": "Österreich gehört zu einer Minderheit: Die meisten Staaten der Welt erkennen Palästina an, die Zurückhaltung kommt vor allem aus Westeuropa und den USA. Und selbst die Anerkennung löst laut Muriel ein Grundproblem nicht: Die palästinensische Führung hat keine effektive Kontrolle über das Gebiet.",
+   "quote_clean": "Drei Viertel der Länder dieser Welt haben Palästina anerkannt, aber Deutschland zum Beispiel nicht, Österreich auch nicht.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "transkription"
+   ],
+   "note": "3,5 Prozent für 1880 ist unsicher; gängige Schätzungen liegen für die 1880er eher bei etwa 5 Prozent. Zahl nicht verlässlich genug für eine Zahlenfrage.",
+   "stand_note": "",
+   "statement": "Um 1880 machte die jüdische Bevölkerung im Gebiet Palästinas nur etwa 3,5 Prozent aus.",
+   "question": "Wie viel Prozent der Bevölkerung Palästinas waren um 1880 jüdisch?",
+   "answer": "Etwa 3,5 Prozent",
+   "distractors": [
+    "Etwa 15 Prozent",
+    "Etwa 30 Prozent",
+    "Etwa 45 Prozent"
+   ],
+   "aha": "Vor der Einwanderung aus Europa war die jüdische Gemeinschaft vor Ort klein. Bis nach der Nakba stieg ihr Anteil auf ungefähr die Hälfte – nicht zufällig, sondern als Folge von Einwanderung, Krieg, Flucht und Vertreibung.",
+   "quote_clean": "Wir haben 1880 angefangen, da war die jüdische Bevölkerung vor Ort ungefähr 3,5 Prozent.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Drei Viertel ist eine Faustzahl des Moderators; Schätzungen liegen für die gesamte arabische Bevölkerung Palästinas eher bei rund der Hälfte bis zwei Dritteln (rund 80 Prozent nur im später israelischen Gebiet). Aha enthält Ukraine-Vergleich ohne Beleg.",
+   "stand_note": "",
+   "statement": "Bis zum Waffenstillstand 1949 war rund drei Viertel der arabischen Bevölkerung Palästinas geflohen oder vertrieben worden.",
+   "question": "Wie viel Prozent der arabischen Bevölkerung Palästinas flohen 1947–49 oder wurden vertrieben?",
+   "answer": "Rund 75 Prozent",
+   "distractors": [
+    "Rund 20 Prozent",
+    "Rund 40 Prozent",
+    "Rund 95 Prozent"
+   ],
+   "aha": "Andreas vergleicht das mit der Ukraine: Dass drei Viertel einer Bevölkerung ihr Zuhause verlieren, ist eine ganz andere Größenordnung. Viele dachten, es wird ein kurzer Krieg, aber es gab auch gezielte Massaker und Plünderungen, und danach verhinderte Israel per Gesetz und Grenzsicherung die Rückkehr.",
+   "quote_clean": "Der Krieg ist zu Ende. Drei Viertel der palästinensischen Bevölkerung ist geflüchtet oder wurde vertrieben.",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Bedeutung von Nakba belegt (4731); die Drei-Viertel-Angabe wird nicht übernommen, und nicht belegte Details im aha (Exil, Staatenlosigkeit) sind entfernt.",
+   "stand_note": "",
+   "statement": "Das arabische Wort Nakba, mit dem Palästinenser:innen Flucht und Vertreibung 1948 bezeichnen, bedeutet „Katastrophe“.",
+   "question": "Was bedeutet das arabische Wort „Nakba“?",
+   "answer": "Katastrophe",
+   "distractors": [
+    "Vertreibung",
+    "Heimkehr",
+    "Widerstand"
+   ],
+   "aha": "1948 ist ein prägendes Jahr: Es ist das Jahr, in dem der Staat Israel ausgerufen wurde, und zugleich das Jahr der Nakba, in dem sehr viele Palästinenser:innen ihr Zuhause verloren, weil sie flohen oder vertrieben wurden.",
+   "quote_clean": "Nakba. Das ist arabisch und heißt Katastrophe.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt (925-952); aha mit nicht belegter Wertung („überfordert“) und Detail zu den arabischen Staaten korrigiert.",
+   "stand_note": "",
+   "statement": "Die Vereinten Nationen arbeiteten 1947 einen Teilungsplan für Palästina aus, der einen jüdischen und einen arabischen Staat vorsah.",
+   "question": "In welchem Jahr legten die Vereinten Nationen den Teilungsplan für Palästina vor?",
+   "answer": "1947",
+   "distractors": [
+    "1922",
+    "1939",
+    "1956"
+   ],
+   "aha": "Die Briten wollten sich aus Palästina zurückziehen und ließen in Kommissionen eine Teilung in einen jüdischen und einen arabischen Staat ausarbeiten. Darauf baute der UN-Teilungsplan von 1947 auf. Die zionistischen Vertreter stimmten zu und riefen am 14. Mai 1948 den Staat aus.",
+   "quote_clean": "Und basierend auf diesen Vorarbeiten der Briten haben dann die UN 1947 den sogenannten Teilungsplan ausgearbeitet.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (952-980); aha deckt sich mit dem Ausschnitt und gesichertem Wissen.",
+   "stand_note": "",
+   "statement": "Der UN-Teilungsplan von 1947 sah für Jerusalem und Bethlehem eine internationale Verwaltung vor.",
+   "question": "Was sah der UN-Teilungsplan von 1947 für Jerusalem und Bethlehem vor?",
+   "answer": "Eine internationale Verwaltung",
+   "distractors": [
+    "Eine Zugehörigkeit zum jüdischen Staat",
+    "Eine Zugehörigkeit zum arabischen Staat",
+    "Eine Teilung entlang der Altstadtmauer"
+   ],
+   "aha": "Die Idee: Die heiligen Stätten von Juden, Muslimen und Christen sollen allen offenstehen, und das sollte befriedend wirken. Umgesetzt wurde das nie, nach dem Krieg 1948 war Jerusalem zwischen Israel und Jordanien geteilt.",
+   "quote_clean": "Man macht um Jerusalem herum, Jerusalem und Bethlehem, eine internationale Verwaltung, die dafür sorgen soll, dass die heiligen Stätten der Juden, der Muslime und der Christen für alle offen und zugänglich sind.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Belegt (2524-2557); der Satz „kein Bürger, sondern Subjekt“ wird Muriel im aha ohne Beleg in den Mund gelegt, Checkpoints stehen nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "In den 1967 besetzten Gebieten wurde Militärrecht eingeführt: Palästinenser:innen kommen vor Militärgerichte, wo sie deutlich weniger Rechte haben als vor zivilen Gerichten.",
+   "question": "Was bedeutete die Einführung von Militärrecht für Palästinenser:innen in den besetzten Gebieten?",
+   "answer": "Prozesse vor Militärgerichten mit weniger Rechten",
+   "distractors": [
+    "Wehrpflicht in der israelischen Armee",
+    "Volle israelische Staatsbürgerschaft",
+    "Eigene palästinensische Zivilgerichte"
+   ],
+   "aha": "Nach 1967 setzte Israel in den besetzten Gebieten einen Militärgouverneur ein und führte Militärrecht ein. Laut Muriel Asseburg wurden zugleich die politischen und bürgerlichen Freiheiten der Bevölkerung stark eingeschränkt.",
+   "quote_clean": "Wenn Leute sich etwas zuschulden kommen ließen, wurden sie vor ein Militärgericht gestellt, bei dem sie deutlich weniger Rechte haben als vor einem zivilen Gericht.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (483-513); aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Nach dem Ersten Weltkrieg setzte sich die Idee der Selbstbestimmung der Völker durch, im Nahen Osten bekamen aber Briten und Franzosen Mandatsgebiete.",
+   "question": "Was machte der Völkerbund nach dem Ersten Weltkrieg mit den arabischen Gebieten des Osmanischen Reichs?",
+   "answer": "Er gab sie Briten und Franzosen als Mandate",
+   "distractors": [
+    "Er entließ sie sofort in die Unabhängigkeit",
+    "Er stellte sie unter US-Verwaltung",
+    "Er gab sie an die Türkei zurück"
+   ],
+   "aha": "Ausgerechnet als Woodrow Wilson die Selbstbestimmung der Völker propagierte, hieß es im Nahen Osten: noch nicht reif. Briten und Franzosen hatten sich schon während des Kriegs geeinigt, wie sie die Region aufteilen.",
+   "quote_clean": "Der Völkerbund hat den Briten und den Franzosen zugesprochen, dass sie Mandatsgebiete bekommen, die dann erst in der Zukunft in die Selbstbestimmung entlassen werden sollen.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt (3536-3592); Distraktor „Steuerfreiheit“ ist nicht eindeutig falsch, ersetzt.",
+   "stand_note": "",
+   "statement": "Nicht alle Siedler:innen im Westjordanland sind ideologisch motiviert; viele ziehen hin, weil das Wohnen dort billiger ist als in den teuren Städten Israels.",
+   "question": "Welcher Grund bringt laut Muriel Asseburg viele Israelis in Siedlungen nahe der Grünen Linie?",
+   "answer": "Günstigeres Wohnen als in der Stadt",
+   "distractors": [
+    "Eine religiöse Pflicht, dort zu leben",
+    "Befreiung vom Militärdienst",
+    "Höhere Löhne im Westjordanland"
+   ],
+   "aha": "Muriel unterscheidet drei Gruppen: ideologisch motivierte Siedler:innen, solche, die aus Sicherheitsgründen angesiedelt wurden, und Menschen, denen die Mieten in den großen Städten zu teuer sind. Weil die Siedlungen mit Autobahnen ans Kernland angebunden sind, arbeiten viele von ihnen problemlos in Israel.",
+   "quote_clean": "Es gibt diejenigen, die dorthin gehen, weil es einfach für sie günstiger ist, weil es attraktiver ist, als in der großen Stadt zu wohnen, wo die Mieten sehr teuer sind.",
+   "quality": 4
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage ohne Rätsel: Es gibt nur eine Interviewte, die Distraktoren (Brenner, Khalidi) kommen im Ausschnitt nicht vor.",
+   "stand_note": "",
+   "statement": "Muriel Asseburg betont, dass es bei der Asymmetrie im Nahostkonflikt nicht um Gut und Böse geht, sondern darum, wer die Machtmittel hat.",
+   "question": "Wer hat's gesagt: „Wenn ich Asymmetrie sage, rede ich nicht über Gut und Böse. Ich rede darüber, wer die Machtmittel hat.“",
+   "answer": "Muriel Asseburg",
+   "distractors": [
+    "Andreas Sator",
+    "Michael Brenner",
+    "Rashid Khalidi"
+   ],
+   "aha": "Auf der einen Seite eine hochmoderne Armee, Geld und ein Vetostaat im UN-Sicherheitsrat, auf der anderen selbstgebaute Waffen. Eine dauerhafte Regelung braucht laut Muriel eine internationale Gemeinschaft, die dieses Ungleichgewicht ausgleicht.",
+   "quote_clean": "Wenn ich Asymmetrie sage, rede ich nicht über Gut und Böse. Ich rede darüber, wer die Machtmittel hat.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage ohne Rätsel (nur eine Gästin), Distraktoren nicht aus der Folge.",
+   "stand_note": "",
+   "statement": "Muriel Asseburg spricht ungern von „Konfliktlösung“: Weder eine Ein- noch eine Zweistaatenregelung löse den Konflikt, man könne aber besser mit ihm umgehen.",
+   "question": "Wer hat's gesagt: „Durch ein Format wie eine Einstaatenregelung oder eine Zweistaatenregelung löst man den Konflikt nicht.“",
+   "answer": "Muriel Asseburg",
+   "distractors": [
+    "Andreas Sator",
+    "Nathan Thrall",
+    "Alena Jabarin"
+   ],
+   "aha": "Wegen der Traumata auf beiden Seiten geht es ihr um Regelungen, mit denen Menschen friedlich koexistieren können, auch wenn der Konflikt an sich nicht gelöst ist. Klingt bescheidener, ist aber vielleicht realistischer.",
+   "quote_clean": "Deshalb spreche ich persönlich nicht so gerne von der Konfliktlösung. Durch ein Format wie eine Einstaatenregelung oder eine Zweistaatenregelung löst man den Konflikt nicht.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Wer-hat's-gesagt-Frage ohne Rätsel; Distraktoren (Wilson, Brenner) willkürlich; aha mit erfundener Anekdote über Andreas.",
+   "stand_note": "",
+   "statement": "Muriel Asseburg sagt, letztlich seien alle Nationen erfunden worden, keine beruhe wirklich auf Blut und Genetik.",
+   "question": "Wer hat's gesagt: „Letztlich sind alle Nationen erfunden worden.“",
+   "answer": "Muriel Asseburg",
+   "distractors": [
+    "Andreas Sator",
+    "Woodrow Wilson",
+    "Michael Brenner"
+   ],
+   "aha": "Nationen entstehen über zentrale Ideen und Abstammungsmythen, im Nahen Osten genauso wie in Europa. Andreas gibt zu, dass ihn das nicht davon abhält, Gänsehaut zu kriegen, wenn Österreich Deutschland im Fußball schlägt.",
+   "quote_clean": "Letztlich sind alle Nationen erfunden worden. Es ist sehr fragwürdig anzunehmen, dass es Nationen gibt, die tatsächlich auf Blut und Genetik beruhen.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächseinstieg ohne Wissensgewinn, Distraktoren frei erfunden.",
+   "stand_note": "",
+   "statement": "Andreas steigt mit der Grundsatzfrage ein, was Palästina eigentlich ist: ein Staat, eine Nation, ein Volk oder eine Kultur.",
+   "question": "Mit welcher Frage steigt Andreas in die Folge über Palästina ein?",
+   "answer": "Palästina, was ist das eigentlich?",
+   "distractors": [
+    "Wer ist schuld am Konflikt?",
+    "Wann gibt es endlich Frieden?",
+    "Wie viele Menschen leben in Gaza?"
+   ],
+   "aha": "Typisch Andreas: erst einmal ganz von vorn. Muriels Antwort: von allem ein bisschen – eine Region seit der Antike, ein historisches Mandatsgebiet und ein Staat, den viele anerkennen.",
+   "quote_clean": "Hallo liebe Muriel. Palästina, was ist das eigentlich? Ist das ein Staat, eine Nation, ein Volk, eine Kultur?",
+   "quality": 1
+  }
+ ],
+ "id": "351",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

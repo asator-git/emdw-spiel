@@ -1,0 +1,283 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Im Transkript klar belegt (909-928), allgemeine Aussage über Vertrauensrankings.",
+   "stand_note": "",
+   "statement": "In Vertrauensrankings zu Berufsgruppen stehen Feuerwehrleute ganz oben, Politiker:innen und Journalist:innen ganz unten.",
+   "question": "Welche Berufsgruppe steht in Vertrauensrankings typischerweise ganz oben?",
+   "answer": "Feuerwehrleute",
+   "distractors": [
+    "Lehrer:innen",
+    "Richter:innen",
+    "Bankangestellte"
+   ],
+   "aha": "Wer Brände löscht, hat offenbar einen Vertrauensvorschuss, den sich sonst kaum wer erarbeitet. Ganz unten landen Politik und Journalismus. Andreas hält das für ein großes Problem und versucht, es mit Transparenz zu bekämpfen.",
+   "quote_clean": "Es gibt ja immer diese Vertrauensrankings, wo Menschen gefragt werden, wie vertraust du Vertretern verschiedenster Berufsgruppen, und da sind ganz oben Feuerwehrleute und ganz unten dann die Politikerinnen und Journalistinnen.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt, aber Andreas' eigene Sicht (nicht Lehrbuchdefinition); Frage entsprechend rahmen.",
+   "stand_note": "",
+   "statement": "Laut Andreas zeichnet sich eine Währung durch einen stabilen Wert aus, weshalb beim Euro versucht wird, die Inflation niedrig zu halten.",
+   "question": "Was zeichnet eine Währung laut Andreas vor allem aus?",
+   "answer": "Ein stabiler Wert",
+   "distractors": [
+    "Eine begrenzte Menge",
+    "Ein Goldschatz als Deckung",
+    "Eine staatliche Bank"
+   ],
+   "aha": "Geld soll morgen ungefähr so viel kaufen können wie heute, sonst taugt es schlecht zum Bezahlen und Sparen. Deshalb versucht man beim Euro, die Inflation niedrig zu halten. Kryptowährungen sind für Andreas aus diesem Grund keine Währungen.",
+   "quote_clean": "Eine Währung zeichnet aus, dass sie einen stabilen Wert hat, dass man zum Beispiel versucht, beim Euro die Inflation sehr niedrig zu halten, dass ein Euro auch in fünf Jahren noch circa das wert ist, was er jetzt wert ist.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "veraltet",
+    "fairness"
+   ],
+   "note": "Persönliche Einschätzung eines selbsterklärten Nicht-Experten („glaube ich“) zu einer umstrittenen Anlageklasse; als Tatsache im Spiel heikel und Stand 2021.",
+   "stand_note": "Stand 2021",
+   "statement": "Kryptowährungen wie Bitcoin ähneln wegen ihrer starken Wertschwankungen eher Gold oder Silber und sind eher spekulative Anlageobjekte als Währungen.",
+   "question": "Woran erinnern Kryptowährungen wegen ihrer Wertschwankungen eher als an eine Währung?",
+   "answer": "An Gold oder Silber",
+   "distractors": [
+    "An Aktien von Start-ups",
+    "An Staatsanleihen",
+    "An Sparbücher"
+   ],
+   "aha": "Andreas sieht in Bitcoin und Co eher ein Spekulationsobjekt.",
+   "quote_clean": "Das erinnert mich eigentlich mehr an Gold oder an Silber, die ja immer wieder im Wert sehr stark schwanken. Das ist, glaube ich, mehr ein spekulatives Anlageobjekt als eine Währung.",
+   "quality": 1
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Allgemeine ökonomische Aussage, im Transkript belegt (2138-2146).",
+   "stand_note": "",
+   "statement": "Spekulationsblasen leben davon, dass man immer noch jemanden findet, der einem das Gut noch teurer abkauft.",
+   "question": "Wovon lebt eine Spekulationsblase?",
+   "answer": "Dass jemand noch teurer kauft",
+   "distractors": [
+    "Dass der Staat Geld druckt",
+    "Dass das Gut knapp bleibt",
+    "Dass Banken Kredite streichen"
+   ],
+   "aha": "Solange der Nächste mehr zahlt, geht die Rechnung auf. Irgendwann findet sich aber niemand mehr, und dann verlieren plötzlich viele Leute Geld, auch solche, die gar nicht so viel erspart haben.",
+   "quote_clean": "Das nennt man in der Ökonomie schlicht und einfach Blasen, und die leben davon, dass man immer noch einen anderen findet, der das noch teurer abkauft.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Transkript sagt „Zwiebeln“ (Tulpenmanie, historisch korrekt); Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Spekulationsblasen gab es historisch schon bei (Tulpen-)Zwiebeln, später bei Immobilien und Finanzprodukten.",
+   "question": "Bei welchem Gut gab es eine der berühmtesten Spekulationsblasen der Geschichte?",
+   "answer": "Bei (Tulpen-)Zwiebeln",
+   "distractors": [
+    "Bei Kaffeebohnen",
+    "Bei Salz",
+    "Bei Kartoffeln"
+   ],
+   "aha": "Im 17. Jahrhundert wurden in den Niederlanden Tulpenzwiebeln zu absurden Preisen gehandelt, bis der Markt zusammenbrach. Das Muster wiederholt sich seither, etwa bei Immobilien und Finanzprodukten.",
+   "quote_clean": "Und das hat es in der Vergangenheit schon gegeben bei Zwiebeln, aber auch bei Immobilien, bei Finanzprodukten und jetzt bei Kryptowährungen.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Definition ist Andreas' Selbstbeschreibung; als solche rahmen, aha entschlacken.",
+   "stand_note": "",
+   "statement": "Andreas grenzt sich als Agnostiker ab: Er weiß nicht, ob es Gott gibt, und ist kein Atheist, der sagt, es gibt keinen Gott.",
+   "question": "Wie beschreibt Andreas den Unterschied zwischen sich als Agnostiker und einem Atheisten?",
+   "answer": "Er weiß nicht, ob es Gott gibt",
+   "distractors": [
+    "Er ist sicher, dass es keinen Gott gibt",
+    "Er glaubt an mehrere Götter",
+    "Er sieht Gott in der Natur"
+   ],
+   "aha": "Der Atheist sagt, es gibt keinen Gott, der Agnostiker lässt die Frage offen. Andreas zählt sich zur zweiten Gruppe, und die Antwort ist ihm auch nicht so wichtig.",
+   "quote_clean": "Ich bin trotzdem Agnostiker. Das heißt, ich weiß nicht, ob es Gott gibt, und mir ist das auch ziemlich wurscht. Ich bin kein Atheist, der sagt, es gibt keinen Gott.",
+   "quality": 2
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt (464-473), aber Andreas' Sicht; Statement entsprechend rahmen.",
+   "stand_note": "",
+   "statement": "Laut Andreas schaffen Religionen Gemeinschaft, geben Werte mit und wirken der Atomisierung der Gesellschaft entgegen.",
+   "question": "Welcher Entwicklung wirken Religionen laut Andreas entgegen?",
+   "answer": "Der Atomisierung der Gesellschaft",
+   "distractors": [
+    "Dem Wirtschaftswachstum",
+    "Der Digitalisierung",
+    "Dem Bevölkerungsrückgang"
+   ],
+   "aha": "Immer mehr Menschen haben den Eindruck, sie müssten sich ganz allein durchboxen. Religionen bieten dagegen Gemeinschaft und gemeinsame Werte. Deshalb findet Andreas sie spannend, obwohl er aus der Kirche ausgetreten ist.",
+   "quote_clean": "Ich finde Religionen deshalb interessant, weil sie eine Gemeinschaft schaffen, weil sie Werte mitgeben und weil sie der Atomisierung der Gesellschaft entgegenwirken.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Subjektive Einschätzung von Andreas; als solche rahmen, schwache Spielfrage.",
+   "stand_note": "Stand 2018",
+   "statement": "Laut Andreas gab es 2018 in Österreich noch sehr wenige wirklich professionell gemachte Podcasts, während das Medium in englischsprachigen Ländern bereits wuchs.",
+   "question": "Wie schätzt Andreas die österreichische Podcast-Landschaft 2018 ein?",
+   "answer": "Kaum professionelle Podcasts",
+   "distractors": [
+    "Schon ein gesättigter Markt",
+    "Nur Radiosender machten Podcasts",
+    "Podcasts waren schon wieder out"
+   ],
+   "aha": "In den englischsprachigen Ländern wurden Podcasts damals schon immer größer, in Österreich war das Medium noch wenig verbreitet. Andreas war sicher, dass der Trend auch hierher kommt.",
+   "quote_clean": "Und damals, 2018, gab es in Österreich eigentlich noch sehr wenig wirklich professionell gemachte Podcasts. Gleichzeitig war mir bewusst, in den englischsprachigen Ländern ist das Phänomen immer größer.",
+   "quality": 2
+  },
+  {
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beiläufige Lesegewohnheit, kaum Wissensgewinn; Distraktoren nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Wissenschaftliche Studien bieten auf zehn bis fünfzehn Seiten oft einen großen Wissensgewinn.",
+   "question": "Warum liest Andreas gerne wissenschaftliche Studien?",
+   "answer": "Viel Wissen auf wenigen Seiten",
+   "distractors": [
+    "Sie sind besonders unterhaltsam",
+    "Sie sind immer gratis",
+    "Sie ersetzen Interviews"
+   ],
+   "aha": "Auf zehn, fünfzehn Seiten steckt oft, wofür man sonst ein ganzes Buch lesen müsste.",
+   "quote_clean": "Da hat man oft in zehn, fünfzehn Seiten einen großen Wissensgewinn, für den man vielleicht ein ganzes Buch stundenlang lesen müsste.",
+   "quality": 1
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahl klar belegt (1162-1168); Aha leicht präzisiert („könnte“). Stand Dezember 2021.",
+   "stand_note": "Stand 2021",
+   "statement": "Ende 2021 kam Erklär mir die Welt auf rund 30.000 Downloads pro Woche.",
+   "question": "Wie viele Downloads hatte Erklär mir die Welt Ende 2021 ungefähr pro Woche?",
+   "answer": "Rund 30.000",
+   "distractors": [
+    "Rund 5.000",
+    "Rund 100.000",
+    "Rund 250.000"
+   ],
+   "aha": "30.000 Downloads die Woche sind für ein kleines Land wie Österreich eine ordentliche Menge. Andreas nennt das eine große Ehre, und er könnte damals schon allein vom Podcast leben.",
+   "quote_clean": "Der Podcast kommt in der Woche so auf 30.000 Downloads, und das ist wirklich eine große Menge.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Jahr 2018 klar (1107, 1908); nur der Monat ist mit „ich glaube“ relativiert, daher im Statement nicht als sicher darstellen.",
+   "stand_note": "",
+   "statement": "Erklär mir die Welt ging 2018 on Air, laut Andreas vermutlich im März.",
+   "question": "In welchem Jahr ging Erklär mir die Welt on Air?",
+   "answer": "2018",
+   "distractors": [
+    "2015",
+    "2016",
+    "2020"
+   ],
+   "aha": "Rund ein halbes Jahr vorher hat Andreas getüftelt: welcher Podcast, welche Hörer:innen, welche Gäste. 2018 ging es los, und Ende 2021 stand schon fast Folge 200 an.",
+   "quote_clean": "Ich mache das jetzt seit 2018, und ich glaube, im März ist Erklär mir die Welt on Air gegangen.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahl klar belegt (1662-1666); Stand Ende 2021.",
+   "stand_note": "Stand 2021",
+   "statement": "Ende 2021 arbeitete Andreas nur noch 15 Stunden pro Woche beim Standard.",
+   "question": "Wie viele Stunden pro Woche arbeitete Andreas Ende 2021 noch beim Standard?",
+   "answer": "15 Stunden",
+   "distractors": [
+    "5 Stunden",
+    "25 Stunden",
+    "38 Stunden"
+   ],
+   "aha": "Angefangen hat er 2013 beim Standard in Vollzeit, dann hat er reduziert, um eigene Projekte voranzutreiben. Übrig blieb eine Kolumne zu Natur, Klima und Wirtschaft.",
+   "quote_clean": "Mittlerweile nur mehr Teilzeit, also 15 Stunden die Woche, und schreibe für den Standard eine Kolumne.",
+   "quality": 2
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt (1292-1312); Fragewortlaut „als einziger“ missverständlich, Distraktoren (Robert-Folge war ebenfalls berührend) bleiben falsch, da nur Folge 46 zu Tränen führte.",
+   "stand_note": "",
+   "statement": "Die Folge mit Lucia Heilmann, die sich in der NS-Zeit in Wien vor den Nazis versteckt hatte, war laut Andreas bisher die einzige, bei der er Tränen verdrückt hat.",
+   "question": "Bei welcher Folge hat Andreas nach eigener Aussage bisher Tränen verdrückt?",
+   "answer": "Lucia Heilmann über ihr Versteck",
+   "distractors": [
+    "Robert über Obdachlosigkeit",
+    "Franz Viehböck über das All",
+    "Die Jäger-und-Sammler-Folge"
+   ],
+   "aha": "In Folge 46 erzählt Lucia Heilmann, wie sie sich in der Nazizeit in Wien vor den Nazis versteckt hat. Das hat Andreas so berührt, dass er bisher bei keiner anderen Folge Tränen verdrückt hat.",
+   "quote_clean": "Das war sehr berührend und war auch die einzige Folge, wo ich bisher Tränen verdrückt habe.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Zitat (1434) und Frage passten nicht zusammen; Rat zur früheren Psychotherapie steht bei 1401-1411. Frage präzisiert, Zitat ausgetauscht, nicht belegtes „21-jährig“ gestrichen.",
+   "stand_note": "",
+   "statement": "Auf die Frage nach einem Rat an sein Ich vor zehn Jahren sagt Andreas, er würde sich vielleicht raten, ein paar Jahre früher mit einer Psychotherapie anzufangen.",
+   "question": "Welche eine Sache würde Andreas seinem Ich von vor zehn Jahren vielleicht noch raten?",
+   "answer": "Früher mit einer Psychotherapie anfangen",
+   "distractors": [
+    "Früher ins Ausland gehen",
+    "Ein anderes Fach studieren",
+    "Den Podcast früher starten"
+   ],
+   "aha": "Er hatte schon länger an einen Reflexionsprozess mit einer Therapeutin gedacht und es aufgeschoben. Heute empfiehlt er den meisten Leuten, die eigene Lebens- und Familiengeschichte besser früher als später ein bisschen aufzuarbeiten.",
+   "quote_clean": "Wenn es eine Sache gäbe, die ich mir vielleicht sagen würde, dann dass ich ein paar Jahre früher mit einer Psychotherapie anfange.",
+   "quality": 3
+  }
+ ],
+ "id": "s20211231",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

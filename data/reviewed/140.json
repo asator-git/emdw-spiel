@@ -1,0 +1,277 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 260-264 (erste Zwischenanalyse, Nov. 2020); der spätere Endwert lag bei rund 95 Prozent, daher als Stand 2020 kennzeichnen.",
+   "stand_note": "Stand November 2020 (Zwischenanalyse)",
+   "statement": "Die erste Zwischenanalyse des Pfizer/BioNTech-Impfstoffs im November 2020 ergab eine Wirksamkeit von rund 90 Prozent.",
+   "question": "Wie viel Prozent Wirksamkeit zeigte die erste Zwischenanalyse des Pfizer/BioNTech-Corona-Impfstoffs?",
+   "answer": "rund 90 Prozent",
+   "distractors": [
+    "rund 50 Prozent",
+    "rund 70 Prozent",
+    "rund 60 Prozent"
+   ],
+   "aha": "Mehr als die meisten erwartet hatten. Man zählt einfach, wie viele Erkrankte in der Impf- und wie viele in der Placebogruppe landen, und der Großteil war in der Placebogruppe. Damit lag die Corona-Impfung gleich in der Liga anderer gut funktionierender Virusimpfstoffe.",
+   "quote_clean": "Und haben gesehen, dass der zu 90 Prozent effizient ist. Das ist höher als erwartet.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1787-1799 (43.000 Leute; Andreas nennt 'mehr als 40.000' bei 529), deckt sich mit der tatsächlichen Studiengröße von rund 43.500.",
+   "stand_note": "",
+   "statement": "An der Phase-3-Studie des Pfizer/BioNTech-Impfstoffs nahmen rund 43.000 Menschen teil.",
+   "question": "Wie viele Menschen nahmen an der Phase-3-Studie des Pfizer/BioNTech-Corona-Impfstoffs teil?",
+   "answer": "rund 43.000",
+   "distractors": [
+    "rund 4.000",
+    "rund 12.000",
+    "rund 150.000"
+   ],
+   "aha": "Normalerweise wird ein Impfstoff in Phase 3 an vielleicht 3.000 oder 4.000 Menschen getestet. Bei Corona war es mehr als das Zehnfache, und damit auch viel mehr Daten zur Sicherheit als sonst üblich.",
+   "quote_clean": "In diesen 43.000 Leuten gab es keine ernstzunehmenden Nebenwirkungen.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "beleg"
+   ],
+   "note": "Zahl stammt aus frühen, kleinen Daten und wird von Krammer selbst relativiert ('muss kein Problem sein'); später zeigte der Impfstoff bei Älteren hohe Wirksamkeit, daher heute irreführend.",
+   "stand_note": "",
+   "statement": "In frühen Pfizer-Daten erreichte die Immunantwort von 65- bis 85-Jährigen nur etwa 40 Prozent jener jüngerer Erwachsener.",
+   "question": "Wie stark war in frühen Pfizer-Daten die Immunantwort von 65- bis 85-Jährigen im Vergleich zu jüngeren Erwachsenen?",
+   "answer": "etwa 40 Prozent davon",
+   "distractors": [
+    "etwa 10 Prozent davon",
+    "etwa 75 Prozent davon",
+    "etwa 95 Prozent davon"
+   ],
+   "aha": "Ein älteres Immunsystem reagiert schwächer auf Impfungen. Das muss aber kein Problem sein.",
+   "quote_clean": "Bei Pfizer war es so, dass die Immunantwort von 65- bis 85-Jährigen nur etwa 40 Prozent der Immunantwort von jüngeren Erwachsenen war.",
+   "quality": 2
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1544-1556, fachlich korrekt.",
+   "stand_note": "",
+   "statement": "Die mRNA aus der Impfung gelangt nicht in den Zellkern, wo das Erbgut liegt, sondern bleibt im Zytoplasma.",
+   "question": "Wo in der Zelle landet die mRNA aus einer mRNA-Impfung?",
+   "answer": "im Zytoplasma, außerhalb des Zellkerns",
+   "distractors": [
+    "im Zellkern, direkt beim Erbgut",
+    "in den Mitochondrien",
+    "in der Zellmembran"
+   ],
+   "aha": "Deshalb findet Florian den Begriff „genetischer Impfstoff“ unglücklich: Ins Genom wird gar nicht eingegriffen. Die RNA wird von den Ribosomen abgelesen, die bauen das Spike-Protein, und kurz darauf ist die kurzlebige RNA wieder weg.",
+   "quote_clean": "Diese Fettpartikel werden von Zellen aufgenommen. Das geht nicht in den Zellkern, wo das Genom sitzt, sondern bleibt im Zytoplasma, also in der Zelle, aber außerhalb des Zellkerns.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 2460-2477; allgemeines Prinzip der Impfstoffsicherheit, im Text als 'meistens' formuliert.",
+   "stand_note": "",
+   "statement": "Auch seltene schwere Impfnebenwirkungen wie neurologische Probleme treten meist innerhalb von Wochen nach der Impfung auf, nicht Jahre später.",
+   "question": "Wann treten auch seltene, schwere Impfnebenwirkungen wie neurologische Probleme meistens auf?",
+   "answer": "innerhalb von Wochen nach der Impfung",
+   "distractors": [
+    "meist erst nach einem Jahr",
+    "meist nach fünf bis zehn Jahren",
+    "erst bei der nächsten Infektion"
+   ],
+   "aha": "Darum ist die Angst vor Langzeitfolgen, die erst nach Jahren auftauchen, bei Impfungen wenig begründet. Florian nennt das Risiko, nach fünf Jahren etwas Neues zu entdecken, „extrem gering“. Beobachtet wird trotzdem weiter, mit Phase-4-Studien.",
+   "quote_clean": "Die treten aber auch nicht Jahre später auf. Die treten meistens Wochen nach der Impfung auf.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 418-439 inklusive AstraZeneca-Beispiel.",
+   "stand_note": "",
+   "statement": "Das Placebo in Impfstoffstudien ist sehr oft einfach eine Salzlösung.",
+   "question": "Was bekommt die Placebogruppe in einer Impfstoffstudie sehr oft gespritzt?",
+   "answer": "eine Salzlösung",
+   "distractors": [
+    "eine Zuckerlösung",
+    "destilliertes Wasser",
+    "ein abgeschwächtes Virus"
+   ],
+   "aha": "Manchmal nimmt man auch einen zugelassenen Impfstoff gegen etwas ganz anderes, AstraZeneca etwa einen Meningokokken-Impfstoff. Wichtig ist nur: Weder Ärztin noch Proband wissen, wer was bekommt, sonst ändert sich womöglich das Verhalten und verfälscht das Ergebnis.",
+   "quote_clean": "Das ist sehr oft einfach eine Salzlösung. Die bekommen auch eine Impfung, nur ist da halt nichts drinnen.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1481-1504; 'Riposomen' ist Transkriptionsfehler für Ribosomen, in quote_clean bereits korrigiert.",
+   "stand_note": "",
+   "statement": "Messenger-RNA ist der Bote, der die Bauanleitung für Proteine aus dem Zellkern zu den Ribosomen bringt, den Proteinfabriken der Zelle.",
+   "question": "Welche Aufgabe hat Messenger-RNA in jeder Körperzelle?",
+   "answer": "Sie bringt Bauanleitungen zu den Ribosomen",
+   "distractors": [
+    "Sie repariert Schäden an der DNA",
+    "Sie transportiert Sauerstoff in die Zelle",
+    "Sie baut Fett für die Zellwand"
+   ],
+   "aha": "Jede deiner Zellen macht gerade in diesem Moment viele, viele Kopien von Messenger-RNA. Die Impfung nutzt also einen ganz normalen Prozess, nur mit einer synthetischen Anleitung für das Spike-Protein des Virus.",
+   "quote_clean": "Das passiert über RNA, über Messenger-RNA. Messenger ist im Prinzip der Informationsfluss vom Zellkern zu den Ribosomen.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 2972-3001; Bild korrekt wiedergegeben.",
+   "stand_note": "",
+   "statement": "Die Massenproduktion eines neuen Impfstoffs ist wie Gulasch für 5000 statt für eine Familie: Es kann an ganz banalen Dingen scheitern.",
+   "question": "Mit welchem Bild erklärt Florian Krammer die Schwierigkeiten bei der Massenproduktion von Impfstoffen?",
+   "answer": "Gulasch für 5000 Leute kochen",
+   "distractors": [
+    "Einen Marathon ohne Training laufen",
+    "Ein Haus ohne Bauplan bauen",
+    "Ein Orchester ohne Dirigent spielen"
+   ],
+   "aha": "Wer etwas Neues erstmals in riesiger Menge herstellt, weiß nicht, wo es hakt. Pfizer peilte über eine Milliarde Dosen an, Florian hielt auch nur 500 Millionen für möglich. Dieses „Scale-up“ ist eine eigene Kunst.",
+   "quote_clean": "Aber wenn Sie Gulasch für 5000 Leute kochen müssen, kann es zu allen möglichen Problemen kommen, von der Zwiebellieferung bis dazu, dass man keinen Topf hat, der groß genug ist.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt bei 1618-1666 und 1590-1596; Schluss des aha war belehrend und nicht von Krammer so gesagt, neutral umformuliert.",
+   "stand_note": "",
+   "statement": "Ein Virus übernimmt bei einer Infektion die komplette Zelle, während eine mRNA-Impfung nur ein einzelnes Virusprotein herstellen lässt.",
+   "question": "Was ist laut Florian Krammer der Unterschied zwischen einer Virusinfektion und einer mRNA-Impfung in der Zelle?",
+   "answer": "Virus übernimmt die Zelle, Impfung nur minimal",
+   "distractors": [
+    "Impfung verändert die DNA, Virus nicht",
+    "Beide verändern das Erbgut dauerhaft",
+    "Kein Unterschied, beide bauen dieselben Proteine"
+   ],
+   "aha": "Ein Virus ist auch nur ein Fettpartikel mit Proteinen und RNA, aber es lässt die Zelle Proteine bauen, die Zelle und Immunsystem manipulieren. Die Impfung liefert dagegen nur die Anleitung für das eine Oberflächenprotein. Das nennt Krammer einen minimalen Eingriff.",
+   "quote_clean": "Wenn das Virus in eine Zelle reinkommt, dann reprogrammiert es die komplette Zelle und fängt an, alles Mögliche kaputt zu machen.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt mit erratbarer Antwort; die Prognose 'Anfang vom Ende' ist zudem eine Einschätzung von Nov. 2020, die der Verlauf (Varianten, weitere Wellen) relativiert hat.",
+   "stand_note": "",
+   "statement": "Florian Krammer sah im November 2020 den ersten erfolgreichen Impfstoff als Anfang vom Ende der Pandemie.",
+   "question": "Wer sagte im November 2020 im Podcast: „Mit dem Impfstoff ist das wirklich der Anfang vom Ende der Pandemie“?",
+   "answer": "Florian Krammer",
+   "distractors": [
+    "Rudolf Anschober",
+    "Armin Wolf",
+    "Andreas Sator"
+   ],
+   "aha": "Florian rechnete mit Impfungen für Hochrisikogruppen ab Dezember oder Jänner.",
+   "quote_clean": "Ich glaube, mit dem Impfstoff ist das wirklich der Anfang vom Ende der Pandemie.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt, Gast ist praktisch die einzige Option; wenig Spielwert.",
+   "stand_note": "",
+   "statement": "Florian Krammer nennt das parallele Entwickeln und Vorproduzieren von Impfstoffen ohne Pandemie betriebswirtschaftlichen Selbstmord.",
+   "question": "Wer sagte: „Was jetzt gemacht wurde, ist aus betriebswirtschaftlicher Sicht für einen Impfstoffhersteller im Prinzip Selbstmord“?",
+   "answer": "Florian Krammer",
+   "distractors": [
+    "Ein Pfizer-Manager",
+    "Andreas Sator",
+    "Ein EU-Gesundheitskommissar"
+   ],
+   "aha": "Gemeint ist das Vorproduzieren auf Risiko, bevor klar ist, ob ein Impfstoff überhaupt wirkt.",
+   "quote_clean": "Was jetzt gemacht wurde, ist aus betriebswirtschaftlicher Sicht für einen Impfstoffhersteller, wenn wir keine Pandemie haben, im Prinzip Selbstmord. So etwas wird nie jemand machen.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Wer-hat's-gesagt mit trivialer Antwort; die ORF-Info stammt von Andreas, nicht aus dem Zitat.",
+   "stand_note": "",
+   "statement": "Florian Krammer riet seinen eigenen Eltern zur Impfung, weil er das Risiko der Krankheit viel höher einschätzte als ein theoretisches Impfrisiko.",
+   "question": "Wer riet im ORF seinen Eltern zur Corona-Impfung und sorgte sich mehr um das Virus als um ein theoretisches Impfrisiko?",
+   "answer": "Florian Krammer",
+   "distractors": [
+    "Armin Wolf",
+    "Andreas Sator",
+    "Rudolf Anschober"
+   ],
+   "aha": "Das Virus kann bei älteren Menschen sehr viel Schaden anrichten.",
+   "quote_clean": "Da mache ich mir um das Risiko einer Viruserkrankung viel, viel mehr Sorgen als um ein theoretisches Risiko, das mit einem Impfstoff bestehen könnte.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsende ohne Wissenswert.",
+   "stand_note": "",
+   "statement": "Andreas bittet seinen Gast zum Schluss um einen Blick in die Kristallkugel.",
+   "question": "Worum bittet Andreas Florian Krammer bei der letzten Frage?",
+   "answer": "um einen Blick in die Kristallkugel",
+   "distractors": [
+    "um einen Tipp für die Börse",
+    "um ein persönliches Geheimnis",
+    "um eine Buchempfehlung"
+   ],
+   "aha": "Gemeint war, wie es global weitergeht.",
+   "quote_clean": "Letzte Frage. Ich würde dich noch um einen kleinen Blick in die Kristallkugel bitten.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Belegt bei 525-546 (Krammer bestätigt, selbst Proband gewesen zu sein); Details zur App und zwei Jahren Kontrolle sind im Ausschnitt nicht belegt und entfernt.",
+   "stand_note": "",
+   "statement": "Florian Krammer nahm selbst als Proband an der Phase-3-Studie des Pfizer/BioNTech-Impfstoffs teil.",
+   "question": "Welche Rolle hatte Florian Krammer in der Phase-3-Studie des Pfizer/BioNTech-Impfstoffs?",
+   "answer": "Er war selbst Proband",
+   "distractors": [
+    "Er leitete die Studie",
+    "Er entwickelte den Impfstoff",
+    "Er prüfte sie für die FDA"
+   ],
+   "aha": "Die Studie war doppelblind: Weder die Ärztin noch Florian wussten, ob er den echten Impfstoff oder eine Salzlösung bekam.",
+   "quote_clean": "Und hast da erzählt, dass du auch selbst Teil dieser Studie warst. Du warst einer dieser, glaube ich, mehr als 40.000 Menschen, die bei dieser Phase-3-Studie mitgemacht haben.",
+   "quality": 4
+  }
+ ],
+ "id": "140",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

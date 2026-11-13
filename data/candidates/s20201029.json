@@ -1,0 +1,736 @@
+{
+ "theme": "Welt & Konflikte",
+ "summary": "Kurz vor der US-Wahl 2020 erklärt Paul Schuierer-Aigner Umfragen, Swing States, Briefwahl, Supreme Court und Senat – und wagt eine Prognose.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 228,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "Wenn man den Umfragen traut, dann ist die Wahrscheinlichkeit bei ungefähr 90 Prozent, dass Joe Biden am 21. Jänner angelobt wird.",
+   "quote_clean": "Wenn man den Umfragen traut, liegt die Wahrscheinlichkeit bei ungefähr 90 Prozent, dass Joe Biden im Jänner angelobt wird.",
+   "statement": "Ende Oktober 2020 gaben Umfragemodelle Joe Biden eine Siegchance von rund 90 Prozent.",
+   "question": "Wie hoch schätzten Umfragemodelle eine Woche vor der US-Wahl 2020 Joe Bidens Siegchance?",
+   "answer": "rund 90 Prozent",
+   "distractors": [
+    "rund 55 Prozent",
+    "rund 70 Prozent",
+    "rund 99 Prozent"
+   ],
+   "number_value": 90,
+   "number_unit": "Prozent",
+   "slider_min": 30,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Klingt nach einer sicheren Sache, ist aber eben keine: Zehn Prozent für Trump sind nicht nichts, wie Andreas anmerkt. Der Unterschied zu 2016 war, dass Bidens Vorsprung seit März größer und stabiler war als der von Clinton.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "US-Wahl",
+    "Umfragen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 268,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "Und der wesentliche Fehler, der 2016 gemacht wurde, war, dass nicht nach Ausbildung gewichtet wurde in den Umfragen.",
+   "quote_clean": "Der wesentliche Fehler, der 2016 gemacht wurde, war, dass in den Umfragen nicht nach Ausbildung gewichtet wurde.",
+   "statement": "Ein Hauptfehler der US-Umfragen 2016 war, dass die Antworten nicht nach Bildungsgrad gewichtet wurden.",
+   "question": "Was war laut Analysen der wesentliche Fehler der US-Wahlumfragen 2016?",
+   "answer": "Keine Gewichtung nach Bildungsgrad",
+   "distractors": [
+    "Zu wenige Befragte insgesamt",
+    "Keine Gewichtung nach Alter",
+    "Nur Festnetz-Anrufe gezählt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Früher hat Bildung beim Wahlverhalten kaum einen Unterschied gemacht, also hat man sie beim Gewichten ignoriert. 2016 hat man dadurch unterschätzt, wie viele weiße Männer mit niedrigem Bildungsgrad wirklich wählen gehen – und die wählten ungefähr 70 zu 30 Trump.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Umfragen",
+    "US-Wahl 2016"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 406,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "Und 2016 waren, wie gesagt, also bundesweit waren die Umfragen ungefähr zwei Punkte daneben. Also der Durchschnitt war, Clinton wird mit vier Prozent Abstand gewinnen bundesweit. Gewonnen hat sie schließlich mit ungefähr zwei Prozent Abstand.",
+   "quote_clean": "2016 waren die Umfragen bundesweit ungefähr zwei Punkte daneben. Der Durchschnitt war, Clinton wird bundesweit mit vier Prozent Abstand gewinnen. Gewonnen hat sie schließlich mit ungefähr zwei Prozent Abstand.",
+   "statement": "Hillary Clinton gewann 2016 bundesweit mit rund zwei Prozentpunkten Vorsprung mehr Stimmen als Trump – und verlor trotzdem.",
+   "question": "Mit wie vielen Prozentpunkten Vorsprung gewann Hillary Clinton 2016 die bundesweite Stimmenmehrheit?",
+   "answer": "rund 2 Prozentpunkte",
+   "distractors": [
+    "rund 0,5 Prozentpunkte",
+    "rund 4 Prozentpunkte",
+    "rund 6 Prozentpunkte"
+   ],
+   "number_value": 2,
+   "number_unit": "Prozentpunkte",
+   "slider_min": 0,
+   "slider_max": 7,
+   "log_scale": false,
+   "aha": "Die Umfragen hatten im Schnitt vier Punkte vorhergesagt, also lagen sie bundesweit gar nicht so daneben. Entschieden wurde aber in Bundesstaaten wie Michigan oder Wisconsin, wo in den letzten Wochen kaum mehr jemand gefragt hat, weil man sie eh für sichere Clinton-Staaten hielt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "US-Wahl 2016",
+    "Umfragen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 378,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "Ja genau, also wenn man in der Zeitung liest, der Kandidat X wird 48 Prozent machen laut dieser Umfrage, dann heißt das ausformuliert, mit einer Wahrscheinlichkeit von 90 Prozent wird er zwischen 46 und 50 Prozent landen.",
+   "quote_clean": "Wenn man in der Zeitung liest, Kandidat X wird laut dieser Umfrage 48 Prozent machen, dann heißt das ausformuliert: Mit einer Wahrscheinlichkeit von 90 Prozent wird er zwischen 46 und 50 Prozent landen.",
+   "statement": "Eine Umfragezahl wie „48 Prozent“ bedeutet eigentlich: Mit hoher Wahrscheinlichkeit landet das Ergebnis in einem Bereich rund um diesen Wert, der Schwankungsbreite.",
+   "question": "Was bedeutet es, wenn eine Umfrage einem Kandidaten 48 Prozent gibt?",
+   "answer": "Er landet wahrscheinlich zwischen 46 und 50",
+   "distractors": [
+    "Er bekommt fix genau 48 Prozent",
+    "48 Prozent der Befragten sind unentschlossen",
+    "Er gewinnt mit 48-prozentiger Wahrscheinlichkeit"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "48 ist nur der wahrscheinlichste Wert, nicht das Fixe. Darum sind zwei Punkte Abweichung wie 2016 meistens noch innerhalb der Schwankungsbreite – die Umfragen waren also eher unpräzise als falsch.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Umfragen",
+    "Statistik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 855,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "man darf ja nicht vergessen, Obama hat ja auch nicht mit 60, 70% gewonnen, so wie das bei uns gefühlt manchmal wahrgenommen wird, sondern einmal mit 53 und einmal mit 51%.",
+   "quote_clean": "Man darf nicht vergessen, Obama hat auch nicht mit 60, 70 Prozent gewonnen, wie das bei uns gefühlt manchmal wahrgenommen wird, sondern einmal mit 53 und einmal mit 51 Prozent.",
+   "statement": "Barack Obama gewann 2008 mit rund 53 Prozent und 2012 mit rund 51 Prozent der Stimmen.",
+   "question": "Mit wie viel Prozent der Stimmen gewann Barack Obama 2008 die Präsidentschaftswahl?",
+   "answer": "rund 53 Prozent",
+   "distractors": [
+    "rund 58 Prozent",
+    "rund 63 Prozent",
+    "rund 49 Prozent"
+   ],
+   "number_value": 53,
+   "number_unit": "Prozent",
+   "slider_min": 40,
+   "slider_max": 75,
+   "log_scale": false,
+   "aha": "Von Europa aus wirkt Obama oft wie ein Erdrutschsieger, war er aber nicht. 2012 waren es sogar nur rund 51 Prozent – in den USA ist man mit 46, 47 Prozent schon mehrheitsfähig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Obama",
+    "US-Wahlen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 761,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "Also die Faustformel ist so, es gibt ungefähr 20% Evangelikale, das sind rechte Christen, die wählen republikanisch, komme was wolle. Es gibt ungefähr 20% weiße Arbeiterschaft, die immer schon republikanisch war und stark von denen mobilisiert werden kann.",
+   "quote_clean": "Die Faustformel ist: Es gibt ungefähr 20 Prozent Evangelikale, das sind rechte Christen, die wählen republikanisch, komme was wolle. Und es gibt ungefähr 20 Prozent weiße Arbeiterschaft, die immer schon republikanisch war und stark mobilisiert werden kann.",
+   "statement": "Faustformel: Die Republikaner haben in den USA rund 20 Prozent Evangelikale und rund 20 Prozent weiße Arbeiterschaft als Stammwählerschaft – für eine Mehrheit fehlen dann noch ein paar Prozent.",
+   "question": "Welche zwei Gruppen bilden laut Faustformel die rund 40 Prozent republikanische Stammwählerschaft?",
+   "answer": "Evangelikale und weiße Arbeiterschaft",
+   "distractors": [
+    "Latinos und Pensionist:innen",
+    "Landwirte und Militärangehörige",
+    "Unternehmer:innen und Studierende"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zusammen sind das rund 40 Prozent, mehrheitsfähig ist man bei Präsidentschaftswahlen aber erst mit 46, 47 Prozent. Diese letzten paar Prozent muss man sich holen – und genau da hat Trump keine neuen Gruppen dazugewonnen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Republikaner",
+    "Wählergruppen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 984,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "In Texas zum Beispiel sind eine Woche vor der Wahl haben bereits mehr Menschen gewählt durch Briefwahl, die 2016 überhaupt insgesamt in Texas gewählt haben.",
+   "quote_clean": "In Texas haben eine Woche vor der Wahl bereits mehr Menschen vorab gewählt, als 2016 insgesamt in Texas gewählt haben.",
+   "statement": "In Texas hatten 2020 schon eine Woche vor dem Wahltag mehr Menschen vorab gewählt als 2016 insgesamt.",
+   "question": "Was war in Texas eine Woche vor der US-Wahl 2020 schon passiert?",
+   "answer": "Mehr Stimmen als 2016 insgesamt abgegeben",
+   "distractors": [
+    "Briefwahl wurde komplett verboten",
+    "Wahltag wurde um eine Woche verschoben",
+    "Erstmals Mehrheit für Demokraten ausgezählt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Wahlbeteiligung ging 2020 massiv nach oben, vor allem bei Jungen und älteren Schwarzen. Paul sieht darin das größere Swing-Potenzial: nicht die Wechselwähler:innen, sondern die, die bisher gar nicht gewählt haben.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Texas",
+    "Wahlbeteiligung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1519,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "Und da gab es 2016 signifikante Unterschiede. Die Leute haben weniger gern einem Menschen gesagt, ich wähle Trump, als einem Computer gesagt, ich wähle Trump.",
+   "quote_clean": "Da gab es 2016 signifikante Unterschiede. Die Leute haben weniger gern einem Menschen gesagt „Ich wähle Trump“ als einem Computer.",
+   "statement": "2016 gaben Befragte in Online-Umfragen häufiger an, Trump zu wählen, als am Telefon gegenüber einem Menschen – der sogenannte Shy-Trump-Voter-Effekt.",
+   "question": "Wo gaben US-Befragte 2016 eher zu, Trump zu wählen?",
+   "answer": "Am Computer, in Online-Umfragen",
+   "distractors": [
+    "Am Telefon mit einem Menschen",
+    "Im persönlichen Interview zu Hause",
+    "Bei Befragungen vor dem Wahllokal"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Effekt kommt ursprünglich aus Großbritannien als „shy conservative“. 2020 fanden die Umfrageinstitute diesen Unterschied nicht mehr – auch, weil sich offenbar viel mehr Leute offen zu Trump bekannten, etwa mit Schildern vor dem Haus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Umfragen",
+    "Psychologie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1745,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "Und Florida hat auch die Erlaubnis, Briefwahlstimmen, die vor dem Wahltag ankommen, auch vor dem Wahltag schon zu zählen.",
+   "quote_clean": "Florida hat auch die Erlaubnis, Briefwahlstimmen, die vor dem Wahltag ankommen, schon vor dem Wahltag zu zählen.",
+   "statement": "Florida darf Briefwahlstimmen schon vor dem Wahltag auszählen, deshalb kommen von dort meist früh aussagekräftige Ergebnisse.",
+   "question": "Warum liefert Florida in der Wahlnacht meist früh aussagekräftige Ergebnisse?",
+   "answer": "Briefwahl wird schon vorab ausgezählt",
+   "distractors": [
+    "Florida wählt einen Tag früher",
+    "Es gibt dort keine Briefwahl",
+    "Nur elektronische Wahlmaschinen erlaubt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Außerdem müssen Briefwahlstimmen in Florida bis zum Wahltag ankommen. So kann der Staat ein fertiges Briefwahlergebnis veröffentlichen, sobald das letzte Wahllokal zusperrt – aus europäischer Sicht so gegen halb vier, vier in der Früh.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Florida",
+    "Briefwahl"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2165,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "Pennsylvania ist ein Staat, der immer wieder hin und her gegangen ist und mit 20 Stimmen im Electoral College auch recht viel Gewicht hat.",
+   "quote_clean": "Pennsylvania ist ein Staat, der immer wieder hin und her gegangen ist und mit 20 Stimmen im Electoral College recht viel Gewicht hat.",
+   "statement": "Bei der Wahl 2020 hatte der Swing State Pennsylvania 20 Stimmen im Electoral College.",
+   "question": "Wie viele Wahlleute-Stimmen hatte Pennsylvania bei der US-Wahl 2020?",
+   "answer": "20",
+   "distractors": [
+    "9",
+    "29",
+    "38"
+   ],
+   "number_value": 20,
+   "number_unit": "Wahlleute",
+   "slider_min": 3,
+   "slider_max": 55,
+   "log_scale": false,
+   "aha": "Pennsylvania ist einer der Staaten, die regelmäßig hin und her kippen, und hat dabei richtig Gewicht. Zur Einordnung: Für den Sieg braucht man 270 der 538 Stimmen.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Swing States",
+    "Electoral College"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2296,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "Das ist ihr Bollwerk, da kriegen sie schon einmal ein Siebtel der notwendigen Stimmen im Electoral College her und wenn sie das verlieren, dann schaut es ganz schlecht aus für die.",
+   "quote_clean": "Das ist ihr Bollwerk, da kriegen sie schon einmal ein Siebtel der notwendigen Stimmen im Electoral College her, und wenn sie das verlieren, schaut es ganz schlecht für sie aus.",
+   "statement": "Texas allein liefert den Republikanern rund ein Siebtel der Wahlleute-Stimmen, die man für den Sieg braucht.",
+   "question": "Welchen Anteil der für den Sieg nötigen Wahlleute-Stimmen bringt Texas allein?",
+   "answer": "Ungefähr ein Siebtel",
+   "distractors": [
+    "Ungefähr ein Drittel",
+    "Ungefähr ein Zwanzigstel",
+    "Ungefähr ein Viertel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Texas hat sogar mehr Wahlleute als Florida. Verlieren die Republikaner Texas, haben sie laut Paul keinen plausiblen Pfad mehr ins Weiße Haus – nicht nur 2020, sondern auch künftig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Texas",
+    "Electoral College"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2330,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "In Georgia gibt es ungefähr 30 Prozent Schwarze in der Bevölkerung, die ähnlich wie in Texas in immer größeren Zahlen wählen gehen",
+   "quote_clean": "In Georgia gibt es ungefähr 30 Prozent Schwarze in der Bevölkerung, die ähnlich wie in Texas in immer größeren Zahlen wählen gehen.",
+   "statement": "Rund 30 Prozent der Bevölkerung Georgias sind Schwarze.",
+   "question": "Wie hoch ist ungefähr der Anteil Schwarzer an der Bevölkerung des US-Bundesstaats Georgia?",
+   "answer": "rund 30 Prozent",
+   "distractors": [
+    "rund 10 Prozent",
+    "rund 50 Prozent",
+    "rund 20 Prozent"
+   ],
+   "number_value": 30,
+   "number_unit": "Prozent",
+   "slider_min": 5,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Dazu kommt viel Zuzug von Mittelschichtfamilien in die Vorstädte von Atlanta, weil es an den Küsten zu teuer wird. Beides zusammen machte den einst tiefroten Südstaat 2020 plötzlich zum Swing State.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Georgia",
+    "Demografie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2584,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "Ja genau, also wir hatten irgendwie vor 20 Jahren waren knapp 70 Prozent der US-Amerikanerinnen Weiß und 30 Prozent waren entweder nicht-weiße Latinos oder Schwarz oder Asian",
+   "quote_clean": "Vor 20 Jahren waren knapp 70 Prozent der US-Amerikaner:innen weiß, und 30 Prozent waren entweder Latinos, Schwarze, Asiat:innen oder anderes.",
+   "statement": "Um das Jahr 2000 waren knapp 70 Prozent der US-Bevölkerung weiß (ohne Latinos); der Anteil sinkt seither.",
+   "question": "Wie viel Prozent der US-Bevölkerung waren um das Jahr 2000 weiß (ohne Latinos)?",
+   "answer": "knapp 70 Prozent",
+   "distractors": [
+    "knapp 55 Prozent",
+    "knapp 85 Prozent",
+    "knapp 90 Prozent"
+   ],
+   "number_value": 69,
+   "number_unit": "Prozent",
+   "slider_min": 40,
+   "slider_max": 95,
+   "log_scale": false,
+   "aha": "Durch Zuwanderung und unterschiedliche Geburtenraten werden Latinos und Schwarze mehr – und die wählen ziemlich eindeutig demokratisch. Paul nennt das eine tickende Zeitbombe für die Republikaner.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Demografie",
+    "USA"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2699,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "In den Städten, wo sehr viele Schwarze wohnen, gibt es einfach viel zu wenig Wahllokale. Man schließt Wahllokale auf Universitätscampusen und das nächste Wahllokal ist dann eine Stunde Autofahrt weg.",
+   "quote_clean": "In den Städten, wo sehr viele Schwarze wohnen, gibt es viel zu wenig Wahllokale. Man schließt Wahllokale auf Universitätscampussen, und das nächste Wahllokal ist dann eine Stunde Autofahrt entfernt.",
+   "statement": "In manchen republikanisch regierten US-Staaten wird Minderheiten und Studierenden das Wählen erschwert, etwa durch zu wenige Wahllokale in schwarzen Vierteln oder geschlossene Wahllokale auf Unis.",
+   "question": "Wie wird in manchen US-Staaten Minderheiten das Wählen erschwert?",
+   "answer": "Zu wenige Wahllokale in ihren Vierteln",
+   "distractors": [
+    "Wahlzettel nur auf Latein",
+    "Wahlpflicht mit hohen Strafen",
+    "Wählen nur an Werktagen vormittags"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das geht geografisch recht einfach. Interessanter Nebeneffekt: Wenn dort doch einmal Demokrat:innen an die Macht kommen, sperren sie mehr Wahllokale auf, und plötzlich wachsen ihre Mehrheiten recht schnell.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlrecht",
+    "Minderheiten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2795,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "Genau, es gab 2012, nachdem Obama wiedergewählt worden war gegen Mitt Romney, da gab es schon einmal eine Kommission der Republikaner, das war auch ein großes öffentliches Ding, gar nicht sehr geheim, die haben eine Autopsie sozusagen gemacht",
+   "quote_clean": "Es gab 2012, nachdem Obama gegen Mitt Romney wiedergewählt worden war, eine Kommission der Republikaner, das war ein großes öffentliches Ding, gar nicht geheim, die haben eine Autopsie gemacht.",
+   "statement": "Nach der Niederlage gegen Obama 2012 erstellten die Republikaner eine öffentliche Analyse, die „Autopsie“, wie sie künftig wieder Wahlen gewinnen könnten.",
+   "question": "Wie nannten die Republikaner ihre Analyse nach der verlorenen Wahl 2012?",
+   "answer": "Autopsie",
+   "distractors": [
+    "Neustart",
+    "Wiederbelebung",
+    "Bestandsaufnahme"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Partei wusste genau, dass ihr der demografische Wandel davonläuft, und wollte sich breiter aufstellen. Dann kam Trump mit einem ganz anderen Programm und gewann 2016 trotzdem – mit 46 Prozent und unter besonderen Umständen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Republikaner",
+    "Parteigeschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3319,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "Die letzten Richter, die Trump vorgeschlagen hat und er durfte schon drei nachnominieren, was bei neun eine sehr große Zahl ist",
+   "quote_clean": "Die letzten Richter, die Trump vorgeschlagen hat – und er durfte schon drei nachnominieren, was bei neun eine sehr große Zahl ist.",
+   "statement": "Donald Trump konnte in seiner ersten Amtszeit drei der neun Richter:innen am Supreme Court ernennen.",
+   "question": "Wie viele der neun Supreme-Court-Richter:innen ernannte Trump in seiner ersten Amtszeit?",
+   "answer": "3",
+   "distractors": [
+    "1",
+    "5",
+    "2"
+   ],
+   "number_value": 3,
+   "number_unit": "Richter:innen",
+   "slider_min": 0,
+   "slider_max": 9,
+   "log_scale": false,
+   "aha": "Früher bekamen Höchstrichter:innen im Senat oft 70, 80 von 100 Stimmen, weil man jemanden aus der Mitte gesucht hat. Trumps Kandidat:innen gingen nur noch knapp mit gut 50 Stimmen durch – das Gericht ist zur Parteifrage geworden.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Supreme Court",
+    "Trump"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 3204,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "Also ein Fall zum Thema homosexuellen Rechte in den USA, der vor dem Supreme Court landet, lautet zum Beispiel, das war ein sehr prominenter Fall, darf ein Bäcker einem schwulen Paar die Bedienung verweigern.",
+   "quote_clean": "Ein Fall zum Thema Rechte Homosexueller, der vor dem Supreme Court gelandet ist – ein sehr prominenter Fall –, lautet zum Beispiel: Darf ein Bäcker einem schwulen Paar die Bedienung verweigern?",
+   "statement": "Der Supreme Court entscheidet nicht, ob er für oder gegen etwas ist, sondern wägt Grundrechte ab – etwa ob ein Bäcker einem schwulen Paar die Bedienung verweigern darf.",
+   "question": "Welche Frage landete als prominenter Fall zu Rechten Homosexueller vor dem US-Supreme Court?",
+   "answer": "Darf ein Bäcker ein schwules Paar abweisen?",
+   "distractors": [
+    "Darf ein Hotel ein schwules Paar abweisen?",
+    "Darf ein Standesamt die Trauung verweigern?",
+    "Darf eine Schule schwule Lehrer kündigen?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Formal prüft das Gericht nur, ob ein Gesetz mit der Verfassung vereinbar ist: Wiegt die Freiheit des Bäckers schwerer als die des Paares? Weil fast jedes umstrittene Gesetz dort landet, fallen viele große politische Entscheidungen in den USA am Ende beim Höchstgericht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Supreme Court",
+    "Grundrechte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3608,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "also der District of Columbia, die Hauptstadt, der ist nicht im Senat vertreten, weil er eigentlich kein Bundesstaat, sondern nur ein District ist, hat aber 700.000 Einwohner und Einwohnerinnen",
+   "quote_clean": "Der District of Columbia, die Hauptstadt, ist nicht im Senat vertreten, weil er kein Bundesstaat, sondern nur ein District ist, hat aber 700.000 Einwohnerinnen und Einwohner.",
+   "statement": "Washington D.C. hat rund 700.000 Einwohner:innen, aber keine Senator:innen, weil es kein Bundesstaat ist.",
+   "question": "Wie viele Menschen leben ungefähr in Washington D.C., das keine Senator:innen stellt?",
+   "answer": "rund 700.000",
+   "distractors": [
+    "rund 150.000",
+    "rund 2,5 Millionen",
+    "rund 6 Millionen"
+   ],
+   "number_value": 700000,
+   "number_unit": "Einwohner:innen",
+   "slider_min": 50000,
+   "slider_max": 10000000,
+   "log_scale": true,
+   "aha": "Damit ist die Hauptstadt größer als die kleinsten Bundesstaaten, die jeweils zwei Senator:innen haben. Deshalb gibt es schon lange Bestrebungen, D.C. zum 51. Bundesstaat zu machen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Washington D.C.",
+    "Senat"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3635,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "die meisten Bundesstaaten haben so einheitliche Slogans drunter und der in Washington, D.C. ist zum Beispiel no taxation without representation.",
+   "quote_clean": "Die meisten Bundesstaaten haben einheitliche Slogans auf den Autokennzeichen, und der in Washington D.C. ist zum Beispiel „No taxation without representation“.",
+   "statement": "Auf den Autokennzeichen von Washington D.C. steht der Protest-Slogan „No taxation without representation“, weil die Hauptstadt im Senat nicht vertreten ist.",
+   "question": "Welcher Slogan steht auf den Autokennzeichen von Washington D.C.?",
+   "answer": "No taxation without representation",
+   "distractors": [
+    "In God we trust",
+    "Land of the free",
+    "The capital of the world"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Also sinngemäß: Keine Steuern zahlen, wenn wir nicht auch vertreten sind. Die Hauptstädter:innen zahlen Bundessteuern, haben im Senat aber keine Stimme – ein ziemlich offener Protest am Heckblech.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Washington D.C.",
+    "Kurioses"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3866,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "Die Amtsperiode dieser Senatorinnen ist aber nicht nur zwei Jahre, sondern sechs Jahre. Deswegen wird rotierend immer nur ein Drittel des Senats nachbesetzt.",
+   "quote_clean": "Die Amtsperiode der Senatorinnen und Senatoren ist nicht zwei, sondern sechs Jahre. Deswegen wird rotierend immer nur ein Drittel des Senats nachbesetzt.",
+   "statement": "US-Senator:innen werden für sechs Jahre gewählt; alle zwei Jahre wird ein Drittel des Senats neu besetzt.",
+   "question": "Für wie viele Jahre werden US-Senator:innen gewählt?",
+   "answer": "6 Jahre",
+   "distractors": [
+    "2 Jahre",
+    "4 Jahre",
+    "8 Jahre"
+   ],
+   "number_value": 6,
+   "number_unit": "Jahre",
+   "slider_min": 1,
+   "slider_max": 12,
+   "log_scale": false,
+   "aha": "Gewählt wird trotzdem alle zwei Jahre Anfang November, nur eben rotierend ein Drittel. Das Repräsentantenhaus ist das Gegenteil: Dort muss sich wirklich jede und jeder alle zwei Jahre der Wahl stellen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Senat",
+    "Politisches System"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 4469,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "sondern Joe Biden und die Partei Linke sind wahrscheinlich ungefähr so weit auseinander, wie der rechte ÖVP-Flügel und der linke Flügel der Grünen.",
+   "quote_clean": "Joe Biden und die Parteilinke sind wahrscheinlich ungefähr so weit auseinander wie der rechte ÖVP-Flügel und der linke Flügel der Grünen.",
+   "statement": "Innerhalb der US-Demokraten liegen Joe Biden und die Parteilinke programmatisch so weit auseinander wie in Österreich der rechte ÖVP-Flügel und die linken Grünen.",
+   "question": "Womit vergleicht Paul den Abstand zwischen Joe Biden und der Parteilinken der Demokraten?",
+   "answer": "Rechter ÖVP-Flügel und linke Grüne",
+   "distractors": [
+    "SPÖ-Basis und SPÖ-Spitze",
+    "Wiener und Tiroler Grüne",
+    "FPÖ und NEOS"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Zwei-Parteien-System muss eine Partei viel mehr Strömungen fassen als bei uns. Nach einem Wahlsieg kommen deshalb Themen wie Green New Deal oder Medicare for All wieder auf den Tisch – und Biden unter Druck von den eigenen Leuten.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Demokraten",
+    "Österreich-Vergleich"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4311,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "Da hat er immer versucht, sich als Kind aus einer Arbeiterstadt, das ist in Scranton in Pennsylvania, geboren hat, hat die ersten Jahre seines Lebens dort verbracht, er hat immer gesagt, I'm the guy from Scranton and the other one is the guy from Park Avenue.",
+   "quote_clean": "Da hat er immer versucht, sich als Kind aus einer Arbeiterstadt darzustellen – er ist in Scranton in Pennsylvania geboren und hat die ersten Jahre seines Lebens dort verbracht. Er hat immer gesagt: I'm the guy from Scranton and the other one is the guy from Park Avenue.",
+   "statement": "Joe Biden wurde in der Arbeiterstadt Scranton in Pennsylvania geboren und stellte sich im Wahlkampf als „guy from Scranton“ gegen Trump, den „guy from Park Avenue“.",
+   "question": "In welcher Arbeiterstadt wurde Joe Biden geboren?",
+   "answer": "Scranton in Pennsylvania",
+   "distractors": [
+    "Detroit in Michigan",
+    "Cleveland in Ohio",
+    "Flint in Michigan"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Sonst führte Biden einen eher sanften Wahlkampf, aber hier wurde er richtig klassenkämpferisch. Die Corona-Wirtschaftskrise machte es leichter, denn davor waren die Wirtschaftszahlen gut für Trump.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Biden",
+    "Wahlkampf"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 4670,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "wir haben es ja formal bei dieser Wahl nicht mit einer Wahl, sondern mit 50 Wahlen in 50 Bundesstaaten zu tun, die nach anderen Spielregeln funktionieren, wo ganz andere Fristen gelten",
+   "quote_clean": "Wir haben es formal bei dieser Wahl nicht mit einer Wahl, sondern mit 50 Wahlen in 50 Bundesstaaten zu tun, die nach anderen Spielregeln funktionieren, wo ganz andere Fristen gelten.",
+   "statement": "Formal ist die US-Präsidentschaftswahl nicht eine Wahl, sondern 50 Wahlen in 50 Bundesstaaten mit eigenen Regeln und Fristen.",
+   "question": "Wie beschreibt Paul die US-Präsidentschaftswahl formal?",
+   "answer": "Als 50 Wahlen mit eigenen Regeln",
+   "distractors": [
+    "Als eine bundesweit einheitliche Wahl",
+    "Als Abstimmung nur im Kongress",
+    "Als zwei getrennte Wahlen in Ost und West"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Bundesstaaten haben im US-System sehr große autonome Rechte: andere Fristen, teils andere Wahlberechtigte, teils andere Systeme. Darum kann auch ein Präsident nicht einfach anordnen, dass in Michigan nicht mehr gezählt wird.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlsystem",
+    "Föderalismus"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 4857,
+   "speaker": "Andreas Sator",
+   "quote": "Gut, wir kommen zum Schluss, Paul. Letzte Frage, wagst du eine Prognose?",
+   "quote_clean": "Gut, wir kommen zum Schluss, Paul. Letzte Frage: Wagst du eine Prognose?",
+   "statement": "Zum Schluss der Folge bittet Andreas seinen Gast um eine Prognose für den Wahlausgang.",
+   "question": "Mit welcher Frage beendet Andreas das Gespräch über die US-Wahl?",
+   "answer": "Wagst du eine Prognose?",
+   "distractors": [
+    "Wen würdest du selbst wählen?",
+    "Was wird Trump als Nächstes tun?",
+    "Fliegst du zur Wahl in die USA?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Paul traut sich: Biden wird Präsident, dazu eine knappe Senatsmehrheit der Demokraten, „leider eher 51, 52 als mehr“. Im Nachhinein ein ziemlich guter Tipp.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Prognose"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1619,
+   "speaker": "Paul Schuierer-Aigner",
+   "quote": "Also ich drehe CNN auf, weil ich das seit 2004 immer gemacht habe und weil die Herrschaften, die uns das dann zeigen, schon regelmäßige Gäste in meinem Wohnzimmer sozusagen sind",
+   "quote_clean": "Ich drehe CNN auf, weil ich das seit 2004 immer gemacht habe und weil die Herrschaften, die uns das zeigen, schon regelmäßige Gäste in meinem Wohnzimmer sind.",
+   "statement": "Paul schaut US-Wahlnächte seit 2004 auf CNN – die Moderator:innen sind für ihn quasi Stammgäste im Wohnzimmer.",
+   "question": "Welchen Sender dreht Paul in der US-Wahlnacht seit 2004 auf?",
+   "answer": "CNN",
+   "distractors": [
+    "Fox News",
+    "MSNBC",
+    "BBC World"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Paul ist seit Obamas Zeit als Senator in Illinois ein echter US-Wahlfreak. Als Tipp für daneben empfiehlt er Twitter, Live-Ticker und electoral-vote.com von zwei pensionierten Professoren mit gutem Humor.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlnacht",
+    "Medien"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "s20201029",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

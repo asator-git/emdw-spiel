@@ -1,0 +1,284 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Fünf Prozent und rund drei Monate stehen so bei 464-544 im Transkript; Distraktoren eindeutig falsch.",
+   "stand_note": "Stand 2024",
+   "statement": "In Österreich gilt ein Unternehmen als zahlungsunfähig, wenn es über rund drei Monate mehr als fünf Prozent seiner fälligen Schulden nicht zahlen kann.",
+   "question": "Ab wie viel Prozent unbezahlter fälliger Schulden (über rund drei Monate) gilt eine Firma in Österreich als zahlungsunfähig?",
+   "answer": "Mehr als 5 Prozent",
+   "distractors": [
+    "Mehr als 20 Prozent",
+    "Mehr als 50 Prozent",
+    "Mehr als 1 Prozent"
+   ],
+   "aha": "Die Schwelle ist erstaunlich niedrig: Schon eine Lücke von fünf Prozent reicht, wenn sie sich nicht innerhalb von etwa drei Monaten schließt. Kurz einmal knapp bei Kasse sein ist also noch keine Insolvenz, ein Dauerzustand aber schon.",
+   "quote_clean": "Wenn ich drei Monate mehr als fünf Prozent meiner fälligen Schulden nicht zahlen kann, dann spricht man von einer Zahlungsunfähigkeit und dann muss ich ein Insolvenzverfahren anmelden.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "60 Tage stimmen (923-932); aha nannte Details (Bank, Lieferanten), die nicht im Ausschnitt stehen, daher auf Gesagtes reduziert.",
+   "stand_note": "Stand 2024",
+   "statement": "Ist ein Insolvenzgrund eingetreten, hat ein Unternehmen in Österreich 60 Tage Zeit, die Lage zu sanieren, bevor es Insolvenz anmelden muss.",
+   "question": "Wie viele Tage hat eine Firma in Österreich ab Eintritt der Zahlungsunfähigkeit Zeit, sich zu sanieren, bevor sie Insolvenz anmelden muss?",
+   "answer": "60 Tage",
+   "distractors": [
+    "14 Tage",
+    "30 Tage",
+    "180 Tage"
+   ],
+   "aha": "Die 60 Tage sind eine Art letzte Galgenfrist: In dieser Zeit kann man versuchen, die Lage doch noch zu drehen, etwa mit mehr Umsatz oder einem Kapitalgeber. Klappt das nicht, muss der Antrag gestellt werden.",
+   "quote_clean": "Daran knüpfen sich 60 Tage, die ich in Anspruch nehmen kann, um diesen Zustand zu sanieren. Und wenn mir das nicht gelingt in den 60 Tagen, dann muss ich Insolvenz anmelden.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "20 Prozent Mindestquote steht so bei 1007-1032; Distraktoren falsch; deutscher Vergleich bei 1397 belegt.",
+   "stand_note": "Stand 2024",
+   "statement": "In einem österreichischen Sanierungsverfahren muss ein Unternehmen seinen Gläubigern eine Quote von mindestens 20 Prozent anbieten.",
+   "question": "Welche Mindestquote muss eine Firma in Österreich ihren Gläubigern in einem Sanierungsverfahren anbieten?",
+   "answer": "20 Prozent",
+   "distractors": [
+    "5 Prozent",
+    "50 Prozent",
+    "75 Prozent"
+   ],
+   "aha": "Wer dir 100 Euro schuldet, muss dir im Sanierungsverfahren also mindestens 20 zurückzahlen, dafür hat eine GmbH zwei Jahre Zeit. Deutsche Kolleg:innen finden so eine fixe Mindestquote übrigens recht beneidenswert.",
+   "quote_clean": "Dort ist wichtig, dort muss ich meinen Gläubigern, die sich da schon angesammelt haben, die Mitarbeiter, die Lieferanten, Banken, denen muss ich eine Quote von mindestens 20 Prozent anbieten.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Zwei Jahre für die GmbH stehen bei 1036; das erfundene Ratenbeispiel im aha ersetzt durch Rechnung aus dem Transkript (500.000 Euro Schulden).",
+   "stand_note": "Stand 2024",
+   "statement": "Eine GmbH hat im Sanierungsverfahren zwei Jahre Zeit, die Mindestquote von 20 Prozent an ihre Gläubiger zu zahlen.",
+   "question": "Wie lange hat eine GmbH in Österreich Zeit, die Sanierungsquote von 20 Prozent abzuzahlen?",
+   "answer": "Zwei Jahre",
+   "distractors": [
+    "Sechs Monate",
+    "Fünf Jahre",
+    "Zehn Jahre"
+   ],
+   "aha": "Im Beispiel der Anwältin schuldet das Restaurant 500.000 Euro. Die Gläubiger müssten dann innerhalb dieser zwei Jahre mindestens 100.000 Euro zurückbekommen.",
+   "quote_clean": "Dann müssten die zumindest 20 Prozent zurückbekommen. Und dafür habe ich zwei Jahre Zeit, wenn wir von einer GmbH sprechen.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Fonds und Arbeitgeberbeiträge stimmen (2430-2449); die Geschichte über Andreas' Freundin steht nicht im Ausschnitt und wird gestrichen; AMS als Distraktor ist unscharf, Frage präzisiert.",
+   "stand_note": "Stand 2024",
+   "statement": "In Österreich gibt es den Insolvenzentgeltfonds, der aus Arbeitgeberbeiträgen gespeist wird und Beschäftigten ausständige Löhne zahlt, wenn ihre Firma pleitegeht.",
+   "question": "Welche Einrichtung sichert in Österreich ausständige Löhne ab, wenn die eigene Firma insolvent wird?",
+   "answer": "Der Insolvenzentgeltfonds",
+   "distractors": [
+    "Die Arbeiterkammer",
+    "Die Gewerkschaft",
+    "Die Hausbank der Firma"
+   ],
+   "aha": "Der Fonds wird aus Beiträgen der Arbeitgeber gespeist und springt für ausständiges Entgelt vor der Insolvenzeröffnung und während des Verfahrens ein. Nitsche nennt das eine relativ privilegierte Lage für Beschäftigte in Österreich.",
+   "quote_clean": "Da sind wir in Österreich in einer relativ privilegierten Lage, dass es den Insolvenzentgeltfonds gibt. Der wird gespeist aus Arbeitgeberbeiträgen.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Gutschein-Aussage steht so bei 2710-2739; Antwort und Distraktoren eindeutig.",
+   "stand_note": "",
+   "statement": "Geht ein Geschäft pleite, sind seine Gutscheine meist nichts mehr wert; Kund:innen bekommen bestenfalls die Insolvenzquote.",
+   "question": "Was passiert mit deinem Gutschein, wenn das Geschäft insolvent wird?",
+   "answer": "Du bekommst höchstens die Quote",
+   "distractors": [
+    "Er wird voll ausbezahlt",
+    "Der Staat ersetzt ihn",
+    "Er gilt bei der Konkurrenz"
+   ],
+   "aha": "Mit einem Gutschein hast du schon bezahlt, das Geschäft aber noch nichts geliefert. Damit bist du ein ganz normaler Gläubiger ohne Sicherheit und stellst dich mit allen anderen hinten an.",
+   "quote_clean": "Wenn das Geschäft aber insolvent wird, kann ich diesen Gutschein nicht mehr einlösen und habe auch keine Sicherheit erhalten. Dieser Gutschein ist dann leider in der Insolvenz nichts wert oder ich bekomme nur die Quote.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Inhalt belegt (2604-2662); richtige Antwort war deutlich länger als die Distraktoren, Antwortoptionen angeglichen.",
+   "stand_note": "",
+   "statement": "Viele AGB enthalten einen Eigentumsvorbehalt: Die Ware gehört dem Käufer erst, wenn sie voll bezahlt ist, was den Lieferanten in einer Insolvenz schützt.",
+   "question": "Warum steht in vielen AGB, dass dir die Ware erst nach voller Bezahlung gehört?",
+   "answer": "Damit der Verkäufer sie in der Insolvenz zurückverlangen kann",
+   "distractors": [
+    "Damit die Umsatzsteuer erst später fällig wird",
+    "Damit die Garantie länger gilt",
+    "Damit du die Ware nicht zurückgeben kannst"
+   ],
+   "aha": "Der Eigentumsvorbehalt ist insolvenzfest: Wer einen Elektroherd liefert und nicht bezahlt wird, bleibt Eigentümer und kann ihn zurückverlangen. Beim Fischhändler klappt das nicht, der Fisch wird ja gleich verarbeitet.",
+   "quote_clean": "Deswegen steht auch, wenn wir einkaufen gehen, in vielen allgemeinen Geschäftsbedingungen drinnen, dass das Eigentum erst auf mich als Käuferin übergeht, wenn ich voll bezahlt habe.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-das-Frage: Die Antwort ist die einzige Gesprächspartnerin, Distraktoren (Hemingway, Schumpeter) sind offensichtlich falsch.",
+   "stand_note": "",
+   "statement": "Magdalena Nitsche betont, dass eine Insolvenz nicht das Ende der Welt ist, weil das österreichische Verfahren eine zweite Chance ermöglicht.",
+   "question": "Wer sagt über Insolvenzen: „Es ist nicht das Ende der Welt“ und verweist auf die zweite Chance?",
+   "answer": "Magdalena Nitsche",
+   "distractors": [
+    "Andreas Sator",
+    "Ernest Hemingway",
+    "Josef Schumpeter"
+   ],
+   "aha": "Für die Insolvenzanwältin ist das die wichtigste Botschaft gleich zu Beginn.",
+   "quote_clean": "Es ist nicht das Ende der Welt, und die Verfahren in Österreich sind so ausgestaltet, dass es mir gelingt, über so ein Verfahren zu einer Sanierung und zu einer zweiten Chance zu kommen.",
+   "quality": 1
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-das-Frage ohne Spielwert; der Distraktor „Hörer Christoph“ ist nicht belegt.",
+   "stand_note": "",
+   "statement": "Viele Unternehmer erkennen den Beginn der Negativspirale nicht und verfallen in hoffnungsgetriebenes Weiterwurschteln.",
+   "question": "Wer beschreibt das typische Verhalten vor einer Pleite als „hoffnungsgetriebenes Weiterwurschteln“?",
+   "answer": "Magdalena Nitsche",
+   "distractors": [
+    "Andreas Sator",
+    "Ernest Hemingway",
+    "Ein Hörer namens Christoph"
+   ],
+   "aha": "Gerade eigentümergeführte Firmen tragen oft lange die rosarote Brille.",
+   "quote_clean": "Aber den Beginn nehmen viele Unternehmer noch nicht als wirklich problematisch wahr. Das ist dieses, was wir oft bemerken, dieses hoffnungsgetriebene Weiterwurschteln.",
+   "quality": 1
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-das-Frage ohne Spielwert; Distraktoren (Insolvenzrichter, Hörerin Steffi) sind nicht belegt.",
+   "stand_note": "",
+   "statement": "Kurz vor dem Insolvenzantrag geht es vielen Unternehmer:innen am schlechtesten; manche holen nicht einmal mehr ihre Post ab.",
+   "question": "Wer erzählt, dass manche Unternehmer vor der Pleite die „Vogelstrauß-Methode“ anwenden und keine Post mehr beheben?",
+   "answer": "Magdalena Nitsche",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Insolvenzrichter",
+    "Eine Hörerin namens Steffi"
+   ],
+   "aha": "Am schlimmsten ist laut Nitsche die Zeit vor dem Antrag.",
+   "quote_clean": "Manche nehmen die Vogelstrauß-Methode, beheben überhaupt keine Post mehr, sie verfallen in eine Schockstarre.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Erklärung deckt sich mit 486-502; Distraktoren klar falsch und gleich lang.",
+   "stand_note": "",
+   "statement": "Wer alte Schulden laufend mit neuen begleicht („Loch auf, Loch zu“), schiebt die Zahlungsunfähigkeit nur hinaus.",
+   "question": "Was meint die „Loch auf, Loch zu“-Methode bei Firmen in Geldnot?",
+   "answer": "Alte Schulden mit neuen begleichen",
+   "distractors": [
+    "Filialen schließen und neu eröffnen",
+    "Steuern absichtlich spät zahlen",
+    "Mitarbeiter kündigen und neu einstellen"
+   ],
+   "aha": "Kurzfristig sieht alles bezahlt aus, aber man zahlt einen Kredit nur zurück, indem man den nächsten aufnimmt. Das führt laut Nitsche irgendwann trotzdem in die Zahlungsunfähigkeit.",
+   "quote_clean": "Nur die Gefahr, die hier besteht, ist diese Loch-auf-Loch-zu-Methode. Ich zahle meine Schulden, aber gefühlt in der Sekunde habe ich schon wieder neue Schulden gemacht.",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Begründung belegt (1363-1375); im aha waren „verramscht“ und „Know-how“ nicht im Ausschnitt, auf Gesagtes (Verkauf, niedrigere Quote) umgestellt.",
+   "stand_note": "",
+   "statement": "Das österreichische Insolvenzrecht ist sanierungsfreundlich, weil eine Sanierung volkswirtschaftlich meist besser ist als eine Zerschlagung.",
+   "question": "Warum ist das österreichische Insolvenzrecht bewusst sanierungsfreundlich gestaltet?",
+   "answer": "Weil Werte und Jobs erhalten bleiben",
+   "distractors": [
+    "Weil Gerichte so weniger Arbeit haben",
+    "Weil Banken das verlangen",
+    "Weil Konkurse verboten sind"
+   ],
+   "aha": "Im Konkurs wird verkauft, was da ist: Maschinen, Geräte, die Küchenausstattung. Die Gläubiger bekommen dann meist weniger als bei einer Sanierung, deshalb rechnet man beides gegeneinander auf.",
+   "quote_clean": "Weil man sagt, gesamtvolkswirtschaftlich betrachtet ist eine Sanierung in der Regel besser, weil Werte erhalten bleiben und Mitarbeiter erhalten bleiben.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Zitat belegt (263-275), aber es kommt nicht am Folgenbeginn; Frage umformuliert, Distraktoren sinnvoller gemacht.",
+   "stand_note": "",
+   "statement": "Andreas zitiert Ernest Hemingway: Man wird bankrott zuerst langsam und dann plötzlich.",
+   "question": "Wie wird man laut Ernest Hemingway bankrott?",
+   "answer": "Zuerst langsam, dann plötzlich",
+   "distractors": [
+    "Durch einen einzigen großen Fehler",
+    "Über Nacht und ohne jede Vorwarnung",
+    "Wenn man zu viel auf einmal wagt"
+   ],
+   "aha": "Das Zitat stammt aus Hemingways Roman „Fiesta“ und beschreibt ziemlich gut, wie Pleiten laufen. Andreas baut darauf gleich ein Rollenspiel mit seinem fiktiven Restaurant auf.",
+   "quote_clean": "Magdalena, es gibt von Ernest Hemingway, einem berühmten Schriftsteller, ein schönes Zitat. Da sagt er, ins Deutsche übersetzt: Wie wurdest du bankrott? Zuerst langsam und dann plötzlich.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Ursprüngliche Frage war eine Meta-Frage zum Gespräch; ersetzt durch die inhaltliche Definition von Gläubiger (662-668), samt Andreas' Wortspiel.",
+   "stand_note": "",
+   "statement": "Gläubiger ist, wer in Vorleistung getreten ist, also etwa Geld geborgt oder eine Leistung erbracht hat, und dafür noch bezahlt werden muss.",
+   "question": "Was bedeutet das Wort „Gläubiger“ im Insolvenzrecht?",
+   "answer": "Wer in Vorleistung gegangen ist und noch Geld bekommt",
+   "distractors": [
+    "Wer an die Sanierung der Firma glaubt",
+    "Wer das Insolvenzverfahren leitet",
+    "Wer der Firma Geld schuldet"
+   ],
+   "aha": "Gläubiger kann jede Person und jedes Unternehmen sein, auch Mitarbeiter, die einen Monat gearbeitet haben und noch nicht bezahlt wurden. Andreas' Theorie zum Wort: Man glaubt halt daran, dass man das Geld zurückbekommt.",
+   "quote_clean": "Gläubiger ist jede Person, jedes Unternehmen, das in Vorleistung getreten ist, das Leistungen erbracht hat, Geld geborgt hat und wo ich eine Verpflichtung habe, die Person zu zahlen.",
+   "quality": 4
+  }
+ ],
+ "id": "319",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

@@ -1,0 +1,277 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Zahl 33 t belegt (auch 33.000 kg bestätigt); Aha enthielt Details, die nicht genau im Ausschnitt stehen, daher gekürzt.",
+   "stand_note": "Stand 2023",
+   "statement": "In Österreich liegt der Materialverbrauch pro Kopf bei rund 33 Tonnen pro Jahr.",
+   "question": "Wie viele Tonnen Material verbraucht eine Person in Österreich pro Jahr ungefähr?",
+   "answer": "Rund 33 Tonnen",
+   "distractors": [
+    "Rund 8 Tonnen",
+    "Rund 15 Tonnen",
+    "Rund 60 Tonnen"
+   ],
+   "aha": "Das sind 33.000 Kilo pro Person und Jahr. Mitgerechnet ist laut Huber-Heim auch die fossile Energie, die derzeit noch im System steckt.",
+   "quote_clean": "Das heißt, dass wir bis 2050 den Materialverbrauch pro Kopf, der derzeit bei 33 Tonnen liegt, auf sieben Tonnen reduziert haben wollen.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Ziel 7 Tonnen bis 2050 klar belegt.",
+   "stand_note": "Stand 2023",
+   "statement": "Österreichs Kreislaufwirtschaftsstrategie will den Materialverbrauch bis 2050 auf sieben Tonnen pro Kopf und Jahr senken.",
+   "question": "Auf wie viele Tonnen pro Kopf will Österreich seinen Materialverbrauch bis 2050 senken?",
+   "answer": "Sieben Tonnen",
+   "distractors": [
+    "Zwei Tonnen",
+    "15 Tonnen",
+    "25 Tonnen"
+   ],
+   "aha": "Von 33 auf sieben Tonnen, das ist ein Minus von fast vier Fünfteln. Verzicht auf alles heißt das laut Huber-Heim nicht, sondern Teilen, neue Geschäftsmodelle und Digitalisierung.",
+   "quote_clean": "auf sieben Tonnen reduziert haben wollen. Also wie gesagt, 2050, ein Generationenprogramm, und sieben Tonnen heißt jetzt auch nicht, dass wir alle nichts mehr haben dürfen,",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Behauptung 'eines von drei Ländern' nicht belegbar; Distraktoren offensichtlich falsch, Frage schwach.",
+   "stand_note": "",
+   "statement": "Österreichs Kreislaufwirtschaftsstrategie gilt als anerkannt, weil Österreich eines von nur drei Ländern in Europa mit absoluten Zielen ist.",
+   "question": "Warum gilt Österreichs Kreislaufwirtschaftsstrategie in Europa als besonders anerkannt?",
+   "answer": "Sie hat absolute Ziele",
+   "distractors": [
+    "Sie ist die älteste Europas",
+    "Sie gilt nur für Unternehmen",
+    "Sie verbietet jeden Neubau"
+   ],
+   "aha": "",
+   "quote_clean": "Warum in Europa? Weil wir eines von drei Ländern sind, die absolute Ziele haben.",
+   "quality": 1
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Pauschale, unbelegte Schätzung der Sprecherin, vermischt mit Schildern und Knöpfen; als Fakt nicht haltbar.",
+   "stand_note": "",
+   "statement": "80 bis 90 Prozent der Kleidung, die wir tragen, bestehen aus Mischfasern.",
+   "question": "Wie viel Prozent unserer Kleidung bestehen laut Folge aus Mischfasern?",
+   "answer": "80 bis 90 Prozent",
+   "distractors": [
+    "20 bis 30 Prozent",
+    "40 bis 50 Prozent",
+    "Fast 100 Prozent"
+   ],
+   "aha": "",
+   "quote_clean": "80 bis 90 Prozent der Kleider, die wir heute tragen, bestehen aus gemischten Fasern, und wenn es nur das Schild drinnen ist,",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Pauschale Aussage der Sprecherin; als 'laut Huber-Heim' formuliert vertretbar.",
+   "stand_note": "Stand 2023",
+   "statement": "Laut Huber-Heim können Mischfasern nicht recycelt werden.",
+   "question": "Was gilt laut Huber-Heim für Kleidung aus Mischfasern?",
+   "answer": "Sie kann nicht recycelt werden",
+   "distractors": [
+    "Sie hält doppelt so lang",
+    "Sie lässt sich leicht kompostieren",
+    "Sie wird problemlos zu Garn"
+   ],
+   "aha": "Laut Huber-Heim lassen sich nur einfache Materialien zu einem Teil zurückbringen. Darum ist der Altkleidercontainer keine Generalabsolution.",
+   "quote_clean": "Und dieser Gedanke, ach, wir recyceln alles: Mischfasern können nicht recycelt werden.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "40 Kollektionen ist ein Beispielwert der Sprecherin; Frage als Beispiel statt 'typisch' formuliert.",
+   "stand_note": "",
+   "statement": "Huber-Heim nennt 40 Kollektionen pro Jahr als Beispiel für Fast Fashion, zwei galten noch als in Ordnung.",
+   "question": "Welche Zahl an Kollektionen pro Jahr nennt Huber-Heim als Beispiel für Fast Fashion?",
+   "answer": "40 Kollektionen",
+   "distractors": [
+    "4 Kollektionen",
+    "12 Kollektionen",
+    "100 Kollektionen"
+   ],
+   "aha": "Zwei Kollektionen im Jahr waren laut Huber-Heim noch okay. Dazu kommen Wünsche, die oft nicht aus unseren Köpfen kommen, sondern uns eingeredet werden.",
+   "quote_clean": "Aber wenn man sich Modedesigner anschaut, die zwei Kollektionen pro Jahr rausbringen wollen, das war ja alles noch okay. 40 Kollektionen pro Jahr sind nicht mehr in Ordnung, weil das dann Fast Fashion ist.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 596-613; Schiphol/Philips, Light as a Service.",
+   "stand_note": "Stand 2023",
+   "statement": "Am Amsterdamer Flughafen Schiphol gehören alle Leuchten dem Hersteller Philips, der Flughafen zahlt nur für das Licht.",
+   "question": "Wem gehören die Leuchten am Amsterdamer Flughafen Schiphol?",
+   "answer": "Dem Hersteller Philips",
+   "distractors": [
+    "Dem Flughafen Schiphol",
+    "Der Stadt Amsterdam",
+    "Dem niederländischen Staat"
+   ],
+   "aha": "Das Modell heißt Light as a Service: Der Flughafen kauft keine Lampen, sondern Helligkeit. Die Leute wollen keine Glühbirnen besitzen, sie wollen es hell haben.",
+   "quote_clean": "Sämtliche Beleuchtungskörper am Flughafen Schiphol gehören Philips. Die gehören nicht Schiphol, sondern Philips. Philips wartet sie, hält sie in Schuss, serviciert sie und ersetzt Materialien.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Distraktor 'billiger' ist teils auch richtig; ersetzt.",
+   "stand_note": "",
+   "statement": "Wenn ein Hersteller seine Produkte behält und wartet, hat er ein Interesse daran, sie möglichst langlebig zu bauen.",
+   "question": "Warum baut Philips bei Light as a Service besonders langlebige Leuchten?",
+   "answer": "Weil es sie selbst warten und ersetzen muss",
+   "distractors": [
+    "Weil ein EU-Gesetz es verlangt",
+    "Weil der Flughafen es vorschreibt",
+    "Weil es sich besser verkauft"
+   ],
+   "aha": "Beim normalen Verkauf verdient der Hersteller an jeder kaputten Lampe. Gehört die Lampe ihm selbst, kostet ihn jeder Defekt Geld, und plötzlich rentiert sich Qualität.",
+   "quote_clean": "Daher ist es auch im Interesse von Philips, diese Beleuchtungskörper in sehr hoher Qualität herzustellen und sehr lang haltbar zu machen.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Kühlschrank-Beispiel belegt, leichte Frage.",
+   "stand_note": "",
+   "statement": "Huber-Heim erklärt das Service-Denken am Kühlschrank: Man braucht nicht das Gerät, sondern die Kühlung.",
+   "question": "Mit welchem Haushaltsgerät erklärt Huber-Heim, dass wir eigentlich nur das Service brauchen?",
+   "answer": "Mit dem Kühlschrank",
+   "distractors": [
+    "Mit dem Staubsauger",
+    "Mit dem Fernseher",
+    "Mit dem Bügeleisen"
+   ],
+   "aha": "Kühlen, Waschen, Beleuchten, Mobilität: In der Kreislaufwirtschaft kauft man die Funktion, nicht das Ding. Das Gerät bleibt beim Hersteller und kommt dann wieder in den Kreislauf.",
+   "quote_clean": "Ich muss eigentlich keinen Kühlschrank besitzen, der ist mir egal. Ich möchte nur, dass meine Sachen kühl stehen. Das ist eine andere Art, über die Dinge nachzudenken.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Zitat belegt; Teil des Aha ('nicht zurück in die gute alte Zeit') nicht im Ausschnitt, entfernt.",
+   "stand_note": "",
+   "statement": "Für Huber-Heim beginnt Kreislaufwirtschaft damit, Ressourcen nicht zu verbrauchen, sondern zu gebrauchen.",
+   "question": "Wie fasst Huber-Heim das Umdenken der Kreislaufwirtschaft in einem Wortpaar zusammen?",
+   "answer": "Gebrauchen statt verbrauchen",
+   "distractors": [
+    "Sparen statt verschwenden",
+    "Reparieren statt wegwerfen",
+    "Teilen statt besitzen"
+   ],
+   "aha": "Aus Verbraucher:innen sollen Gebraucher:innen werden. Es beginnt laut Huber-Heim mit einem anderen Denken: Wir sind Teil des Gesamtsystems.",
+   "quote_clean": "Wir müssen daran denken, dass wir Ressourcen nicht verbrauchen, sondern gebrauchen.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Monomaterialien belegt bei 1659-1666.",
+   "stand_note": "",
+   "statement": "Ein kreislauffähiges Haus besteht aus Monomaterialien, die nicht miteinander vermischt werden.",
+   "question": "Woraus besteht ein kreislauffähiges Haus laut Huber-Heim vor allem?",
+   "answer": "Aus unvermischten Monomaterialien",
+   "distractors": [
+    "Aus recyceltem Beton",
+    "Aus reinem Holz",
+    "Aus Verbundwerkstoffen"
+   ],
+   "aha": "Verklebte Fenster, Holzrahmen mit Kunststoff, Stahl im Zement: Das kriegt man beim Abbau nicht mehr auseinander. Gemischtes landet auf der Deponie oder im Ofen, und dann ist das Material weg.",
+   "quote_clean": "So ein kreislauffähiges Haus besteht erstens aus sogenannten Monomaterialien, das heißt, ich vermische diese Materialien nicht. Das ist das größte Problem,",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Stecken/Schwerkraft belegt bei 1719-1734.",
+   "stand_note": "",
+   "statement": "In einem kreislauffähigen Haus halten Bauteile durch Stecken oder Schwerkraft zusammen statt durch Kleber.",
+   "question": "Wodurch halten Bauteile in einem kreislauffähigen Haus idealerweise zusammen?",
+   "answer": "Durch Stecken oder Schwerkraft",
+   "distractors": [
+    "Durch spezielle Bio-Kleber",
+    "Durch Verschweißen",
+    "Durch Schaumdämmung"
+   ],
+   "aha": "Was gesteckt ist, kann man wieder ausstecken. So wird ein Haus am Ende nicht abgerissen, sondern abgebaut, und ganze Fassaden oder Wohneinheiten wandern woanders hin.",
+   "quote_clean": "Das heißt, die Materialien sind weder gemischt noch so verbunden, dass sie zum Beispiel verklebt oder verschmolzen sind, sondern sie sind gesteckt oder so aneinander angepasst, dass sie zum Beispiel durch Schwerkraft aneinander haften und nicht durch Chemikalien.",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Narnia belegt bei 2019, harmlos und sympathisch.",
+   "stand_note": "",
+   "statement": "Karin Huber-Heims Kinder nennen ihren großen Wandschrank Narnia.",
+   "question": "Wie nennen Karin Huber-Heims Kinder ihren großen Wandschrank?",
+   "answer": "Narnia",
+   "distractors": [
+    "Hogwarts",
+    "Wunderland",
+    "Schatzkammer"
+   ],
+   "aha": "Drin hängen Sachen, die 30, 40, 50 Jahre alt sind, weil sie Vintage kauft und viel aufhebt. Ihr Motto: Ich shoppe in meinem eigenen Kasten.",
+   "quote_clean": "Der heißt bei meinen Kindern Narnia, weil ich manchmal darin verschwinde und dann mit Sachen wieder rauskomme, die man seit Jahrzehnten nicht gesehen hat.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat belegt bei 1851-1855.",
+   "stand_note": "",
+   "statement": "Für Huber-Heim ist alles, was zugleich schnell und billig ist, weder nachhaltig noch kreislauffähig.",
+   "question": "Welche zwei Eigenschaften zusammen sind laut Huber-Heim nie nachhaltig?",
+   "answer": "Schnell und billig",
+   "distractors": [
+    "Neu und teuer",
+    "Bunt und modisch",
+    "Leicht und klein"
+   ],
+   "aha": "Das gilt für Fast Fashion genauso wie für Fast Food. Wo schnell oder billig draufsteht, ist meistens kein Kreislauf drin.",
+   "quote_clean": "Schnell und billig zusammen ist nie nachhaltig und auch nicht kreislauffähig.",
+   "quality": 3
+  }
+ ],
+ "id": "280",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

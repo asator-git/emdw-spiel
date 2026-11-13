@@ -1,0 +1,284 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "270 Stimmen bei t=283 belegt, Antwort korrekt.",
+   "stand_note": "",
+   "statement": "Wer US-Präsident werden will, braucht 270 Stimmen im Electoral College.",
+   "question": "Wie viele Stimmen im Electoral College braucht man, um US-Präsident:in zu werden?",
+   "answer": "270",
+   "distractors": [
+    "218",
+    "300",
+    "350"
+   ],
+   "aha": "Das Wahlkollegium hat 538 Stimmen, 270 ist die knappe Mehrheit davon. Darum rechnen in der Wahlnacht alle nur noch Bundesstaaten zusammen, nicht Millionen von Stimmen.",
+   "quote_clean": "Um Präsident zu werden, brauchst du 270 Stimmen in diesem Kollegium. Wer diese 270 erreicht, wird Präsident.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 368-382 klar: Parteien wählen loyale Leute aus.",
+   "stand_note": "",
+   "statement": "Wahlleute im Electoral College können theoretisch für jede Person stimmen; die Parteien schicken deshalb besonders loyale Leute.",
+   "question": "Wie sorgen US-Parteien dafür, dass ihre Wahlleute nicht für jemand anderen stimmen?",
+   "answer": "Sie nominieren besonders loyale Leute",
+   "distractors": [
+    "Wahlleute stimmen öffentlich per Handzeichen",
+    "Sie unterschreiben einen Vertrag mit Strafe",
+    "Die Stimmen werden automatisch gezählt"
+   ],
+   "aha": "Theoretisch dürfen die Wahlleute wählen, wen sie wollen. Damit das nicht passiert, suchen die Parteien die treuesten Leute aus, und tatsächlich weicht ganz selten jemand ab.",
+   "quote_clean": "Diese Wahlmänner oder -frauen können ja irgendjemanden wählen, aber da das immer an die Parteien übertragen wird, suchen die immer die loyalsten Leute aus.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 401-436 stimmt; Aha mit 'Gewohnheit' etwas eigenmächtig, neutraler formuliert.",
+   "stand_note": "",
+   "statement": "Die US-Verfassung regelt die Präsidentenwahl kaum: Sie nennt das Wahlkollegium und überlässt den Bundesstaaten, wie ihre Wahlleute bestimmt werden.",
+   "question": "Wer legt laut US-Verfassung fest, wie die Wahlleute eines Staates bestimmt werden?",
+   "answer": "Die einzelnen Bundesstaaten",
+   "distractors": [
+    "Der Oberste Gerichtshof",
+    "Der US-Kongress",
+    "Die Bundeswahlbehörde"
+   ],
+   "aha": "Schau in Artikel 2 der Verfassung, da steht erstaunlich wenig. Wie ein Staat seine Wahlleute auswählt, ist Sache der Bundesstaaten, die Volkswahl hat sich erst mit der Zeit so durchgesetzt.",
+   "quote_clean": "Da findet sich ein Satz drinnen: Es gibt dieses Wahlmännerkollegium, und die Bundesstaaten, also die Landesregierungen, entscheiden, wer gewählt wird.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zwei Ausnahmen bei 481 belegt (Maine, Nebraska stimmt weiterhin).",
+   "stand_note": "",
+   "statement": "Bis auf zwei Bundesstaaten vergeben alle US-Staaten sämtliche Wahlleute an den Sieger im Staat.",
+   "question": "Wie viele US-Bundesstaaten teilen ihre Wahlleute auf, statt alle dem Sieger zu geben?",
+   "answer": "2",
+   "distractors": [
+    "0",
+    "5",
+    "9"
+   ],
+   "aha": "Die beiden Ausnahmen sind Maine und Nebraska. Überall sonst gilt: Wer im Staat vorne liegt, kriegt alles, weil ein Staat dem künftigen Präsidenten so alle Stimmen auf einmal versprechen kann.",
+   "quote_clean": "Daher hat sich das so durchgesetzt, mit zwei Ausnahmen, die ihre Wahlmänner splitten: Die meisten Staaten versuchen, dem letztlichen Gewinner alle Stimmen mitzubringen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 494-498: Landesrecht, keine Verfassungsänderung nötig.",
+   "stand_note": "",
+   "statement": "Das Prinzip „Der Sieger bekommt alle Wahlleute“ könnten US-Bundesstaaten ohne Verfassungsänderung abschaffen.",
+   "question": "Was bräuchte es, damit ein US-Bundesstaat seine Wahlleute proportional verteilt?",
+   "answer": "Nur ein Landesgesetz des Staates",
+   "distractors": [
+    "Eine Änderung der US-Verfassung",
+    "Ein Urteil des Supreme Court",
+    "Die Zustimmung des Präsidenten"
+   ],
+   "aha": "Das „Winner takes all“ steht nirgends in der Verfassung, es ist einfach Landesrecht. Jeder Staat könnte es morgen ändern, nur hätte er dann bei der Bundesregierung weniger zu bieten.",
+   "quote_clean": "Aber das könnte morgen geändert werden, es bedarf auch keiner Verfassungsänderung, weil das ganz allein Landesrecht ist.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Inhalt belegt (560-597), aber 'hintertupfing' im Aha ist erfunden; entfernt.",
+   "stand_note": "",
+   "statement": "Im US-Mehrheitswahlrecht konzentriert sich der Wahlkampf auf wenige umkämpfte Staaten; sichere Staaten werden kaum umworben.",
+   "question": "Warum gibt es in US-Staaten wie Kalifornien kaum Präsidentschaftswahlkampf?",
+   "answer": "Das Ergebnis dort gilt als sicher",
+   "distractors": [
+    "Wahlwerbung ist dort verboten",
+    "Dort wird nicht direkt gewählt",
+    "Die Parteien teilen sich die Staaten auf"
+   ],
+   "aha": "Reinhard übersetzt das auf Österreich: Wenn Vorarlberg eh immer schwarz und Wien eh immer rot wählt, fährt dort niemand hin. Gekämpft wird dort, wo sich Wählerinnen und Wähler wirklich noch umstimmen lassen.",
+   "quote_clean": "Dann findet in Vorarlberg kein Wahlkampf statt, weil ohnehin klar ist, wo die hingehen. Es findet in Wien kein Wahlkampf statt.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Wer-sagt-das mit dem Gast als Antwort ist trivial; Aha enthält Aussage, die nicht im Transkript steht.",
+   "stand_note": "",
+   "statement": "Wahlsysteme müssen zwischen proportionaler Abbildung der Interessen und klaren Entscheidungen wählen; beides zugleich geht nicht.",
+   "question": "Wer sagt: Entweder proportionale Abbildung oder klare Entscheidungen, beides zusammen geht nicht?",
+   "answer": "Reinhard Heinisch",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Hörer in einer Zuschrift",
+    "Ein US-Verfassungsrichter"
+   ],
+   "aha": "Das ist der Kern des Vergleichs Österreich gegen USA.",
+   "quote_clean": "Ich habe entweder eine sehr proportionale Abbildung der Bevölkerungsinteressen, aber dann Schwierigkeiten bei der Durchsetzung von Entscheidungen, oder ich habe klare Entscheidungen, aber viele Stimmen, die nur indirekt berücksichtigt werden. Beides zusammen geht nicht.",
+   "quality": 1
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 758-775 stimmt; 'bleibst du bei null' überzogen, Aha entschärft.",
+   "stand_note": "",
+   "statement": "Neue Anliegen wie Klimaschutz führen in Verhältniswahlsystemen zu neuen Parteien, in den USA werden sie innerhalb der zwei großen Parteien ausgefochten.",
+   "question": "Wo setzen sich in den USA neue politische Anliegen wie Klimaschutz typischerweise durch?",
+   "answer": "Innerhalb der bestehenden Parteien",
+   "distractors": [
+    "In neuen Kleinparteien im Kongress",
+    "In landesweiten Volksabstimmungen",
+    "In eigenen Klimaministerien"
+   ],
+   "aha": "In Österreich gründest du eine Partei und kannst mit 15 Prozent im Parlament sitzen. In den USA musst du dich dagegen in einer der zwei großen Parteien durchsetzen.",
+   "quote_clean": "Wenn der Klimawandel den Menschen wichtig ist, dann gibt es plötzlich die Grünen, die haben dann 15 Prozent, und in den USA passiert das dann aber innerparteilich.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Beleg bei 796-815 stimmt; Antwort holprig formuliert, quote_clean geglättet.",
+   "stand_note": "",
+   "statement": "Weil dritte Parteien im Mehrheitswahlrecht chancenlos sind, organisieren sich Interessen in den USA als Lobbys statt als Parteien.",
+   "question": "Warum ist Lobbying in den USA so groß?",
+   "answer": "Interessen organisieren sich als Lobbys statt als Parteien",
+   "distractors": [
+    "Lobbying ist dort steuerlich absetzbar",
+    "Abgeordnete verdienen dort sehr wenig",
+    "Der Kongress tagt nur selten"
+   ],
+   "aha": "Was bei uns eine Partei wäre, ist dort eine Interessensgruppe, die die beiden großen Parteien bearbeitet. Das Lobbying ist also auch eine Folge des Wahlsystems.",
+   "quote_clean": "In einem Mehrheitswahlsystem ist es besser, wenn ich eine Lobby oder eine Interessensgruppe wäre und die bestehenden Parteien bearbeite. Dadurch haben wir auch dieses große Phänomen mit dem Lobbying in den USA.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg 990-1006 stimmt; Statement behauptete 'keine Mitgliederparteien', das sagt er so nicht; korrigiert.",
+   "stand_note": "",
+   "statement": "Laut Reinhard Heinisch sind US-Parteien nicht mit europäischen vergleichbar, sondern vor allem Vehikel, um Geld aufzustellen und den wählbarsten Kandidaten zum Sieg zu verhelfen.",
+   "question": "Wie beschreibt Reinhard Heinisch die US-Parteien im Vergleich zu Europa?",
+   "answer": "Als Vehikel zum Geldsammeln",
+   "distractors": [
+    "Als Kopien von ÖVP und SPÖ",
+    "Als streng geführte Mitgliederparteien",
+    "Als reine Lobbyverbände der Wirtschaft"
+   ],
+   "aha": "Republikaner gleich ÖVP, Demokraten gleich SPÖ? Vergiss es. Eine US-Partei ist laut Reinhard vor allem ein Apparat, der Geld sammelt und den Kandidaten ins Ziel bringen soll.",
+   "quote_clean": "Parteien in den USA sind Vehikel, um Geld aufzustellen, also Fundraising-Vehikel, die dazu da sind, den wählbarsten Kandidaten zum Wahlsieg zu verhelfen.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-das-Frage mit Gast als Antwort; Aha-Zusatz zu Gesetzen nicht für diese Quote relevant.",
+   "stand_note": "",
+   "statement": "In den USA führt Polarisierung zu Blockade und Blockade zu Frust über das politische System.",
+   "question": "Wer beschreibt die US-Politik so: „Die Polarisierung führt zur Paralyse, die Paralyse zum Frust“?",
+   "answer": "Reinhard Heinisch",
+   "distractors": [
+    "Andreas Sator",
+    "Barack Obama",
+    "Ein Hörer in einer Zuschrift"
+   ],
+   "aha": "Wenn ein System Einigung braucht, aber keiner mitspielt, wird nichts entschieden.",
+   "quote_clean": "Die Polarisierung führt zur Paralyse, die Paralyse führt zum Frust über das System, und da sind wir momentan.",
+   "quality": 1
+  },
+  {
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Umfragewerte sind vage zitiert (Parteien, Fragewortlaut, Zeitraum unklar), Statement verallgemeinert; Zahl nicht verlässlich genug.",
+   "stand_note": "",
+   "statement": "Fast die Hälfte der US-Amerikaner:innen hätte ein Problem, wenn ihr Kind jemanden von der anderen Partei heiratet; in den 1970ern waren es 12 Prozent.",
+   "question": "Wie viel Prozent der US-Amerikaner:innen stört es, wenn ihr Kind jemanden von der anderen Partei heiratet?",
+   "answer": "fast 50 Prozent",
+   "distractors": [
+    "etwa 12 Prozent",
+    "etwa 25 Prozent",
+    "etwa 75 Prozent"
+   ],
+   "aha": "",
+   "quote_clean": "Das war ein Problem für 12 Prozent der Leute in den 70ern, jetzt sind wir bei fast 50 Prozent.",
+   "quality": 1
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Beiläufige, ungenaue Schätzung des Gasts ('alle sieben Jahre'); als Faktenfrage nicht verlässlich.",
+   "stand_note": "",
+   "statement": "Laut Reinhard Heinisch ziehen Amerikaner:innen im Schnitt etwa alle sieben Jahre um.",
+   "question": "Alle wie viele Jahre zieht ein:e Amerikaner:in im Schnitt um?",
+   "answer": "Alle 7 Jahre",
+   "distractors": [
+    "Alle 2 Jahre",
+    "Alle 15 Jahre",
+    "Alle 25 Jahre"
+   ],
+   "aha": "",
+   "quote_clean": "Die Amerikaner ziehen ja alle sieben Jahre um, in andere Gegenden, und da gibt es keine Meldepflicht.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 154-158 klar; harmlose Meta-Frage.",
+   "stand_note": "",
+   "statement": "Die häufigste Hörer:innen-Frage zur Folge war, warum die USA so ein komisches Wahlsystem haben.",
+   "question": "Welche Frage haben Hörer:innen Andreas vor dieser Folge am häufigsten geschickt?",
+   "answer": "Warum die USA so komisch wählen",
+   "distractors": [
+    "Wer die Wahl gewinnen wird",
+    "Warum Wahlen am Dienstag sind",
+    "Wie Briefwahl in den USA geht"
+   ],
+   "aha": "Andreas sammelt vor jeder Folge Fragen von euch. Reinhards Antwort darauf: So komisch ist es gar nicht, viele englischsprachige Länder haben ein Mehrheitswahlrecht.",
+   "quote_clean": "Die mit Abstand häufigste Frage war relativ simpel: Warum haben die Amerikaner eigentlich so ein komisches Wahlsystem?",
+   "quality": 2
+  }
+ ],
+ "id": "138",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

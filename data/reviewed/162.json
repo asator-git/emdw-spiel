@@ -1,0 +1,275 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "80 bis 90 Prozent Männer wörtlich belegt, Unsicherheit (Pseudonyme) erwähnt; Slider passt.",
+   "stand_note": "Stand 2021",
+   "statement": "Zwischen 80 und 90 Prozent der Wikipedia-Autor:innen sind Männer.",
+   "question": "Wie viel Prozent der Leute, die bei Wikipedia mitschreiben, sind ungefähr Männer?",
+   "answer": "Rund 85 Prozent",
+   "distractors": [
+    "Rund 55 Prozent",
+    "Rund 65 Prozent",
+    "Rund 97 Prozent"
+   ],
+   "aha": "Ganz genau weiß es niemand, weil Wikipedianer:innen unter Pseudonym schreiben. Umfragen und Offline-Treffen zeigen aber klar: Es sind zu 80 bis 90 Prozent Männer, oft Studis und Pensionisten, also Leute mit viel Freizeit.",
+   "quote_clean": "Aus diversen statistischen Erhebungen und aus den Erfahrungen, die wir in Offline-Treffen machen, können wir relativ genau sagen, dass es zwischen 80 und 90 Prozent Männer sind, die in der Wikipedia mitarbeiten.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Die Jahreszahl 2007 stimmt nicht sicher: Das Sichtungssystem der deutschsprachigen Wikipedia ging nach meinem Wissen erst 2008 in Betrieb; Aussage des Gasts aus dem Gedächtnis, daher zu riskant.",
+   "stand_note": "",
+   "statement": "Bis 2007 gingen Änderungen in der deutschsprachigen Wikipedia sofort und ohne Kontrolle online, auch ohne Anmeldung.",
+   "question": "Bis zu welchem Jahr ging jede Änderung in der deutschsprachigen Wikipedia sofort und ungeprüft online?",
+   "answer": "2007",
+   "distractors": [
+    "2003",
+    "2011",
+    "2015"
+   ],
+   "aha": "Am Anfang war Wikipedia wirklich Wilder Westen: Klick auf Bearbeiten, fertig, live.",
+   "quote_clean": "Das wäre vor dem Jahr 2007 der Fall gewesen. Vor 2007 war es so, dass man auf Bearbeiten geklickt hat. Man musste sich nicht einmal anmelden und konnte sofort jeden Artikel bearbeiten.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "2,5 Millionen deutschsprachige Artikel belegt und für 2021 plausibel; Distraktoren sehr leicht, aber korrekt.",
+   "stand_note": "Stand 2021",
+   "statement": "Die deutschsprachige Wikipedia hatte 2021 mehr als 2,5 Millionen Artikel.",
+   "question": "Wie viele Artikel hatte die deutschsprachige Wikipedia im Jahr 2021 ungefähr?",
+   "answer": "Rund 2,5 Millionen",
+   "distractors": [
+    "Rund 400.000",
+    "Rund 900.000",
+    "Rund 12 Millionen"
+   ],
+   "aha": "Es wird weiterhin deutlich mehr geschrieben als gelöscht, darum wächst die Zahl stetig Richtung 3 Millionen. Das Problem: Die Zahl der aktiven Autor:innen schrumpft, und irgendwer muss die ganzen Artikel ja auch aktuell halten.",
+   "quote_clean": "Wir haben jetzt 2,5 Millionen deutschsprachige Artikel hinter uns gelassen und gehen mit großen Schritten auf die 3 Millionen deutschsprachigen Artikel zu.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Um die 150 aktive Autor:innen (mind. 10 Bearbeitungen pro Monat) belegt; Definition von „aktiv“ steckt in der Aussage.",
+   "stand_note": "Stand 2021",
+   "statement": "In Österreich gab es 2021 rund 150 aktive Wikipedia-Autor:innen, also solche mit mindestens zehn Bearbeitungen pro Monat.",
+   "question": "Wie viele aktive Wikipedia-Autor:innen gibt es 2021 ungefähr in Österreich (mindestens zehn Bearbeitungen pro Monat)?",
+   "answer": "Um die 150",
+   "distractors": [
+    "Um die 1.500",
+    "Um die 6.000",
+    "Um die 40"
+   ],
+   "aha": "Ein ganzes Land liest täglich mit, aber nur rund 150 Leute schreiben regelmäßig. Andreas reagiert im Gespräch mit einem trockenen „Wow“.",
+   "quote_clean": "In Österreich gibt es um die 150 aktive Autorinnen und Autoren. Wir nennen jemanden aktiv, wenn er oder sie mindestens zehn Bearbeitungen pro Monat vornimmt.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Belegt; Rangfolge der Sprachversionen ist Stand 2021, im Aha daher zeitlich eingeordnet.",
+   "stand_note": "Stand 2021",
+   "statement": "Die cebuanosprachige und die schwedischsprachige Wikipedia sind vor allem durch automatisch von Bots erzeugte Artikel so groß geworden.",
+   "question": "Warum haben die Wikipedia auf Cebuano und die auf Schwedisch mehr Artikel als die deutschsprachige?",
+   "answer": "Bots haben massenhaft Artikel erzeugt",
+   "distractors": [
+    "Sie zählen Weiterleitungen als Artikel mit",
+    "Dort schreiben viel mehr Freiwillige mit",
+    "Sie übersetzen automatisch die englische Version"
+   ],
+   "aha": "Nach reiner Artikelzahl lag die deutschsprachige Wikipedia 2021 nur auf Platz vier. Ein talentierter Programmierer hat per Bot Millionen kurzer Artikelschnipsel in die Cebuano-Version gespült. Gefühlt ist Deutsch für Thomas aber die Nummer zwei nach Englisch.",
+   "quote_clean": "Wir sind eigentlich die zweitgrößte Wikipedia, aber die Cebuano-sprachige und die schwedischsprachige Wikipedia haben sich mit Bot-generierten Artikeln dazwischen geschummelt.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Kernaussage belegt; Frage umständlich formuliert, im Aha stand Unbelegtes (Meinungsbild).",
+   "stand_note": "",
+   "statement": "Wikipedia ist nach Sprachen gegliedert, nicht nach Ländern; im deutschsprachigen Raum ist mit „der Wikipedia“ meist die deutschsprachige gemeint.",
+   "question": "Nach welchem Prinzip ist Wikipedia gegliedert?",
+   "answer": "Nach Sprachen",
+   "distractors": [
+    "Nach Ländern",
+    "Nach Kontinenten",
+    "Nach Fachgebieten"
+   ],
+   "aha": "Eine eigene österreichische Wikipedia gibt es also nicht: Wir teilen uns die deutschsprachige mit allen anderen, die Deutsch schreiben.",
+   "quote_clean": "Wikipedia ist nicht nach Ländern gegliedert, sondern nach Sprachen.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Sichter-System im Transkript belegt und gut erklärt.",
+   "stand_note": "Stand 2021",
+   "statement": "Änderungen von nicht angemeldeten oder neuen Nutzer:innen müssen in der deutschsprachigen Wikipedia erst von einem Sichter freigegeben werden.",
+   "question": "Wie heißen die erfahrenen Wikipedianer:innen, die Änderungen von Neulingen freigeben?",
+   "answer": "Sichter:innen",
+   "distractors": [
+    "Kurator:innen",
+    "Moderator:innen",
+    "Lektor:innen"
+   ],
+   "aha": "Wenn du ohne Konto oder ganz frisch angemeldet etwas ausbesserst, ist das nicht sofort für alle sichtbar. Erst schaut jemand mit Erfahrung drüber und setzt das Hackerl. Dann geht die Korrektur live.",
+   "quote_clean": "Ein sogenannter Sichter oder eine Sichterin muss das Hackerl geben, dass die Bearbeitung okay ist. Dann wird die Bearbeitung freigeschaltet, sodass sie alle sehen können.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt: Häufig abgerufene Artikel haben nach Planinger eine geringere Fehlerwahrscheinlichkeit.",
+   "stand_note": "",
+   "statement": "Je öfter ein Wikipedia-Artikel gelesen wird, desto unwahrscheinlicher bleiben Fehler darin stehen.",
+   "question": "Welcher Wikipedia-Artikel hat eher weniger Fehler?",
+   "answer": "Einer, der sehr oft gelesen wird",
+   "distractors": [
+    "Einer, der selten bearbeitet wird",
+    "Einer mit wenigen Fußnoten",
+    "Einer, der sehr kurz ist"
+   ],
+   "aha": "Das Crowd-Prinzip: Bei Donald Trump oder Österreich schauen täglich so viele Leute drauf, dass ein Fehler schnell auffällt. Beim Artikel über Hintertupfing kann so etwas schon länger durchrutschen.",
+   "quote_clean": "Wenn man beispielsweise den Artikel über Donald Trump oder über Österreich abruft, ist die Wahrscheinlichkeit sehr gering, dass ein Fehler durchrutscht, weil diese Artikel sehr häufig abgerufen werden.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt mit offensichtlicher Antwort und beliebigen Distraktoren; Kern steht schon im Ausschnitt anderer Kandidaten.",
+   "stand_note": "",
+   "statement": "Wikipedia ist nicht deshalb gut, weil jeder schreiben kann, was er will, sondern weil jeder korrigieren kann, was er vorfindet.",
+   "question": "Wer hat's gesagt: „Wikipedia ist die beste Sache, nicht weil jeder schreiben kann, was er will, sondern weil jeder korrigieren kann, was er vorfindet.“",
+   "answer": "Thomas Planinger, Wikipedia-Administrator",
+   "distractors": [
+    "Ein Wikimedia-Sprecher in den USA",
+    "Eine Bibliothekarin über Lexika",
+    "Ein Informatiker über Open Source"
+   ],
+   "aha": "Andreas hat ihm ein Zitat aus „The Office“ vorgelegt, wo Michael Scott Wikipedia lobt, weil jeder schreiben kann, was er will. Thomas dreht das um: Die Stärke ist das gemeinsame Ausbessern.",
+   "quote_clean": "Ich würde sagen, Wikipedia ist darum die beste Sache, nicht weil jeder schreiben kann, was er will, sondern weil jeder korrigieren kann, was er vorfindet.",
+   "quality": 1
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Die eigentliche Begründung ist das Verbot von Original Research: Wikipedia gibt nur wieder, was andere publiziert haben; Antwort entsprechend präzisiert.",
+   "stand_note": "",
+   "statement": "Wikipedia gibt nur wieder, was andere bereits veröffentlicht haben, und greift daher auch auf Medienberichte zurück, obwohl diese falsch sein können.",
+   "question": "Warum stützt sich Wikipedia oft auf Zeitungsberichte, obwohl die auch falsch sein können?",
+   "answer": "Es zählt nur, was andere publiziert haben",
+   "distractors": [
+    "Zeitungen werden vorab von Wikimedia geprüft",
+    "Wissenschaftliche Quellen sind ausdrücklich verboten",
+    "Medienhäuser zahlen für die Verlinkung"
+   ],
+   "aha": "Eigene Forschung ist in Wikipedia tabu, man nennt das Original Research. Ideal wären wissenschaftliche Quellen, aber über den Bürgermeister von Hintertupfing forscht halt niemand. Also greift man auf Medienberichte zurück, und das Risiko, dass die danebenliegen, ist bewusst eingepreist.",
+   "quote_clean": "Dass auch Medienberichte falsch sein können, ist in dieser Überlegung bereits eingepreist. Wir nehmen das in Kauf, aber wir dürfen nicht selbst sagen: Ich weiß, dass dieser Medienbericht falsch ist, und verwende deswegen diese Quelle nicht.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Wörtlich belegt, charmant.",
+   "stand_note": "",
+   "statement": "Wikipedia-Administrator:innen bezeichnen sich selbst als die Hausmeister:innen der Wikipedia.",
+   "question": "Als was bezeichnen sich Wikipedia-Administrator:innen gern selbst?",
+   "answer": "Als Hausmeister:innen der Wikipedia",
+   "distractors": [
+    "Als Polizei der Wikipedia",
+    "Als Chefredaktion der Wikipedia",
+    "Als Richter:innen der Wikipedia"
+   ],
+   "aha": "Klingt bescheiden, trifft es aber: Admins werden gewählt und dürfen ein bisschen mehr, etwa nach einer Löschdiskussion den Löschknopf drücken oder Leute sperren, die gegen die Regeln verstoßen.",
+   "quote_clean": "Wir Administratorinnen und Administratoren bezeichnen uns oft als die Hausmeisterinnen und Hausmeister der Wikipedia.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beispiel Kampfpanzer vs. böhmische Strickwaren wörtlich belegt, von Planinger selbst als Stereotyp eingeordnet.",
+   "stand_note": "Stand 2021",
+   "statement": "Weil vor allem Männer schreiben, sind klassisch männlich konnotierte Themen auf Wikipedia viel ausführlicher behandelt als weiblich konnotierte.",
+   "question": "Welches Beispiel nennt ein Wikipedia-Admin für den Geschlechter-Bias in den Artikeln?",
+   "answer": "Jeder Weltkriegspanzer, aber keine böhmischen Strickwaren",
+   "distractors": [
+    "Jeder Fußballer, aber keine Fußballerinnen",
+    "Jedes Auto, aber keine Kochrezepte",
+    "Jeder Papst, aber keine Äbtissinnen"
+   ],
+   "aha": "Wer schreibt, bestimmt, worüber geschrieben wird. Darum gibt es Artikel zu jedem Kampfpanzer und Schlachtkreuzer, aber weniger Tiefe bei klassisch weiblich konnotierten Themen. Für ein Projekt, das das Wissen der Menschheit sammeln will, ein echtes Problem.",
+   "quote_clean": "Wir haben beispielsweise zu jedem Kampfpanzer, der jemals im Zweiten Weltkrieg zum Einsatz kam, einen Artikel, aber nicht zu böhmischen Strickwaren.",
+   "quality": 4
+  },
+  {
+   "i": 24,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Einstiegsgeschichte (Fehler im Artikel zu „Ein Käfig voller Helden“) belegt, sympathisch.",
+   "stand_note": "",
+   "statement": "Thomas Planinger kam mit 14 zur Wikipedia, weil er im Artikel über seine Lieblingsserie „Ein Käfig voller Helden“ einen Fehler fand und ausbesserte.",
+   "question": "Wie ist Thomas Planinger mit 14 Jahren zur Wikipedia gekommen?",
+   "answer": "Fehler im Artikel zu seiner Lieblingsserie",
+   "distractors": [
+    "Referat über die Römer in der Schule",
+    "Artikel über sein Heimatdorf",
+    "Fehler im Artikel zu seinem Fußballklub"
+   ],
+   "aha": "Die Serie lief damals auf Kabel 1, Thomas stolperte im Artikel über einen Fehler, besserte ihn aus und blieb hängen, weil es Spaß gemacht hat. Heute ist er Administrator und im Vorstand von Wikimedia Österreich.",
+   "quote_clean": "Was macht man so als 14-Jähriger? Man schaut viel fern, in meinem Fall. Ich hatte damals eine Lieblingsfernsehserie, die hieß „Ein Käfig voller Helden“.",
+   "quality": 4
+  },
+  {
+   "i": 25,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zur Moderation; Antwort kann niemand erschließen, Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Andreas startet das Wikipedia-Gespräch mit einem Zitat aus seiner Lieblingsserie „The Office“.",
+   "question": "Mit einem Zitat aus welcher Serie steigt Andreas ins Gespräch über Wikipedia ein?",
+   "answer": "The Office",
+   "distractors": [
+    "Parks and Recreation",
+    "The Big Bang Theory",
+    "Brooklyn Nine-Nine"
+   ],
+   "aha": "Michael Scott findet Wikipedia super, weil jeder schreiben kann, was er will. Thomas unterschreibt das nur halb: Gut ist sie, weil jeder korrigieren kann.",
+   "quote_clean": "Ich würde gerne mit einem Zitat aus meiner Lieblingsserie „The Office“ anfangen. Da sagt der Hauptdarsteller, übersetzt: Wikipedia ist die beste Sache überhaupt, denn da kann jeder schreiben, was er will.",
+   "quality": 1
+  }
+ ],
+ "id": "162",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

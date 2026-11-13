@@ -1,0 +1,244 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 648-656 stimmt („grundsätzlich“ drei); Aha enthielt eine nicht belegte Folgerung, entfernt.",
+   "stand_note": "",
+   "statement": "Ein Schiedsgericht besteht in der Regel aus drei Schiedsrichter:innen: Jede Partei bestellt eine Person, die beiden wählen gemeinsam den Vorsitz.",
+   "question": "Aus wie vielen Schiedsrichter:innen besteht ein Schiedsgericht typischerweise?",
+   "answer": "3",
+   "distractors": [
+    "1",
+    "5",
+    "7"
+   ],
+   "aha": "Drei ist die klassische Besetzung: Jede Streitpartei bestellt eine Person ihrer Wahl, und die beiden suchen sich gemeinsam den Präsidenten oder die Präsidentin aus. So haben die Parteien Einfluss darauf, wer im Gremium sitzt.",
+   "quote_clean": "Grundsätzlich gibt es ein Tribunal von drei Richtern. Jede Partei bestellt einen Richter und dann die beiden gemeinsam den Präsidenten.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 499-538 stimmt; Antwort eindeutig, Distraktoren sind andere bekannte Abkommen.",
+   "stand_note": "",
+   "statement": "Mit der New Yorker Konvention haben sich die meisten Staaten verpflichtet, ausländische Schiedsurteile anzuerkennen und zu vollstrecken.",
+   "question": "Welches Abkommen sorgt dafür, dass Schiedsurteile in fast allen Ländern vollstreckt werden?",
+   "answer": "Die New Yorker Konvention",
+   "distractors": [
+    "Die Genfer Konvention",
+    "Die Wiener Konvention",
+    "Das Haager Abkommen"
+   ],
+   "aha": "Wer ein Schiedsurteil in der Hand hat, kann es in fast allen Ländern der Welt durchsetzen. Bei einem staatlichen Urteil muss man erst prüfen, welche Staatsverträge gelten und ob das andere Land es akzeptieren muss.",
+   "quote_clean": "Für Schiedsurteile haben die meisten Staaten die sogenannte New Yorker Konvention unterzeichnet. Das bedeutet, dass die Staaten sich verpflichtet haben, Schiedsurteile, die in anderen Staaten ergangen sind, zu akzeptieren und zu vollstrecken.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 190-206 und 838 stimmt; Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Schiedsgerichtsbarkeit teilt sich in die kommerzielle (Unternehmen gegen Unternehmen) und die Investitionsschiedsgerichtsbarkeit (Investoren gegen Staaten).",
+   "question": "In welche zwei großen Bereiche teilt sich die Schiedsgerichtsbarkeit?",
+   "answer": "Kommerzielle und Investitionsschiedsgerichtsbarkeit",
+   "distractors": [
+    "Zivile und strafrechtliche Schiedsgerichtsbarkeit",
+    "Nationale und europäische Schiedsgerichtsbarkeit",
+    "Private und kirchliche Schiedsgerichtsbarkeit"
+   ],
+   "aha": "Bei der kommerziellen streiten Firmen über einen Vertrag, ganz wie vor einem Handelsgericht, nur eben vor selbst gewählten Richter:innen. Bei der Investitionsschiedsgerichtsbarkeit geht es um Unternehmen, die in einem anderen Staat eine Investition verloren haben.",
+   "quote_clean": "Grundsätzlich gibt es diese Zweiteilung in die kommerzielle Schiedsgerichtsbarkeit und die Investitionsschiedsgerichtsbarkeit.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Doppelt zu Kandidat 1; zudem sagt sie bei 483-497, in der Theorie seien beide Urteilsarten durchsetzbar, nur der Prozess sei anders, was „Beides gleich leicht“ unscharf macht.",
+   "stand_note": "",
+   "statement": "Entscheidungen von Schiedsgerichten lassen sich international deutlich leichter durchsetzen als Urteile staatlicher Gerichte.",
+   "question": "Was ist international leichter durchzusetzen?",
+   "answer": "Ein Schiedsspruch",
+   "distractors": [
+    "Ein Urteil eines Handelsgerichts",
+    "Ein Urteil eines Höchstgerichts",
+    "Beides gleich leicht"
+   ],
+   "aha": "Für Schiedssprüche gibt es ein fast weltweites Abkommen zur Vollstreckung.",
+   "quote_clean": "Das hat mehrere Vorteile, weil einerseits die Entscheidungen von einem Schiedsgericht viel leichter durchzusetzen sind als die von einem staatlichen Gericht.",
+   "quality": 2
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 272-289 stimmt; Antwort eindeutig.",
+   "stand_note": "",
+   "statement": "Bei Schiedsverfahren können die Parteien Schiedsrichter:innen mit Fachwissen aus ihrer Branche auswählen.",
+   "question": "Welchen Vorteil haben Firmen bei einem Schiedsgericht gegenüber einem staatlichen Gericht?",
+   "answer": "Sie können die Richter:innen aussuchen",
+   "distractors": [
+    "Sie zahlen keine Verfahrenskosten",
+    "Sie müssen keine Beweise vorlegen",
+    "Das Urteil ist immer ein Vergleich"
+   ],
+   "aha": "Im Schiedsverfahren kannst du dir für einen Pharma-Streit Leute holen, die wissen, wie das Pharma-Business abläuft. Das spart viel Erklärarbeit.",
+   "quote_clean": "Du kannst sagen, wenn du zum Beispiel einen Pharma-Streit hast, dass du gerne Schiedsrichter hättest, die einen pharmazeutischen Hintergrund haben oder die verstehen, wie das Pharma-Business abläuft.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 579-597 stimmt; Distraktor „gesetzlich geheim“ ist angreifbar (Vertraulichkeit kann vereinbart sein) und wurde ersetzt.",
+   "stand_note": "",
+   "statement": "Die Geheimhaltung rund um Schiedsverfahren entspricht laut Victoria Pernt der ganz normalen anwaltlichen Verschwiegenheit, die auch vor staatlichen Gerichten gilt.",
+   "question": "Womit begründet Victoria Pernt, dass sie über ihre Fälle nichts verraten darf?",
+   "answer": "Mit der normalen anwaltlichen Verschwiegenheit",
+   "distractors": [
+    "Mit einem Redeverbot des Schiedsgerichts",
+    "Mit einem Staatsgeheimnis",
+    "Mit der New Yorker Konvention"
+   ],
+   "aha": "Das Image vom Hinterzimmer hält sich hartnäckig. Victoria sieht es nüchtern: Was ihr Mandant nicht freigibt, darf sie nicht verraten, egal ob vor einem Schiedsgericht oder vor einem staatlichen Gericht.",
+   "quote_clean": "Die Leute glauben eh, Schiedsgerichtsbarkeit ist etwas, das hinter geschlossenen Türen passiert. Das stimmt überhaupt nicht. Das ist die ganz normale anwaltliche Verschwiegenheit.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Der Ausschnitt bricht bei 922 ab; dass die Spedition ein Lager baute und Serbien nicht mieten wollte, ist nicht belegt.",
+   "stand_note": "",
+   "statement": "Eine österreichische Kunstspedition baute für Serbien ein Spezial-Lager für die Schätze des Nationalmuseums.",
+   "question": "Wofür baute eine österreichische Kunstspedition in Serbien ein Spezial-Lagerhaus?",
+   "answer": "Für die Kunstwerke des Nationalmuseums",
+   "distractors": [
+    "Für die Goldreserven der Nationalbank",
+    "Für das serbische Staatsarchiv",
+    "Für die Kronjuwelen der Königsfamilie"
+   ],
+   "aha": "Wertvolle Kunst braucht passende Luftfeuchtigkeit.",
+   "quote_clean": "Serbien hat ein Nationalmuseum, in dem die größten Schätze Serbiens eingelagert sind. Und dieses Nationalmuseum war renovierungsbedürftig.",
+   "quality": 1
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Sprecher-Zuordnung eines Satzes, ohne Wissensgewinn und leicht erratbar; kein Spielwert.",
+   "stand_note": "",
+   "statement": "Victoria Pernt begründet die fehlende klassische Berufung damit, dass man Rechtsfrieden will.",
+   "question": "Wer sagt: „Man will ja nicht noch sieben Jahre warten, bis das wieder in alle Instanzen durchgeht“?",
+   "answer": "Victoria Pernt",
+   "distractors": [
+    "Florian Klenk",
+    "Andreas Sator",
+    "Eine Richterin am OGH"
+   ],
+   "aha": "Schnell, kompetent, endgültig.",
+   "quote_clean": "Sonst ist die Idee, man will auch einen Rechtsfrieden haben. Man will nicht noch sieben Jahre warten, bis das wieder durch alle Instanzen geht.",
+   "quality": 1
+  },
+  {
+   "i": 16,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Sprecher-Zuordnung, kein Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Victoria Pernt findet an ihrem Beruf reizvoll, dass jeder Streit sie in eine neue Industrie hineinzieht.",
+   "question": "Wer sagt: „Das richtig Lustige an unserem Beruf ist, dass uns jeder Streit in eine neue Industrie hineinzieht“?",
+   "answer": "Victoria Pernt",
+   "distractors": [
+    "Andreas Sator",
+    "Florian Klenk",
+    "Ein Pharmamanager"
+   ],
+   "aha": "Für den Pharmafall musste ihr Team erst lernen, wie Medikamente entwickelt und zugelassen werden.",
+   "quote_clean": "Das ist, glaube ich, das Besondere und das richtig Lustige an unserem Beruf, dass uns jeder Streit in eine neue Industrie hineinzieht.",
+   "quality": 1
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "fairness"
+   ],
+   "note": "Beleg bei 1666-1742 stimmt, ist aber ausdrücklich eine Vermutung („ich würde tendieren zu glauben“, „schwer zu sagen“); als ihre Einschätzung gerahmt, heikle Distraktoren (Konzerne bezahlen Schiedsrichter) ersetzt.",
+   "stand_note": "",
+   "statement": "Victoria Pernt vermutet, dass Investoren in Streitigkeiten mit Staaten eher vorne liegen, weil sie nur mit sehr starken Fällen überhaupt klagen.",
+   "question": "Womit begründet Victoria Pernt ihre Vermutung, dass Investoren gegen Staaten eher vorne liegen?",
+   "answer": "Investoren klagen erst, wenn sie sich gute Chancen ausrechnen",
+   "distractors": [
+    "Staaten treten meist gar nicht zum Verfahren an",
+    "Investoren bestimmen die Schiedsrichter allein",
+    "Staaten haben kaum Geld für Anwält:innen"
+   ],
+   "aha": "Eine Klage gegen einen Staat ist aufwendig und teuer, egal wie groß der Streitwert ist. Wer diesen Schritt geht, ist von seinem Fall laut Pernt meist besonders überzeugt. Sicher weiß sie es aber nicht, genaue Zahlen nennt sie nicht.",
+   "quote_clean": "Das heißt, ich würde dazu tendieren zu glauben, dass die Investoren in den Streitigkeiten mit den Staaten vorne liegen.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Verhaspler als Spielfrage ohne Wissensgehalt; Antwort nur durch Raten, leicht bloßstellend.",
+   "stand_note": "",
+   "statement": "Victoria Pernt fällt mitten im Satz das deutsche Wort für „raisen“ nicht ein.",
+   "question": "Welches englische Wort rutscht Victoria Pernt raus, für das ihr kein deutsches einfällt?",
+   "answer": "Raisen",
+   "distractors": [
+    "Claimen",
+    "Objecten",
+    "Challengen"
+   ],
+   "aha": "Berufskrankheit in einer Branche, die viel auf Englisch arbeitet.",
+   "quote_clean": "Dann kann man das, und muss man, gleich am Anfang mit der anderen Partei irgendwie raisen und denen sagen, wie sagt man raisen?",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zur Formulierung des Moderators, kein Wissen.",
+   "stand_note": "",
+   "statement": "Andreas fasst am Ende der Folge mit der Frage „Was nehme ich mir mit?“ zusammen.",
+   "question": "Mit welcher Frage leitet Andreas seine Zusammenfassung am Ende der Folge ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir gelernt?",
+    "Was bleibt übrig?",
+    "Was ist die Moral?"
+   ],
+   "aha": "Andreas zieht allein Bilanz.",
+   "quote_clean": "Was nehme ich mir mit? Schiedsgerichte werden vor allem im Streit von internationalen Unternehmen miteinander eingesetzt.",
+   "quality": 1
+  }
+ ],
+ "id": "177",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

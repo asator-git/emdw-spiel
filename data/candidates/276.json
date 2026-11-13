@@ -1,0 +1,684 @@
+{
+ "theme": "Österreich & Politik",
+ "summary": "Wie direkte Demokratie in der Schweiz funktioniert, woher sie kommt und warum man sie nicht einfach auf Österreich draufpicken kann.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 412,
+   "speaker": "Matthias Daum",
+   "quote": "Da kann ich 100.000 Unterschriften sammeln. Waren übrigens vor Einführung des Frauenstimmrechts 1971 waren es 50.000.",
+   "quote_clean": "Da kann ich 100.000 Unterschriften sammeln. Vor Einführung des Frauenstimmrechts 1971 waren es übrigens 50.000.",
+   "statement": "Für eine nationale Volksinitiative in der Schweiz braucht es 100.000 Unterschriften.",
+   "question": "Wie viele Unterschriften braucht man in der Schweiz für eine nationale Volksinitiative?",
+   "answer": "100.000",
+   "distractors": [
+    "10.000",
+    "50.000",
+    "500.000"
+   ],
+   "number_value": 100000,
+   "number_unit": "Unterschriften",
+   "slider_min": 5000,
+   "slider_max": 1000000,
+   "log_scale": true,
+   "aha": "Mit 100.000 Unterschriften kannst du in der Schweiz eine Verfassungsänderung zur Abstimmung bringen. Vor 1971 reichten 50.000 – dann durften plötzlich auch die Frauen mitbestimmen, und man hat die Hürde einfach verdoppelt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schweiz",
+    "Volksinitiative"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 380,
+   "speaker": "Matthias Daum",
+   "quote": "Also das heisst zum Beispiel, dass man dagegen ein Referendum ergreifen kann, 50.000 Unterschriften.",
+   "quote_clean": "Das heißt zum Beispiel, dass man dagegen ein Referendum ergreifen kann, mit 50.000 Unterschriften.",
+   "statement": "Gegen ein Gesetz des Schweizer Parlaments kann man mit 50.000 Unterschriften ein Referendum erzwingen.",
+   "question": "Wie viele Unterschriften braucht man in der Schweiz, um gegen ein neues Gesetz ein Referendum zu ergreifen?",
+   "answer": "50.000",
+   "distractors": [
+    "5.000",
+    "200.000",
+    "1 Million"
+   ],
+   "number_value": 50000,
+   "number_unit": "Unterschriften",
+   "slider_min": 1000,
+   "slider_max": 500000,
+   "log_scale": true,
+   "aha": "Das Referendum ist die Notbremse: Das Parlament beschließt etwas, und wer 50.000 Unterschriften zusammenkriegt, lässt das ganze Volk drüber abstimmen. Für eine eigene Idee in der Verfassung, also eine Volksinitiative, braucht es doppelt so viele.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schweiz",
+    "Referendum"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 455,
+   "speaker": "Matthias Daum",
+   "quote": "Also Stand jetzt Mitte August 23 wurden in der Schweiz seit 1891, damals wurde dieses Initiativrecht auf nationaler Ebene eingeführt, wurden über 228 Volksinitiativen abgestimmt.",
+   "quote_clean": "Stand Mitte August 2023 wurde in der Schweiz seit 1891, damals wurde dieses Initiativrecht auf nationaler Ebene eingeführt, über 228 Volksinitiativen abgestimmt.",
+   "statement": "Seit Einführung des Initiativrechts 1891 wurde in der Schweiz bis 2023 über 228 nationale Volksinitiativen abgestimmt.",
+   "question": "Über wie viele nationale Volksinitiativen hat die Schweiz von 1891 bis 2023 abgestimmt?",
+   "answer": "228",
+   "distractors": [
+    "58",
+    "640",
+    "1.450"
+   ],
+   "number_value": 228,
+   "number_unit": "Volksinitiativen",
+   "slider_min": 10,
+   "slider_max": 2000,
+   "log_scale": true,
+   "aha": "Rund 228 Mal in gut 130 Jahren hat das Schweizer Stimmvolk über eine Idee aus der Bevölkerung abgestimmt, im Schnitt fast zwei pro Jahr. Und da sind die Referenden und Regierungsvorlagen noch gar nicht mitgezählt.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Schweiz",
+    "Volksinitiative"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 485,
+   "speaker": "Matthias Daum",
+   "quote": "Genau, es sind 25. Also es sind sehr wenige, die angenommen wurden. Hängt auch damit zusammen, dass nicht nur das Volk, also eine Mehrheit im Volk dafür sein muss, sondern auch eine Mehrheit der sogenannten Stände, also der Kantone.",
+   "quote_clean": "Genau, es sind 25. Es sind sehr wenige, die angenommen wurden. Das hängt auch damit zusammen, dass nicht nur eine Mehrheit im Volk dafür sein muss, sondern auch eine Mehrheit der sogenannten Stände, also der Kantone.",
+   "statement": "Von rund 228 nationalen Volksinitiativen in der Schweiz seit 1891 wurden nur 25 angenommen.",
+   "question": "Wie viele der rund 228 Schweizer Volksinitiativen seit 1891 wurden angenommen?",
+   "answer": "25",
+   "distractors": [
+    "8",
+    "70",
+    "120"
+   ],
+   "number_value": 25,
+   "number_unit": "angenommene Initiativen",
+   "slider_min": 0,
+   "slider_max": 228,
+   "log_scale": false,
+   "aha": "Nur etwa jede neunte Volksinitiative kommt durch. Der Grund: Es braucht ein doppeltes Ja, also die Mehrheit der Stimmen und die Mehrheit der Kantone. Mächtig ist das Instrument trotzdem, weil schon die Drohung damit Politik macht.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Schweiz",
+    "Volksinitiative"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 668,
+   "speaker": "Matthias Daum",
+   "quote": "Bei uns, wie gesagt, bis 1971 waren es dann nur die Männer.",
+   "quote_clean": "Bei uns waren es, wie gesagt, bis 1971 nur die Männer.",
+   "statement": "In der Schweiz durften Frauen auf nationaler Ebene erst ab 1971 wählen und abstimmen.",
+   "question": "Ab welchem Jahr durften Frauen in der Schweiz national wählen und abstimmen?",
+   "answer": "1971",
+   "distractors": [
+    "1919",
+    "1945",
+    "1959"
+   ],
+   "number_value": 1971,
+   "number_unit": "Jahr",
+   "slider_min": 1900,
+   "slider_max": 2000,
+   "log_scale": false,
+   "aha": "Österreich hatte das Frauenwahlrecht schon 1918, die Schweiz erst über 50 Jahre später. Der Haken der direkten Demokratie: Über das Frauenstimmrecht durften nur die Männer abstimmen, die ihre Macht dafür teilen mussten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Frauenwahlrecht",
+    "Schweiz",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 591,
+   "speaker": "Matthias Daum",
+   "quote": "Die Schweiz wurde ja plus minus jetzt genau, 12. September 1848, also vor 175 Jahren, wurde die moderne Schweiz oder der moderne Bundesstaat gegründet.",
+   "quote_clean": "Am 12. September 1848, also vor 175 Jahren, wurde die moderne Schweiz, der moderne Bundesstaat, gegründet.",
+   "statement": "Der moderne Schweizer Bundesstaat wurde am 12. September 1848 gegründet.",
+   "question": "In welchem Jahr wurde der moderne Schweizer Bundesstaat gegründet?",
+   "answer": "1848",
+   "distractors": [
+    "1291",
+    "1815",
+    "1919"
+   ],
+   "number_value": 1848,
+   "number_unit": "Jahr",
+   "slider_min": 1700,
+   "slider_max": 1950,
+   "log_scale": false,
+   "aha": "1848 ist das Revolutionsjahr in Europa, und die Schweiz war vermutlich das einzige Land, wo die demokratische Revolution gehalten hat. Vorher gab es noch einen kurzen Bürgerkrieg zwischen katholischen und protestantischen Kantonen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schweiz",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 653,
+   "speaker": "Matthias Daum",
+   "quote": "Oder dann auch auf lokaler Ebene oder auch auf kantonaler Ebene gab es dieses Recht schon, dieses Initiativrecht. Und dann 1891 wurde es auf nationaler Ebene eingeführt.",
+   "quote_clean": "Auf lokaler und auf kantonaler Ebene gab es dieses Initiativrecht schon. Und dann wurde es 1891 auf nationaler Ebene eingeführt.",
+   "statement": "Das nationale Initiativrecht wurde in der Schweiz 1891 eingeführt, nachdem es in Gemeinden und Kantonen schon existierte.",
+   "question": "In welchem Jahr führte die Schweiz die Volksinitiative auf nationaler Ebene ein?",
+   "answer": "1891",
+   "distractors": [
+    "1848",
+    "1919",
+    "1971"
+   ],
+   "number_value": 1891,
+   "number_unit": "Jahr",
+   "slider_min": 1800,
+   "slider_max": 2000,
+   "log_scale": false,
+   "aha": "Als in Österreich noch der Kaiser regierte und nur wenige Reiche mitreden durften, konnten die Schweizer Männer schon ihre Verfassung per Unterschriftensammlung ändern. In Gemeinden und Kantonen gab es das Recht sogar noch früher.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Schweiz",
+    "Geschichte",
+    "Volksinitiative"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2196,
+   "speaker": "Andreas Sator",
+   "quote": "In Österreich gab es bisher erst zwei verbindliche Volksabstunden, Stimmungen. Einmal zum EU-Beitritt, wo eine Mehrheit dafür war und einmal zur Nutzung von Atomkraft, wo eine knappe Mehrheit dagegen war.",
+   "quote_clean": "In Österreich gab es bisher erst zwei verbindliche Volksabstimmungen. Einmal zum EU-Beitritt, wo eine Mehrheit dafür war, und einmal zur Nutzung von Atomkraft, wo eine knappe Mehrheit dagegen war.",
+   "statement": "In Österreich gab es bisher erst zwei verbindliche bundesweite Volksabstimmungen: zur Atomkraft (Zwentendorf) und zum EU-Beitritt.",
+   "question": "Wie viele verbindliche bundesweite Volksabstimmungen hat es in Österreich bisher gegeben?",
+   "answer": "2",
+   "distractors": [
+    "0",
+    "7",
+    "15"
+   ],
+   "number_value": 2,
+   "number_unit": "Volksabstimmungen",
+   "slider_min": 0,
+   "slider_max": 20,
+   "log_scale": false,
+   "aha": "Zwei Stück, eine knappe gegen das AKW Zwentendorf in den 70ern und eine deutliche für den EU-Beitritt. Die Schweiz schafft so viele an einem einzigen Abstimmungssonntag.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Österreich",
+    "Volksabstimmung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1825,
+   "speaker": "Matthias Daum",
+   "quote": "ist, es gab mal eine Vorlage, die sechs Wochen Ferien forderte, statt vier, wie jetzt obligatorisch sind oder vorgeschrieben sind. Die wurde auch abgelehnt.",
+   "quote_clean": "Es gab mal eine Vorlage, die sechs Wochen Ferien forderte, statt vier, wie jetzt vorgeschrieben sind. Die wurde auch abgelehnt.",
+   "statement": "Die Schweizer Stimmbevölkerung hat eine Volksinitiative für sechs statt vier Wochen gesetzlichen Urlaub abgelehnt.",
+   "question": "Was passierte mit der Schweizer Volksinitiative für sechs Wochen Urlaub statt vier?",
+   "answer": "Sie wurde abgelehnt",
+   "distractors": [
+    "Sie wurde knapp angenommen",
+    "Sie wurde für ungültig erklärt",
+    "Sie wurde nie abgestimmt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Klassiker: Wer stimmt schon gegen mehr Urlaub? Die Schweizer:innen. Das Argument „schadet der Wirtschaft“ zog, und abstimmen gehen eher Ältere und Besserverdienende, die oft eh schon fünf Wochen haben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schweiz",
+    "Arbeit",
+    "Abstimmung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1432,
+   "speaker": "Matthias Daum",
+   "quote": "die erste angenommene Volksinitiative in der Schweiz, das war ein Schächtverbot. Also, da wurde den Juden das Schächten verboten. Und das hatte ganz klaren antisemitische Züge.",
+   "quote_clean": "Die erste angenommene Volksinitiative in der Schweiz war ein Schächtverbot. Da wurde den Juden das Schächten verboten. Und das hatte ganz klar antisemitische Züge.",
+   "statement": "Die erste angenommene Volksinitiative der Schweiz war ein Schächtverbot mit klar antisemitischen Zügen.",
+   "question": "Worum ging es bei der ersten Volksinitiative, die in der Schweiz angenommen wurde?",
+   "answer": "Ein Verbot des Schächtens",
+   "distractors": [
+    "Ein Verbot von Glücksspiel",
+    "Die Einführung des Frauenstimmrechts",
+    "Ein Verbot der Kinderarbeit"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Federführend war damals ein Tierschutzmilieu, die Argumente waren aber durch und durch antisemitisch. Das zeigt die Schattenseite: Eine Mehrheit kann über die Rechte einer Minderheit abstimmen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Schweiz",
+    "Minderheiten",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1593,
+   "speaker": "Matthias Daum",
+   "quote": "Und die Gefahr ist umso grösser, als die Schweiz auf nationaler Ebene kein Verfassungsgerichtshof hat.",
+   "quote_clean": "Und die Gefahr ist umso größer, als die Schweiz auf nationaler Ebene keinen Verfassungsgerichtshof hat.",
+   "statement": "Die Schweiz hat auf nationaler Ebene kein Verfassungsgericht, das Volksinitiativen als verfassungswidrig aufheben könnte.",
+   "question": "Welche Institution, die Österreich hat, fehlt der Schweiz auf nationaler Ebene?",
+   "answer": "Ein Verfassungsgericht",
+   "distractors": [
+    "Ein Parlament mit zwei Kammern",
+    "Ein Rechnungshof",
+    "Eine Volksanwaltschaft"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine Volksinitiative ändert ja die Verfassung selbst, also kann man reinschreiben, was eigentlich der Verfassung widerspricht. In Österreich hat der Verfassungsgerichtshof etwa die gekürzte Familienbeihilfe für Kinder ausländischer Pflegekräfte wieder gekippt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schweiz",
+    "Rechtsstaat"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1349,
+   "speaker": "Matthias Daum",
+   "quote": "die vom Parlament gewählt wird und die sich nach einer sogenannten Zauberformel zusammensetzt, die nirgends gesetzlich verankert ist. Das ist ein Gentleman's Agreement unter den Parteien, wer da rein soll.",
+   "quote_clean": "Die vom Parlament gewählt wird und die sich nach einer sogenannten Zauberformel zusammensetzt, die nirgends gesetzlich verankert ist. Das ist ein Gentleman's Agreement unter den Parteien, wer da rein soll.",
+   "statement": "Die Schweizer Regierung wird vom Parlament gewählt und nach der „Zauberformel“ besetzt, einer ungeschriebenen Abmachung unter den Parteien.",
+   "question": "Wie heißt die ungeschriebene Regel, nach der die Schweizer Regierung aus mehreren Parteien zusammengesetzt wird?",
+   "answer": "Zauberformel",
+   "distractors": [
+    "Konkordanzgesetz",
+    "Proporzschlüssel",
+    "Rütli-Vertrag"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Zauberformel steht in keinem Gesetz, sie ist ein Gentleman's Agreement. Deshalb gibt es in der Schweiz kein Regierung-gegen-Opposition-Spiel: Links und Rechts sitzen gemeinsam in der Regierung, auf allen Ebenen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schweiz",
+    "Regierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 913,
+   "speaker": "Matthias Daum",
+   "quote": "Aber diese ganzen, also zum Beispiel Landsgemeinden, wo sich Vertreter treffen, die gibt es jetzt auch noch in Klarus und im Appenzell, wo sich die Bevölkerung trifft und an einem Ort wirklich auch physisch versammelt, um über Dinge abzustimmen.",
+   "quote_clean": "Zum Beispiel Landsgemeinden, die gibt es jetzt noch in Glarus und im Appenzell, wo sich die Bevölkerung trifft und an einem Ort wirklich physisch versammelt, um über Dinge abzustimmen.",
+   "statement": "In Glarus und Appenzell gibt es bis heute Landsgemeinden, bei denen sich die Bevölkerung physisch versammelt und abstimmt.",
+   "question": "Was ist eine Landsgemeinde, wie es sie in Glarus und Appenzell noch gibt?",
+   "answer": "Eine Versammlung, bei der alle offen abstimmen",
+   "distractors": [
+    "Ein gewählter Rat der Bürgermeister",
+    "Ein Gericht für Bauernstreitigkeiten",
+    "Eine jährliche Steuerversammlung der Gemeinden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei der Landsgemeinde stehen die Leute wirklich gemeinsam auf einem Platz und stimmen ab. Diese Tradition reicht bis ins Mittelalter zurück und ist viel älter als der moderne Bundesstaat.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schweiz",
+    "Tradition"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 693,
+   "speaker": "Matthias Daum",
+   "quote": "Und natürlich die ausländische Bevölkerung, die hat bis heute auf nationaler Ebene in der Schweiz nichts zu sagen.",
+   "quote_clean": "Und natürlich die ausländische Bevölkerung, die hat bis heute auf nationaler Ebene in der Schweiz nichts zu sagen.",
+   "statement": "Ausländische Einwohner:innen haben in der Schweiz auf nationaler Ebene kein Stimm- und Wahlrecht.",
+   "question": "Dürfen Ausländer:innen mit Wohnsitz in der Schweiz bei nationalen Volksabstimmungen mitstimmen?",
+   "answer": "Nein, gar nicht",
+   "distractors": [
+    "Ja, nach fünf Jahren Wohnsitz",
+    "Ja, aber nur bei Referenden",
+    "Ja, wenn sie Steuern zahlen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein großer Teil der Leute, die etwa am Bau im Niedriglohnsektor arbeiten, darf also nicht mitreden. Das erklärt auch manche Ergebnisse, etwa warum mehr Urlaub abgelehnt wurde.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Schweiz",
+    "Wahlrecht",
+    "Migration"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2220,
+   "speaker": "Andreas Sator",
+   "quote": "und auch unverbindliche Volksbefragungen wie 2013 zur Wehrpflicht. Damals stimmte eine Mehrheit dafür, dass junge Männer weiterhin Zivildienst oder Bundesherr machen müssen.",
+   "quote_clean": "Und auch unverbindliche Volksbefragungen wie 2013 zur Wehrpflicht. Damals stimmte eine Mehrheit dafür, dass junge Männer weiterhin Zivildienst oder Bundesheer machen müssen.",
+   "statement": "Bei der unverbindlichen Volksbefragung 2013 stimmte in Österreich eine Mehrheit für die Beibehaltung der Wehrpflicht.",
+   "question": "Wie ging die österreichische Volksbefragung 2013 zur Wehrpflicht aus?",
+   "answer": "Mehrheit für die Wehrpflicht",
+   "distractors": [
+    "Mehrheit für ein Berufsheer",
+    "Gleichstand, daher keine Änderung",
+    "Wegen geringer Beteiligung ungültig"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine Mehrheit wollte, dass junge Männer weiterhin zum Bundesheer oder in den Zivildienst gehen. Rein rechtlich hätte sich die Regierung aber nicht daran halten müssen, denn eine Volksbefragung ist nur ein Stimmungsbild.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Österreich",
+    "Wehrpflicht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1069,
+   "speaker": "Matthias Daum",
+   "quote": "Und gleichzeitig mit diesem Kuvert erhalte ich auch aber Infoboschüren der Gemeinde oder des Kantons oder des Bundes. Also das sogenannte Abstimmungsbüchlein. Und da drin wird dann erklärt, um was es geht.",
+   "quote_clean": "Und gleichzeitig mit diesem Kuvert erhalte ich auch Infobroschüren der Gemeinde, des Kantons oder des Bundes, das sogenannte Abstimmungsbüchlein. Und da drin wird erklärt, worum es geht.",
+   "statement": "Mit den Abstimmungsunterlagen bekommen Schweizer Stimmberechtigte ein „Abstimmungsbüchlein“, das die Vorlage erklärt und auch die Gegner zu Wort kommen lässt.",
+   "question": "Wie heißt die Infobroschüre, die Schweizer Stimmberechtigte vor jeder Abstimmung mit der Post bekommen?",
+   "answer": "Abstimmungsbüchlein",
+   "distractors": [
+    "Bürgerbrief",
+    "Stimmzettelheft",
+    "Volksblatt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein paar Wochen vor der Abstimmung kommt ein dickes Kuvert mit Stimmzetteln und dem Abstimmungsbüchlein. Darin erklärt die Behörde die Vorlage, und auch die Gegner bekommen Platz für ihre Argumente.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Schweiz",
+    "Abstimmung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 549,
+   "speaker": "Matthias Daum",
+   "quote": "Also man sagt auch, es gäbe kein anderes Land auf der Welt, in der der Weg zwischen Empörung und Gesetz so kurz sei wie in der Schweiz.",
+   "quote_clean": "Man sagt auch, es gäbe kein anderes Land auf der Welt, in dem der Weg zwischen Empörung und Gesetz so kurz sei wie in der Schweiz.",
+   "statement": "Man sagt, in keinem Land der Welt sei der Weg zwischen Empörung und Gesetz so kurz wie in der Schweiz.",
+   "question": "Wer sagt in „Erklär mir die Welt“: In keinem anderen Land sei der Weg zwischen Empörung und Gesetz so kurz wie in der Schweiz?",
+   "answer": "Matthias Daum",
+   "distractors": [
+    "Andreas Sator",
+    "Florian Gasser",
+    "Josef Lang"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer sich in der Schweiz aufregt, kann Unterschriften sammeln und das Thema direkt vors Volk bringen. Auch wenn die meisten Initiativen scheitern, wirkt das wie ein Ventil für Wut und Unbehagen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Schweiz",
+    "Volksinitiative"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1236,
+   "speaker": "Matthias Daum",
+   "quote": "Ich glaube, jede politische Entscheidung ist am Schluss eine 1-0-Entscheidung. Also die läuft auf das raus.",
+   "quote_clean": "Ich glaube, jede politische Entscheidung ist am Schluss eine Eins-null-Entscheidung. Die läuft darauf hinaus.",
+   "statement": "Matthias Daum meint, jede politische Entscheidung laufe am Ende auf eine Ja-Nein-Entscheidung hinaus, auch eine Wahl.",
+   "question": "Wer kontert in „Erklär mir die Welt“ die Kritik an Ja-Nein-Abstimmungen mit: Jede politische Entscheidung ist am Schluss eine 1-0-Entscheidung?",
+   "answer": "Matthias Daum",
+   "distractors": [
+    "Andreas Sator",
+    "Christian Kern",
+    "Florian Gasser"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Auch bei einer Wahl in Österreich musst du dich am Ende für ein Kreuzerl entscheiden, ob grün, rot, türkis, blau oder pink. Das Grau geht also nicht erst bei der Volksabstimmung verloren.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Demokratie",
+    "Populismus"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 768,
+   "speaker": "Matthias Daum",
+   "quote": "In der Schweiz war das die Einführung, die Frage nach dem Frauenstimmrecht immer auch eine ganz klare Machtfrage, über die jene, die dann die Macht teilen mussten, auch abstimmen konnten.",
+   "quote_clean": "In der Schweiz war die Frage nach dem Frauenstimmrecht immer auch eine ganz klare Machtfrage, über die jene, die dann die Macht teilen mussten, auch abstimmen konnten.",
+   "statement": "Das Frauenstimmrecht kam in der Schweiz so spät, weil ausgerechnet die Männer darüber abstimmten, die ihre Macht teilen mussten.",
+   "question": "Warum kam das Frauenstimmrecht in der Schweiz besonders spät?",
+   "answer": "Die Männer mussten selbst darüber abstimmen",
+   "distractors": [
+    "Die Regierung verbot jede Abstimmung dazu",
+    "Die Kantone hatten kein Wahlrecht",
+    "Frauen sammelten nie genug Unterschriften"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Anderswo wurde das Frauenwahlrecht von oben eingeführt, durch Regierung oder Parlament. In der Schweiz musste jeder einzelne Bürger an der Urne zustimmen, seine Macht zu teilen. Dazu kam, dass das Land von Weltkriegen und großen Umbrüchen verschont blieb.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Frauenwahlrecht",
+    "Schweiz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1185,
+   "speaker": "Matthias Daum",
+   "quote": "Und wegen dieser Mobilisierung gingen die dann abstimmen und die stimmten dann auch über das CO2-Gesetz ab, das ihnen gar nicht so wichtig war, stimmten dort dann aber nein.",
+   "quote_clean": "Und wegen dieser Mobilisierung gingen die dann abstimmen, und die stimmten dann auch über das CO2-Gesetz ab, das ihnen gar nicht so wichtig war, stimmten dort aber Nein.",
+   "statement": "Das Schweizer CO2-Gesetz scheiterte auch, weil gleichzeitig Agrarinitiativen die ländliche Bevölkerung massiv an die Urne brachten.",
+   "question": "Warum scheiterte das Schweizer CO2-Gesetz laut Matthias Daum überraschend?",
+   "answer": "Agrarinitiativen mobilisierten die Bauern mit",
+   "distractors": [
+    "Die Wahlbeteiligung war extrem niedrig",
+    "Das Parlament zog es kurz zuvor zurück",
+    "Die Städte stimmten geschlossen dagegen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zur gleichen Zeit standen linksgrüne Agrarinitiativen zur Abstimmung, und die Bauernschaft war entsprechend mobilisiert. Wer schon an der Urne war, kreuzte beim Klimagesetz gleich auch Nein an. So beeinflussen sich Vorlagen am selben Sonntag gegenseitig.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Klima",
+    "Schweiz",
+    "Abstimmung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1936,
+   "speaker": "Matthias Daum",
+   "quote": "das ist stumpfsinnig, einen Einheitslohn zu schaffen für einen Ort wie Zürich, wo das Leben so sackteuer ist und einen Ort wie das Münstertal im Kanton Graubünden,",
+   "quote_clean": "Das ist stumpfsinnig, einen Einheitslohn zu schaffen für einen Ort wie Zürich, wo das Leben so sackteuer ist, und einen Ort wie das Münstertal im Kanton Graubünden.",
+   "statement": "Ein starkes Argument gegen einen nationalen Mindestlohn in der Schweiz war der Föderalismus: Zürich und ein Bergtal haben völlig andere Lebenskosten.",
+   "question": "Welches Argument zog in der Schweiz besonders gegen einen landesweiten Mindestlohn?",
+   "answer": "Die Lebenskosten sind regional sehr verschieden",
+   "distractors": [
+    "Es gibt dort schon einen Mindestlohn",
+    "Gewerkschaften waren gegen den Vorschlag",
+    "Die Verfassung verbietet Lohnvorgaben"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zürich ist sackteuer, im Münstertal in Graubünden sind Mieten und Häuser viel billiger. Ein Einheitslohn für beide wirkte vielen deshalb stumpfsinnig. Föderalismus schlägt da oft das Eigeninteresse.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mindestlohn",
+    "Föderalismus"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 527,
+   "speaker": "Matthias Daum",
+   "quote": "sondern es ist auch ein Mittel, wo man, das meine ich jetzt gar nicht so salopp, wie es klingt, wo man politischen Druck ablassen kann oder mal etwas sicher eine Stimmung auch manifestiert oder ein Unbehagen, eine Wut.",
+   "quote_clean": "Sondern es ist auch ein Mittel, das meine ich gar nicht so salopp, wie es klingt, wo man politischen Druck ablassen kann oder wo sich eine Stimmung manifestiert, ein Unbehagen, eine Wut.",
+   "statement": "Die Volksinitiative wirkt in der Schweiz auch dann, wenn sie scheitert, weil sie als Ventil für politischen Druck und Unbehagen dient.",
+   "question": "Warum ist die Volksinitiative politisch mächtig, obwohl die meisten scheitern?",
+   "answer": "Sie wirkt als Ventil für Unmut",
+   "distractors": [
+    "Sie bindet die Regierung trotzdem",
+    "Gescheiterte Initiativen werden automatisch Gesetz",
+    "Das Parlament muss sie umsetzen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine Initiative macht sichtbar, dass viele Leute etwas stört, und das fließt ins ganze politische System ein. Der Druck kommt raus, statt sich jahrelang aufzustauen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Volksinitiative",
+    "Demokratie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1062,
+   "speaker": "Matthias Daum",
+   "quote": "Und im Gegensatz zu Österreich wissen wir ja, wie man Klebstoff produziert. Das Zeug hält also dann auch.",
+   "quote_clean": "Und im Gegensatz zu Österreich wissen wir ja, wie man Klebstoff produziert. Das Zeug hält dann also auch.",
+   "statement": "Matthias Daum spielt beim Thema Briefwahl-Kuverts auf Österreichs Wahlkarten-Klebstoffpanne an.",
+   "question": "Worüber stichelt Matthias Daum, als er erklärt, wie Schweizer ihre Abstimmungskuverts zurückschicken?",
+   "answer": "Österreichs Klebstoff, der nicht hält",
+   "distractors": [
+    "Österreichs langsame Post",
+    "Österreichs komplizierte Stimmzettel",
+    "Österreichs fehlende Briefwahl"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein kleiner Seitenhieb auf 2016, als die Bundespräsidentenwahl wegen schlecht klebender Wahlkarten verschoben werden musste. In der Schweiz hält das Kuvert eh.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Humor",
+    "Briefwahl"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "276",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

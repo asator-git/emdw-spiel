@@ -1,0 +1,286 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 140 wörtlich belegt.",
+   "stand_note": "",
+   "statement": "Weltweit gibt es über 20.000 bekannte Wildbienenarten, aber nur rund zehn Honigbienenarten.",
+   "question": "Wie viele bekannte Wildbienenarten gibt es weltweit ungefähr?",
+   "answer": "Über 20.000",
+   "distractors": [
+    "Rund 500",
+    "Rund 3.000",
+    "Rund 150.000"
+   ],
+   "aha": "Wenn du an Bienen denkst, denkst du wahrscheinlich an die Honigbiene. Dabei gibt es nur rund zehn Honigbienenarten, aber über 20.000 Wildbienenarten, und sicher noch einige unbekannte dazu.",
+   "quote_clean": "Weltweit gibt es über 20.000 bekannte und sicher auch noch unbekannte Wildbienenarten und nur an die zehn Honigbienenarten.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "'80 Prozent aller Blütenpflanzen von Bienen bestäubt' ist als Faktum überzogen (die gängige Zahl gilt für Tierbestäubung insgesamt, nicht für Bienen allein); Zweifel am Beleg.",
+   "stand_note": "",
+   "statement": "Rund 80 Prozent aller Blütenpflanzen werden von Bienen bestäubt.",
+   "question": "Wie viel Prozent aller Blütenpflanzen werden von Bienen bestäubt?",
+   "answer": "Circa 80 Prozent",
+   "distractors": [
+    "Circa 20 Prozent",
+    "Circa 45 Prozent",
+    "Circa 98 Prozent"
+   ],
+   "aha": "Bienen sind die wichtigsten Bestäuber der Welt, und zwar vor allem die Wildbienen. Ohne sie würden sehr viele Pflanzen aussterben und mit ihnen die Tiere, die von diesen Pflanzen leben.",
+   "quote_clean": "Es sind circa 80 Prozent aller Blütenpflanzen von Bienen bestäubt.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Bei 242-250 belegt; Frage präzisiert, weil auch andere Insekten bestäuben.",
+   "stand_note": "",
+   "statement": "Bei kühlem Frühjahrswetter ist es Honigbienen zu kalt, viele Wildbienen fliegen aber und retten laut Dominique Zimmermann die Obsternte.",
+   "question": "Welche Bienen fliegen laut Dominique Zimmermann im kühlen Frühjahr noch und retten die Obsternte, wenn es Honigbienen zu kalt ist?",
+   "answer": "Wildbienen",
+   "distractors": [
+    "Zuchtbienen aus dem Stock",
+    "Bienen aus dem Ausland",
+    "Königinnen der Honigbiene"
+   ],
+   "aha": "Honigbienen bleiben bei kühlem Wetter lieber im Stock. Viele Wildbienen fliegen trotzdem und retten so in kalten Frühjahren die Ernte, etwa bei Obstbäumen.",
+   "quote_clean": "Wenn es zum Beispiel im Frühjahr noch kühl ist und das Wetter schlechter, dann ist es den Honigbienen noch zu kalt, aber es fliegen viele Wildbienen und retten die Ernte.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Zahlen bei 296-299 belegt, gelten aber für eine Kaffeestudie; Frage und Aha entsprechend eingeordnet.",
+   "stand_note": "",
+   "statement": "In einer von Dominique Zimmermann zitierten Untersuchung zu Kaffee waren mit der Honigbiene und zwei anderen Bienenarten nur 60 Prozent der Pflanzen bestäubt, mit 20 Bienenarten 90 Prozent.",
+   "question": "Wie viel Prozent der Kaffeepflanzen waren laut der von Dominique Zimmermann erwähnten Untersuchung bestäubt, wenn dort 20 Bienenarten vorkamen?",
+   "answer": "90 Prozent",
+   "distractors": [
+    "60 Prozent",
+    "45 Prozent",
+    "75 Prozent"
+   ],
+   "aha": "Entscheidend ist nicht, wie viele Bienen herumfliegen, sondern wie viele verschiedene Arten. Mit der Honigbiene und zwei anderen Arten waren es 60 Prozent, mit 20 Arten 90 Prozent. Vielfalt bringt also mehr Ertrag, auch für deinen Morgenkaffee.",
+   "quote_clean": "Wenn es nur die Honigbiene und zwei andere Bienenarten sind, dann sind nur 60 Prozent der Pflanzen bestäubt, und wenn es 20 Bienenarten sind, dann sind 90 Prozent der Pflanzen bestäubt.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Begriff bei 311-317 belegt; Statement war verworren, Aha enthielt Wildbienen-'spezialisierter', das im Ausschnitt fehlt.",
+   "stand_note": "",
+   "statement": "In der Landwirtschaft spielt die Honigbiene eine größere Rolle, weil es dort Massentrachten wie Raps oder Sonnenblumen gibt, für die sehr viele Bienen nötig sind.",
+   "question": "Wie nennt man große Flächen mit vielen gleichen Blühpflanzen wie Raps oder Sonnenblumen?",
+   "answer": "Massentrachten",
+   "distractors": [
+    "Monoblüten",
+    "Blühstreifen",
+    "Brachen"
+   ],
+   "aha": "Ein Rapsfeld braucht sehr viele Bienen auf einmal. Die Honigbiene lebt hochsozial in großen Völkern, die meisten Wildbienen dagegen eher für sich allein. Darum ist die Honigbiene in der Landwirtschaft oft wichtiger.",
+   "quote_clean": "Weil es in der Landwirtschaft viele sogenannte Massentrachten gibt, wie zum Beispiel Raps oder Sonnenblumen, wo sehr viele gleiche Pflanzen auf einer Fläche sind.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Bei 443-453 belegt; Aha überspitzt ('eigentlich die Wildbienen gemeint') abgeschwächt, Attribution ergänzt.",
+   "stand_note": "",
+   "statement": "Laut Dominique Zimmermann gehört die Honigbiene als Nutztier zu den am wenigsten gefährdeten Arten der Welt, während die Artenvielfalt der Wildbienen akut bedroht ist.",
+   "question": "Wie gefährdet ist die Honigbiene als Art laut Dominique Zimmermann insgesamt?",
+   "answer": "Kaum, sie ist wenig gefährdet",
+   "distractors": [
+    "Vom Aussterben bedroht",
+    "Stark gefährdet",
+    "In Europa bereits ausgestorben"
+   ],
+   "aha": "Die Honigbiene ist ein Nutztier wie die Kuh: Imker:innen füttern zu und stellen die Behausung. Akut bedroht ist dagegen die Vielfalt der Wildbienen, und die kennt man oft weniger.",
+   "quote_clean": "Aber im Großen und Ganzen gehört sie zu den am wenigsten gefährdeten Arten der Welt. Und im Unterschied dazu gibt es die Wildbienen, die oft weniger bekannt sind.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Bei 475-478 belegt, aber nur für 2022; Formulierung auf damaligen Stand gesetzt.",
+   "stand_note": "Stand 2022",
+   "statement": "Österreich war 2022 eines der letzten Länder Europas ohne Rote Liste für Wildbienen.",
+   "question": "Was fehlte Österreich 2022 laut Dominique Zimmermann im Gegensatz zu fast allen Ländern Europas?",
+   "answer": "Eine Rote Liste für Wildbienen",
+   "distractors": [
+    "Ein Bienenforschungsinstitut",
+    "Ein Verbot von Honigimporten",
+    "Ein Imkereigesetz"
+   ],
+   "aha": "Eine Rote Liste hält für jede Art fest, wie sich ihr Bestand entwickelt. Für Österreichs Wildbienen gab es so eine Liste 2022 noch nicht, obwohl schon daran gearbeitet wurde. Es ist eben sehr viel Arbeit.",
+   "quote_clean": "Da müssen wir uns als Österreich ein bisschen verstecken, weil wir eines der letzten Länder in Europa sind, das keine Rote Liste für Bienen und Wildbienen hat.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "700 Arten bei 569, bienenartenreichstes Land Mitteleuropas bei 555-569 belegt.",
+   "stand_note": "",
+   "statement": "In Österreich sind rund 700 Wildbienenarten nachgewiesen, mehr als in jedem anderen Land Mitteleuropas.",
+   "question": "Wie viele Wildbienenarten sind in Österreich nachgewiesen?",
+   "answer": "Rund 700",
+   "distractors": [
+    "Rund 40",
+    "Rund 150",
+    "Rund 3.000"
+   ],
+   "aha": "Österreich ist das bienenartenreichste Land Mitteleuropas, allein in Niederösterreich gibt es mehr Arten als in ganz Deutschland. Das liegt vor allem am warmen, trockenen Osten.",
+   "quote_clean": "In Österreich gibt es 700 nachgewiesene Wildbienenarten.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Bei 580-595 belegt, aber nur 'oft' warm und trocken; Frage entsprechend eingeschränkt.",
+   "stand_note": "",
+   "statement": "Wildbienen mögen es oft warm und trocken, deshalb ist der pannonisch geprägte Osten Österreichs besonders artenreich.",
+   "question": "Welches Klima mögen Wildbienen laut Dominique Zimmermann oft besonders?",
+   "answer": "Warm und trocken",
+   "distractors": [
+    "Feucht und tropisch",
+    "Kühl und feucht",
+    "Mild und windig"
+   ],
+   "aha": "Anders als bei vielen anderen Tieren und Pflanzen liegt der Hotspot der Wildbienen nicht im feuchten Regenwald, sondern in trockeneren Regionen. Der Osten Österreichs mit seinen offenen, trockenen Lebensräumen ist für sie ideal.",
+   "quote_clean": "Und das liegt daran, dass Bienen und vor allem Wildbienen es oft warm und trocken mögen und der Osten Österreichs stark pannonisch beeinflusst, das heißt wärmebegünstigt ist.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Begriff und Erklärung bei 1037-1074 belegt.",
+   "stand_note": "",
+   "statement": "Ganz Mitteleuropa ist praktisch überdüngt, was Fachleute „Verfettung der Landschaft“ nennen; das fördert konkurrenzstarke Pflanzen.",
+   "question": "Wie nennt man es, wenn eine ganze Landschaft überdüngt ist?",
+   "answer": "Verfettung der Landschaft",
+   "distractors": [
+    "Versalzung der Landschaft",
+    "Verkarstung der Landschaft",
+    "Vergrünung der Landschaft"
+   ],
+   "aha": "Dünger kommt nicht nur vom Bauern, sondern auch als Stickstoff aus der Luft. Davon profitieren konkurrenzstarke Pflanzen wie der Löwenzahn im Rasen, andere werden verdrängt.",
+   "quote_clean": "Was da auch noch ein ganz großes Thema ist, nennt man Verfettung der Landschaft, also Überdüngung der Landschaft. Man kann fast sagen, ganz Mitteleuropa ist überdüngt.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Wörtlich bei 1911-1920 belegt; leicht, aber ein schöner Merksatz.",
+   "stand_note": "",
+   "statement": "Ein englischer Rasen ist eine biologische Wüste, eine Fläche, die man der Natur zu 100 Prozent wegnimmt.",
+   "question": "Als was bezeichnet die Bienenforscherin den kurz gemähten englischen Rasen?",
+   "answer": "Als biologische Wüste",
+   "distractors": [
+    "Als grüne Lunge",
+    "Als Insektenparadies",
+    "Als Bienenweide"
+   ],
+   "aha": "Kurz, grün, flauschig und ohne eine einzige Blüte: Das gilt in vielen Köpfen als gepflegt. Für Bienen ist es aber eine Fläche ohne Nahrung. Schon ein Teil des Gartens als blütenreicher Lebensraum hilft.",
+   "quote_clean": "Aber sich bewusst zu machen, dass das eigentlich eine biologische Wüste ist, dass das eine Fläche ist, die man der Natur einfach zu 100 Prozent wegnimmt.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Beiläufige, selbst relativierte Überlegung von Andreas ('wenn man so will'), als Faktum fragwürdig (Almweiden etc.).",
+   "stand_note": "",
+   "statement": "Honigbienen sind gewissermaßen das einzige Nutztier, das fremde Flächen für den Ertrag seiner Halter nutzen darf.",
+   "question": "Was unterscheidet Honigbienen von anderen Nutztieren?",
+   "answer": "Sie nutzen fremde Flächen für Ertrag",
+   "distractors": [
+    "Sie brauchen kein Futter",
+    "Sie dürfen nicht verkauft werden",
+    "Sie sind nicht meldepflichtig"
+   ],
+   "aha": "Eine Kuh darf nicht einfach auf Nachbars Wiese grasen, eine Honigbiene fliegt aber kilometerweit über fremde Flächen. Schwer zu kontrollieren, aber man könnte darauf schauen, ob das auf Kosten der Wildbienen geht.",
+   "quote_clean": "Honigbienen sind eigentlich das einzige Nutztier, das fremde Flächen für den eigenen Ertrag nutzen darf, wenn man so will.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "transkription"
+   ],
+   "note": "'vier Quadraten' ist eine Redewendung (vier Quadratmeter geschätzt), private Nebensächlichkeit ohne Erkenntniswert.",
+   "stand_note": "",
+   "statement": "Andreas gibt zu, dass er auf seinem vier Quadratmeter großen Balkon keine 100 Wildbienenarten zusammenkriegen wird.",
+   "question": "Wie groß ist Andreas' Balkon, auf dem er keine 100 Bienenarten zusammenbringt?",
+   "answer": "Vier Quadratmeter",
+   "distractors": [
+    "Zwei Quadratmeter",
+    "Zehn Quadratmeter",
+    "Zwanzig Quadratmeter"
+   ],
+   "aha": "Andreas hat keinen Garten, nur einen kleinen Balkon. Laut Dominique bringt aber auch dort jede Blühpflanze was, vor allem, wenn es viele machen.",
+   "quote_clean": "100 Arten werde ich auf meinen vier Quadratmetern in der großen Welt nicht zusammenkriegen.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Bei 2402-2420 belegt (drei Euro pro verzichteter Reinigung, Bienenprojekte); Aktion von 2022, Stand-Hinweis.",
+   "stand_note": "Stand 2022",
+   "statement": "Eine Hotelkette zahlt für jede Zimmerreinigung, auf die ein Gast verzichtet, drei Euro in einen Topf für Bienenprojekte.",
+   "question": "Wie viel zahlt die Hotelkette pro ausgelassener Zimmerreinigung in den Bienentopf?",
+   "answer": "Drei Euro",
+   "distractors": [
+    "Einen Euro",
+    "Fünf Euro",
+    "Zehn Euro"
+   ],
+   "aha": "Die Chefin einer Hotelkette findet Bienen toll und hat sich das ausgedacht: Wer aufs Putzen verzichtet, spendet indirekt für Bienen. Aus dem Topf wurden laut Dominique schon einige wissenschaftliche Projekte gefördert, auch von ihr.",
+   "quote_clean": "Für jede Reinigung, auf die ein Gast verzichtet, gibt es einen Stempel und drei Euro in einen Topf, und aus diesem Topf werden dann Bienenprojekte gefördert.",
+   "quality": 3
+  }
+ ],
+ "id": "222",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

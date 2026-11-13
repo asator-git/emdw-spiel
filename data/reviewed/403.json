@@ -1,0 +1,286 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Maximalwert ('kann ausbrechen'), kein Normalwert; 'Über 500' wäre als Distraktor mitlogisch richtig.",
+   "stand_note": "",
+   "statement": "Moderne Tunnelbohrmaschinen können heute über 60 Meter Tunnel pro Tag ausbrechen.",
+   "question": "Wie viele Meter Tunnel schafft eine moderne Tunnelbohrmaschine heute an einem Tag?",
+   "answer": "Über 60 Meter",
+   "distractors": [
+    "Etwa 5 Meter",
+    "Etwa 15 Meter",
+    "Über 500 Meter"
+   ],
+   "aha": "Bei einem 60 Kilometer langen Tunnel wären das rein rechnerisch nur ein paar Jahre. In der Praxis bremsen Geologie, Wasser und Überraschungen im Gestein. Selbst die Maschinenführer horchen deshalb ständig auf die Antwort des Gebirges.",
+   "quote_clean": "auch im modernen Tunnelbau mit Tunnelbohrmaschinen, wo man mit verschiedensten Methoden des maschinellen Tunnelvortriebs heute über 60 Meter am Tag ausbrechen kann,",
+   "quality": 2
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Länge von 64 km gilt inkl. Umfahrung Innsbruck; Frage präzisiert (Hauptröhre allein ist kürzer).",
+   "stand_note": "",
+   "statement": "Der Brenner-Basistunnel zwischen Österreich und Italien wird mit der Umfahrung Innsbruck rund 64 Kilometer lang.",
+   "question": "Wie viele Kilometer lang wird der Brenner-Basistunnel samt Umfahrung Innsbruck?",
+   "answer": "Rund 64 Kilometer",
+   "distractors": [
+    "Rund 18 Kilometer",
+    "Rund 35 Kilometer",
+    "Rund 120 Kilometer"
+   ],
+   "aha": "Damit wird er zur längsten unterirdischen Eisenbahnverbindung der Welt. Er reiht sich in die großen Alpen-Basistunnel ein, wie den Gotthard mit 57 Kilometern. Ideen dafür gab es schon im 19. Jahrhundert, gebaut wird erst jetzt.",
+   "quote_clean": "bis herüber zum Brenner, dem Brenner-Basistunnel mit 64 Kilometern, und hier eben den Semmering",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (80 m³ plus 10-15 % Auflockerung, grob 100).",
+   "stand_note": "",
+   "statement": "Pro Meter Eisenbahntunnel fallen etwa 100 Kubikmeter Ausbruchmaterial an.",
+   "question": "Wie viele Kubikmeter Material muss man pro Meter Eisenbahntunnel ungefähr abtransportieren?",
+   "answer": "Etwa 100 Kubikmeter",
+   "distractors": [
+    "Etwa 10 Kubikmeter",
+    "Etwa 30 Kubikmeter",
+    "Etwa 1000 Kubikmeter"
+   ],
+   "aha": "Ein Bahntunnel hat außen rund 9,5 Meter Durchmesser, das sind 70 bis 80 Quadratmeter Querschnitt. Herausgelöst lockert sich das Gestein noch um 10 bis 15 Prozent auf. So wird aus jedem Meter Tunnel ein ganzer Berg Schotter.",
+   "quote_clean": "Das bedeutet, ich habe bei einem Meter Vortrieb etwa 100 Kubikmeter an Material, das ich abtransportieren muss.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt; Distraktor 'Sauerstoffmangel' war nicht klar falsch, ersetzt.",
+   "stand_note": "",
+   "statement": "Bei Tunnelbränden sterben Menschen meist nicht an der Hitze, sondern früher am Rauch und an den Rauchgasen.",
+   "question": "Woran sterben Menschen bei einem Tunnelbrand meistens?",
+   "answer": "Am Rauch und den Rauchgasen",
+   "distractors": [
+    "An der großen Hitze",
+    "An Explosionen der Fahrzeugtanks",
+    "Am Stromschlag aus der Oberleitung"
+   ],
+   "aha": "Wird der Rauch nicht abgezogen, erstickt man innerhalb von etwa fünf Minuten. Darum ist Selbstrettung das oberste Prinzip: raus in den nächsten Querstollen, bevor die Feuerwehr überhaupt da ist.",
+   "quote_clean": "Bei Tunnelunfällen mit Brand ist im Normalfall nicht die hohe Temperatur das Problem, sondern die Menschen sterben früher durch den Rauch und die sehr starken Rauchgase,",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt, Kontext (große Basistunnel) passt.",
+   "stand_note": "",
+   "statement": "Von der Planung bis zur Fertigstellung eines großen Basistunnels vergehen 30 bis 45 Jahre.",
+   "question": "Wie lange dauert es ungefähr von der Planung bis zur Fertigstellung eines großen Basistunnels?",
+   "answer": "30 bis 45 Jahre",
+   "distractors": [
+    "3 bis 5 Jahre",
+    "8 bis 12 Jahre",
+    "80 bis 100 Jahre"
+   ],
+   "aha": "Lange Planung, lange Genehmigung, lange Bauzeit: Das dauert über eine Generation. Man baut also für eine Welt, von der man nicht genau weiß, wie sie ausschauen wird.",
+   "quote_clean": "Da vergehen bei Tunneln doch zwischen 30 und 45 Jahren.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aha-Details zum Brenner im Ausschnitt nicht belegt; durch belegte Aussagen ersetzt.",
+   "stand_note": "",
+   "statement": "Der Tunnelbauer-Spruch „Vor der Hacke ist der Berg dunkel“ bedeutet, dass man nie genau weiß, was im Berg wartet.",
+   "question": "Was bedeutet der Bergmanns-Spruch „Vor der Hacke ist der Berg dunkel“?",
+   "answer": "Man weiß nie, was kommt",
+   "distractors": [
+    "Im Tunnel braucht man Licht",
+    "Nachtarbeit ist verboten",
+    "Der Berg schläft nachts"
+   ],
+   "aha": "Selbst Fachleute tasten laut Konrad Bergmeister bei unvorhergesehenen Ereignissen fast alle im Dunkeln, weil man die Reaktion des Gebirges nicht voraussehen kann. Er nennt das das unvorhergesehene Risiko, das es beim Tunnelbau immer gibt.",
+   "quote_clean": "Da gibt es auch diesen Spruch: Vor der Hacke ist der Berg dunkel. Das heißt, man weiß einfach nicht, was einen erwartet.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt, Ei-Vergleich sauber.",
+   "stand_note": "",
+   "statement": "Ein runder Tunnel trägt wie eine Eierschale: Gleichmäßiger Druck von außen erzeugt nur Druckkräfte, die das Gebirge gut aufnehmen kann.",
+   "question": "Mit welchem Alltagsgegenstand erklärt Konrad Bergmeister, warum ein runder Tunnel hält?",
+   "answer": "Mit einem Ei",
+   "distractors": [
+    "Mit einem Luftballon",
+    "Mit einer Konservendose",
+    "Mit einem Fahrradreifen"
+   ],
+   "aha": "Drückst du ein Ei gleichmäßig rundherum, brauchst du irrsinnig viel Kraft, obwohl die Schale hauchdünn ist. Die kreisrunde Schale ist das wohl beste Flächentragwerk der Natur. Genau deshalb sind Tunnel rund.",
+   "quote_clean": "Denken wir an ein Ei. Ein Ei hat eine ganz dünne Schale. Wenn ich versuche, dieses Ei zu zerdrücken, brauche ich eine irrsinnig große Kraft, wenn ich sie gleichmäßig von außen aufbringe. Und so funktioniert der Tunnel.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt; Namen sind allgemein gesichert.",
+   "stand_note": "",
+   "statement": "Bei der Neuen Österreichischen Tunnelbauweise lässt man das Gebirge sich verformen, bis es von selbst ein neues Gleichgewicht findet.",
+   "question": "Was ist der Grundgedanke der österreichischen Tunnelbauweise?",
+   "answer": "Warten, bis der Berg Gleichgewicht findet",
+   "distractors": [
+    "Den Berg komplett einbetonieren",
+    "Möglichst schnell durchsprengen",
+    "Den Berg vorher einfrieren"
+   ],
+   "aha": "Ein Loch stört den Fels, und der sucht sich durch kleine Verschiebungen ein neues Gleichgewicht. Entwickelt haben das Leopold Müller, Ladislaus von Rabcewicz und Franz Pacher. Weil man oft nicht ewig warten kann, hilft man mit Spritzbeton und Ankern nach.",
+   "quote_clean": "Und das ist die österreichische Tunnelbauweise. Man wartet also ab, bis sich das Gebirge so lange verformt hat, dass es wieder einen Gleichgewichtszustand hat und allein ohne Stützkräfte stehen bleibt.",
+   "quality": 4
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Distraktor 'Korruption' unterstellend, 'Betonmischen' albern; ersetzt.",
+   "stand_note": "",
+   "statement": "Ein großer Teil der scheinbaren Kostensteigerungen bei Tunneln ist laut Konrad Bergmeister reine Inflationsanpassung über die lange Projektdauer.",
+   "question": "Was steckt laut Konrad Bergmeister oft hinter scheinbar explodierenden Tunnelkosten?",
+   "answer": "Inflationsanpassung über viele Jahre",
+   "distractors": [
+    "Nachträglich beschlossene zusätzliche Röhren",
+    "Ein Wechsel der Baufirma mitten im Bau",
+    "Teurere Tunnelbohrmaschinen"
+   ],
+   "aha": "Ein Projekt, das vor 20 Jahren geplant wurde, kann sich so bis zur Umsetzung verdoppeln, ohne dass irgendwer etwas dazugebaut hat. Darum plädiert er dafür, Kosten jährlich zu aktualisieren und immer dazuzusagen, auf welches Jahr sie sich beziehen.",
+   "quote_clean": "Aber das sind keine Mehrkosten, das ist eine rein statistisch belegbare Inflationsanpassung, eine Steigerung der wirtschaftlichen und der Lebenshaltungskosten, und die hat auch eine Auswirkung auf die Tunnelkosten.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Wer-sagt-Frage war trivial; auf Inhalt umgestellt, Aha ohne 'nie' formuliert.",
+   "stand_note": "",
+   "statement": "Für Konrad Bergmeister ist das Gebirge selbst das eigentliche Tragwerk eines Tunnels; Beton und Anker veredeln nur die Öffnung.",
+   "question": "Was ist laut Konrad Bergmeister beim Tunnelbau die eigentliche Tragstruktur?",
+   "answer": "Das Gebirge selbst",
+   "distractors": [
+    "Der Beton",
+    "Die Anker",
+    "Die Tunnelbohrmaschine"
+   ],
+   "aha": "Beton und Anker sorgen nur dafür, dass der Tunnel für eine bestimmte Nutzungsdauer funktioniert. Die eigentliche Arbeit macht der Berg. Andreas fasst es so zusammen: Man arbeitet nicht gegen den Berg, sondern mit ihm.",
+   "quote_clean": "Das Gebirge ist sozusagen das Ingenieurbauwerk. Nicht das, was wir hineinbauen, sondern das Gebirge selbst bildet diese Tragstruktur. Und wir veredeln nur die Öffnung,",
+   "quality": 4
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-Frage trivial; auf die Frage selbst umgestellt.",
+   "stand_note": "",
+   "statement": "Konrad Bergmeister würde heute vor jedem Tunnelprojekt zuerst fragen, ob es die Verbindung überhaupt braucht.",
+   "question": "Welche Frage würde Konrad Bergmeister heute bei einem Tunnelwunsch zuerst stellen?",
+   "answer": "Braucht es die Verbindung überhaupt?",
+   "distractors": [
+    "Welche Trasse ist die kürzeste?",
+    "Wie viele Röhren braucht es?",
+    "Was darf der Tunnel kosten?"
+   ],
+   "aha": "Als junger Ingenieur hätte er sofort Trassenvarianten gezeichnet. Heute will er erst wissen, was die Verbindung bringt, wem sie schadet und ob es Alternativen gibt. Man ist ja auch jahrtausendelang über den Berg gegangen.",
+   "quote_clean": "Heute würde ich einmal die Frage stellen: Braucht es überhaupt eine Verbindung? Ist die notwendig? Warum?",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Wer-sagt-Frage trivial; umgestellt, Aha ohne erfundene Wertung.",
+   "stand_note": "",
+   "statement": "Konrad Bergmeister plädiert dafür, Verkehr und Leitungen in Städten unter die Erde zu verlegen, damit oben mehr Grün bleibt.",
+   "question": "Wohin sollten laut Konrad Bergmeister Straßen, Leitungen und Verbindungen in Städten verlegt werden, damit oben mehr Grün bleibt?",
+   "answer": "Unter die Erde",
+   "distractors": [
+    "Auf die Dächer",
+    "Ins Umland",
+    "An den Stadtrand"
+   ],
+   "aha": "Bei 8 Milliarden Menschen und wachsenden Städten wird der Platz oben knapp. Bergmeister sieht die Chance, viele Funktionen unterirdisch abzubilden, damit an der Oberfläche mehr Grün und Lebensqualität Platz haben.",
+   "quote_clean": "So sollte man eigentlich die Städte weiterentwickeln, indem man sämtliche funktionalen Beziehungen unterirdisch hat, damit man an der Oberfläche etwas mehr Grün und damit mehr Lebensqualität findet.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage, 'drei Büchertipps' und Aha-Details zu früheren Interessen im Ausschnitt nicht belegt.",
+   "stand_note": "",
+   "statement": "Andreas fragt seine Gäste am Ende nach Büchertipps und nach ihrem Lieblingsmedium, um sich über die Welt zu informieren.",
+   "question": "Wonach fragt Andreas seine Gäste am Ende der Folge, neben drei Büchertipps?",
+   "answer": "Nach ihrem Lieblingsmedium",
+   "distractors": [
+    "Nach ihrem Lieblingsessen",
+    "Nach ihrem größten Fehler",
+    "Nach ihrem Lieblingsurlaubsort"
+   ],
+   "aha": "Konrad liest die Zeit seit seinem 17. Lebensjahr und hört Radio Swiss Classic. Früher interessierte ihn dort die Politik, später das Wissen, heute Kunst und Kultur.",
+   "quote_clean": "Gibt es ein Medium, das du gerne konsumierst, einen Radiosender, eine TV-Sendung, eine Zeitung, um dich über die Welt zu informieren?",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Meta-Vorgespräch, Aha mit nicht belegten Details, kaum Spielwert.",
+   "stand_note": "",
+   "statement": "Konrad Bergmeister sagte vor der Aufnahme, es gebe keine unsympathischen Menschen, und Andreas hob sich die Nachfrage fürs Mikrofon auf.",
+   "question": "Welchen Satz hatte Konrad im Vorgespräch gesagt, nach dem Andreas extra erst im Interview fragt?",
+   "answer": "Es gibt keine unsympathischen Menschen",
+   "distractors": [
+    "Jeder Berg hat eine Seele",
+    "Beton ist schöner als Holz",
+    "Tunnel sind wie Kathedralen"
+   ],
+   "aha": "Konrad sieht in jedem Menschen etwas Positives, selbst in denen, die ihn angefeindet haben. Wer gemeinsam in einem Loch steht, sinnbildlich oder echt im Tunnel, kommt nur raus, wenn man sich die Hand gibt.",
+   "quote_clean": "Und du hast ihm gesagt, es gibt keine unsympathischen Menschen. Ich habe extra nicht nachgefragt, weil ich dich jetzt fragen wollte: Was meinst du damit, es gibt keine unsympathischen Menschen?",
+   "quality": 2
+  }
+ ],
+ "id": "403",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

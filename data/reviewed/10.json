@@ -1,0 +1,285 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "416 Euro ist im Transkript klar belegt und stimmt fuer 2018; Frage nennt das Jahr.",
+   "stand_note": "Stand 2018",
+   "statement": "2018 bekam ein alleinstehender Hartz-IV-Empfänger in Deutschland 416 Euro im Monat (ohne Wohnkosten).",
+   "question": "Wie viel Euro im Monat bekam ein Single 2018 in Deutschland als Hartz-IV-Regelsatz?",
+   "answer": "416 Euro",
+   "distractors": [
+    "298 Euro",
+    "552 Euro",
+    "683 Euro"
+   ],
+   "aha": "416 Euro, und davon muss man alles zahlen außer der Wohnung. Sogar für die kaputte Waschmaschine sollst du dir jeden Monat was zurücklegen.",
+   "quote_clean": "Das sind im Moment 416 Euro, und das ist die soziale Mindestsicherung. Darauf hat man Anspruch, wenn man nicht von seiner Arbeit leben kann.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (Wohnung kommt aus extra Topf); Distraktoren eindeutig aus dem Regelsatz zu zahlen.",
+   "stand_note": "",
+   "statement": "Bei Hartz IV werden die Wohnkosten zusätzlich zum Regelsatz aus einem eigenen Topf bezahlt.",
+   "question": "Was muss man bei Hartz IV nicht aus dem monatlichen Regelsatz bezahlen?",
+   "answer": "Die Wohnung",
+   "distractors": [
+    "Lebensmittel",
+    "Kleidung",
+    "Haushaltsgeräte"
+   ],
+   "aha": "Die Miete kommt aus einer Extrakasse. Alles andere, vom Essen bis zur neuen Waschmaschine, muss aber aus den rund 400 Euro gehen.",
+   "quote_clean": "Ja, das ist wenig. Man muss einschränkend sagen, es kommt noch Wohngeld hinzu. Das heißt, die Wohnung muss ich davon nicht bezahlen.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Inhalt belegt; richtige Antwort war deutlich laenger als die Distraktoren und eine Option war missverstaendlich, daher gekuerzt und Distraktoren eindeutig falsch gemacht.",
+   "stand_note": "",
+   "statement": "Die Hartz-Reform legte die Sozialhilfe und die unbefristete Arbeitslosenhilfe zu einer Leistung zusammen, auf dem niedrigeren Niveau.",
+   "question": "Was hat die Hartz-IV-Reform im Kern gemacht?",
+   "answer": "Zwei Leistungen zusammengelegt",
+   "distractors": [
+    "Ein bedingungsloses Grundeinkommen",
+    "Das Arbeitslosengeld verdoppelt",
+    "Einen Mindestlohn eingeführt"
+   ],
+   "aha": "Vorher gab es Sozialhilfe für Leute ohne Einkommen und eine unbefristete Arbeitslosenhilfe für Ex-Beschäftigte. Hartz hat daraus eine Mischform gemacht und den Betrag abgesenkt.",
+   "quote_clean": "Was Hartz gemacht hat, war, dass es die Sozialhilfe, also das Existenzminimum, mit dem Arbeitslosengeld zusammengelegt hat.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "ca. 50 Prozent und theoretisch unbegrenzt klar belegt; Distraktoren eindeutig anders.",
+   "stand_note": "",
+   "statement": "Die alte deutsche Arbeitslosenhilfe vor Hartz IV betrug rund 50 Prozent des letzten Einkommens und wurde theoretisch unbegrenzt gezahlt.",
+   "question": "Wie viel Prozent des letzten Einkommens zahlte die deutsche Arbeitslosenhilfe vor Hartz IV ungefähr?",
+   "answer": "Rund 50 Prozent",
+   "distractors": [
+    "Rund 30 Prozent",
+    "Rund 70 Prozent",
+    "Rund 90 Prozent"
+   ],
+   "aha": "Ungefähr die Hälfte, und das im Prinzip ohne Ablaufdatum. Genau diese Leistung hat Hartz IV gestrichen und durch die niedrigere Mindestsicherung ersetzt.",
+   "quote_clean": "Und die war natürlich niedriger, ungefähr bei 50 Prozent des letzten Einkommens. Und die wurde in der Theorie unbegrenzt bezahlt.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Hartz IV gibt es nicht mehr (Buergergeld), daher zeitlich verankert; Antwort gekuerzt, Aha-Satz grammatisch repariert.",
+   "stand_note": "Stand 2018",
+   "statement": "Wer Hartz IV beantragte, musste sein Vermögen offenlegen und das meiste davon aufbrauchen, bevor der Staat zahlte.",
+   "question": "Was musste man 2018 in Deutschland tun, bevor man Hartz IV bekam?",
+   "answer": "Vermögen weitgehend aufbrauchen",
+   "distractors": [
+    "Ein Jahr gemeinnützig arbeiten",
+    "Einen Deutschtest bestehen",
+    "Den Wohnort wechseln"
+   ],
+   "aha": "Schieritz sagt, man müsse sich 'komplett nackt machen vor dem Staat'. Gerade für Leute, die lange gearbeitet hatten, war das bitter, und deshalb war die Reform so umstritten.",
+   "quote_clean": "Ich muss alle meine Vermögensverhältnisse offenlegen, und ich kann nur einen sehr geringen Teil von Vermögen behalten. Alles andere muss ich aufzehren, Haus und so weiter, zum Teil sogar bis hin zum Auto.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Dieselbe Stelle wie Kandidat 4, reine Zuordnung zum Gast ohne Erkenntnisgewinn; Aha wertet ('nicht ganz falsch').",
+   "stand_note": "",
+   "statement": "Mark Schieritz beschreibt den Hartz-IV-Antrag so, dass man sich komplett nackt machen müsse vor dem Staat.",
+   "question": "Wer beschrieb den Hartz-IV-Antrag mit diesen Worten: Man muss sich komplett nackt machen vor dem Staat?",
+   "answer": "Mark Schieritz",
+   "distractors": [
+    "Andreas Sator",
+    "Hans-Werner Sinn",
+    "Ein Arbeitsvermittler"
+   ],
+   "aha": "Der ZEIT-Korrespondent meinte damit die komplette Offenlegung der Vermögensverhältnisse. Sehr bildlich, und nicht ganz falsch.",
+   "quote_clean": "Man muss sich, wenn man dieses Geld beantragt, wirklich komplett nackt machen vor dem Staat.",
+   "quality": 1
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "Notstandshilfe belegt, Distraktoren sind andere oesterreichische Leistungen; Aha war missverstaendlich (wer hat was abgeschafft) und die Regierungsplaene sind Stand 2018.",
+   "stand_note": "Stand 2018",
+   "statement": "Das österreichische Gegenstück zur alten deutschen Arbeitslosenhilfe ist die Notstandshilfe, die man unbegrenzt beziehen kann, ohne Vermögen aufzubrauchen.",
+   "question": "Wie heißt in Österreich die Leistung, die der alten deutschen Arbeitslosenhilfe entspricht?",
+   "answer": "Notstandshilfe",
+   "distractors": [
+    "Mindestsicherung",
+    "Ausgleichszulage",
+    "Familienbeihilfe"
+   ],
+   "aha": "Die Notstandshilfe kommt nach dem Arbeitslosengeld und läuft im Prinzip unbegrenzt. 2018 hieß es, die schwarz-blaue Regierung wolle Richtung Hartz IV umbauen.",
+   "quote_clean": "Die Arbeitslosenhilfe, die abgeschafft worden ist, heißt in Österreich Notstandshilfe. Die kann man quasi unbegrenzt beziehen. Man muss zum Beispiel sein Vermögen nicht aufbrauchen.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Begriff Reservationslohn belegt und fachlich korrekt; Distraktoren keine Fachbegriffe in diesem Sinn.",
+   "stand_note": "",
+   "statement": "Der Reservationslohn ist der Lohn, ab dem jemand bereit ist zu arbeiten; senkt der Staat die Unterstützung, sinkt auch er.",
+   "question": "Wie nennen Ökonomen den Lohn, unter dem jemand lieber nicht arbeitet?",
+   "answer": "Reservationslohn",
+   "distractors": [
+    "Mindestlohn",
+    "Grenzlohn",
+    "Schattenlohn"
+   ],
+   "aha": "Wenn dir der Staat weniger zahlt, nimmst du auch schlechter bezahlte Jobs an. Genau so ist laut Schieritz der deutsche Niedriglohnsektor gewachsen.",
+   "quote_clean": "Die Ökonomen nennen das den Reservationslohn. Also das, was ich vom Staat in Anspruch nehmen kann, wenn ich keinen eigenen Lohn bekomme, ist nach unten gesenkt worden.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "10 Prozent belegt; Sanktionsregeln wurden seither geaendert, daher Jahr in der Frage und Stand-Hinweis.",
+   "stand_note": "Stand 2018",
+   "statement": "Wer als Hartz-IV-Empfänger einen Termin beim Arbeitsvermittler versäumte, dem konnte die Leistung um 10 Prozent gekürzt werden.",
+   "question": "Um wie viel Prozent konnte Hartz IV 2018 gekürzt werden, wenn man einen Termin beim Arbeitsvermittler versäumte?",
+   "answer": "10 Prozent",
+   "distractors": [
+    "3 Prozent",
+    "25 Prozent",
+    "50 Prozent"
+   ],
+   "aha": "Zehn Prozent klingen nach wenig, aber bei gut 400 Euro im Monat wird es schnell eng. Schieritz spricht von einem sehr harten Sanktionsregime.",
+   "quote_clean": "Es gibt ein sehr hartes Sanktionsregime. Wenn ich zum Beispiel Termine bei meinem Arbeitsvermittler nicht wahrnehme, kann mir meine Leistung nochmal um 10 Prozent gekürzt werden.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "transkription"
+   ],
+   "note": "Gast verortet über 5 Mio. Arbeitslose um die Jahrtausendwende; real waren es 2000 rund 3,9 Mio., über 5 Mio. erst Anfang 2005. Aussage ungenau, Frage nicht sauber belegbar.",
+   "stand_note": "",
+   "statement": "Um die Zeit der Hartz-Reformen hatte Deutschland mehr als 5 Millionen Arbeitslose.",
+   "question": "Wie viele Arbeitslose hatte Deutschland in der Krise rund um die Hartz-Reformen?",
+   "answer": "Mehr als 5 Millionen",
+   "distractors": [
+    "Rund 1 Million",
+    "Rund 2,5 Millionen",
+    "Mehr als 9 Millionen"
+   ],
+   "aha": "Deutschland galt damals als 'kranker Mann Europas'. Hartz IV wurde in diesem Krisenklima als Befreiungsschlag verkauft, auch um Geld zu sparen.",
+   "quote_clean": "Wir hatten mehr als 5 Millionen Arbeitslose in Deutschland. Wir hatten extrem hohe Schulden und Haushaltsdefizite.",
+   "quality": 2
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Urspruengliche Antwort war eine Floskel mit albernen Distraktoren; neu auf den konkreten Gegeneffekt (weltweiter Exportboom, t=840-861) umgestellt.",
+   "stand_note": "",
+   "statement": "Neben Hartz IV trieb laut Schieritz auch der weltweite Exportboom den deutschen Aufschwung ab 2005.",
+   "question": "Welcher zweite Effekt trug laut Schieritz zum deutschen Aufschwung ab 2005 bei, neben Hartz IV?",
+   "answer": "Der weltweite Exportboom",
+   "distractors": [
+    "Ein Bauboom im Inland",
+    "Die Einführung des Euro",
+    "Der neue Mindestlohn"
+   ],
+   "aha": "Gleichzeitig heißt nicht deswegen: Deutschland lieferte Maschinen und Autos, die China und andere Schwellenländer gerade brauchten.",
+   "quote_clean": "Wir hatten einen weltweiten Konjunkturaufschwung, extremes Wachstum in China und den Schwellenländern. Davon hat Deutschland extrem profitiert, weil es Maschinen und Autos liefert.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat und Sprecher belegt; schwaches, aber faires Zuordnungsraetsel.",
+   "stand_note": "",
+   "statement": "Mark Schieritz hält es für falsch, den deutschen Wohlstand auf Hartz IV zurückzuführen, weil der Effekt dafür zu klein war.",
+   "question": "Wer sagte über den deutschen Aufschwung: Es wäre falsch zu sagen, uns geht es jetzt gut wegen Hartz IV?",
+   "answer": "Mark Schieritz",
+   "distractors": [
+    "Hans-Werner Sinn",
+    "Andreas Sator",
+    "Gerhard Schröder"
+   ],
+   "aha": "Der ZEIT-Journalist widerspricht damit Ökonomen wie Hans-Werner Sinn, die Hartz IV als Erfolgsrezept sehen.",
+   "quote_clean": "Ich bin da sehr stark im Camp, dass es völlig überzogen und auch falsch wäre zu sagen, uns geht es jetzt gut wegen Hartz IV. Dazu war der Effekt viel zu klein.",
+   "quality": 2
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Zitat belegt (auch Duschgel/Ausflug); Antwort deutlich laenger als Distraktoren, gekuerzt; Aussage ist Einschaetzung von 2018.",
+   "stand_note": "Stand 2018",
+   "statement": "Mark Schieritz beschreibt das Leben mit Hartz IV als Leben ohne Freude: genug zu essen, aber kaum soziale Teilhabe.",
+   "question": "Wie beschreibt Mark Schieritz das Leben mit Hartz IV?",
+   "answer": "Genug zu essen, aber freudlos",
+   "distractors": [
+    "Hunger am Monatsende",
+    "Bequem, aber langweilig",
+    "Kaum anders als mit Job"
+   ],
+   "aha": "Hungern muss in Deutschland niemand. Aber Kino, Ausflüge, Duschgel: da wird's schnell knapp.",
+   "quote_clean": "Aber mit Hartz IV hat man genug zu essen. Aber es ist ein Leben ohne Freude. Soziale Teilhabe, Kino und so weiter ist weitgehend unmöglich.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Gimmick ohne Wissensgehalt; im Ausschnitt nicht belegt, dass Schieritz 'massiv in Bildung investieren' wuerde.",
+   "stand_note": "",
+   "statement": "Andreas macht seinen Gast am Ende zum Bundeskanzler und lässt ihn das System umbauen.",
+   "question": "Wozu macht Andreas Mark Schieritz am Ende der Folge?",
+   "answer": "Zum Bundeskanzler",
+   "distractors": [
+    "Zum Arbeitsminister",
+    "Zum Chef der Arbeitsagentur",
+    "Zum Bundespräsidenten"
+   ],
+   "aha": "Ein Gedankenspiel, das Andreas gern macht: Du hast die Macht, was änderst du? Schieritz würde den Satz um 80 bis 100 Euro erhöhen und massiv in Bildung investieren.",
+   "quote_clean": "Marc, jetzt zum Ende machen wir dich noch zum Bundeskanzler. Wir wollen ein System der sozialen Sicherung, das die Leute nicht in die Armut bringt.",
+   "quality": 1
+  }
+ ],
+ "id": "10",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

@@ -1,0 +1,298 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahl steht so im Transkript (311/327 s), Aussage allgemein akzeptiert.",
+   "stand_note": "",
+   "statement": "Rund 95 Prozent ihrer Geschichte haben Menschen als Jäger und Sammler gelebt.",
+   "question": "Wie viel Prozent der Menschheitsgeschichte haben Menschen als Jäger und Sammler gelebt?",
+   "answer": "Rund 95 Prozent",
+   "distractors": [
+    "Rund 50 Prozent",
+    "Rund 70 Prozent",
+    "Rund 30 Prozent"
+   ],
+   "aha": "Wenn du bis zum Homo erectus vor rund zwei Millionen Jahren zurückgehst, sind Ackerbau und Städte nur ein kurzer Nachspann. Für Khaled sind Jäger und Sammler deshalb der eigentliche Normalfall der Menschheit, nicht wir.",
+   "quote_clean": "Man sollte sich deswegen dafür interessieren, wenn man sich für die Menschheit interessiert, weil wir immerhin 95 Prozent unserer Menschheitsgeschichte als Jäger und Sammler gelebt haben.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Frage umständlich formuliert; Fakt stimmt (Homo erectus ca. 2 Mio. Jahre), aber wenig eigenständig.",
+   "stand_note": "",
+   "statement": "Die Menschheitsgeschichte reicht bis zum Homo erectus rund zwei Millionen Jahre zurück.",
+   "question": "Wie viele Jahre liegt der Homo erectus laut Khaled Hakami ungefähr zurück?",
+   "answer": "Rund 2 Millionen Jahre",
+   "distractors": [
+    "Rund 200.000 Jahre",
+    "Rund 10 Millionen Jahre",
+    "Rund 500.000 Jahre"
+   ],
+   "aha": "Die Schulbuchgeschichte fängt meist mit den Hochkulturen an, also vor ein paar tausend Jahren. Wer bis zum Homo erectus zurückrechnet, landet bei rund zwei Millionen Jahren, und fast die ganze Zeit wurde gejagt und gesammelt.",
+   "quote_clean": "Wenn man wirklich die zwei Millionen Jahre bis zum Homo erectus zurückgeht, dann waren wir 95 Prozent unserer Menschheitsgeschichte Jäger und Sammler.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "veraltet",
+    "kontext"
+   ],
+   "note": "Zahl ist eine vage Schätzung (wahrscheinlich), von Andreas wiedergegeben und definitionsabhängig; Distraktoren nicht eindeutig falsch; aha nennt Regenwald ohne Beleg.",
+   "stand_note": "",
+   "statement": "Weltweit leben laut Khaled Hakami nur noch etwa fünf bis zehn Völker als reine Jäger und Sammler.",
+   "question": "Wie viele Völker leben weltweit noch als reine Jäger und Sammler?",
+   "answer": "Etwa fünf bis zehn",
+   "distractors": [
+    "Etwa 50 bis 100",
+    "Etwa 200 bis 300",
+    "Etwa 20 bis 30"
+   ],
+   "aha": "Erst haben Ackerbauern die Jäger und Sammler verdrängt, dann ab dem 18. und 19. Jahrhundert die kapitalistischen Gesellschaften alle beide. Übrig sind nur Gruppen an sehr unzugänglichen Orten, meistens im Regenwald.",
+   "quote_clean": "Du hast gesagt, wenn man es genau nimmt, gibt es wahrscheinlich fünf bis zehn Völker auf der Welt, die noch wirklich als reine Jäger und Sammler leben.",
+   "quality": 1
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Zahl belegt (1402 s). Aha enthielt Schlussfolgerung 'so eskaliert wenig', die nicht im Ausschnitt steht.",
+   "stand_note": "",
+   "statement": "Eine typische Gruppe von Jägern und Sammlern umfasst etwa 35 bis 55 Menschen.",
+   "question": "Wie viele Menschen leben laut Khaled Hakami typischerweise in einer Gruppe von Jägern und Sammlern zusammen?",
+   "answer": "Etwa 35 bis 55",
+   "distractors": [
+    "Etwa 5 bis 10",
+    "Etwa 150 bis 200",
+    "Etwa 300 bis 500"
+   ],
+   "aha": "Es gibt immer eine Kerngruppe von 15 bis 20 Leuten, dazu kommen und gehen andere: An einem Tag wachst du mit 25 Menschen auf, am nächsten mit 35. Und wer Streit hat, verlässt die Gruppe und zieht zur nächsten.",
+   "quote_clean": "Du hast eine typische Gruppengröße bei Jägern und Sammlern von ungefähr 35 bis 55 Menschen.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Hierarchie-ab-150 ist Khaleds These, nicht gesichertes Faktum; 'einzige gleichberechtigte Gesellschaftsform' im aha überzogen. Mit Attribution und Dunbar-Bezug umformuliert.",
+   "stand_note": "",
+   "statement": "Laut Khaled Hakami brauchen Gruppen ab etwa 150 Menschen Strukturen und Hierarchien, kleinere können sich basisdemokratisch organisieren.",
+   "question": "Ab welcher Gruppengröße braucht es laut Khaled Hakami Hierarchien?",
+   "answer": "Ab etwa 150 Menschen",
+   "distractors": [
+    "Ab etwa 15 Menschen",
+    "Ab etwa 1.000 Menschen",
+    "Ab etwa 50 Menschen"
+   ],
+   "aha": "Probier es aus, sagt Khaled: Gründe eine Partei oder einen Verein. Unter etwa 150 Menschen geht es seiner Erfahrung nach basisdemokratisch, darüber stellen sich Strukturen und Hierarchien ein. Die 150 gehen auf den Forscher Robin Dunbar zurück: So viele Menschen können wir im Alltag gut überblicken.",
+   "quote_clean": "Unter 150 Menschen, könnte man modern sagen, kannst du das basisdemokratisch organisieren, aber über 150 Menschen müssen sich plötzlich Strukturen und Hierarchien einstellen.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Zitat belegt (2498 s). Aha enthielt erfundene Details (Trittbrettfahrer) und machte aus einer Annahme der Forscher eine Tatsache; Distraktor 'aufrechter Gang' ist selbst ein evolutionärer Vorteil.",
+   "stand_note": "",
+   "statement": "Tratsch ist ein evolutionärer Vorteil, weil wir über Menschen reden können, die gerade nicht da sind.",
+   "question": "Was nennt Khaled Hakami einen unterschätzten evolutionären Vorteil des Menschen?",
+   "answer": "Tratsch über Abwesende",
+   "distractors": [
+    "Das Grillen von Fleisch",
+    "Der Gesang am Lagerfeuer",
+    "Das Zählen bis zehn"
+   ],
+   "aha": "Für Khaled ist Tratsch ein Unikum des Menschen: über andere zu reden, die gerade nicht da sind. Bei den Maniq vermuten die Forscher sogar, dass sie so einander im Regenwald finden: Leute wandern zwischen den Gruppen und tragen Informationen über Orte weiter.",
+   "quote_clean": "Gossip ist total unterschätzt. Gossip ist unser evolutionärer Vorteil, dass wir über andere Menschen sprechen können, die gerade nicht im Raum sind.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Aussage belegt (1265 s), aber Aha enthielt ein T-Shirt-Detail, das nicht im Ausschnitt steht. Als Aussage des Gastes gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Laut Khaled Hakami kennt die Sprache der Maniq keine besitzanzeigenden Fürwörter wie mein oder dein.",
+   "question": "Welche Wörter gibt es laut Khaled Hakami in der Sprache der Maniq nicht?",
+   "answer": "Mein und dein",
+   "distractors": [
+    "Ja und nein",
+    "Hier und dort",
+    "Du und wir"
+   ],
+   "aha": "Bei den Maniq gibt es kein Privateigentum: Was herumliegt, gehört allen. Das geht laut Khaled sogar bis in die Sprache, mein und dein können die Maniq gar nicht sagen. Bei uns sagen wir ja sogar meine Ehefrau oder meine Kinder.",
+   "quote_clean": "Das heißt, die haben zum Beispiel auch keine besitzanzeigenden Fürwörter, also mein, dein und so weiter. Die können das gar nicht sagen.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt (1246-1254 s) und Aha stimmt mit Ausschnitt überein; Statement auf Maniq präzisiert.",
+   "stand_note": "",
+   "statement": "Bei den Maniq wird nicht ausgeteilt, sondern genommen: Teilen folgt einer Nehmerlogik statt einer Geberlogik.",
+   "question": "Wie funktioniert Teilen bei den Maniq?",
+   "answer": "Man nimmt sich, statt zu geben",
+   "distractors": [
+    "Der Älteste teilt alles aus",
+    "Man tauscht Ware gegen Ware",
+    "Jeder behält, was er findet"
+   ],
+   "aha": "Wer gibt, kontrolliert, wem, was, wie viel und wann. Bei den Maniq nimmt man sich einfach: Khaleds Zigarettenhaufen wanderte zwei, drei Tage lang von Hand zu Hand, bis alle versorgt waren, ohne dass jemand ausgeteilt hätte.",
+   "quote_clean": "Wir sagen immer, Geben ist seliger denn Nehmen. Bei den Jägern und Sammlern ist es genau umgekehrt: Die haben keine Geberlogik, sondern eine Nehmerlogik.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Geschichte belegt (1182-1227 s). Derbe Wortwahl im aha entschärft.",
+   "stand_note": "",
+   "statement": "Kurz nachdem Khaled Hakami seine Zigaretten auf einen Haufen gelegt hatte, nahm eine Frau ihm wortlos drei Viertel davon weg.",
+   "question": "Was passierte, als Khaled Hakami seine mitgebrachten Zigaretten im Lager auf einen Haufen legte?",
+   "answer": "Eine Frau nahm wortlos drei Viertel",
+   "distractors": [
+    "Alle lehnten sie höflich ab",
+    "Der Anführer verteilte sie feierlich",
+    "Man warf sie ins Feuer"
+   ],
+   "aha": "Sein Plan war, für jedes Stück Obst oder Fleisch einzeln ein paar Zigaretten zurückzugeben. Der war damit, wie er sagt, komplett über den Haufen geworfen, und genau so hat er die Nehmerlogik der Maniq verstanden.",
+   "quote_clean": "Zwei, drei Minuten später stapft eine Frau auf mich zu, schaut mich nicht an, sagt nichts und nimmt mir einfach drei Viertel von diesen Zigaretten weg und geht zu ihrem Windschirm.",
+   "quality": 5
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Aussage belegt (709-713 s), aber linguistische Behauptung des Gastes, daher attribuiert. Aha enthielt nicht belegte Details (Leben im Jetzt, 'hätt i, würd i').",
+   "stand_note": "",
+   "statement": "Laut Khaled Hakami kennt die Sprache der Maniq keine Vergangenheitsform, keine Zukunftsform und keinen Konjunktiv.",
+   "question": "Was fehlt laut Khaled Hakami der Sprache der Maniq?",
+   "answer": "Vergangenheit, Zukunft und Konjunktiv",
+   "distractors": [
+    "Nur die Mehrzahl",
+    "Wörter für Farben",
+    "Fragesätze und Verneinung"
+   ],
+   "aha": "Khaled erzählt, dass Sprachenlernen im Regenwald ein bisschen wie Code knacken war: ein Wort, dann ein zweites, dann Vokabeln. Bei der Grammatik wurde es mühsam, denn Vergangenheit, Zukunft und Konjunktiv gibt es nicht. Für Wiener, sagt er, ganz unverständlich.",
+   "quote_clean": "Sie haben zum Beispiel keine Vergangenheitsform. Sie haben keine Zukunftsform. Und, für Wiener ganz unverständlich, keinen Konjunktiv.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Belegt (3108-3148 s). Antwort grammatisch holprig, korrigiert; Frage mit Attribution.",
+   "stand_note": "",
+   "statement": "Bei den Maniq werden weder Kinder noch Erwachsene gelobt, weil hinter Lob ein Leistungsprinzip steckt.",
+   "question": "Warum werden Kinder bei den Maniq laut Khaled Hakami nicht gelobt?",
+   "answer": "Hinter Lob steckt ein Leistungsprinzip",
+   "distractors": [
+    "Lob gilt als Unglücksbringer",
+    "Kinder sollen früh hart werden",
+    "Nur Älteste dürfen loben"
+   ],
+   "aha": "Wer lobt, stellt jemanden über die anderen, und das verletzt die Gleichheit. Selbst wenn ein Jäger mit einem fetten Affen heimkommt, klopft ihm keiner auf die Schulter. Bei uns ist dagegen auch die schiachste Kinderzeichnung ein Meisterwerk.",
+   "quote_clean": "Die werden übrigens auch nicht gelobt. Hinter Lob steckt ja ein Leistungsprinzip. Ich will dich irgendwohin loben und belohne dich für etwas, damit ich dich irgendwohin bringe. Kein Kind wird dort gelobt.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Zitat belegt (2069-2079 s); These des Gastes, daher Attribution. Antwort und Distraktoren klarer gefasst; Aha präzisiert (Blasrohr dauert länger).",
+   "stand_note": "",
+   "statement": "Westliche Gesellschaften betonen individuelle Freiheit, sind aber so abhängig von anderen Menschen wie keine Gesellschaft zuvor.",
+   "question": "Welche Ironie sieht Khaled Hakami in westlichen Gesellschaften?",
+   "answer": "Viel Freiheit, aber größte Abhängigkeit von anderen",
+   "distractors": [
+    "Viel Reichtum, aber kaum Bildung",
+    "Viel Technik, aber wenig Arbeitsteilung",
+    "Viel Wissen, aber kaum Gesundheit"
+   ],
+   "aha": "Nimm einem Maniq Bambusmesser, Windschirm und Feuerstelle weg, und in ein paar Stunden hat er sich alles wieder besorgt, nur das Blasrohr dauert etwas länger. Nimm Khaled Schlüssel, Bankomatkarte und Handy weg, und er braucht Hunderte Menschen, bis hin zu denen, die die Rohstoffe für den Chip besorgen.",
+   "quote_clean": "Man könnte sagen, es ist eine Ironie der Menschheitsgeschichte, dass wir in unseren westlichen Gesellschaften, die so viel von individueller Freiheit leben, objektiv am abhängigsten von anderen Menschen sind, wie noch nie in der Menschheitsgeschichte zuvor.",
+   "quality": 4
+  },
+  {
+   "i": 29,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt (590-614 s), von Khaled als eigene Vermutung geäußert. Blasrohr-Detail im aha nicht im Ausschnitt, entfernt.",
+   "stand_note": "",
+   "statement": "Khaled Hakami glaubt, die Maniq haben die Forscher vor allem aufgenommen, weil sie so unterhaltsam ungeschickt waren.",
+   "question": "Warum haben die Maniq die Forscher laut Khaled Hakami aufgenommen?",
+   "answer": "Weil sie pures Entertainment waren",
+   "distractors": [
+    "Weil sie Medikamente mitbrachten",
+    "Weil sie beim Jagen halfen",
+    "Weil die Bauern es befahlen"
+   ],
+   "aha": "In der Früh warten alle nur darauf, dass Khaled etwas falsch macht. Dann wird erst einmal eine Viertelstunde gelacht, und erst danach kommt vielleicht wer und hilft.",
+   "quote_clean": "Wir bringen denen ja überhaupt nichts. Im Gegenteil, wir halten die Leute eigentlich auf und bringen ihnen mehr Arbeit. Aber wir sind pures Entertainment.",
+   "quality": 4
+  },
+  {
+   "i": 30,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zur Begrüßung ohne Wissensgewinn; Antwort weicht vom Wortlaut ab; aha enthält nicht belegte Details.",
+   "stand_note": "",
+   "statement": "Andreas Sator beginnt seine Folgen mit dem Satz, dass man mit dem Podcast die Welt jede Woche ein bisschen besser verstehen soll.",
+   "question": "Wie geht Andreas' Begrüßung weiter: „Das ist Erklär mir die Welt, der Podcast, mit dem du …“?",
+   "answer": "die Welt jede Woche besser verstehst",
+   "distractors": [
+    "jeden Tag etwas Neues lernst",
+    "die großen Fragen beantwortest",
+    "klüger ins Wochenende gehst"
+   ],
+   "aha": "Mit diesem Satz fängt Andreas seit Jahren an, egal ob es um Zinsen, Viren oder Jäger und Sammler geht. Diesmal ging es danach in den thailändischen Regenwald.",
+   "quote_clean": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quality": 1
+  }
+ ],
+ "id": "153",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

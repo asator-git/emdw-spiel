@@ -1,0 +1,277 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Frage steht so bei t=36, Antwort der Gästin folgt direkt.",
+   "stand_note": "",
+   "statement": "Andreas steigt in die Folge mit der Frage ein, warum es neben den Menschenrechten eigene Kinderrechte braucht.",
+   "question": "Mit welcher Frage steigt Andreas in die Folge über Kinderrechte ein?",
+   "answer": "Warum braucht es extra Kinderrechte?",
+   "distractors": [
+    "Ab wann ist man eigentlich erwachsen?",
+    "Hast du selbst Kinder?",
+    "Wer hat die Kinderrechte erfunden?"
+   ],
+   "aha": "Andreas fragt, was eh alle denken: Kinder sind ja auch Menschen. Elisabeths Antwort: Sie sind in einer ganz speziellen Lebenslage, können von Geburt an nicht allein auf sich gestellt sein und brauchen jemanden, der Verantwortung übernimmt.",
+   "quote_clean": "Jetzt gibt's ja Menschenrechte, die wir alle kennen. Kinder sind auch Menschen – warum braucht man dann extra noch Kinderrechte?",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Genfer Erklärung 1924, Völkerbund, Inhalte im Ausschnitt belegt; historisch korrekt.",
+   "stand_note": "",
+   "statement": "Kinderrechte wurden 1924 mit der Genfer Erklärung des Völkerbunds erstmals festgeschrieben.",
+   "question": "In welchem Jahr wurden Kinderrechte zum ersten Mal international festgeschrieben?",
+   "answer": "1924",
+   "distractors": [
+    "1948",
+    "1899",
+    "1959"
+   ],
+   "aha": "Die Genfer Erklärung kam vom Völkerbund, dem Vorgänger der UNO. Drinnen standen Basics: Kinder sollen bei Krankheit geschützt, gut ernährt und gebildet werden. 2024 wurde sie also genau 100.",
+   "quote_clean": "100 Jahre ist es her, seit Kinderrechte das erste Mal festgeschrieben wurden: Da gab es die sogenannte Genfer Erklärung der Kinderrechte 1924.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Mitbestimmung als Neuerung 1989 wörtlich belegt; Distraktoren (Bildung, Krankheitsschutz) kamen schon 1924 vor.",
+   "stand_note": "",
+   "statement": "Die UN-Kinderrechtskonvention von 1989 brachte neben dem Schutz von Kindern erstmals ein Recht auf Mitbestimmung.",
+   "question": "Was war das große Neue an der UN-Kinderrechtskonvention von 1989?",
+   "answer": "Das Recht auf Mitbestimmung",
+   "distractors": [
+    "Das Verbot jeder Kinderarbeit",
+    "Das Recht auf Schulbildung",
+    "Der Schutz vor Krankheit"
+   ],
+   "aha": "Davor ging es fast nur darum, Kinder als hilflose Wesen vor Gewalt, Armut und Krankheit zu schützen. Seit 1989 gilt: Kinder dürfen in allen Bereichen ihres Lebens mitreden. Das „Solange du deine Füß unter meinen Tisch stellst“ hat seither ein Problem.",
+   "quote_clean": "Mit der Kinderrechtskonvention 1989 ist neu dazugekommen: das Recht auf Mitbestimmung.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Keine Altersgrenze wörtlich belegt; Frage leicht fangfragenhaft, aber eindeutig.",
+   "stand_note": "",
+   "statement": "Für das Mitbestimmungsrecht von Kindern gibt es keine Altersgrenze.",
+   "question": "Ab welchem Alter haben Kinder laut Kinderrechtskonvention ein Recht auf Mitbestimmung?",
+   "answer": "Es gibt keine Altersgrenze",
+   "distractors": [
+    "Ab 6 Jahren",
+    "Ab 10 Jahren",
+    "Ab 14 Jahren"
+   ],
+   "aha": "Auch Kleinkinder zeigen sehr genau, was sie mögen und was nicht – und das zählt schon. Mitbestimmen heißt halt zuhören und ernst nehmen, nicht automatisch recht bekommen.",
+   "quote_clean": "Da gibt's keine Altersgrenze. Man kann nicht sagen, ab diesem Alter darfst du mitbestimmen, sondern auch Kleinkinder zeigen sehr genau, was sie mögen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Kern belegt; im aha stand ein nicht belegter Satz („bei keinem anderen Menschenrecht“) und ein abgeschnittenes Detail (Essen), beides entfernt.",
+   "stand_note": "",
+   "statement": "Mitbestimmung heißt nicht, dass Kinder alles allein entscheiden: Erwachsene bleiben in der Verantwortung.",
+   "question": "Heißt Mitbestimmung für Kinder, dass sie z. B. selbst entscheiden, wie lange sie aufbleiben?",
+   "answer": "Nein, Erwachsene bleiben verantwortlich",
+   "distractors": [
+    "Ja, ab dem Schulalter",
+    "Ja, das Kind hat das letzte Wort",
+    "Nur, wenn beide Eltern zustimmen"
+   ],
+   "aha": "Die Sorge „dann essen sie nur Zucker und schauen Tablet bis Mitternacht“ geht ins Leere. Erwachsene bleiben in der Verantwortung, zum Beispiel dafür, dass ein Kind genug schlafen kann – und sollen trotzdem offen bleiben für das, was es sagt.",
+   "quote_clean": "Bei den Kinderrechten bleibe ich als erwachsene Person immer in der Verantwortung. Ich muss sehr klar wissen, was geht und was nicht.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Aussage belegt; Antwort ergänzt um das zweite Kriterium (Schulbesuch), erfundenes Rechen-Beispiel im aha entfernt.",
+   "stand_note": "",
+   "statement": "Die UN-Kinderrechtskonvention verbietet Kinderarbeit nicht grundsätzlich, sondern nur gesundheitsschädliche oder solche, die den Schulbesuch verhindert.",
+   "question": "Verbietet die UN-Kinderrechtskonvention Kinderarbeit grundsätzlich?",
+   "answer": "Nein, nur schädliche oder schulhindernde Arbeit",
+   "distractors": [
+    "Ja, ausnahmslos",
+    "Ja, unter 16 Jahren",
+    "Nein, sie erwähnt sie gar nicht"
+   ],
+   "aha": "Verboten ist Arbeit, die die Gesundheit schädigt oder Kinder vom Schulbesuch abhält. Elisabeth erzählt, dass es sogar eine Weltbewegung arbeitender Kinder gibt, die kein völliges Verbot will, weil ihre Familien auf das Einkommen angewiesen sind.",
+   "quote_clean": "Kinderarbeit ist in der Kinderrechtskonvention nicht per se verboten. Es steht drinnen: Es darf keine Kinderarbeit sein, die gesundheitsschädlich ist.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Korczak-Schilderung im Ausschnitt (t=778-806) belegt, inkl. Ausflug aufs Land.",
+   "stand_note": "",
+   "statement": "Janusz Korczak begleitete die jüdischen Waisenkinder seines Heims freiwillig ins Vernichtungslager, obwohl er nicht mitgehen musste.",
+   "question": "Was tat Janusz Korczak, als die Kinder seines Waisenhauses ins Vernichtungslager gebracht werden sollten?",
+   "answer": "Er ging freiwillig mit ihnen",
+   "distractors": [
+    "Er versteckte sie auf dem Land",
+    "Er floh ins Ausland",
+    "Er wurde vorher verhaftet"
+   ],
+   "aha": "Er erzählte den Kindern, sie machten einen Ausflug aufs Land, ließ sie sich schön anziehen und blieb bis zum Tod bei ihnen. Konsequenter kann man sich nicht auf die Seite der Kinder stellen.",
+   "quote_clean": "Er hat den Weg mit ihnen gewählt. Er hätte dort nicht mitgehen müssen, aber er hat gesagt, er geht mit ihnen.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zehn Jahre Vorarbeit ohne Kinder und Behauptung zum einzigen Vertrag ohne Betroffene sind belegt.",
+   "stand_note": "",
+   "statement": "Die Vorarbeiten zur UN-Kinderrechtskonvention dauerten rund zehn Jahre – ohne Beteiligung von Kindern.",
+   "question": "Wie viele Jahre dauerten die Vorarbeiten zur UN-Kinderrechtskonvention von 1989?",
+   "answer": "10 Jahre",
+   "distractors": [
+    "3 Jahre",
+    "25 Jahre",
+    "1 Jahr"
+   ],
+   "aha": "Zehn Jahre wurde verhandelt, und kein einziges Kind saß am Tisch. Damit ist sie der einzige Menschenrechtsvertrag, an dem die Betroffenen nicht mitgearbeitet haben – bei Frauen- oder Behindertenrechten war das anders.",
+   "quote_clean": "Da hat man in diesen 10 Jahren, die die Vorarbeiten bis 1989 gedauert haben, keine Kinder und Jugendlichen dazugeholt.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-das-Frage mit offensichtlichen Distraktoren (Obama, Korczak), Zitat im Ausschnitt abgeschnitten; kein Spielwert.",
+   "stand_note": "",
+   "statement": "Kinderrechte beschneiden keine Elternrechte.",
+   "question": "Wer sagt im Podcast: „Kinderrechte beschneiden keine Elternrechte“?",
+   "answer": "Elisabeth Schaffelhofer-Garcia Marquez",
+   "distractors": [
+    "Andreas Sator",
+    "Barack Obama",
+    "Janusz Korczak"
+   ],
+   "aha": "Schon in der Präambel der Konvention steht, dass ein Kind am besten in einer Familie aufwächst, umgeben von Verständnis und Liebe. Die Eltern sollen es dabei begleiten – nicht der Staat ersetzt sie.",
+   "quote_clean": "Kinderrechte beschneiden keine Elternrechte, sondern sagen viel mehr …",
+   "quality": 1
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Fünfjahresrhythmus belegt, inkl. Hinweis, dass es in der Praxis länger dauert; Hearing in Genf belegt.",
+   "stand_note": "",
+   "statement": "Staaten, die die Kinderrechtskonvention ratifiziert haben, müssen den Vereinten Nationen etwa alle fünf Jahre berichten.",
+   "question": "Alle wie viele Jahre müssen Staaten der UNO über die Umsetzung der Kinderrechte berichten?",
+   "answer": "Alle 5 Jahre",
+   "distractors": [
+    "Jedes Jahr",
+    "Alle 10 Jahre",
+    "Alle 2 Jahre"
+   ],
+   "aha": "Der Staat schreibt einen Bericht, die Zivilgesellschaft einen ergänzenden – früher „Schattenbericht“ genannt. Dann gibt's ein Hearing vor dem Kinderrechtsausschuss in Genf, mittlerweile auch mit Kindern und Jugendlichen. In der Praxis dauert es allerdings oft länger als fünf Jahre.",
+   "quote_clean": "… muss dann im Fünfjahresrhythmus – in der Praxis mittlerweile immer länger – den Vereinten Nationen Bericht erstatten.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Inhalt belegt (keine Strafzahlungen, höchstens schlechte Nachrede); aha war holprig formuliert, neu gefasst.",
+   "stand_note": "",
+   "statement": "Die Empfehlungen des UN-Kinderrechtsausschusses funktionieren wie ein Zeugnis – Strafen bei Nichteinhaltung gibt es keine.",
+   "question": "Was passiert, wenn ein Staat die Empfehlungen des UN-Kinderrechtsausschusses ignoriert?",
+   "answer": "Nichts außer schlechtem Ruf",
+   "distractors": [
+    "Er zahlt Strafgeld",
+    "Er wird aus der UNO ausgeschlossen",
+    "Er verliert sein Stimmrecht"
+   ],
+   "aha": "Elisabeth vergleicht die Empfehlungen mit einem Zeugnis: Da steht, wo ein Land gerade steht und was es bis zum nächsten Mal besser machen soll. Strafzahlungen oder gewichtige Rügen gibt's keine – höchstens eine schlechte Nachrede international.",
+   "quote_clean": "Die Empfehlungen des Kinderrechtsausschusses sind so das Zeugnis, wo man sagt: Okay, da stehst du jetzt gerade.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-das-Frage mit unernsten Distraktoren (Harald Schmidt); Aussage ist eher Haltung als Fakt.",
+   "stand_note": "",
+   "statement": "Kinder sind nicht nur unsere Zukunft, sondern leben in der Gegenwart, und es soll ihnen jetzt gut gehen.",
+   "question": "Wer antwortet auf „Kinder sind unsere Zukunft“ mit „Die sind hier in der Gegenwart“?",
+   "answer": "Elisabeth Schaffelhofer-Garcia Marquez",
+   "distractors": [
+    "Andreas Sator",
+    "Janusz Korczak",
+    "Harald Schmidt"
+   ],
+   "aha": "Den Satz „Kinder sind doch unsere Zukunft“ sagt sie selbst bewusst nicht. Wer von klein auf ernst genommen wird, merkt „ich bin was wert“ – und das ist laut ihr eines der besten Präventionsmittel gegen Gewalt.",
+   "quote_clean": "Ich sage immer: Die sind hier in der Gegenwart. Und mir ist eigentlich egal, wie die Zukunft dann ist – ich möchte, dass es ihnen jetzt gut geht.",
+   "quality": 2
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Wer-sagt-das-Frage zu einem geläufigen Slogan (Greta-Distraktor mehrdeutig); aha mit Klimaklage und Kommentar des Ausschusses ist im Ausschnitt nicht belegt.",
+   "stand_note": "",
+   "statement": "Klimaschutz ist Kinderschutz, weil Kinder ein Recht auf eine Umwelt haben, die lange erhalten bleibt.",
+   "question": "Wer sagt im Podcast „Klimaschutz ist Kinderschutz“?",
+   "answer": "Elisabeth Schaffelhofer-Garcia Marquez",
+   "distractors": [
+    "Andreas Sator",
+    "Greta Thunberg",
+    "Harald Schmidt"
+   ],
+   "aha": "Auch der UN-Kinderrechtsausschuss nimmt die Staaten in einem aktuellen Kommentar genau deswegen in die Pflicht. In Österreich haben Jugendliche eine Klimaklage eingebracht – sie wurde aber aus formalen Gründen abgelehnt.",
+   "quote_clean": "Klimaschutz ist Kinderschutz, weil sie ein Recht haben, in einer Umwelt aufwachsen zu können, die noch lange erhalten bleibt.",
+   "quality": 1
+  },
+  {
+   "i": 25,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Zitat belegt; die U-Bahn-Anekdote im aha steht nicht im Ausschnitt und wurde entfernt, ein Distraktor angeglichen. Nette, aber leichte Frage.",
+   "stand_note": "",
+   "statement": "Elisabeth empfindet es als Kompliment, wenn ältere Bekannte sie „kindisch“ nennen.",
+   "question": "Was findet Elisabeth ein tolles Kompliment?",
+   "answer": "Wenn man sie kindisch nennt",
+   "distractors": [
+    "Wenn man sie streng nennt",
+    "Wenn man sie vernünftig nennt",
+    "Wenn man sie erwachsen nennt"
+   ],
+   "aha": "Kinder sehen Details, merken Stimmungen mit und sind kreativ – das möchte sich Elisabeth gern erhalten. Deshalb nimmt sie „kindisch“ als Lob.",
+   "quote_clean": "Zu mir wird öfter von Bekannten, die schon ein bisschen älter sind, gesagt: „Bist du kindisch.“ Und das finde ich eigentlich ein tolles Kompliment.",
+   "quality": 2
+  }
+ ],
+ "id": "325",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

@@ -1,0 +1,291 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1117 s (32.000 km, nur Gewässer mit mehr als 10 km² Einzugsgebiet); Größenordnung stimmt mit dem Nationalen Gewässerbewirtschaftungsplan überein.",
+   "stand_note": "",
+   "statement": "Österreich hat rund 32.000 Kilometer Fließgewässer – und da sind nur die größeren mit mehr als 10 km² Einzugsgebiet mitgezählt.",
+   "question": "Wie viele Kilometer Fließgewässer (nur die größeren) hat Österreich ungefähr?",
+   "answer": "Rund 32.000 Kilometer",
+   "distractors": [
+    "Rund 8.000 Kilometer",
+    "Rund 15.000 Kilometer",
+    "Rund 70.000 Kilometer"
+   ],
+   "number_value": 32000,
+   "number_unit": "km",
+   "slider_min": 5000,
+   "slider_max": 80000,
+   "aha": "Gezählt sind nur Flüsse und Bäche mit mehr als 10 km² Einzugsgebiet, die vielen kleinen Bäche kommen noch dazu. Genau deshalb sagt Sarah Höfler: Überall alles einzuzwängen und hundertprozentig abzusichern geht nicht.",
+   "quote_clean": "Wir haben in Österreich 32.000 km Fließgewässer, das sind aber nur die größeren, also die mit mehr als 10 km² Einzugsgebiet.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1281-1311 s (40 Prozent, 2009 waren es 35); Distraktoren klar abweichend.",
+   "stand_note": "Stand 2026",
+   "statement": "Rund 40 Prozent der österreichischen Fließgewässer sind in einem guten ökologischen Zustand.",
+   "question": "Wie viel Prozent der Fließgewässer in Österreich erreichen den guten ökologischen Zustand?",
+   "answer": "Rund 40 Prozent",
+   "distractors": [
+    "Rund 15 Prozent",
+    "Rund 65 Prozent",
+    "Rund 85 Prozent"
+   ],
+   "number_value": 40,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 100,
+   "aha": "Das ist die Schulnote zwei nach der EU-Wasserrahmenrichtlinie. 2009 waren es erst 35 Prozent, es geht also voran, aber langsam: 60 Prozent sind noch nicht im guten Zustand.",
+   "quote_clean": "Von diesen 32.000 km, von denen ich gesprochen habe, haben 40 % bereits das Ziel erreicht.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2063 s ('ungefähr dieselbe Menge', jeder Kilometer ein Querbauwerk); als Schätzfrage vertretbar.",
+   "stand_note": "",
+   "statement": "In Österreichs Flüssen stehen rund 32.000 Querbauwerke wie Wehre, Schwellen und Kraftwerke – im Schnitt eines pro Kilometer.",
+   "question": "Wie viele Querbauwerke (Wehre, Schwellen, Kraftwerke) gibt es ungefähr in Österreichs Flüssen?",
+   "answer": "Rund 32.000",
+   "distractors": [
+    "Rund 3.000",
+    "Rund 10.000",
+    "Rund 100.000"
+   ],
+   "number_value": 32000,
+   "number_unit": "Querbauwerke",
+   "slider_min": 1000,
+   "slider_max": 100000,
+   "aha": "Im Schnitt steht also auf jedem Flusskilometer irgendetwas quer: früher Mühlen, heute Kraftwerke und Schwellen, die verhindern sollen, dass sich der Fluss eintieft. Für einen Fisch, der zum Laichen flussaufwärts will, ist das ein ziemlicher Hindernislauf.",
+   "quote_clean": "32.000 km Fließgewässer, und wir haben ungefähr dieselbe Menge an Querbauwerken in diesen Fließgewässern, das heißt, wir haben jeden Kilometer irgendwo ein Querbauwerk drinnen.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 839-875 s; Aussage und aha decken sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Nach dem Zweiten Weltkrieg gab es in Österreich den Slogan „Wir schaffen uns ein zehntes Bundesland“ – gemeint war, den Flüssen landwirtschaftliche Flächen abzuringen.",
+   "question": "Was war mit dem Nachkriegs-Slogan „Wir schaffen uns ein zehntes Bundesland“ gemeint?",
+   "answer": "Den Flüssen Ackerland abringen",
+   "distractors": [
+    "Südtirol an Österreich anschließen",
+    "Neue Städte im Marchfeld bauen",
+    "Seen trockenlegen für Industrie"
+   ],
+   "aha": "Nach dem Krieg wollte man sicherstellen, dass sich das Land selbst ernähren kann, also wurden von den 1960ern bis in die 1990er viele Flüsse reguliert. Die gewonnenen Flächen gingen an Landwirt:innen, weshalb es heute kaum öffentliche Gründe an diesen Flüssen gibt.",
+   "quote_clean": "Es hat nach dem Zweiten Weltkrieg so eine Art Initiative oder den Slogan gegeben: Wir schaffen uns ein zehntes Bundesland.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 2212 s; 'flussaufwärts' steht nicht im Ausschnitt und wurde aus der Aussage entfernt.",
+   "stand_note": "",
+   "statement": "Die junge Flussperlmuschel hält sich an Bachforellen fest und verbreitet sich so, weil sie von selbst nicht weit kommt.",
+   "question": "Wie verbreitet sich die bedrohte Flussperlmuschel im Fluss?",
+   "answer": "Sie reist als Jungmuschel auf Bachforellen",
+   "distractors": [
+    "Sie wird von Enten verschleppt",
+    "Sie treibt bei Hochwasser flussabwärts",
+    "Sie gräbt sich durch den Schotter"
+   ],
+   "aha": "Eine Muschel kommt aus eigener Kraft nicht weit, also nimmt sie als Jungmuschel die Bachforelle als Transportmittel. Darum ist es wichtig, dass Fische frei wandern können und nicht an Wehren und Sperren hängen bleiben.",
+   "quote_clean": "Als Jungmuschel hält sie sich auf der Bachforelle fest, und so verbreitet sich die Muschel, weil sie von selber nicht so weit kommt.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2349 s; Huchen als Donaulachs ist korrekt, Distraktoren sind andere Fische.",
+   "stand_note": "",
+   "statement": "Der Huchen wird auch Donaulachs genannt und gehört zu den stark bedrohten Wanderfischen.",
+   "question": "Welcher Fisch wird auch „Donaulachs“ genannt?",
+   "answer": "Der Huchen",
+   "distractors": [
+    "Der Zander",
+    "Der Hecht",
+    "Die Äsche"
+   ],
+   "aha": "Der Huchen ist aus der Donau in ihre Zuflüsse eingewandert, und genau solche Wanderfische leiden laut Sarah Höfler am meisten unter Wehren und Kraftwerken. Wer nicht zu den Laichplätzen kommt, hat keinen Nachwuchs.",
+   "quote_clean": "Der Huchen ist zum Beispiel zu nennen, das ist der sogenannte Donaulachs, der aus der Donau in die ganzen Zuflüsse eingewandert ist.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 999 s; 'keine gefährlichen Wellen' überzeichnet, laut Ausschnitt wird es 'überall ein bisschen mehr' Wasser.",
+   "stand_note": "",
+   "statement": "Das Prinzip „Breitwasser statt Hochwasser“: Darf sich ein Fluss in die Breite ausdehnen, entstehen weniger gefährliche Hochwasserwellen weiter flussabwärts.",
+   "question": "Wofür steht in der Gewässerökologie das Schlagwort „Breitwasser statt Hochwasser“?",
+   "answer": "Flüsse dürfen sich in der Fläche ausbreiten",
+   "distractors": [
+    "Flüsse werden tiefer ausgebaggert",
+    "Höhere Dämme an allen Ufern",
+    "Wasser wird in Stauseen gesammelt"
+   ],
+   "aha": "Ein eingezwängter Fluss schickt das Wasser als große Welle nach unten, wo sie großen Schaden anrichten kann. Darf er sich ausbreiten, wird es überall ein bisschen mehr Wasser, und das tut niemandem so weh.",
+   "quote_clean": "Es gibt auch das Schlagwort Breitwasser statt Hochwasser. Jetzt produzieren wir große Wellen, die runtergehen.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1902-1994 s; Erklärung (Eintiefung durch Regulierung, sinkender Grundwasserspiegel) steht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Ein regulierter, eingeengter Fluss gräbt sich in die Tiefe, weil die Kräfte auf das Flussbett stärker werden – dadurch sinkt auch der Grundwasserspiegel.",
+   "question": "Warum sinkt neben regulierten Flüssen wie der Traun oft der Grundwasserspiegel?",
+   "answer": "Der Fluss gräbt sich in die Tiefe",
+   "distractors": [
+    "Kraftwerke pumpen Grundwasser ab",
+    "Der Fluss verdunstet schneller",
+    "Die Ufersteine dichten den Boden ab"
+   ],
+   "aha": "Was der Fluss früher in den Außenbögen weggeräumt hat, erodiert er jetzt nach unten. Das merkt man dann im Brunnen und in der Au, wo manche Baumarten wegen des fehlenden Wassers nicht mehr zurechtkommen.",
+   "quote_clean": "Weil der Fluss zusammengedrängt worden ist, sind die Kräfte auf die Sohle viel stärker geworden, also die hydraulischen Kräfte, wir sagen Schleppspannung.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 1221 s; die Gleichsetzung 'Einser = Urzustand' im aha ist nicht belegt und wurde entfernt.",
+   "stand_note": "",
+   "statement": "Die EU-Wasserrahmenrichtlinie bewertet Gewässer in fünf Stufen wie Schulnoten; Ziel ist der „gute ökologische Zustand“, also die Note zwei.",
+   "question": "Welche „Schulnote“ sollen Flüsse laut EU-Wasserrahmenrichtlinie mindestens erreichen?",
+   "answer": "Einen Zweier",
+   "distractors": [
+    "Einen Einser",
+    "Einen Dreier",
+    "Einen Vierer"
+   ],
+   "aha": "Der gute ökologische Zustand ist die zweite von fünf Stufen, wie bei Schulnoten. Den Urzustand wiederherzustellen ist laut Sarah Höfler gar nicht möglich und auch nicht das Ziel. Gemessen wird an Fischen, Algen und dem Makrozoobenthos, den kleinen wirbellosen Tieren zwischen den Steinen.",
+   "quote_clean": "Ziel ist es, das klingt jetzt lapidar, den guten ökologischen Zustand zu erreichen. Es gibt fünf Stufen, das ist die zweite Stufe, wie beim Schulnotensystem.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage: Antwort ergibt sich aus der Gästeliste, Distraktoren (Neubauer, Macfarlane) beliebig.",
+   "stand_note": "",
+   "statement": "Sarah Höfler ist überzeugt, dass die Menschheit ohne gesunde Flüsse nicht überleben kann.",
+   "question": "Wer hat's gesagt: „Meine tiefe Überzeugung ist, dass wir als Menschheit ohne gesunde Flüsse nicht überleben werden können“?",
+   "answer": "Sarah Höfler",
+   "distractors": [
+    "Andreas Sator",
+    "Luisa Neubauer",
+    "Robert Macfarlane"
+   ],
+   "aha": "Für die Gewässerökologin ist das keine Romantik, sondern ganz praktisch: Grundwasser, Hochwasserschutz, Dürre, das hängt alles am Fluss. Und dazu kommt eine moralische Verantwortung, nicht einfach Arten auszurotten.",
+   "quote_clean": "Meine tiefe Überzeugung ist, dass wir als Menschheit ohne gesunde Flüsse nicht überleben werden können.",
+   "quality": 1
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage ohne Ratewert; Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Sarah Höfler hält das Wort „Renaturierung“ für schwierig, weil die Natur nie ganz weg war und ein Urzustand nicht das Ziel sein kann.",
+   "question": "Wer hat's gesagt: „Das Wort Renaturierung ist ein bisschen schwierig. Erstens war die Natur nicht ganz weg, und zweitens: Wo wollen wir hin?“",
+   "answer": "Sarah Höfler",
+   "distractors": [
+    "Andreas Sator",
+    "Luisa Neubauer",
+    "Ein Landwirt aus dem Hausruckviertel"
+   ],
+   "aha": "Zurück in den Urzustand geht nicht, schon weil sich Sediment, Wassertemperatur und Klima verändert haben. Deshalb reden Fachleute lieber von gewässerökologischen Aufwertungsmaßnahmen, das klingt zwar sperriger, ist aber ehrlicher.",
+   "quote_clean": "Deswegen ist auch das Wort Renaturierung ein bisschen schwierig. Erstens war die Natur nicht ganz weg, und zweitens: Wo wollen wir hin?",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Wer-hat's-gesagt-Frage ohne Ratewert; im aha steht unbelegte Behauptung zu den Preisen.",
+   "stand_note": "",
+   "statement": "Für Sarah Höfler ist der Kauf von Grundstücken am Fluss das Um und Auf jeder Renaturierung.",
+   "question": "Wer hat's gesagt: „Der Grunderwerb ist wirklich das Um und Auf für Renaturierung“?",
+   "answer": "Sarah Höfler",
+   "distractors": [
+    "Andreas Sator",
+    "Luisa Neubauer",
+    "Robert Macfarlane"
+   ],
+   "aha": "An der Traun ist ein großes Projekt genau daran gescheitert: Verständnis ja, aber halt nicht auf meinem Grund. Für ein paar tausend Euro behält man lieber sein Stückel Wald.",
+   "quote_clean": "Und das ist die große Schwierigkeit: Der Grunderwerb ist wirklich das Um und Auf für Renaturierung.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Beleg bei 1398 s; 'nach wenigen Metern' steht nicht im Ausschnitt (sie schafften die 100 m nicht), Antwort und aha entsprechend angepasst.",
+   "stand_note": "",
+   "statement": "Nach der Renaturierung von Sandbach und Leitenbach in Oberösterreich waren die Fischbottiche voll, bevor die 100-Meter-Messstrecke fertig befischt war.",
+   "question": "Was passierte bei der Kontroll-Befischung nach der Renaturierung von Sandbach und Leitenbach?",
+   "answer": "Die Bottiche waren voll, bevor die 100 m fertig waren",
+   "distractors": [
+    "Man fand dort nicht einen einzigen Fisch",
+    "Es gingen nur eingeschleppte Arten ins Netz",
+    "Ein Biber hatte die Bäche komplett aufgestaut"
+   ],
+   "aha": "Flüsse sind erstaunlich resilient: Kaum haben sie wieder Platz und Struktur, startet das Leben durch. Bei den zwei kleinen Bächen im Hausruckviertel war das so deutlich, dass das Team die 100-Meter-Strecke nicht einmal fertig befischen konnte, weil die Bottiche voll waren.",
+   "quote_clean": "Nach der Renaturierung haben wir dort befischt. Wir haben nicht einmal unsere 100 m fertig fischen können, weil die Bottiche voll waren.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zum Gesprächsverlauf ohne Wissensgewinn; Distraktoren (Fischen, Donau baden) reine Erfindungen; aha enthält Wertung ohne Beleg.",
+   "stand_note": "",
+   "statement": "Andreas fragt zum Schluss nach einem praktischen Tipp, wie man beim nächsten Spaziergang mit neuen Augen auf einen Bach schauen kann.",
+   "question": "Welche Frage stellt Andreas Sarah Höfler gegen Ende des Gesprächs?",
+   "answer": "Einen Tipp für den nächsten Bachspaziergang",
+   "distractors": [
+    "Ob sie selbst gern fischen geht",
+    "Welcher Fluss Österreichs der sauberste ist",
+    "Ob man in der Donau baden kann"
+   ],
+   "aha": "Typisch Andreas: am Ende noch etwas, das man selber gleich ausprobieren kann. Sarahs Antwort: Schau, wo die Regulierung aufhört, und vergleich Tiefe, Breite und Fließgeschwindigkeit.",
+   "quote_clean": "Und wenn wir mit neuen Augen auf den Bach oder Fluss in der Nähe schauen möchten, wenn wir das nächste Mal vorbeispazieren, hast du einen Tipp?",
+   "quality": 1
+  }
+ ],
+ "id": "387",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

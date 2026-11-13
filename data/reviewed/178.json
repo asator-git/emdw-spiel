@@ -1,0 +1,274 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahlen im Transkript klar von Andreas aus der Statistik vorgelesen; Zeitbezug 2019 ist in der Frage enthalten.",
+   "stand_note": "Stand 2019",
+   "statement": "Laut österreichischer Tierversuchsstatistik wurden 2019 rund 250.000 Tiere für Tierversuche verwendet.",
+   "question": "Wie viele Tiere wurden 2019 in Österreich für Tierversuche verwendet?",
+   "answer": "Rund 250.000",
+   "distractors": [
+    "Rund 25.000",
+    "Rund 1 Million",
+    "Rund 80.000"
+   ],
+   "aha": "Das wird genau gezählt: Es gibt eine europaweite Statistikverordnung, und jedes Projekt wird mit Tierart und Zweck registriert. Andreas hat beim Googeln gestaunt, wie penibel das ausgewiesen ist.",
+   "quote_clean": "2019 sind 250.000 Tiere für Tierversuche verwendet worden. Die meisten waren Mäuse, 200.000, aber auch 20.000 Fische, 2.000 Schweine, 2.000 Hühner, sogar 90 Esel und Pferde.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar; inhaltlich Teil derselben Statistik wie Kandidat 0.",
+   "stand_note": "Stand 2019",
+   "statement": "Von den rund 250.000 Versuchstieren in Österreich im Jahr 2019 waren etwa 200.000 Mäuse.",
+   "question": "Wie viele der rund 250.000 Versuchstiere in Österreich waren 2019 Mäuse?",
+   "answer": "Rund 200.000",
+   "distractors": [
+    "Rund 50.000",
+    "Rund 120.000",
+    "Rund 20.000"
+   ],
+   "aha": "Vier von fünf Versuchstieren sind Mäuse. Danach kommen mit Abstand die Fische mit rund 20.000, Schweine und Hühner liegen bei je etwa 2.000, und sogar 90 Esel und Pferde stehen in der Statistik.",
+   "quote_clean": "Die meisten waren Mäuse, 200.000, aber auch 20.000 Fische, 2.000 Schweine, 2.000 Hühner, sogar 90 Esel und Pferde.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar (sieben Zwecke, Gesetz 2012); Aufzählung im aha deckt sich mit dem Transkript.",
+   "stand_note": "Stand 2021",
+   "statement": "Das österreichische Tierversuchsgesetz von 2012 kennt nur sieben zulässige Zwecke, für die Tiere in der Wissenschaft verwendet werden dürfen.",
+   "question": "Wie viele zulässige Zwecke für Tierversuche kennt das österreichische Tierversuchsgesetz?",
+   "answer": "Sieben",
+   "distractors": [
+    "Drei",
+    "Zwölf",
+    "Fünf"
+   ],
+   "aha": "Dazu gehören Grundlagenforschung, angewandte und translationale Forschung, Artenschutz, die Prüfung von Stoffen auf Giftigkeit und sogar Forensik. Wer einen Tierversuch machen will, muss ihn einem dieser Zwecke zuordnen.",
+   "quote_clean": "Das österreichische Tierversuchsgesetz, das 2012 in Kraft getreten ist, kennt nur bestimmte, und zwar sieben zulässige Zwecke für die Verwendung von Tieren im wissenschaftlichen Bereich.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar (393-408).",
+   "stand_note": "Stand 2021",
+   "statement": "In Österreich sind Tierversuche an großen Menschenaffen verboten, Versuche an anderen Primaten nur im Ausnahmefall erlaubt.",
+   "question": "Wie ist es in Österreich mit Tierversuchen an großen Menschenaffen wie Schimpansen oder Gorillas?",
+   "answer": "Sie sind verboten",
+   "distractors": [
+    "Nur für Impfstoffe erlaubt",
+    "Mit Sondergenehmigung erlaubt",
+    "Wie bei Mäusen geregelt"
+   ],
+   "aha": "Schimpansen, Orang-Utans, Gorillas und Bonobos sind tabu, andere Affen nur im Ausnahmefall. Herwig grätscht deshalb gleich rein, als Andreas bei der Impfstoffentwicklung locker von „Affenarten“ spricht.",
+   "quote_clean": "In Österreich zum Beispiel sind Versuche an großen Menschenaffen verboten. Primatenversuche gibt es auch nur im Ausnahmefall.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar (1043-1066).",
+   "stand_note": "Stand 2021",
+   "statement": "Werden einem Tier nach der Tötung Organe entnommen, gilt das rechtlich nicht als Tierversuch.",
+   "question": "Ein Tier wird getötet, danach werden ihm Organe für die Forschung entnommen. Ist das rechtlich ein Tierversuch?",
+   "answer": "Nein, das ist kein Tierversuch",
+   "distractors": [
+    "Ja, immer",
+    "Nur bei Säugetieren",
+    "Nur bei mehr als einem Organ"
+   ],
+   "aha": "Ein Tierversuch braucht ein lebendes Tier, das einer Belastung ausgesetzt wird. Der Tod selbst gilt im Gesetz kaum als Schaden, gezählt wird die negative Erfahrung, also Leiden, Angst und Stress.",
+   "quote_clean": "Um das zu verdeutlichen: Die Tötung und Organentnahme von Tieren, also die Entnahme von Organen von Tieren, die vorher getötet wurden, ist kein Tierversuch.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar (1072-1111); 'Kanüleneinstieg' ist Einstich.",
+   "stand_note": "Stand 2021",
+   "statement": "Als Untergrenze für einen Tierversuch gilt eine Belastung, die mindestens so groß ist wie ein fachgerecht gesetzter Nadelstich.",
+   "question": "Ab welcher Belastung gilt ein Eingriff an einem Tier rechtlich als Tierversuch?",
+   "answer": "Ab der Belastung eines Nadelstichs",
+   "distractors": [
+    "Ab einer Narkose",
+    "Ab einem Hautschnitt",
+    "Ab einem Tag Haltung"
+   ],
+   "aha": "Das Gesetz zieht eine untere Schwelle ein: so viel Belastung wie ein fachmännischer Kanüleneinstich. Liegt die Belastung darunter, ist es rechtlich gar kein Tierversuch.",
+   "quote_clean": "Das Tierversuchsgesetz spricht von einer Belastung, die mit der Belastung eines fachmännisch durchgeführten Kanüleneinstichs vergleichbar ist.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Gast sagt, es sei Ansichtssache, ob MRT schon die Schwelle erfüllt; Frage entsprechend entschärft.",
+   "stand_note": "",
+   "statement": "Auch nicht-invasive Verfahren wie ein MRT können für Tiere belastend sein, etwa wegen des hohen Lärms; ob das schon als Tierversuch zählt, ist umstritten.",
+   "question": "Warum wird diskutiert, ob ein MRT-Scan für ein Versuchstier eine Belastung ist, obwohl nichts aufgeschnitten wird?",
+   "answer": "Wegen des hohen Lärms in der Röhre",
+   "distractors": [
+    "Wegen der Strahlung",
+    "Wegen der Kälte in der Röhre",
+    "Wegen des Kontrastmittels"
+   ],
+   "aha": "Belastung muss nicht invasiv sein, es geht um das, was das Tier erlebt. Ein MRT ist ordentlich laut, und ob das schon die Schwelle zum Tierversuch überschreitet, wird trefflich diskutiert.",
+   "quote_clean": "Zum Beispiel, dass man ein Tier in ein fMRT, also in ein bildgebendes Verfahren, in eine Röhre schiebt. Da sind typischerweise die Lärmbelastungen relativ hoch.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar; Singer ist über 'singerische Idee' (2006) im Ausschnitt eindeutig.",
+   "stand_note": "",
+   "statement": "Der Utilitarist Peter Singer argumentiert, dass ein vergleichbares Interesse gleich viel zählt, egal ob es ein Mensch oder ein Tier hat.",
+   "question": "Mit welchem Grundsatz begründet Peter Singer, dass Tierinteressen moralisch zählen?",
+   "answer": "Ein Interesse zählt als eins",
+   "distractors": [
+    "Nur wer denken kann, zählt",
+    "Menschen zählen doppelt",
+    "Wildtiere zählen mehr"
+   ],
+   "aha": "Wer empfinden kann, hat Interessen, und vom „Standpunkt des Universums“ aus ist egal, in welcher Hülle die stecken. Dasselbe Prinzip war für Menschen schon revolutionär, als es Frauen und Schwarze in die moralische Gemeinschaft holte.",
+   "quote_clean": "Es ist egal, in welcher Hülle das Interesse vorkommt. Ein Interesse zählt als eins.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar (1983-2003).",
+   "stand_note": "",
+   "statement": "Im Recht werden Tiere umso stärker geschützt, je näher sie uns evolutionär oder sozial stehen.",
+   "question": "Nach welchem Muster werden Tiere laut Herwig Grimm im Recht unterschiedlich stark geschützt?",
+   "answer": "Je näher sie uns sind, desto mehr",
+   "distractors": [
+    "Je seltener die Art, desto mehr",
+    "Je größer das Tier, desto mehr",
+    "Je länger es lebt, desto mehr"
+   ],
+   "aha": "Herwig fasst das als „evolutionarily close and socially dear“ zusammen. Menschenaffen sind uns evolutionär nah, Hund und Katze sozial, und beide sind im Tierversuchsgesetz besonders geschützt, die Gelse eher nicht.",
+   "quote_clean": "Je näher uns Tiere evolutionär kommen, umso mehr werden sie geschützt, und je sozial näher sie uns sind, Hunde und Katzen zum Beispiel, umso mehr werden auch die geschützt.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg klar (2032-2050); Wer-hat's-gesagt mit nur einem Gast schwach, daher Begriffsfrage.",
+   "stand_note": "",
+   "statement": "Herwig Grimm nennt es verkappten Anthropozentrismus, wenn Tiere umso mehr geschützt werden, je mehr menschliche Anteile sie haben: Man schützt den Menschen im Tier.",
+   "question": "Wie nennt Herwig Grimm es, wenn Tiere umso mehr geschützt werden, je ähnlicher sie uns Menschen sind?",
+   "answer": "Verkappten Anthropozentrismus",
+   "distractors": [
+    "Verkappten Utilitarismus",
+    "Verkappte Naturromantik",
+    "Verkappten Reduktionismus"
+   ],
+   "aha": "Je mehr „menschliche Anteile“ ein Tier in unseren Augen hat, umso mehr wird es geschützt. Oder, wie Herwig es sagt: Wir schützen nicht die Tiere, sondern den Menschen im Tier.",
+   "quote_clean": "Das nenne ich verkappten Anthropozentrismus. Oder Menschenschutz im Tierschutz. Wir schützen nicht die Tiere, sondern den Menschen im Tier.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Dreierliste belegt; der Zusatz 'bei Tierversuchen greift keiner davon' steht im Ausschnitt nicht, entfernt.",
+   "stand_note": "",
+   "statement": "Klassisch rechtfertigen drei Gründe eine Schädigung: Notwehr, Nothilfe und Zustimmung.",
+   "question": "Welche drei klassischen Gründe rechtfertigen es laut Herwig Grimm, jemandem Schaden zuzufügen?",
+   "answer": "Notwehr, Nothilfe und Zustimmung",
+   "distractors": [
+    "Notwehr, Nutzen und Tradition",
+    "Zustimmung, Gesetz und Mehrheit",
+    "Nothilfe, Forschung und Gewohnheit"
+   ],
+   "aha": "Gegen den Tiger darfst du dich wehren, das Pferd mit Kolik darf man operieren, und zur Blinddarm-OP sagst du selber Ja. Beim Versuchstier hat dagegen nicht das Tier selbst den Vorteil, sondern andere, und genau da liegt für Herwig das moralische Grundproblem.",
+   "quote_clean": "Wenn wir uns fragen, was Schädigung rechtfertigt, dann sind mindestens drei Klassiker zu nennen: Notwehr, Nothilfe und die Zustimmung.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Beleg klar (3455-3472); der Satz, Herwig sei kein Abolitionist, steht nicht im Ausschnitt und wurde entfernt.",
+   "stand_note": "",
+   "statement": "Herwig Grimm wünscht sich einen Wechsel von „Yes-But“ zu „No-But“: Tierversuche sollen die Ausnahme statt der Regel werden.",
+   "question": "Wohin sollte sich die Haltung zu Tierversuchen laut Herwig Grimm verschieben?",
+   "answer": "Von „Yes-But“ zu „No-But“",
+   "distractors": [
+    "Zu einem kompletten Verbot",
+    "Von „No-But“ zu „Yes-But“",
+    "Zu freiwilligen Regeln der Labore"
+   ],
+   "aha": "„Yes-But“ heißt: Tierversuche sind okay, nur unter Bedingungen. „No-But“ dreht das um: Tierversuche sollen die Ausnahme werden und nicht mehr die Regel.",
+   "quote_clean": "Das ist eine Yes-But-Position: Tierversuche sind okay, aber unter bestimmten Kriterien. Und ich glaube, die große Herausforderung ist aktuell, einen Shift Richtung No-But zu generieren.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar (2540-2572); Anekdote, gut spielbar.",
+   "stand_note": "",
+   "statement": "Herwig Grimm fragte Studierende, was man mit einer Maus in der Wohnung tun soll, und hatte nach zehn Minuten eine volle Tafel mit Vorschlägen.",
+   "question": "Mit welcher Frage aus seinem eigenen Leben stieg Herwig Grimm in eine Tierethik-Vorlesung ein?",
+   "answer": "Was tun mit einer Maus in der Wohnung?",
+   "distractors": [
+    "Darf man eine Fliege erschlagen?",
+    "Soll man Fleisch essen?",
+    "Darf man Tauben füttern?"
+   ],
+   "aha": "In seiner Wohnung im Dritten tauchte wirklich eine Maus auf. Die Vorschläge der Studierenden reichten von „Katze rein“ bis „die Wohnung der Maus überlassen“, was natürlich bald mehr Mäuse bedeutet hätte.",
+   "quote_clean": "Ich hatte nach ungefähr zehn Minuten die Tafel bumm voll mit Vorschlägen, und die haben gereicht von „Katze rein“ oder „einfach umbringen“ bis „die Wohnung der Maus überlassen“.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Antwort (Bier, privat) im Ausschnitt nicht belegt; Frage zielt auf eine Ausweichantwort zu Grimms Privatleben.",
+   "stand_note": "",
+   "statement": "Andreas fragt den Tierethiker, ob er Fleisch isst und wie er mit einer nervigen Fliege umgeht.",
+   "question": "Andreas fragt Herwig, ob er als Tierethiker Fleisch isst. Was antwortet Herwig sinngemäß?",
+   "answer": "Das bespricht er nur privat beim Bier",
+   "distractors": [
+    "Er lebt seit Jahren vegan",
+    "Er isst nur Wild",
+    "Er isst nur Bio-Fleisch"
+   ],
+   "aha": "",
+   "quote_clean": "Du als Tierethiker, isst du Fleisch, und wie gehst du zum Beispiel mit einer Fliege um, die dich nervt?",
+   "quality": 1
+  }
+ ],
+ "id": "178",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

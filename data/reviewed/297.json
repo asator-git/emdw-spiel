@@ -1,0 +1,272 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Laokoon 1506 belegt und historisch korrekt.",
+   "stand_note": "",
+   "statement": "Die antike Laokoon-Gruppe wurde 1506 in Rom ausgegraben, ein Ereignis, das Zeitgenossen ähnlich elektrisierte wie später die Mondlandung.",
+   "question": "In welchem Jahr wurde die berühmte antike Laokoon-Skulptur in Rom ausgegraben?",
+   "answer": "1506",
+   "distractors": [
+    "1453",
+    "1572",
+    "1610"
+   ],
+   "aha": "1506 kommt in Rom eine antike Figur aus der Erde, und Michelangelo eilt hin. Schröder vergleicht das mit der Mondlandung 1969, die er als Kind vor dem Fernseher erlebt hat. Die Gruppe kam zu Papst Julius II. in den Vatikan, wo sie bis heute steht.",
+   "quote_clean": "Das Entdecken einer antiken Skulptur wie jener berühmten des Laokoon 1506 ist vergleichbar mit dem Ereignis der Mondlandung.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Michelangelo (1475-1564) starb mit knapp 89 (genau: 88 Jahre, 11 Monate); Formulierung auf 'knapp 89' angepasst.",
+   "stand_note": "",
+   "statement": "Michelangelo wurde für seine Zeit sehr alt: Er starb mit knapp 89 Jahren.",
+   "question": "Wie alt wurde Michelangelo?",
+   "answer": "Knapp 89 Jahre",
+   "distractors": [
+    "57 Jahre",
+    "68 Jahre",
+    "76 Jahre"
+   ],
+   "aha": "In einer Zeit von Armut, Glaubenskriegen und Kämpfen wurde Michelangelo fast 90. Er hat bis ins hohe Alter gearbeitet, etwa an mehreren Pietà-Fragmenten, weil ihn das Thema nie losgelassen hat.",
+   "quote_clean": "Und wenn der Papst ruft, dann kann man nicht nein sagen. Gestorben ist er dann recht alt, mit 89 Jahren.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "transkription"
+   ],
+   "note": "Die Zahl 40 bis 200 erhaltene Zeichnungen steht so im Transkript, widerspricht aber dem gängigen Wissen (rund 600 erhaltene Blätter); zu unsicher.",
+   "stand_note": "",
+   "statement": "Von Michelangelo sind je nach Schätzung nur zwischen 40 und 200 Zeichnungen erhalten.",
+   "question": "Wie viele Zeichnungen von Michelangelo sind nach den großzügigsten Schätzungen höchstens erhalten?",
+   "answer": "Rund 200",
+   "distractors": [
+    "Rund 2.000",
+    "Rund 800",
+    "Rund 20"
+   ],
+   "aha": "",
+   "quote_clean": "Aber insgesamt gibt es von Michelangelo je nach Schätzung zwischen 40 und 200 Zeichnungen.",
+   "quality": 1
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Belegt; 'nie vollendet' auf die ursprüngliche Planung präzisiert (das Grabmal wurde später in kleiner Form fertiggestellt).",
+   "stand_note": "",
+   "statement": "Papst Julius II. beauftragte Michelangelo mit dem größten Grabmal der Geschichte, das in der geplanten Form nie vollendet wurde; aus diesem Projekt stammen der Moses und die Sklaven.",
+   "question": "Für welches ursprünglich riesig geplante Projekt schuf Michelangelo seinen berühmten Moses?",
+   "answer": "Das Grabmal von Papst Julius II.",
+   "distractors": [
+    "Die Fassade des Petersdoms",
+    "Den Brunnen der Piazza Navona",
+    "Das Rathaus von Florenz"
+   ],
+   "aha": "Julius II. wollte nicht weniger als das größte Grabmal der Geschichte. Das Projekt hat Michelangelo jahrzehntelang beschäftigt und wurde so nie fertig. Übrig blieben Meisterwerke wie der Moses und die Sklaven, die heute zum Teil im Louvre stehen.",
+   "quote_clean": "Papst Julius II., der für Michelangelo eine wichtige Rolle spielen wird, gibt ihm den Auftrag, das größte Grabmal der Geschichte für ihn zu machen.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Boxernase durch Streit in der Werkstatt belegt bei 1551-1581.",
+   "stand_note": "",
+   "statement": "Michelangelo hatte seit einem Streit in seiner Jugend eine gebrochene Nase, eine Art Boxernase.",
+   "question": "Woher hatte Michelangelo seine markante, krumme Nase?",
+   "answer": "Von einem Streit mit einem Künstlerkollegen",
+   "distractors": [
+    "Von einem Sturz vom Gerüst",
+    "Von einem fallenden Marmorblock",
+    "Von einer angeborenen Fehlbildung"
+   ],
+   "aha": "Der Mann, der die schönsten Körper der Kunstgeschichte gemeißelt hat, hatte selbst eine zertrümmerte Nase. Ein Kollege aus der Werkstatt hat ihm in jungen Jahren das Nasenbein gebrochen, und das blieb so bis zum Schluss.",
+   "quote_clean": "Ein Streit mit einem Künstler in seiner Jugend- und Gesellenzeit hat dazu geführt, dass der ihm die Nase zertrümmert hat, das Nasenbein so zerbrochen, dass er bis an sein Lebensende eine Boxernase hatte.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Schamtuchmaler Daniele da Volterra belegt bei 1726-1784.",
+   "stand_note": "",
+   "statement": "In der Gegenreformation musste Michelangelos Schüler Daniele da Volterra die nackten Figuren im Jüngsten Gericht mit Tüchern übermalen.",
+   "question": "Was musste Michelangelos Schüler Daniele da Volterra am Jüngsten Gericht nachträglich malen?",
+   "answer": "Tücher über die Geschlechtsteile",
+   "distractors": [
+    "Heiligenscheine über den Köpfen",
+    "Das Wappen des Papstes",
+    "Eine neue Christusfigur"
+   ],
+   "aha": "Im Kampf gegen den Protestantismus wurde der Kirche Michelangelos Nacktheit zu viel. Ausgerechnet Daniele da Volterra, der seinen Lehrer sehr verehrte, musste die Tüchlein malen und wurde zum Schamtuchmaler degradiert.",
+   "quote_clean": "Er wird dann zum Schamtuchmaler degradiert und muss am Jüngsten Gericht des Michelangelo vor jedes Geschlecht ein kleines Tüchlein drübermalen.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Größenunterschied bei der Pietà belegt bei 1436-1465.",
+   "stand_note": "",
+   "statement": "In Michelangelos römischer Pietà ist Maria deutlich größer als Jesus, was durch die Komposition aber kaum auffällt.",
+   "question": "Welcher Trick steckt in Michelangelos römischer Pietà im Petersdom?",
+   "answer": "Maria ist viel größer als Jesus",
+   "distractors": [
+    "Jesus ist aus zwei Blöcken gehauen",
+    "Maria hat keine Füße",
+    "Die Figuren sind nur halb fertig"
+   ],
+   "aha": "Würde Maria aufstehen, wäre sie um eine halbe Körpergröße größer als ihr Sohn. Michelangelo bettet das in eine Pyramidenform ein, sodass man denkt, sie seien gleich groß. Mit dieser Pietà wurde er quasi über Nacht berühmt.",
+   "quote_clean": "Sie ist viel größer als Jesus selbst, das merkt man aber nicht. Es gelingt ihm, diesen Größenunterschied zu verbergen.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Schröders Tipp zur Pose belegt bei 634-689.",
+   "stand_note": "",
+   "statement": "Michelangelos Figuren sind so verdreht, dass Schulter, Hüfte und Knie in verschiedene Richtungen zeigen; das macht sie zum Ausdruck innerer Zerrissenheit.",
+   "question": "Was merkt man laut Schröder, wenn man selbst die Pose eines Michelangelo-Akts nachstellt?",
+   "answer": "Schulter, Hüfte und Knie gehen in verschiedene Richtungen",
+   "distractors": [
+    "Man steht völlig entspannt",
+    "Man kippt sofort nach vorne",
+    "Man kann nicht mehr atmen"
+   ],
+   "aha": "Probier es ein paar Sekunden: Die gegenläufigen Kräfte sind so stark, dass es dich fast zerreißt. Genau das unterscheidet Michelangelo von Raffael, dessen Figuren ruhig in sich ruhen.",
+   "quote_clean": "Und dann merkt man plötzlich, wie Schulter, Hüfte und Knie alle in verschiedene Richtungen gehen. Man sagt: Das kann ich gar nicht, da zerreißt es mich.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Platonisches Ideal belegt bei 1638; Schröder relativiert es selbst als 'nur eine Vorstellung', Frage fragt nur nach der Vorstellung.",
+   "stand_note": "",
+   "statement": "Hinter Michelangelos Skulpturen steht die platonische Idee, dass die Figur schon im Steinblock steckt und nur herausgeschält werden muss.",
+   "question": "Welche Vorstellung steckt hinter Michelangelos Bildhauerei?",
+   "answer": "Die Figur steckt schon im Stein",
+   "distractors": [
+    "Der Stein bestimmt den Auftraggeber",
+    "Jede Figur braucht ein Tonmodell",
+    "Marmor muss erst jahrelang ruhen"
+   ],
+   "aha": "Schön gedacht, aber laut Schröder musste Michelangelo jede Figur vorher genau zeichnen: Wo setzt er an, wie behaut er den Stein? Darum muss es für Moses und Co. Vorzeichnungen gegeben haben.",
+   "quote_clean": "Ein platonisches Ideal: Es besagt, dass im Steinblock selbst schon die Skulptur enthalten wäre und man sie nur herausschälen müsste. Das ist aber nur eine Vorstellung.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Rückseite des Mondes belegt bei 347-376.",
+   "stand_note": "",
+   "statement": "Schröder vergleicht die nackte Frau in der Kunst der Renaissance mit der Rückseite des Mondes: Man wusste, dass es sie gibt, sah sie aber nicht an.",
+   "question": "Mit welchem Bild beschreibt Schröder die Rolle der nackten Frau in der Kunst zu Michelangelos Zeit?",
+   "answer": "Wie die Rückseite des Mondes",
+   "distractors": [
+    "Wie ein verschlossenes Buch",
+    "Wie ein Schatten an der Wand",
+    "Wie ein Stern am Tageshimmel"
+   ],
+   "aha": "Laut Schröder war die Frau in der Kunst entweder eine Venus, ein Laster oder in wallende Gewänder gehüllt. Michelangelo interessierte sich für den männlichen Akt, seine Prophetinnen sind eigentlich Männerkörper mit nachträglich angesetzter Brust.",
+   "quote_clean": "Sie ist gleichsam die Rückseite des Mondes. Wir wissen, dass die nackte Frau existiert, sonst wäre die Menschheit längst ausgestorben.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beurteilung als künstliches Ideal belegt bei 605-634.",
+   "stand_note": "",
+   "statement": "Schröder nennt Michelangelos Körperideal völlig künstlich und meint, es sei nie gut, unerreichbaren Idealen nachzueifern.",
+   "question": "Wie beurteilt Schröder Michelangelos männliches Körperideal?",
+   "answer": "Als völlig künstliches Ideal",
+   "distractors": [
+    "Als realistisches Abbild der Zeit",
+    "Als gesundes Vorbild für alle",
+    "Als Kopie echter Athleten"
+   ],
+   "aha": "Selbst Hollywood-Körper wie der von Brad Pitt in „Troja“ werden laut Schröder nur für wenige Wochen Dreharbeiten und nur an den sichtbaren Stellen aufgepumpt. Dem Ideal nachzueifern, das man nie erreicht, tut nicht gut.",
+   "quote_clean": "Aber dieses Ideal, das Ideal des Michelangelo, ist eigentlich ein völlig künstliches Ideal, und es ist wahrscheinlich nie gut, wenn wir Idealen nacheifern, die wir gar nicht erreichen können.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Aussage zum Unvollendeten wörtlich belegt bei 230-259.",
+   "stand_note": "",
+   "statement": "Mit Michelangelo beginnt laut Schröder die Idee, dass auch ein unvollendetes Kunstwerk ästhetisch vollendet sein kann.",
+   "question": "Welche Idee beginnt laut Schröder mit Michelangelo?",
+   "answer": "Auch Unvollendetes kann vollendet schön sein",
+   "distractors": [
+    "Kunst muss immer signiert sein",
+    "Skulpturen gehören nur in Kirchen",
+    "Jedes Werk braucht einen Auftraggeber"
+   ],
+   "aha": "Viele seiner großen Aufträge hat Michelangelo nie fertig gemacht. Wir bewundern heute Torsi und Ruinen und vollenden sie im Kopf, und diese Vorstellung beginnt laut Schröder bei ihm.",
+   "quote_clean": "Michelangelo arbeitet an großen Aufgaben und vollendet sie nicht, etwas, das wir aus der Moderne kennen: die Figur des Torsos, der Ruine, des Unvollendeten.",
+   "quality": 4
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zu Andreas' Nachfrage, kein Wissen; Zuordnung zum David unklar.",
+   "stand_note": "",
+   "statement": "Andreas fragt nach, wie ein Renaissance-Künstler wie Michelangelo sein Handwerk überhaupt gelernt hat.",
+   "question": "Wie hakt Andreas nach, nachdem er hört, dass Michelangelo den David aus einem einzigen Block gehauen hat?",
+   "answer": "Woher hat er denn das gelernt?",
+   "distractors": [
+    "Wie viel hat das damals gekostet?",
+    "Wie schwer ist der David eigentlich?",
+    "Wer hat den Marmor bezahlt?"
+   ],
+   "aha": "",
+   "quote_clean": "Handwerklich unglaublich. Woher hat er denn das gelernt? Wie kann man sich denn das vorstellen?",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Name-Dropping über eine Privatperson; Aha-Details (Schiele-Besuch) im Transkript unklar.",
+   "stand_note": "",
+   "statement": "Schröder erzählt, dass er Brad Pitt persönlich kennt, und erklärt dessen Filmkörper als Ergebnis weniger Wochen Training für die Dreharbeiten.",
+   "question": "Welchen Hollywood-Star kennt Albertina-Chef Klaus Albrecht Schröder persönlich?",
+   "answer": "Brad Pitt",
+   "distractors": [
+    "George Clooney",
+    "Leonardo DiCaprio",
+    "Tom Cruise"
+   ],
+   "aha": "",
+   "quote_clean": "Ich kenne Brad Pitt persönlich, der hatte das nur wenige Wochen während der Aufnahmen, dafür wird er aufgepumpt.",
+   "quality": 1
+  }
+ ],
+ "id": "297",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

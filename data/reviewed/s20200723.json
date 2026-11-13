@@ -1,0 +1,279 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 4083 s, Zahl klar genannt; Stand 2020.",
+   "stand_note": "Stand 2020",
+   "statement": "In Österreich gab es 2020 nur 14 Tageszeitungen, die Medienkonzentration ist vor allem in den Bundesländern stark.",
+   "question": "Wie viele Tageszeitungen gab es in Österreich laut Armin Wolf im Jahr 2020?",
+   "answer": "14",
+   "distractors": [
+    "6",
+    "29",
+    "45"
+   ],
+   "aha": "Nur 14 – für ein Land mit fast neun Millionen Menschen ist das wenig. In fast jedem Bundesland gibt es eine große Zeitung, die beinahe ein Monopol hat, Konkurrenz ist Mangelware.",
+   "quote_clean": "Es gibt in Österreich nur 14 Tageszeitungen. Das ist wirklich wenig. Und man merkt diese Konzentration vor allem in den Bundesländern.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Wolf sagt nur 'glaube ich, über 90 Prozent'; unsichere Schätzung, vermutlich zu hoch.",
+   "stand_note": "",
+   "statement": "Die Vorarlberger Nachrichten erreichen laut Armin Wolf über 90 Prozent der Menschen in Vorarlberg.",
+   "question": "Wie viel Prozent der Vorarlberger:innen erreichen die Vorarlberger Nachrichten laut Armin Wolf?",
+   "answer": "Über 90 Prozent",
+   "distractors": [
+    "Rund 40 Prozent",
+    "Rund 60 Prozent",
+    "Rund 75 Prozent"
+   ],
+   "aha": "Über 90 Prozent, also praktisch jede:r im Ländle. Vorarlberg ist das extremste Beispiel dafür, dass in Österreichs Bundesländern meist eine einzige Zeitung fast ein Monopol hat – in Tirol, Salzburg, Oberösterreich, der Steiermark und Kärnten ist es ähnlich.",
+   "quote_clean": "In Vorarlberg ist es tatsächlich so. Die Vorarlberger Nachrichten erreichen, glaube ich, über 90 Prozent der Vorarlberger.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg passt (43 Prozent, heute 28); aha 'fast jede:r Zweite' war übertrieben.",
+   "stand_note": "Stand 2020",
+   "statement": "Zu ihren Hochzeiten lasen 43 Prozent der Österreicher:innen die Kronen Zeitung, 2020 waren es noch 28 Prozent.",
+   "question": "Wie viel Prozent der Österreicher:innen lasen die Kronen Zeitung zu ihren besten Zeiten?",
+   "answer": "43 Prozent",
+   "distractors": [
+    "18 Prozent",
+    "29 Prozent",
+    "61 Prozent"
+   ],
+   "aha": "43 Prozent, also mehr als zwei von fünf Menschen im Land. Heute sind es laut Wolf nur mehr 28 Prozent – und trotzdem ist die Krone gemessen an der Einwohnerzahl noch immer eine der größten Zeitungen der Welt.",
+   "quote_clean": "Es gab eine Zeit, in der 43 Prozent der Österreicher die Krone gelesen haben. Heute sind es nur mehr 28 Prozent, aber es ist noch immer eine der größten Zeitungen der Welt, umgerechnet auf die Einwohnerzahl.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt, Aussage ist von Wolf klar zugeschrieben ('laut'); Stand 2020.",
+   "stand_note": "Stand 2020",
+   "statement": "Laut Armin Wolf sind Boulevardzeitungen in keinem Land so stark wie in Österreich, nicht einmal in England: Die Hälfte der Zeitungsleser:innen liest Krone oder Österreich.",
+   "question": "Welcher Anteil der Zeitungsleser:innen in Österreich liest laut Armin Wolf die Krone oder „Österreich“?",
+   "answer": "Etwa die Hälfte",
+   "distractors": [
+    "Etwa ein Zehntel",
+    "Etwa ein Viertel",
+    "Etwa drei Viertel"
+   ],
+   "aha": "Die Hälfte. Man denkt beim Thema Boulevard sofort an England mit seinen Tabloids, aber laut Wolf ist der Boulevard nirgends so stark wie bei uns. Er führt das auf zwei Namen zurück: Dichand und Fellner.",
+   "quote_clean": "Es gibt, glaube ich, kein Land auf der Welt, nicht mal England, wo Boulevardzeitungen derartig stark sind wie in Österreich. Die Hälfte der Zeitungsleserinnen und -leser in Österreich liest heute Österreich oder die Krone.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg passt; Distraktor 'Netflix allein' ist nicht eindeutig falsch, ersetzt; 'laut Wolf' ergänzt.",
+   "stand_note": "Stand 2020",
+   "statement": "Die deutschen Sender RTL, Sat.1 und ProSieben haben in Österreich mehr Zuseher:innen als alle österreichischen Privatsender zusammen.",
+   "question": "Wer hat laut Armin Wolf in Österreich viel mehr Zuseher:innen als alle österreichischen Privatsender?",
+   "answer": "RTL, Sat.1 und ProSieben",
+   "distractors": [
+    "Die BBC und CNN",
+    "Das Schweizer Fernsehen SRF",
+    "Die französischen Sender TF1 und France 2"
+   ],
+   "aha": "Österreich hat einen gleichsprachigen Nachbarn, der zehnmal so groß ist. Deshalb sind deutsche Medien hier viel wichtiger als zwischen Nachbarländern sonst üblich – ähnlich ist das laut Wolf höchstens in Kanada mit US-Medien oder in Belgien mit französischen.",
+   "quote_clean": "Es haben zum Beispiel RTL, Sat.1 und ProSieben in Österreich viel mehr Zuseher als alle österreichischen Privatsender.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei ~5100 s; OF1/OF2 klar als ORF 1/ORF 2 zu lesen.",
+   "stand_note": "",
+   "statement": "1980 gab es in Österreich genau zwei Fernsehsender, und um 19.30 Uhr lief auf beiden die Zeit im Bild.",
+   "question": "Wie viele Fernsehsender gab es 1980 in Österreich?",
+   "answer": "Genau zwei",
+   "distractors": [
+    "Genau einen",
+    "Genau vier",
+    "Genau sechs"
+   ],
+   "aha": "Zwei – und um halb acht lief auf beiden die ZIB. Kein Internet, kein YouTube, kein Netflix. Dass damals mehr Junge Nachrichten geschaut haben, lag also weniger am Interesse als am fehlenden Angebot. Wolf nennt das trocken „Nordkorea“.",
+   "quote_clean": "Aber das hatte nur damit zu tun, dass es in Österreich 1980 genau zwei Fernsehsender gab, nämlich ORF 1 und ORF 2, und um 19.30 Uhr auf beiden Sendern die Zeit im Bild 1 gelaufen ist.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 1378-1444 s klar.",
+   "stand_note": "",
+   "statement": "Dass Medien vor allem über Negatives berichten, ist paradoxerweise ein gutes Zeichen: Schlechtes ist noch immer die Ausnahme, und Medien berichten über das Ungewöhnliche.",
+   "question": "Warum ist es laut Armin Wolf paradoxerweise ein gutes Zeichen, dass in den Medien vor allem Negatives steht?",
+   "answer": "Weil Negatives noch die Ausnahme ist",
+   "distractors": [
+    "Weil Negatives mehr Werbung bringt",
+    "Weil Positives schwer überprüfbar ist",
+    "Weil das Publikum Negatives verlangt"
+   ],
+   "aha": "Wolf erklärt es Schüler:innen so: Wer einen Unfall hatte, ruft die Mama an. Wer gut in der Schule angekommen ist, ruft nicht an. Wir reden über das Ungewöhnliche – und Medien auch.",
+   "quote_clean": "Wäre die Welt ein einziger Platz des Schreckens und unser Alltag nur schrecklich, dann würden tatsächlich mehr positive Dinge in der Zeitung stehen, weil sie ungewöhnlicher wären.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 1215-1236 s klar; aha deckt sich mit dem Kontext.",
+   "stand_note": "",
+   "statement": "Konstruktiver Journalismus berichtet weiter kritisch über Probleme, fragt aber zusätzlich, ob irgendwo schon jemand eine Lösung gefunden hat.",
+   "question": "Was macht konstruktiver Journalismus laut Armin Wolf anders als klassische Nachrichten?",
+   "answer": "Er berichtet auch über gefundene Lösungen",
+   "distractors": [
+    "Er verzichtet auf Kritik an Mächtigen",
+    "Er berichtet nur über gute Nachrichten",
+    "Er lässt Betroffene selbst Beiträge schreiben"
+   ],
+   "aha": "Das größte Missverständnis sei, dass konstruktiver Journalismus unkritisch wäre. Er bleibt nur nicht beim Problem stehen. Der Haken: Lösungen zu recherchieren ist aufwendig, personalintensiv und teuer – und alle Redaktionen müssen sparen.",
+   "quote_clean": "Aber wir bleiben viel zu oft bei der Analyse und Beschreibung der Probleme stehen. Schauen wir auch: Hat schon jemand für eines dieser Probleme, die es oft an vielen Plätzen der Welt gibt, eine Lösung gefunden? Und berichten wir auch über diese Lösungen?",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Drei Kriterien belegt; die Behauptung mit dem lustigen Hut am ZIB-2-Ende steht nicht im Ausschnitt, entfernt.",
+   "stand_note": "",
+   "statement": "Junge Menschen wählen Medien laut vielen Studien nach drei Kriterien aus: unterhaltsam, nützlich und von einer Vertrauensperson empfohlen.",
+   "question": "Welches Kriterium gehört NICHT zu den drei, nach denen junge Menschen laut Armin Wolfs Studienauswertung Medien auswählen?",
+   "answer": "Ist es kostenlos?",
+   "distractors": [
+    "Ist es unterhaltsam?",
+    "Ist es nützlich?",
+    "Empfiehlt es jemand, dem ich vertraue?"
+   ],
+   "aha": "Unterhaltsam, nützlich, empfohlen – das hat Wolf für seine Abschlussarbeit aus vielen Studien destilliert. Darum funktionieren zum Beispiel satirische Politiksendungen so gut bei jungen Leuten.",
+   "quote_clean": "Aber junge Menschen entscheiden im Schnitt nach drei Kriterien, welche Medien sie konsumieren: Ist es unterhaltsam? Ist es nützlich? Wird es mir von jemandem empfohlen, dem ich vertraue?",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Zitat belegt, aber 'Wer hat's gesagt' ist bei einem Einzelgast sehr leicht; aha mit unbelegten Details durch belegte ersetzt.",
+   "stand_note": "",
+   "statement": "Armin Wolf sagt, wer glaube, sein Erfolg hänge nur von der eigenen Leistung ab, lüge sich in den Sack – ganz viel sei pures Glück.",
+   "question": "Wer hat's gesagt: „Alle, die glauben, dass ihr Erfolg nur von ihrer eigenen Leistung abhängt, lügen sich in den Sack. Ganz viel ist pures Glück.“",
+   "answer": "Armin Wolf",
+   "distractors": [
+    "Andreas Sator",
+    "Matthias Strolz",
+    "Robert Hochner"
+   ],
+   "aha": "Wolf kam 2002 als Sommervertretung für drei Sendungen zur ZIB 2 – und moderiert sie seit 18 Jahren. Er sagt selbst: Fleiß und Talent nützen nichts, wenn du keine Gelegenheit bekommst, sie zu zeigen.",
+   "quote_clean": "Darum glaube ich: Alle Menschen, die glauben, dass ihr Erfolg nur von ihnen selbst und ihrer eigenen Leistung abhängt, lügen sich in den Sack. Ganz viel ist pures Glück.",
+   "quality": 2
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Zitat belegt, aber leicht erratbar; aha enthielt eine nicht belegte Zusatzbehauptung, gestrichen.",
+   "stand_note": "",
+   "statement": "Armin Wolf glaubt nicht, dass Österreich an zu vielen kritischen Politiker-Interviews leidet.",
+   "question": "Wer hat's gesagt: „Ich glaube ehrlich gesagt nicht, dass unser Land an zu vielen kritischen Interviews mit Politikerinnen und Politikern leidet.“",
+   "answer": "Armin Wolf",
+   "distractors": [
+    "Andreas Sator",
+    "Florian Klenk",
+    "Peter L. Eppinger"
+   ],
+   "aha": "Wer wissen will, was eine Partei vorhat, kann auf ihre Website, Facebook-Seite oder in zig Parteimedien schauen, sagt Wolf. Sein Job sei, diese Ideen zu hinterfragen.",
+   "quote_clean": "Ich glaube ehrlich gesagt nicht, dass unser Land an zu vielen kritischen Interviews mit Politikerinnen und Politikern leidet.",
+   "quality": 2
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat belegt 6523-6529 s; aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Armin Wolf will politische Aufklärung machen – und die braucht ein möglichst großes Publikum, weshalb er beim ORF geblieben ist.",
+   "question": "Wer hat's gesagt: „Politische Aufklärung braucht Publikum, und zwar möglichst großes Publikum.“",
+   "answer": "Armin Wolf",
+   "distractors": [
+    "Andreas Sator",
+    "Rolf Dobelli",
+    "Hans Rosling"
+   ],
+   "aha": "Deshalb ist Wolf trotz Frust nie zu einem anderen Medium gewechselt. Er liebt den Falter und Ö1, aber deren Publikum weiß meist schon, was drinsteht. Er will Journalismus für Menschen machen, die ihn wirklich brauchen.",
+   "quote_clean": "Und ich möchte tatsächlich so etwas machen wie politische Aufklärung. Und politische Aufklärung braucht Publikum, und zwar möglichst großes Publikum.",
+   "quality": 2
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zum Gesprächseinstieg ohne Wissensgewinn; aha mit unbelegtem Detail (Großmutter-Bibliothek).",
+   "stand_note": "",
+   "statement": "Andreas eröffnet das Gespräch mit Armin Wolf mit der Frage, von wem oder wo er am meisten über das Leben und die Welt gelernt hat.",
+   "question": "Mit welcher Frage steigt Andreas ins Deep-Dive-Gespräch mit Armin Wolf ein?",
+   "answer": "Von wem hast du am meisten gelernt?",
+   "distractors": [
+    "Wie bist du zum ORF gekommen?",
+    "Was liest du in der Früh zuerst?",
+    "Wie bereitest du ein Interview vor?"
+   ],
+   "aha": "Passend für einen Podcast, der sich der Bildung verschrieben hat. Wolf antwortet: über das Leben am meisten von seiner Frau, über die Welt aus den vielen Büchern in der Bibliothek seiner Großmutter.",
+   "quote_clean": "Ich würde von dir gerne zu Beginn wissen: Von wem oder wo hast du am meisten gelernt in deinem Leben? Über das Leben und über die Welt?",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg 2806-2819 s; humorvoll, aha passt.",
+   "stand_note": "",
+   "statement": "Auf Andreas' Frage, ob seine Karriere Zufall, Glück, Fleiß, Intelligenz oder Schönheit war, antwortet Armin Wolf zuerst trocken: die Schönheit.",
+   "question": "Andreas fragt, ob Wolfs Karriere Zufall, Glück, Fleiß, Intelligenz oder Schönheit war. Was antwortet Wolf zuerst?",
+   "answer": "Die Schönheit",
+   "distractors": [
+    "Der Fleiß",
+    "Die Intelligenz",
+    "Reiner Zufall"
+   ],
+   "aha": "„Es muss die Schönheit gewesen sein.“ Danach wird er ernst: Das Wichtigste sei gewesen, ein paar Mal total zufällig im richtigen Moment am richtigen Platz gewesen zu sein.",
+   "quote_clean": "Ist das Zufall? War das Glück? War das dein Fleiß, deine Intelligenz, weil du so schön bist? – Ja, die Schönheit. Ich glaube, es war die Schönheit.",
+   "quality": 3
+  }
+ ],
+ "id": "s20200723",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

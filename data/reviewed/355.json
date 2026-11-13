@@ -1,0 +1,288 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (t=4477-4503), Jahr 1994 ist historisch korrekt, aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Der Völkermord in Ruanda fand 1994 statt; viele führen den Konflikt im Ostkongo bis heute darauf zurück.",
+   "question": "In welchem Jahr fand der Völkermord in Ruanda statt?",
+   "answer": "1994",
+   "distractors": [
+    "1988",
+    "1999",
+    "2003"
+   ],
+   "aha": "1994 wurden in Ruanda innerhalb weniger Monate Hunderttausende Menschen ermordet. Danach zogen bewaffnete Gruppen in den Kongo, und genau darauf beziehen sich viele Menschen im Ostkongo, wenn Doris sie nach der Ursache ihrer Lage fragt.",
+   "quote_clean": "der ganze Ruanda-Konflikt, weil viele das auf diese Zeit 1994 zurückbeziehen, wo",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg stimmt (t=2742-2762); aha-Formulierung 'gefährlichsten' abgeschwächt.",
+   "stand_note": "",
+   "statement": "In der humanitären Hilfe gelten Kinder bis fünf Jahre und schwangere Frauen in vielen Ländern als die verwundbarsten Gruppen.",
+   "question": "Bis zu welchem Alter zählen Kinder in Hilfsprojekten oft zur besonders verwundbaren Gruppe?",
+   "answer": "5 Jahre",
+   "distractors": [
+    "2 Jahre",
+    "10 Jahre",
+    "14 Jahre"
+   ],
+   "aha": "Gerade kleine Kinder sind durch Unterernährung und Infektionen besonders gefährdet. Doris weist aber auf den Haken hin: Die Männer fühlen sich dann ausgeschlossen, und ohne sie funktioniert das gesellschaftliche Gefüge nicht.",
+   "quote_clean": "zum Beispiel, dass die Männer exkludiert werden: Kinder bis zum Alter von fünf, schwangere Frauen. In vielen Ländern sind das die vulnerabelsten Bevölkerungsgruppen.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beobachtung aus einem einzelnen Haushalt, als allgemeine Frage nicht beantwortbar (reines Raten) und ohne Erkenntnis.",
+   "stand_note": "",
+   "statement": "In der polygamen Familie im senegalesischen Dorf wechselten sich die Frauen ab, jede kochte zwei Tage lang.",
+   "question": "Wie viele Tage am Stück kochte im senegalesischen Dorf jede Ehefrau, bevor die nächste dran war?",
+   "answer": "2 Tage",
+   "distractors": [
+    "1 Tag",
+    "4 Tage",
+    "7 Tage"
+   ],
+   "aha": "In der Polygamie im Senegal gibt es einen fixen Kochdienst: zwei Tage du, dann die nächste. Die Nachbarin hat die freien Tage gern beim Heiler verbracht, einfach weil sie sich dort wohlgefühlt hat.",
+   "quote_clean": "weil sich das in der Polygamie so abwechselt, dass jede Frau zwei Tage lang kocht.",
+   "quality": 1
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt (t=2988-3054); als Doris' Beobachtung markiert und auf den Fall abwesender Männer präzisiert.",
+   "stand_note": "",
+   "statement": "Laut Doris Burtscher entscheidet in Afghanistan und in vielen afrikanischen Gesellschaften oft die Schwiegermutter, wo eine junge Frau medizinisch behandelt wird.",
+   "question": "Wer entscheidet laut Doris Burtscher in Afghanistan oft, wohin eine junge verheiratete Frau zur Behandlung geht?",
+   "answer": "Die Schwiegermutter",
+   "distractors": [
+    "Die eigene Mutter",
+    "Der Dorfälteste",
+    "Die Frau selbst"
+   ],
+   "aha": "Die junge Frau zieht nach der Hochzeit zur Familie des Mannes, und ist der Mann zum Arbeiten im Ausland, entscheidet oft die Schwiegermutter. Doris' Studie hieß deshalb sinngemäß „Sag das meiner Schwiegermutter“.",
+   "quote_clean": "Natürlich die Schwiegermütter, weil die oft über die Schwiegertochter entscheiden, wohin sie zur Behandlung gehen kann. Die haben eine große, wichtige Position innerhalb der Familie, weil in vielen Gesellschaften, nicht nur in Afghanistan, auch in vielen afrikanischen, die junge Frau, wenn sie heiratet, zur Familie des Mannes zieht.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (t=348-408), Buschfleisch als gängig genannte Ebola-Quelle; aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Als Infektionsquelle für Ebola in Westafrika galt sogenanntes Buschfleisch, also gejagtes Wild wie Affen.",
+   "question": "Was galt beim Ebola-Ausbruch in Westafrika als Übertragungsquelle auf den Menschen?",
+   "answer": "Buschfleisch, also gejagtes Wild",
+   "distractors": [
+    "Verunreinigtes Brunnenwasser",
+    "Stechmücken in Reisfeldern",
+    "Rohe Kuhmilch"
+   ],
+   "aha": "Buschfleisch ist gejagtes Wild aus dem Urwald, etwa Affen, und die Menschen haben es seit jeher gegessen. Dass plötzlich genau das gefährlich sein soll, und dann noch Helfer in Ganzkörperanzügen, hat viele verständlicherweise misstrauisch gemacht.",
+   "quote_clean": "Bei Ebola zum Beispiel wurde gesagt, dass das vom Buschfleisch übertragen wurde. Ja, das Buschfleisch ist gejagtes Wild, das können Affen sein, Tiere im Busch.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Anekdotische Behauptung ohne Pflanzenname oder Beleg ('stark wie Oxytocin'); als Tatsachenfrage nicht belastbar.",
+   "stand_note": "",
+   "statement": "Im Kongo nahmen Frauen eine Pflanze zur Beschleunigung der Geburt, die ähnlich stark wirkte wie das Hormon Oxytocin.",
+   "question": "Wie stark wirkte die Pflanze, die Frauen im Kongo zur Beschleunigung der Geburt nahmen?",
+   "answer": "Ähnlich stark wie Oxytocin",
+   "distractors": [
+    "Gar nicht, reiner Placebo",
+    "Nur schmerzlindernd",
+    "Schwächer als Kamillentee"
+   ],
+   "aha": "Oxytocin wird im Krankenhaus gegeben, um Wehen anzukurbeln, und die Pflanze hatte offenbar dieselbe Wirkung. Viele Medikamente der westlichen Medizin haben ihren Ursprung eh in Pflanzen.",
+   "quote_clean": "Im Kongo zum Beispiel gab es eine Pflanze, die die Frauen zur Beschleunigung der Geburt eingenommen haben. Und es war ganz eindeutig, dass das so stark funktioniert hat wie dieses Oxytocin.",
+   "quality": 1
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (t=1525-1546), Antwort entspricht der WHO-Definition (körperlich, seelisch, sozial).",
+   "stand_note": "",
+   "statement": "Die WHO definiert Gesundheit ganzheitlich: Neben dem Körper zählen auch seelisches und soziales Wohlbefinden.",
+   "question": "Was umfasst die Gesundheits-Definition der WHO?",
+   "answer": "Körperliches, seelisches und soziales Wohlbefinden",
+   "distractors": [
+    "Nur messbare Laborwerte",
+    "Nur die Abwesenheit von Krankheit",
+    "Nur körperliche Fitness"
+   ],
+   "aha": "Gesundheit heißt laut WHO nicht bloß, dass kein Bluttest anschlägt. Genau diese Lücke füllt oft der Heiler, der sich Zeit nimmt und nach dem sozialen Gefüge fragt.",
+   "quote_clean": "weil die WHO-Definition von Gesundheit ein holistischer Ansatz ist. Da spielt die Seele mit, das Befinden und natürlich das körperliche Befinden",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (t=1410-1467), Unterscheidung von Kranksein (illness) und Krankheit (disease) ist korrekt; aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Die Medizinanthropologie unterscheidet das Gefühl des Krankseins von der diagnostizierten Krankheit.",
+   "question": "Womit kommt man laut einem Sprichwort der Medizinanthropologie idealerweise vom Arzt zurück?",
+   "answer": "Mit einer Krankheit, also einer Diagnose",
+   "distractors": [
+    "Mit einem Rezept für Ruhe",
+    "Mit dem Gefühl, gesund zu sein",
+    "Mit einer Überweisung zum Heiler"
+   ],
+   "aha": "Man geht mit einem Gefühl hin und kommt idealerweise mit einem Namen dafür zurück. Heißt es aber „Sie haben nichts“, bleibt das Kranksein ohne Erklärung, und genau da springt in vielen Gesellschaften der Heiler ein.",
+   "quote_clean": "Die Person geht zum Arzt mit dem Gefühl des Krankseins. Idealerweise kommt die Person vom Arzt oder von der Ärztin zurück mit einer Krankheit. Das heißt, er hat sie diagnostiziert.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Beleg stimmt (t=1356-1383); Vergleich mit Krankenhäusern war nicht belegt und ist entfernt, aha an den Wortlaut angepasst (in Simbabwe fehlt dort Zeit, nicht 'fragt keiner').",
+   "stand_note": "",
+   "statement": "Laut Doris Burtscher sucht ein traditioneller Heiler meist einen Grund für die Erkrankung und gibt ihr so einen Sinn, sodass Patient:innen sich verstanden fühlen.",
+   "question": "Was tut ein traditioneller Heiler laut Doris Burtscher oft für seine Patient:innen?",
+   "answer": "Er sucht einen Grund für die Krankheit und gibt ihr einen Sinn",
+   "distractors": [
+    "Er verschreibt stärkere Medikamente",
+    "Er behandelt ausschließlich Kinder",
+    "Er verlangt Bezahlung im Voraus"
+   ],
+   "aha": "In einem vollen Wartebereich wie in Simbabwe bleibt oft keine Zeit zu fragen, wie es der Familie geht. Der Heiler setzt sich hin, kennt Familie und Umgebung und erklärt, warum man krank ist, und das hilft laut Doris offenbar mit.",
+   "quote_clean": "Der Heiler sucht meistens einen Grund für die Erkrankung. Das ist sehr wichtig und gibt der Krankheit dadurch einen Sinn. Es macht Sinn für die Person: Okay, ich weiß jetzt, warum ich krank bin.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt (t=827-909); 'damit mehr Frauen kommen' und die Beschreibung des Krankenhausstuhls im aha stehen nicht im Ausschnitt, ersetzt.",
+   "stand_note": "",
+   "statement": "In einem Projekt in Haiti durften Frauen laut Doris Burtscher wählen, ob sie auf dem Gebärstuhl oder am Boden auf einer Matte gebären, und traditionelle Hebammen durften in die Klinik kommen.",
+   "question": "Was durften Frauen in der Klinik in Haiti laut Doris Burtscher selbst wählen?",
+   "answer": "Ob sie auf dem Gebärstuhl oder am Boden auf einer Matte gebären",
+   "distractors": [
+    "Ob sie mit dem Hubschrauber gebracht werden",
+    "Ob sie einen Kaiserschnitt bekommen",
+    "Ob nur Ärztinnen bei der Geburt dabei sind"
+   ],
+   "aha": "Viele Frauen in Haiti haben Rituale rund um die Geburt, etwa Bäder und Massagen. Das Team ließ deshalb traditionelle Hebammen in die Klinik, damit die Geburt sicher und für die Frauen auch akzeptabel ist.",
+   "quote_clean": "Und wir haben dann gesagt: Die Frau kann sich aussuchen, ob sie auf dem Gebärsessel gebären will oder lieber am Boden, auf einer Matte, wie sie es will.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage in einer Folge mit einem Gast ist trivial; Distraktoren (Chirurg aus Nigeria, Heiler im Senegal) beliebig.",
+   "stand_note": "",
+   "statement": "Doris Burtscher versteht sich bei ihren Einsätzen als Lernende, die Menschen vor Ort sind für sie die Spezialist:innen.",
+   "question": "Wer sagt: „Ich komme als Lernende, ich lerne von euch“?",
+   "answer": "Doris Burtscher",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Chirurg aus Nigeria",
+    "Der Heiler im Senegal"
+   ],
+   "aha": "Für Doris ist das entkolonialisiertes Arbeiten: nicht ankommen und erklären, wie es gehört. Sie schreibt auf und analysiert, aber die Information kommt von den Menschen.",
+   "quote_clean": "Ich sage immer, mein Ansatz ist: Ich komme als Lernende, ich lerne von euch. Ich weiß nicht, wie es bei euch funktioniert, aber ich lerne von euch.",
+   "quality": 1
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Wer-sagt-es-Frage ist trivial, Distraktoren sinnlos; die Aussage zu Andreas im aha ist nicht belegt.",
+   "stand_note": "",
+   "statement": "Doris Burtscher plädiert dafür, traditionelle und westliche Medizin zu kombinieren statt gegeneinander auszuspielen.",
+   "question": "Wer sagt über traditionelle und westliche Medizin: „Die Kombination ist das Wichtige“?",
+   "answer": "Doris Burtscher",
+   "distractors": [
+    "Andreas Sator",
+    "Andreas' alter Hausarzt",
+    "Franz-Stefan Gady"
+   ],
+   "aha": "Doris will keine Entweder-oder-Frage, sondern komplementäre Medizin. Andreas tickt da ein bisschen anders und betont die Evidenz, solange aber die evidenzbasierte Medizin nicht untergraben wird, sind sich die zwei einig.",
+   "quote_clean": "Ich würde auch nicht sagen, dass man nur das eine oder nur das andere macht. Ich glaube, die Kombination ist das Wichtige.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Moderationsfloskel als Frage ist ungeeignet; 'Standardeinstieg' ist im Ausschnitt nicht belegt.",
+   "stand_note": "",
+   "statement": "Andreas fasst am Ende der Folge zusammen, was er sich mitnimmt, und scherzt über das schwierige Wort Medizinanthropologie.",
+   "question": "Mit welcher Frage leitet Andreas am Ende der Folge seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was hast du heute gelernt?",
+    "Was bleibt am Ende übrig?",
+    "Was sollten wir uns merken?"
+   ],
+   "aha": "„Was nehme ich mir mit?“ ist Andreas' Standardeinstieg in seine Zusammenfassung. Diesmal mit kleinem Seitenhieb auf sich selbst, weil er im Gespräch über das Wort Medizinanthropologie gestolpert ist.",
+   "quote_clean": "Was nehme ich mir mit? Erstens, was Medizinanthropologie überhaupt ist, wenn man es mal schafft, so wie ich gerade, das Wort richtig auszusprechen.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt (t=1195-1215); der Namensverlauf im aha (Übersetzer, lokaler Name) steht nicht im Ausschnitt und ist entfernt; Frage präzisiert.",
+   "stand_note": "",
+   "statement": "Der Heiler im Senegal, bei dem Doris forschte, benannte sein Enkelkind nach ihr; die jüngere Doris ist inzwischen über 20.",
+   "question": "Was tat der senegalesische Heiler, bei dem Doris forschte, als Zeichen der Verbundenheit?",
+   "answer": "Er benannte sein Enkelkind nach ihr",
+   "distractors": [
+    "Er schenkte ihr ein Feld",
+    "Er weihte sie zur Heilerin",
+    "Er gab ihr sein Rezeptbuch"
+   ],
+   "aha": "Doris durfte dem Heiler beim Pflanzensammeln und bei Behandlungen zuschauen. Senegal ist für sie fast zu einer zweiten Heimat geworden, und die kleine Doris von damals ist längst erwachsen.",
+   "quote_clean": "Er hat sein Enkelkind nach mir benannt. Die ist inzwischen über 20. Wow. Die kleine oder große Doris schon.",
+   "quality": 4
+  }
+ ],
+ "id": "355",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

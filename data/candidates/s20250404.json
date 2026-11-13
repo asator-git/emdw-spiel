@@ -1,0 +1,741 @@
+{
+ "theme": "Gesellschaft & Kultur",
+ "summary": "Bestatterin Sarah Benz erklärt, was nach dem Tod passiert, was man alles selbst machen darf und warum man sein Begräbnis früh besprechen sollte.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1673,
+   "speaker": "Sarah Benz",
+   "quote": "Es gibt von Bundesland zu Bundesland unterschiedliche Fristen, wie lange jemand zu Hause sein kann. Aber die Kürzeste sind 24 Stunden.",
+   "quote_clean": "Es gibt von Bundesland zu Bundesland unterschiedliche Fristen, wie lange jemand zu Hause sein kann. Aber die kürzeste sind 24 Stunden.",
+   "statement": "In Deutschland darf ein verstorbener Mensch je nach Bundesland unterschiedlich lange zu Hause bleiben, mindestens aber 24 Stunden.",
+   "question": "Wie viele Stunden darf ein verstorbener Mensch in Deutschland mindestens zu Hause bleiben, bevor er abgeholt werden muss?",
+   "answer": "24 Stunden",
+   "distractors": [
+    "2 Stunden",
+    "6 Stunden",
+    "72 Stunden"
+   ],
+   "number_value": 24,
+   "number_unit": "Stunden",
+   "slider_min": 1,
+   "slider_max": 96,
+   "log_scale": false,
+   "aha": "Die Fristen sind je nach Bundesland verschieden, aber selbst die kürzeste lässt einen ganzen Tag Zeit. Viele glauben, der Bestatter muss sofort kommen. Muss er nicht, du darfst selbst entscheiden, wann du den Menschen hergibst.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bestattung",
+    "Recht",
+    "Abschied"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1750,
+   "speaker": "Sarah Benz",
+   "quote": "Also jetzt sind es, glaube ich, ungefähr 80 Prozent von uns sterben nicht zu Hause, obwohl wir eigentlich alle zu Hause sterben wollen",
+   "quote_clean": "Jetzt sind es, glaube ich, ungefähr 80 Prozent von uns, die nicht zu Hause sterben, obwohl wir eigentlich alle zu Hause sterben wollen.",
+   "statement": "Ungefähr 80 Prozent der Menschen sterben nicht zu Hause, obwohl sich die meisten das wünschen würden.",
+   "question": "Wie viel Prozent der Menschen sterben laut Sarah Benz nicht zu Hause?",
+   "answer": "Ungefähr 80 Prozent",
+   "distractors": [
+    "Ungefähr 20 Prozent",
+    "Ungefähr 45 Prozent",
+    "Ungefähr 60 Prozent"
+   ],
+   "number_value": 80,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Die allermeisten sterben im Krankenhaus oder im Pflegeheim, obwohl fast alle lieber daheim sterben würden. Deshalb ist auch die Hürde höher, Verstorbene zum Abschiednehmen noch einmal nach Hause zu holen, erlaubt wäre es aber.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Sterben",
+    "Krankenhaus"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2023,
+   "speaker": "Sarah Benz",
+   "quote": "Die dauert so ungefähr plus minus zwei Tage, das hat auch wieder was zu tun mit Temperatur, Todesumständen und Zusammensetzung von körperlichen",
+   "quote_clean": "Die dauert ungefähr plus minus zwei Tage. Das hat auch wieder etwas mit Temperatur, Todesumständen und der Zusammensetzung von körperlichen Chemikalien zu tun.",
+   "statement": "Die Totenstarre dauert ungefähr zwei Tage und löst sich dann wieder, abhängig von Temperatur und Todesumständen.",
+   "question": "Wie viele Tage dauert die Totenstarre ungefähr, bevor sie sich wieder löst?",
+   "answer": "Ungefähr 2 Tage",
+   "distractors": [
+    "Ungefähr 2 Stunden",
+    "Ungefähr 1 Woche",
+    "Sie löst sich nie"
+   ],
+   "number_value": 2,
+   "number_unit": "Tage",
+   "slider_min": 0,
+   "slider_max": 7,
+   "log_scale": false,
+   "aha": "Die Totenstarre ist nichts Endgültiges, sie geht nach rund zwei Tagen wieder weg. Wer jemanden ankleiden will, macht das am besten in den ersten Stunden, oder wartet einfach ab, statt am Körper herumzubiegen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Totenstarre",
+    "Körper"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 4141,
+   "speaker": "Sarah Benz",
+   "quote": "Eine Möglichkeit, die jetzt relativ überraschenderweise Realität geworden ist, ist eine Form der Kompostierung. Da wird der Körper wieder zu Erde innerhalb von 40 Tagen.",
+   "quote_clean": "Eine Möglichkeit, die relativ überraschend Realität geworden ist, ist eine Form der Kompostierung. Da wird der Körper innerhalb von 40 Tagen wieder zu Erde.",
+   "statement": "Bei der neuen Bestattungsform der Kompostierung wird der Körper innerhalb von etwa 40 Tagen wieder zu Erde.",
+   "question": "Innerhalb von wie vielen Tagen wird ein Körper bei der Kompostierung wieder zu Erde?",
+   "answer": "40 Tage",
+   "distractors": [
+    "4 Tage",
+    "100 Tage",
+    "365 Tage"
+   ],
+   "number_value": 40,
+   "number_unit": "Tage",
+   "slider_min": 1,
+   "slider_max": 150,
+   "log_scale": false,
+   "aha": "Statt Sarg oder Ofen kommt der Körper in einen Kokon mit Rinde, Mulch und Heu, und die Mikroorganismen erledigen den Rest. Nach gut einem Monat ist daraus Erde geworden, die Energie geht zurück in den Naturkreislauf.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Kompostierung",
+    "Bestattung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 4296,
+   "speaker": "Sarah Benz",
+   "quote": "Der Sack ist ja immer so in 1,80, sondern nur so, ja, ich glaube, 60, 70 Zentimeter wird sie bestattet",
+   "quote_clean": "Der Sarg ist ja immer in 1,80 Metern, sie wird aber nur in, ich glaube, 60, 70 Zentimetern bestattet.",
+   "statement": "Ein Sarg wird üblicherweise in rund 1,80 Metern Tiefe beigesetzt, bei der Kompostierung im Boden nur in 60 bis 70 Zentimetern.",
+   "question": "In welcher Tiefe wird ein Sarg bei einer Erdbestattung üblicherweise beigesetzt?",
+   "answer": "Etwa 1,80 Meter",
+   "distractors": [
+    "Etwa 0,80 Meter",
+    "Etwa 3 Meter",
+    "Etwa 5 Meter"
+   ],
+   "number_value": 1.8,
+   "number_unit": "Meter",
+   "slider_min": 0.5,
+   "slider_max": 4,
+   "log_scale": false,
+   "aha": "Rund 1,80 Meter, also ungefähr eine Körperlänge tief. Bei der Kompostierung im Boden, wie es sie in den USA gibt, reichen 60 bis 70 Zentimeter, weil dort oben die Kleinstlebewesen sind, die den Körper zersetzen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erdbestattung",
+    "Friedhof"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 490,
+   "speaker": "Andreas Sator",
+   "quote": "Also, wer das nicht kennt, Pomodoro ist so, du arbeitest zwei Stunden, jeweils 25 Minuten, machst fünf Minuten Pause, dann wieder 25 Minuten, fünf Minuten Pause",
+   "quote_clean": "Wer das nicht kennt: Bei Pomodoro arbeitest du zwei Stunden lang jeweils 25 Minuten, machst fünf Minuten Pause, dann wieder 25 Minuten, fünf Minuten Pause.",
+   "statement": "Bei der Pomodoro-Methode arbeitet man jeweils 25 Minuten am Stück und macht dann fünf Minuten Pause.",
+   "question": "Wie viele Minuten dauert ein Arbeitsblock bei der Pomodoro-Methode?",
+   "answer": "25 Minuten",
+   "distractors": [
+    "15 Minuten",
+    "45 Minuten",
+    "60 Minuten"
+   ],
+   "number_value": 25,
+   "number_unit": "Minuten",
+   "slider_min": 5,
+   "slider_max": 90,
+   "log_scale": false,
+   "aha": "25 Minuten arbeiten, fünf Minuten Pause, und das vier Mal. Andreas schwört drauf: Er hört wirklich mittendrin auf, steht auf, lüftet, trinkt was, und arbeitet danach fokussierter weiter.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Produktivität",
+    "Pomodoro"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 714,
+   "speaker": "Andreas Sator",
+   "quote": "Und da ordne ich die Aufgaben dann noch mit der sogenannten Eisenhower Matrix. Du kannst mal googeln, wenn euch das interessiert, aber man ordnet die Dinge ein, wie wichtig ist das und wie dringend ist das.",
+   "quote_clean": "Und da ordne ich die Aufgaben dann noch mit der sogenannten Eisenhower-Matrix. Du kannst sie googeln, wenn dich das interessiert, aber man ordnet die Dinge danach ein, wie wichtig und wie dringend sie sind.",
+   "statement": "Die Eisenhower-Matrix ordnet Aufgaben danach ein, wie wichtig und wie dringend sie sind.",
+   "question": "Nach welchen zwei Kriterien sortiert die Eisenhower-Matrix Aufgaben?",
+   "answer": "Wichtigkeit und Dringlichkeit",
+   "distractors": [
+    "Aufwand und Kosten",
+    "Dauer und Schwierigkeit",
+    "Spaß und Nutzen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Dringend und wichtig kommt sofort dran, wichtig aber nicht dringend gehört in den Kalender eingeplant, sonst passiert es nie. Andreas gibt zu, dass bei ihm genau diese strategischen Sachen gern liegen bleiben.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Produktivität",
+    "Planung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2507,
+   "speaker": "Sarah Benz",
+   "quote": "Das finde ich zum Beispiel auch eine wichtige Info, dass man muss keine Urne kaufen. Also es wird oft so kommuniziert, dass man jetzt eine Urne kaufen muss, aber die Asche wird im Krematorium in eine Aschekapsel gefüllt.",
+   "quote_clean": "Das finde ich auch eine wichtige Info: Man muss keine Urne kaufen. Es wird oft so kommuniziert, dass man eine Urne kaufen muss, aber die Asche wird im Krematorium in eine Aschekapsel gefüllt.",
+   "statement": "Nach der Einäscherung muss man keine Urne kaufen, weil die Asche im Krematorium bereits in eine Aschekapsel gefüllt wird, die beigesetzt werden kann.",
+   "question": "Muss man nach einer Einäscherung eine Urne kaufen?",
+   "answer": "Nein, eine Aschekapsel reicht",
+   "distractors": [
+    "Ja, gesetzlich vorgeschrieben",
+    "Nur bei Beisetzung am Friedhof",
+    "Nur bei einer Seebestattung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Asche kommt im Krematorium ohnehin in eine Aschekapsel, und die ist schon ein Gefäß. Man kann sie einfach so beisetzen, mit einem Tuch verschönern oder eine Urne selber basteln.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Urne",
+    "Kremierung",
+    "Kosten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4128,
+   "speaker": "Sarah Benz",
+   "quote": "weil zum Beispiel Ascheteilung in Deutschland nicht legal ist. Also ein bisschen Asche aus der Urne zu nehmen und für sich zu behalten, während man einen anderen Teil beisetzt, das geht leider nicht",
+   "quote_clean": "Weil zum Beispiel Ascheteilung in Deutschland nicht legal ist. Also ein bisschen Asche aus der Urne zu nehmen und für sich zu behalten, während man einen anderen Teil beisetzt, das geht leider nicht.",
+   "statement": "In Deutschland ist es nicht erlaubt, einen Teil der Asche eines Verstorbenen zu behalten und den Rest beizusetzen.",
+   "question": "Darf man in Deutschland einen Teil der Asche eines Verstorbenen für sich behalten?",
+   "answer": "Nein, Ascheteilung ist nicht erlaubt",
+   "distractors": [
+    "Ja, bis zur Hälfte",
+    "Ja, mit ärztlicher Bestätigung",
+    "Ja, wenn es so verfügt wurde"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Viele würden sich gern ein bisschen Asche behalten, in Deutschland geht das aber nicht. Sarah kämpft dafür, dass die strengen Bestattungsgesetze gelockert werden, bisher ziemlich zäh.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Recht",
+    "Asche",
+    "Deutschland"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4370,
+   "speaker": "Sarah Benz",
+   "quote": "ich könnte mir fast vorstellen, weil fast alle Länder um uns herum haben liberalere Bestattungsgesetze als Deutschland.",
+   "quote_clean": "Ich könnte es mir fast vorstellen, weil fast alle Länder um uns herum liberalere Bestattungsgesetze haben als Deutschland.",
+   "statement": "Fast alle Nachbarländer Deutschlands haben liberalere Bestattungsgesetze als Deutschland selbst.",
+   "question": "Wie streng sind die deutschen Bestattungsgesetze im Vergleich zu den Nachbarländern?",
+   "answer": "Strenger als in fast allen Nachbarländern",
+   "distractors": [
+    "Lockerer als in fast allen Nachbarländern",
+    "Praktisch überall gleich streng",
+    "Nur strenger als in Österreich"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Österreich ist es zum Beispiel einfacher, die Urne mitzunehmen und an einem anderen Ort beizusetzen. In Deutschland geht das nicht, auch Asche verstreuen im eigenen Garten ist dort tabu.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Recht",
+    "Deutschland",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2682,
+   "speaker": "Sarah Benz",
+   "quote": "Also weil wir sind nicht verheiratet, das heißt wir haben keine Rechte aneinander, sie ist nicht bestattungspflichtig für mich, weil das geht nach Blutsverwandtschaft",
+   "quote_clean": "Weil wir nicht verheiratet sind, haben wir keine Rechte aneinander. Sie ist nicht bestattungspflichtig für mich, weil das nach Blutsverwandtschaft geht.",
+   "statement": "Die Bestattungspflicht richtet sich nach Ehe und Blutsverwandtschaft, enge Freundinnen und Freunde haben dabei keine Rechte.",
+   "question": "Wonach richtet sich, wer für eine Bestattung verantwortlich ist?",
+   "answer": "Nach Ehe und Blutsverwandtschaft",
+   "distractors": [
+    "Nach dem Testament",
+    "Nach dem gemeinsamen Wohnort",
+    "Nach der engsten Freundschaft"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die beste Freundin kann der wichtigste Mensch im Leben sein, juristisch taucht sie nirgends auf. Wer will, dass jemand anderer die Bestattung übernimmt, muss das verfügen, und diese Person zahlt dann auch.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bestattungspflicht",
+    "Recht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2737,
+   "speaker": "Sarah Benz",
+   "quote": "also in Deutschland ist es so, es gibt ein Anrecht auf Sozialbestattung, wenn die bestattungspflichtige Person nicht viel Geld hat, dann kann sie einen Antrag beim Sozialamt stellen und dann bekommt sie finanzielle Unterstützung für die Bestattung.",
+   "quote_clean": "In Deutschland gibt es ein Anrecht auf Sozialbestattung: Wenn die bestattungspflichtige Person nicht viel Geld hat, kann sie einen Antrag beim Sozialamt stellen und bekommt dann finanzielle Unterstützung für die Bestattung.",
+   "statement": "In Deutschland kann eine bestattungspflichtige Person mit wenig Geld beim Sozialamt eine Sozialbestattung beantragen.",
+   "question": "Wer kann in Deutschland beim Sozialamt Geld für eine Sozialbestattung beantragen?",
+   "answer": "Nur die bestattungspflichtige Person",
+   "distractors": [
+    "Jede Person, die die Bestattung zahlt",
+    "Nur das Bestattungsunternehmen",
+    "Nur die Friedhofsverwaltung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das kann richtig tragisch werden: Ein Mann pflegte seinen Lebenspartner jahrelang, verheiratet waren sie aber nicht. Bestattungspflichtig war plötzlich der Vater, der den Antrag nicht stellen wollte, also gab's kein Geld.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Recht",
+    "Sozialbestattung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1907,
+   "speaker": "Sarah Benz",
+   "quote": "Es gibt die sogenannten Totenflecken, die entstehen dadurch, dass das Blut absackt, weil der Blutkreislauf nicht mehr zirkuliert. Die sind dann an der Unterseite vom Körper, da wo der Körper aufliegt.",
+   "quote_clean": "Es gibt die sogenannten Totenflecken. Die entstehen dadurch, dass das Blut absackt, weil der Blutkreislauf nicht mehr zirkuliert. Die sind dann an der Unterseite des Körpers, dort, wo der Körper aufliegt.",
+   "statement": "Totenflecken entstehen, weil das Blut nach dem Tod absackt; sie bilden sich an der Unterseite des Körpers, wo er aufliegt.",
+   "question": "Wo am Körper bilden sich Totenflecken?",
+   "answer": "An der Unterseite, wo er aufliegt",
+   "distractors": [
+    "Im Gesicht und an den Händen",
+    "Gleichmäßig am ganzen Körper",
+    "Rund um das Herz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn das Herz nicht mehr pumpt, folgt das Blut der Schwerkraft nach unten. Die Flecken kommen erst nach einigen Stunden und sind anfangs zartrosa, nicht gleich dunkellila, wie viele befürchten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Körper",
+    "Tod"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4231,
+   "speaker": "Sarah Benz",
+   "quote": "Der körperliche Verwesungsprozess, der beginnt durch unsere eigenen Bakterien, die wir schon im Körper haben.",
+   "quote_clean": "Der körperliche Verwesungsprozess beginnt durch unsere eigenen Bakterien, die wir schon im Körper haben.",
+   "statement": "Die Verwesung eines Körpers beginnt durch die Bakterien, die schon zu Lebzeiten im Körper leben.",
+   "question": "Wodurch beginnt der Verwesungsprozess eines Körpers?",
+   "answer": "Durch die körpereigenen Bakterien",
+   "distractors": [
+    "Durch Insekten von außen",
+    "Durch Sauerstoff aus der Luft",
+    "Durch Pilze aus dem Erdreich"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wir brauchen nichts von außen, wir lösen uns aus uns selbst heraus auf. Sarah findet das eigentlich total cool. Und wenn's nicht so wäre, würden hier überall Leute herumliegen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Körper",
+    "Verwesung",
+    "Bakterien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2382,
+   "speaker": "Sarah Benz",
+   "quote": "und wenn dann die Verbrennung ansteht, dann kann man entweder sich das Datum sagen lassen und die Uhrzeit und eine Kerze anzünden, aber man kann auch mit ins Krematorium kommen und kann die Einfahrt des Sages in den Ofen verfolgen.",
+   "quote_clean": "Und wenn dann die Verbrennung ansteht, kann man sich entweder Datum und Uhrzeit sagen lassen und eine Kerze anzünden, oder man kann mit ins Krematorium kommen und die Einfahrt des Sarges in den Ofen verfolgen.",
+   "statement": "Angehörige können ins Krematorium mitkommen und dabei sein, wenn der Sarg in den Ofen fährt.",
+   "question": "Dürfen Angehörige dabei sein, wenn der Sarg im Krematorium in den Ofen fährt?",
+   "answer": "Ja, das ist möglich",
+   "distractors": [
+    "Nein, das ist verboten",
+    "Nur Ärztinnen und Ärzte",
+    "Nur bei Kindern"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Viele schrecken zuerst zurück und wollen es dann doch, weil es ja sowieso passiert. Die Klappe geht auf, der Sarg fährt in ein glühendes Orange, und diese Wucht kann sogar etwas Beruhigendes haben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kremierung",
+    "Abschied"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2363,
+   "speaker": "Sarah Benz",
+   "quote": "Und dann sind die Toten dort, dann erfolgt die zweite Leichenschau, das heißt, die Fremation, also die Verbrennung ist nicht sofort, wenn die Leute dort ankommen, sondern die müssen nochmal untersucht werden.",
+   "quote_clean": "Und dann sind die Toten dort, dann erfolgt die zweite Leichenschau. Das heißt, die Kremation, also die Verbrennung, ist nicht sofort, wenn die Toten dort ankommen, sondern sie müssen noch einmal untersucht werden.",
+   "statement": "Vor einer Einäscherung findet im Krematorium eine zweite Leichenschau statt, die Verstorbenen werden also erneut untersucht.",
+   "question": "Was passiert im Krematorium, bevor ein verstorbener Mensch eingeäschert wird?",
+   "answer": "Eine zweite Leichenschau",
+   "distractors": [
+    "Eine Einbalsamierung",
+    "Eine Obduktion in jedem Fall",
+    "Eine kirchliche Segnung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nach einer Verbrennung lässt sich nichts mehr nachprüfen, deshalb schaut vorher noch einmal jemand genau hin. Bis alle Papiere da sind, liegen die Toten in der Kühlung im Krematorium.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kremierung",
+    "Leichenschau"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4073,
+   "speaker": "Sarah Benz",
+   "quote": "Also es gibt so Ruheforste, das ist, also Friedwald ist der bekannteste, das ist sozusagen ein Name von einer Firma, das sind Wälder, wo man bestattet werden kann",
+   "quote_clean": "Es gibt Ruheforste. Friedwald ist der bekannteste, das ist eigentlich der Name einer Firma. Das sind Wälder, in denen man bestattet werden kann.",
+   "statement": "„Friedwald“ ist eigentlich der Name einer Firma, die Wälder für Baumbestattungen betreibt.",
+   "question": "Was ist „Friedwald“ eigentlich?",
+   "answer": "Der Name einer Firma",
+   "distractors": [
+    "Ein Begriff aus dem Gesetz",
+    "Ein Ort in Brandenburg",
+    "Eine kirchliche Einrichtung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wie bei Tixo oder Uhu ist der Firmenname zum Gattungsbegriff geworden. Allgemein heißen solche Orte Ruheforste. Kleiner Haken: In den Friedwäldern soll man meist keine Blumen hinlegen, auf Friedhöfen mit Baumbestattung schon.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Waldbestattung",
+    "Begriffe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2658,
+   "speaker": "Sarah Benz",
+   "quote": "Und deshalb sage ich übrigens auch Zugehörige, das ist mir dann auch gefallen, weil Zugehörige schließt alle mit ein. Angehörige meint nur, Blutsverwandte und Angeheiratete und da fallen dann ganz oft Menschen raus.",
+   "quote_clean": "Und deshalb sage ich übrigens auch Zugehörige, weil Zugehörige alle miteinschließt. Angehörige meint nur Blutsverwandte und Angeheiratete, und da fallen ganz oft Menschen raus.",
+   "statement": "Der Begriff „Zugehörige“ schließt alle wichtigen Menschen ein, „Angehörige“ nur Blutsverwandte und Angeheiratete.",
+   "question": "Warum sagt Sarah Benz lieber „Zugehörige“ statt „Angehörige“?",
+   "answer": "Es schließt auch Freund:innen mit ein",
+   "distractors": [
+    "Es ist der juristische Fachbegriff",
+    "Es klingt weniger traurig",
+    "Es meint nur die Kernfamilie"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Angehörige sind nur Blutsverwandte und Angeheiratete. Gerade bei queeren Menschen ist die Wahlfamilie oft wichtiger als die Kernfamilie, und die fällt sonst einfach raus. Andreas hat sich das Wort gleich ausgeborgt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sprache",
+    "Trauer"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1880,
+   "speaker": "Sarah Benz",
+   "quote": "Es beginnt dann die Totenstache, das stimmt, also die beginnt hier hinten im Hals und geht auf den Kiefer und wandert dann so den Körper runter.",
+   "quote_clean": "Es beginnt dann die Totenstarre, das stimmt. Die beginnt hinten im Hals, geht auf den Kiefer und wandert dann den Körper hinunter.",
+   "statement": "Die Totenstarre beginnt im Nacken und am Kiefer und wandert dann den Körper hinunter.",
+   "question": "Wo beginnt die Totenstarre?",
+   "answer": "Hinten im Hals und am Kiefer",
+   "distractors": [
+    "In den Füßen",
+    "In den Händen",
+    "Im Bauch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Von oben nach unten: erst Hals und Kiefer, dann Arme, dann Beine. Sarah findet, dass man das ruhig ertasten darf, weil es hilft zu begreifen, dass dieser Mensch wirklich tot ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Totenstarre",
+    "Körper"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1708,
+   "speaker": "Sarah Benz",
+   "quote": "bevor es irgendwie diesen Beruf, auch irgendwie industrialisierten Beruf des Bestatters gab, der dann sozusagen sehr männerdominiert war und durch Arbeitsteilung sehr effektiv sein sollte. In diesem Prozess sind uns die Toten dann auch weggenommen worden.",
+   "quote_clean": "Bevor es diesen industrialisierten Beruf des Bestatters gab, der sehr männerdominiert war und durch Arbeitsteilung sehr effektiv sein sollte. In diesem Prozess sind uns die Toten auch weggenommen worden.",
+   "statement": "Mit der Industrialisierung des Bestatterberufs wurden die Toten aus den Familien geholt; früher hielt man Totenwache zu Hause.",
+   "question": "Warum bleiben Verstorbene heute seltener zu Hause als früher?",
+   "answer": "Ein effizienter Bestatterberuf übernahm alles",
+   "distractors": [
+    "Es wurde gesetzlich verboten",
+    "Häuser wurden viel kleiner",
+    "Die Kirche hat es untersagt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Früher gab es die Totenwache: Familie und Nachbarn wachten abwechselnd bei der toten Person, manchmal drei Tage lang. Dann kam eine Bestattungsindustrie, die effizient arbeiten wollte, und dazu sterben die meisten heute im Spital.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Geschichte",
+    "Totenwache"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 3839,
+   "speaker": "Sarah Benz",
+   "quote": "Ich glaube, es ist ein Missverständnis, dass nur, weil die kirchlichen Rituale nicht mehr greifen, weil wir damit, also nicht wir, aber weil viele Menschen damit nicht mehr so viel anfangen können, dass wir deshalb kein Bedürfnis nach Ritualen haben.",
+   "quote_clean": "Ich glaube, es ist ein Missverständnis, dass wir, nur weil die kirchlichen Rituale nicht mehr greifen, weil viele Menschen damit nicht mehr so viel anfangen können, deshalb kein Bedürfnis nach Ritualen haben.",
+   "statement": "Auch wer mit kirchlichen Ritualen nichts mehr anfangen kann, hat beim Abschied ein Bedürfnis nach Ritualen, man muss nur neue finden.",
+   "question": "Was hält Sarah Benz für ein Missverständnis bei nicht-religiösen Menschen?",
+   "answer": "Dass sie keine Rituale brauchen",
+   "distractors": [
+    "Dass sie keine Trauerfeier dürfen",
+    "Dass sie nicht am Friedhof liegen dürfen",
+    "Dass sie keine Rede halten dürfen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Rituale müssen nicht aus der Kirche kommen. Alle essen beim Sarg einen Lieblingskeks, jede stellt eine Kerze hin, oder bei Andreas: ein Buch und ein Fußball auf dem Sarg. Hauptsache, es passt zum Menschen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Rituale",
+    "Trauer"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3307,
+   "speaker": "Sarah Benz",
+   "quote": "also ich habe die Hoffnung, dass die Auseinandersetzung mit dem Tod uns auch zärtlicher mit dem Leben sein lässt",
+   "quote_clean": "Ich habe die Hoffnung, dass die Auseinandersetzung mit dem Tod uns auch zärtlicher mit dem Leben sein lässt.",
+   "statement": "Sarah Benz hofft, dass die Auseinandersetzung mit dem Tod uns zärtlicher mit dem Leben umgehen lässt.",
+   "question": "Was erhofft sich Sarah Benz von der Auseinandersetzung mit dem Tod?",
+   "answer": "Dass wir zärtlicher mit dem Leben umgehen",
+   "distractors": [
+    "Dass wir weniger Angst vor Krankheit haben",
+    "Dass Begräbnisse günstiger werden",
+    "Dass wir mehr Vorsorge sparen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer sieht, wie zerbrechlich das Leben ist, geht liebevoller mit anderen um, und vielleicht sogar mit der ganzen Welt, meint Sarah. Sie weiß, dass das naiv klingen kann, glaubt aber trotzdem dran.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Tod",
+    "Leben"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3250,
+   "speaker": "Sarah Benz",
+   "quote": "also dieses, lebe jeden Tag, als wäre er dein Letzter, ist irgendwie eine Überforderung, weil da müssen wir sozusagen jeden letzten Tag irgendwie immer wieder und wieder erleben",
+   "quote_clean": "Dieses „Lebe jeden Tag, als wäre er dein letzter“ ist irgendwie eine Überforderung, weil wir da jeden letzten Tag immer wieder und wieder erleben müssen.",
+   "statement": "Sarah Benz hält den Spruch „Lebe jeden Tag, als wäre er dein letzter“ für eine Überforderung.",
+   "question": "Was hält Bestatterin Sarah Benz vom Spruch „Lebe jeden Tag, als wäre er dein letzter“?",
+   "answer": "Er ist eine Überforderung",
+   "distractors": [
+    "Er ist ihr Lebensmotto",
+    "Er passt nur für Junge",
+    "Er stammt von ihr selbst"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ausgerechnet die Bestatterin findet den Kalenderspruch unmenschlich: Wer will schon jeden Tag einen letzten Tag durchleben? Was ihr der Job schon bringt, ist das Wissen, dass niemand ein Recht auf 80 Jahre hat.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Tod",
+    "Leben"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1948,
+   "speaker": "Sarah Benz",
+   "quote": "Dann kriegen wir die Toten doppelt weggenommen, einmal durch den Tod selbst und einmal durch andere Menschen, die plötzlich das machen.",
+   "quote_clean": "Dann werden uns die Toten doppelt weggenommen: einmal durch den Tod selbst und einmal durch andere Menschen, die das plötzlich machen.",
+   "statement": "Werden Verstorbene zu schnell abgeholt, verlieren Angehörige sie gleichsam doppelt: durch den Tod und durch andere Menschen.",
+   "question": "Was passiert laut Sarah Benz, wenn Verstorbene sofort abgeholt werden?",
+   "answer": "Man verliert die Toten doppelt",
+   "distractors": [
+    "Die Trauer geht schneller vorbei",
+    "Die Bestattung wird billiger",
+    "Man erspart sich den Schmerz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gerade gestorben, und es fühlt sich noch total wie mein Mensch an, und dann kommt jemand und nimmt ihn mit. Sarah findet nichts wertvoller als den Moment, in dem man selbst spürt: Jetzt darf der Sargdeckel zu.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Abschied",
+    "Trauer"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 4658,
+   "speaker": "Sarah Benz",
+   "quote": "Mein erster Freund, der ist schon sehr lange gestorben und jedes Jahr an seinem Todestag stoße ich mit den Menschen, die da gerade sind, auf ihn an mit Apfel, weil das hat er gern getrunken.",
+   "quote_clean": "Mein erster Freund ist schon sehr lange tot, und jedes Jahr an seinem Todestag stoße ich mit den Menschen, die gerade da sind, mit Apfelsaft auf ihn an, weil er den gern getrunken hat.",
+   "statement": "Sarah Benz stößt jedes Jahr am Todestag ihres ersten Freundes mit Apfelsaft auf ihn an.",
+   "question": "Womit stößt Sarah Benz jedes Jahr am Todestag ihres ersten Freundes an?",
+   "answer": "Mit Apfelsaft",
+   "distractors": [
+    "Mit Sekt",
+    "Mit Whisky",
+    "Mit Holunderblütensaft"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Einmal war sie an dem Tag bei einem queeren Speeddating als Musikerin gebucht und hat darauf bestanden anzustoßen. Fremde Leute rissen die Gläser hoch und riefen seinen Namen. Und eine Freundin holte am Tag nach der Geburt ihres Babys einen Apfelsaft-Tetrapak aus dem Nachtkastl.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Erinnerung",
+    "Rituale"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "s20250404",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

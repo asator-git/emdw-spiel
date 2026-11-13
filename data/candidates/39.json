@@ -1,0 +1,678 @@
+{
+ "theme": "Gesellschaft & Kultur",
+ "summary": "Wie die Kronen Zeitung groß wurde, wer dahintersteckt, wie sie Geld macht und wie viel Macht sie in Österreich wirklich hat.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 153,
+   "speaker": "Harald Fidler",
+   "quote": "Die Kronenzeitung gibt es seit Anfang 1900, gegründet von einem Oberst, einem österreichischen Oberst, Gustav Davies, war damals relativ rasch, relativ sehr erfolgreich",
+   "quote_clean": "Die Kronen Zeitung gibt es seit Anfang 1900, gegründet von einem österreichischen Oberst, Gustav Davis, sie war damals relativ rasch sehr erfolgreich.",
+   "statement": "Die Kronen Zeitung wurde im Jahr 1900 gegründet.",
+   "question": "In welchem Jahr wurde die Kronen Zeitung gegründet?",
+   "answer": "1900",
+   "distractors": [
+    "1848",
+    "1919",
+    "1955"
+   ],
+   "number_value": 1900,
+   "number_unit": "Jahr",
+   "slider_min": 1800,
+   "slider_max": 1960,
+   "log_scale": false,
+   "aha": "Die Krone ist also älter als die Republik Österreich selbst. Gegründet hat sie ein Oberst namens Gustav Davis, und der Erfolg kam ziemlich flott.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kronen Zeitung",
+    "Mediengeschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 163,
+   "speaker": "Harald Fidler",
+   "quote": "war damals relativ rasch, relativ sehr erfolgreich aufgrund des Kleinformats und des günstigen Preises, wie der Titel schon sagt, eine Krone.",
+   "quote_clean": "Sie war damals relativ rasch sehr erfolgreich, aufgrund des Kleinformats und des günstigen Preises, wie der Titel schon sagt: eine Krone.",
+   "statement": "Die Kronen Zeitung ist nach ihrem ursprünglichen Verkaufspreis von einer Krone benannt.",
+   "question": "Woher hat die Kronen Zeitung ihren Namen?",
+   "answer": "Vom Preis: Sie kostete eine Krone",
+   "distractors": [
+    "Von der Kaiserkrone der Habsburger",
+    "Vom Gründer namens Kroner",
+    "Von der Wiener Kronprinzenstraße"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Krone war damals die Währung in Österreich, und die Zeitung kostete genau eine davon. Billig und klein, das war das Erfolgsrezept, und der Name erinnert bis heute daran.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kronen Zeitung",
+    "Name"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 153,
+   "speaker": "Harald Fidler",
+   "quote": "Die Kronenzeitung gibt es seit Anfang 1900, gegründet von einem Oberst, einem österreichischen Oberst, Gustav Davies",
+   "quote_clean": "Die Kronen Zeitung gibt es seit Anfang 1900, gegründet von einem österreichischen Oberst, Gustav Davis.",
+   "statement": "Gegründet wurde die Kronen Zeitung von einem österreichischen Oberst.",
+   "question": "Welchen Beruf hatte der Gründer der Kronen Zeitung?",
+   "answer": "Er war Oberst beim Militär",
+   "distractors": [
+    "Er war Buchdrucker",
+    "Er war Bankier",
+    "Er war Gemeinderat in Wien"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Offizier als Zeitungsgründer klingt schräg. Harald vermutet ein eher handfestes Motiv: Gustav Davis wollte, wie viele Verleger, schlicht Geld verdienen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Kronen Zeitung",
+    "Gründung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 240,
+   "speaker": "Harald Fidler",
+   "quote": "Und damals ist gerade eine Sondersteuer auf Zeitungen abgeschafft worden. Und da hat er die Gelegenheit gesehen, offenbar mit dieser Kronenzeitung, mit einem günstigen Preis, einen unternehmerischen Erfolg zu landen.",
+   "quote_clean": "Damals ist gerade eine Sondersteuer auf Zeitungen abgeschafft worden. Da hat er offenbar die Gelegenheit gesehen, mit der Kronen Zeitung und einem günstigen Preis einen unternehmerischen Erfolg zu landen.",
+   "statement": "Die Kronen Zeitung entstand, kurz nachdem eine Sondersteuer auf Zeitungen abgeschafft worden war.",
+   "question": "Was machte um 1900 eine billige Zeitung wie die Krone plötzlich möglich?",
+   "answer": "Eine Sondersteuer auf Zeitungen fiel weg",
+   "distractors": [
+    "Die Erfindung des Rotationsdrucks",
+    "Die Einführung der Schulpflicht",
+    "Ein staatlicher Zuschuss für Zeitungen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Mit der abgeschafften Zeitungssteuer konnte man Zeitungen auf einmal viel billiger anbieten. Gustav Davis hat die Lücke gesehen und ist mit einem Kampfpreis hineingesprungen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Zeitungssteuer",
+    "Gründung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 194,
+   "speaker": "Harald Fidler",
+   "quote": "Und ein weiterer Erfolg damals waren die Illustrationen damals noch gezeichnet.",
+   "quote_clean": "Ein weiterer Erfolgsfaktor damals waren die Illustrationen, damals noch gezeichnet.",
+   "statement": "Ein Erfolgsfaktor der frühen Krone waren gezeichnete Illustrationen zu spektakulären Geschichten.",
+   "question": "Womit lockte die frühe Kronen Zeitung neben dem Preis die Leser:innen an?",
+   "answer": "Mit gezeichneten Illustrationen",
+   "distractors": [
+    "Mit Fortsetzungsromanen",
+    "Mit Gratis-Gewinnspielen",
+    "Mit farbigen Fotografien"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Fotos in der Zeitung waren um 1900 noch nicht selbstverständlich, also wurde gezeichnet: spektakulärer Mord, spektakulärer Prozess. Der Hang zu Chronik, Blut und Drama ist also älter als man glaubt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mediengeschichte",
+    "Boulevard"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 322,
+   "speaker": "Harald Fidler",
+   "quote": "Sie war schon, wie gesagt, vor 1938 eine sehr erfolgreiche Zeitung. Und wurde dann 1959 wieder gegründet.",
+   "quote_clean": "Sie war schon vor 1938 eine sehr erfolgreiche Zeitung und wurde dann 1959 wieder gegründet.",
+   "statement": "Nach der NS-Zeit wurde die Kronen Zeitung erst 1959 neu gegründet.",
+   "question": "In welchem Jahr wurde die Kronen Zeitung nach dem Zweiten Weltkrieg neu gegründet?",
+   "answer": "1959",
+   "distractors": [
+    "1945",
+    "1949",
+    "1968"
+   ],
+   "number_value": 1959,
+   "number_unit": "Jahr",
+   "slider_min": 1940,
+   "slider_max": 1980,
+   "log_scale": false,
+   "aha": "Die Krone musste zweimal groß werden: vor der NS-Zeit und dann noch einmal danach. Zwischen Kriegsende und Neustart lagen also fast 15 Jahre ohne Krone.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kronen Zeitung",
+    "Nachkriegszeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 358,
+   "speaker": "Harald Fidler",
+   "quote": "Der Zeitungstitel ist verschwunden. Die Zeitung ist aufgegangen in einer Zusammenfassung mehrerer Zeitungstitel. Unter anderem das kleine Blatt, kleine Volksblatt und so weiter. Und dieser gemeinsame Titel hat dann sehr bezeichnend Kleine Wiener Kriegszeitung geheißen.",
+   "quote_clean": "Der Zeitungstitel ist verschwunden. Die Zeitung ist in einer Zusammenlegung mehrerer Zeitungstitel aufgegangen, unter anderem das Kleine Blatt, das Kleine Volksblatt und so weiter. Dieser gemeinsame Titel hieß sehr bezeichnend Kleine Wiener Kriegszeitung.",
+   "statement": "In der NS-Zeit ging die Krone mit anderen Blättern in der „Kleinen Wiener Kriegszeitung“ auf.",
+   "question": "Was passierte mit der Kronen Zeitung in der NS-Zeit?",
+   "answer": "Sie ging in der „Kleinen Wiener Kriegszeitung“ auf",
+   "distractors": [
+    "Sie erschien als Untergrundblatt weiter",
+    "Sie wurde ins Ausland verlegt",
+    "Sie erschien unverändert weiter"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Nazis haben mehrere Zeitungen zusammengelegt, und der Titel Krone verschwand. Harald findet den Namen Kriegszeitung bezeichnend, weil sich Streit wie ein roter Faden durch die Krone-Geschichte zieht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "NS-Zeit",
+    "Mediengeschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 540,
+   "speaker": "Harald Fidler",
+   "quote": "Und in Erinnerung an die Kronenzeitung hat er dann sich den Titel um einen überschaubaren Betrag von den Erben von Gustav Davies gekauft.",
+   "quote_clean": "In Erinnerung an die Kronen Zeitung hat er sich dann den Titel um einen überschaubaren Betrag von den Erben von Gustav Davis gekauft.",
+   "statement": "Hans Dichand kaufte den Titel „Kronen Zeitung“ günstig von den Erben des Gründers.",
+   "question": "Wie kam Hans Dichand zum Namen „Kronen Zeitung“?",
+   "answer": "Er kaufte ihn den Erben des Gründers ab",
+   "distractors": [
+    "Er übernahm die alte Redaktion",
+    "Er bekam ihn von der Republik geschenkt",
+    "Er erbte ihn von seinem Vater"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Dichand hatte die erste Krone als junger Mann miterlebt und davon geträumt, selbst eine Zeitung zu haben. Den alten Namen hat er sich dann um überschaubares Geld gesichert, quasi ein Marken-Schnäppchen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Hans Dichand",
+    "Neugründung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 554,
+   "speaker": "Harald Fidler",
+   "quote": "Dazwischen hat er gezeigt, dass er Zeitung machen kann. Er hat nämlich einerseits die kleine Zeitung in Graz groß gemacht als Chefredakteur und andererseits den Kurier.",
+   "quote_clean": "Dazwischen hat er gezeigt, dass er Zeitung machen kann: Er hat als Chefredakteur einerseits die Kleine Zeitung in Graz groß gemacht und andererseits den Kurier.",
+   "statement": "Bevor er die Krone neu gründete, war Hans Dichand Chefredakteur der Kleinen Zeitung und des Kurier.",
+   "question": "Wo war Hans Dichand Chefredakteur, bevor er die Krone neu gründete?",
+   "answer": "Kleine Zeitung und Kurier",
+   "distractors": [
+    "Presse und Salzburger Nachrichten",
+    "ORF und Profil",
+    "Standard und News"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Dichand hat sich vorher bei zwei anderen großen Blättern bewiesen. Gelernt hatte er übrigens Schriftsetzer, Journalist wurde er erst nach dem Krieg.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Hans Dichand",
+    "Karriere"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 603,
+   "speaker": "Harald Fidler",
+   "quote": "Hans Dichand wurde mal sehr treffend charakterisiert von Gerd Bacher, das war ein langjähriger Generaldirektor des ORF, der gesagt hat, Hans Dichand hat ein geniales Gespür, eine geniale Nase für Massenausdünstungen.",
+   "quote_clean": "Hans Dichand wurde einmal sehr treffend von Gerd Bacher charakterisiert, einem langjährigen Generaldirektor des ORF, der gesagt hat: Hans Dichand hat ein geniales Gespür, eine geniale Nase für Massenausdünstungen.",
+   "statement": "ORF-Generaldirektor Gerd Bacher sagte über Hans Dichand, er habe eine geniale Nase für Massenausdünstungen.",
+   "question": "Wofür hatte Hans Dichand laut Gerd Bacher eine „geniale Nase“?",
+   "answer": "Für Massenausdünstungen",
+   "distractors": [
+    "Für Skandale der Mächtigen",
+    "Für gute Schlagzeilen",
+    "Für das große Geld"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gemeint ist: Dichand hat früh gespürt, was das Publikum will, und sich auf Stimmungen draufgesetzt. Charmant formuliert ist es nicht, treffend laut Harald schon.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Hans Dichand",
+    "Zitat"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 665,
+   "speaker": "Harald Fidler",
+   "quote": "er hat immer von sich behauptet, er will keine Macht, er hat keine Macht, er sieht sich im Vorzimmer der Macht und im Vorhof der Macht und bevor er Macht ausübt, streichelt er lieber seinen Hund.",
+   "quote_clean": "Er hat immer von sich behauptet, er will keine Macht, er hat keine Macht, er sieht sich im Vorzimmer und im Vorhof der Macht, und bevor er Macht ausübt, streichelt er lieber seinen Hund.",
+   "statement": "Hans Dichand behauptete von sich, lieber seinen Hund zu streicheln, als Macht auszuüben.",
+   "question": "Was tat Hans Dichand nach eigener Aussage lieber, als Macht auszuüben?",
+   "answer": "Seinen Hund streicheln",
+   "distractors": [
+    "Im Garten arbeiten",
+    "Bilder sammeln",
+    "Leserbriefe beantworten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "So hat sich Dichand gern dargestellt. Harald sieht es umgekehrt: Eher hat die Politik ihn gestreichelt, und er hat die Republik nach seiner Pfeife tanzen lassen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Hans Dichand",
+    "Macht"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 766,
+   "speaker": "Harald Fidler",
+   "quote": "Aber über viele Jahre hat die Kronenzeitung Kampagnen so angelegt, wenn sie sozusagen einigermaßen rational agiert hat und Hans Dichern rational agiert hat, dass man sich auf bestehende Tendenzen draufgesetzt hat und dann daraus eine Kampagne gemacht hat.",
+   "quote_clean": "Über viele Jahre hat die Kronen Zeitung Kampagnen, wenn sie und Hans Dichand einigermaßen rational agiert haben, so angelegt, dass man sich auf bestehende Tendenzen draufgesetzt und daraus eine Kampagne gemacht hat.",
+   "statement": "Erfolgreiche Krone-Kampagnen setzten meist auf bereits vorhandene Stimmungen in der Bevölkerung auf.",
+   "question": "Wie funktionierten erfolgreiche Kampagnen der Kronen Zeitung meistens?",
+   "answer": "Sie griffen bestehende Stimmungen auf",
+   "distractors": [
+    "Sie erfanden völlig neue Themen",
+    "Sie wurden von Parteien bezahlt",
+    "Sie liefen nur in Leserbriefen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Krone hat den Trend selten erfunden, sie ist auf ihn aufgesprungen und hat ihn lauter gemacht. Wenn sie gegen den Strom geschwommen ist, wie bei den späten Anti-EU-Kampagnen, ging das eher kläglich aus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kampagnen",
+    "Medienmacht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 786,
+   "speaker": "Harald Fidler",
+   "quote": "Also siehe Heimburg zum Beispiel gegen das Kraftwerk, das Wasserkraftwerk Heimburg und die Zerstörung der Auer, da war sozusagen zum Beispiel ein Grün-Thema da und ein Grün-Bewusstsein und darauf hat sich die Krone auch draufgesetzt",
+   "quote_clean": "Siehe zum Beispiel Hainburg, gegen das Wasserkraftwerk Hainburg und die Zerstörung der Au: Da war ein grünes Thema und ein grünes Bewusstsein da, und darauf hat sich die Krone draufgesetzt.",
+   "statement": "Die Kronen Zeitung kampagnisierte gegen das Wasserkraftwerk Hainburg und die Zerstörung der Au.",
+   "question": "Gegen welches Bauprojekt machte die Kronen Zeitung eine bekannte Kampagne?",
+   "answer": "Das Wasserkraftwerk Hainburg",
+   "distractors": [
+    "Den Wiener Flughafen",
+    "Die Brennerautobahn",
+    "Das Wiener Stadion"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Hainburg gab es schon ein wachsendes Umweltbewusstsein, die Krone hat es verstärkt. Das Muster wiederholte sich etwa bei Atomkraft und Temelín.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Hainburg",
+    "Kampagnen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 942,
+   "speaker": "Harald Fidler",
+   "quote": "Die Kronenzeitung, wie, sage ich jetzt einmal, grob jede Zeitung, zwei große Einnahmen, Einnahmequellen, Einnahmenströme. Einerseits den Verkauf der Zeitung, gilt nicht für Gratiszeitungen, klar. Und andererseits die Werbung.",
+   "quote_clean": "Die Kronen Zeitung hat, wie grob jede Zeitung, zwei große Einnahmequellen: einerseits den Verkauf der Zeitung, das gilt natürlich nicht für Gratiszeitungen, und andererseits die Werbung.",
+   "statement": "Zeitungen finanzieren sich grob über zwei Einnahmequellen: Verkauf und Werbung.",
+   "question": "Aus welchen zwei großen Quellen finanziert sich eine Kaufzeitung wie die Krone?",
+   "answer": "Verkauf und Werbung",
+   "distractors": [
+    "Förderungen und Spenden",
+    "Werbung und Events",
+    "Abos und Parteienzuschüsse"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei Gratiszeitungen fällt der Verkauf weg, die leben fast nur von Werbung. Bei der Krone laufen laut Harald beide Ströme sehr, sehr solide.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Medienökonomie",
+    "Finanzierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 987,
+   "speaker": "Harald Fidler",
+   "quote": "irgendwie kommt man auf, also allein bei den Abos, auf einen dreistelligen Millionenbetrag, also 100 Millionen aufwärts im Jahr.",
+   "quote_clean": "Allein bei den Abos kommt man auf einen dreistelligen Millionenbetrag, also 100 Millionen aufwärts im Jahr.",
+   "statement": "Allein mit Abonnements nimmt die Kronen Zeitung grob geschätzt über 100 Millionen Euro pro Jahr ein.",
+   "question": "Wie viele Millionen Euro nimmt die Krone grob geschätzt allein mit Abos pro Jahr ein?",
+   "answer": "Über 100 Millionen Euro",
+   "distractors": [
+    "Rund 10 Millionen Euro",
+    "Rund 40 Millionen Euro",
+    "Über 500 Millionen Euro"
+   ],
+   "number_value": 100,
+   "number_unit": "Millionen Euro",
+   "slider_min": 5,
+   "slider_max": 1000,
+   "log_scale": true,
+   "aha": "Harald hat die Abozahlen grob mit dem Abopreis hochgerechnet und landet im dreistelligen Millionenbereich. Das Husten dazwischen war übrigens keine Rührung über den Betrag, sagt er.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Medienökonomie",
+    "Abos"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1000,
+   "speaker": "Harald Fidler",
+   "quote": "Und bei der Werbung kann man jetzt allein im Hauptblatt und brutto, also ohne Rabatte abgezogen, laut Fokus von 125 Millionen im Jahr ausgehen.",
+   "quote_clean": "Bei der Werbung kann man allein im Hauptblatt und brutto, also ohne abgezogene Rabatte, laut Focus von 125 Millionen im Jahr ausgehen.",
+   "statement": "Die Bruttowerbeeinnahmen der Krone im Hauptblatt liegen laut Focus bei rund 125 Millionen Euro im Jahr.",
+   "question": "Wie viele Millionen Euro Bruttowerbung macht die Krone im Hauptblatt pro Jahr (laut Focus, 2018)?",
+   "answer": "125 Millionen Euro",
+   "distractors": [
+    "25 Millionen Euro",
+    "60 Millionen Euro",
+    "400 Millionen Euro"
+   ],
+   "number_value": 125,
+   "number_unit": "Millionen Euro",
+   "slider_min": 5,
+   "slider_max": 1000,
+   "log_scale": true,
+   "aha": "Brutto heißt: ohne Rabatte, real fließt also weniger. Dafür kommen noch die Beilagen dazu, und da ist es laut Harald noch viel, viel mehr.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Werbung",
+    "Medienökonomie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1121,
+   "speaker": "Harald Fidler",
+   "quote": "Und diese Gesellschaft gehört der deutschen, in Essen beheimateten Funke Mediengruppe. Das ist eine sehr große Regionalzeitungsgruppe in Deutschland, die über diese Firma 50 Prozent an der Kronenzeitung hält.",
+   "quote_clean": "Diese Gesellschaft gehört der deutschen, in Essen beheimateten Funke Mediengruppe. Das ist eine sehr große Regionalzeitungsgruppe in Deutschland, die über diese Firma 50 Prozent an der Kronen Zeitung hält.",
+   "statement": "Die deutsche Funke Mediengruppe hält 50 Prozent an der Kronen Zeitung.",
+   "question": "Wie viel Prozent der Kronen Zeitung gehören der deutschen Funke Mediengruppe (Stand 2018)?",
+   "answer": "50 Prozent",
+   "distractors": [
+    "25 Prozent",
+    "33 Prozent",
+    "75 Prozent"
+   ],
+   "number_value": 50,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Die andere Hälfte gehört der Familie Dichand. Halbe-halbe klingt fair, hat aber jahrzehntelangen Streit zwischen den Eigentümern gebracht.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Eigentümer",
+    "Funke"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1139,
+   "speaker": "Harald Fidler",
+   "quote": "Und René Benko hat vor wenigen Wochen erklärt, angekündigt, dass er 49 Prozent an dieser Gesellschaft übernimmt. Also er ist mit 24,5 Prozent durchgerechnet beteiligt, aber eben über mehrere Stufen.",
+   "quote_clean": "René Benko hat vor wenigen Wochen angekündigt, dass er 49 Prozent an dieser Gesellschaft übernimmt. Durchgerechnet ist er also mit 24,5 Prozent beteiligt, aber eben über mehrere Stufen.",
+   "statement": "René Benko war 2018 über die Funke-Gesellschaft durchgerechnet mit 24,5 Prozent an der Krone beteiligt.",
+   "question": "Mit wie viel Prozent war René Benko 2018 durchgerechnet an der Krone beteiligt?",
+   "answer": "24,5 Prozent",
+   "distractors": [
+    "10 Prozent",
+    "49 Prozent",
+    "51 Prozent"
+   ],
+   "number_value": 24.5,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Benko kaufte nicht direkt bei der Krone ein, sondern 49 Prozent jener Funke-Firma, die die halbe Krone hält. Die Hälfte von der Hälfte, minus ein bisserl, ergibt 24,5 Prozent.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Benko",
+    "Eigentümer"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1416,
+   "speaker": "Harald Fidler",
+   "quote": "Ich vermute, es steht noch immer drinnen, es stand lange im Impressum der Kronenzeitung. Die Blattlinie ist die Summe der Meinungen der Redakteure und des Herausgebers.",
+   "quote_clean": "Ich vermute, es steht noch immer drinnen, es stand lange im Impressum der Kronen Zeitung: Die Blattlinie ist die Summe der Meinungen der Redakteure und des Herausgebers.",
+   "statement": "Im Impressum der Kronen Zeitung stand lange, die Blattlinie sei die Summe der Meinungen der Redakteure und des Herausgebers.",
+   "question": "Wie war die Blattlinie im Impressum der Kronen Zeitung lange definiert?",
+   "answer": "Als Summe der Meinungen von Redaktion und Herausgeber",
+   "distractors": [
+    "Als Meinung der Leserinnen und Leser",
+    "Als überparteilich und unabhängig",
+    "Als christlich-sozial und heimatverbunden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Klingt basisdemokratisch, in der Praxis waren die Meinungen aber fast immer deckungsgleich mit der des Herausgebers. Für andere Sichtweisen gab es ein paar Kolumnist:innen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Blattlinie",
+    "Redaktion"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1609,
+   "speaker": "Harald Fidler",
+   "quote": "Die Krone Zeitung hat so viel Einfluss auf die Politik und das, was in Österreich geschieht, wie die Politiker ihr beimessen.",
+   "quote_clean": "Die Kronen Zeitung hat so viel Einfluss auf die Politik und das, was in Österreich geschieht, wie die Politiker ihr beimessen.",
+   "statement": "Die Kronen Zeitung hat so viel Einfluss, wie die Politik ihr beimisst.",
+   "question": "Wovon hängt laut dem Medienjournalisten der Einfluss der Krone ab?",
+   "answer": "Wie viel Einfluss ihr Politiker beimessen",
+   "distractors": [
+    "Von ihrer Auflage allein",
+    "Von ihren Eigentümern",
+    "Von ihrer Online-Reichweite"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Macht braucht immer zwei: eine Zeitung, die Druck macht, und Politiker:innen, die mitspielen. Solange dieses Zusammenspiel funktioniert, hat die Krone viel Macht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Medienmacht",
+    "Politik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 275,
+   "speaker": "Harald Fidler",
+   "quote": "Muss nicht unbedingt in Personalunion so sein. Es gibt auch Herausgeber, die nicht Verleger sind. Aber im Prinzip ist das der wirtschaftlich bestimmende Person und ein bisschen mehr als ein Geschäftsführer, würde ich sagen.",
+   "quote_clean": "Das muss nicht unbedingt in Personalunion so sein, es gibt auch Herausgeber, die nicht Verleger sind. Aber im Prinzip ist das die wirtschaftlich bestimmende Person und ein bisschen mehr als ein Geschäftsführer.",
+   "statement": "Ein Verleger ist der Eigentümer und wirtschaftlich bestimmende Kopf einer Zeitung, mehr als ein Geschäftsführer.",
+   "question": "Was ist ein Verleger bei einer Zeitung?",
+   "answer": "Eigentümer und wirtschaftlich bestimmende Person",
+   "distractors": [
+    "Der Chef der Druckerei",
+    "Der leitende Chefredakteur",
+    "Der Leiter des Vertriebs"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Verleger und Herausgeber können dieselbe Person sein, müssen aber nicht. Auf gut Österreichisch: der Obermacher.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Medienbegriffe",
+    "Verleger"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 128,
+   "speaker": "Andreas Sator",
+   "quote": "Also, liebe Hörerinnen und Hörer, wie ihr ja wisst, bin ich auch Redakteur beim Standard. Das heißt, heute reden zwei Standard-Redakteure über eine Konkurrenzzeitung. Das heißt, glaubt kein Wort von dem, was wir sagen.",
+   "quote_clean": "Liebe Hörerinnen und Hörer, wie ihr ja wisst, bin ich auch Redakteur beim Standard. Das heißt, heute reden zwei Standard-Redakteure über eine Konkurrenzzeitung. Das heißt: Glaubt kein Wort von dem, was wir sagen.",
+   "statement": "Andreas warnt scherzhaft, dass hier zwei Standard-Redakteure über die Konkurrenz reden.",
+   "question": "Was rät Andreas den Hörer:innen scherzhaft, weil zwei Standard-Redakteure über die Krone reden?",
+   "answer": "Glaubt kein Wort von dem, was wir sagen",
+   "distractors": [
+    "Lest ab sofort nur noch den Standard",
+    "Kündigt euer Krone-Abo",
+    "Schreibt uns eure Beschwerden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gleich danach schiebt er nach, dass sich beide um Neutralität bemühen, wie jeden Tag im Job. Transparenz mit einem Augenzwinkern.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Humor"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 994,
+   "speaker": "Harald Fidler",
+   "quote": "Und ja, es ist nicht meine Rührung irgendwie über den hohen Betrag, sondern mein Husten, der da durchkommt.",
+   "quote_clean": "Es ist nicht meine Rührung über den hohen Betrag, sondern mein Husten, der da durchkommt.",
+   "statement": "Harald stellt klar, dass sein Husten keine Rührung über die hohen Krone-Einnahmen ist.",
+   "question": "Was stellt Harald klar, als er bei den Krone-Einnahmen hustet?",
+   "answer": "Das ist Husten, keine Rührung",
+   "distractors": [
+    "Er sei gegen Krone-Staub allergisch",
+    "Er habe sich verschluckt",
+    "Er lache über die Zahl"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Mitten in der Rechnung über dreistellige Millionenbeträge erwischt ihn ein Hustenanfall. Damit niemand Neid oder Ergriffenheit hineininterpretiert, sagt er es lieber gleich dazu.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Humor",
+    "Moment"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "39",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

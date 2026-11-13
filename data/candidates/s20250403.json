@@ -1,0 +1,707 @@
+{
+ "theme": "Wirtschaft & Arbeit",
+ "summary": "Wie kommt das Klopapier ins Supermarktregal? Logistik-Prof Reinhard Koether erklärt Verteilzentren, Containerschiffe, Luftfracht, Bahn, Amazon und Retouren.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1074,
+   "speaker": "Reinhard Koether",
+   "quote": "Und der Supermarkt wird normalerweise zwei, drei Mal in der Woche beliefert. Und die schauen also dann auch, dass sie genügend Vorräte haben",
+   "quote_clean": "Der Supermarkt wird normalerweise zwei, drei Mal in der Woche beliefert. Und die schauen dann auch, dass sie genügend Vorräte haben",
+   "statement": "Ein Supermarkt wird normalerweise zwei- bis dreimal pro Woche beliefert.",
+   "question": "Wie oft pro Woche wird ein typischer Supermarkt ungefähr beliefert?",
+   "answer": "Zwei- bis dreimal",
+   "distractors": [
+    "Einmal",
+    "Fünf- bis sechsmal",
+    "Zehnmal"
+   ],
+   "number_value": 2.5,
+   "number_unit": "Lieferungen pro Woche",
+   "slider_min": 0,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Der Supermarkt tickt wie dein Haushalt: Er legt so viel Vorrat an, dass es bis zur nächsten Lieferung reicht. Kaufen plötzlich alle auf einmal Klopapier, ist das Regal leer, bevor der nächste Lkw kommt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Supermarkt",
+    "Lieferung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1094,
+   "speaker": "Reinhard Koether",
+   "quote": "Also im Privatbereich würde zum Beispiel die Nachfrage steigen, wenn jetzt plötzlich viele Freunde kommen und die Biervorräte miteinander leeren.",
+   "quote_clean": "Im Privatbereich würde zum Beispiel die Nachfrage steigen, wenn plötzlich viele Freunde kommen und die Biervorräte miteinander leeren.",
+   "statement": "Leere Supermarktregale bei Nachfragespitzen funktionieren wie ein leerer Biervorrat, wenn unerwartet viele Freunde zu Besuch kommen.",
+   "question": "Mit welchem Bild erklärt der Logistikprofessor leere Klopapier-Regale im ersten Lockdown?",
+   "answer": "Freunde leeren unerwartet den Biervorrat",
+   "distractors": [
+    "Ein Stau auf der Autobahn",
+    "Ein Wasserhahn, der tropft",
+    "Ein Kühlschrank ohne Strom"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Dein Vorrat ist auf normalen Verbrauch ausgelegt, nicht auf eine spontane Party. Genauso der Supermarkt: Wenn alle aus Angst mehr kaufen als üblich, ist ruckzuck nichts mehr da, obwohl die Fabriken eh weiterproduzieren.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Corona",
+    "Nachfrage"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1203,
+   "speaker": "Reinhard Koether",
+   "quote": "Man nennt das im Fachbegriff kommissioniert. Und im Prinzip ist es genau dasselbe, wie wenn der Verbraucher zum Einkaufen geht.",
+   "quote_clean": "Man nennt das im Fachbegriff kommissioniert. Im Prinzip ist es genau dasselbe, wie wenn der Verbraucher zum Einkaufen geht.",
+   "statement": "Das Zusammenstellen der bestellten Waren für einen Supermarkt im Verteilzentrum heißt in der Logistik Kommissionieren.",
+   "question": "Wie heißt es in der Logistik, wenn im Verteilzentrum die Waren für einen Supermarkt zusammengestellt werden?",
+   "answer": "Kommissionieren",
+   "distractors": [
+    "Disponieren",
+    "Konsolidieren",
+    "Avisieren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Verteilzentrum macht jemand im Grunde deinen Wocheneinkauf, nur in groß: Klopapier, Zahnpasta, Ravioli-Dosen und Marmelade landen gemeinsam auf einer Palette. Die fährt dann zum Supermarkt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Verteilzentrum",
+    "Fachbegriff"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1377,
+   "speaker": "Reinhard Koether",
+   "quote": "Im Februar wachsen bei uns keine Rosen logischerweise. Also kommen die Rosen entweder aus Ecuador oder aus Kenia. Und die werden typischerweise im Flieger nach Europa gebracht.",
+   "quote_clean": "Im Februar wachsen bei uns logischerweise keine Rosen. Also kommen die Rosen entweder aus Ecuador oder aus Kenia. Und die werden typischerweise im Flieger nach Europa gebracht.",
+   "statement": "Rosen für den Valentinstag kommen meist aus Ecuador oder Kenia und werden per Flugzeug nach Europa gebracht.",
+   "question": "Woher kommen die Rosen, die du im Februar zum Valentinstag im Supermarkt kaufst, typischerweise?",
+   "answer": "Aus Ecuador oder Kenia, per Flugzeug",
+   "distractors": [
+    "Aus den Niederlanden, per Lkw",
+    "Aus Marokko, per Schiff",
+    "Aus Spanien, per Bahn"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Mit Luftfracht kommt alles, was schnell gehen muss oder sehr teuer ist. Rosen per Schiff wären bei der Ankunft eher Trockenblumen, und die will am Valentinstag eher niemand.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Luftfracht",
+    "Blumen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1414,
+   "speaker": "Reinhard Koether",
+   "quote": "Und die haben in ihrem Bauch nicht nur das Gepäck der Passagiere, sondern eben auch Luftfracht. Das ist ungefähr halb halb.",
+   "quote_clean": "Die haben in ihrem Bauch nicht nur das Gepäck der Passagiere, sondern auch Luftfracht. Das ist ungefähr halb halb.",
+   "statement": "Normale Passagierflugzeuge transportieren in ihrem Bauch neben dem Gepäck auch Luftfracht.",
+   "question": "Was ist im Bauch eines normalen Passagierflugzeugs außer dem Gepäck der Reisenden oft noch verstaut?",
+   "answer": "Luftfracht, also Waren",
+   "distractors": [
+    "Nur Ersatzteile für das Flugzeug",
+    "Zusätzliche Treibstofftanks",
+    "Nichts, der Raum bleibt leer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Unten Fracht, oben du mit deinem Bordmenü. Deshalb hatte die Logistik im Corona-Jahr ein Problem: Als kaum Passagiere flogen, fiel auch diese Frachtkapazität weg, und Airlines mussten auf reine Frachtmaschinen umstellen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Luftfracht",
+    "Flugzeug"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1549,
+   "speaker": "Reinhard Koether",
+   "quote": "Also unter allen Transportmitteln, die wir so haben, Eisenbahn, LKW, Flugzeug, ist das Schiff mit Abstand das günstigste.",
+   "quote_clean": "Unter allen Transportmitteln, die wir haben, Eisenbahn, Lkw, Flugzeug, ist das Schiff mit Abstand das günstigste.",
+   "statement": "Pro Tonnenkilometer braucht das Schiff von allen Transportmitteln am wenigsten Energie.",
+   "question": "Welches Transportmittel braucht pro Tonne und Kilometer am wenigsten Energie?",
+   "answer": "Das Schiff",
+   "distractors": [
+    "Die Eisenbahn",
+    "Der Lkw",
+    "Das Flugzeug"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "So ein Riesenschiff verbraucht absolut gesehen natürlich enorm viel. Aber verteilt auf tausende Container bleibt pro Tonne und Kilometer fast nichts übrig, das schlägt sogar die Bahn.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schifffahrt",
+    "Energie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1584,
+   "speaker": "Reinhard Koether",
+   "quote": "Das Schiff fährt mit Dieselmotoren und diese Dieselmotoren, die fahren im Prinzip mit Teer. Also dieses Schweröl, was sie verbrennen, ist so der letzte Dreck, der in der Raffinerie übrig bleibt.",
+   "quote_clean": "Das Schiff fährt mit Dieselmotoren, und diese Dieselmotoren fahren im Prinzip mit Teer. Dieses Schweröl, das sie verbrennen, ist so der letzte Dreck, der in der Raffinerie übrig bleibt.",
+   "statement": "Schweröl, mit dem große Schiffe fahren, ist der Rest, der in der Raffinerie übrig bleibt.",
+   "question": "Wer hat's gesagt: „Dieses Schweröl ist so der letzte Dreck, der in der Raffinerie übrig bleibt“?",
+   "answer": "Reinhard Koether",
+   "distractors": [
+    "Andreas Sator",
+    "Hannah Metzler",
+    "Jonathan Haidt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Logistikprofessor nimmt sich kein Blatt vor den Mund: Containerschiffe verbrennen im Prinzip Teer. Möglich ist das, weil die hohe See bei Umweltgesetzen lange fast ein rechtsfreier Raum war.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Schweröl",
+    "Schifffahrt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1610,
+   "speaker": "Reinhard Koether",
+   "quote": "Viele Länder haben Sondergesetze, dass die Schiffe, die im Hafen anlegen, mit sauberem Treibstoff fahren müssen.",
+   "quote_clean": "Viele Länder haben Sondergesetze, dass die Schiffe, die im Hafen anlegen, mit sauberem Treibstoff fahren müssen.",
+   "statement": "Weil viele Häfen sauberen Treibstoff vorschreiben, tanken Reedereien zwei Sorten: Schweröl für die hohe See und etwas saubereren Treibstoff für die Hafeneinfahrt.",
+   "question": "Wie reagieren Reedereien darauf, dass viele Häfen sauberen Treibstoff vorschreiben?",
+   "answer": "Zwei Treibstoffe: einer für See, einer für Hafen",
+   "distractors": [
+    "Sie fahren komplett auf Flüssiggas",
+    "Sie laufen nur noch kleine Häfen an",
+    "Sie schleppen Schiffe in den Hafen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Draußen am Meer wird der Dreck verbrannt, vor der Küste schaltet man auf etwas Saubereres um. So sauber wie der Diesel in deinem Auto ist aber auch der Hafen-Sprit nicht.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Schifffahrt",
+    "Umwelt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1657,
+   "speaker": "Reinhard Koether",
+   "quote": "Also das Beispiel, das du genannt hast, der Wein aus Australien, die Flasche wird durch den Schiffstransport nur ein paar Cent teurer.",
+   "quote_clean": "Das Beispiel, das du genannt hast, der Wein aus Australien: Die Flasche wird durch den Schiffstransport nur ein paar Cent teurer.",
+   "statement": "Eine Flasche Wein aus Australien wird durch den Schiffstransport nach Europa nur ein paar Cent teurer.",
+   "question": "Um wie viel verteuert der Schiffstransport eine Flasche Wein aus Australien nach Europa ungefähr?",
+   "answer": "Nur ein paar Cent",
+   "distractors": [
+    "Etwa zwei Euro",
+    "Etwa fünf Euro",
+    "Rund ein Drittel des Preises"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Auf die größten Containerschiffe passen tausende Container, der Sprit verteilt sich auf unfassbar viele Flaschen. Solange niemand für die Abgase zahlt, ist die halbe Weltreise für deinen Wein fast gratis.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Transportkosten",
+    "Wein"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1676,
+   "speaker": "Reinhard Koether",
+   "quote": "Die größten haben 20.000 kleine Container, die sind halb so groß wie eine LKW-Ladung.",
+   "quote_clean": "Die größten haben 20.000 kleine Container, die sind halb so groß wie eine Lkw-Ladung.",
+   "statement": "Die größten Containerschiffe fassen rund 20.000 kleine Container, von denen jeder etwa eine halbe Lkw-Ladung fasst.",
+   "question": "Wie viele kleine Container passen ungefähr auf die größten Containerschiffe?",
+   "answer": "Rund 20.000",
+   "distractors": [
+    "Rund 2.000",
+    "Rund 8.000",
+    "Rund 45.000"
+   ],
+   "number_value": 20000,
+   "number_unit": "Container",
+   "slider_min": 0,
+   "slider_max": 50000,
+   "log_scale": false,
+   "aha": "Je größer ein Schiff, desto weniger Sprit braucht es pro Container, darum werden die Pötte immer größer. Ein kleiner Container ist dabei etwa eine halbe Lkw-Ladung, stell dir also 10.000 Lkw auf einem Schiff vor.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Containerschiff",
+    "Rekord"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1684,
+   "speaker": "Reinhard Koether",
+   "quote": "Und diese Größe der Schiffe hängt damit zusammen, dass je größer sie sind, desto weniger Sprit brauchen sie pro Container. Also deswegen werden die Schiffe immer größer.",
+   "quote_clean": "Diese Größe der Schiffe hängt damit zusammen, dass sie, je größer sie sind, desto weniger Sprit pro Container brauchen. Deswegen werden die Schiffe immer größer.",
+   "statement": "Containerschiffe werden immer größer, weil sie pro Container umso weniger Treibstoff brauchen, je größer sie sind.",
+   "question": "Warum werden Containerschiffe immer größer?",
+   "answer": "Weniger Sprit pro Container",
+   "distractors": [
+    "Häfen verlangen Mindestgrößen",
+    "Größere Schiffe sind schneller",
+    "Kleine Schiffe sind verboten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein doppelt so großes Schiff braucht nicht doppelt so viel Treibstoff. Darum laufen die großen Warenströme zwischen Asien, Europa und Nordamerika über immer gigantischere Containerriesen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Containerschiff",
+    "Skaleneffekt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1714,
+   "speaker": "Reinhard Koether",
+   "quote": "Deswegen merken wir eigentlich auch keinen Preisunterschied, ob jetzt der Wein aus Chile oder aus Frankreich kommt. Sondern der Preisunterschied wird dann eher bestimmt durch die Arbeitskosten, die da drin stecken.",
+   "quote_clean": "Deswegen merken wir auch keinen Preisunterschied, ob der Wein aus Chile oder aus Frankreich kommt. Der Preisunterschied wird eher durch die Arbeitskosten bestimmt, die da drin stecken.",
+   "statement": "Ob Wein aus Chile oder Frankreich kommt, macht beim Transport kaum einen Preisunterschied; entscheidend sind eher die Arbeitskosten.",
+   "question": "Was bestimmt laut dem Logistikprofessor eher, ob Wein aus Chile billiger ist als aus Frankreich?",
+   "answer": "Die Arbeitskosten",
+   "distractors": [
+    "Die Transportkosten",
+    "Die Flaschengröße",
+    "Die Lagerkosten im Supermarkt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der weite Weg über den Ozean schlägt sich kaum im Preis nieder. Was zählt, ist, wer zu welchem Lohn die Trauben liest, und dass die chilenische Konkurrenz die Winzer in Frankreich und Italien bei den Preisen wachsam hält.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Globalisierung",
+    "Preise"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1764,
+   "speaker": "Andreas Sator",
+   "quote": "Ob es jetzt Österreich will bis 2040 klimaneutral sein. Viele andere Länder bis 2050, China bis 2060.",
+   "quote_clean": "Österreich will bis 2040 klimaneutral sein, viele andere Länder bis 2050, China bis 2060.",
+   "statement": "Österreich hat sich das Ziel gesetzt, bis 2040 klimaneutral zu sein.",
+   "question": "Bis zu welchem Jahr will Österreich laut seinem Klimaziel klimaneutral sein?",
+   "answer": "2040",
+   "distractors": [
+    "2030",
+    "2050",
+    "2060"
+   ],
+   "number_value": 2040,
+   "number_unit": "Jahr",
+   "slider_min": 2025,
+   "slider_max": 2075,
+   "log_scale": false,
+   "aha": "Österreich hat sich ein ehrgeizigeres Ziel gesetzt als viele andere Länder, die 2050 anpeilen, China nennt 2060. Ernst gemeint heißt das: Auch Lkw, Schiffe und Flieger müssen irgendwie ohne fossilen Sprit auskommen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Klimaziel",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1909,
+   "speaker": "Reinhard Koether",
+   "quote": "Und bei beiden Umwandlungsprozessen geht ungefähr 30 Prozent der Energie verloren, sodass man also am Schluss nur noch die Hälfte hat gegenüber dem reinen Strom.",
+   "quote_clean": "Bei beiden Umwandlungsprozessen gehen ungefähr 30 Prozent der Energie verloren, sodass man am Schluss nur noch die Hälfte hat gegenüber dem reinen Strom.",
+   "statement": "Bei der Umwandlung von Strom in Wasserstoff und zurück gehen pro Schritt etwa 30 Prozent der Energie verloren, am Ende bleibt rund die Hälfte.",
+   "question": "Wie viel Prozent der Energie gehen ungefähr bei jedem der beiden Schritte verloren, wenn man Strom in Wasserstoff und wieder in Antriebsenergie umwandelt?",
+   "answer": "Rund 30 Prozent",
+   "distractors": [
+    "Rund 5 Prozent",
+    "Rund 60 Prozent",
+    "Rund 80 Prozent"
+   ],
+   "number_value": 30,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Zweimal 30 Prozent Verlust hintereinander heißt: Von deinem Ökostrom kommt am Ende nur etwa die Hälfte im Antrieb an. Für Schiffe und Flieger ist Wasserstoff trotzdem eine der wenigen sichtbaren Optionen, prickelnd ist der Wirkungsgrad halt nicht.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wasserstoff",
+    "Wirkungsgrad"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2055,
+   "speaker": "Reinhard Koether",
+   "quote": "Also wenn ein Lieferant die ganze Welt versorgen kann, dann kann er billiger produzieren wie drei Lieferanten, die zum Beispiel jetzt in Europa, in Ostasien und in Nordamerika sitzen.",
+   "quote_clean": "Wenn ein Lieferant die ganze Welt versorgen kann, dann kann er billiger produzieren als drei Lieferanten, die zum Beispiel in Europa, in Ostasien und in Nordamerika sitzen.",
+   "statement": "Die Globalisierung lohnt sich, weil ein einziger Lieferant für die ganze Welt billiger produziert als mehrere regionale Lieferanten; teurer Transport schmälert diesen Vorteil.",
+   "question": "Was treibt das Modell an, Waren an einem Ort für die ganze Welt zu produzieren?",
+   "answer": "Größere Mengen senken die Stückkosten",
+   "distractors": [
+    "Transport ist teurer als Produktion",
+    "Zölle sind überall gleich hoch",
+    "Regionale Lieferanten sind zu langsam"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer mehr produziert, produziert pro Stück billiger. Dieser Vorteil wird aber vom Transport wieder aufgefressen, und je teurer der wird, etwa durch einen Preis auf Abgase, desto eher lohnt sich die Jeans aus Europa statt aus Bangladesch.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Globalisierung",
+    "Skaleneffekt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2190,
+   "speaker": "Reinhard Koether",
+   "quote": "Also die haben nie Gewinne ausgeschüttet, sondern haben die Gewinne immer reinvestiert und haben immer geschaut, wo kriege ich Wachstum her.",
+   "quote_clean": "Die haben nie Gewinne ausgeschüttet, sondern die Gewinne immer reinvestiert und immer geschaut, wo sie Wachstum herkriegen.",
+   "statement": "Amazon hat nie Gewinne ausgeschüttet, sondern sie immer in Wachstum reinvestiert.",
+   "question": "Was hat Amazon laut dem Logistikprofessor mit seinen Gewinnen gemacht?",
+   "answer": "Immer reinvestiert, nie ausgeschüttet",
+   "distractors": [
+    "Jedes Jahr als Dividende ausgezahlt",
+    "Vor allem in Aktienrückkäufe gesteckt",
+    "Großteils als Reserve gespart"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wachstum vor Ausschüttung, auch über den Marktplatz für fremde Händler. Die schiere Masse macht jedes Paket billiger und ermöglicht ein dichtes Netz an Lagern, das wiederum schnelle Lieferung erlaubt.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Amazon",
+    "Strategie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2245,
+   "speaker": "Reinhard Koether",
+   "quote": "In Deutschland sind die ungefähr 300 Kilometer voneinander entfernt, diese Amazon verteilt sind, Amazon-Lager.",
+   "quote_clean": "In Deutschland sind diese Amazon-Lager ungefähr 300 Kilometer voneinander entfernt.",
+   "statement": "Amazons Verteilzentren in Deutschland liegen ungefähr 300 Kilometer voneinander entfernt.",
+   "question": "Wie viele Kilometer liegen Amazons Lager in Deutschland ungefähr voneinander entfernt?",
+   "answer": "Rund 300 Kilometer",
+   "distractors": [
+    "Rund 50 Kilometer",
+    "Rund 700 Kilometer",
+    "Rund 1.000 Kilometer"
+   ],
+   "number_value": 300,
+   "number_unit": "Kilometer",
+   "slider_min": 0,
+   "slider_max": 1000,
+   "log_scale": false,
+   "aha": "Weil die Lager so nah beieinander sind, spart sich Amazon den Langstreckentransport über Nacht. Andere Händler schicken dein Paket erst von Hamburg nach Wien, Amazon sitzt schon im Großraum Wien und fährt am nächsten Tag direkt aus.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Amazon",
+    "Lager"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2366,
+   "speaker": "Reinhard Koether",
+   "quote": "Und dieses Containerschiff transportiert große Mengen für den österreichischen Kunden wahrscheinlich bis Rotterdam.",
+   "quote_clean": "Dieses Containerschiff transportiert große Mengen für den österreichischen Kunden wahrscheinlich bis Rotterdam.",
+   "statement": "Container aus Shanghai für Kund:innen in Österreich kommen typischerweise per Schiff nach Rotterdam und dann etwa per Zug weiter nach Wien.",
+   "question": "In welchem Hafen landet ein Container aus Shanghai für eine Firma in Wien typischerweise zuerst?",
+   "answer": "Rotterdam",
+   "distractors": [
+    "Triest",
+    "Genua",
+    "Konstanza"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Von Rotterdam aus werden die Container auf Deutschland, Frankreich, Benelux, die Schweiz und Österreich verteilt, oft per Zug. In Wien wird dann wieder aufgemacht und neu sortiert, bis das chinesische T-Shirt neben dem dänischen Dachfenster im Lieferwagen liegt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Hafen",
+    "Container"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2588,
+   "speaker": "Reinhard Koether",
+   "quote": "Also ist die Bahn gut für die Langstrecke, wo große Mengen zusammengefasst werden. Aber sie ist schlecht in der Verteilung bis zum Kunden hin.",
+   "quote_clean": "Die Bahn ist gut für die Langstrecke, wo große Mengen zusammengefasst werden. Aber sie ist schlecht in der Verteilung bis zum Kunden hin.",
+   "statement": "Die Bahn eignet sich gut für lange Strecken mit großen Mengen, aber schlecht für die Feinverteilung bis zur Kundschaft.",
+   "question": "Wer hat's gesagt: „Die Bahn ist gut für die Langstrecke, aber schlecht in der Verteilung bis zum Kunden hin“?",
+   "answer": "Reinhard Koether",
+   "distractors": [
+    "Andreas Sator",
+    "Christoph Chorherr",
+    "Reinhard Haller"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein ganzer Zug von Hamburg nach Wien: super. Ein einzelner Waggon von Buxtehude in ein Dorf im Burgenland: zu wenig Menge. Auf der Kurzstrecke gibt es praktisch keine Alternative zum Lkw.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Bahn",
+    "Güterverkehr"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2645,
+   "speaker": "Reinhard Koether",
+   "quote": "Aber in der Regel muss man an der Grenze dann auch den Lokführer wechseln, weil eben der keinen europäischen Führerschein hat, sondern nur einen nationalen Führerschein.",
+   "quote_clean": "In der Regel muss man an der Grenze auch den Lokführer wechseln, weil der keinen europäischen Führerschein hat, sondern nur einen nationalen.",
+   "statement": "Im europäischen Güterverkehr muss an Grenzen meist der Lokführer gewechselt werden, weil er nur einen nationalen Führerschein hat.",
+   "question": "Was passiert bei grenzüberschreitenden Güterzügen in Europa an der Grenze in der Regel?",
+   "answer": "Der Lokführer wird gewechselt",
+   "distractors": [
+    "Die Waggons werden umgeladen",
+    "Der Zug wird verplombt",
+    "Die Fracht wird neu gewogen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die europäische Bahn ist nicht genormt: Signalsysteme und Stromsysteme unterscheiden sich von Land zu Land. Loks, die mehrere Stromsysteme können, gibt es schon, aber der Mensch vorne braucht meist trotzdem einen Kollegen mit dem passenden nationalen Führerschein.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bahn",
+    "Europa"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2664,
+   "speaker": "Reinhard Koether",
+   "quote": "Das geht mit der Eisenbahn sehr schwierig, weil die Kupplungen der Züge sind 100 Jahre alt. Also das System ist 100 Jahre alt.",
+   "quote_clean": "Das geht mit der Eisenbahn sehr schwierig, weil die Kupplungen der Züge 100 Jahre alt sind. Das System ist 100 Jahre alt.",
+   "statement": "Das Kupplungssystem im europäischen Güterzugverkehr ist rund 100 Jahre alt; Waggons müssen von Hand an- und abgekuppelt werden.",
+   "question": "Wie alt ist das Kupplungssystem europäischer Güterzüge ungefähr?",
+   "answer": "Rund 100 Jahre",
+   "distractors": [
+    "Rund 20 Jahre",
+    "Rund 50 Jahre",
+    "Rund 180 Jahre"
+   ],
+   "number_value": 100,
+   "number_unit": "Jahre",
+   "slider_min": 0,
+   "slider_max": 250,
+   "log_scale": false,
+   "aha": "Bei Personenzügen und der S-Bahn kuppelt es automatisch, im Güterverkehr muss noch jemand von Hand an- und abkuppeln. Das macht das Sortieren einzelner Waggons so aufwendig und die Bahn auf der letzten Meile unflexibel.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Bahn",
+    "Technik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2840,
+   "speaker": "Reinhard Koether",
+   "quote": "Und deswegen kann es eben sein, dass es billiger ist, die Ware dann wegzuwerfen, als sie zu überprüfen und wieder neu zu verkaufen.",
+   "quote_clean": "Deswegen kann es sein, dass es billiger ist, die Ware wegzuwerfen, als sie zu überprüfen und wieder neu zu verkaufen.",
+   "statement": "Bei Retouren im Onlinehandel kann es billiger sein, die Ware wegzuwerfen, als sie zu prüfen und neu zu verkaufen.",
+   "question": "Was kann für Onlinehändler bei einer Rücksendung billiger sein, als die Ware zu prüfen und wieder zu verkaufen?",
+   "answer": "Die Ware wegzuwerfen",
+   "distractors": [
+    "Sie dem Hersteller zurückzuschicken",
+    "Sie jahrelang einzulagern",
+    "Sie per Luftfracht umzuverteilen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Jede Retoure muss jemand anschauen: defekt, getragen, weiterverkaufbar? Diese Arbeitszeit kostet, und bei billigen Artikeln übersteigt sie schnell den Warenwert. Darum sagt dir der Händler manchmal, du sollst das Ding einfach behalten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Retouren",
+    "Onlinehandel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2777,
+   "speaker": "Reinhard Koether",
+   "quote": "Und die einzige Chance ist, dass ich mir dann mehrere Sachen zum Ausprobieren schicken lasse. Und zum Beispiel fünf Paar Schuhe und ein Paar behalte ich",
+   "quote_clean": "Die einzige Chance ist, dass ich mir mehrere Sachen zum Ausprobieren schicken lasse. Zum Beispiel fünf Paar Schuhe, und ein Paar behalte ich",
+   "statement": "Onlinehändler erlauben großzügige Rücksendungen, um auszugleichen, dass man Ware wie Schuhe vor dem Kauf nicht anprobieren kann.",
+   "question": "Warum erlauben Onlinehändler überhaupt so großzügige Rücksendungen?",
+   "answer": "Weil man online nicht anprobieren kann",
+   "distractors": [
+    "Weil das Gesetz unbegrenzte Retouren verlangt",
+    "Weil Retouren ihnen Gewinn bringen",
+    "Weil Paketdienste Retouren gratis fahren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Schuhgeschäft probierst du einfach, online geht das nicht. Also bestellst du fünf Paar und schickst vier zurück, und für den Händler ist das ein großer Kostenblock, den er bewusst in Kauf nimmt, damit du überhaupt online Schuhe kaufst.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Retouren",
+    "Onlinehandel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 2930,
+   "speaker": "Andreas Sator",
+   "quote": "Was nehme ich mir mit, dass unsere Jeans, Handys, Essen, Klopapier und so weiter alles zur rechten Zeit am rechten Ort ist,",
+   "quote_clean": "Was nehme ich mir mit? Dass unsere Jeans, Handys, Essen, Klopapier und so weiter alles zur rechten Zeit am rechten Ort ist,",
+   "statement": "Andreas fasst am Ende der Folge mit „Was nehme ich mir mit“ zusammen, was er gelernt hat.",
+   "question": "Mit welcher Formulierung leitet Andreas am Ende dieser Folge seine Zusammenfassung ein?",
+   "answer": "„Was nehme ich mir mit“",
+   "distractors": [
+    "„Was lernen wir daraus“",
+    "„Kurz zusammengefasst“",
+    "„Mein Fazit für heute“"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nach dem Gespräch fasst Andreas für sich zusammen, was hängen geblieben ist. Diesmal: Dass Jeans, Handys und Klopapier zur rechten Zeit am rechten Ort sind, ist ein riesiger Aufwand, für den sich hunderttausende Leute den Kopf zerbrechen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Abschluss"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "s20250403",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

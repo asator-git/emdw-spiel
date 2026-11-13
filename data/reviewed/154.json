@@ -1,0 +1,289 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Zahl belegt (402-408 s, deckt sich mit Satellitenstudien); Aha behauptete \"anderswo deutlich schneller\", das steht nicht im Gespräch. Stand 2021.",
+   "stand_note": "Stand 2021",
+   "statement": "Die künstlich beleuchteten Flächen und ihre Helligkeit wachsen weltweit seit 2012 um etwa zwei Prozent pro Jahr.",
+   "question": "Um wie viel Prozent pro Jahr nehmen Helligkeit und Ausdehnung beleuchteter Flächen weltweit seit 2012 ungefähr zu?",
+   "answer": "Etwa 2 Prozent pro Jahr",
+   "distractors": [
+    "Etwa 0,2 Prozent pro Jahr",
+    "Etwa 7 Prozent pro Jahr",
+    "Etwa 15 Prozent pro Jahr"
+   ],
+   "aha": "Zwei Prozent klingt nach wenig, aber das summiert sich: In zehn Jahren ist die Nacht so um ein gutes Fünftel heller geworden. Und das ist der globale Schnitt, in manchen Gegenden bleibt es auch gleich.",
+   "quote_clean": "Die Helligkeiten nehmen immer zu und auch die Ausdehnung der beleuchteten Flächen. Circa um zwei Prozent pro Jahr seit 2012, global gesehen.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "veraltet",
+    "kontext"
+   ],
+   "note": "Andreas nennt die Zahl selbst unsicher aus der Vorbereitung (\"war es dann...\"), die Quelle ist eine rund 20 Jahre alte, nicht eingeordnete Schätzung; das Aha behauptet zudem Entwicklungen, die nicht belegt sind.",
+   "stand_note": "",
+   "statement": "Laut einer rund 20 Jahre alten Berechnung eines deutschen Forschers sterben in Deutschland in drei Sommermonaten etwa 90 Milliarden Insekten an Straßenbeleuchtung.",
+   "question": "Wie viele Insekten sterben laut einer deutschen Berechnung in drei Sommermonaten in Deutschland an Straßenbeleuchtung?",
+   "answer": "Rund 90 Milliarden",
+   "distractors": [
+    "Rund 90 Millionen",
+    "Rund 900 Millionen",
+    "Rund 9 Billionen"
+   ],
+   "aha": "Die Insekten fliegen um die Laterne, bis sie erschöpft sind, verbrennen oder gefressen werden. Die Rechnung ist schon rund 20 Jahre alt, seither ist es eher heller geworden, besser ist es also kaum.",
+   "quote_clean": "Und da war die Zahl: 90 Milliarden Insekten sind nur im Sommer durch Lichtverschmutzung, ganz konkret durch Straßenbeleuchtung, umgekommen.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Vollmond 0,3 Lux belegt (1569-1573 s) und plausibel; Aha stützt sich nun auf Suchys eigene Angabe statt auf Unbelegtes.",
+   "stand_note": "",
+   "statement": "Ein Vollmond erhellt die Nacht mit etwa 0,3 Lux.",
+   "question": "Wie hell ist eine Vollmondnacht ungefähr, gemessen in Lux?",
+   "answer": "Etwa 0,3 Lux",
+   "distractors": [
+    "Etwa 0,003 Lux",
+    "Etwa 30 Lux",
+    "Etwa 300 Lux"
+   ],
+   "aha": "Das ist sehr wenig Licht. Laut Stefanie Suchy können bei Tieren schon 0,01 bis 0,03 Lux den Melatonin-Haushalt beeinflussen, bei uns Menschen braucht es etwas mehr.",
+   "quote_clean": "Also 6 Lux – wenn man vergleicht: Vollmondhelligkeit ist 0,3 Lux.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Definition wörtlich belegt (229-248 s).",
+   "stand_note": "",
+   "statement": "Lichtverschmutzung bezeichnet die Aufhellung der Nacht durch Kunstlicht, das die natürlichen Lichtverhältnisse überlagert.",
+   "question": "Wie definiert Stefanie Suchy Lichtverschmutzung in einem Satz?",
+   "answer": "Die Aufhellung der Nacht",
+   "distractors": [
+    "Staub in Lampenschirmen",
+    "Smog, der Sonnenlicht schluckt",
+    "Zu grelle Bildschirme am Abend"
+   ],
+   "aha": "Auch die Nacht hat ihr eigenes, natürliches Licht: Mond, Sterne, ein bisschen Himmelsleuchten. Verschmutzt ist sie, wenn Kunstlicht das alles überdeckt.",
+   "quote_clean": "Lichtverschmutzung ist die Aufhellung der Nacht. In der Nacht herrschen natürliche Lichtverhältnisse.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aussage belegt (241 s); im Aha stand eine Behauptung über orange Wolken, die nicht im Gespräch vorkommt, entfernt.",
+   "stand_note": "",
+   "statement": "Auch bei bedecktem Himmel ist der Himmel in der Nacht von Natur aus immer heller als der Boden.",
+   "question": "Was gilt in einer natürlichen Nacht ohne Kunstlicht, selbst wenn der Himmel bedeckt ist?",
+   "answer": "Der Himmel ist heller als der Boden",
+   "distractors": [
+    "Der Boden ist heller als der Himmel",
+    "Himmel und Boden sind gleich dunkel",
+    "Der Himmel ist völlig schwarz"
+   ],
+   "aha": "Der Himmel ist von Natur aus nie ganz schwarz, Mond, Sterne und Restlicht sorgen dafür. Erst das Kunstlicht überlagert diese natürliche Helligkeit.",
+   "quote_clean": "Aber selbst wenn der Himmel bedeckt ist, ist der Himmel immer heller als der Untergrund.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 524-534 s.",
+   "stand_note": "",
+   "statement": "Amphibien brauchen auf dem Weg zu ihren Laichgewässern dunkle Passagen, beleuchtete Stellen wirken für sie wie eine Barriere.",
+   "question": "Wie wirkt eine beleuchtete Stelle auf Kröten und Frösche, die zu ihrem Laichgewässer wandern?",
+   "answer": "Wie eine Barriere",
+   "distractors": [
+    "Wie ein Wegweiser",
+    "Wie eine Abkürzung",
+    "Sie bemerken es gar nicht"
+   ],
+   "aha": "Nicht alle Tiere werden vom Licht angelockt wie die Gelsen. Viele weichen ihm aus, für eine wandernde Kröte ist eine hell beleuchtete Straße fast wie eine Mauer.",
+   "quote_clean": "Wenn wir da mal draufblicken, ist es so, dass Amphibien auf ihrem Weg zu den Laichgewässern dunkle Passagen benötigen. Und Licht wirkt für sie wie eine Barriere.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 549-565 s inklusive Umwegen und Energieverbrauch.",
+   "stand_note": "",
+   "statement": "Werden die Flugschneisen der Kleinen Hufeisennase beleuchtet, meidet die Fledermaus sie und muss längere Umwege zu ihren Jagdgebieten fliegen.",
+   "question": "Was macht die Fledermausart Kleine Hufeisennase, wenn ihre gewohnte Flugschneise beleuchtet wird?",
+   "answer": "Sie meidet die Schneise",
+   "distractors": [
+    "Sie jagt dort lieber",
+    "Sie fliegt dort schneller",
+    "Sie ändert gar nichts"
+   ],
+   "aha": "Die Fledermaus nimmt dann längere Wege zu ihren Jagdgebieten und verbraucht mehr Energie. Ihr Lebensraum wird dadurch im Grunde zerschnitten, obwohl kein einziger Baum gefällt wurde.",
+   "quote_clean": "Man hat den Versuch gemacht, die Flugschneisen zu beleuchten. Infolgedessen nutzt die Kleine Hufeisennase diese Flugschneise nicht mehr.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Belegt ist nur, dass Quecksilberdampflampen UV abstrahlen, das Insekten sehen; \"locken besonders viele an\" sagt sie nicht. Frage auf das Belegte umgestellt.",
+   "stand_note": "",
+   "statement": "Quecksilberdampflampen strahlen auch im UV-Bereich, den Menschen nicht sehen, Insekten aber schon.",
+   "question": "Welches Licht strahlen Quecksilberdampflampen auch ab, das wir nicht sehen, Insekten aber schon?",
+   "answer": "UV-Licht",
+   "distractors": [
+    "Infrarotes Licht",
+    "Radiowellen",
+    "Röntgenstrahlen"
+   ],
+   "aha": "Für uns ist UV unsichtbar, für Insekten dagegen sichtbar. Laut Stefanie Suchy sind LEDs mit warmweißem Licht die verträglichere Lösung für die Außenbeleuchtung.",
+   "quote_clean": "Quecksilberdampflampen leuchten sogar im UV-Bereich, den wir gar nicht sehen können, Insekten aber sehr wohl.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Suchy formuliert vorsichtig (\"mehr Hinweise\"), die Frage sagte \"am schädlichsten\"; auf \"im Verdacht\" abgeschwächt.",
+   "stand_note": "",
+   "statement": "Bläuliche Lichtanteile stehen nach derzeitigen Hinweisen im Verdacht, für Menschen und Natur schädlicher zu sein als warmweißes Licht.",
+   "question": "Welcher Lichtanteil steht laut Stefanie Suchy im Verdacht, für Menschen und Natur besonders schädlich zu sein?",
+   "answer": "Der blaue Anteil",
+   "distractors": [
+    "Der rote Anteil",
+    "Der gelbe Anteil",
+    "Der grüne Anteil"
+   ],
+   "aha": "Blaues Licht signalisiert dem Körper Tag und beeinflusst Hormone wie das Schlafhormon Melatonin. Bei LEDs kann man das Spektrum aber formen, bis hin zu bernsteinfarbenem Licht wie bei alten Natriumdampflampen.",
+   "quote_clean": "Es gibt mehr Hinweise darauf, dass die blauen Spektren schädlicher sind für uns Menschen, aber auch für die Natur.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1381-1396 s; Erklärung klar.",
+   "stand_note": "",
+   "statement": "Beleuchtete Skipisten sind besonders störend, weil der Schnee das Licht zusätzlich reflektiert und sich Lichtglocken bilden.",
+   "question": "Warum erzeugen beleuchtete Skipisten besonders starke Lichtglocken?",
+   "answer": "Der Schnee reflektiert das Licht",
+   "distractors": [
+    "Die kalte Luft verstärkt Licht",
+    "Pisten nutzen nur UV-Lampen",
+    "Berge bündeln das Licht"
+   ],
+   "aha": "Sportstätten brauchen ohnehin enorme Lichtintensitäten, und auf der Piste wirft der weiße Schnee noch einmal alles zurück in den Himmel. So entsteht über einem einzelnen Hang eine eigene Lichtglocke.",
+   "quote_clean": "Oder bei den Skipisten: Der Schnee, der Untergrund, reflektiert das Ganze noch einmal, und da bilden sich dann über diesen Beleuchtungsanlagen richtige Lichtglocken.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Suchy sagt \"vielleicht\" kaputt in zwei, drei Jahren; Aussage und Frage entsprechend abgeschwächt.",
+   "stand_note": "",
+   "statement": "Von Solarleuchten für den Garten rät Stefanie Suchy ab, weil sie vielleicht schon nach zwei, drei Jahren kaputt sind und dann komplett weggeworfen werden müssen.",
+   "question": "Von welchen Gartenlampen rät Lichtexpertin Stefanie Suchy ab, weil sie vielleicht schon nach zwei, drei Jahren kaputt sind?",
+   "answer": "Solarleuchten",
+   "distractors": [
+    "Lampen mit Bewegungsmelder",
+    "Warmweiße LED-Strahler",
+    "Laternen mit Glühbirne"
+   ],
+   "aha": "Klingt öko, ist es aber nicht unbedingt: Wenn die Lampe kaputt ist, muss man das ganze Teil wegschmeißen, das ist laut Suchy ein enormer Ressourcenverbrauch. Gartenbeleuchtung hält sie ohnehin für ziemlich unnütz.",
+   "quote_clean": "Dass man vielleicht keine Solarleuchten kauft, weil die vielleicht innerhalb der nächsten zwei, drei Jahre kaputt sind und man das ganze Teil wegschmeißen muss. Das ist eigentlich auch ein enormer Ressourcenverbrauch.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Vergleich mit Lärm belegt (1704-1712 s); im Aha war der Hinweis \"wie man sich über Lärm beschwert\" nicht belegt.",
+   "stand_note": "",
+   "statement": "Zu viel Licht in der Nacht kann für Betroffene eine echte Qual sein, vergleichbar mit Lärm.",
+   "question": "Womit vergleicht Stefanie Suchy die Belastung durch zu viel nächtliches Licht?",
+   "answer": "Mit zu viel Lärm",
+   "distractors": [
+    "Mit schlechter Luft",
+    "Mit zu viel Hitze",
+    "Mit Zigarettenrauch"
+   ],
+   "aha": "Bei ihr melden sich immer mehr Menschen, die sich von Überbeleuchtung gestört fühlen. Ihr Rat: das bei der Gemeinde oder in Wien beim Magistrat ansprechen.",
+   "quote_clean": "Und es ist auch wirklich eine Qual, genauso wie zu viel Lärm störend ist.",
+   "quality": 2
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness",
+    "beleg"
+   ],
+   "note": "Anekdote eines namentlich genannten Hörers ohne Wissensgewinn; Aha behauptet, Suchy wolle \"zuerst bei Stadien ansetzen\", das steht nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Ein Hörer beschwerte sich vor der Folge, dass das Rapidstadion in Wien so hell leuchte, als würde dort ein UFO landen.",
+   "question": "Womit verglich ein Hörer die Beleuchtung des Rapidstadions in Wien?",
+   "answer": "Mit einer UFO-Landung",
+   "distractors": [
+    "Mit einem Leuchtturm",
+    "Mit einem Feuerwerk",
+    "Mit einer Mondlandung"
+   ],
+   "aha": "Franz hat Andreas im Vorfeld geschrieben, und ganz unrecht hat er nicht: Stadien und Sportstätten zählen zur nicht notwendigen Beleuchtung und brauchen enorme Lichtintensitäten. Genau dort sollte man laut Stefanie Suchy zuerst ansetzen.",
+   "quote_clean": "Der hat sich sehr aufgeregt, dass in Wien das Rapidstadion immer so hell ist und man glaubt, da landet ein UFO, weil das Stadion so leuchtet.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Podcast-Begrüßung, kein Wissensfakt; als Spielfrage ohne Mehrwert.",
+   "stand_note": "",
+   "statement": "Andreas Sator begrüßt seine Hörer:innen mit dem Versprechen, die Welt jede Woche ein bisschen besser zu verstehen.",
+   "question": "Wie vervollständigt Andreas seinen Einstieg: „Erklär mir die Welt, der Podcast, mit dem du die Welt …“?",
+   "answer": "jede Woche ein bisschen besser verstehen sollst",
+   "distractors": [
+    "jeden Tag ein bisschen neu entdeckst",
+    "endlich ganz durchschauen kannst",
+    "jede Woche ein bisschen retten sollst"
+   ],
+   "aha": "Kein Anspruch, alles zu erklären, nur jede Woche ein bisschen mehr. Diesmal ging es darum, warum die Nacht zu hell geworden ist.",
+   "quote_clean": "Hallo, ich bin der Andreas, und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quality": 1
+  }
+ ],
+ "id": "154",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

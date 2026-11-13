@@ -1,0 +1,277 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Pendelzeit 30 Minuten und Folgenlänge-Idee stehen so im Transkript.",
+   "stand_note": "",
+   "statement": "Die ursprüngliche Folgenlänge von Erklär mir die Welt orientierte sich an der durchschnittlichen Pendelzeit in Österreich von rund 30 Minuten.",
+   "question": "Wie viele Minuten beträgt laut Andreas die durchschnittliche Pendelzeit in Österreich?",
+   "answer": "30 Minuten",
+   "distractors": [
+    "15 Minuten",
+    "45 Minuten",
+    "60 Minuten"
+   ],
+   "aha": "Darum dauerten die ersten Folgen genau so lang: einmal U-Bahn, einmal Folge. Dass sie heute oft 1,5 Stunden haben, war keine große Strategie, es ist einfach passiert, weil die Gespräche so spannend sind.",
+   "quote_clean": "Zuerst war die Idee: Die durchschnittliche Pendelzeit in Österreich ist 30 Minuten, also Leute, die in der U-Bahn oder im Auto in die Arbeit und zurück sitzen.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat-das-gesagt-Frage ohne Faktenwert; Distraktoren sind erfundene bzw. nicht belegte Personen.",
+   "stand_note": "",
+   "statement": "Andreas sieht lange Podcastfolgen als Gegenbewegung zu immer kürzeren Videos auf TikTok, Instagram und YouTube Shorts.",
+   "question": "Wer hat über lange Podcastfolgen gesagt: „Jede Bewegung schafft eine Gegenbewegung und wir wollen die Gegenbewegung sein“?",
+   "answer": "Andreas Sator",
+   "distractors": [
+    "Valentina",
+    "Katharina Henz",
+    "Beate Fuhrmann"
+   ],
+   "aha": "Je mehr Dinge kurz und schnell und hopp hopp gehen, desto spannender wird das lange Gespräch wieder. Nach 1,5 Stunden zu KI und Bildung bist du dafür im Freundeskreis ordentlich gewappnet.",
+   "quote_clean": "Ich glaube, jede Bewegung schafft eine Gegenbewegung, und wir wollen die Gegenbewegung sein.",
+   "quality": 1
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "Beleg stimmt (zumindest USA); Wertung im aha war nicht im Transkript und wurde entfernt.",
+   "stand_note": "Stand 2026",
+   "statement": "YouTube ist in den vergangenen Jahren zumindest in den USA zur wichtigsten Podcast-Plattform aufgestiegen.",
+   "question": "Welche Plattform ist laut Andreas in den USA inzwischen die wichtigste für Podcasts?",
+   "answer": "YouTube",
+   "distractors": [
+    "Spotify",
+    "Apple Podcasts",
+    "Amazon Music"
+   ],
+   "aha": "Darum pusht Spotify jetzt so heftig Video: Dort hat man Angst, abgehängt zu werden, weil im Internet alles mit Video funktioniert.",
+   "quote_clean": "Das liegt auch daran, dass YouTube in den vergangenen Jahren zur wichtigsten Podcast-Plattform aufgestiegen ist, zumindest in den USA.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "RSS-Aussage und Erläuterung stehen im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Podcasts sind grundsätzlich frei und öffentlich über RSS-Feeds zugänglich, sodass Macher:innen ihre Abonnent:innen direkt erreichen.",
+   "question": "Über welche Technik sind Podcasts grundsätzlich frei und öffentlich zugänglich?",
+   "answer": "RSS-Feeds",
+   "distractors": [
+    "Plattform-Algorithmen",
+    "Streaming-Lizenzen",
+    "App-Store-Abos"
+   ],
+   "aha": "Klingt nach technischem Detail, ist aber der Kern: Wer dich über RSS abonniert, kriegt jede Folge, ohne dass TikTok oder Instagram gefragt werden müssen. Lädt man Videos auf Spotify, ging dieser direkte Zugang bis vor kurzem verloren.",
+   "quote_clean": "Im Prinzip ist die Grundidee von Podcasts, dass sie frei und öffentlich über RSS-Feeds zugänglich sind.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Twitter-Beispiel steht so im Ausschnitt, Vor- und Nachteil korrekt wiedergegeben.",
+   "stand_note": "",
+   "statement": "Früher sah man auf Twitter alles von abonnierten Konten; seit der Umstellung auf einen Algorithmus entscheidet dieser, was man sieht.",
+   "question": "Was hat sich geändert, als Twitter auf einen Algorithmus umgestellt hat?",
+   "answer": "Der Algorithmus entscheidet, was man sieht",
+   "distractors": [
+    "Man musste für Abos zahlen",
+    "Beiträge wurden kürzer",
+    "Man sah nur noch Werbung"
+   ],
+   "aha": "Hat Vorteile, der Algorithmus weiß eh oft, was dich interessiert. Aber Kreative verlieren damit den direkten Draht zu ihrem Publikum, und die Plattform gewinnt Macht.",
+   "quote_clean": "Auf Twitter war es früher auch so: Du hast ein Konto abonniert und dann alles gesehen, was die Person geschrieben hat. Irgendwann hat Twitter auf einen Algorithmus umgestellt.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Aussage steht im Ausschnitt; recht leichte Frage, aber korrekt.",
+   "stand_note": "",
+   "statement": "Viele KI-Sprachmodelle stützen sich stark auf Wikipedia, wenn sie Fragen etwa zu einem Podcast beantworten.",
+   "question": "Welche Quelle nehmen KI-Sprachmodelle laut Andreas besonders wichtig?",
+   "answer": "Wikipedia",
+   "distractors": [
+    "Instagram",
+    "TikTok",
+    "Podcast-Transkripte"
+   ],
+   "aha": "Ein guter Wikipedia-Eintrag hilft also nicht nur Menschen, sondern auch den KIs, die später Podcast-Empfehlungen geben. Und Wikipedia lebt davon, dass Leute mitmachen – mit Quellen, versteht sich.",
+   "quote_clean": "KI-Sprachmodelle nehmen Wikipedia sehr wichtig, wenn du sie jetzt fragst, was „Erklär mir die Welt“ ist – also auch, um die KIs zu füttern.",
+   "quality": 2
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "27 wird im Ausschnitt zweimal konsistent genannt; Angebot kann sich ändern.",
+   "stand_note": "Stand 2026",
+   "statement": "In vielen Wiener Theatern bekommt man unter 27 Jahren stark vergünstigte Tickets in jeder Preiskategorie.",
+   "question": "Bis zu welchem Alter bekommt man in vielen Wiener Theatern absurd billige Tickets?",
+   "answer": "Unter 27 Jahren",
+   "distractors": [
+    "Unter 21 Jahren",
+    "Unter 25 Jahren",
+    "Unter 30 Jahren"
+   ],
+   "aha": "Valentina zahlt damit 5 Euro für die erste Reihe. In ihrem letzten Monat unter 27 geht sie deshalb zwei- bis dreimal pro Woche ins Theater – Torschlusspanik der kultivierten Art.",
+   "quote_clean": "In ganz vielen Theaterhäusern in Wien bekommt man unter 27 absurd billige Tickets für jede Preiskategorie. Ich darf um 5 Euro in der ersten Reihe sitzen.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Behauptung über Rekorde im aha als Fakt formuliert, ist aber Andreas' Aussage; neu attribuiert.",
+   "stand_note": "Stand 2026",
+   "statement": "MrBeast gilt als größter YouTuber der Welt und hat mit Beast Games eine Spieleshow für Amazon Prime gemacht.",
+   "question": "Wer ist laut Andreas der größte YouTuber der Welt?",
+   "answer": "MrBeast",
+   "distractors": [
+    "PewDiePie",
+    "Markiplier",
+    "KSI"
+   ],
+   "aha": "Spannend war, ob ein YouTube-Star auch eine echte Streaming-Serie stemmen kann. Laut Andreas wurde Beast Games die meistgeschaute Serie bisher – und er schaut sie gern, um den Kopf abzuschalten.",
+   "quote_clean": "Und zwar Beast Games. MrBeast ist der größte YouTuber der Welt, der eher Content für sehr junge Leute macht.",
+   "quality": 2
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "5 Millionen Dollar steht so im Ausschnitt und passt zum Format.",
+   "stand_note": "Stand 2026",
+   "statement": "Bei der Spieleshow Beast Games kann am Ende eine Person 5 Millionen Dollar gewinnen.",
+   "question": "Wie viele Millionen Dollar kann man bei MrBeasts Show Beast Games am Ende gewinnen?",
+   "answer": "5 Millionen Dollar",
+   "distractors": [
+    "1 Million Dollar",
+    "10 Millionen Dollar",
+    "50 Millionen Dollar"
+   ],
+   "aha": "Sehr amerikanisch, sagt Andreas: viel Geld, viel Drama, viel „verrätst du deine Gruppe?“. Wer das Geschrei ignoriert, sieht ziemlich interessante soziale Experimente.",
+   "quote_clean": "Und am Ende kann einer gleich 5 Millionen Dollar gewinnen.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Neunfache Staatsmeisterin steht klar im Ausschnitt; aha-Details (Forschung, Live-Aufnahme) belegt.",
+   "stand_note": "",
+   "statement": "Die Wiener Zoologin Angela Stöger war in ihrer Jugend neunfache Staatsmeisterin im Synchronschwimmen.",
+   "question": "Wie oft war Tierkommunikations-Forscherin Angela Stöger in ihrer Jugend Staatsmeisterin im Synchronschwimmen?",
+   "answer": "9-mal",
+   "distractors": [
+    "3-mal",
+    "5-mal",
+    "12-mal"
+   ],
+   "aha": "Heute forscht sie an der Uni Wien dazu, wie Geparden, Löwen, Giraffen und Bären kommunizieren. Klug und sportlich also – und bei der Langen Nacht der Forschung live im Podcast.",
+   "quote_clean": "Die Angela ist auch eine interessante Person, sie war in ihrer Jugend neunfache Staatsmeisterin im Synchronschwimmen.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "aha sagte oft statt teilweise; an Transkript angepasst.",
+   "stand_note": "",
+   "statement": "Network Marketing reicht von harmlosen Thermomix- und Tupperware-Runden bis zu sektenartigen Strukturen, in denen man viel Geld verlieren kann.",
+   "question": "Welche Verkaufsrunden zählen laut Andreas zum harmloseren Ende des Network Marketings?",
+   "answer": "Thermomix- und Tupperware-Runden",
+   "distractors": [
+    "Flohmärkte und Basare",
+    "Teleshopping-Sendungen",
+    "Haustür-Zeitungsabos"
+   ],
+   "aha": "Am anderen Ende stehen Systeme, in denen man Nahrungsergänzungsmittel verkaufen soll und dabei Geld verliert. Teilweise verjagt man sogar sein halbes soziales Umfeld, weil man alle damit nervt.",
+   "quote_clean": "Angefangen von Thermomix- und Tupperware-Runden, die noch harmlos sind, hin zu teilweise sektenartigen Strukturen, wo man ganz viel Geld verlieren kann, indem man irgendwelche Nahrungsergänzungsmittel verkauft.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "Schluss des aha war nicht belegt (Andreas sagt, viele Gespräche seien oberflächlich); korrigiert, Plan ist zeitgebunden.",
+   "stand_note": "Stand März 2026",
+   "statement": "Für die 400. Folge plant Andreas ein langes Gespräch darüber, wie ein Mensch seinen Alltag und sein Leben lebt.",
+   "question": "Worum soll es im neuen Gesprächsformat gehen, das Andreas zur 400. Folge plant?",
+   "answer": "Wie ein Mensch sein Leben lebt",
+   "distractors": [
+    "Die größten Irrtümer der Wissenschaft",
+    "Ein Rückblick auf alle Folgen",
+    "Fragen von Kindern an Expert:innen"
+   ],
+   "aha": "Nicht die Expertise steht im Mittelpunkt, sondern der Alltag: Was isst du, wie organisierst du dich, willst du Kinder, wie triffst du Entscheidungen? Andreas findet viele Gespräche oberflächlich und will mit diesem Testballon tiefer gehen.",
+   "quote_clean": "Aber im Sinne von: Was machst du in der Früh, wann gehst du schlafen, was machst du am Abend? Was isst du? Wie triffst du Entscheidungen in deinem Leben?",
+   "quality": 2
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Triviales Detail, im Dialog verwirrend (Chia-Pudding als widerrufene Aussage), Sprecherzuordnung unsicher.",
+   "stand_note": "",
+   "statement": "Beim Mikrocheck verraten Andreas und Valentina ihr Frühstück: Valentina Knäckebrot mit Hummus, Andreas kalten Porridge.",
+   "question": "Was hat Andreas laut dieser Folge gefrühstückt?",
+   "answer": "Kalten Porridge",
+   "distractors": [
+    "Chia-Pudding",
+    "Knäckebrot mit Hummus",
+    "Eine Buttersemmel"
+   ],
+   "aha": "Der Chia-Pudding war eine Falschmeldung, Valentina hatte Knäckebrot mit Hummus. Ein kleiner Vorgeschmack auf die Alltagsfragen, die Andreas zur 400. Folge stellen will.",
+   "quote_clean": "Also, wenn es interessiert: Die Valentina hat heute Chia-Pudding gefrühstückt. – Heute nicht, oder? – Heute Knäckebrot und Hummus, genau. – Und Andreas Porridge, aber kalt.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belanglose Randepisode ohne Wissenswert, Frage nicht eindeutig.",
+   "stand_note": "",
+   "statement": "Mitten in der Aufnahme läutet bei Valentina eine Handy-Erinnerung um 11:30 Uhr.",
+   "question": "Was unterbricht Andreas mitten in seinem Gedanken zu Interviews mit Jugendlichen?",
+   "answer": "Eine Handy-Erinnerung bei Valentina",
+   "distractors": [
+    "Ein Niesanfall",
+    "Ein Anruf vom Thomas",
+    "Die Studioklingel"
+   ],
+   "aha": "Kein Wecker, eine Erinnerung um halb zwölf. Später gesteht Valentina auch noch, den Flugmodus ausgeschaltet zu haben – wegen des Episodenplans am Handy.",
+   "quote_clean": "Da hat's bei der Valentina geläutet. Was war das? Timer oder was? – Wecker um 11:30 Uhr. Nein, Erinnerung.",
+   "quality": 1
+  }
+ ],
+ "id": "386",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

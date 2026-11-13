@@ -1,0 +1,740 @@
+{
+ "theme": "Klima & Energie",
+ "summary": "Hype oder Zukunft? Manfred Schrödl erklärt, warum E-Autos bald billiger werden, wie weit sie kommen und ob unser Strom reicht.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 495,
+   "speaker": "Manfred Schrödl",
+   "quote": "Und die haben so Reichweiten in der Gegend von 150 Kilometer in etwa gehabt.",
+   "quote_clean": "Die hatten Reichweiten in der Gegend von etwa 150 Kilometern.",
+   "statement": "Die ersten alltagstauglichen Elektroautos um 2010 hatten eine Reichweite von etwa 150 Kilometern.",
+   "question": "Wie viele Kilometer kamen die ersten vernünftigen Elektroautos um 2010 ungefähr weit?",
+   "answer": "Etwa 150 Kilometer",
+   "distractors": [
+    "Etwa 60 Kilometer",
+    "Etwa 300 Kilometer",
+    "Etwa 450 Kilometer"
+   ],
+   "number_value": 150,
+   "number_unit": "km",
+   "slider_min": 0,
+   "slider_max": 500,
+   "log_scale": false,
+   "aha": "In den Autos steckten damals rund 20 Kilowattstunden Batterie. Für den Weg ins Büro hat das gereicht, für den Ausflug ins Waldviertel eher nicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Reichweite",
+    "Batterie",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 504,
+   "speaker": "Manfred Schrödl",
+   "quote": "In der Zwischenzeit hat das durchschnittliche Elektroauto ungefähr 50 Kilowattstunden.",
+   "quote_clean": "In der Zwischenzeit hat das durchschnittliche Elektroauto ungefähr 50 Kilowattstunden.",
+   "statement": "Ein durchschnittliches Elektroauto hatte 2020 eine Batterie mit rund 50 Kilowattstunden.",
+   "question": "Wie viele Kilowattstunden hatte die Batterie eines durchschnittlichen E-Autos im Jahr 2020 ungefähr?",
+   "answer": "Etwa 50 Kilowattstunden",
+   "distractors": [
+    "Etwa 10 Kilowattstunden",
+    "Etwa 25 Kilowattstunden",
+    "Etwa 150 Kilowattstunden"
+   ],
+   "number_value": 50,
+   "number_unit": "kWh",
+   "slider_min": 0,
+   "slider_max": 200,
+   "log_scale": false,
+   "aha": "2010 waren es noch rund 20 Kilowattstunden. Mit 50 kommt man laut Manfred so 250 bis 300 Kilometer weit, also hat sich die Reichweite in zehn Jahren ungefähr verdoppelt.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Batterie",
+    "Reichweite"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 423,
+   "speaker": "Manfred Schrödl",
+   "quote": "Und man sieht, dass die Batterien locker acht bis zehn Jahre halten und Kilometerleistungen von 300.000 Kilometern bis, man redet jetzt schon von einer Million Kilometern,",
+   "quote_clean": "Und man sieht, dass die Batterien locker acht bis zehn Jahre halten und Kilometerleistungen von 300.000 Kilometern bis, man redet jetzt schon von einer Million Kilometern,",
+   "statement": "E-Auto-Batterien halten erfahrungsgemäß locker acht bis zehn Jahre und mindestens 300.000 Kilometer.",
+   "question": "Wie viele Kilometer hält eine E-Auto-Batterie laut Erfahrungswerten locker durch?",
+   "answer": "Rund 300.000 Kilometer",
+   "distractors": [
+    "Rund 50.000 Kilometer",
+    "Rund 100.000 Kilometer",
+    "Rund 3 Millionen Kilometer"
+   ],
+   "number_value": 300000,
+   "number_unit": "km",
+   "slider_min": 10000,
+   "slider_max": 2000000,
+   "log_scale": true,
+   "aha": "Dass die Akkus so lange halten, war anfangs gar nicht klar. Inzwischen fahren aber Millionen E-Autos herum, und man redet schon von bis zu einer Million Kilometern.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Batterie",
+    "Lebensdauer"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1067,
+   "speaker": "Manfred Schrödl",
+   "quote": "Der Wirkungsgrad von einem Dieselfahrzeug ist sehr schlecht, der ist vielleicht bei 20 Prozent.",
+   "quote_clean": "Der Wirkungsgrad von einem Dieselfahrzeug ist sehr schlecht, der ist vielleicht bei 20 Prozent.",
+   "statement": "Ein Dieselauto nutzt nur etwa 20 Prozent der Energie im Treibstoff für den Antrieb.",
+   "question": "Wie viel Prozent der Energie im Treibstoff nutzt ein Dieselauto ungefähr für den Antrieb?",
+   "answer": "Etwa 20 Prozent",
+   "distractors": [
+    "Etwa 45 Prozent",
+    "Etwa 60 Prozent",
+    "Etwa 5 Prozent"
+   ],
+   "number_value": 20,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Der Rest, also rund 80 Prozent, wird als Wärme verschleudert. Deshalb wird der Motor auch so heiß, dass man im Winter damit eh die Heizung betreibt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wirkungsgrad",
+    "Diesel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1078,
+   "speaker": "Manfred Schrödl",
+   "quote": "Der Wirkungsgrad von einem Elektrofahrzeug ist sehr gut, der liegt bei 80 Prozent.",
+   "quote_clean": "Der Wirkungsgrad von einem Elektrofahrzeug ist sehr gut, der liegt bei 80 Prozent.",
+   "statement": "Ein Elektroauto setzt etwa 80 Prozent der eingesetzten Energie in Bewegung um.",
+   "question": "Wie hoch ist der Wirkungsgrad eines Elektroautos ungefähr?",
+   "answer": "Etwa 80 Prozent",
+   "distractors": [
+    "Etwa 30 Prozent",
+    "Etwa 50 Prozent",
+    "Etwa 99 Prozent"
+   ],
+   "number_value": 80,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Beim Elektromotor wird fast nichts an Energie weggeschmissen. Darum braucht ein E-Auto für dieselbe Strecke nur etwa ein Viertel der Energie eines Diesels.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wirkungsgrad",
+    "Elektromotor"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1094,
+   "speaker": "Manfred Schrödl",
+   "quote": "Und Diesel hat ungefähr 10 Kilowattstunden in einem Liter als Energie.",
+   "quote_clean": "Diesel hat ungefähr 10 Kilowattstunden Energie in einem Liter.",
+   "statement": "Ein Liter Diesel enthält rund 10 Kilowattstunden Energie.",
+   "question": "Wie viele Kilowattstunden Energie stecken ungefähr in einem Liter Diesel?",
+   "answer": "Etwa 10 Kilowattstunden",
+   "distractors": [
+    "Etwa 1 Kilowattstunde",
+    "Etwa 3 Kilowattstunden",
+    "Etwa 40 Kilowattstunden"
+   ],
+   "number_value": 10,
+   "number_unit": "kWh",
+   "slider_min": 0,
+   "slider_max": 50,
+   "log_scale": false,
+   "aha": "Eine Tonne Diesel sind also rund 10.000 Kilowattstunden. Ein E-Auto braucht davon wegen des besseren Wirkungsgrads nur etwa ein Viertel.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Energie",
+    "Diesel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1047,
+   "speaker": "Manfred Schrödl",
+   "quote": "Wenn wir in Österreich im Durchschnitt 14.000 Kilometer im Jahr fahren, dann brauchen wir so ungefähr, sagen wir mal grob, 1.000 Liter Diesel pro Jahr.",
+   "quote_clean": "Wenn wir in Österreich im Durchschnitt 14.000 Kilometer im Jahr fahren, dann brauchen wir grob 1.000 Liter Diesel pro Jahr.",
+   "statement": "Ein Auto in Österreich fährt im Durchschnitt etwa 14.000 Kilometer pro Jahr.",
+   "question": "Wie viele Kilometer fährt ein Auto in Österreich im Durchschnitt pro Jahr?",
+   "answer": "Etwa 14.000 Kilometer",
+   "distractors": [
+    "Etwa 5.000 Kilometer",
+    "Etwa 25.000 Kilometer",
+    "Etwa 40.000 Kilometer"
+   ],
+   "number_value": 14000,
+   "number_unit": "km",
+   "slider_min": 0,
+   "slider_max": 50000,
+   "log_scale": false,
+   "aha": "Bei rund 7 Litern auf 100 Kilometer sind das grob 1.000 Liter Diesel im Jahr. Das ist die Ausgangsrechnung dafür, wie viel Strom wir bräuchten, wenn alle elektrisch fahren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Österreich",
+    "Mobilität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1105,
+   "speaker": "Manfred Schrödl",
+   "quote": "Und wenn du schaust, ein normaler Haushalt verbraucht ungefähr 2.000-3.000 Kilowattstunden Strom im Jahr.",
+   "quote_clean": "Ein normaler Haushalt verbraucht ungefähr 2.000 bis 3.000 Kilowattstunden Strom im Jahr.",
+   "statement": "Ein normaler Haushalt verbraucht rund 2.000 bis 3.000 Kilowattstunden Strom pro Jahr.",
+   "question": "Wie viele Kilowattstunden Strom verbraucht ein normaler Haushalt ungefähr pro Jahr?",
+   "answer": "2.000 bis 3.000 Kilowattstunden",
+   "distractors": [
+    "200 bis 300 Kilowattstunden",
+    "8.000 bis 10.000 Kilowattstunden",
+    "20.000 bis 30.000 Kilowattstunden"
+   ],
+   "number_value": 2500,
+   "number_unit": "kWh",
+   "slider_min": 100,
+   "slider_max": 30000,
+   "log_scale": true,
+   "aha": "Ein E-Auto braucht im Jahr ungefähr gleich viel. Wer elektrisch fährt, verdoppelt also grob den Stromverbrauch seines Haushalts.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Strom",
+    "Haushalt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1120,
+   "speaker": "Manfred Schrödl",
+   "quote": "Im gesamtösterreichischen Blick ist das ungefähr 20 Prozent Zusatzstrom im Vergleich zum jetzigen Gesamtstromverbrauch.",
+   "quote_clean": "Im gesamtösterreichischen Blick ist das ungefähr 20 Prozent Zusatzstrom im Vergleich zum jetzigen Gesamtstromverbrauch.",
+   "statement": "Würden alle in Österreich elektrisch fahren, bräuchte das Land etwa 20 Prozent mehr Strom als heute.",
+   "question": "Um wie viel Prozent würde Österreichs Stromverbrauch steigen, wenn alle Autos elektrisch fahren?",
+   "answer": "Um etwa 20 Prozent",
+   "distractors": [
+    "Um etwa 5 Prozent",
+    "Um etwa 60 Prozent",
+    "Um etwa 150 Prozent"
+   ],
+   "number_value": 20,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 150,
+   "log_scale": false,
+   "aha": "Klingt nach viel, ist aber laut Manfred machbar: ein paar Windräder und ein paar mehr Photovoltaik-Zellen. Die Angst, dass uns der Strom ausgeht, ist also eher unbegründet.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Strom",
+    "Österreich",
+    "Energiewende"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1311,
+   "speaker": "Manfred Schrödl",
+   "quote": "Also wenn man will, kriegt man quasi 95 Prozent der Sachen wieder zurück, sodass das Entsorgungsproblem eigentlich gar keines ist.",
+   "quote_clean": "Wenn man will, kriegt man 95 Prozent der Sachen wieder zurück, sodass das Entsorgungsproblem eigentlich gar keines ist.",
+   "statement": "Aus alten E-Auto-Batterien lassen sich mit modernem Recycling rund 95 Prozent der Materialien zurückgewinnen.",
+   "question": "Wie viel Prozent der Materialien einer E-Auto-Batterie kann man mit modernem Recycling zurückgewinnen?",
+   "answer": "Rund 95 Prozent",
+   "distractors": [
+    "Rund 30 Prozent",
+    "Rund 50 Prozent",
+    "Rund 70 Prozent"
+   ],
+   "number_value": 95,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Eine deutsche Firma zerlegt die Akkus nicht mit Hitze, sondern unter Vakuum. So bekommt man sogar die komplizierten organischen Bestandteile wieder heraus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Recycling",
+    "Batterie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 990,
+   "speaker": "Andreas Sator",
+   "quote": "Österreich ist so drei Viertel vom Strom bereits grün, weil wir viel Wasserkraft haben.",
+   "quote_clean": "In Österreich ist etwa drei Viertel des Stroms bereits grün, weil wir viel Wasserkraft haben.",
+   "statement": "Rund drei Viertel des Stroms in Österreich stammen aus erneuerbaren Quellen, vor allem aus Wasserkraft.",
+   "question": "Wie viel Prozent des österreichischen Stroms kamen 2020 ungefähr aus erneuerbaren Quellen?",
+   "answer": "Etwa 75 Prozent",
+   "distractors": [
+    "Etwa 25 Prozent",
+    "Etwa 45 Prozent",
+    "Etwa 95 Prozent"
+   ],
+   "number_value": 75,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Das verdanken wir vor allem der Wasserkraft. Deshalb ist ein E-Auto in Österreich schon heute deutlich klimafreundlicher als ein Benziner, in einem Land mit Kohlestrom sieht das ganz anders aus.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Österreich",
+    "Strommix",
+    "Wasserkraft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1266,
+   "speaker": "Manfred Schrödl",
+   "quote": "Und man sieht ja bei der Bleibatterie, da hat man es geschafft, dass 100 Prozent der Bleibatterien wiederverwertet werden.",
+   "quote_clean": "Bei der Bleibatterie hat man es geschafft, dass 100 Prozent der Bleibatterien wiederverwertet werden.",
+   "statement": "Alte Bleibatterien, etwa Starterbatterien aus Autos, werden praktisch vollständig wiederverwertet.",
+   "question": "Wie viele der alten Blei-Autobatterien werden heute wiederverwertet?",
+   "answer": "Praktisch alle",
+   "distractors": [
+    "Etwa die Hälfte",
+    "Etwa ein Viertel",
+    "Kaum welche"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei der Bleibatterie hat man einen echten Kreislauf geschafft. Genau das ist laut Manfred auch das Ziel für die Lithium-Ionen-Akkus der E-Autos.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Recycling",
+    "Kreislauf"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1005,
+   "speaker": "Manfred Schrödl",
+   "quote": "Also ich gehe davon aus, dass ein Elektroauto vielleicht ein Drittel der Emissionsbelastung über seinen Lebenszyklus hat im Vergleich zu einem Benziner und Diesel.",
+   "quote_clean": "Ich gehe davon aus, dass ein Elektroauto vielleicht ein Drittel der Emissionsbelastung über seinen Lebenszyklus hat im Vergleich zu einem Benziner und Diesel.",
+   "statement": "In Österreich verursacht ein Elektroauto über seinen Lebenszyklus nur etwa ein Drittel der Emissionen eines Benziners oder Diesels.",
+   "question": "Wie viel Emissionen verursacht ein E-Auto in Österreich über sein ganzes Leben im Vergleich zu einem Verbrenner?",
+   "answer": "Etwa ein Drittel",
+   "distractors": [
+    "Etwa gleich viel",
+    "Etwa zwei Drittel",
+    "Etwa doppelt so viel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Herstellung des Akkus kostet zwar viel Energie, aber im Betrieb holt das E-Auto das wieder rein. Mit Österreichs vielem Wasserkraftstrom bleibt am Ende nur rund ein Drittel der Emissionen übrig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Klima",
+    "Emissionen",
+    "Lebenszyklus"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 849,
+   "speaker": "Manfred Schrödl",
+   "quote": "Das heißt, der Tesla kann das CCS, die deutschen Hersteller können das CCS etc.",
+   "quote_clean": "Das heißt, der Tesla kann CCS, die deutschen Hersteller können CCS und so weiter.",
+   "statement": "In Europa hat sich mit CCS ein einheitlicher Ladestecker-Standard für E-Autos durchgesetzt.",
+   "question": "Wie heißt der Ladestandard, der sich in Europa für Elektroautos durchgesetzt hat?",
+   "answer": "CCS",
+   "distractors": [
+    "USB-C",
+    "Schuko",
+    "Qi"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "CCS ist eine Steckertype mit einem bestimmten Protokoll, und eigentlich halten sich alle daran. Damit hat jedes Auto quasi den gleichen Anschluss, egal ob Tesla oder VW.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Laden",
+    "Standard"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1450,
+   "speaker": "Manfred Schrödl",
+   "quote": "Und er hat das dargestellt und im Jahr 2012 hergezeigt.",
+   "quote_clean": "Und er hat das umgesetzt und im Jahr 2012 hergezeigt.",
+   "statement": "Mit Teslas Auto aus dem Jahr 2012 kam laut Manfred Schrödl der Kipppunkt für Elektroautos.",
+   "question": "In welchem Jahr zeigte Tesla jenes Auto, das laut Manfred Schrödl der Kipppunkt für E-Autos war?",
+   "answer": "2012",
+   "distractors": [
+    "2003",
+    "2008",
+    "2016"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bis dahin galten E-Autos als komische Eier mit drei Rädern für Umweltaktivist:innen. Erst ein Auto, das cool ist und sich super fährt, hat die klassischen Hersteller aufgeschreckt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Tesla",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 916,
+   "speaker": "Manfred Schrödl",
+   "quote": "Elektrofahrzeuge brauchen relativ viel Energie, weil bei der Produktion des Akkus relativ viel Energie gebraucht wird.",
+   "quote_clean": "Elektrofahrzeuge brauchen relativ viel Energie, weil bei der Produktion des Akkus relativ viel Energie gebraucht wird.",
+   "statement": "Die Herstellung eines Elektroautos braucht vor allem wegen des Akkus relativ viel Energie.",
+   "question": "Warum braucht die Herstellung eines E-Autos besonders viel Energie?",
+   "answer": "Wegen der Produktion des Akkus",
+   "distractors": [
+    "Wegen der Karosserie aus Aluminium",
+    "Wegen des Elektromotors",
+    "Wegen der Ladeelektronik"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wie klimafreundlich das Auto ist, hängt darum stark davon ab, mit welchem Strom der Akku gebaut wird. Kommt die Energie aus Erneuerbaren, ist auch die Produktion fast fossilfrei.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Batterie",
+    "Produktion",
+    "Klima"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1193,
+   "speaker": "Manfred Schrödl",
+   "quote": "Und nachdem die Leute ganz gern über Nacht laden, wenn das geht, ist das super, weil in der Nacht die Industrie heruntergefahren ist.",
+   "quote_clean": "Und nachdem die Leute gern über Nacht laden, ist das super, weil in der Nacht die Industrie heruntergefahren ist.",
+   "statement": "Nächtliches Laden von E-Autos passt gut ins Stromnetz, weil nachts die Industrie wenig Strom braucht.",
+   "question": "Warum ist es für das Stromnetz praktisch, wenn E-Autos über Nacht laden?",
+   "answer": "Nachts ist die Industrie heruntergefahren",
+   "distractors": [
+    "Nachts ist der Strom grüner",
+    "Nachts leitet das Netz besser",
+    "Nachts laden Akkus schneller"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In der Nacht gibt es im Netz ein Riesenloch, das gar nicht genutzt wird. Oder Potenzial, wie Manfred sich selbst korrigiert, und genau das können die E-Autos füllen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Stromnetz",
+    "Laden"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1177,
+   "speaker": "Manfred Schrödl",
+   "quote": "Also wenn man schaut, es ist ziemlich unwahrscheinlich, dass zum Beispiel in einer Straßenbahn um 5 Uhr alles voll ist und die nächste Straßenbahn ist leer.",
+   "quote_clean": "Es ist ziemlich unwahrscheinlich, dass zum Beispiel in einer Straßenbahn um 5 Uhr alles voll ist und die nächste Straßenbahn leer ist.",
+   "statement": "Dass alle E-Autos gleichzeitig laden, ist wegen des Gesetzes der großen Zahlen praktisch ausgeschlossen.",
+   "question": "Warum ist es unwahrscheinlich, dass eine Million E-Autos gleichzeitig laden und das Netz überlasten?",
+   "answer": "Wegen des Gesetzes der großen Zahlen",
+   "distractors": [
+    "Weil Autos sich automatisch abwechseln",
+    "Weil Ladestationen gedrosselt sind",
+    "Weil es zu wenige Ladesäulen gibt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Manfreds Bild: Es ist auch nie die eine Bim um fünf Uhr gerammelt voll und die nächste komplett leer. Bei vielen Menschen verteilt sich das Laden gleichmäßig über Netz und Tag.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Stromnetz",
+    "Statistik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 284,
+   "speaker": "Manfred Schrödl",
+   "quote": "Das heißt, der Faktor R, wie viel steckt ein Elektroautofahrer die anderen an, zeigt uns dann, wie rasch das gehen wird.",
+   "quote_clean": "Der Faktor R, also wie viele andere ein Elektroautofahrer ansteckt, zeigt uns, wie rasch das gehen wird.",
+   "statement": "Die Verbreitung von E-Autos funktioniert wie eine Ansteckung: Entscheidend ist, wie viele andere ein E-Auto-Fahrer überzeugt.",
+   "question": "Womit vergleicht Manfred Schrödl die Verbreitung von Elektroautos?",
+   "answer": "Mit dem R-Faktor einer Epidemie",
+   "distractors": [
+    "Mit dem Mooreschen Gesetz",
+    "Mit einem Dominoeffekt",
+    "Mit dem Zinseszins"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn man bei null startet, ist man am Anfang immer unbedeutend. Entscheidend sind die Steigerungszahlen, denn positiv rückgekoppelte Vorgänge gehen irgendwann rasch hoch, das kennen wir seit Corona.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wachstum",
+    "Markt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1356,
+   "speaker": "Manfred Schrödl",
+   "quote": "ich kann ein Ei in der Batteriehaltung kaufen und kostet, weiß ich nicht, 30 Cent.",
+   "quote_clean": "Ich kann ein Ei aus Batteriehaltung kaufen, das kostet vielleicht 30 Cent.",
+   "statement": "Manfred Schrödl vergleicht nachhaltig abgebaute Batterierohstoffe mit Eiern vom Bauern statt aus Batteriehaltung.",
+   "question": "Mit welchem Vergleich erklärt Manfred Schrödl, dass nachhaltige Batterierohstoffe eine Preisfrage sind?",
+   "answer": "Ei aus Batteriehaltung gegen Bauernei",
+   "distractors": [
+    "Billigjeans gegen Bio-Baumwolle",
+    "Diskonterbrot gegen Bäckerbrot",
+    "Flugreise gegen Zugreise"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Ei vom Bauern, dessen Hühner hinterm Haus auf der Wiese laufen, kostet vielleicht einen Euro. Wer ein bisschen Geld in die Hand nimmt, bekommt auch beim Kobalt sozialverträgliche Standards.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Rohstoffe",
+    "Nachhaltigkeit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1436,
+   "speaker": "Manfred Schrödl",
+   "quote": "Es war eben notwendig, dass da einer kommt und auf den Tisch haut.",
+   "quote_clean": "Es war notwendig, dass da einer kommt und auf den Tisch haut.",
+   "statement": "Laut Manfred Schrödl brauchte es Elon Musk, damit die Autoindustrie Elektroautos ernst nimmt.",
+   "question": "Wer sagt über den Durchbruch der E-Autos: „Es war notwendig, dass da einer kommt und auf den Tisch haut“?",
+   "answer": "Manfred Schrödl",
+   "distractors": [
+    "Andreas Sator",
+    "Elon Musk",
+    "Ein VW-Manager"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Mit Diesel und Benzin hat es sich für die Autoindustrie wunderbar gelebt. Erst Tesla hat gezeigt, dass ein E-Auto cool sein kann, der Durchbruch war also eher ökonomisch als politisch.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Tesla",
+    "Autoindustrie"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1258,
+   "speaker": "Manfred Schrödl",
+   "quote": "Dann muss ich bei der Entwicklung bereits überlegen, wie ich das Ding entsorge, beziehungsweise wie ich das Ding wiederverwerte.",
+   "quote_clean": "Dann muss ich bei der Entwicklung bereits überlegen, wie ich das Ding entsorge beziehungsweise wiederverwerte.",
+   "statement": "Bei einem Massenprodukt wie der E-Auto-Batterie muss das Recycling schon bei der Entwicklung mitgedacht werden.",
+   "question": "Wann muss man laut Manfred Schrödl bei einem Massenprodukt wie dem Akku an die Wiederverwertung denken?",
+   "answer": "Schon bei der Entwicklung",
+   "distractors": [
+    "Erst am Ende der Lebensdauer",
+    "Sobald die Deponien voll sind",
+    "Wenn es ein Gesetz verlangt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Lithium, Kobalt, Mangan, das alles muss man später wieder auseinandertrennen können. Und das geht deutlich leichter, wenn man es von Anfang an einplant.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Recycling",
+    "Design"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 163,
+   "speaker": "Manfred Schrödl",
+   "quote": "Die Zukunft ist einmal sicher das Fahrrad, das zu Fuß gehen, weil es einfach, sage ich mal, auch der Gesundheit dient.",
+   "quote_clean": "Die Zukunft ist sicher das Fahrrad und das Zu-Fuß-Gehen, weil es auch der Gesundheit dient.",
+   "statement": "Selbst der E-Auto-Experte sieht die Zukunft der Mobilität zuerst beim Radfahren und Zu-Fuß-Gehen.",
+   "question": "Was nennt Elektroauto-Experte Manfred Schrödl als allererste Zukunft des Individualverkehrs?",
+   "answer": "Fahrrad und zu Fuß gehen",
+   "distractors": [
+    "Das Elektroauto",
+    "Selbstfahrende Taxis",
+    "Wasserstoffautos"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ausgerechnet der Professor für elektrische Antriebe schickt dich zuerst aufs Rad. Erst für längere Strecken kommt das E-Auto, und wenn es geht, ist die Bahn noch besser.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mobilität",
+    "Gesundheit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 151,
+   "speaker": "Andreas Sator",
+   "quote": "Manfred, Elektroautos, ist das ein Hype oder ist das die Zukunft des Individualverkehrs?",
+   "quote_clean": "Manfred, Elektroautos: Ist das ein Hype oder ist das die Zukunft des Individualverkehrs?",
+   "statement": "Andreas steigt mit der Frage ein, ob Elektroautos ein Hype oder die Zukunft des Individualverkehrs sind.",
+   "question": "Mit welcher Frage steigt Andreas in die Folge über Elektroautos ein?",
+   "answer": "Hype oder Zukunft des Individualverkehrs?",
+   "distractors": [
+    "Wie teuer ist ein E-Auto?",
+    "Wie weit kommt ein E-Auto?",
+    "Wie funktioniert ein Elektromotor?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Manfreds Antwort ist eindeutig: Die Verbrenner sind sicher nicht die Zukunft. Er rechnet damit, dass der Umstieg in 10 bis 20 Jahren passiert, weil ein heute gekaufter Verbrenner noch lange läuft.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Einstieg",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 244,
+   "speaker": "Andreas Sator",
+   "quote": "Wann war deine Jugendzeit? Die Leute sehen dich jetzt nicht.",
+   "quote_clean": "Wann war deine Jugendzeit? Die Leute sehen dich jetzt nicht.",
+   "statement": "Andreas hakt nach, wann Manfreds Jugendzeit war, weil die Hörer:innen ihn ja nicht sehen können.",
+   "question": "In welchem Jahrzehnt lag Manfred Schrödls Jugendzeit, als ein eigenes Auto noch eine Sensation war?",
+   "answer": "In den 70er-Jahren",
+   "distractors": [
+    "In den 50er-Jahren",
+    "In den 60er-Jahren",
+    "In den 80er-Jahren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Damals war ein Auto, aber auch ein Farbfernseher, etwas, auf das man lange gespart hat. Genauso, meint Manfred, ist es jetzt mit dem E-Auto: noch teuer und darum noch selten.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Podcast-Moment"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "122",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

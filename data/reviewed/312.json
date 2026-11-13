@@ -1,0 +1,286 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "Beleg bei 971 s; Aha enthielt Ausschmückung, entfernt.",
+   "stand_note": "Stand 2024",
+   "quality": 3,
+   "statement": "Wer in der Steiermark ein Kind im Inland adoptieren will, wartet nach der Eignungsfeststellung derzeit rund sieben Jahre.",
+   "question": "Wie viele Jahre wartet man in der Steiermark derzeit ungefähr auf ein Adoptivkind aus dem Inland?",
+   "answer": "Rund 7 Jahre",
+   "distractors": [
+    "Rund 2 Jahre",
+    "Rund 4 Jahre",
+    "Rund 12 Jahre"
+   ],
+   "aha": "Es gibt in der Steiermark deutlich mehr Adoptivwerber als Kinder, die zur Vermittlung freigegeben werden. Also steht man auf einer Liste und wartet, und in sieben Jahren ändert sich viel: Manche Paare trennen sich oder entscheiden sich um.",
+   "quote_clean": "In der Steiermark sind wir momentan bei einer Wartezeit von rund 7 Jahren. Das heißt, man steht auf einer Liste."
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 926 s, Rechnung mit 37 bei 2066 s belegt.",
+   "stand_note": "Stand 2024",
+   "quality": 4,
+   "statement": "In der Steiermark dürfen Adoptivwerber:innen zum Zeitpunkt der Adoption höchstens 45 Jahre alt sein.",
+   "question": "Wie alt darfst du in der Steiermark zum Zeitpunkt der Adoption höchstens sein?",
+   "answer": "45 Jahre",
+   "distractors": [
+    "40 Jahre",
+    "50 Jahre",
+    "55 Jahre"
+   ],
+   "aha": "Die Grenze gilt für den Moment, in dem das Kind kommt, nicht für die Anmeldung. Rechnest du sieben Jahre Wartezeit dazu, solltest du dich spätestens mit 37 auf die Liste setzen lassen.",
+   "quote_clean": "Aber in der Steiermark gibt es eine klare Grenze von 45 Jahren für Adoptivwerber zum Zeitpunkt der Adoption."
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2125 s, Zahl von Statistik Austria für 2022.",
+   "stand_note": "Stand 2022",
+   "quality": 3,
+   "statement": "Laut Statistik Austria gab es in Österreich im Jahr 2022 26 anonym registrierte Geburten.",
+   "question": "Wie viele anonym registrierte Geburten gab es 2022 in ganz Österreich?",
+   "answer": "26",
+   "distractors": [
+    "8",
+    "110",
+    "450"
+   ],
+   "aha": "Anonyme Geburten sind die Hauptquelle für Inlandsadoptionen, und davon gibt es nur ein paar Dutzend im Jahr. Kein Wunder also, dass die Wartelisten so lang sind.",
+   "quote_clean": "Das waren 2022 26 anonym registrierte Geburten. Ist das so die Größenordnung, in der das in Österreich stattfindet?"
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Stark relativiert (\"glaube ich\", \"im Schnitt, schwankt stark\"), zu unsicher.",
+   "stand_note": "",
+   "quality": 2,
+   "statement": "In der Steiermark kommen im Schnitt nur etwa sechs Inlandsadoptionen pro Jahr zustande.",
+   "question": "Wie viele Inlandsadoptionen kommen in der Steiermark im Schnitt pro Jahr zustande?",
+   "answer": "Etwa 6",
+   "distractors": [
+    "Etwa 25",
+    "Etwa 60",
+    "Etwa 150"
+   ],
+   "aha": "Ein ganzes Bundesland, und am Ende sind es eine Handvoll Kinder pro Jahr. Die Zahl schwankt stark, aber sie zeigt gut, warum so viele Paare so lang warten.",
+   "quote_clean": "Es sind in der Steiermark, glaube ich, im Schnitt, muss man immer dazusagen, weil das natürlich sehr stark variieren kann, so sechs Adoptionen, die pro Jahr zustande kommen."
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Bei Pflegeelternschaft \"nicht immer zwingend\", Frage präzisiert, Aha ohne Unbelegtes.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Laut Richard Gröller ist für eine Adoption das Einverständnis der leiblichen Mutter zwingend, bei einer Pflegeelternschaft nicht immer.",
+   "question": "Was ist laut Richard für eine Adoption zwingend notwendig, bei einer Pflegeelternschaft aber nicht immer?",
+   "answer": "Das Einverständnis der leiblichen Mutter",
+   "distractors": [
+    "Ein Gutachten des Jugendgerichts",
+    "Die Zustimmung der Großeltern",
+    "Ein Mindesteinkommen der Pflegeeltern"
+   ],
+   "aha": "Eine Adoption geht nur, wenn die leibliche Mutter einwilligt. Bei Pflegekindern ist dieses Einverständnis nicht immer da, und gewisse Rechte bleiben bei den leiblichen Eltern.",
+   "quote_clean": "Für eine Adoption ist es zwingend notwendig, dass die leibliche Mutter ihr Einverständnis gibt. Ohne Einverständnis ist keine Adoption möglich."
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Aha geschärft, \"Privatsache\" war missverständlich.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Leibliche Eltern von Pflegekindern behalten grundsätzlich ein Kontaktrecht, bei einer Adoption gehen alle Rechte auf die Adoptivfamilie über.",
+   "question": "Welches Recht behalten leibliche Eltern bei einem Pflegekind, bei einem Adoptivkind aber nicht?",
+   "answer": "Das Kontaktrecht",
+   "distractors": [
+    "Das Recht auf Kindergeld",
+    "Das Recht, den Namen zu wählen",
+    "Das Recht auf Unterhaltszahlungen"
+   ],
+   "aha": "Ein Pflegekind bringt oft ein zweites Familiensystem mit, inklusive Kontakt zu den leiblichen Eltern. Bei einer Adoption gehen dagegen alle Rechte auf die Adoptivfamilie über.",
+   "quote_clean": "Leibliche Eltern von Pflegekindern haben das grundsätzliche Recht, in Kontakt mit ihren Kindern zu bleiben, während die Rechte bei einem Adoptivkind zur Gänze auf die Adoptivfamilie übergehen."
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Distraktoren waren Teilmengen der Antwort; Frage neu gestellt.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "In Österreich können Frauen ihr Kind im Rahmen der anonymen Geburt im Krankenhaus bekommen, ohne persönliche Daten anzugeben.",
+   "question": "Was ist bei einer anonymen Geburt in einem österreichischen Krankenhaus möglich?",
+   "answer": "Geburt ohne Angabe persönlicher Daten, mit medizinischer Begleitung",
+   "distractors": [
+    "Geburt nur nach Meldung beim Jugendamt",
+    "Geburt ohne ärztliche Begleitung, dafür kostenlos",
+    "Geburt nur mit Einverständnis des Vaters"
+   ],
+   "aha": "Die anonyme Geburt und die Babyklappe wurden eingeführt, um Kindesweglegungen und Kindestötungen zu verhindern. Vor- und Nachsorgeuntersuchungen kann die Frau trotzdem in Anspruch nehmen.",
+   "quote_clean": "Die Möglichkeit, ohne persönliche Daten angeben zu müssen, ihr Kind in einem Krankenhaus in einem geschützten Rahmen unter medizinischer Begleitung zur Welt zu bringen."
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 3160-3217 s, als Richards Einschätzung formuliert.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Für Adoptiv- und Pflegekinder ist die Pubertät eine doppelte Herausforderung, weil sie sich von zwei Familiensystemen lösen müssen.",
+   "question": "Warum ist die Pubertät für Adoptivkinder oft eine besondere Herausforderung?",
+   "answer": "Sie lösen sich von zwei Familiensystemen",
+   "distractors": [
+    "Sie kommen früher in die Pubertät",
+    "Sie dürfen später ausziehen",
+    "Sie haben weniger Hormone"
+   ],
+   "aha": "Jede:r Jugendliche muss sich irgendwann von den Eltern abnabeln. Adoptivkinder tun das gleich doppelt: vom genetischen Erbe der Herkunftsfamilie und von der Familie, in der sie aufwachsen.",
+   "quote_clean": "Zwei Familiensysteme, von denen man sich lösen muss. Das ist einerseits das, was ich genetisch vielleicht von meiner Herkunftsfamilie mitbekommen habe, und dann habe ich das gesamte System der Adoptivfamilie."
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Distraktor sprachlich korrigiert.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Die Suche adoptierter Kinder nach ihren Wurzeln ist meist relativ rasch abgeschlossen; die Angst, das Kind kehre zur leiblichen Mutter zurück, ist unbegründet.",
+   "question": "Wie endet die Suche adoptierter Kinder nach ihren Wurzeln laut Richard meistens?",
+   "answer": "Sie ist meist rasch abgeschlossen",
+   "distractors": [
+    "Mit einem Umzug zur leiblichen Mutter",
+    "Mit dem Bruch mit der Adoptivfamilie",
+    "Sie zieht sich meist jahrzehntelang"
+   ],
+   "aha": "Zu wissen, woher man kommt, ist ein Grundbedürfnis, wir alle wollen eine geschlossene Biografie. Die soziale Elternschaft wirkt am Ende aber viel stärker als die genetische.",
+   "quote_clean": "Nach den Wurzeln stattfindet, im besten Fall auch gelingt und damit meistens auch relativ rasch wieder abgeschlossen ist. Das heißt, die Angst mancher Adoptiveltern ist völlig unbegründet."
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Aha überzog die vorsichtige Aussage (\"vielleicht besser aufgehoben\"), abgeschwächt.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Adoptivwerber:innen dürfen sich ein gesundes Kind wünschen, genauso wie werdende leibliche Eltern.",
+   "question": "Mit welchem Vergleich nimmt Richard Adoptivwerbern das schlechte Gewissen, sich ein gesundes Kind zu wünschen?",
+   "answer": "Auch Schwangere wünschen sich das",
+   "distractors": [
+    "Auch Ärzte raten dazu",
+    "Auch das Gesetz verlangt das",
+    "Auch Pflegeeltern dürfen wählen"
+   ],
+   "aha": "Viele Paare hadern, ob sie sich ein gesundes Kind überhaupt wünschen dürfen. Richard sagt: völlig legitim. Und Kinder mit Behinderung sind laut ihm vielleicht bei Pflegeeltern mit entsprechender Ausbildung und Unterstützung besser aufgehoben.",
+   "quote_clean": "Wenn du eine schwangere Frau fragst, sagt sie: Egal, was es wird, Hauptsache, das Kind ist gesund. Das heißt, es ist völlig legitim, sich ein gesundes Kind zu wünschen."
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "\"Wer sagt\"-Frage, Distraktoren nennen reale Personen.",
+   "stand_note": "",
+   "quality": 1,
+   "statement": "Richard Gröller betont, dass Adoptivkinder echte Wunschkinder sind, auf die jahrelang hingearbeitet wird.",
+   "question": "Wer sagt im Podcast: Adoptivkinder sind die wirklichen Wunschkinder, auf die hingearbeitet wird?",
+   "answer": "Richard Gröller",
+   "distractors": [
+    "Andreas Sator",
+    "Irmela Wiemann",
+    "Gertraud Klemm"
+   ],
+   "aha": "Adoptiert zu sein ist für ihn kein schwerer Schicksalsschlag: Man hat zwei Mütter, zwei Väter und wurde ausdrücklich gewollt. So betrachtet relativiert sich vieles.",
+   "quote_clean": "Adoption passiert einem nicht einfach, sondern das sind die wirklichen Wunschkinder, auf die hingearbeitet wird."
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "\"Wer sagt\"-Frage; Foto der Tochter nicht explizit belegt.",
+   "stand_note": "",
+   "quality": 1,
+   "statement": "Richard Gröller erzählt, dass er sich allein mit einem Foto seiner künftigen Tochter in der Hand schon als Vater fühlte.",
+   "question": "Wer erzählt im Podcast, dass man allein mit einem Bild in der Hand Vater werden kann?",
+   "answer": "Richard Gröller",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Hörer aus Graz",
+    "Ein Sozialarbeiter aus Wien"
+   ],
+   "aha": "Nach der Zusage dauerte es noch ein halbes Jahr, bis er nach Guatemala reisen konnte. Monate voller Sorge, ob in der Nacht wohl jemand nachschaut, wenn das Kind weint.",
+   "quote_clean": "Spannend, wie die Menschheit so funktioniert, dass man allein mit einem Bild in der Hand Vater werden kann. Insofern, glaube ich, macht es keinen Unterschied, ob leibliche oder adoptive Elternschaft."
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Von \"Wer sagt\" zu inhaltlicher Frage umgebaut; Beleg bei 3246-3275 s.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Richard Gröller rät Adoptiveltern, Konflikte in der Pubertät nicht der Adoption oder den Genen zuzuschreiben.",
+   "question": "Was rät Richard Adoptiveltern bei Reibereien in der Pubertät?",
+   "answer": "Es nicht der Adoption zuzuschreiben",
+   "distractors": [
+    "Die Gene der leiblichen Eltern dafür verantwortlich zu machen",
+    "Streit zu vermeiden, bis die Pubertät vorbei ist",
+    "Den Kontakt zur Herkunftsfamilie abzubrechen"
+   ],
+   "aha": "Reibereien in der Pubertät gibt es in allen Familien, Adoptivfamilien sind da keine Ausnahme. Gefährlich wird es, wenn man sagt: Jetzt kommen halt die Gene durch. Das sei Blödsinn, sagt Richard, und eine praktische Ausrede.",
+   "quote_clean": "Und da ist einfach der Tipp, es nicht der Adoption in die Schuhe zu schieben, sondern diese Reibereien muss es geben, die gibt es, was auch immer sich Mutter Natur da gedacht hat."
+  },
+  {
+   "i": 25,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aha enthielt Unbelegtes zum Kühlschrank, entfernt.",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Obwohl er selbst Sozialarbeiter ist, war Richard Gröller vor seinem eigenen Hausbesuch nervös und überlegte, ob Blumen am Tisch stehen sollen.",
+   "question": "Worüber zerbrach sich Richard vor dem Hausbesuch der Sozialarbeiterin den Kopf, obwohl er selbst Sozialarbeiter ist?",
+   "answer": "Ob Blumen am Tisch stehen sollen",
+   "distractors": [
+    "Ob er Kuchen backen soll",
+    "Ob er Krawatte tragen soll",
+    "Ob der Kühlschrank voll genug ist"
+   ],
+   "aha": "Er kannte das Prozedere von der anderen Seite genau und war trotzdem aufgeregt. Das Gespräch war dann laut ihm angenehm, und es gibt dabei kein Richtig oder Falsch.",
+   "quote_clean": "Es waren tatsächlich sehr banale, aufgeregte Fragen, die man sich stellt, im Sinne von: Sollen Blumen am Tisch stehen oder nicht, oder ist das zu viel?"
+  }
+ ],
+ "id": "312",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

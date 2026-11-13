@@ -1,0 +1,741 @@
+{
+ "theme": "Natur & Ernährung",
+ "summary": "Wo fängt ein Fluss an, wer lebt darin und warum geht es unseren Bächen so schlecht? Gewässerökologe Klement Tockner erklärt's.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 195,
+   "speaker": "Klement Tockner",
+   "quote": "das Gewässernetz, das wir in Österreich haben, beträgt etwa 120.000 Kilometer.",
+   "quote_clean": "Das Gewässernetz, das wir in Österreich haben, beträgt etwa 120.000 Kilometer.",
+   "statement": "Das Gewässernetz in Österreich ist etwa 120.000 Kilometer lang, von kleinen Oberläufen bis zur Donau.",
+   "question": "Wie viele Kilometer lang ist das Gewässernetz in Österreich ungefähr?",
+   "answer": "Etwa 120.000 Kilometer",
+   "distractors": [
+    "Etwa 12.000 Kilometer",
+    "Etwa 40.000 Kilometer",
+    "Etwa 500.000 Kilometer"
+   ],
+   "number_value": 120000,
+   "number_unit": "Kilometer",
+   "slider_min": 5000,
+   "slider_max": 1000000,
+   "log_scale": true,
+   "aha": "Das reicht dreimal um die Erde. Und trotzdem haben wir in Österreich mehr Kilometer Straßen als Bäche und Flüsse, also ein zweites, künstliches Netzwerk über die Landschaft gelegt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Österreich",
+    "Flüsse"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 206,
+   "speaker": "Klement Tockner",
+   "quote": "Wir haben mehr Kilometer an Straßen als an Bächen und Flössen. Das heißt, wir haben künstlich ein zweites großes Netzwerk eigentlich geschaffen.",
+   "quote_clean": "Wir haben mehr Kilometer an Straßen als an Bächen und Flüssen. Das heißt, wir haben künstlich ein zweites großes Netzwerk geschaffen.",
+   "statement": "In Österreich gibt es mehr Kilometer Straßen als Kilometer Bäche und Flüsse.",
+   "question": "Was hat Österreich mehr: Kilometer an Straßen oder an Bächen und Flüssen?",
+   "answer": "Mehr Kilometer Straßen",
+   "distractors": [
+    "Mehr Kilometer Bäche und Flüsse",
+    "Beides ziemlich genau gleich viel",
+    "Doppelt so viele Flusskilometer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das natürliche Gewässernetz ist schon rund 120.000 Kilometer lang, und trotzdem haben wir es mit Straßen übertroffen. Tockner nennt das ein zweites großes Netzwerk, das wir künstlich über die Landschaft gelegt haben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Österreich",
+    "Straßen",
+    "Flüsse"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 286,
+   "speaker": "Klement Tockner",
+   "quote": "Bis Ende des Jahrhunderts werden wir kaum Gletscher mehr haben im gesamten Alpenraum. Wenn wir so weiter wirtschaften, wie wir wirtschaften.",
+   "quote_clean": "Bis Ende des Jahrhunderts werden wir kaum mehr Gletscher haben im gesamten Alpenraum, wenn wir so weiterwirtschaften, wie wir wirtschaften.",
+   "statement": "Wenn wir so weiterwirtschaften wie bisher, wird es bis Ende des Jahrhunderts im gesamten Alpenraum kaum noch Gletscher geben.",
+   "question": "Bis wann wird es laut Klement Tockner im Alpenraum kaum noch Gletscher geben, wenn wir so weitermachen?",
+   "answer": "Bis Ende des Jahrhunderts",
+   "distractors": [
+    "Bis zum Jahr 2030",
+    "In etwa 500 Jahren",
+    "Erst in rund 1.000 Jahren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Viele Bäche werden von Schmelzwasser gespeist, und auch die nehmen ab, wenn die Gletscher verschwinden. Andreas merkt dazu trocken an: Die schöne Berglandschaft verschwindet auch, wenn man keine Windräder aufstellt.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Gletscher",
+    "Klimawandel",
+    "Alpen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 513,
+   "speaker": "Klement Tockner",
+   "quote": "Wenn die zusammenfließen, dann kommt eine Flussordnungszahl 2. Und wenn dann die wieder zusammenfließen, 3. Und die Donau hat zum Beispiel eine Flussordnungszahl von 9.",
+   "quote_clean": "Wenn die zusammenfließen, dann kommt eine Flussordnungszahl 2. Und wenn die wieder zusammenfließen, 3. Und die Donau hat zum Beispiel eine Flussordnungszahl von 9.",
+   "statement": "Kleine Oberläufe haben die Flussordnungszahl 1, wo zwei zusammenfließen entsteht 2 und so weiter; die Donau hat die Flussordnungszahl 9.",
+   "question": "Welche Flussordnungszahl hat die Donau, wenn kleine Oberläufe die Zahl 1 haben?",
+   "answer": "9",
+   "distractors": [
+    "3",
+    "15",
+    "27"
+   ],
+   "number_value": 9,
+   "number_unit": "",
+   "slider_min": 1,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Jedes Mal, wenn zwei Bäche gleicher Ordnung zusammenfließen, steigt die Zahl um eins. So entsteht ein schönes geometrisches Muster, das alle Flüsse auszeichnet, und die Donau schafft es bis 9.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Donau",
+    "Flussordnung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 411,
+   "speaker": "Klement Tockner",
+   "quote": "Man muss sich vorstellen, dass die Vielfalt, die wir in unseren Gewässern haben, ohne weiteres vergleichbar ist zur Vielfalt in tropischen Regenwäldern oder in Korallenriffen.",
+   "quote_clean": "Man muss sich vorstellen, dass die Vielfalt, die wir in unseren Gewässern haben, ohne Weiteres vergleichbar ist mit der Vielfalt in tropischen Regenwäldern oder in Korallenriffen.",
+   "statement": "Die Artenvielfalt in Flüssen samt Auen ist laut Tockner vergleichbar mit jener in tropischen Regenwäldern oder Korallenriffen.",
+   "question": "Womit ist die Artenvielfalt unserer Flüsse und Auen laut Klement Tockner vergleichbar?",
+   "answer": "Mit Regenwäldern und Korallenriffen",
+   "distractors": [
+    "Mit Äckern und Wiesen",
+    "Mit der Tiefsee",
+    "Mit Nadelwäldern im Norden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Flüsse sind vielfältig in ihrer Form und extrem dynamisch, mit Hochwasser und Niedrigwasser. Genau diese Vielfalt und Dynamik macht sie zu den artenreichsten Ökosystemen, die wir haben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Biodiversität",
+    "Flüsse"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 674,
+   "speaker": "Klement Tockner",
+   "quote": "dann leben heutzutage neun Millionen Menschen entlang des gesamten Rheins in Gebieten, die früher dem Fluss gehört haben, also in ehemaligen Überflutungsgebieten.",
+   "quote_clean": "Dann leben heutzutage neun Millionen Menschen entlang des gesamten Rheins in Gebieten, die früher dem Fluss gehört haben, also in ehemaligen Überflutungsgebieten.",
+   "statement": "Entlang des Rheins leben heute rund neun Millionen Menschen in ehemaligen Überflutungsgebieten des Flusses.",
+   "question": "Wie viele Millionen Menschen leben entlang des Rheins in ehemaligen Überflutungsgebieten?",
+   "answer": "Rund 9 Millionen",
+   "distractors": [
+    "Rund 1 Million",
+    "Rund 25 Millionen",
+    "Rund 50 Millionen"
+   ],
+   "number_value": 9,
+   "number_unit": "Millionen Menschen",
+   "slider_min": 0.5,
+   "slider_max": 60,
+   "log_scale": true,
+   "aha": "Viele davon in den Niederlanden, aber auch in Deutschland und an der Grenze zwischen der Schweiz und Österreich. Mit mehr Extremwetter, also Dürren und Hochwässern, wird das zu einem großen Problem.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Rhein",
+    "Hochwasser"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 752,
+   "speaker": "Klement Tockner",
+   "quote": "Ursprünglich war das Ziel, das Wasser so rasch wie möglich abzutransportieren. Und heute geht man dahin, dass man das Wasser so lang wie möglich in der Landschaft zurückhält.",
+   "quote_clean": "Ursprünglich war das Ziel, das Wasser so rasch wie möglich abzutransportieren. Heute geht man dahin, dass man das Wasser so lang wie möglich in der Landschaft zurückhält.",
+   "statement": "Im Umgang mit Gewässern hat sich das Ziel umgedreht: Früher wollte man Wasser rasch abtransportieren, heute will man es möglichst lange in der Landschaft halten.",
+   "question": "Was ist heute das Ziel im Umgang mit Wasser in der Landschaft?",
+   "answer": "Wasser möglichst lange zurückhalten",
+   "distractors": [
+    "Wasser möglichst rasch ableiten",
+    "Bäche möglichst gerade begradigen",
+    "Auen möglichst trocken legen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Rasches Abfließen verlagert das Hochwasserproblem nur flussabwärts, und in Trockenzeiten fehlt das Wasser dann. Deshalb renaturiert man Flüsse, bindet Auen wieder an und vernässt Moore.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Hochwasserschutz",
+    "Renaturierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 792,
+   "speaker": "Klement Tockner",
+   "quote": "Ein Mischwald kann pro Quadratmeter 200 Liter Wasser speichern. Eine Fichtenmonokultur kann nur 60 Liter Wasser pro Quadratmeter speichern.",
+   "quote_clean": "Ein Mischwald kann pro Quadratmeter 200 Liter Wasser speichern. Eine Fichtenmonokultur kann nur 60 Liter Wasser pro Quadratmeter speichern.",
+   "statement": "Ein Mischwald kann rund 200 Liter Wasser pro Quadratmeter speichern, eine Fichtenmonokultur nur etwa 60.",
+   "question": "Wie viele Liter Wasser kann ein Mischwald laut Klement Tockner pro Quadratmeter speichern?",
+   "answer": "200 Liter",
+   "distractors": [
+    "20 Liter",
+    "60 Liter",
+    "1.000 Liter"
+   ],
+   "number_value": 200,
+   "number_unit": "Liter pro Quadratmeter",
+   "slider_min": 10,
+   "slider_max": 2000,
+   "log_scale": true,
+   "aha": "Die Fichtenmonokultur schafft nur 60 Liter. Wer Monokulturen zu Mischwäldern umbaut, speichert also mehr Wasser und Kohlenstoff, schafft Erholungsraum und ist besser auf den Klimawandel vorbereitet.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wald",
+    "Wasserspeicher"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 879,
+   "speaker": "Klement Tockner",
+   "quote": "Es sind etwa 13 Prozent aller Tierarten kommen in den Binnengewässern vor. Eine überproportional hohe Vielfalt.",
+   "quote_clean": "Etwa 13 Prozent aller Tierarten kommen in den Binnengewässern vor. Eine überproportional hohe Vielfalt.",
+   "statement": "Etwa 13 Prozent aller Tierarten leben in Binnengewässern, obwohl Süßgewässer nur rund 2 Prozent der Erdoberfläche ausmachen.",
+   "question": "Wie viel Prozent aller Tierarten kommen in Binnengewässern wie Flüssen und Seen vor?",
+   "answer": "Etwa 13 Prozent",
+   "distractors": [
+    "Etwa 2 Prozent",
+    "Etwa 35 Prozent",
+    "Etwa 60 Prozent"
+   ],
+   "number_value": 13,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Andreas hatte von rund zwei Prozent Fläche gelesen, und Tockner legt noch eins drauf: Es sind sogar etwa 13 Prozent der Tierarten. Auf so wenig Fläche ist das eine überproportional hohe Vielfalt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Biodiversität",
+    "Süßwasser"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 890,
+   "speaker": "Klement Tockner",
+   "quote": "Dann sind 40 Prozent aller Fischarten kommen in den Bächen und Flüssen und Seen vor. Und knapp nur 60 Prozent in den Meeren.",
+   "quote_clean": "40 Prozent aller Fischarten kommen in den Bächen, Flüssen und Seen vor, und nur knapp 60 Prozent in den Meeren.",
+   "statement": "Rund 40 Prozent aller Fischarten leben in Bächen, Flüssen und Seen, nur knapp 60 Prozent in den Meeren.",
+   "question": "Wie viel Prozent aller Fischarten leben in Bächen, Flüssen und Seen?",
+   "answer": "Rund 40 Prozent",
+   "distractors": [
+    "Rund 5 Prozent",
+    "Rund 15 Prozent",
+    "Rund 75 Prozent"
+   ],
+   "number_value": 40,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Und das, obwohl die Meere eine viel größere Dimension haben. Der Grund ist die Vielfalt und Dynamik der Flüsse, außerdem hat eigentlich jeder Fluss seine eigene Lebensgemeinschaft.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fische",
+    "Süßwasser"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 936,
+   "speaker": "Klement Tockner",
+   "quote": "Wenn Sie heutzutage eine Bodenprobe von der Stromsolle des Rheins nehmen, des Rheinflusses nehmen, dann sind etwa 90 Prozent aller Individuen nicht einheimischen Ursprungs.",
+   "quote_clean": "Wenn Sie heutzutage eine Bodenprobe von der Stromsohle des Rheins nehmen, dann sind etwa 90 Prozent aller Individuen nicht einheimischen Ursprungs.",
+   "statement": "Nimmt man heute eine Probe von der Sohle des Rheins, sind etwa 90 Prozent der Tiere darin nicht einheimisch.",
+   "question": "Wie viel Prozent der Tiere in einer Bodenprobe von der Rhein-Sohle sind heute nicht einheimisch?",
+   "answer": "Etwa 90 Prozent",
+   "distractors": [
+    "Etwa 10 Prozent",
+    "Etwa 30 Prozent",
+    "Etwa 55 Prozent"
+   ],
+   "number_value": 90,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Über Schifffahrtskanäle sind die Flüsse miteinander verbunden, und so tauschen sich die Arten aus. Tockner spricht von Homogenisierung, ein bisschen wie bei der Globalisierung, wo überall ein McDonald's steht.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Rhein",
+    "invasive Arten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 975,
+   "speaker": "Klement Tockner",
+   "quote": "Und vielleicht hier auch noch dazu zu sagen, jede dritte Art in unseren Gewässern ist vom Aussterben bedroht.",
+   "quote_clean": "Und vielleicht auch noch dazu zu sagen: Jede dritte Art in unseren Gewässern ist vom Aussterben bedroht.",
+   "statement": "Jede dritte Art in unseren Gewässern ist vom Aussterben bedroht.",
+   "question": "Wie viele Arten in unseren Gewässern sind laut Klement Tockner vom Aussterben bedroht?",
+   "answer": "Jede dritte",
+   "distractors": [
+    "Jede zehnte",
+    "Jede zwanzigste",
+    "Jede hundertste"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nirgendwo ist die Vielfalt so gefährdet wie in Bächen und Flüssen. Weil Gewässer an der tiefsten Stelle der Landschaft liegen, sammelt sich dort alles, was rundherum passiert.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Artensterben",
+    "Gewässer"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 998,
+   "speaker": "Klement Tockner",
+   "quote": "Man muss sich vorstellen, ich nehme jetzt das Beispiel Österreich, im Durchschnitt alle 900 Meter gibt es eine Barriere in den Bächen.",
+   "quote_clean": "Man muss sich vorstellen, ich nehme jetzt das Beispiel Österreich: Im Durchschnitt gibt es alle 900 Meter eine Barriere in den Bächen.",
+   "statement": "In Österreich gibt es in Bächen im Schnitt alle 900 Meter eine Barriere wie einen kleinen Damm oder ein Querbauwerk.",
+   "question": "Alle wie viele Meter gibt es in Österreichs Bächen im Schnitt eine Barriere?",
+   "answer": "Alle 900 Meter",
+   "distractors": [
+    "Alle 90 Meter",
+    "Alle 5 Kilometer",
+    "Alle 20 Kilometer"
+   ],
+   "number_value": 900,
+   "number_unit": "Meter",
+   "slider_min": 50,
+   "slider_max": 30000,
+   "log_scale": true,
+   "aha": "Gemeint sind kleine Dämme, Abstürze, künstliche Querbauwerke und Kleinkraftwerke. Für Fische, die wandern müssen, wird der Bach damit zu einer Kette aus kurzen Abschnitten.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Österreich",
+    "Verbauung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1021,
+   "speaker": "Klement Tockner",
+   "quote": "Aber man muss sich ja auch vorstellen, wir entlassen 350.000 synthetische Chemikalien in unsere Umwelt. Pestizide, hormonaktive Stoffe etc.",
+   "quote_clean": "Aber man muss sich auch vorstellen: Wir entlassen 350.000 synthetische Chemikalien in unsere Umwelt, Pestizide, hormonaktive Stoffe etc.",
+   "statement": "Der Mensch bringt rund 350.000 verschiedene synthetische Chemikalien in die Umwelt.",
+   "question": "Wie viele verschiedene synthetische Chemikalien entlassen wir laut Klement Tockner in die Umwelt?",
+   "answer": "Rund 350.000",
+   "distractors": [
+    "Rund 3.500",
+    "Rund 35.000",
+    "Rund 3,5 Millionen"
+   ],
+   "number_value": 350000,
+   "number_unit": "Chemikalien",
+   "slider_min": 1000,
+   "slider_max": 10000000,
+   "log_scale": true,
+   "aha": "Von Pestiziden bis zu hormonaktiven Stoffen landet vieles davon früher oder später im Wasser. Neben Verbauung, Übernutzung, invasiven Arten und Klimawandel ist Verschmutzung einer der großen Stressfaktoren für Flüsse.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Chemikalien",
+    "Verschmutzung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1056,
+   "speaker": "Klement Tockner",
+   "quote": "Wir haben in den Bächen und Flüssen im Alpenraum schon die 1,5 Grad Temperaturerhöhung erreicht.",
+   "quote_clean": "Wir haben in den Bächen und Flüssen im Alpenraum schon die 1,5 Grad Temperaturerhöhung erreicht.",
+   "statement": "In den Bächen und Flüssen im Alpenraum ist eine Erwärmung von 1,5 Grad bereits erreicht.",
+   "question": "Um wie viel Grad haben sich Bäche und Flüsse im Alpenraum laut Klement Tockner schon erwärmt?",
+   "answer": "Um 1,5 Grad",
+   "distractors": [
+    "Um 0,2 Grad",
+    "Um 4 Grad",
+    "Um 6 Grad"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das ist nur der Mittelwert. Im Sommer kommen hohe Temperaturen, wenig Wasser, mehr Schadstoffe, wenig Sauerstoff und fehlender Uferschatten zusammen, und dann wird es für die Tiere richtig eng.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Klimawandel",
+    "Alpen",
+    "Wassertemperatur"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1215,
+   "speaker": "Klement Tockner",
+   "quote": "Man kann sich das fast vorstellen wie in einer Bevölkerung, dass sozusagen kein Nachwuchs mehr kommt im Prinzip auch. Also wir haben eine demografisch eingeengte Lebensräume.",
+   "quote_clean": "Man kann sich das fast vorstellen wie in einer Bevölkerung, in der kein Nachwuchs mehr kommt. Wir haben demografisch eingeengte Lebensräume.",
+   "statement": "Weil Hochwässer in regulierten Flüssen keine neuen Schotterbänke und Inseln mehr schaffen, fehlen junge Lebensräume, ähnlich einer Bevölkerung ohne Nachwuchs.",
+   "question": "Womit vergleicht Klement Tockner regulierte Flüsse, in denen keine jungen Lebensräume mehr entstehen?",
+   "answer": "Mit einer Bevölkerung ohne Nachwuchs",
+   "distractors": [
+    "Mit einem leeren Supermarktregal",
+    "Mit einer stillgelegten Autobahn",
+    "Mit einem verlassenen Dorf"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Hochwasser ist an sich nichts Schlechtes: Es schafft Schotterbänke und Inseln, auf denen spezialisierte Käfer, Spinnen und Pflanzen wie die Tamariske leben. In regulierten Bächen bleibt oft nur alter Auwald übrig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Hochwasser",
+    "Lebensraum"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1278,
+   "speaker": "Klement Tockner",
+   "quote": "Und das war hervorgerufen worden durch eine Alge, die eben eher in Brackwasser, also in salzhältigem Wasser einfach vorkommt.",
+   "quote_clean": "Und das war hervorgerufen worden durch eine Alge, die eher in Brackwasser, also in salzhaltigem Wasser, vorkommt.",
+   "statement": "Das große Fischsterben an der Oder wurde durch eine Alge ausgelöst, die eigentlich in salzhaltigem Brackwasser vorkommt.",
+   "question": "Was löste das große Fischsterben an der Oder aus?",
+   "answer": "Eine Brackwasser-Alge",
+   "distractors": [
+    "Ein Ölunfall eines Schiffes",
+    "Ein eingeschleppter Pilz",
+    "Ein Bruch eines Staudamms"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Allein hätte die Alge das kaum geschafft. Es war eine Kombination aus hoher Temperatur, wenig Wasser, verbauten Abschnitten und menschlicher Belastung, Fachleute sprechen von multiplen Stressoren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Oder",
+    "Fischsterben"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1322,
+   "speaker": "Klement Tockner",
+   "quote": "Wir hatten das Jahr zuvor die Hochwasser im Ahrtal. 30 Milliarden Euro Schaden durch ein einziges Hochwasser.",
+   "quote_clean": "Wir hatten das Jahr zuvor das Hochwasser im Ahrtal: 30 Milliarden Euro Schaden durch ein einziges Hochwasser.",
+   "statement": "Das Hochwasser im Ahrtal verursachte rund 30 Milliarden Euro Schaden, fast 200 Menschen starben.",
+   "question": "Wie viele Milliarden Euro Schaden verursachte das Hochwasser im Ahrtal?",
+   "answer": "Rund 30 Milliarden Euro",
+   "distractors": [
+    "Rund 3 Milliarden Euro",
+    "Rund 300 Millionen Euro",
+    "Rund 100 Milliarden Euro"
+   ],
+   "number_value": 30,
+   "number_unit": "Milliarden Euro",
+   "slider_min": 0.5,
+   "slider_max": 200,
+   "log_scale": true,
+   "aha": "Ein einziges Ereignis, fast 200 Tote, nur rund 100 Kilometer von Frankfurt entfernt. Und trotzdem baut man die Häuser großteils an der gleichen Stelle wieder auf, sagt Tockner, also viel gelernt hat man nicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ahrtal",
+    "Hochwasser"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1362,
+   "speaker": "Klement Tockner",
+   "quote": "Man muss sich vorstellen, wenn ein Grad Temperaturerhöhung ist, dann haben wir eine 7 Prozent mehr Wassersättigungsmöglichkeit in der Atmosphäre.",
+   "quote_clean": "Man muss sich vorstellen: Bei einem Grad Temperaturerhöhung kann die Atmosphäre 7 Prozent mehr Wasser aufnehmen.",
+   "statement": "Pro Grad Erwärmung kann die Atmosphäre etwa 7 Prozent mehr Wasserdampf aufnehmen.",
+   "question": "Wie viel Prozent mehr Wasser kann die Atmosphäre pro Grad Erwärmung aufnehmen?",
+   "answer": "Etwa 7 Prozent",
+   "distractors": [
+    "Etwa 1 Prozent",
+    "Etwa 20 Prozent",
+    "Etwa 50 Prozent"
+   ],
+   "number_value": 7,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Wärmere Luft hält mehr Wasser, und das muss irgendwann wieder runter. Deshalb werden Starkregen wahrscheinlicher, und in einem kanalisierten Fluss kann das fatale Folgen haben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Klimawandel",
+    "Starkregen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1510,
+   "speaker": "Klement Tockner",
+   "quote": "In Deutschland werden pro Jahr 67 Milliarden Euro an Subventionen aufgewandt, die umweltschädliche Auswirkungen haben.",
+   "quote_clean": "In Deutschland werden pro Jahr 67 Milliarden Euro an Subventionen aufgewandt, die umweltschädliche Auswirkungen haben.",
+   "statement": "In Deutschland fließen pro Jahr rund 67 Milliarden Euro in Subventionen mit umweltschädlichen Auswirkungen.",
+   "question": "Wie viele Milliarden Euro an umweltschädlichen Subventionen gibt Deutschland laut Tockner pro Jahr aus?",
+   "answer": "Rund 67 Milliarden Euro",
+   "distractors": [
+    "Rund 7 Milliarden Euro",
+    "Rund 20 Milliarden Euro",
+    "Rund 250 Milliarden Euro"
+   ],
+   "number_value": 67,
+   "number_unit": "Milliarden Euro",
+   "slider_min": 1,
+   "slider_max": 400,
+   "log_scale": true,
+   "aha": "Das Geld fließt in Landwirtschaft, Verkehr, Energie und Bau. Würde man es in naturschonende Maßnahmen umwidmen, hätte das eine riesige Wirkung, wobei man soziale Aspekte unbedingt mitbedenken muss.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Subventionen",
+    "Deutschland"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1753,
+   "speaker": "Klement Tockner",
+   "quote": "dass eine 10-prozentige höhere Vielfalt, zum Beispiel ein Vögel, ungefähr die gleiche Auswirkung hat wie ein 10-prozentiger Anwuchs des Gehaltes.",
+   "quote_clean": "dass eine um 10 Prozent höhere Vielfalt, zum Beispiel bei Vögeln, ungefähr die gleiche Auswirkung hat wie ein 10-prozentiger Anstieg des Gehalts.",
+   "statement": "Laut einer Senckenberg-Studie wirkt sich eine um 10 Prozent höhere Vogelvielfalt in der Umgebung etwa so auf das Wohlbefinden aus wie 10 Prozent mehr Gehalt.",
+   "question": "Worauf wirkt sich 10 Prozent mehr Vogelvielfalt in deiner Umgebung laut einer Senckenberg-Studie ähnlich aus wie 10 Prozent mehr Gehalt?",
+   "answer": "Auf das Wohlbefinden",
+   "distractors": [
+    "Auf den Blutdruck",
+    "Auf die Schlafdauer",
+    "Auf den Wohnungspreis"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Natur zu schützen ist also nicht nur Verzicht, sondern kann auch ein Gewinn sein. Oft merken wir bloß nicht, was wir schon verloren haben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Vögel",
+    "Wohlbefinden",
+    "Studie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1876,
+   "speaker": "Klement Tockner",
+   "quote": "Wasserkraft ist eine erneuerbare Energiequelle, aber es ist keine, auch keine klimaneutrale und es ist schon gar nicht eine umweltfreundliche Energiequelle.",
+   "quote_clean": "Wasserkraft ist eine erneuerbare Energiequelle, aber keine klimaneutrale, und schon gar keine umweltfreundliche Energiequelle.",
+   "statement": "Wasserkraft ist erneuerbar, aber laut Tockner weder klimaneutral noch umweltfreundlich.",
+   "question": "Wer sagt: Wasserkraft ist erneuerbar, aber schon gar keine umweltfreundliche Energiequelle?",
+   "answer": "Klement Tockner",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Sprecher der E-Wirtschaft",
+    "Rachel Carson"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Tockner sind Klimakrise und Artensterben eine Zwillingskrise, die man nicht getrennt betrachten darf. Es geht nicht um Wasserkraft ja oder nein, sondern darum, wo, wie und wie man die Anlagen betreibt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wasserkraft",
+    "Energie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1887,
+   "speaker": "Klement Tockner",
+   "quote": "Und die Gewässer sind möglicherweise die größten Verlierer des Pariser Klimaabkommens, wenn man eben nur das aus einer rein energetischen Sicht betrachtet auch.",
+   "quote_clean": "Und die Gewässer sind möglicherweise die größten Verlierer des Pariser Klimaabkommens, wenn man es nur aus einer rein energetischen Sicht betrachtet.",
+   "statement": "Gewässer könnten die größten Verlierer des Pariser Klimaabkommens werden, wenn man es rein energetisch betrachtet und massiv Wasserkraft ausbaut.",
+   "question": "Wer nennt die Gewässer „möglicherweise die größten Verlierer des Pariser Klimaabkommens“?",
+   "answer": "Klement Tockner",
+   "distractors": [
+    "Andreas Sator",
+    "Greta Thunberg",
+    "Leonore Gewessler"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Weltweit boomt der Ausbau der Wasserkraft, und bei uns die Kleinkraftwerke. Ein einzelnes Kraftwerk ist kein Drama, aber zehn in einem Einzugsgebiet summieren sich, und das läuft oft unter dem Radar.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wasserkraft",
+    "Klimaabkommen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1971,
+   "speaker": "Klement Tockner",
+   "quote": "In Deutschland sind es acht Prozent im Moment. Und vor 23 Jahren waren es auch acht Prozent.",
+   "quote_clean": "In Deutschland sind es im Moment acht Prozent. Und vor 23 Jahren waren es auch acht Prozent.",
+   "statement": "In Deutschland sind nur rund acht Prozent der Gewässer in einem guten ökologischen Zustand, gleich viel wie vor 23 Jahren.",
+   "question": "Wie viel Prozent der Gewässer in Deutschland sind laut Tockner in einem guten ökologischen Zustand?",
+   "answer": "Rund 8 Prozent",
+   "distractors": [
+    "Rund 25 Prozent",
+    "Rund 45 Prozent",
+    "Rund 70 Prozent"
+   ],
+   "number_value": 8,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Die EU-Wasserrahmenrichtlinie will bis 2027 alle Gewässer in zumindest gutem Zustand haben. Von acht auf 100 Prozent in vier Jahren, nachdem sich 23 Jahre nichts getan hat, das wird sich laut Tockner nie ausgehen.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Wasserrahmenrichtlinie",
+    "Deutschland"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2464,
+   "speaker": "Klement Tockner",
+   "quote": "Das wurde während meiner Studienzeit am Beginn, wurde das aus Gestrüpp bezeichnet. Da wollte man ein Kraftwerk bauen. Und dann knapp zehn Jahre später ist dieses Gestrüpp ein Nationalpark geworden.",
+   "quote_clean": "Am Beginn meiner Studienzeit wurde das als Gestrüpp bezeichnet. Da wollte man ein Kraftwerk bauen. Und knapp zehn Jahre später ist dieses Gestrüpp ein Nationalpark geworden.",
+   "statement": "Die Donau-Auen östlich von Wien galten einst als Gestrüpp, wo ein Kraftwerk gebaut werden sollte; knapp zehn Jahre später wurden sie Nationalpark.",
+   "question": "Was wurde aus dem „Gestrüpp“ an der Donau östlich von Wien, wo einst ein Kraftwerk geplant war?",
+   "answer": "Ein Nationalpark",
+   "distractors": [
+    "Ein Industriegebiet",
+    "Ein großer Hafen",
+    "Ein Stausee"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Innerhalb von rund zehn Jahren wurde aus wertlosem Gestrüpp ein unglaublich wertvoller Lebensraum, zumindest in den Köpfen der Leute. Für Tockner zeigt das, wie sehr es auf Bewusstsein ankommt, was wir eigentlich verlieren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Donau-Auen",
+    "Nationalpark",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "282",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

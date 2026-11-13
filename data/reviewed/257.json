@@ -1,0 +1,276 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg stimmt; im aha war eine nicht belegte Behauptung (Zettelwirtschaft), ersetzt durch Transkript-Inhalt.",
+   "stand_note": "Stand 2023",
+   "statement": "In Dänemark bekamen die Menschen während Corona automatisch eine SMS, wo sie sich impfen lassen sollen, weil alle samt Telefonnummer im Gesundheitswesen registriert sind.",
+   "question": "Wie erfuhren Menschen in Dänemark, wo sie zur Corona-Impfung hinmüssen?",
+   "answer": "Automatisch per SMS vom Gesundheitssystem",
+   "distractors": [
+    "Per Brief von der Gemeinde",
+    "Über eine Hotline zum Anrufen",
+    "Beim nächsten Besuch beim Hausarzt"
+   ],
+   "aha": "In Dänemark sind alle Bürger:innen samt Handynummer im Gesundheitswesen registriert, da reicht eine SMS. Österreich hatte diese Infrastruktur nicht und hat laut Thomas Czypionka trotzdem relativ viele Menschen in kurzer Zeit geimpft.",
+   "quote_clean": "In Dänemark sind alle Bürgerinnen und Bürger im Gesundheitswesen registriert, auch ihre Telefonnummern, und sie haben automatisch eine SMS bekommen, wo sie zur Impfung hinmüssen.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt; Distraktor 'Präventionsparadox' ist ein echter, verwandter Begriff und daher missverständlich, ersetzt.",
+   "stand_note": "",
+   "statement": "Das Phänomen, dass erfolgreiche Vorbeugung niemandem auffällt und deshalb nicht belohnt wird, nennt man „No Glory in Prevention“.",
+   "question": "Wie nennt man das Phänomen, dass einem für erfolgreich verhinderte Katastrophen niemand dankt?",
+   "answer": "No Glory in Prevention",
+   "distractors": [
+    "Survivorship Bias",
+    "Hindsight-Bias",
+    "Tragik der Allmende"
+   ],
+   "aha": "Wenn eine Maßnahme wirkt, sieht man genau das nicht, was sie verhindert hat. Für die Politik ist das bitter: Wer früh eingreift und damit eine Welle abwendet, bekommt dafür selten Dank.",
+   "quote_clean": "Das nennt man No Glory in Prevention: Wenn ich etwas verhindere, dann passiert es eben nicht, und dann dankt mir das niemand.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat belegt; schwache Wer-sagte-das-Frage bei einem Einzelgast.",
+   "stand_note": "",
+   "statement": "Thomas Czypionka meint, die österreichische Kompromisspolitik scheitere an einer Pandemie, weil das Virus nicht verhandelt.",
+   "question": "Welcher Gast sagte über die österreichische Kompromisspolitik in der Pandemie: „Das Virus verhandelt nicht“?",
+   "answer": "Thomas Czypionka",
+   "distractors": [
+    "Florian Krammer",
+    "Isabel Schnabel",
+    "Niki Popper"
+   ],
+   "aha": "Österreich ist ein Land der Kompromisse: wenig Streiks, man einigt sich halt irgendwie. Nur lässt sich ein Virus nicht auf „eine Woche später, wegen dem Weihnachtsgeschäft“ runterhandeln.",
+   "quote_clean": "Diese Art der Politik funktioniert mit einem Naturereignis nicht. Das Virus verhandelt nicht, sondern das läuft so, wie es läuft.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "95 Prozent ist eine grobe Einschätzung des Gasts ('es war klar'), keine gemessene Zahl, und nicht auf Japan/Südkorea einzeln belegt.",
+   "stand_note": "",
+   "statement": "In Ländern wie Japan oder Südkorea hielten sich laut Czypionka rund 95 Prozent der Menschen an bloße Empfehlungen der Regierung, auch ohne Gesetz.",
+   "question": "Wie viel Prozent der Menschen hielten sich in Japan oder Südkorea laut Czypionka an bloße Corona-Empfehlungen der Regierung?",
+   "answer": "Rund 95 Prozent",
+   "distractors": [
+    "Rund 60 Prozent",
+    "Rund 75 Prozent",
+    "Rund 40 Prozent"
+   ],
+   "aha": "In gemeinschaftsorientierten Gesellschaften reicht oft ein „Bitte macht das“ der Regierung.",
+   "quote_clean": "Es war eine Empfehlung der Regierung, und es war klar, dass sich 95 Prozent der Leute daran halten, ohne dass es ein Gesetz sein muss.",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (3C-Regel, enge Räume, viele Leute, Sprechen).",
+   "stand_note": "Stand 2023",
+   "statement": "Japan entwickelte früh in der Pandemie die 3C-Regel: enge Räume, Menschenmengen und nahe Gespräche meiden.",
+   "question": "Wie viele „C“ hatte die Regel, mit der Japan früh vor riskanten Situationen gewarnt hat?",
+   "answer": "3",
+   "distractors": [
+    "2",
+    "4",
+    "5"
+   ],
+   "aha": "Die drei C stehen für geschlossene Räume, dichte Menschenmengen und enge Gesprächssituationen. Japan hatte damit sehr früh eine einfache Merkregel.",
+   "quote_clean": "Japan hat zum Beispiel extrem früh diese 3C-Regel entwickelt: Räume, die eng sind, wo viele Leute sind, wo gesprochen wird, das sind die Situationen, wo man sich ansteckt.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Aussage belegt; Antwort war länger als die Distraktoren und verriet sich selbst, gekürzt; Einschränkung auf Stand 2023.",
+   "stand_note": "Stand 2023",
+   "statement": "Japan hatte in der Pandemie viel niedrigere Infektionszahlen als Österreich, obwohl die Bevölkerung deutlich älter ist.",
+   "question": "Obwohl Japan eine viel ältere Bevölkerung hat: Wie standen Japans Corona-Infektionszahlen laut Czypionka im Vergleich zu Österreich da?",
+   "answer": "Viel niedriger",
+   "distractors": [
+    "Etwa gleich hoch",
+    "Deutlich höher",
+    "Nur im ersten Jahr niedriger"
+   ],
+   "aha": "Eine alte Bevölkerung wäre eigentlich ein Nachteil. Laut Thomas Czypionka hatte Japan aber Erfahrung aus früheren Ausbrüchen in der Region und wusste von Anfang an, was zu tun ist.",
+   "quote_clean": "Wenn man sich die Infektionszahlen in Japan anschaut, die waren viel, viel niedriger als bei uns, obwohl Japan eine viel ältere Gesellschaft hat als wir.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (IHS-Modell gekoppelt mit Popper-Modell).",
+   "stand_note": "Stand 2023",
+   "statement": "Laut einer IHS-Modellrechnung brachte Homeoffice epidemiologisch viel und kostete wirtschaftlich wenig.",
+   "question": "Welche Corona-Maßnahme brachte laut IHS-Modell viel gegen Ansteckungen und kostete wirtschaftlich wenig?",
+   "answer": "Teleworking",
+   "distractors": [
+    "Geschäftsschließungen",
+    "Grenzkontrollen",
+    "Ausgangssperren"
+   ],
+   "aha": "Das IHS hat ein Ansteckungsmodell mit einem Wirtschaftsmodell gekoppelt. Ergebnis: Ob es einen Zielkonflikt zwischen Gesundheit und Wirtschaft gibt, hängt stark von der Maßnahme ab, und Homeoffice war ein ziemlich guter Deal.",
+   "quote_clean": "Zum Beispiel war Teleworking eine Maßnahme, die epidemiologisch relativ viel bringt und wirtschaftlich relativ wenig kostet.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt; Frage mit 'höchstens' war unklar, präzisiert.",
+   "stand_note": "Stand 2023",
+   "statement": "Simulationen zeigten, dass harte Lockdowns von zwei bis drei Wochen Infektionen stark bremsen und die Wirtschaft weniger belasten als längere, mildere Lockdowns.",
+   "question": "Wie lange dauerte laut IHS-Simulation ein harter Lockdown, der Infektionen stark bremst und die Wirtschaft weniger belastet als lange, mildere Lockdowns?",
+   "answer": "Zwei bis drei Wochen",
+   "distractors": [
+    "Sechs bis acht Wochen",
+    "Ein paar Tage",
+    "Drei Monate"
+   ],
+   "aha": "Kurz und hart ist für die Wirtschaft leichter zu verdauen als lang und lau, vor allem weil Ungewissheit besonders schadet. Ein Restaurant übersteht zwei klar begrenzte Wochen besser als Monate mit offenem Ende.",
+   "quote_clean": "Harte Lockdowns über einen Zeitraum von zwei bis drei Wochen wirken sehr stark dämpfend auf das Infektionsgeschehen, beschränken aber die wirtschaftliche Aktivität nicht so stark wie weniger strenge Lockdowns.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt; Distraktoren teils unplausibel, ersetzt.",
+   "stand_note": "",
+   "statement": "Die Belegung der Intensivstationen ist ein schlechter Steuerungsindikator in einer Pandemie, weil sie zeitlich ganz am Ende der Infektionskette steht.",
+   "question": "Warum ist die Intensivbelegung laut Czypionka ein schlechter Indikator, um eine Pandemie zu steuern?",
+   "answer": "Sie zeigt die Lage erst ganz zuletzt",
+   "distractors": [
+    "Sie wird nur einmal im Monat erhoben",
+    "Sie hängt stark vom Wetter ab",
+    "Sie erfasst nur Geimpfte"
+   ],
+   "aha": "Wer intensivpflichtig wird, hat sich meist Wochen vorher angesteckt. Wenn die Betten voll werden, ist die Welle also längst da, und man hätte laut Thomas eher auf das Tempo der Entwicklung schauen müssen.",
+   "quote_clean": "Die Intensivstationen sind auch der falsche Indikator, weil die zeitlich ganz am Ende sind.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt, klar als Czypionkas Einschätzung formuliert.",
+   "stand_note": "Stand 2023",
+   "statement": "Kinder erkranken an Corona meist nicht schwer, treiben aber die Ausbreitung an, weil das Virus von den Jungen zu den Älteren wandert.",
+   "question": "Welche Rolle spielten Kinder laut Czypionka in der Corona-Pandemie?",
+   "answer": "Selten schwer krank, aber Treiber der Ausbreitung",
+   "distractors": [
+    "Kaum angesteckt, daher unwichtig",
+    "Schwer krank, aber kaum ansteckend",
+    "Nur im ersten Lockdown relevant"
+   ],
+   "aha": "Am Anfang hieß es, Schulen seien im Pandemiegeschehen nicht so wichtig. Laut Czypionka zeigen die Zahlen aber, wie die Infektionen von den jungen zu den älteren Jahrgängen wandern.",
+   "quote_clean": "Es ist natürlich so, dass die meisten Kinder nicht schwer erkranken, das ist keine Frage, aber sie treiben das Pandemiegeschehen an.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat belegt; schwache Wer-sagte-das-Frage bei einem Einzelgast.",
+   "stand_note": "",
+   "statement": "Thomas Czypionka nennt die Pandemie einen Triumph der Wissenschaft, obwohl die Wissenschaftsskepsis danach eher gewachsen ist.",
+   "question": "Welcher Gast nannte die Pandemie „im Grunde ein Triumph der Wissenschaft“?",
+   "answer": "Thomas Czypionka",
+   "distractors": [
+    "Florian Krammer",
+    "Niki Popper",
+    "Isabel Schnabel"
+   ],
+   "aha": "Innerhalb kürzester Zeit gab es eine Impfung, ohne die laut Thomas viel mehr Menschen gestorben wären. Trotzdem ist die Skepsis gegenüber der Wissenschaft nach Corona eher größer als vorher.",
+   "quote_clean": "Die Wissenschaftsskepsis ist nach der Pandemie fast größer als vor der Pandemie, obwohl das absurd ist, weil die Pandemie im Grunde ein Triumph der Wissenschaft war.",
+   "quality": 2
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat belegt; schwache Wer-sagte-das-Frage bei einem Einzelgast.",
+   "stand_note": "",
+   "statement": "Czypionka kritisiert, dass man Virologen zu Fragen wie der Impfpflicht befragt hat, obwohl dafür sozialwissenschaftliche Expertise nötig ist.",
+   "question": "Welcher Gast sagte: „Ich kann einen Virologen nicht nach einer Impfpflicht befragen“?",
+   "answer": "Thomas Czypionka",
+   "distractors": [
+    "Florian Krammer",
+    "Niki Popper",
+    "Andreas Sator"
+   ],
+   "aha": "Wissenschaftler:innen sind notwendigerweise Spezialist:innen. Wie Menschen auf eine Impfpflicht reagieren, ist eine sozialwissenschaftliche Frage, und genau solche interdisziplinären Beratungsgremien haben laut Thomas gefehlt.",
+   "quote_clean": "Ich kann ein Spezialist für etwas sein, aber ich kann einen Virologen nicht nach einer Impfpflicht befragen, weil ein Virologe keine sozialwissenschaftliche Betrachtung der Impfpflicht macht.",
+   "quality": 2
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt ('über vier Monate mit kleinen Unterbrechungen').",
+   "stand_note": "",
+   "statement": "Österreich hatte in der Pandemie teilweise über vier Monate hinweg Lockdowns mit nur kleinen Unterbrechungen.",
+   "question": "Über wie viele Monate hatte Österreich laut Czypionka teilweise Lockdowns mit nur kleinen Unterbrechungen?",
+   "answer": "Über vier Monate",
+   "distractors": [
+    "Rund zwei Monate",
+    "Rund sechs Wochen",
+    "Über acht Monate"
+   ],
+   "aha": "Statt kurzer, klar begrenzter Lockdowns gab es monatelange Phasen mit offenem Ende. Laut Czypionka ist genau diese Ungewissheit für die Wirtschaft besonders schädlich.",
+   "quote_clean": "Das ist leichter, als wie wir es dann teilweise hatten, wo wir über vier Monate mit kleinen Unterbrechungen Lockdowns hatten.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsbeginn, kein Wissensgewinn; 'bewusst' ist Interpretation.",
+   "stand_note": "",
+   "statement": "Andreas beginnt die Corona-Aufarbeitung bewusst mit der Frage, was Österreich gut gemacht hat.",
+   "question": "Womit startet Andreas die Corona-Aufarbeitung mit Thomas Czypionka?",
+   "answer": "Was Österreich gut gemacht hat",
+   "distractors": [
+    "Wer an allem schuld war",
+    "Wie viele Menschen gestorben sind",
+    "Ob die Pandemie vorbei ist"
+   ],
+   "aha": "",
+   "quote_clean": "Was hat Österreich gut gemacht? Was hat gut funktioniert bei den politischen Maßnahmen oder auch beim Umgang der Gesellschaft mit der Pandemie?",
+   "quality": 1
+  }
+ ],
+ "id": "257",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

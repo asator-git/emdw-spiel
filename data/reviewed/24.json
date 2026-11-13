@@ -1,0 +1,278 @@
+{
+ "reviews": [
+  {
+   "statement": "In Österreich leben rund 700.000 Musliminnen und Muslime.",
+   "question": "Wie viele Musliminnen und Muslime leben ungefähr in Österreich?",
+   "answer": "Rund 700.000",
+   "distractors": [
+    "Rund 200.000",
+    "Rund 1,5 Millionen",
+    "Rund 350.000"
+   ],
+   "aha": "Rund 700.000, also grob jede zwölfte Person im Land. Über kaum eine Religion wird so viel geredet und so wenig gewusst, genau deshalb hat Andreas 2018 diese Serie gestartet.",
+   "quote_clean": "Ich habe mich entschlossen, diese Serie zu starten, weil in Österreich um die 700.000 Muslime leben und viele Menschen überhaupt nichts über ihre Religion wissen.",
+   "i": 0,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Zahl von Andreas genannt, Stand 2018.",
+   "stand_note": "Stand 2018",
+   "quality": 3
+  },
+  {
+   "statement": "Der Islam kennt fünf Säulen, eine davon ist die Pilgerfahrt nach Mekka.",
+   "question": "Wie viele „Säulen“ hat der Islam?",
+   "answer": "Fünf",
+   "distractors": [
+    "Drei",
+    "Sieben",
+    "Zehn"
+   ],
+   "aha": "Fünf Säulen, und der Hadsch nach Mekka ist eine davon. Verpflichtend ist er aber nur einmal im Leben und nur, wenn man gesund ist und es sich leisten kann.",
+   "quote_clean": "Der Hadsch ist eine der sogenannten fünf Säulen des Islams. Jeder Muslim, jede Muslimin sollte einmal im Leben, wenn er oder sie gesund ist und genug finanzielle Mittel hat, eine Pilgerfahrt nach Mekka machen.",
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Die Kaaba in Mekka ist ein würfelförmiges Gebäude, das Pilger umkreisen; Riten finden auch am Berg Arafat statt.",
+   "question": "Welche Form hat die Kaaba in Mekka, die Pilger umkreisen?",
+   "answer": "Würfelförmig",
+   "distractors": [
+    "Kugelförmig",
+    "Pyramidenförmig",
+    "Zylinderförmig"
+   ],
+   "aha": "Ein Würfel, der Name Kaaba kommt sogar vom arabischen Wort dafür. Der Hadsch spielt sich aber nicht nur dort ab, sondern auch außerhalb Mekkas, etwa am Berg Arafat.",
+   "quote_clean": "Dort finden ganz viele Riten statt, nicht nur rund um die Kaaba, dieses berühmte würfelförmige Gebäude, das man umkreist, sondern auch außerhalb der Stadt, etwa am Berg Arafat.",
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Distraktor zu lang; angeglichen.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Die Riten der Pilgerfahrt nach Mekka beziehen sich vor allem auf den Propheten Abraham.",
+   "question": "Auf welche Figur gehen die Riten der Pilgerfahrt nach Mekka vor allem zurück?",
+   "answer": "Abraham (Ibrahim)",
+   "distractors": [
+    "Mohammed",
+    "Mose (Musa)",
+    "Noah (Nuh)"
+   ],
+   "aha": "Auf Abraham, arabisch Ibrahim. Deshalb spricht man auch von den abrahamitischen Religionen: Judentum, Christentum und Islam berufen sich alle auf ihn.",
+   "quote_clean": "Die ganzen Riten des Hadsch haben vor allem mit dem Propheten Ibrahim, also Abraham, zu tun.",
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Laut Koran kommt Abraham durch Naturbeobachtung auf den einen Gott: Sonne und Sterne gehen unter, also können sie nicht Gott sein.",
+   "question": "Wie kommt Abraham laut Koran darauf, dass es nur einen Gott gibt?",
+   "answer": "Er sieht Sonne und Sterne untergehen",
+   "distractors": [
+    "Ein Engel erscheint ihm im Traum",
+    "Sein Vater erklärt es ihm",
+    "Er findet eine Steintafel"
+   ],
+   "aha": "Alles, was untergeht, kann nicht Gott sein, so seine Logik. Am Ende glaubt er an den, der Sonne und Sterne geschaffen hat, und das in einer Zeit, in der seine eigene Familie Steine angebetet hat.",
+   "quote_clean": "Im Koran gibt es eine Stelle, wo er durch intensive Naturbeobachtung auf den einen Gott kommt. Er schaut in den Himmel, sieht die verschiedenen Gestirne, Sonne und Sterne, und meint immer: Das ist so groß, so gewaltig, das nenne ich Gott. Er sieht aber immer, wie es untergeht.",
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Im Islam gilt Adam als erster und Mohammed als letzter Prophet.",
+   "question": "Wer gilt im Islam als erster Prophet?",
+   "answer": "Adam",
+   "distractors": [
+    "Abraham",
+    "Noah",
+    "Mose"
+   ],
+   "aha": "Adam, der von Adam und Eva. Mohammed ist der letzte in einer langen Reihe, zu der auch Jakob, Josef, Abraham und Jesus gehören.",
+   "quote_clean": "Der Prophet Mohammed, der für Muslime der letzte Prophet ist, wird in einer Linie mit vielen anderen Propheten betrachtet. Der erste ist Adam, schon mal ein bekannter Name.",
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Mohammed wird auch als „lebender Koran“ bezeichnet; seine Überlieferung, die Sunna, ist neben dem Koran die zweite wichtige Quelle des Islams.",
+   "question": "Als was wird Mohammed wegen seines Vorbilds manchmal bezeichnet?",
+   "answer": "Als „lebender Koran“",
+   "distractors": [
+    "Als „Sohn Gottes“",
+    "Als „zweiter Abraham“",
+    "Als „Siegel der Engel“"
+   ],
+   "aha": "Als lebender Koran. Was er gesagt, getan und gebilligt hat, wurde nach seinem Tod gesammelt und ist als Sunna die zweite große Quelle neben dem Koran.",
+   "quote_clean": "Mohammed ist deshalb so wichtig, weil man ihn auch als den, in Anführungszeichen, lebenden Koran bezeichnet. Sein Vorbild gibt Menschen bis heute Orientierung.",
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Die islamischen Mystiker, die Sufis, fassen ihren Weg zu Gott so zusammen: durch Selbsterkenntnis zur Gotteserkenntnis.",
+   "question": "Wie bringen die Sufis, die Mystiker des Islams, ihren Weg zu Gott auf den Punkt?",
+   "answer": "Durch Selbsterkenntnis zur Gotteserkenntnis",
+   "distractors": [
+    "Durch Gehorsam zur Erlösung",
+    "Durch Askese zum Paradies",
+    "Durch Wissen zur Macht"
+   ],
+   "aha": "Wer sich selbst versteht, versteht auch Gott besser, so die Idee. Menschenbild und Gottesbild hängen im Islam eng zusammen, sagt Carla.",
+   "quote_clean": "Die Mystiker, die Sufis, haben es einmal auf den Punkt gebracht: durch Selbsterkenntnis zur Gotteserkenntnis.",
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "In der fünften Sure des Korans steht, dass die Menschen ihre verschiedenen religiösen Lebenswege gegenseitig akzeptieren sollen.",
+   "question": "In der wievielten Sure des Korans steht die Stelle, dass verschiedene Religionen einander akzeptieren sollen?",
+   "answer": "In der fünften",
+   "distractors": [
+    "In der ersten",
+    "In der zwölften",
+    "In der neunten"
+   ],
+   "aha": "Die fünfte Sure. Dort heißt es auch, Gott werde später erklären, worüber ihr jetzt streitet. Für Carla liegt die letzte Wahrheit deshalb immer bei Gott.",
+   "quote_clean": "In der fünften Sure ist eine Stelle, die für mich überhaupt ein Schlüsselmoment ist, wo es heißt: Diese verschiedenen Lebenswege, akzeptiert sie auch untereinander.",
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Schieberegler unsinnig, Distraktor 99. unpassend; angepasst. Sure 5 stimmt.",
+   "stand_note": "",
+   "quality": 2
+  },
+  {
+   "statement": "Carla Amina Baghajati sieht den Islam als Religion, die auf die Mündigkeit des Menschen setzt, nicht als Kochrezept.",
+   "question": "Wer sagt: Der Islam ist „keine Religion, wo man eine Art Kochrezept hat“?",
+   "answer": "Carla Amina Baghajati",
+   "distractors": [
+    "Andreas Sator",
+    "Gotthold Ephraim Lessing",
+    "Salman Rushdie"
+   ],
+   "aha": "Carla, die Frauenbeauftragte der Islamischen Glaubensgemeinschaft. Der Koran gibt für sie Maßstäbe und Orientierung, aber „Gestalterin meines Lebens bin ich“.",
+   "quote_clean": "Für mich ist der Islam eine Religion, die auf die Mündigkeit des Menschen setzt. Eben keine Religion, wo man eine Art Kochrezept hat: Mach dies, das, das.",
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat-es-gesagt-Frage.",
+   "stand_note": "",
+   "quality": 1
+  },
+  {
+   "statement": "Wann der Jüngste Tag kommt, ist für Carla Amina Baghajati nebensächlich; jeder Tag sei ein Geschenk.",
+   "question": "Wer sagt über den Jüngsten Tag: „Jeder Tag ist ein Geschenk“, ob er nun in 100 Jahren kommt oder morgen?",
+   "answer": "Carla Amina Baghajati",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Wiener Imam",
+    "Lessing in Nathan der Weise"
+   ],
+   "aha": "Carla. Ob das Jüngste Gericht in 100 Jahren, in 1000 Jahren oder morgen kommt: Sie macht sich keinen Kopf drüber und will lieber nichts offen lassen.",
+   "quote_clean": "Für mich ist es ziemlich nebensächlich, weil ich mir eher denke: Jeder Tag ist ein Geschenk. Ich sollte ihn so leben, dass ich mir bewusst bin, es könnte auch mein letzter Tag sein.",
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat-es-gesagt-Frage.",
+   "stand_note": "",
+   "quality": 1
+  },
+  {
+   "statement": "Carla Amina Baghajati hält es für irreführend, den Islam als Gesetzesreligion zu bezeichnen; der Koran sei kein Handbuch der Rechtswissenschaft.",
+   "question": "Wer sagt, man könne den Koran „nicht nehmen als ein Handbuch der Rechtswissenschaft“?",
+   "answer": "Carla Amina Baghajati",
+   "distractors": [
+    "Andreas Sator",
+    "Salman Rushdie",
+    "Ein Grazer Jurist"
+   ],
+   "aha": "Carla. Es gibt zwar Regeln zu Erbrecht oder Diebstahl im Koran, aber für sie ist die Aufgabe heute, das Moralisch-Ethische vom Zeitgebundenen zu trennen.",
+   "quote_clean": "Wenn man den Koran liest, wird man feststellen: Man kann ihn nicht als Handbuch der Rechtswissenschaft nehmen.",
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat-es-gesagt-Frage.",
+   "stand_note": "",
+   "quality": 1
+  },
+  {
+   "statement": "Carla Amina Baghajati wollte Rushdies Satanische Verse kaufen und kam stattdessen mit einem Koran aus der Buchhandlung.",
+   "question": "Welches Buch wollte Carla Amina Baghajati eigentlich kaufen, als sie mit einem Koran aus der Buchhandlung kam?",
+   "answer": "Die Satanischen Verse",
+   "distractors": [
+    "Nathan der Weise",
+    "Die Bibel",
+    "Tausendundeine Nacht"
+   ],
+   "aha": "Rushdies Satanische Verse, mit dem sie sich solidarisieren wollte. Rausgekommen ist sie mit einer, wie sie heute sagt, grottenschlechten Koranübersetzung, die sie trotzdem in einer Woche verschlungen hat.",
+   "quote_clean": "Ich bin dann in eine Buchhandlung gegangen und wollte mir eigentlich die Satanischen Verse kaufen. Rausgekommen bin ich aber mit einer Koranausgabe, einer Übersetzung.",
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, schöne Anekdote.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Andreas startet die Islam-Serie mit der Bitte, ganz bei null anzufangen.",
+   "question": "Wie steigt Andreas in die erste Folge seiner Islam-Serie ein?",
+   "answer": "„Wir fangen völlig bei Null an“",
+   "distractors": [
+    "„Was ist dein Lieblingsvers?“",
+    "„Wie viele Muslime gibt es weltweit?“",
+    "„Warum bist du konvertiert?“"
+   ],
+   "aha": "Ganz bei null, als hätte man noch nie vom Islam gehört. Carla kontert gleich: Wer mit Judentum und Christentum aufgewachsen ist, fängt eigentlich gar nicht bei null an.",
+   "quote_clean": "Carla, wir tun jetzt so, als würden wir zum ersten Mal hören, dass es den Islam überhaupt gibt. Wir fangen also völlig bei null an. Erklär uns mal, was der Islam überhaupt ist.",
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Einstieg, unbedeutend.",
+   "stand_note": "",
+   "quality": 1
+  }
+ ],
+ "id": "24",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

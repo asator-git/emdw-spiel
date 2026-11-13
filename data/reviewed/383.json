@@ -1,0 +1,282 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1584 s: 250 Jahre, kremsmünster; Messreihe beginnt Anfang der 1760er, 'rund 250' passt.",
+   "stand_note": "",
+   "statement": "Im Stift Kremsmünster wird seit rund 250 Jahren die Temperatur gemessen – die längste Messreihe Österreichs.",
+   "question": "Seit wie vielen Jahren wird im Stift Kremsmünster die Temperatur aufgezeichnet?",
+   "answer": "Rund 250 Jahre",
+   "distractors": [
+    "Rund 100 Jahre",
+    "Rund 150 Jahre",
+    "Rund 400 Jahre"
+   ],
+   "aha": "Lange bevor es Wetterdienste gab, haben Mönche in Oberösterreich schon brav Thermometer abgelesen. Die waren oft eh in Astronomie bewandert, und so steht in Kremsmünster die längste Temperaturreihe des Landes.",
+   "quote_clean": "In Österreich messen wir seit 250 Jahren die Temperatur. Vorreiter war ein Kloster: Kremsmünster hat die längste Temperaturaufzeichnung, weil Mönche sehr oft in Astronomie und Meteorologie bewandert waren.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "transkription"
+   ],
+   "note": "Das europäische Hauptmodell (ECMWF) rechnet sein Ensemble mit 51 Läufen, nicht 64; die Zahl des Gasts ist sachlich zweifelhaft.",
+   "stand_note": "",
+   "statement": "Beim europäischen Hauptmodell wird der Ausgangszustand 64 Mal leicht verändert durchgerechnet, um die Unsicherheit der Prognose abzuschätzen.",
+   "question": "Wie oft wird der Ausgangszustand beim europäischen Hauptmodell mit kleinen Fehlern zusätzlich durchgerechnet?",
+   "answer": "64 Mal",
+   "distractors": [
+    "8 Mal",
+    "500 Mal",
+    "1000 Mal"
+   ],
+   "aha": "Weil niemand genau weiß, wie das Wetter gerade ist, rechnen die Modelle nicht nur einmal, sondern 64 Mal mit leicht verschobenen Startwerten. Laufen die Varianten lange beisammen, ist die Prognose sicher; driften sie auseinander, wird's wackelig.",
+   "quote_clean": "Wir verändern diesen Istzustand bei unserem Hauptmodell, zum Beispiel bei einem, das europaweit rechnet, 64 Mal mit kleinen Fehlern.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2934 s eindeutig (15 Tage gerechnet, meist 10 brauchbar; vor 30 Jahren 3 Tage). Aussage des Gasts, Stand 2026.",
+   "stand_note": "Stand 2026",
+   "statement": "Vor 30 Jahren gab es Wetterprognosen für drei Tage, heute werden 15 Tage gerechnet, von denen meist zehn sehr brauchbar sind.",
+   "question": "Für wie viele Tage sind heutige Wetterprognosen laut Marcus Wadsak meistens sehr brauchbar?",
+   "answer": "10 Tage",
+   "distractors": [
+    "3 Tage",
+    "5 Tage",
+    "20 Tage"
+   ],
+   "aha": "Als Marcus beim ORF angefangen hat, war nach drei Tagen Schluss, mehr ging einfach nicht. Heute rechnet man 15 Tage voraus, und zehn davon taugen meistens wirklich was.",
+   "quote_clean": "Heute rechnen wir 15 Tage. Wir haben Prognosen für 15 Tage, die meistens zumindest für 10 Tage sehr brauchbar sind.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 916 s; astronomisch korrekt (Perihel im Jänner), Aha stimmt.",
+   "stand_note": "",
+   "statement": "Im Nordhalbkugel-Winter ist die Erde der Sonne näher als im Sommer; die Jahreszeiten entstehen durch die Neigung der Erdachse.",
+   "question": "Wann ist die Erde der Sonne näher – in unserem Winter oder in unserem Sommer?",
+   "answer": "Im Winter",
+   "distractors": [
+    "Im Sommer",
+    "Im Frühling",
+    "Immer gleich nah"
+   ],
+   "aha": "Die Erde zieht auf einer Ellipse um die Sonne, und im Jänner ist sie ihr am nächsten. Warm wird's trotzdem nicht, weil die geneigte Erdachse uns im Winter von der Sonne wegdreht und die Tage kurz macht.",
+   "quote_clean": "Interessanterweise ist die Erde im Winter der Sonne näher als im Sommer. Du würdest jetzt glauben, da muss es ja im Winter wärmer sein, weil wir doch näher bei der Sonne sind.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1357 s; Aha deckt sich mit dem Ausschnitt (Klimawandel als zweiter Grund).",
+   "stand_note": "",
+   "statement": "Viele Bauernregeln stimmen nicht mehr, weil sie bei der gregorianischen Kalenderreform nicht auf das neue Datum verschoben wurden.",
+   "question": "Warum passen viele alte Bauernregeln nicht mehr zum heutigen Datum?",
+   "answer": "Wegen der gregorianischen Kalenderreform",
+   "distractors": [
+    "Wegen der Einführung der Sommerzeit",
+    "Wegen falscher Übersetzungen aus dem Latein",
+    "Wegen der Verschiebung der Erdachse"
+   ],
+   "aha": "Bauernregeln beruhen auf jahrhundertelanger Beobachtung, oft an Feiertage gebunden. Als der Kalender umgestellt wurde, sind die Regeln aber nicht mitübersiedelt, und dazu kommt heute noch der Klimawandel, der die alten Muster durcheinanderbringt.",
+   "quote_clean": "Viele Wetterregeln sind nicht mit ihrem Tag übersiedelt, als die gregorianische Kalenderreform kam. Viele Tage gelten also noch für das alte Datum und sind daher nicht richtig.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Gast sagt, das ECMWF sei nach Italien (Bologna) gezogen; tatsächlich wurde nur das Rechenzentrum verlegt, auch Bonn ist Standort, daher Frage präzisiert und Distraktor Deutschland ersetzt.",
+   "stand_note": "Stand 2026",
+   "statement": "Das Europäische Zentrum für mittelfristige Wettervorhersage (ECMWF) war in Reading in England und hat wegen des Brexits Teile nach Italien verlegt.",
+   "question": "Wohin hat das europäische Wetterzentrum ECMWF wegen des Brexits Teile verlegt?",
+   "answer": "Nach Italien",
+   "distractors": [
+    "Nach Spanien",
+    "Nach Schweden",
+    "Nach Österreich"
+   ],
+   "aha": "Das ECMWF rechnet das beste Wettermodell Europas, auch die 15-Tage-Prognosen. Jahrzehntelang saß es in Reading, aber nach dem Brexit wurde ein Teil in die EU verlegt, nämlich das Rechenzentrum nach Bologna.",
+   "quote_clean": "Die waren bis zum Brexit in Reading in England beheimatet, mussten sich dann aufgrund des Brexits einen neuen Ort suchen und sind jetzt in Italien.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Badewanne-Bild ist eine Vereinfachung des Gasts; Antwort auf Temperaturausgleich präzisiert, Aha nicht überzogen, schwammigen Distraktor ersetzt.",
+   "stand_note": "",
+   "statement": "Würde sich die Erde nicht drehen, würden sich die Temperaturen zwischen Äquator und Polen laut Marcus Wadsak ausgleichen wie warmes und kaltes Wasser in einer Badewanne.",
+   "question": "Was wäre laut Marcus Wadsak, wenn sich die Erde nicht um die eigene Achse drehen würde?",
+   "answer": "Die Temperaturen würden sich weitgehend ausgleichen",
+   "distractors": [
+    "Die Pole wären wärmer als der Äquator",
+    "Es würde ununterbrochen regnen",
+    "Es gäbe überall Dauerfrost"
+   ],
+   "aha": "Am Äquator kommt mehr Sonne an, an den Polen weniger, und die Luft will das ausgleichen. Marcus vergleicht das mit einer Badewanne, in der sich warmes und kaltes Wasser rasch mischen. Erst die Drehung der Erde und die Corioliskraft lenken die Strömung ab, und so entstehen Hochs, Tiefs und Luftmassen mit ihren Grenzen.",
+   "quote_clean": "Das wäre so, wie wenn du in einer Badewanne auf der einen Seite warmes Wasser reinschüttest und es auf der anderen kalt ist. Das wird sich sehr rasch ausgleichen und du hast eine mittlere Temperatur.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 660 s, physikalisch korrekt, schöne Alltagsfrage.",
+   "stand_note": "",
+   "statement": "Echter Wasserdampf ist unsichtbar; was über einem Kochtopf sichtbar aufsteigt, sind bereits wieder kondensierte, flüssige Tröpfchen – wie in einer Wolke.",
+   "question": "Was siehst du eigentlich, wenn über dem Kochtopf „Dampf“ aufsteigt?",
+   "answer": "Winzige flüssige Wassertröpfchen",
+   "distractors": [
+    "Unsichtbaren Wasserdampf",
+    "Kleine Eiskristalle",
+    "Gelöste Luftbläschen"
+   ],
+   "aha": "Gasförmiges Wasser kann man nicht sehen. Sobald es über dem Topf ein bisserl abkühlt, wird's wieder flüssig, und genau das sind Wolken auch. Du zauberst dir also beim Nudelnkochen eine kleine Wolke.",
+   "quote_clean": "Da verdampft das Wasser aus dem Topf, und den Dampf sehe ich eigentlich nicht. Aber kurz danach, weil es beim Aufsteigen so rasch abkühlt, kondensiert es schon wieder.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Die Analogsuche ist die vereinfachte Darstellung des Gasts; moderne KI-Modelle lernen aus Daten, suchen nicht wörtlich. Frage auf seine Beschreibung bezogen und Aha entschärft.",
+   "stand_note": "Stand 2026",
+   "statement": "Marcus Wadsak beschreibt KI-Wettermodelle vereinfacht so: Sie vergleichen die aktuelle Wetterlage in Sekunden mit tausenden früheren und schauen, wie es damals weiterging, statt wie klassische Modelle die Physik zu rechnen.",
+   "question": "Wie beschreibt Marcus Wadsak vereinfacht den Ansatz von KI-Wettermodellen im Unterschied zu klassischen Modellen?",
+   "answer": "Sie vergleichen mit ähnlichen früheren Wetterlagen",
+   "distractors": [
+    "Sie rechnen genauere Physikgleichungen",
+    "Sie messen mehr Stationen selbst",
+    "Sie werten Bauernregeln automatisch aus"
+   ],
+   "aha": "Klassische Wettermodelle nehmen den Istzustand und rechnen mit physikalischen Gesetzen weiter. Die KI geht laut Marcus den umgekehrten Weg und stützt sich auf alte Wetterlagen. Das ist um Stunden schneller, und deshalb ist sie für die Meteorolog:innen eine willkommene zweite Quelle.",
+   "quote_clean": "Die sagt: Die Wetterlage ist so, ich schaue in einer Sekunde tausende Wetterlagen durch, hole mir die 20 ähnlichsten und schaue, wie sich das Wetter entwickelt hat.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Wer-hat-es-gesagt-Frage ist trivial (der Gast spricht), Distraktoren sinnlos; zudem verkürzt 'nichts zufällig' die Chaos-Problematik.",
+   "stand_note": "",
+   "statement": "Marcus Wadsak betont, dass das Wetter streng physikalischen Gesetzen folgt und draußen nichts zufällig passiert.",
+   "question": "Wer hat's gesagt: „Wenn ich aus dem Fenster rausschaue, da draußen passiert nichts zufällig“?",
+   "answer": "Marcus Wadsak",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Bauer in einer Bauernregel",
+    "Ein KI-Forscher"
+   ],
+   "aha": "Für Marcus ist die Natur ein Musterbeispiel, das sich strikt an die Physik hält. Darum wäre Wetter grundsätzlich exakt vorhersagbar, wenn wir nur genau genug wüssten, wie es gerade ist.",
+   "quote_clean": "Es ist wirklich so: Wenn ich aus dem Fenster rausschaue, da draußen passiert nichts zufällig.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1710 s (der wesentliche Punkt: Ausgangszustand zu ungenau); Frage präzisiert, Distraktoren glaubwürdiger gemacht.",
+   "stand_note": "",
+   "statement": "Als wesentlichen Punkt, der die Wettervorhersage begrenzt, nennt Marcus Wadsak, dass man den aktuellen Zustand der Atmosphäre zu ungenau kennt.",
+   "question": "Was nennt Marcus Wadsak als den wesentlichen Punkt, der die Wettervorhersage begrenzt?",
+   "answer": "Wir kennen das aktuelle Wetter zu ungenau",
+   "distractors": [
+    "Die Physik des Wetters ist noch nicht verstanden",
+    "Das Wetter ist reiner Zufall",
+    "Es gibt zu wenige Meteorolog:innen"
+   ],
+   "aha": "Über Österreich gibt's ein dichtes Messnetz, aber über den Ozeanen und in der Höhe sind die Lücken riesig. Wetterballone steigen nur an wenigen Orten zweimal am Tag auf, und jeder Fehler im Startzustand wirkt sich in der Prognose aus.",
+   "quote_clean": "Ich muss wissen, wie das Wetter ist. Und das ist ein Punkt, den man einfach zugeben muss: Wir wissen zu ungenau, wie das Wetter momentan ist.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 77 s; Friedrich Wetter war Kardinal und Erzbischof, 'Bischof' wie vom Gast gesagt ist okay. Google-Ergebnis ist flüchtig, Aussage ist ein Schmäh des Gasts.",
+   "stand_note": "Stand Februar 2026",
+   "statement": "Wer bei Google „Wetter“ sucht, findet laut Marcus Wadsak zuerst den deutschen Kirchenmann Friedrich Wetter.",
+   "question": "Was findet Marcus Wadsak an der Google-Suche nach „Wetter“ lustig?",
+   "answer": "Zuerst kommt Bischof Friedrich Wetter",
+   "distractors": [
+    "Zuerst kommt ein Kochrezept",
+    "Zuerst kommt seine eigene Website",
+    "Zuerst kommt ein Schlager"
+   ],
+   "aha": "Marcus schmunzelt darüber, dass Google bei „Wetter“ zuerst an den Kirchenmann denkt. Das Wetter, um das es in der Folge geht, ist der momentane Zustand der Atmosphäre an einem bestimmten Ort zu einer bestimmten Zeit.",
+   "quote_clean": "Wenn man „Wetter“ googelt, ist das für mich sehr lustig. Da kommt zuerst mal Friedrich Wetter. Das war ein Bischof irgendwo in Deutschland.",
+   "quality": 2
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Beleg bei 3495 s; Aha enthielt Erfundenes (Bauchgefühl), Antwort 'Badegäste' war nicht belegt (Gast sagt nur Leute am See).",
+   "stand_note": "",
+   "statement": "Wenn Marcus Wadsak am See zusammenpackt, weil er ein Gewitter kommen sieht, packen manchmal Leute, die ihn erkennen, gleich mit zusammen.",
+   "question": "Was passiert manchmal, wenn Marcus Wadsak am See seine Sachen zusammenpackt?",
+   "answer": "Leute, die ihn erkennen, packen auch zusammen",
+   "distractors": [
+    "Die Leute fragen ihn nach Autogrammen",
+    "Der Bademeister schließt das Bad",
+    "Er wird um eine Prognose gebeten"
+   ],
+   "aha": "Wenn Marcus am See merkt, dass es gleich wild wird, und zusammenpackt, tun das manchmal auch die, die ihn kennen. Blöd nur, sagt er, wenn er aus ganz anderen Gründen heimgeht.",
+   "quote_clean": "Jetzt wird's wild – und dann passiert es manchmal, dass mich ein paar Leute erkennen und dann auch beginnen zusammenzupacken.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Eröffnungsfrage des Hosts ist als Spielfrage nichtssagend und kaum merkbar.",
+   "stand_note": "",
+   "statement": "Andreas Sator beginnt das Gespräch mit der ganz grundsätzlichen Frage, was Wetter eigentlich ist.",
+   "question": "Mit welcher Frage steigt Andreas ins Gespräch mit Marcus Wadsak ein?",
+   "answer": "Wetter, was ist das eigentlich?",
+   "distractors": [
+    "Welche Wetter-App ist die beste?",
+    "Wie wird der heurige Winter?",
+    "Warum irrt sich die Prognose so oft?"
+   ],
+   "aha": "Andreas fängt ganz von vorn an. Marcus' Antwort: Wetter ist der momentane Zustand der Atmosphäre an einem bestimmten Ort zu einer bestimmten Zeit.",
+   "quote_clean": "Markus, fangen wir mal ganz grundsätzlich an: Wetter, was ist das eigentlich?",
+   "quality": 1
+  }
+ ],
+ "id": "383",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

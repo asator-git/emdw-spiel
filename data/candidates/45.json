@@ -1,0 +1,707 @@
+{
+ "theme": "Gesellschaft & Kultur",
+ "summary": "Nunu Kaller erklärt, warum Fast Fashion Menschen und Umwelt schadet und wie man Kleidung klüger kauft, tauscht und länger trägt.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 375,
+   "speaker": "Nunu Kaller",
+   "quote": "Ein Drittel aller weltweit produzierten Insektizide landet auf der Baumwolle.",
+   "quote_clean": "Ein Drittel aller weltweit produzierten Insektizide landet auf der Baumwolle.",
+   "statement": "Rund ein Drittel aller weltweit produzierten Insektizide wird im Baumwollanbau eingesetzt.",
+   "question": "Wie viel Prozent aller weltweit produzierten Insektizide landen laut Nunu Kaller auf Baumwolle?",
+   "answer": "Rund ein Drittel (ca. 33 %)",
+   "distractors": [
+    "Rund 5 %",
+    "Rund 12 %",
+    "Rund 60 %"
+   ],
+   "number_value": 33,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Baumwolle ist eine Lieblingspflanze von Schädlingen, und konventionell angebaut wird da ordentlich gespritzt. Dein T-Shirt hat also schon einiges hinter sich, bevor es überhaupt genäht wird.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Baumwolle",
+    "Pestizide"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 446,
+   "speaker": "Nunu Kaller",
+   "quote": "Das heißt, die gesamte Lieferkette von der ersten Idee bis zu, es ist in aller Welt in die Läden geliefert, liegt inzwischen bei zwei bis drei Wochen.",
+   "quote_clean": "Die gesamte Lieferkette von der ersten Idee bis dahin, dass es in aller Welt in den Läden ist, liegt inzwischen bei zwei bis drei Wochen.",
+   "statement": "Bei großen Fast-Fashion-Ketten dauert es von der ersten Designidee bis zum Kleidungsstück im Laden nur zwei bis drei Wochen.",
+   "question": "Wie viele Wochen dauert es bei großen Fast-Fashion-Ketten von der Designidee bis zum Teil im Laden?",
+   "answer": "Zwei bis drei Wochen",
+   "distractors": [
+    "Drei bis vier Monate",
+    "Ein halbes Jahr",
+    "Acht bis zehn Wochen"
+   ],
+   "number_value": 2.5,
+   "number_unit": "Wochen",
+   "slider_min": 0,
+   "slider_max": 26,
+   "log_scale": false,
+   "aha": "Zara, H&M und Co. jagen ein Design in rund zwei bis drei Wochen um die halbe Welt bis an die Kleiderstange. Kein Wunder, dass da in den Nähereien gewaltiger Druck entsteht.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Fast Fashion",
+    "Lieferkette"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 404,
+   "speaker": "Nunu Kaller",
+   "quote": "Man hat das Transportthema, weil Baumwolle wächst nur in Äquatornähe. Von dort wird sie transportiert, meistens in die Türkei, wo sie gesponnen wird und verwebt wird. Dort landet sie dann in Bangladesch, wo genäht wird.",
+   "quote_clean": "Man hat das Transportthema, weil Baumwolle nur in Äquatornähe wächst. Von dort wird sie transportiert, meistens in die Türkei, wo sie gesponnen und verwebt wird. Dann landet sie in Bangladesch, wo genäht wird.",
+   "statement": "Baumwolle wächst nur in Äquatornähe, wird oft in der Türkei gesponnen und verwebt und dann in Bangladesch genäht.",
+   "question": "Wo wird Baumwolle laut Nunu Kaller meistens gesponnen und verwebt, bevor sie zum Nähen nach Bangladesch geht?",
+   "answer": "In der Türkei",
+   "distractors": [
+    "In Italien",
+    "In Indien",
+    "In Rumänien"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein T-Shirt ist ein ziemlicher Weltenbummler: Anbau nahe dem Äquator, Spinnen in der Türkei, Nähen in Bangladesch, Färben und Bedrucken oft noch in China. Erst dann geht's in die Läden auf der ganzen Welt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Lieferkette",
+    "Baumwolle"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 421,
+   "speaker": "Nunu Kaller",
+   "quote": "Und von den Nähereien landet sie oft noch in China, wo die Nassfertigung stattfindet. Das heißt, wo bedruckt wird, wo gefärbt wird, diese Dinge.",
+   "quote_clean": "Von den Nähereien landet sie oft noch in China, wo die Nassfertigung stattfindet, also wo bedruckt und gefärbt wird.",
+   "statement": "Mit Nassfertigung bezeichnet man in der Textilproduktion das Färben und Bedrucken von Stoffen.",
+   "question": "Was versteht man in der Textilproduktion unter Nassfertigung?",
+   "answer": "Färben und Bedrucken",
+   "distractors": [
+    "Waschen fertiger Kleidung im Laden",
+    "Anbau bewässerter Baumwolle",
+    "Imprägnieren von Regenjacken"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nassfertigung klingt nach Waschstraße, meint aber Färben und Bedrucken. Und das passiert oft noch einmal in einem ganz anderen Land, nämlich China, bevor die Ware weiterreist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Textilproduktion",
+    "Begriffe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 464,
+   "speaker": "Nunu Kaller",
+   "quote": "Weil Polyester ist nichts anderes als Plastik. Und wenn ich Polyester wasche, jedes Kleidungsstück, das ich wasche, lässt Fasern. Nur die Polyesterfasern sind reines Mikroplastik. Und zwar so fein, dass die von keiner Kläranlage aufgehalten werden können.",
+   "quote_clean": "Polyester ist nichts anderes als Plastik. Jedes Kleidungsstück, das ich wasche, lässt Fasern. Nur die Polyesterfasern sind reines Mikroplastik, und zwar so fein, dass sie von keiner Kläranlage aufgehalten werden können.",
+   "statement": "Beim Waschen von Polyesterkleidung lösen sich Mikroplastikfasern, die so fein sind, dass Kläranlagen sie nicht zurückhalten.",
+   "question": "Was passiert mit den Fasern, die sich beim Waschen von Polyesterkleidung lösen?",
+   "answer": "Sie gehen als Mikroplastik durch Kläranlagen",
+   "distractors": [
+    "Sie lösen sich im Wasser vollständig auf",
+    "Kläranlagen filtern sie fast komplett heraus",
+    "Sie bleiben vollständig im Flusensieb hängen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Polyester ist Plastik in Faserform. Jede Wäsche schickt winzige Fasern ins Abwasser, und die sind so fein, dass keine Kläranlage sie aufhält.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mikroplastik",
+    "Polyester"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 499,
+   "speaker": "Nunu Kaller",
+   "quote": "Und es gibt kein Material, das du so schnell bearbeiten kannst. Dementsprechend sind auch die klassischen billigen Fast Fashion Hersteller inzwischen voll mit Polyesterkleidung.",
+   "quote_clean": "Es gibt kein Material, das du so schnell bearbeiten kannst. Dementsprechend sind auch die klassischen billigen Fast-Fashion-Hersteller inzwischen voll mit Polyesterkleidung.",
+   "statement": "Fast-Fashion-Hersteller setzen stark auf Polyester, weil sich kein anderes Material so schnell verarbeiten lässt.",
+   "question": "Warum setzen Fast-Fashion-Hersteller laut Nunu Kaller so stark auf Polyester?",
+   "answer": "Kein Material lässt sich so schnell bearbeiten",
+   "distractors": [
+    "Es ist reißfester als jede Naturfaser",
+    "Es lässt sich am leichtesten recyceln",
+    "Es ist gesetzlich vorgeschrieben"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn ein Design in zwei, drei Wochen im Laden hängen soll, zählt jede Stunde. Polyester lässt sich schneller verarbeiten als alles andere, darum hängt so viel davon an den Stangen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Polyester",
+    "Fast Fashion"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 300,
+   "speaker": "Nunu Kaller",
+   "quote": "Auf der einen Seite gibt es die ökologische Säule, die wir spätestens seit dem Zusammenbruch dieser Riesenfabrik in Bangladesch, Rana Plaza, eigentlich alle kennen sollten.",
+   "quote_clean": "Auf der einen Seite gibt es die soziale Säule, die wir spätestens seit dem Zusammenbruch dieser Riesenfabrik in Bangladesch, Rana Plaza, eigentlich alle kennen sollten.",
+   "statement": "Der Einsturz der Textilfabrik Rana Plaza in Bangladesch machte die Arbeitsbedingungen in der Modeindustrie weltweit zum Titelthema.",
+   "question": "In welchem Land stürzte die Textilfabrik Rana Plaza ein?",
+   "answer": "Bangladesch",
+   "distractors": [
+    "Indien",
+    "Kambodscha",
+    "Vietnam"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Rana Plaza war eine riesige Textilfabrik in Bangladesch, ihr Einsturz schaffte es auf alle Titelseiten. Seither weiß man eigentlich, dass billige T-Shirts für die Näherinnen teils lebensgefährlich sein können.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Rana Plaza",
+    "Arbeitsbedingungen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 601,
+   "speaker": "Nunu Kaller",
+   "quote": "Ein Kaufvorgang, kaufe ich ein Schnäppchen, also finde ich etwas Billiges, was mir total taugt und wo ich mir denke, boah, super, dann stößt mir das Adrenalin durch meine Gefäße. Das ist ein Drogenkick.",
+   "quote_clean": "Kaufe ich ein Schnäppchen, finde ich also etwas Billiges, das mir total taugt, dann schießt mir das Adrenalin durch meine Gefäße. Das ist ein Drogenkick.",
+   "statement": "Ein Schnäppchenkauf löst einen Adrenalinschub aus, der Kauf eines lang ersehnten Stücks dagegen Endorphine.",
+   "question": "Welcher Stoff schießt laut Nunu Kaller beim Ergattern eines Schnäppchens durch den Körper?",
+   "answer": "Adrenalin",
+   "distractors": [
+    "Endorphine",
+    "Melatonin",
+    "Cortisol"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Schnäppchen gibt einen Adrenalinkick, das lang ersehnte Lieblingsteil eher Endorphine. Und wie bei jeder Sucht braucht man den nächsten Kick immer schneller, was die Modeindustrie eh weiß.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Konsumpsychologie",
+    "Gehirn"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1081,
+   "speaker": "Nunu Kaller",
+   "quote": "Das ökologischste Kleidungsstück ist das, das nie produziert wird. Das heißt, trage deine Kleidung so lang wie möglich, achte auf Langlebigkeit,",
+   "quote_clean": "Das ökologischste Kleidungsstück ist das, das nie produziert wird. Das heißt: Trage deine Kleidung so lang wie möglich, achte auf Langlebigkeit.",
+   "statement": "Nunu Kaller sagt, das ökologischste Kleidungsstück sei jenes, das nie produziert wird.",
+   "question": "Wer hat's gesagt: „Das ökologischste Kleidungsstück ist das, das nie produziert wird“?",
+   "answer": "Nunu Kaller",
+   "distractors": [
+    "Andreas Sator",
+    "Marie Kondo",
+    "Theodor W. Adorno"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Nunu ist es ökologisch nicht so dramatisch, ein konventionell produziertes Teil zu kaufen, solange es nicht im Mülleimer landet. Am besten ist trotzdem das Teil, das gar nicht erst gemacht wird.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Nachhaltigkeit",
+    "Kleidung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1014,
+   "speaker": "Nunu Kaller",
+   "quote": "Denn was heißt das im Endeffekt, wenn zum Beispiel der Textilschwede mir jetzt eine Jeans in Biobaumwolle verkaufen will? Dann heißt das, dass die Näherin in der gleichen Fabrik einen anderen Stoffballen vorgelegt bekommt.",
+   "quote_clean": "Was heißt das im Endeffekt, wenn der Textilschwede mir eine Jeans aus Biobaumwolle verkaufen will? Dass die Näherin in der gleichen Fabrik einen anderen Stoffballen vorgelegt bekommt.",
+   "statement": "Bei Biolinien großer Modeketten ändert sich oft nur der Stoff, die Näherin arbeitet in derselben Fabrik unter denselben Bedingungen.",
+   "question": "Warum misstraut Nunu Kaller den Biolinien großer Modeketten?",
+   "answer": "Nur der Stoff ändert sich, nicht die Fabrik",
+   "distractors": [
+    "Biobaumwolle ist schädlicher als normale",
+    "Die Linien sind meist teurer gefälscht",
+    "Sie werden nur online verkauft"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bio-Jeans klingt gut, aber wenn die Näherin in derselben Fabrik bloß einen anderen Stoffballen bekommt, ist sozial nichts gewonnen. Das ist Nunu zu wenig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Greenwashing",
+    "Fast Fashion"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1037,
+   "speaker": "Nunu Kaller",
+   "quote": "Wenn es eine internationale Lieferkette ist, also zum Beispiel das sogenannte GOTS-Siegel, das steht für, ich muss jetzt Englisch reden, Global Organic Textile Standard.",
+   "quote_clean": "Wenn es eine internationale Lieferkette ist, zum Beispiel das sogenannte GOTS-Siegel. Das steht für Global Organic Textile Standard.",
+   "statement": "GOTS steht für Global Organic Textile Standard, ein Siegel für Biobaumwollprodukte mit sozialen und ökologischen Kriterien.",
+   "question": "Wofür steht das Textilsiegel GOTS?",
+   "answer": "Global Organic Textile Standard",
+   "distractors": [
+    "Green Organic Trade System",
+    "Global Order of Textile Safety",
+    "Good Organic Textile Supply"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "GOTS ist ein Gütezeichen für Biobaumwolle, das soziale und ökologische Kriterien abklopft. Ideal ist laut Nunu die Kombi aus GOTS und Fairtrade, wenn ein Teil aus einer internationalen Lieferkette kommt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gütesiegel",
+    "Textil"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1169,
+   "speaker": "Nunu Kaller",
+   "quote": "Deswegen einem Gütezeichen, das von der Industrie ausgeht, zum Beispiel BSCI, das begegnet einem manchmal, ist nicht zu vertrauen. Weil die haben sich einfach selber die Regeln geschrieben",
+   "quote_clean": "Einem Gütezeichen, das von der Industrie ausgeht, zum Beispiel BSCI, das einem manchmal begegnet, ist nicht zu vertrauen. Die haben sich die Regeln einfach selber geschrieben.",
+   "statement": "Gütezeichen, die von der Industrie selbst ausgehen, sind laut Nunu Kaller weniger vertrauenswürdig als Siegel unabhängiger Organisationen.",
+   "question": "Welchen Gütezeichen sollte man laut Nunu Kaller eher nicht vertrauen?",
+   "answer": "Jenen, die die Industrie selbst vergibt",
+   "distractors": [
+    "Jenen von unabhängigen Organisationen",
+    "Jenen mit Fairtrade-Logo",
+    "Jenen für Biobaumwolle"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer sich die Regeln selber schreibt, besteht seine Prüfung natürlich mit Auszeichnung. Externe, unabhängige Stellen setzen strengere Standards, darum lohnt der Blick, wer hinter einem Siegel steht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gütesiegel",
+    "Konsum"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1140,
+   "speaker": "Nunu Kaller",
+   "quote": "dass vor ein paar Jahren hat sich der CEO von H&M hingestellt und hat gesagt, ich möchte ein Gütezeichen, das faire Produktion garantiert und dem sollen sich alle anschließen und nicht nur wir. Haha, das gibt es schon längst.",
+   "quote_clean": "Vor ein paar Jahren hat sich der CEO von H&M hingestellt und gesagt, er möchte ein Gütezeichen, das faire Produktion garantiert, und dem sollen sich alle anschließen. Haha, das gibt es schon längst.",
+   "statement": "Als der H&M-Chef ein Gütezeichen für faire Produktion forderte, verwies Nunu Kaller darauf, dass es mit Fairtrade längst eines gibt.",
+   "question": "Welches Siegel gibt es laut Nunu Kaller „schon längst“, als der H&M-Chef ein Gütezeichen für faire Produktion forderte?",
+   "answer": "Fairtrade",
+   "distractors": [
+    "Cradle to Cradle",
+    "BSCI",
+    "Der Blaue Engel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nunus Lieblingsbeispiel: Der H&M-Chef wünscht sich ein Fairness-Siegel für alle. Gibt's eh, heißt Fairtrade, man müsste nur einsteigen. Nur sind die Regeln dort halt strenger als selbstgeschriebene.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gütesiegel",
+    "H&M"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1515,
+   "speaker": "Nunu Kaller",
+   "quote": "In Wahrheit ist jede Kaufhandlung, die wir tätigen, eine politische Handlung.",
+   "quote_clean": "In Wahrheit ist jede Kaufhandlung, die wir tätigen, eine politische Handlung.",
+   "statement": "Nunu Kaller sieht in jedem Einkauf eine politische Handlung, nicht nur im Wählen.",
+   "question": "Wer hat's gesagt: „In Wahrheit ist jede Kaufhandlung, die wir tätigen, eine politische Handlung“?",
+   "answer": "Nunu Kaller",
+   "distractors": [
+    "Andreas Sator",
+    "Theodor W. Adorno",
+    "Marie Kondo"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wir glauben, unser politischer Beitrag ist das Kreuzerl alle paar Jahre. Für Nunu entscheiden wir mit jedem Einkauf, wohin unser Geld geht, und damit haben wir eine ziemliche Macht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Konsum",
+    "Politik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1401,
+   "speaker": "Nunu Kaller",
+   "quote": "Also das ist frei nach Adorno, es gibt kein richtiges Leben im Falschen.",
+   "quote_clean": "Das ist frei nach Adorno: Es gibt kein richtiges Leben im Falschen.",
+   "statement": "Der Satz „Es gibt kein richtiges Leben im Falschen“ stammt vom Philosophen Theodor W. Adorno.",
+   "question": "Auf welchen Philosophen geht der Satz „Es gibt kein richtiges Leben im Falschen“ zurück?",
+   "answer": "Theodor W. Adorno",
+   "distractors": [
+    "Karl Marx",
+    "Jürgen Habermas",
+    "Hannah Arendt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nunu zitiert Adorno, um zu sagen: In unserer Konsumwelt kann man es gar nicht ganz richtig machen. Wichtig ist, dass der Wunsch da ist, es besser zu machen, dann ist schon viel getan.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Philosophie",
+    "Konsum"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 880,
+   "speaker": "Nunu Kaller",
+   "quote": "Ist allerdings auch wiederum ein Symptom, dass es dort so viel Secondhand gibt, weil die Leute einfach völlig überschoppt sind und keinen Platz haben.",
+   "quote_clean": "Es ist allerdings auch ein Symptom, dass es dort so viel Secondhand gibt, weil die Leute völlig überkauft sind und keinen Platz haben.",
+   "statement": "Dass es in England und den USA so viele Secondhand-Läden gibt, ist laut Nunu Kaller auch ein Symptom von Überkonsum.",
+   "question": "Warum ist die Fülle an Secondhand-Läden in England und den USA laut Nunu Kaller nicht nur ein gutes Zeichen?",
+   "answer": "Sie zeigt, wie überkauft die Leute sind",
+   "distractors": [
+    "Sie verdrängen faire Modelabels",
+    "Dort ist Secondhand teurer als neu",
+    "Die Läden zahlen keine Steuern"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Charity-Stores in England, Secondhand-Läden in den USA wie die Schwammerl: klingt super. Aber so viel Gebrauchtes gibt's halt auch, weil die Leute so viel kaufen, dass ihnen der Platz ausgeht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Secondhand",
+    "Überkonsum"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 852,
+   "speaker": "Nunu Kaller",
+   "quote": "Ich gehe gerne in Secondhand-Läden, wobei Österreich dann auch extrem hinten nachhinkt.",
+   "quote_clean": "Ich gehe gerne in Secondhand-Läden, wobei Österreich da extrem hinterherhinkt.",
+   "statement": "Beim Angebot an Secondhand-Läden hinkt Österreich laut Nunu Kaller Ländern wie England mit seinen Charity-Stores weit hinterher.",
+   "question": "Welches Land nennt Nunu Kaller als Vorbild mit seinen Charity-Stores für Secondhand?",
+   "answer": "England",
+   "distractors": [
+    "Österreich",
+    "Italien",
+    "Schweiz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In England gibt's an jeder Ecke einen Charity-Store, in Österreich muss man eher suchen. Nunu findet, da sind wir von anderen Ländern noch weit entfernt.",
+   "difficulty": 1,
+   "time_sensitive": true,
+   "tags": [
+    "Secondhand",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 217,
+   "speaker": "Nunu Kaller",
+   "quote": "Und ich habe dann festgestellt, ich habe 33 Jacken und Mäntel gehabt zum Beispiel.",
+   "quote_clean": "Ich habe dann festgestellt, dass ich zum Beispiel 33 Jacken und Mäntel hatte.",
+   "statement": "Als Nunu Kaller ihren Kleiderschrank durchzählte, kam sie auf 33 Jacken und Mäntel.",
+   "question": "Wie viele Jacken und Mäntel fand Nunu Kaller beim Durchzählen ihres Kleiderschranks?",
+   "answer": "33",
+   "distractors": [
+    "12",
+    "21",
+    "48"
+   ],
+   "number_value": 33,
+   "number_unit": "Jacken und Mäntel",
+   "slider_min": 0,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Jeansjacke, Lederjacke, Regenjacke, Winterjacke und alles noch in einer anderen Farbe: So kommt man auf 33 Stück. Im Freundinnenkreis war sie damit übrigens eh nur Durchschnitt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Kleiderschrank",
+    "Konsum"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 681,
+   "speaker": "Nunu Kaller",
+   "quote": "Und ich mir dann gedacht habe, ich habe 2000 Leser täglich und ich bin ehrlich. Das heißt, wenn ich dann shoppen gehe, dann sage ich das denen auch.",
+   "quote_clean": "Ich habe mir dann gedacht: Ich habe 2000 Leser täglich und ich bin ehrlich. Wenn ich dann shoppen gehe, sage ich das denen auch.",
+   "statement": "Während ihres Shopping-Boykotts hatte Nunu Kallers Blog rund 2000 Leser:innen täglich, was sie bei der Stange hielt.",
+   "question": "Wie viele Leser:innen hatte Nunu Kallers Blog während ihres Shopping-Boykotts täglich?",
+   "answer": "2000",
+   "distractors": [
+    "200",
+    "500",
+    "20.000"
+   ],
+   "number_value": 2000,
+   "number_unit": "Leser täglich",
+   "slider_min": 50,
+   "slider_max": 50000,
+   "log_scale": true,
+   "aha": "Öffentlicher Druck als Motivationstrick: Bei 2000 Leuten täglich, denen sie alles ehrlich erzählt, wäre ein Rückfall einfach zu peinlich gewesen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Blog",
+    "Shopping-Boykott"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 910,
+   "speaker": "Nunu Kaller",
+   "quote": "Und ich habe mir vor zehn Jahren, wie ich ihn besuche, eine Jeansjacke gekauft. Und diese Jeansjacke hatte in den letzten Monaten wirklich schon mehr Löcher als Stoff.",
+   "quote_clean": "Ich habe mir vor zehn Jahren, als ich ihn besucht habe, eine Jeansjacke gekauft. Und diese Jeansjacke hatte in den letzten Monaten wirklich schon mehr Löcher als Stoff.",
+   "statement": "Nunu Kaller trug eine in New York gekaufte Jeansjacke zehn Jahre lang, bis sie mehr Löcher als Stoff hatte.",
+   "question": "Wie viele Jahre trug Nunu Kaller ihre New Yorker Jeansjacke, bis sie zerfiel?",
+   "answer": "10 Jahre",
+   "distractors": [
+    "3 Jahre",
+    "6 Jahre",
+    "15 Jahre"
+   ],
+   "number_value": 10,
+   "number_unit": "Jahre",
+   "slider_min": 0,
+   "slider_max": 25,
+   "log_scale": false,
+   "aha": "Zehn Jahre, bis mehr Loch als Stoff war. Dann hing im selben Laden genau dieselbe Jacke, und die musste einfach sein. Wer ein Teil so lang trägt, gibt ihm halt einen Wert.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Langlebigkeit",
+    "Kleidung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 71,
+   "speaker": "Andreas Sator",
+   "quote": "Nuno, bevor wir loslegen, stell dich bitte kurz vor.",
+   "quote_clean": "Nunu, bevor wir loslegen, stell dich bitte kurz vor.",
+   "statement": "Andreas beginnt seine Gespräche typischerweise mit der Bitte an den Gast, sich kurz vorzustellen.",
+   "question": "Womit startet Andreas typischerweise ins Gespräch mit seinem Gast?",
+   "answer": "Er bittet ihn, sich kurz vorzustellen",
+   "distractors": [
+    "Er fragt nach dem Lieblingsbuch",
+    "Er erzählt einen Witz",
+    "Er fragt nach der Kindheit"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bevor es ins Thema geht, darf sich der Gast erst einmal selbst vorstellen. Bei Nunu: Wienerin, ehemals Journalistin, Konsumentensprecherin bei Greenpeace.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Podcast",
+    "Einstieg"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1674,
+   "speaker": "Andreas Sator",
+   "quote": "Ich zum Beispiel finde es wichtig, dass die Produktion in ärmeren Ländern wie zum Beispiel in Bangladesch, in Südasien stattfindet, weil Industrie einfach extrem wichtig ist, damit Länder aus der Armut kommen.",
+   "quote_clean": "Ich finde es wichtig, dass die Produktion in ärmeren Ländern wie Bangladesch in Südasien stattfindet, weil Industrie extrem wichtig ist, damit Länder aus der Armut kommen.",
+   "statement": "Andreas Sator hält Textilproduktion in ärmeren Ländern wie Bangladesch für wichtig, weil Industrie Ländern hilft, aus der Armut zu kommen.",
+   "question": "Warum kauft Andreas Sator gerne Kleidung, die in ärmeren Ländern wie Bangladesch produziert wurde?",
+   "answer": "Industrie hilft Ländern aus der Armut",
+   "distractors": [
+    "Sie ist dort immer fair zertifiziert",
+    "Der Transport ist dort am kürzesten",
+    "Dort wächst die beste Baumwolle"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas sieht es aus der Entwicklungsbrille: Eine Industrie zu haben ist quasi das 101 der Entwicklung. Darum ist für ihn Kleidung aus Bangladesch nicht automatisch die schlechtere Wahl.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Entwicklung",
+    "Armut"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1273,
+   "speaker": "Andreas Sator",
+   "quote": "Aber das ist eine App vom Deutschen Entwicklungsministerium. Und mir ist beim Einkaufen aufgefallen, es gibt so viele Zertifikate.",
+   "quote_clean": "Das ist eine App vom deutschen Entwicklungsministerium. Und mir ist beim Einkaufen aufgefallen, es gibt so viele Zertifikate.",
+   "statement": "Die App Siegelklarheit, die Gütesiegel erklärt, stammt vom deutschen Entwicklungsministerium.",
+   "question": "Wer steckt hinter der App Siegelklarheit, die Gütesiegel erklärt?",
+   "answer": "Das deutsche Entwicklungsministerium",
+   "distractors": [
+    "Greenpeace Österreich",
+    "Die Clean-Clothes-Kampagne",
+    "Die EU-Kommission"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei der Flut an Zertifikaten verliert man schnell den Überblick, auf einem Orangensaft pickt ja schon ein halbes Dutzend. Die App Siegelklarheit aus dem deutschen Entwicklungsministerium will da helfen.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Gütesiegel",
+    "App"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1198,
+   "speaker": "Nunu Kaller",
+   "quote": "andererseits von der Clean-Close-Kampagne, die sich das aus sozialer Sicht anschauen.",
+   "quote_clean": "Andererseits von der Clean-Clothes-Kampagne, die sich das aus sozialer Sicht anschauen.",
+   "statement": "Rankings zu Textilien gibt es von Greenpeace aus ökologischer und von der Clean-Clothes-Kampagne aus sozialer Sicht.",
+   "question": "Aus welcher Sicht bewertet die Clean-Clothes-Kampagne Textilien und Gütezeichen?",
+   "answer": "Aus sozialer Sicht",
+   "distractors": [
+    "Aus ökologischer Sicht",
+    "Aus modischer Sicht",
+    "Aus wirtschaftlicher Sicht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Greenpeace schaut auf die Umwelt, die Clean-Clothes-Kampagne auf die Menschen in den Fabriken. Manchmal decken sich die Urteile, manchmal nicht, weil die Lieferkette so intransparent ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gütesiegel",
+    "Arbeitsbedingungen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "45",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

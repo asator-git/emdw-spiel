@@ -1,0 +1,284 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "190.000 belegt (599) und stimmig; aha nannte Herkunftsgruppen (Spanier, Ukrainerinnen, Griechen), die im Ausschnitt nicht stehen, ersetzt.",
+   "stand_note": "",
+   "statement": "Insgesamt wurden etwa 190.000 Menschen in das KZ Mauthausen gebracht.",
+   "question": "Wie viele Menschen wurden insgesamt in das KZ Mauthausen gebracht?",
+   "answer": "Etwa 190.000",
+   "distractors": [
+    "Etwa 20.000",
+    "Etwa 60.000",
+    "Etwa 600.000"
+   ],
+   "aha": "Bis Ende 1939 war Mauthausen noch ein kleines Lager mit vielleicht 1.000 Häftlingen. Mit Kriegsbeginn und jedem eroberten Gebiet kamen immer mehr Menschen dazu, bis es insgesamt etwa 190.000 waren.",
+   "quote_clean": "Wir reden insgesamt von etwa 190.000 Menschen, die nach Mauthausen gebracht worden sind.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (1221-1241), Zahl stimmt mit dem Forschungsstand überein, aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Von den rund 190.000 Häftlingen des KZ Mauthausen haben etwa 90.000 nicht überlebt.",
+   "question": "Von rund 190.000 Häftlingen in Mauthausen: Wie viele haben das Lager nicht überlebt?",
+   "answer": "Etwa 90.000",
+   "distractors": [
+    "Etwa 30.000",
+    "Etwa 60.000",
+    "Etwa 150.000"
+   ],
+   "aha": "Fast jeder Zweite. Manche wurden direkt ermordet, andere starben an Schlägen, Hunger und Krankheiten – Zustände, die die SS bewusst herbeigeführt hat.",
+   "quote_clean": "Die neuesten Zahlen gehen davon aus, dass etwa 90.000 der 190.000 das Lager nicht überlebt haben.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Aussage belegt (675), aber als Einschätzung des Gastes gerahmt; nicht belegte Details im aha (griechische Schwesternpaare) entfernt.",
+   "stand_note": "",
+   "statement": "Laut Alexander Prenninger war das KZ Mauthausen bis 1944 ein reines Männerlager.",
+   "question": "Bis zu welchem Jahr war das KZ Mauthausen laut Alexander Prenninger ein reines Männerlager?",
+   "answer": "Bis 1944",
+   "distractors": [
+    "Bis 1939",
+    "Bis 1941",
+    "Bis Kriegsende 1945"
+   ],
+   "aha": "Die Häftlinge in Mauthausen waren anfangs vor allem deutsche und österreichische Männer. Später kamen mit jedem eroberten Gebiet Menschen aus ganz Europa dazu, und erst ab 1944 auch Frauen.",
+   "quote_clean": "Mauthausen war bis 1944 ein reines Männerlager.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Zahl belegt (2515-2521); aha mit Übertreibung („halb Österreich“) korrigiert.",
+   "stand_note": "",
+   "statement": "Zum KZ Mauthausen gehörten ab 1941 nach und nach an die 50 Außenlager.",
+   "question": "Wie viele Außenlager hatte das KZ Mauthausen ungefähr?",
+   "answer": "An die 50",
+   "distractors": [
+    "Etwa 5",
+    "Etwa 15",
+    "Über 150"
+   ],
+   "aha": "Mauthausen war nicht ein einzelner Ort, sondern ein Netz aus Lagern, unter anderem in Ebensee, Melk, Floridsdorf und der Seegrotte, wo Menschen unterirdisch beim Bau von Tunnelanlagen arbeiten mussten. Die Lebensbedingungen dort konnten sehr unterschiedlich sein.",
+   "quote_clean": "Ab 1941, vor allem 1942 und 1943 gab es sehr viele Außenlager, insgesamt etwa an die 50.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "transkription",
+    "beleg"
+   ],
+   "note": "Belegt (319-330); „Siegelfabriken“ ist Ziegelfabriken; aha behauptete Verwendung des Granits als Tatsache, im Ausschnitt nur Plan und Bedarf.",
+   "stand_note": "",
+   "statement": "Das KZ Mauthausen wurde wegen der Granitsteinbrüche errichtet: Die SS wollte den Granit abbauen und gewinnbringend verkaufen.",
+   "question": "Warum hat die SS das Konzentrationslager gerade in Mauthausen gebaut?",
+   "answer": "Wegen der Granitsteinbrüche",
+   "distractors": [
+    "Wegen der Nähe zur Grenze",
+    "Wegen einer alten Kaserne dort",
+    "Wegen der Abgelegenheit im Wald"
+   ],
+   "aha": "Die SS war damals auch ein Wirtschaftskonzern mit Steinbrüchen und Ziegelfabriken. Der Granit sollte unter anderem für den Straßenbau und die geplanten Führerbauten verkauft werden – Terror und Profit am selben Ort.",
+   "quote_clean": "Die SS war ein großer Konzern, der Steinbrüche und Ziegelfabriken betrieb, und die Steinbrüche in Mauthausen waren auch der Grund, warum das KZ dort errichtet wurde. Man wollte den Granit abbauen und verkaufen, zum Beispiel für den Straßenbau.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Distraktoren (Fahrschein, Steuern, rote Ampel) sind nicht eindeutig falsch, da laut Gast fast jeder unter die Kategorie fallen konnte; Frage mit Auslassung unklar.",
+   "stand_note": "",
+   "statement": "Als „asozial“ konnten die Nazis fast jeden ins KZ bringen – sogar Männer, die keine Alimente für ihre Kinder zahlten.",
+   "question": "Wer konnte in der NS-Zeit als „asozial“ ins KZ kommen – sogar…?",
+   "answer": "Männer, die keine Alimente zahlten",
+   "distractors": [
+    "Leute, die Steuern zu spät zahlten",
+    "Wer ohne Fahrschein fuhr",
+    "Wer bei Rot über die Straße ging"
+   ],
+   "aha": "Ab 1936, 1937 waren KZs nicht mehr nur für politische Gegner da. Arbeitslose, Alkoholkranke, säumige Väter – die Kategorie war so dehnbar, dass fast jeder hineinpasste. Und ihre Arbeitskraft wollte man auch ausnützen.",
+   "quote_clean": "Das heißt Menschen, die nicht in Arbeit waren, Alkoholiker, Drogenabhängige. Aber das geht so weit bis zu Männern, die keine Alimente für ihre Kinder zahlen. Unter diese Kategorien konnte eigentlich fast jeder fallen.",
+   "quality": 2
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Belegt (1112-1130); Deutung über Andreas' Haltung und Lärm-Motiv im aha war nicht belegt, ersetzt.",
+   "stand_note": "",
+   "statement": "Eine Bäuerin neben dem Steinbruch von Mauthausen beschwerte sich schriftlich über die Folter – aber nicht, damit sie aufhört, sondern damit sie woanders passiert, wo sie es nicht hören muss.",
+   "question": "Eine Bäuerin neben dem Mauthausener Steinbruch schrieb an die Lagerverwaltung. Worum bat sie?",
+   "answer": "Die Folter woanders zu machen",
+   "distractors": [
+    "Die Folter sofort zu beenden",
+    "Ihr Häftlinge als Erntehelfer zu geben",
+    "Den Steinbruch zu verlegen"
+   ],
+   "aha": "Der Brief ist ein bekanntes Beispiel dafür, dass man in der Umgebung sehr wohl wusste, was im Lager passierte: Die Bäuerin hörte die Schreie der Häftlinge. Sie bat nicht darum, dass es aufhört – sondern dass es woanders geschieht.",
+   "quote_clean": "Es gibt einen bekannten Brief einer Bäuerin, die gegenüber dem Steinbruch ihren Hof hatte und sich beschwert, dass die Häftlinge im Steinbruch schwerst geschlagen und gefoltert werden und sie diese Schreie nicht mehr hören kann. Aber sie bittet die Lagerverwaltung nicht, dass das aufhört.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Definition belegt (393-400, „Konservationslager“ ist Konzentrationslager); aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "„Schutzhaft“ bedeutete in der NS-Zeit, dass Menschen ohne Urteil und ohne Straftat in ein KZ gebracht wurden.",
+   "question": "Was bedeutete „Schutzhaft“ in der NS-Zeit?",
+   "answer": "KZ-Haft ohne Urteil und Straftat",
+   "distractors": [
+    "Schutz vor Angriffen durch die Polizei",
+    "Haft nur bis zum Gerichtstermin",
+    "Hausarrest unter Aufsicht"
+   ],
+   "aha": "Das Wort klingt fürsorglich, gemeint war das Gegenteil. Gleich nach dem Anschluss 1938 traf es Anhänger des Ständestaats, Sozialdemokraten, Kommunisten – alle, die das Regime für gefährlich hielt.",
+   "quote_clean": "Das ist ein Instrument, das bedeutet, dass Menschen ohne Urteil und ohne eine Straftat begangen zu haben in ein Konzentrationslager gebracht werden.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (1995-2021); Unterscheidung organisieren/stehlen korrekt wiedergegeben, Distraktor ist fair.",
+   "stand_note": "",
+   "statement": "In der Lagersprache hieß „organisieren“, der SS etwas wegzunehmen – „stehlen“ dagegen hieß, einem Mithäftling etwas wegzunehmen, und das war verpönt.",
+   "question": "Was bedeutete „organisieren“ in der Sprache der KZ-Häftlinge?",
+   "answer": "Der SS etwas stehlen",
+   "distractors": [
+    "Einem Mithäftling etwas stehlen",
+    "Einen Aufstand planen",
+    "Sich zur Arbeit melden"
+   ],
+   "aha": "Dasselbe Tun, zwei Wörter und eine klare Moral: Der SS etwas abzuzwacken galt als Überleben, einem Kameraden etwas wegzunehmen wurde moralisch streng geahndet, zum Teil sogar von den Häftlingen selbst bestraft.",
+   "quote_clean": "Organisieren heißt im Prinzip stehlen, aber das unterscheiden die Überlebenden sehr stark. Organisieren heißt, Lebensmittel, Kleidung oder was immer notwendig war, aus den Lagern der SS zu stehlen. Stehlen bedeutet bei den Überlebenden, dass man einem anderen Häftling etwas wegnimmt.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt (3448-3497); Distraktor „Häftlinge, die beteten“ war zu nah an der Herkunftserklärung, ersetzt.",
+   "stand_note": "",
+   "statement": "„Muselmann“ hießen in der Lagersprache völlig entkräftete, apathische Häftlinge – vermutlich, weil ihre Bewegungen an das Gebet von Muslimen erinnerten.",
+   "question": "Wen nannte man in der KZ-Lagersprache „Muselmann“?",
+   "answer": "Völlig entkräftete, apathische Häftlinge",
+   "distractors": [
+    "Häftlinge aus der Türkei",
+    "Besonders brutale Kapos",
+    "Häftlinge muslimischen Glaubens"
+   ],
+   "aha": "Woher der Begriff genau kommt, ist nicht ganz klar – er gehört zum Slang des Lagers, der sich aus vielen Sprachen speiste. Eine Erklärung ist, dass die Bewegungen der Geschwächten an das Beten von Muslimen erinnerten. Gemeint waren Menschen an der Schwelle zum Tod; die meisten von ihnen starben.",
+   "quote_clean": "Muselmann bedeutet möglicherweise, dass diese extrem geschwächten, sehr apathischen Häftlinge eine Art Körperbewegungen gemacht haben, die an das Beten von Muslimen erinnern.",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Zitat belegt (2780-2788); Zweiergespanne und Landsleute stehen nicht im Ausschnitt, nur kleine Gruppen.",
+   "stand_note": "",
+   "statement": "Im KZ überlebte man allein kaum; wichtig waren kleine Gruppen, die sich gegenseitig halfen.",
+   "question": "Welche Figur hatte laut Forschung im KZ besonders schlechte Überlebenschancen?",
+   "answer": "Der einsame Wolf ohne Kontakte",
+   "distractors": [
+    "Wer in einer kleinen Gruppe war",
+    "Wer Kontakte zu einem Funktionshäftling hatte",
+    "Wer im Arbeitskommando Unterstützung fand"
+   ],
+   "aha": "Eine große internationale Solidarität aller Häftlinge gab es kaum. Eher bildeten sich kleine Gruppen, etwa in den Arbeitskommandos, die sich unterstützten – und manchmal half ein Funktionshäftling, der das Leben ein wenig erleichterte.",
+   "quote_clean": "Es gibt sehr frühe Untersuchungen, die zeigen, dass es alleine sehr schwierig war zu überleben. Der einsame Wolf, der keine Kontakte hatte, ist eine Figur, die eher schwer überlebt hat.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt (3566-3633); aha als Aussage „mancher“ Überlebender gerahmt.",
+   "stand_note": "",
+   "statement": "Gedichte rezitieren, die Kleidung in Ordnung halten oder das Nummernarmband verzieren waren für KZ-Häftlinge kleine Versuche, Mensch zu bleiben.",
+   "question": "Wofür waren gepflegte Kleidung oder verzierte Nummernarmbänder im KZ laut Alexander Prenninger kleine Versuche?",
+   "answer": "Um Mensch zu bleiben",
+   "distractors": [
+    "Um der SS zu gefallen",
+    "Um sie zu verkaufen",
+    "Um Fluchtpläne zu tarnen"
+   ],
+   "aha": "Manche Überlebende berichten, dass ordentliches Aussehen ihnen Respekt eingebracht hat und sie weniger auffielen. Vor allem ging es aber um die eigene Psyche: sich nicht zum Unmenschen machen zu lassen, als den die SS sie sah.",
+   "quote_clean": "Solche Dinge waren kleine Versuche, eben nicht der Unmensch zu sein, als den die SS einen gesehen hat, sondern Mensch zu bleiben.",
+   "quality": 4
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (5381-5416), harmlos, aber als Spielfrage wenig faktenreich.",
+   "stand_note": "",
+   "statement": "Andreas bittet seine Gäste am Ende immer, ein klassisches Medium vor den Vorhang zu holen; Alexander Prenninger nennt die Zeit.",
+   "question": "Welche Zeitung holt Alexander Prenninger bei Andreas' Abschlussfrage vor den Vorhang?",
+   "answer": "Die Zeit",
+   "distractors": [
+    "Der Standard",
+    "Die Presse",
+    "Der Falter"
+   ],
+   "aha": "Er hat sie abonniert, seit er zu studieren begonnen hat. Am liebsten liest er sie an einem Sonntagvormittag beim Kaffee, wenn er sich durch die Riesenblätter wühlt.",
+   "quote_clean": "Am Ende bitte ich meine Gäste immer, ein klassisches Medium vor den Vorhang zu holen, mit dem sie sich gerne über die Welt informieren.",
+   "quality": 2
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Förster belegt (3149-3158); Kochrezepte im aha nicht im Ausschnitt, entfernt.",
+   "stand_note": "",
+   "statement": "Ein Mauthausen-Überlebender, der im Lager zur Waldarbeit eingeteilt war, wurde nach der Befreiung Förster.",
+   "question": "Ein Häftling war in Mauthausen zur Waldarbeit eingeteilt. Was wurde er nach der Befreiung?",
+   "answer": "Förster",
+   "distractors": [
+    "Tischler",
+    "Bergführer",
+    "Landwirt"
+   ],
+   "aha": "Im Wald war es ruhig, weit weg von Zäunen und Schreien. So unglaublich es klingt: Auch im KZ gab es für manche schöne Momente – Spaziergänge am Sonntag oder das Treffen mit Kameraden zwischen den Baracken.",
+   "quote_clean": "Und er erzählt von einem Überlebenden, der im Wald eingesetzt war. Dem hat die Arbeit Freude gemacht, und er ist nach der Befreiung auch Förster geworden.",
+   "quality": 4
+  }
+ ],
+ "id": "345",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

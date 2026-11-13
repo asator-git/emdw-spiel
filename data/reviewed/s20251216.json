@@ -1,0 +1,296 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 107 s: Nehammer kündigte Anfang Jänner 2025 per Video auf X seinen Rücktritt an; Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Karl Nehammer verkündete Anfang Jänner 2025 seinen Rücktritt als Kanzler und ÖVP-Chef per Video auf der Plattform X.",
+   "question": "Über welchen Kanal gab Karl Nehammer Anfang 2025 seinen Rücktritt bekannt?",
+   "answer": "Per Video auf X",
+   "distractors": [
+    "In einer Pressekonferenz",
+    "In der ZIB 2",
+    "Per Brief an den Bundespräsidenten"
+   ],
+   "aha": "Mitten in den Weihnachtsferien platzten die Koalitionsverhandlungen von ÖVP, SPÖ und NEOS, und der Kanzler meldete sich ausgerechnet auf Elon Musks Plattform X ab. Mit Herbert Kickl wollte er nicht koalieren. Corinna Milborn kam danach tagelang nicht mehr aus dem Studio.",
+   "quote_clean": "Nehammer schickt über X, of all places, ein Video raus, dass er zurücktritt, weil er nicht zur Verfügung steht für eine Koalition mit Kickl.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "Spitzname 'Buddha' bei 637 s und 3818 s belegt; die erfundene Begründung (stoische Ruhe) im aha entfernt.",
+   "stand_note": "Stand 2025",
+   "statement": "Christian Stocker sprang nur interimistisch als ÖVP-Chef ein und wurde so Bundeskanzler, was Corinna Milborn die erstaunlichste Art nennt, in Österreich Kanzler zu werden.",
+   "question": "Welchen Spitznamen hat Bundeskanzler Christian Stocker laut der Folge?",
+   "answer": "Der Buddha",
+   "distractors": [
+    "Der Notar",
+    "Der Interimist",
+    "Der Neustädter"
+   ],
+   "aha": "Stocker ist eigentlich nur interimistisch als ÖVP-Chef eingesprungen, um die Koalitionsverhandlungen zu führen, und dann einfach geblieben. Corinna nennt es die erstaunlichste Weise, Bundeskanzler zu werden – und manche sprechen vom „Buddha Christian Stocker“.",
+   "quote_clean": "Der ist einfach dageblieben. Jetzt ist er immer noch da. Man nennt ihn den Buddha Christian Stocker. Wird, glaube ich, einfach auch nicht mehr weggehen. Eigentlich die erstaunlichste Weise, Bundeskanzler zu werden, in der Geschichte dieses Landes.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Klenks Vereinfachung ('keine Mandate gewandert') stimmt so nicht (ÖVP-Absolute 1966, SPÖ-Absolute ab 1971); Jahresfrage daher nicht eindeutig.",
+   "stand_note": "",
+   "statement": "Bis 1986 wählten die Österreicher:innen fast unverändert SPÖ oder ÖVP, kaum ein Mandat wanderte von Wahl zu Wahl.",
+   "question": "Bis zu welchem Jahr blieb das österreichische Wahlverhalten zwischen SPÖ und ÖVP fast unverändert?",
+   "answer": "1986",
+   "distractors": [
+    "1966",
+    "1975",
+    "1995"
+   ],
+   "aha": "Jahrzehntelang war Wählen in Österreich fast eine Erbsache: rot oder schwarz, und dabei blieb's. 1986 kam dann Haider an die FPÖ-Spitze und die Grünen zogen ins Parlament ein. Heute ist das Wahlvolk laut Florian so mobil wie nie.",
+   "quote_clean": "Bis in die 80er-Jahre haben die Leute immer das Gleiche gewählt. 50 Prozent SPÖ, 50 Prozent ÖVP, das hat sich eigentlich bis 86 fast nicht verändert. Es sind überhaupt keine Mandate gewandert.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "16 Prozent bei 792 s belegt und stimmt (NR-Wahl 2019: 16,2 %); Slider 0-50 sinnvoll.",
+   "stand_note": "",
+   "statement": "Nach dem Ibiza-Skandal kam die FPÖ bei der Nationalratswahl 2019 nur auf rund 16 Prozent, 2025 liegt sie in Umfragen bei über 35 Prozent.",
+   "question": "Wie viel Prozent erreichte die FPÖ bei der Wahl nach dem Ibiza-Skandal?",
+   "answer": "Rund 16 Prozent",
+   "distractors": [
+    "Rund 9 Prozent",
+    "Rund 22 Prozent",
+    "Rund 26 Prozent"
+   ],
+   "number_value": 16,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 50,
+   "aha": "2019, kurz nach dem Ibiza-Video, ist die FPÖ auf rund 16 Prozent abgestürzt. Fünf Jahre später wurde sie bei der Nationalratswahl Erste, und in den Umfragen Ende 2025 lag sie bei etwa 37. Für Florian Klenk ein Beleg, wie schnell Wähler:innen heute umschlagen.",
+   "quote_clean": "Die FPÖ hat nach dem Ibiza-Skandal 16 Prozent gehabt, ist auf 27 Prozent explodiert und steht jetzt in den Umfragen bei 37.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Fakt stimmt (2017 raus, 2019 Wiedereinzug, 2020 Regierung); Frage war unscharf, da zwischen 2017 und 2020 mehr passierte als der Regierungseintritt.",
+   "stand_note": "",
+   "statement": "Die Grünen flogen 2017 aus dem Nationalrat und zogen bei der nächsten Wahl mit Werner Kogler wieder ein und saßen danach in der Regierung.",
+   "question": "Was gelang den Grünen nach ihrem Rauswurf aus dem Nationalrat 2017 bei der nächsten Wahl?",
+   "answer": "Sie zogen wieder ein und kamen in die Regierung",
+   "distractors": [
+    "Sie schafften nur knapp den Einzug in den Landtag",
+    "Sie fusionierten mit den NEOS im Nationalrat",
+    "Sie blieben auch danach im Parlament draußen"
+   ],
+   "aha": "2017 scheiterten die Grünen an der Vier-Prozent-Hürde und waren raus. Nur zwei Jahre später feierten sie mit Werner Kogler einen furiosen Wiedereinzug und regierten ab 2020 mit der ÖVP. Florian Klenk sagt: Das hat man schon wieder vergessen.",
+   "quote_clean": "Die Grünen sind einmal aus dem Parlament geflogen, man hat schon wieder vergessen, dass die aus dem Parlament draußen waren, und dann auf einmal mit Werner Kogler",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Beleg bei 949 s ok; Umfragewert ist Stand Dezember 2025, im aha Namen/Details auf Belegtes begrenzt.",
+   "stand_note": "Stand 2025",
+   "statement": "Die SPÖ, die unter Bruno Kreisky absolute Mehrheiten hatte, lag Ende 2025 in Umfragen unter 20 Prozent.",
+   "question": "Welche Partei hatte in Österreich einmal absolute Mehrheiten, lag Ende 2025 in Umfragen aber unter 20 Prozent?",
+   "answer": "Die SPÖ",
+   "distractors": [
+    "Die FPÖ",
+    "Die Grünen",
+    "Die NEOS"
+   ],
+   "aha": "Unter Kreisky holte die SPÖ in den 70ern dreimal hintereinander die absolute Mehrheit. Ende 2025 lag sie in Umfragen unter 20 Prozent. Florian Klenk fragt sich, ob sie sich künftig am pragmatischen Finanzminister orientiert.",
+   "quote_clean": "Die große Frage wird sein, ob die SPÖ, die jetzt gerade in den Umfragen sehr schlecht steht, unter 20 Prozent – man muss sich vorstellen, die SPÖ hatte mal absolute Mehrheiten in Österreich",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1231-1259 s; vereinfachte, aber korrekte Darstellung der Schuldenumwälzung.",
+   "stand_note": "",
+   "statement": "Staaten tilgen ihre Schulden meist nicht endgültig, sondern ersetzen auslaufende Anleihen laufend durch neue, weshalb steigende Zinsen ein hohes Defizit schnell teurer machen.",
+   "question": "Was machen Staaten normalerweise, wenn eine Anleihe nach 10 oder 20 Jahren fällig wird?",
+   "answer": "Sie nehmen neue Schulden auf",
+   "distractors": [
+    "Sie zahlen alles aus Steuern",
+    "Sie verlängern zinsfrei",
+    "Die EU übernimmt die Rückzahlung"
+   ],
+   "aha": "Staatsschulden werden quasi immer weitergewälzt: Alte Anleihen laufen aus, neue werden aufgenommen. Steigen dann die Zinsen, weil die Bonität sinkt, wird es bei einem großen Defizit richtig teuer. Darum war Sparen für die Regierung von Anfang an so ein großes Thema.",
+   "quote_clean": "Man muss sich das so vorstellen: Staaten zahlen Schulden ja nie zurück, sondern die nehmen Geld auf für 10 Jahre, für 20 Jahre, und dann nach dieser Frist müssen sie das zurückzahlen und Neues aufnehmen.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 1372-1378 s; im aha unbelegtes 'Steuern kommen zurück' entfernt.",
+   "stand_note": "",
+   "statement": "Der Multiplikatoreffekt beschreibt, dass eine staatliche Investition wie eine Bahntrasse auch Zulieferer wie Stahlwerke und sogar den Bäcker der Bauarbeiter mitverdienen lässt.",
+   "question": "Wie heißt der Effekt, wenn ein investierter Staatseuro über Zulieferer und Beschäftigte mehrfach in der Wirtschaft wirkt?",
+   "answer": "Multiplikatoreffekt",
+   "distractors": [
+    "Mitnahmeeffekt",
+    "Crowding-out-Effekt",
+    "Trickle-down-Effekt"
+   ],
+   "aha": "Wer eine Bahntrasse baut, bezahlt nicht nur die Baufirma. Auch das Stahlwerk für die Schienen und der Bäcker, der den Arbeitern das Brot backt, verdienen mit. Ökonom:innen nennen das den Multiplikatoreffekt. Deshalb sagt Florian Klenk, der Staat solle in der Krise nicht alle Investitionen abwürgen.",
+   "quote_clean": "Das heißt, wenn ich eine Bahntrasse baue, dann beauftrage ich ja nicht nur die Firma, das zu bauen, sondern dann auch das Stahlwerk, das die Schienen baut, und den Bäcker, der das Brot backt für die Arbeiter, die dort sind.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1402-1412 s; klar als Position von Klenk markiert.",
+   "stand_note": "",
+   "statement": "Florian Klenk hält das Bild vom Staat, der sparen müsse wie die schwäbische Hausfrau, für falsch.",
+   "question": "Welche Figur steht laut Florian Klenk für das konservative Spar-Mantra, das er für ein falsches Bild hält?",
+   "answer": "Die schwäbische Hausfrau",
+   "distractors": [
+    "Der sparsame Schotte",
+    "Die Wiener Hausmeisterin",
+    "Der Tiroler Bergbauer"
+   ],
+   "aha": "Die schwäbische Hausfrau, die nie mehr ausgibt, als sie hat, ist ein Klassiker der Sparpolitik. Florian Klenk findet, der Staat sei weder Familie noch Unternehmen: Er solle investieren, aber in sinnvolle Projekte.",
+   "quote_clean": "Das Mantra, das sehr viele konservative Parteien haben, ist: Du musst sparen wie die sprichwörtliche schwäbische Hausfrau. Der Staat wird gesehen wie eine Familie, die jetzt einmal sparen muss. Und dieses Bild ist aber falsch.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "27 Jahre bei 2126 s belegt und stimmt (Urteil Sept. 2025, 27 Jahre 3 Monate); das aha ('nicht lang gefackelt', Sturm statt Putschplan) war ungenau.",
+   "stand_note": "Stand 2025",
+   "statement": "Brasiliens Ex-Präsident Jair Bolsonaro wurde 2025 wegen eines Putschversuchs zu 27 Jahren Haft verurteilt.",
+   "question": "Zu wie vielen Jahren Haft wurde Brasiliens Ex-Präsident Jair Bolsonaro 2025 verurteilt?",
+   "answer": "27 Jahre",
+   "distractors": [
+    "8 Jahre",
+    "15 Jahre",
+    "40 Jahre"
+   ],
+   "number_value": 27,
+   "number_unit": "Jahre",
+   "slider_min": 0,
+   "slider_max": 80,
+   "aha": "Das Höchstgericht in Brasilien hat Bolsonaro 2025 wegen eines Putschversuchs zu 27 Jahren Haft verurteilt, das Urteil fiel nach dem Sturm auf die Regierungsgebäude in Brasília im Jahr 2023. Corinna Milborn sieht darin ein Beispiel für eine wehrhafte Demokratie.",
+   "quote_clean": "Und die Brasilianer haben Herrn Bolsonaro, der immerhin Regierungschef war, 27 Jahre Haft verpasst. Der wird jetzt eingesperrt.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg bei 2232 s; der Postvergleich ist Corinnas Erklärung, daher Frage entsprechend präzisiert, aha auf Belegtes begrenzt.",
+   "stand_note": "",
+   "statement": "Corinna Milborn erklärt das Plattformprivileg, nach dem soziale Netzwerke nicht für Inhalte haften, mit dem Vergleich zur Post, die ja auch nicht für den Inhalt von Briefen verantwortlich ist.",
+   "question": "Mit welchem Vergleich erklärt Corinna Milborn, warum soziale Plattformen das Plattformprivileg bekamen?",
+   "answer": "Mit der Post",
+   "distractors": [
+    "Mit einem Telefonbuch",
+    "Mit einer Bibliothek",
+    "Mit einem Zeitungskiosk"
+   ],
+   "aha": "Eine Zeitung haftet für das, was drinsteht. Plattformen nicht, weil man sie früher mit der Post verglichen hat, die ja auch nicht für den Inhalt eines Briefs verantwortlich ist. Corinna Milborn meint: Heute stellen Algorithmen die Inhalte zusammen wie eine Redaktion, also seien Plattformen Medienprodukte.",
+   "quote_clean": "Das kommt aus einer Zeit, als die keine Medienprodukte gemacht haben. Da hat man gesagt: Na gut, die Post ist auch nicht verantwortlich für das, was in einem Brief drin ist, dann sind die auch nicht verantwortlich.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-das-Frage lässt sich nur über die Stimme erraten, nicht über Wissen; Distraktor Van der Bellen unpassend.",
+   "stand_note": "",
+   "statement": "Corinna Milborn, sonst Optimistin, sieht eine riesige Gefahr, weil Demokratie ohne unabhängige Information nicht funktioniert.",
+   "question": "Wer sagt im Jahresrückblick: „In diesem Punkt sehe ich eine riesige Gefahr, weil Demokratie ohne Information nicht funktioniert“?",
+   "answer": "Corinna Milborn",
+   "distractors": [
+    "Florian Klenk",
+    "Andreas Sator",
+    "Alexander Van der Bellen"
+   ],
+   "aha": "Corinna beschreibt sich selbst als die, die normalerweise nicht den Weltuntergang sieht. Bei Plattformen, Algorithmen und Propaganda macht sie eine Ausnahme. Die nächsten zwei Jahre hält sie für entscheidend.",
+   "quote_clean": "Normalerweise bin ich immer die, die nicht den Weltuntergang sieht, aber in diesem Punkt sehe ich tatsächlich eine riesige Gefahr, weil Demokratie ohne Information nicht funktioniert.",
+   "quality": 1
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg bei 2880 s; als Klenks Einschätzung gekennzeichnet, aha auf Belegtes reduziert.",
+   "stand_note": "",
+   "statement": "Florian Klenk beschreibt, dass Diktaturen am Anfang zuerst die Medien, dann die Gerichte, die Opposition und die Wissenschaft zum Schweigen bringen wollen.",
+   "question": "Wen wollen Diktaturen laut Florian Klenk als Allererstes zum Schweigen bringen?",
+   "answer": "Die Medien",
+   "distractors": [
+    "Die Gerichte",
+    "Die Opposition",
+    "Die Wissenschaft"
+   ],
+   "aha": "Florian Klenks Reihenfolge: zuerst die Medien, dann die Gerichte, die Opposition, die Wissenschaft, dann die statistischen Zentralämter und am Schluss alle. Deshalb hält er es für wichtig, den öffentlich-rechtlichen Rundfunk zu verteidigen – bei allen Fehlern, die dort hin und wieder passieren.",
+   "quote_clean": "Deswegen sind auch alle Diktaturen am Anfang bestrebt, die Medien zum Schweigen zu bringen, dann die Gerichte, dann die Opposition, dann die Wissenschaft.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zu Andreas' Gewohnheit ('beendet seine Folgen') ist aus einem Ausschnitt nicht belegt und als Spielfrage wertlos; aha enthält Unbelegtes (Wochenzeitungen).",
+   "stand_note": "",
+   "statement": "Andreas Sator beendet seine Folgen mit der Frage „Was nehme ich mir mit?“ und fasst danach die wichtigsten Punkte zusammen.",
+   "question": "Mit welcher Frage leitet Andreas am Ende der Folge seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir gelernt?",
+    "Was bleibt hängen?",
+    "Was heißt das jetzt für uns?"
+   ],
+   "aha": "Wenn die Gäste weg sind, sortiert Andreas noch einmal für sich, was hängen geblieben ist. Diesmal: ein Jahr, das turbulent und ruhig zugleich war. Und der Vorsatz, nur mehr Wochenzeitungen zu lesen.",
+   "quote_clean": "Was nehme ich mir mit? Erstens: Das Jahr war turbulent und ruhig zugleich.",
+   "quality": 1
+  }
+ ],
+ "id": "s20251216",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

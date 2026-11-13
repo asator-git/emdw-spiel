@@ -1,0 +1,255 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1712 s: 60-70.000, Andreas sagt 'glaube'; als Schätzfrage mit Bereich ok.",
+   "stand_note": "Stand 2025",
+   "statement": "Die Buch Wien, die größte Buchmesse Österreichs, besuchen rund 60.000 bis 70.000 Menschen.",
+   "question": "Wie viele Besucher:innen kommen ungefähr zur Buch Wien, der größten Buchmesse Österreichs?",
+   "answer": "Rund 65.000",
+   "distractors": [
+    "Rund 8.000",
+    "Rund 25.000",
+    "Rund 250.000"
+   ],
+   "aha": "Ungefähr 60.000 bis 70.000 Leute pilgern zur Buch Wien. Andreas geht hin, seit er in Wien wohnt – weil man dort unter lauter Menschen ist, die auch gern lesen.",
+   "quote_clean": "Man kann so viele interessante Autorinnen treffen, und was noch viel cooler ist: Es sind, glaube ich, 60.000, 70.000 Leute dort, du bist unter Zehntausenden Gleichgesinnten.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Lendvai ist Jahrgang 1929, im Herbst 2025 also 96; Andreas' Altersangabe stimmt nicht.",
+   "stand_note": "",
+   "statement": "Der Journalist Paul Lendvai war im Herbst 2025 95 Jahre alt.",
+   "question": "Wie alt war der Journalist Paul Lendvai im Herbst 2025?",
+   "answer": "95 Jahre",
+   "distractors": [
+    "78 Jahre",
+    "84 Jahre",
+    "101 Jahre"
+   ],
+   "aha": "95 Jahre, und laut Andreas fit wie ein Turnschuh. Lendvai schreibt immer noch wöchentlich Kolumnen im Standard und hat zu fast allem, was auf der Welt passiert, etwas Kluges zu sagen.",
+   "quote_clean": "Paul Lendvai ist 95 Jahre alt und fit wie ein Turnschuh.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg ok (1541 s); aha enthielt Erfundenes ('jahrzehntelang', autoritäre Strukturen) und wurde auf Transkript reduziert.",
+   "stand_note": "",
+   "statement": "Paul Lendvai hat lange die Osteuropa-Redaktion des ORF geleitet.",
+   "question": "Welche Redaktion hat Paul Lendvai im ORF lange geleitet?",
+   "answer": "Die Osteuropa-Redaktion",
+   "distractors": [
+    "Die Wissenschaftsredaktion",
+    "Die Innenpolitik-Redaktion",
+    "Die Kulturredaktion"
+   ],
+   "aha": "Paul Lendvai hat im ORF ganz lange die Osteuropa-Redaktion geleitet. Andreas zählt ihn zu den klügsten Menschen Österreichs und liest mit ihm bei der Buch Wien live sein Buch „Wer bin ich?“.",
+   "quote_clean": "Paul Lendvai ist einer der beeindruckendsten und klügsten Menschen, die es in Österreich gibt. Da übertreibe ich nicht. Paul Lendvai hat ganz lange die Osteuropa-Redaktion im ORF geleitet.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1580 s, Ungarn ist korrekt (Lendvai wurde in Budapest geboren), Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Paul Lendvai wurde in Ungarn geboren und flüchtete nach Österreich.",
+   "question": "In welchem Land wurde der Journalist Paul Lendvai geboren?",
+   "answer": "Ungarn",
+   "distractors": [
+    "Tschechoslowakei",
+    "Polen",
+    "Rumänien"
+   ],
+   "aha": "Lendvai ist gebürtiger Ungar und nach Österreich geflüchtet. In seinem dünnen Buch „Wer bin ich?“ geht es um genau diese Identitätssuche – heute, wo Nationalismus in vielen Ländern wieder aufkeimt, eine ziemlich aktuelle Frage.",
+   "quote_clean": "In Ungarn geboren, dann nach Österreich geflüchtet, er ist Europäer und fragt sich ein bisschen: Wer bin ich eigentlich?",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Anzahl fünf stimmt (Krebs, Klimaanpassung, Ozeane, klimaneutrale Städte, Boden); Biodiversität ist keine eigene Mission, daher Beispiele korrigiert.",
+   "stand_note": "",
+   "statement": "Die EU hat fünf sogenannte Missionen, die sich mit großen Problemen wie Krebs oder Klimawandel beschäftigen.",
+   "question": "Wie viele große „Missionen“ hat die EU für Themen wie Krebs oder Klima ausgerufen?",
+   "answer": "5",
+   "distractors": [
+    "2",
+    "9",
+    "14"
+   ],
+   "number_value": 5,
+   "number_unit": "Missionen",
+   "slider_min": 1,
+   "slider_max": 15,
+   "aha": "Fünf EU-Missionen gibt es, unter anderem zu Krebs und zu klimaneutralen Städten. Zu jedem dieser Themen macht Erklär mir die Welt gemeinsam mit dem Wissenschaftsministerium eine ganz normale Folge.",
+   "quote_clean": "Die Idee ist nur, und das machen wir manchmal mit Partnern: Es gibt einen thematischen Rahmen, und der ist, dass es fünf EU-Missionen gibt.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zu leicht erratbar, Distraktoren offensichtlich falsch; Biodiversität als Mission zudem ungenau; inhaltlich Dublette zu Kandidat 4.",
+   "stand_note": "",
+   "statement": "Die EU-Missionen beschäftigen sich mit großen Problemen wie der Behandlung von Krebs, Biodiversität und dem Klimawandel.",
+   "question": "Welches dieser Themen ist eine der großen EU-Missionen?",
+   "answer": "Behandlung von Krebs",
+   "distractors": [
+    "Ausbau der Autobahnen",
+    "Förderung der Raumfahrt",
+    "Senkung der Mehrwertsteuer"
+   ],
+   "aha": "Die EU bündelt Forschung in wenigen großen Missionen, eine davon ist Krebs. Die Idee: nicht hundert kleine Projekte, sondern ein klares, gemeinsames Ziel.",
+   "quote_clean": "Missionen, die sich mit ganz großen Problemen beschäftigen, wie Behandlung von Krebs, Biodiversität, Klimawandel und so weiter.",
+   "quality": 1
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg ok (1404 s); Antwort deutlich länger als die Distraktoren, Formulierung 'wieder' geglättet.",
+   "stand_note": "",
+   "statement": "Ein alter Fehler im Städtebau war, Einkaufszentren am Stadtrand zu bauen und Arbeits- und Wohnviertel zu trennen.",
+   "question": "Welchen alten Fehler im Städtebau will man heute besser machen?",
+   "answer": "Wohnen, Arbeiten und Einkaufen strikt getrennt",
+   "distractors": [
+    "Zu viele Parks mitten in der Stadt",
+    "Zu breite Gehsteige in Wohnvierteln",
+    "Zu viele Straßenbahnen in den Außenbezirken"
+   ],
+   "aha": "Wenn Einkaufszentren am Stadtrand stehen und Wohnen und Arbeiten getrennt sind, gibt es dazwischen vor allem Autoverkehr. Man trifft wenig Leute und geht ungern zu Fuß. Wie man das heute besser macht, war Thema der Folge „Stadt der Zukunft“ und einer Live-Veranstaltung zum Wiener Nordbahnviertel.",
+   "quote_clean": "Wie man diesen alten Fehler, den man im Städtebau gemacht hat – dass man Einkaufszentren am Rand der Städte baut, dann gibt es Arbeitsviertel und dann gibt es Wohnviertel –",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 2241 s, Andreas ist beim Namen selbst unsicher ('glaube'), die RTR ist aber korrekt; aha präzisiert.",
+   "stand_note": "Stand 2025",
+   "statement": "Die österreichische Regulierungsbehörde RTR vergibt auch Förderungen an Medien wie Podcasts.",
+   "question": "Welche Behörde in Österreich vergibt Medienförderungen, von denen auch Podcasts profitieren können?",
+   "answer": "Die RTR",
+   "distractors": [
+    "Statistik Austria",
+    "Die Arbeiterkammer",
+    "Der ORF-Stiftungsrat"
+   ],
+   "aha": "Die RTR ist die Rundfunk- und Telekom-Regulierungsbehörde, vergibt aber auch Fördergeld an Medien. Erklär mir die Welt hat so erstmals Förderungen bekommen – neben Werbung und Unterstützer:innen ein weiteres Standbein.",
+   "quote_clean": "Dann gibt es Förderungen von der RTR, der Rundfunk- und Telekom-Regulierungsbehörde, glaube ich, heißt das. Da gibt es eine Förderung.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 2469 s ok; aha enthielt Erfundenes (Schlüsselkonzept, 'nicht allem zustimmen' als Aussage der Autorin) und wurde auf das Belegte reduziert.",
+   "stand_note": "",
+   "statement": "Validieren bedeutet in der Kommunikation, die Realität und die Gefühle des Gegenübers wahrzunehmen.",
+   "question": "Was bedeutet „Validieren“ in der Kommunikation mit anderen Menschen?",
+   "answer": "Realität und Gefühle anderer anerkennen",
+   "distractors": [
+    "Argumente anderer sachlich widerlegen",
+    "Die eigene Meinung klar durchsetzen",
+    "Konflikten grundsätzlich ausweichen"
+   ],
+   "aha": "Validieren heißt, die Realität und die Gefühle des Gegenübers wahrzunehmen. Das gilt in der Erziehung, in der Partnerschaft, unter Freund:innen und im Job. Zu dem Thema kommt im Dezember ein Buch heraus, dazu macht der Podcast eine eigene Reihe.",
+   "quote_clean": "Sie hat ein Buch über das Validieren geschrieben, also wie man mit anderen Menschen gut kommuniziert und ihre Realität und ihre Gefühle wahrnimmt.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Zahlen belegt (2087 s, 2104 s), aber 'weniger als die Hälfte' ist ein Rechenfehler von Andreas (36 von 66 sind rund 55 Prozent); im aha korrigiert.",
+   "stand_note": "Stand November 2025",
+   "statement": "Erklär mir die Welt hat 2025 (bis November) rund 36.000 Euro durch Werbung eingenommen, im Jahr davor waren es 66.000 Euro.",
+   "question": "Wie viel Geld hat Erklär mir die Welt 2025 bis November ungefähr durch Werbung eingenommen?",
+   "answer": "Rund 36.000 Euro",
+   "distractors": [
+    "Rund 9.000 Euro",
+    "Rund 66.000 Euro",
+    "Rund 150.000 Euro"
+   ],
+   "number_value": 36000,
+   "number_unit": "Euro",
+   "slider_min": 0,
+   "slider_max": 150000,
+   "aha": "Etwa 36.000 Euro, im Jahr davor waren es 66.000. Für viele werbefinanzierte Unternehmen war 2025 schwierig, und Andreas musste sogar seine Ersparnisse anzapfen. Das legt der Podcast übrigens alles offen auf der Homepage offen.",
+   "quote_clean": "Um ein bisschen Einblick zu geben: Wir haben heuer ca. 36.000 € durch Werbung eingenommen.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Im Ausschnitt ist von Mauthausen keine Rede; außerdem ging die Fahrt letztlich heil aus, 'zu wenig Reichweite' ist nicht belegt, Strecke ('200 220 km') unsicher transkribiert.",
+   "stand_note": "",
+   "statement": "Für den Ausflug nach Mauthausen mietete das Team ein Elektroauto mit 150 km Reichweite für eine 220 km lange Strecke.",
+   "question": "Was ging beim Ausflug zur KZ-Gedenkstätte Mauthausen schief?",
+   "answer": "Das E-Auto hatte zu wenig Reichweite",
+   "distractors": [
+    "Der Bus hatte eine Panne",
+    "Die Gedenkstätte war geschlossen",
+    "Der Historiker kam nicht"
+   ],
+   "aha": "150 Kilometer Reichweite, 220 Kilometer Strecke – „dann tanken wir halt schnell“. Von vorne bis hinten hat nichts funktioniert, und am Ende hätte Andreas fast noch Strafe zahlen müssen, weil der Schlüssel nicht richtig steckte.",
+   "quote_clean": "Ja, wir haben ein Elektroauto gemietet mit einer Reichweite von 150 km. Der Weg ist 220 km.",
+   "quality": 1
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 2598 s ok; Aussage ist Andreas' eigene, leicht übertriebene Selbsteinschätzung, daher Formulierung auf 'laut Andreas' gesetzt.",
+   "stand_note": "Stand 2025",
+   "statement": "Laut Andreas gab es bei Erklär mir die Welt nach rund 360 Folgen noch nie eine Folge über Sex.",
+   "question": "Welches Thema hat Andreas in den ersten 360 Folgen von Erklär mir die Welt laut eigener Aussage nie behandelt?",
+   "answer": "Sex",
+   "distractors": [
+    "Geld",
+    "Tod",
+    "Religion"
+   ],
+   "aha": "Ausgerechnet Sex, eines der wichtigsten Themen der Welt, fehlte bisher. Andreas' Erklärung: Er war wohl zu schüchtern. Jetzt traut er sich, Aufnahmetermine für eine Folge dazu, wie man guten Sex hat, sind geplant.",
+   "quote_clean": "Es gab nach 360 Folgen nie etwas zu Sex, zu einem der wichtigsten Themen dieser Welt. Schande über mein Haupt. Ich glaube, ich war zu schüchtern.",
+   "quality": 3
+  }
+ ],
+ "id": "369",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

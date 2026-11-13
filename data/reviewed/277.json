@@ -1,0 +1,282 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Zwei Jahre gilt laut Steinböck für ihr eigenes Haus (sie spricht ausdrücklich nicht für alle); aha enthielt eine nicht belegte Zahl (eineinhalb bis zwei Jahre).",
+   "stand_note": "",
+   "statement": "Steinböcks Theater beginnt mit der Programmplanung ungefähr zwei Jahre, bevor die Stücke gespielt werden.",
+   "question": "Wie viele Jahre im Voraus beginnt Veronika Steinböcks Theater ungefähr mit der Planung seines Programms?",
+   "answer": "Etwa zwei Jahre",
+   "distractors": [
+    "Etwa ein halbes Jahr",
+    "Etwa fünf Jahre",
+    "Etwa drei Monate"
+   ],
+   "aha": "Während du heuer im Theater sitzt, denkt die Intendantin schon an das übernächste Jahr: Ende 2023 überlegt sie bereits, was 2025 gespielt wird. Dafür spricht sie mit Autor:innen, Verlagen und Künstler:innen.",
+   "quote_clean": "Die Erstellung eines Programms fängt eigentlich schon zwei Jahre bevor es wirklich stattfindet an. Ich denke jetzt schon über 2025 nach.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 431-458 stimmt; im aha stand eine nicht belegte Behauptung zur Honorarweitergabe, gestrichen.",
+   "stand_note": "",
+   "statement": "Die Rechte an bestehenden Theaterstücken liegen meist bei Theaterverlagen.",
+   "question": "Bei wem fragt ein Theater meistens an, wenn es ein bestehendes Stück spielen will?",
+   "answer": "Beim Theaterverlag",
+   "distractors": [
+    "Bei der Gewerkschaft",
+    "Beim Kulturministerium",
+    "Bei der Urheberrechtsbehörde"
+   ],
+   "aha": "Die meisten Autor:innen haben einen Verlag, bei dem ihr Stück gut aufgehoben ist. Dort fragt das Theater nach den Rechten, und der Verlag nennt dann den Termin, zu dem gespielt werden darf.",
+   "quote_clean": "Bei einem bereits geschriebenen Theaterstück sind das die Verlage. Die meisten Autorinnen haben einen Verlag, in dem dieses Stück gut aufgehoben ist.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Steinböck sagt, die Verlage achten darauf, je nach Bekanntheit der Autorin; 'meist' und die Aussage über kleine Bühnen im aha sind nicht belegt.",
+   "stand_note": "",
+   "statement": "Theaterverlage achten darauf, dass ein Stück nicht zur ähnlichen Zeit an zwei Wiener Bühnen läuft.",
+   "question": "Wer achtet darauf, dass dasselbe Stück nicht zur ähnlichen Zeit an zwei Wiener Bühnen gespielt wird?",
+   "answer": "Der Theaterverlag",
+   "distractors": [
+    "Der Bühnenverein",
+    "Die Stadt Wien",
+    "Die Kritiker:innen"
+   ],
+   "aha": "Die Verlage schauen, dass ihre Stücke gut über den deutschsprachigen Raum verteilt sind. Wie streng sie dabei sind, hängt davon ab, wie bekannt die Autorin oder der Autor ist.",
+   "quote_clean": "Dass ein Stück nicht zweimal in Wien zur ähnlichen Zeit stattfindet oder manchmal sogar nicht zweimal im Jahr in Österreich, darauf achten die Verlage. Das kommt drauf an, wie bekannt die Autorin ist.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Wer-sagt-Frage mit offensichtlicher Antwort; scherzhaftes Zitat, aha ergänzt nicht belegte Rechtsaussage.",
+   "stand_note": "",
+   "statement": "Bei sehr alten Stücken wie denen von Shakespeare dürfen Theater frei kürzen und umschreiben.",
+   "question": "Wer sagt: „Bei einem Shakespeare kann man machen, was man will, der kann sich nicht mehr wehren“?",
+   "answer": "Veronika Steinböck",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Theaterverleger",
+    "Eine Burgtheater-Schauspielerin"
+   ],
+   "aha": "Wie stark man ein Stück verändern darf, hängt vom Alter ab.",
+   "quote_clean": "Bei einem Shakespeare kann man damit machen, was man will. Er ist schon so lange tot, der kann sich nicht mehr wehren.",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 659-695 klar, Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Bei einer Uraufführung wird der Text so wenig wie möglich verändert.",
+   "question": "Wann versucht ein Theater, möglichst wenig am Text eines Stücks zu ändern?",
+   "answer": "Bei einer Uraufführung",
+   "distractors": [
+    "Bei einem Gastspiel",
+    "Bei der Dernière",
+    "Bei einer Wiederaufnahme"
+   ],
+   "aha": "Aus Respekt vor den Autor:innen: Sie sollen ihr Stück einmal so sehen, wie sie es sich gedacht haben. Wurde es schon oft gespielt, sind die meisten recht offen für Kürzungen.",
+   "quote_clean": "Ob es eine Uraufführung ist, also ob dieses Stück wirklich zum allerersten Mal dem Theaterpublikum gezeigt wird: Da versucht man möglichst wenig zu ändern.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 717-745 stimmt; Antwort ca. zwei Stunden, 'eineinhalb bis zwei' im Slider abgedeckt.",
+   "stand_note": "",
+   "statement": "Theaterabende sollen meist nicht länger als eineinhalb bis zwei Stunden dauern, deshalb werden lange Stücke gekürzt.",
+   "question": "Wie viele Stunden soll ein Theaterabend laut Veronika Steinböck meist höchstens dauern?",
+   "answer": "Etwa zwei Stunden",
+   "distractors": [
+    "Etwa eine Stunde",
+    "Etwa dreieinhalb Stunden",
+    "Etwa fünf Stunden"
+   ],
+   "aha": "Ein Stücktext kann 100 oder sogar 160 Seiten haben, das würde ewig dauern. Also wird gestrichen, meist gemeinsam mit der Regie und in Absprache mit dem Verlag.",
+   "quote_clean": "Manche Stücke sind 100 Seiten lang, manche auch 160, und dann weiß man schon von vornherein: Um einen Theaterabend nicht länger als eineinhalb, zwei Stunden dauern zu lassen, muss man einfach ein paar Passagen rausnehmen.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Sechs bis sieben Wochen belegt, aber als Richtwert in ihrem Beispiel; Attribution ergänzt.",
+   "stand_note": "",
+   "statement": "Laut Steinböck soll vor einer Premiere genug Zeit für sechs bis sieben Wochen Proben sein.",
+   "question": "Wie viele Wochen soll laut Veronika Steinböck vor der Premiere ungefähr geprobt werden können?",
+   "answer": "Sechs bis sieben Wochen",
+   "distractors": [
+    "Ein bis zwei Wochen",
+    "Zwölf bis vierzehn Wochen",
+    "Sechs Monate"
+   ],
+   "aha": "Die Produktionsleitung organisiert das alles: wer wann kann, welcher Proberaum gemietet wird und ob die Zeit bis zur Premiere reicht. Sechs, sieben Wochen für einen Abend von knapp zwei Stunden.",
+   "quote_clean": "Haben wir genug Zeit bis zur Premiere, dass wir da sechs, sieben Wochen proben können? Das ist die Produktionsleitung, das wird meistens vom Haus gestellt.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Begriff 'Gewerke' steht bei 977-1003; 'Bühnenbau' wird dort nicht genannt, Beispiele auf Licht, Ton, Video angepasst.",
+   "stand_note": "",
+   "statement": "Die technischen Fachabteilungen am Theater wie Licht, Ton und Video nennt man Gewerke.",
+   "question": "Wie nennt man am Theater die Fachabteilungen wie Licht, Ton oder Video?",
+   "answer": "Gewerke",
+   "distractors": [
+    "Zünfte",
+    "Ressorts",
+    "Sparten"
+   ],
+   "aha": "Weil sie werkeln, sagt Veronika Steinböck. In den Endproben kommen sie alle auf der echten Bühne zusammen, die Scheinwerfer, die Mikros, das Video und die Schauspieler:innen, die im besten Fall ihren Text schon können.",
+   "quote_clean": "Das sind dann schon sehr im Vorfeld sehr viele Gewerke, nennt man das bei uns, weil sie werkeln da schon daran.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1173 exakt, harmlos und anschaulich.",
+   "stand_note": "",
+   "statement": "Manche Regisseurinnen halten ihre eigene Premiere nicht aus und gehen draußen auf und ab.",
+   "question": "Was machen laut Veronika Steinböck manche Regisseurinnen, die ihre Premiere nicht aushalten?",
+   "answer": "Draußen einen Gespritzten trinken",
+   "distractors": [
+    "Im Souffleurkasten mitlesen",
+    "Auf der Hinterbühne mitspielen",
+    "Daheim den Livestream schauen"
+   ],
+   "aha": "Die meisten sitzen ganz hinten in der letzten Reihe und versinken vor Aufregung im Stuhl. Andere gehen lieber auf der Straße auf und ab, sehr wienerisch mit einem Gespritzten.",
+   "quote_clean": "Es gibt Regisseurinnen, die das gar nicht aushalten und vor dem Theater auf der Straße auf und ab gehen, einen Gespritzten trinken und Zigaretten rauchen.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1488-1500 stimmt, als 'manche Häuser' einordenbar.",
+   "stand_note": "",
+   "statement": "Große Theater haben sechs bis sieben Dramaturginnen und Dramaturgen.",
+   "question": "Wie viele Dramaturg:innen haben große Theaterhäuser laut Veronika Steinböck ungefähr?",
+   "answer": "Sechs bis sieben",
+   "distractors": [
+    "Eine bis zwei",
+    "Zwanzig bis dreißig",
+    "Über fünfzig"
+   ],
+   "aha": "Die Dramaturgie ist kein fest umrissener Beruf, viele kommen aus Theaterwissenschaft oder Germanistik. Große Häuser leisten sich gleich ein halbes Dutzend davon, manche Häuser haben nur zwei oder drei.",
+   "quote_clean": "Es ist an manchen Häusern eine unheimlich wichtige Position. Große Häuser haben sechs bis sieben Dramaturginnen, manche haben auch nur zwei, drei.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1516 wörtlich; Distraktoren eindeutig andere Berufe.",
+   "stand_note": "",
+   "statement": "Die Dramaturgin ist der denkende Kopf einer Produktion, die Zusammenhänge und gesellschaftliche Debatten im Blick hat.",
+   "question": "Wen beschreibt Veronika Steinböck als „den denkenden, philosophischen Kopf hinter diesem ganzen Wahnsinn“?",
+   "answer": "Die Dramaturgin",
+   "distractors": [
+    "Die Regisseurin",
+    "Die Intendantin",
+    "Die Souffleuse"
+   ],
+   "aha": "Die Dramaturgin schaut, was gerade in der Gesellschaft verhandelt wird und was andere Häuser machen. Und sie vermittelt manchmal zwischen Regie und Schauspieler:innen, wenn die Regie tolle Ideen hat, sie aber nicht so leicht erklären kann.",
+   "quote_clean": "Eine Dramaturgin ist der denkende, philosophische Kopf hinter diesem ganzen Wahnsinn, die die Zusammenhänge erkennt.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Outside Eye belegt bei 1602-1632; sie sagt 'manchmal', nicht 'oft', und 'einmal pro Woche oder alle zehn Tage'.",
+   "stand_note": "",
+   "statement": "Die Dramaturgin ist manchmal bewusst nicht bei jeder Probe, um als „Outside Eye“ einen frischen Blick von außen zu haben.",
+   "question": "Warum kommt die Dramaturgin manchmal absichtlich nur einmal pro Woche oder alle zehn Tage zu den Proben?",
+   "answer": "Für einen frischen Blick von außen",
+   "distractors": [
+    "Weil sie schlecht bezahlt wird",
+    "Damit die Regie mehr Ruhe hat",
+    "Weil sie mehrere Häuser betreut"
+   ],
+   "aha": "Wer jeden Tag im Probenraum sitzt, verliert sich manchmal, alle sprechen dieselbe Sprache. Die Dramaturgin kommt von außen und erzählt, was sie gesehen hat, was ihr gefehlt hat und wie der Rhythmus ist.",
+   "quote_clean": "Manchmal nennen wir das ein bisschen Outside Eye. Das bedeutet, nicht immer bei jeder Probe dabei zu sein, weil man sich dann manchmal verliert. Dann sprechen alle die gleiche Sprache.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-Frage mit offensichtlicher Antwort, Distraktor 'Valentina' unmotiviert.",
+   "stand_note": "",
+   "statement": "Theaterleitung ist kein pragmatisierter Beamtenjob, Kunst muss in ständiger Bewegung bleiben.",
+   "question": "Wer sagt über die Theaterleitung: „Es ist kein Beamtenjob, wo man pragmatisiert ist und das ein Leben lang macht“?",
+   "answer": "Veronika Steinböck",
+   "distractors": [
+    "Andreas Sator",
+    "Valentina",
+    "Eine Kulturstadträtin"
+   ],
+   "aha": "Sie redet da ein bisschen gegen ihre eigene Not mit der finanziellen Unsicherheit.",
+   "quote_clean": "Es ist kein Beamtenjob, wo man sagt: Da bin ich, dann bin ich pragmatisiert und das mache ich ein Leben lang. Sondern es gehört zum Wesen der Kunst, dass sie in einem unentwegten Prozess steckt.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Hemmschwellen belegt bei 2231-2289; aha enthielt eine unbelegte Behauptung (Kindheit), gestrichen.",
+   "stand_note": "",
+   "statement": "Viele Menschen gehen nicht ins Theater, weil sie Hemmschwellen haben, etwa wegen Kleidung, Garderobe oder Verhaltensregeln.",
+   "question": "Was hält laut Veronika Steinböck viele Menschen neben dem Preis vom Theaterbesuch ab?",
+   "answer": "Unsicherheit, wie man sich verhält",
+   "distractors": [
+    "Zu wenige Vorstellungen",
+    "Zu laute Musik",
+    "Fehlende Parkplätze"
+   ],
+   "aha": "Was zieh ich an, darf ich gehen, wenn ich müde werde, kostet die Garderobe extra? Solche kleinen Unsicherheiten halten viele ab, auch wenn Häuser wie ihres dagegen arbeiten.",
+   "quote_clean": "Es sind noch immer Hemmschwellen: Was muss ich da anziehen? Ich kann meine Flasche Soda oder Cola nicht mitnehmen, ich muss meine Garderobe abgeben.",
+   "quality": 2
+  }
+ ],
+ "id": "277",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

@@ -1,0 +1,275 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg stimmt (76/77 von 111, gerundet 75 Prozent); aha enthielt eine freie Deutung (Nerven).",
+   "stand_note": "",
+   "statement": "Ein Elfmeter wird in etwa drei von vier Fällen verwandelt, sein Expected-Goals-Wert liegt bei rund 0,75.",
+   "question": "Wie viel Prozent aller Elfmeter landen ungefähr im Tor?",
+   "answer": "rund 75 Prozent",
+   "distractors": [
+    "rund 55 Prozent",
+    "rund 65 Prozent",
+    "rund 90 Prozent"
+   ],
+   "aha": "Der Elfmeter ist die einfachste Situation zum Rechnen: immer elf Meter, ein Schütze, ein Torwart. Deshalb weiß man ziemlich genau, dass rund drei Viertel reingehen – und jeder vierte eben nicht.",
+   "quote_clean": "Das heißt, du hast eine 77-prozentige Chance, oder sagen wir einfach 0,75 Expected Goals, also eine 75-prozentige Chance, dass der Ball reingeht.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Definition steht klar im Ausschnitt, Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Expected Goals messen die Qualität der Torchancen, die eine Mannschaft im Laufe eines Spiels herausgespielt hat.",
+   "question": "Was misst der Wert „Expected Goals“ im Fußball?",
+   "answer": "Die Qualität der herausgespielten Torchancen",
+   "distractors": [
+    "Die tatsächlich geschossenen Tore",
+    "Die gelaufenen Kilometer pro Spieler",
+    "Den Ballbesitz in Prozent"
+   ],
+   "aha": "Expected Goals schauen nicht aufs Ergebnis, sondern darauf, wie gute Chancen eine Mannschaft hatte. Liegt das echte Ergebnis weit daneben, war eben Glück oder Pech im Spiel.",
+   "quote_clean": "Das ist dieser berühmte Wert der Expected Goals, der misst oder ermittelt, wie gut die Chancenqualität von Mannschaften ist oder wie viele Chancen sie im Laufe eines Spiels angehäuft haben.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Beleg ok; Distraktor mit Knie unplausibel, aha hölzern.",
+   "stand_note": "",
+   "statement": "Die Torwahrscheinlichkeit eines Abschlusses hängt unter anderem von Entfernung, Winkel, Kopfball oder Schuss und der Zahl der Gegner im Weg ab.",
+   "question": "Was ist bei gleicher Entfernung von 20 Metern laut Expected-Goals-Modellen wahrscheinlicher ein Tor?",
+   "answer": "Ein Schuss mit dem Fuß",
+   "distractors": [
+    "Ein Kopfball",
+    "Beides gleich wahrscheinlich",
+    "Das hängt nur vom Torwart ab"
+   ],
+   "aha": "Jeder Abschluss bekommt eine eigene Wahrscheinlichkeit: Entfernung, Winkel, Kopf oder Fuß, wie viele Gegner im Weg stehen. Ein Kopfball aus 20 Metern geht deutlich seltener rein als ein Schuss aus derselben Distanz.",
+   "quote_clean": "Das ist von der Entfernung abhängig. Wenn man aus 40 Metern schießt, ist es unwahrscheinlicher als aus 5 Metern. Wenn man aus 20 Metern köpft, ist es unwahrscheinlicher, als wenn man aus 20 Metern schießt.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Meinung klar als Biermanns Ansicht gekennzeichnet, Beleg stimmt.",
+   "stand_note": "",
+   "statement": "Christoph Biermann meint, Fußball sei gerade deshalb so populär, weil er ungerecht sein kann – zwischen Leistung und Ertrag klafft oft eine Lücke.",
+   "question": "Warum ist Fußball laut Christoph Biermann überhaupt so populär?",
+   "answer": "Weil er ungerecht sein kann",
+   "distractors": [
+    "Weil er so leicht zu lernen ist",
+    "Weil er im Fernsehen läuft",
+    "Weil die Spiele so kurz sind"
+   ],
+   "aha": "Eine Mannschaft spielt toll, vergibt alles, der Gegner schießt einmal aufs Tor und gewinnt. Genau diese Lücke zwischen Leistung und Ergebnis macht laut Biermann den Zauber aus – bis hin zum Pokalwunder der Unterklassigen.",
+   "quote_clean": "Das ist etwas, was dem Fußball ganz tief innewohnt und meiner Meinung nach auch die Erklärung dafür ist, warum Fußball überhaupt so populär ist: dass Fußball nämlich ungerecht ist.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Biermann ist unsicher (Zahlen nicht im Kopf, glaube); Platz 15 stimmt nicht sicher mit der Saison 2014/15 überein, zudem wurde das Hedging weggeglättet.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt, Aussage sachlich korrekt (Regression zur Mitte erwähnt).",
+   "stand_note": "",
+   "statement": "Wer Glück und Pech nicht von Leistung trennt, zieht falsche Schlüsse – etwa einen Trainer zu entlassen, der nur Pech hatte, oder sich bei Glückssträhnen nicht zu verbessern.",
+   "question": "Welchen typischen Fehler können Expected-Goals-Daten laut Christoph Biermann verhindern helfen?",
+   "answer": "Einen Trainer nur wegen Pech entlassen",
+   "distractors": [
+    "Zu viele Elfmeter zu trainieren",
+    "Zu teure Stürmer zu kaufen",
+    "Zu oft das System zu wechseln"
+   ],
+   "aha": "Über eine Halbsaison kann man deutlich weniger Punkte holen, als man verdient hätte – oder umgekehrt. Danach kommt die Regression zur Mitte, und wer das nicht sieht, wundert sich oder wirft den Falschen raus.",
+   "quote_clean": "Ich will es konkret machen: Eine Mannschaft hat unheimlich viel Pech und schmeißt den Trainer raus, was nicht selten passiert. Soll man wirklich jemanden rauswerfen, nur weil er Pech hat?",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "74 Jahre stimmt (letzte Erstklassigkeit 1946/47); aha behauptete unbelegten Kausalzusammenhang.",
+   "stand_note": "Stand 2021",
+   "statement": "Der FC Brentford stieg 2021 in die Premier League auf und spielte damit zum ersten Mal seit rund 74 Jahren wieder erstklassig.",
+   "question": "Seit wie vielen Jahren hatte der FC Brentford vor seinem Aufstieg 2021 nicht mehr in der höchsten englischen Liga gespielt?",
+   "answer": "rund 74 Jahre",
+   "distractors": [
+    "rund 25 Jahre",
+    "rund 45 Jahre",
+    "rund 100 Jahre"
+   ],
+   "aha": "Brentford ist ein kleiner Londoner Klub, dessen Stadion quasi auf dem Weg nach Heathrow liegt. Besitzer Matthew Benham, der mit Fußballwetten reich wurde, setzt stark auf Daten.",
+   "quote_clean": "Und dieser Verein ist in diesem Sommer in die Premier League aufgestiegen und ist damit zum ersten Mal seit etwa 74 Jahren wieder erstklassig.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg stimmt; aha enthielt nicht belegten Geldfluss in den Klub.",
+   "stand_note": "Stand 2021",
+   "statement": "Brentford-Besitzer Matthew Benham ist mit industriell betriebenen, algorithmusgestützten Fußballwetten reich geworden.",
+   "question": "Womit hat Brentford-Besitzer Matthew Benham sein Vermögen gemacht?",
+   "answer": "Mit Fußballwetten",
+   "distractors": [
+    "Mit Spielerberatung",
+    "Mit Fernsehrechten",
+    "Mit Immobilien in London"
+   ],
+   "aha": "Benham wettet nicht auf zwei, drei Spiele am Wochenende, sondern auf hunderte, mit komplizierten Algorithmen gegen den Wettmarkt. Und er ist sein Leben lang Fan von Brentford.",
+   "quote_clean": "Und dieser Verein gehört Matthew Benham, der sein Leben lang Fan dieses Vereins ist. Er hat sehr viel Geld verdient und verdient auch weiterhin sehr viel Geld mit Fußballwetten.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg ok (Brighton im Kontext genannt, Besitzer mit Sportwetten reich); aha geglättet.",
+   "stand_note": "Stand 2021",
+   "statement": "Auch der Besitzer von Brighton & Hove Albion ist mit Sportwetten reich geworden und setzt stark auf Daten.",
+   "question": "Welcher Premier-League-Klub hat – wie Brentford – einen Besitzer, der mit Sportwetten reich wurde?",
+   "answer": "Brighton & Hove Albion",
+   "distractors": [
+    "Manchester United",
+    "FC Arsenal",
+    "Newcastle United"
+   ],
+   "aha": "Brighton holte über Daten den Ingolstädter Pascal Groß für eine vergleichsweise bescheidene Ablöse. Für Biermann ist das das Beispiel für den Traum, die unterbewertete Aktie zu finden.",
+   "quote_clean": "Wo es übrigens auch einen Besitzer gibt, der mit Sportwetten sehr reich geworden ist.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg stimmt; aha enthielt erfundenes Detail (halb im Ernst).",
+   "stand_note": "",
+   "statement": "Christoph Biermann sagt, Wettanbieter leben von der Selbstüberschätzung der Fußballfans – deshalb wettet er nie.",
+   "question": "Wovon leben Wettanbieter laut Christoph Biermann?",
+   "answer": "Von der Selbstüberschätzung der Fans",
+   "distractors": [
+    "Von manipulierten Spielen",
+    "Von der Werbung im Stadion",
+    "Von den Gebühren der Klubs"
+   ],
+   "aha": "Weil es zwischendurch auch Gewinne gibt, fühlt man sich in seinem guten Näschen bestätigt – zu Unrecht. Biermann wettet deshalb nie.",
+   "quote_clean": "Natürlich leben die Wettanbieter von der Selbstüberschätzung der Fußballfans.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "Beleg stimmt; aha enthielt nicht belegte Details, Aussage ist Stand 2021.",
+   "stand_note": "Stand 2021",
+   "statement": "Der Heimvorteil im Fußball hat laut Biermann in den letzten Jahren generell deutlich abgenommen, nicht nur während der Geisterspiele in der Pandemie.",
+   "question": "Wie hat sich der Heimvorteil im Profifußball laut Christoph Biermann bis 2021 entwickelt?",
+   "answer": "Er hat deutlich abgenommen",
+   "distractors": [
+    "Er ist deutlich gestiegen",
+    "Er ist gleich geblieben",
+    "Er schwankt ohne erkennbaren Trend"
+   ],
+   "aha": "Biermann vermutet, dass auch die Reisestrapazen weniger zählen: Heute fährt Freiburg nicht mehr mit dem Bus nach Berlin. Dazu kam die Pandemie mit leeren Rängen.",
+   "quote_clean": "Und wir sehen übrigens auch, dass der Heimvorteil in den letzten Jahren generell deutlich abgenommen hat – nicht nur unter Corona-Bedingungen, wo kein Publikum im Stadion war.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt, Begriff wird vom Gast selbst definiert.",
+   "stand_note": "",
+   "statement": "Im Fußball hängen Geldeinsatz und sportlicher Erfolg stark zusammen; klug genutzte Informationen können diesen Fluch des Geldes manchmal überwinden.",
+   "question": "Was meint Christoph Biermann mit dem „Fluch des Geldes“ im Fußball?",
+   "answer": "Wer mehr ausgibt, ist meist erfolgreicher",
+   "distractors": [
+    "Reiche Klubs verlieren ihre Fans",
+    "Hohe Gehälter machen Spieler faul",
+    "Geld zerstört die Jugendarbeit"
+   ],
+   "aha": "Am Ende gewinnt in aller Regel, wer am meisten zahlt. Klubs wie Brentford, Leicester oder Red Bull Salzburg zeigen aber, dass man mit Daten und Gespür zumindest manchmal dagegen ankommt.",
+   "quote_clean": "Mit Fluch des Geldes meine ich, dass insgesamt der Zusammenhang zwischen Geldeinsatz und sportlichem Erfolg so hoch ist. Wer mehr Geld ausgibt, wird am Ende in aller Regel auch erfolgreicher sein als die anderen.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zur Folge, kaum Wissenswert; Biermanns Antwort im aha steht nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg",
+    "fairness"
+   ],
+   "note": "Anekdote über Andreas, keine Wissensfrage; Aussage 'immer' passt nicht zu 'ein paar Mal', Trost durch Biermann nicht belegt.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  }
+ ],
+ "id": "s20211229",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

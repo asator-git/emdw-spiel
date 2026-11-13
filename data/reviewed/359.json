@@ -1,0 +1,275 @@
+{
+ "reviews": [
+  {
+   "statement": "Auf einer Stressskala von 0 bis 100 liegt das optimale Arbeitsfenster laut Psychotherapeut Christian Asperger etwa zwischen 40 und 60.",
+   "question": "Auf einer Stressskala von 0 (tiefenentspannt) bis 100 (Herzinfarkt): Wo liegt ungefähr die Mitte des optimalen Arbeitsfensters?",
+   "answer": "Bei etwa 50",
+   "distractors": [
+    "Bei etwa 25",
+    "Bei etwa 75",
+    "Bei etwa 90"
+   ],
+   "aha": "Ein bisserl Spannung brauchst du, sonst wird das nix mit konzentriertem Arbeiten. Christian sieht das gute Fenster irgendwo zwischen 40 und 60, also angespannt genug zum Fokussieren, aber weit weg vom roten Bereich.",
+   "quote_clean": "Das heißt, das optimale Arbeitsfenster ist irgendwo zwischen 40, 50, 60.",
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Abgeleiteter Mittelwert aus einem vagen Spielraum ('40, 50, 60'); Asperger-Modell, keine harte Zahl.",
+   "stand_note": "",
+   "quality": 2
+  },
+  {
+   "statement": "Ab einem Stresslevel von etwa 80 auf einer Skala bis 100 schaltet das Gehirn laut Christian Asperger auf das limbische System um.",
+   "question": "Ab welchem Wert auf einer Stressskala von 0 bis 100 schaltet unser Gehirn in Christian Aspergers Modell in den Notfallmodus des limbischen Systems?",
+   "answer": "Ab etwa 80",
+   "distractors": [
+    "Ab etwa 50",
+    "Ab etwa 65",
+    "Ab etwa 95"
+   ],
+   "aha": "In Christians Modell ist bei 80 Schluss mit Nachdenken: Dann übernimmt das limbische System, und da bleiben nur Angriff, Flucht oder Todstellen. Deshalb rät er, es gar nicht erst so weit kommen zu lassen. Die Zahl ist ein Denkbild, kein Messwert.",
+   "quote_clean": "Das Stresslevel sollte nie auf 80 kommen. Warum? Weil bei 80 unser Gehirn auf das limbische System umschaltet.",
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Belegt, aber Asperger-Denkmodell, kein wissenschaftlicher Schwellenwert; als sein Modell markiert.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Beim Aufstehen in der Früh sollte der Spannungsgrad laut Christian Asperger bei etwa 20 Prozent liegen.",
+   "question": "Wie hoch sollte dein Spannungsgrad in Christian Aspergers Stressskala in der Früh beim Aufstehen ungefähr sein (in Prozent)?",
+   "answer": "Etwa 20 Prozent",
+   "distractors": [
+    "Etwa 5 Prozent",
+    "Etwa 40 Prozent",
+    "Etwa 60 Prozent"
+   ],
+   "aha": "Null wäre tiefenentspannt, oder, wie Christian sagt, vielleicht sogar schon tot, weil dann kein Herzschlag mehr da ist. Mit rund 20 startest du in den Tag, mit Frühstück und Kaffee geht's Richtung 30, 40, und fürs konzentrierte Arbeiten liegt das Fenster bei etwa 40 bis 60.",
+   "quote_clean": "Wenn ich in der Früh zum Beispiel aufstehe, sollte mein Spannungsgrad irgendwo bei 20 Prozent sein.",
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt ('irgendwo bei 20%'), aber als Denkmodell; aha an Ausschnitt angepasst.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Bei sehr hohem Stress bleiben uns im Grunde nur drei Impulse: kämpfen, fliehen oder erstarren.",
+   "question": "Welche drei Impulse bleiben dem Gehirn bei extremem Stress übrig?",
+   "answer": "Kämpfen, fliehen, erstarren",
+   "distractors": [
+    "Denken, planen, handeln",
+    "Weinen, lachen, schreien",
+    "Essen, schlafen, rennen"
+   ],
+   "aha": "Fight, Flight or Freeze: Im Notfallmodus kommt man nicht mehr ins Reflektieren. Im Büro heißt Angriff dann etwa, jede neue Aufgabe abzuwehren, und Flucht, sich in leichte Aufgaben zu stürzen.",
+   "quote_clean": "Das heißt, es gibt nur noch drei Impulse, die wir alle kennen: Fight, Flight or Freeze.",
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt; Fight, Flight or Freeze ist gesichertes Konzept; aha deckt sich mit Ausschnitt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Von den drei Stressreaktionen Kampf, Flucht und Erstarren ist das Erstarren laut Christian Asperger die ungünstigste.",
+   "question": "Welche der drei Stressreaktionen hält Christian Asperger für die ungünstigste?",
+   "answer": "Erstarren (Freeze)",
+   "distractors": [
+    "Angriff (Fight)",
+    "Flucht (Flight)",
+    "Alle drei gleich schlimm"
+   ],
+   "aha": "Wer erstarrt, fühlt sich hilflos und ohnmächtig und lässt alles über sich ergehen. Kämpfen ist zwar unangenehm für die anderen, aber man grenzt sich wenigstens ab.",
+   "quote_clean": "Der unangenehmste Mechanismus ist Freeze. Das ist das Erstarren, dieses Hilflos- und Ohnmächtigsein.",
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt ('der unangenehmste Mechanismus ist Freeze'), als Aspergers Einschätzung formuliert.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Fluchtstrategien bei Stress können langfristig in Richtung Sucht gehen, Kampfstrategien eher in Richtung Wut.",
+   "question": "Wohin führen Fluchtstrategien bei Stress langfristig eher?",
+   "answer": "In Richtung Sucht",
+   "distractors": [
+    "In Richtung Wut",
+    "In Richtung Gelassenheit",
+    "In Richtung Perfektionismus"
+   ],
+   "aha": "Sich ständig abzulenken fühlt sich im Moment gut an, wird aber leicht zur Gewohnheit, die man braucht. Die Kampfstrategien landen dagegen eher bei Wut, Frust oder Passiv-Aggressivität.",
+   "quote_clean": "Langfristig sind Fluchtstrategien eher Suchtstrategien, also solche, die dann eher in das Suchtspektrum reingehen.",
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, Distraktor 'Wut' gehört zu Fight und ist hier falsch.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Perfektionismus ist laut Christian Asperger im Prinzip eine Vermeidungsstrategie, um unangenehme Gefühle wie Scham oder Schuld nicht spüren zu müssen.",
+   "question": "Was ist Perfektionismus laut Christian Asperger im Prinzip?",
+   "answer": "Eine Vermeidungsstrategie",
+   "distractors": [
+    "Eine angeborene Charakterstärke",
+    "Eine Form von Ehrgeiz",
+    "Ein reines Erziehungsproblem"
+   ],
+   "aha": "Hinter dem Perfektionismus steckt eine gute Absicht: Wer perfekt ist, muss sich nicht angreifbar fühlen. Man vermeidet so Gefühle wie Scham oder Schuld, mit denen man schwer umgehen kann.",
+   "quote_clean": "Perfektionismus ist im Prinzip eine Vermeidungsstrategie. Ich vermeide ein Gefühl.",
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, als Position des Therapeuten ('laut') formuliert.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Bei akutem Stress hilft Distanz, und zwar zeitlich, räumlich und emotional, wobei die emotionale Distanz meist aus den ersten beiden folgt.",
+   "question": "Welche drei Arten von Distanz helfen laut Christian Asperger bei akutem Stress?",
+   "answer": "Zeitlich, räumlich, emotional",
+   "distractors": [
+    "Körperlich, sozial, finanziell",
+    "Beruflich, privat, digital",
+    "Sprachlich, zeitlich, sozial"
+   ],
+   "aha": "Nicht sofort Ja sagen, kurz rausgehen, Zeit gewinnen. Sobald du zeitlich und räumlich Abstand hast, kommt die emotionale Distanz meistens von selbst dazu.",
+   "quote_clean": "Distanzieren heißt entweder zeitlich distanzieren, also sich Zeit geben, nicht sofort Ja sagen oder nicht sofort antworten oder versuchen, Zeit zu gewinnen, oder räumlich distanzieren, aus der Situation gehen. Und das Dritte ist emotionale Distanzierung.",
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt wörtlich; klare Antwort.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Stress, der von innen kommt, ist laut Christian Asperger schlimmer als Stress von außen, weil man zu äußeren Anforderungen Nein sagen kann.",
+   "question": "Warum ist Stress, der von innen kommt, laut Christian Asperger schlimmer als Stress von außen?",
+   "answer": "Zu äußerem kann man Nein sagen",
+   "distractors": [
+    "Innerer Stress hält kürzer an",
+    "Äußerer Stress ist immer positiv",
+    "Innerer Stress ist körperlich"
+   ],
+   "aha": "Dem Chef kann man im Zweifel Nein sagen. Der inneren Stimme, die sagt, du musst perfekt sein und darfst niemanden enttäuschen, entkommt man viel schwerer.",
+   "quote_clean": "Das ist eigentlich das Schlimmere, weil im Außen kann ich sagen: Nein, mache ich nicht.",
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt; Begründung stimmt mit dem Ausschnitt überein.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Christian Asperger erklärt starre Überzeugungen mit einer Leiter am Apfelbaum: Sie hilft zum ersten Ast, aber weiter oben sollte man sie stehen lassen und klettern.",
+   "question": "Mit welchem Bild erklärt Christian Asperger, dass alte Strategien nicht in jeder Situation passen?",
+   "answer": "Leiter am Apfelbaum",
+   "distractors": [
+    "Fahrrad ohne Stützräder",
+    "Schirm bei Sonnenschein",
+    "Landkarte einer fremden Stadt"
+   ],
+   "aha": "Die Leiter bringt dich auf den ersten Ast, aber wer sie von Ast zu Ast mitschleppt, macht es sich kompliziert und gefährlich. Genauso mit Perfektionismus: Bewusst eingesetzt eine Stärke, überall angewandt laugt er dich aus.",
+   "quote_clean": "Einfacher wäre es, wenn du die Leiter unten stehen lässt und dann versuchst, mit den Händen und mit den Füßen raufzukraxeln. Und da geht's um diese Entscheidungsfreiheit.",
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (Leiter am Apfelbaum), aha deckt sich mit Ausschnitt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Ob Laufen, Psychotherapie oder religiöse Überzeugungen helfen, ist für Christian Asperger zweitrangig: Was heilt, hat recht.",
+   "question": "Was sagt Christian Asperger dazu, ob Laufen, Psychotherapie oder Glaube besser gegen Stress hilft?",
+   "answer": "Wer heilt, hat recht",
+   "distractors": [
+    "Nur Therapie wirkt nachhaltig",
+    "Sport schlägt alles andere",
+    "Am besten alles kombinieren"
+   ],
+   "aha": "Christian ist da pragmatisch: Hauptsache, du kennst deine Ressourcen und stärkst sie. Ob das Sport, Meditation oder Therapie ist, ist nicht so entscheidend.",
+   "quote_clean": "Ich sage immer: Wer heilt, hat recht, oder was heilt, hat recht.",
+   "i": 16,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Floskel 'wer heilt, hat recht' kann missverstanden werden (Esoterik); Distraktoren nicht eindeutig falsch; aha nennt Meditation, die nicht im Ausschnitt steht.",
+   "stand_note": "",
+   "quality": 2
+  },
+  {
+   "statement": "Resilienz bedeutet laut Christian Asperger, wie gut man das eigene Spannungslevel rauf- und wieder runterregeln kann, ähnlich wie die Herzfrequenz beim Ausdauertraining.",
+   "question": "Was versteht Christian Asperger unter Resilienz?",
+   "answer": "Spannung gut rauf- und runterregeln",
+   "distractors": [
+    "Nie gestresst zu sein",
+    "Stress einfach auszuhalten",
+    "Stress komplett zu vermeiden"
+   ],
+   "aha": "Resilient ist nicht, wer nie Stress hat, sondern wer von 50 auf 70 und wieder zurück kommt. Christian vergleicht das mit der Herzfrequenz beim Ausdauertraining.",
+   "quote_clean": "Und was allgemein unter dem Wort Stressmanagement oder Resilienz verstanden wird, ist: Wie gut kann ich diese Skala modulieren?",
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (Resilienz als Modulation der Skala), Herzfrequenz-Vergleich im Ausschnitt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Andreas war nach dem Schritt in die Selbstständigkeit anfangs so gestresst wie nie, obwohl er sich genau deshalb selbstständig gemacht hatte, um weniger Stress zu haben.",
+   "question": "Wie ging es Andreas am Anfang seiner Selbstständigkeit?",
+   "answer": "So gestresst wie nie",
+   "distractors": [
+    "Endlich völlig entspannt",
+    "Gelangweilt ohne Meetings",
+    "Genauso wie vorher"
+   ],
+   "aha": "Keine fixen Meetings, niemand, der sagt, was zu tun ist, und trotzdem nie eine leere To-do-Liste: Das hat ihn anfangs richtig gestresst. Dann hat er begonnen, seinen Tag realistisch mit Timeblock Planning zu planen.",
+   "quote_clean": "Ich konnte den ganzen Tag selber einteilen und ich war am Beginn so gestresst wie nie, obwohl ich mich selbstständig gemacht habe, um weniger gestresst zu sein.",
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Selbst erzählte Erfahrung von Andreas; 'Geholfen hat ihm am Ende' stand nicht im Ausschnitt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Andreas steigt ins Thema ein, indem er seinen Gast bittet, den Begriff Stress erst einmal zu definieren.",
+   "question": "Womit steigt Andreas nach der Vorstellung ins Gespräch über Stress ein?",
+   "answer": "Er bittet um eine Definition",
+   "distractors": [
+    "Er erzählt einen Witz",
+    "Er zitiert eine Studie",
+    "Er fragt das Publikum"
+   ],
+   "aha": "Erst klären, worüber man eigentlich redet: typisch Andreas. Christians Antwort: Stress ist eine Art Druck oder Spannung, die jede:r individuell wahrnimmt, und es gibt auch guten Stress.",
+   "quote_clean": "Christian, definier es mal bitte. Was ist denn Stress überhaupt und was passiert da in uns, wenn wir gestresst sind?",
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Gesprächsüberleitung, erfundene Distraktoren.",
+   "stand_note": "",
+   "quality": 1
+  }
+ ],
+ "id": "359",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

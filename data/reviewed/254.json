@@ -1,0 +1,274 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Datum bei 244 s belegt und korrekt; allerdings sehr bekanntes Allgemeinwissen.",
+   "stand_note": "",
+   "statement": "Adolf Hitler wurde am 20. April 1889 in Braunau am Inn geboren – ein Satz, den Kinder in der NS-Schule auswendig lernen mussten.",
+   "question": "In welchem Jahr wurde Adolf Hitler in Braunau am Inn geboren?",
+   "answer": "1889",
+   "distractors": [
+    "1879",
+    "1895",
+    "1901"
+   ],
+   "aha": "1889, am 20. April. Barbara hat das in der Nazischule so oft aufsagen müssen, dass sie es heute noch im Halbschlaf runterbeten könnte. So tief sitzt Schulstoff, auch der schlimmste.",
+   "quote_clean": "Wenn du mich um 3 Uhr früh weckst, kann ich sofort sagen: Unser Führer Adolf Hitler ist am 20. April 1889 in Braunau am Inn geboren. Das haben wir so gelernt.",
+   "quality": 2
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahlen von Barbara bei 398 s belegt; im Rahmen der Forschungsschätzungen (ca. 3 Mio. Vertriebene, Zehntausende Tote).",
+   "stand_note": "",
+   "statement": "Nach dem Zweiten Weltkrieg wurden rund drei Millionen Deutschsprachige aus der Tschechoslowakei vertrieben.",
+   "question": "Wie viele Millionen Deutschsprachige wurden nach 1945 aus der Tschechoslowakei vertrieben?",
+   "answer": "Rund 3 Millionen",
+   "distractors": [
+    "Rund 0,8 Millionen",
+    "Rund 1,5 Millionen",
+    "Rund 6 Millionen"
+   ],
+   "aha": "Rund drei Millionen Menschen mussten gehen, Zehntausende kamen dabei ums Leben. Barbara nennt es klar ein Unrecht, betont aber auch: Es ist ein Unterschied, ob man Leute nach Auschwitz schickt oder nach Bayern.",
+   "quote_clean": "Es war natürlich ein Unrecht: Es wurden drei Millionen Leute vertrieben und 30.000 umgebracht.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 285 s belegt (Kafka, Werfel, Brod).",
+   "stand_note": "",
+   "statement": "Prag war vor dem Zweiten Weltkrieg ein Zentrum der deutschsprachigen Literatur, etwa mit Franz Kafka, Franz Werfel und Max Brod.",
+   "question": "Welcher berühmte Schriftsteller gehörte zur deutschsprachigen Literaturszene Prags?",
+   "answer": "Franz Kafka",
+   "distractors": [
+    "Thomas Mann",
+    "Hermann Hesse",
+    "Bertolt Brecht"
+   ],
+   "aha": "Kafka, Werfel und Brod schrieben alle auf Deutsch – mitten in Prag. Die deutschsprachige Minderheit hatte dort Theater und eine lebendige Literaturszene, und das Nebeneinander ging laut Barbara bis zur Nazizeit halbwegs gut.",
+   "quote_clean": "Prag war ja ein Zentrum der deutschen Literatur, Kafka, Werfel, Brod – das war wirklich ein Brennpunkt.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 314 s belegt und historisch korrekt (Anschlusswunsch an Deutschösterreich 1918/19).",
+   "stand_note": "",
+   "statement": "Nach dem Ende der Habsburgermonarchie wollten die Deutschsprachigen im Sudetenland zu Österreich gehören, nicht zur Tschechoslowakei.",
+   "question": "Zu welchem Staat wollten die Sudetendeutschen nach 1918 eigentlich gehören?",
+   "answer": "Zu Österreich",
+   "distractors": [
+    "Zu Bayern",
+    "Zu Ungarn",
+    "Zu Sachsen"
+   ],
+   "aha": "Nach 1918 wollten die Deutschsprachigen in Westböhmen zu Deutschösterreich, durften aber nicht. Sie landeten in der Tschechoslowakei – ein Konflikt, den die Nazis später ausgenutzt haben.",
+   "quote_clean": "Das war wirklich eine deutsche Gegend, die wollten nicht in der Tschechoslowakei sein. Sie haben gewählt, sie wollten zu Österreich, aber das ging nicht nach dem Ende der Habsburgermonarchie.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 481-510 s belegt; historisch die Badeni-Sprachenverordnungen 1897.",
+   "stand_note": "",
+   "statement": "Im 19. Jahrhundert stürzte in der Habsburgermonarchie eine Regierung über die Regel, dass Beamte die Landessprache können müssen.",
+   "question": "Worüber stürzte im 19. Jahrhundert eine Regierung der Habsburgermonarchie?",
+   "answer": "Beamte sollten die Landessprache können",
+   "distractors": [
+    "Eine neue Steuer auf Bier",
+    "Die Einführung der Wehrpflicht",
+    "Ein Verbot kritischer Zeitungen"
+   ],
+   "aha": "Das waren die Badenischen Sprachenverordnungen 1897: Beamte in Böhmen sollten Deutsch und Tschechisch können. Deutschnationale liefen Sturm, ein Politiker war sogar stolz darauf, die „Dienstbotensprache“ nicht zu sprechen – und die Regierung war weg.",
+   "quote_clean": "Im 19. Jahrhundert ist eine Regierung gestürzt worden, weil es ein Gesetz gegeben hat: Beamte müssen die Landessprache können, dort wo sie sind.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Zitat bei 510 s belegt; Aha behauptete, der Vater habe dem Politiker direkt geantwortet, das sagt Barbara nicht.",
+   "stand_note": "",
+   "statement": "Barbaras Vater lehrte die Kinder, lieber auf etwas stolz zu sein, das man kann, als auf etwas, das man nicht kann.",
+   "question": "Worauf sollte man laut Barbaras Vater lieber stolz sein?",
+   "answer": "Auf etwas, das man kann",
+   "distractors": [
+    "Auf die eigene Herkunft",
+    "Auf den Familiennamen",
+    "Auf das eigene Land"
+   ],
+   "aha": "Barbara erzählt den Satz gleich nach der Geschichte vom deutschen Politiker, der stolz darauf war, die „Dienstbotensprache“ nicht zu sprechen. Trockener kann man so einen Stolz kaum zerlegen.",
+   "quote_clean": "Unser Vater hat uns immer gesagt: Wenn man schon auf etwas stolz sein muss, dann lieber auf etwas, was man kann, als auf etwas, was man nicht kann.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 538-568 s belegt (Karikatur zum slowakischen Ministerpräsidenten).",
+   "stand_note": "",
+   "statement": "Das 19. Jahrhundert war die Zeit der Nationalstaaten – darum hatte es der Vielvölkerstaat der Habsburger so schwer.",
+   "question": "Eine Karikatur sagte: „Jedes Volk braucht sein 19. Jahrhundert.“ Was ist damit gemeint?",
+   "answer": "Jedes Volk will seinen Nationalstaat",
+   "distractors": [
+    "Jedes Volk braucht einen Kaiser",
+    "Jedes Volk braucht eine Revolution",
+    "Jedes Volk braucht Kolonien"
+   ],
+   "aha": "Erst wollten die Tschechen raus aus dem Habsburgerreich, nach der Wende dann die Slowaken raus aus der Tschechoslowakei. Jedes Volk holt sein 19. Jahrhundert nach, als Nationalstaaten in Mode kamen – eben mit Verspätung.",
+   "quote_clean": "Jedes Volk braucht sein 19. Jahrhundert. Und das 19. Jahrhundert war einfach die Zeit der Nationalstaaten, und der Habsburger Vielvölkerstaat hat es schon schwer gehabt.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 936 s belegt (Transkription 'Langschild' = Langschädel aus Kontext klar).",
+   "stand_note": "",
+   "statement": "Beim Schädelmessen in der Nazischule hatte einer von Barbaras Brüdern einen „germanischen Langschädel“, der andere einen „slawischen Rundschädel“.",
+   "question": "Was fiel Barbara beim Schädelmessen an ihren Brüdern auf?",
+   "answer": "Einer Langschädel, einer Rundschädel",
+   "distractors": [
+    "Beide hatten Rundschädel",
+    "Beide exakt gleich gemessen",
+    "Keiner passte ins Schema"
+   ],
+   "aha": "Zwei Brüder, zwei „Rassen“ – das konnte der kleinen Barbara niemand erklären, auch die Lehrerin nicht. Manchmal entlarvt ein Kind eine Ideologie schneller als jedes Buch.",
+   "quote_clean": "Von meinen Brüdern hatte einer einen germanischen Langschädel und der andere einen slawischen Rundschädel, und ich habe mir die ganze Zeit gedacht: Wie gibt's das, die sind ja Brüder.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Aussage bei 1027 s belegt, aber das Distraktor 15 kollidiert mit den Flakhelfern (15-Jährige), daher ersetzt; Aha übertrieb ('ab an die Front').",
+   "stand_note": "",
+   "statement": "Gegen Ende des Zweiten Weltkriegs wurden Burschen schon mit 17 Jahren zum Militär eingezogen.",
+   "question": "Mit wie vielen Jahren wurden Burschen gegen Kriegsende schon zum Militär eingezogen?",
+   "answer": "17",
+   "distractors": [
+    "19",
+    "21",
+    "23"
+   ],
+   "aha": "Mit 17 zum Militär, nach Jahren in der Hitlerjugend. Barbaras Vater und zwei Brüder waren im Krieg – und für die Kinder war das, wie sie sagt, einfach der normale Hintergrund des Alltags.",
+   "quote_clean": "Wir waren natürlich alle in der Hitlerjugend, und meine Brüder – die haben ja dann schon mit 17 die Jungs eingezogen zum Militär.",
+   "quality": 2
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1198 s belegt; Opferthese ist historisch gesichert als Nachkriegsnarrativ.",
+   "stand_note": "",
+   "statement": "Im Nachkriegsösterreich lernte man in Schule und Uni das Bild von Österreich als Opfer, das mit den Nazis nichts zu tun hatte.",
+   "question": "Welches Selbstbild lernte man nach 1945 an Österreichs Schulen und Unis?",
+   "answer": "Österreich als Opfer der Nazis",
+   "distractors": [
+    "Österreich als Siegermacht",
+    "Österreich als Widerstandsnation",
+    "Österreich als Teil Deutschlands"
+   ],
+   "aha": "Über die Nazizeit hat Barbara an Schule und Uni in Österreich praktisch nichts erfahren. Erst die nächste Generation hat gefragt: Hallo, was war da eigentlich?",
+   "quote_clean": "Wir waren das kleine brave Österreich, das Opfer, und mit Deutschland haben wir nichts zu tun gehabt, mit den Nazis haben wir nichts zu tun gehabt.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1516-1545 s belegt.",
+   "stand_note": "",
+   "statement": "1945 glich die Lage auf den Straßen einer Völkerwanderung: heimkehrende Soldaten, Flüchtlinge und befreite KZ-Häftlinge waren unterwegs.",
+   "question": "Womit vergleicht Barbara die Lage auf den Straßen im Jahr 1945?",
+   "answer": "Mit einer Völkerwanderung",
+   "distractors": [
+    "Mit einem Volksfest",
+    "Mit einer Pilgerreise",
+    "Mit einem Truppenaufmarsch"
+   ],
+   "aha": "Massen von Menschen waren gleichzeitig unterwegs, kaum jemand hatte etwas. Trotzdem erinnert sich Barbara an viel Solidarität – irgendwas zu essen hat die Familie auf dem Weg nach Österreich immer bekommen.",
+   "quote_clean": "Dieses Jahr 45, das war eine Völkerwanderung. Die Straßen waren voll mit Soldaten, die nach Hause wollten, mit Flüchtlingen und Leuten, die aus dem KZ gekommen sind.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "transkription",
+    "ton"
+   ],
+   "note": "Bei 1603 s belegt; Beschreibung der Familie im Transkript unklar verhört ('salute'), daher neutral formuliert.",
+   "stand_note": "",
+   "statement": "Als die erschöpfte Flüchtlingsfamilie in Österreich an einer Tür läutete, sagte eine alte Dame: Kommen Sie herein, Sie sind willkommen.",
+   "question": "Was sagte die alte Dame, als Barbaras Flüchtlingsfamilie bei ihr läutete?",
+   "answer": "Kommen Sie herein, Sie sind willkommen",
+   "distractors": [
+    "Hier ist leider kein Platz",
+    "Gehen Sie zum Pfarrer",
+    "Nur für eine einzige Nacht"
+   ],
+   "aha": "Die Mutter war am Ende ihrer Kräfte, und die Antwort an der Tür war ein Willkommen. Barbara fragt sich bis heute, ob sie selbst so reagieren würde.",
+   "quote_clean": "Mein Vater hat bei einem Haus geläutet, und das werde ich nie vergessen: Es kam eine alte Dame heraus und hat gesagt: Kommen Sie herein, Sie sind willkommen.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Bei 2875 s belegt; Aha enthielt unbelegte Zusatzbehauptung (wichtigster Moment ihres Berufslebens).",
+   "stand_note": "",
+   "statement": "Barbara erlebte die Samtene Revolution in Prag als Sternstunde, weil sich alle von ihrer besten Seite zeigten.",
+   "question": "Wie hat Barbara die Tage der Samtenen Revolution in Prag erlebt?",
+   "answer": "Als Sternstunde",
+   "distractors": [
+    "Als gefährliches Chaos",
+    "Als große Enttäuschung",
+    "Als reine Formsache"
+   ],
+   "aha": "Für sie war es ein Moment, in dem nicht die Lauten und Brutalen vorne standen, sondern die besten Leute im Zentrum. Und das Ganze ohne Blutvergießen, weshalb man von einer sanften oder samtenen Revolution sprach.",
+   "quote_clean": "Ich habe es als Sternstunde erlebt, weil sich wirklich alle irgendwie von ihrer besten Seite gezeigt haben.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zur Schlussfrage des Interviews, kein Wissen.",
+   "stand_note": "",
+   "statement": "Zum Schluss fragte Andreas, wie man ein politischer, moralischer Mensch bleibt, der nicht zynisch wird.",
+   "question": "Was wollte Andreas zum Abschluss von Barbara wissen?",
+   "answer": "Wie man nicht zynisch wird",
+   "distractors": [
+    "Was sie heute anders machen würde",
+    "Ob sie zurück nach Prag will",
+    "Welche Folge sie am liebsten hört"
+   ],
+   "aha": "",
+   "quote_clean": "Wie bleibt man ein politischer, moralischer Mensch, der nicht aufgibt, der nicht zynisch wird, sondern der aktiv ist und was tut?",
+   "quality": 1
+  }
+ ],
+ "id": "254",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

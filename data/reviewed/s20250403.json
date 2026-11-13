@@ -1,0 +1,288 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 1074 stimmt; 'normalerweise' ist Koethers Faustwert (Frischware oft häufiger), daher 'laut Koether' ergänzt.",
+   "stand_note": "",
+   "statement": "Laut Logistikprofessor Reinhard Koether wird ein Supermarkt normalerweise zwei- bis dreimal pro Woche beliefert.",
+   "question": "Wie oft pro Woche wird ein Supermarkt laut Reinhard Koether normalerweise ungefähr beliefert?",
+   "answer": "Zwei- bis dreimal",
+   "distractors": [
+    "Einmal",
+    "Fünf- bis sechsmal",
+    "Zehnmal"
+   ],
+   "aha": "Der Supermarkt tickt wie dein Haushalt: Er legt so viel Vorrat an, dass es bis zur nächsten Lieferung reicht. Kaufen plötzlich alle auf einmal Klopapier, ist das Regal leer, bevor der nächste Lkw kommt.",
+   "quote_clean": "Der Supermarkt wird normalerweise zwei, drei Mal in der Woche beliefert. Und die schauen dann auch, dass sie genügend Vorräte haben",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1094-1118 stimmt. 'Im ersten Lockdown' steht nicht im Ausschnitt und im Aha war 'Fabriken produzieren weiter' nicht belegt; beides entfernt.",
+   "stand_note": "",
+   "statement": "Leere Supermarktregale bei Nachfragespitzen funktionieren laut Reinhard Koether wie ein leerer Biervorrat, wenn unerwartet viele Freunde zu Besuch kommen.",
+   "question": "Mit welchem Bild erklärt Reinhard Koether leere Klopapier-Regale bei Hamsterkäufen?",
+   "answer": "Freunde leeren unerwartet den Biervorrat",
+   "distractors": [
+    "Ein Stau auf der Autobahn",
+    "Ein Wasserhahn, der tropft",
+    "Ein Kühlschrank ohne Strom"
+   ],
+   "aha": "Dein Vorrat ist auf normalen Verbrauch ausgelegt, nicht auf eine spontane Party. Genauso der Supermarkt: Wenn alle aus Angst mehr kaufen als üblich, sind die Regale ruckzuck leer.",
+   "quote_clean": "Im Privatbereich würde zum Beispiel die Nachfrage steigen, wenn plötzlich viele Freunde kommen und die Biervorräte miteinander leeren.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1203 stimmt (Fachbegriff kommissioniert). Distraktor 'Konsolidieren' (Sendungen bündeln) ist zu nah am Gemeinten, ersetzt.",
+   "stand_note": "",
+   "statement": "Das Zusammenstellen der bestellten Waren für einen Supermarkt im Verteilzentrum heißt in der Logistik Kommissionieren.",
+   "question": "Wie heißt es in der Logistik, wenn im Verteilzentrum die bestellten Waren für einen Supermarkt zusammengesucht werden?",
+   "answer": "Kommissionieren",
+   "distractors": [
+    "Disponieren",
+    "Avisieren",
+    "Retournieren"
+   ],
+   "aha": "Im Verteilzentrum macht jemand im Grunde deinen Wocheneinkauf, nur in groß: Klopapier, Zahnpasta, Ravioli-Dosen und Marmelade landen gemeinsam auf einer Palette. Die fährt dann zum Supermarkt.",
+   "quote_clean": "Man nennt das im Fachbegriff kommissioniert. Im Prinzip ist es genau dasselbe, wie wenn der Verbraucher zum Einkaufen geht.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1377-1385 stimmt. Distraktoren wie Niederlande/Lkw sind nicht eindeutig falsch (Rosenhandel läuft real auch über die Niederlande); Frage auf das belegte Transportmittel bei Importen aus Ecuador/Kenia umgestellt.",
+   "stand_note": "",
+   "statement": "Rosen, die im Februar aus Ecuador oder Kenia kommen, werden laut Reinhard Koether typischerweise im Flugzeug nach Europa gebracht.",
+   "question": "Wie kommen Rosen aus Ecuador oder Kenia laut Reinhard Koether typischerweise im Februar nach Europa?",
+   "answer": "Im Flugzeug",
+   "distractors": [
+    "Im Containerschiff",
+    "Mit der Bahn",
+    "Im Kühl-Lkw"
+   ],
+   "aha": "Mit Luftfracht kommt alles, was schnell gehen muss oder sehr teuer ist. Rosen per Schiff wären bei der Ankunft eher Trockenblumen, und die will am Valentinstag eher niemand.",
+   "quote_clean": "Im Februar wachsen bei uns logischerweise keine Rosen. Also kommen die Rosen entweder aus Ecuador oder aus Kenia. Und die werden typischerweise im Flieger nach Europa gebracht.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1414-1422 stimmt, Aha deckt sich mit 1429-1452.",
+   "stand_note": "",
+   "statement": "Normale Passagierflugzeuge transportieren in ihrem Bauch neben dem Gepäck auch Luftfracht.",
+   "question": "Was ist im Bauch eines normalen Passagierflugzeugs außer dem Gepäck der Reisenden oft noch verstaut?",
+   "answer": "Luftfracht, also Waren",
+   "distractors": [
+    "Nur Ersatzteile für das Flugzeug",
+    "Zusätzliche Treibstofftanks",
+    "Nichts, der Raum bleibt leer"
+   ],
+   "aha": "Unten Fracht, oben du mit deinem Bordmenü. Deshalb hatte die Logistik im Corona-Jahr ein Problem: Als kaum Passagiere flogen, fiel auch diese Frachtkapazität weg, und Airlines mussten auf reine Frachtmaschinen umstellen.",
+   "quote_clean": "Die haben in ihrem Bauch nicht nur das Gepäck der Passagiere, sondern auch Luftfracht. Das ist ungefähr halb halb.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1549-1562 stimmt (Schiff braucht pro Tonnenkilometer am wenigsten Energie); entspricht dem Stand für große Containerschiffe.",
+   "stand_note": "",
+   "statement": "Pro Tonnenkilometer braucht das Schiff von allen Transportmitteln am wenigsten Energie.",
+   "question": "Welches Transportmittel braucht pro Tonne und Kilometer am wenigsten Energie?",
+   "answer": "Das Schiff",
+   "distractors": [
+    "Die Eisenbahn",
+    "Der Lkw",
+    "Das Flugzeug"
+   ],
+   "aha": "So ein Riesenschiff verbraucht absolut gesehen natürlich enorm viel. Aber verteilt auf tausende Container bleibt pro Tonne und Kilometer fast nichts übrig, das schlägt sogar die Bahn.",
+   "quote_clean": "Unter allen Transportmitteln, die wir haben, Eisenbahn, Lkw, Flugzeug, ist das Schiff mit Abstand das günstigste.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "veraltet",
+    "fairness"
+   ],
+   "note": "'Wer hat's gesagt' ist nicht spielbar: Distraktoren (Metzler, Haidt) sind sofort auszuschließen. Die Aussage zu Schweröl und 'rechtsfreiem Raum' ist überspitzt und seit der IMO-Schwefelgrenze 2020 überholt.",
+   "stand_note": "Stand 2021",
+   "statement": "Schweröl, mit dem große Schiffe fahren, ist der Rest, der in der Raffinerie übrig bleibt.",
+   "question": "Wer hat's gesagt: „Dieses Schweröl ist so der letzte Dreck, der in der Raffinerie übrig bleibt“?",
+   "answer": "Reinhard Koether",
+   "distractors": [
+    "Andreas Sator",
+    "Hannah Metzler",
+    "Jonathan Haidt"
+   ],
+   "aha": "Der Logistikprofessor nimmt sich kein Blatt vor den Mund: Containerschiffe verbrennen im Prinzip Teer. Möglich ist das, weil die hohe See bei Umweltgesetzen lange fast ein rechtsfreier Raum war.",
+   "quote_clean": "Das Schiff fährt mit Dieselmotoren, und diese Dieselmotoren fahren im Prinzip mit Teer. Dieses Schweröl, das sie verbrennen, ist so der letzte Dreck, der in der Raffinerie übrig bleibt.",
+   "quality": 1
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Beleg bei 1676 stimmt (20.000 kleine Container, real sind die größten inzwischen bei rund 24.000). Als grobe Angabe 'laut Koether' mit Stand markiert; Rechnung im Aha stimmt (20.000 mal halbe Lkw-Ladung = 10.000 Lkw).",
+   "stand_note": "Stand 2021",
+   "statement": "Die größten Containerschiffe fassen laut Reinhard Koether rund 20.000 kleine Container, von denen jeder etwa eine halbe Lkw-Ladung fasst.",
+   "question": "Wie viele kleine Container passen laut Reinhard Koether ungefähr auf die größten Containerschiffe?",
+   "answer": "Rund 20.000",
+   "distractors": [
+    "Rund 2.000",
+    "Rund 8.000",
+    "Rund 45.000"
+   ],
+   "aha": "Je größer ein Schiff, desto weniger Sprit braucht es pro Container, darum werden die Pötte immer größer. Ein kleiner Container ist dabei etwa eine halbe Lkw-Ladung, stell dir also 10.000 Lkw auf einem Schiff vor.",
+   "quote_clean": "Die größten haben 20.000 kleine Container, die sind halb so groß wie eine Lkw-Ladung.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1684-1694 stimmt (Größenvorteil: weniger Sprit pro Container).",
+   "stand_note": "",
+   "statement": "Containerschiffe werden immer größer, weil sie pro Container umso weniger Treibstoff brauchen, je größer sie sind.",
+   "question": "Warum werden Containerschiffe immer größer?",
+   "answer": "Weniger Sprit pro Container",
+   "distractors": [
+    "Häfen verlangen Mindestgrößen",
+    "Größere Schiffe sind schneller",
+    "Kleine Schiffe sind verboten"
+   ],
+   "aha": "Ein doppelt so großes Schiff braucht nicht doppelt so viel Treibstoff. Darum laufen die großen Warenströme zwischen Asien, Europa und Nordamerika über immer gigantischere Containerriesen.",
+   "quote_clean": "Diese Größe der Schiffe hängt damit zusammen, dass sie, je größer sie sind, desto weniger Sprit pro Container brauchen. Deswegen werden die Schiffe immer größer.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg bei 1764-1768 stimmt; Ziel 2040 gilt laut Regierungsprogramm weiterhin, ist aber ein politisches Ziel und kann sich ändern.",
+   "stand_note": "Stand 2025",
+   "statement": "Österreich hat sich das Ziel gesetzt, bis 2040 klimaneutral zu sein.",
+   "question": "Bis zu welchem Jahr will Österreich laut seinem Klimaziel klimaneutral sein?",
+   "answer": "2040",
+   "distractors": [
+    "2030",
+    "2050",
+    "2060"
+   ],
+   "aha": "Österreich hat sich ein ehrgeizigeres Ziel gesetzt als viele andere Länder, die 2050 anpeilen, China nennt 2060. Ernst gemeint heißt das: Auch Lkw, Schiffe und Flieger müssen irgendwie ohne fossilen Sprit auskommen.",
+   "quote_clean": "Österreich will bis 2040 klimaneutral sein, viele andere Länder bis 2050, China bis 2060.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Koether nennt grob 30 Prozent Verlust je Schritt; reale Wirkungsgrade (Elektrolyse, Brennstoffzelle bzw. Motor) liegen je nach Technik anders, der Gesamtwert ist eine grobe Faustzahl von 2021 und als Spielfakt zu angreifbar.",
+   "stand_note": "Stand 2021",
+   "statement": "Bei der Umwandlung von Strom in Wasserstoff und zurück gehen pro Schritt etwa 30 Prozent der Energie verloren, am Ende bleibt rund die Hälfte.",
+   "question": "Wie viel Prozent der Energie gehen ungefähr bei jedem der beiden Schritte verloren, wenn man Strom in Wasserstoff und wieder in Antriebsenergie umwandelt?",
+   "answer": "Rund 30 Prozent",
+   "distractors": [
+    "Rund 5 Prozent",
+    "Rund 60 Prozent",
+    "Rund 80 Prozent"
+   ],
+   "aha": "Zweimal 30 Prozent Verlust hintereinander heißt: Von deinem Ökostrom kommt am Ende nur etwa die Hälfte im Antrieb an. Für Schiffe und Flieger ist Wasserstoff trotzdem eine der wenigen sichtbaren Optionen, prickelnd ist der Wirkungsgrad halt nicht.",
+   "quote_clean": "Bei beiden Umwandlungsprozessen gehen ungefähr 30 Prozent der Energie verloren, sodass man am Schluss nur noch die Hälfte hat gegenüber dem reinen Strom.",
+   "quality": 2
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg bei 2038-2083 stimmt; im Aha war 'wieder aufgefressen' stärker als Koethers 'teilweise wieder aufgebraucht'. Korrigiert.",
+   "stand_note": "",
+   "statement": "Die globale Produktion lohnt sich laut Reinhard Koether, weil ein einziger Lieferant für die ganze Welt billiger produzieren kann als mehrere regionale; teurer Transport schmälert diesen Vorteil teilweise.",
+   "question": "Was treibt laut Reinhard Koether das Modell an, Waren an einem Ort für die ganze Welt zu produzieren?",
+   "answer": "Größere Mengen senken die Stückkosten",
+   "distractors": [
+    "Transport ist teurer als Produktion",
+    "Zölle sind überall gleich hoch",
+    "Regionale Lieferanten sind zu langsam"
+   ],
+   "aha": "Wer mehr produziert, produziert pro Stück billiger. Dieser Vorteil wird durch die Transportkosten teilweise wieder aufgebraucht, und je teurer der Transport wird, desto eher lohnt sich die Jeans aus Europa statt aus Bangladesch.",
+   "quote_clean": "Wenn ein Lieferant die ganze Welt versorgen kann, dann kann er billiger produzieren als drei Lieferanten, die zum Beispiel in Europa, in Ostasien und in Nordamerika sitzen.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 2588-2593 stimmt. 'Wer hat's gesagt' ist bei nur zwei Sprechern und Fantasie-Distraktoren nicht spielbar; auf eine Inhaltsfrage umgestellt.",
+   "stand_note": "",
+   "statement": "Die Bahn eignet sich laut Reinhard Koether gut für lange Strecken mit großen Mengen, aber schlecht für die Verteilung bis zur Kundschaft.",
+   "question": "Wofür eignet sich die Bahn im Gütertransport laut Reinhard Koether gut und wofür schlecht?",
+   "answer": "Gut für die Langstrecke, schlecht für die Verteilung bis zum Kunden",
+   "distractors": [
+    "Gut für die Verteilung bis zum Kunden, schlecht für die Langstrecke",
+    "Gut für kleine Mengen, schlecht für große Mengen",
+    "Gut für alles, nur viel zu teuer"
+   ],
+   "aha": "Ein ganzer Zug von Hamburg nach Wien: super. Ein einzelner Waggon von Buxtehude in ein Dorf im Burgenland: zu wenig Menge. Auf der Kurzstrecke gibt es praktisch keine Alternative zum Lkw.",
+   "quote_clean": "Die Bahn ist gut für die Langstrecke, wo große Mengen zusammengefasst werden. Aber sie ist schlecht in der Verteilung bis zum Kunden hin.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Floskel-Frage ('Was nehme ich mir mit') ohne Wissensgewinn; Distraktoren sind austauschbare Synonyme, nicht eindeutig lösbar.",
+   "stand_note": "",
+   "statement": "Andreas fasst am Ende der Folge mit „Was nehme ich mir mit“ zusammen, was er gelernt hat.",
+   "question": "Mit welcher Formulierung leitet Andreas am Ende dieser Folge seine Zusammenfassung ein?",
+   "answer": "„Was nehme ich mir mit“",
+   "distractors": [
+    "„Was lernen wir daraus“",
+    "„Kurz zusammengefasst“",
+    "„Mein Fazit für heute“"
+   ],
+   "aha": "Nach dem Gespräch fasst Andreas für sich zusammen, was hängen geblieben ist. Diesmal: Dass Jeans, Handys und Klopapier zur rechten Zeit am rechten Ort sind, ist ein riesiger Aufwand, für den sich hunderttausende Leute den Kopf zerbrechen.",
+   "quote_clean": "Was nehme ich mir mit? Dass unsere Jeans, Handys, Essen, Klopapier und so weiter alles zur rechten Zeit am rechten Ort ist,",
+   "quality": 1
+  }
+ ],
+ "id": "s20250403",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

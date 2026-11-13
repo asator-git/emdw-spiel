@@ -1,0 +1,282 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 811 wörtlich ('circa 60 Prozent'), mit 'laut Streicher' attribuiert, Größenordnung passt zur Literatur.",
+   "stand_note": "",
+   "statement": "Rund 60 Prozent der Einkäufe in Supermärkten sind ungeplant.",
+   "question": "Wie viel Prozent der Einkäufe im Supermarkt sind laut Mathias Streicher ungeplant?",
+   "answer": "Circa 60 Prozent",
+   "distractors": [
+    "Circa 20 Prozent",
+    "Circa 35 Prozent",
+    "Circa 85 Prozent"
+   ],
+   "aha": "Mehr als die Hälfte von dem, was im Wagerl landet, stand auf keiner Liste. Das ist nicht nur Verführung: Oft erinnert dich das Regal einfach an die Milch, die daheim eh fehlt.",
+   "quote_clean": "Es gibt Daten, die zeigen, dass circa 60 Prozent der Einkäufe in Supermärkten ungeplant sind.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 824-828 eindeutig ('bis zu 70 Prozent in den ganz großen Läden').",
+   "stand_note": "",
+   "statement": "In sehr großen Supermärkten können bis zu 70 Prozent der Einkäufe ungeplant sein.",
+   "question": "Wie hoch kann der Anteil ungeplanter Einkäufe in ganz großen Supermärkten laut Mathias Streicher werden?",
+   "answer": "Bis zu 70 Prozent",
+   "distractors": [
+    "Bis zu 40 Prozent",
+    "Bis zu 50 Prozent",
+    "Bis zu 90 Prozent"
+   ],
+   "aha": "Mehr Fläche heißt mehr Regale, an denen du vorbeigehst, und damit mehr Gelegenheiten für ein spontanes Ja. Im Riesenmarkt sind dann bis zu sieben von zehn Käufen nicht geplant.",
+   "quote_clean": "Je größer der Laden, desto größer ist auch das Verführungspotenzial. Und dann kann das sogar bis zu 70 Prozent betragen in den ganz großen Läden.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1594-1598 klar (15.000 bis 20.000, Hypermarkt 30.000 bis 40.000).",
+   "stand_note": "",
+   "statement": "Ein durchschnittlicher Supermarkt führt etwa 15.000 bis 20.000 verschiedene Artikel.",
+   "question": "Wie viele verschiedene Artikel stehen laut Mathias Streicher ungefähr in einem durchschnittlichen Supermarkt?",
+   "answer": "15.000 bis 20.000",
+   "distractors": [
+    "2.000 bis 3.000",
+    "5.000 bis 7.000",
+    "50.000 bis 60.000"
+   ],
+   "aha": "Bei so vielen Produkten wäre es unmöglich, jedes bewusst abzuwägen. Darum läuft beim Einkaufen vieles automatisch. In Hypermärkten sollen es sogar 30.000 bis 40.000 Artikel sein.",
+   "quote_clean": "In so einem durchschnittlichen Supermarkt stehen irgendwas zwischen 15.000 und 20.000 Artikel drin.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 692-710 stimmt, ist aber ein Studienbefund laut Streicher mit 'ein bisschen drunter'; Attribution ergänzt.",
+   "stand_note": "",
+   "statement": "Laut Mathias Streicher laufen Produkte im Regal nicht auf Augenhöhe am besten, sondern etwas darunter auf Brusthöhe.",
+   "question": "Auf welcher Regalhöhe laufen Produkte laut Mathias Streicher besonders gut?",
+   "answer": "Auf Brusthöhe",
+   "distractors": [
+    "Genau auf Augenhöhe",
+    "Ganz oben im Regal",
+    "Ganz unten am Boden"
+   ],
+   "aha": "Wir schauen gern ein bisschen auf Produkte runter, und auf Brusthöhe sind sie auch noch leicht zu greifen. Dort stehen deshalb vor allem Produkte, an denen der Händler gut verdient.",
+   "quote_clean": "Früher hat man immer gesagt: Eye-Level is Buy-Level, Augenhöhe ist Kaufhöhe. Aber das stimmt nicht ganz. Es ist ein bisschen drunter, auf Brusthöhe.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Racetrack bei 513-519 belegt ('oft' außen); im aha waren Brot und Milch entlang der Strecke nicht belegt, gestrichen.",
+   "stand_note": "",
+   "statement": "Der dominante Laufweg im Supermarkt liegt oft im Außenbereich und heißt im Englischen „Racetrack“.",
+   "question": "Wie nennt man im Englischen den dominanten Laufweg, der oft außen durch den Supermarkt führt?",
+   "answer": "Racetrack",
+   "distractors": [
+    "Highway",
+    "Main Street",
+    "Loop Line"
+   ],
+   "aha": "Der Weg ist oft breiter gestaltet, weil Menschen automatisch dorthin gehen, wo freie Fläche ist. So sorgt der Laden dafür, dass du möglichst den ganzen Markt abläufst und viel zu sehen bekommst.",
+   "quote_clean": "Normalerweise gibt es so einen dominanten Laufpfad in jedem Supermarkt. Der ist oft im Außenbereich zu finden. Er wird im Englischen auch Racetrack genannt, also wie eine Rennstrecke.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1021-1053 klar; Antwort war deutlich länger als die Distraktoren und 'Auch mehr' vs 'Nur mehr' verraten die Lösung, daher angeglichen.",
+   "stand_note": "",
+   "statement": "Wer mit moderatem Hunger einkauft, kauft nicht nur mehr Lebensmittel, sondern auch mehr Dinge, die nichts mit Essen zu tun haben.",
+   "question": "Was kaufen Menschen mit moderatem Hunger laut Mathias Streicher im Supermarkt zusätzlich mehr?",
+   "answer": "Auch Dinge wie Spülmittel",
+   "distractors": [
+    "Nur Süßigkeiten",
+    "Nur Fertiggerichte",
+    "Weniger, aber Teureres"
+   ],
+   "aha": "Hunger setzt uns eine Art Will-haben-Brille auf, und die gilt dann für alles im Laden. So landet hungrig auch zusätzliches Druckerpapier im Wagerl. Bei sehr großem Hunger kann der Einkauf allerdings sogar abgebrochen werden.",
+   "quote_clean": "Es führt dazu, dass wir nicht nur mehr Nahrungsmittel einkaufen, sondern sogar auch mehr Büroprodukte und mehr Spülmittel, also Dinge, die gar nichts mit Essen zu tun haben.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Beleg bei 1156-1181 klar; Distraktoren 'Lagerfläche' und 'Lebensmittelabfall' sind real mögliche Gründe, daher ersetzt, Frage auf Streichers Aussage zugeschnitten.",
+   "stand_note": "",
+   "statement": "Brotbackautomaten im Supermarkt sind laut Streicher zugleich Marketingmaschinen, weil ihr Duft Emotionen weckt und die Kaufmotivation steigert.",
+   "question": "Warum sind Brotbackautomaten im Supermarkt laut Mathias Streicher auch „Marketingmaschinen“?",
+   "answer": "Ihr Duft steigert die Kaufmotivation",
+   "distractors": [
+    "Sie verkürzen die Wartezeit an der Kasse",
+    "Sie sind gesetzlich vorgeschrieben",
+    "Sie kühlen die Ware im Regal"
+   ],
+   "aha": "Düfte haben einen direkten Draht zu unseren Emotionen und wecken das Thema Frische, das für den Lebensmittelhandel zentral ist. Das gibt es inzwischen sogar in Discountern.",
+   "quote_clean": "Diese Brotbackautomaten sind im Grunde gleichzeitig auch Marketingmaschinen, weil sie einen unglaublich angenehmen Duft versprühen.",
+   "quality": 4
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Preisanker/Tendenz zur Mitte bei 1976-2042 belegt und von Streicher bestätigt ('gibt es in Supermärkten genauso'); der zitierte Satz ist eher Andreas' Zusammenfassung, der Inhalt aber gedeckt.",
+   "stand_note": "",
+   "statement": "Ein sehr teures Produkt setzt einen Preisanker, sodass viele am Ende zur mittleren Preisstufe greifen.",
+   "question": "Wozu führt es oft, wenn neben einem billigen auch ein sehr teures Produkt im Regal steht?",
+   "answer": "Man greift zum mittleren Produkt",
+   "distractors": [
+    "Man greift zum billigsten Produkt",
+    "Man greift zum teuersten Produkt",
+    "Man kauft gar nichts"
+   ],
+   "aha": "Das Teure steckt die Obergrenze ab, das Billige wirkt zu billig, und die Mitte fühlt sich wie ein guter Deal an. Diese Tendenz zur Mitte gibt es beim Fernseher genauso wie im Supermarkt.",
+   "quote_clean": "Das heißt, ich setze meinen Anker auf dem Teuren. Das ist die obere Grenze, die meine Erwartungshaltung bildet. Dann sehe ich das ganz Günstige und entscheide mich letztlich für die Mitte.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 2224-2235 klar; es ist Streichers Forschungsbeobachtung, Attribution ergänzt.",
+   "stand_note": "",
+   "statement": "Laut Streicher ähnelt das Schieben eines Standard-Einkaufswagens einer Wegstoßbewegung, wie sie einem Abwehrverhalten entspricht.",
+   "question": "Welcher Bewegung ähnelt das Schieben eines normalen Einkaufswagens laut Mathias Streicher?",
+   "answer": "Einer Wegstoß- oder Abwehrbewegung",
+   "distractors": [
+    "Einer Umarmung",
+    "Einer Heranzieh-Bewegung",
+    "Einer Greifbewegung"
+   ],
+   "aha": "Seit Kindesbeinen verbinden wir Wegstoßen mit „Igitt, geh weg“. Ausgerechnet beim Einkaufen machen wir also die Bewegung der Ablehnung. Streichers Team hat deshalb einen Prototyp gebaut, bei dem man eher zu sich heranzieht.",
+   "quote_clean": "Uns ist dann irgendwann aufgefallen, dass Einkaufswagen tatsächlich so konstruiert sind, dass sie beim Schieben eher ein Abwehrverhalten nachahmen, also eher eine Wegstoßbewegung.",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage, Antwort ist offensichtlich der Gast; Zitat ist eine persönliche Meinung.",
+   "stand_note": "",
+   "statement": "Der Konsumforscher hält die Frage nach dem freien Willen für eine spirituelle bzw. religiöse Frage.",
+   "question": "Wer hat's gesagt: „Die Frage nach dem freien Willen ist aus meiner Sicht eine spirituelle beziehungsweise religiöse Frage“?",
+   "answer": "Mathias Streicher",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Neurologe",
+    "Ein Supermarktmanager"
+   ],
+   "aha": "Dass vieles automatisch läuft, ist laut Streicher eher eine Arbeitserleichterung fürs Gehirn.",
+   "quote_clean": "Die Frage nach dem freien Willen ist aus meiner Sicht eine spirituelle beziehungsweise religiöse Frage. Es ist, glaube ich, in der Forschung nicht einmal ganz geklärt, was eigentlich freier Wille ist.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage mit trivialer Antwort und ohne Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Hungrig einkaufen ist laut dem Forscher die moderne Version des Jagens und Sammelns.",
+   "question": "Wer hat's gesagt: „Das ist die moderne Version des Jagens und Sammelns“ – über das hungrige Einkaufen?",
+   "answer": "Mathias Streicher",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Ernährungsberaterin",
+    "Ein Steinzeitforscher"
+   ],
+   "aha": "Andreas meinte, wir gehen quasi als Primaten in den Supermarkt.",
+   "quote_clean": "Ja, das ist die moderne Version des Jagens und Sammelns.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt wäre trivial; Streichers Tipp bei 755-795 (Liste, Zeit- und Budgetlimit, stur abarbeiten) ist belegt und nützlich, daher als Inhaltsfrage umgebaut.",
+   "stand_note": "",
+   "statement": "Laut Streicher hilft gegen ungeplante Einkäufe am besten eine Einkaufsliste, die man vor Ort stur abarbeitet.",
+   "question": "Was hilft laut Mathias Streicher am besten gegen ungeplante Einkäufe?",
+   "answer": "Einkaufsliste stur abarbeiten",
+   "distractors": [
+    "Immer nach unten ins Regal schauen",
+    "Möglichst lange im Laden bleiben",
+    "Nur noch hungrig einkaufen gehen"
+   ],
+   "aha": "Wer ständig denkt, ich lasse mich nicht manipulieren, gerät laut Streicher in einen leicht paranoiden Zustand. Besser ist es, vorher eine Liste zu schreiben, sich ein Zeit- und Budgetlimit zu setzen und die Liste vor Ort stur abzuarbeiten.",
+   "quote_clean": "Es ist immer ganz gut, Einkaufslisten vor dem Einkaufen zu schreiben. Ganz wichtig: diese Einkaufsliste vor Ort auch wirklich ganz stur abarbeiten. Das wirkt am besten gegen ungeplante Einkäufe.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Metafrage, Antwort steht fast wörtlich in der Frage; Distraktoren unplausibel.",
+   "stand_note": "",
+   "statement": "Andreas fragt den Einkaufsforscher, ob man in seinem Fach den Glauben an den freien Willen verliert.",
+   "question": "Was fragt Andreas den Einkaufsforscher, nachdem es um Duft, Musik und Architektur ging?",
+   "answer": "Ob er den Glauben an den freien Willen verliert",
+   "distractors": [
+    "Ob er selbst noch gern einkaufen geht",
+    "Ob Supermärkte das überhaupt dürfen",
+    "Welcher Supermarkt am meisten trickst"
+   ],
+   "aha": "Mathias gesteht, dass er selbst manchmal den Autopiloten einschaltet und sich gern verführen lässt.",
+   "quote_clean": "Verliert man in deinem Forschungsgebiet den Glauben an den freien Willen? Man denkt, okay, ich treffe selber jeden Tag die Entscheidungen.",
+   "quality": 1
+  },
+  {
+   "i": 25,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Beleg bei 2377-2400 stimmt; 'heimlich' ist nicht belegt und der aha-Zusatz zu den Gummibärchen vor Andreas erfunden, beides entfernt.",
+   "stand_note": "",
+   "statement": "Andreas hat während Streichers Erklärung zur Körperhaltung ein paar Mal von unten gegen den Tisch gedrückt.",
+   "question": "Was hat Andreas laut eigener Aussage während Streichers Erklärung zur Körperhaltung ausprobiert?",
+   "answer": "Von unten gegen den Tisch gedrückt",
+   "distractors": [
+    "Von oben gegen den Tisch gedrückt",
+    "Gummibärchen gegessen",
+    "Im Stehen weitergesprochen"
+   ],
+   "aha": "Von unten gegen den Tisch zu drücken ist eine Annäherungsbewegung. In Streichers Lehrveranstaltungen haben Studierende, die so gedrückt haben, mehr Gummibärchen gegessen als die, die von oben gedrückt haben.",
+   "quote_clean": "Total faszinierend, ich habe jetzt, während du geredet hast, ein paar Mal von unten auf den Tisch gedrückt.",
+   "quality": 3
+  }
+ ],
+ "id": "288",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

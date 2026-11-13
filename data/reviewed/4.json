@@ -1,0 +1,473 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "1998 und 'Ministerpräsident' belegt, Erstamtszeit bis 2002 genannt.",
+   "stand_note": "",
+   "statement": "Viktor Orbán wurde 1998 zum ersten Mal ungarischer Ministerpräsident, damals noch in seinen 30ern.",
+   "question": "In welchem Jahr wurde Viktor Orbán zum ersten Mal Ministerpräsident von Ungarn?",
+   "answer": "1998",
+   "distractors": [
+    "2010",
+    "1990",
+    "2004"
+   ],
+   "aha": "Orbán war schon Ende der 90er Regierungschef, als Mittdreißiger. Bis 2002 hat er regiert, dann die Wahl verloren und ist acht Jahre später zurückgekommen.",
+   "quote_clean": "Er war, ähnlich wie Sebastian Kurz jetzt in Österreich, 1998 auch in den 30ern, also sehr jung, als er Ministerpräsident von Ungarn wurde.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Jahr 2010 belegt; Aha ohne Präsens-Behauptung über heute formuliert.",
+   "stand_note": "Stand 2018",
+   "statement": "Nach einer Wahlniederlage 2002 gewann Orbán 2010 erneut und regiert Ungarn seither.",
+   "question": "In welchem Jahr kam Orbán nach seiner Wahlniederlage wieder an die Macht?",
+   "answer": "2010",
+   "distractors": [
+    "2006",
+    "2014",
+    "2004"
+   ],
+   "aha": "Nach der Niederlage 2002 war Orbán acht Jahre in der Opposition. Mit dem Comeback 2010 begann die Regierungszeit, in der er sich oft und gern mit Brüssel gestritten hat.",
+   "quote_clean": "2010 hat er dann noch einmal die Wahl gewonnen. Seitdem regiert er Ungarn und macht ziemlichen Ärger, indem er sich zum Beispiel ständig mit Brüssel streitet.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "2004 EU-Beitritt belegt und korrekt.",
+   "stand_note": "",
+   "statement": "Ungarn ist seit 2004 Mitglied der Europäischen Union.",
+   "question": "Seit welchem Jahr ist Ungarn Mitglied der EU?",
+   "answer": "2004",
+   "distractors": [
+    "1995",
+    "2007",
+    "2013"
+   ],
+   "aha": "2004 war die große Osterweiterung, da kamen Ungarn und neun weitere Länder auf einmal dazu. Österreich war da schon fast zehn Jahre dabei.",
+   "quote_clean": "Ungarn gehört seit 2004 der Europäischen Union an, so wie auch Österreich.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahl 'tausend Redakteure' klar belegt, Frage nennt die Quelle.",
+   "stand_note": "",
+   "statement": "Unter Orbán wurden rund tausend Redakteurinnen und Redakteure aus dem öffentlich-rechtlichen Rundfunk Ungarns entlassen.",
+   "question": "Wie viele Redakteure hat Orbáns Regierung laut Stephan Ozsváth aus dem öffentlich-rechtlichen Rundfunk geworfen?",
+   "answer": "rund 1000",
+   "distractors": [
+    "rund 100",
+    "rund 300",
+    "rund 5000"
+   ],
+   "aha": "Die staatlichen Sender, so etwas wie der ORF in Ungarn, wurden laut Ozsváth zu Sprachrohren der Regierung umgebaut. Und was nicht staatlich ist, kaufen oft Orbán-Freunde mit viel Geld.",
+   "quote_clean": "Es ging aber auch um Pressefreiheit. Viktor Orbán zum Beispiel hat tausend Redakteure rausgeschmissen aus dem öffentlich-rechtlichen Radio und Fernsehen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "173 km belegt; Wien-Linz-Vergleich im Aha war ungenau, entfernt.",
+   "stand_note": "",
+   "statement": "Ungarn hat an der Grenze zu Serbien einen rund 173 Kilometer langen Grenzzaun gebaut.",
+   "question": "Wie lang ist der Grenzzaun, den Ungarn an der Grenze zu Serbien gebaut hat?",
+   "answer": "rund 173 Kilometer",
+   "distractors": [
+    "rund 40 Kilometer",
+    "rund 500 Kilometer",
+    "rund 90 Kilometer"
+   ],
+   "aha": "Der Zaun entstand im Zuge der Fluchtbewegung 2015 und zieht sich entlang der ungarisch-serbischen Grenze. Orbán will damit Menschen abhalten, die über die Balkanroute kommen.",
+   "quote_clean": "Deswegen hat er auch einen Zaun gebaut an der Grenze, da war ich auch schon mal. 173 Kilometer lang ist der, an der Grenze Ungarn-Serbien.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zweidrittelmehrheit und Verfassungsänderung belegt.",
+   "stand_note": "",
+   "statement": "Mit ihrer Zweidrittelmehrheit im Parlament konnte die Fidesz-Regierung die ungarische Verfassung im Alleingang ändern.",
+   "question": "Warum konnte Orbáns Fidesz die ungarische Verfassung im Alleingang umschreiben?",
+   "answer": "Sie hatte eine Zweidrittelmehrheit",
+   "distractors": [
+    "Ungarn braucht keine Volksabstimmung",
+    "Das Höchstgericht hat zugestimmt",
+    "Die EU hat es erlaubt"
+   ],
+   "aha": "Für Verfassungsänderungen braucht man in vielen Demokratien, auch in Österreich, zwei Drittel im Parlament. Wer die allein hat, kann die Spielregeln selbst umschreiben.",
+   "quote_clean": "Im Parlament hat diese Regierung eine große Mehrheit, am Anfang sogar eine Zweidrittelmehrheit. Mit dieser Mehrheit konnte sie auch die Verfassung ändern.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Schuldenbremse belegt; Aussage über Österreich nur Stand 2018, Aha entschärft.",
+   "stand_note": "Stand 2018",
+   "statement": "Ungarn hat die Schuldenbremse in seiner Verfassung verankert, Österreich (Stand 2018) nicht.",
+   "question": "Was hat Orbán unter anderem in die ungarische Verfassung geschrieben?",
+   "answer": "Eine Schuldenbremse",
+   "distractors": [
+    "Eine Frauenquote",
+    "Ein Grundeinkommen",
+    "Ein Tempolimit"
+   ],
+   "aha": "Mit der Zweidrittelmehrheit hat Orbán einiges in die Verfassung gepackt, darunter die Schuldenbremse. Ozsváth erwähnt, dass auch die NEOS so etwas für Österreich wollten.",
+   "quote_clean": "Zum Beispiel die Schuldenbremse. Die steht in Ungarn in der Verfassung, in Österreich noch nicht.",
+   "quality": 2
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zehn Regierungen belegt, laut Ozsváth von Orbán selbst gesagt.",
+   "stand_note": "",
+   "statement": "Orbán sagte selbst, mit seinen Verfassungsänderungen solle den nächsten zehn Regierungen die Hände gebunden sein.",
+   "question": "Wie vielen künftigen Regierungen wollte Orbán laut eigener Aussage mit der Verfassung die Hände binden?",
+   "answer": "Den nächsten zehn",
+   "distractors": [
+    "Den nächsten zwei",
+    "Der nächsten einen",
+    "Den nächsten fünf"
+   ],
+   "aha": "Was in der Verfassung steht, bekommt eine normale Mehrheit nicht mehr weg. So regiert man quasi auch dann mit, wenn man längst abgewählt ist.",
+   "quote_clean": "Die Idee dabei ist, und das hat Viktor Orbán selber gesagt: Egal ob er regiert oder jemand anders, er möchte damit erreichen, dass auch den nächsten zehn Regierungen die Hände gebunden sind.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "15 bis 20 Jahre, 2009, belegt.",
+   "stand_note": "",
+   "statement": "Orbán sagte 2009, er wolle 15 bis 20 Jahre an der Macht bleiben.",
+   "question": "Wie lange wollte Orbán laut eigener Aussage von 2009 an der Macht bleiben?",
+   "answer": "15 bis 20 Jahre",
+   "distractors": [
+    "Vier bis acht Jahre",
+    "Zwei Amtszeiten",
+    "30 bis 40 Jahre"
+   ],
+   "aha": "Orbán hat das gar nicht versteckt, sondern 2009 offen gesagt. Ozsváth hat im Studio kurz nachgerechnet: Da wäre er noch eine ganze Weile dran.",
+   "quote_clean": "Das hat er auch so gesagt, dass er 15 bis 20 Jahre am Ruder bleiben will. Das hat er 2009 gesagt.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "kontext"
+   ],
+   "note": "Gasinstallateur belegt; 'heute' und 'Bürgermeister' auf Stand 2018 gesetzt.",
+   "stand_note": "Stand 2018",
+   "statement": "Lőrinc Mészáros, Orbáns Schulfreund und damals Bürgermeister von dessen Heimatdorf, war früher Gasinstallateur und zählte 2018 zu den reichsten Männern Ungarns.",
+   "question": "Welchen Beruf hatte Lőrinc Mészáros, bevor er einer der reichsten Männer Ungarns wurde?",
+   "answer": "Gasinstallateur",
+   "distractors": [
+    "Fußballtrainer",
+    "Bankangestellter",
+    "Volksschullehrer"
+   ],
+   "aha": "Mészáros ist ein Schulfreund von Orbán und war damals Bürgermeister in dem kleinen Dorf, in dem Orbán aufgewachsen ist. Laut Ozsváth gehörten ihm eine Bank, Hotels, Zeitungen und ein Fernsehsender.",
+   "quote_clean": "Da ist der Mann, Lőrinc Mészáros heißt er, auch Bürgermeister. Der war früher mal Gasinstallateur, also ein Handwerker. Mittlerweile ist er einer der reichsten Männer Ungarns.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Spitzname belegt, als Kritikerzuschreibung korrekt gerahmt.",
+   "stand_note": "",
+   "statement": "Kritiker gaben Viktor Orbán den Spitznamen „Puszta-Putin“.",
+   "question": "Welchen Spitznamen haben Kritiker Viktor Orbán verpasst?",
+   "answer": "Puszta-Putin",
+   "distractors": [
+    "Donau-Duce",
+    "Budapester Bonaparte",
+    "Balaton-Berlusconi"
+   ],
+   "aha": "Die Puszta ist die ungarische Steppe, der Rest erklärt sich von selbst. Gemeint ist: Freunde werden reich, Medien auf Linie, NGOs unter Druck, ganz ähnlich wie in Russland.",
+   "quote_clean": "Manche haben Viktor Orbán auch schon den Spitznamen Puszta-Putin gegeben, weil sie sagen, das geht eigentlich genau in die Richtung.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "fairness"
+   ],
+   "note": "Strafsteuer belegt; Frage und Aha als Darstellung des Gasts markiert.",
+   "stand_note": "Stand 2018",
+   "statement": "Ungarns Regierung wollte NGOs wie das Budapester Helsinki-Komitee, das Flüchtlingen hilft, per Gesetz mit einer Strafsteuer belegen.",
+   "question": "Womit wollte Orbáns Regierung laut Ozsváth NGOs wie das Helsinki-Komitee per Gesetz zusätzlich treffen?",
+   "answer": "Mit einer Strafsteuer",
+   "distractors": [
+    "Mit einem Demonstrationsverbot",
+    "Mit einer Ausreisesperre",
+    "Mit einem Internetverbot"
+   ],
+   "aha": "Laut Ozsváth gab es vorher schon Razzien, Steuerprüfungen und Bürgermeister, die solchen Organisationen keine Räume vermieten sollten. Die Strafsteuer war der nächste Schritt, und er sieht darin ein Muster wie in Russland.",
+   "quote_clean": "Jetzt hat man sich neue Gesetze ausgedacht. Jetzt will man diese Organisationen auch mit einer Strafsteuer bestrafen. Die sollen also auch Geld abgeben.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Meinungsaussage, Sprecher-Raten trivial, unbelegter Vorwurf gegen Orbán.",
+   "stand_note": "",
+   "statement": "Stephan Ozsváth sieht in Ungarn politische Macht und persönlichen Reichtum eng verknüpft.",
+   "question": "Wer hat's gesagt: „So viel Macht zu haben, heißt offensichtlich auch, sehr viel Geld zu haben und reich zu werden“?",
+   "answer": "Stephan Ozsváth",
+   "distractors": [
+    "Andreas Sator",
+    "Viktor Orbán",
+    "Sebastian Kurz"
+   ],
+   "aha": "Ozsváth meint damit Staatsaufträge für Straßen oder Inserate, die bei Firmen aus Orbáns Umfeld landen. Wer an der Macht ist, sitzt dort auch an der Geldquelle.",
+   "quote_clean": "Politische Macht zu haben, und zwar so viel Macht, wie er und seine Partei sie im Moment in Ungarn haben, heißt offensichtlich auch, Geld zu haben, sehr viel Geld, und reich zu werden.",
+   "quality": 1
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Meinungszitat, Sprecher-Raten trivial, Einschätzung von 2018.",
+   "stand_note": "",
+   "statement": "Laut Stephan Ozsváth verdankt Orbán seine Beliebtheit vor allem der schwachen Konkurrenz.",
+   "question": "Wer hat's gesagt: „Orbán ist deswegen so beliebt, weil die anderen so unbeliebt sind“?",
+   "answer": "Stephan Ozsváth",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Jobbik-Politiker",
+    "Ein EU-Kommissar"
+   ],
+   "aha": "Links und liberal gab es 2018 nur Splitterparteien, die zusammen kaum auf zweistellige Ergebnisse kamen. Zusammenschlüsse haben nie gereicht, um Orbán aus dem Sessel zu kippen.",
+   "quote_clean": "Orbán ist deswegen so beliebt, weil die anderen so unbeliebt sind. Die Konkurrenz ist sehr schwach.",
+   "quality": 1
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Jobbik zweitstärkste belegt; Etikett 'rechtsextrem' als Einschätzung des Gasts gekennzeichnet.",
+   "stand_note": "Stand 2018",
+   "statement": "2018 war Jobbik, von Ozsváth als rechtsextrem bezeichnet, die zweitstärkste Partei Ungarns nach Orbáns Fidesz.",
+   "question": "Welche Partei war 2018 laut Ozsváth die zweitstärkste in Ungarn, hinter Fidesz?",
+   "answer": "Jobbik",
+   "distractors": [
+    "Die Sozialisten (MSZP)",
+    "Die Grünen (LMP)",
+    "Die Liberalen (SZDSZ)"
+   ],
+   "aha": "Die größte Konkurrenz kam für Orbán damals nicht von links, sondern von noch weiter rechts. Die Linke und die Liberalen waren in viele kleine Parteien zersplittert.",
+   "quote_clean": "Dann gibt es rechtsaußen noch eine rechtsextreme Partei namens Jobbik. Die könnte ihm schon eher gefährlich werden. Das ist die zweitstärkste Partei nach seiner Regierungspartei.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Knapp 10 Millionen belegt und bis heute ungefähr richtig.",
+   "stand_note": "Stand 2018",
+   "statement": "Ungarn hat knapp 10 Millionen Einwohner.",
+   "question": "Wie viele Einwohner hat Ungarn ungefähr?",
+   "answer": "knapp 10 Millionen",
+   "distractors": [
+    "knapp 5 Millionen",
+    "rund 15 Millionen",
+    "rund 20 Millionen"
+   ],
+   "aha": "Ungarn ist also nur ein bisserl größer als Österreich. Orbán redet trotzdem gern von der großen Nation, und genau dieser Stolz kommt bei vielen gut an.",
+   "quote_clean": "Er sagt, wir sind eine große Nation, obwohl Ungarn eigentlich ein kleines Land ist mit knapp 10 Millionen Einwohnern.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Zitat belegt, aber als Ozsváths Wiedergabe von Orbáns Rhetorik kenntlich gemacht.",
+   "stand_note": "",
+   "statement": "Orbán stellt die EU gern mit der sowjetischen Herrschaft gleich: „Brüssel ist das neue Moskau.“",
+   "question": "Mit welcher Stadt vergleicht Orbán laut Ozsváth Brüssel gern, um gegen die EU zu mobilisieren?",
+   "answer": "Moskau",
+   "distractors": [
+    "Washington",
+    "Wien",
+    "Istanbul"
+   ],
+   "aha": "Der Vergleich zielt auf ein Gefühl, das im ehemaligen Ostblock verbreitet ist: EU-Bürger zweiter Klasse zu sein. Orbán gibt sich als oberster Freiheitskämpfer, früher gegen Moskau, jetzt gegen Brüssel.",
+   "quote_clean": "Er sagt, Brüssel ist das neue Moskau. Das ist wie früher, als die Russen uns zu Ostblockzeiten quasi diktiert haben, was wir zu denken und zu tun haben.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Sprecher-Raten trivial, Metapher als Meinung.",
+   "stand_note": "",
+   "statement": "Stephan Ozsváth beschreibt Orbáns Politik als „Sündenbock-Fabrik“, die ständig neue Gegner produziert.",
+   "question": "Wer hat's gesagt: „Er hat in Budapest eine Art Sündenbock-Fabrik. Die Maschine läuft ständig.“?",
+   "answer": "Stephan Ozsváth",
+   "distractors": [
+    "Andreas Sator",
+    "George Soros",
+    "Ein EU-Abgeordneter"
+   ],
+   "aha": "Mal Brüssel, mal der IWF, mal die Linken, die Liberalen, die Flüchtlinge, dann die UNO oder George Soros. Hauptsache, es gibt immer wen, gegen den man gemeinsam sein kann.",
+   "quote_clean": "Er hat in Budapest eine Art Sündenbock-Fabrik. Die Maschine läuft ständig. Es gibt immer neue Gegner, gegen die man kämpfen soll.",
+   "quality": 1
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Soros-Stipendium belegt; Aha ohne Verschwörungs-Echo umformuliert.",
+   "stand_note": "",
+   "statement": "Viktor Orbán und andere Fidesz-Politiker bekamen früher Stipendien von George Soros, den Orbán heute als Feindbild nutzt.",
+   "question": "Von wem bekam Viktor Orbán in jungen Jahren ein Stipendium?",
+   "answer": "Von George Soros",
+   "distractors": [
+    "Von der Europäischen Union",
+    "Von der Sowjetunion",
+    "Vom Vatikan"
+   ],
+   "aha": "Damals war Fidesz eine liberale Bewegung, die von einer offenen Gesellschaft und vom Westen geträumt hat. Später machte die Regierung ausgerechnet Soros zum Feindbild.",
+   "quote_clean": "Seine Fidesz-Leute, viele aus der Führungsmannschaft der Regierung, auch Viktor Orbán selbst, haben vor 20 oder 30 Jahren Stipendien von George Soros bekommen.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Antwort ergibt sich aus der Frage, Meinungsaussage ohne Faktenkern.",
+   "stand_note": "",
+   "statement": "Mit ständig neuen Feindbildern erzeugen Orbán und seine Berater ein Klima wie im Dauerwahlkampf, das die Erregung hoch hält.",
+   "question": "Welches Klima erzeugt Orbáns Dauerkampf gegen immer neue Gegner laut Ozsváth?",
+   "answer": "Eines wie im Dauerwahlkampf",
+   "distractors": [
+    "Eines wie nach einem Wahlsieg",
+    "Eines wie in der Sommerpause",
+    "Eines wie in einer Expertenregierung"
+   ],
+   "aha": "Wer immer aufgeregt ist, schaut weniger auf Korruption oder darauf, dass im Spital das Klopapier fehlt. Laut Ozsváth flüstern ihm das Marketingleute ein, und es funktioniert.",
+   "quote_clean": "Jedenfalls kreieren die ein Klima, als ob ständig Wahlkampf wäre, als ob morgen irgendeine Wahl zu gewinnen wäre. Das hält die Erregungskurve hoch.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "transkription"
+   ],
+   "note": "70.000 allein in Wien ist sehr wahrscheinlich überhöht (ca. 70.000 in ganz Österreich); nicht verlässlich.",
+   "stand_note": "",
+   "statement": "Allein in Wien lebten 2018 rund 70.000 Ungarinnen und Ungarn.",
+   "question": "Wie viele Ungarinnen und Ungarn lebten 2018 laut Ozsváth allein in Wien?",
+   "answer": "rund 70.000",
+   "distractors": [
+    "rund 7.000",
+    "rund 20.000",
+    "rund 250.000"
+   ],
+   "aha": "Viele, die mit Orbáns System nichts anfangen konnten, sind einfach ausgewandert. Man hört es im Wiener Wirtshaus: Oft spricht die Kellnerin Ungarisch.",
+   "quote_clean": "Viele arbeiten ja auch in Deutschland oder in Österreich. Allein in Wien sind 70.000 Ungarn.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Slogan 'Es ist Zeit' belegt, Kurz und Schulz stimmen.",
+   "stand_note": "",
+   "statement": "Viktor Orbán gewann 2010 mit dem Slogan „Es ist Zeit“, mit dem auch Sebastian Kurz 2017 die Wahl gewann.",
+   "question": "Mit welchem Wahlkampfslogan gewann Orbán 2010, den später auch Sebastian Kurz verwendete?",
+   "answer": "„Es ist Zeit“",
+   "distractors": [
+    "„Jetzt oder nie“",
+    "„Ungarn zuerst“",
+    "„Neu regieren“"
+   ],
+   "aha": "Der Slogan scheint gut anzukommen: Auch Martin Schulz hat ihn in Deutschland benutzt, allerdings mit deutlich weniger Erfolg.",
+   "quote_clean": "Dann ist eine Gemeinsamkeit, dass Sebastian Kurz mit dem gleichen Wahlkampfslogan die Wahl gewonnen hat wie Viktor Orbán 2010. Was war der Slogan? Es ist Zeit.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Moderationsfrage ohne Wissenswert.",
+   "stand_note": "",
+   "statement": "Andreas bittet den Gast, für Leute ohne Vorwissen zusammenzufassen, was Orbán politisch getrieben hat.",
+   "question": "Wie steigt Andreas in das Gespräch über Orbán ein?",
+   "answer": "Mit der Bitte um eine Zusammenfassung für Laien",
+   "distractors": [
+    "Mit einer Frage zu Orbáns Kindheit",
+    "Mit einem Zitat von Orbán",
+    "Mit einer Umfrage unter Hörer:innen"
+   ],
+   "aha": "Typisch Andreas: erst einmal alle abholen, die sich noch nie mit dem Thema beschäftigt haben. Genau dafür ist der Podcast da.",
+   "quote_clean": "Kannst du für Leute, die sich damit nicht so sehr beschäftigt haben, zusammenfassen, was Viktor Orbán in den letzten Jahren politisch so getrieben hat?",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Piefke-Selbstvorstellung belegt, harmlos, aber schwache Frage.",
+   "stand_note": "",
+   "statement": "Stephan Ozsváth stellt sich selbst als „Piefke“ vor, also als Deutschen.",
+   "question": "Wie stellt sich Stephan Ozsváth in der Folge selbst vor?",
+   "answer": "Als Piefke",
+   "distractors": [
+    "Als Wiener Urgestein",
+    "Als Budapester",
+    "Als Schweizer"
+   ],
+   "aha": "Der Berliner mit ungarischen Wurzeln ist in Wien hängen geblieben und kennt den österreichischen Spitznamen für Deutsche offenbar gut. Selbstironie gleich in der ersten Minute.",
+   "quote_clean": "Ich bin Stephan Ozsváth. Wie man an meinem Akzent unschwer hören kann, bin ich ein Piefke, ein Deutscher.",
+   "quality": 2
+  }
+ ],
+ "id": "4",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

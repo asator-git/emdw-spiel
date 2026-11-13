@@ -1,0 +1,671 @@
+{
+ "theme": "Gesellschaft & Kultur",
+ "summary": "Inserate, Boulevard, Handy-Revolution: Anita Zielina und Sebastian Loudon erklären, warum Österreichs Medien kriseln und wie eine gute Zukunft ausschauen könnte.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 207,
+   "speaker": "Andreas Sator",
+   "quote": "ich habe das beim reitersintitut gesehen 42% informieren sich im Print in Österreich in Frankreich z.B 15% genau",
+   "quote_clean": "Ich habe das beim Reuters-Institut gesehen: 42 Prozent informieren sich in Österreich über Print, in Frankreich zum Beispiel 15 Prozent.",
+   "statement": "Laut Reuters Institute informieren sich in Österreich 42 Prozent der Menschen über gedruckte Medien, in Frankreich nur 15 Prozent.",
+   "question": "Wie viel Prozent der Menschen in Österreich informieren sich laut Reuters Institute über Printmedien?",
+   "answer": "42 Prozent",
+   "distractors": [
+    "18 Prozent",
+    "27 Prozent",
+    "61 Prozent"
+   ],
+   "number_value": 42,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Österreich ist beim Medienkonsum ziemlich traditionell: Zeitung auf Papier, Radio, Fernsehen. In Frankreich sind es nur 15 Prozent, in manchen asiatischen Märkten überhaupt nur einstellige Werte.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Medien",
+    "Print",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 312,
+   "speaker": "Sebastian Loudon",
+   "quote": "medienmachende in Österreich ist dass wir die gleiche Sprache sprechen wie das unser nördlicher Nachbar ein zehnmal so großer Mediamarkt es betrifft natürlich besonders den Fernsehbereich",
+   "quote_clean": "Eine besondere Herausforderung für Medienmachende in Österreich ist, dass wir die gleiche Sprache sprechen wie unser nördlicher Nachbar, ein zehnmal so großer Medienmarkt. Das betrifft natürlich besonders den Fernsehbereich.",
+   "statement": "Der deutsche Medienmarkt ist etwa zehnmal so groß wie der österreichische, und beide teilen dieselbe Sprache.",
+   "question": "Wievielmal so groß ist der deutsche Medienmarkt ungefähr im Vergleich zum österreichischen?",
+   "answer": "Etwa zehnmal so groß",
+   "distractors": [
+    "Etwa dreimal so groß",
+    "Etwa fünfmal so groß",
+    "Etwa zwanzigmal so groß"
+   ],
+   "number_value": 10,
+   "number_unit": "mal so groß",
+   "slider_min": 1,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Weil in Österreich Deutsch gesprochen wird, sind seit dem Kabelfernsehen der 80er alle deutschen Sender da. Österreichische Medien konkurrieren also mit einem viel ressourcenstärkeren Markt, anders als etwa Dänemark mit seinem geschlossenen Sprachraum.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Medienmarkt",
+    "Deutschland",
+    "Fernsehen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 623,
+   "speaker": "Sebastian Loudon",
+   "quote": "und was ist heute soweit ich weiß gibt es in keiner Stadt Europas mehr eine gratis",
+   "quote_clean": "Und was ist heute? Soweit ich weiß, gibt es in keiner Stadt Europas mehr eine Gratis-Tageszeitung, in Wien gibt's immer noch zwei.",
+   "statement": "Während Gratis-Tageszeitungen anderswo in Europa verschwunden sind, gibt es in Wien noch zwei: Heute und Österreich.",
+   "question": "Wie viele Gratis-Tageszeitungen gibt es laut Sebastian Loudon noch in Wien, während andere europäische Städte keine mehr haben?",
+   "answer": "Zwei",
+   "distractors": [
+    "Keine",
+    "Eine",
+    "Vier"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Anfang der 2000er war die Gratiszeitung in der U-Bahn ein europaweiter Renner, besonders aus Skandinavien. Dass sich in Wien gleich zwei halten, liegt laut Loudon zu einem großen Teil an Inseraten der öffentlichen Hand.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Boulevard",
+    "Gratiszeitung",
+    "Wien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 599,
+   "speaker": "Sebastian Loudon",
+   "quote": "auf uns selber zu kannibalisieren und daraufhin entstand in einer nicht ganz geklärten Gründungsgeschichte die gratis Zeitung heute 2004 feiern auch 20jähriges Jubiläum",
+   "quote_clean": "Daraufhin entstand in einer nicht ganz geklärten Gründungsgeschichte die Gratiszeitung Heute, 2004. Die feiern auch 20-jähriges Jubiläum.",
+   "statement": "Die Wiener Gratiszeitung Heute wurde 2004 gegründet, nachdem der U-Express eingestellt worden war.",
+   "question": "In welchem Jahr wurde die Gratiszeitung Heute gegründet?",
+   "answer": "2004",
+   "distractors": [
+    "1998",
+    "2001",
+    "2009"
+   ],
+   "number_value": 2004,
+   "number_unit": "Jahr",
+   "slider_min": 1990,
+   "slider_max": 2015,
+   "log_scale": false,
+   "aha": "Vorher gab es den U-Express, eine bewusst lieblos gemachte Gratiszeitung, die vor allem die Skandinavier aus Wien fernhalten sollte. Als der eingestellt wurde, kam Heute, 2006 dann noch Österreich.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Boulevard",
+    "Gratiszeitung",
+    "Mediengeschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 862,
+   "speaker": "Andreas Sator",
+   "quote": "in Deutschland werden sind die Inserate der öffentlichen Hand D Malp genauso hoch wie in Österreich aber hat inen zehnm so großen oder neunmal so großen Land",
+   "quote_clean": "In Deutschland sind die Inserate der öffentlichen Hand ungefähr genauso hoch wie in Österreich, aber es ist ein zehnmal oder neunmal so großes Land.",
+   "statement": "Die öffentliche Hand gibt in Deutschland ungefähr gleich viel für Inserate aus wie in Österreich, obwohl Deutschland rund neunmal so groß ist.",
+   "question": "Wie hoch sind die Inserate der öffentlichen Hand in Deutschland im Vergleich zu Österreich?",
+   "answer": "Ungefähr gleich hoch",
+   "distractors": [
+    "Etwa zehnmal so hoch",
+    "Etwa dreimal so hoch",
+    "Etwa halb so hoch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas hat die Zahl von der Rechercheplattform Dossier. Pro Kopf gerechnet inseriert der österreichische Staat also ein Vielfaches, und das Geld fließt oft in den Boulevard.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Inserate",
+    "Medienpolitik",
+    "Deutschland"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 886,
+   "speaker": "Andreas Sator",
+   "quote": "sehr viele Inserate gestrichen weil sie sich gedacht haben wozu brauchen wir das eigentlich und man hat ja vielfältige Kanäle um als Ministerium über seine Arbeit zu informieren",
+   "quote_clean": "Die haben sehr viele Inserate gestrichen, weil sie sich gedacht haben: Wozu brauchen wir das eigentlich? Man hat ja vielfältige Kanäle, um als Ministerium über seine Arbeit zu informieren.",
+   "statement": "Die Expertenregierung unter Brigitte Bierlein strich während ihrer rund halbjährigen Amtszeit viele Regierungsinserate.",
+   "question": "Welche österreichische Regierung hat laut Andreas sehr viele Inserate gestrichen?",
+   "answer": "Die Expertenregierung Bierlein",
+   "distractors": [
+    "Die Regierung Kurz I",
+    "Die Regierung Faymann",
+    "Die Regierung Schüssel I"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Expertenregierung war nach Ibiza nur rund ein halbes Jahr im Amt und musste keine Wahl gewinnen. Ganz offensichtlich geht Regieren auch, ohne jede Woche Boulevardseiten zu kaufen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Inserate",
+    "Politik",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1439,
+   "speaker": "Anita Zielina",
+   "quote": "wir sprechen jetzt eigentlich nicht mehr davon von einer digitalen Revolution das haben wir ja alle schon längst erledigt",
+   "quote_clean": "Wir sprechen jetzt eigentlich nicht mehr von einer digitalen Revolution, das haben wir alle schon längst erledigt, sondern eigentlich ist es eine mobile Revolution.",
+   "statement": "Laut Anita Zielina erleben Medien nach der digitalen nun vor allem eine mobile Revolution: Fast alles wird am Smartphone konsumiert.",
+   "question": "Welche Revolution prägt laut Anita Zielina den Medienkonsum heute vor allem?",
+   "answer": "Die mobile Revolution",
+   "distractors": [
+    "Die Fernsehrevolution",
+    "Die Radiorevolution",
+    "Die Print-Renaissance"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Dass wir mehr im Internet lesen als auf Papier, ist eh schon alt. Neu ist, dass fast alles am Handy passiert, und bei den Unter-40-Jährigen ist dieser Bruch noch viel stärker.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Digitalisierung",
+    "Smartphone",
+    "Mediennutzung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1543,
+   "speaker": "Anita Zielina",
+   "quote": "im Print steht halt leider im Internet ein Cent gegenüber oder vielleicht 5 Cent wenn man Glück hat oder vielleicht 10 Cent aber nicht pro einzelnen Menschen das liest sondern pro 1000 Menschen dies lesen",
+   "quote_clean": "Den 10.000 oder 20.000 Euro für ein Inserat im Print steht im Internet leider ein Cent gegenüber, oder vielleicht 5 Cent, wenn man Glück hat, oder 10 Cent – aber nicht pro einzelnem Menschen, der das liest, sondern pro 1000 Menschen.",
+   "statement": "Online-Werbung bringt Medien oft nur ein bis zehn Cent – und zwar pro tausend Leser:innen, nicht pro Person.",
+   "question": "Für wie viele Leser:innen bekommt ein Medium online laut Anita Zielina oft nur ein paar Cent Werbeerlös?",
+   "answer": "1000 Leser:innen",
+   "distractors": [
+    "10 Leser:innen",
+    "100 Leser:innen",
+    "100.000 Leser:innen"
+   ],
+   "number_value": 1000,
+   "number_unit": "Leser:innen",
+   "slider_min": 1,
+   "slider_max": 100000,
+   "log_scale": true,
+   "aha": "Eine ganze Printseite kostet schnell zehn- oder zwanzigtausend Euro. Im Netz rechnet man in Cent pro tausend Aufrufen, und Reichweite können Facebook, YouTube und Amazon halt viel besser als jedes Medium.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Werbung",
+    "Geschäftsmodell",
+    "Internet"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1787,
+   "speaker": "Andreas Sator",
+   "quote": "es gibt ich glaube seit 2006 l Medienhaus Wien um 25% weniger Journalisten Jobs",
+   "quote_clean": "Es gibt, ich glaube seit 2006, laut Medienhaus Wien um 25 Prozent weniger Journalistenjobs.",
+   "statement": "Laut Medienhaus Wien gibt es in Österreich seit 2006 um rund 25 Prozent weniger Jobs im Journalismus.",
+   "question": "Um wie viel Prozent ist die Zahl der Journalistenjobs in Österreich seit 2006 laut Medienhaus Wien gesunken?",
+   "answer": "Um 25 Prozent",
+   "distractors": [
+    "Um 8 Prozent",
+    "Um 45 Prozent",
+    "Um 60 Prozent"
+   ],
+   "number_value": 25,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 70,
+   "log_scale": false,
+   "aha": "Jeder vierte Journalistenjob ist weg, und das in nicht einmal zwei Jahrzehnten. Das Tückische: Am Handy merkt man davon lange wenig, weil eh noch genug Inhalte da sind.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Journalismus",
+    "Arbeitsmarkt",
+    "Medienkrise"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2139,
+   "speaker": "Sebastian Loudon",
+   "quote": "die wenigsten Menschen haben sich eine Tageszeitung gekauft wegen der innenpolitischen Analyse auf Seite 3 sondern es war das Horoskop das",
+   "quote_clean": "Die wenigsten Menschen haben sich eine Tageszeitung wegen der innenpolitischen Analyse auf Seite 3 gekauft, sondern es war das Horoskop, das Kinoprogramm, die Sportberichterstattung.",
+   "statement": "Politischer Journalismus war nie ein eigenes tragfähiges Geschäft: Er wurde in der Tageszeitung von Horoskop, Kinoprogramm, Sport und Kleinanzeigen quersubventioniert.",
+   "question": "Wovon wurde der politische Journalismus in der klassischen Tageszeitung laut Sebastian Loudon eigentlich finanziert?",
+   "answer": "Von Horoskop, Kinoprogramm, Sport und Anzeigen",
+   "distractors": [
+    "Von Parteibeiträgen der Leser:innen",
+    "Von staatlicher Presseförderung allein",
+    "Von Spenden der Leserschaft"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Zeitung brauchte man früher zum Leben in der Stadt: Todesanzeigen, Kulturprogramm, Klatsch. All das ist heute gratis auf Willhaben, Facebook und Co. gewandert, und damit fehlt das Geld, das die Analyse auf Seite 3 mitgetragen hat.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Geschäftsmodell",
+    "Tageszeitung",
+    "Quersubvention"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2747,
+   "speaker": "Anita Zielina",
+   "quote": "jeder gute Journalismus Service Journalismus zum besser leben was auch immer das besser leben halt heißt besser demokratische Entscheidungen treffen",
+   "quote_clean": "Jeder gute Journalismus ist Servicejournalismus zum besser Leben, was auch immer das besser Leben halt heißt: bessere demokratische Entscheidungen treffen.",
+   "statement": "Anita Zielina sieht jeden guten Journalismus als Service, der Menschen hilft, besser zu leben und bessere Entscheidungen zu treffen.",
+   "question": "Wer sagt in dieser Folge, dass jeder gute Journalismus eigentlich Servicejournalismus ist?",
+   "answer": "Anita Zielina",
+   "distractors": [
+    "Sebastian Loudon",
+    "Andreas Sator",
+    "Jeff Jarvis"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kaum wer wird Journalist:in, weil er oder sie gern Servicedienstleister wäre – man will eher Robert Redford im Watergate-Film sein. Zielina dreht das um: Service heißt nicht minderwertig, sondern dem Publikum wirklich weiterhelfen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Journalismus",
+    "Service",
+    "Selbstverständnis"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3501,
+   "speaker": "Sebastian Loudon",
+   "quote": "derartig gefährliches Experiment das ist wie wenn wir alle Heroin rauchen und uns gegenseitig dabei zuschauen",
+   "quote_clean": "Ein derartig gefährliches Experiment. Das ist, wie wenn wir alle Heroin rauchen und uns gegenseitig dabei zuschauen.",
+   "statement": "Sebastian Loudon vergleicht den aktuellen Umgang mit Smartphones mit einem gefährlichen Experiment, als würden alle gemeinsam Heroin rauchen.",
+   "question": "Womit vergleicht Sebastian Loudon unseren derzeitigen Umgang mit dem Smartphone?",
+   "answer": "Gemeinsam Heroin rauchen und zuschauen",
+   "distractors": [
+    "Mit Kettenrauchen im Kaffeehaus",
+    "Mit einem Dauerfernsehabend",
+    "Mit einem Glücksspielautomaten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Loudon nimmt sich selbst nicht aus und hat nach dem Vorbild seines Sohnes zeitfressende Apps gelöscht. Seine Utopie: dass wir in zehn, fünfzehn Jahren gelernt haben, mit diesen Dingern umzugehen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Smartphone",
+    "Aufmerksamkeit",
+    "Utopie"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3351,
+   "speaker": "Anita Zielina",
+   "quote": "durchschnittlich hat ein Mensch 1,2 Abos da ist dann nicht viel Platz für sieben verschiedene nischenmedien",
+   "quote_clean": "Durchschnittlich hat ein Mensch 1,2 Abos, da ist dann nicht viel Platz für sieben verschiedene Nischenmedien.",
+   "statement": "Menschen, die für Medien zahlen, haben im Schnitt nur rund 1,2 Abos.",
+   "question": "Wie viele Medien-Abos hat ein Mensch laut Anita Zielina durchschnittlich?",
+   "answer": "1,2 Abos",
+   "distractors": [
+    "2,8 Abos",
+    "3,5 Abos",
+    "0,4 Abos"
+   ],
+   "number_value": 1.2,
+   "number_unit": "Abos",
+   "slider_min": 0,
+   "slider_max": 5,
+   "log_scale": false,
+   "aha": "Das Geldbudget für Medien ist bei fast allen überschaubar. Wenn man eh schon ein Abo hat, bleibt's meistens dabei – schlecht für viele kleine Nischenmedien, die alle 15 Euro im Monat wollen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Abos",
+    "Zahlungsbereitschaft",
+    "Medien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3983,
+   "speaker": "Sebastian Loudon",
+   "quote": "euch keine Sorgen im Jahr 2024 seid noch da alle Tageszeitungen die es heute gibt ja und sogar noch paar also das einzige das WirtschaftsBlatt wurde eingestellt",
+   "quote_clean": "Macht euch keine Sorgen, im Jahr 2024 sind noch alle Tageszeitungen da, die es heute gibt, und sogar noch ein paar mehr. Das einzige: Das WirtschaftsBlatt wurde eingestellt.",
+   "statement": "Von den österreichischen Tageszeitungen des Jahres 2000 gab es 2024 bis auf das WirtschaftsBlatt noch alle, dazu kamen sogar neue.",
+   "question": "Welche österreichische Tageszeitung aus dem Jahr 2000 gab es laut Sebastian Loudon 2024 nicht mehr?",
+   "answer": "Das WirtschaftsBlatt",
+   "distractors": [
+    "Der Kurier",
+    "Die Presse",
+    "Die Salzburger Nachrichten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Jahr 2000 hätten die meisten gesagt: no way, das überleben die nicht alle. Es steckt oft mehr Resilienz in Medien, als man glaubt – wobei Loudon trotzdem einen großen Umbruch kommen sieht.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Tageszeitung",
+    "Mediengeschichte",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 4499,
+   "speaker": "Sebastian Loudon",
+   "quote": "polarisiert äh Aufregung erzeugt Empörung erzeugt wird von den Algorithmen belohnt und alles was Nuancen zeigt was grauschatierungen zeigt",
+   "quote_clean": "Alles, was polarisiert, Aufregung erzeugt, Empörung erzeugt, wird von den Algorithmen belohnt, und alles, was Nuancen zeigt, was Grauschattierungen zeigt, wird bestraft.",
+   "statement": "Im digitalen Bereich belohnen Algorithmen Polarisierung und Empörung, während nuancierte, reflektierte Inhalte benachteiligt werden – Loudon nennt das Marktversagen.",
+   "question": "Welche Inhalte belohnen die Algorithmen sozialer Plattformen laut Sebastian Loudon?",
+   "answer": "Polarisierendes, das Empörung erzeugt",
+   "distractors": [
+    "Lange, ausgewogene Analysen",
+    "Möglichst neutrale Agenturmeldungen",
+    "Inhalte mit vielen Quellenangaben"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Loudon gibt's deshalb ein doppeltes Problem: ein Staatsversagen in der Medienpolitik und ein Marktversagen im Digitalen. Wer überlegt und in Grautönen berichtet, wird vom Algorithmus eher versteckt.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Algorithmen",
+    "Social Media",
+    "Polarisierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4615,
+   "speaker": "Sebastian Loudon",
+   "quote": "finanziert sind über Stiftungen etc der Guardian gehört ja auch eine Stiftung also es gibt es tut sich da einiges in dem Bereich",
+   "quote_clean": "Dass Medien künftig stärker über Stiftungen finanziert sind – der Guardian gehört ja auch einer Stiftung. Es tut sich da einiges in dem Bereich.",
+   "statement": "Die britische Zeitung The Guardian gehört einer Stiftung – ein Modell, wie Journalismus philanthropisch finanziert werden kann.",
+   "question": "Wem gehört die britische Zeitung The Guardian?",
+   "answer": "Einer Stiftung",
+   "distractors": [
+    "Dem britischen Staat",
+    "Einem Milliardär",
+    "Einer börsennotierten Mediengruppe"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn Geschäftsmodelle zerbrechen, braucht's jemanden, der Journalismus mitträgt – und auf den Staat will sich Loudon in Österreich nicht verlassen. Stiftungen wie beim Guardian sind eine Antwort, wobei man halt auch von denen abhängig ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Stiftungen",
+    "Finanzierung",
+    "Guardian"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 4731,
+   "speaker": "Anita Zielina",
+   "quote": "Abhängigkeit ist gefährlich weil sie in Versuchung führt in Versuchung Dinge zu tun die nicht ganz okay sind in Versuchung unmoralische Angebote anzunehmen",
+   "quote_clean": "Abhängigkeit ist gefährlich, weil sie in Versuchung führt, Dinge zu tun, die nicht ganz okay sind, unmoralische Angebote anzunehmen.",
+   "statement": "Anita Zielina hält Abhängigkeit von nur einer Geldquelle für gefährlich und rät Medien zu einem breit diversifizierten Geschäftsmodell.",
+   "question": "Wer sagt in dieser Folge: Abhängigkeit ist gefährlich, weil sie zu unmoralischen Angeboten verführt?",
+   "answer": "Anita Zielina",
+   "distractors": [
+    "Sebastian Loudon",
+    "Andreas Sator",
+    "Priya Parker"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zielina sieht international: Medien kommen am besten durch die Krise, wenn sie den Kuchen aus vielen Stücken backen – Abos, Werbung, Events, Stiftungen, Förderung nach klaren Kriterien. Dann ist ein schlechtes Werbejahr halt ein schlechtes Jahr und nicht das Ende.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Geschäftsmodell",
+    "Unabhängigkeit",
+    "Medien"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 5183,
+   "speaker": "Anita Zielina",
+   "quote": "du hast Steuervorteile Medienunternehmen äh je mehr Journalistinnen und Journalisten du beschäftigst an je mehr Qualitätskriterien du hältst desto mehr steuervvorteile hast du",
+   "quote_clean": "Du hast als Medienunternehmen Steuervorteile: Je mehr Journalistinnen und Journalisten du beschäftigst, an je mehr Qualitätskriterien du dich hältst, desto mehr Steuervorteile hast du.",
+   "statement": "Viele Projekte in den USA fördern Medien über Steueranreize: Wer mehr Journalist:innen beschäftigt und Qualitätskriterien einhält, bekommt mehr Steuervorteile.",
+   "question": "Wie fördern viele Projekte in den USA laut Anita Zielina Medien?",
+   "answer": "Über Steuervorteile pro Journalist:in",
+   "distractors": [
+    "Über direkte Inserate der Regierung",
+    "Über eine Haushaltsabgabe",
+    "Über Gratis-Zustellung der Post"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Damit wird nicht das alte Geschäftsmodell belohnt, etwa die Zustellung von Papier, sondern das, was man eigentlich will: Journalismus. In Österreich, kritisiert Zielina, fördern die großen Töpfe eher das Festhalten am Bestehenden.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Medienförderung",
+    "USA",
+    "Steuern"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 5349,
+   "speaker": "Sebastian Loudon",
+   "quote": "die 100000 € sind ja nicht ist nicht die Grenze weil die Stadt Wien so geizig ist sondern weil das die EU beihilferechtliche Schwelle ist",
+   "quote_clean": "Die 100.000 Euro sind nicht die Grenze, weil die Stadt Wien so geizig ist, sondern weil das die EU-beihilferechtliche Schwelle ist.",
+   "statement": "Die Förderobergrenze von 100.000 Euro bei der Wiener Medieninitiative ergibt sich aus der EU-Schwelle für staatliche Beihilfen.",
+   "question": "Warum ist die Förderung der Wiener Medieninitiative bei 100.000 Euro gedeckelt?",
+   "answer": "Wegen der EU-Beihilfe-Schwelle",
+   "distractors": [
+    "Wegen des knappen Stadtbudgets",
+    "Wegen einer Vorgabe des ORF-Gesetzes",
+    "Wegen eines Gemeinderatsbeschlusses"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die EU ist bei staatlichen Beihilfen streng, weil sie den Markt nicht verzerren will. Für ein Medien-Startup heißt das: Mit 100.000 Euro kann man anfangen, aber danach fällt man oft in ein tiefes Loch.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "EU",
+    "Medienförderung",
+    "Wien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 5416,
+   "speaker": "Sebastian Loudon",
+   "quote": "die Projekte müssen kinanziert sein das heißt äh die Hälfte bringe ich ein in dieses Projekt und die andere Hälfte aber nicht mehr als 50% darf dann eben gefördert sein",
+   "quote_clean": "Die Projekte müssen kofinanziert sein, das heißt, die Hälfte bringe ich in dieses Projekt ein, und nicht mehr als 50 Prozent darf dann gefördert sein.",
+   "statement": "Bei EU-konformen Medienförderungen dürfen Projekte höchstens zur Hälfte gefördert werden; den Rest muss das Medium selbst aufbringen.",
+   "question": "Wie viel Prozent eines Medienprojekts dürfen laut Sebastian Loudon nach EU-Regeln höchstens gefördert werden?",
+   "answer": "50 Prozent",
+   "distractors": [
+    "25 Prozent",
+    "75 Prozent",
+    "90 Prozent"
+   ],
+   "number_value": 50,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Die EU will keine bloße Existenz fördern, nach dem Motto: schön, dass es euch gibt. Gefördert werden Projekte, die kofinanziert sind – so kompliziert, dass große Verlage eigene Leute nur für RTR-Förderungen haben.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "EU",
+    "Medienförderung",
+    "Kofinanzierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 6009,
+   "speaker": "Andreas Sator",
+   "quote": "Rädern und Autos gelesen so die ersten Autos waren quasi Kutschen mit Motor also man hat auch irgendwie neue Technologie aber das alte drauf",
+   "quote_clean": "Ich habe ein Buch über die Geschichte von Rädern und Autos gelesen: Die ersten Autos waren quasi Kutschen mit Motor. Man hatte eine neue Technologie, aber das Alte drauf.",
+   "statement": "Neue Technologien imitieren anfangs oft die alten: Die ersten Autos waren im Grunde Kutschen mit Motor – ähnlich wie frühe Online-Zeitungen ins Netz gestellte Papierzeitungen waren.",
+   "question": "Wie sahen die ersten Autos laut Andreas im Grunde aus?",
+   "answer": "Wie Kutschen mit Motor",
+   "distractors": [
+    "Wie Fahrräder mit Dach",
+    "Wie kleine Eisenbahnwaggons",
+    "Wie Traktoren mit Sitzbank"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Neue Technologien betreiben anfangs Mimikry an den alten. Anita Zielina sieht das Internet mit Jeff Jarvis' Gutenberg Parenthesis genauso: Wir haben erst die große Zehe ins Wasser gestreckt.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Technikgeschichte",
+    "Auto",
+    "Internet"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 2849,
+   "speaker": "Andreas Sator",
+   "quote": "dafür würde ich gerne was unseriöses machen und Anita dich bitten in die Glaskugel zu blicken Schild uns mal wir gehen jetzt ins Jahr 2040 Österreich ist klimaneutral",
+   "quote_clean": "Dafür würde ich gerne was Unseriöses machen und dich, Anita, bitten, in die Glaskugel zu blicken. Schildere uns mal: Wir gehen jetzt ins Jahr 2040, Österreich ist klimaneutral.",
+   "statement": "Andreas bittet Anita Zielina, in die Glaskugel zu schauen und eine positive Utopie für Österreichs Medien im Jahr 2040 zu skizzieren.",
+   "question": "In welches Jahr schickt Andreas Anita Zielina für ihre Medien-Utopie, in dem Österreich klimaneutral ist?",
+   "answer": "2040",
+   "distractors": [
+    "2030",
+    "2035",
+    "2050"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "2040 ist das Jahr, in dem Österreich laut Regierungsziel klimaneutral sein soll – ein kleiner Klimaschmäh von Andreas mitten in der Medienfolge. Zielinas Antwort: weniger alte Medien, viele neue, manche davon groß geworden.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Utopie",
+    "Zukunft",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "311",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

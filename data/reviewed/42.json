@@ -1,0 +1,290 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt; 'höchstens' machte die 10-Prozent-Option technisch auch richtig, daher auf Obergrenze umformuliert.",
+   "stand_note": "",
+   "statement": "Bei den meisten Persönlichkeitsmerkmalen und bei Intelligenz geht höchstens etwa die Hälfte der Unterschiede zwischen Menschen auf die Gene zurück.",
+   "question": "Wo liegt laut Forschung bei den meisten Persönlichkeitsmerkmalen und bei Intelligenz die Obergrenze für den Anteil der Unterschiede zwischen Menschen, der auf die Gene zurückgeht?",
+   "answer": "Etwa bei der Hälfte (rund 50 Prozent)",
+   "distractors": [
+    "Etwa bei einem Zehntel",
+    "Etwa bei vier Fünfteln",
+    "Bei fast 100 Prozent"
+   ],
+   "aha": "Gene sind also ein wichtiger Faktor, aber nicht das Schicksal. Dazu kommen unterschiedliche Erfahrungen: Selbst eineiige Zwillinge mit identischen Genen und gleichem Haushalt machen verschiedene Erlebnisse, die ihre Persönlichkeit weiter prägen.",
+   "quote_clean": "Man kann sagen, dass bei den meisten Persönlichkeitsfaktoren und bei Intelligenz maximal die Hälfte der Unterschiede zwischen Menschen auf genetische Faktoren zurückzuführen ist.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt; Frage präzisiert auf die beschriebene Studiensituation, da frühere Empathie-Anzeichen anderswo bekannt sind.",
+   "stand_note": "",
+   "statement": "Schon ab etwa einem Jahr gibt es Studien, in denen Kinder auf eine Mama reagieren, die so tut, als hätte sie sich wehgetan.",
+   "question": "Ab welchem Alter reagieren Kinder in solchen Studien erstmals mitfühlend, wenn die Mama so tut, als hätte sie sich den Fuß angestoßen?",
+   "answer": "Ab etwa 12 Monaten",
+   "distractors": [
+    "Ab etwa 3 Monaten",
+    "Ab etwa 30 Monaten",
+    "Ab etwa 48 Monaten"
+   ],
+   "aha": "Forscher:innen haben Mütter gebeten, so zu tun, als hätten sie sich den Fuß angestoßen. Manche Einjährige versuchen dann schon, die Mama zu trösten und zu streicheln, oder schauen zumindest besorgt.",
+   "quote_clean": "Schon ab einem Jahr gibt es Studien, in denen man Mütter gebeten hat, so zu tun, als hätten sie sich den Fuß angestoßen.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Mit 'ab' und Distraktoren 6/8/10 sind mehrere Antworten technisch wahr; der aha-Satz 'Regeln hinterfragen erst viel später' ist nicht belegt (sie nennt kein Alter). Inhalt deckt Kandidat 13 ab.",
+   "stand_note": "",
+   "statement": "Schon Dreijährige haben ein ausgeprägtes Gespür dafür, dass es Regeln gibt, und weisen andere darauf hin.",
+   "question": "Ab welchem Alter haben Kinder laut Studien schon ein ausgeprägtes Gespür dafür, dass es bei Spielen Regeln gibt?",
+   "answer": "Mit etwa drei Jahren",
+   "distractors": [
+    "Mit etwa sechs Jahren",
+    "Mit etwa acht Jahren",
+    "Mit etwa zehn Jahren"
+   ],
+   "aha": "",
+   "quote_clean": "Das heißt, diese Sensibilität dafür, dass es bestimmte Regeln gibt, ist mit drei Jahren auf jeden Fall schon ausgeprägt.",
+   "quality": 2
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Kernaussage belegt; 'mit vier' im aha stand nicht im Transkript, Antwort auf 'bei vielen' präzisiert, Distraktor 'gibt es noch nicht' widerspricht aber nur teilweise, daher angepasst.",
+   "stand_note": "",
+   "statement": "Im Kindergartenalter wechselt der beste Freund bei vielen Kindern noch von Woche zu Woche.",
+   "question": "Wie stabil sind beste Freundschaften im Kindergartenalter bei vielen Kindern?",
+   "answer": "Bei vielen wechselt der beste Freund von Woche zu Woche",
+   "distractors": [
+    "Sie halten meist bis zur Volksschule",
+    "Sie halten bei den meisten ein Leben lang",
+    "Beste Freunde gibt es da noch gar nicht"
+   ],
+   "aha": "Manche Kinder haben im Kindergartenalter schon einen echten besten Freund, bei vielen ist das aber ein Wanderpokal. Die wichtigsten Bezugspersonen bleiben in dem Alter noch die Eltern.",
+   "quote_clean": "Aber für viele Kinder ist in der einen Woche Kind X der beste Freund und in der nächsten Woche wieder jemand anderes. Das ist nicht unbedingt stabil.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aussage belegt; im aha war 'Volksschule' nicht belegt (sie sprach vom Kindergartenalter), entfernt.",
+   "stand_note": "",
+   "statement": "Erst im Jugendalter werden Gleichaltrige mindestens so wichtig wie die Eltern oder wichtiger.",
+   "question": "Ab wann werden Gleichaltrige für Kinder typischerweise mindestens so wichtig wie die Eltern?",
+   "answer": "Im Jugendalter",
+   "distractors": [
+    "Schon im Kindergarten",
+    "Mit dem Schuleintritt",
+    "Erst im Erwachsenenalter"
+   ],
+   "aha": "Im Kindergartenalter sind Mama und Papa noch die zentralen Bezugspersonen, auch wenn es schon erste Freund:innen gibt. Mit dem Jugendalter ändert sich das, und Abgrenzung von den Eltern gehört dann zur Identitätssuche dazu.",
+   "quote_clean": "Dass die Gleichaltrigen wirklich mindestens so wichtig oder wichtiger werden als die Eltern, ist eher im Jugendalter der Fall.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, Relativierung (kein Eins-zu-eins-Zusammenhang) ist in der Aussage enthalten, Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Babys, die eher vorsichtig und ängstlich sind, haben später eine höhere Wahrscheinlichkeit für soziale Ängste, aber es ist kein fixer Zusammenhang.",
+   "question": "Was weiß man über Babys, die schon sehr vorsichtig und ängstlich auf Neues reagieren?",
+   "answer": "Sie haben später öfter soziale Ängste",
+   "distractors": [
+    "Sie werden später besonders extrovertiert",
+    "Ihr Temperament ändert sich bald völlig",
+    "Sie lernen später schneller sprechen"
+   ],
+   "aha": "Temperament ist schon bei Babys messbar und relativ stabil. In Stein gemeißelt ist aber nichts: Die Wahrscheinlichkeit steigt nur, ein schüchternes Baby kann trotzdem ein entspannter Erwachsener werden.",
+   "quote_clean": "Man kann feststellen, dass Kinder, die als Baby schon eher vorsichtig, ängstlich und schüchtern sind, eine höhere Wahrscheinlichkeit haben, später auch soziale Ängste zu haben.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Belegt; quote_clean und aha fügten 'neues/unbekanntes' Spielzeug hinzu (im Transkript nur 'ein Spielzeug') und verdrehten die Geschwister-Aussage.",
+   "stand_note": "",
+   "statement": "Temperamentsunterschiede testet man schon bei Babys, indem man beobachtet, wie sie auf Neues reagieren, etwa auf ein Spielzeug oder eine fremde Person.",
+   "question": "Wie testen Forscher:innen das Temperament von Babys?",
+   "answer": "Sie beobachten die Reaktion auf Neues",
+   "distractors": [
+    "Sie messen die Schlafdauer",
+    "Sie zählen, wie oft sie weinen",
+    "Sie messen den Kopfumfang"
+   ],
+   "aha": "Man zeigt dem Baby ein Spielzeug oder lässt eine fremde Person versuchen, es hochzuheben. Bleibt es gelassen oder sucht es ängstlich die Nähe zur Bezugsperson? Diese Unterschiede sind relativ stabil und können sogar bei Geschwistern sehr verschieden sein.",
+   "quote_clean": "Das kann man wirklich schon mit Babys testen, indem man ihnen ein Spielzeug zeigt oder eine fremde Person versucht, das Kind aufzuheben.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt; 'besonders' überzogen, da sie auch das Vorleben nennt. Frage neutraler gefasst.",
+   "stand_note": "",
+   "statement": "Kinder entwickeln Empathie besser, wenn Erwachsene mit ihnen über Situationen und Gefühle sprechen, etwa nachdem sie einem anderen Kind wehgetan haben.",
+   "question": "Was hilft Kindern laut Stefanie Höhl, Empathie zu entwickeln, wenn sie zum Beispiel einem anderen Kind wehgetan haben?",
+   "answer": "Mit ihnen über die Situation und Gefühle reden",
+   "distractors": [
+    "Sie konsequent bestrafen",
+    "Sie Konflikte allein lösen lassen",
+    "Ihnen Empathie-Videos zeigen"
+   ],
+   "aha": "Ein Kind, das einem anderen die Schaufel auf den Kopf haut, weiß in dem Moment oft gar nicht, was es falsch gemacht hat. Gefühle in Worte zu fassen hilft, sich in andere hineinzudenken.",
+   "quote_clean": "Dass man mit dem Kind spricht: Jetzt schau doch mal, was passiert ist. Jetzt hast du dem anderen Kind wehgetan. Was war denn da los? Dass man wirklich darüber spricht.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Belegt und gut spielbar; im aha war 'frei erfunden' und der Name des Spiels eine Zusatzannahme, entfernt.",
+   "stand_note": "",
+   "statement": "In Studien zeigt man Dreijährigen ein neues Spiel und lässt danach eine Puppe es anders spielen; die Kinder protestieren, dass das so nicht geht.",
+   "question": "Wie reagieren Dreijährige in Studien, wenn eine Puppe ein gerade gelerntes Spiel anders spielt?",
+   "answer": "Sie protestieren: So geht das nicht",
+   "distractors": [
+    "Sie spielen begeistert die neue Variante",
+    "Sie merken den Unterschied gar nicht",
+    "Sie fragen die Puppe nach dem Grund"
+   ],
+   "aha": "Schon die Kleinen verteidigen die Regeln eines Spiels, das sie gerade erst kennengelernt haben, fast wie Schiedsrichter. Menschen sind offenbar von klein auf darauf aus, herauszufinden, was hier die Regel ist.",
+   "quote_clean": "Da gibt es zum Beispiel Studien, in denen man den Kindern ein neues Spiel zeigt, das sie vorher noch nicht kannten, und sagt: Das ist jetzt Dachsen.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat belegt und korrekt zugeordnet; als Wer-sagt-es-Frage nur mittelmäßig, aber fair.",
+   "stand_note": "",
+   "statement": "Kinder müssen auch Grenzen kennenlernen und erleben, was sie selbstständig schaffen können, statt dass Eltern ihnen alles abnehmen.",
+   "question": "Wer sagt in „Erklär mir die Welt“: „Ein Kind muss auch mal gegen die Wand laufen“?",
+   "answer": "Stefanie Höhl",
+   "distractors": [
+    "Andreas Sator",
+    "Remo Largo",
+    "Jesper Juul"
+   ],
+   "aha": "Die Entwicklungspsychologin warnt vor Helikoptereltern, die dem Kind alles abnehmen. Wer nie selbst ein Problem lösen darf, erfährt auch nie, dass er es kann.",
+   "quote_clean": "Ein Kind muss auch mal gegen die Wand laufen, ein Kind muss auch mal Grenzen kennenlernen, ein Kind muss auch mal die Möglichkeit haben, zu merken, was es selbstständig machen kann.",
+   "quality": 2
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Belegt; quote_clean fügte 'ich kann' hinzu, näher am Original geglättet.",
+   "stand_note": "",
+   "statement": "Bei pubertierenden Kindern rät die Entwicklungspsychologin, Angebote zu machen statt etwas vorzuschreiben.",
+   "question": "Was rät die Entwicklungspsychologin Eltern von rebellierenden Teenagern?",
+   "answer": "Angebote machen, nichts vorschreiben",
+   "distractors": [
+    "Strenge Regeln, keine Ausnahmen",
+    "Einfach in Ruhe lassen",
+    "Verbote, bis die Phase vorbei ist"
+   ],
+   "aha": "Kontrolle von oben erzeugt Reaktanz, und dann kapselt sich der Teenager erst recht ab. Besser: Kontakt halten, Interesse zeigen und schauen, ob es eher Sport oder doch Musik ist.",
+   "quote_clean": "Angebote machen, nichts vorschreiben. Ich kann das Kind auch nicht zwingen, in den Sportverein zu gehen oder sich irgendwo sozial zu engagieren, aber Angebote machen.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Aussage belegt; im aha waren 'Drogen' und der Schlusssatz 'ganz tolle Sache, sagt sie' nicht im Ausschnitt belegt, ersetzt.",
+   "stand_note": "",
+   "statement": "Die Pubertät ist nicht nur anstrengend, sondern kann wertvoll sein, weil Jugendliche viel Energie, Potenzial und Kreativität haben.",
+   "question": "Wie beschreibt die Entwicklungspsychologin Jugendliche in der Pubertät auch?",
+   "answer": "Voller Energie, Potenzial und Kreativität",
+   "distractors": [
+    "Vor allem antriebslos und müde",
+    "Kaum lernfähig in dieser Phase",
+    "Ausschließlich auf sich selbst fixiert"
+   ],
+   "aha": "Die Pubertät ist mehr als Rebellion: Diese Energie lässt sich lenken, zum Beispiel in Sport, Ehrenamt oder politisches Engagement.",
+   "quote_clean": "Die Jugendlichen haben wahnsinnig viel Energie, viel Potenzial, viel Kreativität.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Frage-Raten nach Andreas' eigener Frage ist kaum spielbar (Distraktoren offensichtlich absurd); aha enthält Krankenhaus-Beispiel, das im Ausschnitt nicht belegt ist.",
+   "stand_note": "",
+   "statement": "Andreas fragt, wie stark die Kindheit das spätere Erwachsenenleben bestimmt.",
+   "question": "Welche Frage stellt Andreas in der Folge über Kinder zur Bedeutung der Kindheit?",
+   "answer": "Wie wichtig ist die Kindheit für später?",
+   "distractors": [
+    "Wann war deine schönste Kindheitserinnerung?",
+    "Sollen Kinder früher in die Schule?",
+    "Brauchen Kinder ein eigenes Handy?"
+   ],
+   "aha": "",
+   "quote_clean": "Wie wichtig ist die Kindheit für später? Man hört ja oft, jemand hatte eine schwere Kindheit und muss die jetzt erst aufarbeiten.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "fairness",
+    "beleg"
+   ],
+   "note": "Andreas nannte hypothetische Familien, nicht ein Idealbild; Statement und aha unterstellten ihm das. Auf Höhls Aussage umgestellt.",
+   "stand_note": "",
+   "statement": "Eltern, die dem Kind alles unterordnen, sind für die Entwicklungspsychologin ein Alarmsignal, weil Kinder auch Grenzen lernen müssen.",
+   "question": "Was sagt Stefanie Höhl zu Eltern, die dem Kind alles unterordnen?",
+   "answer": "Da schrillen bei ihr die Alarmglocken",
+   "distractors": [
+    "Das sei der beste Start ins Leben",
+    "Das sei völlig egal für das Kind",
+    "Das empfehle sie allen Eltern"
+   ],
+   "aha": "Ein Kind muss auch lernen, dass sich die Welt nicht nur um es dreht und dass nicht immer alles nach seinem Willen geht. Wer dem Kind alles abnimmt, nimmt ihm auch die Chance, selbst etwas zu schaffen.",
+   "quote_clean": "Die ordnen dem Kind alles unter? Da würden bei mir ehrlich gesagt die Alarmglocken schrillen, weil ein Kind auch Grenzen lernen muss.",
+   "quality": 3
+  }
+ ],
+ "id": "42",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

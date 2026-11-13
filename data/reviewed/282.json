@@ -1,0 +1,232 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "120.000 km steht bei 193 klar im Transkript; Größenordnung plausibel.",
+   "stand_note": "",
+   "statement": "Das Gewässernetz in Österreich ist etwa 120.000 Kilometer lang, von kleinen Oberläufen bis zur Donau.",
+   "question": "Wie viele Kilometer lang ist das Gewässernetz in Österreich ungefähr?",
+   "answer": "Etwa 120.000 Kilometer",
+   "distractors": [
+    "Etwa 12.000 Kilometer",
+    "Etwa 40.000 Kilometer",
+    "Etwa 500.000 Kilometer"
+   ],
+   "aha": "Das reicht dreimal um die Erde. Und trotzdem haben wir in Österreich laut Tockner mehr Kilometer Straßen als Bäche und Flüsse, also ein zweites, künstliches Netzwerk über die Landschaft gelegt.",
+   "quote_clean": "Das Gewässernetz, das wir in Österreich haben, beträgt etwa 120.000 Kilometer.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 206-211 eindeutig; überraschender Fakt, Expertenaussage.",
+   "stand_note": "",
+   "statement": "In Österreich gibt es mehr Kilometer Straßen als Kilometer Bäche und Flüsse.",
+   "question": "Was hat Österreich mehr: Kilometer an Straßen oder an Bächen und Flüssen?",
+   "answer": "Mehr Kilometer Straßen",
+   "distractors": [
+    "Mehr Kilometer Bäche und Flüsse",
+    "Beides ziemlich genau gleich viel",
+    "Doppelt so viele Flusskilometer"
+   ],
+   "aha": "Das Gewässernetz ist rund 120.000 Kilometer lang, und trotzdem haben wir es mit Straßen übertroffen. Tockner nennt das ein zweites großes Netzwerk, das wir künstlich über die Landschaft gelegt haben.",
+   "quote_clean": "Wir haben mehr Kilometer an Straßen als an Bächen und Flüssen. Das heißt, wir haben künstlich ein zweites großes Netzwerk geschaffen.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "fairness"
+   ],
+   "note": "Beleg bei 286-292 klar, als Prognose bei unverändertem Wirtschaften attribuiert; der aha-Zusatz mit Windrädern ist ein politisch gefärbter Seitenhieb und wurde gestrichen.",
+   "stand_note": "Stand 2023",
+   "statement": "Wenn wir so weiterwirtschaften wie bisher, wird es bis Ende des Jahrhunderts im gesamten Alpenraum kaum noch Gletscher geben.",
+   "question": "Bis wann wird es laut Klement Tockner im Alpenraum kaum noch Gletscher geben, wenn wir so weitermachen?",
+   "answer": "Bis Ende des Jahrhunderts",
+   "distractors": [
+    "Bis zum Jahr 2030",
+    "In etwa 500 Jahren",
+    "Erst in rund 1.000 Jahren"
+   ],
+   "aha": "Viele Bäche werden von Gletscherschmelzwasser gespeist, und auch die führen weniger Wasser, wenn die Gletscher verschwinden. Das trifft also nicht nur die Berglandschaft, sondern auch die Flüsse.",
+   "quote_clean": "Bis Ende des Jahrhunderts werden wir kaum mehr Gletscher haben im gesamten Alpenraum, wenn wir so weiterwirtschaften, wie wir wirtschaften.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 508-519 eindeutig (Donau: 9).",
+   "stand_note": "",
+   "statement": "Kleine Oberläufe haben die Flussordnungszahl 1, wo zwei zusammenfließen entsteht 2 und so weiter; die Donau hat die Flussordnungszahl 9.",
+   "question": "Welche Flussordnungszahl hat die Donau, wenn kleine Oberläufe die Zahl 1 haben?",
+   "answer": "9",
+   "distractors": [
+    "3",
+    "15",
+    "27"
+   ],
+   "aha": "Jedes Mal, wenn Bäche zusammenfließen, steigt die Ordnungszahl. So entsteht ein schönes geometrisches Muster, das alle Flüsse auszeichnet, und die Donau schafft es bis 9.",
+   "quote_clean": "Wenn die zusammenfließen, dann kommt eine Flussordnungszahl 2. Und wenn die wieder zusammenfließen, 3. Und die Donau hat zum Beispiel eine Flussordnungszahl von 9.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 411 wörtlich, als Tockners Aussage attribuiert.",
+   "stand_note": "",
+   "statement": "Die Artenvielfalt in Flüssen samt Auen ist laut Tockner vergleichbar mit jener in tropischen Regenwäldern oder Korallenriffen.",
+   "question": "Womit ist die Artenvielfalt unserer Flüsse und Auen laut Klement Tockner vergleichbar?",
+   "answer": "Mit Regenwäldern und Korallenriffen",
+   "distractors": [
+    "Mit Äckern und Wiesen",
+    "Mit der Tiefsee",
+    "Mit Nadelwäldern im Norden"
+   ],
+   "aha": "Flüsse sind vielfältig in ihrer Form und extrem dynamisch, mit Hochwasser und Niedrigwasser. Genau diese Vielfalt und Dynamik macht sie zu den artenreichsten Ökosystemen, die wir haben.",
+   "quote_clean": "Man muss sich vorstellen, dass die Vielfalt, die wir in unseren Gewässern haben, ohne Weiteres vergleichbar ist mit der Vielfalt in tropischen Regenwäldern oder in Korallenriffen.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 670-677 klar (neun Millionen), Größenordnung plausibel.",
+   "stand_note": "",
+   "statement": "Entlang des Rheins leben heute rund neun Millionen Menschen in ehemaligen Überflutungsgebieten des Flusses.",
+   "question": "Wie viele Millionen Menschen leben laut Klement Tockner entlang des Rheins in ehemaligen Überflutungsgebieten?",
+   "answer": "Rund 9 Millionen",
+   "distractors": [
+    "Rund 1 Million",
+    "Rund 25 Millionen",
+    "Rund 50 Millionen"
+   ],
+   "aha": "Viele davon in den Niederlanden, aber auch in Deutschland und an der Grenze zwischen der Schweiz und Österreich. Mit mehr Extremwetter, also Dürren und Hochwässern, wird das zu einem großen Problem.",
+   "quote_clean": "Dann leben heutzutage neun Millionen Menschen entlang des gesamten Rheins in Gebieten, die früher dem Fluss gehört haben, also in ehemaligen Überflutungsgebieten.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 752-780 klar; Distraktoren sind das frühere Ziel bzw. Gegenteil.",
+   "stand_note": "",
+   "statement": "Im Umgang mit Gewässern hat sich das Ziel umgedreht: Früher wollte man Wasser rasch abtransportieren, heute will man es möglichst lange in der Landschaft halten.",
+   "question": "Was ist heute das Ziel im Umgang mit Wasser in der Landschaft?",
+   "answer": "Wasser möglichst lange zurückhalten",
+   "distractors": [
+    "Wasser möglichst rasch ableiten",
+    "Bäche möglichst gerade begradigen",
+    "Auen möglichst trocken legen"
+   ],
+   "aha": "Rasches Abfließen verlagert das Hochwasserproblem nur flussabwärts, und in Trockenzeiten fehlt das Wasser dann. Deshalb renaturiert man Flüsse, bindet Auen wieder an und vernässt Moore wieder.",
+   "quote_clean": "Ursprünglich war das Ziel, das Wasser so rasch wie möglich abzutransportieren. Heute geht man dahin, dass man das Wasser so lang wie möglich in der Landschaft zurückhält.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahlen bei 792-797 eindeutig; Distraktor 60 ist der Fichtenwert, aber fair.",
+   "stand_note": "",
+   "statement": "Ein Mischwald kann rund 200 Liter Wasser pro Quadratmeter speichern, eine Fichtenmonokultur nur etwa 60.",
+   "question": "Wie viele Liter Wasser kann ein Mischwald laut Klement Tockner pro Quadratmeter speichern?",
+   "answer": "200 Liter",
+   "distractors": [
+    "20 Liter",
+    "60 Liter",
+    "1.000 Liter"
+   ],
+   "aha": "Die Fichtenmonokultur schafft nur 60 Liter. Wer Monokulturen zu Mischwäldern umbaut, speichert also mehr Wasser und Kohlenstoff, schafft Erholungsraum und ist besser auf den Klimawandel vorbereitet.",
+   "quote_clean": "Ein Mischwald kann pro Quadratmeter 200 Liter Wasser speichern. Eine Fichtenmonokultur kann nur 60 Liter Wasser pro Quadratmeter speichern.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 975 wörtlich; als Aussage des Gastes formuliert.",
+   "stand_note": "Stand 2023",
+   "statement": "Jede dritte Art in unseren Gewässern ist vom Aussterben bedroht.",
+   "question": "Wie viele Arten in unseren Gewässern sind laut Klement Tockner vom Aussterben bedroht?",
+   "answer": "Jede dritte",
+   "distractors": [
+    "Jede zehnte",
+    "Jede zwanzigste",
+    "Jede hundertste"
+   ],
+   "aha": "Nirgendwo ist die Gefährdung der Vielfalt so groß wie in Bächen und Flüssen. Weil Gewässer an der tiefsten Stelle der Landschaft liegen, sammelt sich dort alles, was rundherum passiert.",
+   "quote_clean": "Und vielleicht auch noch dazu zu sagen: Jede dritte Art in unseren Gewässern ist vom Aussterben bedroht.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1198-1222 passt; Vergleich ist Tockners eigenes Bild.",
+   "stand_note": "",
+   "statement": "Weil in regulierten Flüssen keine Hochwässer mehr neue Schotterbänke und Inseln schaffen, fehlen junge Lebensräume, ähnlich einer Bevölkerung ohne Nachwuchs.",
+   "question": "Womit vergleicht Klement Tockner regulierte Flüsse, in denen keine jungen Lebensräume mehr entstehen?",
+   "answer": "Mit einer Bevölkerung ohne Nachwuchs",
+   "distractors": [
+    "Mit einem leeren Supermarktregal",
+    "Mit einer stillgelegten Autobahn",
+    "Mit einem verlassenen Dorf"
+   ],
+   "aha": "Hochwasser ist an sich nichts Schlechtes: Es schafft Schotterbänke und Inseln, auf denen spezialisierte Käfer, Spinnen und Pflanzen wie die Tamariske leben. In regulierten Bächen bleibt oft nur alter Auwald übrig.",
+   "quote_clean": "Man kann sich das fast vorstellen wie in einer Bevölkerung, in der kein Nachwuchs mehr kommt. Wir haben demografisch eingeengte Lebensräume.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1876-1882 klar; Wer-sagt-Frage ist beim Gast trivial, daher zu inhaltlicher Frage umgebaut und als Tockners Einschätzung attribuiert.",
+   "stand_note": "",
+   "statement": "Wasserkraft ist laut Tockner erneuerbar, aber weder klimaneutral noch umweltfreundlich.",
+   "question": "Was ist Wasserkraft laut Klement Tockner zwar nicht, obwohl sie eine erneuerbare Energiequelle ist?",
+   "answer": "Umweltfreundlich",
+   "distractors": [
+    "Erneuerbar",
+    "Heimisch",
+    "Speicherbar"
+   ],
+   "aha": "Für Tockner sind Klimakrise und Artensterben eine Zwillingskrise, die man nicht getrennt betrachten darf. Es geht ihm nicht um Wasserkraft ja oder nein, sondern darum, wo, wie und wie man die Anlagen betreibt.",
+   "quote_clean": "Wasserkraft ist eine erneuerbare Energiequelle, aber keine klimaneutrale, und schon gar keine umweltfreundliche Energiequelle.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Wer-sagt-Frage mit trivialer Antwort; zudem hedged ('möglicherweise') und bereits durch i21 abgedeckt.",
+   "stand_note": "",
+   "statement": "Gewässer könnten die größten Verlierer des Pariser Klimaabkommens werden, wenn man es rein energetisch betrachtet.",
+   "question": "Wer nennt die Gewässer „möglicherweise die größten Verlierer des Pariser Klimaabkommens“?",
+   "answer": "Klement Tockner",
+   "distractors": [
+    "Andreas Sator",
+    "Greta Thunberg",
+    "Leonore Gewessler"
+   ],
+   "aha": "Weltweit boomt der Ausbau der Wasserkraft.",
+   "quote_clean": "Und die Gewässer sind möglicherweise die größten Verlierer des Pariser Klimaabkommens, wenn man es nur aus einer rein energetischen Sicht betrachtet.",
+   "quality": 1
+  }
+ ],
+ "id": "282",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

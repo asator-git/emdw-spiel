@@ -1,0 +1,286 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Aussage steht bei 229 s so im Transkript; Zahlen von 2021, daher Standhinweis.",
+   "stand_note": "Stand 2021",
+   "statement": "Der österreichische Staat hat ungefähr gleich viele Schulden wie alle privaten Unternehmen in Österreich zusammen.",
+   "question": "Wer hat in Österreich ungefähr gleich viele Schulden wie der Staat?",
+   "answer": "Alle Unternehmen zusammen",
+   "distractors": [
+    "Alle Haushalte zusammen",
+    "Die Bundesländer zusammen",
+    "Die Banken zusammen"
+   ],
+   "aha": "Staat und Unternehmen sind die zwei großen Investoren im Land: Bahnstrecken, Schulen, Maschinen, Fabriken. Und beide finanzieren einen Teil davon auf Pump, nur redet bei den Firmen kaum wer drüber.",
+   "quote_clean": "Es ist interessant, dass der Staat in Österreich etwa gleich stark verschuldet ist wie alle Unternehmen zusammen.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Zahl 'gut 300 Milliarden' steht bei 247 s; Schuldenstand ist heute deutlich höher, daher Standhinweis.",
+   "stand_note": "Stand 2021",
+   "statement": "Die Staatsschulden Österreichs lagen 2021 bei gut 300 Milliarden Euro.",
+   "question": "Wie viele Milliarden Euro Schulden hatte der österreichische Staat 2021 ungefähr?",
+   "answer": "Gut 300 Milliarden Euro",
+   "distractors": [
+    "Gut 80 Milliarden Euro",
+    "Gut 900 Milliarden Euro",
+    "Gut 1.500 Milliarden Euro"
+   ],
+   "aha": "Gut 300 Milliarden, und genauso viel schulden alle privaten Unternehmen zusammen. Klingt nach irrsinnig viel, aber dem stehen auch Bahnstrecken, Schulen und Grundstücke gegenüber.",
+   "quote_clean": "Die Summe der Schulden der privaten Unternehmen ist circa so hoch wie die Schulden des Staates. Beides gut 300 Milliarden Euro.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Statement und Frage passten nicht zum Zitat (Entstehung durch Ausgaben über Einnahmen); Frage auf die belegte Aussage umgestellt.",
+   "stand_note": "",
+   "statement": "Staatsschulden entstehen im Wesentlichen daraus, dass die Ausgaben des Staates in einem Jahr höher sind als die Einnahmen.",
+   "question": "Wie entstehen Staatsschulden im Wesentlichen?",
+   "answer": "Die Ausgaben sind in einem Jahr höher als die Einnahmen",
+   "distractors": [
+    "Der Staat druckt zu viel eigenes Geld",
+    "Die Zinsen fressen jedes Jahr das ganze Budget",
+    "Die EU weist dem Staat Schulden zu"
+   ],
+   "aha": "Klingt banal, ist aber der Kern: Die Einnahmen hängen stark von der Wirtschaft ab. Wenn Jobs, Löhne und Konsum wachsen, sprudeln Lohnsteuer und Mehrwertsteuer von selbst, in einer Flaute eben nicht. Was am Ende fehlt, ist das Defizit.",
+   "quote_clean": "Im Wesentlichen entstehen Staatsschulden einfach, das klingt jetzt banal, daraus, dass die Ausgaben des Staates in einem Jahr höher sind als die Einnahmen.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Anleihen, internationale Ausschreibung und Anleger bei 317-334 s belegt; Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Der Staat verschuldet sich über Anleihen, die er international ausschreibt und die von Banken, Pensionskassen und Fonds gezeichnet werden.",
+   "question": "Wie leiht sich der österreichische Staat hauptsächlich Geld?",
+   "answer": "Er gibt Staatsanleihen an Anleger aus",
+   "distractors": [
+    "Er nimmt Kredite bei der EZB auf",
+    "Er leiht sich Geld von den Bundesländern",
+    "Er druckt über die Nationalbank Geld"
+   ],
+   "aha": "Der Staat sagt sinngemäß: Wer borgt mir zwei Milliarden für zehn Jahre? Dann stellen sich deutsche Banken, schottische Pensionskassen und amerikanische Fonds an. Und diese Anleihen kann man später auch weiterverkaufen, anders als einen Kredit.",
+   "quote_clean": "Der Staat schreibt international aus: Ich möchte mir für zehn Jahre zwei Milliarden Euro borgen. Dann stellen sich internationale Anleger von deutschen Banken, schottischen Pensionskassen und amerikanischen Fonds an und zeichnen diese Staatsanleihen, borgen dem Staat also Geld.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Zahl belegt (340 s); Distraktor 'Knapp einfach' unplausibel, ersetzt; Zahl gilt für 2021.",
+   "stand_note": "Stand 2021",
+   "statement": "Österreichische Staatsanleihen waren 2021 etwa vier- bis fünffach überzeichnet: Die Nachfrage war um ein Vielfaches höher als der Geldbedarf.",
+   "question": "Wie oft überzeichnet waren österreichische Staatsanleihen 2021 etwa?",
+   "answer": "Vier- bis fünffach",
+   "distractors": [
+    "Zwei- bis dreifach",
+    "Etwa zehnfach",
+    "Etwa zwanzigfach"
+   ],
+   "aha": "Wenn Österreich zwei Milliarden haben will, bieten Anleger acht bis zehn. Die Investoren streiten sich quasi darum, der Republik Geld borgen zu dürfen.",
+   "quote_clean": "Im Moment ist es so, dass, wenn der österreichische Staat eine Anleihe begibt, die etwa vier- bis fünffach überzeichnet ist.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "0,08 Prozent laut Bloomberg bei 394 s von Andreas genannt, Marterbauer bestätigt; heute viel höher, daher Standhinweis.",
+   "stand_note": "Stand Juni 2021",
+   "statement": "Zehnjährige österreichische Staatsanleihen brachten im Juni 2021 laut Bloomberg nur rund 0,08 Prozent Zinsen.",
+   "question": "Wie viel Prozent Zinsen brachte eine zehnjährige österreichische Staatsanleihe im Juni 2021?",
+   "answer": "0,08 Prozent",
+   "distractors": [
+    "1,5 Prozent",
+    "3,2 Prozent",
+    "0,8 Prozent"
+   ],
+   "aha": "Quasi gratis Geld für die Republik: Sie muss in zehn Jahren nur zurückzahlen, was sie geborgt hat. Das macht viele Investitionen, etwa in Öffis, plötzlich sehr vernünftig.",
+   "quote_clean": "Im Moment ist es, wenn man so ein zehnjähriges Staatspapier von Österreich kauft, laut Bloomberg im Durchschnitt 0,08 Prozent Zinsen.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "spielbarkeit"
+   ],
+   "note": "Begründung belegt (466-500 s); Zeitbezug 2021 ergänzt, wenig plausible Goldzins-Option ersetzt.",
+   "stand_note": "Stand 2021",
+   "statement": "Anleger borgten Österreich 2021 fast zinslos Geld, weil der Staat als sehr sicherer Schuldner gilt, der anders als ein Unternehmen nicht in Konkurs geht.",
+   "question": "Warum verlangten Anleger 2021 von Österreich kaum Zinsen?",
+   "answer": "Österreich gilt als sehr sicherer Schuldner",
+   "distractors": [
+    "Die EU garantiert alle Anleihen",
+    "Die Anleihen sind für Anleger steuerfrei",
+    "Kein Land hat so wenig Schulden wie Österreich"
+   ],
+   "aha": "Ein Unternehmen kann in zehn Jahren pleite sein, die Republik Österreich wird es ziemlich sicher noch geben. Für einen Pensionsfonds ist das ein sicherer Parkplatz, und dafür verzichtet er eben auf Zinsen.",
+   "quote_clean": "Klingt verrückt, aber der österreichische Staat ist eben ein sehr guter Schuldner. Der schottische Pensionsfonds verlässt sich darauf, dass er das Geld von uns zurückbekommt.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "100 Jahre bei 506 s belegt; 'längste zuletzt' nicht belegt, daher auf Marterbauers Beispiel bezogen; Aha-Jahr 2117 ungenau entfernt.",
+   "stand_note": "Stand 2021",
+   "statement": "Marterbauer nennt als Beispiel für sehr langfristige Verschuldung hundertjährige österreichische Staatsanleihen mit Zinsen um ein Prozent.",
+   "question": "Welche Laufzeit hatten die Anleihen, die Marterbauer als Beispiel für ganz langfristige Staatsverschuldung nennt?",
+   "answer": "100 Jahre",
+   "distractors": [
+    "30 Jahre",
+    "50 Jahre",
+    "200 Jahre"
+   ],
+   "aha": "Hundert Jahre, und das zu rund einem Prozent Zinsen. Man kann sich als Staat also fast ewig verschulden, weil Anleger darauf vertrauen, dass es die Republik auch in hundert Jahren noch gibt.",
+   "quote_clean": "Österreich hat zuletzt auch selbst hundertjährige Anleihen begeben, mit relativ niedrigen Zinssätzen von einem Prozent und zum Teil darüber.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Banale Einstiegsfrage ohne Erkenntniswert; 'oft' im Statement nicht belegt.",
+   "stand_note": "",
+   "statement": "Andreas beginnt seine Gespräche oft damit, den Gast zu bitten, sich kurz selbst vorzustellen.",
+   "question": "Womit startet Andreas in dieser Folge das Gespräch mit seinem Gast?",
+   "answer": "Er bittet ihn, sich kurz vorzustellen",
+   "distractors": [
+    "Er fragt nach seinem Lieblingsbuch",
+    "Er fragt, wie es ihm heute geht",
+    "Er erzählt einen Witz über Ökonomen"
+   ],
+   "aha": "Ein Klassiker bei Erklär mir die Welt: Erst einmal soll der Gast selber sagen, wer er ist. Markus erzählt dann von WU, WIFO und Arbeiterkammer.",
+   "quote_clean": "Hallo Markus, schön, dass du da bist. Magst du dich zu Beginn bitte kurz vorstellen?",
+   "quality": 1
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Antizyklisches Verhalten bei 790-801 s belegt und als Meinung des Gastes formuliert.",
+   "stand_note": "",
+   "statement": "Anders als Haushalte und Unternehmen sollte der Staat in der Krise nicht zurückhaltend sein, sondern antizyklisch gerade dann investieren.",
+   "question": "Wie sollte sich der Staat laut Markus Marterbauer in einer Wirtschaftskrise verhalten?",
+   "answer": "Antizyklisch, also gerade dann investieren",
+   "distractors": [
+    "Wie ein Haushalt sparen",
+    "Steuern sofort deutlich erhöhen",
+    "Investitionen um ein Jahr verschieben"
+   ],
+   "aha": "Haushalte legen mehr auf die Seite, wenn der Nachbar arbeitslos wird, Firmen verschieben den Maschinenkauf. Wenn der Staat das auch macht, bricht alles noch mehr ein. Darum soll er genau dann gegensteuern.",
+   "quote_clean": "Der Staat kann das eigentlich nicht tun und soll es auch nicht tun. Im Gegenteil, er sollte, wie wir Ökonomen sagen, antizyklisch vorgehen, also gerade in der Krise investieren.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Kritik bei 889-895 s belegt und als Position des Gastes formuliert.",
+   "stand_note": "",
+   "statement": "Bei Unternehmen betrachtet man Schulden und Vermögen gemeinsam, beim Staat schaut man meist nur auf die Schulden.",
+   "question": "Was kritisiert Markus Marterbauer an der üblichen Debatte über Staatsschulden?",
+   "answer": "Man ignoriert das Vermögen des Staates",
+   "distractors": [
+    "Man unterschätzt die Zinslast",
+    "Man vergleicht nur mit Deutschland",
+    "Man rechnet die Gemeinden nicht mit"
+   ],
+   "aha": "Bei einer Firma würde niemand nur auf die Schulden schauen, ohne Maschinen, Gebäude und Patente mitzurechnen. Beim Staat passiert genau das, auch weil sich sein Vermögen schwer bewerten lässt.",
+   "quote_clean": "Wir würden immer beide Seiten der Bilanz anschauen. Beim Staat schauen wir aber immer nur auf die Verschuldung.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "transkription",
+    "ton"
+   ],
+   "note": "'Artersee' ist Attersee (Heimatregion des Gastes); Aha ohne Spitze gegen den Gast umformuliert.",
+   "stand_note": "",
+   "statement": "Um zu zeigen, wie schwer Staatsvermögen zu bewerten ist, fragt Markus Marterbauer, wie viel der Attersee wert ist.",
+   "question": "Mit welchem See zeigt Markus Marterbauer, wie schwer Staatsvermögen zu bewerten ist?",
+   "answer": "Mit dem Attersee",
+   "distractors": [
+    "Mit dem Wörthersee",
+    "Mit dem Neusiedler See",
+    "Mit dem Traunsee"
+   ],
+   "aha": "Der Attersee gehört der Republik, aber was steht dafür in der Bilanz? Markus meint: ganz viel, er kommt nämlich aus der Gegend und schwimmt dort gern. Bei einer Maschine kennt man den Restwert, beim See eher nicht.",
+   "quote_clean": "Dem österreichischen Staat gehört der Attersee. Wie viel ist der Attersee wert? Ich würde sagen, ganz viel, weil ich selber aus der Gegend komme. Man kann dort wunderbar schwimmen.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Bei 931-942 s belegt, vom Gast ausdrücklich als vorsichtige Größenordnung formuliert und im Statement so attribuiert.",
+   "stand_note": "Stand 2021",
+   "statement": "Das Vermögen des österreichischen Staates entspricht laut Markus Marterbauer größenordnungsmäßig etwa seinen Schulden.",
+   "question": "Wie groß ist das Vermögen des österreichischen Staates laut Markus Marterbauer im Vergleich zu seinen Schulden ungefähr?",
+   "answer": "Etwa gleich groß",
+   "distractors": [
+    "Etwa ein Zehntel davon",
+    "Etwa doppelt so groß",
+    "Etwa ein Viertel davon"
+   ],
+   "aha": "Vor allem Städten und Gemeinden gehören sehr viele Grundstücke und Immobilien. Die genaue Bewertung ist schwierig, aber unterm Strich steht den Schulden einiges gegenüber.",
+   "quote_clean": "Es wurde viel investiert, und ich würde grundsätzlich glauben, mit allen Bewertungsunsicherheiten, dass das staatliche Vermögen größenordnungsmäßig etwa den staatlichen Schulden entspricht.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Aussage bei 1215-1233 s belegt; Antwort klar.",
+   "stand_note": "",
+   "statement": "Ob Staatsschulden sinnvoll sind, hängt davon ab, wofür das Geld ausgegeben wird.",
+   "question": "Worauf kommt es laut Markus Marterbauer bei Staatsschulden vor allem an?",
+   "answer": "Wofür das Geld ausgegeben wird",
+   "distractors": [
+    "Wie hoch die Schuldenquote ist",
+    "Wer die Anleihen kauft",
+    "Wie lang die Laufzeit ist"
+   ],
+   "aha": "Schulden sind nicht gleich Schulden, beim Staat genauso wie bei dir: Ein Hauskredit ist was anderes als 40.000 Euro für ein Auto, das in drei Jahren Schrott ist. Budgetpolitik heißt, Prioritäten zu setzen.",
+   "quote_clean": "Ohne Zweifel kann der Staat Geld für unsinnige Dinge ausgeben, aber er kann auch Geld für Bildung, für Pflege, gegen den Klimawandel ausgeben.",
+   "quality": 3
+  }
+ ],
+ "id": "170",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

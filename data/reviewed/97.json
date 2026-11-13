@@ -1,0 +1,273 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 334/352 und 1679 klar; Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "An einem wirklich dunklen Ort kann man mit freiem Auge ungefähr 5000 Sterne sehen.",
+   "question": "Wie viele Sterne kann man an einem sehr dunklen Ort ungefähr mit freiem Auge sehen?",
+   "answer": "Etwa 5000",
+   "distractors": [
+    "Etwa 500",
+    "Etwa 50.000",
+    "Etwa 1500"
+   ],
+   "aha": "Rund 5000, und das auch nur, wenn du gute Augen hast und weit weg von jeder Laterne liegst. Klingt nach viel, ist aber ein winziger Bruchteil der Sterne allein in unserer Milchstraße.",
+   "quote_clean": "Wenn man irgendwo hingeht, wo es sehr dunkel ist, sieht man ungefähr 5000 Sterne. 5000 von den knapp 300 Milliarden Sternen in der Milchstraße.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Die Wien-Zahl ist ein vager Schätzwert ('wahrscheinlich ... 100 oder so'), keine belastbare Tatsache.",
+   "stand_note": "",
+   "statement": "In einer Großstadt wie Wien sieht man wegen der Lichtverschmutzung nur etwa 100 Sterne.",
+   "question": "Wie viele Sterne sieht man in einer Großstadt wie Wien wegen der Lichtverschmutzung ungefähr?",
+   "answer": "Etwa 100",
+   "distractors": [
+    "Etwa 10",
+    "Etwa 1000",
+    "Etwa 2500"
+   ],
+   "aha": "Statt rund 5000 Sternen auf dem Land bleiben in der Stadt nur ungefähr 100 übrig. Straßenlaternen, Auslagen und Fenster hellen den Himmel so auf, dass die schwächeren Sterne einfach darin untergehen.",
+   "quote_clean": "In Wien sieht man wahrscheinlich 100 oder so, wegen der ganzen Lichtverschmutzung, wegen der künstlichen Lichtquellen, die den Himmel heller machen, dann sieht man die Sterne nicht mehr.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Zahl belegt (352, 1682); Aha enthielt eine nicht belegte Zusatzbehauptung, außerdem ist 300 Mrd. eine Schätzung.",
+   "stand_note": "",
+   "statement": "In der Milchstraße gibt es etwa 300 Milliarden Sterne.",
+   "question": "Wie viele Milliarden Sterne gibt es ungefähr in unserer Milchstraße?",
+   "answer": "Etwa 300 Milliarden",
+   "distractors": [
+    "Etwa 3 Milliarden",
+    "Etwa 30 Milliarden",
+    "Etwa 3000 Milliarden"
+   ],
+   "aha": "Rund 300 Milliarden, so die Schätzung, und das ist nur eine einzige Galaxie. Die rund 5000 Sterne, die du mit freiem Auge siehst, sind davon nur unsere kosmische Nachbarschaft.",
+   "quote_clean": "Das sind 5000 von etwa 300 Milliarden Sternen, die es allein in unserer Galaxie, der Milchstraße, gibt.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 404 belegt und korrekt.",
+   "stand_note": "",
+   "statement": "Das Licht der Sonne braucht etwa acht Minuten bis zur Erde.",
+   "question": "Wie viele Minuten braucht das Sonnenlicht ungefähr bis zur Erde?",
+   "answer": "Etwa 8 Minuten",
+   "distractors": [
+    "Etwa 1 Minute",
+    "Etwa 30 Minuten",
+    "Etwa 3 Minuten"
+   ],
+   "aha": "Rund acht Minuten. Wenn du in die Sonne blinzelst, siehst du sie also immer so, wie sie vor acht Minuten ausgeschaut hat, ein kleiner Blick in die Vergangenheit.",
+   "quote_clean": "Die Sonne ist acht Lichtminuten von uns entfernt. Das heißt, die Sonne sieht man acht Minuten in der Vergangenheit.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 392/395 belegt, Antwort stimmt (ca. 1,3 s).",
+   "stand_note": "",
+   "statement": "Der Mond ist etwas mehr als eine Lichtsekunde von der Erde entfernt.",
+   "question": "Wie lange braucht das Licht ungefähr vom Mond zur Erde?",
+   "answer": "Gut eine Sekunde",
+   "distractors": [
+    "Gut eine Minute",
+    "Gut acht Minuten",
+    "Gut eine Stunde"
+   ],
+   "aha": "Gut eine Sekunde. Den Mond siehst du also immer so, wie er vor etwa einer Sekunde ausgeschaut hat, bei der Sonne sind es schon acht Minuten.",
+   "quote_clean": "Vom Mond braucht das Licht etwas mehr als eine Sekunde zu uns. Der Mond ist also eine Lichtsekunde von uns entfernt, ein bisschen mehr.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt bei 295, aber 'alles' ist leicht überzogen (Lithium aus Urknall, Beryllium/Bor aus kosmischer Strahlung); mit 'fast alle' korrekt.",
+   "stand_note": "",
+   "statement": "Fast alle chemischen Elemente, die schwerer als Helium sind, wurden in Sternen erzeugt.",
+   "question": "Wo sind die meisten Elemente entstanden, die schwerer als Helium sind, etwa der Kohlenstoff in deinem Körper?",
+   "answer": "Im Inneren von Sternen",
+   "distractors": [
+    "Im Erdkern",
+    "Direkt beim Urknall",
+    "In der Erdatmosphäre"
+   ],
+   "aha": "Im Inneren von Sternen. Der Kohlenstoff in deinem Körper und der Sauerstoff, den du gerade einatmest, sind im Zentrum eines Sterns entstanden. Du bist also im wörtlichen Sinn Sternenstaub.",
+   "quote_clean": "Alle Elemente, die schwerer sind als Helium, also eigentlich alles, sind in Sternen erzeugt worden.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 253-268 und 1664 belegt; Physik korrekt.",
+   "stand_note": "",
+   "statement": "Sterne leuchten, weil ein Heliumkern etwas leichter ist als die vier Wasserstoffatome, aus denen er entsteht; die fehlende Masse wird als Energie frei.",
+   "question": "Warum wird bei der Verschmelzung von Wasserstoff zu Helium in Sternen Energie frei?",
+   "answer": "Helium ist leichter als die Ausgangsatome",
+   "distractors": [
+    "Wasserstoff reagiert dabei mit Sauerstoff",
+    "Helium ist schwerer als die Ausgangsatome",
+    "Die Schwerkraft erzeugt Reibungswärme"
+   ],
+   "aha": "Vier Wasserstoffatome werden zu einem Helium zusammengequetscht, und das Ergebnis wiegt ein bisschen weniger. Genau dieser Massenunterschied wird frei nach Einstein, E gleich mc Quadrat, zu Energie, und darum leuchten Sterne.",
+   "quote_clean": "Das Ding ist, dass dieses Helium ein bisschen leichter ist als die vier Wasserstoffatome, die zusammengequetscht werden, um dieses Helium zu erzeugen.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 190-208 belegt und korrekt.",
+   "stand_note": "",
+   "statement": "Die Sonne brennt nicht im eigentlichen Sinn, denn Brennen ist eine Reaktion mit Sauerstoff; in der Sonne läuft Kernfusion ab.",
+   "question": "Brennt die Sonne wie ein Feuer auf der Erde?",
+   "answer": "Nein, dort läuft Kernfusion ab",
+   "distractors": [
+    "Ja, sie verbrennt Wasserstoff mit Sauerstoff",
+    "Ja, sie verbrennt Kohlenstoff",
+    "Nein, sie reflektiert nur Licht"
+   ],
+   "aha": "Brennen ist eine Reaktion mit Sauerstoff, und die passiert in der Sonne nicht. Dort verschmelzen Atomkerne miteinander. Ein bisschen wie eine riesige Flamme darf man sie sich trotzdem vorstellen, denn auch eine Flamme ist schon eine Art Plasma.",
+   "quote_clean": "Feuerbälle: Es ist nicht wirklich Feuer, wie man es von der Erde kennt, es brennt eigentlich nicht, weil Brennen eine Reaktion mit Sauerstoff ist, und das ist nicht das, was in der Sonne passiert.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 659 belegt, Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Ein Stern ist stabil, solange die nach innen drückende Schwerkraft und der nach außen drückende Druck der Kernfusion im Gleichgewicht sind.",
+   "question": "Welche zwei Kräfte halten einen Stern wie die Sonne im Gleichgewicht?",
+   "answer": "Schwerkraft und Druck der Kernfusion",
+   "distractors": [
+    "Magnetismus und Fliehkraft",
+    "Sonnenwind und Schwerkraft",
+    "Fliehkraft und Druck der Kernfusion"
+   ],
+   "aha": "Die Schwerkraft will den Stern zusammendrücken, die Hitze der Kernfusion drückt dagegen. Geht der Wasserstoff aus, lässt der Druck nach, der Stern fällt in sich zusammen, wird heißer und fusioniert dann schwerere Elemente.",
+   "quote_clean": "Und was passiert, ist, dass der Stern vorher im Gleichgewicht war: Die Schwerkraft drückt nach innen, die Kernfusion drückt nach außen.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1397-1419 belegt, astronomisch korrekt.",
+   "stand_note": "",
+   "statement": "Am Nordpol steht der Polarstern genau im Zenit, am Äquator am Horizont; seine Höhe am Himmel verrät, wo man auf der Erde ist.",
+   "question": "Wo am Himmel steht der Polarstern, wenn du am Äquator bist?",
+   "answer": "Am Horizont",
+   "distractors": [
+    "Genau über dem Kopf",
+    "Hoch im Süden",
+    "Auf halber Höhe im Osten"
+   ],
+   "aha": "Am Horizont. Der Polarstern sitzt quasi auf der verlängerten Erdachse: am Nordpol genau über deinem Kopf, am Äquator ganz unten. Je höher er steht, desto weiter nördlich bist du, so haben Seefahrer lange vor GPS navigiert.",
+   "quote_clean": "Wenn ich am Nordpol stehe, dann ist der Polarstern genau über meinem Kopf, genau im Zenit, weil er genau über dem Nordpol der Erde draußen im Weltraum steht.",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "'Wer hat's gesagt' mit der Gästin als Antwort ist trivial, Distraktoren albern, kein Erkenntnisgewinn.",
+   "stand_note": "",
+   "statement": "Beim Blick in den Sternenhimmel geht es Ruth Grützbauch um unsere Unbedeutsamkeit im Universum und die Befreiung, die damit einhergeht.",
+   "question": "Wer hat's gesagt: Beim Sternenhimmel geht es um die Unbedeutsamkeit und die Befreiung, die damit einhergeht?",
+   "answer": "Ruth Grützbauch",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Hörer auf Social Media",
+    "Albert Einstein"
+   ],
+   "aha": "Das war Ruth Grützbauch am Ende der Folge.",
+   "quote_clean": "Es ist einfach diese Entfernung, die Position, die wir in diesem Universum haben, die Unbedeutsamkeit und die Befreiung, die mit dieser Unbedeutsamkeit einhergeht.",
+   "quality": 2
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zuordnungsfrage zur Gästin ist trivial; Distraktoren (Astrologe) erraten die Antwort.",
+   "stand_note": "",
+   "statement": "Ruth Grützbauch ist kein großer Fan von Sternbildern, weil sie keine astronomische Relevanz haben.",
+   "question": "Wer hat's gesagt: „Ich bin nicht der große Fan von Sternbildern, weil die nicht wirklich eine astronomische Relevanz haben“?",
+   "answer": "Ruth Grützbauch",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Astrologe",
+    "Ein Hobbyastronom"
+   ],
+   "aha": "Ausgerechnet die Astronomin.",
+   "quote_clean": "Die Sternbilder sind, puh, ich bin nicht der große Fan von Sternbildern, weil die nicht wirklich eine astronomische Relevanz haben.",
+   "quality": 2
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1293-1308 belegt; 'entstärmten' ist offensichtlich 'entfernten'; Kontext (Ironie) in der Frage klar.",
+   "stand_note": "",
+   "statement": "Als Andreas ironisch meint, die Sternzeichen sagten ja, wie er charakterlich sei, antwortet Ruth Grützbauch mit trockenem Spott über Horoskope.",
+   "question": "Wie reagiert Ruth, als Andreas meint, die Sternzeichen würden ja seinen Charakter verraten?",
+   "answer": "Mit trockenem Spott über Horoskope",
+   "distractors": [
+    "Sie gibt ihm recht",
+    "Sie liest ihm sein Horoskop vor",
+    "Sie wechselt wortlos das Thema"
+   ],
+   "aha": "Mit herrlich trockenem Spott: Tausende Lichtjahre entfernte Plasmabälle, die dir sagen, dass du morgen besser daheim bleibst. Sternzeichen sind einfach die Sternbilder entlang der scheinbaren Sonnenbahn, genauso Fantasiebilder wie alle anderen.",
+   "quote_clean": "Genau, genau. Diese Tausende Lichtjahre entfernten, gigantischen Plasmabälle sagen dir, dass du morgen nicht auf die Straße gehen solltest, weil dir möglicherweise etwas Schlimmes passieren könnte.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage nach Andreas' Schlussfrage ist wenig reizvoll und nicht eindeutig spielbar.",
+   "stand_note": "",
+   "statement": "Andreas schließt die Folge mit der Frage, worauf man beim nächsten Blick in den Himmel achten oder woran man denken kann.",
+   "question": "Mit welcher Frage schließt Andreas das Gespräch über die Sterne ab?",
+   "answer": "Worauf beim nächsten Himmelsblick achten?",
+   "distractors": [
+    "Welches Teleskop soll man kaufen?",
+    "Gibt es Leben auf anderen Sternen?",
+    "Was ist dein Lieblingsstern?"
+   ],
+   "aha": "Andreas will zum Schluss etwas Handfestes für den nächsten Abend draußen.",
+   "quote_clean": "Als Schlussfrage, als kleine Zusammenfassung für unsere Hörerinnen und Hörer: Beim nächsten Blick in den Himmel, worauf kann man achten oder woran kann man denken?",
+   "quality": 2
+  }
+ ],
+ "id": "97",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

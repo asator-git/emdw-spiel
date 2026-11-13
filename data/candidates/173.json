@@ -1,0 +1,707 @@
+{
+ "theme": "Psyche & Zusammenleben",
+ "summary": "Was machen Smartphones und Social Media mit uns? Kathrin Karsay sortiert Vergleiche, Körperbilder, Einsamkeit und Dauererreichbarkeit – differenzierter als mein Bauchgefühl.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1598,
+   "speaker": "Kathrin Karsay",
+   "quote": "Also das zeigt sich ganz klar, ein bis zwei Stunden vorm Schlafen gehen, am besten keine Screentime. Das wirkt sich ziemlich evident, also die Forschungslage ist da ziemlich eindeutig negativ auf unser Schlafverhalten aus.",
+   "quote_clean": "Das zeigt sich ganz klar: ein bis zwei Stunden vor dem Schlafengehen am besten keine Screentime. Das wirkt sich – die Forschungslage ist da ziemlich eindeutig – negativ auf unser Schlafverhalten aus.",
+   "statement": "Laut Forschung sollte man ein bis zwei Stunden vor dem Schlafengehen auf Bildschirme verzichten, weil Screentime das Schlafverhalten verschlechtert.",
+   "question": "Wie viele Stunden vor dem Schlafengehen solltest du laut Forschung am besten keine Screentime mehr haben?",
+   "answer": "Ein bis zwei Stunden",
+   "distractors": [
+    "Zehn bis fünfzehn Minuten",
+    "Drei bis vier Stunden",
+    "Eine halbe Stunde"
+   ],
+   "number_value": 1.5,
+   "number_unit": "Stunden",
+   "slider_min": 0,
+   "slider_max": 5,
+   "log_scale": false,
+   "aha": "Ein bis zwei Stunden ohne Bildschirm vor dem Schlafen – da ist die Forschungslage laut Kathrin ziemlich eindeutig. Es ist eine der wenigen Regeln, an die sie sich selbst hält, auch bei ihrer Tochter. Das Handy im Bett ist also eher Schlafräuber als Einschlafhilfe.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schlaf",
+    "Bildschirmzeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 328,
+   "speaker": "Kathrin Karsay",
+   "quote": "Aber es gibt sogenannte Metastudien und die zeigen schon auf einen leichten negativen Zusammenhang hin von Social Media Nutzung und Wohlbefinden. Allerdings sind die Effekte oft sehr, sehr klein",
+   "quote_clean": "Aber es gibt sogenannte Metastudien, und die zeigen schon einen leichten negativen Zusammenhang zwischen Social-Media-Nutzung und Wohlbefinden. Allerdings sind die Effekte oft sehr klein.",
+   "statement": "Metastudien finden einen leicht negativen Zusammenhang zwischen Social-Media-Nutzung und Wohlbefinden, die Effekte sind aber oft sehr klein.",
+   "question": "Was zeigen Metastudien über Social-Media-Nutzung und Wohlbefinden im Durchschnitt?",
+   "answer": "Leicht negativer Zusammenhang, sehr kleine Effekte",
+   "distractors": [
+    "Stark negativer Zusammenhang, große Effekte",
+    "Klar positiver Zusammenhang",
+    "Gar kein messbarer Zusammenhang"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Schnitt ein leichtes Minus, aber oft wirklich klein. Die Forschung schaut deshalb immer mehr ins Detail: welche Plattform, welche Art der Nutzung, welcher Mensch. Auch Andreas hätte sich da mehr erwartet.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wohlbefinden",
+    "Forschung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 221,
+   "speaker": "Kathrin Karsay",
+   "quote": "Das heißt, dass sozusagen wir unsere Aufmerksamkeit mit Social Media verwenden oder in Social Media investieren und gleichzeitig auch viel Zeit dort verwenden. Das heißt eben auch unsere Daten dort lassen. Das ist sozusagen das Geschäftsmodell.",
+   "quote_clean": "Das heißt, dass wir unsere Aufmerksamkeit in Social Media investieren und gleichzeitig viel Zeit dort verbringen. Das heißt eben auch, dass wir unsere Daten dort lassen. Das ist das Geschäftsmodell.",
+   "statement": "Das Geschäftsmodell von Social Media beruht darauf, dass Nutzer:innen dort Aufmerksamkeit, Zeit und Daten lassen.",
+   "question": "Womit bezahlst du bei Social-Media-Plattformen laut Kathrin Karsay eigentlich?",
+   "answer": "Mit Aufmerksamkeit, Zeit und Daten",
+   "distractors": [
+    "Mit versteckten Abo-Gebühren",
+    "Mit Spenden der Nutzer:innen",
+    "Mit staatlichen Förderungen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gratis ist es nur auf den ersten Blick: Du investierst Aufmerksamkeit und Zeit und lässt Daten da. Darum ist es auch keine Überraschung, dass die Apps so gebaut sind, dass du immer wieder reinschaust.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Geschäftsmodell",
+    "Aufmerksamkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 454,
+   "speaker": "Kathrin Karsay",
+   "quote": "Und das heißt, man spricht auch vom sogenannten Positivity Bias. Man sieht sozusagen nur positive Inhalte, Erfolge, Auszeichnungen und eben die beste Seite von sich.",
+   "quote_clean": "Man spricht auch vom sogenannten Positivity Bias. Man sieht nur positive Inhalte, Erfolge, Auszeichnungen und eben die beste Seite von sich.",
+   "statement": "Dass auf Social Media vor allem Erfolge und die beste Seite gezeigt werden, nennt die Forschung „Positivity Bias“.",
+   "question": "Wie nennt die Forschung das Phänomen, dass du auf Social Media fast nur Erfolge und die beste Seite anderer siehst?",
+   "answer": "Positivity Bias",
+   "distractors": [
+    "Confirmation Bias",
+    "Survivorship Bias",
+    "Negativity Bias"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Auf Social Media läuft quasi eine Highlight-Rolle: Erfolge, Auszeichnungen, die beste Seite. Wer das ständig sieht, bekommt schnell den Eindruck, selbst nicht mithalten zu können – obwohl alle nur ihre Sonnenseite posten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Vergleich",
+    "Instagram"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 428,
+   "speaker": "Kathrin Karsay",
+   "quote": "Ja, also vorweg muss man dazu sagen, wir vergleichen uns ständig und überall. Wir sind eben soziale Wesen und das zeichnet uns aus, dass wir uns mit anderen Menschen vergleichen. Das ist jetzt per se noch nichts Schlechtes.",
+   "quote_clean": "Vorweg muss man dazu sagen: Wir vergleichen uns ständig und überall. Wir sind soziale Wesen, und das zeichnet uns aus, dass wir uns mit anderen Menschen vergleichen. Das ist per se noch nichts Schlechtes.",
+   "statement": "Menschen vergleichen sich als soziale Wesen ständig mit anderen – das ist an sich nichts Schlechtes.",
+   "question": "Wer sagt in der Folge: „Wir vergleichen uns ständig und überall … Das ist per se noch nichts Schlechtes“?",
+   "answer": "Kathrin Karsay",
+   "distractors": [
+    "Andreas Sator",
+    "Cal Newport",
+    "Eine Hörerin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Vergleichen ist menschlich, sagt die Kommunikationswissenschafterin. Problematisch wird es erst durch das, was wir auf Social Media zu sehen bekommen: geschönte, kuratierte Ausschnitte aus dem Leben anderer.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Vergleich",
+    "Psychologie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 515,
+   "speaker": "Kathrin Karsay",
+   "quote": "Nämlich in den jüngeren Studien, an denen ich gerade arbeite, zeigt sich, dass es wichtig ist, ob ich das Gefühl habe, ob ich das erreichen kann oder nicht.",
+   "quote_clean": "In den jüngeren Studien, an denen ich gerade arbeite, zeigt sich, dass es wichtig ist, ob ich das Gefühl habe, dass ich das erreichen kann oder nicht.",
+   "statement": "Ob ein Vergleich nach oben auf Social Media schadet, hängt davon ab, ob man das Gezeigte für erreichbar hält.",
+   "question": "Wovon hängt es laut neuerer Forschung ab, ob dich ein Aufwärtsvergleich auf Social Media runterzieht oder inspiriert?",
+   "answer": "Ob du das Ziel für erreichbar hältst",
+   "distractors": [
+    "Wie viele Follower du selbst hast",
+    "Ob du die Person persönlich kennst",
+    "Zu welcher Tageszeit du scrollst"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn das, was du siehst, für dich erreichbar wirkt, kann es dich motivieren, etwas Neues auszuprobieren. Wirkt es unerreichbar, drückt es eher aufs Wohlbefinden und den Selbstwert.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Vergleich",
+    "Motivation"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 567,
+   "speaker": "Kathrin Karsay",
+   "quote": "Und im Großen und Ganzen, würde ich sagen, sieht man kaum Unterschiede zwischen den Effekten oder den Richtungen, wenn es jetzt zur Forschung bei Jugendlichen geht und Erwachsenen.",
+   "quote_clean": "Im Großen und Ganzen sieht man kaum Unterschiede zwischen den Effekten oder den Richtungen, wenn es um die Forschung bei Jugendlichen und Erwachsenen geht.",
+   "statement": "Die Effekte von Social Media unterscheiden sich zwischen Jugendlichen und Erwachsenen im Großen und Ganzen kaum.",
+   "question": "Wie unterscheiden sich die Effekte von Social Media bei Jugendlichen und Erwachsenen laut Forschung im Großen und Ganzen?",
+   "answer": "Kaum",
+   "distractors": [
+    "Bei Jugendlichen viel stärker",
+    "Bei Erwachsenen viel stärker",
+    "Sie wirken genau entgegengesetzt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Man würde meinen, Jugendliche, die ihr Selbstbild erst aufbauen, sind viel anfälliger. Im Großen und Ganzen sieht man aber kaum Unterschiede – die psychologischen Mechanismen funktionieren bei allen ähnlich. Vergleichen legt man mit dreißig eben nicht ab.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Jugendliche",
+    "Forschung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 781,
+   "speaker": "Kathrin Karsay",
+   "quote": "Das wissen wir schon lange, aber es zeigt sich eben, dass das in Social Media noch verstärkter ist und geht besonders in visuell fokussierten Social Media Angeboten.",
+   "quote_clean": "Das wissen wir schon lange, aber es zeigt sich, dass das in Social Media noch verstärkt ist, besonders in visuell fokussierten Social-Media-Angeboten.",
+   "statement": "Der negative Effekt idealisierter Körperbilder auf das eigene Körperbild ist auf Social Media verstärkt, besonders auf visuellen Plattformen.",
+   "question": "Auf welchen Plattformen wirken idealisierte Körperbilder laut Forschung besonders negativ aufs eigene Körperbild?",
+   "answer": "Auf visuell fokussierten Plattformen",
+   "distractors": [
+    "Auf textbasierten Plattformen",
+    "Auf beruflichen Netzwerken",
+    "In Messenger-Gruppen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Werbung, Plakate und Musikvideos vermitteln schon lange Körperideale, die oft retuschiert und kaum erreichbar sind. Auf sehr visuellen Plattformen wie Instagram oder TikTok wird das noch verstärkt. Gegenbewegungen wie Body Positivity können aber positiv wirken.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Körperbild",
+    "Instagram"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1150,
+   "speaker": "Kathrin Karsay",
+   "quote": "Und die theoretische Überlegung ist schon zu sagen, wenn ich Social Media oder mein Handy eben aktiv nutze, dann öffne ich dem eher Tor, Tür und Tor, positive Medieneffekte zu erleben.",
+   "quote_clean": "Die theoretische Überlegung ist zu sagen: Wenn ich Social Media oder mein Handy aktiv nutze, dann öffne ich Tür und Tor, positive Medieneffekte zu erleben.",
+   "statement": "Aktive Nutzung (posten, kommentieren, schreiben) öffnet eher die Tür für positive Effekte, passives Scrollen eher für negative Aufwärtsvergleiche.",
+   "question": "Welche Art der Social-Media-Nutzung macht positive Effekte laut Forschung eher wahrscheinlich?",
+   "answer": "Aktive Nutzung wie Posten und Schreiben",
+   "distractors": [
+    "Passives Durchscrollen des Feeds",
+    "Nutzung nur in der Nacht",
+    "Möglichst viele Accounts folgen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer postet, liked oder jemandem schreibt, bekommt Reaktionen zurück. Wer nur scrollt und sich berieseln lässt, landet eher bei Aufwärtsvergleichen. In der Praxis machen wir eh meistens beides.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Nutzung",
+    "Wohlbefinden"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1204,
+   "speaker": "Kathrin Karsay",
+   "quote": "Was heißt das? Dass ich eben über meine Gefühle, meine Probleme spreche. Und das führt in der Regel dazu, dass ich eine Reaktion kriege und mich dann weniger einsam und weniger gestresst fühle.",
+   "quote_clean": "Was heißt das? Dass ich über meine Gefühle, meine Probleme spreche. Das führt in der Regel dazu, dass ich eine Reaktion kriege und mich dann weniger einsam und weniger gestresst fühle.",
+   "statement": "Wer bei intensiver Handynutzung über eigene Gefühle und Probleme spricht (Self-Disclosure), fühlt sich eher weniger einsam und gestresst.",
+   "question": "Was macht laut einer Studie den Unterschied, ob sich Vielnutzer:innen des Handys einsamer fühlen oder nicht?",
+   "answer": "Ob sie über eigene Gefühle sprechen",
+   "distractors": [
+    "Ob sie Push-Nachrichten abschalten",
+    "Ob sie mehr Fotos posten",
+    "Ob sie nur WLAN nutzen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Konzept heißt Self-Disclosure, also sich selbst offenbaren. Wer viel am Handy ist und dabei über Gefühle und Probleme spricht, bekommt Reaktionen und fühlt sich weniger einsam. Wer das nicht tut, fühlt sich bei exzessiver Nutzung eher gestresster.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Einsamkeit",
+    "Self-Disclosure"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1241,
+   "speaker": "Kathrin Karsay",
+   "quote": "Was aber zunehmend häufiger gemacht wird, sind sogenannte Tagebuchstudien oder Mobile Experience Sampling-Studien, wo man wiederholt mehrmals am Tag jemanden fragt, was hast du gerade gemacht in der letzten Stunde, wofür hast du dein Handy verwendet und wie geht es dir gerade in dem Moment?",
+   "quote_clean": "Was zunehmend häufiger gemacht wird, sind sogenannte Tagebuchstudien oder Mobile-Experience-Sampling-Studien, wo man jemanden mehrmals am Tag fragt: Was hast du in der letzten Stunde gemacht, wofür hast du dein Handy verwendet und wie geht es dir gerade?",
+   "statement": "Bei Experience-Sampling-Studien werden Menschen mehrmals täglich zu ihrer Handynutzung und ihrem Befinden befragt – das zeigt individuelle statt nur durchschnittliche Effekte.",
+   "question": "Wie funktionieren sogenannte Experience-Sampling-Studien zur Handynutzung?",
+   "answer": "Mehrmals täglich Befragung zu Nutzung und Befinden",
+   "distractors": [
+    "Einmalige Befragung nach zehn Jahren",
+    "Auswertung von Werbeumsätzen der Plattformen",
+    "Hirnscans während des Scrollens"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Klassische Panelstudien befragen eine große Gruppe zweimal und liefern Durchschnittseffekte. Fragt man Leute mehrmals am Tag, was sie gerade am Handy gemacht haben und wie es ihnen geht, zeigen sich für einzelne Menschen oft ganz andere Effekte.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Methoden",
+    "Forschung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1024,
+   "speaker": "Kathrin Karsay",
+   "quote": "um das so flapsig zu formulieren, aber Social Media haben hier den Vorteil, dass eben diese Algorithmen, die dahinter liegen, wenn du das einmal nutzt, dass dir wahrscheinlich auch weitere Inhalte vorgeschlagen werden, die das Thema Mental Health oder Depression behandeln.",
+   "quote_clean": "Social Media haben hier den Vorteil, dass dir die Algorithmen dahinter, wenn du das einmal nutzt, wahrscheinlich weitere Inhalte vorschlagen, die das Thema Mental Health oder Depression behandeln.",
+   "statement": "Weil mentale Gesundheit in klassischen Medien unterrepräsentiert ist, können Social-Media-Algorithmen helfen, indem sie weitere Inhalte dazu vorschlagen.",
+   "question": "Welchen Vorteil haben Social Media laut Kathrin Karsay beim Thema mentale Gesundheit?",
+   "answer": "Algorithmen schlagen weitere passende Inhalte vor",
+   "distractors": [
+    "Sie ersetzen eine Psychotherapie",
+    "Sie zeigen nur geprüfte Fachartikel",
+    "Sie blenden belastende Inhalte aus"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In den klassischen Medien kommt mentale Gesundheit kaum vor. Auf Social Media reicht es, einmal so einen Inhalt anzuschauen, und der Algorithmus spielt dir mehr davon zu. Andreas hat so über Instagram viel über Depressionen gelernt – und gemerkt, dass er nicht allein ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mentale Gesundheit",
+    "Algorithmen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1653,
+   "speaker": "Kathrin Karsay",
+   "quote": "Und es zeigt sich, jene, die das sozusagen nutzen, solche Apps, wie du, die nutzen oft das Handy auch viel mehr, jene, die es nicht nutzen.",
+   "quote_clean": "Es zeigt sich: Jene, die solche Apps nutzen, wie du, nutzen das Handy oft auch viel mehr als jene, die sie nicht nutzen.",
+   "statement": "Menschen, die Digital-Wellbeing-Apps zur Kontrolle ihrer Bildschirmzeit nutzen, verwenden das Handy oft deutlich mehr als andere.",
+   "question": "Was zeigt sich bei Menschen, die Apps zur Begrenzung ihrer Bildschirmzeit verwenden?",
+   "answer": "Sie nutzen das Handy oft viel mehr",
+   "distractors": [
+    "Sie nutzen das Handy kaum noch",
+    "Sie löschen Social Media komplett",
+    "Sie haben meist ältere Handys"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer sich eine Bildschirmzeit-App holt, hat meistens schon ein Thema mit dem Handy. Gleichzeitig fühlen sich die Nutzer:innen damit eher besser – ob die App hilft oder einfach selbstkontrollierte Leute sie verwenden, ist ein klassisches Henne-Ei-Problem.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Digital Wellbeing",
+    "Bildschirmzeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1808,
+   "speaker": "Kathrin Karsay",
+   "quote": "Ich finde es total problematisch, dieses Thema so zu pathologisieren und wirklich eine klinische Erkrankung daraus zu machen. Also Handysucht ist es oft nicht.",
+   "quote_clean": "Ich finde es total problematisch, dieses Thema so zu pathologisieren und wirklich eine klinische Erkrankung daraus zu machen. Handysucht ist es oft nicht.",
+   "statement": "Kathrin Karsay warnt davor, schwierige Handynutzung vorschnell als Sucht zu pathologisieren.",
+   "question": "Wer sagt in der Folge: „Ich finde es total problematisch, dieses Thema so zu pathologisieren … Handysucht ist es oft nicht“?",
+   "answer": "Kathrin Karsay",
+   "distractors": [
+    "Andreas Sator",
+    "Cal Newport",
+    "Ein Instagram-Sprecher"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas spricht gern von Sucht, Kathrin bremst ihn da ein. Das Handy ist halt ein extrem praktisches Werkzeug, das wir in sehr vielen Situationen brauchen – Schwierigkeiten damit sind noch keine klinische Erkrankung.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sucht",
+    "Handy"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1970,
+   "speaker": "Kathrin Karsay",
+   "quote": "Also es gibt schon mit jedem neuen Medium gab es so diese sogenannte Moral Panic, diese moralische Panik.",
+   "quote_clean": "Mit jedem neuen Medium gab es diese sogenannte Moral Panic, diese moralische Panik.",
+   "statement": "Bei jedem neuen Medium gab es eine sogenannte Moral Panic – die Sorge, was es mit der Jugend macht.",
+   "question": "Wie nennt die Medienforschung die Aufregung, die praktisch jedes neue Medium über seine Wirkung auf die Jugend auslöst?",
+   "answer": "Moral Panic",
+   "distractors": [
+    "Digital Detox",
+    "Fear of Missing Out",
+    "Filter Bubble"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Fernsehen, Musikvideos, jetzt Social Media: Jedes Mal hieß es, die Jugend sieht plötzlich viel zu viel Sex, Drugs und Rock'n'Roll. Andreas fragt sich deshalb, ob er schon wie seine Eltern klingt. Kathrins Antwort: beides – Moral Panic gibt es, aber die Dauererreichbarkeit ist wirklich neu.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mediengeschichte",
+    "Jugend"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2000,
+   "speaker": "Kathrin Karsay",
+   "quote": "Aber gleichzeitig würde ich sagen, das ist schon ein fundamental, eine fundamentale neue Veränderung, die wir hier erleben. Und diese, wie vorhin angesprochen, diese permanente Konnektivität, die gab es ja in der Form nicht.",
+   "quote_clean": "Aber gleichzeitig würde ich sagen, das ist schon eine fundamentale neue Veränderung, die wir hier erleben. Diese permanente Konnektivität gab es in der Form nicht.",
+   "statement": "Laut Kathrin Karsay ist die permanente Konnektivität durch Smartphones eine fundamental neue Veränderung, die es so vorher nicht gab.",
+   "question": "Was ist laut Kathrin Karsay an Smartphones fundamental neu, anders als bei früheren Medien?",
+   "answer": "Die permanente Konnektivität",
+   "distractors": [
+    "Die bunten Bilder",
+    "Die Werbefinanzierung",
+    "Die Nutzung durch Jugendliche"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Werbung und Jugendpanik gab es schon beim Fernsehen. Neu ist, dass wir 24 Stunden am Tag, sieben Tage die Woche erreichbar sind – und selbst jederzeit jemanden erreichen können, ob es uns schlecht geht oder wir nur den Kaffee von heute teilen wollen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erreichbarkeit",
+    "Smartphone"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1785,
+   "speaker": "Kathrin Karsay",
+   "quote": "Ich glaube, Instagram gibt ja jetzt einem die Option, dass man sich die Anzahl der Likes zum Beispiel nicht mehr anzeigen lässt.",
+   "quote_clean": "Instagram gibt einem jetzt die Option, dass man sich die Anzahl der Likes nicht mehr anzeigen lässt.",
+   "statement": "Instagram bietet die Option, die Anzahl der Likes nicht mehr anzeigen zu lassen – eine Reaktion auf die Kritik an solchen Elementen.",
+   "question": "Welche Option hat Instagram als Reaktion auf Kritik eingeführt?",
+   "answer": "Like-Zahlen ausblenden",
+   "distractors": [
+    "Ein tägliches Zeitlimit für alle",
+    "Werbefreiheit für Jugendliche",
+    "Einen chronologischen Pflicht-Feed"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Likes sind eines dieser Elemente, die uns immer wieder hinschauen lassen. Dass man die Zahl ausblenden kann, zeigt laut Kathrin: Auch die Plattformen haben gemerkt, dass Kritik und Problem größer geworden sind.",
+   "difficulty": 1,
+   "time_sensitive": true,
+   "tags": [
+    "Instagram",
+    "Likes"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1520,
+   "speaker": "Andreas Sator",
+   "quote": "Und der Carol Newport, dieser Informatikprofessor aus den USA, der hat den radikalen Schnitt gemacht oder hat sich, glaube ich, auf vielen Social Media Plattformen nie angemeldet, weil er weiß, wie das funktioniert.",
+   "quote_clean": "Und Cal Newport, dieser Informatikprofessor aus den USA, hat den radikalen Schnitt gemacht oder sich, glaube ich, auf vielen Social-Media-Plattformen nie angemeldet, weil er weiß, wie das funktioniert.",
+   "statement": "Cal Newport, US-Informatikprofessor und Autor von „Digitaler Minimalismus“, hat sich bei vielen Social-Media-Plattformen nie angemeldet.",
+   "question": "Welchen Beruf hat Cal Newport, der Autor von „Digitaler Minimalismus“?",
+   "answer": "Informatikprofessor",
+   "distractors": [
+    "Psychiater",
+    "Ehemaliger Facebook-Manager",
+    "Neurowissenschafter"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ausgerechnet ein Informatiker hält sich von vielen Plattformen fern – weil er weiß, wie die Mechanismen funktionieren. Andreas hat sein Buch gelesen und sich danach Limits und Regeln gesetzt. Leicht ist es trotzdem nicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Digitaler Minimalismus",
+    "Bücher"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1699,
+   "speaker": "Andreas Sator",
+   "quote": "Also das iPhone erlaubt mir, Apps zu beschränken, mir Zeitlimits zu geben, zeigt mir die Bildschirmzeit an, zeigt mir, dass ich acht Stunden am Bildschirm gehangen bin, weil Apple nicht von Werbung lebt.",
+   "quote_clean": "Das iPhone erlaubt mir, Apps zu beschränken, mir Zeitlimits zu geben, zeigt mir die Bildschirmzeit an – dass ich acht Stunden am Bildschirm gehangen bin –, weil Apple nicht von Werbung lebt.",
+   "statement": "Andreas vermutet, Apple kann Bildschirmzeit-Limits anbieten, weil das Unternehmen anders als Meta nicht von Werbung lebt.",
+   "question": "Warum kann Apple laut Andreas Funktionen gegen zu viel Bildschirmzeit anbieten, Meta mit Instagram und Facebook aber eher nicht?",
+   "answer": "Apple lebt nicht von Werbung",
+   "distractors": [
+    "Apple ist gesetzlich dazu verpflichtet",
+    "Apple verkauft die Nutzungsdaten",
+    "Apple hat weniger Nutzer:innen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Facebook, Instagram und WhatsApp verdienen an deiner Zeit, weil sie dir Werbung zeigen. Apple verdient am Gerät – und kann es sich leisten, dir zu sagen, dass du heute acht Stunden am Bildschirm warst.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Apple",
+    "Geschäftsmodell"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2221,
+   "speaker": "Andreas Sator",
+   "quote": "Außerdem sperrt mein Handy den Großteil seiner Funktionen ab 19 Uhr am Abend. Das ist jetzt erstmal irritierend, aber genau sowas brauche ich.",
+   "quote_clean": "Außerdem sperrt mein Handy den Großteil seiner Funktionen ab 19 Uhr am Abend. Das ist erstmal irritierend, aber genau so etwas brauche ich.",
+   "statement": "Nach der Folge lässt Andreas sein Handy ab 19 Uhr den Großteil seiner Funktionen sperren.",
+   "question": "Ab wie viel Uhr sperrt Andreas' Handy nach dieser Folge den Großteil seiner Funktionen?",
+   "answer": "Ab 19 Uhr",
+   "distractors": [
+    "Ab 17 Uhr",
+    "Ab 21 Uhr",
+    "Ab 23 Uhr"
+   ],
+   "number_value": 19,
+   "number_unit": "Uhr",
+   "slider_min": 14,
+   "slider_max": 24,
+   "log_scale": false,
+   "aha": "Twitter-App gelöscht, Twitter und Mails im Browser gesperrt, und ab 19 Uhr ist das Handy weitgehend stillgelegt. Irritierend, gibt Andreas zu, aber genau das braucht er, damit nicht das Handy den Takt angibt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Digital Detox"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1927,
+   "speaker": "Andreas Sator",
+   "quote": "bin ich irgendwie einfach nur schon ein konservativer, jetzt mittlerweile 31-jähriger Mann, der über Social Media so spricht,",
+   "quote_clean": "Bin ich einfach nur schon ein konservativer, mittlerweile 31-jähriger Mann, der so über Social Media spricht?",
+   "statement": "Andreas fragt sich in der Folge, ob er als mittlerweile 31-Jähriger einfach zu konservativ über Social Media spricht.",
+   "question": "Wie alt ist Andreas laut eigener Angabe in dieser Folge, als er fragt, ob er zu konservativ über Social Media redet?",
+   "answer": "31 Jahre",
+   "distractors": [
+    "27 Jahre",
+    "35 Jahre",
+    "41 Jahre"
+   ],
+   "number_value": 31,
+   "number_unit": "Jahre",
+   "slider_min": 18,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Andreas hört sich manchmal reden wie seine Eltern damals übers Fernsehen: dir fallen die Augen raus, die Jugend macht nichts mehr. Kathrins Antwort: ein bisschen Moral Panic, aber auch eine wirklich neue Entwicklung.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Generationen"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1291,
+   "speaker": "Andreas Sator",
+   "quote": "Und dann stehe ich am Lift und warte, dass der kommt und hat da so zehn Sekunden Wartezeit und ich habe gemerkt, sofort immer der Griff zum Handy.",
+   "quote_clean": "Und dann stehe ich beim Lift und warte, dass er kommt, habe da so zehn Sekunden Wartezeit, und ich habe gemerkt: sofort der Griff zum Handy.",
+   "statement": "Andreas erzählt, dass er schon bei zehn Sekunden Wartezeit vor dem Lift sofort zum Handy greift.",
+   "question": "In welcher Situation hat Andreas gemerkt, wie automatisch er zum Handy greift?",
+   "answer": "Beim Warten auf den Lift",
+   "distractors": [
+    "An der Supermarktkassa",
+    "In der U-Bahn-Station",
+    "Beim Zähneputzen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zehn Sekunden auf den Lift warten, und schon ist das Handy in der Hand – zwei Minuten nachdem er zuletzt auf Twitter war. Kathrin kennt das Muster: Pausen füllen, an der Ampel, beim Lift. Ein Impuls, der von uns selbst kommt, nicht nur von Notifications.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Gewohnheit",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1572,
+   "speaker": "Kathrin Karsay",
+   "quote": "dass ich als Kommunikationswissenschaftlerin genau denselben Prozess durchgemacht habe wie du. Ich habe mir eine App runtergeladen, die mir gewisse Zeiten vorgeben, mit wie viel Zeit und welchen Kontingenten ich dann in verschiedenen Apps verwenden darf und ich bin da kläglich dran gescheitert.",
+   "quote_clean": "dass ich als Kommunikationswissenschafterin genau denselben Prozess durchgemacht habe wie du. Ich habe mir eine App runtergeladen, die mir vorgibt, wie viel Zeit ich in verschiedenen Apps verwenden darf, und ich bin kläglich daran gescheitert.",
+   "statement": "Auch die Forscherin Kathrin Karsay ist mit einer App, die ihre Handyzeit begrenzen sollte, nach eigenen Worten kläglich gescheitert.",
+   "question": "Was antwortet Kathrin Karsay, als Andreas hofft, sie habe die Lösung für seine Handyprobleme?",
+   "answer": "Sie ist selbst kläglich gescheitert",
+   "distractors": [
+    "Sie hat gar kein Smartphone",
+    "Sie nutzt nur noch Festnetz",
+    "Sie hat alle Apps gelöscht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas hofft auf die Lösung von der Expertin – und bekommt ein ehrliches Geständnis. Ein paar Regeln hält sie trotzdem ein, etwa keine Screentime ein bis zwei Stunden vor dem Schlafengehen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Bildschirmzeit",
+    "Ehrlichkeit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 282,
+   "speaker": "Andreas Sator",
+   "quote": "Ich frage trotzdem wieder ganz allgemein, machen uns Social Media unglücklich?",
+   "quote_clean": "Ich frage trotzdem wieder ganz allgemein: Machen uns Social Media unglücklich?",
+   "statement": "Andreas hakt nach der differenzierten Antwort trotzdem ganz allgemein nach, ob Social Media unglücklich machen.",
+   "question": "Wie hakt Andreas nach, als Kathrin sagt, die Frage sei zu komplex für eine kurze Antwort?",
+   "answer": "„Machen uns Social Media unglücklich?“",
+   "distractors": [
+    "„Soll ich mein Handy wegwerfen?“",
+    "„Wer ist schuld daran?“",
+    "„Gibt es dazu überhaupt Studien?“"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Typisch Andreas: Wenn die Antwort zu kompliziert wird, fragt er einfach noch einmal ganz allgemein. Die Antwort bleibt aber ehrlich: So lässt sich das nicht beantworten – es kommt auf Plattform, Nutzung und Person an.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Nachfragen"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "173",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

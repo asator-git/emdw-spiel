@@ -1,0 +1,564 @@
+{
+ "theme": "Welt & Konflikte",
+ "summary": "Tamim war 14, als er nach dem Mord an seinem Vater aus Afghanistan floh – sechs Monate Ungewissheit bis nach Wien.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 2099,
+   "speaker": "Tamim",
+   "quote": "Weißt du weißt du noch, wie viel ihr dem Schlepper in Summe bezahlt hast? Wie viel Geld war das? Ich glaube, wir haben 12 000 Dollar bezahlt.",
+   "quote_clean": "Weißt du noch, wie viel ihr dem Schlepper in Summe bezahlt habt? Wie viel Geld war das? Ich glaube, wir haben 12.000 Dollar bezahlt.",
+   "statement": "Tamims Familie bezahlte für seine Flucht von Afghanistan nach Europa rund 12.000 Dollar an Schlepper.",
+   "question": "Wie viele Dollar hat Tamims Familie den Schleppern für seine Flucht nach Europa bezahlt?",
+   "answer": "Rund 12.000 Dollar",
+   "distractors": [
+    "Rund 3.000 Dollar",
+    "Rund 30.000 Dollar",
+    "Rund 6.000 Dollar"
+   ],
+   "number_value": 12000,
+   "number_unit": "Dollar",
+   "slider_min": 1000,
+   "slider_max": 40000,
+   "log_scale": false,
+   "aha": "Das Geld kam aus Land, das die Familie vom Vater geerbt hatte und das die Mutter verkauft hat. Bei einem geschätzten Jahreseinkommen von vielleicht 1.000 Dollar ist das für eine afghanische Familie ein kleines Vermögen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Flucht",
+    "Schlepper"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3133,
+   "speaker": "Tamim",
+   "quote": "Es Ich habe fast sechs Monate gebraucht bisher. Mhm. Ich habe sogar ich wusste da mal nicht welch wie wie viel Tage schon jetzt vergangen, weil ich konnte nicht zählen mit irgendwas.",
+   "quote_clean": "Ich habe fast sechs Monate bis hierher gebraucht. Ich wusste nicht einmal, wie viele Tage schon vergangen waren, weil ich mit nichts zählen konnte.",
+   "statement": "Tamims Flucht von Afghanistan nach Österreich dauerte fast sechs Monate.",
+   "question": "Wie viele Monate war Tamim von Afghanistan bis nach Österreich unterwegs?",
+   "answer": "Fast sechs Monate",
+   "distractors": [
+    "Etwa zwei Monate",
+    "Etwa ein Jahr",
+    "Etwa drei Wochen"
+   ],
+   "number_value": 6,
+   "number_unit": "Monate",
+   "slider_min": 1,
+   "slider_max": 18,
+   "log_scale": false,
+   "aha": "Ohne Handy hatte er keine Ahnung, wie viele Tage schon vergangen waren. Das meiste davon war nicht Gehen, sondern Warten – in Verstecken, Wäldern und Hostels, bis der Schlepper endlich wieder auftauchte.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Flucht",
+    "Balkanroute"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1118,
+   "speaker": "Tamim",
+   "quote": "Aber unterwegs damals hattest du fast drei Checkpoints in letz wenn du Kabul und die große Städte verlässt dann Richtung Grenze gehst.",
+   "quote_clean": "Aber unterwegs hattest du damals fast drei Checkpoints, wenn du Kabul und die großen Städte verlässt und Richtung Grenze fährst.",
+   "statement": "Auf dem Weg von Kabul Richtung iranische Grenze gab es damals drei Checkpoints: von der Regierung, von den Taliban und vom IS.",
+   "question": "Durch wie viele Checkpoints musste ein Bus damals von Kabul Richtung iranische Grenze?",
+   "answer": "Drei",
+   "distractors": [
+    "Einen",
+    "Fünf",
+    "Zwei"
+   ],
+   "number_value": 3,
+   "number_unit": "Checkpoints",
+   "slider_min": 1,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Zuerst kontrollierten Regierungssoldaten, dann die Taliban, zum Schluss der IS. Wer in der Regierung gearbeitet hatte und erkannt wurde, stieg nicht mehr in den Bus ein.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Afghanistan",
+    "Taliban",
+    "Flucht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1346,
+   "speaker": "Tamim",
+   "quote": "Dann in einer Hostel leben 100 Leute oder weniger, die warten alle, bis das alles organisiert wird, dann weß du weiter.",
+   "quote_clean": "In so einem Hostel leben 100 Leute oder weniger, die alle warten, bis alles organisiert ist, dann geht es weiter.",
+   "statement": "In den Schlepper-Unterkünften an der Grenze zum Iran warten oft bis zu 100 Menschen gleichzeitig auf die Weiterreise.",
+   "question": "Wie viele Menschen warten ungefähr gleichzeitig in so einem Schlepper-„Hostel“ an der iranischen Grenze?",
+   "answer": "Bis zu 100",
+   "distractors": [
+    "Bis zu 10",
+    "Bis zu 500",
+    "Bis zu 30"
+   ],
+   "number_value": 100,
+   "number_unit": "Menschen",
+   "slider_min": 5,
+   "slider_max": 1000,
+   "log_scale": true,
+   "aha": "Diese sogenannten Gasthäuser sind Sammelstellen: Alle warten, bis der Schlepper die nächste Etappe organisiert hat. Bei Tamim hat das fast zwei Wochen gedauert, mit wenig Essen und noch weniger Platz.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schlepper",
+    "Iran"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1474,
+   "speaker": "Tamim",
+   "quote": "Aber es fährt nicht nur eine Auto, sondern auf einmal 10, 15 Autos, aber alle voll mit solche Leute, mit so Leute fährst du los",
+   "quote_clean": "Aber es fährt nicht nur ein Auto, sondern auf einmal 10, 15 Autos, alle voll mit solchen Leuten, mit denen fährst du los.",
+   "statement": "Schlepper bringen Menschen in Konvois von 10 bis 15 vollbesetzten Pick-ups Richtung iranische Grenze.",
+   "question": "Wie viele vollbesetzte Autos fahren in so einem Schlepper-Konvoi Richtung iranische Grenze gleichzeitig los?",
+   "answer": "10 bis 15",
+   "distractors": [
+    "2 bis 3",
+    "40 bis 50",
+    "5 bis 6"
+   ],
+   "number_value": 15,
+   "number_unit": "Autos",
+   "slider_min": 1,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Die Pick-ups sind hinten voll mit Menschen und fahren sehr schnell. Wer runterfällt, wird nicht abgeholt – der Konvoi fährt einfach weiter.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Schlepper",
+    "Flucht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2372,
+   "speaker": "Tamim",
+   "quote": "Das ist in Afghanistan nennt man Dari, aber in Iran Persisch.",
+   "quote_clean": "In Afghanistan nennt man es Dari, im Iran Persisch.",
+   "statement": "Dari, eine der Hauptsprachen Afghanistans, ist im Grunde dieselbe Sprache wie das Persische (Farsi) im Iran.",
+   "question": "Was ist Dari, das in Afghanistan gesprochen wird?",
+   "answer": "Im Grunde Persisch",
+   "distractors": [
+    "Eine Variante von Arabisch",
+    "Ein Dialekt von Urdu",
+    "Eine Turksprache"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Darum konnte Tamim sich bis in den Iran gut mit den Schleppern verständigen. Ab der Türkei wurde es schwierig, da blieb nur noch gebrochenes Englisch.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sprache",
+    "Afghanistan",
+    "Iran"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 415,
+   "speaker": "Tamim",
+   "quote": "weil damals haben wir noch alte Regierung gehabt. Jetzt ist jetzt regiert komplett die Taliban.",
+   "quote_clean": "Damals hatten wir noch die alte Regierung. Jetzt regieren komplett die Taliban.",
+   "statement": "Afghanistan wird heute komplett von den Taliban regiert; als Tamim floh, gab es noch die alte Regierung.",
+   "question": "Wer regiert heute ganz Afghanistan?",
+   "answer": "Die Taliban",
+   "distractors": [
+    "Eine gewählte Übergangsregierung",
+    "Der IS",
+    "Eine UN-Verwaltung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Als Tamim vor 13 Jahren floh, gab es noch die alte Regierung, aber in seinem Dorf arbeiteten viele schon damals offiziell oder inoffiziell mit den Taliban – sogar zwei seiner Onkel.",
+   "difficulty": 1,
+   "time_sensitive": true,
+   "tags": [
+    "Afghanistan",
+    "Taliban"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 447,
+   "speaker": "Tamim",
+   "quote": "Die wollten nicht, dass er vor ausländische Firma arbeitet. Das haben sie irgendwie als unreines Geld, kann man sagen oder was auch immer er nennt den",
+   "quote_clean": "Sie wollten nicht, dass er für eine ausländische Firma arbeitet. Das haben sie als unreines Geld gesehen, kann man sagen.",
+   "statement": "Für Taliban-nahe Dorfbewohner galt Geld, das man bei ausländischen Firmen verdiente, als unrein.",
+   "question": "Warum war es in Tamims Dorf gefährlich, für eine ausländische Firma zu arbeiten?",
+   "answer": "Das galt als unreines Geld",
+   "distractors": [
+    "Es war gesetzlich verboten",
+    "Es gab dafür hohe Steuern",
+    "Die Firmen zahlten nie"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Tamims Vater lieferte Getränke an ausländische Firmen und hat trotz Drohungen weitergemacht, weil er fünf Kinder versorgen musste. Eines Tages lag er erschossen in der Moschee.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Afghanistan",
+    "Taliban"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1971,
+   "speaker": "Tamim",
+   "quote": "auch, die Schlepper wegen Signal und so haben sie Angst wahrscheinlich. Und du darfst keine Handy, wenn du auch ein Handy hast, du musst deine Batterie rausnehmen.",
+   "quote_clean": "Die Schlepper haben wahrscheinlich Angst wegen des Signals. Und wenn du ein Handy hast, musst du die Batterie rausnehmen.",
+   "statement": "Beim Grenzübertritt verlangen Schlepper, dass Handys keinen Akku und keine SIM-Karte drin haben, damit niemand über das Signal geortet wird.",
+   "question": "Was müssen Geflüchtete mit ihrem Handy machen, bevor sie mit Schleppern eine Grenze überqueren?",
+   "answer": "Akku und SIM-Karte rausnehmen",
+   "distractors": [
+    "Es im Flugmodus lassen",
+    "Es dem Schlepper als Pfand geben",
+    "Nur noch nachts telefonieren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Angst ist, dass Grenzpolizei die Gruppe über das Handysignal findet. Manchmal durchsuchen die Schlepper ihre Leute sogar. Tamim hatte gar kein Handy dabei – Kontakt zur Mutter gab es nur, wenn der Schlepper sie kurz anrief.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schlepper",
+    "Handy"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1174,
+   "speaker": "Tamim",
+   "quote": "jede der dieses wegfährt der wusste, es gibt's meistens Leute haben den Karte deren Ausweise alle haben zu Hause irgendwo gelassen, damit die werden",
+   "quote_clean": "Jeder, der diesen Weg fährt, wusste das. Die meisten Leute haben ihre Ausweise zu Hause gelassen,",
+   "statement": "Wer damals Afghanistan Richtung Iran verließ, ließ Ausweise meist zu Hause, damit Taliban-Checkpoints keine Verbindung zur Regierung finden konnten.",
+   "question": "Warum ließen viele, die damals per Bus aus Afghanistan Richtung Iran fuhren, ihre Ausweise zu Hause?",
+   "answer": "Wegen der Kontrollen an Checkpoints",
+   "distractors": [
+    "Weil Schlepper sie verkauften",
+    "Weil der Iran sie einzog",
+    "Weil sie zu schwer waren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "An den Checkpoints von Taliban und IS wurde jeder Mann durchsucht. Wer etwas bei sich hatte, das auf eine Arbeit für die Regierung hindeutete, wurde festgenommen oder sogar erschossen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Afghanistan",
+    "Checkpoints"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1505,
+   "speaker": "Tamim",
+   "quote": "Bis dann kommt Grenze von Pakistan und Iran und da ist sehr gefährlich. Die iranische Soldaten, wenn die sehen jemanden, der schießen gleich.",
+   "quote_clean": "Dann kommt die Grenze von Pakistan und Iran, und da ist es sehr gefährlich. Wenn die iranischen Soldaten jemanden sehen, schießen sie gleich.",
+   "statement": "An der Grenze zum Iran schießen iranische Soldaten auf Menschen, die sie beim illegalen Grenzübertritt entdecken.",
+   "question": "Was passiert laut Tamim, wenn iranische Grenzsoldaten jemanden beim illegalen Grenzübertritt sehen?",
+   "answer": "Sie schießen sofort",
+   "distractors": [
+    "Sie verlangen ein Bestechungsgeld",
+    "Sie schauen weg",
+    "Sie bringen ihn in ein Lager"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Gruppe wartete in einem Loch, bis der Schlepper das Signal gab, und dann liefen alle los. „Dort gibt's keine Gesetze“, sagt Tamim: Entweder du kommst durch, oder du wirst erwischt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Iran",
+    "Grenze"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1800,
+   "speaker": "Tamim",
+   "quote": "Nein, wir es gab so eine Kontaktperson. Diese du zahlst das Geld den Kontaktperson. Er darf nicht den Schlepper zahlen, bevor du okay gibst.",
+   "quote_clean": "Es gab eine Kontaktperson. Du zahlst das Geld der Kontaktperson. Sie darf den Schlepper nicht bezahlen, bevor du okay gibst.",
+   "statement": "Schlepper werden oft über eine Kontaktperson bezahlt, die das Geld erst etappenweise freigibt, wenn die Familie bestätigt, dass ein Abschnitt geschafft ist.",
+   "question": "Wie wurde der Schlepper bei Tamims Flucht bezahlt?",
+   "answer": "Etappenweise über eine Kontaktperson",
+   "distractors": [
+    "Alles bar beim Losfahren",
+    "Erst nach Ankunft per Überweisung",
+    "In Raten nach der Ankunft"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das ganze Geld liegt vorab bei der Kontaktperson, aber freigegeben wird es Stück für Stück: Ist er im Iran, gibt die Familie okay für diesen Teil. So eine Art Treuhand für Schlepperei.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schlepper",
+    "Geld"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2725,
+   "speaker": "Tamim",
+   "quote": "Ein war leer, der ist vorgefahren und kontrolliert, ob Polizei Kontrolle gibt's oder irgendwie bis der okay gab und dann der ist dann gefahren.",
+   "quote_clean": "Eines war leer, das ist vorgefahren und hat kontrolliert, ob es eine Polizeikontrolle gibt, bis es okay gab, und dann ist das andere gefahren.",
+   "statement": "Schlepper fahren oft mit zwei Autos: Ein leeres fährt voraus und prüft, ob es Polizeikontrollen gibt, erst dann folgt das Auto mit den Menschen.",
+   "question": "Wozu fuhr in der Türkei immer ein leeres Auto vor dem Schlepper-Auto?",
+   "answer": "Um Polizeikontrollen auszukundschaften",
+   "distractors": [
+    "Um Benzin nachzuliefern",
+    "Um später Leute abzuholen",
+    "Um Essen zu besorgen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Tamim dachte zuerst, der Fahrer warte nur auf noch mehr Geld, und gab ihm seine letzten 16 Dollar. Erst später hat er verstanden, dass vorne jemand die Strecke abgecheckt hat.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schlepper",
+    "Türkei"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 4312,
+   "speaker": "Andreas Sator",
+   "quote": "So, ja, und subsidiärer Schutz heißt ähm du darfst bleiben, weil in deinem Heimatland ist es nicht sicher.",
+   "quote_clean": "Subsidiärer Schutz heißt: Du darfst bleiben, weil es in deinem Heimatland nicht sicher ist.",
+   "statement": "Subsidiärer Schutz bedeutet in Österreich: Der Asylantrag wurde abgelehnt, man darf aber bleiben, weil das Heimatland nicht sicher ist – und das wird immer wieder geprüft.",
+   "question": "Was bedeutet „subsidiärer Schutz“ in Österreich?",
+   "answer": "Bleiben, weil die Heimat unsicher ist",
+   "distractors": [
+    "Anerkannter Flüchtling mit Asyl",
+    "Sofortige Staatsbürgerschaft",
+    "Aufenthalt nur zum Arbeiten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Asyl bekommt man, wenn man persönlich verfolgt wird. Subsidiär Schutzberechtigte haben das nicht nachgewiesen, dürfen aber trotzdem nicht zurückgeschickt werden. Dafür gibt's die „graue Karte“, die regelmäßig verlängert werden muss.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Asyl",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2671,
+   "speaker": "Tamim",
+   "quote": "Das Geld natürlich haben sie nicht gebraucht, aber die wollten halt von uns auch immer bisschen kassieren, weil die wussten schon, wir sind in ein Situation, wir werden alles, was wir haben, geben, dass wir weiterkommen.",
+   "quote_clean": "Das Geld haben sie natürlich nicht gebraucht, aber sie wollten von uns immer ein bisschen kassieren, weil sie wussten, dass wir in einer Situation sind, in der wir alles geben, was wir haben, damit wir weiterkommen.",
+   "statement": "Schlepper verlangen unterwegs oft zusätzlich Geld, obwohl die Reise bezahlt ist, weil Geflüchtete in ihrer Notlage alles hergeben, um weiterzukommen.",
+   "question": "Warum verlangten die Schlepper unterwegs immer wieder extra Geld, obwohl die Flucht schon bezahlt war?",
+   "answer": "Weil Geflüchtete in Not alles geben",
+   "distractors": [
+    "Weil die Preise gestiegen waren",
+    "Weil Grenzbeamte bestochen werden mussten",
+    "Weil die Kontaktperson nicht zahlte"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Fahrer haben behauptet, es gehe nicht weiter, sie müssten noch etwas kaufen. Tamim hat jedes Mal sein Geld hergegeben, bis er in Wien keinen einzigen Dollar mehr hatte.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Schlepper",
+    "Geld"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3909,
+   "speaker": "Tamim",
+   "quote": "Die Warterei, das hat uns wirklich durcheinander genommen. Wir haben immer die warten mussen. Immer musst du warten dort und dieser Warten macht irgendwie dich kaputt innerlich",
+   "quote_clean": "Die Warterei hat uns wirklich durcheinandergebracht. Wir haben immer warten müssen. Immer musst du dort warten, und dieses Warten macht dich innerlich kaputt.",
+   "statement": "Für Tamim war auf der Flucht das ständige Warten eines der schlimmsten Dinge.",
+   "question": "Wer sagt über die Flucht: „Dieses Warten macht dich innerlich kaputt“?",
+   "answer": "Tamim",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Schlepper",
+    "Regina, seine Deutschlehrerin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "„Morgen fahren wir los“ hieß oft: in zwei Wochen. Tamim hatte eine Uhr von seiner Mutter dabei und hätte sie fast weggeschmissen, weil er dauernd draufschauen musste.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Flucht",
+    "Warten"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 4952,
+   "speaker": "Tamim",
+   "quote": "Normal Leute sind zur Universität gegangen, zur Schule gegangen, haben Hobbys gehabt. Mm Fußball spielen, das wir sind Menschen alle, meiner Meinung nach. Wir sind alle Menschen.",
+   "quote_clean": "Normale Leute sind zur Universität gegangen, zur Schule gegangen, haben Hobbys gehabt, Fußball gespielt. Wir sind alle Menschen, meiner Meinung nach. Wir sind alle Menschen.",
+   "statement": "Tamim betont, dass Menschen in Afghanistan wie in Österreich gleich sind: Schule, Uni, Hobbys, Fußball.",
+   "question": "Wer sagt im Podcast: „Wir sind alle Menschen. Egal, ob du hier geboren bist, ich bin in Afghanistan geboren“?",
+   "answer": "Tamim",
+   "distractors": [
+    "Andreas Sator",
+    "Annelise, eine Hörerin",
+    "Norbert Hofer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Tamim kam mit 14 nach Österreich und hat vieles einfach angenommen, wie es ist. Für ihn gibt es überall gute und schlechte Menschen – in Afghanistan genauso wie hier.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Integration",
+    "Menschlichkeit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 3036,
+   "speaker": "Tamim",
+   "quote": "Ich habe Österreich gar nicht gekannt, ehrlich sagen zu sein, weil ich bin hier angekommen. Er hat gesagt, du bist in Österreich. Habe gesagt, wo ist Österreich?",
+   "quote_clean": "Ich habe Österreich ehrlich gesagt gar nicht gekannt. Als ich hier ankam, hat er gesagt, du bist in Österreich. Ich habe gesagt: Wo ist Österreich?",
+   "statement": "Als Tamim in Wien ankam, hatte er noch nie von Österreich gehört und dachte, er sei in Deutschland.",
+   "question": "Was dachte Tamim, wo er ist, als ihn der Schlepper in Wien absetzte?",
+   "answer": "In Deutschland",
+   "distractors": [
+    "In Italien",
+    "In Ungarn",
+    "In der Schweiz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Österreich war für ihn ein weißer Fleck. Ein Polizist erklärte ihm, das sei ein Nachbar von Deutschland und auch EU. Seine Antwort: Hauptsache sicher – eh egal, wo.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Ankunft",
+    "Wien"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 104,
+   "speaker": "Andreas Sator",
+   "quote": "Schön, dass du da bist. Freut mich sehr. Freut mich auch. Kannst du dich zu Beginn kurz vorstellen, bitte?",
+   "quote_clean": "Schön, dass du da bist. Freut mich sehr. Kannst du dich zu Beginn kurz vorstellen, bitte?",
+   "statement": "Andreas beginnt das Gespräch, indem er den Gast bittet, sich kurz selbst vorzustellen.",
+   "question": "Womit startet Andreas das Gespräch mit Tamim, nachdem er ihn begrüßt hat?",
+   "answer": "Er bittet ihn, sich vorzustellen",
+   "distractors": [
+    "Er fragt nach dem Fluchtweg",
+    "Er erzählt seine eigene Geschichte",
+    "Er liest eine Statistik vor"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zuerst darf der Gast selbst sagen, wer er ist: Tamim, 26, aus Afghanistan, Elektriker in Wien. Erst danach geht's zur Kindheit und dann zur Flucht.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Einstieg"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "385",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

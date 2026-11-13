@@ -1,0 +1,286 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (817-833); Jahr 1999 stimmt mit dem Frankfurter-Rundschau-Artikel überein, Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Die Frankfurter Rundschau berichtete bereits 1999 über den Missbrauch an der Odenwaldschule.",
+   "question": "In welchem Jahr berichtete die Frankfurter Rundschau erstmals über den Missbrauch an der Odenwaldschule?",
+   "answer": "1999",
+   "distractors": [
+    "1989",
+    "2005",
+    "2010"
+   ],
+   "aha": "Schon 1999 stand alles in einer der großen Qualitätszeitungen Deutschlands. Gerührt hat sich damals trotzdem fast niemand, die große Aufregung kam erst elf Jahre später.",
+   "quote_clean": "Es gab einen Artikel in der Frankfurter Rundschau, der das alles schon im Jahr 1999 beschrieben hatte.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (833-880); 2010 stimmt mit dem bundesweiten Bekanntwerden überein.",
+   "stand_note": "",
+   "statement": "2010 veröffentlichte derselbe Reporter der Frankfurter Rundschau den Odenwaldschul-Artikel erneut, und diesmal wurde daraus ein bundesweiter Skandal.",
+   "question": "In welchem Jahr wurde der Missbrauch an der Odenwaldschule zum großen Thema in ganz Deutschland?",
+   "answer": "2010",
+   "distractors": [
+    "1999",
+    "2004",
+    "2015"
+   ],
+   "aha": "Mehr oder minder derselbe Artikel, derselbe Reporter, dieselbe Zeitung. Nur dass 2010 plötzlich Tagesthemen, Tagesschau und sämtliche Leitmedien einstiegen.",
+   "quote_clean": "Fakt ist, ich habe diese Geschichte im Jahr 2007 fallen lassen, und im Jahr 2010 erschien noch einmal ein Artikel in der Frankfurter Rundschau. Derselbe Reporter, der 1999 alles veröffentlicht hat,",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Belegt (863-870) als Aussage Pörksens; aha nannte „ein paar“ Lokalzeitungen und eine Zehn-Jahres-Beschäftigung ohne Beleg.",
+   "stand_note": "",
+   "statement": "Laut Bernhard Pörksen reagierte auf den ersten Bericht über den Odenwaldschul-Missbrauch 1999 kein einziges deutsches Leitmedium.",
+   "question": "Wie viele große deutsche Leitmedien griffen laut Pörksen den ersten Bericht über den Odenwaldschul-Missbrauch 1999 auf?",
+   "answer": "Kein einziges",
+   "distractors": [
+    "Nur der Spiegel",
+    "Fast alle",
+    "Etwa die Hälfte"
+   ],
+   "aha": "Laut Pörksen reagierten 1999 etwa 20 Lokalzeitungen, aber kein einziges Leitmedium – obwohl es um eine berühmte Reformschule und die Eliten der Bundesrepublik ging. 2010 war dagegen alles anders.",
+   "quote_clean": "1999 hat so gut wie niemand reagiert. 20 Lokalzeitungen, kein einziges Leitmedium. Obwohl maximale Fallhöhe, obwohl Eliten der Bundesrepublik.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Begriff belegt (952-960); Deutung im aha („hinschauen wollte man nicht“) näher am Gesagten formuliert.",
+   "stand_note": "",
+   "statement": "„Wissende Ignoranz“ bezeichnet, dass etwas öffentlich bekannt und leicht wissbar ist, aber trotzdem nicht ins Bewusstsein der Menschen dringt.",
+   "question": "Wie nennt Bernhard Pörksen es, wenn etwas öffentlich bekannt ist, aber trotzdem niemanden berührt?",
+   "answer": "Wissende Ignoranz",
+   "distractors": [
+    "Kollektive Amnesie",
+    "Mediale Erschöpfung",
+    "Stille Mitwisserschaft"
+   ],
+   "aha": "An der Odenwaldschule hätte man es ganz leicht wissen können: Es stand in der Zeitung, die Jungen sangen Spottlieder, eine Putzfrau fand den Schulleiter mit einem Jungen im Bett. Trotzdem erreichte es das Bewusstsein der Menschen nicht – das nennt Pörksen wissende Ignoranz.",
+   "quote_clean": "Wie kann es sein, dass es so etwas gibt wie wissende Ignoranz? Dass man etwas hätte ganz leicht wissen können. Es stand sogar in der Zeitung. Es war alles öffentlich.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt (1012-1035); aha-Zusatz über das Warten auf eine Zeitung entfernt.",
+   "stand_note": "",
+   "statement": "Ein Grund, warum der Odenwaldschul-Skandal 2010 Gehör fand: Betroffene konnten sich inzwischen über Blogs und soziale Medien vernetzen.",
+   "question": "Was hatte sich laut Pörksen zwischen 1999 und 2010 für Missbrauchsbetroffene entscheidend verändert?",
+   "answer": "Sie konnten sich online vernetzen",
+   "distractors": [
+    "Es gab neue Strafgesetze",
+    "Die Schule wurde geschlossen",
+    "Die Täter hatten gestanden"
+   ],
+   "aha": "Wir reden viel Schlechtes über das Netz, und das ist auch berechtigt. Aber hier zeigt sich laut Pörksen die große Kraft der Vernetzung: Betroffene konnten über Blogs und soziale Medien leicht zueinanderfinden und sich Kraft geben.",
+   "quote_clean": "Es gab den Journalisten, der drangeblieben ist, der alles noch einmal veröffentlicht hat. Es gab ein neues Medienzeitalter. Auf einmal war die Vernetzung über Blogs ganz entscheidend für Missbrauchsbetroffene",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (1035-1050), Aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Die Berichte über Missbrauch durch katholische Priester machten 2010 auch Missbrauch durch verehrte Reformpädagogen vorstellbarer.",
+   "question": "Welche Berichterstattung machte laut Pörksen den Missbrauch an der Odenwaldschule 2010 plötzlich „vorstellbarer“?",
+   "answer": "Über Missbrauch in der katholischen Kirche",
+   "distractors": [
+    "Über Doping im Spitzensport",
+    "Über Korruption in der Politik",
+    "Über Mobbing im Internet"
+   ],
+   "aha": "Wenn sogar Priester, also fast heilige Figuren, Täter sein können, wird auch bei verehrten Starpädagogen das Unvorstellbare vorstellbar. Ein Skandal öffnet manchmal die Ohren für den nächsten.",
+   "quote_clean": "Aber hier zeigt sich die große Kraft der Vernetzung, und es gab die Missbrauchsberichterstattung über die Priester der katholischen Kirche. Auf einmal schien das",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "fairness"
+   ],
+   "note": "Zitat belegt (416-432); die Depression von Andreas steht nicht im Ausschnitt und ist persönlich, daher aus dem aha entfernt.",
+   "stand_note": "",
+   "statement": "Bernhard Pörksen sagt, Verwundungen und Narben des Lebens seien oft so etwas wie Wahrnehmungsorgane.",
+   "question": "Was sind laut Bernhard Pörksen Verwundungen und Narben des Lebens oft?",
+   "answer": "Wahrnehmungsorgane",
+   "distractors": [
+    "Schutzschilde",
+    "Lebenslange Hindernisse",
+    "Blinde Flecken"
+   ],
+   "aha": "Laut Pörksen macht uns Selbsterlebtes resonanzfähiger und empathischer. Wer selbst Narben hat, kann auf Menschen zugehen, denen es nicht gut geht und an denen wir sonst vorbeirennen.",
+   "quote_clean": "Das, was du berichtest, ist in meinem Vokabular, das ich in diesem Buch über das Zuhören zu entfalten versuche, folgendermaßen. Ich sage: „Verwundungen, Narben des Lebens sind oft so etwas wie Wahrnehmungsorgane.“",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "fairness"
+   ],
+   "note": "Begriff belegt (548-563); aha bezog sich auf nicht im Ausschnitt genannte Depression, umformuliert.",
+   "stand_note": "",
+   "statement": "Pörksen spricht vom „Dominoeffekt des Zuhörens“: Wer sich öffnet und gehört wird, ermutigt andere, sich ebenfalls zu öffnen.",
+   "question": "Wie nennt Bernhard Pörksen es, wenn echtes Zuhören andere ermutigt, ebenfalls offen zu sprechen?",
+   "answer": "Dominoeffekt des Zuhörens",
+   "distractors": [
+    "Schneeballprinzip der Offenheit",
+    "Echokammer der Empathie",
+    "Kettenreaktion der Nähe"
+   ],
+   "aha": "Wenn einer sich traut und gehört wird, trauen sich die Nächsten auch. Pörksen hielt es für gut möglich, dass Hörer:innen nach Andreas' persönlicher Offenheit schreiben würden, dass sie danach selbst anders sprechen konnten – für ihn eine der stärksten Kommunikationsinterventionen überhaupt.",
+   "quote_clean": "Ich nenne es den Dominoeffekt des Zuhörens. Wenn wir einander wirklich zuhören, das ist eine der stärksten Kommunikationsinterventionen überhaupt.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Zahl belegt (1611-1638); aha enthielt eine erfundene Begründung der Projektidee, ersetzt.",
+   "stand_note": "",
+   "statement": "Ein ukrainischer Unternehmer wollte zu Kriegsbeginn 11 Millionen Ukrainer:innen dazu bringen, ihren Verwandten in Russland den Krieg zu erklären.",
+   "question": "Wie viele Ukrainer:innen wollte ein Dialogprojekt zu Kriegsbeginn dazu bringen, mit ihren Verwandten in Russland über den Krieg zu reden?",
+   "answer": "11 Millionen",
+   "distractors": [
+    "500.000",
+    "3 Millionen",
+    "25 Millionen"
+   ],
+   "aha": "Der Unternehmer hatte vergeblich versucht, seinen Vater in Russland zu überzeugen, dass wirklich Krieg ist. Aus diesem Scheitern entstand das Projekt, das ebenfalls scheiterte. Pörksen sieht darin trotzdem die Größe des Engagements und den Mut von Menschen.",
+   "quote_clean": "entwickelt er dann ein Dialogprojekt, mit dem er zu Kriegsbeginn versucht, 11 Millionen Ukrainerinnen und Ukrainer dazu zu bringen, ihren Verwandten in Russland zu erklären, was dieser Krieg tatsächlich bedeutet",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Zitat belegt (1892-1900) und stimmt zu Sartre; Floskel „hätte wohl genickt“ entfernt.",
+   "stand_note": "",
+   "statement": "Der Philosoph Jean-Paul Sartre sagte sinngemäß, man könne in jedem Moment etwas aus dem machen, was die Umstände aus einem gemacht haben.",
+   "question": "Welcher Philosoph sagte, man könne in jedem Moment etwas aus dem machen, was die Umstände aus einem gemacht haben?",
+   "answer": "Jean-Paul Sartre",
+   "distractors": [
+    "Albert Camus",
+    "Friedrich Nietzsche",
+    "Immanuel Kant"
+   ],
+   "aha": "Pörksen zitiert den Satz, um zu zeigen, was er „Lücken der Freiheit“ nennt: Auch wo ein Projekt scheitert, zeigt sich, wozu Mut fähig ist.",
+   "quote_clean": "Jean-Paul Sartre hat einmal gesagt: Man kann in jedem Moment etwas aus dem machen, was die Umstände aus einem gemacht haben.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt (2422-2452); aha behauptete „Normalform“ und „die meiste Zeit“, was nicht gesagt wird.",
+   "stand_note": "",
+   "statement": "Das „Ich-Ohr“ hört egozentrisch zu und prüft vor allem, ob das Gesagte zu dem passt, was man selbst glauben will.",
+   "question": "Welche Frage leitet laut Pörksen das „Ich-Ohr“ beim Zuhören?",
+   "answer": "Passt das zu dem, was ich glaube?",
+   "distractors": [
+    "Was fühlt mein Gegenüber gerade?",
+    "Wie kann ich ihm helfen?",
+    "Ist das wissenschaftlich belegt?"
+   ],
+   "aha": "Mit dem Ich-Ohr hört man laut Pörksen in Wahrheit vor allem sich selbst. Dem stellt er das Du-Ohr gegenüber, das fragt: In welcher Welt ist es wertvoll und wahr, was der andere mir gerade erzählt?",
+   "quote_clean": "Es gibt ein Ich-Ohr egozentrischer Aufmerksamkeit, geleitet von den eigenen Filtern, den eigenen Perspektiven, regiert von der Frage: Stimmt das, was der andere mir sagt, mit dem überein, was ich aus guten oder schlechten Gründen glauben will?",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Scherz ohne Wissensgehalt, Frage beliebig und nur durch Raten lösbar.",
+   "stand_note": "",
+   "statement": "Bernhard Pörksen scherzt, Tübinger Professoren kämen erst ab Minute 60 auf Temperatur.",
+   "question": "Ab welcher Minute kommen Tübinger Professoren laut Pörksens Scherz so richtig auf Temperatur?",
+   "answer": "Ab Minute 60",
+   "distractors": [
+    "Ab Minute 5",
+    "Ab Minute 20",
+    "Ab Minute 120"
+   ],
+   "aha": "Und ab Minute 70 sind sie dann in rhetorischer Ekstase. Pörksen bat Andreas deshalb vorsorglich, ihn zu unterbrechen, wenn er zu lang redet.",
+   "quote_clean": "Tübinger Professoren kommen so ab Minute 60 auf Temperatur. Ab Minute 70 sind wir in rhetorischer Ekstase.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Zitat belegt (1763-1791); Auslöser war ein übersetztes Kapitel, nicht ein direktes Geständnis, und das aha interpretierte Pörksens Text zu frei.",
+   "stand_note": "",
+   "statement": "Als Pörksen dem ukrainischen Unternehmer Micha ein Kapitel schickte, in dem er sein Zögern beschrieb, nach Kiew zu fahren, antwortete dieser: „Du kommst einfach, wenn wir gesiegt haben.“",
+   "question": "Was schrieb der ukrainische Unternehmer Micha, nachdem Pörksen ihm ein Kapitel über sein eigenes Zögern, nach Kiew zu fahren, geschickt hatte?",
+   "answer": "Du kommst, wenn wir gesiegt haben",
+   "distractors": [
+    "Ich bin sehr enttäuscht von dir",
+    "Dann komme ich nach Tübingen",
+    "Du hast das Buch nicht verdient"
+   ],
+   "aha": "Pörksen hatte aufgeschrieben, wie er die Fahrt nach Kiew weggedrückt und sich hinter eine gläserne Scheibe der Distanz zurückgezogen hatte. Micha antwortete großzügig – und Pörksen will diese Nachricht ewig in Ehren halten.",
+   "quote_clean": "hat mir geschrieben: „Hey, Bernhard, mach dir nicht so viele Gedanken. Du kommst einfach, wenn wir gesiegt haben.“",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zum Gesprächsformat ohne Erkenntnisgewinn; im aha steht ein Buchtipp (Zen-Klassiker), der im Ausschnitt nicht belegt ist.",
+   "stand_note": "",
+   "statement": "Andreas bittet seine Gäste am Ende jedes Gesprächs um drei Büchertipps.",
+   "question": "Worum bittet Andreas seine Gäste am Ende jedes Gesprächs?",
+   "answer": "Um drei Büchertipps",
+   "distractors": [
+    "Um einen Lebensrat",
+    "Um drei Filmtipps",
+    "Um eine Zukunftsprognose"
+   ],
+   "aha": "Pörksen erwischte das kalt, er hatte keine Vorwarnung. Er empfahl dann sein eigenes Buch, Jenny Odells „How to Do Nothing“ und den Zen-Klassiker über den Anfängergeist.",
+   "quote_clean": "Ich bitte am Ende meiner Gespräche immer meine Gäste um drei Büchertipps, wenn man sich vertiefen möchte.",
+   "quality": 1
+  }
+ ],
+ "id": "357",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

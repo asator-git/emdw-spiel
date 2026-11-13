@@ -1,0 +1,281 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Beleg bei 1410-1423 passt (ca. 1100 km). Der Wien-Brüssel-Vergleich im aha ist nicht belegt und ungenau, entfernt.",
+   "stand_note": "Stand Februar 2023",
+   "statement": "Die Frontlinie in der Ukraine war Anfang 2023 rund 1100 Kilometer lang.",
+   "question": "Wie viele Kilometer lang war die Frontlinie in der Ukraine nach einem Jahr Krieg ungefähr?",
+   "answer": "Rund 1100 Kilometer",
+   "distractors": [
+    "Rund 300 Kilometer",
+    "Rund 600 Kilometer",
+    "Rund 2500 Kilometer"
+   ],
+   "aha": "Entlang dieser ganzen Strecke liegen sich zwei Armeen gegenüber, zum Teil in Schützengräben wie vor hundert Jahren.",
+   "quote_clean": "Wir haben grob entlang der Frontlinie, die ja sehr lang ist, ungefähr 1100 Kilometer.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg bei 1423 (dreieinhalb bis 4000), Zahl ist seine Schätzung und eine Momentaufnahme.",
+   "stand_note": "Stand Februar 2023",
+   "statement": "Über der Front in der Ukraine sind zu jedem Zeitpunkt etwa 3500 bis 4000 Drohnen zur Aufklärung in der Luft.",
+   "question": "Wie viele Drohnen sind laut Markus Reisner zu jedem Zeitpunkt über der ukrainischen Front im Einsatz?",
+   "answer": "3500 bis 4000",
+   "distractors": [
+    "50 bis 100",
+    "300 bis 500",
+    "20.000 bis 30.000"
+   ],
+   "aha": "Drohnen sind die Augen dieses Krieges. Wer sieht, wo der Gegner steht, kann Artillerie gezielt einsetzen, und wer gesehen wird, hat ein Problem.",
+   "quote_clean": "Aber wir haben so zwischen 3500 und 4000 Drohnen zu jeder Zeit im Einsatz, die ganz gezielt versuchen aufzuklären.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1702-1731, Hälfte der Flugstunden für Eigenaufklärung/Tarnkontrolle.",
+   "stand_note": "Stand Februar 2023",
+   "statement": "Etwa die Hälfte der ukrainischen Drohnen-Flugstunden dient dazu, die eigenen Stellungen auf gute Tarnung zu überprüfen.",
+   "question": "Welcher Anteil der ukrainischen Drohnen-Flugstunden wird genutzt, um die EIGENEN Stellungen zu kontrollieren?",
+   "answer": "Etwa die Hälfte",
+   "distractors": [
+    "Etwa ein Zehntel",
+    "Etwa ein Viertel",
+    "Fast alle"
+   ],
+   "aha": "Die Drohne schaut quasi in den Spiegel: Wenn ich meine eigene Stellung von oben nicht erkenne, findet sie die russische Drohne hoffentlich auch nicht. Die Russen machen übrigens genau dasselbe.",
+   "quote_clean": "Die ukrainische Seite zum Beispiel: Die Hälfte der Flugstunden fliegen sie zur Eigenaufklärung, das heißt, die Drohnen schauen, ob meine Stellungen gut getarnt sind.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 576: 4500-5000 Mann bezieht sich auf eine ukrainische Brigade, nicht auf jede Brigade. Frage präzisiert.",
+   "stand_note": "",
+   "statement": "Eine ukrainische Brigade umfasst etwa 4500 bis 5000 Soldat:innen.",
+   "question": "Wie viele Soldaten hat laut Markus Reisner eine ukrainische Brigade ungefähr?",
+   "answer": "4500 bis 5000",
+   "distractors": [
+    "Etwa 150",
+    "Etwa 800",
+    "Etwa 40.000"
+   ],
+   "aha": "Eine Brigade ist also so groß wie eine Kleinstadt in Uniform. 2014 wurde eine solche Brigade im freien Gelände von russischer Artillerie schwer getroffen, und daraus hat die Ukraine viel gelernt.",
+   "quote_clean": "Da wurde eine ukrainische Brigade, das sind circa 4500 bis 5000 Mann, im freien Gelände durch massiven Artillerieeinsatz schwer getroffen.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1759-1764, Erklärung korrekt.",
+   "stand_note": "",
+   "statement": "Schützengräben werden zickzackförmig angelegt, damit Splitter einer einschlagenden Granate nicht den ganzen Graben entlangfliegen.",
+   "question": "Warum sind Schützengräben zickzackförmig gebaut?",
+   "answer": "Damit Granatsplitter abgelenkt werden",
+   "distractors": [
+    "Damit Regenwasser besser abfließt",
+    "Damit Panzer nicht durchfahren können",
+    "Damit Soldaten sich schneller bewegen"
+   ],
+   "aha": "Ein gerader Graben wäre wie eine Kegelbahn für Splitter: Eine Granate, und es trifft alle. Durch die Ecken fängt die Wand die Splitter ab.",
+   "quote_clean": "Warum ist der zickzackförmig? Damit, wenn die Artilleriegranate einschlägt, die Splitter nicht den Graben entlang wirken, sondern durch diese Winkel abgelenkt werden.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1798, als 'man sagt' formuliert, Frage sagt 'gilt laut'.",
+   "stand_note": "Stand Februar 2023",
+   "statement": "Eine der wichtigsten Waffen ukrainischer Soldaten ist der Feldspaten.",
+   "question": "Welche 'Waffe' gilt laut Markus Reisner als eine der wichtigsten des ukrainischen Soldaten?",
+   "answer": "Der Feldspaten",
+   "distractors": [
+    "Die Panzerfaust",
+    "Das Nachtsichtgerät",
+    "Das Sturmgewehr"
+   ],
+   "aha": "Bei so viel Artilleriefeuer gräbt man sich bei jedem Stellungswechsel sofort eine Schützenmulde. Das kennt man eigentlich aus den Weltkriegen, und kaum jemand hätte gedacht, dass der Spaten heute wieder so wichtig ist.",
+   "quote_clean": "Man sagt auch, eine der wichtigsten Waffen des ukrainischen Soldaten – du wirst jetzt lachen – ist der Feldspaten.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1555-1584, Drachenzähne korrekt (Panzersperren).",
+   "stand_note": "",
+   "statement": "Drachenzähne sind kleine pyramidenförmige Betonblöcke, an denen Panzer hängenbleiben sollen.",
+   "question": "Wie nennt man die kleinen pyramidenförmigen Betonblöcke, die Panzer aufhalten sollen?",
+   "answer": "Drachenzähne",
+   "distractors": [
+    "Hundezähne",
+    "Bärenfallen",
+    "Igelsteine"
+   ],
+   "aha": "Der Panzer fährt drauf, bleibt hängen und ist dann ein leichtes Ziel. Zusammen mit Panzergräben und Minenfeldern bilden sie die Verteidigungslinien, die beide Seiten entlang der Front gebaut haben.",
+   "quote_clean": "Dann sieht man auch sehr oft diese pyramidenförmigen kleinen Betonblöcke, das nennt man Drachenzahn, und die Idee ist, dass sich der Panzer darauf fängt und nicht weiterfahren kann.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 430-489, Quote ('Handymast') im Transkript verhört, Sinn aber klar.",
+   "stand_note": "",
+   "statement": "Russland setzt Drohnen ein, die wie ein fliegender Handymast funktionieren: Handys wählen sich automatisch ein und können gezielt SMS bekommen.",
+   "question": "Wie konnte Russland zu Kriegsbeginn Massen-SMS an Menschen in der Ostukraine schicken?",
+   "answer": "Mit Drohnen als fliegende Handymasten",
+   "distractors": [
+    "Über gehackte Mobilfunkfirmen",
+    "Über russische Satelliten",
+    "Mit Störsendern im Grenzgebiet"
+   ],
+   "aha": "Dein Handy sucht sich einfach das stärkste Signal, und das kommt dann eben von der Drohne. So verschickten die Russen Nachrichten wie 'Der Präsident ist festgenommen, legt die Waffen nieder'.",
+   "quote_clean": "Diese speziellen Drohnen haben die Möglichkeit, quasi wie ein fliegender Handymast zu fungieren, das heißt, dein Handy wählt sich automatisch ein, weil das Signal stark ist.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Beleg bei 2862-2891. Die Behauptung 'erster Konflikt mit maßgeblichem Privatmann' ist historisch angreifbar; Frage stattdessen auf das belegte Faktum (Starlink bis auf unterste Ebene) umgestellt.",
+   "stand_note": "Stand Februar 2023",
+   "statement": "Die ukrainische Armee nutzt das Satelliteninternet Starlink von Elon Musks Firma bis auf die unterste Ebene.",
+   "question": "Welches Satellitensystem von Elon Musks Firma nutzt die ukrainische Armee laut Markus Reisner bis auf die unterste Ebene?",
+   "answer": "Starlink",
+   "distractors": [
+    "Iridium",
+    "Galileo",
+    "Sentinel"
+   ],
+   "aha": "Ohne Starlink hätte die ukrainische Armee am Anfang kaum kommunizieren können. Satellitenverbindungen sind schwer zu stören, man müsste fast den Satelliten selbst zerstören.",
+   "quote_clean": "Wir haben den ersten Konflikt, wo ein Privatier maßgeblich auf einer Seite Einfluss ausübt, und das ist der Umstand der Verwendung von Starlink in der ukrainischen Armee bis auf die unterste Ebene.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 2921 stimmt; aha enthielt eine nicht belegte Geschwindigkeitsbehauptung, entfernt.",
+   "stand_note": "",
+   "statement": "Die ukrainische Artillerie nutzt eine Art 'Uber-App': Erkannte Ziele werden gemeldet, und wer in Reichweite ist, übernimmt sie.",
+   "question": "Mit welchem Alltagsdienst vergleicht Markus Reisner das digitale Zielsystem der ukrainischen Artillerie?",
+   "answer": "Mit Uber",
+   "distractors": [
+    "Mit Google Maps",
+    "Mit WhatsApp",
+    "Mit Tinder"
+   ],
+   "aha": "Wie beim Fahrtendienst: Jemand meldet einen Auftrag, alle sehen ihn, und wer gerade in Reichweite ist, übernimmt.",
+   "quote_clean": "So eine Art wie Uber: Du hast quasi eine App, da kannst du reinmelden, wo der Gegner ist, dann sehen das alle, und einer sagt: Ich bin in Reichweite, ich übernehme das Ziel.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Beleg bei 3383-3413; reine Zuordnungsfrage ('Wer sagt') umgebaut auf den Inhalt des Vergleichs.",
+   "stand_note": "Stand Februar 2023",
+   "statement": "Markus Reisner vergleicht die Lage nach einem Jahr Ukraine-Krieg mit dem Übergang von 1914 zu 1915 im Ersten Weltkrieg, dem Jahr der Ernüchterung.",
+   "question": "Mit welchem Jahr des Ersten Weltkriegs vergleicht Markus Reisner die Lage nach einem Jahr Ukraine-Krieg?",
+   "answer": "Mit 1915, dem Jahr der Ernüchterung",
+   "distractors": [
+    "Mit 1916, dem Jahr von Verdun",
+    "Mit 1917, dem Jahr der Revolution",
+    "Mit 1918, dem Jahr des Kriegsendes"
+   ],
+   "aha": "1915 merkten alle Hauptstädte Europas, dass der Krieg nicht schnell vorbei sein wird: mobilisieren, Rüstungsindustrie hochfahren, Munition produzieren. Genau dort sieht Reisner Europa jetzt wieder.",
+   "quote_clean": "Wir sind aus dem Jahr 1914 im Jahr 1915 angekommen. Warum? 1915 war das Jahr der Ernüchterung.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Zuordnungsfrage zu einem allgemeinen Satz, kein Wissensgewinn; Distraktor nennt reale Person.",
+   "stand_note": "",
+   "statement": "Abnutzungskriege dauern so lange, bis einer Seite die Ressourcen ausgehen oder die Bevölkerung das Leid nicht mehr mitträgt.",
+   "question": "Wer sagt über den Ukraine-Krieg, Abnutzungskriege dauern, bis einer Seite die Ressourcen ausgehen?",
+   "answer": "Markus Reisner",
+   "distractors": [
+    "Andreas Sator",
+    "Jens Stoltenberg",
+    "Ein ukrainischer Kommandant"
+   ],
+   "aha": "",
+   "quote_clean": "Dass Abnutzungskriege leider immer die Herausforderung haben, dass sie so lange geführt werden, bis einer Seite die Ressourcen ausgehen oder die Bevölkerung nicht mehr bereit ist, das Leid des Krieges mitzutragen.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 2399-2415 stimmt; Distraktoren waren albern bzw. unsinnig ('Taliban wurden gestört'). Ersetzt durch plausible.",
+   "stand_note": "",
+   "statement": "In Afghanistan überlebte Markus Reisners Team eine Sprengfalle, weil die Kälte die Autobatterie des Zünders so schwächte, dass sie nicht auslöste.",
+   "question": "Warum explodierte die Sprengfalle nicht, auf die Markus Reisners Fahrzeug in Afghanistan fuhr?",
+   "answer": "Die Batterie war zu kalt",
+   "distractors": [
+    "Der Zünder war verrostet",
+    "Die Raketen waren Blindgänger",
+    "Das Kabel war durchtrennt"
+   ],
+   "aha": "Zwei chinesische Raketen lagen unter der Straße, verbunden mit einer Autobatterie. Aber es war so kalt, dass der Strom den Widerstand im Kabel nicht schaffte. Manchmal rettet einen die Physik.",
+   "quote_clean": "Es war so kalt, dass die Batteriespannung runtergegangen ist und so niedrig war, dass sie den Widerstand des Kabels nicht überwinden konnte und damit nicht ausgelöst hat.",
+   "quality": 4
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Moderationsfrage, kein Wissensfakt.",
+   "stand_note": "",
+   "statement": "Andreas stellt zum Schluss die 'ganz leichte Frage', wie der Krieg aufhört.",
+   "question": "Welche 'ganz leichte Frage' stellt Andreas Markus Reisner zum Schluss?",
+   "answer": "Wie hört dieser Krieg auf?",
+   "distractors": [
+    "Wer gewinnt den Krieg?",
+    "Was würdest du anders machen?",
+    "Wann warst du zuletzt in Kiew?"
+   ],
+   "aha": "",
+   "quote_clean": "Markus, zum Ende stelle ich dir noch eine ganz leichte Frage: Wie hört dieser Krieg auf? Was ist ein Szenario, damit der aufhört?",
+   "quality": 1
+  }
+ ],
+ "id": "245",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

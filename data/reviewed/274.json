@@ -1,0 +1,287 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Zahl belegt, aber von Ina vorsichtig formuliert ('es scheint'); Zuschreibung ergänzt.",
+   "stand_note": "",
+   "statement": "Laut Ina Huppertz gehen nur etwa 10 bis 15 Prozent unseres biologischen Alterns auf die Gene zurück.",
+   "question": "Wie viel Prozent unseres biologischen Alterns gehen laut Ina Huppertz ungefähr auf die Gene zurück?",
+   "answer": "Etwa 10 bis 15 Prozent",
+   "distractors": [
+    "Etwa 40 bis 50 Prozent",
+    "Etwa 60 bis 70 Prozent",
+    "Etwa 85 bis 90 Prozent"
+   ],
+   "aha": "Die gute Oma mit 98 ist also nur ein kleiner Teil der Geschichte. Den großen Rest beeinflusst du selbst: Ernährung, Bewegung, Sonnencreme, nicht rauchen und brav zur Vorsorge gehen.",
+   "quote_clean": "Es scheint, dass nur 10 bis 15 Prozent unseres biologischen Alterns auf die Gene zurückzuführen sind.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "84 Jahre von Andreas im Resümee genannt, passt zu den damaligen Statistik-Austria-Werten.",
+   "stand_note": "Stand 2023",
+   "statement": "In Österreich liegt die Lebenserwartung von Frauen bei etwa 84 Jahren.",
+   "question": "Wie hoch ist die Lebenserwartung von Frauen in Österreich ungefähr?",
+   "answer": "Etwa 84 Jahre",
+   "distractors": [
+    "Etwa 78 Jahre",
+    "Etwa 81 Jahre",
+    "Etwa 89 Jahre"
+   ],
+   "aha": "Männer kommen in Österreich nur auf rund 79 Jahre. Ein Teil davon ist Verhalten, ein Teil aber auch Biologie, denn bei vielen Tieren leben die Weibchen ebenfalls länger.",
+   "quote_clean": "Frauen haben in Österreich eine Lebenserwartung von 84 Jahren, Männer nur von 79 Jahren.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Fünf Jahre Differenz aus 84 und 79 belegt; die Kriegsbegründung im Aha ist als Erklärung für den früheren Abstand zu pauschal.",
+   "stand_note": "Stand 2023",
+   "statement": "In Österreich leben Frauen im Schnitt rund fünf Jahre länger als Männer.",
+   "question": "Wie viele Jahre länger leben Frauen in Österreich im Schnitt als Männer?",
+   "answer": "Etwa 5 Jahre",
+   "distractors": [
+    "Etwa 1 Jahr",
+    "Etwa 9 Jahre",
+    "Etwa 12 Jahre"
+   ],
+   "aha": "84 gegen 79 Jahre. Früher war der Abstand noch größer. Neben Biologie spielen dabei auch Verhalten und Lebensumstände eine Rolle.",
+   "quote_clean": "Frauen haben in Österreich eine Lebenserwartung von 84 Jahren, Männer nur von 79 Jahren. Der Unterschied war früher noch deutlich größer.",
+   "quality": 2
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Hämophilie fast nur bei Männern, im Transkript belegt.",
+   "stand_note": "",
+   "statement": "Von der Bluterkrankheit (Hämophilie) sind fast ausschließlich Männer betroffen.",
+   "question": "Wer ist von der Bluterkrankheit (Hämophilie) fast ausschließlich betroffen?",
+   "answer": "Männer",
+   "distractors": [
+    "Frauen",
+    "Kinder unter zehn",
+    "Menschen über 70"
+   ],
+   "aha": "Die Erbinformation dafür liegt auf dem X-Chromosom. Frauen haben ein zweites X als Backup, Männer mit ihrem XY eben nicht.",
+   "quote_clean": "Dementsprechend gibt es Erkrankungen, die viel häufiger Männer betreffen als Frauen, zum Beispiel die Bluterkrankheit. Davon sind eigentlich ausschließlich Männer betroffen.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Erklärung belegt; Aha führte eine Lebenszeit-Wirkung an, die im Ausschnitt nur für einzelne Erkrankungen steht.",
+   "stand_note": "",
+   "statement": "Männer haben nur ein X-Chromosom; ein Fehler darauf kann nicht durch ein zweites X ausgeglichen werden.",
+   "question": "Warum wirken sich Fehler auf dem X-Chromosom bei Männern stärker aus?",
+   "answer": "Ihnen fehlt ein zweites X als Ausgleich",
+   "distractors": [
+    "Ihr X-Chromosom ist kürzer",
+    "Testosteron beschädigt das X-Chromosom",
+    "Ihr Y-Chromosom blockiert Reparaturen"
+   ],
+   "aha": "Frauen haben XX, Männer XY. Ist bei Frauen auf einem X etwas kaputt, springt das andere ein. Bei Männern gibt es diese Reserve nicht, deshalb treffen manche Erbkrankheiten fast nur sie.",
+   "quote_clean": "Wenn ich das richtig verstanden habe: Wenn in dem X-Chromosom, das ein Mann hat, ein Fehler ist, dann kann das nicht im zweiten X-Chromosom kompensiert werden, sondern dann ist der genetische Fehler einfach da.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Aussage belegt, aber 'laut Statistik' stand so nicht im Transkript; Zuschreibung korrigiert.",
+   "stand_note": "",
+   "statement": "Frauen werden zwar älter als Männer, sind im Alter aber deutlich anfälliger für Krankheiten.",
+   "question": "Wer ist im Alter laut Ina Huppertz krankheitsanfälliger: Frauen oder Männer?",
+   "answer": "Frauen",
+   "distractors": [
+    "Männer",
+    "Beide gleich",
+    "Das hängt nur vom Land ab"
+   ],
+   "aha": "Länger leben heißt nicht automatisch länger gesund sein. Mit der Menopause fällt das schützende Östrogen stark ab, und damit steigt die Anfälligkeit für Krankheiten.",
+   "quote_clean": "Frauen werden zwar älter, sind aber im Alter deutlich fragiler, also sehr viel anfälliger für Krankheiten, weil mit der Menopause zum Beispiel der Östrogenlevel dramatisch abfällt.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Zusammenhang nur als Korrelation aus einer Google-Recherche besprochen; Forschungslage dazu ist uneinheitlich, als Spielfakt irreführend.",
+   "stand_note": "",
+   "statement": "Hohe Testosteronspiegel treten häufig gemeinsam mit Herz-Kreislauf-Erkrankungen auf, ein ursächlicher Zusammenhang ist aber nicht belegt.",
+   "question": "Wie hängen hohe Testosteronwerte und Herz-Kreislauf-Erkrankungen zusammen?",
+   "answer": "Sie treten oft gemeinsam auf",
+   "distractors": [
+    "Testosteron schützt das Herz",
+    "Es gibt keinerlei Zusammenhang",
+    "Testosteron löst sie direkt aus"
+   ],
+   "aha": "Korrelation, nicht unbedingt Kausalität. Wer mehr Testosteron hat, ist vielleicht risikofreudiger und isst anders, und das schlägt dann aufs Herz.",
+   "quote_clean": "Das ist generell erst einmal eine Korrelation. Das heißt, erhöhte Testosteronspiegel treten häufig zusammen mit Herz-Kreislauf-Erkrankungen auf.",
+   "quality": 1
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Müllabfuhr-Vergleich und griechische Herkunft belegt.",
+   "stand_note": "",
+   "statement": "Die Autophagie funktioniert wie die Müllabfuhr der Zelle: Kaputte Zellteile werden abgebaut und erneuert.",
+   "question": "Womit vergleicht Ina Huppertz die Autophagie in der Zelle?",
+   "answer": "Mit der Müllabfuhr",
+   "distractors": [
+    "Mit der Feuerwehr",
+    "Mit einem Kraftwerk",
+    "Mit der Post"
+   ],
+   "aha": "Das Wort kommt aus dem Griechischen und heißt so viel wie sich selbst essen. Die Zelle verdaut ihre kaputten Teile und hält sich so in Schuss.",
+   "quote_clean": "Die Autophagie ist letztendlich wie die Müllabfuhr deiner Zelle.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Ina formuliert vorsichtig ('scheint'); Zuschreibung ergänzt, quote_clean behält die Einschränkung.",
+   "stand_note": "",
+   "statement": "Laut Ina Huppertz hängt die Lebensspanne einer Art stark davon ab, wie gut ihre Zellen Erbgutfehler reparieren; bei Walen scheint das besser zu funktionieren als beim Menschen.",
+   "question": "Was unterscheidet laut Ina Huppertz sehr langlebige Tiere wie Wale auf Zellebene vom Menschen?",
+   "answer": "Sie reparieren Erbgutfehler besser",
+   "distractors": [
+    "Sie haben mehr Chromosomen",
+    "Ihre Zellen teilen sich nie",
+    "Sie haben keine Mutationen"
+   ],
+   "aha": "Mutationen sammeln sich in jeder Zelle an. Wer schneller ausschneiden, kitten und kleben kann, lebt länger, und bei Walen funktioniert das offenbar besser als bei uns.",
+   "quote_clean": "Es scheint, dass es ganz normale Reparaturmechanismen gibt, die die Zelle schlau entwickelt hat, um Fehler zu beheben: Da kann ich jetzt schnell etwas ausschneiden, draufkitten, kleben, sieht wieder super aus, hat keiner gesehen.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bild belegt, aber ein lockerer Vergleich von Ina; wenig Faktenwert.",
+   "stand_note": "",
+   "statement": "Ina Huppertz erweitert das Bild vom Genom als Bibliothek: Die Proteine sind die Angestellten, die im Alter schlechter aufpassen, etwa weil sie am Handy hängen.",
+   "question": "Wer sind im Bild vom Genom als Bibliothek die Angestellten, die im Alter nicht mehr gut aufpassen?",
+   "answer": "Die Proteine",
+   "distractors": [
+    "Die Hormone",
+    "Die Chromosomen",
+    "Die Blutzellen"
+   ],
+   "aha": "Die Bücher sind das Erbgut, die Proteine sorgen dafür, dass alles am richtigen Platz steht. Und wenn die Belegschaft lieber Instagram schaut, bleibt halt mehr kaputt liegen.",
+   "quote_clean": "Man kann sich auch vorstellen, dass neue Leute eingestellt werden und die Information zwischen den Angestellten nicht mehr so gut funktioniert, und dann entstehen Fehler. Die sind dann hauptsächlich am Handy und auf Instagram.",
+   "quality": 2
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Zitat belegt; 'Max-Planck' steht nicht im Ausschnitt, Distraktoren waren Scherzantworten.",
+   "stand_note": "",
+   "statement": "Der Altersforschung an Ina Huppertz' Institut geht es nicht um ein längeres Leben, sondern um mehr gesunde Jahre.",
+   "question": "Wer hat's gesagt: Es geht nicht darum, die Länge des Lebens auszubauen, sondern die Länge des gesunden Lebens?",
+   "answer": "Ina Huppertz",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Hausärztin",
+    "Ein Pharmavertreter"
+   ],
+   "aha": "Die Fachleute nennen das Gesundheitsspanne. Lieber mit 90 schmerzfrei aufstehen als mit 110 im Bett liegen.",
+   "quote_clean": "Uns liegt am Herzen, nicht die Länge des Lebens weiter auszubauen, sondern die Länge des gesunden Alters, des gesunden Lebens.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "fairness"
+   ],
+   "note": "Beiläufig und vorsichtig formulierter Vergleich mit Alkohol; als Spielfakt kann er Alkoholrisiken verharmlosen, Distraktoren nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Soziale Kontakte scheinen für ein langes Leben wichtiger zu sein als das gelegentliche Glas Wein am Abend.",
+   "question": "Was ist laut Ina Huppertz für ein langes Leben wichtiger als die Frage, ob man abends ein Glas Wein trinkt?",
+   "answer": "Die Interaktion mit Menschen",
+   "distractors": [
+    "Acht Stunden Schlaf",
+    "Ein Leben am Land",
+    "Möglichst wenig Stress im Job"
+   ],
+   "aha": "Menschen mit vielen Freund:innen und einer positiven Einstellung werden offenbar deutlich älter und bleiben länger gesund. Die molekularen Gründe kennt man noch nicht, der Effekt scheint aber da zu sein.",
+   "quote_clean": "Es scheint, dass die Interaktion mit Menschen viel wichtiger ist, als ob man abends mal ein Glas Wein trinkt oder nicht.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Persönliche Randbemerkung zu Andreas' Krankheit, kein Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Andreas war bei der Aufnahme krank und betont, dass er natürlich gleich beim Arzt war.",
+   "question": "Was betont Andreas, der bei der Aufnahme selbst krank ist?",
+   "answer": "Dass er gleich beim Arzt war",
+   "distractors": [
+    "Dass er nie zum Arzt geht",
+    "Dass er Tee statt Medizin nimmt",
+    "Dass seine Mama ihn geschickt hat"
+   ],
+   "aha": "Männer gehen im Schnitt seltener zum Arzt als Frauen, was ihnen Lebensjahre kostet. Andreas wollte da offenbar kein schlechtes Beispiel abgeben. Ina sagt: Sehr gut, das hilft.",
+   "quote_clean": "nicht nur, dass Männer eher im Krieg fallen und dass Männer, wenn sie krank sind wie ich gerade, nicht zum Arzt gehen? Ich war natürlich gleich beim Arzt.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage; Aha enthält Tipps, die im Ausschnitt nicht stehen.",
+   "stand_note": "",
+   "statement": "Am Ende der Folge fasst Andreas mit der Frage „Was nehme ich mir mit?“ zusammen, was er gelernt hat.",
+   "question": "Mit welcher Frage leitet Andreas seine Zusammenfassung am Ende der Folge ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir heute gelernt?",
+    "Was bleibt am Ende übrig?",
+    "Was sagt die Wissenschaft?"
+   ],
+   "aha": "Nach dem Interview kommt bei Andreas immer seine kurze Bilanz. Diesmal mit dem Tipp: Sonnencreme, Bewegung, Gemüse und gute Freund:innen schlagen so manches neue Medikament.",
+   "quote_clean": "Was nehme ich mir mit? Frauen haben in Österreich eine Lebenserwartung von 84 Jahren.",
+   "quality": 1
+  }
+ ],
+ "id": "274",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

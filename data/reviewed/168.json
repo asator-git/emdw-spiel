@@ -1,0 +1,279 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Die Antwort 'viele können nicht selbst flüchten' ist nur erschlossen; belegt ist die Aussage Hochrisikobereich, daher Frage darauf umgestellt.",
+   "stand_note": "",
+   "statement": "Ein Krankenhaus ist laut dem Gast ein Hochrisikobereich: Selbst Alltägliches wie ein Feueralarm muss mit mehr Bedacht und Vorausschau geplant werden als anderswo.",
+   "question": "Als was bezeichnet der Gast ein Krankenhaus, in dem selbst Banales mit mehr Vorausschau geplant werden muss?",
+   "answer": "Als Hochrisikobereich",
+   "distractors": [
+    "Als Hochsicherheitstrakt",
+    "Als Sonderbauzone",
+    "Als Krisenbetrieb"
+   ],
+   "aha": "Im Wohnhaus laufen bei Feueralarm einfach alle das Stiegenhaus runter. Im Spital wird es dagegen sehr schnell kritisch. Deshalb ist ein Krankenhaus ein Hochrisikobereich, in dem selbst Banales mit mehr Vorausschau geplant werden muss.",
+   "quote_clean": "Wenn da Feueralarm ist, können wir davon ausgehen, dass alle über das Stiegenhaus runterlaufen. Vielleicht gibt es in der Nachbarwohnung jemanden im Rollstuhl, dann wird es ein bisschen kompliziert, aber dann ist es eine Wohnung. Im Krankenhaus können wir davon ausgehen: Wenn es dort einen Feueralarm gibt, wird es sehr schnell kritisch.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg eindeutig, Distraktoren klar falsch.",
+   "stand_note": "",
+   "statement": "Bei der Aufnahme ins Spital wird eine Vertrauensperson festgelegt, die am Telefon nur mit einem vereinbarten Codewort Auskunft über den Patienten bekommt.",
+   "question": "Wie stellt ein Spital sicher, dass am Telefon nur die richtige Person Auskunft über dich bekommt?",
+   "answer": "Mit einem vereinbarten Codewort",
+   "distractors": [
+    "Mit einem Rückruf an die Meldeadresse",
+    "Mit der Nummer auf der E-Card",
+    "Gar nicht, Auskunft gibt es nur persönlich"
+   ],
+   "aha": "Wegen des Datenschutzes darf das Spital nicht einfach jeder Anruferin erzählen, was dir fehlt. Darum wird bei der Aufnahme eine Vertrauensperson festgelegt und mit ihr ein Codewort ausgemacht. Ein bisschen wie beim Geheimklub, nur mit ernsterem Hintergrund.",
+   "quote_clean": "Das heißt, es wird vereinbart, diese Person darf Auskunft bekommen, und mit ihr wird ein Codewort vereinbart. Wenn sie anruft, muss sie das wissen, dann kriegt sie Auskunft.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Frage passt; im aha war 'bevor zugenäht wird' nicht belegt, entfernt.",
+   "stand_note": "",
+   "statement": "Bei Operationen wird jedes verwendete Material erfasst, Tupfer werden genau abgezählt – so soll verhindert werden, dass einer im Bauch vergessen wird.",
+   "question": "Warum werden heute kaum noch Tupfer im Bauch von Operierten vergessen?",
+   "answer": "Sie werden genau abgezählt",
+   "distractors": [
+    "Sie lösen sich im Körper auf",
+    "Sie werden nur noch außen verwendet",
+    "Sie sind magnetisch und werden gesucht"
+   ],
+   "aha": "Der vergessene Tupfer im Bauch ist ein Klassiker aus Arztserien. Im OP wird aber jede Naht und jedes Skalpell erfasst, und die Tupfer werden abgezählt. Nebenbei weiß das Lager so auch gleich, was nachbestellt werden muss.",
+   "quote_clean": "Jede kleinste Naht, jedes Skalpell, alles wird erfasst, was bei einer Operation verwendet wird. Man kennt das vielleicht von früher, diese Tupfer, die einmal im Bauch vergessen werden. Das kann eigentlich nicht mehr passieren, weil die genau abgezählt sind.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Europaweite Börse/Pool und standardisierte Kosten belegt; Auktion klar falsch.",
+   "stand_note": "",
+   "statement": "Spenderorgane werden über einen europaweiten Pool vermittelt, auf den die Spitäler zugreifen; dabei gibt es standardisierte Kosten statt Marktpreise.",
+   "question": "Wie kommen Spitäler in Österreich zu Spenderorganen für eine Transplantation?",
+   "answer": "Über einen europaweiten Organpool",
+   "distractors": [
+    "Nur über Spender aus dem eigenen Bundesland",
+    "Über eine Auktion mit Höchstgebot",
+    "Jedes Spital führt eine eigene Spenderliste"
+   ],
+   "aha": "Nicht jede Lunge passt zu jedem Menschen, deshalb braucht es einen großen Pool. Kommt irgendwo ein Organ dazu, wird geschaut, wer auf der Warteliste passt, und dann geht es per Sondertransport oder Hubschrauber los. Teurer wird ein Organ dabei übrigens nicht, auch wenn viele es brauchen: Die Kosten sind standardisiert.",
+   "quote_clean": "Aber es ist ja nicht jede Lunge für jeden geeignet. Da gibt es eine europaweite Börse, nicht nur für Lungen, sondern auch für andere Organe, und da können die Spitäler darauf zugreifen.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (Lager nicht übergroß, Rotes Kreuz mit Blaulicht).",
+   "stand_note": "",
+   "statement": "Spitäler halten nur kleine Blutvorräte, weil Blutkonserven nicht lange halten; wird bei einer OP mehr gebraucht, liefert das Rote Kreuz mit Blaulicht nach.",
+   "question": "Was passiert, wenn bei einer Operation viel mehr Blut gebraucht wird als das Spital lagernd hat?",
+   "answer": "Das Rote Kreuz liefert mit Blaulicht nach",
+   "distractors": [
+    "Angehörige werden vor Ort zum Spenden gebeten",
+    "Die Operation wird sofort abgebrochen",
+    "Das Spital nimmt Blut aus dem Notvorrat des Heeres"
+   ],
+   "aha": "Blut hält nicht ewig, und anders als beim Joghurt im Kühlschrank wäre es eine echte Vergeudung, wenn es abläuft. Deshalb sind die Lager in den Spitälern bewusst nicht übergroß. Wird es knapp, kommt das Rote Kreuz mit Blaulicht – was auch ein guter Grund ist, selbst Blut spenden zu gehen.",
+   "quote_clean": "Das heißt, diese Lager sind auch nicht übergroß, und dann kann es passieren, dass bei einer Operation viel mehr gebraucht wird als ursprünglich geplant, und dann kommt das Rote Kreuz mit Blaulicht und bringt neues.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg eindeutig; Aussage verständlich, Distraktoren plausibel.",
+   "stand_note": "",
+   "statement": "Internist:innen, die Krebs behandeln, verbringen viel Zeit am Computer, weil die personalisierte Medizin Befunde und das sich rasch ändernde Wissen abgleichen muss.",
+   "question": "Wo verbringt ein Internist, der Krebserkrankungen behandelt, laut dem Gast sehr viel Zeit?",
+   "answer": "Vor dem Computer",
+   "distractors": [
+    "Im Operationssaal",
+    "Im Labor am Mikroskop",
+    "Bei Visiten am Krankenbett"
+   ],
+   "aha": "Beim Chirurgen denken wir an den OP, beim Krebs-Internisten eher an gar nichts Konkretes. Der sitzt aber oft vorm Bildschirm: Befundwerte, Labor und das ständig wachsende Wissen werden abgeglichen, um die Therapie zu finden, die zu genau dieser Person passt. Ohne IT ginge das gar nicht mehr.",
+   "quote_clean": "Aber der Internist, der Krebserkrankungen behandelt – wo ist der, was meinst du? Der sitzt ganz viel vorm Computer, weil heutzutage die Medizin so extrem spezialisiert ist. Personalisierte Medizin nennt man das.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Wer-sagt-das-Frage ohne echten Wissensgewinn und politisch gefärbte Meinungsaussage über Österreichs Ausgaben; als Tatsache nicht belegt.",
+   "stand_note": "",
+   "statement": "Der Gast meint, Österreich stecke sehr viel Geld in Krankenhäuser und relativ wenig in Prävention – besser wäre, wenn Menschen gar kein Spital brauchten.",
+   "question": "Wer sagt im Podcast: „Noch besser wäre es, wenn die Menschen gar kein Krankenhaus brauchen“?",
+   "answer": "Ein stellvertretender Spitals-Verwaltungsdirektor",
+   "distractors": [
+    "Eine Präventionsforscherin",
+    "Ein Gesundheitsminister",
+    "Eine Hausärztin vom Land"
+   ],
+   "aha": "Bemerkenswert, wenn das ausgerechnet jemand sagt, der selbst ein Spital mitleitet. Gerhard Fuchs meint, unsere Krankenhäuser mögen zu den besten gehören, aber das eigentliche Ziel wäre, dass wir gesund bleiben. Und da gibt Österreich vergleichsweise wenig für Vorbeugung aus.",
+   "quote_clean": "Das Ziel sollte nicht sein, dass Krankenhäuser gut funktionieren und das Beste bieten, sondern noch besser wäre es, wenn die Menschen gar kein Krankenhaus brauchen. Und Österreich buttert sehr viel in Krankenhäuser und relativ wenig in Prävention.",
+   "quality": 2
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Frage belegt; im aha war die Überschreitung der Liegedauer im Ausschnitt nicht vollständig belegt, entfernt.",
+   "stand_note": "",
+   "statement": "Österreichs Spitäler werden über die leistungsorientierte Krankenhausfinanzierung bezahlt: Leistungen wie eine Geburt werden erfasst und mit Pauschalen abgerechnet.",
+   "question": "Wie rechnen österreichische Spitäler ihre Leistungen grundsätzlich ab?",
+   "answer": "Mit Pauschalen pro erfasster Leistung",
+   "distractors": [
+    "Mit jedem einzelnen Handgriff extra",
+    "Mit einem fixen Betrag pro Bett und Jahr",
+    "Direkt mit den Patient:innen an der Kassa"
+   ],
+   "aha": "Es wird nicht jeder einzelne Handgriff verrechnet, sondern zum Beispiel „Geburt“ – mit Unterschieden zwischen Spontangeburt, Kaiserschnitt oder Zwillingen. Und für jede Leistung gibt es auch eine normale Liegedauer.",
+   "quote_clean": "Das heißt in Österreich leistungsorientierte Krankenhausfinanzierung: Die Leistungen, die im Spital erbracht werden, werden erfasst und mit Pauschalsätzen abgerechnet.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "beleg"
+   ],
+   "note": "Zahl belegt, vom Gast als sehr pauschal eingeordnet; Stand 2021; im aha unbelegten Satz zu 'Monate später' entfernt, Wien/Österreich vereinheitlicht.",
+   "stand_note": "Stand 2021",
+   "statement": "Für eine normale Geburt bekommt ein Spital laut dem Gast pauschal etwa 3.000 bis 4.000 Euro (Stand 2021).",
+   "question": "Wie viel Euro bekommt ein österreichisches Spital laut dem Gast ungefähr für eine normale Geburt?",
+   "answer": "3.000 bis 4.000 Euro",
+   "distractors": [
+    "800 bis 1.200 Euro",
+    "8.000 bis 10.000 Euro",
+    "15.000 bis 20.000 Euro"
+   ],
+   "aha": "Andreas hat im Gespräch mit 1.000 Euro pro Baby geschätzt und lag damit deutlich drunter. Die 3.000 bis 4.000 Euro sind ein grober Pauschalsatz, zu dem noch eine normierte Liegedauer von etwa drei bis vier Tagen gehört. Die Zahl stammt von 2021.",
+   "quote_clean": "Das ist jetzt sehr pauschal, aber wir würden sagen, 3.000 bis 4.000 Euro zum Beispiel für eine normale Geburt.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "20.000 Geburten in Wien plausibel und im Ausschnitt eindeutig; Stand 2021.",
+   "stand_note": "Stand 2021",
+   "statement": "In Wien kommen pro Jahr rund 20.000 Babys zur Welt; gibt es mehr Geburten, wächst der Finanzierungstopf trotzdem nicht mit, also gibt es pro Geburt weniger Geld.",
+   "question": "Wie viele Geburten gibt es in Wien ungefähr pro Jahr?",
+   "answer": "Rund 20.000",
+   "distractors": [
+    "Rund 5.000",
+    "Rund 50.000",
+    "Rund 100.000"
+   ],
+   "aha": "Rund 20.000 Babys pro Jahr – und für sie gibt es einen fixen Topf an Geld. Kommen mehr Kinder zur Welt, wird der Topf nicht größer, sondern jede einzelne Geburt bringt weniger. Der Hausverstand sagt, so kann's nicht funktionieren, deshalb greift die Politik dann mit Subventionen ein.",
+   "quote_clean": "In Wien gibt es, wenn wir nur die Geburten nehmen, 20.000 Geburten, und dafür gibt es so und so viel Geld. Und wenn es mehr Geburten gibt, gibt es deswegen nicht mehr Geld in dem Topf.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Vergleich eindeutig belegt, Distraktoren klar falsch.",
+   "stand_note": "",
+   "statement": "Der Gast vergleicht die Sonderklasse im Spital mit Business Class im Flugzeug: Alle kommen ans gleiche Ziel, nur der Komfort unterscheidet sich.",
+   "question": "Womit vergleicht der Gast den Unterschied zwischen Sonderklasse und normaler Versicherung im Spital?",
+   "answer": "Mit Economy und Business Class im Flugzeug",
+   "distractors": [
+    "Mit Erster und Zweiter Klasse im Zug",
+    "Mit Stehplatz und Loge im Theater",
+    "Mit Kleinwagen und Limousine"
+   ],
+   "aha": "Ob Economy oder First Class – in New York landen alle. Der Unterschied ist der breitere Sitz und mehr Essensauswahl. Im Spital ist es laut Gerhard Fuchs genauso: gleiche medizinische Behandlung für alle, extra bezahlt werden Einzelzimmer, Menüauswahl und die freie Arztwahl.",
+   "quote_clean": "Im Spital, sage ich guten Gewissens, gibt es keine Zweiklassenmedizin. Ich würde es mit dem Flugzeug vergleichen: Ich kaufe ein Economy-Ticket und fliege von Wien nach New York, oder ein First- oder Business-Class-Ticket und komme auch von Wien nach New York.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aussage belegt; im aha war die Essens-Pointe im Ausschnitt nicht belegt, entfernt.",
+   "stand_note": "",
+   "statement": "Der Gast hält die freie Arztwahl der Sonderklasse – also sich etwa vom Primar operieren zu lassen – für einen überbewerteten Faktor.",
+   "question": "Was hält der Gast für einen „überbewerteten Faktor“ bei der Sonderklasse im Spital?",
+   "answer": "Die freie Arztwahl",
+   "distractors": [
+    "Das Einzelzimmer",
+    "Die größere Menüauswahl",
+    "Die längeren Besuchszeiten"
+   ],
+   "aha": "Sein Argument: Als Patient:in kann man kaum beurteilen, ob die Medizin State of the Art ist und wer am besten operiert. Wer das Beste für sich herausholen will, muss das also gar nicht unbedingt selbst entscheiden.",
+   "quote_clean": "Und das ist im medizinischen Bereich die sogenannte freie Arztwahl. Das heißt, ich kann sagen, ich möchte vom Oberarzt X oder vom Primar operiert werden und nicht von dem, der zufällig Morgendienst hat. Ich würde sagen, das ist ein überbewerteter Faktor.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Betrag vom Gast mit 'glaube ich' relativiert, aber im Ausschnitt eindeutig; Stand 2021, Betrag heute vermutlich höher.",
+   "stand_note": "Stand 2021",
+   "statement": "Für jeden Tag im Spital zahlen Patient:innen laut dem Gast rund 70 bis 80 Cent in einen Entschädigungsfonds, aus dem auch Schäden ohne nachweisbaren Fehler entschädigt werden.",
+   "question": "Wie viele Cent zahlst du pro Spitalstag ungefähr in den Patienten-Entschädigungsfonds ein?",
+   "answer": "Rund 70 bis 80 Cent",
+   "distractors": [
+    "Rund 5 Cent",
+    "Rund 2 Euro",
+    "Rund 5 Euro"
+   ],
+   "aha": "Nicht jede Komplikation ist ein Kunstfehler – manches ist schlicht Pech. Damit Betroffene trotzdem etwas bekommen, gibt es diesen Fonds, in den jede:r Patient:in ein paar Cent pro Tag einzahlt. Für echte Fehler ist dagegen die Haftpflichtversicherung des Spitals zuständig. Die Zahl stammt von 2021.",
+   "quote_clean": "Für jeden Tag im Krankenhaus zahlt man, glaube ich, 70 oder 80 Cent in einen Entschädigungsfonds ein. Da werden Entschädigungen ausbezahlt, wo es keinen Fehler gibt.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg eindeutig (Sekunde 178 bis 197), unproblematisch.",
+   "stand_note": "",
+   "statement": "Die Folge kam zustande, weil der Sohn des Gastes bei einem Hörer:innentreffen Krankenhäuser als Thema vorschlug und erwähnte, dass sein Vater in einem arbeitet.",
+   "question": "Wie ist der Kontakt zum Gast dieser Krankenhaus-Folge zustande gekommen?",
+   "answer": "Über seinen Sohn bei einem Hörer:innentreffen",
+   "distractors": [
+    "Über eine Pressestelle des Spitals",
+    "Andreas lag selbst in dem Spital",
+    "Über eine Empfehlung eines früheren Gastes"
+   ],
+   "aha": "Der Sohn schlug beim Hörer:innentreffen das Thema Krankenhaus vor und meinte nebenbei, zufällig arbeite sein Vater in einem. Und der hört den Podcast auch. Andreas mag es besonders, wenn Hörer und Experte ein und dieselbe Person sind.",
+   "quote_clean": "Und dein Sohn war vor kurzem bei einem Hörer:innentreffen, und da haben wir darüber geredet, welche Folgen noch spannend wären, und er meinte Krankenhäuser. Er hat gesagt: Ja, zufällig, mein Vater arbeitet in einem.",
+   "quality": 3
+  }
+ ],
+ "id": "168",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

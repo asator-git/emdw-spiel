@@ -1,0 +1,281 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Kernaussage wörtlich belegt, klar als Jilchs Antwort gerahmt.",
+   "stand_note": "",
+   "statement": "Bitcoin macht es erstmals möglich, verlässlich Werte im Internet zwischen zwei Personen ohne Mittelsmann zu übertragen.",
+   "question": "Was ist laut Nikolaus Jilch die eigentliche Neuerung von Bitcoin?",
+   "answer": "Werte online ohne Mittelsmann übertragen",
+   "distractors": [
+    "Anonym im Internet einkaufen können",
+    "Geld schneller drucken als Zentralbanken",
+    "Gold digital in Banken lagern"
+   ],
+   "aha": "Davor brauchtest du für jede Überweisung im Netz jemanden in der Mitte, dem beide vertrauen: eine Bank, PayPal, eine Kreditkartenfirma. Bei Bitcoin übernimmt das das Netzwerk selbst. Niko vergleicht es damit, jemandem ein Stück Gold in die Hand zu drücken.",
+   "quote_clean": "Die einfachste Antwort ist: Durch Bitcoin ist es zum ersten Mal möglich, verlässlich Werte im Internet zu übertragen, von dir zu mir, zwischen zwei Personen ohne einen Mittelsmann.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "2009 als Beginn belegt und korrekt (erster Block Jänner 2009).",
+   "stand_note": "",
+   "statement": "Die Bitcoin-Blockchain beginnt 2009; jede Transaktion seitdem lässt sich nachverfolgen.",
+   "question": "In welchem Jahr beginnt die Bitcoin-Blockchain, also die „Zeitrechnung“ von Bitcoin?",
+   "answer": "2009",
+   "distractors": [
+    "2003",
+    "2012",
+    "2015"
+   ],
+   "aha": "2009 wurde der erste Block erzeugt. Weil die Kette nicht mehr veränderbar ist, kannst du jede Transaktion seither zurückverfolgen. Anonym ist Bitcoin also nur halb.",
+   "quote_clean": "Das heißt, ich kann theoretisch jede Bitcoin-Transaktion bis zum Beginn der Zeit, was bei Bitcoin 2009 ist, nachverfolgen und sehen, wo das Geld herumgewandert ist.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beschreibung wörtlich belegt, vereinfachend aber korrekt.",
+   "stand_note": "",
+   "statement": "Bei der Blockchain werden Transaktionen gebündelt, vom Netzwerk geprüft und an eine unveränderbare Kette gehängt.",
+   "question": "Was passiert bei einer Blockchain mit den Transaktionen?",
+   "answer": "Gebündelt, geprüft, unveränderbar angehängt",
+   "distractors": [
+    "Bei einer Zentralbank gespeichert",
+    "Nach zehn Jahren automatisch gelöscht",
+    "Einzeln an jeden Nutzer gemailt"
+   ],
+   "aha": "Daher der Name: Blöcke voller Transaktionen, die aneinandergekettet werden. Niko nennt das ein globales Kassabuch. Wie genau das technisch geht, muss man laut ihm gar nicht verstehen, beim Euro weißt du das ja auch nicht.",
+   "quote_clean": "Transaktionen werden gebündelt, vom Netzwerk verifiziert und dann in eine Kette gehängt, die in der Folge nicht mehr veränderbar ist.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Jilch sagt acht Seiten, das Bitcoin-White-Paper hat aber 9 Seiten; Antwort wäre faktisch falsch.",
+   "stand_note": "",
+   "statement": "Bitcoin wurde ursprünglich in einem White Paper beschrieben.",
+   "question": "Wie viele Seiten hatte das White Paper, in dem Bitcoin zum ersten Mal beschrieben wurde?",
+   "answer": "8 Seiten",
+   "distractors": [
+    "3 Seiten",
+    "40 Seiten",
+    "120 Seiten"
+   ],
+   "aha": "",
+   "quote_clean": "Ultimativ ist der Bitcoin eine Idee, entstanden eigentlich auf dem Papier auf acht Seiten, einem sogenannten White Paper.",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Belegt; Aussage bezieht sich auf 2018 (China, Island), Frage entsprechend gerahmt.",
+   "stand_note": "Stand 2018",
+   "statement": "Laut Nikolaus Jilch konnte man Bitcoin anfangs am Laptop minen, 2018 machten das fast nur noch große Firmen dort, wo Strom billig ist.",
+   "question": "Wo wurde Bitcoin 2018 laut Nikolaus Jilch vor allem gemined?",
+   "answer": "Wo Strom billig ist",
+   "distractors": [
+    "In Rechenzentren der Zentralbanken",
+    "Auf privaten Laptops",
+    "Bei großen Geschäftsbanken"
+   ],
+   "aha": "Miner prüfen die Transaktionen mit Rechenleistung und werden dafür mit neuen Bitcoin belohnt. Weil das enorm viel Strom braucht, lohnt es sich nur, wo Energie günstig ist. Damals nannte Niko Nordeuropa, Island und vor allem China.",
+   "quote_clean": "Ursprünglich konntest du Bitcoin mit deinem Laptop minen. Heute sind das im Grunde nur noch große Konzerne, die das hauptsächlich an Orten machen, wo die Elektrizität billig ist.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "51 Prozent belegt, aber von Jilch lose formuliert („einer Meinung“); als Mehrheit präzisiert.",
+   "stand_note": "",
+   "statement": "Laut Nikolaus Jilch ist im Bitcoin-Netzwerk alles in Ordnung, solange 51 Prozent des Netzwerks einer Meinung sind, also die Mehrheit.",
+   "question": "Wie viel Prozent des Netzwerks müssen laut Jilch „einer Meinung“ sein, damit bei Bitcoin alles in Ordnung ist?",
+   "answer": "51 Prozent",
+   "distractors": [
+    "33 Prozent",
+    "75 Prozent",
+    "90 Prozent"
+   ],
+   "aha": "Es geht um die Mehrheit der Rechenleistung: Wer das Netz manipulieren will, müsste mehr als die Hälfte davon kontrollieren. Deshalb wird es sicherer, je mehr Leute mitrechnen.",
+   "quote_clean": "Weil die Idee dahinter ist, dass alles in Ordnung ist, solange 51 Prozent des Gesamtnetzwerkes sozusagen einer Meinung sind.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zehn-Minuten-Takt im Transkript belegt und stimmt mit der Blockzeit überein.",
+   "stand_note": "",
+   "statement": "Im Bitcoin-Netzwerk wird etwa alle zehn Minuten ein neuer gemeinsamer Stand hergestellt.",
+   "question": "Wie oft stellt das Bitcoin-Netzwerk ungefähr einen neuen gemeinsamen Stand her?",
+   "answer": "Alle 10 Minuten",
+   "distractors": [
+    "Jede Sekunde",
+    "Einmal pro Stunde",
+    "Einmal am Tag"
+   ],
+   "aha": "Alle zehn Minuten kommt ungefähr ein neuer Block dazu. Manipulationsversuche, die nicht von der Mehrheit getragen werden, fliegen dabei raus. Darum dauert eine Bitcoin-Zahlung länger als ein Bezahlen mit der Bankomatkarte.",
+   "quote_clean": "Das heißt, da können dann auch Leute versuchen, Manipulationen reinzubringen, aber sobald wieder ein neuer Status hergestellt ist, alle zehn Minuten, sind diese Manipulationen weg.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitat-Zuordnung zum Studiogast ist trivial.",
+   "stand_note": "",
+   "statement": "Nikolaus Jilch sieht die Essenz von Bitcoin darin, die eigene Bank in der Tasche zu tragen.",
+   "question": "Wer sagt: „Die Essenz des Ganzen ist, dass ich meine Bank in meiner Tasche mit mir herumtrage“?",
+   "answer": "Nikolaus Jilch",
+   "distractors": [
+    "Andreas Sator",
+    "Christine Lagarde",
+    "Elon Musk"
+   ],
+   "aha": "",
+   "quote_clean": "Die Essenz des Ganzen ist, dass ich in der Lage bin, mein Konto, meine Bank in meiner Tasche mit mir herumzutragen, auf meinem Handy, auf meinem Laptop.",
+   "quality": 2
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Belegt als Jilchs Einschätzung („ersten ernstzunehmenden Beispiele“); Statement war überzogen, aha enthielt unbelegte Zahl („pro Woche die Hälfte“).",
+   "stand_note": "Stand 2018",
+   "statement": "Laut Nikolaus Jilch finden sich die ersten ernstzunehmenden Beispiele für Bitcoin in Ländern wie Simbabwe oder Venezuela, wo die Landeswährung kaum etwas wert ist.",
+   "question": "In welchen Ländern sieht Nikolaus Jilch 2018 die ersten ernsthaften Anwendungen für Bitcoin?",
+   "answer": "Länder mit wertloser Landeswährung",
+   "distractors": [
+    "Länder mit sehr hohen Steuern",
+    "Länder mit vielen Banken",
+    "Länder mit billigem Internet"
+   ],
+   "aha": "Bei uns ist der Euro halbwegs stabil, da fragt man sich schon, wozu es Bitcoin braucht. Wenn die eigene Währung aber stark an Wert verliert, wie in Simbabwe oder Venezuela, wird auch ein schwankender Bitcoin interessant.",
+   "quote_clean": "Ich glaube, die ersten ernstzunehmenden Beispiele dafür kann man beobachten, beispielsweise in Afrika, in Simbabwe, zum Teil auch in Venezuela, in Ländern, in denen die Währung des Staates im Grunde nichts wert ist.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Halb-halb-Variante Zypern belegt; Zuordnung (Griechenland gerettet, Island fallen gelassen) ist Jilchs Kurzfassung, die Frage dreht sich nur um Zypern.",
+   "stand_note": "",
+   "statement": "In der Finanzkrise wurde Griechenland laut Jilch gerettet, Island fallen gelassen und Zypern bekam eine Halb-halb-Lösung, bei der Bankguthaben teilweise angetastet wurden.",
+   "question": "Welches Land bekam in der Finanzkrise laut Nikolaus Jilch die „Halb-halb-Variante“?",
+   "answer": "Zypern",
+   "distractors": [
+    "Griechenland",
+    "Island",
+    "Irland"
+   ],
+   "aha": "In Zypern sollten Leute mit großen Guthaben einen Teil ihres Kontos abgeben, getroffen hat das vor allem Geld aus Russland. Bitcoin hat von dieser Krise laut Niko stark profitiert, weil plötzlich klar war: Auch das Geld auf der Bank ist nicht unantastbar.",
+   "quote_clean": "Genau, es war eine von drei verschiedenen Varianten, mit dieser Finanzkrise umzugehen. Es gab Griechenland, das hat man vollinhaltlich gerettet. Dann gab es Island, das hat man voll fallen lassen. Und dann gab es Zypern, das war die Halb-halb-Variante.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Gold fiel zu Beginn der Krise 2008 tatsächlich; Transkript belegt.",
+   "stand_note": "",
+   "statement": "Zu Beginn einer klassischen Finanzkrise fallen fast alle Anlagen gleichzeitig, sogar Gold, so war es 2008.",
+   "question": "Was passierte mit dem Goldpreis zu Beginn der Finanzkrise 2008?",
+   "answer": "Er fiel zunächst auch",
+   "distractors": [
+    "Er verdoppelte sich sofort",
+    "Er blieb völlig stabil",
+    "Er wurde vom Staat eingefroren"
+   ],
+   "aha": "In der ersten Panik verkaufen alle alles, die Finanzleute sagen dazu: Korrelation von 1. Darum ist auch Bitcoin in einer klassischen Krise nicht automatisch der Rettungsanker.",
+   "quote_clean": "In der klassischen Finanzkrise würde erst einmal alles fallen, auch Bitcoin. Das hat man auch beim Vergleich mit Gold in der Finanzkrise 2008 gesehen: Auch Gold ist erst einmal gefallen.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zur Privatsphäre des Gasts ohne Erkenntnis; aha enthält unbelegte Aussage („Erster Fehler“).",
+   "stand_note": "",
+   "statement": "Auf die Frage, ob er selbst Bitcoins besitzt, wollte Nikolaus Jilch sich nicht äußern.",
+   "question": "Was antwortet Niko auf Andreas' Frage, ob er selbst noch Bitcoins hat?",
+   "answer": "Dazu möchte er sich nicht äußern",
+   "distractors": [
+    "Ja, ganz viele",
+    "Nein, nie wieder",
+    "Nur einen halben"
+   ],
+   "aha": "",
+   "quote_clean": "Hast du noch selbst Bitcoins? – Dazu möchte ich mich nicht äußern.",
+   "quality": 1
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "spielbarkeit"
+   ],
+   "note": "Ethereum-Einschätzung von 2018 ist heute irreführend (DeFi, NFTs, Stablecoins); Zitat-Zuordnung zudem trivial.",
+   "stand_note": "",
+   "statement": "Nikolaus Jilch sah 2018 keine echte Anwendung für Ethereum außerhalb des Handels.",
+   "question": "Wer sagt über Ethereum: „Ich sehe noch keinerlei Real-World-Anwendung dafür“?",
+   "answer": "Nikolaus Jilch",
+   "distractors": [
+    "Andreas Sator",
+    "Vitalik Buterin",
+    "Warren Buffett"
+   ],
+   "aha": "",
+   "quote_clean": "Und Ethereum zum Beispiel, ganz ehrlich, alle sind begeistert von Ethereum. Ich sehe noch keinerlei Real-World-Anwendung dafür. Es gibt sie einfach nicht.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Moderationseinstieg, kein Faktenwissen.",
+   "stand_note": "",
+   "statement": "Andreas leitet die Bitcoin-Folge mit dem Vergleich ein, das Thema verstünden die meisten so gut wie den Nahost-Konflikt.",
+   "question": "Womit vergleicht Andreas zu Beginn, wie gut die meisten Bitcoin verstehen?",
+   "answer": "Mit dem Nahost-Konflikt",
+   "distractors": [
+    "Mit der Quantenphysik",
+    "Mit der Steuererklärung",
+    "Mit dem Brexit"
+   ],
+   "aha": "",
+   "quote_clean": "Heute reden wir über ein Thema, das die meisten so gut verstehen wie den Nahost-Konflikt, nämlich gar nicht.",
+   "quality": 1
+  }
+ ],
+ "id": "19",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

@@ -1,0 +1,277 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1114 s (200 Leute, danach 2000), von Dobusch als Beschreibung der TikTok-Logik gegeben; TikTok veröffentlicht diese Zahl nicht offiziell, daher 'laut Dobusch' und Stand-Hinweis.",
+   "stand_note": "Stand 2026",
+   "statement": "TikTok spielt laut Leonhard Dobusch jedes neue Video zunächst etwa 200 Leuten aus und entscheidet anhand ihrer Reaktionen, ob es weiterverbreitet wird.",
+   "question": "Wie vielen Leuten spielt TikTok ein neues Video laut Leonhard Dobusch zuerst als Test aus?",
+   "answer": "Etwa 200",
+   "distractors": [
+    "Etwa 20",
+    "Etwa 5.000",
+    "Etwa 50.000"
+   ],
+   "aha": "TikTok geht das fast sozialwissenschaftlich an, mit mehreren Stufen von Beta-Tests. Kommt das Video bei den ersten 200 gut an, geht es an 2.000 und so weiter, egal ob der Creator schon Follower hat.",
+   "quote_clean": "Wir schicken jedes Video, egal wie unbekannt der Creator ist und ob er schon Follower hat oder nicht, einmal an 200 Leute in den Feed.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 712 s; Transkript verschluckt 'Really' (Real Simple), Auflösung ist die gängige.",
+   "stand_note": "",
+   "statement": "RSS steht für Really Simple Syndication und ist ein offenes Protokoll, das niemandem gehört.",
+   "question": "Wofür steht die Abkürzung RSS, mit der man Blogs und Podcasts abonniert?",
+   "answer": "Really Simple Syndication",
+   "distractors": [
+    "Remote Server Service",
+    "Rapid Site Sharing",
+    "Real-time Stream System"
+   ],
+   "aha": "RSS ist ein Standard, auf den sich Webseitenbetreiber geeinigt haben, und gehört niemandem. Damit kannst du eine Website abonnieren wie einen Newsletter, und dein Feed-Reader schaut für dich nach, ob es was Neues gibt.",
+   "quote_clean": "RSS steht für Really Simple Syndication, also frei übersetzt ganz einfache Syndizierung. Und es ist ein offenes Protokoll.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1476 s; 'jede beliebige App' überzieht (Plattform-Exklusives gibt es), daher abgeschwächt; inhaltlich nah an Kandidat 1.",
+   "stand_note": "",
+   "statement": "Podcasts funktionieren technisch wie Blogs: Man kann sie über einen offenen RSS-Feed abonnieren.",
+   "question": "Welche offene Technik steckt dahinter, dass du einen Podcast auch außerhalb von Spotify in einer Podcast-App abonnieren kannst?",
+   "answer": "Ein RSS-Feed",
+   "distractors": [
+    "Eine Spotify-Lizenz",
+    "Ein Apple-Patent",
+    "Ein YouTube-Kanal"
+   ],
+   "aha": "Für Leonhard ist ein Podcast nichts anderes als ein Blog im Audio-Format. Du kannst ihn auf Spotify hören, aber genauso gut über den RSS-Feed in einer anderen App abonnieren, ganz ohne Plattform dazwischen.",
+   "quote_clean": "Weil auch Podcasts mit Really Simple Syndication, mit RSS, abonnierbar sind, wie ein Blog.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Beleg bei 557 s (von Dobusch mit 'wahrscheinlich' abgeschwächt); Aha enthielt Behauptungen, die nicht im Ausschnitt stehen, und wurde auf Gesagtes (Buchdruck, Radio) umgestellt.",
+   "stand_note": "",
+   "statement": "Laut Leonhard Dobusch hat der Buchdruck mit beweglichen Lettern wahrscheinlich wesentlich dazu beigetragen, dass es zur Kirchenspaltung und zum Dreißigjährigen Krieg kam.",
+   "question": "Welche historische Umwälzung hat der Buchdruck mit beweglichen Lettern laut Leonhard Dobusch wahrscheinlich wesentlich mit ausgelöst?",
+   "answer": "Die Kirchenspaltung",
+   "distractors": [
+    "Die Französische Revolution",
+    "Den Fall Konstantinopels",
+    "Die Industrielle Revolution"
+   ],
+   "aha": "Für Leonhard haben neue Kommunikationstechnologien immer politische Umwälzungen nach sich gezogen. Der Buchdruck brachte laut ihm die Kirchenspaltung und den Dreißigjährigen Krieg, und auch das Radio ermöglichte Massendemokratie genauso wie Propaganda. Er hofft, dass wir mit dem Internet nicht in dieselben Fußstapfen treten.",
+   "quote_clean": "Das klassische Beispiel ist der Buchdruck mit beweglichen Lettern, der wahrscheinlich wesentlich dazu beigetragen hat, dass es zur Kirchenspaltung kam, zum Dreißigjährigen Krieg, der Europa entvölkert hat.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 486-541 s (many to many, erstes Masse-zu-Masse-Medium); zwei Distraktoren waren albern und wurden ersetzt.",
+   "stand_note": "",
+   "statement": "Das Internet ist das erste Kommunikationsmittel der Geschichte, bei dem viele mit vielen gleichzeitig kommunizieren können (many to many).",
+   "question": "Was unterscheidet das Internet laut Leonhard Dobusch grundsätzlich von Zeitung, Radio und Fernsehen?",
+   "answer": "Viele können mit vielen kommunizieren",
+   "distractors": [
+    "Es erreicht nur ein junges Publikum",
+    "Es eignet sich nur für Text",
+    "Es kennt keinerlei Sender"
+   ],
+   "aha": "Klassische Massenmedien funktionieren one to many: Ein Medium sendet, ganz viele empfangen. Das Internet ist many to many, und weil dafür laut Leonhard noch Regeln, Institutionen und Infrastrukturen fehlen, ruckelt es gerade ordentlich.",
+   "quote_clean": "Das ist aber gar nicht verwunderlich, weil dieses Internet das erste Masse-zu-Masse-Kommunikationsmittel der Geschichte der Menschheit ist.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1781 s (begrenztes Frequenzspektrum als technischer Grund, daneben das duale System).",
+   "stand_note": "",
+   "statement": "Der öffentlich-rechtliche Rundfunk hat auch technische Gründe: Weil das Frequenzspektrum begrenzt ist, kann es nicht unendlich viele Radio- und Fernsehsender geben.",
+   "question": "Welcher technische Grund sprach dafür, Radio und Fernsehen nicht einfach dem freien Markt zu überlassen?",
+   "answer": "Das Frequenzspektrum ist begrenzt",
+   "distractors": [
+    "Sendemasten waren zu teuer",
+    "Radios waren anfangs Staatseigentum",
+    "Funkwellen störten den Flugverkehr"
+   ],
+   "aha": "Zeitungen kann praktisch jeder drucken, Frequenzen gibt es aber nur begrenzt. Deshalb hat man ein duales System gebaut: private Medien plus ein Angebot, das primär einem demokratischen Auftrag verpflichtet ist.",
+   "quote_clean": "Das hat auch technische Gründe, weil es Begrenzungen im Frequenzspektrum gibt. Man kann nicht unendlich viele Radiosender starten und durch die Gegend funken lassen.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Die Zahl ist eine Erinnerung ('im Hinterkopf') ohne Quelle, Land und Messmethode bleiben offen; als harte Zahl nicht belastbar.",
+   "stand_note": "",
+   "statement": "Von den 15- bis 25-Jährigen schaut zur Primetime weniger als jede:r Zehnte noch fern.",
+   "question": "Wie viel Prozent der 15- bis 25-Jährigen schauen zur Primetime noch fern?",
+   "answer": "Weniger als 10 Prozent",
+   "distractors": [
+    "Rund 25 Prozent",
+    "Rund 40 Prozent",
+    "Rund 60 Prozent"
+   ],
+   "aha": "Nicht nur nicht ORF, die schauen einfach überhaupt nicht mehr fern.",
+   "quote_clean": "Unter den 15- bis 25-Jährigen schauen zur Primetime, also wenn die allermeisten Leute vor dem Fernseher sitzen, keine 10 Prozent mehr fern.",
+   "quality": 1
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2950 s; Begriff Netzwerkeffekt korrekt, Aha stützt sich auf das WhatsApp/Signal-Beispiel aus dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Netzwerkeffekte bedeuten, dass eine Plattform für jede:n Einzelne:n umso wertvoller wird, je mehr Menschen sie nutzen, was zur Monopolbildung beiträgt.",
+   "question": "Wie heißt der Effekt, durch den eine Plattform umso wertvoller wird, je mehr Leute sie nutzen?",
+   "answer": "Netzwerkeffekt",
+   "distractors": [
+    "Skaleneffekt",
+    "Mitnahmeeffekt",
+    "Rebound-Effekt"
+   ],
+   "aha": "Was eine Plattform wertvoll macht, ist nicht der Like-Button, sondern die Leute darauf. Deshalb kommen viele nicht von WhatsApp weg, obwohl sie Signal für besser halten: Der Klassenchat ist halt dort.",
+   "quote_clean": "Für den einzelnen Nutzer, die einzelne Nutzerin ist die Plattform wertvoller, nutzbarer, spannender, interessanter, je mehr Leute dort sind.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 4638 s; von Dobusch ausdrücklich als grobe Faustregel gegeben ('grob'), Aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Im Internet konsumieren laut Leonhard Dobusch grob 90 Prozent der Leute nur, während etwa 1 Prozent die Inhalte erstellt.",
+   "question": "Wie viel Prozent der Leute im Internet erstellen laut Leonhard Dobusch grob die Inhalte?",
+   "answer": "Etwa 1 Prozent",
+   "distractors": [
+    "Etwa 10 Prozent",
+    "Etwa 25 Prozent",
+    "Etwa 50 Prozent"
+   ],
+   "aha": "Die allermeisten schauen nur zu. Für Leonhard ist das keine schlechte Nachricht: Damit das Fediverse funktioniert, braucht es keine Massenbewegung, sondern nur eine klitzekleine Minderheit, die mitbaut.",
+   "quote_clean": "90 Prozent konsumieren nur, 1 Prozent der Leute macht grob die Inhalte. Aber es reicht, wenn 1 Prozent mitbaut.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage ohne Rätselwert, Distraktoren (Doctorow, Blaha) stehen nicht im Kontext.",
+   "stand_note": "",
+   "statement": "Leonhard Dobusch sieht den großen Nachteil kommerzieller Social-Media-Plattformen darin, dass die Lautesten am meisten gehört werden.",
+   "question": "Wer sagt in Erklär mir die Welt: „Die, die am lautesten schreien, werden am meisten gehört“?",
+   "answer": "Leonhard Dobusch",
+   "distractors": [
+    "Cory Doctorow",
+    "Andreas Sator",
+    "Barbara Blaha"
+   ],
+   "aha": "Die Algorithmen sind auf Engagement optimiert. Wer Wut erzeugt, bekommt Kommentare, und genau das belohnt der Algorithmus.",
+   "quote_clean": "Der große Nachteil auf den kommerziellen Social-Plattformen ist: Die, die am lautesten schreien, werden am meisten gehört.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2339-2370 s; Antwort ist Dobuschs ausdrückliche Position, 'für Dobusch' in der Frage verankert. Aha nah am Gesagten.",
+   "stand_note": "",
+   "statement": "Für Leonhard Dobusch wäre ein europäisches TikTok keine Lösung, weil das Problem strukturell die Käuflichkeit zentraler Plattformen ist.",
+   "question": "Warum ist ein europäisches TikTok für Leonhard Dobusch keine Lösung?",
+   "answer": "Das Problem ist die Käuflichkeit der Plattformen selbst",
+   "distractors": [
+    "Europa hat zu wenig Programmierer",
+    "TikTok ist technisch nicht kopierbar",
+    "Die EU verbietet eigene Plattformen"
+   ],
+   "aha": "Ein europäisches TikTok wäre dasselbe, nur halt in Rot, Grün oder Blau. Machtkonzentration in diesem Ausmaß ist laut Leonhard ungesund, egal in wessen Händen.",
+   "quote_clean": "Ich will mich auch nicht darauf verlassen müssen, dass der europäische Milliardär netter ist als der amerikanische.",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2110-2125 s; als sein eigenes Posting klar gerahmt, Aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Leonhard Dobuschs meistgeteiltes Mastodon-Posting lautete, Musks Twitter-Übernahme sei das Beste, was der Idee dezentraler sozialer Netzwerke seit der Erfindung von TCP/IP passiert ist.",
+   "question": "Mit welcher Erfindung verglich Leonhard Dobusch in seinem meistgeteilten Mastodon-Posting die Wirkung von Musks Twitter-Übernahme für dezentrale Netzwerke?",
+   "answer": "Mit der Erfindung von TCP/IP",
+   "distractors": [
+    "Mit der Erfindung des Buchdrucks",
+    "Mit dem Start von Wikipedia",
+    "Mit dem ersten iPhone"
+   ],
+   "aha": "TCP/IP ist das Internetprotokoll, das an Unis entwickelt wurde und niemandem gehört. Musk hat laut Leonhard vorgezeigt, wie problematisch es ist, wenn der reichste Mensch den öffentlichen Platz einfach übernimmt.",
+   "quote_clean": "Musks Übernahme von Twitter ist das Beste, was der Idee dezentraler sozialer Netzwerke passiert ist, seit der Erfindung von TCP/IP.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 310-329 s; harmlose Selbstironie, Aha auf das Gesagte zurechtgestutzt.",
+   "stand_note": "",
+   "statement": "Obwohl Leonhard Dobusch zehn Jahre in Deutschland lebte und dort unterrichtete, bemängelten Studierende in Feedbackbögen seinen Dialekt.",
+   "question": "Was stand nach zehn Jahren in Deutschland immer noch in Leonhard Dobuschs Feedbackbögen?",
+   "answer": "Sein Dialekt sei schwer verständlich",
+   "distractors": [
+    "Er rede viel zu schnell",
+    "Seine Folien seien zu voll",
+    "Er überziehe ständig die Zeit"
+   ],
+   "aha": "Leonhard fand das gemein, weil er seiner Meinung nach sehr verständlich gesprochen hat. Wenn er an seine zehn Jahre in Deutschland denkt, wechselt er bis heute sofort ins Hochdeutsche, ein kleines Trauma, vermutet er selbst.",
+   "quote_clean": "Ich habe immer noch Feedbackbögen von Studierenden bekommen: Herr Dobusch ist wegen seines Dialekts nicht gut zu verstehen.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Show-Ritual ohne Wissenswert; 'neue Frage' veraltet schnell, und die im Aha genannte Antwort (Blogs) steht nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Andreas Sator probiert in dieser Folge eine neue Frage aus: Welche Frage, die er nicht gestellt hat, würde der Gast gerne beantworten?",
+   "question": "Welche neue Frage stellt Andreas gegen Ende des Gesprächs mit Leonhard Dobusch?",
+   "answer": "Welche ungestellte Frage du beantworten willst",
+   "distractors": [
+    "Was du deinem jüngeren Ich rätst",
+    "Worüber du deine Meinung geändert hast",
+    "Was dich nachts wach hält"
+   ],
+   "aha": "Leonhard war erst der zweite Gast, der diese Höllenfrage bekam, und sie hat ihn fast überfordert.",
+   "quote_clean": "Unabhängig vom Thema oder zum Thema: Was ist eine Frage, die ich dir nicht gestellt habe, die du gerne beantworten möchtest?",
+   "quality": 1
+  }
+ ],
+ "id": "401",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

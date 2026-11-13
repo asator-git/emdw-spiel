@@ -1,0 +1,288 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Anna sagt nur, TikTok schlage Videos „erstmal lokal vor“; die Stufen-Logik im Statement und Aha steht nicht im Ausschnitt, und der Distraktor „dieselbe Sprache“ ist nicht eindeutig falsch. Plattform-Mechanik ist zudem 2026 überholbar.",
+   "stand_note": "",
+   "statement": "TikTok zeigt neue Videos zuerst Nutzer:innen in der Nähe und weitet die Reichweite erst aus, wenn sie dort gut ankommen.",
+   "question": "Wem zeigt TikTok ein neues Video zuerst?",
+   "answer": "Leuten in der Region",
+   "distractors": [
+    "Leuten, die dieselbe Sprache sprechen",
+    "Zufälligen Leuten weltweit",
+    "Nur den eigenen Followern"
+   ],
+   "aha": "",
+   "quote_clean": "TikTok schlägt deine Videos erstmal lokal vor. Das heißt, auch meine englischen Videos sind großteils in der Region rund um Tirol viral gegangen.",
+   "quality": 2
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Zusammenhang Schnelligkeit und Watchtime bei 814-844 s belegt, aber als Annas eigener Stil und Erfahrung; Frage und Aha entsprechend eingegrenzt.",
+   "stand_note": "Stand 2023",
+   "statement": "Anna Strigl schneidet ihre Videos bewusst so schnell, dass man sie mehrmals anschaut, weil das die Watchtime erhöht.",
+   "question": "Warum sind Annas TikTok-Videos laut ihr so extrem schnell geschnitten?",
+   "answer": "Mehrfaches Anschauen erhöht die Watchtime",
+   "distractors": [
+    "Schnelle Videos sind billiger zu produzieren",
+    "TikTok verlangt maximal fünf Schnitte",
+    "Langsame Videos werden automatisch gelöscht"
+   ],
+   "aha": "Watchtime ist laut Anna die harte Währung. Wenn alle 0,6 Sekunden etwas passiert, übersieht man beim ersten Mal etwas, schaut nochmal, und schon wurde das Video länger als 100 Prozent angeschaut. Andreas musste ihre Videos sogar siebenmal ansehen.",
+   "quote_clean": "Der Algorithmus bewertet danach, wie hoch die Watchtime ist, und die wird dadurch generiert, dass Leute das Video vielleicht länger schauen als die volle Länge.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext",
+    "veraltet"
+   ],
+   "note": "„Über 50 % wäre sicher gut“ ist eine vage Daumenregel zu einer unklaren Kennzahl (durchschnittliche Wiedergabezeit); Distraktor 80 % ist nicht eindeutig falsch, das Aha deutet die Kennzahl falsch.",
+   "stand_note": "",
+   "statement": "Ein TikTok-Video gilt als gut, wenn die Leute im Schnitt mehr als 50 Prozent der Länge anschauen.",
+   "question": "Ab wie viel Prozent durchschnittlicher Wiedergabezeit gilt ein TikTok-Video laut Anna als gut?",
+   "answer": "50 Prozent",
+   "distractors": [
+    "20 Prozent",
+    "80 Prozent",
+    "95 Prozent"
+   ],
+   "aha": "",
+   "quote_clean": "Über 50 Prozent Wiedergabezeit wäre sicher gut, das sieht man an so einem schönen Graphen. Also über 50 Prozent ist gut.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "beleg"
+   ],
+   "note": "Plattform-Feature (Vorspulen ab 30 s) von 2023, heute vermutlich anders; Anna formuliert es zudem nur beiläufig („meistens nicht über 30“). Fehler wäre vertrauensschädigend.",
+   "stand_note": "",
+   "statement": "Bei TikTok kann man ab 30 Sekunden Videolänge vorspulen, deshalb halten viele Creator ihre Videos kürzer.",
+   "question": "Ab wie vielen Sekunden Videolänge kann man bei TikTok vorspulen?",
+   "answer": "30 Sekunden",
+   "distractors": [
+    "10 Sekunden",
+    "60 Sekunden",
+    "90 Sekunden"
+   ],
+   "aha": "",
+   "quote_clean": "Meistens liegt es nicht über 30 Sekunden, weil man ab 30 Sekunden bei TikTok vorspulen kann, und das ist natürlich weniger gut für die Watchtime.",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Bei 1070-1078 s belegt; als Annas Erfahrung gerahmt statt als allgemeine Regel.",
+   "stand_note": "Stand 2023",
+   "statement": "Laut Anna Strigl enden TikTok-Videos oft abrupt, weil die Leute dann das Ende nicht kommen sehen und nicht vorher wegwischen.",
+   "question": "Warum lässt Anna ihre TikTok-Videos oft abrupt enden?",
+   "answer": "Damit niemand vorher wegwischt",
+   "distractors": [
+    "Weil TikTok das Ende automatisch abschneidet",
+    "Damit die Musik besser passt",
+    "Weil Abspanne verboten sind"
+   ],
+   "aha": "Neben der Watchtime zählt die Drop-out-Rate. Wer das Ende kommen sieht, wischt vorher weg, also lässt man lieber ein bisschen was offen und hört einfach auf.",
+   "quote_clean": "Wenn das Ende abrupt kommt, ist es sehr unwahrscheinlich, dass Leute das Ende vorhersehen und vorher wegwischen.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Trick (Intro = Ende, Video beginnt von vorne, pusht Watchtime) bei 1087-1099 s belegt.",
+   "stand_note": "",
+   "statement": "Ein beliebter TikTok-Trick: Das Intro ist zugleich das Ende des Videos, sodass es nahtlos von vorne beginnt.",
+   "question": "Mit welchem Trick bringen Creator Leute dazu, ein Video in einer Schleife zu schauen?",
+   "answer": "Intro ist zugleich das Ende",
+   "distractors": [
+    "Ein Countdown am Anfang",
+    "Eine Frage im Videotitel",
+    "Ein Gewinnspiel in den Kommentaren"
+   ],
+   "aha": "Wenn das Ende nahtlos ins Intro übergeht, merkst du kaum, dass das Video von vorne beginnt. Das pusht die Watchtime krass, weil du es einfach noch einmal schaust.",
+   "quote_clean": "Was viele Creator machen, und das habe ich auch schon öfter gemacht: Das Intro vom Video ist gleichzeitig das Ende vom Video.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Bei 1797 s belegt, in der Frage zeitlich auf Anfang 2023 verankert; Monetarisierung hat sich seither vermutlich geändert, daher Stand-Hinweis. Inhaltlich eher schwache Frage.",
+   "stand_note": "Stand Februar 2023",
+   "statement": "Anfang 2023 bekamen Creator in Österreich von TikTok kein Geld für Aufrufe, anders als in Deutschland oder auf YouTube.",
+   "question": "Wie viel zahlte TikTok Anfang 2023 österreichischen Creatorn für Aufrufe?",
+   "answer": "Gar nichts",
+   "distractors": [
+    "Einen Cent pro Aufruf",
+    "Zehn Euro pro 1000 Aufrufe",
+    "Einen Fixbetrag pro Monat"
+   ],
+   "aha": "In Deutschland gab es damals schon Geld für Klicks, in Österreich nicht. Deshalb hat Anna auch kurze Videos auf YouTube hochgeladen, dort zahlt die Plattform für Aufrufe.",
+   "quote_clean": "Weil man auf YouTube auch Geld für die Videos bekommt, im Vergleich zu TikTok in Österreich: Da kriegt man gar nichts für Klicks, so wie in Deutschland.",
+   "quality": 2
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 2753-2782 s belegt (Shorts-Auszahlung seit Februar, vorher nur Langformat); stimmt historisch, Folge ist von Februar 2023. Aha-Detail (doppelt so viel nach 10 Tagen) belegt.",
+   "stand_note": "",
+   "statement": "YouTube zahlt Creatorn seit Februar 2023 Geld für Aufrufe ihrer Shorts, davor ging das nur bei langen Videos.",
+   "question": "In welchem Jahr hat YouTube begonnen, Creator für Shorts-Aufrufe zu bezahlen?",
+   "answer": "2023",
+   "distractors": [
+    "2019",
+    "2021",
+    "2025"
+   ],
+   "aha": "Davor gab es Geld nur für lange YouTube-Videos. Nach den ersten zehn Tagen im Februar 2023 hatte Anna schon doppelt so viel verdient wie in der ganzen Zeit davor.",
+   "quote_clean": "YouTube Shorts hat jetzt gerade im Februar begonnen, die Creator einfach auszuzahlen.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Annas Windenergie-Beispiel bei 1564-1623 s belegt (Hook, Anmachspruch, Überleitung); Aha-Prinzip „emotional etwas mit den Leuten machen“ ebenfalls belegt.",
+   "stand_note": "",
+   "statement": "Ein trockenes Thema wie Windenergie bekommt man auf TikTok mit einem überraschenden Hook am Anfang an die Leute, etwa einem blöden Anmachspruch.",
+   "question": "Wie würde Anna ein trockenes Thema wie Windenergie auf TikTok bringen?",
+   "answer": "Mit einem überraschenden Hook am Anfang",
+   "distractors": [
+    "Mit einer langen Einleitung",
+    "Mit vielen Statistiken",
+    "Mit ruhiger Hintergrundmusik"
+   ],
+   "aha": "Die Leute sollen erst einmal stutzen, dann kommt die Überleitung, warum Wind jetzt relevant ist. Annas Prinzip: Ein Video muss emotional etwas mit den Leuten machen, es darf nicht nur informativ sein.",
+   "quote_clean": "Ich würde am Anfang versuchen, etwas zu finden, das zum Beispiel bei Windenergie am Anfang einen Hook hat, wo Wind relevant ist.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Sprecher-Ratefrage ohne Wissenswert.",
+   "stand_note": "",
+   "statement": "Viele Expert:innen hätten eine wichtige Botschaft, können sie aber nicht in das übersetzen, was die breite Masse konsumiert.",
+   "question": "Wer hat's gesagt: Viele Expert:innen haben eine tolle Message, aber nicht die Fähigkeit, sie umzuwandeln?",
+   "answer": "Anna Strigl",
+   "distractors": [
+    "Andreas Sator",
+    "Ein YouTube-Manager",
+    "Ein Medienwissenschaftler"
+   ],
+   "aha": "",
+   "quote_clean": "Es gibt so viele Leute, die Expert:innen sind und eine wichtige und tolle Message haben. Die haben oft nur nicht die Fähigkeit, weil das ja nicht ihr Bereich ist, das umzuwandeln.",
+   "quality": 1
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Vergleich mit Geld bei 2290-2300 s belegt; die Hass-/Mobbing-Behauptung im Aha steht nicht im Ausschnitt und wurde entfernt.",
+   "stand_note": "",
+   "statement": "Social Media ist laut Anna Strigl wie Geld weder an sich gut noch schlecht, entscheidend ist, was man damit macht.",
+   "question": "Womit vergleicht Anna Social Media, das an sich weder gut noch schlecht sei?",
+   "answer": "Mit Geld",
+   "distractors": [
+    "Mit Alkohol",
+    "Mit dem Fernsehen",
+    "Mit einem Messer"
+   ],
+   "aha": "Für Anna kommt es darauf an, wie wir mit Social Media umgehen, nicht auf das Medium selbst. Das Wichtigste sei, die feine Balance zu finden – und aus Fehlern zu lernen.",
+   "quote_clean": "Weder Geld noch Social Media ist an sich negativ oder positiv. Es ist immer, wie wir damit interagieren und was wir damit machen.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Triviale Nebenbemerkung (Hook aus der Musik), keine Wissensfrage; Distraktoren austauschbar.",
+   "stand_note": "",
+   "statement": "Andreas vergleicht den Hook eines TikTok-Videos mit dem Ohrwurm-Teil eines Songs.",
+   "question": "Woher kennt Andreas den Begriff Hook, bevor er ihn auf TikTok anwendet?",
+   "answer": "Aus der Musik",
+   "distractors": [
+    "Aus dem Fischen",
+    "Aus dem Boxen",
+    "Aus der Werbung"
+   ],
+   "aha": "",
+   "quote_clean": "Das System: ein Hook. Ich kenne das eigentlich aus der Musik, dieser eine Teil des Songs, den man immer im Kopf hat.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Läuft darauf hinaus, Andreas als zu langsam vorzuführen; Distraktoren (Kleidung, Mikrofon) sind absurd, das Aha stützt sich auf eine unklare Transkriptstelle („erste 15 Minuten“).",
+   "stand_note": "",
+   "statement": "Anna sagt Andreas, dass er für TikTok wahrscheinlich zu langsam redet.",
+   "question": "Was hält Anna an Andreas für TikTok-untauglich?",
+   "answer": "Er redet zu langsam",
+   "distractors": [
+    "Er lacht zu wenig",
+    "Er trägt zu dunkle Kleidung",
+    "Sein Mikrofon ist zu groß"
+   ],
+   "aha": "",
+   "quote_clean": "Ganz ehrlich: Du würdest wahrscheinlich zu langsam reden.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Augenbrauen-Anekdote bei 2553-2581 s belegt, inkl. Siebener-Gruppe und „immer ready“.",
+   "stand_note": "",
+   "statement": "Trotz Kapuze und Maske wurde Anna beim Einkaufen an ihren Augenbrauen erkannt.",
+   "question": "Woran erkannten Fans Anna trotz Kapuze und Maske?",
+   "answer": "An ihren Augenbrauen",
+   "distractors": [
+    "An ihrer Stimme",
+    "An ihren Schuhen",
+    "An ihrer Handyhülle"
+   ],
+   "aha": "Eine Gruppe von sieben Mädels hat sie so erwischt. Anna sagt, man geht aus dem Haus und ist irgendwie immer ready.",
+   "quote_clean": "Ich war einfach einkaufen, mit Kapuze, komplett im Gammellook, mit Maske, und Leute haben mich an meinen Augenbrauen erkannt.",
+   "quality": 4
+  }
+ ],
+ "id": "244",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

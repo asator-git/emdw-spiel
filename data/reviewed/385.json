@@ -1,0 +1,298 @@
+{
+ "reviews": [
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Tamim sagt „fast drei“; der IS-Checkpoint stammt aus Andreas’ Zusammenfassung, nicht von Tamim. Zahl nicht sauber belegt, aha ungenau.",
+   "stand_note": "",
+   "statement": "Auf dem Weg von Kabul Richtung iranische Grenze gab es damals drei Checkpoints: von der Regierung, von den Taliban und vom IS.",
+   "question": "Durch wie viele Checkpoints musste ein Bus damals von Kabul Richtung iranische Grenze?",
+   "answer": "Drei",
+   "distractors": [
+    "Einen",
+    "Fünf",
+    "Zwei"
+   ],
+   "aha": "Zuerst kontrollierten Regierungssoldaten, dann die Taliban, zum Schluss der IS.",
+   "quote_clean": "Aber unterwegs hattest du damals fast drei Checkpoints, wenn du Kabul und die großen Städte verlässt und Richtung Grenze fährst.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Zahl belegt („100 Leute oder weniger“). Distraktoren „bis zu 10/30“ waren mit „oder weniger“ nicht eindeutig falsch, daher angepasst.",
+   "stand_note": "",
+   "statement": "In den Schlepper-Unterkünften an der Grenze zum Iran warteten bei Tamim bis zu 100 Menschen gleichzeitig auf die Weiterreise.",
+   "question": "Wie viele Menschen warteten bei Tamim ungefähr gleichzeitig in so einem Schlepper-„Hostel“ an der iranischen Grenze?",
+   "answer": "Bis zu 100",
+   "distractors": [
+    "Nur etwa 5 bis 10",
+    "Etwa 500",
+    "Über 1.000"
+   ],
+   "aha": "Diese sogenannten Gasthäuser sind Sammelstellen: Alle warten, bis die nächste Etappe organisiert ist. Bei Tamim hat das fast zwei Wochen gedauert, und die Lage mit so vielen Menschen war sehr schwer.",
+   "quote_clean": "In so einem Hostel leben 100 Leute oder weniger, die alle warten, bis alles organisiert ist, dann geht es weiter.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt: 10, 15 Autos, alle voll; aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Schlepper bringen Menschen in Konvois von 10 bis 15 vollbesetzten Pick-ups Richtung iranische Grenze.",
+   "question": "Wie viele vollbesetzte Autos fahren in so einem Schlepper-Konvoi Richtung iranische Grenze gleichzeitig los?",
+   "answer": "10 bis 15",
+   "distractors": [
+    "2 bis 3",
+    "40 bis 50",
+    "5 bis 6"
+   ],
+   "aha": "Die Pick-ups sind hinten voll mit Menschen und fahren sehr schnell. Wer runterfällt, wird nicht abgeholt – der Konvoi fährt einfach weiter.",
+   "quote_clean": "Aber es fährt nicht nur ein Auto, sondern auf einmal 10, 15 Autos, alle voll mit solchen Leuten, mit denen fährst du los.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Dari = Persisch stimmt. Im aha war „ab der Türkei“ nicht belegt; vorsichtiger formuliert.",
+   "stand_note": "",
+   "statement": "Dari, eine der Hauptsprachen Afghanistans, ist im Grunde dieselbe Sprache wie das Persische (Farsi) im Iran.",
+   "question": "Was ist Dari, das in Afghanistan gesprochen wird?",
+   "answer": "Im Grunde Persisch",
+   "distractors": [
+    "Eine Variante von Arabisch",
+    "Ein Dialekt von Urdu",
+    "Eine Turksprache"
+   ],
+   "aha": "Darum konnte sich Tamim bis zum Iran gut mit den Schleppern verständigen. Danach wurde es schwierig, da blieb nur noch ein Versuch auf Englisch.",
+   "quote_clean": "In Afghanistan nennt man es Dari, im Iran Persisch.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Taliban regieren weiterhin; als Aktuell-Frage mit Stand versehen. Aha-Zeitangabe an Transkript angepasst.",
+   "stand_note": "Stand 2026",
+   "statement": "Afghanistan wird heute komplett von den Taliban regiert; als Tamim floh, gab es noch die alte Regierung.",
+   "question": "Wer regiert heute ganz Afghanistan?",
+   "answer": "Die Taliban",
+   "distractors": [
+    "Eine gewählte Übergangsregierung",
+    "Der IS",
+    "Eine UN-Verwaltung"
+   ],
+   "aha": "Als Tamim floh, gab es noch die alte Regierung. Trotzdem arbeiteten viele in seinem Dorf schon damals offiziell oder inoffiziell mit den Taliban – sogar zwei seiner Onkel.",
+   "quote_clean": "Damals hatten wir noch die alte Regierung. Jetzt regieren komplett die Taliban.",
+   "quality": 2
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton",
+    "kontext"
+   ],
+   "note": "Das aha enthielt nicht belegte Details (Getränke, Todesumstände); entfernt. Frage auf das beschränkt, was Tamim sagt.",
+   "stand_note": "",
+   "statement": "Viele Dorfbewohner sahen das Geld, das Tamims Vater bei einer ausländischen Firma verdiente, als unrein an.",
+   "question": "Warum waren viele Dorfbewohner gegen die Arbeit von Tamims Vater für eine ausländische Firma?",
+   "answer": "Sie sahen das Geld als unrein",
+   "distractors": [
+    "Es war gesetzlich verboten",
+    "Es gab dafür hohe Steuern",
+    "Die Firmen zahlten nie"
+   ],
+   "aha": "Die Dorfbewohner wollten nicht, dass Tamims Vater dort weiterarbeitet. Er tat es trotzdem, weil er fünf Kinder versorgen musste.",
+   "quote_clean": "Sie wollten nicht, dass er für eine ausländische Firma arbeitet. Das haben sie als unreines Geld gesehen, kann man sagen.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Tamim vermutet nur („wahrscheinlich Angst“); als Fakt formuliert war das zu stark. Entschärft.",
+   "stand_note": "",
+   "statement": "Bei Tamims Flucht mussten Handys vor dem Grenzübertritt ohne Akku und SIM-Karte sein; er vermutet, die Schlepper fürchteten das Signal.",
+   "question": "Was musste Tamim mit einem Handy tun, bevor es mit den Schleppern über die Grenze ging?",
+   "answer": "Akku und SIM-Karte rausnehmen",
+   "distractors": [
+    "Es im Flugmodus lassen",
+    "Es dem Schlepper als Pfand geben",
+    "Nur noch nachts telefonieren"
+   ],
+   "aha": "Tamim vermutet, dass die Schlepper Angst vor dem Handysignal hatten. Er selbst hatte gar kein Handy dabei – Kontakt zur Mutter gab es nur, wenn der Schlepper sie kurz anrief.",
+   "quote_clean": "Die Schlepper haben wahrscheinlich Angst wegen des Signals. Und wenn du ein Handy hast, musst du die Batterie rausnehmen.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Ablauf belegt, aber nur für Tamims Fall. Distraktor „alles bar beim Losfahren“ war teilweise richtig (Geld lag vorab bei der Kontaktperson); ersetzt.",
+   "stand_note": "",
+   "statement": "Tamims Schlepper wurde über eine Kontaktperson bezahlt, die das Geld erst freigab, wenn die Familie bestätigte, dass ein Abschnitt geschafft war.",
+   "question": "Wie wurde der Schlepper bei Tamims Flucht bezahlt?",
+   "answer": "Etappenweise über eine Kontaktperson",
+   "distractors": [
+    "Direkt bar beim Schlepper am Start",
+    "Erst nach der Ankunft in Europa",
+    "Per Überweisung durch die Familie"
+   ],
+   "aha": "Das ganze Geld lag vorab bei der Kontaktperson, freigegeben wurde es aber Stück für Stück: War er im Iran, gab die Familie das okay für diesen Teil. Eine Art Treuhand für die Schlepperei.",
+   "quote_clean": "Es gab eine Kontaktperson. Du zahlst das Geld der Kontaktperson. Sie darf den Schlepper nicht bezahlen, bevor du okay gibst.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Der Ort Türkei steht nicht im Ausschnitt; entfernt. Aha zu den 16 Dollar an den Wortlaut angepasst; Deutung ist Tamims eigene Einschätzung.",
+   "stand_note": "",
+   "statement": "Bei Tamims Fahrt fuhr immer ein leeres Auto voraus und kontrollierte, ob es eine Polizeikontrolle gibt, erst dann folgte das Auto mit den Menschen.",
+   "question": "Wozu fuhr bei Tamims Reise immer ein leeres Auto vor dem Schlepper-Auto her?",
+   "answer": "Um Polizeikontrollen auszukundschaften",
+   "distractors": [
+    "Um Benzin nachzuliefern",
+    "Um später Leute abzuholen",
+    "Um Essen zu besorgen"
+   ],
+   "aha": "Anfangs wunderte sich Tamim, warum der Fahrer immer wieder wartete. Später kam er darauf, dass das vordere Auto die Strecke kontrolliert hatte. Seine letzten 16 Dollar hatte er dem Fahrer da schon gegeben.",
+   "quote_clean": "Eines war leer, das ist vorgefahren und hat kontrolliert, ob es eine Polizeikontrolle gibt, bis es okay gab, und dann ist das andere gefahren.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Definition stimmt. Aha-Satz zu Asyl vs. subsidiärer Schutz präzisiert, damit nichts Falsches suggeriert wird.",
+   "stand_note": "",
+   "statement": "Subsidiärer Schutz bedeutet in Österreich: Der Asylantrag wurde abgelehnt, man darf aber bleiben, weil das Heimatland nicht sicher ist – und das wird immer wieder geprüft.",
+   "question": "Was bedeutet „subsidiärer Schutz“ in Österreich?",
+   "answer": "Bleiben, weil die Heimat unsicher ist",
+   "distractors": [
+    "Anerkannter Flüchtling mit Asyl",
+    "Sofortige Staatsbürgerschaft",
+    "Aufenthalt nur zum Arbeiten"
+   ],
+   "aha": "Asyl gibt es bei persönlicher Verfolgung. Subsidiär Schutzberechtigte dürfen trotz abgelehntem Asyl bleiben, weil ihnen im Heimatland Gefahr droht. Tamim nennt das Dokument dazu die „graue Karte“, und der Schutz wird immer wieder überprüft.",
+   "quote_clean": "Subsidiärer Schutz heißt: Du darfst bleiben, weil es in deinem Heimatland nicht sicher ist.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Bei nur einem Gast ist „Wer sagt“ trivial, ein Distraktor unplausibel. Aha enthält nicht belegte Details (Uhr fast weggeschmissen, „in zwei Wochen“).",
+   "stand_note": "",
+   "statement": "Für Tamim war auf der Flucht das ständige Warten eines der schlimmsten Dinge.",
+   "question": "Wer sagt über die Flucht: „Dieses Warten macht dich innerlich kaputt“?",
+   "answer": "Tamim",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Schlepper",
+    "Regina, seine Deutschlehrerin"
+   ],
+   "aha": "„Morgen fahren wir los“ hieß oft: Es passierte nichts.",
+   "quote_clean": "Die Warterei hat uns wirklich durcheinandergebracht. Wir haben immer warten müssen. Immer musst du dort warten, und dieses Warten macht dich innerlich kaputt.",
+   "quality": 1
+  },
+  {
+   "i": 16,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "„Wer sagt“ bei einem Gast ist trivial; Aussage bezieht sich außerdem auf das Afghanistan vor den Taliban und lässt sich nicht kontextfrei spielen.",
+   "stand_note": "",
+   "statement": "Tamim betont, dass Menschen in Afghanistan wie in Österreich gleich sind: Schule, Uni, Hobbys, Fußball.",
+   "question": "Wer sagt im Podcast: „Wir sind alle Menschen“?",
+   "answer": "Tamim",
+   "distractors": [
+    "Andreas Sator",
+    "Annelise, eine Hörerin",
+    "Norbert Hofer"
+   ],
+   "aha": "Für Tamim gibt es überall gute und schlechte Menschen.",
+   "quote_clean": "Normale Leute sind zur Universität gegangen, zur Schule gegangen, haben Hobbys gehabt, Fußball gespielt. Wir sind alle Menschen, meiner Meinung nach.",
+   "quality": 1
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Kern belegt. Wer ihm das sagte, ist im Ausschnitt nicht klar (Schlepper/Polizist); Frage und aha neutral gehalten.",
+   "stand_note": "",
+   "statement": "Als Tamim in Österreich ankam, kannte er das Land nicht und dachte, er sei vielleicht in Deutschland.",
+   "question": "Wo dachte Tamim zuerst zu sein, als er in Österreich ankam?",
+   "answer": "In Deutschland",
+   "distractors": [
+    "In Italien",
+    "In Ungarn",
+    "In der Schweiz"
+   ],
+   "aha": "Österreich war für ihn ein weißer Fleck. Man erklärte ihm, es sei ein Nachbar von Deutschland und auch EU. Seine Antwort: Hauptsache sicher – ob Deutschland oder hier, war ihm egal.",
+   "quote_clean": "Ich habe Österreich ehrlich gesagt gar nicht gekannt. Als ich hier ankam, hat er gesagt, du bist in Österreich. Ich habe gesagt: Wo ist Österreich?",
+   "quality": 4
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Gesprächsdramaturgie ohne Erkenntnisgewinn; als Spielfrage zu banal.",
+   "stand_note": "",
+   "statement": "Andreas beginnt das Gespräch, indem er den Gast bittet, sich kurz selbst vorzustellen.",
+   "question": "Womit startet Andreas das Gespräch mit Tamim, nachdem er ihn begrüßt hat?",
+   "answer": "Er bittet ihn, sich vorzustellen",
+   "distractors": [
+    "Er fragt nach dem Fluchtweg",
+    "Er erzählt seine eigene Geschichte",
+    "Er liest eine Statistik vor"
+   ],
+   "aha": "Zuerst darf der Gast selbst sagen, wer er ist.",
+   "quote_clean": "Schön, dass du da bist. Freut mich sehr. Kannst du dich zu Beginn kurz vorstellen, bitte?",
+   "quality": 1
+  }
+ ],
+ "id": "385",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

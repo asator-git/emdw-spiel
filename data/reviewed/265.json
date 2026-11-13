@@ -1,0 +1,278 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei ca. 146 s; Faktor stimmt grob (ca. 1836).",
+   "stand_note": "",
+   "statement": "Ein Proton ist rund 2000 Mal so schwer wie ein Elektron, deshalb steckt fast die ganze Masse eines Atoms im Kern.",
+   "question": "Wie viel Mal schwerer als ein Elektron ist ein Proton ungefähr?",
+   "answer": "Rund 2000 Mal",
+   "distractors": [
+    "Rund 20 Mal",
+    "Rund 200 Mal",
+    "Rund 200.000 Mal"
+   ],
+   "aha": "Das Elektron ist eigentlich nur ein kleines Ding, das um den Kern herumschwirrt. Welches Element ein Atom ist, bestimmt allein der Kern – ein Proton allein heißt Wasserstoff.",
+   "quote_clean": "Und die meiste Masse des ganzen Atoms ist im Kern. Ein Proton ist 2000 Mal so schwer wie ein Elektron.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei ca. 408-418 s, Größenordnung entspricht der Realität (rund 4 Mio. t/s).",
+   "stand_note": "",
+   "statement": "Die Sonne verwandelt durch Kernfusion jede Sekunde rund 4 Millionen Tonnen Masse in Energie.",
+   "question": "Wie viele Tonnen Masse verwandelt die Sonne jede Sekunde in Energie?",
+   "answer": "Rund 4 Millionen Tonnen",
+   "distractors": [
+    "Rund 4 Tonnen",
+    "Rund 4000 Tonnen",
+    "Rund 4 Milliarden Tonnen"
+   ],
+   "aha": "Wasserstoff rein, etwas leichteres Helium raus – die fehlende Masse strahlt als Energie bis zu uns. Wer eine Photovoltaikanlage am Dach hat, nutzt also eh schon Fusionsstrom.",
+   "quote_clean": "In der Sonne fusionieren jede Sekunde 564 Millionen Tonnen Wasserstoff zu 560 Millionen Tonnen Helium. Und diese 4 Millionen Tonnen Unterschied, das ist das, was an Energie frei wird.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei ca. 351-367 s; als theoretischer Vergleich ('ungefähr') plausibel.",
+   "stand_note": "",
+   "statement": "Ein Liter Wasser plus das Lithium einer Laptopbatterie könnte per Fusion einen Ein-Personen-Haushalt ein Jahr lang versorgen – mit Kohle bräuchte man dafür rund eine Tonne.",
+   "question": "Wie viel Kohle bräuchte man, um so viel Energie zu erzeugen wie die Fusion aus einem Liter Wasser und dem Lithium einer Laptopbatterie?",
+   "answer": "Rund eine Tonne",
+   "distractors": [
+    "Rund ein Kilogramm",
+    "Rund zehn Kilogramm",
+    "Rund hundert Tonnen"
+   ],
+   "aha": "Fusion ist absurd ergiebig: Aus dem Deuterium im Wasser und Tritium aus Lithium holt man so viel wie aus einer Tonne Kohle. Und die Kohle ist danach verbrannt, das Wasser haben wir eh.",
+   "quote_clean": "Mit einem Liter Wasser und dem Tritium, das man aus dem Lithium einer Laptopbatterie gewinnt, kann man einen Ein-Personen-Haushalt in Österreich ein Jahr lang mit Energie versorgen. Wenn man mit Kohle rechnet, braucht man dafür ungefähr eine Tonne.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Beleg bei ca. 1349-1357 s; 'Celsius' wurde nicht gesagt, Aha-Detail 'Mikrowellen' nicht belegt.",
+   "stand_note": "",
+   "statement": "In Fusionsanlagen wird das Plasma standardmäßig auf rund 100 Millionen Grad erhitzt.",
+   "question": "Auf wie viel Grad heizt man das Plasma in Fusionsanlagen laut Georg Harrer standardmäßig?",
+   "answer": "Rund 100 Millionen Grad",
+   "distractors": [
+    "Rund 10.000 Grad",
+    "Rund 1 Million Grad",
+    "Rund 10 Milliarden Grad"
+   ],
+   "aha": "Die Sonne braucht weniger, weil ihre riesige Masse die Teilchen zusammenpresst. Auf der Erde muss man das mit Hitze wettmachen – mit Radiowellen und eingeschossenen Teilchen.",
+   "quote_clean": "Man schießt sie ins Plasma, sie stoßen mit dem Plasma und geben Energie ab, und so kann man das Plasma auf 100 Millionen Grad bringen. Das schaffen wir schon standardmäßig.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei ca. 219-224 s; Aha leicht präzisiert (Eisen/Nickel-Bereich).",
+   "stand_note": "",
+   "statement": "Eisen hat die stabilsten Atomkerne: Schwerere Elemente liefern Energie beim Spalten, leichtere beim Fusionieren.",
+   "question": "Welches Element bildet die Grenze zwischen Kernen, die man zur Energiegewinnung spaltet, und solchen, die man fusioniert?",
+   "answer": "Eisen",
+   "distractors": [
+    "Uran",
+    "Kohlenstoff",
+    "Helium"
+   ],
+   "aha": "Rund um Eisen ist die Bindungsenergie pro Kernbaustein am größten. Uran spaltet man also Richtung Eisen, Wasserstoff fusioniert man Richtung Eisen – beides setzt Energie frei.",
+   "quote_clean": "Und da gibt es bei Eisen ein Maximum. Das heißt, alles, was schwerer ist als Eisen, kann man spalten. Und alles, was leichter ist als Eisen, kann man fusionieren und damit Energie gewinnen.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei ca. 400-404 s, Aussage korrekt.",
+   "stand_note": "",
+   "statement": "Wer Solarstrom nutzt, nutzt indirekt Fusionsenergie, denn die Sonne gewinnt ihre Energie durch Kernfusion.",
+   "question": "Welche Form der Energiegewinnung nutzt indirekt jede Photovoltaikanlage?",
+   "answer": "Kernfusion",
+   "distractors": [
+    "Kernspaltung",
+    "Erdwärme",
+    "Radioaktiven Zerfall"
+   ],
+   "aha": "Alle Sterne funktionieren so, Fusion ist die Hauptenergiequelle im Universum. Das Kraftwerk steht halt 150 Millionen Kilometer weit weg – und ist zum Glück ziemlich ineffizient, sonst wären wir längst abgebrannt.",
+   "quote_clean": "Wir machen es eh. Jeder, der eine Photovoltaikanlage hat, nutzt Fusionsstrom, weil die Sonne mit Fusionsprozessen funktioniert.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei ca. 1041-1097 s, Definition stimmt.",
+   "stand_note": "",
+   "statement": "Bei Millionen Grad lösen sich die Elektronen von den Atomkernen: Es entsteht Plasma, ein ionisiertes Gas und der vierte Aggregatzustand.",
+   "question": "Was ist ein Plasma in der Physik?",
+   "answer": "Ein ionisiertes Gas",
+   "distractors": [
+    "Eine besonders dichte Flüssigkeit",
+    "Ein extrem kalter Festkörper",
+    "Ein Gemisch aus Gas und Wasser"
+   ],
+   "aha": "Fest, flüssig, gasförmig – und wenn man noch mehr Energie reinsteckt, fliegen Kerne und Elektronen getrennt herum. Genau dieser vierte Aggregatzustand muss in einer Fusionsanlage schweben, ohne die Wand zu berühren.",
+   "quote_clean": "Und wenn wir zu den Temperaturen kommen, von denen wir geredet haben, Millionen von Grad, dann lösen sich die Elektronen von den Kernen und bewegen sich unabhängig voneinander. Und das ist dann ein Plasma, ein ionisiertes Gas.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei ca. 2426-2465 s; Aha näher am Transkript (Donut statt Krapfen).",
+   "stand_note": "",
+   "statement": "Die Einschlusszeit beschreibt, wie lange ein Plasma seine Wärme hält – wie ein Kaffee, der nach etwa 20 Minuten kalt ist, in der Thermoskanne aber länger warm bleibt.",
+   "question": "Womit vergleicht Georg Harrer die Energieeinschlusszeit eines Fusionsplasmas?",
+   "answer": "Wie lange ein Kaffee warm bleibt",
+   "distractors": [
+    "Wie lange ein Akku hält",
+    "Wie schnell Eis schmilzt",
+    "Wie lange ein Ofen vorheizt"
+   ],
+   "aha": "Temperatur, Dichte und Einschlusszeit müssen stimmen, damit Fusion klappt. Die Einschlusszeit ist ein Maß für die Isolation – und große Maschinen isolieren besser, so wie ein großer Donut in der Mikrowelle langsamer auskühlt als ein kleiner.",
+   "quote_clean": "Aber das kann man sich so vorstellen: Wie lange bleibt das Ding warm, wenn ich aufhöre, Energie reinzupumpen? Die Energieeinschlusszeit von dem Kaffee, der da vor uns steht, ist ungefähr 20 Minuten.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei ca. 1511-1530 s; Tippfehler im Aha korrigiert.",
+   "stand_note": "",
+   "statement": "Ein Fusionsplasma wird zuerst von außen geheizt wie ein Lagerfeuer mit einem Streichholz – danach soll es sich durch die entstehenden Heliumkerne selbst warm halten.",
+   "question": "Womit vergleicht Georg Harrer die externe Heizung, die ein Fusionsplasma zündet?",
+   "answer": "Mit einem Streichholz fürs Lagerfeuer",
+   "distractors": [
+    "Mit einem Turbo im Automotor",
+    "Mit einem Föhn im Winter",
+    "Mit einem Starterkabel"
+   ],
+   "aha": "Richtig effizient wird Fusion erst, wenn das Plasma selbst brennt: Die Heliumkerne bleiben im Magnetfeld und heizen weiter. Dann muss man nur noch Wasserstoff nachlegen, wie Holzscheite.",
+   "quote_clean": "Das heißt, ich muss das Plasma einmal mit meinen externen Heizungen auf eine gewisse Temperatur bringen. Das ist quasi mein Streichholz für das Lagerfeuer. Ich halte das Streichholz hin, und irgendwann brennt es selber.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei ca. 812-832 s, Erklärung stimmt.",
+   "stand_note": "",
+   "statement": "Fusionsanlagen mit Magneteinschluss sind donutförmig, weil man eine gerade Magnetröhre zu einem Ring schließt, damit die Teilchen nicht an den Enden entkommen.",
+   "question": "Warum haben Tokamaks die Form eines Donuts?",
+   "answer": "Damit keine Teilchen am Ende entkommen",
+   "distractors": [
+    "Weil Ringe billiger zu bauen sind",
+    "Damit Laser besser hineinpassen",
+    "Weil sich so Wasser leichter erhitzt"
+   ],
+   "aha": "Geladene Teilchen kreisen spiralförmig um Magnetfeldlinien. In einer geraden Röhre würden sie vorne und hinten rausfliegen – also biegt man die Röhre zum Ring, und sie fahren im Kreis.",
+   "quote_clean": "Und damit die Teilchen am Ende und am Anfang nicht hinausfliegen, nimmt man das Ende und den Anfang und gibt sie zusammen. Deswegen kriegt man diese Donutform in den Magnetfusionsmaschinen.",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei ca. 246-255 s; reine Zuordnungsfrage zu Inhaltsfrage umgebaut.",
+   "stand_note": "",
+   "statement": "Georg Harrer beschreibt Fusions- wie Atomkraftwerke als sehr teuren Wasserkocher.",
+   "question": "Welches Alltagsgerät nennt Georg Harrer als Bild für Fusions- und Atomkraftwerke?",
+   "answer": "Einen sehr teuren Wasserkocher",
+   "distractors": [
+    "Einen riesigen Föhn",
+    "Einen überdimensionalen Toaster",
+    "Eine große Heizdecke"
+   ],
+   "aha": "Am Ende landet die ganze Hightech bei einer ziemlich alten Idee: Wasser heiß machen, Dampf auf eine Turbine, Strom raus. Dazwischen kommt der Zuruf, es sei aber ein sehr effizienter Wasserkocher.",
+   "quote_clean": "Das hat das Fusionskraftwerk mit dem Kernkraftwerk gemein. Wir machen auch nur Wasser warm. Es ist alles ein Wasserkocher, ein sehr teurer Wasserkocher.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zuordnung einer Meinungsäußerung, Distraktoren aus anderen Folgen, kaum Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Georg Harrer hält Kernfusion für eine potenziell transformative Energiequelle, auch wenn ihre Erschließung lange dauert.",
+   "question": "Wer hat's gesagt: „Ich glaube schon, dass Fusion eine transformative Energiequelle sein kann“?",
+   "answer": "Georg Harrer",
+   "distractors": [
+    "Andreas Sator",
+    "Carlo Masala",
+    "Florian Krammer"
+   ],
+   "aha": "Andreas fragt ganz groß: Blickt man in 200 Jahren auf ein Davor und Danach zurück? Georg bleibt vorsichtig, er sei ja kein Ökonom – aber neue Energiequellen hätten immer Dinge möglich gemacht, die vorher keiner denken konnte.",
+   "quote_clean": "Aber ich glaube schon: Die Erschließung einer neuen Energietechnologie dauert immer lang, aber dann passieren Sachen, die man sich vorher nicht vorstellen kann. Ich glaube schon, dass Fusion eine transformative Energiequelle sein kann, durchaus.",
+   "quality": 2
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zur Formulierung der Zusammenfassung, kein Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Nach dem Interview fasst Andreas mit der Frage „Was nehme ich mir mit?“ zusammen, was er gelernt hat.",
+   "question": "Mit welcher Frage leitet Andreas nach dem Gespräch seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was habt ihr gelernt?",
+    "Was bleibt am Ende?",
+    "Wie geht es jetzt weiter?"
+   ],
+   "aha": "Seine Kurzfassung: Spaltung zerlegt schwere Kerne, Fusion verschmilzt leichte – und weil der neue Kern etwas weniger Masse hat, wird nach E = mc² Energie frei.",
+   "quote_clean": "Was nehme ich mir mit? Kernspaltung kennen wir ja schon. Man schießt mit Neutronen auf Atomkerne, spaltet sie und es wird Energie frei.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Beleg bei ca. 2373-2395 s; Sprecherzuordnung im Aha war unsicher, Zitat geglättet und Aha neu formuliert.",
+   "stand_note": "",
+   "statement": "Nachdem Andreas E = mc² endlich verstanden hat, gesteht er, dass sein Physikunterricht furchtbar war.",
+   "question": "Was gesteht Andreas, nachdem er E = mc² endlich verstanden hat?",
+   "answer": "Sein Physikunterricht war furchtbar",
+   "distractors": [
+    "Er hatte Physik abgewählt",
+    "Er wollte Physiker werden",
+    "Er hat nie für Physik gelernt"
+   ],
+   "aha": "Masse rein, etwas weniger Masse raus, Differenz gleich Energie – und der Groschen fällt. Andreas meint, Georg könne er sich gut als Lehrer vorstellen, und der macht das auch ganz gern.",
+   "quote_clean": "Cool. Habe ich das endlich verstanden? Mein Physikunterricht war furchtbar. Es kommt viel auf den Lehrer an, denke ich mal.",
+   "quality": 3
+  }
+ ],
+ "id": "265",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

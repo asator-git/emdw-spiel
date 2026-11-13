@@ -1,0 +1,281 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt; 180 Sitze ist ein gängiger Richtwert, Distraktoren klar daneben.",
+   "stand_note": "",
+   "statement": "Eine Boeing 737 hat rund 180 Sitze, die eine Airline möglichst gewinnbringend verkaufen will.",
+   "question": "Wie viele Sitze hat eine typische Boeing 737 ungefähr?",
+   "answer": "Rund 180",
+   "distractors": [
+    "Rund 90",
+    "Rund 300",
+    "Rund 450"
+   ],
+   "aha": "Rund 180 Plätze, und jeder davon ist ein Produkt, das nach dem Abflug nichts mehr wert ist. Darum tüfteln Airlines so verbissen daran, wer für welchen Sitz wie viel zu zahlen bereit ist.",
+   "quote_clean": "Du hast deine 180 Sitze in deiner Boeing 737 und versuchst dir jetzt zu überlegen, wie du das möglichst gut vermarktest.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Belegt; Statusgrenzen können sich ändern, daher Stand-Hinweis.",
+   "stand_note": "Stand 2018",
+   "statement": "Den Senator-Status bei der Lufthansa Group bekommt man etwa ab 100.000 geflogenen Meilen im Jahr.",
+   "question": "Wie viele Meilen muss man laut der Folge pro Jahr fliegen, um bei der Lufthansa Group Senator zu werden?",
+   "answer": "Rund 100.000 Meilen",
+   "distractors": [
+    "Rund 25.000 Meilen",
+    "Rund 250.000 Meilen",
+    "Rund 50.000 Meilen"
+   ],
+   "aha": "100.000 Meilen, das ist ungefähr viermal um die Erde. Mit dem Status darfst du dann auch mit einem Economy-Ticket in die Senator-Lounge.",
+   "quote_clean": "Senator wird man, wenn man zum Beispiel 100.000 Meilen im Jahr bei der Lufthansa Group oder bei der Star Alliance generell fliegt.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt und weiterhin gültig.",
+   "stand_note": "",
+   "statement": "Es gibt drei große globale Airline-Allianzen: Star Alliance, Oneworld und SkyTeam.",
+   "question": "Wie viele große globale Bündnisse von Fluggesellschaften gibt es?",
+   "answer": "Drei",
+   "distractors": [
+    "Zwei",
+    "Fünf",
+    "Sieben"
+   ],
+   "aha": "Star Alliance, Oneworld und SkyTeam teilen sich die Welt der großen Airlines auf. In Wien ist die Star Alliance die wichtigste, weil AUA und Lufthansa dabei sind und hier die meisten Flugbewegungen haben.",
+   "quote_clean": "Star Alliance ist eines von drei globalen Bündnissen von Fluggesellschaften. Es gibt Star Alliance, Oneworld und SkyTeam.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Frage präzisiert (Schilling-Umrechnung ist Rüdigers Schätzung, kein Wien-Barcelona-Bezug), unbelegte Behauptung im Aha entfernt.",
+   "stand_note": "Stand 2018",
+   "statement": "Rüdiger Landgraf erzählt, dass früher ein Flug nach Barcelona um 4.000 Schilling, nach heutigem Geld rund 400 Euro, schon als super Deal galt.",
+   "question": "Um wie viel Geld (in heutigen Euro) galt früher ein Flug nach Barcelona laut Rüdiger schon als super Deal?",
+   "answer": "Rund 400 Euro",
+   "distractors": [
+    "Rund 100 Euro",
+    "Rund 800 Euro",
+    "Rund 200 Euro"
+   ],
+   "aha": "4.000 Schilling waren damals ein Schnäppchen für einen Flug nach Barcelona. Darum dreht Rüdiger die Frage um: Nicht warum Fliegen heute so billig ist, sondern warum es früher so teuer war.",
+   "quote_clean": "Ich bin noch in der Zeit aufgewachsen, wo man gesagt hat, wenn man um 4.000 Schilling, das sind nach heutigem Geld ungefähr 400 Euro, nach Barcelona fliegen kann, dann war das schon ein super Deal.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Definition belegt (Transkript verhört Error Fares als Aerofairs); unbelegte Zusätze im Aha entfernt.",
+   "stand_note": "",
+   "statement": "Sogenannte Error Fares entstehen, wenn eine Airline beim Eintragen eines Tarifs einen Fehler macht.",
+   "question": "Was ist ein „Error Fare“?",
+   "answer": "Ein versehentlich falsch eingetragener Flugpreis",
+   "distractors": [
+    "Ein Tarif für umgebuchte Passagiere",
+    "Ein Rabatt nach einer Flugverspätung",
+    "Ein Restplatz kurz vor dem Abflug"
+   ],
+   "aha": "Ein Fehler beim Eintragen im Tarifsystem, und plötzlich gibt es ein Sonderangebot, das nicht ganz freiwillig war. Ob die Airline das Ticket dann auch einlöst, ist laut Rüdiger Glückssache: Es gibt keine Regel.",
+   "quote_clean": "Das ist, wenn die Fluglinie beim Eintragen des Flugtarifs einen Fehler macht. Dadurch gibt es manchmal sehr gute, nennen wir es mal Sonderangebote, die nicht ganz freiwillig waren.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "transkription",
+    "beleg"
+   ],
+   "note": "Definition belegt; Details im Aha (Austin, viermal) sind im Transkript verhört bzw. unsicher und wurden neutralisiert.",
+   "stand_note": "",
+   "statement": "Ein Mileage Run ist ein Flug, den man nur unternimmt, um Meilen zu sammeln.",
+   "question": "Was ist ein „Mileage Run“?",
+   "answer": "Ein Flug nur zum Meilensammeln",
+   "distractors": [
+    "Ein Sprint zum Abfluggate",
+    "Ein Nonstop-Flug über die Datumsgrenze",
+    "Ein Umweg wegen Flugverbotszonen"
+   ],
+   "aha": "Manche Vielflieger setzen sich in den Flieger, ohne irgendwo hinzuwollen, nur für die Meilen. Rüdiger ist so mehrmals in der Economy geflogen, um danach mit seiner Freundin in der Business nach Hawaii zu kommen.",
+   "quote_clean": "Da geht es um Mileage Runs, also um Flüge, die nur der Meilen wegen gemacht werden.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Belegt; GDS-Landschaft hat sich seither verändert (z. B. Worldspan ging in Travelport auf).",
+   "stand_note": "Stand 2018",
+   "statement": "Nicht alle Flugtarife erscheinen auf Vergleichsseiten; manche Angebote gibt es nur direkt bei der Airline.",
+   "question": "Findet man auf Flug-Vergleichsportalen immer alle Tarife einer Airline?",
+   "answer": "Nein, manche gibt es nur direkt",
+   "distractors": [
+    "Ja, sie sind gesetzlich verpflichtet",
+    "Ja, aber erst nach 24 Stunden",
+    "Nein, nur Billigflieger fehlen dort"
+   ],
+   "aha": "Online-Reisebüros greifen auf Buchungssysteme wie Amadeus, Sabre oder Worldspan zu. Was eine Airline dort nicht einspielt, etwa manche Business-Angebote von Qatar Airways, findest du nur auf ihrer eigenen Seite.",
+   "quote_clean": "Teilweise ist es so, dass nicht alle Fares auf allen Plattformen veröffentlicht werden.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Definition im Transkript belegt.",
+   "stand_note": "",
+   "statement": "Yield-Management bedeutet, eine begrenzte Zahl an Sitzen so zu verkaufen, dass möglichst viel Erlös herauskommt.",
+   "question": "Was steckt hinter dem „Yield-Management“ von Airlines?",
+   "answer": "Begrenzte Sitze möglichst erlösreich verkaufen",
+   "distractors": [
+    "Treibstoffverbrauch pro Flug senken",
+    "Flugrouten nach Wetter optimieren",
+    "Personalkosten pro Sitz senken"
+   ],
+   "aha": "Ein Flieger hat nur so viele Sitze, und die Airline will für jeden herausfinden, wer wie viel zu zahlen bereit ist. Darum ändert sich der Preis ständig, und darum gilt laut Rüdiger: Die Regel ist, es gibt keine Regel.",
+   "quote_clean": "Das Yield-Management von Airlines ist eine Wissenschaft. Yield-Management heißt, sie versuchen zu optimieren: Du hast im Prinzip ein beschränktes Inventar und versuchst, es erlösmaximierend zu verkaufen.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zahlen in der Frage (Aufschlag 50 bei 30-Euro-Ticket) stimmten nicht mit dem Beispiel überein; Frage präzisiert.",
+   "stand_note": "",
+   "statement": "Airlines wie Ryanair schließen aus der Zahlungsbereitschaft, wie dringend jemand fliegen muss, und setzen die Preise entsprechend.",
+   "question": "Warum kann Ryanair laut Rüdiger von jemandem, der 300 Euro zu zahlen bereit ist, auch 350 verlangen, von einem 30-Euro-Kunden aber keine 50?",
+   "answer": "Wer 300 zahlt, muss offenbar fliegen",
+   "distractors": [
+    "Teure Tickets haben höhere Steuern",
+    "Billige Tickets sind gesetzlich gedeckelt",
+    "Teure Tickets beinhalten Gepäck"
+   ],
+   "aha": "Wer 300 Euro hinlegt, will genau an diesem Tag fliegen, da fallen 50 Euro mehr kaum ins Gewicht. Wer nur 30 zahlen will, sucht sich bei 50 einfach einen anderen Tag. Darum gilt: Flexibel sein hilft beim Sparen.",
+   "quote_clean": "Ryanair sagt einfach: Wenn der bereit ist, 300 Euro zu zahlen, dann will der offensichtlich an dem Tag fliegen. Dann gehen 350 Euro auch. Aber wenn der nur 30 Euro zu zahlen bereit ist, dann wird er keine 50 Euro zahlen.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Begründung ist Rüdigers Erklärung, daher als solche kenntlich gemacht; Aha auf Belegtes beschränkt.",
+   "stand_note": "",
+   "statement": "Laut Rüdiger sind Flüge mit Zwischenlandung oft billiger als Direktflüge, weil Airlines sie für Kund:innen als schlechter ansehen, obwohl man mehr Strecke bekommt.",
+   "question": "Warum sind Flüge mit Zwischenlandung laut Rüdiger oft billiger als der kürzere Direktflug?",
+   "answer": "Weil Umsteigen als unbequemer gilt",
+   "distractors": [
+    "Weil Umsteigeflüge staatlich gefördert sind",
+    "Weil dabei kleinere Flugzeuge fliegen",
+    "Weil Flughafengebühren dann entfallen"
+   ],
+   "aha": "Mehr Flug um weniger Geld, das klingt verrückt. Aber wer mag schon eine Zwischenlandung mit zweiter Sicherheitskontrolle und doppeltem Start und Landung? Darum geben die Airlines den Umsteigeflug oft billiger her.",
+   "quote_clean": "Weil die Airlines das als schlechter für den Konsumenten sehen, denn wer mag schon eine Zwischenlandung, da muss man nochmal durch die Sicherheitskontrolle, und zweimal Start und Landung ist für die Ohren auch nicht schön. Deswegen geben sie das billiger her, obwohl sie dir eigentlich mehr Produkt verkaufen.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt; Aha entspricht dem Transkript (Preisalarme).",
+   "stand_note": "",
+   "statement": "Beim Flugbuchen gibt es keine verlässliche Faustregel, wann es am billigsten ist.",
+   "question": "Welcher Satz fasst laut Rüdiger zusammen, wann man am besten einen Flug bucht?",
+   "answer": "Die Regel ist, es gibt keine Regel",
+   "distractors": [
+    "Immer am Dienstag buchen",
+    "Je früher, desto billiger",
+    "Immer erst in letzter Minute"
+   ],
+   "aha": "Früh buchen kann billiger sein, oder auch teurer, weil wer früh bucht, vielleicht genau zu Ostern fliegen will. Rüdigers Rat: Preisalarme setzen und beobachten, wie sich der Preis verhält.",
+   "quote_clean": "Absolut richtig. Die Regel ist: Es gibt keine Regel.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt; Sofia-Beispiel stimmt (Business-Tarif 850 Euro Sofia-Wien-Frankfurt-Johannesburg).",
+   "stand_note": "",
+   "statement": "Rüdiger Landgrafs Ziel ist es, Business Class zum Preis der Economy zu fliegen.",
+   "question": "Was ist Rüdigers großer Ehrgeiz beim Fliegen?",
+   "answer": "Business fliegen zum Economy-Tarif",
+   "distractors": [
+    "Jedes Land der Welt bereisen",
+    "Einmal im Cockpit mitfliegen",
+    "Eine Million Meilen sammeln"
+   ],
+   "aha": "Zum Normaltarif könnte er sich Business nicht leisten, sagt Rüdiger. Also nutzt er Tarife wie einen Business-Flug von Sofia über Wien und Frankfurt nach Johannesburg für 850 Euro und fliegt dafür halt zuerst nach Sofia.",
+   "quote_clean": "Mein Ehrgeiz ist, Business Class zum Economy-Tarif zu fliegen. Wenn ich das hinbekomme, bin ich zufrieden.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Statement behauptete eine Wortherkunft, die nicht im Transkript steht; auf Rüdigers Aussage reduziert.",
+   "stand_note": "",
+   "statement": "Laut Rüdiger zeigt das Wort Jetset, wie elitär Fliegen früher war; heute klingt es absurd, wenn man an Ryanair-Passagiere denkt.",
+   "question": "Welches Wort zeigt laut Rüdiger, wie elitär Fliegen früher war?",
+   "answer": "Jetset",
+   "distractors": [
+    "Vielflieger",
+    "Weltenbummler",
+    "Luxusklasse"
+   ],
+   "aha": "In Filmen der 60er und 70er war Fliegen Glamour pur. Heute sitzt du mit Ryanair-Ticket im Flieger und fühlst dich eher nicht wie Jetset, rein vom Wort her wärst du es aber.",
+   "quote_clean": "Das Wort Jetset. Erklär mal heute jemandem, der mit Ryanair fliegt, dass er zum Jetset gehört.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsende ohne Wissenswert; Gewissensbekenntnis des Gasts als Spielinhalt unnötig.",
+   "stand_note": "",
+   "statement": "Andreas fragt seinen Vielflieger-Gast direkt nach dem schlechten Gewissen wegen des CO2-Ausstoßes.",
+   "question": "Was fragt Andreas den Vielflieger Rüdiger zum Schluss?",
+   "answer": "Ob er ein schlechtes Gewissen hat",
+   "distractors": [
+    "Wohin sein nächster Flug geht",
+    "Ob er Flugangst kennt",
+    "Welche Airline die beste ist"
+   ],
+   "aha": "Rüdiger gibt es offen zu: schlechtes Gewissen ja, kompensiert noch nicht. Er hält es aber für wichtig und will es nachholen, wenn mehr zusammenkommt.",
+   "quote_clean": "Wie geht es dir damit? Kompensierst du deine Flüge oder hast du ein schlechtes Gewissen, weil du so viel fliegst?",
+   "quality": 1
+  }
+ ],
+ "id": "38",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

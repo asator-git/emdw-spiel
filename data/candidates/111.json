@@ -1,0 +1,715 @@
+{
+ "theme": "Klima & Energie",
+ "summary": "Unter uns hat die Erde konstant rund 12 Grad – Geologin Edith Haslinger erklärt, wie man damit heizt und sogar kühlt.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 409,
+   "speaker": "Edith Haslinger",
+   "quote": "Und bis zu 15 bis 20 Meter kann man sagen, so 12 Grad Celsius.",
+   "quote_clean": "Bis zu 15 bis 20 Meter Tiefe kann man sagen: so 12 Grad Celsius.",
+   "statement": "In Wien hat der ungestörte Boden von der Oberfläche bis etwa 15 bis 20 Meter Tiefe rund 12 Grad Celsius.",
+   "question": "Wie warm ist der ungestörte Boden in Wien in den obersten 15 bis 20 Metern ungefähr?",
+   "answer": "Rund 12 Grad Celsius",
+   "distractors": [
+    "Rund 4 Grad Celsius",
+    "Rund 20 Grad Celsius",
+    "Rund 0 Grad Celsius"
+   ],
+   "number_value": 12,
+   "number_unit": "Grad Celsius",
+   "slider_min": 0,
+   "slider_max": 40,
+   "log_scale": false,
+   "aha": "Ob Jänner oder Juli: Ein paar Meter unter dir hat es ziemlich genau 12 Grad. Genau diese Gleichmäßigkeit macht die Erde zu einer verlässlichen Wärmequelle, die nicht auf Sonne oder Wind warten muss.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erdwärme",
+    "Boden",
+    "Temperatur"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 499,
+   "speaker": "Edith Haslinger",
+   "quote": "Das heißt, man hat dann in 100 Meter eine 3 Grad Celsius höhere Temperatur.",
+   "quote_clean": "Das heißt, man hat in 100 Metern eine um 3 Grad Celsius höhere Temperatur.",
+   "statement": "Als Faustformel wird es pro 100 Meter Tiefe rund 3 Grad Celsius wärmer (geothermischer Gradient).",
+   "question": "Um wie viel Grad wird es pro 100 Meter Tiefe im Erdreich im Schnitt wärmer?",
+   "answer": "Um rund 3 Grad Celsius",
+   "distractors": [
+    "Um rund 0,5 Grad Celsius",
+    "Um rund 10 Grad Celsius",
+    "Um rund 1 Grad Celsius"
+   ],
+   "number_value": 3,
+   "number_unit": "Grad Celsius pro 100 Meter",
+   "slider_min": 0,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Das nennt man den geothermischen Gradienten, und er gilt weltweit im Mittel wie auch in Österreich. Wer 1000 Meter runterbohrt, hat also rund 30 Grad mehr – ziemlich praktisch, wenn man heizen will.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Geothermie",
+    "Gradient",
+    "Tiefe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 688,
+   "speaker": "Edith Haslinger",
+   "quote": "Die Wärmepumpe braucht Strom, aber ein Teil Strom wird in der Wärmepumpe zu drei Teilen oder sogar vier Teilen Wärme umgewandelt.",
+   "quote_clean": "Die Wärmepumpe braucht Strom, aber ein Teil Strom wird in der Wärmepumpe zu drei oder sogar vier Teilen Wärme umgewandelt.",
+   "statement": "Eine Erdwärmepumpe macht aus einem Teil Strom drei bis vier Teile Wärme.",
+   "question": "Wie viele Teile Wärme macht eine Erdwärmepumpe aus einem Teil Strom?",
+   "answer": "Drei bis vier Teile",
+   "distractors": [
+    "Knapp ein Teil",
+    "Zehn bis zwölf Teile",
+    "Eineinhalb Teile"
+   ],
+   "number_value": 3.5,
+   "number_unit": "Teile Wärme pro Teil Strom",
+   "slider_min": 0,
+   "slider_max": 10,
+   "log_scale": false,
+   "aha": "Die Wärmepumpe erzeugt die Wärme nicht aus dem Strom, sie holt sie aus dem Boden und hebt sie nur aufs Heizniveau. Deshalb kommt mehr Wärme raus, als Strom reingeht – kein Zaubertrick, sondern Physik.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wärmepumpe",
+    "Effizienz",
+    "Strom"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1644,
+   "speaker": "Edith Haslinger",
+   "quote": "und die Grenze zwischen oberflächennahe und tiefer Geothermie ist in Österreich 300 Meter.",
+   "quote_clean": "Die Grenze zwischen oberflächennaher und tiefer Geothermie liegt in Österreich bei 300 Metern.",
+   "statement": "In Österreich liegt die Grenze zwischen oberflächennaher und tiefer Geothermie bei 300 Metern.",
+   "question": "Ab welcher Tiefe spricht man in Österreich von tiefer Geothermie?",
+   "answer": "Ab 300 Metern",
+   "distractors": [
+    "Ab 50 Metern",
+    "Ab 1000 Metern",
+    "Ab 3000 Metern"
+   ],
+   "number_value": 300,
+   "number_unit": "Meter",
+   "slider_min": 0,
+   "slider_max": 1000,
+   "log_scale": false,
+   "aha": "Die 300 Meter sind keine Naturkonstante, international wird manchmal auch 400 Meter angegeben. In Österreich ist die Grenze aber wichtig, weil sich ab da die Rechtslage ändert und die Projekte deutlich aufwendiger werden.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Geothermie",
+    "Österreich",
+    "Recht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 926,
+   "speaker": "Edith Haslinger",
+   "quote": "Und es gibt auch in Wien, das wissen auch die wenigsten, es gibt in Wien über 2000 Erdwärmeanlagen.",
+   "quote_clean": "Das wissen die wenigsten: Es gibt in Wien über 2000 Erdwärmeanlagen.",
+   "statement": "In Wien gibt es über 2000 Erdwärmeanlagen.",
+   "question": "Wie viele Erdwärmeanlagen gibt es in Wien ungefähr?",
+   "answer": "Über 2000",
+   "distractors": [
+    "Rund 50",
+    "Rund 200",
+    "Über 50.000"
+   ],
+   "number_value": 2000,
+   "number_unit": "Anlagen",
+   "slider_min": 10,
+   "slider_max": 50000,
+   "log_scale": true,
+   "aha": "Dass du davon nichts mitbekommst, ist genau der Punkt: Erdwärme steckt im Boden. Keine Paneele am Dach, keine Windräder am Horizont – und damit auch kaum schöne Fotos für die Eröffnung.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Wien",
+    "Erdwärme"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 861,
+   "speaker": "Edith Haslinger",
+   "quote": "man kann zwischen 40 und 50 Euro pro Laufmeter Sonde rechnen,",
+   "quote_clean": "Man kann mit 40 bis 50 Euro pro Laufmeter Sonde rechnen.",
+   "statement": "Eine Erdwärmesonde kostet rund 40 bis 50 Euro pro Laufmeter, inklusive Schläuchen und Verpressung bis zum Technikraum.",
+   "question": "Mit wie viel Euro pro Laufmeter Erdwärmesonde kann man laut Edith Haslinger rechnen?",
+   "answer": "40 bis 50 Euro",
+   "distractors": [
+    "5 bis 10 Euro",
+    "150 bis 200 Euro",
+    "400 bis 500 Euro"
+   ],
+   "number_value": 45,
+   "number_unit": "Euro pro Laufmeter",
+   "slider_min": 0,
+   "slider_max": 150,
+   "log_scale": false,
+   "aha": "100 Meter Sonde kommen damit auf rund 5000 Euro – beim Hausbau eher ein Posten unter vielen. Teurer als eine Luftwärmepumpe ist das am Anfang schon, dafür sind die Betriebskosten danach deutlich niedriger.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Kosten",
+    "Erdwärmesonde"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1614,
+   "speaker": "Andreas Sator",
+   "quote": "hat 2.900 Meter in die Tiefe gebohrt, damit man sich da das Thermalwasser herholt.",
+   "quote_clean": "Die Therme Wien hat 2900 Meter in die Tiefe gebohrt, um das Thermalwasser heraufzuholen.",
+   "statement": "Für die Therme Wien wurde rund 2900 Meter tief nach Thermalwasser gebohrt.",
+   "question": "Wie tief wurde für die Therme Wien gebohrt, um an Thermalwasser zu kommen?",
+   "answer": "Rund 2900 Meter",
+   "distractors": [
+    "Rund 290 Meter",
+    "Rund 900 Meter",
+    "Rund 6500 Meter"
+   ],
+   "number_value": 2900,
+   "number_unit": "Meter",
+   "slider_min": 0,
+   "slider_max": 8000,
+   "log_scale": false,
+   "aha": "Baden im Thermalwasser ist die älteste Form der Geothermie, das haben schon die Römer gemacht. Heute wird für sowas aber drei, vier, manchmal 5000 Meter tief gebohrt, und je tiefer, desto wärmer wird das Wasser.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Therme",
+    "Wien",
+    "Tiefengeothermie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2116,
+   "speaker": "Andreas Sator",
+   "quote": "Laut Statistik Austria hatten mit Stand vor circa zwei Jahren über 300.000 Haushalte eine Wärmepumpe.",
+   "quote_clean": "Laut Statistik Austria hatten vor circa zwei Jahren über 300.000 Haushalte eine Wärmepumpe.",
+   "statement": "Laut Statistik Austria hatten in Österreich (Stand rund 2018) über 300.000 Haushalte eine Wärmepumpe.",
+   "question": "Wie viele Haushalte in Österreich hatten um 2018 laut Statistik Austria eine Wärmepumpe?",
+   "answer": "Über 300.000",
+   "distractors": [
+    "Rund 30.000",
+    "Rund 80.000",
+    "Über 1,5 Millionen"
+   ],
+   "number_value": 300000,
+   "number_unit": "Haushalte",
+   "slider_min": 10000,
+   "slider_max": 3000000,
+   "log_scale": true,
+   "aha": "Klingt nach viel, aber zum Vergleich heizten damals noch rund 700.000 Haushalte mit Heizöl und eine Million mit Erdgas. Bis das Heizen klimaneutral ist, bleibt also eh noch einiges zu tun.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Wärmepumpe",
+    "Österreich",
+    "Statistik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2123,
+   "speaker": "Andreas Sator",
+   "quote": "Zum Vergleich 700.000 Haushalte heizten mit Heizöl und eine Million mit Erdgas.",
+   "quote_clean": "Zum Vergleich: 700.000 Haushalte heizten mit Heizöl und eine Million mit Erdgas.",
+   "statement": "Um 2018 heizten in Österreich rund eine Million Haushalte mit Erdgas und rund 700.000 mit Heizöl.",
+   "question": "Wie viele Haushalte in Österreich heizten um 2018 mit Erdgas?",
+   "answer": "Rund eine Million",
+   "distractors": [
+    "Rund 150.000",
+    "Rund 400.000",
+    "Rund 2,5 Millionen"
+   ],
+   "number_value": 1000000,
+   "number_unit": "Haushalte",
+   "slider_min": 50000,
+   "slider_max": 4000000,
+   "log_scale": true,
+   "aha": "Eine Million Gasheizungen, dazu 700.000 mit Heizöl – das ist der fossile Berg, um den es beim Raus aus Öl und Gas geht. Und das Gas kommt großteils von weit her.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Erdgas",
+    "Heizen",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 705,
+   "speaker": "Edith Haslinger",
+   "quote": "Und was das Gute ist mit der Wärmepumpe oder auch mit der Erdwärme, obwohl es eigentlich Erdwärme heißt, kann man auch kühlen.",
+   "quote_clean": "Das Gute an der Wärmepumpe und an der Erdwärme ist: Obwohl es Erdwärme heißt, kann man damit auch kühlen.",
+   "statement": "Mit Erdwärme kann man ein Gebäude nicht nur heizen, sondern im Sommer auch kühlen.",
+   "question": "Was kann man mit einer Erdwärmeanlage außer Heizen noch machen?",
+   "answer": "Im Sommer kühlen",
+   "distractors": [
+    "Strom ins Netz einspeisen",
+    "Trinkwasser aufbereiten",
+    "Regenwasser speichern"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im Sommer ist der Boden mit seinen rund 12 Grad kühler als dein Wohnzimmer. Die überschüssige Wärme wird über die Fußbodenheizung aufgenommen und in den Untergrund geschickt – die Wärmepumpe läuft dabei nur als Umwälzpumpe.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kühlen",
+    "Erdwärme"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 383,
+   "speaker": "Edith Haslinger",
+   "quote": "Und ganz wichtig zu wissen ist, dass im Erdreich herrschen immer konstante Bedingungen.",
+   "quote_clean": "Ganz wichtig zu wissen ist, dass im Erdreich immer konstante Bedingungen herrschen.",
+   "statement": "Die Temperatur im Erdreich ist unabhängig von Tages- und Jahreszeit konstant.",
+   "question": "Wie ändert sich die Temperatur im Untergrund zwischen Sommer und Winter?",
+   "answer": "Praktisch gar nicht",
+   "distractors": [
+    "Sie schwankt um rund 20 Grad",
+    "Im Winter ist sie höher",
+    "Sie folgt der Lufttemperatur"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das ist der große Vorteil gegenüber Sonne und Wind, die einmal viel und dann wieder gar nichts liefern. Die Wärme im Boden ist rund um die Uhr und das ganze Jahr gleich da.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erdwärme",
+    "Untergrund"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1390,
+   "speaker": "Edith Haslinger",
+   "quote": "ist es zum Beispiel verboten, dass man irgendwelche Solarpanele aufs Dach gibt.",
+   "quote_clean": "Da ist es zum Beispiel verboten, Solarpaneele aufs Dach zu geben.",
+   "statement": "Bei denkmalgeschützten Gebäuden ist es verboten, Solarpaneele aufs Dach zu montieren.",
+   "question": "Welches Problem haben denkmalgeschützte Gebäude beim Umstieg auf erneuerbare Wärme?",
+   "answer": "Solarpaneele am Dach sind verboten",
+   "distractors": [
+    "Wärmepumpen sind dort verboten",
+    "Bohrungen sind generell untersagt",
+    "Fernwärme darf nicht angeschlossen werden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Auch Dämmung an der Fassade ist oft tabu, weil man das Gebäude außen nicht verändern darf. Da wird die unsichtbare Erdwärme interessant – die stört kein Ortsbild.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Denkmalschutz",
+    "Solar"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1659,
+   "speaker": "Edith Haslinger",
+   "quote": "weil ab da ist in Österreich nicht mehr nur das Wasserrecht zuständig,",
+   "quote_clean": "Weil ab da in Österreich nicht mehr nur das Wasserrecht zuständig ist.",
+   "statement": "Ab 300 Metern Tiefe gilt für Geothermieprojekte in Österreich neben dem Wasserrecht auch das Mineralrohstoffgesetz, also das Bergrecht.",
+   "question": "Welches Gesetz kommt in Österreich bei Geothermie-Bohrungen ab 300 Metern Tiefe dazu?",
+   "answer": "Das Mineralrohstoffgesetz (Bergrecht)",
+   "distractors": [
+    "Das Forstgesetz",
+    "Das Denkmalschutzgesetz",
+    "Das Ökostromgesetz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bis 300 Meter reicht das Wasserrecht, darunter bist du rechtlich quasi im Bergbau. Deshalb werden tiefe Projekte nicht nur technisch, sondern auch bürokratisch aufwendiger.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Recht",
+    "Tiefengeothermie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1939,
+   "speaker": "Edith Haslinger",
+   "quote": "Die sind oft sehr beladen mit Mineralien, mit Salz.",
+   "quote_clean": "Die sind oft sehr stark mit Mineralien und Salz beladen.",
+   "statement": "Thermalwässer aus dem tiefen Untergrund sind oft stark mit Mineralien und Salz beladen und teils sehr gasreich.",
+   "question": "Warum muss man bei Thermalwasser aus großer Tiefe besonders auf die Rohre achten?",
+   "answer": "Es ist voller Mineralien und Salz",
+   "distractors": [
+    "Es ist radioaktiv verseucht",
+    "Es ist kälter als erwartet",
+    "Es enthält viel Erdöl"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kein reines Wasser also, sondern eine ziemlich spezielle Mischung. Wer die Zusammensetzung nicht kennt, riskiert Korrosion oder Ablagerungen, die das Rohr von innen zuwachsen lassen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Thermalwasser",
+    "Chemie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1990,
+   "speaker": "Edith Haslinger",
+   "quote": "Also die Erdwärmesonden im oberflächennahen Geothermiebereich, die nutzen auch kein Wasser.",
+   "quote_clean": "Die Erdwärmesonden im oberflächennahen Geothermiebereich nutzen kein Wasser.",
+   "statement": "Erdwärmesonden für Häuser brauchen kein Grundwasser oder heißes Wasser, sie nutzen die Wärme des Gesteins.",
+   "question": "Muss man für eine Erdwärmesonde beim Haus auf Wasser stoßen?",
+   "answer": "Nein, sie nutzt die Wärme des Bodens",
+   "distractors": [
+    "Ja, auf Grundwasser",
+    "Ja, auf heißes Thermalwasser",
+    "Nur in Gegenden mit Quellen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In den Sonden kreist ein geschlossener Kreislauf aus Wasser und Frostschutzmittel, die Wärme kommt aus dem Erdreich rundherum. Nur Grundwasserwärmepumpen brauchen tatsächlich Wasser.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erdwärmesonde",
+    "Grundwasser"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 638,
+   "speaker": "Edith Haslinger",
+   "quote": "Das verdampft schon bei niedrigen Temperaturen, also auch schon bei Temperaturen, wie sie vom oberflächennahen Untergrund daherkommt.",
+   "quote_clean": "Das verdampft schon bei niedrigen Temperaturen, also auch bei Temperaturen, wie sie aus dem oberflächennahen Untergrund kommen.",
+   "statement": "In der Wärmepumpe verdampft ein Kältemittel schon bei den niedrigen Temperaturen aus dem Boden; durch Komprimieren steigt dann die Temperatur auf Heizniveau.",
+   "question": "Wie schafft es eine Wärmepumpe, aus 12 Grad warmem Boden Heizwärme zu machen?",
+   "answer": "Kältemittel verdampft und wird komprimiert",
+   "distractors": [
+    "Ein Gasbrenner heizt nach",
+    "Das Wasser wird elektrisch erhitzt",
+    "Die Sonde bohrt tiefer nach"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Kältemittel verdampft schon bei Bodentemperatur, wird dann zusammengedrückt und dadurch heiß. Diese Wärme geht an die Heizung, das Mittel kondensiert wieder, und das Spiel beginnt von vorn.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wärmepumpe",
+    "Physik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 742,
+   "speaker": "Edith Haslinger",
+   "quote": "Weil dadurch kann man also nicht nur die Gebäude kühlen oder Wohnungen kühlen oder Häuser kühlen, sondern man kann damit auch das Erdreich regenerieren.",
+   "quote_clean": "Dadurch kann man nicht nur Gebäude, Wohnungen oder Häuser kühlen, sondern auch das Erdreich regenerieren.",
+   "statement": "Wer im Sommer mit Erdwärme kühlt, führt dem Boden Wärme zurück und regeneriert so das Erdreich für den Winter.",
+   "question": "Welchen Nebeneffekt hat das Kühlen mit Erdwärme im Sommer?",
+   "answer": "Das Erdreich wird regeneriert",
+   "distractors": [
+    "Der Boden friert dauerhaft ein",
+    "Das Grundwasser wird verbraucht",
+    "Die Sonden müssen getauscht werden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Holt man jahrelang nur Wärme raus, kühlt der Boden um die Sonden langsam aus. Die Sommerwärme wieder reinzuschicken hält die Bilanz ausgeglichen und macht die Anlage effizienter.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Kühlen",
+    "Effizienz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1864,
+   "speaker": "Edith Haslinger",
+   "quote": "Und diese seismischen Wellen praktisch, die da runtergehen in den Untergrund, die kommen mehrere tausend Meter tief.",
+   "quote_clean": "Diese seismischen Wellen, die in den Untergrund gehen, kommen mehrere tausend Meter tief.",
+   "statement": "Vibro Trucks rütteln mit einer Platte am Boden; die seismischen Wellen dringen mehrere tausend Meter tief ein und werden von Geophonen aufgezeichnet.",
+   "question": "Wie suchten die Vibro Trucks in Wien nach heißem Wasser im Untergrund?",
+   "answer": "Mit Rüttelplatten und seismischen Wellen",
+   "distractors": [
+    "Mit Infrarotkameras",
+    "Mit Probebohrungen alle 100 Meter",
+    "Mit Wärmesensoren an der Oberfläche"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In den Untergrund schauen kann niemand, also schickt man Schall hinein und hört dem Echo zu. Die reflektierten Wellen landen bei Geophonen, aus deren Mustern man die Gesteinsschichten ablesen kann.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Exploration",
+    "Seismik",
+    "Wien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1346,
+   "speaker": "Edith Haslinger",
+   "quote": "Dann nimmt man eigentlich so einen ganzen Bodenkörper sozusagen als Speichermedium für diese Abwärme.",
+   "quote_clean": "Dann nimmt man einen ganzen Bodenkörper als Speichermedium für diese Abwärme.",
+   "statement": "Abwärme aus Industriebetrieben kann in dicht gesetzten Erdsondenfeldern im Boden gespeichert und im Winter zum Heizen genutzt werden.",
+   "question": "Wie kann man Sommer-Abwärme einer Molkerei für den Winter aufheben?",
+   "answer": "Im Boden über ein Erdsondenfeld",
+   "distractors": [
+    "In großen Batterien",
+    "In einem Wasserturm",
+    "Gar nicht, sie geht verloren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Sonden stehen dafür eng beisammen, sodass ein ganzer Erdblock zum Wärmespeicher wird. Ein Betrieb, der 365 Tage rund um die Uhr läuft, produziert mehr Wärme, als er selbst braucht – und die Nachbarschaft heizt im Winter damit.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Abwärme",
+    "Speicher"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 936,
+   "speaker": "Edith Haslinger",
+   "quote": "Das ist auch gleichzeitig ein Vorteil und ein Nachteil an der Geothermie oder der Erdwärme ist, dass sie wenig sichtbar ist.",
+   "quote_clean": "Ein Vorteil und gleichzeitig ein Nachteil der Geothermie ist, dass sie wenig sichtbar ist.",
+   "statement": "Edith Haslinger sieht die Unsichtbarkeit der Erdwärme als Vorteil und Nachteil zugleich.",
+   "question": "Wer sagt: Ein Vorteil und Nachteil der Geothermie ist, dass sie wenig sichtbar ist?",
+   "answer": "Edith Haslinger",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Windkraft-Expertin",
+    "Ein Photovoltaik-Installateur"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Windräder und Solarpaneele kann man besichtigen, eröffnen und fotografieren. Erdwärme liegt unter der Erde – deshalb will der 2018 gegründete Verein Geothermie Österreich sie zumindest in den Köpfen sichtbarer machen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Geothermie",
+    "Wahrnehmung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 912,
+   "speaker": "Edith Haslinger",
+   "quote": "Also es ist eigentlich für grundvernünftige Leute natürlich, denen die Umwelt am Herzen liegt.",
+   "quote_clean": "Es ist eigentlich für grundvernünftige Leute, denen die Umwelt am Herzen liegt.",
+   "statement": "Erdwärme ist laut Edith Haslinger keine Spinnerei, sondern etwas für grundvernünftige Leute, denen die Umwelt am Herzen liegt.",
+   "question": "Wer sagt: Erdwärme ist für grundvernünftige Leute, denen die Umwelt am Herzen liegt?",
+   "answer": "Edith Haslinger",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Wiener Energiestadtrat",
+    "Ein Heizungsinstallateur"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas hatte frech gefragt, ob ihr Erdwärme-Kleingartenhaus eine Spinnerei sei. Ihre Antwort: Wer nicht fossil heizen will, hat damit eine der guten Möglichkeiten.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Erdwärme",
+    "Umwelt"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1448,
+   "speaker": "Edith Haslinger",
+   "quote": "Und das ist eigentlich meiner Meinung nach die Zukunft der ganzen, also sagen wir Raumheizung,",
+   "quote_clean": "Und das ist meiner Meinung nach die Zukunft der Raumheizung.",
+   "statement": "Edith Haslinger hält vernetzte Gebäude mit eigenen Wärmepumpen in Niedertemperatur-Wärme- und Kältenetzen für die Zukunft der Raumheizung.",
+   "question": "Was hält Edith Haslinger für die Zukunft der Raumheizung?",
+   "answer": "Vernetzte Gebäude mit Wärmepumpen",
+   "distractors": [
+    "Eine Gastherme pro Wohnung",
+    "Große zentrale Kohlekraftwerke",
+    "Elektrische Infrarotpaneele überall"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Statt jede Wohnung mit eigener Therme hängen Gebäude in einem Netz, in dem jedes Wärme oder Kälte beziehen und abgeben kann. Man zittert dann auch nicht mehr, ob irgendwer den Gashahn zudreht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wärmenetz",
+    "Zukunft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 787,
+   "speaker": "Andreas Sator",
+   "quote": "Was ihr da gemacht habt in eurem Haus im 14. Bezirk, ist das, ich sage jetzt gemein, eine Spinnerei von jemandem, dem Umwelt und Klima am Herz liegen?",
+   "quote_clean": "Was ihr in eurem Haus im 14. Bezirk gemacht habt – ist das, ich sage jetzt gemein, eine Spinnerei von jemandem, dem Umwelt und Klima am Herzen liegen?",
+   "statement": "Andreas fragt Edith Haslinger provokant, ob ihre Erdwärmeanlage im Kleingartenhaus eine Öko-Spinnerei ist.",
+   "question": "Wie fragt Andreas Edith Haslinger nach ihrer Erdwärme im Kleingartenhaus?",
+   "answer": "Ob das eine Spinnerei ist",
+   "distractors": [
+    "Ob sie das bereut",
+    "Ob die Nachbarn sich beschwert haben",
+    "Ob das Haus jetzt wärmer ist"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Typisch Andreas: Er stellt die Frage, die sich viele denken, und sagt gleich dazu, dass sie ein bisschen gemein ist. Die Antwort führte dann direkt zu den Kosten – teurer am Anfang, billiger im Betrieb.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Kosten"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 2090,
+   "speaker": "Andreas Sator",
+   "quote": "Die Wärmepumpe arbeitet mit einem Kältemittel, das schon bei niedrigen Temperaturen verdampft und alles weitere war mir dann ehrlich gesagt zu kompliziert.",
+   "quote_clean": "Die Wärmepumpe arbeitet mit einem Kältemittel, das schon bei niedrigen Temperaturen verdampft – alles Weitere war mir ehrlich gesagt zu kompliziert.",
+   "statement": "In seiner Zusammenfassung gibt Andreas zu, dass ihm die Funktionsweise der Wärmepumpe ab einem gewissen Punkt zu kompliziert war.",
+   "question": "Was gesteht Andreas in seiner Zusammenfassung über die Wärmepumpe?",
+   "answer": "Der Rest war ihm zu kompliziert",
+   "distractors": [
+    "Dass er selbst eine hat",
+    "Dass er sie für überschätzt hält",
+    "Dass er Physik studiert hat"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ehrlich ist er ja. Und er nimmt es als Ansporn: Er will mehr Technik in den Podcast bringen, gerade weil er selbst davon wenig Ahnung hat.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Technik"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "111",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

@@ -1,0 +1,279 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=145-186 passt: vier Räume (Alemannisch, Mittel-, Süd-, Südmittelbairisch), Aha deckt sich mit der Aufzählung.",
+   "stand_note": "",
+   "statement": "Österreich lässt sich in vier Dialekträume unterteilen.",
+   "question": "In wie viele Dialekträume lässt sich Österreich grob unterteilen?",
+   "answer": "4",
+   "distractors": [
+    "2",
+    "6",
+    "9"
+   ],
+   "aha": "Alemannisch im Westen, dazu Mittelbairisch, Südbairisch und die südmittelbairische Übergangszone. Klingt überschaubar, aber innerhalb dieser Räume kann eh jedes Dorf sein eigenes Süppchen kochen.",
+   "quote_clean": "Man kann Österreich in vier Sprachräume unterteilen. Wir haben das Alemannische ganz im Westen.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=151 passt, Vorarlberg ist alemannisch; Aha deckt sich mit 211-218.",
+   "stand_note": "",
+   "statement": "In Vorarlberg spricht man Alemannisch und nicht Bairisch wie im Rest Österreichs.",
+   "question": "Zu welcher Dialektfamilie gehört der Vorarlberger Dialekt?",
+   "answer": "Alemannisch",
+   "distractors": [
+    "Südbairisch",
+    "Mittelbairisch",
+    "Fränkisch"
+   ],
+   "aha": "Vorarlberg gehört sprachlich zur selben Familie wie die Schweiz und Schwaben. Deshalb versteht man in Wien oft nur Bahnhof, wenn jemand aus Dornbirn loslegt.",
+   "quote_clean": "Wir haben das Alemannische ganz im Westen. Das ist der Grund, warum wir Vorarlberger zum Beispiel nicht verstehen, weil es Alemannisch ist.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=159-222 passt; Bairisch als Dialektfamilie, Aha deckt sich mit 204-222.",
+   "stand_note": "",
+   "statement": "Fast ganz Österreich gehört zum bairischen Dialektraum, der mit „ai“ geschrieben wird und mehr als das Bundesland Bayern meint.",
+   "question": "Zu welcher Dialektfamilie gehören die meisten Dialekte in Österreich?",
+   "answer": "Zum Bairischen",
+   "distractors": [
+    "Zum Alemannischen",
+    "Zum Österreichischen",
+    "Zum Fränkischen"
+   ],
+   "aha": "Mit „ai“ geschrieben ist Bairisch der Name der ganzen Dialektfamilie, nicht des deutschen Bundeslands. Ein Steirer redet also sprachwissenschaftlich gesehen Bairisch, ob er will oder nicht.",
+   "quote_clean": "Der Dialektraum im Rest von Österreich ist das Bairische, Bairisch mit ai geschrieben, also nicht nur das Bundesland Bayern.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Johanna illustriert nur vage ('wohl kaum', 'vielleicht aus dem Burgenland'); die 500 Jahre sind keine belegbare Zahl und als Schieberegler-Faktum ungeeignet.",
+   "stand_note": "",
+   "statement": "Vor rund 500 Jahren hätten sich ein Norddeutscher und ein Burgenländer kaum miteinander unterhalten können.",
+   "question": "Vor wie vielen Jahren hätten sich ein Norddeutscher und ein Burgenländer laut Johanna kaum verständigen können?",
+   "answer": "Vor rund 500 Jahren",
+   "distractors": [
+    "Vor rund 100 Jahren",
+    "Vor rund 1500 Jahren",
+    "Vor rund 50 Jahren"
+   ],
+   "aha": "Große Distanzen, Berge und Flüsse dazwischen, keine gemeinsame Standardsprache. Ohne Buchdruck, Radio und Schule hätten die beiden aneinander vorbeigeredet, obwohl sie im Prinzip Deutsch sprechen.",
+   "quote_clean": "Ein Norddeutscher hat sich früher, wenn man an die Zeit vor 500 Jahren denkt, wohl kaum mit einem Menschen aus dem Burgenland unterhalten können.",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg t=279-300 passt; Distraktoren 'Pfarren' und 'Zollgrenzen' sind in der Dialektforschung durchaus relevante Faktoren und daher nicht eindeutig falsch, ersetzt; Frage mit 'oft' präzisiert.",
+   "stand_note": "",
+   "statement": "Natürliche Grenzen wie Berge und Flüsse sind oft ein Grund, warum sich schon benachbarte Dörfer im Dialekt unterscheiden.",
+   "question": "Woran liegt es laut Johanna oft, dass zwei Nachbardörfer in Österreich unterschiedliche Dialekte haben?",
+   "answer": "An natürlichen Grenzen wie Bergen und Flüssen",
+   "distractors": [
+    "An unterschiedlichen Schulbüchern",
+    "An verschiedenen Wetterlagen",
+    "An der Nähe zu Flughäfen"
+   ],
+   "aha": "Wenn ein Tal im Winter abgeschnitten war, blieben Wörter und Eigenheiten einfach dort. In einem Land mit so vielen Bergen wie Österreich ergibt das einen ordentlichen Fleckerlteppich.",
+   "quote_clean": "Das liegt oft daran, dass wir natürliche Grenzen haben, wie zum Beispiel Berge oder Flüsse, die als Grenze da waren und dazu geführt haben, dass gewisse Dinge nur in dem einen Ort geblieben sind.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Sprachwissenschaftlich unscharf: Niederländisch ist niederfränkisch und eine eigene Standardsprache, nicht schlicht 'niederdeutsch wie das Plattdeutsche'; Statement geht zudem über das Gesagte hinaus.",
+   "stand_note": "",
+   "statement": "Niederländisch gehört zur niederdeutschen Sprachfamilie, wie das Plattdeutsche.",
+   "question": "Zu welcher Sprachfamilie gehört Niederländisch?",
+   "answer": "Zur niederdeutschen",
+   "distractors": [
+    "Zur oberdeutschen",
+    "Zur nordgermanischen",
+    "Zur romanischen"
+   ],
+   "aha": "Nieder- und Oberdeutsch haben sich schon sehr früh getrennt. Darum ist Plattdeutsch für uns fast eine Fremdsprache, während Niederländisch ein naher Verwandter davon ist.",
+   "quote_clean": "Niederländisch zum Beispiel gehört auch zur niederdeutschen Sprachfamilie. Es ist verwandt und man kann die Gemeinsamkeiten sehen.",
+   "quality": 2
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg t=433-458 passt; Frage ('spannendere Frage') war vage, jetzt an Johannas Formulierung ('Frage stellen muss') angelehnt.",
+   "stand_note": "",
+   "statement": "Der Dialekt ist die natürlichere Sprache; erklärungsbedürftig ist eher, woher das Hochdeutsche kommt.",
+   "question": "Welche Frage sollte man sich laut Johanna eher stellen, wenn es um Dialekt und Hochdeutsch geht?",
+   "answer": "Woher das Hochdeutsche kommt",
+   "distractors": [
+    "Woher die Dialekte kommen",
+    "Warum Dialekte aussterben",
+    "Wer Dialekte erfunden hat"
+   ],
+   "aha": "Früher haben überall die Leute ihren lokalen Dialekt geredet. Kurios ist also nicht der Dialekt, sondern dass wir heute so etwas wie eine gemeinsame Standardsprache haben.",
+   "quote_clean": "Man muss dazu sagen, dass der Dialekt in dem Sinne die natürlichere Sprache ist und man sich eher die Frage stellen muss, woher eigentlich das Hochdeutsche kommt.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg t=535-546 passt; Distraktor Gutenberg verrät die Folgefrage zum Buchdruck und Maria Theresia ist nicht eindeutig unbeteiligt an der Standardisierung, daher ersetzt.",
+   "stand_note": "",
+   "statement": "Martin Luther suchte für seine Bibelübersetzung Wörter, die im ganzen deutschen Sprachraum verstanden wurden.",
+   "question": "Wer suchte in seinen Übersetzungen nach Wörtern, die im ganzen deutschen Sprachraum verstanden werden, und trug so zu einem einheitlichen Deutsch bei?",
+   "answer": "Martin Luther",
+   "distractors": [
+    "Walther von der Vogelweide",
+    "Karl der Große",
+    "Friedrich Schiller"
+   ],
+   "aha": "Luther stand vor dem Problem, welche Wörter er nimmt, damit ihn möglichst viele verstehen. Seine Bibelübersetzung wurde dann zu einem der Bausteine für das gemeinsame Deutsch.",
+   "quote_clean": "Luther hat zum Beispiel versucht, in seinen Übersetzungen Begriffe zu finden, die im gesamten Sprachraum verstanden werden.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=547-569 passt (Buchdruck, später Radio und Fernsehen); 'Sanatisierung' ist erkennbar Standardisierung.",
+   "stand_note": "",
+   "statement": "Der Buchdruck brachte Bücher in die Haushalte und trug so zur Standardisierung des Deutschen bei.",
+   "question": "Welche Erfindung half, Luthers einheitliche Wörter im ganzen Sprachraum zu verbreiten?",
+   "answer": "Der Buchdruck",
+   "distractors": [
+    "Die Eisenbahn",
+    "Der Telegraf",
+    "Die Post"
+   ],
+   "aha": "Erst als Bücher massenhaft in die Haushalte kamen, verbreitete sich eine gemeinsame Schriftsprache. Später erledigten Radio und Fernsehen denselben Job, nur lauter.",
+   "quote_clean": "Und als das durch den Buchdruck multipliziert wurde und die Bücher in die Privathaushalte gekommen sind, hat das zu einer Standardisierung beigetragen.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage bei nur einer Gästin, Antwort erratbar; Distraktor 'Hörer namens Lukas' beliebig.",
+   "stand_note": "",
+   "statement": "Die Klage über den Verfall der Sprache ist uralt, schon frühere Generationen wurden dafür gerügt.",
+   "question": "Wer sagt: „Auch unsere Großeltern sind wahrscheinlich von ihren Großeltern schon gerügt worden für ihre schlechte Sprache“?",
+   "answer": "Johanna Fanta",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Hörer namens Lukas",
+    "Martin Luther"
+   ],
+   "aha": "Das Dialektsterben ist ein Dauerbrenner in den Medien. Johanna sieht Sprache aber als etwas, das sich ständig wandelt, und das ist nicht automatisch schlecht.",
+   "quote_clean": "Auch unsere Großeltern sind wahrscheinlich von ihren Großeltern schon gerügt worden für ihre schlechte Sprache.",
+   "quality": 1
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=1244-1263 passt, Johanna relativiert selbst ('pauschal'), das bleibt im Statement erhalten.",
+   "stand_note": "",
+   "statement": "Viele Menschen in Österreich haben eine Art innere Mehrsprachigkeit: Sie wechseln je nach Situation zwischen Dialekt und Standard.",
+   "question": "Wie nennt Johanna die Fähigkeit vieler Österreicher:innen, je nach Situation zwischen Sprachformen zu wechseln?",
+   "answer": "Innere Mehrsprachigkeit",
+   "distractors": [
+    "Dialektschwund",
+    "Sprachverlust",
+    "Doppelte Muttersprache"
+   ],
+   "aha": "Beim Wirt redest du anders als im Bewerbungsgespräch, und das ganz automatisch. Johanna findet das wunderbar, weil darin auch mehrere Identitäten stecken.",
+   "quote_clean": "Das führt eigentlich zu diesem wunderbaren Phänomen, dass wir in Österreich, pauschal gesagt, so eine Art innere Mehrsprachigkeit haben.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Vage Zeitangabe ('in den letzten 15 Jahren') ohne klaren Fakt, mit Stand-2018-Klammer in der Frage; als Schätzfrage nicht sinnvoll.",
+   "stand_note": "Stand 2018",
+   "statement": "Wie Menschen Dialekte wahrnehmen und bewerten, ist erst in den letzten rund 15 Jahren stärker in die Forschung gelangt.",
+   "question": "Seit wie vielen Jahren spielen persönliche Wahrnehmungen von Sprache laut Johanna stärker in der Forschung mit (Stand 2018)?",
+   "answer": "Seit rund 15 Jahren",
+   "distractors": [
+    "Seit rund 50 Jahren",
+    "Seit rund 3 Jahren",
+    "Seit rund 100 Jahren"
+   ],
+   "aha": "Früher galt: ein Ort, ein Dialekt. Heute fragt die Forschung auch, wie Sprache wirkt, etwa ob Standarddeutsch kompetenter klingt, und warum wir uns danach richten.",
+   "quote_clean": "Diese Wahrnehmungen, diese Meinungen sind in den letzten 15 Jahren viel stärker in die Forschung gelangt.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=57 passt, Andreas ist laut t=126 und t=1192-1196 Mostviertler und Bauernkind; harmlose Insider-Frage.",
+   "stand_note": "",
+   "statement": "Andreas begrüßt in dieser Folge auf Mostviertlerisch.",
+   "question": "In welchem Dialekt begrüßt Andreas in der Dialekt-Folge?",
+   "answer": "Mostviertlerisch",
+   "distractors": [
+    "Wienerisch",
+    "Kärntnerisch",
+    "Vorarlbergerisch"
+   ],
+   "aha": "Andreas ist Bauernkind aus dem Mostviertel und hat dort seine Sprache gelernt. Für eine Dialekt-Folge war das Intro also quasi Heimvorteil.",
+   "quote_clean": "Das war jetzt Mostviertlerisch, denn heute reden wir über Dialekte, woher sie kommen und was man über sie wissen muss.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg t=1569-1586 passt (18.15 Uhr, Oberösterreich 'Viertel sieben', Mostviertel 'Viertel über Sechse'); Aha an Johannas Antwort (Fleckerlteppich) angepasst.",
+   "stand_note": "",
+   "statement": "Andreas macht die Uhrzeitangabe „Viertel sieben“ für 18.15 Uhr seit 15 Jahren verrückt.",
+   "question": "Was macht Andreas laut eigener Aussage seit 15 Jahren verrückt?",
+   "answer": "„Viertel sieben“ als Uhrzeit",
+   "distractors": [
+    "Das Wort „Treffma“",
+    "Der Vorarlberger Dialekt",
+    "Das weiche B"
+   ],
+   "aha": "Im Mostviertel heißt 18.15 Uhr „Viertel über Sechse“, ein Stück weiter in Oberösterreich „Viertel sieben“. Laut Johanna ist das ein Fleckerlteppich, den es im ganzen deutschsprachigen Raum gibt.",
+   "quote_clean": "Was mich seit 15 Jahren verrückt macht und worüber ich bis heute nachdenken muss. Weiß man, woher das kommt?",
+   "quality": 3
+  }
+ ],
+ "id": "23",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

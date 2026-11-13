@@ -1,0 +1,271 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 184-192: Durchbruch 'im letzten November', Folge von Ende 2023, also 2022.",
+   "stand_note": "",
+   "statement": "ChatGPT brachte im November 2022 den großen Durchbruch bei der Verbreitung von KI-Sprachmodellen.",
+   "question": "In welchem Jahr kam ChatGPT heraus und machte KI-Sprachmodelle populär?",
+   "answer": "2022",
+   "distractors": [
+    "2019",
+    "2020",
+    "2023"
+   ],
+   "aha": "Im November 2022 ging ChatGPT online, und plötzlich hat jede und jeder mit einem Sprachmodell geplaudert. Die Technik dahinter war aber schon ein paar Jahre älter.",
+   "quote_clean": "ChatGPT war der große Durchbruch in der Popularisierung von KI-Sprachmodellen im letzten November. Es ist also auch schon ein Jahr her.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 209-218, Aha deckt sich mit 218-233.",
+   "stand_note": "",
+   "statement": "Digitale Literatur, also mit dem Computer erzeugte Texte, gibt es fast so lange wie den Computer selbst.",
+   "question": "Seit wann gibt es Literatur, die mit dem Computer erzeugt wird?",
+   "answer": "Fast so lange wie den Computer",
+   "distractors": [
+    "Erst seit ChatGPT",
+    "Erst seit dem Internet",
+    "Erst seit den Smartphones"
+   ],
+   "aha": "Lange vor Sprachmodellen haben Leute kleine Programme geschrieben, die Texte ausspucken, mit klassischen Algorithmen. Eine Nische der experimentellen Literatur, aber eine ziemlich alte.",
+   "quote_clean": "Das heißt Literatur, die wesentlich über Computer gemacht wird. Und das ist etwas, was schon sehr alt ist. Das ist eigentlich so alt wie der Computer selbst.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Zeit und Ort (20er Jahre, Zürich) sind historisch unsauber (Zürich war eher 1910er); Ortsangabe aus Aussage entfernt.",
+   "stand_note": "",
+   "statement": "Der Dadaist Tristan Tzara zog Schnipsel zerschnittener Zeitungen aus einem Hut und legte daraus Gedichte.",
+   "question": "Wie hat der Dadaist Tristan Tzara Gedichte nach dem Zufallsprinzip gemacht?",
+   "answer": "Zeitungsschnipsel aus einem Hut gezogen",
+   "distractors": [
+    "Mit Würfeln Wörter ausgewählt",
+    "Wörterbuch blind aufgeschlagen",
+    "Passant:innen Wörter rufen lassen"
+   ],
+   "aha": "Zufall, Wiederholung, Iteration: Genau solche Verfahren kann man später wunderbar automatisieren. Die KI-Literatur hat also einen Urgroßvater mit Hut.",
+   "quote_clean": "Ein klassisches Beispiel wäre im Dadaismus Tristan Tzara, der aus einem Hut Papierschnipsel gezogen hat, also zerschnittene Zeitungen, und aus den Schnipseln Gedichte gelegt hat.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Wer-hat's-gesagt war trivial (nur ein Gast) und Aha enthielt Unbelegtes; als Inhaltsfrage umgebaut.",
+   "stand_note": "",
+   "statement": "Laut Hannes Bajohr ist die Behauptung, eine KI habe allein etwas geschrieben, eigentlich immer eine Täuschung, denn sie braucht jemanden, der mit ihr zusammenarbeitet.",
+   "question": "Was ist laut Hannes Bajohr die Behauptung, eine KI habe ein Buch ganz allein geschrieben, eigentlich immer?",
+   "answer": "Eine Täuschung",
+   "distractors": [
+    "Schon bald Realität",
+    "Ein Verstoß gegen das Urheberrecht",
+    "Eine Frage des Preises"
+   ],
+   "aha": "Hinter einem KI-Text steckt immer jemand, der Vorgaben macht, auswählt und arrangiert. Bajohr hat für sein Buch Kapitel für Kapitel Sätze erzeugen lassen und danach noch umgestellt.",
+   "quote_clean": "Die Behauptung, eine KI habe allein etwas geschrieben, ist eigentlich immer eine Täuschung.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg bei 395-405; Aha-Behauptung, ChatGPT sei nicht anpassbar, ist heute überholt, entfernt.",
+   "stand_note": "",
+   "statement": "Beim Feintuning gibt man einem fertigen KI-Modell zusätzliche Texte und trainiert es damit nach, etwa um ihm einen bestimmten Stil beizubringen.",
+   "question": "Was passiert beim sogenannten Feintuning eines KI-Sprachmodells?",
+   "answer": "Es wird mit neuen Texten nachtrainiert",
+   "distractors": [
+    "Es wird von Grund auf neu gebaut",
+    "Es bekommt einen Internetzugang",
+    "Seine Antworten werden gekürzt"
+   ],
+   "aha": "Bajohr hat ein freies Modell mit vier Gegenwartsromanen nachgefüttert, bis es ein bisschen nach ihnen klang. Das Modell lernt dabei nicht neu sprechen, sondern bekommt einen Stil mit.",
+   "quote_clean": "Es gibt viele, etwas kleinere KI-Modelle, die man feintunen kann. Das heißt, dass man ihnen Text gibt und sie noch einmal nachtrainiert.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 492-570, klar als These Fletchers attribuiert.",
+   "stand_note": "",
+   "statement": "Der Literaturwissenschafter Angus Fletcher meint, KI könne prinzipiell nicht erzählen, weil sie als statistisches Modell nur Korrelationen, aber keine Kausalitäten versteht.",
+   "question": "Warum kann KI laut dem Literaturwissenschafter Angus Fletcher prinzipiell nicht erzählen?",
+   "answer": "Sie kennt nur Korrelation, keine Kausalität",
+   "distractors": [
+    "Sie hat zu wenig Trainingsdaten",
+    "Sie kann keine Gefühle beschreiben",
+    "Sie vergisst jede Zeitform"
+   ],
+   "aha": "Eine Geschichte lebt von „weil“: Das passiert, darum passiert jenes. Ein Sprachmodell weiß aber nur, welche Wörter oft gemeinsam auftauchen, nicht, was was verursacht.",
+   "quote_clean": "Es gibt die These eines amerikanischen Literaturwissenschaftlers, Angus Fletcher, der meint, dass KI prinzipiell nicht erzählen kann, weil sie als statistisches Modell nur Korrelationen und keine Kausalitäten bearbeiten kann.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 541-555; Distraktor 'Störche und Babys' ist selbst ein Klassiker für Korrelation und verwirrt.",
+   "stand_note": "",
+   "statement": "Ein Sprachmodell lernt, dass Rauch und Feuer oft gemeinsam vorkommen, aber nicht den ursächlichen Zusammenhang, dass Feuer Rauch erzeugt.",
+   "question": "Mit welchem Beispiel erklärt Hannes Bajohr den Unterschied zwischen Korrelation und Kausalität bei KI?",
+   "answer": "Feuer und Rauch",
+   "distractors": [
+    "Regen und Regenschirme",
+    "Eis und Sonnenbrand",
+    "Blitz und Donner"
+   ],
+   "aha": "Die KI hat in Millionen Texten gelesen, dass Rauch und Feuer zusammengehören. Warum, steht da nicht drin. Wir wissen es, weil wir verstehen, wie Ursache und Wirkung funktionieren.",
+   "quote_clean": "Ein Beispiel ist immer Feuer und Rauch. Wenn man Rauch sieht, kann man auf Feuer schließen. Aber dieser ursächliche, kausale Zusammenhang ist nicht in den Trainingsdaten.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Beleg bei 589-598 (Andreas). Unbelegte Aha-Aussage entfernt, Stand 2023 kennzeichnen.",
+   "stand_note": "Stand 2023",
+   "statement": "Die Premium-Version von ChatGPT mit GPT-4 kostete 2023 rund 20 Dollar im Monat.",
+   "question": "Wie viel kostete die Premium-Version von ChatGPT 2023 pro Monat?",
+   "answer": "20 Dollar",
+   "distractors": [
+    "5 Dollar",
+    "50 Dollar",
+    "100 Dollar"
+   ],
+   "aha": "Für 20 Dollar im Monat bekam man 2023 Zugang zu GPT-4, dem damals neuesten Modell.",
+   "quote_clean": "Auf das neueste Modell kann man mit der Bing-Suche zugreifen oder mit ChatGPT, wenn man die Premium-Version für 20 Dollar im Monat hat.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 646-656 ('beginnt bei David Hume').",
+   "stand_note": "",
+   "statement": "Der Philosoph David Hume vertrat die Idee, dass Naturgesetze letztlich nur Hochrechnungen aus Beobachtungen sind.",
+   "question": "Welcher Philosoph meinte, Naturgesetze seien letztlich nur Hochrechnungen aus Beobachtungen?",
+   "answer": "David Hume",
+   "distractors": [
+    "Immanuel Kant",
+    "René Descartes",
+    "Platon"
+   ],
+   "aha": "Andreas fragt, ob wir Kausalität nicht auch nur aus Korrelationen ableiten: Holz anzünden, es raucht. Genau diese Frage hat schon Hume im 18. Jahrhundert umgetrieben.",
+   "quote_clean": "Das beginnt eigentlich bei David Hume, mit der Idee, dass letztlich Gesetze und Naturgesetze immer nur Extrapolationen von Beobachtungen sind.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Missverständnis am Rande ohne Erkenntnisgewinn, Frage und Statement stimmen so nicht mit dem Ausschnitt überein.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg bei 1652-1665; persönliche Erfahrung von 2023, daher Stand.",
+   "stand_note": "Stand 2023",
+   "statement": "ChatGPT ist ein Produkt für die breitestmögliche Zielgruppe und produziert deshalb Standardsprache statt schöner literarischer Texte.",
+   "question": "Warum klingen Texte von ChatGPT laut Hannes Bajohr oft nach Durchschnitt?",
+   "answer": "Es ist auf die breiteste Zielgruppe ausgerichtet",
+   "distractors": [
+    "Es darf keine Adjektive verwenden",
+    "Es kennt nur Zeitungstexte",
+    "Es schreibt bewusst fehlerhaft"
+   ],
+   "aha": "Ein Produkt für alle muss allen ein bisschen gefallen, und das ergibt Standard. Viele Autor:innen sehen genau darin ihre Kunst: Es besser zu können als der Durchschnitt.",
+   "quote_clean": "Da muss man immer dran denken, dass ChatGPT erstmal ein Produkt ist und als Produkt auf die breitestmögliche Zielgruppe ausgerichtet ist und deshalb Standard produziert, eine Standardsprache.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Wer-hat's-gesagt ist trivial; als Inhaltsfrage wäre es eine philosophische Meinung mit strittigen Alternativen.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "veraltet",
+    "spielbarkeit"
+   ],
+   "note": "Im Ausschnitt nennt er 100 Seiten und dann 500 Seiten für Claude 2, Antwort daher nicht eindeutig; Zahl ist zudem lange überholt.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  },
+  {
+   "i": 28,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Meta-Frage über Andreas ohne Wissensgehalt, Aha enthält Unbelegtes.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  }
+ ],
+ "id": "279",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

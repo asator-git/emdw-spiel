@@ -1,0 +1,679 @@
+{
+ "theme": "Gesundheit & Körper",
+ "summary": "Niki Popper simuliert ein virtuelles Österreich am Computer und erklärt, wie es nach dem Corona-Hammer mit dem Tanz weitergehen könnte.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 222,
+   "speaker": "Niki Popper",
+   "quote": "Das heißt, es gibt knapp neun Millionen virtuelle Menschen, die haben Eigenschaften, wie wo sie wohnen, welches Geschlecht sie haben, wie alt sie sind und vieles mehr.",
+   "quote_clean": "Es gibt knapp neun Millionen virtuelle Menschen, die Eigenschaften haben: wo sie wohnen, welches Geschlecht sie haben, wie alt sie sind und vieles mehr.",
+   "statement": "Das Epidemie-Modell der TU Wien simuliert eine virtuelle österreichische Bevölkerung mit knapp neun Millionen Menschen.",
+   "question": "Wie viele virtuelle Menschen leben im Corona-Simulationsmodell der TU Wien?",
+   "answer": "Knapp 9 Millionen",
+   "distractors": [
+    "Rund 90.000",
+    "Rund 900.000",
+    "Knapp 90 Millionen"
+   ],
+   "number_value": 9000000,
+   "number_unit": "virtuelle Menschen",
+   "slider_min": 10000,
+   "slider_max": 100000000,
+   "log_scale": true,
+   "aha": "Das Team baut quasi ein ganzes Österreich im Computer nach, eine Person pro echter Einwohnerin. Nicht die echten Leute, sondern statistische Repräsentanten mit Wohnort, Alter, Geschlecht und Kontakten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Simulation",
+    "Österreich"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 459,
+   "speaker": "Niki Popper",
+   "quote": "Und wir haben unser Modell auf eine Annahme kalibriert, nämlich, dass bis zu knapp 60 Prozent der Menschen in Österreich diese Krankheit bekommen müssen und sich immunisieren müssen.",
+   "quote_clean": "Wir haben unser Modell auf eine Annahme kalibriert, nämlich, dass bis zu knapp 60 Prozent der Menschen in Österreich diese Krankheit bekommen und sich immunisieren müssen.",
+   "statement": "Im März 2020 gingen Virolog:innen davon aus, dass sich bis zu knapp 60 Prozent der Bevölkerung infizieren müssten, damit die Epidemie endet.",
+   "question": "Wie viel Prozent der Menschen in Österreich müssten sich laut der Annahme, auf die das TU-Modell im März 2020 kalibriert war, infizieren und immun werden?",
+   "answer": "Bis zu knapp 60 Prozent",
+   "distractors": [
+    "Rund 10 Prozent",
+    "Rund 25 Prozent",
+    "Über 90 Prozent"
+   ],
+   "number_value": 60,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Die Zahl stammt nicht von den Mathematikern selbst, sondern von Virologen wie Christian Drosten. Popper betont: Das ist eine Annahme von vielen, nicht ihre eigene Hypothese, und sie war der Ausgangspunkt für die Worst-Case-Rechnung.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Herdenimmunität",
+    "Corona"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1816,
+   "speaker": "Niki Popper",
+   "quote": "Und man muss ja sagen, auch wenn die Grippe eine andere Erkrankung ist, aber wir haben im Jahr auch, glaube ich, 200.000, 300.000 Grippekranke, zum Beispiel heuer, sagen die Zahlen,",
+   "quote_clean": "Man muss ja sagen, auch wenn die Grippe eine andere Erkrankung ist: Wir haben im Jahr auch, glaube ich, 200.000, 300.000 Grippekranke, zum Beispiel heuer, sagen die Zahlen.",
+   "statement": "In Österreich erkranken pro Jahr etwa 200.000 bis 300.000 Menschen an der Grippe.",
+   "question": "Wie viele Menschen erkranken in Österreich ungefähr pro Jahr an der Grippe?",
+   "answer": "200.000 bis 300.000",
+   "distractors": [
+    "20.000 bis 30.000",
+    "2.000 bis 3.000",
+    "2 bis 3 Millionen"
+   ],
+   "number_value": 250000,
+   "number_unit": "Grippekranke pro Jahr",
+   "slider_min": 1000,
+   "slider_max": 5000000,
+   "log_scale": true,
+   "aha": "Die Grippe ist eine andere Krankheit, aber sie zeigt: Eine Viruswelle pro Jahr gehört eh zum Leben dazu. Entscheidend ist für Popper, dass die Krankenhäuser mit der Zahl der Schwerkranken zurechtkommen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Grippe",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2331,
+   "speaker": "Andreas Sator",
+   "quote": "Und wie wir in Folge 101 gesehen haben, Ältere, die Definition von Älteren, beginnt in den Studien da schon bei 60. Eigentlich schon ab 50 gibt es ein leicht ansteigendes Risiko.",
+   "quote_clean": "Wie wir in Folge 101 gesehen haben, beginnt die Definition von Älteren in den Studien schon bei 60. Eigentlich gibt es schon ab 50 ein leicht ansteigendes Risiko.",
+   "statement": "In Studien zum Coronavirus beginnt die Gruppe der Älteren schon bei 60 Jahren, ein leicht erhöhtes Risiko gibt es ab 50.",
+   "question": "Ab welchem Alter zählen Menschen in den Corona-Studien von 2020 zu den Älteren mit höherem Risiko?",
+   "answer": "Ab 60 Jahren",
+   "distractors": [
+    "Ab 70 Jahren",
+    "Ab 80 Jahren",
+    "Ab 65 Jahren"
+   ],
+   "number_value": 60,
+   "number_unit": "Jahre",
+   "slider_min": 30,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Bei Risikogruppe denkt man an Pensionist:innen im Pflegeheim, aber die Grenze liegt viel früher. Schon ab 50 steigt das Risiko leicht an, betroffen sind also auch viele, die noch voll im Berufsleben stehen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Risikogruppe",
+    "Corona",
+    "Alter"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2416,
+   "speaker": "Andreas Sator",
+   "quote": "Experten sagen, dass man ihn in 12 bis 18 Monaten erwarten kann.",
+   "quote_clean": "Experten sagen, dass man ihn in 12 bis 18 Monaten erwarten kann.",
+   "statement": "Im März 2020 erwarteten Expert:innen einen Corona-Impfstoff in 12 bis 18 Monaten.",
+   "question": "In wie vielen Monaten erwarteten Expert:innen im März 2020 einen Impfstoff gegen das Coronavirus?",
+   "answer": "In 12 bis 18 Monaten",
+   "distractors": [
+    "In 2 bis 3 Monaten",
+    "In 3 bis 5 Jahren",
+    "In 4 bis 6 Monaten"
+   ],
+   "number_value": 15,
+   "number_unit": "Monate",
+   "slider_min": 1,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Damals galt das als sportlich, normalerweise dauert eine Impfstoffentwicklung viele Jahre. Am Ende ging es sogar schneller: Die ersten Impfungen gab es Ende 2020, rund neun Monate nach dieser Folge.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Impfstoff",
+    "Corona"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1541,
+   "speaker": "Niki Popper",
+   "quote": "Das heißt, wenn wir in den Messdaten sehen, da verändert sich was, dann war das schon vor einer Woche. Und dann muss ich noch damit rechnen, dass es stärker wird.",
+   "quote_clean": "Wenn wir in den Messdaten sehen, dass sich etwas verändert, dann war das schon vor einer Woche. Und dann muss ich noch damit rechnen, dass es stärker wird.",
+   "statement": "Wegen der Inkubationszeit zeigen die Messdaten Veränderungen im Infektionsgeschehen erst mit rund einer Woche Verzögerung.",
+   "question": "Mit wie viel Verzögerung zeigen die Corona-Messdaten laut Niki Popper, dass sich am Infektionsgeschehen etwas geändert hat?",
+   "answer": "Etwa eine Woche",
+   "distractors": [
+    "Etwa einen Tag",
+    "Etwa einen Monat",
+    "Etwa drei Monate"
+   ],
+   "number_value": 7,
+   "number_unit": "Tage",
+   "slider_min": 0,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Zwischen Ansteckung und Erkrankung vergeht Zeit, bei schweren Verläufen noch mehr. Was du heute in den Zahlen siehst, ist also eigentlich schon die Vergangenheit, deshalb braucht es eine Lupe und viel Vorsicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Inkubationszeit",
+    "Daten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1572,
+   "speaker": "Niki Popper",
+   "quote": "Da muss man, glaube ich, immer sagen, die Dunkelziffer ist nicht unbedingt was Negatives in dem Fall. Weil wenn wir nämlich so wie jetzt sehen, dass viele Menschen vielleicht es schon haben,",
+   "quote_clean": "Da muss man immer sagen, die Dunkelziffer ist in dem Fall nicht unbedingt etwas Negatives. Wenn wir nämlich sehen, dass viele Menschen es vielleicht schon haben,",
+   "statement": "Eine hohe Dunkelziffer bei Infektionen kann auch eine gute Nachricht sein, wenn viele Menschen ohne Symptome immun werden.",
+   "question": "Warum ist eine hohe Dunkelziffer an Infizierten laut Niki Popper nicht unbedingt schlecht?",
+   "answer": "Viele werden ohne Symptome immun",
+   "distractors": [
+    "Tests werden dadurch günstiger",
+    "Das Virus mutiert dann langsamer",
+    "Spitäler bekommen mehr Personal"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Klingt zuerst bedrohlich: Viel mehr Infizierte, als man weiß. Aber wenn die gar nicht krank werden und trotzdem immun sind, kommt man dem Ziel näher, ohne dass es auf den Intensivstationen sichtbar wird.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Dunkelziffer",
+    "Immunität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1209,
+   "speaker": "Niki Popper",
+   "quote": "Eine zweite sehr gute Strategie ist, sehr viele Ressourcen dorthin zu verorten, wo es darum geht, ältere Menschen zu unterstützen, kranke Menschen zu pflegen im Sozialbereich",
+   "quote_clean": "Eine zweite sehr gute Strategie ist, sehr viele Ressourcen dorthin zu bringen, wo es darum geht, ältere Menschen zu unterstützen und kranke Menschen im Sozialbereich zu pflegen.",
+   "statement": "Laut Simulationen gehört es zu den wirksamsten Maßnahmen, Ressourcen in den Schutz von Älteren und Pflegebedürftigen zu stecken.",
+   "question": "Welche Maßnahme wirkt in den Simulationen der TU Wien besonders gut gegen schwere Corona-Verläufe?",
+   "answer": "Ältere und Pflegebedürftige gezielt schützen",
+   "distractors": [
+    "Alle Grenzen dauerhaft schließen",
+    "Nur Großveranstaltungen absagen",
+    "Nur Masken im Freien tragen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn das Virus in Pflegeheime oder zu Menschen kommt, die Betreuung brauchen, führt das besonders oft zu schweren Verläufen. Dort zu verhindern, dass kranke Menschen hinkommen, bringt also besonders viel für vergleichsweise wenig Aufwand.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Pflege",
+    "Maßnahmen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1145,
+   "speaker": "Niki Popper",
+   "quote": "Also natürlich das, was am allermeisten wirken würde, ist, sehr fokussiert herauszufinden, wenn wo wieder ein lokaler Ausbruch ist.",
+   "quote_clean": "Was am allermeisten wirken würde, ist, sehr fokussiert herauszufinden, wo wieder ein lokaler Ausbruch ist.",
+   "statement": "Am wirksamsten gegen eine Epidemie ist es, lokale Ausbrüche sofort zu erkennen und gleich zu Beginn einzugreifen.",
+   "question": "Was wäre laut Niki Popper die allereffizienteste Strategie gegen die Ausbreitung einer Epidemie?",
+   "answer": "Lokale Ausbrüche sofort erkennen und stoppen",
+   "distractors": [
+    "Ein landesweiter Dauer-Lockdown",
+    "Alle Grenzen sofort schließen",
+    "Nur Risikogruppen isolieren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Jede Epidemie beginnt irgendwo bei einer Patientin null. Wer jeden Keim gleich am Anfang findet, braucht keinen Hammer für alle, dafür müsste man aber sehr, sehr viel testen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Testen",
+    "Ausbruch"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2389,
+   "speaker": "Andreas Sator",
+   "quote": "Denn zum Beispiel in Südkorea gibt es jetzt schon viel weniger Einschränkungen als bei uns und sie haben das Virus trotzdem im Griff. Südkorea hat aber auch sehr viel größere Laborkapazitäten, weil es viel Erfahrung mit Viren gesammelt hat.",
+   "quote_clean": "In Südkorea gibt es jetzt schon viel weniger Einschränkungen als bei uns, und sie haben das Virus trotzdem im Griff. Südkorea hat aber auch viel größere Laborkapazitäten, weil es viel Erfahrung mit Viren gesammelt hat.",
+   "statement": "Südkorea hatte das Coronavirus im Frühjahr 2020 mit weniger Einschränkungen im Griff, auch dank großer Laborkapazitäten aus früherer Erfahrung mit Viren.",
+   "question": "Welches Land hatte das Coronavirus im März 2020 trotz weniger Einschränkungen im Griff, dank großer Laborkapazitäten?",
+   "answer": "Südkorea",
+   "distractors": [
+    "Italien",
+    "Großbritannien",
+    "Brasilien"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Südkorea hatte schon einige Virus-Ausbrüche hinter sich und deshalb viel Erfahrung und Testkapazität. Wer schnell und viel testen kann, braucht weniger Lockdown.",
+   "difficulty": 1,
+   "time_sensitive": true,
+   "tags": [
+    "Südkorea",
+    "Testen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2184,
+   "speaker": "Niki Popper",
+   "quote": "Ich glaube, man sollte wirklich professionelle Prozesse definieren, wie es das auch in anderen Ländern, wie zum Beispiel in Finnland, da kenne ich es ganz gut, gibt.",
+   "quote_clean": "Ich glaube, man sollte wirklich professionelle Prozesse definieren, wie es sie auch in anderen Ländern gibt, zum Beispiel in Finnland, da kenne ich es ganz gut.",
+   "statement": "Finnland gilt als Vorbild für professionelle Prozesse beim Umgang mit Gesundheitsdaten.",
+   "question": "Welches Land nennt Niki Popper als Vorbild für professionelle Prozesse bei Gesundheitsdaten?",
+   "answer": "Finnland",
+   "distractors": [
+    "Ungarn",
+    "Italien",
+    "Griechenland"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Österreich sieht Popper verhärtete Fronten: alles mit Daten machen oder gar nichts hergeben. Finnland zeigt, dass es auch einen Mittelweg mit klaren Regeln und Erklärungen geben kann.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Daten",
+    "Datenschutz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1657,
+   "speaker": "Niki Popper",
+   "quote": "Genau, also die zwei Aspekte, die wir aktuell nicht reinrechnen in unsere Simulation, einfach nur, weil wir sehr vorsichtig sein müssen, sind die beiden Dinge, auf die wir natürlich persönlich alle hoffen.",
+   "quote_clean": "Die zwei Aspekte, die wir aktuell nicht in unsere Simulation hineinrechnen, einfach weil wir sehr vorsichtig sein müssen, sind die beiden Dinge, auf die wir persönlich alle hoffen.",
+   "statement": "Impfung und Medikament rechnete das TU-Modell im März 2020 bewusst nicht ein, um vorsichtig zu bleiben.",
+   "question": "Was rechnete das Corona-Modell der TU Wien im März 2020 bewusst nicht ein?",
+   "answer": "Impfung und Medikament",
+   "distractors": [
+    "Schulschließungen",
+    "Arbeitskontakte",
+    "Freizeitkontakte"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Genau das, worauf alle hoffen, bleibt im Modell draußen. Wer mit der Hoffnung rechnet, riskiert im schlimmsten Fall falsche Entscheidungen, also lieber vorsichtig planen und sich dann freuen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Simulation",
+    "Impfstoff"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 878,
+   "speaker": "Niki Popper",
+   "quote": "und sehr viele Menschen können, die gar nicht mit Simulation zu tun haben, interpretieren unsere Simulationen oft besser als die Expertinnen und wir,",
+   "quote_clean": "Sehr viele Menschen, die gar nicht mit Simulation zu tun haben, interpretieren unsere Simulationen oft besser als die Expertinnen und wir.",
+   "statement": "Menschen mit praktischem Wissen über Abläufe interpretieren Simulationen oft besser als die Simulationsexpert:innen selbst.",
+   "question": "Wer interpretiert laut Niki Popper Simulationen oft besser als die Expert:innen?",
+   "answer": "Leute mit praktischem Wissen über Abläufe",
+   "distractors": [
+    "Andere Mathematiker aus dem Ausland",
+    "Künstliche Intelligenz",
+    "Politikerinnen in der Regierung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Modellierer können Dinge gut formalisieren, aber wie ein Zeltfest, eine Sportveranstaltung oder eine Schule wirklich funktioniert, wissen die, die dort sind. Dieses Praxiswissen macht aus einer Simulation erst eine brauchbare Einschätzung.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Simulation",
+    "Praxiswissen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1743,
+   "speaker": "Niki Popper",
+   "quote": "Naja, das muss auch nicht exponentiell sein. Wenn ich einfach jeden Tag mehr Kranken dazu bekomme, dann habe ich auch mehr Schwerkranke. Und wenn die nicht schnell genug wieder rausgehen, dann ist es irgendwann voll.",
+   "quote_clean": "Das muss auch nicht exponentiell sein. Wenn ich jeden Tag mehr Kranke dazubekomme, dann habe ich auch mehr Schwerkranke. Und wenn die nicht schnell genug wieder rausgehen, dann ist es irgendwann voll.",
+   "statement": "Krankenhäuser laufen nicht erst bei exponentiellem Wachstum voll, sondern schon, wenn täglich mehr Kranke kommen als entlassen werden.",
+   "question": "Wann laufen Intensivstationen laut Niki Popper irgendwann voll?",
+   "answer": "Wenn mehr kommen als entlassen werden",
+   "distractors": [
+    "Nur bei exponentiellem Wachstum",
+    "Erst ab einer Million Infizierten",
+    "Nur wenn Personal ausfällt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Es ist wie bei einer Badewanne: Rinnt mehr rein als raus, geht sie über, egal wie schnell. Deshalb müssen die Entlassungen mindestens so groß sein wie die Neuaufnahmen, sobald die Betten einmal gut gefüllt sind.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Krankenhaus",
+    "Wachstum"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1017,
+   "speaker": "Niki Popper",
+   "quote": "muss man halt sagen, naja, Freizeitkontakte lassen sich halt noch am ehesten reduzieren, ohne dass Arbeitsplätze gefährdet sind.",
+   "quote_clean": "Man muss sagen, Freizeitkontakte lassen sich noch am ehesten reduzieren, ohne dass Arbeitsplätze gefährdet sind.",
+   "statement": "Freizeitkontakte lassen sich in einer Pandemie am ehesten reduzieren, ohne Arbeitsplätze zu gefährden.",
+   "question": "Wer hat's gesagt: „Freizeitkontakte lassen sich noch am ehesten reduzieren, ohne dass Arbeitsplätze gefährdet sind.“",
+   "answer": "Niki Popper",
+   "distractors": [
+    "Rudolf Anschober",
+    "Florian Krammer",
+    "Christian Drosten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Simulationsforscher der TU Wien sagt das ganz nüchtern, mit dem Nachsatz: Gott sei Dank muss er das nicht entscheiden. Für junge Leute ist daheimsitzen gefühlt der größte Schaden, aber eine stillstehende Wirtschaft wäre über Monate undenkbar.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Maßnahmen",
+    "Wirtschaft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1251,
+   "speaker": "Niki Popper",
+   "quote": "Was sehr häufig nicht gut funktioniert, sind so halbe Geschichten. Wenn ich sage, ich mache in einem Bereich eine Quarantäne, aber ich mache Ausnahmen, weil die muss ich ja machen.",
+   "quote_clean": "Was sehr häufig nicht gut funktioniert, sind halbe Geschichten. Wenn ich sage, ich mache in einem Bereich eine Quarantäne, aber ich mache Ausnahmen, weil ich die ja machen muss.",
+   "statement": "Halbe Maßnahmen, etwa eine Quarantäne mit vielen Ausnahmen, funktionieren in der Epidemiebekämpfung häufig schlecht.",
+   "question": "Wer hat's gesagt: „Was sehr häufig nicht gut funktioniert, sind halbe Geschichten.“",
+   "answer": "Niki Popper",
+   "distractors": [
+    "Rudolf Anschober",
+    "Florian Krammer",
+    "Christian Drosten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn die Hälfte rein und raus darf, bringt die Quarantäne oft wenig. Eine Ausnahme hält er für vertretbar: den Güterverkehr, weil viel weniger Menschen Lkw fahren als täglich über die Grenze pendeln.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Quarantäne",
+    "Maßnahmen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 864,
+   "speaker": "Niki Popper",
+   "quote": "Hausverstand ist in dem Zusammenhang für mich immer ein bisschen gefährlich, weil es deutet für mich so an, das naheliegende Nehmen.",
+   "quote_clean": "Hausverstand ist in dem Zusammenhang für mich immer ein bisschen gefährlich, weil es für mich andeutet, das Naheliegende zu nehmen.",
+   "statement": "Bei Epidemie-Maßnahmen ist Hausverstand im Sinn von „das Naheliegende nehmen“ gefährlich, praktisches Wissen über Abläufe aber wertvoll.",
+   "question": "Wer hat's gesagt: „Hausverstand ist in dem Zusammenhang für mich immer ein bisschen gefährlich.“",
+   "answer": "Niki Popper",
+   "distractors": [
+    "Rudolf Anschober",
+    "Florian Krammer",
+    "Christian Drosten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas hatte nach Hausverstand gefragt, und der Simulationsforscher hat höflich widersprochen. Das Naheliegende ist bei Epidemien oft falsch, das praktische Wissen, wie eine Schule oder ein Zeltfest funktioniert, hingegen Gold wert.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Hausverstand",
+    "Simulation"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 419,
+   "speaker": "Niki Popper",
+   "quote": "Das heißt, ich gebe vor, was ich für ein Ergebnis haben möchte und dann kommt das auch raus. Das klingt jetzt ein bisschen wie ein fieser Trick,",
+   "quote_clean": "Ich gebe vor, welches Ergebnis ich haben möchte, und dann kommt das auch heraus. Das klingt jetzt ein bisschen wie ein fieser Trick.",
+   "statement": "Beim Kalibrieren eines Agentenmodells gibt man das Ergebnis vor und sucht die Eingabeparameter, die dazu führen.",
+   "question": "Was passiert, wenn man ein Agentenmodell wie das der TU Wien kalibriert?",
+   "answer": "Man gibt das Ergebnis vor",
+   "distractors": [
+    "Man löscht alte Daten",
+    "Man halbiert die Bevölkerung",
+    "Man rechnet ohne Kontakte"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Klingt nach Schummeln, ist aber ein Optimierungsproblem: Wenn man nur das Ergebnis kennt, sucht man die Eingaben, mit denen neun Millionen virtuelle Menschen genau dorthin kommen. Dabei lernt man etwas über die Parameter, die man sonst nicht messen kann.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Modell",
+    "Mathematik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1319,
+   "speaker": "Niki Popper",
+   "quote": "Also ich habe da immer das Beispiel genannt, wenn man jetzt einen Zug anhält und die zwei Hustenden rausholt, dann haben die mit ziemlicher Wahrscheinlichkeit einen Schnupfen. Aber es könnten drei drin sitzen, die schauen ganz normal aus, haben überhaupt keine Symptome und haben aber den Virus in sich.",
+   "quote_clean": "Ich habe da immer das Beispiel genannt: Wenn man einen Zug anhält und die zwei Hustenden rausholt, dann haben die mit ziemlicher Wahrscheinlichkeit einen Schnupfen. Aber es könnten drei drin sitzen, die ganz normal ausschauen, überhaupt keine Symptome haben, aber das Virus in sich haben.",
+   "statement": "Grenzkontrollen nach Symptomen funktionieren schlecht, weil Infizierte das Virus schon ohne Symptome weitergeben können.",
+   "question": "Warum funktionieren Grenzschließungen laut Niki Popper mittelfristig nicht?",
+   "answer": "Infizierte ohne Symptome fallen nicht auf",
+   "distractors": [
+    "Das Virus überlebt keine Grenze",
+    "Lkw-Fahrer sind immun",
+    "Züge fahren dann nicht mehr"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die zwei Hustenden im Zug haben wahrscheinlich nur einen Schnupfen, die drei Unauffälligen vielleicht das Virus. Um alle zu erwischen, müsste man jeden mehrere Tage an der Grenze festhalten.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Grenzen",
+    "Symptome"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 621,
+   "speaker": "Andreas Sator",
+   "quote": "Hast du diesen Artikel gesehen, The Hammer and the Dance, der Hammer und der Tanz? Und jetzt kurz für unsere Zuhörerinnen und Zuhörer erklärt, der Hammer, das ist die Maßnahme, die wir jetzt kennen, alle bleiben zu Hause, fast alle Geschäfte haben zu.",
+   "quote_clean": "Hast du diesen Artikel gesehen, The Hammer and the Dance, der Hammer und der Tanz? Kurz für unsere Zuhörerinnen und Zuhörer erklärt: Der Hammer, das ist die Maßnahme, die wir jetzt kennen, alle bleiben zu Hause, fast alle Geschäfte haben zu.",
+   "statement": "Das Bild „Der Hammer und der Tanz“ beschreibt einen harten Lockdown, gefolgt von einer Phase, in der Maßnahmen schrittweise gelockert und nachjustiert werden.",
+   "question": "Wofür steht im Bild „Der Hammer und der Tanz“ der Hammer?",
+   "answer": "Für den harten Lockdown",
+   "distractors": [
+    "Für die Impfkampagne",
+    "Für die Grenzkontrollen",
+    "Für die Massentests"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Den Hammer kann man nicht ewig schwingen, das zeigen Arbeitslosenzahlen und Psyche. Danach kommt der Tanz: öffnen, schauen, was mit den Neuinfektionen passiert, und wieder nachjustieren, wie mit einem Drehregler.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Lockdown",
+    "Corona"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 342,
+   "speaker": "Niki Popper",
+   "quote": "Also wenn wir zum Beispiel eine der ersten Maßnahmen nehmen, die Schließung der Schulen, kann man dadurch lösen in der Simulation, dass die Kinder von 6 bis 14 ihre Schulkontakte einschränken auf 0",
+   "quote_clean": "Wenn wir zum Beispiel eine der ersten Maßnahmen nehmen, die Schließung der Schulen, kann man das in der Simulation so lösen, dass die Kinder von 6 bis 14 ihre Schulkontakte auf 0 einschränken.",
+   "statement": "In einer Agenten-Simulation bildet man Schulschließungen ab, indem man die Schulkontakte der virtuellen Kinder auf null setzt.",
+   "question": "Wie simuliert das Modell der TU Wien eine Schulschließung?",
+   "answer": "Schulkontakte der Kinder auf null",
+   "distractors": [
+    "Alle Kontakte der Eltern auf null",
+    "Kinder werden aus dem Modell gelöscht",
+    "Freizeitkontakte der Kinder verdoppeln"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Jeder virtuelle Mensch hat Freizeit-, Arbeits-, Familien- und eben Schulkontakte. Eine Maßnahme heißt im Modell einfach: eine dieser Kontaktgruppen runterdrehen und schauen, was sich an der Ausbreitung ändert.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Simulation",
+    "Schule"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 2231,
+   "speaker": "Andreas Sator",
+   "quote": "Letzte Frage, Niki, du wirst sie nicht mögen. Ein Blick in die Glaskugel. Wann gibt es wieder so etwas wie Normalität in Österreich?",
+   "quote_clean": "Letzte Frage, Niki, du wirst sie nicht mögen. Ein Blick in die Glaskugel: Wann gibt es wieder so etwas wie Normalität in Österreich?",
+   "statement": "Andreas schloss das Gespräch mit einer Frage, von der er schon wusste, dass sein Gast sie nicht mögen würde: dem Blick in die Glaskugel.",
+   "question": "Mit welcher Frage, die sein Gast „nicht mögen wird“, beendet Andreas das Gespräch mit Niki Popper?",
+   "answer": "Wann gibt es wieder Normalität?",
+   "distractors": [
+    "Wie viele werden noch sterben?",
+    "Wann kommt der Impfstoff?",
+    "Wer ist schuld an der Krise?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine Frage, auf die ein Modellierer keine Zahl geben will. Popper antwortet trotzdem: Normalität kommt bald, aber sie wird ein bisschen anders ausschauen als noch vor ein paar Wochen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Abschlussfrage"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1976,
+   "speaker": "Niki Popper",
+   "quote": "Naja, ich sitze nicht im Krisenstab, sondern die Expertinnen und Experten und das sind ja ganz viele am wichtigsten,",
+   "quote_clean": "Ich sitze nicht im Krisenstab, sondern die Expertinnen und Experten, und das sind ganz viele.",
+   "statement": "Niki Popper stellte richtig, dass er nicht im Krisenstab sitzt, sondern im Expertengremium, das das Gesundheitsministerium berät.",
+   "question": "Was stellt Niki Popper richtig, als Andreas ihn auf den Krisenstab anspricht?",
+   "answer": "Er sitzt nur im Expertengremium",
+   "distractors": [
+    "Er leitet den Krisenstab",
+    "Er war nie in Wien",
+    "Er ist eigentlich Virologe"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Schon am Anfang hatte er das präzisiert, und bei der Frage nach dem Krisenstab gleich noch einmal. Im Gremium sitzen vor allem Medizinerinnen, Virologen und Leute aus Apotheken, er ist dort der Simulationsmensch.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Krisenstab",
+    "Moment"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "102",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

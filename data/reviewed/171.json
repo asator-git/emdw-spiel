@@ -1,0 +1,288 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 256-267 stimmt; Aha enthielt eine nicht belegte Zeitaussage und wurde entschärft.",
+   "stand_note": "",
+   "statement": "Ein idealer Kindergarten lässt sich kurz zusammenfassen: Kinder entdecken die Welt und fühlen sich dabei geborgen.",
+   "question": "Wie fasst die Elementarpädagogin den idealen Kindergarten in einem Satz zusammen?",
+   "answer": "Welt entdecken und sich geborgen fühlen",
+   "distractors": [
+    "Früh lesen und rechnen lernen",
+    "Viel draußen sein und Sport machen",
+    "Gut auf die Schule vorbereitet werden"
+   ],
+   "aha": "Die kürzeste Formel für den idealen Kindergarten hat zwei Teile: entdecken und geborgen sein. Klingt einfach, aber im Detail steckt laut Walter-Laager der Teufel.",
+   "quote_clean": "In einem Kindergarten sollen Kinder die Welt entdecken können, einen zusätzlichen Aspekt der Welt, und sich dabei geborgen fühlen.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aussage stimmt, kommt aber als Einschätzung der Expertin, nicht als „laut Forschung“; Frage angepasst.",
+   "stand_note": "",
+   "statement": "Der wichtigste Faktor für die Qualität eines Kindergartens ist die Pädagogin bzw. der Pädagoge.",
+   "question": "Was ist laut der Expertin der entscheidende Faktor dafür, ob ein Kindergarten gut ist?",
+   "answer": "Die Pädagogin oder der Pädagoge",
+   "distractors": [
+    "Die Größe des Gartens",
+    "Das pädagogische Konzept",
+    "Die Menge an Spielzeug"
+   ],
+   "aha": "Räume, Material und Betreuungsschlüssel zählen auch, aber den Ausschlag gibt die Person, die mit den Kindern arbeitet. Dass die Gruppe entspannt und friedlich zusammenlebt, ist laut Walter-Laager eine echte Kunst.",
+   "quote_clean": "Die Pädagogin ist sicher der entscheidende Faktor, ob es in einem Kindergarten toll ist oder nicht.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Vage Spanne 25 bis 50 Prozent; „bis zu 50“ mit Distraktor „bis zu 30“ ist nicht eindeutig.",
+   "stand_note": "",
+   "statement": "Indirekte Faktoren wie Betreuungsschlüssel und Raumgröße machen etwa 25 bis 50 Prozent der Kindergartenqualität aus.",
+   "question": "Bis zu wie viel Prozent der Qualität eines Kindergartens hängen an Rahmenbedingungen wie Gruppengröße und Raum?",
+   "answer": "Bis zu 50 Prozent",
+   "distractors": [
+    "Bis zu 10 Prozent",
+    "Bis zu 80 Prozent",
+    "Bis zu 30 Prozent"
+   ],
+   "aha": "Etwa ein Viertel bis die Hälfte geht auf das Konto von Rahmenbedingungen.",
+   "quote_clean": "Mitspielen etwa zu 25 bis 50 Prozent indirekte Faktoren wie die Rahmenbedingungen, also Betreuungsrelationen: Wie viele Kinder sind pro Pädagogin da, wie groß ist der Raum.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Beleg bei 452-490 stimmt (97-98 % Frauen, „nur zwei Prozent Männer“), aber die Expertin sagt selbst, sie kenne die aktuelle Zahl für Österreich nicht; als ungefähre Größenordnung mit Stand 2021 formuliert.",
+   "stand_note": "Stand 2021",
+   "statement": "Laut Walter-Laager sind etwa 97 bis 98 Prozent der Kindergartenpädagog:innen Frauen, Männer machen nur etwa 2 bis 3 Prozent aus.",
+   "question": "Wie viel Prozent der Kindergartenpädagog:innen sind laut der Expertin ungefähr Männer?",
+   "answer": "Etwa 2 bis 3 Prozent",
+   "distractors": [
+    "Etwa 10 Prozent",
+    "Etwa 15 Prozent",
+    "Etwa 7 Prozent"
+   ],
+   "aha": "Der Beruf ist fast komplett weiblich: 97, 98 Prozent sind Frauen. Walter-Laager findet das nicht so tragisch – entscheidend sei nicht das Geschlecht, sondern ob jemand gut ist.",
+   "quote_clean": "Ich weiß nicht, wie die aktuelle Zahl in Österreich ist, aber die liegen immer so bei 97, 98 Prozent Frauen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1163-1210 stimmt, Antwort und Distraktoren eindeutig.",
+   "stand_note": "",
+   "statement": "Kindergärtnerin war historisch ein sogenannter Fräuleinberuf für wohlhabende, unverheiratete Töchter – ein Grund, warum er bis heute schlecht bezahlt ist.",
+   "question": "Warum ist der Beruf der Kindergartenpädagogin historisch so schlecht bezahlt?",
+   "answer": "Er galt als Beruf für unverheiratete Töchter",
+   "distractors": [
+    "Er wurde früher von Ordensschwestern gratis gemacht",
+    "Er galt als Hilfsarbeit in Fabriken",
+    "Er wurde früher vom Staat nicht anerkannt"
+   ],
+   "aha": "Vor 200 Jahren war das ein Job für gut situierte Töchter bis zur Hochzeit – danach ging es zur „wahren Bestimmung“ als Ehefrau und Mutter. Solche Fräuleinberufe wurden traditionell mies bezahlt, und das hängt ihnen bis heute nach.",
+   "quote_clean": "Wenn man geschichtlich zurückgeht, dann war das vor 200 Jahren ein Beruf, den man gewählt oder gemacht hat, wenn man eine wohlhabende Tochter war und noch nicht verheiratet.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "„verpflichtend“ steht nicht im Transkript, entfernt; Aha behauptete mehr als gesagt wurde.",
+   "stand_note": "Stand 2021",
+   "statement": "In Österreich ist (Stand 2021) ein Kindergartenjahr gratis.",
+   "question": "Wie viele Kindergartenjahre sind in Österreich laut der Expertin gratis (Stand 2021)?",
+   "answer": "Ein Jahr",
+   "distractors": [
+    "Zwei Jahre",
+    "Drei Jahre",
+    "Kein einziges"
+   ],
+   "aha": "Österreich hat ein gratis Kindergartenjahr, spart aber laut Walter-Laager an anderen Stellen, etwa bei den Löhnen. Wien hat dafür viel investiert, damit Eltern dort die Kosten fast auf null bringen.",
+   "quote_clean": "Aber Österreich hat ein Kindergartenjahr, das umsonst ist, und Löhne für die Pädagoginnen, die im Vergleich zu anderen Berufsfeldern nicht so hoch liegen.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg bei 1347-1360 stimmt; Zahl stammt aus einer Studie von 2018, daher klar datiert.",
+   "stand_note": "Stand 2018",
+   "statement": "Laut einer Studie aus 2018 gibt Österreich rund 0,6 Prozent seiner Wirtschaftsleistung für Elementarpädagogik aus, der Schnitt reicher Länder liegt bei 0,8 Prozent.",
+   "question": "Wie viel Prozent der Wirtschaftsleistung gab Österreich laut einer Studie von 2018 ungefähr für Elementarpädagogik aus?",
+   "answer": "Etwa 0,6 Prozent",
+   "distractors": [
+    "Etwa 2 Prozent",
+    "Etwa 0,2 Prozent",
+    "Etwa 1,4 Prozent"
+   ],
+   "aha": "Österreich liegt mit rund 0,6 Prozent unter dem Schnitt der reichen Länder von 0,8 Prozent. Wünschenswert wäre laut der Studie etwa ein Prozent – also fast doppelt so viel.",
+   "quote_clean": "Österreich gibt so 0,6 Prozent der Wirtschaftsleistung für diesen Bereich aus. Im Schnitt der reichen Länder sind es 0,8 Prozent.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Inhaltlich belegt, aber doppelt zu Kandidat 6 (Aha dort enthält den Ein-Prozent-Wert); eigenständig kaum ratbar.",
+   "stand_note": "Stand 2018",
+   "statement": "Wünschenswert wären laut einer Studie etwa ein Prozent der Wirtschaftsleistung für Elementarpädagogik.",
+   "question": "Wie viel der Wirtschaftsleistung sollte ein Land laut der Studie idealerweise für Elementarpädagogik ausgeben?",
+   "answer": "Etwa ein Prozent",
+   "distractors": [
+    "Etwa fünf Prozent",
+    "Etwa drei Prozent",
+    "Etwa ein halbes Prozent"
+   ],
+   "aha": "Ein Prozent klingt nach wenig, wäre für Österreich aber fast eine Verdoppelung.",
+   "quote_clean": "Und damals habt ihr geschrieben, wünschenswert wäre eigentlich so ein Prozent, also fast doppelt so viel auszugeben.",
+   "quality": 2
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1503-1526 stimmt; einfache Erklärfrage, Distraktoren okay.",
+   "stand_note": "",
+   "statement": "Der Betreuungsschlüssel wirkt ganz direkt: Je mehr Kinder auf eine Pädagogin kommen, desto weniger Minuten bleiben pro Kind.",
+   "question": "Warum ist der Betreuungsschlüssel bei kleinen Kindern so wichtig?",
+   "answer": "Mehr Kinder heißt weniger Minuten pro Kind",
+   "distractors": [
+    "Kleine Kinder brauchen mehr Platz",
+    "Große Gruppen sind lauter für Erwachsene",
+    "Kleine Kinder spielen nicht miteinander"
+   ],
+   "aha": "Beziehungsarbeit braucht Zeit, und die Zeit einer Pädagogin wird einfach durch die Zahl der Kinder geteilt. Je kleiner die Kinder, desto zentraler ist das.",
+   "quote_clean": "Das kannst du schlicht linear runterrechnen: Je mehr Kinder ich habe, desto weniger Minuten pro Kind stehen mir zur Verfügung.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Beleg bei 1549-1558 stimmt; Aha präzisiert (sie sagt, die Vorgabe werde manchmal nicht eingehalten, ohne Details zu Vorschriften).",
+   "stand_note": "",
+   "statement": "Die Expertin findet es zentral wichtig, dass ein Kind im Kindergarten gleich viel Auslauf hat wie ein Bio-Huhn.",
+   "question": "Mit welchem Vergleich macht die Pädagogin klar, wie viel Platz Kinder mindestens brauchen?",
+   "answer": "So viel Auslauf wie ein Bio-Huhn",
+   "distractors": [
+    "So viel Platz wie ein Hund im Tierheim",
+    "So viel Raum wie ein Schreibtischplatz",
+    "So viel Fläche wie ein Parkplatz"
+   ],
+   "aha": "Krasser Vergleich, aber er sitzt: Walter-Laager ärgert sich, dass das manchmal nicht eingehalten wird. Kleine Kinder müssen sich bewegen, und wenn alle zu eng aufeinander hocken, gerät jeder in Stress.",
+   "quote_clean": "Dass ein Kind gleich viel Auslauf hat wie ein Bio-Huhn, wäre schon zentral wichtig.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1650-1684 stimmt (1 zu 9 bis 1 zu 12 für Dreijährige, 1 zu 18-20 für Sechs-/Siebenjährige); Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Für Dreijährige empfehlen internationale Expertengruppen einen Betreuungsschlüssel von etwa 1 zu 9 bis 1 zu 12.",
+   "question": "Wie viele dreijährige Kinder sollten laut Expertengruppen höchstens auf eine Fachkraft kommen?",
+   "answer": "Etwa 9 bis 12",
+   "distractors": [
+    "Etwa 3 bis 5",
+    "Etwa 20 bis 25",
+    "Etwa 15 bis 18"
+   ],
+   "aha": "Empfohlen wird für Dreijährige 1 zu 9 bis 1 zu 12, nicht 1 zu 25. Je älter die Kinder, desto mehr geht: Bei Sechs-, Siebenjährigen sind 1 zu 18 oder 1 zu 20 möglich, weil sie schon viel selbst können.",
+   "quote_clean": "Bei dreijährigen Kindern sprechen wir von 1 zu 9, 1 zu 12, was gut wäre, und nicht 1 zu 25.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Beleg bei 2135-2165 stimmt; Aha enthielt Nachteile des Waldkindergartens und „gemischte Modelle“, die im Ausschnitt nicht belegt sind, entfernt.",
+   "stand_note": "",
+   "statement": "Waldkindergärten fördern besonders die Bewegungsentwicklung, weil der unebene Waldboden den Bewegungsapparat ständig fordert.",
+   "question": "Wofür ist ein Waldkindergarten laut der Expertin besonders gut?",
+   "answer": "Für die Bewegungsentwicklung",
+   "distractors": [
+    "Für den frühen Spracherwerb",
+    "Für das Rechnen lernen",
+    "Für Musik und Rhythmus"
+   ],
+   "aha": "Der unebene Waldboden ist ein Dauertraining für den Bewegungsapparat, und alle Sinne sind voll dabei. Walter-Laager findet einen guten Waldkindergarten deshalb genial.",
+   "quote_clean": "Einen tollen Waldkindergarten finde ich genial, weil die Kinder dort den ganzen Tag draußen sind und in diesem Setting, insbesondere für die Bewegungsentwicklung, unendlich viel Anregung haben, weil der Boden im Wald uneben ist.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Beleg bei 3658-3675 stimmt; Aha ohne unbelegte Golf-Aussage, Formulierung als Meinung der Expertin.",
+   "stand_note": "",
+   "statement": "Bei der Kindergartenwahl sind Spezialkurse wie Chinesisch, Schach oder Golf laut der Expertin kein zentraler Punkt; wichtiger sind entspannte Kinder, gepflegtes Material und zufriedene Pädagoginnen.",
+   "question": "Worauf sollten Eltern bei der Wahl eines Kindergartens laut der Expertin am wenigsten achten?",
+   "answer": "Spezialkurse wie Chinesisch oder Golf",
+   "distractors": [
+    "Ob die Kinder entspannt sind",
+    "Ob das Material gepflegt ist",
+    "Ob die Pädagoginnen zufrieden wirken"
+   ],
+   "aha": "Gute Zeichen sind entspannte Kinder, gepflegtes Material und Pädagoginnen, die kurz Zeit haben – kurz heißt drei Sätze, nicht zehn Minuten. Spezialkurse sind in diesem Alter laut Walter-Laager kein zentraler Punkt.",
+   "quote_clean": "Für mich nicht wichtig ist, dass da irgendwelche Spezialkurse in Chinesisch, Schach oder Golf stattfinden.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belanglose Meta-Frage zur Formulierung des Moderators, kein Wissen, Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Andreas leitet seine Zusammenfassung mit der Frage ein, was er sich von der Folge mitnimmt.",
+   "question": "Mit welchem Satz startet Andreas seine Zusammenfassung am Ende der Folge?",
+   "answer": "Was nehme ich mir also mit?",
+   "distractors": [
+    "Was haben wir heute gelernt?",
+    "Fassen wir kurz zusammen.",
+    "Und was heißt das jetzt?"
+   ],
+   "aha": "Am Schluss fragt Andreas sich selbst, was er mitnimmt.",
+   "quote_clean": "Was nehme ich mir also von der heutigen Folge mit? Ein idealer Kindergarten beginnt in unseren Köpfen.",
+   "quality": 1
+  }
+ ],
+ "id": "171",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

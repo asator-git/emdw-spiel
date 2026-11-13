@@ -1,0 +1,295 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 308 s: ein Drittel oder ein Viertel.",
+   "stand_note": "",
+   "statement": "Eine Wärmepumpe braucht nur etwa ein Drittel bis ein Viertel der Wärmemenge, die sie abgibt, als Strom.",
+   "question": "Wie viel Prozent der abgegebenen Wärme muss eine Wärmepumpe ungefähr als Strom bekommen?",
+   "answer": "Etwa 25 bis 33 Prozent",
+   "distractors": [
+    "Etwa 60 bis 70 Prozent",
+    "Etwa 90 bis 100 Prozent",
+    "Etwa 5 bis 10 Prozent"
+   ],
+   "aha": "Den Rest holt sich die Wärmepumpe gratis aus Luft, Erde oder Grundwasser. Aus einer Kilowattstunde Strom werden so drei bis vier Kilowattstunden Wärme, das ist der ganze Trick.",
+   "quote_clean": "Dazu braucht sie Strom, aber nur etwa ein Drittel oder ein Viertel von der Energiemenge, die sie nachher in den Raum abgeben kann.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg passt; Aha ungenau formuliert (Wärmepumpe 'nimmt Kälte in Kauf'), neu gefasst.",
+   "stand_note": "",
+   "statement": "Eine Wärmepumpe funktioniert wie ein umgekehrter Kühlschrank: Sie zieht Wärme aus einer kalten Quelle und gibt sie auf höherer Temperatur ab.",
+   "question": "Mit welchem Haushaltsgerät lässt sich das Prinzip einer Wärmepumpe am besten vergleichen?",
+   "answer": "Mit einem Kühlschrank",
+   "distractors": [
+    "Mit einem Wasserkocher",
+    "Mit einem Föhn",
+    "Mit einem Backofen"
+   ],
+   "aha": "Beim Kühlschrank ist die Kälte innen der Nutzen und die Wärme hinten der Nebeneffekt. Bei der Wärmepumpe ist es umgekehrt: Sie entzieht Luft, Erde oder Grundwasser Wärme und gibt sie an die Heizkörper ab.",
+   "quote_clean": "Der Vergleich mit dem Kühlschrank ist der: Der Kühlschrank nimmt aus seinem Inneren bei 4 Grad Wärme raus und schiebt sie als Abwärme hinten über seine Heizrippen in den Raum.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "transkription"
+   ],
+   "note": "Aussage im Transkript verworren (80 Grad 'in verschiedenen Stufen'); reale Fernwärme-Temperaturen schwanken stark, Zahl als Faktenfrage nicht eindeutig.",
+   "stand_note": "",
+   "statement": "Das Wasser der Wiener Fernwärme kommt meist mit etwa 80 Grad bei den Häusern an.",
+   "question": "Mit wie viel Grad kommt das Wasser der Wiener Fernwärme meistens bei den Häusern an?",
+   "answer": "Etwa 80 Grad",
+   "distractors": [
+    "Etwa 40 Grad",
+    "Etwa 120 Grad",
+    "Etwa 55 Grad"
+   ],
+   "aha": "Das Wasser wird zentral erhitzt und in gut gedämmten Leitungen unter der Erde zu den Häusern gepumpt. Im Haus selbst braucht man dann fast nichts mehr, um eine Zentralheizung zu betreiben.",
+   "quote_clean": "Dieses Fernwärmenetz wird in verschiedenen Stufen, meistens aber mit etwa 80 Grad zu den Häusern in der Stadt verteilt.",
+   "quality": 1
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Belegt (369-388 s); Aha durch 388 s gedeckt. Energiemix hat sich seither verschoben.",
+   "stand_note": "Stand 2021",
+   "statement": "Die Wiener Fernwärme stammt aus Müllverbrennung und aus Kraftwerken, die gleichzeitig Strom und Wärme erzeugen.",
+   "question": "Woher kommt die Wärme der Wiener Fernwärme hauptsächlich?",
+   "answer": "Müllverbrennung und Strom-Wärme-Kraftwerke",
+   "distractors": [
+    "Solaranlagen auf Gemeindebauten",
+    "Holzkraftwerke im Wienerwald",
+    "Atomstrom aus dem Ausland"
+   ],
+   "aha": "Die Fernwärme ist zu einem guten Teil Abwärme aus der Stromproduktion. Weil diese Kraftwerke aber mit Gas laufen, ist auch die Fernwärme noch nicht klimaneutral.",
+   "quote_clean": "Die Fernwärme selbst wird in Wien aus Müllverbrennungsanlagen geheizt und aus Kraftwerksblöcken, die gleichzeitig Wärme und Strom machen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Belegt bei 423 s (Andreas nennt Statistik Austria); Aha durch 454-460 s gedeckt.",
+   "stand_note": "Stand 2021",
+   "statement": "In Österreich gibt es (Stand 2021) rund eine halbe Million Ölheizungen, meist in Einfamilienhäusern.",
+   "question": "Wie viele Ölheizungen gab es 2021 ungefähr in Österreich?",
+   "answer": "Rund 500.000",
+   "distractors": [
+    "Rund 50.000",
+    "Rund 2 Millionen",
+    "Rund 150.000"
+   ],
+   "aha": "Eine halbe Million Öltanks im Keller, vor allem am Land. Die gute Nachricht: Wo ein Ölkessel steht, gibt es schon Platz und einen Rauchfang, der Tausch ist also vergleichsweise einfach.",
+   "quote_clean": "Wenn wir aufs Land blicken, gibt es noch viele Ölheizungen in Österreich, circa eine halbe Million, typischerweise in einem Einfamilienhaus.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg passt (612-632 s); Zitatfrage mit Gast als einzig plausibler Antwort, daher schwach.",
+   "stand_note": "",
+   "statement": "Peter Holzer sieht den Ausstieg aus fossilen Energien nicht als Klimaschutz aus Liebe, sondern als radikalen Selbstschutz.",
+   "question": "Wer hat's gesagt: „Es ist kein Schutz des Klimas, weil wir das Klima so lieb haben, sondern es ist der ganz radikale Eigenschutz“?",
+   "answer": "Energietechniker Peter Holzer",
+   "distractors": [
+    "Ein Ölkonzern-Chef",
+    "Ein Wiener Rauchfangkehrer",
+    "Ein Förster aus der Steiermark"
+   ],
+   "aha": "Für Peter geht's ums eigene Korn auf den Feldern und um die Hochwässer, die uns sonst jährlich um die Ohren fliegen. Wir müssen uns das leisten, weil wir uns das Nichtstun nicht leisten können.",
+   "quote_clean": "Es ist nicht altruistisch, es ist kein Schutz des Klimas, weil wir das Klima so lieb haben, sondern es ist der ganz radikale Eigenschutz.",
+   "quality": 2
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet",
+    "spielbarkeit"
+   ],
+   "note": "Holzer sagt 'billiges Heizmedium', garantiert aber keine niedrigeren Gesamtkosten; Frage präzisiert, Preise Stand 2021.",
+   "stand_note": "Stand 2021",
+   "statement": "Obwohl Strom pro Kilowattstunde viel teurer ist als Heizöl, ist er in der Wärmepumpe ein billiges Heizmedium, weil sie drei Viertel der Wärme gratis aus der Umgebung holt.",
+   "question": "Warum ist der teure Strom in einer Wärmepumpe trotzdem ein billiges Heizmedium?",
+   "answer": "Sie holt drei Viertel der Wärme gratis aus der Umgebung",
+   "distractors": [
+    "Wärmepumpenstrom ist steuerfrei",
+    "Sie speichert Wärme vom Sommer",
+    "Sie verbrennt zusätzlich Restgas"
+   ],
+   "aha": "Heizöl lag laut Peter 2021 bei 4 bis 7 Cent pro Kilowattstunde, Strom bei rund 20. Weil die Wärmepumpe aber nur ein Viertel Strom braucht, ist es ein Kopf-an-Kopf-Rennen.",
+   "quote_clean": "Das heißt, Strom ist viel teurer als Öl. Die Wärmepumpe braucht aber nur ein Viertel Strom und holt sich drei Viertel gratis aus der Umgebung.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg passt; 'Gaswohnhaus' nicht im Ausschnitt belegt, Frage allgemeiner gefasst; Aha-Detail 'rauschender Kasten' nicht belegt.",
+   "stand_note": "",
+   "statement": "In dicht bebauten Stadtgebieten ist Fernwärme laut Peter Holzer die erste Wahl, wenn sie da ist oder hin ausgebaut wird.",
+   "question": "Was ist laut Energietechniker Holzer in der Stadt die erste Wahl, wenn Fernwärme vorhanden ist oder hin ausgebaut wird?",
+   "answer": "Fernwärme",
+   "distractors": [
+    "Luftwärmepumpe am Balkon",
+    "Pelletskessel im Keller",
+    "Elektrische Infrarotpaneele"
+   ],
+   "aha": "Wenn Fernwärme da ist oder hinkommt, ist sie die erste Wahl. Danach folgt die Erdwärmepumpe, wenn in den Innenhöfen Platz für die Sondenbohrungen ist.",
+   "quote_clean": "Wenn ich eine Reihung vornehmen würde, wäre die erste Wahl in der Stadt in Situationen wie hier die Fernwärme.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Beleg passt (1437 s); 'fast ein Drittel' im Ausschnitt nicht belegt, gestrichen; Projektstand 2021.",
+   "stand_note": "Stand 2021",
+   "statement": "Unter Wien liegt in ein bis zwei Kilometern Tiefe warmes Grundwasser, das für die Fernwärme genutzt werden könnte.",
+   "question": "Was liegt laut Energietechniker Holzer in ein bis zwei Kilometern Tiefe unter Wien und könnte die Fernwärme klimafreundlich machen?",
+   "answer": "Warmes Grundwasser",
+   "distractors": [
+    "Ein großes Erdgaslager",
+    "Ein unterirdischer Salzsee",
+    "Heißer Vulkangesteinsdampf"
+   ],
+   "aha": "Ein erster Bohrversuch ist schiefgegangen, ein zweiter lief damals gerade. Das warme Grundwasser sieht Peter als riesige Energiemenge, die man heraufpumpen kann.",
+   "quote_clean": "In Wien gibt es in etwa ein bis zwei Kilometern Tiefe warmes Grundwasser, und dieses warme Grundwasser ist eine riesige Ressource.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg passt (1609-1619 s); Zahl ist ein hedgender Beispielwert ('vielleicht') und Donaukanal nur Beispiel, Frage entsprechend formuliert.",
+   "stand_note": "",
+   "statement": "Laut Peter Holzer saugt eine Großwärmepumpe am Fluss Wasser an und kühlt es um vielleicht 5 bis 8 Grad ab.",
+   "question": "Um wie viel Grad kühlt laut Holzer eine Großwärmepumpe für die Fernwärme das angesaugte Flusswasser ungefähr ab?",
+   "answer": "Um etwa 5 bis 8 Grad",
+   "distractors": [
+    "Um etwa 30 bis 40 Grad",
+    "Um etwa ein halbes Grad",
+    "Um etwa 15 bis 20 Grad"
+   ],
+   "aha": "Man kann sich das wie einen Turnsaal neben dem Fluss vorstellen, mit zwei etwa 40 Zentimeter dicken Rohren ins Wasser. Kühlschrankprinzip, nur in groß: Aus kühlem Flusswasser wird warmes Fernwärmewasser.",
+   "quote_clean": "Ein Rohr, das das Wasser ansaugt, ein Rohr, das es wieder zurückgibt. Es saugt das Wasser an, kühlt es um vielleicht 5 oder 8 Grad ab und gibt es so abgekühlt wieder zurück.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Statement behauptet mehr als gesagt ('darf nicht als großer Problemlöser gelten'); Zitatfrage mit Dummy-Distraktoren.",
+   "stand_note": "",
+   "statement": "Holz ist erneuerbar, aber begrenzt, und darf deshalb nicht als großer Problemlöser der Energiewende gelten.",
+   "question": "Wer hat's gesagt: „Holz ist zwar eine erneuerbare Ressource, aber es ist eine beschränkte Ressource“?",
+   "answer": "Energietechniker Peter Holzer",
+   "distractors": [
+    "Ein Pelletshändler aus Tirol",
+    "Eine Ölheizungs-Lobbyistin",
+    "Ein Wiener Rauchfangkehrer"
+   ],
+   "aha": "Am Land, in alten unsanierten Häusern oder bei eigenem Restholz kann Biomasse passen. Großflächig in der Stadt aber nicht, auch wegen des Feinstaubs.",
+   "quote_clean": "Holz ist zwar eine erneuerbare Ressource, aber es ist eine beschränkte Ressource, und der Klimawandel bringt große Herausforderungen für die Waldbesitzer.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg passt (1323-1347 s), inkl. Aha; Zitatfrage schwach, da Gast einzig plausibel.",
+   "stand_note": "",
+   "statement": "Peter Holzer findet, dass sich Österreich die Debatte über die Schönheit von Windrädern nicht leisten kann.",
+   "question": "Wer hat's gesagt: „Wir brauchen Windkraft, und die Diskussion, ob wir sie schön oder nicht schön finden, können wir uns nicht leisten“?",
+   "answer": "Energietechniker Peter Holzer",
+   "distractors": [
+    "Ein Bürgermeister aus Tirol",
+    "Eine Ölhändlerin aus Linz",
+    "Ein Landschaftsfotograf"
+   ],
+   "aha": "Ohne Öl und Gas brauchen wir viel mehr Strom, für Wärmepumpen und erst recht für den Verkehr. Peter selbst findet Windräder übrigens schön, gibt aber zu, dass er ein Umwelt-Nerd ist.",
+   "quote_clean": "Da möchte ich ehrlich sein: Wir brauchen Windkraft, und die Diskussion, ob wir sie schön oder nicht schön finden, können wir uns nicht leisten.",
+   "quality": 2
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Aha behauptet Antwort ('Nein, 20 Jahre') die im Ausschnitt nicht steht; Gast beim Zögern vorgeführt; Quote verfälscht.",
+   "stand_note": "",
+   "statement": "Auf die Frage, ob Österreich schnell genug saniert, braucht Peter Holzer eine lange Denkpause, die Andreas live kommentiert.",
+   "question": "Was macht Andreas, als sein Gast bei der Frage nach dem Sanierungstempo lange schweigt?",
+   "answer": "Er sagt: „Peter überlegt.“",
+   "distractors": [
+    "Er stellt eine neue Frage",
+    "Er spielt Musik ein",
+    "Er beantwortet sie selbst"
+   ],
+   "aha": "Elf Sekunden Stille im Podcast sind eine Ewigkeit.",
+   "quote_clean": "Haben wir schon das nötige Tempo in diesem Bereich? Peter überlegt. Ja, ich überlege, das notwendige Tempo …",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage ohne Wissenswert; 'typischerweise' nicht belegt (nur diese eine Folge).",
+   "stand_note": "",
+   "statement": "Andreas bittet seine Gäste zu Beginn, sich kurz selbst vorzustellen.",
+   "question": "Wie startet Andreas typischerweise das Gespräch mit seinem Gast?",
+   "answer": "Er bittet ihn, sich kurz vorzustellen",
+   "distractors": [
+    "Er liest einen Hörerbrief vor",
+    "Er fragt nach dem Lieblingsessen",
+    "Er stellt eine Quizfrage"
+   ],
+   "aha": "Bevor es um Wärmepumpen geht, darf der Gast erzählen, wer er ist.",
+   "quote_clean": "Schön, dass du da bist. Magst du dich zu Beginn noch kurz vorstellen, bitte?",
+   "quality": 1
+  }
+ ],
+ "id": "192",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

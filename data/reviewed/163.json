@@ -1,0 +1,280 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Drei Milliarden Basen bei 183-193 belegt.",
+   "stand_note": "",
+   "statement": "Die menschliche Erbinformation in einer Zelle ist etwa drei Milliarden Basenpaare lang.",
+   "question": "Aus wie vielen Basen (Buchstaben) besteht das menschliche Erbgut ungefähr?",
+   "answer": "etwa 3 Milliarden",
+   "distractors": [
+    "etwa 3 Millionen",
+    "etwa 300 Millionen",
+    "etwa 30 Milliarden"
+   ],
+   "aha": "Drei Milliarden Buchstaben, geschrieben in nur vier Zeichen: A, T, G und C. Martin nennt das eine sehr lange Wurst, und die steckt fast in jeder deiner Zellen.",
+   "quote_clean": "Davon haben wir in fast allen unseren Zellen eine sehr lange Wurst, die etwa drei Milliarden dieser Basen lang ist.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Plus minus 21.000 Gene bei 254-258 belegt; Unsicherheit wird genannt, Zahl heute ähnlich (rund 20.000).",
+   "stand_note": "Stand 2021",
+   "statement": "Der Mensch hat ungefähr 21.000 Gene, die genaue Zahl ist noch umstritten.",
+   "question": "Wie viele Gene hat ein Mensch ungefähr?",
+   "answer": "rund 21.000",
+   "distractors": [
+    "rund 2.100",
+    "rund 210.000",
+    "rund 2,1 Millionen"
+   ],
+   "aha": "Nur rund 21.000 Abschnitte im Erbgut sind klassische Gene, die einen Bauplan für Eiweiße enthalten. Ganz einig ist sich die Forschung über die genaue Zahl aber nicht.",
+   "quote_clean": "Und die nennt man dann Gene. Davon haben wir plus minus 21.000. Da ist man sich noch nicht ganz einig.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Rote Blutkörperchen ohne DNA bei 352 belegt, Augenzellen ebenfalls erwähnt; Distraktoren haben sicher DNA.",
+   "stand_note": "",
+   "statement": "Rote Blutkörperchen haben keine DNA.",
+   "question": "Welche Zellen deines Körpers enthalten keine DNA?",
+   "answer": "Rote Blutkörperchen",
+   "distractors": [
+    "Nervenzellen",
+    "Leberzellen",
+    "Hautzellen"
+   ],
+   "aha": "Fast jede Zelle trägt den kompletten Bauplan für deinen Körper. Die roten Blutkörperchen sind eine der Ausnahmen: Sie haben gar keine DNA, genauso wie manche Zellen in deinen Augen.",
+   "quote_clean": "Man muss zum Beispiel die roten Blutkörperchen ausnehmen, die haben keine DNA.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Über 30 Billionen Zellen bei 363-369 belegt; 13 Nullen stimmt rechnerisch.",
+   "stand_note": "",
+   "statement": "Der menschliche Körper besteht aus über 30 Billionen Zellen.",
+   "question": "Aus wie vielen Zellen besteht dein Körper ungefähr?",
+   "answer": "über 30 Billionen",
+   "distractors": [
+    "über 30 Milliarden",
+    "über 300 Millionen",
+    "über 30 Billiarden"
+   ],
+   "aha": "Eine Zahl mit 13 Nullen. Und fast jede dieser Zellen hätte im Prinzip das Potenzial, einen ganzen neuen Menschen zu formen, einen Klon von dir, weil überall derselbe Bauplan drinsteckt.",
+   "quote_clean": "Grob kann man sagen, du bestehst aus über 30 Billionen Zellen. Das ist eine Zahl mit 13 Nullen.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Ohr vs. Niere bei 387-403 klar belegt.",
+   "stand_note": "",
+   "statement": "Zellen im Ohr und in der Niere haben dieselbe Erbinformation, lesen aber unterschiedliche Teile davon ab.",
+   "question": "Warum sehen Zellen im Ohr anders aus als Zellen in der Niere?",
+   "answer": "Sie lesen andere Teile der DNA ab",
+   "distractors": [
+    "Sie haben eine andere DNA",
+    "Sie stammen von anderen Eltern",
+    "Sie haben weniger Chromosomen"
+   ],
+   "aha": "Dein Ohrwaschel und deine Niere haben denselben Bauplan. Der Unterschied ist nur, welche Seiten davon gerade aufgeschlagen sind, also welche Gene abgelesen werden.",
+   "quote_clean": "Der Grund, warum die Zellen in deinem Ohrwaschel nicht genauso ausschauen wie die Zellen in deiner Niere, ist einfach, weil andere Teile dieser Erbinformation abgelesen werden. Aber die Erbinformation ist überall die gleiche.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "23 Chromosomenpaare bei 446-450 belegt; 46 als Distraktor ist eine faire Falle.",
+   "stand_note": "",
+   "statement": "Der Mensch hat 23 Chromosomenpaare, je eine Hälfte stammt von Mutter und Vater.",
+   "question": "Wie viele Chromosomenpaare hat ein Mensch?",
+   "answer": "23",
+   "distractors": [
+    "12",
+    "32",
+    "46"
+   ],
+   "aha": "Meistens denkt man nur an X und Y, die Geschlechtschromosomen. Dabei sind es 23 Paare, und von jedem Paar kommt grob gesagt eines von der Mama und eines vom Papa.",
+   "quote_clean": "In Wirklichkeit haben wir 23 Chromosomenpaare. Die Hälfte deiner Chromosomen stammt von der Mutter und die andere Hälfte vom Vater, grob gesagt.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg 492-511 passt, aber Moder nennt es selbst 'viel zu einfach gedacht' und sagt 'tendenziell'; Frage als vereinfachtes Modell gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Im vereinfachten Modell sind helle Haarfarben tendenziell rezessiv und dunkle dominant.",
+   "question": "Im stark vereinfachten Schulmodell: Ein Elternteil vererbt das Gen für blonde, das andere für schwarze Haare. Welche Haarfarbe ist wahrscheinlicher?",
+   "answer": "Schwarz",
+   "distractors": [
+    "Blond",
+    "Ein Mittelbraun aus beiden",
+    "Rot"
+   ],
+   "aha": "Dunkle Haarfarben setzen sich tendenziell durch, sie sind dominant, helle sind rezessiv. Martin sagt aber gleich dazu: Das ist viel zu einfach gedacht, bei der Nasenform etwa weiß er gar nicht, wie viele Gene mitspielen.",
+   "quote_clean": "Da ist es tendenziell eher so, dass die hellen Haarfarben rezessiv sind und die dunklen eher dominant.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg 530-545 passt; Distraktor 'Nur bei äußeren Merkmalen immer' war unsauber, ersetzt.",
+   "stand_note": "",
+   "statement": "Dass ein einzelnes Gen genau eine Eigenschaft bestimmt, ist die absolute Ausnahme.",
+   "question": "Wie oft bestimmt ein einzelnes Gen genau eine Eigenschaft?",
+   "answer": "Nur ausnahmsweise",
+   "distractors": [
+    "Bei fast allen Eigenschaften",
+    "Bei etwa der Hälfte",
+    "Bei allen äußeren Merkmalen"
+   ],
+   "aha": "Ein Gen, eine Eigenschaft, so lernt man es in der Schule. Das trifft höchstens auf manche Erbkrankheiten zu, fast alles andere wird von sehr vielen Stellen im Genom mitbestimmt.",
+   "quote_clean": "In Wirklichkeit ist dieses Denken – ein Gen, eine Eigenschaft – die absolute Ausnahme.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "'Seit Jahrzehnten' und 'trennt' sind nicht belegt (Moder nennt auch andere Methoden); Frage auf das belegte Prinzip der Zwillingsstudien (686-737) umgestellt.",
+   "stand_note": "",
+   "statement": "Zwillingsstudien sind nützlich, weil eineiige und zweieiige Zwillinge in ähnlicher Umwelt aufwachsen, aber unterschiedlich viel Erbinformation teilen.",
+   "question": "Was macht Zwillinge für die Genetik-Forschung so nützlich?",
+   "answer": "Gleiche Umwelt, aber unterschiedlich viele gemeinsame Gene",
+   "distractors": [
+    "Sie sind in allen Eigenschaften identisch",
+    "Sie wachsen meist in verschiedenen Ländern auf",
+    "Sie haben keine gemeinsamen Gene"
+   ],
+   "aha": "Ein- und zweieiige Zwillinge wachsen meist gleich auf, gleiche Familie, gleiches Essen, gleiche Schule. Unterscheiden sich nur die zweieiigen stark, etwa bei der Größe, steckt viel Genetik dahinter. Moder betont allerdings, dass solche Studien nicht ohne Verzerrungen sind.",
+   "quote_clean": "Ich nehme eineiige und zweieiige Zwillinge und sehe, die eineiigen, also die genetisch identen, sind fast immer genau gleich groß. Und bei den zweieiigen Zwillingen schwankt diese Größe sehr stark.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg 921-1009 klar; Antwort um 'in einer Gruppe' präzisiert, das ist der Kern der Aussage.",
+   "stand_note": "",
+   "statement": "Vererbbarkeitswerte beschreiben Unterschiede in einer gemessenen Gruppe, nicht die Grenzen eines einzelnen Menschen.",
+   "question": "Was sagt eine hohe Vererbbarkeit einer Eigenschaft aus?",
+   "answer": "Wie viel der Unterschiede in einer Gruppe auf Gene zurückgeht",
+   "distractors": [
+    "Wie stark man die Eigenschaft selbst verändern kann",
+    "Wie sicher die eigenen Kinder sie erben",
+    "Wie viele Gene daran beteiligt sind"
+   ],
+   "aha": "Selbst bei 99 Prozent Vererbbarkeit nehmen alle ab, wenn sie eine Woche nichts essen. Die Zahl beschreibt den Ist-Zustand einer gemessenen Gruppe, kein Schicksal für dich persönlich.",
+   "quote_clean": "Ganz blöd formuliert: Wenn ich eine Gruppe messe und für den BMI kommt eine Vererbbarkeit von 99 Prozent heraus, ich gebe denen aber eine Woche nichts zu essen, nehmen trotzdem alle ab.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "beleg"
+   ],
+   "note": "Der berühmte Oxytocin-Rezeptor-Einzelbuchstabe und sein Empathie-Effekt gehören zu den Kandidatengen-Befunden, die sich später kaum bestätigen ließen; Aha nennt eine Studiengröße (500.000), die im Ausschnitt nicht vorkommt.",
+   "stand_note": "",
+   "statement": "Ein einzelner Buchstabe im Oxytocin-Rezeptor-Gen hat einen messbaren, aber kleinen Einfluss auf empathisches Verhalten.",
+   "question": "Ein einzelner DNA-Buchstabe in welchem Gen beeinflusst messbar, wie empathisch Menschen sind?",
+   "answer": "Im Oxytocin-Rezeptor-Gen",
+   "distractors": [
+    "Im Insulin-Gen",
+    "Im Melanin-Gen",
+    "Im Hämoglobin-Gen"
+   ],
+   "aha": "Oxytocin kennt man als Kuschelhormon, sein Rezeptor prägt unser Sozialverhalten.",
+   "quote_clean": "Das Gen, das ich da hinschreibe, ist ein kurzer Ausschnitt von einem Oxytocin-Rezeptor-Gen, das im Gehirn eine große Rolle spielt.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg 2226-2242 passt, ist aber Moders vorsichtige Einschätzung ('wahrscheinlich') und hängt am Oxytocin-Beispiel; als Einschätzung markiert, Distraktoren ersetzt.",
+   "stand_note": "",
+   "statement": "Martin Moder schätzt, dass eine einzelne veränderte Genposition beim Sozialverhalten wahrscheinlich weniger Unterschied macht, als das Kind einmal mehr oder weniger anzuschreien.",
+   "question": "Womit vergleicht Martin Moder (scherzhaft) den Effekt, eine einzelne Genposition für das Sozialverhalten per Genschere zu verändern?",
+   "answer": "Mit dem Kind seltener anschreien",
+   "distractors": [
+    "Mit einem Umzug in eine andere Stadt",
+    "Mit einem Schulwechsel",
+    "Mit einem neuen Haustier"
+   ],
+   "aha": "Theoretisch könnte man das Sozialverhalten eines Embryos per Genschere ein bisserl verschieben. Praktisch ist der Effekt laut Moder aber so winzig, dass schon weniger Schreien mehr bringen dürfte, und das ist deutlich weniger Arbeit.",
+   "quote_clean": "Du machst wahrscheinlich weniger Unterschied damit, ob du diese eine Genposition veränderst, als ob dein Kind einmal mehr oder weniger angeschrien wird, und da ist deutlich weniger Arbeit drin.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg 1977-1991 klar; im Aha war das Weihnachtsgeschenk nicht eindeutig Moder zuzuordnen, entfernt.",
+   "stand_note": "",
+   "statement": "Martin Moder ließ seine Gene erst testen, nachdem er gesehen hatte, dass seine Kolleg:innen im Doktorat gut mit ihren Ergebnissen zurechtkamen.",
+   "question": "Wie ging Martin Moder an seinen eigenen Gentest heran?",
+   "answer": "Er wartete erst die Kolleg:innen ab",
+   "distractors": [
+    "Er ließ ihn heimlich machen",
+    "Er lehnte ihn grundsätzlich ab",
+    "Er machte ihn als Erster im Labor"
+   ],
+   "aha": "Die Feiglingsvariante, wie er sie selbst nennt: erst schauen, ob bei den anderen jemand in Panik gerät. Niemand tat das, also machte er den Test auch, aus reinem Interesse.",
+   "quote_clean": "Ich habe sogar die Feiglingsvariante gemacht. Alle in meinem Jahrgang haben das während meines Doktorats gemacht.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Triviale Frage zu Andreas' eigenem Aussehen, kein Erkenntnisgewinn; Distraktor 'große Nase' ist reine Verwechslungsfalle.",
+   "stand_note": "",
+   "statement": "Andreas Sator hat nach eigenen Worten die Nase vom Vater und die Zahnlücke von der Mutter geerbt.",
+   "question": "Was hat Andreas laut eigener Aussage von seiner Mutter geerbt?",
+   "answer": "Die Zahnlücke",
+   "distractors": [
+    "Die große Nase",
+    "Die Locken",
+    "Die Sommersprossen"
+   ],
+   "aha": "Nase vom Papa, Zahnlücke von der Mama. Bei der Nasenform weiß nicht einmal Martin, wie viele Gene da mitspielen.",
+   "quote_clean": "Ich habe zum Beispiel die große Nase von meinem Vater und die Zahnlücke von meiner Mutter. Ich würde mich da gerne wo beschweren.",
+   "quality": 1
+  }
+ ],
+ "id": "163",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

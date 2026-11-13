@@ -1,0 +1,277 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "70 % und 2 % bei 1351 s belegt; Kontext sind reiche Länder wie Österreich und Deutschland.",
+   "stand_note": "",
+   "statement": "Vor 200 Jahren arbeiteten 70 % und mehr der Arbeitskräfte in der Landwirtschaft, heute sind es in den meisten Industrieländern rund 2 % oder weniger.",
+   "question": "Wie viel Prozent der Arbeitskräfte arbeiten heute in den meisten Industrieländern noch in der Landwirtschaft?",
+   "answer": "rund 2 Prozent",
+   "distractors": [
+    "rund 8 Prozent",
+    "rund 15 Prozent",
+    "rund 25 Prozent"
+   ],
+   "aha": "Vor 200 Jahren waren es noch 70 % und mehr. Hätte man den Leuten damals erzählt, dass bald fast niemand mehr am Feld steht, hätten sie gefragt, was denn alle anderen machen sollen. Die Antwort: Jobs, die es damals gar nicht gab, vom Wellness-Wochenende bis zum Podcast.",
+   "quote_clean": "in der Landwirtschaft tätig, 70 % und teilweise mehr. Heutzutage sind es in den meisten Ländern 2 % oder weniger.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Faktor 3 nur mit „ich glaube“ genannt, historisch unsicher; Zahlenpaar nicht belastbar.",
+   "stand_note": "",
+   "statement": "In der Industriellen Revolution verdreifachte der mechanische Webstuhl die Produktivität, im selben Zeitraum verfünffachte sich die Nachfrage nach Kleidung.",
+   "question": "Die Produktivität in der Textilindustrie hat sich in der Industriellen Revolution verdreifacht. Um welchen Faktor stieg im selben Zeitraum die Nachfrage nach Kleidung?",
+   "answer": "um den Faktor 5",
+   "distractors": [
+    "um den Faktor 2",
+    "um den Faktor 3",
+    "um den Faktor 10"
+   ],
+   "aha": "Man könnte meinen, dreimal so produktiv heißt, man braucht nur noch ein Drittel der Weber. Weil die Leute aber wohlhabender wurden und mehr Gewand kauften, waren in der Textilindustrie danach sogar mehr Menschen beschäftigt als vorher.",
+   "quote_clean": "sodass sich insgesamt über den Zeitraum, in dem sich die Produktivität verdreifacht hat, die Nachfrage nach Kleidung verfünffacht hat.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Verallgemeinerung ohne Einordnung; die Bankbeschäftigung ist in Europa seit Jahren rückläufig, heute irreführend.",
+   "stand_note": "",
+   "statement": "Nach der Einführung des Bankomaten arbeiten heute mehr Menschen in Banken als davor, nur in anderen Tätigkeiten.",
+   "question": "Was passierte mit der Zahl der Bankangestellten, nachdem der Bankomat eingeführt wurde?",
+   "answer": "Heute arbeiten mehr Leute in Banken",
+   "distractors": [
+    "Sie hat sich ungefähr halbiert",
+    "Sie ist auf ein Zehntel gesunken",
+    "Sie blieb exakt gleich"
+   ],
+   "aha": "Als der Bankomat kam, hieß es: Jetzt braucht niemand mehr Bankangestellte. Gekommen ist es anders, die Leute machen halt andere Dinge, etwa Beratung. Ökonom:innen nennen das Kompensationsmechanismen.",
+   "quote_clean": "Bankangestellten mehr. In Wahrheit sind heute mehr Leute in einer Bank beschäftigt, nur in anderen Tätigkeiten, als bevor der Bankomat eingeführt wurde.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "4 Millionen (2023) bei 2160 s und 2217 s belegt, passt zu IFR-Zahlen; Stand-Hinweis nötig.",
+   "stand_note": "Stand 2023",
+   "statement": "Die Zahl der Industrieroboter weltweit ist von rund einer Million im Jahr 2007 auf etwa 4 Millionen gestiegen.",
+   "question": "Wie viele Industrieroboter gibt es ungefähr auf der Welt (Stand 2023)?",
+   "answer": "rund 4 Millionen",
+   "distractors": [
+    "rund 400.000",
+    "rund 40 Millionen",
+    "rund 400 Millionen"
+   ],
+   "aha": "Lange war das Wachstum gemächlich, explodiert ist es nach der Finanzkrise. Roboter wurden viel billiger, und Firmen, die vorher Leute hinausgeworfen hatten, fanden schwer wieder Personal. 1990 waren es übrigens erst rund 400.000.",
+   "quote_clean": "von einer Million im Jahr 2007 auf jetzt 4 Millionen gestiegen ist, also eine Vervierfachung während der letzten 10 bis 15 Jahre.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "12 Stunden, kein Urlaub bei 947 s belegt; grobe, aber vom Gast so gemeinte Verallgemeinerung.",
+   "stand_note": "",
+   "statement": "Vor 200 Jahren arbeiteten Menschen etwa doppelt so viel wie heute: rund 12 Stunden am Tag, ohne Urlaub.",
+   "question": "Wie sah ein typischer Arbeitstag vor rund 200 Jahren aus?",
+   "answer": "12 Stunden, ohne Urlaub",
+   "distractors": [
+    "8 Stunden, mit zwei Wochen Urlaub",
+    "6 Stunden, ohne Urlaub",
+    "10 Stunden, mit fünf Wochen Urlaub"
+   ],
+   "aha": "Gefühlt haben wir heute weniger Freizeit, die Zahlen sagen etwas anderes. Damals hat man gearbeitet, bis man gestorben ist. Heute gibt es die 40-Stunden-Woche, Urlaub und im Schnitt fast 20 Jahre Pension.",
+   "quote_clean": "Vor allem wenn man 200 Jahre zurückgeht, da hat man doppelt so viel gearbeitet, und das war de facto 12 Stunden am Tag und kein Urlaub.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Südkorea und Japan bei 2048 s belegt; Rangfolge der Automatisierung verschiebt sich (China holt auf), daher Stand-Hinweis.",
+   "stand_note": "Stand 2024",
+   "statement": "Südkorea und Japan haben wegen niedriger Geburtenraten und kaum Zuwanderung Arbeitskräftemangel und gehören zu den am stärksten automatisierten Ländern der Welt.",
+   "question": "Welche zwei Länder gehören laut Klaus Prettner zu den am stärksten automatisierten der Welt?",
+   "answer": "Südkorea und Japan",
+   "distractors": [
+    "USA und Großbritannien",
+    "China und Indien",
+    "Frankreich und Spanien"
+   ],
+   "aha": "Roboter kommen vor allem dort, wo Leute fehlen. Großbritannien ist ähnlich reich und technisch weit, automatisiert aber viel weniger, weil es mehr Zuwanderung und mehr Geburten hatte.",
+   "quote_clean": "wie Japan, Südkorea, Deutschland und Italien. Das sind Länder mit sehr niedrigen Fertilitätsraten. Südkorea und Japan haben auch kaum Immigration, das heißt, dort ist Arbeitskräfteknappheit, und diese Länder sind die Länder, die die höchste Automatisierung der Welt haben.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Kostenargument bei 2104 s belegt; Distraktoren klar falsch.",
+   "stand_note": "",
+   "statement": "In Ländern mit vielen jungen Arbeitskräften und niedrigen Löhnen, etwa in Afrika, gibt es kaum Automatisierung, weil sich teure Roboter gegen billige Arbeit nicht rechnen.",
+   "question": "Warum gibt es in vielen afrikanischen Ländern kaum Industrieroboter?",
+   "answer": "Arbeitskraft ist billiger als ein Roboter",
+   "distractors": [
+    "Roboter dürfen dort nicht importiert werden",
+    "Es gibt dort zu wenig Strom für Roboter",
+    "Gewerkschaften verbieten Roboter"
+   ],
+   "aha": "Ob automatisiert wird, ist eine Kostenrechnung. Wo junge Leute günstig arbeiten, ist der Roboter schlicht das teurere Angebot. Automatisierung ist also weniger Schicksal als Angebot und Nachfrage.",
+   "quote_clean": "Für die Firma zahlt es sich nicht aus, eine relativ billige Arbeitskraft durch einen relativ teuren Roboter zu ersetzen. Deshalb sehen wir in Ländern, wo es viele junge Arbeitskräfte und geringe Löhne gibt, wie in afrikanischen Ländern, eigentlich keine Automatisierung.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1960 s passt; die 15-Stunden-Woche ist im Ausschnitt nicht erklärt, Frage entschlackt.",
+   "stand_note": "",
+   "statement": "Im Dienstleistungssektor, etwa beim Friseur oder in der Pflege, steigt die Produktivität viel langsamer als in der Industrie.",
+   "question": "Warum arbeiten wir trotz enorm gestiegener Produktivität nicht viel weniger? Ein Grund laut Klaus Prettner:",
+   "answer": "Dienstleistungen werden kaum produktiver",
+   "distractors": [
+    "Maschinen sind seit 1950 kaum besser geworden",
+    "Die Industrie ist kaum produktiver geworden",
+    "Fabriken werden heute nicht mehr automatisiert"
+   ],
+   "aha": "In der Fabrik vervielfacht eine neue Maschine den Output. Beim Haareschneiden oder in der Pflege geht das nicht so leicht, und gerade dort braucht eine alternde Gesellschaft immer mehr Leute.",
+   "quote_clean": "Aber ein Haarschnitt wird jetzt nicht sonderlich viel produktiver, als er vor 50 Jahren war.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Wer-hat's-gesagt mit dem einzigen Gast ist trivial; Frage legt ihm eine Forderung in den Mund, die er so nicht erhebt.",
+   "stand_note": "",
+   "statement": "Eine Robotersteuer ist schwer umsetzbar, weil kaum definierbar ist, was ein Roboter ist; Strom zu besteuern würde KI und Roboter indirekt treffen.",
+   "question": "Wer sagt in „Erklär mir die Welt“, man solle statt Robotern eher Strom besteuern, weil kaum definierbar ist, was ein Roboter ist?",
+   "answer": "Klaus Prettner",
+   "distractors": [
+    "Andreas Sator",
+    "Daron Acemoglu",
+    "Betsey Stevenson"
+   ],
+   "aha": "Ist ein 3D-Drucker ein Roboter? Und ChatGPT? Genau das ist das Problem. Strom brauchen sie aber alle, darum wäre eine Energiesteuer der indirekte Weg.",
+   "quote_clean": "Und wenn man Elektrizität besteuert, besteuert man auch diese Technologien. Umgekehrt, wenn man sagt, man müsste einen Roboter besteuern, ist es sehr schwierig zu definieren, was ein Roboter überhaupt ist.",
+   "quality": 1
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Regressive Wirkung bei 5058 s und 5073 s sauber belegt.",
+   "stand_note": "",
+   "statement": "Die Mehrwertsteuer wirkt regressiv: Wer wenig verdient, zahlt einen größeren Anteil seines Einkommens, weil er mehr davon für Konsum ausgibt.",
+   "question": "Warum gilt die Mehrwertsteuer als regressiv?",
+   "answer": "Geringverdiener zahlen anteilig mehr",
+   "distractors": [
+    "Reiche zahlen einen höheren Steuersatz",
+    "Sie sinkt jedes Jahr automatisch",
+    "Sie gilt nur für Luxusgüter"
+   ],
+   "aha": "Der Steuersatz ist für alle gleich, aber wer wenig hat, gibt fast alles für Konsum aus. Darum trifft sie Ärmere stärker, obwohl sie ökonomisch wenig verzerrt.",
+   "quote_clean": "Bei der ist wiederum das Problem, dass sie regressiv wirkt. Das heißt, dass Leute, die weniger Einkommen haben, einen größeren Prozentsatz ihres Einkommens an Steuer zahlen.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Seit 200 Jahren Wachstum bei 3172 s belegt.",
+   "stand_note": "",
+   "statement": "Wirtschaftswachstum ist ein junges Phänomen: Vor der Industriellen Revolution herrschte Stagnation am Existenzminimum.",
+   "question": "Wie lange gibt es laut Klaus Prettner nennenswertes Wirtschaftswachstum in der Menschheitsgeschichte?",
+   "answer": "seit rund 200 Jahren",
+   "distractors": [
+    "seit rund 2.000 Jahren",
+    "seit rund 50 Jahren",
+    "seit rund 1.000 Jahren"
+   ],
+   "aha": "Davor lebten die Menschen am Subsistenzniveau, sie konnten sich das Überleben leisten, mehr nicht. Ein, zwei Prozent im Jahr klingen fad, über 200 Jahre machen sie den Unterschied zwischen Bauernwelt und Podcast-Studio.",
+   "quote_clean": "Dann weiß man: Wachstum gab es in der Menschheitsgeschichte eigentlich kaum jemals. Vor der Industriellen Revolution gab es kein Wachstum, es war Stagnation.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Aussage bei 3692 s belegt; quote_clean brach mitten im Satz ab und wurde vervollständigt.",
+   "stand_note": "Stand 2024",
+   "statement": "Ein KI-Entwicklungsstopp scheitert am Koordinationsproblem: Hört eine Firma auf und eine andere nicht, erobert die andere den Markt.",
+   "question": "Woran scheitert laut Klaus Prettner ein Moratorium für die KI-Entwicklung?",
+   "answer": "Am Koordinationsproblem zwischen Firmen",
+   "distractors": [
+    "An fehlender Rechenleistung",
+    "Am Widerstand der Gewerkschaften",
+    "An zu hohen Stromkosten"
+   ],
+   "aha": "Wer pausiert, verliert, solange die anderen weitermachen. Und selbst wenn alle US-Firmen mitzögen, bliebe das Problem mit anderen Ländern.",
+   "quote_clean": "Bei so etwas ist es ein Koordinationsproblem. Das wird nicht passieren, dieses Moratorium, weil, wenn eine Firma aufhört und eine weitermacht, dann kann die Firma in dieser Zwischenzeit den gesamten Markt für sich erobern.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsablauf ohne Erkenntniswert.",
+   "stand_note": "",
+   "statement": "Am Ende fasst Andreas das Gespräch selbst zusammen und bittet den Gast, ihn zu korrigieren.",
+   "question": "Wie bringt Andreas das Gespräch mit Klaus Prettner gegen Ende auf den Punkt?",
+   "answer": "Er fasst zusammen, Klaus korrigiert",
+   "distractors": [
+    "Er lässt Klaus alles zusammenfassen",
+    "Er liest Hörer:innenfragen vor",
+    "Er fragt ChatGPT nach einer Zusammenfassung"
+   ],
+   "aha": "Andreas probiert's selbst und lässt sich dann vom Experten sagen, was fehlt oder falsch ist.",
+   "quote_clean": "sagst mir dann, was ich vergessen habe oder was nicht stimmt. Also, was ist zu erwarten, welchen Effekt hat KI auf die Wirtschaft?",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Anekdote bei 716 s/744 s belegt, harmlos und selbstironisch.",
+   "stand_note": "",
+   "statement": "Andreas hat auf YouTube viele Wissenschaftskanäle abonniert, bekommt aber vor allem Fußball vorgeschlagen, weil die KI weiß, was er wirklich schaut.",
+   "question": "Was schlägt YouTube Andreas vor, obwohl er viele Wissenschaftskanäle abonniert hat?",
+   "answer": "Fußball-Videos",
+   "distractors": [
+    "Kochvideos",
+    "Katzenvideos",
+    "Wirtschaftsnachrichten"
+   ],
+   "aha": "Empfehlungsalgorithmen sind auch KI, und zwar schon lange vor ChatGPT. Sie schauen nicht darauf, was du gern wärst, sondern was du tatsächlich anklickst.",
+   "quote_clean": "immer Fußball-Content vor, und ich schaue mehr Fußball, und darum zeigt sie mir mehr Fußball als Wissenschaft. Ich würde vielleicht gerne mehr Wissenschaft schauen wollen, aber eigentlich will ich lieber Fußball, und die KI weiß das besser als ich.",
+   "quality": 3
+  }
+ ],
+ "id": "314",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

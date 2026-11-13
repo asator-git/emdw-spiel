@@ -1,0 +1,17 @@
+{
+  "name": "Fünf am Tag – Erklär mir die Welt",
+  "short_name": "Fünf am Tag",
+  "description": "Jeden Tag fünf Fragen aus über 400 Folgen Erklär mir die Welt.",
+  "lang": "de-AT",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c2a66",
+  "theme_color": "#0c2a66",
+  "icons": [
+    { "src": "img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "img/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "img/icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "img/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

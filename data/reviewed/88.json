@@ -1,0 +1,289 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 616-623: 6 bis 8 Prozent nicht-Han; deckt sich mit offiziellen Zahlen (rund 8 Prozent). Rechnung im Aha stimmt.",
+   "stand_note": "Stand 2019",
+   "statement": "Nur etwa 6 bis 8 Prozent der Bevölkerung Chinas gehören nicht zur han-chinesischen Mehrheit.",
+   "question": "Wie viel Prozent der Bevölkerung Chinas gehören ungefähr nicht zur han-chinesischen Mehrheit?",
+   "answer": "Etwa 6 bis 8 Prozent",
+   "distractors": [
+    "Etwa 1 bis 2 Prozent",
+    "Etwa 20 bis 25 Prozent",
+    "Etwa 35 bis 40 Prozent"
+   ],
+   "aha": "Die Han-Chinesen sind die überwältigende Mehrheit, alle anderen Gruppen zusammen machen nur einen kleinen Rest aus. Bei 1,4 Milliarden Menschen sind das aber trotzdem rund hundert Millionen – also mehr als zehnmal Österreich.",
+   "quote_clean": "Die Volksrepublik China ist ein sehr großes Land mit einer überwiegend chinesischen Bevölkerung und einem Bevölkerungsanteil von ungefähr 6 bis 8 Prozent, der nicht der chinesischstämmigen Bevölkerung zuzuordnen ist.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 632-642: 60 Prozent des Territoriums; plausibel (Minderheitenregionen rund 60 Prozent der Fläche).",
+   "stand_note": "",
+   "statement": "Die nicht-han-chinesischen Minderheiten in China bewohnen rund 60 Prozent des Staatsgebiets.",
+   "question": "Wie viel Prozent des chinesischen Staatsgebiets bewohnen die nationalen Minderheiten ungefähr?",
+   "answer": "Rund 60 Prozent",
+   "distractors": [
+    "Rund 10 Prozent",
+    "Rund 25 Prozent",
+    "Rund 85 Prozent"
+   ],
+   "aha": "Eine kleine Gruppe hat also sehr viel Land, die große Mehrheit drängt sich auf vergleichsweise wenig Fläche. Und unter diesem Land liegen zum Teil wichtige Rohstoffe – kein Wunder, dass Peking da genau hinschaut.",
+   "quote_clean": "Dieser Bevölkerungsanteil von 6 bis 8 Prozent nimmt aber insgesamt 60 Prozent des Territoriums der Volksrepublik China für sich in Anspruch.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Beleg bei 2010-2025 (Andreas' Zusammenfassung). Zahl ist eine Schätzung aus 2019, Aha behauptet 'offiziell gibt es nichts', dabei nennt China die Lager Fortbildung (2033-2035). Stand 2019 vermerkt.",
+   "stand_note": "Stand 2019",
+   "statement": "Berichten und Leaks zufolge wurden in Xinjiang etwa eine Million Menschen, vor allem religiöse muslimische Männer, in Lager gesperrt.",
+   "question": "Wie viele Menschen wurden laut Berichten und Leaks in Xinjiang ungefähr in Lager gesperrt?",
+   "answer": "Etwa eine Million",
+   "distractors": [
+    "Etwa 20.000",
+    "Etwa 100.000",
+    "Etwa 10 Millionen"
+   ],
+   "aha": "Die Zahl stammt aus Medienberichten und geleakten Dokumenten der Kommunistischen Partei, eine offizielle Bestätigung gibt es nicht. Nach außen wird das Ganze als Fortbildung beschönigt. Zur Einordnung: Eine Million ist mehr als halb so viel, wie ganz Wien Einwohner:innen hat.",
+   "quote_clean": "Wir wissen, dass im Nordwesten Chinas etwa eine Million Menschen einfach so eingesperrt worden sind. Es sind vor allem Männer, Muslime, und zwar die, die sehr religiös sind.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1095-1111: Name als 'neues Grenzgebiet' im 18. Jahrhundert geschaffen; Übersetzung von Xinjiang korrekt.",
+   "stand_note": "",
+   "statement": "Der Name Xinjiang bedeutet „neues Grenzgebiet“ und wurde im 18. Jahrhundert geschaffen.",
+   "question": "Was bedeutet der Name Xinjiang übersetzt?",
+   "answer": "Neues Grenzgebiet",
+   "distractors": [
+    "Westliche Wüste",
+    "Land der Berge",
+    "Reich der Mitte"
+   ],
+   "aha": "„Xin“ heißt neu, „jiang“ Grenze oder Grenzland. Der Name verrät also schon, dass die Region aus Sicht des chinesischen Reichs als neu hinzugekommenes Randgebiet galt, nicht als altes Kernland.",
+   "quote_clean": "Und der Name wurde damals als „neues Grenzgebiet“ geschaffen, im 18. Jahrhundert. Das bedeutet, das ist eine relativ junge Entwicklung, gemessen an der langen Geschichte Chinas.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "'Zweitgrößte Gruppe' ist faktisch heikel, denn die Han stellen in Xinjiang selbst einen großen Teil der Bevölkerung. Gesichert ist: Kasachen leben überwiegend als Nomaden/Halbnomaden in den Bergen (884, 1493). Frage umgestellt.",
+   "stand_note": "",
+   "statement": "Die Kasachen in Xinjiang leben laut Weigelin-Schwiedrzik überwiegend als Nomaden in den Bergen und nicht in den Städten.",
+   "question": "Welche Volksgruppe in Xinjiang lebt laut Weigelin-Schwiedrzik überwiegend als Nomaden in den Bergen?",
+   "answer": "Die Kasachen",
+   "distractors": [
+    "Die Uiguren",
+    "Die Tibeter",
+    "Die Han-Chinesen"
+   ],
+   "aha": "Viele Kasachen in Xinjiang sind Nomaden oder Halbnomaden. Sie haben laut Weigelin-Schwiedrzik einen anderen Zugang zum Islam als die Stadtbevölkerung, die Moscheen als Treffpunkt braucht.",
+   "quote_clean": "Die Kasachen leben überwiegend nicht in den Städten, sondern als Nomaden in den Bergen.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "transkription",
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Transkript hat 'Donghua Minzu', gemeint ist Zhonghua Minzu (Name im Kandidaten korrekt). Der Satz über die Akzeptanz bei den Gruppen steht nicht im Ausschnitt, gestrichen; Distraktor 'Chinesen weltweit' ersetzt, da nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "China fasst alle Menschen auf seinem beanspruchten Territorium, inklusive Taiwan, unter dem Begriff „Zhonghua Minzu“ als eine Nation zusammen.",
+   "question": "Wen fasst der chinesische Sammelbegriff „Zhonghua Minzu“ laut Weigelin-Schwiedrzik zu einer Nation zusammen?",
+   "answer": "Alle Ethnien auf dem beanspruchten Staatsgebiet, auch in Taiwan",
+   "distractors": [
+    "Nur die Han-Chinesen",
+    "Nur die Bevölkerung der Großstädte",
+    "Nur Parteimitglieder und ihre Familien"
+   ],
+   "aha": "Uiguren, Tibeter, Mongolen, Han – offiziell alle eine Nation. Die Idee ist übrigens keine Erfindung der Kommunisten: Schon bei der Gründung der Republik 1911 wurde das so vorgegeben.",
+   "quote_clean": "Das heißt, alle Menschen, die auf dem Territorium der Volksrepublik China leben, einschließlich Taiwans, werden als eine Nation zusammengefasst, obwohl sie eigentlich unterschiedlichen Ethnien angehören.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Frage und Antwort passen nicht sauber zum Zitat; es geht um eine hypothetische Einschätzung der Wahrnehmung in China, die Behauptung über Han-Jugendliche in Lagern ist knapp belegt und heikel (Stand 2019, Umerziehung durch Arbeit war 2013 offiziell abgeschafft).",
+   "stand_note": "",
+   "statement": "In China kommen auch Han-Chinesen mit abweichender politischer Meinung oder jugendliche Straftäter in Umerziehungslager statt ins Gefängnis.",
+   "question": "Warum würden viele Chinesen die Lager in Xinjiang laut Susanne Weigelin-Schwiedrzik gar nicht als außergewöhnlich empfinden?",
+   "answer": "Weil Umerziehungslager in China verbreitet sind",
+   "distractors": [
+    "Weil sie dort selbst Urlaub machen",
+    "Weil die Lager offiziell freiwillig sind",
+    "Weil sie von Uiguren selbst geleitet werden"
+   ],
+   "aha": "Auch Han-Chinesen mit falscher Meinung oder Jugendliche, die etwas gestohlen haben, landen laut Weigelin-Schwiedrzik in solchen Lagern statt im Gefängnis.",
+   "quote_clean": "Es werden nicht nur sie in solche Lager gesteckt, sondern es gibt auch Menschen, die ihrer Herkunft und Ethnie nach Chinesen sind, aber anderer politischer Meinung sind oder zum Beispiel als Jugendliche etwas gestohlen haben.",
+   "quality": 2
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg ok (1284-1357), aber das ist ihre politikwissenschaftliche Einschätzung; als solche kennzeichnen. Aha-Satz über 'nicht bedrängt' war nicht belegt.",
+   "stand_note": "",
+   "statement": "Laut Weigelin-Schwiedrzik legitimiert sich die nicht gewählte Führung Chinas gegenüber der Han-Mehrheit vor allem durch das Versprechen von Ruhe und Ordnung.",
+   "question": "Worauf stützt die nicht gewählte Führung Chinas ihre Legitimation gegenüber der Han-Mehrheit laut Susanne Weigelin-Schwiedrzik vor allem?",
+   "answer": "Auf das Versprechen von Ruhe und Ordnung",
+   "distractors": [
+    "Auf regelmäßige Volksabstimmungen",
+    "Auf die Zustimmung der Minderheiten",
+    "Auf eine religiöse Autorität"
+   ],
+   "aha": "Susanne beschreibt das wie einen Vertrag: Ich beschütze euch, dafür bin ich zu Recht an der Macht. Solange zum Beispiel in den Han-Gebieten keine Anschläge passieren, kann die Führung diese Legitimation für sich beanspruchen.",
+   "quote_clean": "Solange diese Elite zeigen kann, dass sie wirklich für Ruhe und Ordnung sorgt, dass also zum Beispiel keine Anschläge in chinesisch bewohnten Gebieten stattfinden, hat diese Elite auch eine Legitimation, an der Macht zu sein.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 567-585: von ihr als Einschätzung formuliert ('davon auszugehen'), Frage fragt nach ihrer Sicht. Passt.",
+   "stand_note": "",
+   "statement": "Wer Menschen gewaltsam umerziehen will, erreicht laut Weigelin-Schwiedrzik eher, dass sie Anpassung nur vorspielen und innerlich noch aufgebrachter werden.",
+   "question": "Was bewirkt erzwungene Umerziehung laut Susanne Weigelin-Schwiedrzik eher?",
+   "answer": "Vorgespielte Anpassung und noch mehr Wut",
+   "distractors": [
+    "Echte, dauerhafte Überzeugung",
+    "Völlige Gleichgültigkeit gegenüber Politik",
+    "Sofortigen offenen Widerstand im Lager"
+   ],
+   "aha": "Wer raus will, sagt halt, was die Wärter hören wollen. Innen drin ist man danach aber eher noch aufgebrachter als vorher – die Lager züchten also womöglich genau den Unmut, den sie bekämpfen sollen.",
+   "quote_clean": "Denn je mehr Menschen man derart gewaltvoll zwingt, auf eine andere Denkweise umzuschalten, umso mehr ist davon auszugehen, dass sie, um wieder freizukommen, nach außen hin so tun, als hätten sie verstanden, was die Botschaft ist.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "veraltet",
+    "fairness"
+   ],
+   "note": "Wer-hat's-gesagt mit unplausiblen Distraktoren (Merkel, Washington-Post-Journalist); die Aussage 'Der Westen kann nichts tun' ist eine Meinung von 2019 und heute als Fakt irreführend.",
+   "stand_note": "",
+   "statement": "Der Westen kann gegen die Lager in Xinjiang kaum etwas tun, darf aber nicht wegschauen.",
+   "question": "Wer hat's gesagt: „Der Westen kann nichts tun. Aber das bedeutet noch lange nicht, dass wir so tun, als sähen wir das nicht“?",
+   "answer": "Susanne Weigelin-Schwiedrzik",
+   "distractors": [
+    "Andreas Sator",
+    "Angela Merkel",
+    "Ein Washington-Post-Journalist"
+   ],
+   "aha": "Die Sinologin hält nichts von Belehrungen, wohl aber von genauem Hinschauen.",
+   "quote_clean": "Ich denke, dass der Westen nichts tun kann. Aber das bedeutet noch lange nicht, dass wir so tun, als sähen wir das nicht.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg ok (1914-1959). quote_clean änderte 'gereicht' zu 'geführt', zurückgesetzt; Aussage als ihre Einschätzung gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Laut Weigelin-Schwiedrzik hat ein belehrender, überheblicher Dialog nach dem Motto „Wir wissen, was Menschenrechte sind“ bei China noch nie etwas gebracht.",
+   "question": "Welche Art, mit China über Menschenrechte zu reden, hat laut Susanne Weigelin-Schwiedrzik noch nie etwas gebracht?",
+   "answer": "Die belehrende, überhebliche Art",
+   "distractors": [
+    "Der Austausch unter Studierenden",
+    "Gut informierte Gespräche",
+    "Der Dialog über Wirtschaft"
+   ],
+   "aha": "„Wir wissen, was richtig ist, ihr habt keine Ahnung“ – so kommt westliche Kritik in China laut Weigelin-Schwiedrzik oft an. Besser wären gut informierte Gespräche, die nicht überheblich fragen, was die Gewalt bei den Betroffenen auslöst.",
+   "quote_clean": "So eine Form des Dialogs hat mit China noch nie zu irgendeinem Vorteil gereicht.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg ok (1576-1595), aber es ist ihre historische Einordnung ('seit jeher'); im Statement als solche gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Laut Weigelin-Schwiedrzik galt in China traditionell der Grundsatz, dass im Vielvölkerstaat jedes Volk nach seinen eigenen Sitten und Gebräuchen leben darf.",
+   "question": "Welchen historischen Grundsatz beschreibt Susanne Weigelin-Schwiedrzik für den Vielvölkerstaat China?",
+   "answer": "Jedes Volk lebt nach eigener Fasson",
+   "distractors": [
+    "Alle müssen Han-Sitten übernehmen",
+    "Nur eine Religion ist erlaubt",
+    "Minderheiten dürfen nicht siedeln"
+   ],
+   "aha": "Statt von Religion sprach man in China lieber von „Sitten und Gebräuchen“, aber die durfte man leben. Erst in den letzten Jahren hat sich das laut Weigelin-Schwiedrzik geändert.",
+   "quote_clean": "In einem Vielvölkerstaat muss halt jedes Volk nach seiner eigenen Fasson leben. Und man darf ihnen nicht vorschreiben, wie sie zu leben haben.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 1513-1544 passt (2010, Parteisekretär liest aus dem Koran). Dass es eine Feldforschungsreise war, steht nicht im Ausschnitt, daher 'Besuch'.",
+   "stand_note": "",
+   "statement": "Bei einem Besuch in Xinjiang 2010 las ein kommunistischer Parteisekretär aus dem Koran, bevor zu Ehren der Gäste ein Schaf geschlachtet wurde.",
+   "question": "Was tat ein Parteisekretär 2010 in Xinjiang, bevor für Susanne Weigelin-Schwiedrzik und ihre Gruppe ein Schaf geschlachtet wurde?",
+   "answer": "Er las aus dem Koran vor",
+   "distractors": [
+    "Er hielt eine Rede über Mao",
+    "Er sang die Nationalhymne",
+    "Er verlas ein Parteidekret"
+   ],
+   "aha": "Ein Kommunist, der vor dem Festessen den Koran aufschlägt – das war 2010 in Xinjiang noch möglich. Es zeigt, wie viel Freiheit Peking der Region damals noch gelassen hat.",
+   "quote_clean": "Und dann hat der Parteisekretär den Koran aufgeschlagen und aus dem Koran gelesen, bevor das Schaf geschlachtet werden konnte. Das war im Jahr 2010.",
+   "quality": 4
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Interviewfrage ohne Wissensgehalt; als Spielfrage nicht sinnvoll.",
+   "stand_note": "",
+   "statement": "Andreas fragt, ob der Westen gegen die Lager in Xinjiang etwas tun kann oder nur zuschauen muss.",
+   "question": "Welche Frage stellt Andreas gegen Ende der Folge über Xinjiang?",
+   "answer": "Ob der Westen etwas tun kann",
+   "distractors": [
+    "Ob er selbst nach Xinjiang reisen soll",
+    "Wie man Uigurisch lernt",
+    "Ob Österreich Uiguren aufnimmt"
+   ],
+   "aha": "Die ehrliche Antwort der Sinologin: eigentlich nichts. Wegschauen sei aber trotzdem keine Option.",
+   "quote_clean": "Wie geht man außenpolitisch damit um? Kann der Westen irgendetwas tun, oder muss man da einfach zuschauen?",
+   "quality": 1
+  }
+ ],
+ "id": "88",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

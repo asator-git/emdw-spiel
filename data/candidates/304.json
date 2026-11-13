@@ -1,0 +1,767 @@
+{
+ "theme": "Österreich & Politik",
+ "summary": "Laurenz Ennser-Jedenastik räumt mit sechs Politik-Mythen auf: von Umfragen über Streit bis links und rechts – und warum es keinen Volkswillen gibt.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 176,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "wenn man die vier Wochen vor der Wahl nimmt und alle Umfragen die dort veröffentlicht worden sind daraus den Mittelwert bildet und sich dann das Ergebnis mit dem Wahlergebnis vergleicht dann hat man eine Abweichung von im Schnitt ein bis zwei Punkten",
+   "quote_clean": "Wenn man die vier Wochen vor der Wahl nimmt und alle Umfragen, die dort veröffentlicht worden sind, daraus den Mittelwert bildet und dann mit dem Wahlergebnis vergleicht, dann hat man eine Abweichung von im Schnitt ein bis zwei Punkten.",
+   "statement": "Der Durchschnitt der Umfragen in den vier Wochen vor einer Nationalratswahl weicht vom Ergebnis pro Partei im Schnitt nur um ein bis zwei Prozentpunkte ab.",
+   "question": "Um wie viele Prozentpunkte weicht der Umfrageschnitt vor Nationalratswahlen im Mittel pro Partei vom Ergebnis ab?",
+   "answer": "Etwa 1,5 Prozentpunkte",
+   "distractors": [
+    "Etwa 4 Prozentpunkte",
+    "Etwa 6 Prozentpunkte",
+    "Etwa 0,2 Prozentpunkte"
+   ],
+   "number_value": 1.5,
+   "number_unit": "Prozentpunkte",
+   "slider_min": 0,
+   "slider_max": 6,
+   "log_scale": false,
+   "aha": "Umfragen haben einen schlechteren Ruf, als sie verdienen. Wer nicht einer einzelnen Umfrage glaubt, sondern alle aus dem letzten Monat mittelt, liegt bei Nationalratswahlen seit 30 Jahren erstaunlich gut. Im Gedächtnis bleiben halt nur die Ausreißer.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Umfragen",
+    "Wahlen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 406,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "einmal geht die Partei 10 bis 12 Punkte rauf und hier verliert sie ungefähr 10 Punkte",
+   "quote_clean": "Einmal geht die Partei 10 bis 12 Punkte rauf, und hier verliert sie ungefähr 10 Punkte.",
+   "statement": "Als Sebastian Kurz 2017 ÖVP-Chef wurde, stieg die Partei in Umfragen um 10 bis 12 Punkte; bei seinem Rücktritt 2021 verlor sie rund 10 Punkte.",
+   "question": "Um wie viele Prozentpunkte stieg die ÖVP in Umfragen, als Sebastian Kurz 2017 Parteichef wurde?",
+   "answer": "Um 10 bis 12 Punkte",
+   "distractors": [
+    "Um 2 bis 3 Punkte",
+    "Um 4 bis 5 Punkte",
+    "Um 20 bis 25 Punkte"
+   ],
+   "number_value": 11,
+   "number_unit": "Prozentpunkte",
+   "slider_min": 0,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Normalerweise bewegen sich Umfragen nur im Schneckentempo. Kurz war der große Ausreißer: Ein Personalwechsel an der Spitze, und die Partei springt fast von einem Tag auf den anderen – rauf und später genauso schnell wieder runter.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Umfragen",
+    "ÖVP",
+    "Spitzenkandidaten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 455,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "die FPÖ beginnt bei 16% nach der Nationalratswahl 2019 und ist jetzt irgendwo im Bereich von 30 aber das war nicht ein Ereignis dass das plötzlich hervorgerufen hat",
+   "quote_clean": "Die FPÖ beginnt bei 16 Prozent nach der Nationalratswahl 2019 und ist jetzt irgendwo im Bereich von 30, aber das war nicht ein Ereignis, das das plötzlich hervorgerufen hat.",
+   "statement": "Die FPÖ stieg in Umfragen von 16 Prozent nach der Nationalratswahl 2019 schrittweise auf rund 30 Prozent im Frühjahr 2024.",
+   "question": "Bei wie viel Prozent lag die FPÖ nach der Nationalratswahl 2019?",
+   "answer": "Bei 16 Prozent",
+   "distractors": [
+    "Bei 9 Prozent",
+    "Bei 24 Prozent",
+    "Bei 28 Prozent"
+   ],
+   "number_value": 16,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 40,
+   "log_scale": false,
+   "aha": "Nach Ibiza war die FPÖ ganz unten. Der Aufstieg auf rund 30 Prozent kam nicht durch einen großen Knall, sondern Punkt für Punkt über die Pandemiejahre – so wie sich Meinungen meistens ändern: langsam.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "FPÖ",
+    "Umfragen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 5379,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "nämlich von der parteifber bei über 150 Landtagswahlen in Österreich gibt's neunm einen Farbwechsel in der Parteizugehörigkeit des Landeshauptmanns der Landeshauptfrau seit 1945 das ist enorm wenig",
+   "quote_clean": "Nämlich von der Parteifarbe: Bei über 150 Landtagswahlen in Österreich gibt es neunmal einen Farbwechsel in der Parteizugehörigkeit des Landeshauptmanns oder der Landeshauptfrau seit 1945. Das ist enorm wenig.",
+   "statement": "Bei über 150 Landtagswahlen seit 1945 hat die Partei des Landeshauptmanns oder der Landeshauptfrau nur neunmal gewechselt.",
+   "question": "Wie oft hat seit 1945 bei über 150 Landtagswahlen die Partei an der Landesspitze gewechselt?",
+   "answer": "Neunmal",
+   "distractors": [
+    "Dreimal",
+    "23-mal",
+    "41-mal"
+   ],
+   "number_value": 9,
+   "number_unit": "Farbwechsel",
+   "slider_min": 0,
+   "slider_max": 40,
+   "log_scale": false,
+   "aha": "Demokratisch wäre ein Wechsel jedes Mal möglich, passiert ist er kaum. In manchen Bundesländern noch nie – ein Wien ohne SPÖ-Bürgermeister ist für manche in der Wiener SPÖ fast Blasphemie, für die niederösterreichische ÖVP gilt dasselbe umgekehrt.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Bundesländer",
+    "Landeshauptleute"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 5497,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "österreich hat eine unglaublich kleinteilige Gemeindestruktur mit ungefähr 2000 Gemeinden das ist viel viel mehr als viele andere Länder haben pro Kopf",
+   "quote_clean": "Österreich hat eine unglaublich kleinteilige Gemeindestruktur mit ungefähr 2000 Gemeinden. Das ist viel mehr, als viele andere Länder pro Kopf haben.",
+   "statement": "Österreich hat ungefähr 2000 Gemeinden – pro Kopf viel mehr als viele andere Länder.",
+   "question": "Wie viele Gemeinden gibt es in Österreich ungefähr?",
+   "answer": "Ungefähr 2000",
+   "distractors": [
+    "Ungefähr 450",
+    "Ungefähr 900",
+    "Ungefähr 4500"
+   ],
+   "number_value": 2000,
+   "number_unit": "Gemeinden",
+   "slider_min": 0,
+   "slider_max": 6000,
+   "log_scale": false,
+   "aha": "Das hat politische Folgen: Wer als neue Partei überall antreten will, braucht in 2000 Gemeinden Leute, die sich aufstellen lassen. Das schaffen nicht einmal die etablierten Kleinen – deshalb ist Gemeindepolitik oft noch rot und schwarz.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gemeinden",
+    "Parteiensystem"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 5723,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "ist so völlig undenkbar in vielen anderen Länder das eine Partei praktisch 37 Jahre durchgehend regiert die zweite Partei nach der ÖVP sind glaube ich irgendwelche wallonischen Liberalen die seit 20 Jahren in der Regierung sind",
+   "quote_clean": "Es ist völlig undenkbar in vielen anderen Ländern, dass eine Partei praktisch 37 Jahre durchgehend regiert. Die zweite Partei nach der ÖVP sind, glaube ich, irgendwelche wallonischen Liberalen, die seit 20 Jahren in der Regierung sind.",
+   "statement": "Die ÖVP regiert praktisch seit 37 Jahren durchgehend mit – ein EU-weiter Rekord mit großem Abstand.",
+   "question": "Wie viele Jahre war die ÖVP 2024 praktisch durchgehend in der Bundesregierung?",
+   "answer": "Rund 37 Jahre",
+   "distractors": [
+    "Rund 12 Jahre",
+    "Rund 22 Jahre",
+    "Rund 52 Jahre"
+   ],
+   "number_value": 37,
+   "number_unit": "Jahre",
+   "slider_min": 5,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Seit 1987 sitzt die ÖVP fast ohne Pause in der Regierung. Auf Platz zwei in der EU folgen laut Laurenz wallonische Liberale mit rund 20 Jahren – das holt so schnell niemand ein.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "ÖVP",
+    "Regierung",
+    "Rekord"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 5346,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "also als Ministerin und Minister bin ich in Österreich im Schnitt Z D Jahre im Amt in den letzten Jahrzehnten aber Landeshauptleute haben das drei oder vierfache im Schnitt",
+   "quote_clean": "Als Ministerin oder Minister ist man in Österreich in den letzten Jahrzehnten im Schnitt zwei, drei Jahre im Amt, aber Landeshauptleute haben das Drei- oder Vierfache im Schnitt.",
+   "statement": "Landeshauptleute bleiben im Schnitt drei- bis viermal so lange im Amt wie Ministerinnen und Minister im Bund.",
+   "question": "Wie lange bleiben Landeshauptleute im Schnitt im Amt, verglichen mit Bundesminister:innen?",
+   "answer": "Drei- bis viermal so lange",
+   "distractors": [
+    "Etwa gleich lange",
+    "Halb so lange",
+    "Zehnmal so lange"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gesetze machen die Länder wenig, aber ihre Chefs sitzen lange fest im Sattel. Wer länger bleibt, sammelt Macht an – und das macht die Landeshauptleute zu den heimlichen Schwergewichten in ihren Parteien.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Landeshauptleute",
+    "Macht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 5261,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "von allen föderalstaaten auf der Welt ist Österreich wahrscheinlich der mit dem schwächsten Föderalismus oder der zentralistischste Föderalstaat die Länder können eigentlich nicht besonders viel entscheiden",
+   "quote_clean": "Von allen Föderalstaaten auf der Welt ist Österreich wahrscheinlich der mit dem schwächsten Föderalismus, der zentralistischste Föderalstaat. Die Länder können eigentlich nicht besonders viel entscheiden.",
+   "statement": "Österreich ist wahrscheinlich der Föderalstaat mit dem schwächsten Föderalismus der Welt; die Landtage können wenig selbst entscheiden.",
+   "question": "Wie stark ist der Föderalismus in Österreich im weltweiten Vergleich der Bundesstaaten?",
+   "answer": "Wahrscheinlich der schwächste",
+   "distractors": [
+    "Wahrscheinlich der stärkste",
+    "Genau im Mittelfeld",
+    "Stärker als in der Schweiz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Klingt paradox, weil alle über die mächtigen Länder reden. Die Macht der Landeshauptleute kommt aber woanders her: Sie stehen den Landesbehörden vor, die viele Bundesgesetze vollziehen – das hast du in der Pandemie bei den Bezirkshauptmannschaften gesehen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Föderalismus",
+    "Bundesländer"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2013,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "die FPÖ ist die einzige Parlamentspartei in Österreich in der es im Statut keine Urabstimmung gibt also keinen Mechanismus wo z.B alle Mitglieder über irgendein Thema oder irgendeine Person abstimmen können",
+   "quote_clean": "Die FPÖ ist die einzige Parlamentspartei in Österreich, in der es im Statut keine Urabstimmung gibt, also keinen Mechanismus, wo alle Mitglieder über irgendein Thema oder irgendeine Person abstimmen können.",
+   "statement": "Die FPÖ ist die einzige Parlamentspartei in Österreich, deren Statut keine Urabstimmung der Mitglieder vorsieht.",
+   "question": "Welche Parlamentspartei hat laut Statut als einzige keine Urabstimmung für ihre Mitglieder?",
+   "answer": "Die FPÖ",
+   "distractors": [
+    "Die ÖVP",
+    "Die SPÖ",
+    "Die Grünen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ausgerechnet die Partei, die direkte Demokratie am lautesten fordert, lässt intern ihre Mitglieder nicht verbindlich abstimmen. Laurenz findet, das sei bisher erstaunlich wenigen aufgefallen.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Parteien",
+    "Innerparteiliche Demokratie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1727,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "dass die Leute die so ins Amt gewählt worden sind weniger lange im Amt sind also die Parteivorsitzenden die direkt gewählt werden durch die Mitglieder die haben kürzere Amts",
+   "quote_clean": "Die Leute, die so ins Amt gewählt worden sind, sind weniger lange im Amt. Also die Parteivorsitzenden, die direkt durch die Mitglieder gewählt werden, haben kürzere Amtszeiten.",
+   "statement": "Parteivorsitzende, die direkt von den Mitgliedern gewählt werden, bleiben laut vergleichenden Studien kürzer im Amt.",
+   "question": "Was zeigen Studien über Parteichefs, die per Mitgliederwahl ins Amt kommen?",
+   "answer": "Sie bleiben kürzer im Amt",
+   "distractors": [
+    "Sie bleiben länger im Amt",
+    "Sie gewinnen öfter Wahlen",
+    "Sie sind meist älter"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Mehr Mitbestimmung heißt auch mehr offener Wettbewerb. Wer herausfordern will, hat bei einer Mitgliederwahl leichteres Spiel – deswegen fürchten sich manche Parteieliten vor solchen Verfahren, und ganz zu Unrecht nicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Parteien",
+    "Mitgliederwahl"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 834,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "wir sehen z.B dass manchmal wenn Parteien gemeinsam in eine Koalition gehen dass sie für den Leuten dann näher bei inander wahrgenommen werden",
+   "quote_clean": "Wir sehen zum Beispiel, dass Parteien, wenn sie gemeinsam in eine Koalition gehen, von den Leuten dann näher beieinander wahrgenommen werden.",
+   "statement": "Wenn Parteien eine Koalition eingehen, nehmen Wähler:innen sie auf der Links-rechts-Skala näher beieinander wahr – auch ohne Programmänderung.",
+   "question": "Was passiert mit der Wahrnehmung zweier Parteien, wenn sie gemeinsam koalieren?",
+   "answer": "Sie wirken näher beieinander",
+   "distractors": [
+    "Sie wirken weiter auseinander",
+    "Beide wirken radikaler",
+    "Es ändert sich gar nichts"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kaum jemand liest Parteiprogramme, also nehmen wir Abkürzungen. Mit wem jemand regiert, ist so ein starkes Signal, dass eine Partei als linker oder rechter gilt, ohne eine Zeile im Programm zu ändern.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Koalition",
+    "Wahrnehmung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4376,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "rechts sind die gesessen die das alte Regime repräsentiert und verteidigt haben also der klearus und der Adel und links das Bürgertum des revolutionäre",
+   "quote_clean": "Rechts sind die gesessen, die das alte Regime repräsentiert und verteidigt haben, also der Klerus und der Adel, und links das revolutionäre Bürgertum.",
+   "statement": "Die Begriffe links und rechts stammen aus der Sitzordnung der Versammlung in der Französischen Revolution: rechts Klerus und Adel, links das revolutionäre Bürgertum.",
+   "question": "Wer saß in der Versammlung der Französischen Revolution auf der rechten Seite?",
+   "answer": "Klerus und Adel",
+   "distractors": [
+    "Bauern und Handwerker",
+    "Das revolutionäre Bürgertum",
+    "Arbeiter und Soldaten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Aus einer Sitzordnung wurde ein politisches Koordinatensystem, das bis heute hält. Was links und rechts genau bedeutet, hat sich ständig verändert, aber der Kern bleibt: Gleichheit gegen Ungleichheit, Wandel gegen Bewahren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Geschichte",
+    "Links und rechts"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4798,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "plötzlich kommt ein Thema wie impfen ist heute einer der stärksten Prädiktoren fürs Wahlverhalten also die Einstellung zum Impfen das war",
+   "quote_clean": "Plötzlich kommt ein Thema wie Impfen: Die Einstellung zum Impfen ist heute einer der stärksten Prädiktoren fürs Wahlverhalten.",
+   "statement": "Seit Covid ist die Einstellung zum Impfen einer der stärksten Vorhersagefaktoren dafür, wen jemand in Österreich wählt.",
+   "question": "Welche Einstellung wurde durch Covid zu einem der stärksten Prädiktoren fürs Wahlverhalten?",
+   "answer": "Die Einstellung zum Impfen",
+   "distractors": [
+    "Die Einstellung zum Tempolimit",
+    "Die Einstellung zur Neutralität",
+    "Die Einstellung zum Rauchverbot"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Jahrzehntelang war Impfen politisch wurscht. Die Leute haben ihre Meinung dazu gar nicht so sehr geändert – das Thema ist nur plötzlich wichtig geworden, und schon verschieben sich Wahlentscheidungen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Covid",
+    "Wahlverhalten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4689,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "sehr negativen Einstellung zuur Migration die auch wirklich stabil sind über längere Zeit also die schauen heute nicht so ganz dramatisch anders aus als vor 30 Jahren",
+   "quote_clean": "Sehr negative Einstellungen zur Migration, die auch wirklich stabil sind über längere Zeit. Die schauen heute nicht dramatisch anders aus als vor 30 Jahren.",
+   "statement": "Die skeptischen Einstellungen der Österreicher:innen zur Migration sind seit rund 30 Jahren weitgehend stabil, während die Gesellschaft bei Homosexualität oder Abtreibung liberaler wurde.",
+   "question": "Wie haben sich die Einstellungen in Österreich zur Migration in den letzten 30 Jahren verändert?",
+   "answer": "Kaum, sie sind stabil skeptisch",
+   "distractors": [
+    "Sie wurden deutlich offener",
+    "Sie wurden viel ablehnender",
+    "Sie schwanken jährlich stark"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Bevölkerung rückt also nicht nach rechts, gesellschaftspolitisch eher sogar nach links. Was sich ändert, ist, wie wichtig Migration bei der Wahlentscheidung wird – dieses Reservoir an Skepsis war immer schon da.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Migration",
+    "Öffentliche Meinung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 6866,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "die Unterschiede in dem wie ich zum Klimawandel stehe sind viel stärker zwischen steh ich weer Links oder steh ich weer rechts ausgeprägt als bin ich 30 oder bin ich 60",
+   "quote_clean": "Die Unterschiede, wie ich zum Klimawandel stehe, sind viel stärker davon geprägt, ob ich eher links oder eher rechts stehe, als davon, ob ich 30 oder 60 bin.",
+   "statement": "Die Haltung zum Klimawandel hängt viel stärker davon ab, ob jemand links oder rechts steht, als vom Alter.",
+   "question": "Was prägt die Haltung zum Klimawandel stärker: das Alter oder die politische Richtung?",
+   "answer": "Die politische Richtung",
+   "distractors": [
+    "Das Alter",
+    "Beides genau gleich",
+    "Der Wohnort Stadt oder Land"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der große Krieg der Generationen ist eher übertrieben. Die Altersunterschiede gibt es, aber im Vergleich zur Links-rechts-Frage sind sie klein – und die meisten denken beim Wählen eh auch an ihre Kinder oder Eltern.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Klima",
+    "Generationen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3780,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "wir könnten einfach sagen die Person mit den meisten Stimmen gewinnt also das war die W die vom Vater in der Geschichte vorgeschlagene Version dann hätte herr Hofer die Präsidentschaftswahl gewonnen fertig",
+   "quote_clean": "Wir könnten einfach sagen, die Person mit den meisten Stimmen gewinnt – das war die vom Vater in der Geschichte vorgeschlagene Version. Dann hätte Herr Hofer die Präsidentschaftswahl gewonnen, fertig.",
+   "statement": "Ohne Stichwahl, also wenn einfach die meisten Stimmen im ersten Wahlgang zählen würden, hätte Norbert Hofer die Bundespräsidentenwahl 2016 gewonnen.",
+   "question": "Wer hätte die Bundespräsidentenwahl 2016 ohne Stichwahl gewonnen?",
+   "answer": "Norbert Hofer",
+   "distractors": [
+    "Alexander Van der Bellen",
+    "Irmgard Griss",
+    "Rudolf Hundstorfer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im ersten Wahlgang lag Hofer vorne, in der Stichwahl gewann Van der Bellen. Das Wahlverfahren entscheidet mit, wer gewinnt – mit einem Punktesystem hätte vielleicht sogar Irmgard Griss als akzeptable Mitte die Nase vorn gehabt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlrecht",
+    "Bundespräsident"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 3582,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "damit es auch absolute Mehrheiten gibt die die eiswah unterstützen und dann gewinnt Clementine also drei verschiedene entscheidungsmodi und dreimal kommt dann also jedes Malal kommt ein anderes Eis heraus",
+   "quote_clean": "Damit es auch absolute Mehrheiten gibt, die die Eiswahl unterstützen, und dann gewinnt Clementine. Also drei verschiedene Entscheidungsmodi, und jedes Mal kommt ein anderes Eis heraus.",
+   "statement": "Bei mehr als zwei Optionen kann dieselbe Gruppe mit denselben Vorlieben je nach Abstimmungsverfahren zu einem anderen Ergebnis kommen – im Beispiel einer Kinderparty gewinnt dreimal ein anderes Eis.",
+   "question": "Neun Kinder stimmen über drei Eissorten ab, mit drei verschiedenen Verfahren. Was kommt heraus?",
+   "answer": "Jedes Mal ein anderes Eis",
+   "distractors": [
+    "Immer dasselbe Eis",
+    "Immer ein Unentschieden",
+    "Zweimal dasselbe Eis"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Einfache Mehrheit: Ananas. Punktesystem: Banane. Stichwahl: Clementine. Sobald es mehr als zwei Optionen gibt, existiert kein eindeutiger Wille der Gruppe – dafür gab es sogar einen Nobelpreis, und Studierende schauen da regelmäßig ungläubig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlverfahren",
+    "Volkswille"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1216,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "wenn ich nicht weiß wer zu welcher Partei gehört und ich kenne die Leute nicht weil ich dort neu bin dann habe ich überhaupt keine Chance eine sinnvolle Wahlentscheidung zu treffen aber wenn da daneben steht SPÖ ÖVP FPÖ etc dann weiß ich auf einmal zumindest im Groben was ich tun soll",
+   "quote_clean": "Wenn ich nicht weiß, wer zu welcher Partei gehört, und ich kenne die Leute nicht, weil ich dort neu bin, dann habe ich überhaupt keine Chance, eine sinnvolle Wahlentscheidung zu treffen. Aber wenn daneben SPÖ, ÖVP, FPÖ und so weiter steht, dann weiß ich auf einmal zumindest im Groben, was ich tun soll.",
+   "statement": "Das Parteikürzel ist eine der wertvollsten Informationsabkürzungen für Wähler:innen: Keine andere Angabe trägt auf so wenig Platz so viel Information.",
+   "question": "Du wählst in einem neuen Ort einen Bürgermeister. Welche Angabe am Stimmzettel hilft dir am meisten?",
+   "answer": "Das Parteikürzel",
+   "distractors": [
+    "Das Geburtsjahr",
+    "Der Beruf",
+    "Der Wohnort"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Laurenz zeigt in seiner Vorlesung einen Stimmzettel mit vier Namen, Geburtsjahr und Beruf. Ohne Partei bist du aufgeschmissen, mit drei Buchstaben weißt du plötzlich ganz viel. Darum ist ein stabiles Parteiensystem ein Wert an sich.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Heuristiken",
+    "Parteien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 4659,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "eine Welle die einfach sozusagen über irgendwie ein eine Gesellschaft hereinbricht und dann und dann verändert sie alles sondern die ist wie ein Reservoir an also quasi ein Potenzial dass man aktivieren oder kann",
+   "quote_clean": "Die öffentliche Meinung ist nicht wie eine Welle, die über eine Gesellschaft hereinbricht und dann alles verändert, sondern wie ein Reservoir, also ein Potenzial, das man aktivieren kann.",
+   "statement": "Öffentliche Meinung funktioniert eher wie ein Reservoir, das aktiviert werden kann, als wie eine Welle, die plötzlich alles verändert.",
+   "question": "Mit welchem Bild beschreibt die Politikwissenschaft die öffentliche Meinung zu Themen wie Migration?",
+   "answer": "Als Reservoir, das aktiviert wird",
+   "distractors": [
+    "Als Welle, die hereinbricht",
+    "Als Pendel, das ausschlägt",
+    "Als Lawine, die wächst"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Meinungen sind schon lange da, sie schlummern nur. Erst wenn ein Thema in der Debatte wichtig wird, entscheiden Leute ihre Wahl danach – so erklärt sich der Aufstieg rechter Parteien, obwohl die Gesellschaft gar nicht nach rechts rückt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Öffentliche Meinung",
+    "Rechtsruck"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 5789,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "wenn sich die abgehörten alle Parteien im Nationalrat von links nach rechts aufstellen würden dann wäre die Person in der Mitte allermeistens der ÖVP angehörig im Nationalrat das heißt links von der ÖVP gibt's keine Mehrheit und rechts von der ÖVP gibt's keine Mehrheit",
+   "quote_clean": "Wenn sich die Abgeordneten aller Parteien im Nationalrat von links nach rechts aufstellen würden, dann wäre die Person in der Mitte allermeistens der ÖVP angehörig. Das heißt, links von der ÖVP gibt es keine Mehrheit und rechts von der ÖVP gibt es keine Mehrheit.",
+   "statement": "Die ÖVP stellt im Nationalrat meist den Median-Abgeordneten: Weder links noch rechts von ihr gibt es eine Mehrheit, deshalb ist sie fast immer in der Regierung.",
+   "question": "Warum ist die ÖVP fast immer in der Regierung? Sie stellt im Nationalrat meist …",
+   "answer": "den Median-Abgeordneten",
+   "distractors": [
+    "die meisten Abgeordneten",
+    "den Nationalratspräsidenten",
+    "die jüngsten Abgeordneten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Stell dir alle 183 Abgeordneten in einer Reihe von links nach rechts vor: Die Person genau in der Mitte ist meistens schwarz bzw. türkis. Ohne die ÖVP müssten sich ideologisch sehr unterschiedliche Parteien verrenken, um eine Mehrheit zu finden.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "ÖVP",
+    "Koalitionen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 6082,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "aus international gleichenden Studien dass es so eine Art kompensatorisches wählen gibt also dass Leute versuchen zu antizipieren",
+   "quote_clean": "Aus international vergleichenden Studien wissen wir, dass es eine Art kompensatorisches Wählen gibt, also dass Leute versuchen zu antizipieren.",
+   "statement": "Beim kompensatorischen Wählen wählen Menschen bewusst eine Partei, die extremer ist als sie selbst, damit die Regierung nicht zu weit in die andere Richtung driftet.",
+   "question": "Wie heißt es, wenn man eine extremere Partei wählt, damit eine andere nicht vom Kurs abweicht?",
+   "answer": "Kompensatorisches Wählen",
+   "distractors": [
+    "Taktisches Splitten",
+    "Protestwählen",
+    "Bandwagon-Wählen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die FPÖ hat 2019 genau damit geworben: Ohne uns rückt Kurz nach links. Die Idee: Die Partei setzt eh nicht 100 Prozent um, aber sie hält die anderen auf Kurs. Dafür gibt es auch empirische Belege.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlverhalten",
+    "Strategie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2597,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "meine bisschen provokante Gegenrede dazu ist oft die Arbeit der Politik ist der Streit also streiten ist fundamental",
+   "quote_clean": "Meine etwas provokante Gegenrede dazu ist oft: Die Arbeit der Politik ist der Streit. Streiten ist fundamental.",
+   "statement": "Laurenz Ennser-Jedenastik hält dem Wunsch, Politiker sollten weniger streiten und mehr arbeiten, entgegen: Der Streit ist die Arbeit der Politik.",
+   "question": "Wer sagt: „Die Arbeit der Politik ist der Streit“?",
+   "answer": "Laurenz Ennser-Jedenastik",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Bundespräsident",
+    "Ein Parteisprecher"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ausgerechnet ein Mensch, der privat sehr harmoniebedürftig ist, verteidigt den Streit. Weil Arbeitnehmer und Arbeitgeber, Mieter und Vermieter legitime, aber gegensätzliche Interessen haben – und wir das lieber im Parlament als mit Waffen austragen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Demokratie",
+    "Streit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2672,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "ein Politikwissenschaftler den ich kenne hat mal gesagt Demokratie ist organisierter Konflikt und an das denke ich manchmal wenn ich solche Aussagen höre",
+   "quote_clean": "Ein Politikwissenschaftler, den ich kenne, hat einmal gesagt: Demokratie ist organisierter Konflikt. Daran denke ich manchmal, wenn ich solche Aussagen höre.",
+   "statement": "Demokratie ist organisierter Konflikt – ein Satz, an den Laurenz Ennser-Jedenastik denkt, wenn jemand weniger Streit in der Politik fordert.",
+   "question": "Wie vollendet Laurenz den Satz eines Kollegen: „Demokratie ist …“?",
+   "answer": "organisierter Konflikt",
+   "distractors": [
+    "gelebter Kompromiss",
+    "die Herrschaft der Mehrheit",
+    "ein ewiges Gespräch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Sehnsucht nach einer schönen, erbaulichen Politik im Fernsehen hält Laurenz für unrealistisch. Kritisieren darf man den Ton und künstliche Konflikte – aber Arbeit und Streit sind kein Gegensatz.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Demokratie",
+    "Konflikt"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 5928,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "mein Problem mit dem Begriff Protestwähler ist immer das man damit unterstellt die Leute haben eigentlich inhaltlich nichts mit der Partei am Hut und das stimmt einfach nicht",
+   "quote_clean": "Mein Problem mit dem Begriff Protestwähler ist immer, dass man damit unterstellt, die Leute haben eigentlich inhaltlich nichts mit der Partei am Hut. Und das stimmt einfach nicht.",
+   "statement": "Laurenz Ennser-Jedenastik hält den Begriff Protestwähler für irreführend, weil die meisten Wähler:innen inhaltlich zu ihrer Partei passen.",
+   "question": "Wer kritisiert: Der Begriff „Protestwähler“ unterstellt, die Leute hätten inhaltlich nichts mit ihrer Partei am Hut?",
+   "answer": "Laurenz Ennser-Jedenastik",
+   "distractors": [
+    "Andreas Sator",
+    "Ein FPÖ-Generalsekretär",
+    "Ein Meinungsforscher im ORF"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer FPÖ wählt, ist meist tatsächlich skeptisch gegenüber Zuwanderung und EU – passt also zum Programm. Und Protest ist ohnehin selten inhaltsleer: Man könnte genauso sagen, Grün-Wähler protestieren gegen fehlende Klimapolitik.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Protestwähler",
+    "Wahlverhalten"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 6763,
+   "speaker": "Laurenz Ennser-Jedenastik",
+   "quote": "aber ich glaube man muss sich die Frage stellen ist das neu für mich und ist neu für mein Publikum das sind zwei sehr unterschiedliche Dinge",
+   "quote_clean": "Aber ich glaube, man muss sich die Frage stellen: Ist das neu für mich, und ist das neu für mein Publikum? Das sind zwei sehr unterschiedliche Dinge.",
+   "statement": "Journalist:innen sollten unterscheiden, ob etwas für sie selbst neu ist oder für ihr Publikum – das erklärt, warum über Umfragen mehr berichtet wird als über Inhalte.",
+   "question": "Welche Frage sollten sich Journalist:innen laut Laurenz stellen, bevor sie ein Thema als alt abtun?",
+   "answer": "Ist es neu fürs Publikum?",
+   "distractors": [
+    "Hat es schon jemand geschrieben?",
+    "Klickt es gut genug?",
+    "Ist es exklusiv für uns?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Position der Grünen zur Erbschaftssteuer kennt jede Innenpolitik-Journalistin, viele Leserinnen aber nicht. Weil Programme stabil sind, wirken sie für Profis langweilig – und neu ist dann halt die Umfrage mit zwei Punkten Plus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Medien",
+    "Journalismus"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 7779,
+   "speaker": "Andreas Sator",
+   "quote": "Liebe Laurenz danke für deine Zeit sehr gern was nehme ich mir mit erstens streit gehört zur Politik",
+   "quote_clean": "Lieber Laurenz, danke für deine Zeit. – Sehr gern. – Was nehme ich mir mit? Erstens: Streit gehört zur Politik.",
+   "statement": "Andreas Sator fasst am Ende der Folge zusammen, was er sich mitnimmt – mit nummerierten Punkten.",
+   "question": "Mit welcher Formulierung leitet Andreas am Ende seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was lernen wir daraus?",
+    "Fassen wir zusammen",
+    "Das Wichtigste in Kürze"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Diesmal sind es drei Punkte: Streit gehört zur Politik, die Bevölkerung rückt nicht nach rechts, die Parteien aber schon, und einen einheitlichen Volkswillen gibt es nicht. Plus Gratulation zum Durchhaltevermögen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Zusammenfassung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "304",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

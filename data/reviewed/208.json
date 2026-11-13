@@ -1,0 +1,282 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Neun Stunden täglich, zweimal pro Woche zehn bei 1240-1245 belegt und entspricht der EU-Regel; London-Aussage im aha an die tatsächliche Angabe (Montag los, Dienstagnacht dort) angepasst.",
+   "stand_note": "",
+   "statement": "Lkw-Fahrer:innen dürfen in der EU normalerweise höchstens neun Stunden pro Tag fahren.",
+   "question": "Wie viele Stunden darf ein Lkw-Fahrer in der EU normalerweise pro Tag am Steuer sitzen?",
+   "answer": "9 Stunden",
+   "distractors": [
+    "7 Stunden",
+    "11 Stunden",
+    "12 Stunden"
+   ],
+   "aha": "Neun Stunden reine Lenkzeit sind die Regel, zweimal pro Woche dürfen es zehn sein. Für Helga heißt das: Wenn sie am Montag losfährt, ist sie Dienstagnacht in London.",
+   "quote_clean": "Ist nicht die Obergrenze neun Stunden am Tag, die man gesetzlich fahren darf? Ja, neun Stunden, aber man darf zweimal in der Woche auf zehn Stunden ausweiten.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Inhaltlich korrekt, aber dieselbe Stelle wie Kandidat 0; Doppelung im Spiel vermeiden.",
+   "stand_note": "",
+   "statement": "Die tägliche Lenkzeit von neun Stunden darf zweimal pro Woche auf zehn Stunden verlängert werden.",
+   "question": "Wie oft pro Woche darf ein Lkw-Fahrer seine Lenkzeit auf zehn Stunden ausdehnen?",
+   "answer": "Zweimal pro Woche",
+   "distractors": [
+    "Nie",
+    "Einmal pro Woche",
+    "An jedem Tag"
+   ],
+   "aha": "Die Ausnahme ist streng begrenzt: zwei längere Tage pro Woche, mehr nicht. So geht sich bei Helga die Fahrt nach London samt Rückweg in einer Woche aus.",
+   "quote_clean": "Ja, neun Stunden, aber man darf zweimal in der Woche auf zehn Stunden ausweiten.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "150 Prozent Lkw und 50 Prozent Pkw seit 1990 bei 1563 belegt (Andreas; 'Bkw' ist Pkw). Quelle nicht genannt, aber plausibel; Zahlen ändern sich laufend.",
+   "stand_note": "Stand 2022",
+   "statement": "Seit 1990 ist der Lkw-Verkehr in Österreich um rund 150 Prozent gewachsen, der Pkw-Verkehr um etwa 50 Prozent.",
+   "question": "Um wie viel Prozent ist der Lkw-Verkehr in Österreich seit 1990 gestiegen?",
+   "answer": "Um rund 150 Prozent",
+   "distractors": [
+    "Um rund 30 Prozent",
+    "Um rund 60 Prozent",
+    "Um rund 400 Prozent"
+   ],
+   "aha": "Der Lkw-Verkehr ist dreimal so stark gewachsen wie der Pkw-Verkehr. Von wegen \"mehr auf die Bahn\": Die Nachfrage nach Lastwagen ist eher explodiert.",
+   "quote_clean": "Wenn man sich die Entwicklung anschaut: Seit 1990 ist der Pkw-Verkehr in Österreich um 50 Prozent gestiegen und der Lkw-Verkehr um 150 Prozent.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "kontext"
+   ],
+   "note": "10 Euro brutto bei 1725 belegt, aber persönliche Einschätzung einer Fahrerin und Lohnangabe von 2022; daher klar als 'laut Helga' und mit Stand gekennzeichnet.",
+   "stand_note": "Stand 2022",
+   "statement": "Laut Helga Dröscher verdient ein Lkw-Fahrer in Österreich rund 10 Euro brutto pro Stunde.",
+   "question": "Wie viel Euro brutto verdient ein Lkw-Fahrer in Österreich laut Helga ungefähr pro Stunde?",
+   "answer": "Etwa 10 Euro",
+   "distractors": [
+    "Etwa 6 Euro",
+    "Etwa 18 Euro",
+    "Etwa 25 Euro"
+   ],
+   "aha": "Das Gehalt passt am Ende nur, weil die Tage so lang sind: Helga arbeitet jeden Tag 13 bis 15 Stunden. Gut verdienen heißt hier vor allem viel arbeiten.",
+   "quote_clean": "Aber ein Lkw-Fahrer hat 10 Euro brutto Stundenlohn. Bei uns macht das nur die Menge aus, weil wir jeden Tag 13, 15 Stunden arbeiten.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Ganzes kleines Haus auf einem Lkw bei 174-180 belegt; die Kran- und Drei-Stunden-Angabe im aha steht nicht im Ausschnitt und wurde gestrichen.",
+   "stand_note": "",
+   "statement": "Ein kleines Einfamilienhaus aus Massivholz passt in Fertigteilen komplett auf einen einzigen Sattelauflieger.",
+   "question": "Wie viel von einem kleinen Massivholz-Einfamilienhaus passt auf einen einzigen Lkw?",
+   "answer": "Das ganze Haus",
+   "distractors": [
+    "Etwa ein Viertel",
+    "Nur das Dach",
+    "Etwa die Hälfte"
+   ],
+   "aha": "Die Wände kommen als fertige Elemente und müssen sorgfältig nach Plan geschlichtet werden. Ist das Haus nicht allzu groß, geht es komplett auf einen Lkw.",
+   "quote_clean": "Wenn das Haus nicht allzu groß ist, geht ein ganzes Haus auf. Wirklich? Wow. So ein kleines, lauschiges Einfamilienhaus, das bringe ich noch.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Auflieger statt Zugmaschine beladen und wechselbar bei 228-245 belegt.",
+   "stand_note": "",
+   "statement": "Beim Sattelzug wird nicht die Zugmaschine beladen, sondern der Auflieger, der sich austauschen lässt.",
+   "question": "Was wird bei einem Sattelzug eigentlich beladen?",
+   "answer": "Der austauschbare Auflieger",
+   "distractors": [
+    "Die Zugmaschine",
+    "Das Führerhaus",
+    "Ein fix verbauter Container"
+   ],
+   "aha": "Weil das Aufladen der Holzhäuser irrsinnig lang dauert, wird vorgeladen. Helga sattelt in der Früh einfach den fertigen Auflieger an ihre Zugmaschine und fährt los.",
+   "quote_clean": "Den Lkw selber befüllst du ja nicht, sondern den Auflieger. Und den kann man auch immer wechseln.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Elefantenrennen bei 1379-1386 belegt; die Tempomat-Aussage im aha steht nicht im Ausschnitt (Satz bricht bei 1415 ab) und wurde ersetzt durch das Belegte.",
+   "stand_note": "",
+   "statement": "Wenn ein Lkw einen anderen mit nur minimal höherem Tempo minutenlang überholt, nennt man das Elefantenrennen.",
+   "question": "Wie nennt man es, wenn ein Lkw einen anderen mit kaum höherem Tempo minutenlang überholt?",
+   "answer": "Elefantenrennen",
+   "distractors": [
+    "Schneckenrallye",
+    "Nashornlauf",
+    "Kolonnenhupf"
+   ],
+   "aha": "Die Lkw sind fast gleich schnell, also dauert das Überholen ewig und alle dahinter warten. Helga mag das gar nicht, weil es ihrer Meinung nach keinen Sinn hat.",
+   "quote_clean": "Aber ich glaube, du meinst die klassischen Elefantenrennen, wo der eine den anderen überholen kann, weil er ein paar km/h schneller ist als der andere.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Aussage bei 1590-1618 belegt (Müllabfuhr/Post gut, Fernverkehr schwierig, Norwegen minus 25 Grad); Einschätzung von 2022, daher Stand vermerkt.",
+   "stand_note": "Stand 2022",
+   "statement": "Elektro-Lkw eignen sich laut Helga Dröscher vor allem dort, wo sie täglich zur eigenen Ladestation zurückkehren, etwa bei Müllabfuhr oder Post.",
+   "question": "Wo funktionieren Elektro-Lkw laut Helga am ehesten?",
+   "answer": "Wo sie täglich zur Ladestation zurückkehren",
+   "distractors": [
+    "Im Fernverkehr nach Skandinavien",
+    "Auf Bergstrecken im Winter",
+    "Bei Schwertransporten quer durch Europa"
+   ],
+   "aha": "Wer jeden Abend ins Depot zurückkommt, lädt dort einfach an. Im Fernverkehr fehlen Ladestationen für Lkw, und bei minus 25 Grad in Norwegen will Helga auch nicht ohne Strom für die Heizung dastehen.",
+   "quote_clean": "Das geht vielleicht, wenn der Lkw jeden Tag zurück zu seiner Ladestation fahren kann, so wie bei der Müllabfuhr oder bei der Post. Das geht wahrscheinlich gut, aber bei uns im Fernverkehr ...",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Tanken wie Diesel und 'Kinderschuhe' bei 1694-1701 belegt; Schweden-Verweis bei 1628-1650; Einschätzung von 2022.",
+   "stand_note": "Stand 2022",
+   "statement": "Wasserstoff-Lkw lassen sich ähnlich schnell betanken wie Diesel-Lkw, die Technik steckt aber noch in den Kinderschuhen.",
+   "question": "Welchen Vorteil hat Wasserstoff für Lkw laut Helga gegenüber Batterie-Strom?",
+   "answer": "Man tankt ihn ähnlich wie Diesel",
+   "distractors": [
+    "Er ist deutlich billiger",
+    "Er braucht keine Tankstellen",
+    "Er ist leiser beim Fahren"
+   ],
+   "aha": "Stundenlang an einer womöglich besetzten Ladesäule warten geht im Fernverkehr nicht. In Schweden gibt es schon erste Wasserstoff-Lkw, Helga würde gern abwarten, ob es dort bei Kälte klappt.",
+   "quote_clean": "Das wäre bei Wasserstoff einfacher, weil man das im Prinzip genauso tankt wie Diesel. Aber alles noch in den Kinderschuhen.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Zitat bei 1356-1359 wörtlich belegt; 'Wer sagt das?' ist beim Folgengast beliebig, daher als Inhaltsfrage umgebaut; aha an das Gesagte angepasst.",
+   "stand_note": "",
+   "statement": "Helga Dröscher sieht Lkw-Kolonnen als Zeichen, dass die Versorgung funktioniert.",
+   "question": "Wann sollte man sich laut Lkw-Fahrerin Helga Dröscher Sorgen machen?",
+   "answer": "Wenn die Lkw-Kolonnen verschwunden sind",
+   "distractors": [
+    "Wenn der Diesel teurer wird",
+    "Wenn die Bahn weniger fährt",
+    "Wenn es mehr Baustellen gibt"
+   ],
+   "aha": "Wer sich über die Lkw-Kolonne vor sich ärgert, kann kurz umdenken: Solange sie fährt, funktioniert die Versorgung. Gerade in Zeiten wie diesen, sagt Helga, sei man froh, dass alle Lastwagen noch fahren.",
+   "quote_clean": "Solange die Lastwagen fahren, ist alles in Ordnung. Wenn einmal die Lastwagenkolonnen weg sind, sollte man anfangen, sich Sorgen zu machen.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitat bei 1871-1877 wörtlich belegt; 'Wer sagt das?' beim Folgengast beliebig, daher als Inhaltsfrage umgebaut.",
+   "stand_note": "",
+   "statement": "Helga Dröscher erlebt ihren Beruf als essenziell, aber kaum wertgeschätzt.",
+   "question": "Woher kommt laut Lkw-Fahrerin Helga Dröscher die Anerkennung im Beruf?",
+   "answer": "Man muss sie sich selber geben",
+   "distractors": [
+    "Von den Kunden vor Ort",
+    "Von der Firma als Bonus",
+    "Von anderen Verkehrsteilnehmern"
+   ],
+   "aha": "Ohne Lkw würde die Wirtschaft zusammenbrechen, trotzdem bedankt sich kaum wer. Helga und ihre Kolleg:innen halten sich an ihre Berufsehre und ihren Stolz.",
+   "quote_clean": "Nein, Anerkennung kriegt man keine. Anerkennung muss man sich selber geben.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Humorvolle Übertreibung ('drei Wochen') würde als Fakt abgefragt; Transkription 'im Lassen' unsicher, Antwort nicht belastbar.",
+   "stand_note": "",
+   "statement": "Auf Lkw-Parkplätzen ist es die ganze Nacht laut, nur Routinierte können dort gut schlafen.",
+   "question": "Wie lange könnte laut Helga ein normaler Mensch im Lkw auf dem Parkplatz nicht schlafen?",
+   "answer": "Sicher drei Wochen",
+   "distractors": [
+    "Eine Nacht",
+    "Zwei Tage",
+    "Ein halbes Jahr"
+   ],
+   "aha": "Da springt ein Kühlaggregat an, dort fährt einer weg, irgendwo hupt wer. Für Fernfahrer:innen ist das Alltag, für alle anderen eine sehr lange Nacht.",
+   "quote_clean": "Wir haben uns irgendwann an den Lärm gewöhnt, aber ein normaler Mensch kann sicher drei Wochen nicht schlafen im Lastwagen.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Vorsatz bei 1305-1311 belegt ('Vorjahrssatz' = Neujahrsvorsatz), aha passt zu 1316-1325; harmlos und sympathisch, als Spielfrage eher leicht.",
+   "stand_note": "",
+   "statement": "Helga Dröschers Neujahrsvorsatz war, eine besonders höfliche Lkw-Fahrerin zu sein.",
+   "question": "Welchen Neujahrsvorsatz hat Helga für sich gefasst?",
+   "answer": "Eine sehr höfliche Fahrerin sein",
+   "distractors": [
+    "Weniger Kaffee trinken",
+    "Öfter nach Norwegen fahren",
+    "Mehr Podcasts hören"
+   ],
+   "aha": "Kein Schimpfen, kein Ärgern mehr: Helga bedankt sich, wenn sie wer reinlässt. Und wenn jemand vor ihr Mist baut, sagt sie halt \"Danke für nichts\".",
+   "quote_clean": "Ich habe mir vorgenommen, dass ich eine sehr höfliche Lastwagenfahrerin sein werde. Heuer mit 1. Jänner. Das ist mein Neujahrsvorsatz.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Reine Meta-Frage zur Moderationsfloskel; die Behauptung, Andreas beende 'seine Folgen' so, ist aus dem Ausschnitt nicht belegt.",
+   "stand_note": "",
+   "statement": "Andreas beendet seine Folgen mit einer Zusammenfassung unter der Frage, was er sich mitnimmt.",
+   "question": "Mit welcher Frage leitet Andreas seine Zusammenfassung am Ende der Folge ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir heute gelernt?",
+    "Was bleibt hängen?",
+    "Was ist die Moral?"
+   ],
+   "aha": "Nach dem Gespräch fasst Andreas allein zusammen, was bei ihm hängen geblieben ist. Diesmal: Rentiere, lange Arbeitstage und aufgeschnittene Lkw-Planen.",
+   "quote_clean": "Schönen Dank für deine Zeit, Helga. Was nehme ich mir mit? Ich fand das sehr spannend, in diesen Beruf blicken zu können.",
+   "quality": 1
+  }
+ ],
+ "id": "208",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

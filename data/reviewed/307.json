@@ -1,0 +1,290 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "fairness"
+   ],
+   "note": "Zahl und Zeitraum belegt; der Aha-Text enthielt erfundene Zusätze und eine Unterstellung (Wohlwollen kaufen), nun als Einschätzung des Gasts gerahmt.",
+   "stand_note": "",
+   "statement": "Signa schaltete zwischen 2017 und 2023 Inserate in österreichischen Zeitungen im Listenpreis-Wert von rund 8,5 Millionen Euro.",
+   "question": "Für wie viele Millionen Euro (Listenpreis) inserierte Signa zwischen 2017 und 2023 in österreichischen Zeitungen?",
+   "answer": "8,5 Millionen Euro",
+   "distractors": [
+    "2,5 Millionen Euro",
+    "4 Millionen Euro",
+    "15 Millionen Euro"
+   ],
+   "aha": "Das ist der offizielle Listenpreis, tatsächlich bezahlt wurde wohl etwas weniger. Allein 3 Millionen gingen an die Zeitung Österreich und 2 Millionen an die Presse. Für Sebastian Reinhart zeigt das, wie gut Signa verstanden hat, Medien für sich zu gewinnen.",
+   "quote_clean": "Zwischen 2017 und 2023 wurden 8,5 Millionen Euro, wenn man den offiziellen Listenpreis nimmt, in österreichischen Zeitungen inseriert.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "12 Prozent aus Abu Dhabi 2021 belegt; der Vergleich mit Hauskrediten im Aha steht nicht im Transkript und wurde ersetzt.",
+   "stand_note": "",
+   "statement": "Schon 2021, lange vor der Zinswende, musste Benko für eine Finanzierung eines Staatsfonds aus Abu Dhabi 12 Prozent Zinsen zahlen.",
+   "question": "Wie viel Prozent Zinsen musste Signa schon 2021 für Geld eines Staatsfonds aus Abu Dhabi zahlen?",
+   "answer": "12 Prozent",
+   "distractors": [
+    "3 Prozent",
+    "6 Prozent",
+    "20 Prozent"
+   ],
+   "aha": "Für Sebastian Reinhart zeigt das, wie Geldgeber die Signa-Gruppe schon lange vor der Zinswende bewertet haben: als riskant. Die Zinswende war später trotzdem ein Faktor, aber nicht der einzige.",
+   "quote_clean": "Schon 2021, also lange vor der Zinswende, hat er 12-Prozent-Finanzierungen von einem Staatsfonds aus Abu Dhabi in Kauf nehmen müssen.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "650.000 Euro belegt; die Gästeliste im Aha steht nicht im Ausschnitt und wurde durch den belegten Zusatz (280.000 Euro für einen Auftritt) ersetzt.",
+   "stand_note": "",
+   "statement": "Für ein Sommerfest zu seinem Geburtstag gab René Benko rund 650.000 Euro aus.",
+   "question": "Wie viel Euro kostete das Sommerfest zu René Benkos Geburtstag ungefähr?",
+   "answer": "650.000 Euro",
+   "distractors": [
+    "80.000 Euro",
+    "250.000 Euro",
+    "2 Millionen Euro"
+   ],
+   "aha": "Allein ein einziger Auftritt auf dem Fest soll 280.000 Euro gekostet haben. Die Zahlen stammen aus dem Buch von Sebastian Reinhart und seinem Team.",
+   "quote_clean": "Ganz interessant, die Zahlen bei euch zu lesen: Zu seinem Geburtstag hat er um 650.000 Euro ein Sommerfest veranstaltet.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (AWD, Lebensversicherungen), Aha passt zum Ausschnitt.",
+   "stand_note": "",
+   "statement": "René Benko lernte das Verkaufen als Jugendlicher beim Finanzdienstleister AWD, der junge Leute zum Verkauf von Lebensversicherungen rekrutierte.",
+   "question": "Was verkaufte René Benko als Jugendlicher für den Finanzdienstleister AWD?",
+   "answer": "Lebensversicherungen",
+   "distractors": [
+    "Bausparverträge",
+    "Gebrauchtwagen",
+    "Zeitungsabos"
+   ],
+   "aha": "Bei AWD lernte er, wie man im persönlichen Gespräch überzeugt und mit Details beeindruckt. Und über eine verkaufte Lebensversicherung lernte er einen Innsbrucker Baumeister kennen – der Start seiner Immobilienkarriere.",
+   "quote_clean": "Von einem Finanzdienstleister, ein Keilerbetrieb würde man umgangssprachlich sagen, AWD hat der damals geheißen. Die waren in Tirol ganz stark am Markt und haben junge Leute rekrutiert, um Lebensversicherungen zu verkaufen.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Dachbodenausbau als Anfang ist belegt; die Details im Aha (Hausgemeinschaften, Aufgabenteilung) stehen nicht im Ausschnitt und wurden ersetzt.",
+   "stand_note": "",
+   "statement": "René Benkos Immobilienkarriere begann in Innsbruck mit dem Ausbau von Dachböden gemeinsam mit einem Baumeister.",
+   "question": "Womit begann René Benkos Immobiliengeschäft in Innsbruck?",
+   "answer": "Mit dem Ausbau von Dachböden",
+   "distractors": [
+    "Mit Studentenheimen",
+    "Mit Garagenplätzen",
+    "Mit Skihütten"
+   ],
+   "aha": "Dem Baumeister mit Erfahrung im Dachbodenausbau hatte Benko zuvor eine Lebensversicherung verkauft. Er war beeindruckt, dass der junge Mann das geschafft hat. Von den Dachböden ging es später bis zum Kaufhaus Tirol.",
+   "quote_clean": "Er ist an einen Baumeister in Innsbruck geraten, jemand, der mit dem Ausbau von Dachböden Erfahrung hatte, und dem hat er eine Lebensversicherung verkauft.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (Chipperfield, Kaufhaus Tirol), Aha passt.",
+   "stand_note": "",
+   "statement": "Für das Kaufhaus Tirol in Innsbruck holte Benko den Stararchitekten David Chipperfield.",
+   "question": "Welcher Stararchitekt entwarf Benkos Kaufhaus Tirol in Innsbruck?",
+   "answer": "David Chipperfield",
+   "distractors": [
+    "Zaha Hadid",
+    "Renzo Piano",
+    "Norman Foster"
+   ],
+   "aha": "Für Innsbrucker Verhältnisse war das was völlig Neues. Das Kaufhaus Tirol war Benkos erstes großes Symbol, bevor er nach Wien ins Goldene Quartier ging.",
+   "quote_clean": "Aber die Leute haben sicher Ehrfurcht gehabt vor dem Mut und der Größe, wie er das hingestellt hat. Für dieses Kaufhaus hat er mit David Chipperfield einen Stararchitekten geholt.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Das Zitat war mitten im Satz abgeschnitten; die Aussage ist erst mit dem Folgeausschnitt vollständig (Spielraum, den Wert der Immobilien hochzuskalieren). Frage als Einschätzung von Reinhart gerahmt, Aha vorsichtiger formuliert.",
+   "stand_note": "",
+   "statement": "Weil Signa bei Kaufhäusern zugleich Eigentümerin der Immobilie und über das Handelsgeschäft deren Mieterin war, hatte sie laut Sebastian Reinhart Spielräume, den Wert der Immobilien hochzuskalieren.",
+   "question": "Welche Doppelrolle nutzte Signa laut Sebastian Reinhart bei ihren Kaufhaus-Immobilien?",
+   "answer": "Eigentümer und Mieter zugleich",
+   "distractors": [
+    "Bauherr und Architekt zugleich",
+    "Verkäufer und Käufer zugleich",
+    "Bank und Kunde zugleich"
+   ],
+   "aha": "Wer Eigentümer der Immobilie und über das Handelsgeschäft auch Mieter ist, hat Spielraum, den Wert der Immobilie nach oben zu schrauben. Der Haken laut Reinhart: Das Handelsgeschäft stand dadurch massiv unter Druck.",
+   "quote_clean": "Er hat aber auch gemerkt: Wenn du auf beiden Seiten spielst, also auf der einen Seite Eigentümer der Immobilie bist und auf der anderen Seite mit dem Handelsgeschäft der Mieter, dann hast du Spielräume, wie du die Werthaltigkeit der Immobilien hochskalieren kannst.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt (negativer Cashflow, übertüncht durch steigende Immobilienwerte); Aha etwas vorsichtiger und als Reinhart-Einschätzung gerahmt.",
+   "stand_note": "",
+   "statement": "Bei Signa war der Cashflow regelmäßig negativ, wurde aber durch immer weiter steigende Immobilienbewertungen überdeckt, sodass in den Büchern trotzdem Gewinne standen.",
+   "question": "Wie konnte Signa trotz negativem Cashflow hohe Gewinne ausweisen?",
+   "answer": "Durch steigende Immobilienbewertungen",
+   "distractors": [
+    "Durch Staatshilfen",
+    "Durch Börsengewinne",
+    "Durch Mieteinnahmen von Dritten"
+   ],
+   "aha": "Laut Sebastian Reinhart ließen die Prospekte erkennen, dass das operative Geschäft nicht gut lief. Auf dem Papier stiegen aber die Immobilienwerte. Dazu kamen Mietverhältnisse zwischen Signa-Gesellschaften, die er ein Karussell nennt.",
+   "quote_clean": "Der Cashflow, also das, was an Barem reingekommen ist, war regelmäßig negativ, und das ist von den immer weiter steigenden Immobilienwerten übertüncht worden.",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, Aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Lange Mietverträge mit zahlungskräftigen Luxusmarken wie Louis Vuitton im Goldenen Quartier dienten Benko als Sicherheit für neue Bankkredite.",
+   "question": "Wozu nutzte Benko die langen Mietverträge mit Luxusmarken im Goldenen Quartier?",
+   "answer": "Als Sicherheit für neue Kredite",
+   "distractors": [
+    "Um Steuern zu sparen",
+    "Um Wohnungen zu bauen",
+    "Um Aktien auszugeben"
+   ],
+   "aha": "Top-Lage, Top-Mieter, lange Verträge – für eine Bank klingt das nach sicherem Geld. Das Modell hat Benko nicht erfunden, aber in Österreich perfektioniert.",
+   "quote_clean": "Du gehst zur Bank und sagst: Okay, ich brauche einen Kredit, um weiterzuwachsen und ein neues Projekt aufzureißen. Und da hast du die Sicherheit von einem Mieter wie Louis Vuitton, der liquide ist und seine Mieten zahlen kann.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "„Wer beschreibt“ ist ohne Vorwissen nicht spielbar; als Frage nach Benkos Stärke umgebaut. Den unbelegten Satz über Investoren im Aha gestrichen.",
+   "stand_note": "",
+   "statement": "René Benko ist laut Sebastian Reinhart ein extrem guter Verkäufer, aber kein Massenmensch, sondern jemand, der im persönlichen Gespräch überzeugt.",
+   "question": "Worin lag René Benkos Stärke laut Sebastian Reinhart?",
+   "answer": "Im Überzeugen im persönlichen Gespräch",
+   "distractors": [
+    "In mitreißenden Auftritten vor großen Massen",
+    "Im Programmieren von Software",
+    "Im handwerklichen Bauen"
+   ],
+   "aha": "Sein Talent lag im Vier-Augen-Gespräch: zuhören, auf Stärken und Schwächen des Gegenübers eingehen, mit Details Eindruck machen. Auf der Bühne vor großen Massen sieht Reinhart ihn nicht.",
+   "quote_clean": "René Benko ist ein extrem guter Verkäufer. Er ist kein Massenmensch, der auf der Bühne steht und große Massen bewegen kann.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "kontext",
+    "beleg"
+   ],
+   "note": "Wertende Einschätzung des Gasts über ein Unternehmen als Frage nach „wer kommt zum Schluss“ ist nicht spielbar; der Aha-Satz zur Exit-Strategie steht nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Signa war nach Einschätzung von Reinhart nie auf Dauer angelegt, sondern ein nicht nachhaltiges Wachstumssystem.",
+   "question": "Wer kommt zum Schluss, Signa sei von Anfang an kein nachhaltiges System gewesen?",
+   "answer": "Sebastian Reinhart",
+   "distractors": [
+    "Klaus-Michael Kühne",
+    "Wendelin Wiedeking",
+    "René Benko"
+   ],
+   "aha": "Das System hat sich nie stabilisiert, es musste immer weiter wachsen – bis zum Kauf der Londoner Kette Selfridges kurz vor Schluss. Eine Exit-Strategie hat Reinhart nie gesehen.",
+   "quote_clean": "Unsere Einschätzung ist, dass es ein nicht auf viele Jahre angelegtes, also kein nachhaltiges System war.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Reine Meta-Frage zum Aufbau der Folge ohne Wissensgewinn; Zitat enthält zudem eine zugespitzte Wertung („Pyramidenspiel“).",
+   "stand_note": "",
+   "statement": "Andreas beendet seine Folgen mit einer Zusammenfassung unter dem Motto „Was nehme ich mir mit?“.",
+   "question": "Mit welcher Formel leitet Andreas am Ende der Folge seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was bleibt hängen?",
+    "Was lernen wir daraus?",
+    "Was heißt das jetzt?"
+   ],
+   "aha": "Drei Punkte, nummeriert, am Schluss jeder Folge. Bei Benko: großes Verkaufstalent, zu nah an der Sonne – und am Ende eben doch ein Pyramidenspiel.",
+   "quote_clean": "Lieber Sebastian, danke für deine Zeit. – Danke dir für die Einladung. – Was nehme ich mir mit? Erstens: Benko hat viele Talente, sonst wäre sein Pyramidenspiel nicht so lange gut gegangen.",
+   "quality": 1
+  },
+  {
+   "i": 25,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg",
+    "fairness"
+   ],
+   "note": "Der Gast bezeichnet das Detail selbst als umstritten und möglicherweise urbane Legende; als Spielfrage mit eindeutiger Antwort über eine reale Person nicht tauglich.",
+   "stand_note": "",
+   "statement": "Laut einer Erzählung, die auch im Buch vorkommt, soll Benko mit 14 lange Rastalocken gehabt haben – belegt ist das aber nicht.",
+   "question": "Welches Jugend-Detail über Benko bringt Andreas zum Schmunzeln?",
+   "answer": "Lange Rastalocken mit 14",
+   "distractors": [
+    "Ein Irokesenschnitt mit 16",
+    "Eine Glatze mit 15",
+    "Ein Ohrring mit 13"
+   ],
+   "aha": "Sebastian bremst gleich: Bilder gibt's keine, es könnte auch eine urbane Legende sein. Also lassen sie die Rastalocken liegen und reden übers Geschäft.",
+   "quote_clean": "Was ich witzig fand, so ein kleines Detail: Er hatte mit 14, glaube ich, lange Rastalocken.",
+   "quality": 1
+  },
+  {
+   "i": 26,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Ablauf belegt; die Angabe im Aha „fünf Mal von Benko geklagt“ widerspricht dem Transkript (Reinhart persönlich wurde nicht geklagt, das Medium mehrfach) und wurde ersetzt.",
+   "stand_note": "",
+   "statement": "Signa beantwortete die Fragen der Rechercheplattform Addendum erst zwei Stunden nach der Veröffentlichung – und es folgte schon am nächsten Tag eine Klage.",
+   "question": "Wann kamen Signas Antworten auf den Fragenkatalog von Addendum?",
+   "answer": "Zwei Stunden nach der Veröffentlichung",
+   "distractors": [
+    "Am Tag davor",
+    "Nach drei Monaten",
+    "Eine Woche nach der Klage"
+   ],
+   "aha": "Wochenlang gab es keine Antwort, dann kamen Antworten und kurz darauf die Klage. Reinhart wurde nicht persönlich geklagt, aber das Medium mehrfach. Im Rückblick wirkt das für ihn ein bisschen orchestriert.",
+   "quote_clean": "An dem Tag, an dem wir veröffentlicht haben, kamen zwei Stunden später die Antworten, und keinen Tag später kam schon die Klage.",
+   "quality": 3
+  }
+ ],
+ "id": "307",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

@@ -1,0 +1,274 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (t=193-208), auch heute korrekt.",
+   "stand_note": "",
+   "statement": "Demenz ist selbst keine Krankheit, sondern ein Zustand, der durch verschiedene Krankheiten entsteht – am häufigsten durch Alzheimer.",
+   "question": "Welche Krankheit ist die häufigste Ursache für Demenz?",
+   "answer": "Alzheimer",
+   "distractors": [
+    "Schlaganfall",
+    "Parkinson",
+    "Alkoholkrankheit"
+   ],
+   "aha": "Demenz ist eher ein Sammelbegriff für ein Bündel an Symptomen als eine eigene Krankheit. Dahinter können verschiedene Ursachen stecken, aber am öftesten ist es Alzheimer, bei dem sich Gehirnzellen abbauen – warum genau, weiß man noch nicht wirklich.",
+   "quote_clean": "Demenz selber ist keine Krankheit, sondern Demenz entsteht durch eine Krankheit. Es gibt mehrere Krankheiten, die dazu führen. Die häufigste ist die Alzheimerkrankheit.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (t=219), 'gehäuft ab 65' als Aussage der Gästin.",
+   "stand_note": "",
+   "statement": "Alzheimer tritt vor allem im Alter auf, gehäuft ab etwa 65 Jahren.",
+   "question": "Ab welchem Alter tritt Alzheimer laut Antonia Croy gehäuft auf?",
+   "answer": "Ab 65 Jahren",
+   "distractors": [
+    "Ab 50 Jahren",
+    "Ab 75 Jahren",
+    "Ab 85 Jahren"
+   ],
+   "aha": "Ab 65 wird es statistisch häufiger, aber eine fixe Altersgrenze gibt es nicht. Antonia erzählt auch von Menschen, die schon mit 50 erkranken – und für die passen die Angebote, die auf Hochaltrige zugeschnitten sind, oft gar nicht.",
+   "quote_clean": "Sie tritt hauptsächlich im Alter auf, ab 65 Jahren dann gehäuft. Aber es können auch jüngere Menschen schon daran erkranken.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt (t=244-251, 'relativ häufig' laut Gästin); Distraktoren wie Fernsehen oder Blutdruck sind als Risikofaktoren nicht eindeutig falsch und wurden durch klar abwegige ersetzt.",
+   "stand_note": "",
+   "statement": "Jahrzehntelanger starker Alkoholkonsum kann im Alter zu einer Demenz führen.",
+   "question": "Welche relativ häufige Ursache für Demenz kennen viele Menschen nicht?",
+   "answer": "Lebenslanger starker Alkoholkonsum",
+   "distractors": [
+    "Zu viel Kaffee in der Jugend",
+    "Linkshändigkeit",
+    "Häufiges Reisen"
+   ],
+   "aha": "Neben Alzheimer und Schlaganfällen kann auch die Alkoholkrankheit dem Gehirn so zusetzen, dass im Alter Demenzzeichen auftreten. Laut Antonia wissen das viele nicht, obwohl es relativ häufig vorkommt.",
+   "quote_clean": "Wenn jemand sein Leben lang sehr viel Alkohol trinkt, dann kann das im Alter auch zu einer Demenz führen.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (t=282-312).",
+   "stand_note": "",
+   "statement": "Bei Alzheimer ist zuerst meist das Kurzzeitgedächtnis betroffen, während Erinnerungen von früher lange erhalten bleiben.",
+   "question": "Was vergessen Menschen mit beginnender Alzheimer-Demenz meistens zuerst?",
+   "answer": "Dinge, die kurz zurückliegen",
+   "distractors": [
+    "Erinnerungen aus der Kindheit",
+    "Den eigenen Namen",
+    "Wie man liest und schreibt"
+   ],
+   "aha": "Was vor vielen Jahren passiert ist, bleibt oft erstaunlich lange abrufbar. Wer heute angerufen hat oder ob man schon zu Mittag gegessen hat, geht dagegen zuerst verloren – darum erzählen Betroffene die alten Geschichten oft noch ganz genau.",
+   "quote_clean": "Das erste Symptom ist meistens die Vergesslichkeit. Und zwar vergisst man Dinge, die kurz zurückliegen.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt (t=486-494); aha machte aus dem Alter von 60 eine Ursache der langen Dauer, das steht so nicht im Transkript.",
+   "stand_note": "",
+   "statement": "Eine Alzheimer-Demenz verläuft im Durchschnitt über acht bis zwölf Jahre.",
+   "question": "Wie viele Jahre dauert der Verlauf einer Alzheimer-Demenz im Durchschnitt ungefähr?",
+   "answer": "Acht bis zwölf Jahre",
+   "distractors": [
+    "Ein bis zwei Jahre",
+    "Drei bis fünf Jahre",
+    "20 bis 25 Jahre"
+   ],
+   "aha": "Die Krankheit kommt nicht über Nacht, sondern schleicht sich über viele Jahre ein, vom Frühstadium übers mittlere bis zum späten Stadium. Antonias Mutter war sogar 20 Jahre krank, sie ist schon mit 60 erkrankt.",
+   "quote_clean": "Es kann sich über viele Jahre erstrecken, durchschnittlich acht bis zwölf Jahre.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (t=538-560).",
+   "stand_note": "",
+   "statement": "Im Spätstadium der Demenz gehen körperliche Fähigkeiten in umgekehrter Reihenfolge verloren, wie wir sie als Kinder gelernt haben: zuerst Gehen, dann Stehen, dann Sitzen.",
+   "question": "In welcher Reihenfolge gehen körperliche Fähigkeiten im späten Demenz-Stadium meist verloren?",
+   "answer": "Gehen, dann Stehen, dann Sitzen",
+   "distractors": [
+    "Sitzen, dann Stehen, dann Gehen",
+    "Stehen, dann Gehen, dann Sitzen",
+    "Alle gleichzeitig"
+   ],
+   "aha": "Als Kleinkind lernst du zuerst sitzen, dann stehen, dann gehen. Bei fortgeschrittener Demenz läuft der Film rückwärts – darum sind die Menschen am Ende meistens bettlägerig und wieder auf Hilfe angewiesen wie nach der Geburt.",
+   "quote_clean": "Wir lernen zuerst sitzen, dann stehen und dann gehen. In dieser umgekehrten Reihenfolge wird es wieder verlernt, sodass die Menschen zum Schluss meistens bettlägerig sind.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (t=740-764), 'Vorsorgevollmacht' steht im Transkript getrennt geschrieben.",
+   "stand_note": "",
+   "statement": "Nach einer frühen Demenz-Diagnose ist es wichtig, mit einer Vorsorgevollmacht festzulegen, wer später für einen sorgt und Dinge erledigt.",
+   "question": "Womit kannst du nach einer frühen Demenz-Diagnose festlegen, wer später Dinge für dich erledigt?",
+   "answer": "Mit einer Vorsorgevollmacht",
+   "distractors": [
+    "Mit einem Testament",
+    "Mit einer Patientenkarte",
+    "Mit einem Meldezettel"
+   ],
+   "aha": "Solange du noch gut planen kannst, kannst du selbst bestimmen, wer später für dich da ist. Genau darum rät Antonia zur frühen Diagnose – viele zögern den Arztbesuch hinaus, und dann ist es fürs Planen oft schon zu spät.",
+   "quote_clean": "Es ist auch wichtig, für später, wenn man selbst nicht mehr kann, jemanden – Verwandte, Angehörige oder Freunde – zu bestimmen, die für einen sorgen und Dinge erledigen sollen, also die sogenannte Vorsorgevollmacht.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (t=869-907); 'Geißlauf' ist Kreislauf, vorsichtig formuliert ('man sagt').",
+   "stand_note": "",
+   "statement": "Was für Herz und Kreislauf gesund ist, ist auch fürs Gehirn gesund und kann Alzheimer hinauszögern.",
+   "question": "Welche Faustregel gilt laut Antonia Croy für die Vorbeugung gegen Alzheimer?",
+   "answer": "Was dem Herz guttut, tut dem Gehirn gut",
+   "distractors": [
+    "Viel Schlaf ersetzt Bewegung",
+    "Nur Gehirnjogging hilft wirklich",
+    "Vorbeugen ist nicht möglich"
+   ],
+   "aha": "Gute Ernährung, Bewegung und den Kopf fordern – also nicht nur vorm Fernseher sitzen, sondern zum Beispiel eine neue Sprache lernen oder die Einkaufsliste im Kopf behalten. Ganz verhindern lässt sich die Krankheit so nicht, aber hinauszögern.",
+   "quote_clean": "Aber man sagt, auch bei der Alzheimer-Krankheit könnte man präventiv mit gesunder Ernährung etwas tun – alles, was für Herz und Kreislauf gesund ist, ist auch fürs Gehirn gesund.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Zitat mischt zwei Sprecher; Croy sagt nur 'vielleicht eine Konzentrationsschwäche', andere Ursachen sind damit nicht eindeutig ausgeschlossen, und die Frage wird zur persönlichen Ferndiagnose.",
+   "stand_note": "",
+   "statement": "Als Andreas fragt, ob seine Vergesslichkeit ein Fall für den Arzt sei, tippt Antonia eher auf Konzentrationsschwäche – und Andreas erkennt sich sofort wieder.",
+   "question": "Was vermutet Antonia Croy hinter Andreas' Vergesslichkeit?",
+   "answer": "Eine Konzentrationsschwäche durch Multitasking",
+   "distractors": [
+    "Eine beginnende Demenz",
+    "Zu wenig Schlaf",
+    "Einen Vitaminmangel"
+   ],
+   "aha": "In jungen Jahren steckt hinter dem Vergessen eher fehlende Aufmerksamkeit: drei Dinge gleichzeitig im Kopf, keins davon richtig erlebt. Andreas' trockener Kommentar dazu: „Das klingt nach mir.“",
+   "quote_clean": "Aufmerksamkeit, die Dinge wirklich erleben und nicht mit dem Kopf bei drei Dingen gleichzeitig sein.",
+   "quality": 2
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (t=964-972).",
+   "stand_note": "",
+   "statement": "Wer eine Sache konzentriert und aufmerksam macht, statt Multitasking zu betreiben, merkt sie sich besser.",
+   "question": "Was hilft laut Antonia Croy, sich Dinge besser zu merken?",
+   "answer": "Eine Sache konzentriert machen",
+   "distractors": [
+    "Mehrere Dinge parallel erledigen",
+    "Alles sofort aufschreiben",
+    "Mehr Kaffee trinken"
+   ],
+   "aha": "Multitasking galt lange als tolle Fähigkeit. Antonia sieht das anders: Wenn du mit dem Kopf woanders bist, landet das Erlebte gar nicht richtig im Gedächtnis.",
+   "quote_clean": "Man soll lieber eine Sache konzentriert machen, mit viel Aufmerksamkeit, dann merkt man es sich auch besser.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt (t=1266-1287); quote_clean hatte den Satz umgebaut und den Schluss abgeschnitten, jetzt näher am Original.",
+   "stand_note": "",
+   "statement": "Für Angehörige ist es nach dem Akzeptieren der Diagnose wichtig, sich zu informieren, um zu verstehen, dass Betroffene nicht absichtlich so handeln.",
+   "question": "Warum sollen sich Angehörige laut Antonia Croy möglichst viel über Demenz informieren?",
+   "answer": "Um zu verstehen, dass nichts absichtlich passiert",
+   "distractors": [
+    "Um selbst Diagnosen stellen zu können",
+    "Um Pflegegeld schneller zu bekommen",
+    "Um die Krankheit rückgängig zu machen"
+   ],
+   "aha": "Zuerst kommt das Akzeptieren, und das ist schwer genug, weil man den Menschen ganz anders kennt. Danach hilft Wissen: Wer versteht, was die Krankheit macht, nimmt vieles nicht mehr persönlich.",
+   "quote_clean": "Je mehr man über die jeweilige Krankheit, ihre Folgen und Auswirkungen weiß, desto eher versteht man, dass der erkrankte Mensch das nicht absichtlich macht, um mich zu ärgern, sondern dass er oder sie eben nicht anders kann.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (t=1540-1594); Gästin formuliert vorsichtig ('ich glaube', 'wahrscheinlich'), Statement trägt das mit 'oft'.",
+   "stand_note": "",
+   "statement": "Auch wenn Menschen mit Demenz Besucher vom Verstand her nicht mehr erkennen, erkennen sie sie oft noch vom Gefühl her.",
+   "question": "Bringt es etwas, einen Menschen mit Demenz zu besuchen, der dich nicht mehr erkennt?",
+   "answer": "Ja, vom Gefühl her wird man erkannt",
+   "distractors": [
+    "Nein, er bekommt davon nichts mit",
+    "Nur wenn man Fotos mitbringt",
+    "Nur in den ersten Minuten"
+   ],
+   "aha": "Nach 50, 60 Jahren Ehe reicht oft schon, die Hand zu halten oder die vertraute Stimme zu hören. Vieles läuft auf der Gefühlsebene ab – es kann nur nicht mehr ausgesprochen werden.",
+   "quote_clean": "Auf der geistigen, der kognitiven Ebene, vom Verstand her wahrscheinlich nicht, aber vom Gefühl her schon.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Croy sagt 'fast die Hälfte, also ungefähr 40 Prozent' aus dem Gedächtnis (sie kennt die Statistik nach eigener Aussage nicht auswendig); gängige Zahlen liegen für 85 bis 89 Jahre deutlich niedriger, daher als Fakt nicht belastbar.",
+   "stand_note": "",
+   "statement": "Ab einem Alter von 85 bis 90 Jahren leiden ungefähr 40 Prozent der Menschen an irgendeiner Form von Demenz.",
+   "question": "Wie viel Prozent der Menschen ab 85 bis 90 Jahren leiden ungefähr an einer Form von Demenz?",
+   "answer": "Ungefähr 40 Prozent",
+   "distractors": [
+    "Ungefähr 10 Prozent",
+    "Ungefähr 20 Prozent",
+    "Ungefähr 75 Prozent"
+   ],
+   "aha": "Mit dem Alter steigt das Risiko stark an, bei Hochaltrigen ist es fast die Hälfte. Die gute Nachricht steckt aber in der anderen Hälfte: Auch sehr alte Menschen haben mehrheitlich keine Demenz.",
+   "quote_clean": "Es steigert sich, und man sagt, dass ab 85 oder 90 fast die Hälfte, ungefähr 40 Prozent, an irgendeiner Art von Demenz leiden.",
+   "quality": 2
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Triviale Einstiegsfrage ohne Erkenntnisgewinn.",
+   "stand_note": "",
+   "statement": "Andreas startet das Gespräch über Demenz mit der Grundsatzfrage, was Demenz überhaupt ist.",
+   "question": "Mit welcher Frage steigt Andreas in die Demenz-Folge ein?",
+   "answer": "Was ist Demenz überhaupt?",
+   "distractors": [
+    "Wie viele Menschen haben Demenz?",
+    "Kann man Demenz heilen?",
+    "Wie hast du Demenz erlebt?"
+   ],
+   "aha": "Ganz typisch Andreas: erst einmal die Grundlagen klären, bevor es ins Detail geht. Und die Antwort überrascht gleich – Demenz ist nämlich gar keine eigene Krankheit.",
+   "quote_clean": "Antonia, wir fangen ganz grundsätzlich an. Was ist Demenz überhaupt?",
+   "quality": 1
+  }
+ ],
+ "id": "110",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

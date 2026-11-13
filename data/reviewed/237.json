@@ -1,0 +1,288 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "70 % bei 201-231 belegt („Spotify selbst sagt“). Das Aha rechnete falsch (Mehrwertsteuer fällt vor Spotify an, 70 % gelten für Spotifys Einnahmen); neu formuliert. Stand 2022.",
+   "stand_note": "Stand 2022",
+   "statement": "Spotify gibt nach eigenen Angaben rund 70 Prozent seiner Einnahmen an die Rechteinhaber weiter.",
+   "question": "Wie viel Prozent seiner Einnahmen gibt Spotify nach eigenen Angaben an die Musikbranche weiter?",
+   "answer": "Rund 70 Prozent",
+   "distractors": [
+    "Rund 30 Prozent",
+    "Rund 50 Prozent",
+    "Rund 90 Prozent"
+   ],
+   "aha": "Von dem, was Spotify einnimmt, gehen laut eigener Aussage rund 70 Prozent an Labels, Verlage und Co. Aber schon davor zieht der Staat die Mehrwertsteuer ab, und danach nehmen noch Vertrieb und Verwertungsgesellschaften ihren Teil – bei der Band kommt deutlich weniger an.",
+   "quote_clean": "Spotify selbst sagt, sie geben ungefähr 70 Prozent dessen, was sie einnehmen, an Werbeeinnahmen und Abo-Entgelten wieder aus.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Bei 374-402 belegt („diese berühmten 0,3 Cent plus minus“), passt zu 3-4 Euro pro 1.000 Streams bei 487. Raten ändern sich, daher Stand 2022.",
+   "stand_note": "Stand 2022",
+   "statement": "Spotify zahlt im Schnitt rund 0,3 Cent pro Stream aus.",
+   "question": "Wie viel zahlt Spotify im Schnitt pro gestreamtem Song aus?",
+   "answer": "Etwa 0,3 Cent",
+   "distractors": [
+    "Etwa 3 Cent",
+    "Etwa 0,03 Cent",
+    "Etwa 1 Cent"
+   ],
+   "aha": "Ein Stream bringt also nicht einmal einen halben Cent, und zwar an das Label, nicht direkt an die Band. Für tausend Streams sind das grob drei Euro.",
+   "quote_clean": "Und so kommt eine durchschnittliche Rate heraus, das sind diese berühmten 0,3 Cent, plus minus ein bisschen, was Spotify pro Stream auszahlt.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Pro-rata-Modell bei 347-420 klar belegt. Im Aha stand eine Studienbehauptung, die nicht im Transkript steht; entfernt. Modelle können sich ändern.",
+   "stand_note": "Stand 2022",
+   "statement": "Spotify wirft alle Einnahmen in einen Topf und verteilt sie nach dem Anteil an allen Streams, nicht danach, was einzelne Nutzer:innen hören.",
+   "question": "Wie verteilt Spotify das Geld aus den Abos an die Musiker:innen?",
+   "answer": "Nach Anteil an allen Streams",
+   "distractors": [
+    "Nach dem, was du selbst hörst",
+    "Zu gleichen Teilen an alle",
+    "Nach Zahl der Follower"
+   ],
+   "aha": "Wenn du nur eine einzige Band hörst, kriegt die trotzdem nicht dein ganzes Abo-Geld. Wer ein Prozent aller Streams hat, kriegt ein Prozent vom Topf. Die Alternative heißt „User-centric“ und wird in der Branche heiß diskutiert.",
+   "quote_clean": "Es ist so, dass all das Geld, das Spotify einnimmt, in einen Topf geworfen wird und dann zurückgerechnet wird: was alle hören, dividiert durch wie oft.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Bei 547 belegt („über 100.000 neue Songs“ täglich), Größenordnung plausibel; Zahl wächst, daher Stand 2022.",
+   "stand_note": "Stand 2022",
+   "statement": "Auf Spotify werden täglich mehr als 100.000 neue Songs hochgeladen.",
+   "question": "Wie viele neue Songs werden jeden Tag auf Spotify hochgeladen?",
+   "answer": "Über 100.000",
+   "distractors": [
+    "Rund 1.000",
+    "Rund 10.000",
+    "Über 1 Million"
+   ],
+   "aha": "Weil heute jede:r ohne CD-Presswerk und Vertrieb weltweit veröffentlichen kann, ist die Hürde weg, aber die Konkurrenz riesig. Du ringst mit allen um die paar Minuten Aufmerksamkeit.",
+   "quote_clean": "Dass mittlerweile jeden Tag über 100.000 neue Songs auf Spotify hochgeladen werden. Das heißt, du bist in einem unendlich großen Pool an Konkurrenz.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Bei 575-603 belegt, aber er sagt „die ersten 10.000, die ersten 100.000“ und meint eigene Label-Erfahrung; quote_clean ergänzt, Frage als seine Einschätzung gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Laut Hannes Tschürtz sind auf Spotify die ersten zehn- bis hunderttausend Streams extrem schwer, danach helfen Algorithmus und Redaktions-Playlists beim Wachsen.",
+   "question": "Was passiert laut Musikmanager Hannes Tschürtz auf Spotify typischerweise, wenn ein Song die ersten 100.000 Streams geschafft hat?",
+   "answer": "Der Algorithmus beginnt zu helfen",
+   "distractors": [
+    "Spotify zahlt einen Bonus aus",
+    "Der Song wird gesperrt",
+    "Die Bezahlung pro Stream sinkt"
+   ],
+   "aha": "Ab einer gewissen Schwelle springen Algorithmus und die Editorials an, wo Spotify-Redaktionen über Playlist-Plätze entscheiden. Dann multipliziert sich das rasch. Hop oder Drop, sagt Hannes.",
+   "quote_clean": "Die ersten 10.000, die ersten 100.000 Streams sind extrem schwer, dann aber fängt der Algorithmus an zu kicken, wie das so schön heißt.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Waterfall Release bei 773-802 belegt; im Aha stand, Spotify sehe das gern, das bezog sich im Transkript aber auf eigene Playlists. Gestrichen.",
+   "stand_note": "",
+   "statement": "Bei einem „Waterfall Release“ erscheint jede neue Single gemeinsam mit den vorherigen, wie bei einem Adventskalender.",
+   "question": "Wie nennt man es, wenn jede neue Single zusammen mit den vorigen nochmal veröffentlicht wird?",
+   "answer": "Waterfall Release",
+   "distractors": [
+    "Cascade Drop",
+    "Snowball Single",
+    "Ladder Release"
+   ],
+   "aha": "Erst kommt Single eins, dann Single zwei gemeinsam mit eins, dann drei mit zwei und eins – wie bei einem Adventskalender. So hörst du nicht nur das Neue, sondern gleich mehr vom Katalog, und die Streams der älteren Songs wachsen mit.",
+   "quote_clean": "Da gibt's jetzt auch dieses neue, moderne Modell, die sogenannten Waterfall-Releases, dass du nach und nach, so wie bei einem Adventskalender, die Felder aufmachst.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Wer-hat's-gesagt-Frage mit nur zwei Sprechern ohne Rätselwert; Aha enthält Unbelegtes (Label seit über 20 Jahren).",
+   "stand_note": "",
+   "statement": "Hannes Tschürtz sieht die Magie der Musikwirtschaft darin, dass es keine goldenen Regeln für Erfolg gibt.",
+   "question": "Wer sagt: „Die große Magie der Musikwirtschaft liegt darin, dass es keine goldenen Regeln gibt“?",
+   "answer": "Hannes Tschürtz",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Spotify-Manager",
+    "Eine Radiomoderatorin"
+   ],
+   "aha": "",
+   "quote_clean": "Ich sage immer, die große Magie der Musikwirtschaft liegt darin, dass es eben keine goldenen Regeln gibt oder keinen Plan, wie man jetzt erfolgreich wird.",
+   "quality": 1
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 887-917 belegt, Distraktoren eindeutig falsch; Aha gibt die Einordnung des Gastes wieder.",
+   "stand_note": "",
+   "statement": "Zu den sehr erfolgreichen Spotify-Playlists gehören Naturgeräusche wie Regen, Wind und Meeresrauschen.",
+   "question": "Welche Art Playlist ist auf Spotify überraschend erfolgreich?",
+   "answer": "Naturgeräusche wie Regen",
+   "distractors": [
+    "Gregorianische Choräle",
+    "Hörbuch-Kapitel",
+    "Nachrichten-Zusammenfassungen"
+   ],
+   "aha": "Hunderttausende hören zu, wie Regentropfen fallen und das Meer rauscht. Musikwirtschaftlich ist das kein Erfolg im klassischen Sinn, aber offenbar ein Bedürfnis, das der Algorithmus gern bedient.",
+   "quote_clean": "Es gibt unglaublich erfolgreiche Playlisten, die Nature Sounds oder so heißen, wo dann Regentropfen fallen.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Die Längenangabe „anderthalb bis zweieinhalb Minuten“ ist eine überspitzte Aussage und als allgemeine Tatsache nicht haltbar. Ersetzt durch den klar belegten Fakt aus demselben Abschnitt (Stream zählt ab 30 Sekunden, Stand 2022).",
+   "stand_note": "Stand 2022",
+   "statement": "Bei Spotify zählt ein Stream als gehört, wenn mehr als 30 Sekunden gehört wurden.",
+   "question": "Ab wie vielen gehörten Sekunden zählt ein Song bei Spotify als Stream?",
+   "answer": "Ab 30 Sekunden",
+   "distractors": [
+    "Ab 10 Sekunden",
+    "Ab 60 Sekunden",
+    "Erst, wenn der ganze Song gehört wurde"
+   ],
+   "aha": "Egal ob zwei oder sieben Minuten: Ab 30 Sekunden ist es ein Stream. Darum lohnen sich kurze Songs für die Künstler:innen eher als eine Nummer wie „Bohemian Rhapsody“ – und deshalb werden Songs auch kürzer, sagt Hannes.",
+   "quote_clean": "Bei Spotify zählt der Stream als gehört, wenn mehr als 30 Sekunden gehört wurden.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Bei 1118-1147 belegt; „größtes Problem“ ist überhöht, er spricht von „dem Problem, das ich sehe“ im Streaming-Kontext. Frage entsprechend vorsichtiger.",
+   "stand_note": "",
+   "statement": "Laut Hannes Tschürtz ist im Streaming-Zeitalter die Mitte zwischen sehr erfolgreichen und erfolglosen Musiker:innen dünn besiedelt.",
+   "question": "Welches Problem sieht der Musikmanager Hannes Tschürtz im Streaming-Zeitalter für Musiker:innen?",
+   "answer": "Das Mittelfeld ist fast leer",
+   "distractors": [
+    "Es gibt zu wenige Superstars",
+    "Konzerte sind zu billig",
+    "Radios spielen zu wenig Musik"
+   ],
+   "aha": "Wer viel gehört wird, verkauft leicht teure Tickets und T-Shirts, wer kaum gehört wird, kriegt schwer überhaupt Konzerte. Das alte „zum Leben zu wenig, zum Sterben zu viel“ ist heute selbst schwer zu erreichen.",
+   "quote_clean": "Das Problem, das ich sehe, ist eher, dass diese Dazwischenwelt sehr dünn besiedelt ist, und früher war das ein Platz, den man vernünftig hat anstreben können.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1004-1032 belegt, Aussage und Aha stimmen mit dem Ausschnitt überein.",
+   "stand_note": "",
+   "statement": "Für Hannes Tschürtz ist das Spannende am Musikgeschäft, Hörer:innen zu echten Fans zu machen.",
+   "question": "Was ist laut Hannes Tschürtz das Spannende an seinem Geschäft?",
+   "answer": "Hörer:innen zu Fans machen",
+   "distractors": [
+    "Möglichst viele Streams sammeln",
+    "Radiosender überzeugen",
+    "Billige T-Shirts produzieren"
+   ],
+   "aha": "Streams allein zahlen keine Miete. Erst wer zum Fan wird, kauft Tickets, Platten und Merch, und genau dieser Transfer ist bei jeder Künstlerin anders.",
+   "quote_clean": "An unserem Geschäft: die Leute tatsächlich zu Fans zu machen und sie nicht nur zu Hörern zu erziehen.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1926 belegt („Socken … der Topseller“, im Transkript „bei Ihnen“ statt „bei uns“ verhört); sympathische, unstrittige Aussage.",
+   "stand_note": "Stand 2022",
+   "statement": "Beim Merch von Hannes Tschürtz' Label waren in den letzten Jahren ausgerechnet Socken der Topseller.",
+   "question": "Welcher Merch-Artikel war beim Label von Hannes Tschürtz zuletzt der Topseller?",
+   "answer": "Socken",
+   "distractors": [
+    "Kaffeetassen",
+    "Kappen",
+    "Poster"
+   ],
+   "aha": "Was Kleines, Nettes, das Bindung schafft. Und wer in der Früh die Socken anzieht, denkt vielleicht wieder daran, die Platte aufzulegen.",
+   "quote_clean": "Was besonders gut gegangen ist in den letzten Jahren, waren lustigerweise Socken, das war der Topseller.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage ohne Rätselwert, Distraktor „Michael Jackson“ ist offensichtlich unpassend.",
+   "stand_note": "",
+   "statement": "Hannes Tschürtz sieht die Spotify-Debatte eher positiv: viele Möglichkeiten, aber nicht rosarot.",
+   "question": "Wer sagt über das Streaming-Zeitalter: „Man muss es nicht rosarot malen, so ist es nicht“?",
+   "answer": "Hannes Tschürtz",
+   "distractors": [
+    "Andreas Sator",
+    "Michael Jackson",
+    "Ein Spotify-Sprecher"
+   ],
+   "aha": "",
+   "quote_clean": "Es gibt einfach sehr gute und sehr viele Möglichkeiten. Man muss es nicht rosarot malen, so ist es nicht.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zur Gesprächsstruktur ohne Wissensgewinn; Aha-Zahl (1.000 Streams = 1-2 Euro) widerspricht der früheren Angabe (3-4 Euro) im selben Gespräch.",
+   "stand_note": "",
+   "statement": "Andreas fragt zum Schluss, wie Fans ihre Lieblingsmusiker:innen am besten unterstützen können.",
+   "question": "Welche letzte Frage stellt Andreas in der Folge über das Musikgeschäft?",
+   "answer": "Wie man Musiker:innen am besten unterstützt",
+   "distractors": [
+    "Welches Album er kaufen soll",
+    "Wie man selbst Star wird",
+    "Ob Spotify bald teurer wird"
+   ],
+   "aha": "",
+   "quote_clean": "Bestimmte Musikerinnen gut finden: Wie kann man die am besten supporten, also wenn ich jetzt auf Spotify 1000 Mal ihre Lieder höre?",
+   "quality": 1
+  }
+ ],
+ "id": "237",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

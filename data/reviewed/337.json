@@ -1,0 +1,280 @@
+{
+ "reviews": [
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "2,6 Behandlungen als Erwartung laut Umfrage belegt.",
+   "stand_note": "Stand 2025",
+   "statement": "Laut einer Umfrage erwarten Kinderwunsch-Paare im Schnitt, nach 2,6 Behandlungen erfolgreich zu sein.",
+   "question": "Wie viele IVF-Behandlungen glauben Paare laut einer Umfrage im Schnitt zu brauchen, bis es klappt?",
+   "answer": "2,6 Behandlungen",
+   "distractors": [
+    "1,2 Behandlungen",
+    "4,5 Behandlungen",
+    "6,8 Behandlungen"
+   ],
+   "aha": "Man denkt sich: Die Wissenschaft ist eh so weit, das geht schnell. Genau deshalb trifft es viele so hart, wenn nach dem zweiten oder dritten Versuch noch immer nichts ist.",
+   "quote_clean": "Da war eine Umfrage, wie groß die Erwartung ist, und die meisten glauben, dass sie 2,6 Behandlungen brauchen, um erfolgreich zu sein.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Zahl belegt, aber Leitl schränkt ein ('es hängt davon ab', 'weiß ich nicht'); als ihre Größenordnung formuliert.",
+   "stand_note": "Stand 2025",
+   "statement": "Laut Eveline Leitl haben nach sieben IVF-Behandlungen rund 70 Prozent der Paare ein Kind; die Zahl hängt von den Umständen ab.",
+   "question": "Wie viel Prozent der Paare haben laut Eveline Leitl nach sieben IVF-Behandlungen ein Kind?",
+   "answer": "Rund 70 Prozent",
+   "distractors": [
+    "Rund 25 Prozent",
+    "Rund 45 Prozent",
+    "Rund 95 Prozent"
+   ],
+   "aha": "Pro Versuch klingen 20 bis 30 Prozent Erfolgsquote ernüchternd. Weil sich die Chancen aber über mehrere Behandlungen aufsummieren, sind es nach sieben Runden ziemlich viele, die ein Kind haben. Wie hoch die Quote im Einzelfall ist, hängt aber unter anderem vom Alter ab.",
+   "quote_clean": "Es ist eine Häufigkeit: Nach sieben Behandlungen haben 70 Prozent ein Kind, ein gesundes, hoffe ich.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt als kumulative Häufigkeit; als Aussage von Leitl gekennzeichnet, da keine Quelle genannt.",
+   "stand_note": "Stand 2025",
+   "statement": "Laut Eveline Leitl haben nach drei IVF-Behandlungen kumulativ zwei von drei Paaren ein Kind.",
+   "question": "Wie viele von drei Paaren haben laut Eveline Leitl nach drei IVF-Behandlungen bereits ein Kind?",
+   "answer": "Zwei von drei",
+   "distractors": [
+    "Eines von drei",
+    "Eines von zehn",
+    "Fast alle drei"
+   ],
+   "aha": "Das Zauberwort heißt kumulativ: Jeder Versuch hat eine eigene Chance, und die addieren sich. Deshalb rät Eveline, nicht zu früh aufzugeben, wobei jedes Paar das selber entscheidet.",
+   "quote_clean": "Aber es ist eine kumulative Häufigkeit: Nach drei Behandlungen haben zwei von drei bereits ein Kind. Zu früh aufgeben ist also auch nicht das Richtige.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Leitls 'einzige Spezies' stimmt nicht (auch Seenadeln); Frage so umgebaut, dass nur ein Tier der Auswahl passt.",
+   "stand_note": "",
+   "statement": "Bei Seepferdchen sind es die Männchen, die den Nachwuchs austragen und zur Welt bringen.",
+   "question": "Bei welchem dieser Tiere trägt das Männchen den Nachwuchs aus und bringt ihn zur Welt?",
+   "answer": "Beim Seepferdchen",
+   "distractors": [
+    "Beim Delfin",
+    "Beim Pferd",
+    "Beim Hasen"
+   ],
+   "aha": "Das Weibchen legt die Eier in die Bruttasche des Männchens, und er trägt sie bis zur Geburt aus. Eveline erwähnt das augenzwinkernd im Zusammenhang mit der Arbeitswelt: Bei uns sind es eben die Frauen, die Kinder kriegen.",
+   "quote_clean": "Wir sind keine Seepferdchen – das ist nämlich die Spezies, bei der die Männchen die Jungen kriegen.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt als Erfahrung von Leitl, klar formuliert.",
+   "stand_note": "",
+   "statement": "Psychische Belastung ist beim unerfüllten Kinderwunsch nur sehr selten die Ursache, viel häufiger ist sie die Folge.",
+   "question": "Ist psychischer Stress beim unerfüllten Kinderwunsch meistens Ursache oder Folge?",
+   "answer": "Meistens die Folge",
+   "distractors": [
+    "Meistens die Ursache",
+    "Etwa gleich oft beides",
+    "Spielt gar keine Rolle"
+   ],
+   "aha": "Die meisten Paare starten ganz entspannt, und es klappt trotzdem nicht. Der Stress kommt erst mit jedem weiteren Versuch, nicht umgekehrt.",
+   "quote_clean": "Aber es gibt ganz selten wirklich psychogene Ursachen für den unerfüllten Kinderwunsch, viel häufiger ist es die Folge. Dann muss man hinschauen.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt, Begründung stimmt mit dem Ausschnitt überein.",
+   "stand_note": "",
+   "statement": "Der Ratschlag „Fahrt auf Urlaub, ihr habt zu viel Stress“ hilft Kinderwunsch-Paaren nicht, weil die meisten völlig stressfrei begonnen haben.",
+   "question": "Warum ist „Fahrt doch mal auf Urlaub“ für Kinderwunsch-Paare ein schlechter Rat?",
+   "answer": "Sie haben stressfrei begonnen",
+   "distractors": [
+    "Urlaub verschlechtert die Fruchtbarkeit",
+    "Flugreisen stören die Behandlung",
+    "Sie haben keinen Urlaubsanspruch"
+   ],
+   "aha": "Seit der Pille plant man Familie, und am Anfang ist da meist null Stress. Wenn es dann trotzdem nicht klappt, fühlt sich der Urlaubstipp wie ein Vorwurf an: Ihr seid selber schuld.",
+   "quote_clean": "Die meisten beginnen vollkommen stressfrei, und dann zu hören: „Fahrt auf Urlaub, ihr habt zu viel Stress“ – das ist genau das, was diese Paare überhaupt nicht hören können.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, als Leitls Sicht formuliert.",
+   "stand_note": "",
+   "statement": "Elternschaft hat drei Funktionen: die psychosoziale ist die wichtigste, danach kommen die genetische und die rechtliche.",
+   "question": "Welche Funktion von Elternschaft ist laut Eveline Leitl die wichtigste?",
+   "answer": "Die psychosoziale",
+   "distractors": [
+    "Die genetische",
+    "Die rechtliche",
+    "Die finanzielle"
+   ],
+   "aha": "Eltern sind die, die dich in den Arm nehmen, wenn's dir schlecht geht, und sich neidlos mitfreuen. Darum kann man auch mit Samen- oder Eizellspende ganz und gar Mutter oder Vater sein.",
+   "quote_clean": "Die Elternschaft ist eine Funktion, und die wichtigste Funktion ist die psychosoziale. Erst dann kommt die Genetik und dann die legistische, also meine Rechte und Pflichten.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Begriff belegt; die Badewanne im aha steht nicht im Ausschnitt, entfernt.",
+   "stand_note": "",
+   "statement": "Positive Gefühle kann man wie in einem emotionalen Sparschwein ansammeln, um sie in schweren Momenten abzurufen.",
+   "question": "Wie nennt Eveline Leitl den Vorrat an guten Gefühlen, den man für schwere Zeiten anlegt?",
+   "answer": "Emotionales Sparschweinchen",
+   "distractors": [
+    "Seelischer Notgroschen",
+    "Inneres Vorratskammerl",
+    "Gefühlsbatterie"
+   ],
+   "aha": "Jedes belastende Gefühl hat ein Gegengefühl, das helfen würde, bei Angst etwa Vertrauen oder Geborgenheit. Wer sich in diese guten Gefühle hineinspürt, füllt das Sparschwein und dreht es um, wenn es nötig ist.",
+   "quote_clean": "Wenn man sich sehr intensiv mit dieser positiven Seite beschäftigt, ist sie auch präsent, und ich nenne es das emotionale Sparschweinchen.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Sprecherzuordnung mit beliebigen Distraktoren, kein Wissensgehalt.",
+   "stand_note": "",
+   "statement": "Die Realität kann man oft nicht ändern, aber die Einstellung dazu: Man kann mit dem Schirm hinausgehen.",
+   "question": "Wer sagt: „Die Realität kann ich oft nicht verändern, aber ich kann mit dem Schirm rausgehen“?",
+   "answer": "Eveline Leitl",
+   "distractors": [
+    "Andreas Sator",
+    "Eine Hörerin",
+    "Ein Reproduktionsmediziner"
+   ],
+   "aha": "Schirm im Regen des Lebens, warmer Mantel in der Kälte: So beschreibt Eveline Resilienz.",
+   "quote_clean": "Die Realität kann ich sehr oft nicht verändern. Es regnet, es ist kalt, aber ich kann meine Einstellung dazu ändern. Ich kann mit dem Schirm rausgehen.",
+   "quality": 1
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt (Transkript 'ne' = neun); Frage als bildlicher Ausdruck gekennzeichnet.",
+   "stand_note": "",
+   "statement": "IVF-Paare sind gefühlt nicht neun, sondern zehn Monate schwanger, weil die Behandlung davor dazugehört.",
+   "question": "Wie viele Monate sind IVF-Paare laut Eveline Leitl bildlich gesprochen „schwanger“, wenn man die Behandlung davor mitrechnet?",
+   "answer": "Zehn Monate",
+   "distractors": [
+    "Neun Monate",
+    "Acht Monate",
+    "Zwölf Monate"
+   ],
+   "aha": "Vor der eigentlichen Schwangerschaft kommen rund zwei Wochen Hormonstimulation mit täglichen Spritzen. Eveline rät, das zu zweit als kleines Ritual zu machen, zum Beispiel mit der Lieblingsmusik der Frau.",
+   "quote_clean": "Das machen auch sehr viele zu zweit, und dann sage ich immer: IVF-Paare sind nicht neun Monate schwanger, sondern zehn.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitat belegt; als Sprecherfrage wertlos, daher als Inhaltsfrage umgebaut.",
+   "stand_note": "",
+   "statement": "Ein Kind ist keine Altersversicherung, auch wenn der Wunsch, im Alter nicht allein zu sein, oft mitspielt.",
+   "question": "Was ist ein Kind laut Eveline Leitl ausdrücklich nicht, auch wenn der Wunsch, im Alter nicht allein zu sein, oft mitspielt?",
+   "answer": "Eine Altersversicherung",
+   "distractors": [
+    "Ein Statussymbol",
+    "Eine Karrierebremse",
+    "Ein Familienersatz"
+   ],
+   "aha": "Für Eveline geht es beim Kinderwunsch meist um Sinn: etwas weitergeben, einen Menschen ins Leben begleiten. Als Plan gegen Einsamkeit im Alter taugt ein Kind aber nicht, das geht irgendwann seine eigenen Wege.",
+   "quote_clean": "Aber dieser Aspekt, im Alter nicht alleine zu sein, der ist schon sehr oft da – wobei ich sage: Ein Kind ist keine Altersversicherung.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Speisewagen-Bild wörtlich belegt ('tabeten' = Tapeten).",
+   "stand_note": "",
+   "statement": "Eveline Leitl beschreibt sich auf der Kinderwunschreise als „Speisewagen“, den man nutzen kann, aber nicht muss.",
+   "question": "Als welchen Teil eines Zuges beschreibt Eveline Leitl ihre Rolle auf der Kinderwunschreise?",
+   "answer": "Als Speisewagen",
+   "distractors": [
+    "Als Lokomotive",
+    "Als Schlafwagen",
+    "Als Schaffnerin"
+   ],
+   "aha": "Bei ihr wird niemand zwangsbeglückt. Man kommt vorbei, wenn man hungrig oder durstig ist oder einfach mal die Tapeten wechseln will.",
+   "quote_clean": "Sage ich immer: In den Speisewagen geht man, wenn man durstig ist, wenn man hungrig ist oder wenn man einfach die Tapeten wechseln möchte.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Kernaussage belegt; aha schrieb 'Männer'/'Frau' zu, was der Ausschnitt so nicht sagt. Neutral umformuliert.",
+   "stand_note": "",
+   "statement": "Trost wirkt nur vorübergehend, solange die Ursache der Trauer nicht behoben ist, und das ist kein Versagen des Trösters.",
+   "question": "Warum ist ein getrösteter Mensch oft nach kurzer Zeit wieder traurig?",
+   "answer": "Die Ursache ist nicht behoben",
+   "distractors": [
+    "Der Trost war zu schwach",
+    "Die Person ist übersensibel",
+    "Trost wirkt erst nach Tagen"
+   ],
+   "aha": "Dann denkt der Tröster oft, er versagt, und der Getröstete, er sei zu sensibel. Beides stimmt nicht: Die Ursache ist einfach noch da. Trost heißt, zum zehnten Mal auszuhalten, dass die Schulter nass wird, und sich danach selbst die Batterien aufzuladen.",
+   "quote_clean": "Ich tröste jemanden, und wenn die Ursache nicht behoben ist, ist dieser Mensch nach zehn Minuten, nach einer Stunde, nach drei Stunden wieder traurig.",
+   "quality": 4
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zu Andreas' Formulierung ohne Wissensgehalt.",
+   "stand_note": "",
+   "statement": "Andreas kündigt Fragen gern als „vielleicht blöde Frage“ an, weil der Podcast genau dafür da ist.",
+   "question": "Wie leitet Andreas seine Frage nach der richtigen Motivation fürs Kinderkriegen ein?",
+   "answer": "„Jetzt vielleicht eine blöde Frage“",
+   "distractors": [
+    "„Ganz ehrlich jetzt“",
+    "„Provokant gefragt“",
+    "„Mal ganz naiv gefragt“"
+   ],
+   "aha": "Die vermeintlich blöden Fragen sind bei Erklär mir die Welt Programm.",
+   "quote_clean": "Jetzt vielleicht eine blöde Frage, aber dazu ist dieser Podcast ja auch da: Was ist eine gute Motivation, um ein Kind zu bekommen?",
+   "quality": 1
+  }
+ ],
+ "id": "337",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

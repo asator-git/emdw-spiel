@@ -1,0 +1,279 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "„ungefähr 15“ Ereignisse in der ZiB 1, davon sieben oder acht aus Österreich, bei t=1066-1095 belegt.",
+   "stand_note": "Stand 2025",
+   "statement": "Von den Millionen Ereignissen, die täglich in Österreich passieren, landen nur rund 15 am Abend in der Zeit im Bild 1.",
+   "question": "Wie viele Ereignisse schaffen es ungefähr pro Abend in die Zeit im Bild 1?",
+   "answer": "Etwa 15",
+   "distractors": [
+    "Etwa 5",
+    "Etwa 40",
+    "Etwa 80"
+   ],
+   "aha": "In Österreich leben neun Millionen Menschen, die jeden Tag irgendwas tun. In die ZiB 1 kommen davon rund 15 Ereignisse, und nur sieben oder acht davon aus Österreich. Der Rest ist Auswahl, und genau die ist Journalismus.",
+   "quote_clean": "Jeden Tag passieren viele Millionen Dinge, trotzdem landen nur ungefähr 15 von diesen Ereignissen am Abend in der Zeit im Bild 1.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zwei unabhängige Quellen als Minimum bei t=546-576 wörtlich belegt.",
+   "stand_note": "",
+   "statement": "Als journalistisches Minimum gelten zwei voneinander unabhängige Quellen, bevor eine Information als publikationsfähig gilt.",
+   "question": "Wie viele unabhängige Quellen gelten im Journalismus als Minimum, bevor man etwas veröffentlicht?",
+   "answer": "Zwei",
+   "distractors": [
+    "Eine",
+    "Vier",
+    "Fünf"
+   ],
+   "aha": "Eine einzelne Quelle könnte ein Interesse daran haben, etwas so oder so darzustellen. Erst wenn eine zweite, davon unabhängige Quelle mit anderem Interesse das bestätigt, gilt es als publikationsfähig. Check, recheck, double check, eh klar.",
+   "quote_clean": "Als journalistisches Minimum gelten zwei Quellen. Nur dass dir ein Mensch irgendetwas erzählt, ist noch kein ausreichender Nachweis dafür, dass es stimmt.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Die Hälfte der Zeitungsleser:innen ist Wolfs Aussage von 2025 (Stand-Hinweis nötig); aha überzog („als anderswo“) und nannte Titel, die im Ausschnitt nicht stehen.",
+   "stand_note": "Stand 2025",
+   "statement": "Die Hälfte aller Zeitungsleserinnen und Zeitungsleser in Österreich liest eine der drei Boulevardzeitungen.",
+   "question": "Wie viel Prozent der Zeitungsleser:innen in Österreich lesen laut Armin Wolf eine der drei Boulevardzeitungen?",
+   "answer": "Rund 50 Prozent",
+   "distractors": [
+    "Rund 20 Prozent",
+    "Rund 35 Prozent",
+    "Rund 75 Prozent"
+   ],
+   "aha": "Boulevardmedien spielen in Österreich eine viel größere Rolle als in vielen anderen Ländern. Und dort wird über Kriminalität deutlich mehr berichtet. Wer täglich ein Boulevardblatt liest, bekommt also ein ganz anderes Bild von der Kriminalitätsentwicklung als jemand, der den Standard oder die Presse liest.",
+   "quote_clean": "Die Hälfte aller Zeitungsleserinnen und -leser in Österreich liest eine der drei Boulevardzeitungen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "drop",
+   "issues": [
+    "transkription",
+    "veraltet"
+   ],
+   "note": "Transkript „war 11 redakteurinen“ ist unsicher (hat/war, Zahl), Redaktionsgröße zudem schnell veraltet; nicht belastbar genug.",
+   "stand_note": "",
+   "statement": "Die Redaktion der ZiB 2 besteht aus etwa 11 Redakteurinnen und Redakteuren, die Moderator:innen mitgezählt.",
+   "question": "Wie viele Redakteur:innen hat die ZiB 2 ungefähr, Moderation mitgezählt?",
+   "answer": "Etwa 11",
+   "distractors": [
+    "Etwa 4",
+    "Etwa 35",
+    "Etwa 70"
+   ],
+   "aha": "Für eine tägliche Nachrichtensendung ist das recht schlank. Darum ist konstruktiver Journalismus so schwer: Lösungen irgendwo auf der Welt zu suchen und hinzufahren, um sie zu filmen, ist extrem personalintensiv.",
+   "quote_clean": "Nur gibt es eben sehr viele andere Länder, und die Zeit im Bild 2 zum Beispiel hat 11 Redakteurinnen und",
+   "quality": 2
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Gerd Bacher, „legendärer ORF-Generaldirektor“, Satz und Alter (über 30 Jahre) bei t=2548-2577 belegt.",
+   "stand_note": "",
+   "statement": "Der legendäre ORF-Generaldirektor Gerd Bacher sagte: Journalismus ist Unterscheidung zwischen wahr und unwahr, wichtig und unwichtig, Sinn und Unsinn.",
+   "question": "Von wem stammt der Satz „Journalismus ist Unterscheidung – zwischen wahr und unwahr, wichtig und unwichtig, Sinn und Unsinn“?",
+   "answer": "Gerd Bacher",
+   "distractors": [
+    "Hugo Portisch",
+    "Karl Kraus",
+    "Rudolf Augstein"
+   ],
+   "aha": "Bacher war legendärer ORF-Generaldirektor, der Satz ist über 30 Jahre alt. Armin Wolf findet, er war nie wahrer und wichtiger als jetzt, wo jede Propagandaseite aussehen kann wie eine Zeitung.",
+   "quote_clean": "Der mal einen genialen Satz gesagt hat: Journalismus ist Unterscheidung, die Unterscheidung zwischen wahr und unwahr, zwischen wichtig und unwichtig und zwischen Sinn und Unsinn.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage zu einem Gast wäre trivial; als Inhaltsfrage nach dem ersten Test umgebaut. Aussage selbst belegt (t=372), mit „tendenziell“.",
+   "stand_note": "",
+   "statement": "Der erste Test bei einer Meldung aus unbekannter Quelle ist laut Armin Wolf der Plausibilitätstest: Je sensationeller und unfassbarer etwas ist, desto tendenziell unwahrer ist es.",
+   "question": "Was ist laut Armin Wolf der erste Test, wenn man im Netz etwas Unglaubliches sieht?",
+   "answer": "Der Plausibilitätstest",
+   "distractors": [
+    "Die Bildersuche",
+    "Der Blick ins Impressum",
+    "Der Anruf bei der Redaktion"
+   ],
+   "aha": "Sein Rat dazu: googeln, ob ein etabliertes Medium dasselbe berichtet. Soziale Medien sind oft schneller, also lieber ein paar Stunden oder bis zum nächsten Tag noch einmal nachsehen. Steht es dann immer noch nirgends Seriös, ist die Wahrscheinlichkeit hoch, dass es nicht stimmt.",
+   "quote_clean": "Der erste Test ist immer der Plausibilitätstest: Wie plausibel ist es? Und je sensationeller etwas ist, je unfassbarer – das ist die erste Regel –, umso tendenziell unwahrer ist es.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-das-Frage zu einem Scherzsatz des Gasts, trivial; Inhalt überschneidet sich mit der Plausibilitätsfrage.",
+   "stand_note": "",
+   "statement": "Weil Medien in Konkurrenz stehen und kein Interesse haben, Interessantes zu verschweigen, ist eine Sensation, die nach zwei Tagen nirgends seriös berichtet wird, sehr wahrscheinlich falsch.",
+   "question": "Wer hat's gesagt: „Wir werden nicht von Echsenmenschen regiert“?",
+   "answer": "Armin Wolf",
+   "distractors": [
+    "Florian Klenk",
+    "Stefan Niggemeier",
+    "Constantin Seibt"
+   ],
+   "aha": "Die Logik dahinter ist simpel: Medien leben davon, interessante Dinge zu berichten, und stehen in brutaler Konkurrenz. Wenn eine Riesensache stimmt, würde sie irgendwer prüfen und bringen. Andreas fragt prompt, ob das jetzt das offizielle Statement ist.",
+   "quote_clean": "Wenn es nach zwei Tagen noch nicht publiziert ist, ist die Wahrscheinlichkeit extrem hoch, dass es nicht stimmt. Wir werden nicht von Echsenmenschen regiert.",
+   "quality": 2
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Musiker-Vergleich belegt (t=85-114, Satz dort vollständig: „wenn du von der Musik leben kannst“); „Album verkaufen“ und die Video-Recherche im aha stehen nicht im Ausschnitt und wurden ersetzt.",
+   "stand_note": "",
+   "statement": "Armin Wolf vergleicht Journalismus mit Musik: Wie man Musiker ist, wenn man davon leben kann, ist man Journalist, wenn man beruflich Journalismus betreibt.",
+   "question": "Mit welchem Beruf vergleicht Armin Wolf den Unterschied zwischen Hobby- und Berufsjournalismus?",
+   "answer": "Mit Musiker:innen",
+   "distractors": [
+    "Mit Köch:innen",
+    "Mit Fotograf:innen",
+    "Mit Fußballer:innen"
+   ],
+   "aha": "Viele spielen sehr gut ein Instrument und sind trotzdem keine Musiker, denn Musiker bist du im Normalfall, wenn du davon leben kannst. Genauso sind Journalist:innen laut Wolf Menschen, die von ihrer Arbeit leben können und beruflich professionell Journalismus betreiben.",
+   "quote_clean": "Es gibt sehr viele Menschen, die Instrumente spielen, und auch sehr gut, deswegen sind sie trotzdem in der Regel noch nicht Musiker. Musiker bist du im Normalfall, wenn du von der Musik leben kannst.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Politik und Journalismus ohne Zugangskriterien, Bäcker/Lehrer/Anwalt dagegen mit Ausbildung, bei t=865-920 belegt.",
+   "stand_note": "",
+   "statement": "Für Journalismus und Politik braucht man keinerlei Ausbildung oder Zugangsberechtigung – mit Absicht.",
+   "question": "Für welchen Beruf braucht man, genau wie für den Journalismus, absichtlich keine Ausbildung?",
+   "answer": "Politiker:in",
+   "distractors": [
+    "Lehrer:in",
+    "Rechtsanwält:in",
+    "Bäcker:in"
+   ],
+   "aha": "In einer Demokratie soll sich jede und jeder an der Politik beteiligen können, deshalb gibt es keine Zugangsbeschränkung. Auch „Journalist“ ist kein geschützter Beruf. Jeder Bäcker muss eine Lehre machen, für die ZiB 2 brauchst du formal nix.",
+   "quote_clean": "Es gibt keine Zugangskriterien. Es gibt zwei Berufe, bei denen das so ist, mit gutem Grund, das wundert Menschen aber oft: bei Politikern und Politikerinnen und bei Journalisten und Journalistinnen. Man braucht keine Ausbildung dafür, überhaupt nicht.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Nähe-Beispiel (Erdbeben Wien/Australien) belegt; Ukraine-Sudan-Vergleich im aha steht nicht im Ausschnitt und ist heikel, daher ersetzt.",
+   "stand_note": "",
+   "statement": "Der Nachrichtenfaktor Nähe: Ein Erdbeben in Wien kommt ohne Verletzte in die Nachrichten, eines in Australien erst mit etlichen Toten.",
+   "question": "Welcher Nachrichtenfaktor erklärt, warum ein harmloses Erdbeben in Wien eher berichtet wird als ein schweres in Australien?",
+   "answer": "Nähe",
+   "distractors": [
+    "Prominenz",
+    "Neuigkeit",
+    "Bildstärke"
+   ],
+   "aha": "Wir interessieren uns einfach mehr für Dinge aus unserer Nähe, die wir kennen. Wackeln in Wien die Lampen, kommt das abends in „Wien heute“ – auch wenn niemand verletzt wurde.",
+   "quote_clean": "Dann werden wir das am Abend in „Wien heute“ sehen, auch wenn es keinen einzigen Verletzten in ganz Wien gibt. Wenn das Gleiche in Australien stattfindet, muss es schon etliche Tote und Verletzte geben.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Spruch belegt; Frage so umformuliert, dass klar ist, welcher der beiden Sätze die Geschichte ist (Distraktor „Hund beißt Mann“ stammt aus demselben Spruch).",
+   "stand_note": "",
+   "statement": "Die berühmteste Definition des Nachrichtenfaktors Ungewöhnlichkeit lautet: Hund beißt Mann ist keine Geschichte, Mann beißt Hund schon.",
+   "question": "Laut der berühmtesten Definition für „ungewöhnlich genug für eine Nachricht“: Welcher Satz ist eine Geschichte?",
+   "answer": "Mann beißt Hund",
+   "distractors": [
+    "Hund beißt Mann",
+    "Katze jagt Maus",
+    "Mann rettet Hund"
+   ],
+   "aha": "Was wir eh erwarten, steht nicht in der Zeitung, etwa dass morgen die Sonne aufgeht. Hätten wir aber drei Monate Sonnenfinsternis, würde genau das die Schlagzeile: Morgen geht endlich wieder die Sonne auf.",
+   "quote_clean": "Die berühmteste Definition davon heißt: Hund beißt Mann ist keine Geschichte, Mann beißt Hund ist eine Geschichte.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "„When it bleeds it leads“ und Wolfs Einordnung (eigentlich das Ungewöhnliche) bei t=1386-1445 belegt.",
+   "stand_note": "",
+   "statement": "Die englische Redaktionsweisheit „If it bleeds, it leads“ besagt, dass Blutiges und Schlimmes ganz oben in den Nachrichten landet.",
+   "question": "Wie geht die englische Redaktionsweisheit weiter: „If it bleeds, …“?",
+   "answer": "… it leads",
+   "distractors": [
+    "… it sells",
+    "… it spreads",
+    "… it trends"
+   ],
+   "aha": "Für Armin Wolf ist das eigentlich kein eigenes Kriterium, sondern wieder das Ungewöhnliche. Und das ist fast eine gute Nachricht: Das Negative kommt in die Nachrichten, weil es Gott sei Dank noch die Ausnahme ist.",
+   "quote_clean": "Auf Englisch gibt's den Satz „If it bleeds, it leads“: Wenn Blut fließt, kommt es in die Nachrichten.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Säbelzahntiger-gegen-Bambi-Vergleich bei t=1445-1474 belegt.",
+   "stand_note": "",
+   "statement": "Wir interessieren uns stärker für negative Nachrichten, weil Warnungen vor Gefahren für Menschen seit jeher die nützlicheren Informationen waren.",
+   "question": "Mit welchem Tier-Vergleich erklärt Armin Wolf, warum uns schlechte Nachrichten mehr interessieren?",
+   "answer": "Säbelzahntiger statt Bambi",
+   "distractors": [
+    "Wolf statt Schaf",
+    "Bär statt Reh",
+    "Hai statt Delfin"
+   ],
+   "aha": "Nachrichten sind entstanden, weil Menschen einander nützliche Dinge erzählt haben. Ein süßes Bambi anzuschauen ist nett, vor dem Säbelzahntiger gewarnt zu werden ist halt tendenziell nützlicher.",
+   "quote_clean": "„Achtung, da kommt der Säbelzahntiger“ war die nützlichere Information als „Achtung, drüben geht ein süßes Bambi vorbei“.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Gedankenexperiment und Antwort bei t=1877-1906 belegt; die Antwortoption war abgeschnitten („gäbe es neue“) und wurde vollständig formuliert.",
+   "stand_note": "",
+   "statement": "Auf das Gedankenexperiment, alle Journalist:innen der Welt verschwänden auf Knopfdruck, antwortet Armin Wolf: Nach wenigen Tagen würden wieder Menschen Journalismus machen, weil wir ihn brauchen.",
+   "question": "Was antwortet Armin Wolf auf Andreas' Gedankenexperiment, alle Journalist:innen der Welt verschwänden auf Knopfdruck?",
+   "answer": "Nach wenigen Tagen gäbe es wieder Journalismus",
+   "distractors": [
+    "Die Demokratie bräche sofort zusammen",
+    "Soziale Medien würden alles übernehmen",
+    "Es würde zunächst niemand merken"
+   ],
+   "aha": "Seine Antwort: So eine Welt gäbe es nur ganz wenige Tage, dann würden wieder Menschen Journalismus machen, weil wir ihn brauchen. Wie bei den Bäckern: Gibt's morgen keine mehr, backt übermorgen wieder wer Brot.",
+   "quote_clean": "Ich glaube, die Welt würde es nur ganz wenige Tage geben, und dann würden wieder Menschen Journalismus machen, weil wir das brauchen.",
+   "quality": 4
+  }
+ ],
+ "id": "341",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

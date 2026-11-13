@@ -1,0 +1,286 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Meta-Frage zum Folgenbeginn, Antwort nur Paraphrase der Frage, kein Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Andreas steigt mit der Frage ein, wie viel schwerer oder riskanter das Kinderkriegen über 30 oder 35 wird.",
+   "question": "Mit welcher Frage steigt Andreas in die Folge übers Kinderkriegen ein?",
+   "answer": "Wie viel schwerer wird es über 35?",
+   "distractors": [
+    "Ab wann sollte man Eizellen einfrieren?",
+    "Was kostet eine künstliche Befruchtung?",
+    "Warum bekommen wir später Kinder?"
+   ],
+   "aha": "",
+   "quote_clean": "Andreas, wenn beide über 30 oder vielleicht schon über 35 sind, wie viel schwerer oder riskanter wird denn das Kinderkriegen? Kann man das so pauschal sagen?",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 269-281 klar ('laut Evolution'); unplausibler Distraktor 12-15 ersetzt.",
+   "stand_note": "",
+   "statement": "Biologisch betrachtet liegt das ideale Alter für eine Schwangerschaft bei etwa 16 bis 22 Jahren.",
+   "question": "In welchem Alter wäre es laut Biologie am besten, schwanger zu werden?",
+   "answer": "16 bis 22 Jahre",
+   "distractors": [
+    "23 bis 28 Jahre",
+    "28 bis 32 Jahre",
+    "30 bis 34 Jahre"
+   ],
+   "aha": "Aus Sicht der Eizelle und der Evolution wäre das früh. Dass das mit Ausbildung, Job und Leben heute nicht mehr zusammenpasst, sagt auch Obruca: Das spielt es heute nicht mehr.",
+   "quote_clean": "Laut Evolution wäre das beste Alter, von der Eizelle und der Biologie her schwanger zu werden, so mit 16 bis 22.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg bei 287; der Wert lag 2020 bei knapp 30, heute etwas höher.",
+   "stand_note": "Stand 2020",
+   "statement": "Das Durchschnittsalter von Frauen beim ersten Kind liegt in Österreich mittlerweile bei etwa 30 Jahren.",
+   "question": "Wie alt sind Frauen in Österreich im Schnitt bei ihrem ersten Kind?",
+   "answer": "circa 30 Jahre",
+   "distractors": [
+    "circa 26 Jahre",
+    "circa 34 Jahre",
+    "circa 24 Jahre"
+   ],
+   "aha": "Vor ein paar Jahrzehnten war man beim ersten Kind noch deutlich jünger. Ausbildung, Karriere, Reisen: Das Kinderkriegen rutscht immer weiter nach hinten, die Biologie zieht aber nicht mit.",
+   "quote_clean": "Das Durchschnittsalter beim ersten Kind liegt heutzutage bereits bei circa 30. Das ist die letzten Jahre massiv angestiegen.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 302-311 klar.",
+   "stand_note": "",
+   "statement": "Frauen bilden keine neuen Eizellen; alle Eizellen sind schon bei der Geburt vorhanden.",
+   "question": "Wann entstehen die Eizellen einer Frau?",
+   "answer": "Schon vor der Geburt, nie wieder neu",
+   "distractors": [
+    "Laufend, jeden Monat neu",
+    "Erst ab der Pubertät",
+    "Bis etwa zum 25. Lebensjahr"
+   ],
+   "aha": "Jede Frau kommt mit ihrem fixen Packerl auf die Welt, Nachschub gibt's keinen. Darum altern die Eizellen mit ihr mit, was mit 35 schon spürbar wird.",
+   "quote_clean": "Eizellen werden nicht neu gebildet, sondern zum Zeitpunkt der Geburt hat jede Frau ihr Packerl an Eizellen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "drop",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Zahl im Transkript belegt, aber medizinisch zu niedrig (bei der Geburt etwa 1 bis 2 Millionen Eizellen); als Fakt nicht verlässlich.",
+   "stand_note": "",
+   "statement": "Bei der Geburt hat eine Frau zwischen 100.000 und 400.000 Eizellen.",
+   "question": "Wie viele Eizellen hat eine Frau bei ihrer Geburt?",
+   "answer": "100.000 bis 400.000",
+   "distractors": [
+    "1.000 bis 4.000",
+    "10.000 bis 40.000",
+    "1 bis 4 Millionen"
+   ],
+   "aha": "",
+   "quote_clean": "Das sind zwischen 100.000 und 400.000 Eizellen.",
+   "quality": 1
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "'Man geht davon aus' ist eine grobe Schätzung; 50 Prozent mit 35 ist als harte Zahl nicht gesichert und könnte verunsichern.",
+   "stand_note": "",
+   "statement": "Mit 35 Jahren ist etwa die Hälfte der Eizellen einer Frau genetisch defekt.",
+   "question": "Wie viel Prozent der Eizellen sind mit 35 bereits genetisch defekt?",
+   "answer": "50 Prozent",
+   "distractors": [
+    "10 Prozent",
+    "25 Prozent",
+    "75 Prozent"
+   ],
+   "aha": "",
+   "quote_clean": "Man geht davon aus, dass mit 35 bereits 50 Prozent der Eizellen genetisch defekt sind.",
+   "quality": 1
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 393-418: genetische Defekte sind die Hauptursache früher Fehlgeburten.",
+   "stand_note": "",
+   "statement": "Bei genetischen Defekten entwickelt sich die Eizelle meist gar nicht oder der Embryo nistet sich nicht ein; das ist auch die Hauptursache früher Fehlgeburten.",
+   "question": "Was ist die Hauptursache für frühe Fehlgeburten?",
+   "answer": "Ein genetischer Defekt des Embryos",
+   "distractors": [
+    "Zu viel Stress der Mutter",
+    "Körperliche Anstrengung",
+    "Ein Vitaminmangel"
+   ],
+   "aha": "Die Natur sortiert gnadenlos aus: Was genetisch nicht passt, nistet sich gar nicht ein oder geht bis etwa zur zwölften Woche von selbst ab. Das ist meist kein Fehler der Frau, sondern eine Qualitätskontrolle.",
+   "quote_clean": "Die Natur hat es Gott sei Dank recht vernünftig gelöst: Immer dann, wenn genetische Defekte da sind, entwickelt sich die Eizelle zum überwiegenden Teil gar nicht oder der Embryo nistet sich gar nicht ein.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "kontext"
+   ],
+   "note": "Heikles Thema (Down-Syndrom als 'Defekt'), im Spiel leicht stigmatisierend; Erklärung zudem stark vereinfacht.",
+   "stand_note": "",
+   "statement": "Trisomie 21 ist kein so starker Defekt, dass die Natur ihn aussortiert; deshalb steigt ihr Risiko mit dem Alter der Mutter.",
+   "question": "Warum kommt Trisomie 21 trotz der natürlichen Auslese relativ häufig vor?",
+   "answer": "Der Defekt ist nicht stark genug zum Aussortieren",
+   "distractors": [
+    "Er entsteht erst nach der Einnistung",
+    "Er stammt immer vom Vater",
+    "Er ist bei Tests unsichtbar"
+   ],
+   "aha": "",
+   "quote_clean": "Das ist zum Beispiel, wenn das Chromosom Nummer 21 dreimal vorhanden ist, also die Trisomie 21, das Down-Syndrom. Das ist von der Natur aus nicht so ein starker Defekt, dass es aussortiert wird.",
+   "quality": 1
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 626-629 stimmt (ca. 25 Prozent pro Monat); Aha rechnete falsch ('jedem vierten Monat').",
+   "stand_note": "",
+   "statement": "Junge, gesunde Paare haben pro Monat eine Chance von etwa 25 Prozent, schwanger zu werden.",
+   "question": "Wie hoch ist bei jungen, gesunden Paaren die Chance, pro Monat schwanger zu werden?",
+   "answer": "circa 25 Prozent",
+   "distractors": [
+    "circa 60 Prozent",
+    "circa 80 Prozent",
+    "circa 10 Prozent"
+   ],
+   "aha": "Wer jung ist, glaubt oft, einmal ungeschützt und schon ist's passiert. Tatsächlich liegt die Chance selbst bei jungen, gesunden Paaren nur bei etwa 25 Prozent pro Monat, Geduld gehört also dazu.",
+   "quote_clean": "Wenn man junge, gesunde Paare nimmt, dann liegt die Chance, pro Monat schwanger zu werden, bei circa 25 Prozent.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 638-650 stimmt; Frage unklar formuliert, auf 'Trial Time' präzisiert.",
+   "stand_note": "",
+   "statement": "Zwischen 30 und 35 sollte man laut Obruca etwa 12 Monate ohne Stress probieren (die sogenannte Trial Time), bevor man sich Sorgen macht.",
+   "question": "Wie lange sollte man zwischen 30 und 35 laut Obruca ungefähr ohne Stress probieren, bevor man Hilfe sucht?",
+   "answer": "circa 12 Monate",
+   "distractors": [
+    "circa 3 Monate",
+    "circa 6 Monate",
+    "circa 24 Monate"
+   ],
+   "aha": "Diese Zeit nennt man Trial Time. Ein Jahr probieren, ohne gleich die ganze Maschinerie an Untersuchungen anzuwerfen, außer es gibt schon vorher Auffälligkeiten.",
+   "quote_clean": "Mit 30 bedeutet das für mich, dass man in der Phase 30 bis 35 durchaus mit circa 12 Monaten rechnen muss. Das ist die sogenannte Trial Time.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 909-916 stimmt; Distraktor Ultraschall wäre medizinisch auch eine gültige Methode, ersetzt.",
+   "stand_note": "",
+   "statement": "Die Eizellreserve lässt sich mit einem einfachen Bluttest messen, der das Anti-Müller-Hormon (AMH) bestimmt.",
+   "question": "Wie lässt sich die Eizellreserve einer Frau mit einem einfachen Test abschätzen?",
+   "answer": "Mit einem Bluttest auf das Hormon AMH",
+   "distractors": [
+    "Mit einem Speicheltest",
+    "Mit einem Urintest",
+    "Mit einem Abstrich beim Frauenarzt"
+   ],
+   "aha": "Weil Eizellen nur weniger werden, kann man aus dem AMH-Wert hochrechnen, wie lang die Reserve ungefähr reicht. So kriegt man schon eine Prognose, bevor überhaupt ein Kinderwunsch da ist.",
+   "quote_clean": "Um diese Eizellreserve zu messen, gibt es seit einigen Jahren ein relativ einfaches Tool, nämlich einen Blutbefund. Der Hormonwert, der gemessen wird, heißt Anti-Müller-Hormon, AMH.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1454-1460, Feuerversicherung korrekt.",
+   "stand_note": "",
+   "statement": "Eingefrorene Eizellen sind wie eine Feuerversicherung: Niemand wünscht sich, dass es brennt, aber man hat sie.",
+   "question": "Womit vergleicht der Reproduktionsmediziner eingefrorene Eizellen?",
+   "answer": "Mit einer Feuerversicherung",
+   "distractors": [
+    "Mit einem Sparbuch",
+    "Mit einem Reserverad",
+    "Mit einem Notfallkoffer"
+   ],
+   "aha": "Die meisten Frauen werden die eingefrorenen Eizellen wohl nie brauchen, glaubt Obruca. Aber es nimmt Druck raus, wenn man weiß: Es gibt einen Plan B.",
+   "quote_clean": "Das ist so ein bisschen wie eine Versicherung oder wie eine Feuerversicherung. Da wünscht sich auch keiner, dass es brennt, aber man hat sie.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Der Nutzen des Liegenbleibens ist medizinisch nicht belegt (Spermien erreichen den Muttermund rasch); Aha macht daraus eine harte Anweisung.",
+   "stand_note": "",
+   "statement": "Das Ejakulat verflüssigt sich erst nach etwa 20 Minuten; deshalb ist es sinnvoll, nach dem Sex eine Weile liegen zu bleiben.",
+   "question": "Warum kann es helfen, nach dem Sex eine Weile liegen zu bleiben?",
+   "answer": "Das Ejakulat verflüssigt sich erst nach 20 Minuten",
+   "distractors": [
+    "Die Eizelle springt erst danach",
+    "Der Muttermund schließt sich sofort",
+    "Die Spermien brauchen Körperwärme zum Reifen"
+   ],
+   "aha": "",
+   "quote_clean": "Das Zweite ist natürlich: Das Ejakulat ist am Anfang noch klebrig, noch nicht verflüssigt, und nach circa 20 Minuten beginnt es flüssiger zu werden. Erst dann kann es eigentlich in die Gebärmutter einwandern.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Beleg bei 1170-1190; Antwort als Witz-Zitat ungenau, richtig ist: Training reduzieren (nicht aufhören).",
+   "stand_note": "",
+   "statement": "Bleibt der Eisprung wegen Leistungssport aus, kann schon helfen, das Training zu reduzieren, zum Beispiel nicht zweimal pro Woche einen Triathlon zu machen.",
+   "question": "Was kann laut Obruca helfen, wenn der Eisprung wegen intensivem Leistungssport ausbleibt?",
+   "answer": "Das Training etwas reduzieren",
+   "distractors": [
+    "Sofort mit einer Hormontherapie beginnen",
+    "Komplett mit Sport aufhören",
+    "Mehr Kohlenhydrate essen"
+   ],
+   "aha": "Leistungssport, Übergewicht oder Hormonstörungen können den Eisprung blockieren. Manchmal ist die Therapie schlicht: ein bisschen weniger Triathlon.",
+   "quote_clean": "Dann kann man das Paar beraten und sagen: Probieren wir mal, nicht zweimal in der Woche einen Triathlon zu absolvieren, sondern ein bisschen zu reduzieren.",
+   "quality": 3
+  }
+ ],
+ "id": "143",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

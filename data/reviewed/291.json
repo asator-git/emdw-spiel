@@ -1,0 +1,279 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Beleg bei 2268: schnell bei 500.000 pro Zimmer und drüber (inkl. Umfeld); Aha sprach von Spa, Gast nannte nur Fitness. Preisangabe von 2024.",
+   "stand_note": "Stand 2024",
+   "statement": "Rechnet man bei einem Fünf-Sterne-Hotel alle Gestehungskosten mit ein, kommt man schnell auf rund 500.000 Euro pro Zimmer und mehr.",
+   "question": "Bei welchem Betrag pro Zimmer landet man bei einem Fünf-Sterne-Hotel schnell, wenn man alle Baukosten mitrechnet?",
+   "answer": "Bei rund 500.000 Euro und mehr",
+   "distractors": [
+    "Bei rund 80.000 Euro",
+    "Bei rund 150.000 Euro",
+    "Bei rund 2 Millionen Euro"
+   ],
+   "aha": "In der Branche rechnet man nicht das ganze Haus, sondern pro Zimmer – genauer: pro Schlüssel. Wenn Bau, Umfeld und alles drum herum mitgezählt werden, bist du bei einem Fünf-Sterner schnell bei einer halben Million pro Zimmer. Mit Fitnessbereich und Co. geht's Richtung Million.",
+   "quote_clean": "Da werden die ganzen Gestehungskosten mitgerechnet. Wenn du das ganze Umfeld mitrechnest, dann bist du schnell einmal bei 500.000 pro Zimmer und drüber.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2268: pro Key, damit kein Missverständnis entsteht.",
+   "stand_note": "",
+   "statement": "In der Hotelbranche rechnet man Investitionskosten „per Key“, also pro Zimmerschlüssel, damit niemand glaubt, das einzelne Zimmer selbst koste so viel.",
+   "question": "In welcher Einheit rechnet die Hotelbranche die Kosten eines neuen Hotels gern?",
+   "answer": "Pro Schlüssel („per Key“)",
+   "distractors": [
+    "Pro Quadratmeter Lobby",
+    "Pro Stockwerk",
+    "Pro Stern der Kategorie"
+   ],
+   "aha": "Hotelleute sagen „per Key“ statt „pro Zimmer“, weil das Zimmer selbst viel weniger kostet als die Summe, die man herauskriegt. Da steckt die ganze Gestehung drin: Fundament, Garage, Küche, Lobby – geteilt durch die Zahl der Schlüssel.",
+   "quote_clean": "Pro Zimmer ist pro Key, aber man sagt pro Key, damit es nicht dieses Missverständnis gibt, das Zimmer kostet so viel.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "Beleg bei 2297 (150-300k, vom Gast mit „wahrscheinlich“ geschätzt); Aha-Vergleich mit einer Wohnung war übertrieben, Preise Stand 2024.",
+   "stand_note": "Stand 2024",
+   "statement": "Ein fertiges Zimmer der Fünf-Sterne-Kategorie einzurichten oder umzubauen kostet etwa 150.000 bis 300.000 Euro.",
+   "question": "Was kostet es ungefähr, ein einzelnes Fünf-Sterne-Hotelzimmer einzurichten bzw. umzubauen?",
+   "answer": "150.000 bis 300.000 Euro",
+   "distractors": [
+    "15.000 bis 30.000 Euro",
+    "40.000 bis 60.000 Euro",
+    "800.000 bis 1 Million Euro"
+   ],
+   "aha": "Das ist nur das Zimmer selbst, ohne das Haus rundherum. Die halbe Million pro Schlüssel kommt erst zusammen, wenn du Rohbau, Garage und Co. dazurechnest.",
+   "quote_clean": "Da liegst du irgendwo zwischen 150.000 und 300.000 für das Zimmer. Aber wenn du die ganzen Baukosten mitrechnest, kommst du noch über eine halbe Million.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Beleg bei 2352: 80 bis 100 Millionen; Antwort „90“ war zu punktgenau, nun Bereich. Preis Stand 2024.",
+   "stand_note": "Stand 2024",
+   "statement": "Ein Fünf-Sterne-Hotel mit 100 Zimmern, Parkgarage und Fitnessbereich kostet etwa 80 bis 100 Millionen Euro.",
+   "question": "Wie viel kostet laut Erich Bernard ungefähr ein Fünf-Sterne-Hotel mit 100 Zimmern, Garage und Fitness?",
+   "answer": "80 bis 100 Millionen Euro",
+   "distractors": [
+    "10 bis 20 Millionen Euro",
+    "30 bis 40 Millionen Euro",
+    "300 bis 400 Millionen Euro"
+   ],
+   "aha": "Erich nennt 80 bis 100 Millionen für so ein Haus. Die Rechnung ist simpel: Kosten pro Schlüssel mal Zimmeranzahl – und bei voller Ausstattung geht's pro Schlüssel Richtung einer Million.",
+   "quote_clean": "Das heißt, wenn du sagst, da sind 100 Zimmer, fünf Sterne, also hohe Kategorie, mit Parkgarage, mit Fitness, mit allem Drum und Dran, musst du schon mit 80 bis 100 Millionen rechnen.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2552: großer Overhead für wenige Zimmer.",
+   "stand_note": "",
+   "statement": "Ein Hotel mit nur 20 Zimmern ist wirtschaftlich schwierig, weil die fixen Betriebskosten auf sehr wenige Zimmer verteilt werden.",
+   "question": "Warum ist ein Hotel mit nur 20 Zimmern wirtschaftlich schwierig?",
+   "answer": "Zu viel Overhead für zu wenige Zimmer",
+   "distractors": [
+    "Kleine Häuser bekommen keine Sterne",
+    "Banken finanzieren keine kleinen Hotels",
+    "Die Zimmer müssen größer sein"
+   ],
+   "aha": "Eine Rezeption und eine Küche kosten ungefähr gleich viel, egal ob 20 oder 60 Zimmer dranhängen. Beim kleinen Haus landet also auf jedem Zimmer ein viel größerer Brocken Fixkosten.",
+   "quote_clean": "20 Zimmer ist schon ein bisschen ein schwierigeres Hotel in der Ökonomie, weil ich im Betrieb relativ großen Overhead für relativ wenig Zimmer habe.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1519 und 1836: es wird immer ein Musterzimmer gebaut, teils mit Übernachtung.",
+   "stand_note": "",
+   "statement": "Bei Hotelprojekten wird immer ein Musterzimmer gebaut, an dem man Materialien, Möbel und Abläufe in echt ausprobiert.",
+   "question": "Was wird bei Hotelprojekten immer gebaut, bevor alle Zimmer fertiggestellt werden?",
+   "answer": "Ein Musterzimmer",
+   "distractors": [
+    "Ein Modell im Maßstab 1:100",
+    "Eine Musterlobby",
+    "Ein Probe-Restaurant"
+   ],
+   "aha": "Am Computer schaut alles super aus, aber angreifen kannst du es nicht. Darum baut man ein echtes Zimmer, schaut sich das Licht zu verschiedenen Tageszeiten an – und schläft manchmal sogar eine Nacht drin.",
+   "quote_clean": "Man macht immer ein Musterzimmer, es wird immer ein Musterzimmer hergestellt.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1345: Zimmer wirkt größer, wenn mehr drin ist.",
+   "stand_note": "",
+   "statement": "Ein kleines Hotelzimmer wirkt nicht kleiner, wenn mehr darin steht, sondern eher größer, weil man das Gefühl hat, es ist alles da.",
+   "question": "Was passiert laut Architekt Erich Bernard mit der gefühlten Größe eines kleinen Hotelzimmers, wenn mehr darin steht?",
+   "answer": "Es wirkt eher größer",
+   "distractors": [
+    "Es wirkt deutlich kleiner",
+    "Es wirkt gleich groß",
+    "Es wirkt höher, aber schmäler"
+   ],
+   "aha": "Klingt verkehrt, aber Leere wirkt in einem kleinen Raum schnell karg. Wenn alles da ist, vergisst man die Quadratmeter. Wichtig ist nur, dass man verdichtet und nicht vollstopft.",
+   "quote_clean": "Wir haben mit der Zeit gelernt, dass ein Zimmer nicht kleiner wird, wenn mehr drin ist, sondern eher größer, weil man das Gefühl hat, es ist eh alles da.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1146: getrennte Eingänge, die innen am selben Punkt enden.",
+   "stand_note": "",
+   "statement": "Damit auch Einheimische ein Hotellokal besuchen, helfen getrennte Eingänge für Hotel- und Restaurantgäste, auch wenn beide innen am selben Punkt ankommen.",
+   "question": "Mit welchem architektonischen Trick bringt man Einheimische dazu, in ein Hotelrestaurant zu gehen?",
+   "answer": "Eigener Eingang fürs Lokal",
+   "distractors": [
+    "Kein Spiegel in der Lobby",
+    "Rezeption im ersten Stock",
+    "Gratis-Parkplätze vor dem Haus"
+   ],
+   "aha": "Niemand will an einer Rezeption vorbei, die einen fragend anschaut: Sind Sie überhaupt Gast hier? Mit zwei Eingängen, die innen zusammenführen, fühlen sich beide richtig – der Tourist im Hotel und die Wienerin im Lokal.",
+   "quote_clean": "Ich habe zum Beispiel einen eigenen Hoteleingang daneben. Das endet innen am gleichen Punkt, aber trotzdem ist das Gefühl: Ich gehe als Wiener nicht durch den Hoteleingang rein, und als Hotelgast gehe ich nicht bei einem Gasthaus rein.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 859: die Schmarotzer-Frage beschäftigt das Büro immer wieder.",
+   "stand_note": "",
+   "statement": "Weil eine Stadt mit Denkmälern und Atmosphäre die Gäste anzieht, stellt sich für jedes Hotel die Frage, ob es nur davon profitiert oder der Stadt auch etwas zurückgibt.",
+   "question": "Welche Frage stellt sich Architekt Erich Bernard bei jedem Hotelprojekt gegenüber der Stadt?",
+   "answer": "Ob das Hotel der Stadt etwas zurückgibt",
+   "distractors": [
+    "Ob das Hotel höher als die Nachbarn ist",
+    "Ob das Hotel genug Parkplätze hat",
+    "Ob das Hotel eine Kette werden kann"
+   ],
+   "aha": "Wien steckt viel Geld in Denkmäler und Tourismus – davon leben die Hotels. Erich nennt das eine fast ethische Frage: Ist ein Hotel bloß Schmarotzer, oder öffnet es sich für die Leute, die dort wohnen? Auf dem Land gilt das besonders.",
+   "quote_clean": "Da muss man sich die Frage stellen: Ist ein Hotel eigentlich nur Schmarotzer von dem, was die Stadt bietet und die Einwohner der Stadt mitbieten, oder bietet ein Hotel der Stadt auch etwas?",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1894; reine Wer-sagt-Frage mit Fülldistraktoren, umgebaut in Inhaltsfrage.",
+   "stand_note": "",
+   "statement": "Hotels haben sich vom reinen Bedarfsdecker – ein Dach über dem Kopf – zu Orten mit Zusatznutzen und Erlebnis entwickelt.",
+   "question": "Wie hat sich die Hotellerie laut Erich Bernard entwickelt?",
+   "answer": "Vom Bedarfsdecker zum Ort mit Zusatznutzen",
+   "distractors": [
+    "Vom Luxusgut zum Massenprodukt",
+    "Vom Stadthotel zum Ferienresort",
+    "Von der Gaststätte zur reinen Schlafstätte"
+   ],
+   "aha": "Früher reichte ein Bett zum Schlafen. Heute konkurrieren so viele Häuser, dass man nicht mehr nur über Preis und Dach überm Kopf bestehen kann – das Hotel wird selbst zur Destination.",
+   "quote_clean": "Die Hotellerie hat sich, wenn man Wien als Beispiel nimmt – aber es gilt für die generelle Tendenz –, vom Bedarfsdecker zum Zusatznutzen entwickelt.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2008: „Verdrängungsmarkt“, gute Hotels kommen, andere fallen weg; Einschätzung 2024.",
+   "stand_note": "Stand 2024",
+   "statement": "Der Hotelmarkt ist ein Verdrängungsmarkt: Mit jedem neuen guten Hotel fallen Häuser weg, die sich keine Gedanken über ihre Gäste machen.",
+   "question": "Wie beschreibt Erich Bernard den Hotelmarkt in Wien?",
+   "answer": "Als Verdrängungsmarkt",
+   "distractors": [
+    "Als Monopolmarkt",
+    "Als gesättigten Stillstand",
+    "Als reinen Preiskampf"
+   ],
+   "aha": "Auf die Frage „Braucht Wien noch ein Hotel?“ sagt Erich: ja, gute schon. Denn es gibt genug Häuser, die sich nie gefragt haben, was der Gast gern hätte – und die fallen dann eben unten raus.",
+   "quote_clean": "So gesehen kann man sagen: Ja, Wien braucht noch mehr gute Hotels, aber mit jedem neuen Hotel fallen andere weg. Es ist ja ein Verdrängungsmarkt.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-Frage mit Fülldistraktoren, kaum Erkenntnis.",
+   "stand_note": "",
+   "statement": "Ein Hotel ohne Gastronomie ist eher Bedarfsdeckung als Erlebnis.",
+   "question": "Wer sagt: „Ein Hotel ohne Gastronomie ist ein bisschen näher an der Bedarfsdeckung als am Erlebnis“?",
+   "answer": "Erich Bernard",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Wiener Koch",
+    "Ein Tourismusminister"
+   ],
+   "aha": "Für Erich sind die schönsten Hotels die, in denen Hotellerie und Gastronomie zusammenwachsen. Es geht in beiden um dasselbe: dass sich jemand wohlfühlt.",
+   "quote_clean": "Ein Hotel ohne Gastronomie ist ein bisschen näher an der Bedarfsdeckung als am Erlebnis.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Beleg bei 2153-2183, aber wer den Direktor fragte ist im Transkript unklar (Name verhört); Formulierung neutralisiert.",
+   "stand_note": "",
+   "statement": "Auf die Frage, warum im Hotelbusiness alle so nett seien, antwortete ein langjähriger Direktor des Hotel Sacher: Wären sie nicht nett, wären sie nicht in der Hotellerie.",
+   "question": "Was antwortete ein langjähriger Sacher-Direktor auf die Frage, warum in der Hotellerie alle so nett sind?",
+   "answer": "Sonst wären sie nicht in der Hotellerie",
+   "distractors": [
+    "Weil das Trinkgeld davon abhängt",
+    "Weil es so in der Ausbildung steht",
+    "Weil die Gäste sonst Sterne abziehen"
+   ],
+   "aha": "Eine kurze Antwort, die viel sagt: In einer Branche, in der sich alles ums Wohlbefinden der Gäste dreht, bleibt nur, wer das auch mag. Für Architekt:innen war der gepflegte Umgang in der Hotellerie offenbar neu.",
+   "quote_clean": "Warum sind im Hotelbusiness alle Leute so nett? Für uns Architekten war das auch neu. Die Frage ist ganz einfach beantwortet: Wären sie nicht nett, wären sie nicht in der Hotellerie.",
+   "quality": 4
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage an das Publikum ohne Wissensgehalt; Aha erwähnt Istanbul/London, das im Ausschnitt nicht belegt ist.",
+   "stand_note": "",
+   "statement": "Am Ende der Hotel-Folge fragt Andreas sein Publikum nach dem coolsten Hotel, in dem es je war.",
+   "question": "Was will Andreas am Ende der Hotel-Folge von seinem Publikum wissen?",
+   "answer": "Das coolste Hotel, in dem sie waren",
+   "distractors": [
+    "Das schlechteste Frühstücksbuffet",
+    "Die teuerste Nacht im Urlaub",
+    "Das schönste Hotel in Graz"
+   ],
+   "aha": "Andreas gibt am Schluss eine Frage an die Community weiter.",
+   "quote_clean": "Mich würde noch interessieren: Was ist das coolste Hotel, in dem du je warst, und was fandest du daran so toll? Schreib es in die Kommentare.",
+   "quality": 1
+  }
+ ],
+ "id": "291",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

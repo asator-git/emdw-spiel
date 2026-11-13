@@ -1,0 +1,276 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1015-1042 s, Zahl passt zu WHO-Angaben (2020: ca. 241 Mio.).",
+   "stand_note": "Stand 2022",
+   "statement": "Weltweit gibt es etwa 240 Millionen Malariafälle pro Jahr.",
+   "question": "Wie viele Malariafälle gibt es weltweit ungefähr pro Jahr?",
+   "answer": "Etwa 240 Millionen",
+   "distractors": [
+    "Etwa 24 Millionen",
+    "Etwa 60 Millionen",
+    "Etwa 900 Millionen"
+   ],
+   "aha": "Rund 240 Millionen Mal im Jahr erwischt es jemanden – vor allem in afrikanischen Ländern. Malaria ist also kein Problem von gestern, sondern eines, gegen das ein simples Netz überm Bett erstaunlich viel ausrichtet.",
+   "quote_clean": "Malaria ist weiterhin ein großes Problem: Wir haben etwa 240 Millionen Malariafälle pro Jahr.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zahl belegt (WHO 2020: ca. 627.000), aber „Über 60.000/150.000“ wären ebenfalls wörtlich wahr; auf „Rund“ umgestellt.",
+   "stand_note": "Stand 2022",
+   "statement": "Malaria fordert jährlich über 600.000 Todesopfer, vor allem Kinder unter fünf Jahren.",
+   "question": "Wie viele Menschen sterben pro Jahr ungefähr an Malaria?",
+   "answer": "Rund 600.000",
+   "distractors": [
+    "Rund 60.000",
+    "Rund 2 Millionen",
+    "Rund 150.000"
+   ],
+   "aha": "Über 600.000 Tote im Jahr, und die meisten davon sind Kinder unter fünf. Genau deshalb ist die scheinbar kleine Frage, wie Moskitonetze am besten verteilt werden, eine riesige.",
+   "quote_clean": "Über 600.000 Todesfälle, und das sind vor allem kleine Kinder, also Kinder unter fünf Jahren, die an Malaria sterben.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Inhalt belegt bei 1156-1186 s; „in Kenia“ steht nicht im Ausschnitt, daher aus der Frage entfernt.",
+   "stand_note": "",
+   "statement": "Studien zeigen: Gratis verteilte Moskitonetze erreichen viel mehr Haushalte als Netze, für die ein kleiner Preis verlangt wird.",
+   "question": "Was hat eine randomisierte Studie ergeben, in der Moskitonetze gratis oder gegen einen kleinen Preis abgegeben wurden?",
+   "answer": "Gratis verteilen erreicht viel mehr Haushalte",
+   "distractors": [
+    "Ein kleiner Preis erhöht die Nutzung deutlich",
+    "Bezahlte Netze werden länger behalten",
+    "Der Preis spielt keine Rolle"
+   ],
+   "aha": "Lange stritt man, ob „was nichts kostet, nichts wert ist“. Die Studie war eindeutig: Schon ein kleiner Preis schreckt viele ab, und wer ein Netz hat, nutzt es so oder so.",
+   "quote_clean": "Die Gratisabgabe von solchen Moskitonetzen funktioniert viel besser: Sobald man einen kleinen Preis verlangt, sinkt die Nachfrage.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1214 s; Nature-Studie (Bhatt et al. 2015) passt.",
+   "stand_note": "",
+   "statement": "Laut einer in Nature veröffentlichten Studie geht ein großer Teil des Rückgangs bei Malaria auf Moskitonetze zurück, was Millionen Leben gerettet hat.",
+   "question": "Wie viele Leben haben Moskitonetze laut einer Studie in Nature gerettet?",
+   "answer": "Millionen von Leben",
+   "distractors": [
+    "Einige Tausend Leben",
+    "Rund hunderttausend Leben",
+    "Kaum messbar viele"
+   ],
+   "aha": "Inzwischen empfiehlt auch die WHO, Netze gratis abzugeben, und fast alle Malarialänder machen das. Ein Stück imprägnierter Stoff gehört damit zu den wirksamsten Lebensrettern überhaupt.",
+   "quote_clean": "Sie schätzt, dass ein sehr großer Teil der Reduktion bei Malariafällen und Todesfällen wirklich auf diese Moskitonetze zurückgeht und damit Millionen von Leben gerettet werden konnten.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 726 s („fast eine Million“ in Peru).",
+   "stand_note": "",
+   "statement": "Peru verteilte im Rahmen von „One Laptop per Child“ fast eine Million Laptops, ohne das Programm vorher gut zu evaluieren.",
+   "question": "Wie viele Laptops verteilte Perus Regierung ungefähr im Programm „One Laptop per Child“?",
+   "answer": "Fast eine Million",
+   "distractors": [
+    "Rund 50.000",
+    "Rund 200.000",
+    "Über 5 Millionen"
+   ],
+   "aha": "Fast eine Million Laptops, und erst danach kamen die Auswertungen: teurer als gedacht und kaum Lerneffekt. Ein Lehrbeispiel dafür, warum man zuerst testet und dann skaliert.",
+   "quote_clean": "In einem Land, zum Beispiel Peru, hat die Regierung fast eine Million von diesen Laptops verteilt, ohne dass zuerst gute Evaluationen stattgefunden haben.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 756 s (100 Dollar pro Computer).",
+   "stand_note": "",
+   "statement": "Beim Projekt „One Laptop per Child“ sollte ein Computer ursprünglich etwa 100 Dollar kosten, tatsächlich war er viel teurer.",
+   "question": "Wie viel sollte ein Laptop bei „One Laptop per Child“ ursprünglich kosten?",
+   "answer": "Etwa 100 Dollar",
+   "distractors": [
+    "Etwa 20 Dollar",
+    "Etwa 300 Dollar",
+    "Etwa 600 Dollar"
+   ],
+   "aha": "Der „100-Dollar-Laptop“ vom MIT Media Lab war die große Vision. Am Ende wurden die Geräte deutlich teurer, und beim Lernen half es weniger als erhofft.",
+   "quote_clean": "Einerseits waren die Computer viel teurer als gedacht – die Idee war so 100 Dollar pro Computer.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Nur grobe mündliche Aussage; „2022“ und Rangfolge nicht belegt (Ukraine/Syrien-Posten möglich), Stand unsicher.",
+   "stand_note": "",
+   "statement": "Der größte Empfänger österreichischer Entwicklungsgelder war zum Zeitpunkt der Folge die Türkei.",
+   "question": "Welches Land war 2022 der größte Empfänger österreichischer Entwicklungsgelder?",
+   "answer": "Die Türkei",
+   "distractors": [
+    "Äthiopien",
+    "Mosambik",
+    "Uganda"
+   ],
+   "aha": "Ausgerechnet die Türkei, die nicht zu den ärmsten Ländern zählt. Adina sagt, da schleichen sich oft andere politische Ziele ein – Entwicklungszusammenarbeit ist eben auch Außenpolitik.",
+   "quote_clean": "In Österreich ist der größte Empfänger die Türkei, und das ist ja nicht eines der ärmsten Länder der Welt.",
+   "quality": 2
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 2221-2251 s.",
+   "stand_note": "",
+   "statement": "Kerosinlampen, wie sie Haushalte ohne Stromanschluss nutzen, stoßen viel Ruß aus, der das Klima erwärmt und Augen und Lunge schadet.",
+   "question": "Warum sind Kerosinlampen in Haushalten ohne Strom ein Problem?",
+   "answer": "Sie stoßen viel klimaschädlichen Ruß aus",
+   "distractors": [
+    "Sie verbrauchen sehr viel Wasser",
+    "Sie verursachen starken Lärm",
+    "Sie ziehen Moskitos an"
+   ],
+   "aha": "Wenn es am Abend dunkel wird, brennt in vielen Hütten eine offene Kerosinflamme. Der Ruß wärmt die Erde stark und landet zugleich in Augen und Lungen der Familie.",
+   "quote_clean": "Sie zünden ein kleines Kerosinlämpchen mit einer offenen Flamme an, und ein Problem damit ist, dass es sehr viel Ruß ausstößt.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 349-377 s.",
+   "stand_note": "",
+   "statement": "Bei randomisierten Studien entscheidet der Zufall über die Gruppenzuteilung, sodass sich große Gruppen statistisch fast gleichen und Effekte sauber messbar werden.",
+   "question": "Warum teilt man bei randomisierten Studien die Teilnehmenden per Zufall in Gruppen ein?",
+   "answer": "Damit sich die Gruppen statistisch gleichen",
+   "distractors": [
+    "Damit die Studie billiger wird",
+    "Damit niemand weiß, dass er teilnimmt",
+    "Damit nur Freiwillige mitmachen"
+   ],
+   "aha": "Das Prinzip kennt man von Medikamententests: eine Gruppe bekommt das Mittel, die andere ein Placebo. Weil der Zufall entscheidet, kann man Unterschiede am Ende wirklich dem Programm zuschreiben und nicht der Ernte, der neuen Lehrerin oder sonst was.",
+   "quote_clean": "Es wird nach dem Zufallsprinzip ausgewählt, wer in welcher Gruppe landet. Das heißt, statistisch gesehen sind sich die beiden Gruppen sehr ähnlich, wenn sie groß genug sind.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 2394-2424 s.",
+   "stand_note": "",
+   "statement": "Wenn die ganze Gemeinschaft von einem Verhalten profitiert – etwa bei Moskitonetzen, Impfungen oder Solarlampen –, spricht das dafür, es zu subventionieren.",
+   "question": "Wann ist es laut Adina Rom sinnvoll, etwas zu subventionieren oder gratis zu verteilen?",
+   "answer": "Wenn die ganze Gemeinschaft davon profitiert",
+   "distractors": [
+    "Wenn es besonders teuer ist",
+    "Wenn die Nachfrage ohnehin hoch ist",
+    "Wenn es nur Einzelnen nützt"
+   ],
+   "aha": "Wer sich mit einem Netz schützt, senkt auch das Malariarisiko für die Nachbarn. Bei Impfungen ist es genauso – und dann zahlt sich ein Gratis-Angebot für alle aus.",
+   "quote_clean": "Immer wenn die ganze Gemeinschaft von einem gewissen Verhalten profitiert, ist das ein Argument für eine Subventionierung durch die Gemeinschaft.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Wer-hat's-gesagt mit nur einer Gästin ist trivial; Aha enthält nicht belegte Behauptung zu GiveDirectly.",
+   "stand_note": "",
+   "statement": "Adina Rom: Arme Menschen wissen sehr gut, wie sie mit Geld umgehen und was sie brauchen.",
+   "question": "Wer hat's gesagt: „Arme Menschen wissen sehr gut, wie sie mit Geld umgehen können“?",
+   "answer": "Adina Rom",
+   "distractors": [
+    "Peter Singer",
+    "Andreas Sator",
+    "Angus Deaton"
+   ],
+   "aha": "Die Entwicklungsökonomin hat jahrelang in Kenia geforscht, unter anderem in der Studie, aus der GiveDirectly entstand. Ihr Fazit: Man kann Menschen, die weniger Glück hatten, ruhig mehr vertrauen.",
+   "quote_clean": "Zahlreiche Studien haben gezeigt, dass das nicht stimmt: Arme Menschen wissen sehr gut, wie sie mit Geld umgehen können, sie wissen sehr gut, was sie brauchen.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitatfrage ohne Rätselwert, Antwort durch Setting erratbar.",
+   "stand_note": "",
+   "statement": "Adina Rom: Studien kosten Geld, aber nicht zu wissen, ob ein Programm wirkt, ist auch sehr teuer.",
+   "question": "Wer hat's gesagt: „Nicht wissen ist eben auch sehr teuer“?",
+   "answer": "Adina Rom",
+   "distractors": [
+    "Andreas Sator",
+    "Esther Duflo",
+    "Peter Singer"
+   ],
+   "aha": "Adinas Antwort auf das Argument, Wirkungsstudien seien zu teuer. Wer Millionen in iPads oder Laptops steckt, ohne zu wissen, ob es hilft, verbrennt im Zweifel viel mehr Geld.",
+   "quote_clean": "Was ich auch wichtig finde: Nicht wissen ist eben auch sehr teuer.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitatfrage ohne Rätselwert, sperrige Frage.",
+   "stand_note": "",
+   "statement": "Adina Rom: Scheinbar kleine Fragen – etwa ob man für ein Moskitonetz zahlt – können einen extrem großen Einfluss haben.",
+   "question": "Wer betont im Podcast, dass scheinbar kleine Fragen wie „Zahlt man fürs Moskitonetz?“ extrem große Wirkung haben können?",
+   "answer": "Adina Rom",
+   "distractors": [
+    "Andreas Sator",
+    "Carlo Masala",
+    "Peter Singer"
+   ],
+   "aha": "Das ist auch ihre Antwort auf Kritik, die Forschung beschäftige sich mit zu kleinen Fragen. Wenn man diese kleinen Fragen richtig beantwortet, kann das Millionen Leben retten.",
+   "quote_clean": "Es sind oft kleine Unterschiede, die klein erscheinen: Zahlt man jetzt oder nicht? Das scheint eine kleine Frage, aber das kann einen extrem großen Einfluss haben.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Triviale Meta-Frage zum Gesprächsablauf, kein Lerngewinn.",
+   "stand_note": "",
+   "statement": "Andreas fragt zum Schluss, was Adina den Menschen kurz vor Weihnachten, der traditionellen Spendenzeit, mitgeben kann.",
+   "question": "Welche Jahreszeit spricht Andreas in seiner letzten Frage an Adina an?",
+   "answer": "Die Zeit kurz vor Weihnachten",
+   "distractors": [
+    "Den Jahresbeginn im Jänner",
+    "Die Sommerferien",
+    "Die Fastenzeit vor Ostern"
+   ],
+   "aha": "Die Folge erschien Anfang Dezember, mitten in der Spendensaison. Andreas wollte einen ganz praktischen Tipp – und bekam: „Spenden Sie, und spenden Sie viel.“",
+   "quote_clean": "Adina, letzte Frage: Es ist jetzt kurz vor Weihnachten, wo traditionell gespendet wird. Was kannst du den Leuten da mitgeben?",
+   "quality": 1
+  }
+ ],
+ "id": "236",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

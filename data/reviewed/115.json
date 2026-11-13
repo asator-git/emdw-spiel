@@ -1,0 +1,276 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1165-1192 belegt, mit Hinweis auf diskutierte Zahlen; Größenordnung stimmt.",
+   "stand_note": "",
+   "statement": "Im Zweiten Weltkrieg starben rund 60 Millionen Menschen, so viele wie in keinem Krieg davor.",
+   "question": "Wie viele Menschen sind im Zweiten Weltkrieg ungefähr gestorben?",
+   "answer": "rund 60 Millionen",
+   "distractors": [
+    "rund 15 Millionen",
+    "rund 25 Millionen",
+    "rund 120 Millionen"
+   ],
+   "aha": "Soldat:innen, Zivilist:innen und die Opfer von Vertreibung und Völkermord zusammengerechnet: rund 60 Millionen. Die genaue Zahl ist unter Historiker:innen umstritten, aber nie zuvor hat ein Krieg so viele Menschenleben gekostet.",
+   "quote_clean": "Damit endete ein Krieg, in dem so viele Menschen wie nie zuvor in einem Krieg gestorben sind. Die Zahlen werden diskutiert, aber man spricht von 60 Millionen Toten.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1515-1526 belegt (fast 800.000, Ende 1944, heutiges Österreich).",
+   "stand_note": "",
+   "statement": "Ende 1944 lebten fast 800.000 Zwangsarbeiter:innen im Gebiet des heutigen Österreich.",
+   "question": "Wie viele Zwangsarbeiter:innen lebten Ende 1944 ungefähr auf dem Gebiet des heutigen Österreich?",
+   "answer": "fast 800.000",
+   "distractors": [
+    "etwa 50.000",
+    "etwa 200.000",
+    "etwa 2 Millionen"
+   ],
+   "aha": "Die meisten lebten in Lagern, aber eben nicht alle: Zwangsarbeit war im Alltag sichtbar, auf Feldern, in Fabriken, in Betrieben ums Eck. Wegschauen war da eh schwer.",
+   "quote_clean": "Ende 1944 lebten fast 800.000 Menschen, großteils in Lagern, aber nicht nur in Lagern, zwangsweise als Arbeitskräfte im Gebiet des heutigen Österreich.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Zahl bei 1527-1529 belegt; Aha behauptete unbelegt, ohne Zwangsarbeit wäre die Rüstung zusammengebrochen, ersetzt durch Belegtes.",
+   "stand_note": "",
+   "statement": "Ende 1944 besetzten Zwangsarbeiter:innen etwa ein Drittel der Arbeitsplätze in Industrie und Gewerbe im heutigen Österreich.",
+   "question": "Welchen Anteil der Arbeitsplätze in Industrie und Gewerbe im heutigen Österreich besetzten Zwangsarbeiter:innen Ende 1944?",
+   "answer": "etwa ein Drittel",
+   "distractors": [
+    "etwa ein Zwanzigstel",
+    "etwa ein Zehntel",
+    "etwa zwei Drittel"
+   ],
+   "aha": "Jeder dritte Arbeitsplatz in Industrie und Gewerbe. Die einheimischen Arbeitskräfte saßen dabei in den privilegierteren Positionen, die Ausbeutung war also auch ein Beitrag der österreichischen Bevölkerung.",
+   "quote_clean": "Sie besetzten etwa ein Drittel der Arbeitsplätze in Industrie und Gewerbe. So gesehen war ein Beitrag der österreichischen Bevölkerung auch die Ausbeutung dieser Arbeitskräfte.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Sie sagt 'spätestens ab 1936'; Aufrüstung begann schon 1933, offen mit Wehrpflicht 1935 – die Jahreszahl als eindeutige Antwort ist angreifbar.",
+   "stand_note": "",
+   "statement": "NS-Deutschland bereitete spätestens ab 1936 ganz offen und massiv den Krieg vor.",
+   "question": "Ab welchem Jahr bereitete NS-Deutschland laut Historikerin ganz offen den Krieg vor?",
+   "answer": "1936",
+   "distractors": [
+    "1933",
+    "1938",
+    "1939"
+   ],
+   "aha": "Mit dem Vierjahresplan ab 1936 wurde die Industrie auf Krieg getrimmt.",
+   "quote_clean": "Deutschland hat seit 1936 ganz massiv den Krieg vorbereitet und dabei stark auf die aus dem Ersten Weltkrieg gezogenen Lehren gesetzt.",
+   "quality": 2
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 715-729 belegt; Erklärung passt zum historischen Vierjahresplan.",
+   "stand_note": "",
+   "statement": "Die NS-Vierjahrespläne hießen so, weil Deutschland nach vier Jahren wirtschaftlicher Aufrüstung reif für den Krieg sein sollte.",
+   "question": "Warum hieß der NS-Wirtschaftsplan ab 1936 'Vierjahresplan'?",
+   "answer": "In vier Jahren kriegsbereit sein",
+   "distractors": [
+    "Vier Jahre Vollbeschäftigung erreichen",
+    "Vier Branchen sollten wachsen",
+    "Hitlers Amtszeit dauerte vier Jahre"
+   ],
+   "aha": "Die Lehre aus dem Ersten Weltkrieg: Wer ökonomisch stärker ist, gewinnt. Also fuhr man die Industrie voll hoch, mit Ziel und Ablaufdatum. 1936 plus vier ergibt 1940, ganz knapp daneben.",
+   "quote_clean": "Vierjahresplan heißt er, weil die Idee war: In vier Jahren sind wir reif für den Krieg.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Belegt bei 1840-1851, aber 'woher stammt der Begriff' ist historisch falsch gestellt (Begriff älter); Frage auf die belegte Verwendung umgestellt.",
+   "stand_note": "",
+   "statement": "'Totaler Krieg' ist ein Propagandabegriff, den die Nazis in einer späteren Kriegsphase verwendeten, um die ganze Bevölkerung in den Krieg einzubinden.",
+   "question": "Wozu verwendeten die Nazis in einer späteren Kriegsphase den Propagandabegriff 'totaler Krieg'?",
+   "answer": "Um die Bevölkerung in den Krieg einzubinden",
+   "distractors": [
+    "Um Kriegsgefangene besser zu behandeln",
+    "Um mit Großbritannien Frieden zu schließen",
+    "Um den Angriff auf Polen zu rechtfertigen"
+   ],
+   "aha": "Nach dem Kriegseintritt der USA funktionierte die Blitzkrieg-Strategie nicht mehr. Also sollte die ganze Bevölkerung mitziehen, und dafür brauchte es ein Schlagwort.",
+   "quote_clean": "Das ist ein Propagandabegriff, den die Nazis in einer späteren Phase des Krieges verwenden, um die Bevölkerung in den Krieg zu integrieren.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Bei 1691-1696 belegt; Frage präzisiert und Distraktoren (teils albern) ersetzt.",
+   "stand_note": "",
+   "statement": "Im Nationalsozialismus war das Hören ausländischer 'Feindsender' eine Straftat.",
+   "question": "Welchen Status hatte das Hören ausländischer Radiosender („Feindsender“) im NS-Staat?",
+   "answer": "Es war eine Straftat",
+   "distractors": [
+    "Es war erlaubt, aber unerwünscht",
+    "Es war nur für Beamte verboten",
+    "Es war nur nachts verboten"
+   ],
+   "aha": "Presse und Radio waren komplett kontrolliert. Wer andere Informationen wollte, musste heimlich ausländische Sender hören und riskierte damit Strafen.",
+   "quote_clean": "Das sogenannte Feindsender-Hören war tatsächlich eine Straftat.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1009-1021 belegt.",
+   "stand_note": "",
+   "statement": "Der alliierte Luftkrieg gegen Deutschland zielte sowohl auf die Rüstungsindustrie als auch auf die Moral der Bevölkerung.",
+   "question": "Worauf zielte der alliierte Bombenkrieg gegen deutsche Städte neben der Rüstungsindustrie?",
+   "answer": "Auf die Moral der Bevölkerung",
+   "distractors": [
+    "Auf die Lebensmittelversorgung allein",
+    "Auf die Parteizentralen der NSDAP",
+    "Auf Kunstschätze und Museen"
+   ],
+   "aha": "Zur wirtschaftlichen Stärke gehört auch, dass die Bevölkerung bereit ist, Fabrik und Krieg weiter mitzutragen. Deshalb wurden nicht nur Werke, sondern ganze Städte bombardiert.",
+   "quote_clean": "Das war ein strategisch konzipierter Luftkrieg, der einerseits die deutsche Rüstungsindustrie und andererseits die Moral der Bevölkerung treffen sollte.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 1877-1912 belegt.",
+   "stand_note": "",
+   "statement": "Hinter der Blitzkriegstrategie stand das Wissen der NS-Führung, dass sie einen langen Ressourcenkrieg gegen die USA und die Sowjetunion nicht gewinnen kann.",
+   "question": "Was war die Grundidee hinter der deutschen Blitzkriegstrategie?",
+   "answer": "Einen langen Ressourcenkrieg vermeiden",
+   "distractors": [
+    "Gegner moralisch zermürben",
+    "Ausschließlich aus der Luft angreifen",
+    "Nur nachts überraschend angreifen"
+   ],
+   "aha": "Kurze Feldzüge, dann wieder die Wirtschaft hochfahren, nächster Feldzug. Mit dem Kriegseintritt der USA ging diese Rechnung nicht mehr auf.",
+   "quote_clean": "Das ist das Wissen der den Krieg planenden Politiker, dass sie einen lang anhaltenden Ressourcenkrieg nicht gewinnen können.",
+   "quality": 4
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 2095-2111 belegt, als Tendenz 'in vielen Staaten' korrekt formuliert.",
+   "stand_note": "",
+   "statement": "Nach dem Krieg kehrten viele ehemals kriegführende Staaten in den 1950ern zu traditionellen Familienbildern zurück, eine Art neues Biedermeier.",
+   "question": "Was passierte in vielen Ländern nach dem Krieg mit den Rollenbildern von Frauen und Männern?",
+   "answer": "Rückkehr zur traditionellen Familie",
+   "distractors": [
+    "Frauen blieben dauerhaft in Rüstungsbetrieben",
+    "Gleichberechtigung wurde sofort Gesetz",
+    "Wehrpflicht für Frauen wurde eingeführt"
+   ],
+   "aha": "Im Krieg wurden gewohnte Strukturen aufgelöst. Danach wollten die Gesellschaften zurück zur 'Normalität', und die hieß in den 1950ern vielerorts: Refamilialisierung, ein neues Biedermeier.",
+   "quote_clean": "Und diese Normalität heißt dann in den 1950er Jahren in vielen vorher kriegführenden Staaten Refamilialisierung, ein neues Biedermeier, wenn man so will.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 682-701 belegt; als Einschätzung der Historikerin gerahmt.",
+   "stand_note": "",
+   "statement": "Die wichtigste Lehre aus dem Ersten Weltkrieg: Kriege im 20. Jahrhundert werden mit ökonomischen Ressourcen entschieden.",
+   "question": "Was war laut Johanna Gehmacher die wichtigste Lehre aus dem Ersten Weltkrieg für alle Staaten?",
+   "answer": "Wer ökonomisch gewinnt, gewinnt den Krieg",
+   "distractors": [
+    "Wer die Luft beherrscht, gewinnt",
+    "Wer zuerst angreift, gewinnt",
+    "Wer mehr Verbündete hat, gewinnt"
+   ],
+   "aha": "Deshalb fuhr Deutschland ab 1936 die Industrie hoch, und deshalb wurden im Luftkrieg später auch Fabriken bombardiert. Krieg wurde zum Wettrennen der Volkswirtschaften.",
+   "quote_clean": "Im 20. Jahrhundert werden Kriege im Wesentlichen mit ökonomischen Ressourcen gefochten. Es gewinnt der Staat, die Gesellschaft, die ökonomisch gewinnt.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Bei 2439-2449 belegt; im Aha wurde 'Menschenrechtskonvention' ungenau mit der UNO-Gründung verknüpft, entfernt.",
+   "stand_note": "",
+   "statement": "Die UNO und ihre Organisationen sind nur so stark wie ihre Mitgliedstaaten.",
+   "question": "Wovon hängt laut Johanna Gehmacher die Stärke der UNO ab?",
+   "answer": "Von ihren Mitgliedstaaten",
+   "distractors": [
+    "Von ihrem Generalsekretär",
+    "Von ihrem Budget",
+    "Von ihrem Sitz in New York"
+   ],
+   "aha": "Nach dem Ersten Weltkrieg scheiterte der Völkerbund, nach dem Zweiten kam die UNO. Durchsetzen kann sie aber nur, was die Mitgliedstaaten mittragen.",
+   "quote_clean": "Die UNO und die ganzen UN-Organisationen sind nur so stark wie die Staaten, die Mitglied darin sind.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Bei 140-159 belegt; historisch korrekt.",
+   "stand_note": "",
+   "statement": "Anders als bei vielen Kriegen ist beim Zweiten Weltkrieg klar, wer ihn begann: NS-Deutschland überfiel Polen ohne Kriegserklärung.",
+   "question": "Wie begann NS-Deutschland 1939 den Krieg gegen Polen?",
+   "answer": "Überfall ohne Kriegserklärung",
+   "distractors": [
+    "Nach einem Ultimatum von Polen",
+    "Nach polnischer Kriegserklärung",
+    "Nach einer Volksabstimmung"
+   ],
+   "aha": "Bei vielen Kriegen streitet man darüber, wer angefangen hat. Hier nicht: Deutschland überfiel im September 1939 das Nachbarland, ohne den Krieg überhaupt zu erklären.",
+   "quote_clean": "Von vielen Kriegen kann man sagen, er wird von vielen Seiten begonnen. Aber hier ist es ganz klar: Hier wird ein Nachbarland ohne Kriegserklärung überfallen.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Meta-Frage nach Andreas' Fragenformulierung ohne Erkenntnis; '75 Jahre' ist zudem zeitgebunden.",
+   "stand_note": "",
+   "statement": "Andreas fragt zum Schluss, ob ein Krieg wie der Zweite Weltkrieg ein Ding der Vergangenheit ist, weil Österreich seit 75 Jahren von Kriegen unberührt blieb.",
+   "question": "Womit leitet Andreas seine letzte Frage an Johanna Gehmacher ein?",
+   "answer": "Mit Österreichs 75 Jahren ohne Krieg",
+   "distractors": [
+    "Mit seinem Großvater im Krieg",
+    "Mit einem Besuch im Heeresmuseum",
+    "Mit einer Hörer:innenfrage"
+   ],
+   "aha": "Andreas holt das große Thema zurück nach Wien und in die Gegenwart.",
+   "quote_clean": "Letzte Frage: Wir sitzen jetzt in Wien, und in Österreich haben wir generell das Privileg gehabt, in den letzten 75 Jahren von Kriegen unberührt geblieben zu sein.",
+   "quality": 1
+  }
+ ],
+ "id": "115",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

@@ -1,0 +1,741 @@
+{
+ "theme": "Gesellschaft & Kultur",
+ "summary": "Wir schauen mit Sabine Haag ganz genau in Bruegels Bilder und lernen dabei, wie Menschen vor 450 Jahren gelebt, gefeiert und gestritten haben.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 81,
+   "speaker": "Sabine Haag",
+   "quote": "im Kunsthistorischen Museum besitzen 12 Originale von Peter Breugel das ist der mit Abstand größte bestand und das heißt wenn man Breugel studieren will",
+   "quote_clean": "Im Kunsthistorischen Museum besitzen wir 12 Originale von Pieter Bruegel, das ist der mit Abstand größte Bestand. Das heißt, wenn man Bruegel studieren will …",
+   "statement": "Das Kunsthistorische Museum in Wien besitzt 12 Originalgemälde von Pieter Bruegel dem Älteren, die größte Sammlung der Welt.",
+   "question": "Wie viele Original-Gemälde von Pieter Bruegel dem Älteren hängen im Kunsthistorischen Museum Wien?",
+   "answer": "12",
+   "distractors": [
+    "4",
+    "27",
+    "45"
+   ],
+   "number_value": 12,
+   "number_unit": "Gemälde",
+   "slider_min": 1,
+   "slider_max": 40,
+   "log_scale": false,
+   "aha": "Zwölf klingt nach wenig, ist aber der mit Abstand größte Bruegel-Bestand der Welt. Wer Bruegel wirklich studieren will, muss also nach Wien, nicht nach Brüssel oder Antwerpen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bruegel",
+    "Museum",
+    "Wien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 65,
+   "speaker": "Sabine Haag",
+   "quote": "der die Werke die wir von ihm kennen innerhalb von 10 Jahren geschaffen hat nämlich nur damit man es zeitlich ein bisschen einordnen kann ganz grob gesagt zwischen 1560 und 1570 hat er seine Arbeiten geschaffen",
+   "quote_clean": "Der die Werke, die wir von ihm kennen, innerhalb von 10 Jahren geschaffen hat, nur damit man es zeitlich einordnen kann: ganz grob zwischen 1560 und 1570 hat er seine Arbeiten geschaffen.",
+   "statement": "Die bekannten Werke von Pieter Bruegel dem Älteren entstanden innerhalb von etwa zehn Jahren, grob zwischen 1560 und 1570.",
+   "question": "Innerhalb von wie vielen Jahren schuf Bruegel die Werke, die wir heute von ihm kennen?",
+   "answer": "Etwa 10 Jahre",
+   "distractors": [
+    "Etwa 25 Jahre",
+    "Etwa 40 Jahre",
+    "Etwa 4 Jahre"
+   ],
+   "number_value": 10,
+   "number_unit": "Jahre",
+   "slider_min": 1,
+   "slider_max": 50,
+   "log_scale": false,
+   "aha": "Das ganze berühmte Werk passt in ein Jahrzehnt, ungefähr 1560 bis 1570. Bruegel ist früh gestorben, und trotzdem kennt sein Bauernhochzeit-Bild heute eh jedes österreichische Schulkind.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Bruegel",
+    "Kunstgeschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2861,
+   "speaker": "Sabine Haag",
+   "quote": "es haben sich natürlich leider nicht also nur mehr sehr wenige seiner Bilder erhalten und bei uns sind mit 12 ist ungefähr ein Drittel oder ein bisschen",
+   "quote_clean": "Es haben sich leider nur mehr sehr wenige seiner Bilder erhalten, und bei uns sind mit 12 ungefähr ein Drittel oder ein bisschen mehr.",
+   "statement": "Die 12 Bruegel-Gemälde in Wien machen ungefähr ein Drittel oder etwas mehr aller erhaltenen Bruegel-Bilder aus.",
+   "question": "Wie viel Prozent aller erhaltenen Bruegel-Gemälde hängen ungefähr im Kunsthistorischen Museum Wien?",
+   "answer": "Etwa ein Drittel",
+   "distractors": [
+    "Etwa 5 Prozent",
+    "Etwa 10 Prozent",
+    "Etwa drei Viertel"
+   ],
+   "number_value": 35,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Von Bruegel sind nur sehr wenige Bilder erhalten, und rund ein Drittel davon hängt in Wien. Das verdanken wir den Habsburgern, die ganz verrückt nach seinen Bildern waren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bruegel",
+    "Museum",
+    "Habsburger"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2405,
+   "speaker": "Andreas Sator",
+   "quote": "sie schreiben erstens mal ist es sehr geboomt 1500 noch 50.000 LeuTe dann 70 Jahre später wie brugel gestorben ist schon 90.000 Leute also enormes Wachstum",
+   "quote_clean": "Sie schreiben: Erstens hat es sehr geboomt, 1500 noch 50.000 Leute, dann 70 Jahre später, als Bruegel gestorben ist, schon 90.000 Leute, also enormes Wachstum.",
+   "statement": "Antwerpen wuchs von rund 50.000 Einwohner:innen im Jahr 1500 auf etwa 90.000 um 1570, als Bruegel starb.",
+   "question": "Wie viele Menschen lebten ungefähr in Antwerpen, als Bruegel um 1570 starb?",
+   "answer": "Etwa 90.000",
+   "distractors": [
+    "Etwa 15.000",
+    "Etwa 300.000",
+    "Etwa 1 Million"
+   ],
+   "number_value": 90000,
+   "number_unit": "Einwohner",
+   "slider_min": 5000,
+   "slider_max": 1000000,
+   "log_scale": true,
+   "aha": "Fast eine Verdopplung in 70 Jahren, für das 16. Jahrhundert ein echter Boom. Antwerpen war damals eine der reichsten Handelsstädte der Welt, mit vielen Fremden, Sprachen und Konfessionen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Antwerpen",
+    "Stadt",
+    "16. Jahrhundert"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3073,
+   "speaker": "Andreas Sator",
+   "quote": "damals das biip pro Kopf 4000$ pro pro Jahr was heute nicht viel ist hat d in Österreich 45 50 000 doll pro Kopf in dieser Statistik",
+   "quote_clean": "Damals lag das BIP pro Kopf bei 4.000 Dollar pro Jahr, was heute nicht viel ist, Österreich hat in dieser Statistik 45.000 bis 50.000 Dollar pro Kopf.",
+   "statement": "Laut der Maddison-Statistik lag die Wirtschaftsleistung pro Kopf in den Niederlanden zu Bruegels Zeit bei etwa 4.000 Dollar pro Jahr.",
+   "question": "Wie hoch war die Wirtschaftsleistung pro Kopf in den Niederlanden zu Bruegels Zeit ungefähr (in heutigen Dollar pro Jahr)?",
+   "answer": "Etwa 4.000 Dollar",
+   "distractors": [
+    "Etwa 400 Dollar",
+    "Etwa 20.000 Dollar",
+    "Etwa 45.000 Dollar"
+   ],
+   "number_value": 4000,
+   "number_unit": "Dollar pro Kopf und Jahr",
+   "slider_min": 100,
+   "slider_max": 60000,
+   "log_scale": true,
+   "aha": "4.000 Dollar klingen heute ärmlich, Österreich liegt in derselben Statistik bei rund 45.000 bis 50.000. Für das 16. Jahrhundert war das aber enorm viel, und genau dieses Geld landete bei Künstlern wie Bruegel.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wirtschaft",
+    "Niederlande",
+    "BIP"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1878,
+   "speaker": "Andreas Sator",
+   "quote": "1570 in der Zeit also 1517 hat Luther die 95 Thesen angeschlagen also Protestantismus Beginn Fahrt aufzunehmen",
+   "quote_clean": "1570. In der Zeit, also 1517, hat Luther die 95 Thesen angeschlagen, der Protestantismus beginnt Fahrt aufzunehmen.",
+   "statement": "Martin Luther schlug 1517 seine 95 Thesen an, kurz bevor Bruegel geboren wurde.",
+   "question": "In welchem Jahr schlug Martin Luther seine 95 Thesen an?",
+   "answer": "1517",
+   "distractors": [
+    "1492",
+    "1555",
+    "1618"
+   ],
+   "number_value": 1517,
+   "number_unit": "Jahr",
+   "slider_min": 1400,
+   "slider_max": 1700,
+   "log_scale": false,
+   "aha": "Bruegel kam um 1530 auf die Welt, da war die Reformation gerade richtig in Fahrt. Sein ganzes Leben spielte sich zwischen katholischen Spaniern und Protestanten ab, die sich hart bekämpft haben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Reformation",
+    "Geschichte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1033,
+   "speaker": "Sabine Haag",
+   "quote": "oder wenn man der Tradition der Zeit folgt dann weiß man dass der Bräutigam beim Hochzeitsfest gar nicht anwesend sein durfte genauso wie die Braut nicht sprechen durfte also für uns heute vollkommen unvorstellbar",
+   "quote_clean": "Oder wenn man der Tradition der Zeit folgt, dann weiß man, dass der Bräutigam beim Hochzeitsfest gar nicht anwesend sein durfte, genauso wie die Braut nicht sprechen durfte. Für uns heute vollkommen unvorstellbar.",
+   "statement": "Nach flämischer Tradition des 16. Jahrhunderts durfte der Bräutigam beim Hochzeitsfest gar nicht anwesend sein, und die Braut durfte nicht sprechen.",
+   "question": "Was galt laut Tradition bei einer flämischen Bauernhochzeit im 16. Jahrhundert?",
+   "answer": "Der Bräutigam durfte nicht dabei sein",
+   "distractors": [
+    "Die Braut musste allein tanzen",
+    "Nur Wasser durfte getrunken werden",
+    "Die Gäste mussten stehen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Deshalb sucht man auf Bruegels Bauernhochzeit bis heute vergeblich nach dem Bräutigam. Die Braut sitzt groß vor dem grünen Ehrentuch, aber wer ihr Mann ist, darüber streiten Kunsthistoriker:innen noch immer.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Hochzeit",
+    "Bauernhochzeit",
+    "Bräuche"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 565,
+   "speaker": "Sabine Haag",
+   "quote": "wenn man sagt bauernbreugel dann wird man meinen er stammt selbst er selbst aus bäuerlichem stand was er nicht war oder dass er eben sich nur so mit diesen Bauern identifiziert das ist auch nicht der Fall",
+   "quote_clean": "Wenn man Bauernbruegel sagt, dann wird man meinen, er stammt selbst aus bäuerlichem Stand, was er nicht war, oder dass er sich nur mit diesen Bauern identifiziert. Das ist auch nicht der Fall.",
+   "statement": "Pieter Bruegel wird oft Bauernbruegel genannt, stammte aber selbst nicht aus dem Bauernstand.",
+   "question": "Bruegel wird oft Bauernbruegel genannt. Woher kommt er wirklich?",
+   "answer": "Nicht aus dem Bauernstand",
+   "distractors": [
+    "Aus einer armen Bauernfamilie",
+    "Aus einem Kloster",
+    "Aus dem Hochadel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Spitzname führt in die Irre: Bruegel war eher gut situiert und malte für reiche Auftraggeber. Er war einfach ein genauer Beobachter, der Bauern weder romantisiert noch herablassend gezeigt hat.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bruegel",
+    "Bauern"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2260,
+   "speaker": "Sabine Haag",
+   "quote": "das Vorbild für diesen Bau war das Kolosseum in Rom du hast vorhin auch glaube ich erwähnt oder wir haben davon gesprochen dass Breugel nach Italien gereist ist",
+   "quote_clean": "Das Vorbild für diesen Bau war das Kolosseum in Rom. Wir haben davon gesprochen, dass Bruegel nach Italien gereist ist.",
+   "statement": "Als Vorbild für Bruegels Turmbau zu Babel gilt das Kolosseum in Rom, das Bruegel von seiner Italienreise kannte.",
+   "question": "Welches Bauwerk gilt als Vorbild für Bruegels Turm zu Babel?",
+   "answer": "Das Kolosseum in Rom",
+   "distractors": [
+    "Der Dom von Antwerpen",
+    "Die Hagia Sophia",
+    "Der Turm von Pisa"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bruegel war in Italien und hat das Kolosseum gesehen, also baut er den biblischen Turm als riesigen Rundbau. Gestellt hat er ihn aber neben eine Stadt, die verdächtig nach Antwerpen aussieht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Turmbau zu Babel",
+    "Rom"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1290,
+   "speaker": "Sabine Haag",
+   "quote": "er malt ja auf Holz auf eichentafeln die ganz glatt poliert und geschliffen werden und das heißt die Malerei dort wie die Farbe drauf setzt das ist das ist ganz feine Malerei",
+   "quote_clean": "Er malt auf Holz, auf Eichentafeln, die ganz glatt poliert und geschliffen werden, und das heißt, wie er die Farbe draufsetzt, das ist ganz feine Malerei.",
+   "statement": "Bruegel malte auf glatt geschliffene Eichenholztafeln, was sehr feine, detailreiche Malerei ermöglichte.",
+   "question": "Worauf malte Bruegel seine großen Bilder?",
+   "answer": "Auf Eichenholztafeln",
+   "distractors": [
+    "Auf Leinwand",
+    "Auf Kupferplatten",
+    "Auf feuchten Kalkputz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Eichentafeln wurden ganz glatt poliert, darauf kann man winzige Details setzen. Darum wimmeln seine Bilder vor Kleinigkeiten, die man oft mit freiem Auge kaum sieht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Maltechnik",
+    "Bruegel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1544,
+   "speaker": "Sabine Haag",
+   "quote": "z.B die jahreszeitenbilder von denen wissen wir dass sie im speiszimmer an der Wand gehangen sind dieses dieses Antwerpener sehr gut situierten Mannes",
+   "quote_clean": "Zum Beispiel die Jahreszeitenbilder: Von denen wissen wir, dass sie im Speisezimmer dieses sehr gut situierten Antwerpener Mannes an der Wand gehangen sind.",
+   "statement": "Bruegels Jahreszeitenbilder hingen ursprünglich im Speisezimmer eines wohlhabenden Antwerpener Bankiers.",
+   "question": "Wo hingen Bruegels Jahreszeitenbilder ursprünglich?",
+   "answer": "Im Speisezimmer eines reichen Bankiers",
+   "distractors": [
+    "In einer Antwerpener Kirche",
+    "Im Rathaus von Brüssel",
+    "Im Schlafzimmer des Kaisers"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zwischen den Bildern waren Fenster, man konnte beim Essen also die gemalte Landschaft mit der echten draußen vergleichen. Wo man ein Bild aufhängt, war damals wie heute mehr als eine reine Geschmacksfrage.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Jahreszeitenbilder",
+    "Auftraggeber"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2020,
+   "speaker": "Sabine Haag",
+   "quote": "im Mittelalter hat man spricht man auch von der warm der sogenannten Warmzeit auf die dann und das war so ziemlich genau auch die Lebenszeit von Breugel die sogenannte Kleine Eiszeit gefolgt ist",
+   "quote_clean": "Im Mittelalter spricht man von der sogenannten Warmzeit, auf die dann, und das war ziemlich genau die Lebenszeit von Bruegel, die sogenannte Kleine Eiszeit gefolgt ist.",
+   "statement": "Bruegels Lebenszeit fiel ziemlich genau in den Beginn der Kleinen Eiszeit, die auf die mittelalterliche Warmzeit folgte.",
+   "question": "In welche Klimaphase fiel Bruegels Lebenszeit?",
+   "answer": "Den Beginn der Kleinen Eiszeit",
+   "distractors": [
+    "Die mittelalterliche Warmzeit",
+    "Die letzte große Eiszeit",
+    "Eine extreme Dürreperiode"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kein Wunder, dass Bruegel so überzeugend Schnee, Eis und zugefrorene Teiche malt. Die Kleine Eiszeit hat Landwirtschaft und Handel verändert, und ausgerechnet Flandern hat davon wirtschaftlich profitiert.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Klima",
+    "Kleine Eiszeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2938,
+   "speaker": "Sabine Haag",
+   "quote": "es gab eben im 19 Jahrhundert einen Kunsthistoriker der das Werk von Breugel wirklich wieder entdeckt hat und populär gemacht hat und seitdem ist der Ruf und der Ruhm von brugel ungebrochen",
+   "quote_clean": "Es gab im 19. Jahrhundert einen Kunsthistoriker, der das Werk von Bruegel wiederentdeckt und populär gemacht hat, und seitdem ist der Ruf und der Ruhm von Bruegel ungebrochen.",
+   "statement": "Bruegel geriet nach seinem Tod teilweise in Vergessenheit und wurde erst im 19. Jahrhundert von einem Kunsthistoriker wiederentdeckt.",
+   "question": "Wann wurde Bruegels Werk wiederentdeckt und wieder populär?",
+   "answer": "Im 19. Jahrhundert",
+   "distractors": [
+    "Im 17. Jahrhundert",
+    "Im 18. Jahrhundert",
+    "Nach dem Zweiten Weltkrieg"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zu Lebzeiten war Bruegel gefragt, danach ging das Wissen über ihn teilweise verloren. Manchmal wurde sogar die Signatur eines anderen Malers drübergemalt, um ein Bild teurer verkaufen zu können.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Kunstgeschichte",
+    "Bruegel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1512,
+   "speaker": "Sabine Haag",
+   "quote": "es gab zwei Brüder den Erzherzog ernst und dann den sehr bekannten späteren Kaiser Rudolf den i die diese breäugelbilder unglaublich geschätzt haben",
+   "quote_clean": "Es gab zwei Brüder, den Erzherzog Ernst und den sehr bekannten späteren Kaiser Rudolf II., die diese Bruegelbilder unglaublich geschätzt haben.",
+   "statement": "Die Bruegel-Bilder kamen über die Habsburger-Brüder Erzherzog Ernst und den späteren Kaiser Rudolf II. nach Wien.",
+   "question": "Welcher spätere Kaiser sammelte begeistert Bilder von Bruegel?",
+   "answer": "Rudolf II.",
+   "distractors": [
+    "Maximilian I.",
+    "Karl V.",
+    "Joseph II."
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Rudolf II. und sein Bruder Ernst waren ganz verrückt nach Bruegel. Die Bilder wurden dann von Generation zu Generation weitergegeben, bis sie im Kunsthistorischen Museum gelandet sind.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Habsburger",
+    "Sammlung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1155,
+   "speaker": "Sabine Haag",
+   "quote": "dann sieht man da so zwei zwei Garben korngarben an der Wand hängen auch ganz klar erst nachdem die Ernte eingefahren wurde dann ist erst",
+   "quote_clean": "Dann sieht man da zwei Korngarben an der Wand hängen, auch ganz klar: Erst nachdem die Ernte eingefahren wurde, dann ist erst Zeit zum Feiern.",
+   "statement": "Die Korngarben an der Wand in Bruegels Bauernhochzeit zeigen, dass gefeiert wurde, nachdem die Ernte eingefahren war.",
+   "question": "Woran erkennt man auf Bruegels Bauernhochzeit, wann im Jahr gefeiert wird?",
+   "answer": "An Korngarben an der Wand",
+   "distractors": [
+    "An Schnee vor dem Fenster",
+    "An einem Osterkranz",
+    "An blühenden Kirschzweigen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gefeiert wurde, wenn die Arbeit getan war, also nach der Ernte. Getrunken wurde übrigens Bier, aus großen Krügen in kleine umgegossen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Bauernhochzeit",
+    "Ernte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2619,
+   "speaker": "Sabine Haag",
+   "quote": "dann kommt man erst nach einer Zeit drauf glaubt man das ist irgendwie so Zeit der der Religionskriege da wird wild drauf losgemetzelt in einem in einem Ort",
+   "quote_clean": "Dann kommt man erst nach einer Zeit drauf. Man glaubt, das ist die Zeit der Religionskriege, da wird wild drauflosgemetzelt in einem Ort.",
+   "statement": "Bruegel verlegte biblische Szenen wie den Bethlehemitischen Kindermord in ein flämisches Dorf seiner eigenen Zeit.",
+   "question": "Wie stellte Bruegel biblische Geschichten wie den Kindermord von Bethlehem dar?",
+   "answer": "Als Szene aus seiner eigenen Zeit",
+   "distractors": [
+    "In antiken römischen Kulissen",
+    "Als orientalische Wüstenszene",
+    "Nur als abstrakte Symbole"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Auf den ersten Blick sieht man ein Massaker in einem flämischen Dorf, wie in den Religionskriegen. Erst bei genauerem Hinschauen merkt man: Das ist die Bibelgeschichte, nur in Bruegels Gegenwart verpackt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Religion",
+    "Bibel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 689,
+   "speaker": "Sabine Haag",
+   "quote": "weil er eben diese kalten Farben verwendet also er zeugt auch mit der Farbigkeit diese Kälte äh Blau Grün Weiß Grau also das sind überhaupt keine warmen Farben in dem Sinn auch kein Gelb oder sowas",
+   "quote_clean": "Weil er diese kalten Farben verwendet, er erzeugt mit der Farbigkeit diese Kälte: Blau, Grün, Weiß, Grau. Das sind überhaupt keine warmen Farben, auch kein Gelb oder so.",
+   "statement": "In den Jägern im Schnee erzeugt Bruegel die Kälte vor allem durch kalte Farben wie Blau, Grün, Weiß und Grau, ganz ohne warme Töne wie Gelb.",
+   "question": "Wie erzeugt Bruegel in den Jägern im Schnee das Gefühl von Kälte?",
+   "answer": "Mit Blau, Grün, Weiß und Grau",
+   "distractors": [
+    "Mit kräftigem Rot und Gelb",
+    "Mit goldenem Abendlicht",
+    "Mit vielen Schatten in Braun"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kein Sonnenstrahl, kein Gelb, nur kühle Töne: Darum fröstelt man beim Anschauen fast. Es ist so ein typischer grauer Wintertag, an dem das Licht nur vom Schnee kommt.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Farbe",
+    "Jäger im Schnee"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 714,
+   "speaker": "Sabine Haag",
+   "quote": "wenn man so gegen eine weiße Schneewand oder Schneefläche blickt dann ist sind die die die Gegenstände die davor sind die erscheinen dann ein bisschen unkontrolliert und schwarz",
+   "quote_clean": "Wenn man gegen eine weiße Schneewand oder Schneefläche blickt, dann erscheinen die Gegenstände, die davor sind, ein bisschen unkonturiert und schwarz.",
+   "statement": "Vor einer hellen Schneefläche wirken Gegenstände und Menschen fast schwarz und konturlos, deshalb malte Bruegel die Jäger als dunkle Silhouetten.",
+   "question": "Warum sind die Jäger im Schnee fast nur dunkle Silhouetten?",
+   "answer": "Vor Schnee wirkt alles schwarz",
+   "distractors": [
+    "Die Farbe ist verblasst",
+    "Es ist schon Nacht",
+    "Sie tragen Trauerkleidung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das kennst du eh vom Skifahren: Vor einer weißen Fläche werden Menschen zu schwarzen Figuren. Bruegel passt das gut, weil er ohnehin keine einzelnen Persönlichkeiten zeigen wollte, sondern den Menschen ganz allgemein.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Optik",
+    "Jäger im Schnee"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1732,
+   "speaker": "Sabine Haag",
+   "quote": "hängt ein Seil und das Seil wiederum das ist geht zurück bis zum Haus und und wenn dort genügend Vögel oder was auch immer drunter sind unter dieser Türe dann zieht man am Seil und dann fällt die Türe herunter",
+   "quote_clean": "Daran hängt ein Seil, und das Seil geht zurück bis zum Haus. Wenn genügend Vögel unter dieser Türe sind, zieht man am Seil, und dann fällt die Türe herunter.",
+   "statement": "Die Vogelfalle in Bruegels Bild ist eine aufgebockte Tür an einem Seil, die man vom Haus aus herunterfallen lässt, sobald genug Vögel darunter sind.",
+   "question": "Wie funktioniert die Vogelfalle auf Bruegels gleichnamigem Bild?",
+   "answer": "Eine aufgebockte Tür fällt per Seil",
+   "distractors": [
+    "Ein Netz wird über das Eis geworfen",
+    "Leimruten an den Bäumen",
+    "Ein Käfig mit Lockvogel"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Falle ist klein am Bildrand versteckt, während alle aufs Eislaufen schauen. Typisch Wimmelbild: Bruegel will, dass du das Bild mit den Augen abwanderst, bis du sie findest.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Vogelfalle",
+    "Wimmelbild"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2280,
+   "speaker": "Sabine Haag",
+   "quote": "so wie wir niemals ein Haus bauen würden oben ist es schon relativ fertig und unten wird noch gebaut mitten drin ist ein Felsen also da ist sozusagen alles äh auf den Kopf gestellt",
+   "quote_clean": "So wie wir niemals ein Haus bauen würden: Oben ist es schon relativ fertig und unten wird noch gebaut, mittendrin ist ein Felsen, da ist alles auf den Kopf gestellt.",
+   "statement": "Bruegels Turm zu Babel ist absichtlich falsch gebaut: oben schon fast fertig, unten noch Baustelle, mit einem Felsen mittendrin und zu nah am Wasser.",
+   "question": "Was ist am Bau von Bruegels Turm zu Babel absichtlich verkehrt?",
+   "answer": "Oben fertig, unten noch Baustelle",
+   "distractors": [
+    "Er hat gar keine Fenster",
+    "Er steht mitten in der Wüste",
+    "Er ist aus Holz gebaut"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Turm sinkt schon ein, steht viel zu dicht am Wasser und ist aus dem Lot geraten. So zeigt Bruegel die menschliche Hybris: Hochmut kommt vor dem Fall.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Turmbau zu Babel",
+    "Hybris"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1353,
+   "speaker": "Sabine Haag",
+   "quote": "immer wenn die Kinder in den Kindergarten gehen dann glaube ich ist der richtige Moment ins Museum zu gehen nämlich egal in welches Museum",
+   "quote_clean": "Wenn die Kinder in den Kindergarten gehen, dann ist der richtige Moment, ins Museum zu gehen, egal in welches Museum.",
+   "statement": "Die frühere KHM-Direktorin rät, Kinder schon im Kindergartenalter ins Museum mitzunehmen.",
+   "question": "Ab welchem Alter sollte man laut der langjährigen Direktorin des Kunsthistorischen Museums mit Kindern ins Museum gehen?",
+   "answer": "Schon ab dem Kindergarten",
+   "distractors": [
+    "Erst ab der Volksschule",
+    "Erst ab zehn Jahren",
+    "Erst ab der Oberstufe"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kinder haben diesen offenen, neugierigen Blick und stellen Fragen, die sich Erwachsene oft nicht zu fragen trauen. Bei Bruegels Wimmelbildern ist das ideal, die wandern sie einfach mit den Augen ab.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kinder",
+    "Museum"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 851,
+   "speaker": "Sabine Haag",
+   "quote": "Michelangelo der den das antike Abbild des Göttlichen Menschen sozusagench mit der mit dem perfekten Body wie wir heute sagen würden mit dem Sixpack und so weiter",
+   "quote_clean": "Michelangelo, der das antike Abbild des göttlichen Menschen zeigt, mit dem perfekten Body, wie wir heute sagen würden, mit dem Sixpack und so weiter.",
+   "statement": "Während Michelangelo den idealen, göttlichen Menschen mit perfektem Körper malte, zeigte sein Zeitgenosse Bruegel ganz normale Leute.",
+   "question": "Wer hat über Michelangelo gesagt, er zeige den göttlichen Menschen mit dem perfekten Body und Sixpack?",
+   "answer": "Sabine Haag",
+   "distractors": [
+    "Andreas Sator",
+    "Philipp Blom",
+    "Manfred Sellink"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Michelangelo und Bruegel waren Zeitgenossen, der eine der große Renaissancekünstler Italiens, der andere jener Flanderns. Unterschiedlicher könnte man den Menschen kaum darstellen: hier das Ideal, dort die Bauernhochzeit.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Michelangelo",
+    "Renaissance"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3120,
+   "speaker": "Sabine Haag",
+   "quote": "dazu ist Kunst wirklich auch da um sozusagen Zeit besser erklären zu können wenn man davon ausgeht dass Kunst auch so etas",
+   "quote_clean": "Dazu ist Kunst wirklich auch da, um Zeit besser erklären zu können, wenn man davon ausgeht, dass Kunst auch so etwas wie ein Spiegel der Zeit ist.",
+   "statement": "Kunst hilft, eine Zeit besser zu verstehen, weil sie ein Spiegel ihrer Zeit ist.",
+   "question": "Wer hat gesagt, Kunst sei dazu da, Zeit besser erklären zu können?",
+   "answer": "Sabine Haag",
+   "distractors": [
+    "Andreas Sator",
+    "Philipp Blom",
+    "Florian Freistetter"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas legt gern Wirtschaftszahlen neben die Kunst einer Zeit. Bruegels Bilder liefern genau das, was nüchterne Statistiken nicht zeigen können: wie sich das Leben damals angefühlt hat.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kunst",
+    "Geschichte"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 3279,
+   "speaker": "Andreas Sator",
+   "quote": "Sabine noch ein Medium dass du vor den Vorhang holen möchtest mit dem du dich gerne über die Welt informierst",
+   "quote_clean": "Sabine, noch ein Medium, das du vor den Vorhang holen möchtest, mit dem du dich gerne über die Welt informierst?",
+   "statement": "Andreas fragt seine Gäste am Ende nach einem Medium, das sie vor den Vorhang holen möchten.",
+   "question": "Was fragt Andreas seine Gäste gegen Ende jeder Folge?",
+   "answer": "Welches Medium sie vor den Vorhang holen",
+   "distractors": [
+    "Welches Lied sie mitnehmen würden",
+    "Was ihr größter Fehler war",
+    "Wen er als Nächstes einladen soll"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Sabine Haag ist da ganz Print: Sie liebt die Magazine von Süddeutscher und Zeit. Dazu hört sie gern Diagonal auf Ö1 und den Zeit-Podcast Alles gesagt.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Medientipp",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 3016,
+   "speaker": "Sabine Haag",
+   "quote": "macht uns einfach Vergnügen diese Bilder anzuschauen und wir sind unglaublich stolz dass der einer von uns ist",
+   "quote_clean": "Es macht uns einfach Vergnügen, diese Bilder anzuschauen, und wir sind unglaublich stolz, dass der einer von uns ist.",
+   "statement": "Eine Gruppe flämischer Unternehmer:innen sagte im Museum, historische Genauigkeit sei ihnen egal, sie seien einfach stolz, dass Bruegel einer von ihnen ist.",
+   "question": "Was sagten flämische Besucher:innen im Kunsthistorischen Museum über Bruegel?",
+   "answer": "Sie sind stolz, dass er einer von ihnen ist",
+   "distractors": [
+    "Er gehöre zurück nach Belgien",
+    "Seine Bilder seien zu düster",
+    "Sie kannten ihn gar nicht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ihnen war gar nicht so wichtig, wie historisch genau alles ist. Bruegel anschauen darf auch einfach Spaß machen, ganz ohne Kunstgeschichte-Studium.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Flandern",
+    "Stolz"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "333",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

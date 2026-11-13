@@ -1,0 +1,278 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Jahr 1949 und 39 Studierende stehen so im Ausschnitt und stimmen mit der Forschungsliteratur überein.",
+   "stand_note": "",
+   "statement": "Der Psychologe Bertram Forer veröffentlichte 1949 seine berühmte Studie, in der alle Studierenden dieselbe angebliche Persönlichkeitsanalyse bekamen.",
+   "question": "In welchem Jahr erschien Forers Studie zum Barnum-Effekt?",
+   "answer": "1949",
+   "distractors": [
+    "1921",
+    "1968",
+    "1983"
+   ],
+   "aha": "Forer gab 39 Studierenden einen Fragebogen und danach allen exakt denselben Text als ihre persönliche Analyse. Fast alle fanden sich darin wieder. Seitdem heißt das Phänomen Forer- oder Barnum-Effekt.",
+   "quote_clean": "Da habe ich die Studie von Forer aufgeschrieben, 1949. 39 Studierende hat er nach ihren Hobbys abgefragt",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Inhalt belegt; im aha war 'Hörsaal' dazugedichtet, das wird entfernt.",
+   "stand_note": "",
+   "statement": "In Forers Experiment bekamen alle Studierenden denselben Persönlichkeitstext, und fast alle fühlten sich treffend beschrieben.",
+   "question": "Was bekamen die Studierenden in Forers Experiment als ihre persönliche Analyse?",
+   "answer": "Alle denselben Text",
+   "distractors": [
+    "Ein zufälliges fremdes Horoskop",
+    "Ihr echtes Testergebnis",
+    "Eine Analyse eines Astrologen"
+   ],
+   "aha": "Der Text war komplett beliebig, und trotzdem hoben fast alle die Hand, als sie gefragt wurden, ob sie sich richtig analysiert fühlen. Solche Sätze passen auf alle, deshalb fühlen sich alle gemeint.",
+   "quote_clean": "Er macht daraus eine Analyse ihrer Persönlichkeit, und dann hat er jedem dasselbe Horoskop vorgelegt, und als er gefragt hat, wer sich richtig analysiert fühlt, haben fast alle die Hand gehoben",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Benennung nach einem amerikanischen Showman und dessen Slogan ist belegt; Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Der Barnum-Effekt ist nach einem amerikanischen Zirkus-Showman benannt, dessen Slogan lautete, bei ihm gebe es für alle etwas.",
+   "question": "Nach wem ist der Barnum-Effekt benannt?",
+   "answer": "Einem amerikanischen Zirkus-Showman",
+   "distractors": [
+    "Einem britischen Astrologen",
+    "Einem deutschen Psychiater",
+    "Einem französischen Zauberkünstler"
+   ],
+   "aha": "P. T. Barnum versprach in seinem Zirkus: für jede und jeden was dabei. Genau so funktionieren Horoskop-Sätze, sie sind so gebaut, dass sich alle darin finden.",
+   "quote_clean": "Und Barnum-Effekt wird es genannt nach einem amerikanischen Showman und Zirkus-Varieté-Betreiber, dessen Slogan war: Bei mir gibt es für alle was",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Florian nennt genau dieses Muster (Sätze, die sich im selben Satz aufheben); aha stützt sich auf den Ausschnitt.",
+   "stand_note": "",
+   "statement": "Horoskop-Sätze heben sich oft im selben Satz wieder auf, etwa: extrovertiert, aber gern in Ruhe nachdenkend.",
+   "question": "Welcher Trick steckt oft in Horoskop-Sätzen wie „extrovertiert, aber gern in Ruhe nachdenkend“?",
+   "answer": "Sie heben sich selbst wieder auf",
+   "distractors": [
+    "Sie beschreiben nur seltene Eigenschaften",
+    "Sie stützen sich auf Persönlichkeitstests",
+    "Sie gelten nur für ein Sternzeichen"
+   ],
+   "aha": "Der Satz sagt erst das eine und dann das Gegenteil, nur so elegant, dass es nicht auffällt. Dazu kommen schmeichelhafte Eigenschaften wie „bodenständig“, denen eh jede:r zustimmt.",
+   "quote_clean": "Sie sind ein extrovertierter Mensch, aber Sie neigen auch dazu, in Ruhe über Sachen nachzudenken.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt: Zuordnung hat nie funktioniert, Ergebnis wie reines Raten.",
+   "stand_note": "",
+   "statement": "Wenn man Astrolog:innen Horoskope den passenden Sternzeichen zuordnen lässt, schneiden sie nicht besser ab als reines Raten.",
+   "question": "Wie gut ordnen Astrolog:innen in Studien Horoskope den richtigen Sternzeichen zu?",
+   "answer": "Nicht besser als Raten",
+   "distractors": [
+    "Etwa doppelt so gut wie Zufall",
+    "In rund 90 Prozent richtig",
+    "Nur bei Feuerzeichen treffsicher"
+   ],
+   "aha": "Man hat das auch umgekehrt getestet, also nicht die Kundschaft, sondern die Profis. Das Ergebnis war immer dasselbe: Würfeln hätte genauso gut funktioniert.",
+   "quote_clean": "Da hat man Astrologinnen und Astrologen gesagt: Hier sind zwölf Horoskope, bitte ordnet die den passenden Sternzeichen und Aszendenten zu. Hat auch nie funktioniert.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Carlson, 1985, Nature stimmt mit Ausschnitt und Fachwissen; Beteiligung von 30 Astrologinnen am Design ist belegt.",
+   "stand_note": "",
+   "statement": "Shawn Carlson veröffentlichte 1985 in der Fachzeitschrift Nature einen Doppelblindtest der Astrologie.",
+   "question": "In welchem Jahr erschien Shawn Carlsons Doppelblindtest der Astrologie in Nature?",
+   "answer": "1985",
+   "distractors": [
+    "1952",
+    "1971",
+    "2003"
+   ],
+   "aha": "Das Besondere: Die Astrolog:innen haben das Studiendesign selbst mitgestaltet, damit hinterher niemand sagen kann, man hätte das Falsche getestet. Geholfen hat es der Astrologie trotzdem nicht.",
+   "quote_clean": "Und vorher möchte ich noch von einer anderen Studie erzählen, die von Shawn Carlson 1985 in Nature publiziert wurde. Sie heißt „A Double-Blind Test of Astrology“",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Zahl 47 Prozent ist klar belegt; Quelle und Erhebungsjahr der Umfrage bleiben aber offen, daher Stand-Hinweis.",
+   "stand_note": "Stand 2025, Umfrage aus Deutschland (Erhebungsjahr nicht genannt)",
+   "statement": "Laut Umfragen aus Deutschland achten 47 Prozent der Frauen zumindest manchmal auf Sternzeichen und Horoskop, bei Männern ist es ein Viertel.",
+   "question": "Wie viel Prozent der Frauen in Deutschland achten laut Umfrage zumindest manchmal aufs Horoskop?",
+   "answer": "47 Prozent",
+   "distractors": [
+    "12 Prozent",
+    "28 Prozent",
+    "71 Prozent"
+   ],
+   "aha": "Fast jede zweite Frau und jeder vierte Mann schauen zumindest ab und zu nach, was die Sterne sagen. Andreas rechnet das auf rund ein Drittel der Bevölkerung hoch.",
+   "quote_clean": "Aus Deutschland gibt es Zahlen, dass 47 Prozent der Frauen zumindest manchmal aufs Sternzeichen und aufs Horoskop schauen und darauf Acht geben, und immerhin ein Viertel der Männer",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Sprecherzuordnung der Schnitzel-Pointen im Transkript unklar (Andreas vs. Florian); Frage ist ein reiner Gag ohne Erkenntnis, Distraktoren albern.",
+   "stand_note": "",
+   "statement": "Andreas und Florian witzeln, dass man gegen schlechte Sterneneinflüsse ein Schnitzel statt eines Aluhuts tragen könnte.",
+   "question": "Was schlägt Andreas als Schutz gegen schlechte Sterneneinflüsse vor?",
+   "answer": "Schnitzel statt Aluhut",
+   "distractors": [
+    "Zwiebel statt Kopftuch",
+    "Knödel statt Helm",
+    "Strudel statt Schal"
+   ],
+   "aha": "Florian ergänzt sofort praktisch: Man könnte die Alufolie gleich fürs Schnitzel nehmen, dann ist sie wiederverwendbar. Wiener Pragmatismus gegen kosmische Bedrohung.",
+   "quote_clean": "Schnitzel statt Aluhut quasi. – Genau. – Oder Aluhut plus Schnitzel. – Ja, da kann man die Alufolie gleich fürs Schnitzel zum Einwickeln nehmen",
+   "quality": 1
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "transkription",
+    "spielbarkeit"
+   ],
+   "note": "Der Stern/Sonne wird im Ausschnitt nicht genannt (Transkript an der Stelle verhört); belegt ist sicher der Mond und die Gezeiten. Frage darauf umgestellt.",
+   "stand_note": "",
+   "statement": "Himmelskörper beeinflussen die Erde durchaus – etwa der Mond über die Gezeiten –, aber laut Florian nicht unsere Psyche.",
+   "question": "Welchen echten Einfluss des Mondes auf die Erde nennt Florian als Beispiel dafür, dass Himmelskörper uns tatsächlich beeinflussen?",
+   "answer": "Die Gezeiten",
+   "distractors": [
+    "Die Jahreszeiten",
+    "Vulkanausbrüche",
+    "Die Wolkenbildung"
+   ],
+   "aha": "Dass oben und unten zusammenhängen, bestreitet niemand: Der Mond bewegt die Gezeiten, und auch die Sonne beeinflusst unser Wetter. Die Astrologie behauptet aber etwas ganz anderes, nämlich einen Einfluss auf unsere Psyche.",
+   "quote_clean": "Das ist ein sehr direkter Einfluss eines Sterns auf unser Leben hier auf der Erde. Genauso gibt es die Gezeiten, die der Mond ausübt",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Aussage und Uranus/Neptun-Beispiel sind im Ausschnitt belegt; Distraktoren klar falsch.",
+   "stand_note": "",
+   "statement": "Gute Wissenschaft muss begründen können, warum ihr Modell genau so aufgebaut ist, wie es ist.",
+   "question": "Woran erkennt man laut Florian gute Wissenschaft im Unterschied zur Astrologie?",
+   "answer": "Sie begründet ihr Modell",
+   "distractors": [
+    "Sie nutzt viele Formeln",
+    "Sie hat alte Wurzeln",
+    "Sie liefert immer Gewissheit"
+   ],
+   "aha": "Wenn Florian Uranus und Neptun aus einer Asteroidenrechnung weglässt, muss er vorrechnen, dass das keinen Unterschied macht. Die Astrologie kann nicht erklären, warum gerade diese Himmelskörper im Horoskop vorkommen und andere nicht.",
+   "quote_clean": "Gute Wissenschaft kann erklären, warum das Modell, das sie verwendet, so ist, wie es ist.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Florian sagt, Astrologen betrieben im Wesentlichen Himmelsmechanik; Frage präziser an diese Aussage gebunden.",
+   "stand_note": "",
+   "statement": "Früher mussten Astrologen im Grunde Himmelsmechanik betreiben, also die Bewegung der Himmelskörper berechnen – mit sehr harter Mathematik.",
+   "question": "Welches Teilgebiet der Astronomie haben Astrologen früher laut Florian im Wesentlichen betrieben, um Planetenstände zu berechnen?",
+   "answer": "Die Himmelsmechanik",
+   "distractors": [
+    "Die Astrophysik",
+    "Die Kosmologie",
+    "Die Radioastronomie"
+   ],
+   "aha": "Vor Computern und Taschenrechnern mussten Astrologen selbst berechnen, wo welcher Planet steht. Müssten sie das heute noch händisch machen, gäbe es laut Florian deutlich weniger von ihnen.",
+   "quote_clean": "Das ist im Prinzip exakt das, was früher die Grundlage der Astrologie war oder immer noch ist. Da geht es ja auch um die Bewegung der Himmelskörper.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat wörtlich belegt, Zuordnung stimmt; als Wer-hat's-gesagt-Frage eher schwach.",
+   "stand_note": "",
+   "statement": "Weil die Astrologie beliebig ist, kann sie alles beschreiben – und damit in Wahrheit nichts.",
+   "question": "Wer hat's gesagt: „Wenn ich alles beschreiben kann, kann ich in Wahrheit nichts beschreiben“?",
+   "answer": "Florian Freistetter",
+   "distractors": [
+    "Andreas Sator",
+    "Marie von Ebner-Eschenbach",
+    "Shawn Carlson"
+   ],
+   "aha": "Chiron rein, Pluto raus, Planeten fremder Sterne dazu – in der Astrologie geht alles. Genau das ist ihr Problem: Eine Theorie, die alles erklärt, erklärt nichts.",
+   "quote_clean": "Astrologie kann keinen realen Wert haben, weil ich mit Beliebigkeit zwar alles potenziell beschreiben kann, aber wenn ich alles beschreiben kann, kann ich in Wahrheit nichts beschreiben.",
+   "quality": 2
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Antwort belegt; der letzte aha-Satz (Florian setze auf zugängliches Wissen) steht nicht im Ausschnitt und wird gestrichen.",
+   "stand_note": "",
+   "statement": "Astrologie ist keine Wissenschaft, sondern Glaube – und Menschen lassen sich vom Glauben nicht wegargumentieren.",
+   "question": "Warum hält Florian es für wenig sinnvoll, missionarisch gegen Astrologie anzukämpfen?",
+   "answer": "Glaube lässt sich nicht wegargumentieren",
+   "distractors": [
+    "Astrologie ist harmlos",
+    "Es interessiert niemanden",
+    "Es fehlen gute Studien"
+   ],
+   "aha": "Florian vergleicht es mit Religion: Wenn Argumente gegen Glauben helfen würden, hätten Humanist:innen längst alle Religionen zu Grabe getragen.",
+   "quote_clean": "Die Astrologie ist keine Wissenschaft, die Astrologie ist Glaube. Da muss man dran glauben, dann kann einem das was bringen.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Moment belegt; 'gratis, ohne E-Mail-Adresse' im aha steht nicht im Ausschnitt und wird entfernt.",
+   "stand_note": "",
+   "statement": "Für sein Geburtshoroskop hat Andreas extra seine Mama nach seiner genauen Geburtsuhrzeit gefragt.",
+   "question": "Was hat Andreas vor der Aufnahme extra seine Mama gefragt?",
+   "answer": "Seine genaue Geburtsuhrzeit",
+   "distractors": [
+    "Sein Sternzeichen",
+    "Seinen Geburtsort",
+    "Ihr eigenes Sternzeichen"
+   ],
+   "aha": "Für das Geburtshoroskop braucht man die Uhrzeit der Geburt, und die wusste Andreas nicht auswendig. Rausgekommen ist Sternzeichen Stier mit Aszendent Steinbock.",
+   "quote_clean": "Ich habe extra meine Mama gefragt, zu welcher Uhrzeit ich geboren bin. Das braucht man dafür.",
+   "quality": 2
+  }
+ ],
+ "id": "338",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

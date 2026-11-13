@@ -1,0 +1,301 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "kontext"
+   ],
+   "note": "Aussage belegt („zuletzt zwölfmal am Tag“), aber eine Momentaufnahme; als solche gekennzeichnet. Frage entsprechend neutral formuliert.",
+   "stand_note": "Stand Oktober 2026",
+   "statement": "In Kiew wurde laut Karl Schlögel zuletzt bis zu zwölfmal am Tag Luftalarm ausgelöst.",
+   "question": "Wie oft am Tag wurde in Kiew laut Karl Schlögel zuletzt Luftalarm ausgerufen?",
+   "answer": "12-mal",
+   "distractors": [
+    "3-mal",
+    "6-mal",
+    "20-mal"
+   ],
+   "aha": "Zwölfmal am Tag aufs Handy schauen, ob die Rakete oder die Drohne gerade dein Viertel meint. Und trotzdem bringen die Leute die Kinder in die Schule und gehen ins Café – genau dieses Weitermachen nennt Schlögel die eigentliche Leistung.",
+   "quote_clean": "Dass man trotz Alarm, der im Augenblick mehrmals am Tag, in Kiew zuletzt zwölfmal am Tag ausgerufen wird.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Aussage belegt. Der Seitenhieb auf Züge „bei uns“ im aha ist nicht aus dem Ausschnitt und wurde entfernt.",
+   "stand_note": "Stand 2026",
+   "statement": "Die ukrainische Eisenbahn gilt trotz des Krieges als erstaunlich zuverlässig und pünktlich.",
+   "question": "Wofür ist die Ukraine trotz Krieg laut Karl Schlögel erstaunlich bekannt?",
+   "answer": "Ein pünktliches, zuverlässiges Eisenbahnsystem",
+   "distractors": [
+    "Ein besonders billiges Stromnetz",
+    "Ein lückenloses Autobahnnetz",
+    "Die meisten Inlandsflüge Europas"
+   ],
+   "aha": "Die ukrainischen Züge fahren auch im Krieg zuverlässig und pünktlich. Inzwischen werden aber auch sie angegriffen – Schlögel nennt sie die Lebensadern, die ein Land zusammenhalten.",
+   "quote_clean": "Die Ukraine hatte und hat bis heute ein erstaunlich zuverlässiges und pünktliches Eisenbahnsystem. Man hat sich gefragt, wie das möglich ist.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "„Wer sagt“ bei einem Gast ist trivial, Distraktoren beliebig. Das aha fügt Charkiw-Details (Fußballverein, Tirol) hinzu, die so nicht belegt sind.",
+   "stand_note": "",
+   "statement": "Karl Schlögel sagt: Wer eine europäische Großstadt wie Charkiw nicht schützen kann, kann auch Innsbruck oder München nicht schützen.",
+   "question": "Wer sagt: Wenn wir Charkiw nicht schützen können, können wir auch Innsbruck oder München nicht schützen?",
+   "answer": "Karl Schlögel",
+   "distractors": [
+    "Timothy Snyder",
+    "Anne Applebaum",
+    "Serhij Zhadan"
+   ],
+   "aha": "Charkiw ist eine große europäische Stadt mit Dutzenden Universitäten, großer Industrie und Sportvereinen.",
+   "quote_clean": "Wenn wir nicht in der Lage sind, eine große europäische Stadt wie Charkiw zu schützen – oder Odessa oder jetzt auch Lemberg, was viel näher an Österreich ist –, dann sind wir auch nicht in der Lage, eine andere Stadt, ob Thessaloniki, Triest oder Marseille oder vielleicht auch Innsbruck oder München, zu schützen.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "fairness"
+   ],
+   "note": "Starker Vergleich, den Schlögel selbst nur zitiert; deshalb in Frage und Aussage klar als seine Wiedergabe gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Karl Schlögel zitiert die Literaturnobelpreisträgerin Swetlana Alexijewitsch, die den russisch besetzten Donbass als „KZ unter offenem Himmel“ bezeichnet haben soll.",
+   "question": "Welche Nobelpreisträgerin hat laut Karl Schlögel den besetzten Donbass ein „KZ unter offenem Himmel“ genannt?",
+   "answer": "Swetlana Alexijewitsch",
+   "distractors": [
+    "Herta Müller",
+    "Olga Tokarczuk",
+    "Elfriede Jelinek"
+   ],
+   "aha": "Alexijewitsch aus Belarus hat 2015 den Literaturnobelpreis bekommen, für ihre Bücher aus lauter Zeugenstimmen. Schlögel betont, das sei keine Propaganda, sondern in den besetzten Gebieten dokumentiert.",
+   "quote_clean": "Swetlana Alexijewitsch, die Nobelpreisträgerin, hat den Donbass als ein KZ unter offenem Himmel bezeichnet.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet",
+    "ton"
+   ],
+   "note": "Aussage steht so im Ausschnitt, ist aber Schlögels Schilderung der Lage; entsprechend gekennzeichnet. Aha widersprach sich leicht (Gefängnisse) und wurde präzisiert.",
+   "stand_note": "Stand Oktober 2026",
+   "statement": "Wer sich in den russisch besetzten Gebieten der Ukraine pro-ukrainisch äußert, verliert laut Karl Schlögel den Zugang zu Krankenversicherung und Rente und kann keine Wohnung kaufen.",
+   "question": "Was droht laut Karl Schlögel Menschen, die sich in der besetzten Ukraine pro-ukrainisch äußern?",
+   "answer": "Kein Zugang zu Krankenversicherung und Rente",
+   "distractors": [
+    "Eine einmalige Geldstrafe",
+    "Ein Verbot, ins Ausland zu telefonieren",
+    "Der Entzug des Führerscheins"
+   ],
+   "aha": "Schlögel beschreibt das als Gesellschaft von Geächteten, in der es kein Recht mehr gibt und jeder am nächsten Tag verschwinden kann. Er betont, das sei dokumentiert und keine Erfindung.",
+   "quote_clean": "Wer sich in der besetzten Ukraine pro-ukrainisch äußert, bekommt keinen Zugang mehr zu Krankenversicherung und Rente und kann keine Wohnung kaufen.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "beleg",
+    "kontext"
+   ],
+   "note": "Schlögel nennt „anderthalb Millionen“; das ist die Vorkriegsgröße, heutige Zahl unsicher. Frage auf die Zeit vor dem Krieg bezogen, Wien-Vergleich im aha korrigiert (Wien ist deutlich größer).",
+   "stand_note": "Vorkriegszahl",
+   "statement": "Charkiw ist eine Stadt mit rund eineinhalb Millionen Einwohner:innen (Vorkriegszahl).",
+   "question": "Wie viele Menschen lebten vor dem Krieg ungefähr in Charkiw, der zweitgrößten Stadt der Ukraine?",
+   "answer": "Rund 1,5 Millionen",
+   "distractors": [
+    "Rund 400.000",
+    "Rund 800.000",
+    "Rund 3 Millionen"
+   ],
+   "aha": "Charkiw ist damit deutlich kleiner als Wien, liegt aber nur etwa 30 bis 40 Kilometer von der russischen Grenze. Fiele die Stadt, würde laut Schlögel eine Fluchtwelle Richtung Europa in Gang kommen.",
+   "quote_clean": "Was heißt es bei einer Eineinhalb-Millionen-Stadt wie Charkiw: Wer da nicht bleiben will, der würde gehen.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Zahl belegt als Schlögels Angabe. Vergleich mit Graz/Linz im aha war rechnerisch schief; Aussage zu den Männern an den Wortlaut angepasst.",
+   "stand_note": "Stand 2026",
+   "statement": "Polen hat laut Karl Schlögel rund eine Million Geflüchtete aus der Ukraine aufgenommen.",
+   "question": "Wie viele ukrainische Geflüchtete leben laut Karl Schlögel ungefähr in Polen?",
+   "answer": "Rund 1 Million",
+   "distractors": [
+    "Rund 100.000",
+    "Rund 300.000",
+    "Rund 5 Millionen"
+   ],
+   "aha": "Eine Million Menschen, das ist etwa doppelt so viel wie Graz und Linz zusammen. In Deutschland sind es laut Schlögel etwas mehr als eine Million, hauptsächlich Frauen, weil die Männer eigentlich zu Hause bleiben sollen – wobei auch Zehntausende wehrfähige Männer außer Landes sind.",
+   "quote_clean": "Direkte Betroffenheit heißt, dass wir in Polen mit einer Million Geflüchteter zu tun haben.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "„Wer sagt“ bei einem Gast ist trivial; das aha behauptet, Schlögel kenne den Sudan nur aus Reportagen, was nicht im Ausschnitt steht (er verweist auf Anne Applebaums Reportagen).",
+   "stand_note": "",
+   "statement": "Karl Schlögel sagt, die Aufmerksamkeitsökonomie habe ihre eigene Geografie.",
+   "question": "Wer sagt im Podcast: „Die Aufmerksamkeitsökonomie hat eine eigene Geografie“?",
+   "answer": "Karl Schlögel",
+   "distractors": [
+    "Andreas Sator",
+    "Anne Applebaum",
+    "Swetlana Alexijewitsch"
+   ],
+   "aha": "Gemeint ist: Man kann nicht alle Konflikte der Welt mit derselben Intensität verfolgen.",
+   "quote_clean": "Die Aufmerksamkeitsökonomie hat eine eigene Geografie, und man ist leicht verführt, das nicht zu beachten.",
+   "quality": 1
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Aussage belegt. Aha an Schlögels tatsächliche Aussage angepasst (Billigflieger nach Odessa), eigene Zusatzdetails reduziert.",
+   "stand_note": "",
+   "statement": "Karl Schlögel hat Odessa einmal als „New Orleans Europas“ bezeichnet.",
+   "question": "Welche Stadt hat Karl Schlögel einmal „das New Orleans Europas“ genannt?",
+   "answer": "Odessa",
+   "distractors": [
+    "Lemberg",
+    "Triest",
+    "Marseille"
+   ],
+   "aha": "Für Schlögel wäre Odessa ein magischer Punkt gewesen. Er ist sicher: Wären Billigflieger wie Ryanair oder Easyjet von Berlin nach Odessa gestartet, wäre die halbe Berliner Szene dorthin gewandert – dann kam der Krieg dazwischen.",
+   "quote_clean": "Eine Stadt wie Odessa – ich habe Odessa mal als das New Orleans Europas bezeichnet – das wäre ein magischer Punkt gewesen.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "fairness"
+   ],
+   "note": "Es ist Schlögels Einschätzung; Frage ist bereits „laut“. Das aha enthielt nicht belegte Details (Blut-Schweiß-und-Tränen-Rede, Schuld des Westens) und wurde auf den Ausschnitt gekürzt.",
+   "stand_note": "",
+   "statement": "Laut Schlögel hat Putin Russlands Rohstoffreichtum am Weltmarkt verkauft, statt das Land von innen zu modernisieren.",
+   "question": "Was hat Putin laut Karl Schlögel statt einer Modernisierung Russlands gemacht?",
+   "answer": "Rohstoffe verkauft und davon gelebt",
+   "distractors": [
+    "Massiv in Hightech investiert",
+    "Die Landwirtschaft verstaatlicht",
+    "Auf Tourismus gesetzt"
+   ],
+   "aha": "Putin hatte laut Schlögel kein positives Programm, etwa ein modernes Russland aufzubauen. Stattdessen habe er vom Verkauf von Öl, Gas und anderen Rohstoffen profitiert und die Erneuerung im Inneren bleiben lassen.",
+   "quote_clean": "Er hat im Grunde das Privileg genutzt, das das Land hatte, nämlich Rohstoffe, Öl, Gas und andere Ressourcen auf dem Weltmarkt abzusetzen, und die innere Modernisierung Russlands bleiben lassen.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "fairness",
+    "kontext"
+   ],
+   "note": "Historischer Vergleich ist Schlögels Einschätzung; in der Frage bereits „vergleicht“. Aha auf Russlands Großstädte statt konkret Moskau bezogen.",
+   "stand_note": "",
+   "statement": "Schlögel vergleicht den weitergehenden Alltag in Russlands Großstädten mit Deutschland nach dem 1. September 1939, als in den Städten Kinos und Theater weiter voll waren.",
+   "question": "Womit vergleicht Karl Schlögel den weitergehenden Alltag in Russlands Großstädten?",
+   "answer": "Mit Deutschland nach dem 1. September 1939",
+   "distractors": [
+    "Mit Paris während der Revolution 1789",
+    "Mit Wien während des Kongresses 1815",
+    "Mit Moskau nach der Revolution 1917"
+   ],
+   "aha": "In den großen Städten gibt es Kinopremieren, Theater und Konzerte, die Supermärkte sind mehr oder weniger voll, vielleicht fehlen französische und italienische Weine und Käsesorten. Schlögel erinnert das an Deutschland: Das Leben ging weiter, obwohl alle wussten, dass es nicht gut gehen kann.",
+   "quote_clean": "Am 1. September 1939, als die Wehrmacht in Polen einmarschiert ist und die Einsatzkommandos loslegten, gab es volle Kinos, volle Theater, das Leben in den großen Städten ging weiter.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Aussage belegt („der Dichter des Imperiums“). Aha-Formulierung vom „Zarenreich besungen“ ist Zusatz und wurde an den Ausschnitt angepasst.",
+   "stand_note": "",
+   "statement": "Weite Teile der russischen Kultur waren laut Schlögel Reichskultur, die auf die nichtrussischen Völker des Imperiums herabblickte – er nennt Puschkin einen Dichter des Imperiums.",
+   "question": "Welchen großen russischen Dichter nennt Karl Schlögel auch einen „Dichter des Imperiums“?",
+   "answer": "Alexander Puschkin",
+   "distractors": [
+    "Anton Tschechow",
+    "Boris Pasternak",
+    "Anna Achmatowa"
+   ],
+   "aha": "Der Krieg zwingt dazu, die russische Kultur neu zu betrachten. Puschkin war ein großer Dichter – aber laut Schlögel eben auch der Dichter des Imperiums, den man jetzt mit neuen Augen und Ohren liest.",
+   "quote_clean": "Es ist einfach so, dass weite Teile der russischen Kultur Reichskultur gewesen sind, wo man mit Herablassung oder Verachtung auf die nichtrussischen Völker des Imperiums geblickt hat.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Belegt. Distraktor „Telefonbücher“ liegt zu nah an Adressbüchern und wurde ersetzt; Aha auf den Ausschnitt begrenzt.",
+   "stand_note": "",
+   "statement": "Auf die Frage nach Lieblingsbüchern verrät Karl Schlögel, dass er unglaublich gern Adressbücher liest.",
+   "question": "Welche ungewöhnliche Lektüre liest Karl Schlögel nach eigener Aussage „unglaublich gern“?",
+   "answer": "Adressbücher",
+   "distractors": [
+    "Atlanten",
+    "Kochbücher",
+    "Fahrpläne"
+   ],
+   "aha": "Mit Adressbüchern kann man eine ganze Stadt, ein Viertel oder eine Straße Haus für Haus und Stockwerk für Stockwerk durchgehen. Schlögel besitzt mehrere Berliner Adressbücher von 1926 bis 1933 und eines von 1943.",
+   "quote_clean": "Ich lese unglaublich gern Adressbücher. Das muss man sich vorstellen: solche Bände, wo man die Möglichkeit hat, eine ganze Stadt, ein Stadtviertel, einen Straßenzug Haus für Haus, Stockwerk für Stockwerk durchzugehen.",
+   "quality": 4
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zur Gesprächsführung; „stellt Andreas gern seinen Gästen“ ist aus dem Ausschnitt nicht belegt, kein Erkenntnisgewinn.",
+   "stand_note": "",
+   "statement": "Andreas fragt Karl Schlögel gegen Ende des Gesprächs, ob er sich mit dem Sinn seines Lebens beschäftigt hat.",
+   "question": "Welche große Frage stellt Andreas seinen Gästen gern gegen Ende der Folge?",
+   "answer": "Was der Sinn ihres Lebens ist",
+   "distractors": [
+    "Wovor sie am meisten Angst haben",
+    "Was sie heute anders studieren würden",
+    "Wen sie gern zum Essen einladen würden"
+   ],
+   "aha": "Schlögel weist die Sinnfrage eher ab: Ihm geht es darum, aus der Lebenszeit, die er noch hat, etwas zustande zu bringen, was er immer schon machen wollte.",
+   "quote_clean": "Hast du dich mal damit beschäftigt, was der Sinn deines Lebens ist?",
+   "quality": 1
+  }
+ ],
+ "id": "409",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

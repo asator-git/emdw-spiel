@@ -1,0 +1,683 @@
+{
+ "theme": "Klima & Energie",
+ "summary": "Henriette Spyra reist mit mir ins Jahr 2040 und zeigt, wie Mobilität ausschauen könnte, wenn nicht mehr das Auto den ganzen Platz frisst.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 383,
+   "speaker": "Henriette Spyra",
+   "quote": "Wir widmen in einer Stadt wie Wien zwei Drittel des Platzes dem Automobil.",
+   "quote_clean": "Wir widmen in einer Stadt wie Wien zwei Drittel des Platzes dem Automobil.",
+   "statement": "In Wien sind rund zwei Drittel des Straßenraums dem Auto gewidmet.",
+   "question": "Wie viel Prozent des Straßenraums in Wien sind laut Henriette Spyra dem Auto gewidmet?",
+   "answer": "Rund zwei Drittel (ca. 67 %)",
+   "distractors": [
+    "Rund ein Viertel (ca. 25 %)",
+    "Rund ein Drittel (ca. 33 %)",
+    "Rund die Hälfte (ca. 50 %)"
+   ],
+   "number_value": 67,
+   "number_unit": "Prozent",
+   "slider_min": 10,
+   "slider_max": 90,
+   "log_scale": false,
+   "aha": "Fahrbahn, Parkspuren, Kreuzungen: Der Großteil des öffentlichen Raums in Wien gehört dem Auto. Henriette nennt das schlicht eine Autokultur, und die gibt's eh nicht nur in der Stadt, sondern auch auf dem Dorfplatz, der oft einfach ein Parkplatz ist.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Wien",
+    "Stadtplanung",
+    "Auto"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1277,
+   "speaker": "Henriette Spyra",
+   "quote": "verbraucht ein Elektroauto natürlich nur ein Drittel der Treibhausgasemissionen von fossilbetriebenen Autos.",
+   "quote_clean": "Ein Elektroauto verursacht nur ein Drittel der Treibhausgasemissionen von fossilbetriebenen Autos.",
+   "statement": "Mit erneuerbarem Strom betrieben, verursacht ein E-Auto über den gesamten Lebenszyklus etwa ein Drittel der Treibhausgasemissionen eines fossil betriebenen Autos.",
+   "question": "Wie viel Prozent der Treibhausgasemissionen eines Benziners oder Diesels verursacht ein mit Ökostrom betriebenes E-Auto über seinen ganzen Lebenszyklus?",
+   "answer": "Rund ein Drittel (ca. 33 %)",
+   "distractors": [
+    "Rund 5 Prozent",
+    "Rund 60 Prozent",
+    "Rund 85 Prozent"
+   ],
+   "number_value": 33,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Laut Ökobilanz des Umweltbundesamts schneidet das E-Auto deutlich besser ab, aber eben nicht bei null. Herstellung von Auto und Batterie und die Stromerzeugung schlagen trotzdem zu Buche, darum ist auch das E-Auto kein Freibrief fürs Dauerfahren.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "E-Auto",
+    "Ökobilanz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 676,
+   "speaker": "Henriette Spyra",
+   "quote": "2027 dürften eigentlich keine Pkw mehr neu zugelassen werden, keine fossilbetriebenen.",
+   "quote_clean": "2027 dürften eigentlich keine fossilbetriebenen Pkw mehr neu zugelassen werden.",
+   "statement": "Laut einer Studie des Umweltbundesamts für den Klima- und Energiefonds dürften ab 2027 keine fossil betriebenen Pkw mehr neu zugelassen werden, wenn Österreichs Verkehr 2040 klimaneutral sein soll.",
+   "question": "Ab welchem Jahr dürften laut einer Umweltbundesamt-Studie in Österreich keine neuen Benzin- und Diesel-Pkw mehr zugelassen werden, damit der Verkehr 2040 klimaneutral ist?",
+   "answer": "2027",
+   "distractors": [
+    "2030",
+    "2035",
+    "2024"
+   ],
+   "number_value": 2027,
+   "number_unit": "Jahr",
+   "slider_min": 2022,
+   "slider_max": 2045,
+   "log_scale": false,
+   "aha": "Das klingt früh, rechnet sich aber ganz simpel: Ein Benziner, den jemand 2030 kauft, fährt 2040 noch auf der Straße. Wer bis 2040 aus den Fossilen raus will, muss also den Altbestand mitdenken.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Klimaneutralität",
+    "Auto",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 266,
+   "speaker": "Andreas Sator",
+   "quote": "Österreich möchte ja bis zum Jahr 2040 klimaneutral werden.",
+   "quote_clean": "Österreich möchte bis zum Jahr 2040 klimaneutral werden.",
+   "statement": "Österreich hat sich das Ziel gesetzt, bis 2040 klimaneutral zu werden.",
+   "question": "Bis zu welchem Jahr will Österreich klimaneutral werden?",
+   "answer": "2040",
+   "distractors": [
+    "2030",
+    "2045",
+    "2050"
+   ],
+   "number_value": 2040,
+   "number_unit": "Jahr",
+   "slider_min": 2025,
+   "slider_max": 2070,
+   "log_scale": false,
+   "aha": "Österreich hat sich ein ambitionierteres Ziel gesetzt als die EU, die 2050 anpeilt. Für den Verkehr heißt das: In knapp zwei Jahrzehnten raus aus Benzin und Diesel.",
+   "difficulty": 1,
+   "time_sensitive": true,
+   "tags": [
+    "Klimaneutralität",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1586,
+   "speaker": "Henriette Spyra",
+   "quote": "dass weltweit 70 Prozent der Treibhausgasemissionen natürlich letztlich von einer Handvoll Unternehmen produziert wird.",
+   "quote_clean": "dass weltweit 70 Prozent der Treibhausgasemissionen letztlich von einer Handvoll Unternehmen produziert werden.",
+   "statement": "Ein Großteil der weltweiten Treibhausgasemissionen, rund 70 Prozent, geht letztlich auf eine kleine Zahl von Unternehmen zurück.",
+   "question": "Wie viel Prozent der weltweiten Treibhausgasemissionen gehen laut Henriette Spyra letztlich auf eine kleine Gruppe von Unternehmen zurück?",
+   "answer": "Rund 70 Prozent",
+   "distractors": [
+    "Rund 15 Prozent",
+    "Rund 35 Prozent",
+    "Rund 95 Prozent"
+   ],
+   "number_value": 70,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Henriette erzählt das im Zusammenhang mit Michael Manns Buch über die Ablenkungsstrategien in der Klimadebatte. Wenn man nur dem Einzelnen sagt, er soll sein Leben ändern, schaut man halt weniger auf die großen Förderer fossiler Energie.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Klimakrise",
+    "Unternehmen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1324,
+   "speaker": "Henriette Spyra",
+   "quote": "um da hinzukommen, um in diese Welt zu kommen, müssen wir auf jeden Fall den Energieverbrauch halbieren.",
+   "quote_clean": "Die technische Antwort darauf ist trotzdem: Um in diese Welt zu kommen, müssen wir auf jeden Fall den Energieverbrauch halbieren.",
+   "statement": "Um im Verkehr klimaneutral zu werden, muss der Energieverbrauch laut Henriette Spyra halbiert werden; nur Verbrenner gegen E-Autos zu tauschen reicht nicht.",
+   "question": "Um wie viel Prozent muss der Energieverbrauch im Verkehr laut Henriette Spyra sinken, damit Klimaneutralität klappt?",
+   "answer": "Um die Hälfte (50 %)",
+   "distractors": [
+    "Um ein Zehntel (10 %)",
+    "Um ein Viertel (25 %)",
+    "Um neun Zehntel (90 %)"
+   ],
+   "number_value": 50,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Fünf Millionen Verbrenner einfach gegen fünf Millionen E-Autos zu tauschen, geht sich nicht aus: Die erneuerbare Energie ist begrenzt. Wir müssen also effizienter werden und weniger fahren, nicht nur anders.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Energie",
+    "Klimaneutralität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1337,
+   "speaker": "Henriette Spyra",
+   "quote": "jetzt haben wir fünf Millionen fossilbetriebene Autos und dann haben wir fünf Millionen Elektroautos und alles ist gut.",
+   "quote_clean": "Jetzt haben wir fünf Millionen fossilbetriebene Autos und dann haben wir fünf Millionen Elektroautos und alles ist gut.",
+   "statement": "In Österreich gibt es rund fünf Millionen Pkw, fast alle fossil betrieben.",
+   "question": "Wie viele Pkw gibt es in Österreich ungefähr?",
+   "answer": "Rund 5 Millionen",
+   "distractors": [
+    "Rund 1 Million",
+    "Rund 2,5 Millionen",
+    "Rund 9 Millionen"
+   ],
+   "number_value": 5000000,
+   "number_unit": "Autos",
+   "slider_min": 500000,
+   "slider_max": 20000000,
+   "log_scale": true,
+   "aha": "Bei knapp neun Millionen Einwohner:innen ist das mehr als ein Auto pro zwei Menschen. Henriette nennt die Zahl, um zu zeigen, dass ein simpler Eins-zu-eins-Tausch gegen E-Autos nicht reicht.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Österreich",
+    "Auto"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 765,
+   "speaker": "Henriette Spyra",
+   "quote": "gibt es eine Stellplatzverordnung beispielsweise, geht auf die Reichsgaragenordnung aus den 30er Jahren zurück,",
+   "quote_clean": "Es gibt beispielsweise eine Stellplatzverordnung, die auf die Reichsgaragenordnung aus den 30er Jahren zurückgeht.",
+   "statement": "Die Pflicht, beim Wohnbau Parkplätze mitzubauen, geht in Wien und anderen Orten Österreichs auf die Reichsgaragenordnung aus den 1930er-Jahren zurück.",
+   "question": "Worauf geht die Pflicht, beim Bau von Wohnungen auch Parkplätze zu errichten, in Österreich zurück?",
+   "answer": "Auf die Reichsgaragenordnung der 1930er",
+   "distractors": [
+    "Auf eine EU-Richtlinie von 1995",
+    "Auf die Straßenverkehrsordnung von 1960",
+    "Auf ein Gesetz der Monarchie 1910"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer eine Wohnung baut, muss bis heute oft auch Stellplätze dazubauen. Diese Spielregel stammt aus einer Zeit, in der das Auto gerade erst Massenware werden sollte, und für Henriette ist genau das eine Regel, die sich ändern muss.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Parken",
+    "Geschichte",
+    "Wohnbau"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 471,
+   "speaker": "Henriette Spyra",
+   "quote": "In Wien wurde das, ist das vor Jahrzehnten schon gemacht worden, mit der Kärntner Straße beispielsweise.",
+   "quote_clean": "In Wien ist das vor Jahrzehnten schon gemacht worden, mit der Kärntner Straße beispielsweise.",
+   "statement": "Die Kärntner Straße in Wien war früher eine Autostraße und ist heute eine Fußgängerzone.",
+   "question": "Welche bekannte Wiener Einkaufsstraße war früher für Autos befahrbar und wurde schon vor Jahrzehnten zur Fußgängerzone?",
+   "answer": "Die Kärntner Straße",
+   "distractors": [
+    "Die Ringstraße",
+    "Die Praterstraße",
+    "Die Wiedner Hauptstraße"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Heute kann man sich kaum vorstellen, dass da einmal Autos durchgebraust sind. Für Henriette ist das der Beweis, dass Umbauen funktioniert: Was damals undenkbar schien, ist jetzt völlig normal.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wien",
+    "Fußgängerzone"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 453,
+   "speaker": "Henriette Spyra",
+   "quote": "Eine Straße bunt anmalen, das wurde in New York gemacht, auf dem Times Square,",
+   "quote_clean": "Eine Straße bunt anmalen, das wurde in New York gemacht, auf dem Times Square.",
+   "statement": "Am Times Square in New York wurde die Straße bunt angemalt und mit Liegestühlen und Sonnenschirmen zum Aufenthaltsort für Menschen gemacht.",
+   "question": "Auf welchem berühmten Platz wurde die Straße bunt angemalt und mit Liegestühlen bestückt, um Autos Platz wegzunehmen?",
+   "answer": "Times Square in New York",
+   "distractors": [
+    "Piccadilly Circus in London",
+    "Place de la Concorde in Paris",
+    "Alexanderplatz in Berlin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ausgerechnet dort, wo sich das keiner vorstellen konnte, hat man einfach Farbe auf den Asphalt gebracht und Sonnenschirme hingestellt. Und plötzlich haben sich die Leute ganz anders im öffentlichen Raum bewegt. Just do it, sagt Henriette.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "New York",
+    "öffentlicher Raum"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2007,
+   "speaker": "Henriette Spyra",
+   "quote": "In Frankreich wurden jetzt kürzlich ja solche Kurzstreckenflüge nach einer großen BürgerInnenversammlung,",
+   "quote_clean": "In Frankreich wurden kürzlich solche Kurzstreckenflüge nach einer großen Bürgerinnenversammlung verboten.",
+   "statement": "In Frankreich wurden Kurzstreckenflüge verboten, nachdem ein Bürger:innen-Klimarat das vorgeschlagen hatte.",
+   "question": "Wer hat in Frankreich das Verbot von Kurzstreckenflügen angestoßen?",
+   "answer": "Ein Klimarat aus Bürger:innen",
+   "distractors": [
+    "Die Airline Air France selbst",
+    "Die Europäische Kommission",
+    "Ein Urteil des Höchstgerichts"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das war kein Vorschlag von oben, sondern kam aus einer großen Bürger:innenversammlung zum Klima. Für Henriette ein Zeichen, dass das Wochenende in Barcelona per Flieger in Europa irgendwann Geschichte sein wird.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Frankreich",
+    "Fliegen",
+    "Bürgerrat"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1545,
+   "speaker": "Henriette Spyra",
+   "quote": "Michael Mann spricht da von fünf Ds.",
+   "quote_clean": "Michael Mann spricht da von fünf Ds.",
+   "statement": "Der Klimaforscher Michael Mann beschreibt in seinem Buch „The New Climate War“ Strategien gegen Klimaschutz mit fünf „Ds“, darunter Denial, Deflection und Doomism.",
+   "question": "Wie nennt der Klimaforscher Michael Mann die Haltung „Wir können sowieso nichts mehr tun“?",
+   "answer": "Doomism",
+   "distractors": [
+    "Denial",
+    "Greenwashing",
+    "Whataboutism"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kaum jemand leugnet die Klimakrise noch offen. Stattdessen heißt es: so schlimm ist es eh nicht, oder eben gleich: eh alles zu spät. Beides bremst gleich gut, und beides hat bei Michael Mann einen Namen mit D.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Klimadebatte",
+    "Michael Mann"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1715,
+   "speaker": "Henriette Spyra",
+   "quote": "Wunderbar, in Österreich ja mit der ÖBB haben wir eins der Vorreiterunternehmen,",
+   "quote_clean": "In Österreich haben wir mit der ÖBB eines der Vorreiterunternehmen, das nie ganz aufgehört hat, an Nachtzüge zu glauben.",
+   "statement": "Die ÖBB gelten als europäischer Vorreiter bei Nachtzügen, weil sie nie ganz aufgehört haben, an Nachtzüge zu glauben.",
+   "question": "Welches Bahnunternehmen gilt in Europa als Vorreiter bei Nachtzügen, weil es nie ganz damit aufgehört hat?",
+   "answer": "Die ÖBB",
+   "distractors": [
+    "Die Deutsche Bahn",
+    "Die SNCF",
+    "Die SBB"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Während andere Bahnen ihre Nachtzüge eingestellt haben, haben die ÖBB weitergemacht und sogar Verbindungen übernommen. Jetzt, wo das Schlafen im Zug wieder in ist, stehen sie ziemlich gut da.",
+   "difficulty": 1,
+   "time_sensitive": true,
+   "tags": [
+    "Nachtzug",
+    "ÖBB",
+    "Bahn"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1428,
+   "speaker": "Henriette Spyra",
+   "quote": "Also Berlin-Brandenburg beispielsweise fahren Bücherbusse durch die Gegend, Bibliotheksbusse, Bankbusse auch, um den älteren Menschen sozusagen einen Zugang zur Bank zu geben.",
+   "quote_clean": "In Berlin-Brandenburg beispielsweise fahren Bücherbusse durch die Gegend, Bibliotheksbusse, auch Bankbusse, um älteren Menschen einen Zugang zur Bank zu geben.",
+   "statement": "In Brandenburg fahren Bibliotheks- und Bankbusse durch ländliche Gegenden, damit vor allem ältere Menschen ohne Auto Zugang zu diesen Diensten haben.",
+   "question": "Was fährt in Berlin-Brandenburg durch ländliche Gegenden, damit ältere Menschen ohne Auto zu ihrer Bank kommen?",
+   "answer": "Ein Bankbus",
+   "distractors": [
+    "Ein Postbus mit Geldautomat",
+    "Ein Ruftaxi zur Filiale",
+    "Eine Bankdrohne"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Statt dass alle zum Einkaufszentrum auf der grünen Wiese fahren, kommt die Infrastruktur zu den Leuten. Für Henriette ist das genau der Punkt: Die Notwendigkeit, für alles ins Auto zu steigen, kann man auch kleiner machen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "ländlicher Raum",
+    "Daseinsvorsorge"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 219,
+   "speaker": "Henriette Spyra",
+   "quote": "Na spannend finde ich an dem Begriff Mobilität eigentlich, dass es eben nicht dasselbe ist wie Verkehr.",
+   "quote_clean": "Spannend finde ich an dem Begriff Mobilität eigentlich, dass es eben nicht dasselbe ist wie Verkehr.",
+   "statement": "Mobilität ist nicht dasselbe wie Verkehr: Verkehr meint Fahrzeuge und Technik, Mobilität auch das, was in unseren Köpfen steckt, etwa den Horizont zu erweitern.",
+   "question": "Was ist laut Henriette Spyra der Unterschied zwischen Verkehr und Mobilität?",
+   "answer": "Mobilität ist mehr als bloße Fahrzeugtechnik",
+   "distractors": [
+    "Mobilität meint nur den Personenverkehr",
+    "Verkehr umfasst auch Fußwege, Mobilität nicht",
+    "Beides bedeutet genau dasselbe"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei Verkehr denken wir an Autos, Züge und Flugzeuge, also an Technik. Mobilität dagegen steckt laut Henriette auch im Kopf und im Herzen: den eigenen Horizont erweitern, und von A nach B kommen ist nur ein Teil davon.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Begriffe",
+    "Mobilität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 730,
+   "speaker": "Henriette Spyra",
+   "quote": "Und das schönste Bild, was ich bekommen habe, war aus Monty Python, Ritter der Kokosnuss,",
+   "quote_clean": "Und das schönste Bild, das ich bekommen habe, war aus Monty Python, Ritter der Kokosnuss.",
+   "statement": "Henriette Spyra erklärt den Weg zur Mobilitätswende mit Länge, Breite und Höhe aus „Die Ritter der Kokosnuss“: Länge ist der Plan, Breite die geteilte Verantwortung, Höhe die Ambition.",
+   "question": "Mit welchem Filmbild erklärt Henriette Spyra den Weg zur Mobilitätswende als Länge, Breite und Höhe?",
+   "answer": "Monty Pythons „Ritter der Kokosnuss“",
+   "distractors": [
+    "„Zurück in die Zukunft“",
+    "„Herr der Ringe“",
+    "„Per Anhalter durch die Galaxis“"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Länge heißt: einen Plan für 10 bis 15 Jahre haben und Spielregeln ändern. Breite: Nicht nur die Politik, sondern alle sind dran. Und Höhe ist die Ambition, denn drei Parkplätze weg und fünf Bäume hin wird nicht reichen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Mobilitätswende",
+    "Monty Python"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1932,
+   "speaker": "Henriette Spyra",
+   "quote": "dann steige ich vor der Tür ins Auto und dann steige ich auch an der Bushaltestelle nicht mehr aus,",
+   "quote_clean": "Dann steige ich vor der Tür ins Auto und steige an der Bushaltestelle auch nicht mehr aus.",
+   "statement": "Wer schon für den Weg zur Bushaltestelle ins Auto steigen muss, fährt meist gleich ganz mit dem Auto, weil man eine Wegekette ungern unterbricht.",
+   "question": "Warum ist eine gute Anbindung bis zur Bushaltestelle am Land so entscheidend?",
+   "answer": "Wer im Auto sitzt, bleibt meist drin",
+   "distractors": [
+    "Weil Busse sonst nicht fahren dürfen",
+    "Weil Parkplätze an Haltestellen verboten sind",
+    "Weil Busfahren sonst teurer wird"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Koppl bei Salzburg wurden darum automatisierte Shuttles getestet, die die Leute zur Bushaltestelle bringen. Denn wenn man eh schon im Auto sitzt, fährt man halt gleich bis Salzburg durch.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Öffis",
+    "ländlicher Raum"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1744,
+   "speaker": "Henriette Spyra",
+   "quote": "Öffentlicher Verkehrsausbau ist die einzige Maßnahme, wo immer alle zustimmen.",
+   "quote_clean": "Öffentlicher Verkehrsausbau ist die einzige Maßnahme, der immer alle zustimmen.",
+   "statement": "Der Ausbau der Öffis findet breite Zustimmung, allein löst er das Emissionsproblem aber nicht, weil Baufirmen nur begrenzt viel bauen können.",
+   "question": "Warum reicht der Öffi-Ausbau laut Henriette Spyra allein nicht, um die Verkehrsemissionen ausreichend zu senken?",
+   "answer": "Man kann nicht unbegrenzt schnell bauen",
+   "distractors": [
+    "Öffis verursachen mehr CO2 als Autos",
+    "Niemand würde die neuen Öffis nutzen",
+    "Die EU verbietet neue Bahnstrecken"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wirtschaftskammer, NGOs, Bürger:innen, alle finden den Öffi-Ausbau gut. Aber die Baufirmen können nur so viel bauen, wie sie können, und darum braucht es zusätzlich andere Maßnahmen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Öffis",
+    "Klimapolitik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1150,
+   "speaker": "Henriette Spyra",
+   "quote": "Das ist ja, ich sage immer, ich bin eigentlich faul.",
+   "quote_clean": "Ich sage immer, ich bin eigentlich faul. Deswegen fahre ich mit dem Fahrrad.",
+   "statement": "Henriette Spyra sagt, sie fahre aus Faulheit Rad, weil sie nicht im Stau stehen und nah am Ziel parken will.",
+   "question": "Wer sagt im Podcast, sie fahre eigentlich aus Faulheit mit dem Fahrrad?",
+   "answer": "Henriette Spyra",
+   "distractors": [
+    "Andreas Sator",
+    "Leonore Gewessler",
+    "Michael Mann"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kein moralischer Zeigefinger, sondern pure Bequemlichkeit: Mit dem Rad steht man nicht im Stau und parkt direkt vor der Tür. In der Stadt ist das Auto halt oft das unbequemere Verkehrsmittel.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Radfahren",
+    "Stadt"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 976,
+   "speaker": "Henriette Spyra",
+   "quote": "Ich glaube, dass uns nur eine positive Emotion rausbringt in eine bessere Zukunft.",
+   "quote_clean": "Ich glaube, dass uns nur eine positive Emotion in eine bessere Zukunft bringt.",
+   "statement": "Henriette Spyra hält es für falsch, die Verkehrsdebatte zu entemotionalisieren; nur positive Emotionen führten in eine bessere Zukunft.",
+   "question": "Wer sagt, dass Entemotionalisieren der falsche Weg sei und uns nur eine positive Emotion in eine bessere Zukunft bringe?",
+   "answer": "Henriette Spyra",
+   "distractors": [
+    "Andreas Sator",
+    "Michael Mann",
+    "Greta Thunberg"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Radfahrer gegen Autofahrer, das ist bei uns fast eine Identitätsfrage. Henriette will das Gefühl aber nicht rausnehmen, sondern umlenken, damit sich die Leute nicht ständig die Köpfe einschlagen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Debattenkultur",
+    "Mobilität"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 362,
+   "speaker": "Henriette Spyra",
+   "quote": "Nutzen statt besitzen ist, glaube ich, ein ganz wichtiger Aspekt von dieser Mobilitätszukunft, die ich mir vorstelle.",
+   "quote_clean": "Nutzen statt besitzen ist ein ganz wichtiger Aspekt dieser Mobilitätszukunft, die ich mir vorstelle.",
+   "statement": "Für Henriette Spyra ist „Nutzen statt besitzen“ ein Kernprinzip der Mobilität der Zukunft.",
+   "question": "Welches Prinzip ist für Henriette Spyra ein Kern der Mobilität der Zukunft?",
+   "answer": "Nutzen statt besitzen",
+   "distractors": [
+    "Schneller statt weiter",
+    "Elektrisch statt fossil",
+    "Verbieten statt fördern"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Statt sich als Autofahrer oder Radfahrerin zu definieren, nimmt man einfach das, was gerade passt. Ein Carsharing-Auto am Land, das Rad in der Stadt, den Zug für die Reise.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Sharing",
+    "Mobilität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 80,
+   "speaker": "Andreas Sator",
+   "quote": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quote_clean": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "statement": "Andreas Sator beginnt den Podcast mit „der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst“.",
+   "question": "Wie geht Andreas' Begrüßung weiter: „Das ist Erklär mir die Welt, der Podcast, mit dem du …“?",
+   "answer": "die Welt jede Woche ein bisschen besser verstehen sollst",
+   "distractors": [
+    "jede Woche etwas Neues über die Welt lernst",
+    "die großen Fragen der Welt verstehst",
+    "die Welt mit anderen Augen siehst"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "So beginnt Andreas seine Folgen seit Jahren. Bescheidenes Ziel: nicht alles verstehen, aber jede Woche ein bisschen mehr.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Podcast",
+    "Begrüßung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 110,
+   "speaker": "Henriette Spyra",
+   "quote": "Das ist überhaupt kein Problem, das macht jeder und ich korrigiere das dann immer so charmant wie gerade eben.",
+   "quote_clean": "Das ist überhaupt kein Problem, das macht jeder und ich korrigiere das dann immer so charmant wie gerade eben.",
+   "statement": "Gleich zu Beginn spricht Andreas den Namen seines Gastes falsch aus, und Henriette Spyra korrigiert ihn charmant, indem sie sich einfach richtig vorstellt.",
+   "question": "Was passiert gleich zu Beginn der Folge mit Henriette Spyra?",
+   "answer": "Andreas spricht ihren Namen falsch aus",
+   "distractors": [
+    "Die Aufnahme bricht ab",
+    "Andreas vergisst seine erste Frage",
+    "Henriette kommt zu spät ins Studio"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas sagt „Spira“, Henriette stellt sich als „Spyra“ vor, und er entschuldigt sich. Sie nimmt's locker: Das macht eh jeder.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Name",
+    "Einstieg"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "166",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

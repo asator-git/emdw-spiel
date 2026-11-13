@@ -1,0 +1,274 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Faktor zwei belegt; „pro Kopf“ steht nicht im Transkript (nur „im Durchschnitt“), daher entfernt.",
+   "stand_note": "",
+   "statement": "In Vorstädten und Speckgürteln sind die CO2-Emissionen im Durchschnitt ungefähr doppelt so hoch wie in der Stadt oder am Land.",
+   "question": "Um welchen Faktor sind die CO2-Emissionen im Speckgürtel laut Gernot Wagner höher als in der Stadt oder am Land?",
+   "answer": "Ungefähr doppelt so hoch",
+   "distractors": [
+    "Ungefähr um ein Zehntel höher",
+    "Ungefähr fünfmal so hoch",
+    "Ungefähr zehnmal so hoch"
+   ],
+   "aha": "Im Speckgürtel lebt man laut Gernot quasi ohne Kompromisse: großes Haus, aber trotzdem nah genug an der Stadt, um jeden Tag hineinzupendeln. Zu Fuß oder mit dem Rad geht sich das nicht aus, also fährt man mit dem Auto.",
+   "quote_clean": "Dort sind die CO2-Emissionen, auch wieder im Durchschnitt betrachtet, ungefähr doppelt so hoch wie einerseits in der Stadt, andererseits am Land.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "30 Jahre Laufzeit für US-Hauskredite im Transkript belegt, „hier“ meint Amerika.",
+   "stand_note": "",
+   "statement": "Hauskredite in den USA laufen meist 30 Jahre.",
+   "question": "Wie viele Jahre laufen Hauskredite in den USA laut Gernot Wagner meistens?",
+   "answer": "30 Jahre",
+   "distractors": [
+    "10 Jahre",
+    "15 Jahre",
+    "50 Jahre"
+   ],
+   "aha": "Wer heute baut, zahlt sein Haus also noch ab, wenn die ganze Wirtschaft längst CO2-neutral sein sollte. Der Bank gehört dann noch ein Stück vom Haus, und die Emissionen sind für Jahrzehnte einzementiert.",
+   "quote_clean": "Kredite hier, Hauskredite, sind meist 30 Jahre lang. In 30 Jahren sind wir im Jahr 2051.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "„Login“ ist ein Transkriptionsfehler für Lock-in, Sinn klar; Aussage belegt.",
+   "stand_note": "",
+   "statement": "Die Wahl des Wohnorts ist so wichtig fürs Klima, weil sie Emissionen durch Lock-in-Effekte für Jahrzehnte festlegt.",
+   "question": "Warum ist die Wohnortwahl laut Gernot Wagner so entscheidend fürs Klima?",
+   "answer": "Sie zementiert Emissionen für Jahrzehnte ein",
+   "distractors": [
+    "Häuser verbrauchen mehr Strom als Autos",
+    "Umzüge verursachen sehr viel CO2",
+    "Baustellen sind die größten Emittenten"
+   ],
+   "aha": "Fliegen oder Fleisch entscheidest du jeden Tag neu, ein Haus im Grünen steht dagegen Jahrzehnte. Und mit ihm das Auto, die Straße und der lange Arbeitsweg, die automatisch dazugehören.",
+   "quote_clean": "Wegen der Lock-in-Effekte. Man zementiert im Prinzip Emissionen auf Jahrzehnte ein.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt mit offensichtlicher Antwort und beliebigen Distraktoren.",
+   "stand_note": "",
+   "statement": "Gernot Wagner ist ein 200 Jahre altes Mehrparteienhaus in der Stadt lieber als ein perfektes Passivhaus am Land.",
+   "question": "Wer hat's gesagt: Lieber das 200 Jahre alte Achtparteienhaus in der Stadt als das perfekte Passivhaus am Land?",
+   "answer": "Gernot Wagner",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Wiener Stadtplaner",
+    "Ein Passivhaus-Architekt"
+   ],
+   "aha": "Sein Argument heißt Potenzial: Das alte Stadthaus kann man dämmen und eine Solaranlage aufs Dach setzen, und rundherum gibt es Öffis, Rad und Fußwege. Das Passivhaus am Land bleibt trotzdem ans Auto gebunden.",
+   "quote_clean": "Es ist mir um einiges lieber, jetzt das 200 Jahre alte Achtparteienhaus in der Stadt zu haben als das perfekte Passivhaus am Land.",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Argument mit fünf Wegen vs. einer Landstraße belegt; Distraktoren etwas schwach, aber spielbar.",
+   "stand_note": "",
+   "statement": "In der Stadt kann man leichter auf klimafreundliche Verkehrsmittel umsteigen, weil es viele Wege zur Arbeit gibt, am Land oft nur eine Landstraße.",
+   "question": "Warum ist es in der Stadt laut Gernot Wagner leichter, klimafreundlich zur Arbeit zu kommen?",
+   "answer": "Es gibt viele verschiedene Wege zur Arbeit",
+   "distractors": [
+    "Autos sind in der Stadt verboten",
+    "Stadtmenschen sind umweltbewusster",
+    "Öffis sind in der Stadt gratis"
+   ],
+   "aha": "Gernots Frau hat in New York fünf Möglichkeiten, in die Arbeit zu kommen, und zu Fuß dauert es immer genau 20 Minuten. Am Land kann man die eine Landstraße verbreitern oder einen Bus draufschicken, viel mehr Spielraum gibt es nicht.",
+   "quote_clean": "Und dieses Potenzial, diese Möglichkeit, auf andere Verkehrsmittel umzusteigen, ohne einen Unterschied zu merken, ohne dass sich das Leben radikal verändert, das geht in der Stadt, wo es fünf Wege zur Arbeit gibt. Das geht weniger am Land, wo es die eine Landstraße gibt.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt als Prognose des Gasts (Stand 2021); Urbanisierung als Grund klar genannt.",
+   "stand_note": "Stand 2021",
+   "statement": "Laut Gernot Wagner dürfte China sein Klimaziel für 2030 früher erreichen, vor allem wegen der Urbanisierung.",
+   "question": "Was ist laut Gernot Wagner der Hauptgrund, warum China sein Emissionsziel für 2030 früher erreichen dürfte?",
+   "answer": "Die Urbanisierung",
+   "distractors": [
+    "Die Corona-Krise",
+    "Der Ausbau der Atomkraft",
+    "Ein Verbot von Kohleheizungen"
+   ],
+   "aha": "Es ziehen viel mehr Menschen in die Städte, als die chinesischen Behörden vor zehn Jahren angenommen haben. Und je mehr Leute in dichten Städten wohnen, desto eher lässt sich Wirtschaftswachstum von CO2-Emissionen entkoppeln.",
+   "quote_clean": "Das 2030-Ziel wird China höchstwahrscheinlich bereits 2025, vielleicht sogar früher erreichen. Warum? Nicht wegen der Corona-Krise, das war schon viel früher absehbar, sondern wegen der Urbanisierung.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "China-Ziel Klimaneutralität bis 2060 (Ankündigung September 2020) belegt und korrekt.",
+   "stand_note": "Stand 2021",
+   "statement": "China hat sich im September 2020 das Ziel gesetzt, bis 2060 netto null CO2-Emissionen zu erreichen.",
+   "question": "Bis zu welchem Jahr will China laut seinem Klimaziel netto null CO2-Emissionen erreichen?",
+   "answer": "2060",
+   "distractors": [
+    "2040",
+    "2050",
+    "2070"
+   ],
+   "aha": "Davor hatte China nur versprochen, dass die Emissionen ab 2030 wieder sinken. Gernot findet das neue Ziel viel besser, aber genug ist es für ihn trotzdem nicht.",
+   "quote_clean": "Das ist jetzt das Ziel vom letzten September: bis 2060 die CO2-Nettoemissionen auf null herunter.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Aussage zum Zweck des Bahnhofs Tullnerfeld belegt, anschaulich und lokal.",
+   "stand_note": "",
+   "statement": "Der Bahnhof Tullnerfeld dient laut Gernot Wagner vor allem den neuen Siedlungen im Speckgürtel, nicht der Stadt Tulln.",
+   "question": "Wofür wurde der Bahnhof Tullnerfeld laut Gernot Wagner eigentlich gebaut?",
+   "answer": "Für neue Siedlungen im Speckgürtel",
+   "distractors": [
+    "Für die Altstadt von Tulln",
+    "Für den Güterverkehr",
+    "Für Touristen an der Donau"
+   ],
+   "aha": "Rund um den Bahnhof gibt es vor allem Parkplätze und Äcker, und trotzdem bleibt fast jeder Zug dort stehen. Mit 20 Minuten Direktzug nach Wien lockt er Leute ins Häuschen im Grünen, die dann trotzdem oft ans Auto gebunden sind.",
+   "quote_clean": "Der Bahnhof ist nicht für die Stadt Tulln gebaut worden, er ist gebaut worden, um es Menschen zu ermöglichen, im Tullnerfeld Häuser zu bauen, in den sehr schnell neu entstehenden Siedlungen im Speckgürtel.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Beiläufige Behauptung des Gasts ohne Datenbasis; ob der erste Bezirk wirklich die größten Wohnungen hat, ist zweifelhaft (z. B. Villenbezirke).",
+   "stand_note": "",
+   "statement": "In Wien liegen die größten Wohnungen im ersten Bezirk; in den Städten wächst die Wohnfläche kaum, anders als im Speckgürtel.",
+   "question": "Wo liegen in Wien laut Gernot Wagner die größten Wohnungen?",
+   "answer": "Im ersten Bezirk",
+   "distractors": [
+    "In Floridsdorf",
+    "In der Donaustadt",
+    "In Liesing"
+   ],
+   "aha": "Die Innenstadt mit ihren großzügigen Altbauten hat die größten Wohnungen, nach außen hin werden sie kleiner. Wirklich wachsen die Wohnflächen erst draußen in den Vororten und im Speckgürtel.",
+   "quote_clean": "In Städten selbst ist der Trend flach oder geht vielleicht sogar hinunter. In Wien zum Beispiel sind die größten Wohnungen im ersten Bezirk, in den Außenbezirken werden die Wohnungen relativ gesehen kleiner.",
+   "quality": 1
+  },
+  {
+   "i": 11,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt mit offensichtlicher Antwort; Distraktor „Robert Frank“ unfair ohne Kontext.",
+   "stand_note": "",
+   "statement": "Elektroautos ändern laut Gernot Wagner wenig an der Zersiedelung: Sie brauchen genauso viel Straße und Parkfläche wie Benziner.",
+   "question": "Wer hat's gesagt: Ein Elektroauto verursacht immer noch genau denselben Verkehr wie ein Benzinfresser?",
+   "answer": "Gernot Wagner",
+   "distractors": [
+    "Andreas Sator",
+    "Robert Frank",
+    "Ein ÖAMTC-Sprecher"
+   ],
+   "aha": "Das E-Auto ist fürs Klima super, aber es lockt genauso weit hinaus ins Grüne. Am Ende steht dann eine Garage für zwei Elektroautos neben dem immer größeren Haus.",
+   "quote_clean": "Ein Elektroauto verursacht immer noch genau denselben Verkehr wie ein Benzinfresser. Ein Elektroauto braucht immer noch dieselbe Parkfläche.",
+   "quality": 1
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Instagram-Argument (Haus öffentlich, Pendelzeit privat) belegt.",
+   "stand_note": "",
+   "statement": "Das große Haus kann man herzeigen, den langen Arbeitsweg nicht: Die Vorteile des Speckgürtels sind öffentlich, die Kosten bleiben privat.",
+   "question": "Warum wiegt der lange Arbeitsweg bei der Wohnortwahl laut Gernot Wagner oft so wenig?",
+   "answer": "Das Pendeln ist privat, das Haus herzeigbar",
+   "distractors": [
+    "Pendeln ist steuerlich kaum relevant",
+    "Die meisten arbeiten ohnehin im Homeoffice",
+    "Pendelzeit zählt als Arbeitszeit"
+   ],
+   "aha": "Den Weinkeller neben der Sauna postet man gern, die 45 Minuten im Stau eher nicht. Und das tägliche Pendeln gilt dann sogar noch als noble Geste für die Familie.",
+   "quote_clean": "Die längere Pendelzeit, die mit dem eigenen Weinkeller einhergeht, ist äußerst privat. Ich glaube, es gibt kaum jemanden, der auf Instagram Live seine 45-minütige tägliche Pendelzeit für die Welt dokumentiert.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt mit offensichtlicher Antwort und beliebigen Distraktoren.",
+   "stand_note": "",
+   "statement": "Gernot Wagner sieht es als Luxus, in einer kleineren Wohnung wohnen zu können und zu wollen.",
+   "question": "Wer hat's gesagt: In einer kleineren Wohnung wohnen zu können und zu wollen, ist Luxus?",
+   "answer": "Gernot Wagner",
+   "distractors": [
+    "Andreas Sator",
+    "Robert Frank",
+    "Ein Immobilienmakler"
+   ],
+   "aha": "Gernot wohnt mit Frau und zwei Kindern auf 70 Quadratmetern in New York, der Arbeitsweg dauert drei Minuten zu Fuß. Für ihn ist das kein Verzicht, sondern eine bewusste Entscheidung mit viel Lebensqualität.",
+   "quote_clean": "In einer kleineren Wohnung zu wohnen, wohnen zu können, wohnen zu wollen, ist Luxus, ist etwas, das man sich leisten möchte und leisten kann.",
+   "quality": 1
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt: NYT-Artikel zur Wohnungssuche mit dreimal „Effizienz“, nicht zwingend positiv gemeint; harmlos und unterhaltsam.",
+   "stand_note": "",
+   "statement": "Die New York Times schrieb über Gernot Wagners Wohnungssuche und verwendete dabei dreimal das Wort Effizienz, nicht unbedingt als Lob.",
+   "question": "Welches Wort kam laut Gernot dreimal im New-York-Times-Artikel über seine Wohnungssuche vor?",
+   "answer": "Effizienz",
+   "distractors": [
+    "Bescheidenheit",
+    "Nachhaltigkeit",
+    "Verzicht"
+   ],
+   "aha": "Eine vierköpfige Familie auf 70 Quadratmetern mitten in Manhattan war der Zeitung einen Artikel wert. Gernot nimmt es mit Humor: Familien wie seine kann er in seinem Häuserblock an einer Hand abzählen.",
+   "quote_clean": "Die New York Times hat einen Artikel über unsere Wohnungssuche geschrieben, in dem das Wort Effizienz dreimal vorgekommen ist. Und nicht zwingend positiv gemeint.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Reine Moderationsfloskel ohne Erkenntniswert; Aha enthält Aussagen, die im Ausschnitt nicht belegt sind.",
+   "stand_note": "",
+   "statement": "Am Ende der Folge fasst Andreas mit der Frage „Was nehme ich mir mit?“ zusammen, was er gelernt hat.",
+   "question": "Mit welcher Frage leitet Andreas am Ende der Folge seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was lernen wir daraus?",
+    "Was bleibt am Ende übrig?",
+    "Was heißt das jetzt für uns?"
+   ],
+   "aha": "Diesmal ist seine Erkenntnis: Wie und wo wir wohnen, hat enormen Einfluss aufs Klima.",
+   "quote_clean": "Danke für deine Zeit, Gernot. Herzlichen Dank. Was nehme ich mir mit? Die Entscheidung, wie und wo wir wohnen wollen, hat enormen Einfluss aufs Klima und auf die Umwelt.",
+   "quality": 1
+  }
+ ],
+ "id": "150",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

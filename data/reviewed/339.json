@@ -1,0 +1,292 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg stimmt (t=2508, knapp 10 Prozent pro Jahr); aha leicht an den Wortlaut angepasst.",
+   "stand_note": "",
+   "statement": "Jedes zusätzliche Bildungsjahr bringt im Durchschnitt rund 10 Prozent höheres Einkommen.",
+   "question": "Um wie viel Prozent steigt das Einkommen im Schnitt pro zusätzlichem Bildungsjahr?",
+   "answer": "Um knapp 10 Prozent",
+   "distractors": [
+    "Um etwa 2 Prozent",
+    "Um etwa 25 Prozent",
+    "Um etwa 40 Prozent"
+   ],
+   "aha": "Ein fünfjähriges Studium bringt damit grob 50 Prozent mehr Einkommen. Laut Wößmann ist das eine deutlich höhere Ertragsrate, als du mit Aktien bekommst.",
+   "quote_clean": "Jedes zusätzliche Bildungsjahr bringt im Durchschnitt, je nach Land ein bisschen anders, aber so Pi mal Daumen um die 10 % oder knapp 10 % höhere Einkommen.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Zahl stimmt, aber 'netto' und 'abdiskontiert' stehen nicht im Ausschnitt; entfernt.",
+   "stand_note": "",
+   "statement": "In Deutschland verdienen Menschen mit Uni-Abschluss im Schnitt rund 390.000 Euro mehr Lebenseinkommen als Menschen mit Lehre.",
+   "question": "Wie viel mehr Lebenseinkommen haben Uni-Absolvent:innen in Deutschland im Schnitt als Menschen mit Lehre?",
+   "answer": "Rund 390.000 Euro",
+   "distractors": [
+    "Rund 90.000 Euro",
+    "Rund 1,2 Millionen Euro",
+    "Rund 40.000 Euro"
+   ],
+   "aha": "Da sind die Jahre ohne Gehalt während des Studiums schon eingerechnet. Und laut Wößmann sieht das in Österreich ganz genauso aus.",
+   "quote_clean": "Menschen mit einer Fachhochschulausbildung verdienen 270.000 € Lebenseinkommen mehr als mit einer Lehre, und mit einer Uni sogar 390.000.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (t=588), als Schätzung formuliert.",
+   "stand_note": "",
+   "statement": "Zur Zeit Martin Luthers konnte schätzungsweise nur etwa 1 Prozent der Bevölkerung lesen und schreiben.",
+   "question": "Wie viel Prozent der Bevölkerung konnten zur Zeit Luthers schätzungsweise lesen und schreiben?",
+   "answer": "Etwa 1 Prozent",
+   "distractors": [
+    "Etwa 10 Prozent",
+    "Etwa 25 Prozent",
+    "Etwa 40 Prozent"
+   ],
+   "aha": "Die meisten Menschen waren einfache Bauern, Lesen war ein Luxus für ganz wenige. Erst Luthers Idee, dass jeder die Bibel selbst lesen soll, hat das langsam geändert.",
+   "quote_clean": "Die Schätzung zu der Zeit war, dass etwa 1 % der Bevölkerung lesen und schreiben konnte. Das war wirklich eine Welt, wo das die ganz große Ausnahme war.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (t=174), aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Martin Luther forderte die deutschen Fürsten auf, Schulen zu bauen – ausdrücklich auch für Mädchen.",
+   "question": "Wofür hat Martin Luther die deutschen Fürsten in Predigten aufgefordert?",
+   "answer": "Schulen auch für Mädchen zu bauen",
+   "distractors": [
+    "Universitäten nur für Theologen zu gründen",
+    "Bücher in Latein drucken zu lassen",
+    "Kinder ab zehn arbeiten zu lassen"
+   ],
+   "aha": "Wer die Bibel selbst lesen soll, muss erst einmal lesen können. Deshalb hat Luther mit der Druckerpresse Predigten verbreitet, in denen er Eltern sogar ins Gewissen geredet hat, ihre Kinder nicht von der Schule fernzuhalten.",
+   "quote_clean": "Dass er alle Fürsten in deutschen Landen dazu aufgefordert hat, doch Schulen zu bauen, und zwar nicht nur Schulen für Jungs, sondern auch für Mädchen.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Der Gast sagt 'kann erklären'; Formulierung entsprechend abgeschwächt.",
+   "stand_note": "",
+   "statement": "Laut Wößmanns Daten aus Preußen kann der Bildungsvorsprung protestantischer Gegenden ihren wirtschaftlichen Vorsprung vollständig erklären.",
+   "question": "Was kann laut Wößmanns Daten aus Preußen den wirtschaftlichen Vorsprung protestantischer Gegenden erklären?",
+   "answer": "Ihre bessere Bildung",
+   "distractors": [
+    "Ihre strengere Arbeitsethik",
+    "Ihre höhere Sparquote",
+    "Ihre besseren Gesetze"
+   ],
+   "aha": "Max Weber meinte, Protestanten seien fleißiger und sparsamer. Wößmann hat Daten aus 450 preußischen Landkreisen ausgewertet: Berücksichtigt man die Bildung, bleibt für eine andere Arbeitsethik nichts mehr zu erklären übrig.",
+   "quote_clean": "Wenn man sich das empirisch anschaut, ist dieser Unterschied so groß, dass er den gesamten Unterschied im wirtschaftlichen Erfolg zwischen protestantischen und katholischen Gegenden zu der Zeit erklären kann.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt, Frage aber sehr leicht; aha an Wortlaut angepasst (Opportunitätskosten nicht als 'größter' Posten behauptet).",
+   "stand_note": "",
+   "statement": "Ökonomisch betrachtet ist Bildung eine Investition wie eine Maschine: erst Kosten, später höhere Produktivität und Erträge.",
+   "question": "Womit vergleicht Bildungsökonom Ludger Wößmann Bildung aus ökonomischer Sicht?",
+   "answer": "Mit einer Investition in eine Maschine oder Fabrik",
+   "distractors": [
+    "Mit einer Versicherung gegen Arbeitslosigkeit",
+    "Mit einem Lottoschein",
+    "Mit einer Steuer auf die Jugend"
+   ],
+   "aha": "Neben direkten Kosten fallen dabei vor allem Opportunitätskosten an: das Gehalt, das du in der Zeit nicht verdienst. Ein Lieblingsbegriff der Ökonom:innen.",
+   "quote_clean": "Das ist genau wie wenn eine Firma sich entscheidet, in eine Maschine oder eine Fabrik zu investieren: Das hat zunächst große Kosten, und die Hoffnung ist, man wird später produktiver und holt das dann irgendwann wieder rein.",
+   "quality": 2
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "transkription",
+    "kontext"
+   ],
+   "note": "Die genannten 6 bis 7 Prozent Wachstum passen rechnerisch nicht zu 'neunmal reicher'; Wachstumsrate aus Statement und aha entfernt.",
+   "stand_note": "",
+   "statement": "Die Menschen in Singapur, Taiwan und Korea sind heute mehr als neunmal so wohlhabend wie ihre Großeltern vor zwei Generationen.",
+   "question": "Wie viel Mal so reich wie ihre Großeltern sind die Menschen in Singapur, Taiwan und Südkorea laut Wößmann heute?",
+   "answer": "Mehr als neunmal so reich",
+   "distractors": [
+    "Etwa doppelt so reich",
+    "Etwa viermal so reich",
+    "Etwa 30-mal so reich"
+   ],
+   "aha": "Zwei Generationen zurück waren das laut Wößmann arme Reisbauern-Länder, heute ähneln sie Westeuropa. Ein paar Prozent Wachstum mehr klingen nach wenig, aber über Jahrzehnte addiert sich das gewaltig.",
+   "quote_clean": "Die Menschen dort sind heute mehr als neunmal so reich, so wohlhabend wie ihre Großeltern vor zwei Generationen.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Beleg stimmt (t=1224); aha enthielt nicht belegte Details (Tests seit 1960er) und eine wertende Zuspitzung, ersetzt.",
+   "stand_note": "",
+   "statement": "Misst man Bildung über Testleistungen in Mathe und Naturwissenschaften statt über Schuljahre, erklärt sie über drei Viertel der Wachstumsunterschiede zwischen Ländern.",
+   "question": "Wie viel der langfristigen Wachstumsunterschiede zwischen Ländern erklären die Mathe- und Naturwissenschaftskompetenzen der Bevölkerung?",
+   "answer": "Über drei Viertel",
+   "distractors": [
+    "Etwa ein Zehntel",
+    "Etwa ein Viertel",
+    "Etwa ein Drittel"
+   ],
+   "aha": "In den Daten gibt es kein einziges Land mit schlecht gebildeter Bevölkerung, das langfristig reicher geworden ist. Wer 1960 Prognosen gemacht hätte, hätte eher auf Lateinamerika als auf Ostasien gesetzt.",
+   "quote_clean": "Dass wir den Großteil der Unterschiede eigentlich erklären: Mit so einem ganz einfachen Modell erklären wir über drei Viertel der Unterschiede in den langfristigen Wachstumsraten.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Beleg stimmt (t=1513); Geografie/Klima und 'Dutzende' stehen nicht im Ausschnitt, aha korrigiert; Antwort auf Institutionen erweitert.",
+   "stand_note": "",
+   "statement": "Neben Bildung bleiben nur sichere Eigentumsrechte und gute institutionelle Rahmenbedingungen als robuster Erklärungsfaktor für den Wohlstand von Ländern – und sie verstärken die Wirkung von Bildung.",
+   "question": "Welcher Faktor bleibt neben Bildung als robust wichtig für den Wohlstand von Ländern übrig?",
+   "answer": "Sichere Eigentumsrechte (gute Institutionen)",
+   "distractors": [
+    "Die Nähe zu den Tropen",
+    "Die Größe des Landes",
+    "Bodenschätze"
+   ],
+   "aha": "Laut Wößmann verschwinden fast alle anderen getesteten Faktoren, sobald man Bildung berücksichtigt. Nur die Institutionen bleiben: Wo dir dein Erfolg nicht weggenommen wird, zahlt sich Bildung besonders aus.",
+   "quote_clean": "Wenn das Beste, was ich mit meiner Bildung machen kann, eigentlich ist, ein möglichst guter Pirat zu sein und anderen Leuten die Sachen wegzunehmen, weil es keine Eigentumsrechte gibt, dann wirkt sich Bildung nicht besonders gut auf die Wirtschaft aus.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (t=3132, USA); aha deckt sich mit Ausschnitt.",
+   "stand_note": "",
+   "statement": "Am Berufsbeginn zählt vor allem der Abschluss; nach etwa zehn Jahren bezahlen Arbeitgeber nur noch für die tatsächlichen Kompetenzen.",
+   "question": "Wonach richtet sich in den USA das Gehalt etwa zehn Jahre nach dem Berufseinstieg vor allem?",
+   "answer": "Nach den tatsächlichen Kompetenzen",
+   "distractors": [
+    "Nach dem Namen der Uni",
+    "Nach der Abschlussnote",
+    "Nach dem Alter beim Einstieg"
+   ],
+   "aha": "Forscher:innen kannten Mathetests, die Jugendliche mit 17 gemacht hatten und die kein Arbeitgeber je gesehen hat. Mit der Zeit lernen Firmen trotzdem, wer produktiv ist – das nennt man Employer Learning.",
+   "quote_clean": "So nach etwa 10 Jahren hat sich das komplett umgedreht: Da habe ich überhaupt keinen Return mehr auf das reine Zertifikat.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage war trivial (einziger Gast); umgebaut auf die belegte Zahl (60 Prozent vor Corona verloren, t=3762).",
+   "stand_note": "Stand 2025",
+   "statement": "Deutschland hatte laut Wößmann schon vor Corona rund 60 Prozent der Leistungsgewinne seit dem PISA-Schock wieder verloren.",
+   "question": "Wie viel der Leistungsgewinne seit dem PISA-Schock hatte Deutschland laut Wößmann schon vor Corona wieder verloren?",
+   "answer": "Rund 60 Prozent",
+   "distractors": [
+    "Rund 10 Prozent",
+    "Rund 25 Prozent",
+    "Fast alles"
+   ],
+   "aha": "Nach dem PISA-Schock ging es zehn Jahre bergauf, dann schlief der Fokus auf Lesen, Schreiben und Rechnen wieder ein. Wößmann nennt die Kurve einen traurigen Smiley: erst Mundwinkel hoch, dann deutlich runter.",
+   "quote_clean": "Da hatten wir schon bis vor Corona 60 % dessen, was wir erst gewonnen hatten, wieder verloren.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "ton",
+    "fairness"
+   ],
+   "note": "Wer-sagt-es-Frage ist trivial, aha enthält nicht belegte Behauptungen, Vergleich ist eine politische Wertung.",
+   "stand_note": "",
+   "statement": "Wößmann vergleicht die Abschaffung des PISA-Bundesländervergleichs mit Arbeitsministern, die keine Arbeitslosenquoten mehr veröffentlichen wollen.",
+   "question": "Wer vergleicht das Ende des Bildungs-Ländervergleichs mit Arbeitsministern, die keine Arbeitslosenquoten mehr veröffentlichen?",
+   "answer": "Ludger Wößmann",
+   "distractors": [
+    "Andreas Sator",
+    "Johannes Kopf",
+    "Bryan Caplan"
+   ],
+   "aha": "In der Arbeitsmarktpolitik wäre so viel Intransparenz undenkbar, in der Bildungspolitik ist sie offenbar akzeptabel. Ohne Daten kann eben jedes Land behaupten, das beste Schulsystem der Welt zu haben.",
+   "quote_clean": "Das ist so, als wenn die Arbeitsminister sich zusammensetzen würden und sagen: Ist nicht doof, dass wir immer über die Arbeitslosenquoten reden? Wir hören jetzt auf, die nach Bundesländern zu veröffentlichen.",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg",
+    "ton"
+   ],
+   "note": "Scherz ohne Faktenwert, aha enthält nicht belegte Angabe (15 Studien).",
+   "stand_note": "",
+   "statement": "Andreas fasst Wößmanns Luther-Forschung zusammen und hofft scherzhaft, dass wenigstens der Forscher seine komplizierten Methoden versteht.",
+   "question": "Was hofft Andreas augenzwinkernd über Wößmanns komplizierte Forschungsmethoden?",
+   "answer": "Dass wenigstens Wößmann sie versteht",
+   "distractors": [
+    "Dass sie bald verboten werden",
+    "Dass er sie selbst lernen kann",
+    "Dass sie nie jemand nachrechnet"
+   ],
+   "aha": "Andreas hatte sich zur Vorbereitung durch über 15 Studien gelesen. Ein bisschen Respekt vor der Ökonometrie bleibt trotzdem.",
+   "quote_clean": "Mit deinen komplizierten Methoden, die wir alle nicht verstehen – ich hoffe, du verstehst sie –, hast du dann gezeigt: Na, das liegt tatsächlich daran, dass die besser gebildet waren.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg stimmt (t=6985); 'Gäste' war falsch (ein Gast), Aha leicht angepasst; als Spielfrage schwach.",
+   "stand_note": "Stand 2025",
+   "statement": "Zum Abschluss nennt Ludger Wößmann auf Andreas' Schlussfrage die Tagesschau als Medium, mit dem er sich persönlich informiert.",
+   "question": "Welches Medium nennt Ludger Wößmann auf Andreas' typische Schlussfrage?",
+   "answer": "Die Tagesschau der ARD",
+   "distractors": [
+    "Die ZIB 2 im ORF",
+    "Die Zeit",
+    "Den Economist"
+   ],
+   "aha": "Eine Viertelstunde um 20 Uhr, und man weiß, was am Tag passiert ist. Wößmann bricht dabei gleich eine Lanze für den öffentlich-rechtlichen Rundfunk.",
+   "quote_clean": "Ich schaue ehrlich gesagt total gerne die klassische alte Tagesschau im deutschen öffentlichen Fernsehen, abends um 8 Uhr für eine Viertelstunde.",
+   "quality": 2
+  }
+ ],
+ "id": "339",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

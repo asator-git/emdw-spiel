@@ -1,0 +1,267 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Zahl belegt; Distraktor 'Über 2000' wäre auch 'über 200' und war damit mehrdeutig; aha enthielt unbelegtes 'Futterverwerter'.",
+   "stand_note": "",
+   "statement": "Es sind über 200 Gene bekannt, die das Risiko für Adipositas erhöhen.",
+   "question": "Wie viele Gene sind bekannt, die das Risiko für Adipositas erhöhen?",
+   "answer": "Über 200",
+   "distractors": [
+    "Rund 5",
+    "Etwa 20",
+    "Rund 2.000"
+   ],
+   "aha": "Über 200 Gene mischen mit, wenn es ums Risiko für Adipositas geht. Dazu kommen Hormone und ein Umfeld mit Sitzjobs und viel Zucker, mit „iss halt weniger“ ist es also nicht getan.",
+   "quote_clean": "Die Genetik zum Beispiel: Es sind über 200 Gene bekannt, die das Risiko für Adipositas erhöhen.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "spielbarkeit"
+   ],
+   "note": "Wert belegt (im Schnitt rund 20 %); 'derzeit stärkstes Medikament' kann bis November 2026 überholt sein, daher aus der Frage genommen und Stand ergänzt.",
+   "stand_note": "Stand 2026",
+   "statement": "Mit Tirzepatid verlieren Menschen laut Florian Kiefer im Schnitt bis zu 20 Prozent ihres Ausgangsgewichts.",
+   "question": "Wie viel Prozent ihres Ausgangsgewichts verlieren Menschen mit Tirzepatid laut Florian Kiefer im Schnitt?",
+   "answer": "Bis zu 20 Prozent",
+   "distractors": [
+    "Etwa 5 Prozent",
+    "Etwa 10 Prozent",
+    "Etwa 35 Prozent"
+   ],
+   "aha": "Wer 100 Kilo wiegt, landet also im Schnitt bei rund 80. Die ersten Präparate schafften noch etwa 10 Prozent, Tirzepatid dockt gleich an zwei Rezeptoren an, an GLP-1 und GIP. Einzelne verlieren deutlich mehr, andere weniger.",
+   "quote_clean": "Da sehen wir eine Gewichtsreduktion im Schnitt bis zu 20 Prozent vom Ausgangsgewicht.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "150 Minuten belegt (Transkript hat Versprecher '115 150'); aha-Aussage zum Muskelabbau etwas abgeschwächt auf das im Ausschnitt Belegte.",
+   "stand_note": "",
+   "statement": "Internationale Leitlinien empfehlen begleitend zur Abnehmtherapie mindestens 150 Minuten Ausdauer- und Krafttraining pro Woche.",
+   "question": "Wie viele Minuten Ausdauer- und Krafttraining pro Woche empfehlen die Leitlinien mindestens begleitend zur Abnehmspritze?",
+   "answer": "150 Minuten",
+   "distractors": [
+    "60 Minuten",
+    "300 Minuten",
+    "450 Minuten"
+   ],
+   "aha": "Das sind dreimal pro Woche eine knappe Stunde. Die Spritze dämpft den Appetit, steigert aber den Energieverbrauch nicht. Training soll ihn ankurbeln und die Muskelmasse erhöhen.",
+   "quote_clean": "Mindestens 150 Minuten Ausdauer- und Krafttraining pro Woche. Das wären dreimal pro Woche eine knappe Stunde, das wäre die Minimalempfehlung.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "DPP-4-Abbau in wenigen Minuten und wöchentliche Gabe belegt.",
+   "stand_note": "",
+   "statement": "Das körpereigene Darmhormon GLP-1 wird von einem Enzym innerhalb weniger Minuten wieder abgebaut.",
+   "question": "Wie lange bleibt das körpereigene Sättigungshormon GLP-1 nach dem Essen ungefähr im Blut?",
+   "answer": "Ein paar Minuten",
+   "distractors": [
+    "Ein paar Stunden",
+    "Etwa einen Tag",
+    "Etwa eine Woche"
+   ],
+   "aha": "Das Enzym DPP-4 räumt GLP-1 in Minuten weg, darum reicht es nur für einen kurzen Insulin-Schub nach der Semmel. Die Spritzen sind chemisch so verändert, dass eine pro Woche reicht.",
+   "quote_clean": "Es wird dann sehr schnell wieder abgebaut durch ein Enzym, die sogenannte DPP-4, Dipeptidylpeptidase 4, und ist innerhalb von ein paar Minuten wieder abgebaut.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Blutzuckerabhängige Wirkung und fehlende Unterzuckerung in Monotherapie belegt.",
+   "stand_note": "",
+   "statement": "GLP-1-Medikamente senken den Blutzucker nur, wenn er hoch ist, und verursachen allein eingesetzt normalerweise keine Unterzuckerung.",
+   "question": "Was passiert mit dem Blutzucker, wenn Menschen ohne Diabetes eine GLP-1-Abnehmspritze nehmen?",
+   "answer": "Er sinkt nur, wenn er hoch ist",
+   "distractors": [
+    "Er sinkt immer stark ab",
+    "Er steigt dauerhaft leicht an",
+    "Er schwankt stärker als vorher"
+   ],
+   "aha": "Die Wirkung hängt davon ab, wie hoch der Blutzucker gerade ist. Deshalb machen die Medikamente allein normalerweise keine Unterzuckerung und können auch ohne Diabetes relativ sicher eingesetzt werden.",
+   "quote_clean": "Diese Medikamente senken den Blutzuckerspiegel wirklich in Abhängigkeit von der Höhe des Blutzuckers. Wenn der Blutzucker hoch ist, geht er runter. Wenn der Blutzucker aber schon niedrig ist, dann fällt er nicht noch weiter ab.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Aussage ist Kiefers Einschätzung; Frage mit 'laut Florian Kiefer' versehen statt als allgemeine Tatsache.",
+   "stand_note": "",
+   "statement": "Laut Florian Kiefer wird Kalorienzählen zum Abnehmen nicht mehr empfohlen, weil man sich dabei automatisch verzählt.",
+   "question": "Warum wird Kalorienzählen laut Florian Kiefer nicht mehr empfohlen?",
+   "answer": "Weil man sich automatisch verzählt",
+   "distractors": [
+    "Weil es zu Essstörungen führen muss",
+    "Weil Kalorien keine Rolle spielen",
+    "Weil es zu viel Zeit kostet"
+   ],
+   "aha": "Selbst wenn du nur Fertigpackerl mit Kalorienangabe isst, weißt du noch immer nicht, wie viel du verbrauchst. Formeln mit Größe, Gewicht, Alter und Geschlecht liefern nur eine Schätzung, genau misst man das nur in Studien.",
+   "quote_clean": "Das Kalorienzählen wird aus diesem Grund jetzt auch nicht mehr empfohlen, weil wir uns automatisch immer verzählen.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Setpoint-Theorie belegt; Satz zum Fett im Bauch war nicht gedeckt und wurde ersetzt.",
+   "stand_note": "",
+   "statement": "Laut Setpoint-Theorie funktioniert das Gehirn bei Adipositas wie ein verstelltes Thermostat, das nach dem Abnehmen zum alten Gewicht zurückwill.",
+   "question": "Womit vergleicht die Setpoint-Theorie die Rolle des Gehirns bei Adipositas?",
+   "answer": "Mit einem verstellten Thermostat",
+   "distractors": [
+    "Mit einem leeren Akku",
+    "Mit einem undichten Wassertank",
+    "Mit einem kaputten Tacho"
+   ],
+   "aha": "Hat das Gehirn einmal ein Gewicht erreicht, versucht es nach dem Abnehmen dorthin zurückzukommen, über Hunger- und Sättigungssignale. Das Fett lagert sich im Körper ab, die Schaltstelle sitzt aber im Gehirn.",
+   "quote_clean": "Man spricht in dem Kontext auch von der sogenannten Setpoint-Theorie. Man kann sich das vorstellen wie ein verstelltes Thermostat. Das Thermostat ist in dem Fall das Gehirn.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Rezeptoren in Hypothalamus und Hirnstamm und ihre Wirkung belegt.",
+   "stand_note": "",
+   "statement": "Abnehmspritzen wirken, weil GLP-1-Rezeptoren auch in den Appetitzentren des Gehirns sitzen, etwa im Hypothalamus, und dort Sättigung auslösen.",
+   "question": "Wo setzen Abnehmspritzen an, damit man weniger Hunger hat?",
+   "answer": "In den Appetitzentren des Gehirns",
+   "distractors": [
+    "Direkt in den Fettzellen",
+    "In den Geschmacksknospen",
+    "In der Schilddrüse"
+   ],
+   "aha": "Ursprünglich kannte man die Rezeptoren nur aus der Bauchspeicheldrüse. Dann fand man sie auch im Hypothalamus und im Hirnstamm, und dort dämpfen die Wirkstoffe Hunger und Heißhunger.",
+   "quote_clean": "Hypothalamus oder auch dem Hirnstamm. Dort sitzen die Appetitzentren, und wenn ich diese Rezeptoren im Gehirn aktiviere, dann verursacht das Sättigungsgefühl beziehungsweise reduziert Hunger und Cravings.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Energiespeicherung als Überlebensvorteil und 100 Jahre Überfluss im Ausschnitt belegt.",
+   "stand_note": "",
+   "statement": "Der Körper wehrt sich gegen Gewichtsverlust, weil wir evolutionär darauf programmiert sind, Energie für Hungerperioden zu speichern.",
+   "question": "Warum wehrt sich der Körper so hartnäckig dagegen, Gewicht zu verlieren?",
+   "answer": "Energie speichern war ein Überlebensvorteil",
+   "distractors": [
+    "Fett schützt vor Infektionen",
+    "Muskeln brauchen Fett als Treibstoff",
+    "Das Gehirn wächst mit dem Gewicht"
+   ],
+   "aha": "Über Jahrtausende war Hunger das Problem, Nahrung im Überschuss gibt es erst seit etwa 100 Jahren. Evolutionsbiologie lässt sich in ein paar Jahrzehnten nicht umdrehen, also kämpft der Körper um jedes Kilo.",
+   "quote_clean": "Wir sind genetisch darauf programmiert, Energie gut speichern zu können. Das hat uns über Jahrtausende einen Überlebensvorteil beschert.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Zuordnungsfrage ohne Spielwert.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Zuordnungsfrage ohne Spielwert.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Zuordnungsfrage zu inhaltlicher Frage umgebaut (Absetzen führt meist rasch zu Gewichtszunahme, belegt bei t=2197); unbelegte Blutdruck-Analogie entfernt.",
+   "stand_note": "",
+   "statement": "Wer Abnehmspritzen abrupt absetzt, nimmt im Normalfall relativ rasch wieder zu; Adipositas ist laut Kiefer eine chronische Erkrankung.",
+   "question": "Was passiert laut Florian Kiefer meist, wenn man eine Abnehmspritze abrupt absetzt?",
+   "answer": "Das Gewicht steigt relativ rasch wieder",
+   "distractors": [
+    "Das Gewicht bleibt dauerhaft stabil",
+    "Der Körper nimmt noch Monate weiter ab",
+    "Der Blutzucker steigt sprunghaft an"
+   ],
+   "aha": "Adipositas ist laut Kiefer eine chronische Erkrankung und braucht chronisches Management. Das heißt nicht, ein Leben lang dasselbe Medikament zu nehmen, aber man muss immer etwas dafür tun, sonst kommt die Erkrankung wieder zurück.",
+   "quote_clean": "Wenn man diese Medikamente nimmt und sie abrupt absetzt, dann geht das Gewicht im Normalfall relativ rasch wieder nach oben.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsbeginn, kein Wissensgewinn.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Spruch-Quiz ohne Wissensgewinn; Kiefers Antwort ist die eigentliche Information.",
+   "stand_note": "",
+   "statement": "",
+   "question": "",
+   "answer": "",
+   "distractors": [],
+   "aha": "",
+   "quote_clean": "",
+   "quality": 1
+  }
+ ],
+ "id": "396",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

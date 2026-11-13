@@ -1,0 +1,294 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Von Benz selbst mit „glaube ich, ungefähr“ relativiert, ohne Länderbezug (Deutschland/Österreich unterscheiden sich); als Zahlenfrage zu unsicher.",
+   "stand_note": "",
+   "statement": "Rund 80 Prozent der Menschen sterben nicht zu Hause, sondern etwa im Krankenhaus oder Pflegeheim, obwohl sich die meisten das Sterben daheim wünschen.",
+   "question": "Wie viel Prozent der Menschen sterben nicht zu Hause?",
+   "answer": "Etwa 80 Prozent",
+   "distractors": [
+    "Etwa 20 Prozent",
+    "Etwa 45 Prozent",
+    "Etwa 60 Prozent"
+   ],
+   "aha": "",
+   "quote_clean": "Jetzt sind es, glaube ich, ungefähr 80 Prozent von uns, die nicht zu Hause sterben, obwohl wir eigentlich alle zu Hause sterben wollen.",
+   "quality": 2
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Benz sagt selbst, sie wisse nicht genau, wie es in Österreich ist; die Fristen sind landesrechtlich verschieden und der Satz („die Kürze“) ist unscharf; das Aha enthält zudem Erfundenes.",
+   "stand_note": "",
+   "statement": "In Deutschland darf man Verstorbene je nach Bundesland unterschiedlich lange zu Hause behalten, mindestens aber 24 Stunden.",
+   "question": "Wie viele Stunden darf man einen verstorbenen Menschen in Deutschland mindestens zu Hause behalten?",
+   "answer": "24 Stunden",
+   "distractors": [
+    "2 Stunden",
+    "6 Stunden",
+    "72 Stunden"
+   ],
+   "aha": "",
+   "quote_clean": "Es gibt Fristen, ich weiß nicht genau, wie es in Österreich ist, es gibt von Bundesland zu Bundesland unterschiedliche Fristen, wie lange jemand zu Hause sein kann. Aber die kürzesten sind 24 Stunden.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "„Plus minus zwei Tage“ bei 1118 s belegt, aber ungefähre Angabe; Frage auf „zwei Tage“ umgestellt, Distraktor 150 Stunden war unplausibel.",
+   "stand_note": "",
+   "statement": "Die Totenstarre löst sich nach etwa zwei Tagen wieder, abhängig von Temperatur und Todesumständen.",
+   "question": "Wie lange dauert die Totenstarre ungefähr?",
+   "answer": "Etwa zwei Tage",
+   "distractors": [
+    "Etwa drei Stunden",
+    "Etwa zwölf Stunden",
+    "Etwa eine Woche"
+   ],
+   "aha": "Die Totenstarre ist nicht für immer, sie geht nach rund zwei Tagen von selbst wieder weg. Wer jemanden anziehen will, macht das am besten in den ersten Stunden oder wartet einfach, bis sie sich gelöst hat.",
+   "quote_clean": "Die dauert ungefähr plus minus zwei Tage. Das hat wieder mit Temperatur, Todesumständen und der Zusammensetzung körperlicher Chemikalien zu tun.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beginn im Hals/Kiefer und Wandern nach unten bei 975-980 s belegt und fachlich korrekt.",
+   "stand_note": "",
+   "statement": "Die Totenstarre beginnt im Nacken und am Kiefer und wandert dann den Körper hinunter.",
+   "question": "Wo beginnt die Totenstarre?",
+   "answer": "Hinten am Hals und am Kiefer",
+   "distractors": [
+    "An den Zehen",
+    "In den Fingern",
+    "Gleichzeitig im ganzen Körper"
+   ],
+   "aha": "Man kann richtig mitverfolgen, wie zuerst der Kopf, dann der Arm und dann das Bein steifer wird. Sarah findet das hilfreich: So begreift man Stück für Stück, dass dieser Mensch wirklich tot ist.",
+   "quote_clean": "Es beginnt dann die Totenstarre, das stimmt. Die beginnt hier hinten im Hals, geht auf den Kiefer und wandert dann den Körper hinunter.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Entstehung der Totenflecken und Details (nach einigen Stunden, zartrosa) bei 1001-1021 s belegt.",
+   "stand_note": "",
+   "statement": "Totenflecken entstehen, weil das Blut nach dem Tod absackt, und zeigen sich an der Unterseite des Körpers.",
+   "question": "Wie entstehen Totenflecken?",
+   "answer": "Das Blut sackt nach unten ab",
+   "distractors": [
+    "Die Haut trocknet an der Luft aus",
+    "Bakterien färben die Haut lila",
+    "Das Herz pumpt ein letztes Mal"
+   ],
+   "aha": "Ohne Kreislauf folgt das Blut einfach der Schwerkraft. Die Flecken kommen erst nach einigen Stunden und sind anfangs zartrosa, nicht gleich dunkellila, wie viele befürchten.",
+   "quote_clean": "Es gibt die sogenannten Totenflecken. Die entstehen dadurch, dass das Blut absackt, weil der Blutkreislauf nicht mehr zirkuliert. Die sind dann an der Unterseite des Körpers, dort, wo er aufliegt.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Aussage belegt (1604-1617 s), gilt aber für ihre Praxis in Berlin; Frage umformuliert und mit Länderbezug versehen.",
+   "stand_note": "",
+   "statement": "Laut Sarah Benz muss man in Deutschland keine Urne kaufen: Die Asche wird im Krematorium ohnehin in eine Aschekapsel gefüllt, die man beisetzen kann.",
+   "question": "Worin wird die Asche im Krematorium laut Sarah Benz zunächst gefüllt, sodass man nicht zwingend eine Urne kaufen muss?",
+   "answer": "In eine Aschekapsel",
+   "distractors": [
+    "In einen Papiersack",
+    "In eine Glasflasche",
+    "In ein Holzkisterl"
+   ],
+   "aha": "Die Kapsel ist schon ein Gefäß, das man so beisetzen oder mit einem Tuch verschönern kann. Wer mag, bastelt auch selbst eine Urne. Kaufen muss man jedenfalls keine.",
+   "quote_clean": "Dass man keine Urne kaufen muss. Es wird oft so kommuniziert, dass man eine Urne kaufen muss, aber die Asche wird im Krematorium in eine Aschekapsel gefüllt.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Begründung bei 1753-1762 s belegt; im Aha war „Andreas will sich das Wort ausborgen“ nicht im Ausschnitt belegt und wurde entfernt.",
+   "stand_note": "",
+   "statement": "Das Wort Zugehörige schließt im Gegensatz zu Angehörigen auch Freundinnen, Freunde und Wahlfamilie mit ein.",
+   "question": "Warum sagt Sarah Benz lieber Zugehörige statt Angehörige?",
+   "answer": "Weil es auch Freunde einschließt",
+   "distractors": [
+    "Weil es juristisch korrekter ist",
+    "Weil es kürzer ist",
+    "Weil es nur Kinder meint"
+   ],
+   "aha": "Angehörige sind nur Blutsverwandte und Angeheiratete, und da fallen oft genau die Menschen raus, die am wichtigsten waren. Gerade bei queeren Menschen ist die Wahlfamilie oft näher als die Kernfamilie.",
+   "quote_clean": "Und deshalb sage ich übrigens auch Zugehörige, das ist dir vielleicht aufgefallen, weil Zugehörige alle einschließt. Angehörige meint nur Blutsverwandte und Angeheiratete.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Inhalt bei 1034-1048 s belegt; Frage als Sarahs Sicht gerahmt, schwacher Distraktor (Totenstarre setzt früher ein) ersetzt.",
+   "stand_note": "",
+   "statement": "Wer Verstorbene zu früh abholen lässt, verliert sie nach Sarah Benz gleichsam doppelt: einmal durch den Tod und einmal durch andere, die sie wegbringen.",
+   "question": "Was kann es laut Sarah Benz für Zugehörige schlimm machen, wenn Verstorbene gleich nach dem Tod abgeholt werden?",
+   "answer": "Sie verlieren die Toten gleichsam doppelt",
+   "distractors": [
+    "Der Körper verändert sich dann schneller",
+    "Es wird für sie deutlich teurer",
+    "Der Arzt muss den Tod erneut feststellen"
+   ],
+   "aha": "Wer abwartet, spürt irgendwann selbst, wann der Körper fremd geworden ist und man den Sargdeckel zumachen kann. Dieses freiwillige Gehenlassen ist für Sarah das Wertvollste am ganzen Abschied.",
+   "quote_clean": "Weil es für Menschen oft schlimm ist, wenn die Toten gerade gestorben sind und sie das Gefühl haben, das ist noch total mein Mensch, und dann kommt jemand und nimmt ihn mit. Dann werden uns die Toten doppelt weggenommen.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Sarah nennt zwei Gründe (Bestattungsindustrie und Sterben in Kliniken/Heimen), die Frage fragt nach nur einem; historische Distraktoren nicht eindeutig widerlegbar.",
+   "stand_note": "",
+   "statement": "Mit der Industrialisierung des Bestatterberufs und arbeitsteiliger Effizienz wurde der Umgang mit Toten aus den Familien ausgelagert.",
+   "question": "Was hat laut Sarah Benz dazu geführt, dass Tote heute seltener zu Hause aufgebahrt werden?",
+   "answer": "Ein industrialisierter Bestatterberuf",
+   "distractors": [
+    "Ein Verbot im 19. Jahrhundert",
+    "Die Erfindung des Kühlschranks",
+    "Kirchliche Vorschriften"
+   ],
+   "aha": "",
+   "quote_clean": "Bevor es diesen industrialisierten Beruf des Bestatters gab, der sehr männerdominiert war und durch Arbeitsteilung sehr effektiv sein sollte. In diesem Prozess sind uns die Toten auch weggenommen worden.",
+   "quality": 2
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Aussage bei 2991-3004 s belegt; Aha-Detail zu Andreas (Buch, Fußball, Lieblingsstellen) steht nicht im Ausschnitt und wurde durch Belegtes ersetzt.",
+   "stand_note": "",
+   "statement": "Sarah Benz meint, auch wer mit kirchlichen Ritualen nichts anfangen kann, braucht beim Abschied Rituale, nur eben neue.",
+   "question": "Was hält Sarah Benz für ein Missverständnis bei Menschen, die mit kirchlichen Ritualen nichts anfangen können?",
+   "answer": "Dass sie deshalb keine Rituale brauchen",
+   "distractors": [
+    "Dass sie keine Trauerfeier wollen",
+    "Dass sie lieber verbrannt werden",
+    "Dass sie keine Rede wollen"
+   ],
+   "aha": "Ein Ritual kann auch sein, dass alle um den Sarg stehen und einen Lieblingskeks essen, eine Kerze hinstellen oder einen Wunsch aufschreiben. Es geht darum, Rituale zu finden, die zu den Menschen passen.",
+   "quote_clean": "Ich glaube, es ist ein Missverständnis, dass wir, nur weil die kirchlichen Rituale nicht mehr greifen, weil viele Menschen damit nicht mehr so viel anfangen können, deshalb kein Bedürfnis nach Ritualen haben.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Zitat bei 2402-2415 s belegt; im Aha war „ehrfürchtiger“ nicht gesagt, ersetzt durch „wie fragil das Leben ist“.",
+   "stand_note": "",
+   "statement": "Die Bestatterin Sarah Benz hält den Spruch, jeden Tag zu leben, als wäre er der letzte, für eine Überforderung.",
+   "question": "Was hält Sarah Benz vom Spruch „Lebe jeden Tag, als wäre er dein letzter“?",
+   "answer": "Er ist eine Überforderung",
+   "distractors": [
+    "Er ist ihr Lebensmotto",
+    "Er gilt nur für junge Menschen",
+    "Sie hat ihn selbst erfunden"
+   ],
+   "aha": "Ausgerechnet die, die täglich mit dem Tod arbeitet, findet den Kalenderspruch eher unmenschlich. Was ihr Job aber schon macht: Sie weiß, dass niemand ein Recht auf 80 Jahre hat, und ihr wird oft klar, wie fragil das Leben ist.",
+   "quote_clean": "Dieses „Lebe jeden Tag, als wäre er dein letzter“ ist eine Überforderung, weil wir da jeden letzten Tag immer wieder und wieder erleben müssen.",
+   "quality": 4
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Hoffnung auf „zärtlicher mit dem Leben“ bei 2459-2477 s wörtlich belegt, inkl. Hinweis auf mögliche Naivität.",
+   "stand_note": "",
+   "statement": "Sarah Benz hofft, dass die Beschäftigung mit dem Tod uns zärtlicher mit dem Leben umgehen lässt.",
+   "question": "Was erhofft sich Sarah Benz von der Auseinandersetzung mit dem Tod?",
+   "answer": "Dass wir zärtlicher mit dem Leben werden",
+   "distractors": [
+    "Dass wir weniger Angst vor Ärzten haben",
+    "Dass Begräbnisse billiger werden",
+    "Dass wir länger leben"
+   ],
+   "aha": "Wer merkt, wie zerbrechlich das Leben ist, geht liebevoller miteinander um, und vielleicht auch mit der Welt, sagt Sarah. Sie weiß, dass das naiv klingen mag, glaubt aber daran.",
+   "quote_clean": "Ich habe die Hoffnung, dass die Auseinandersetzung mit dem Tod uns auch zärtlicher mit dem Leben umgehen lässt.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Handy auf laut wegen anstehender Geburt bei 935-943 s belegt; Aha behauptete späteren Rückruf, belegt ist nur „ich rufe sie gleich zurück“.",
+   "stand_note": "",
+   "statement": "Mitten im Gespräch läutet Sarahs Handy, das sie wegen einer bevorstehenden Geburt auf laut gestellt hatte.",
+   "question": "Warum hatte Sarah Benz bei der Aufnahme ihr Handy auf laut gestellt?",
+   "answer": "Weil eine Geburt anstand",
+   "distractors": [
+    "Weil ein Sterbefall erwartet wurde",
+    "Weil ihr Kollege anrufen wollte",
+    "Weil sie Musik abspielen wollte"
+   ],
+   "aha": "Ausgerechnet in einer Folge über Begräbnisse wartet die Bestatterin auf eine Geburt. Der Anruf war dann aber noch nicht die Geburt – Sarah wollte gleich zurückrufen.",
+   "quote_clean": "Zur Einordnung: Sarah hat mir vor der Aufnahme erzählt, dass sie das Handy auf laut hat, weil eine Geburt ansteht.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Rate-Frage nach einer Floskel ohne Wissenswert; Aha behauptet starkes Weinen, im Ausschnitt nur „halbe Zeit weinen können“.",
+   "stand_note": "",
+   "statement": "Am Ende jeder Folge fasst Andreas unter der Frage Was nehme ich mir mit zusammen, was er gelernt hat.",
+   "question": "Mit welcher Frage leitet Andreas sein persönliches Fazit am Ende der Folge ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was habe ich heute gelernt?",
+    "Was bleibt hängen?",
+    "Was heißt das für uns?"
+   ],
+   "aha": "",
+   "quote_clean": "Was nehme ich mir mit? Für mich war das eine wahnsinnig berührende Aufnahme, und sie gehört jetzt schon zu meinen Highlights.",
+   "quality": 1
+  }
+ ],
+ "id": "235",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

@@ -1,0 +1,284 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Zahlen stammen aus Malcolms Aussage (nicht gesichert); Frage auf \"laut Malcolm\" umgestellt, Stand 2023.",
+   "stand_note": "Stand 2023",
+   "statement": "Laut Malcolm Werchota hat Israel bei rund 10 Millionen Einwohner:innen etwa 70 Unicorns, Österreich bei ähnlicher Größe nur vier oder fünf.",
+   "question": "Österreich hat laut Malcolm Werchota etwa vier bis fünf Unicorns. Wie viele nennt er für Israel mit ähnlich vielen Einwohner:innen?",
+   "answer": "Rund 70",
+   "distractors": [
+    "Rund 15",
+    "Rund 30",
+    "Rund 150"
+   ],
+   "aha": "Gleich groß wie Österreich, aber um ein Vielfaches mehr Start-ups mit Milliardenbewertung. Malcolm hat dort für Novartis gearbeitet und erzählt, wie extrem innovativ das Umfeld ist. Dort hat er auch zum ersten Mal ChatGPT in einer Business Unit ausgerollt.",
+   "quote_clean": "Israel hat 10 Millionen Einwohner und hat 70 Unicorns, das heißt, es ist ein extrem innovatives Umfeld.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Definition belegt (Malcolm sagt Euro, üblich ist Dollar, für die Frage unerheblich).",
+   "stand_note": "",
+   "statement": "Als Unicorn bezeichnet man ein Start-up, das mit mehr als einer Milliarde bewertet wird.",
+   "question": "Ab wann gilt ein Start-up als „Unicorn“?",
+   "answer": "Ab einer Milliarde Bewertung",
+   "distractors": [
+    "Ab 100 Millionen Umsatz",
+    "Ab 1.000 Mitarbeiter:innen",
+    "Ab dem Börsengang"
+   ],
+   "aha": "Einhörner heißen sie, weil solche Firmen früher so selten waren wie das Fabeltier. Gemeint ist der Wert, den Investor:innen dem Unternehmen geben, nicht Umsatz oder Gewinn.",
+   "quote_clean": "Wenn man diese Unicorns kennt: Das sind diese Firmen, die mit mehr als einer Milliarde Euro bewertet werden.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt; \"häufigster\" Fehler überzogen, Malcolm sagt \"der große Fehler, den viele machen\".",
+   "stand_note": "Stand 2023",
+   "statement": "Viele benutzen KI-Chatbots wie eine Suchmaschine mit wenigen Stichworten, dabei brauchen diese Modelle viel Kontext und Erklärung.",
+   "question": "Welchen großen Fehler machen laut Malcolm Werchota viele Leute im Umgang mit ChatGPT?",
+   "answer": "Man tippt Stichworte wie bei Google",
+   "distractors": [
+    "Man stellt zu viele Fragen hintereinander",
+    "Man schreibt zu höflich",
+    "Man nutzt die Gratisversion"
+   ],
+   "aha": "Zwanzig Jahre Google haben uns beigebracht, möglichst knapp zu tippen. Ein Sprachmodell will aber das Gegenteil: viel Kontext und Erklärung. Malcolm rät sogar, am besten einfach hineinzureden statt zu tippen.",
+   "quote_clean": "Der große Fehler, den viele Leute machen, ist, dass sie versuchen, diese Modelle wie Google zu benutzen. Wir haben 20 Jahre lang gelernt, wie man mit Google arbeitet: zwei, drei Wörter, kurz und prägnant. Aber das funktioniert bei diesen Modellen nicht.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "\"Wer sagt\" mit dem Gast als Antwort, Distraktoren (z. B. Ethan Mollick) willkürlich; Aha mit unpassendem Witz.",
+   "stand_note": "",
+   "statement": "Wer einem Sprachmodell kaum Informationen gibt, bekommt auch schlechte Antworten.",
+   "question": "Wer sagt im Podcast: „Da kommt nur Mist raus, weil du tust auch Mist rein“?",
+   "answer": "Malcolm Werchota",
+   "distractors": [
+    "Andreas Sator",
+    "Ethan Mollick",
+    "Adam Davidson"
+   ],
+   "aha": "Das klassische „Garbage in, garbage out“: Wer dem Modell kaum Information gibt, bekommt auch kaum Brauchbares zurück.",
+   "quote_clean": "Ich benutze ChatGPT, aber da kommt eigentlich nur Mist raus. Dann denk ich mir: Ja, weil du tust auch eigentlich Mist rein, extrem wenig Information.",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Das ist Malcolms vereinfachte Erklärung (Rechenzentren), nicht die ganze Wahrheit; als \"laut Malcolm\" formuliert, Distraktoren angeglichen.",
+   "stand_note": "Stand 2023",
+   "statement": "Laut Malcolm Werchota funktionieren große Sprachmodelle erst seit wenigen Jahren so gut, weil es riesige Rechenzentren gibt, die mit enormen Datenmengen trainieren können.",
+   "question": "Was nennt Malcolm Werchota als Grund, warum Sprachmodelle wie ChatGPT erst seit ein paar Jahren so gut funktionieren?",
+   "answer": "Riesige Rechenleistung zum Trainieren",
+   "distractors": [
+    "Das Internet ist erst jetzt groß genug",
+    "Eine neue Programmiersprache",
+    "Bessere Spracherkennung per Mikrofon"
+   ],
+   "aha": "Die Modelle wurden mit Büchern, Texten, YouTube-Videos und Podcasts gefüttert, und dafür braucht es gigantische Rechenzentren. Erst als genug Rechenpower da war, hat es laut Malcolm „Klick“ gemacht.",
+   "quote_clean": "Wir haben riesige Rechenzentren, die diese Menge an Daten antrainieren können, und irgendwann hat es wortwörtlich Klick gemacht.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Beleg stimmt (200.000 Tokens, ca. 500 Seiten); unbelegte Aha-Details (Jahresberichte) entfernt, Stand 2023.",
+   "stand_note": "Stand 2023",
+   "statement": "Das KI-Modell Claude konnte sich Ende 2023 etwa 200.000 Tokens merken, das entspricht laut Malcolm rund 500 Seiten Text.",
+   "question": "Claude konnte sich Ende 2023 rund 200.000 Tokens merken. Wie vielen Buchseiten entspricht das laut Malcolm Werchota ungefähr?",
+   "answer": "Rund 500 Seiten",
+   "distractors": [
+    "Rund 50 Seiten",
+    "Rund 2.000 Seiten",
+    "Rund 10.000 Seiten"
+   ],
+   "aha": "Ein Token ist ungefähr ein Wortteil, die Rechnung geht also nicht ganz eins zu eins auf. Und so ein Modell liest die 500 Seiten nicht in Stunden wie wir, sondern in ein paar Sekunden.",
+   "quote_clean": "200.000 Tokens sind ca. 500 Seiten. Das ist schon krass, dass so ein Modell sich 500 Seiten einfach aufnehmen kann.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt; Prinzip gilt weiter, konkrete Grenzen sind inzwischen größer.",
+   "stand_note": "Stand 2023",
+   "statement": "In langen Gesprächen vergisst ChatGPT irgendwann, was am Anfang gesagt wurde, weil seine Kontextlänge begrenzt ist.",
+   "question": "Warum vergisst ChatGPT in sehr langen Chats, was du am Anfang geschrieben hast?",
+   "answer": "Die Kontextlänge ist begrenzt",
+   "distractors": [
+    "Es löscht alte Chats aus Datenschutz",
+    "Es wird absichtlich gedrosselt",
+    "Es speichert nur Fragen, keine Antworten"
+   ],
+   "aha": "Ein Sprachmodell hat eine Art Arbeitsgedächtnis, gemessen in Tokens. Ist das voll, fällt das Älteste raus, so wie wenn du nach drei Stunden Gespräch nicht mehr weißt, wie es angefangen hat. Darum vergleicht Malcolm gern, welches Modell sich mehr merken kann.",
+   "quote_clean": "Wenn du lange mit ChatGPT redest, dann vergisst ChatGPT irgendwann, was du weiter oben gesagt hast, weil die Kontextlänge, also woran es sich erinnert, sehr beschränkt ist.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (Studie, Submission 12. November 2023); Ergebnis ist bei Malcolm klar als Studie ausgewiesen.",
+   "stand_note": "Stand 2023",
+   "statement": "Eine Studie aus 2023 zeigt: Sprachmodelle antworten besser, wenn man emotional mit ihnen redet.",
+   "question": "Was verbessert laut einer Studie von 2023 die Antworten von ChatGPT?",
+   "answer": "Emotional mit dem Modell reden",
+   "distractors": [
+    "Möglichst kurze Befehle",
+    "Alles in Großbuchstaben schreiben",
+    "Auf Englisch statt Deutsch fragen"
+   ],
+   "aha": "Ein Satz wie „Das ist wirklich wichtig für meinen Job“ bringt laut der Studie weniger Halluzinationen und bessere Antworten. Klingt verrückt, aber Malcolm sagt: Das ist belegt, und viele merken es selbst.",
+   "quote_clean": "Die zeigen, dass die Antworten von ChatGPT und diesen Modellen besser sind, wenn man emotional mit diesen Modellen redet.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Die Begründung ist Malcolms Erklärung, nicht bewiesen; Frage auf \"laut Malcolm\" umgestellt.",
+   "stand_note": "Stand 2023",
+   "statement": "Laut Malcolm Werchota reagieren Sprachmodelle auf Sätze wie „Das ist wichtig für meinen Job“ sorgfältiger, weil sie mit emotionalen menschlichen Texten trainiert wurden.",
+   "question": "Wie erklärt Malcolm Werchota, warum es hilft, ChatGPT zu sagen, dass etwas „wirklich wichtig für meinen Job“ ist?",
+   "answer": "Es wurde mit emotionalen Texten trainiert",
+   "distractors": [
+    "Es bekommt dann mehr Rechenzeit",
+    "Es schaltet einen Profi-Modus frei",
+    "Es sucht dann zusätzlich bei Google"
+   ],
+   "aha": "Die Modelle haben aus Literatur und YouTube-Videos gelernt, und da steckt jede Menge Emotion drin. Also reagieren sie ähnlich wie ein Kollege: Bei „kannst du einen Bericht machen“ wird es Durchschnitt, bei „meine Karriere hängt dran“ schaut man lieber zweimal hin.",
+   "quote_clean": "„Das ist wirklich wichtig für meinen Job.“ Dann sagt das Modell: Um Gottes willen, das ist jetzt wichtig für seinen Job, da muss ich ein bisschen mehr aufpassen.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt; Distraktor \"Leckerli\" kommt im Gespräch als Reddit-Trick vor und ist daher verwirrend, ersetzt.",
+   "stand_note": "Stand 2023",
+   "statement": "Andreas hat in seinen ChatGPT-Anweisungen stehen, dass er dem Modell 200 Dollar Trinkgeld gibt, wenn es gut arbeitet.",
+   "question": "Womit motiviert Andreas ChatGPT in seinen benutzerdefinierten Anweisungen?",
+   "answer": "Mit 200 Dollar Trinkgeld",
+   "distractors": [
+    "Mit einem Lob am Ende",
+    "Mit einer Fünf-Sterne-Bewertung",
+    "Mit einem Gutschein"
+   ],
+   "aha": "Gezahlt wird natürlich nie. Auf Reddit kursierten noch skurrilere Tricks, etwa „Ich habe keine Finger, bitte hilf mir“. Malcolm bestätigt: Das fällt alles unter emotionale Reize und funktioniert.",
+   "quote_clean": "Bei mir steht jetzt z.B. drin: Ich gebe dir ein Trinkgeld von 200 Dollar, wenn du gut arbeitest. Das funktioniert scheinbar auch.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Beleg stimmt; Aha enthielt Details (Zürich, zwei Bier) die im Ausschnitt nicht stehen, entfernt. Preis Stand 2023.",
+   "stand_note": "Stand 2023",
+   "statement": "Die Premiumversion von ChatGPT kostete Ende 2023 20 Dollar im Monat.",
+   "question": "Wie viel kostete die Premiumversion von ChatGPT Ende 2023 pro Monat?",
+   "answer": "20 Dollar",
+   "distractors": [
+    "5 Dollar",
+    "50 Dollar",
+    "100 Dollar"
+   ],
+   "aha": "Mit der Premiumversion kann man auch benutzerdefinierte Anweisungen hinterlegen und sich so spart man sich, jedes Mal dazuzuschreiben, dass einem etwas wichtig ist.",
+   "quote_clean": "Man kann bei ChatGPT, wenn man die Premiumversion für 20 Dollar im Monat hat, auch benutzerdefinierte Anweisungen geben.",
+   "quality": 2
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt; klar als Malcolms Meinung formuliert.",
+   "stand_note": "",
+   "statement": "Nicht die KI nimmt uns den Job weg, sondern jemand, der die KI benutzt.",
+   "question": "Wer nimmt uns laut Malcolm Werchota den Job weg?",
+   "answer": "Jemand, der KI benutzt",
+   "distractors": [
+    "Die KI selbst",
+    "Billigere Arbeitskräfte",
+    "Roboter in den Fabriken"
+   ],
+   "aha": "Malcolm weiß, dass Andreas den Satz schon tausendmal gehört hat, aber er glaubt daran: Wer KI früh nutzt, versteht Kund:innen, Daten und Texte besser und läuft den anderen davon.",
+   "quote_clean": "Es ist nicht die KI, die uns den Job wegnehmen wird, sondern es ist jemand, der die KI benutzt.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Reines Intro-Zitat ohne Erkenntnisgewinn; \"jede Folge\" und \"seit 2018\" aus diesem Ausschnitt nicht belegbar.",
+   "stand_note": "",
+   "statement": "Andreas beginnt jede Folge mit dem Satz, dass man mit dem Podcast die Welt jede Woche ein bisschen besser verstehen soll.",
+   "question": "Wie geht der Einstiegssatz von Andreas weiter: „… der Podcast, mit dem du die Welt …“?",
+   "answer": "„jede Woche ein bisschen besser verstehen sollst“",
+   "distractors": [
+    "„endlich ganz verstehen wirst“",
+    "„jeden Tag neu entdecken kannst“",
+    "„ein bisschen anders sehen sollst“"
+   ],
+   "aha": "Der Einstieg des Podcasts, diesmal geht es um ChatGPT.",
+   "quote_clean": "Hallo, ich bin Andreas, und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (Stadt-Land-Fluss mit Freundin), harmlos und unterhaltsam.",
+   "stand_note": "",
+   "statement": "Andreas und seine Freundin haben ChatGPT bei Stadt-Land-Fluss mitspielen lassen.",
+   "question": "Welches Spiel hat Andreas mit seiner Freundin und ChatGPT gespielt?",
+   "answer": "Stadt-Land-Fluss",
+   "distractors": [
+    "Activity",
+    "Wer bin ich?",
+    "Scrabble"
+   ],
+   "aha": "Andreas nutzt ChatGPT auch beim Kochen über die Bluetooth-Box und lässt sich Artikel zusammenfassen. Malcolm findet das extrem unüblich und zugleich die logischste Art, die Technik zu nutzen.",
+   "quote_clean": "Ich quäle meine Freundin immer ein bisschen mit ChatGPT: Wir haben Stadt-Land-Fluss gespielt und ChatGPT einfach mitspielen lassen, und es hat auch funktioniert.",
+   "quality": 3
+  }
+ ],
+ "id": "283",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

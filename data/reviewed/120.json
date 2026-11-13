@@ -1,0 +1,292 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 812-821 s eindeutig; Aussage ist klar der Gästin zugeschrieben.",
+   "stand_note": "Stand 2020",
+   "statement": "Ein als 100 % Bio-Baumwolle verkauftes T-Shirt darf laut Madeleine Alizadeh bis zu 3 % nicht deklarierte Fremdfasern enthalten.",
+   "question": "Wie viel Prozent Fremdfasern darf ein T-Shirt mit dem Etikett „100 % Bio-Baumwolle“ laut Madeleine Alizadeh undeklariert enthalten?",
+   "answer": "bis zu 3 Prozent",
+   "distractors": [
+    "bis zu 0,5 Prozent",
+    "bis zu 10 Prozent",
+    "bis zu 15 Prozent"
+   ],
+   "aha": "100 % heißt im Modegeschäft nicht ganz 100 %. Bis zu 3 % andere Fasern müssen nicht aufs Etikett, und das sind oft genau die Polyester-Nähte, die das Shirt zusammenhalten.",
+   "quote_clean": "Und ein T-Shirt aus 100 % Bio-Baumwolle kaufe, da steht dann auch 100 % Bio-Baumwolle drin. Es kann aber einen bis zu 3-prozentigen Fremdfaseranteil haben, der nicht deklariert werden muss.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 823-826 s passt, aber es ist ihre Aussage zum H&M-Beispiel; Frage muss das als Aussage der Gästin kennzeichnen.",
+   "stand_note": "",
+   "statement": "Laut Madeleine Alizadeh sind die Nähte bei einem Bio-Baumwoll-T-Shirt aus dem Modehandel in der Regel aus Polyester.",
+   "question": "Woraus ist laut Madeleine Alizadeh bei einem Bio-Baumwoll-Shirt aus dem Modehandel meistens der Nähfaden?",
+   "answer": "aus Polyester",
+   "distractors": [
+    "aus Bio-Baumwolle",
+    "aus Leinen",
+    "aus Seide"
+   ],
+   "aha": "Wer sein Bio-Shirt am Ende auf den Kompost wirft, hat trotzdem Plastik drin. Der Faden ist meist Polyester und hinterlässt Rückstände, statt zu verrotten.",
+   "quote_clean": "Das heißt, die Nähte, mit denen dieses T-Shirt zusammengenäht ist, sind in der Regel aus Polyester.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1425-1429 s klar, als Meinung der Gästin attribuiert; Zusatzinfo im aha stimmt mit 1475-1489 s überein.",
+   "stand_note": "",
+   "statement": "Das Färben ist laut Madeleine Alizadeh der größte Umweltverschmutzer in der textilen Lieferkette.",
+   "question": "Welcher Schritt ist laut Madeleine Alizadeh der größte Umweltverschmutzer in der Textilkette?",
+   "answer": "das Färben",
+   "distractors": [
+    "das Nähen",
+    "der Versand",
+    "das Spinnen"
+   ],
+   "aha": "Selbst wenn Baumwolle, Fabrik und Versand sauber sind, bleibt das Färben das Sorgenkind: viel Wasser, viel Chemie. Siegel wie GOTS verbieten zwar Schwermetalle und Chrom, aber der Wasserverbrauch bleibt hoch.",
+   "quote_clean": "Genau, das Färben ist der größte Polluter, der größte Verschmutzer in dieser ganzen Kette.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Die Folge sagt nur, dass Pflanzenfarbe schlechter performt (ausbleichen) und der Massenmarkt sie nicht will; die Frage nach den „meisten Marken“ ist nicht belegt. Frage auf den belegten Nachteil umgestellt.",
+   "stand_note": "",
+   "statement": "Pflanzenfarben bleichen laut Madeleine Alizadeh in der Sonne und beim Waschen aus und performen schlechter als chemische Farben.",
+   "question": "Was ist laut Madeleine Alizadeh der Nachteil von pflanzlichen Textilfarben gegenüber chemischen?",
+   "answer": "Sie bleichen in der Sonne und beim Waschen aus",
+   "distractors": [
+    "Sie sind gesundheitsschädlich",
+    "Sie sind gesetzlich verboten",
+    "Sie riechen unangenehm"
+   ],
+   "aha": "Pflanzenfarbe ist sanfter zur Umwelt, aber nicht so treu: Sonne und Waschmaschine ziehen sie raus. Madeleine mag den Look, der Massenmarkt eher nicht.",
+   "quote_clean": "Es gibt natürliche pflanzliche Farbe, mit der man färben kann, aber die performt natürlich nicht so gut wie das chemische Pendant. Das heißt, das wird in der Sonne ausbleichen, das wird beim Waschen ausbleichen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1511-1537 s klar (Experiment mit Farbe aus Food Waste, hält besser, kleines Farbspektrum, nur Pastell).",
+   "stand_note": "",
+   "statement": "Aus Lebensmittelresten lässt sich Textilfarbe gewinnen, die besser hält als Pflanzenfarbe, aber nur ein begrenztes Farbspektrum bietet.",
+   "question": "Woraus lässt sich laut Madeleine Alizadeh Textilfarbe gewinnen, die besser hält als Pflanzenfarbe?",
+   "answer": "aus Lebensmittelresten",
+   "distractors": [
+    "aus Altöl",
+    "aus Algenschaum",
+    "aus Holzasche"
+   ],
+   "aha": "Aus Food Waste kann man Farbe rausholen, die länger hält als Pflanzenfarbe. Der Haken: Es kommen nur ein paar Pastelltöne raus, ein Knallblau oder tiefes Schwarz geht nicht.",
+   "quote_clean": "Aus Food Waste, also aus Lebensmittelresten, kann man Farbe extrahieren und damit färben. Das hält dann auch besser als eine pflanzliche Farbe, aber es gibt nur ein gewisses Farbspektrum, das man rauskriegt.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton",
+    "veraltet"
+   ],
+   "note": "Beleg bei 1778-1783 und 1812 s passt (30 Cent als geringster Preis), aber es ist ihre Angabe; Frage attribuieren, aha holprig.",
+   "stand_note": "Stand 2020",
+   "statement": "Laut Madeleine Alizadeh kostet ein T-Shirt in Bangladesch im billigsten Fall rund 30 Cent.",
+   "question": "Wie viel kostet ein T-Shirt in Bangladesch laut Madeleine Alizadeh im billigsten Fall?",
+   "answer": "rund 30 Cent",
+   "distractors": [
+    "rund 2 Euro",
+    "rund 5 Cent",
+    "rund 1,20 Euro"
+   ],
+   "aha": "30 Cent ist laut Madeleine der unterste Preis, den man für ein T-Shirt zahlt. Ihr Label zahlt in Portugal 8,70 Euro, also fast dreißigmal so viel. Andreas hätte das nicht gedacht.",
+   "quote_clean": "In Bangladesch kriegt man ein T-Shirt für 30 Cent, in Portugal zahlen wir aktuell für unser T-Shirt 8,70 Euro.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "Beleg bei 1782-1783 s passt; Preis ist Stand 2020 und wird nur im Bezug zu 30 Cent interessant. aha neu formuliert, Markenname vereinheitlicht.",
+   "stand_note": "Stand 2020",
+   "statement": "Das Label von Madeleine Alizadeh zahlte 2020 für die Produktion eines T-Shirts in Portugal 8,70 Euro.",
+   "question": "Wie viel zahlte das Label von Madeleine Alizadeh 2020 für die Produktion eines T-Shirts in Portugal?",
+   "answer": "8,70 Euro",
+   "distractors": [
+    "2,40 Euro",
+    "19,90 Euro",
+    "4,50 Euro"
+   ],
+   "aha": "Portugal ist deutlich teurer als Bangladesch, auch weil dort Sozialsystem und Infrastruktur stehen. Und ein Tencel-Faden kostet mehr als einer aus Polyester.",
+   "quote_clean": "In Portugal zahlen wir aktuell für unser T-Shirt 8,70 Euro. – Wow. – Das ist halt einfach ein Unterschied, und dann eben auch die Komponenten.",
+   "quality": 2
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Beleg bei 2170-2192 s passt; Frage war unklar formuliert und die Regel ist ihre Schilderung, daher attribuiert.",
+   "stand_note": "",
+   "statement": "Laut Madeleine Alizadeh muss für ein GOTS-zertifiziertes Kleidungsstück die gesamte Lieferkette zertifiziert sein.",
+   "question": "Was muss laut Madeleine Alizadeh zertifiziert sein, damit ein Kleidungsstück wirklich GOTS-zertifiziert ist?",
+   "answer": "die gesamte Lieferkette",
+   "distractors": [
+    "nur der Baumwollanbau",
+    "nur die Nähfabrik",
+    "nur die Färberei"
+   ],
+   "aha": "GOTS, der Global Organic Textile Standard, schaut sich jeden Schritt an, bis hin zur Marke. Genau deshalb ist ein vollständig zertifiziertes Teil laut Madeleine sehr selten.",
+   "quote_clean": "Um GOTS-zertifiziert zu sein, muss die ganze Lieferkette GOTS-zertifiziert sein: von der Person, die das anbaut, über die Weberei, über die Spinnerei bis hin zum Färbehaus.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Inhaltlich belegt, aber fast dieselbe Info wie Kandidat 10 und als Ja/Nein-Frage schwach.",
+   "stand_note": "",
+   "statement": "Eine Marke darf mit GOTS nur werben, wenn jeder einzelne Produktionsschritt GOTS-zertifiziert ist; ein GOTS-zertifiziertes Färben allein reicht nicht.",
+   "question": "Darf eine Marke mit „GOTS-zertifiziert gefärbt“ werben, wenn nur die Färberei zertifiziert ist?",
+   "answer": "Nein, alle Schritte müssen zertifiziert sein",
+   "distractors": [
+    "Ja, ein Schritt reicht",
+    "Ja, wenn die Baumwolle bio ist",
+    "Nur außerhalb der EU"
+   ],
+   "aha": "Viele Labels schreiben trotzdem „GOTS-gefärbt“ dazu, und genau das ist laut Regelwerk nicht erlaubt.",
+   "quote_clean": "Und GOTS gibt auch vor, dass man GOTS nur auf seiner Website oder in der Kommunikation verwenden darf, wenn auch wirklich jeder dieser Schritte GOTS-zertifiziert ist.",
+   "quality": 2
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Beleg bei 1107-1125 s passt (kleinere Zulieferer, kein Subcontracting-Problem); Frage attribuiert, Antwort und Distraktoren glaubwürdiger gemacht.",
+   "stand_note": "",
+   "statement": "Laut Madeleine Alizadeh ist die Arbeit mit kleineren Zulieferern vernünftiger, weil man dort das Problem des Subcontractings nicht hat.",
+   "question": "Warum ist es laut Madeleine Alizadeh leichter, mit kleineren Zulieferern zu arbeiten?",
+   "answer": "Dort gibt es das Subcontracting-Problem nicht",
+   "distractors": [
+    "Kleine Zulieferer sind immer billiger",
+    "Kleine Zulieferer haben alle ein Bio-Siegel",
+    "Kleine Zulieferer liefern immer schneller"
+   ],
+   "aha": "Bei einem Riesenauftrag reicht ein Betrieb Teile an andere weiter, und schon weiß niemand mehr, wer die Baumwolle wirklich angebaut hat. Mit kleinen Zulieferern bleibt die Kette durchschaubar.",
+   "quote_clean": "Subcontracting bedeutet: Wenn man zum Beispiel einer Baumwollbäuerin einen Riesenauftrag gibt, dann leitet sie den an andere weiter, und man weiß nicht mehr, wer das eigentlich angebaut hat.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Beleg bei 727 s passt; Behauptung im aha, Andreas lobe das Wort am Ende nochmal, ist im Ausschnitt nicht belegt und wurde entfernt.",
+   "stand_note": "",
+   "statement": "Madeleine Alizadeh bezeichnet ihr Modelabel als „konstruktiv-kapitalistisches Projekt“.",
+   "question": "Wer beschreibt das eigene Modelabel als „konstruktiv-kapitalistisches Projekt“?",
+   "answer": "Madeleine Alizadeh",
+   "distractors": [
+    "Christian Felber",
+    "Maja Göpel",
+    "Kathrin Hartmann"
+   ],
+   "aha": "Weil das Label Waren herstellt, die verkauft und irgendwann entsorgt werden, will Madeleine es nicht als politisches Statement verstanden wissen.",
+   "quote_clean": "Ich verstehe dariadéh ein bisschen als konstruktiv-kapitalistisches Projekt. Man kann es nicht wirklich als politisches Statement sehen.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Die Aussage ist eine politisch gefärbte Einschätzung zum Steuersystem; sie nennt nur einen von mehreren von ihr genannten Preisgründen (Produktionsland, Menge), und das CO2-Steuer-Detail im aha ist nicht belegt.",
+   "stand_note": "",
+   "statement": "Madeleine Alizadeh sagt, faire Mode könne derzeit nicht leistbar sein, weil unethisches und unökologisches Wirtschaften steuerlich begünstigt werde.",
+   "question": "Warum ist faire Mode laut Madeleine Alizadeh derzeit nicht so billig wie Fast Fashion?",
+   "answer": "Unfaires Produzieren wird steuerlich begünstigt",
+   "distractors": [
+    "Bio-Baumwolle ist weltweit knapp",
+    "Faire Labels zahlen höhere Mieten",
+    "Der Versand ist viel teurer"
+   ],
+   "aha": "Für Madeleine geht es um Kostenwahrheit.",
+   "quote_clean": "Aktuell geht es nicht, weil man steuerlich begünstigt wird, wenn man ethisch und ökologisch inkorrekt handelt. Es gibt einfach keine Incentives, um das zu tun.",
+   "quality": 2
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt, aber reine Gesprächsablauf-Frage ohne Erkenntnisgewinn; zu trivial für ein Spiel.",
+   "stand_note": "",
+   "statement": "Gegen Ende der Folge bittet Andreas Sator seinen Gast, eine ideale Modewelt der Zukunft zu skizzieren.",
+   "question": "Worum bittet Andreas Madeleine Alizadeh, als das Gespräch zum Schluss kommt?",
+   "answer": "eine ideale Modewelt zu skizzieren",
+   "distractors": [
+    "ihr Lieblingsstück zu beschreiben",
+    "eine Marke zu empfehlen",
+    "ihren größten Fehler zu nennen"
+   ],
+   "aha": "Andreas will wissen, wie eine Welt ausschaut, in der man beim Einkaufen gar nicht mehr nachdenken muss.",
+   "quote_clean": "Wir kommen langsam zum Schluss. Ich hätte gerne, dass du mir eine ideale Modewelt skizzierst.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Beleg bei 294-301 s passt (erster Hund bei EMDW, schnüffelt im Studio); die Couch-Behauptung im aha ist im Ausschnitt nicht belegt und wurde entfernt.",
+   "stand_note": "",
+   "statement": "In dieser Folge war zum ersten Mal ein Hund bei einer Aufnahme von Erklär mir die Welt dabei.",
+   "question": "Welche Premiere gab es in der Folge mit Madeleine Alizadeh im Studio?",
+   "answer": "der erste Hund bei EMDW",
+   "distractors": [
+    "das erste Live-Publikum",
+    "die erste Videoaufzeichnung",
+    "der erste Gast per Telefon"
+   ],
+   "aha": "Im Hintergrund ist es zu hören: Madeleine hat ihren Hund mitgebracht, und der schnüffelt fleißig das ganze Studio ab.",
+   "quote_clean": "Wie man da im Hintergrund hört, ist das der erste Hund bei Erklär mir die Welt. Der hat Madeleine mitgebracht. Der schnüffelt fleißig das Studio ab.",
+   "quality": 3
+  }
+ ],
+ "id": "120",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

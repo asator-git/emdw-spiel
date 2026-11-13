@@ -1,0 +1,272 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 805 s eindeutig, Distraktoren klar daneben.",
+   "stand_note": "",
+   "statement": "Normal gekochte Marmelade enthält etwa 50 bis 55 Prozent Zucker und braucht deshalb in der Regel keine Konservierungsstoffe.",
+   "question": "Wie viel Prozent Zucker hat eine klassisch gekochte Marmelade ungefähr, sodass sie ohne Konservierungsstoffe auskommt?",
+   "answer": "Etwa 50 bis 55 Prozent",
+   "distractors": [
+    "Etwa 15 bis 20 Prozent",
+    "Etwa 30 bis 35 Prozent",
+    "Etwa 75 bis 80 Prozent"
+   ],
+   "aha": "Der viele Zucker bindet das Wasser, und ohne verfügbares Wasser haben Schimmel und Co. schlechte Karten. Darum braucht Omas Marmelade keine Konservierungsstoffe, die zuckerreduzierte aus dem Supermarkt oft schon.",
+   "quote_clean": "Normal gekocht, mit den etwa 50, 55 % Zucker, brauchen wir in der Regel keine Konservierungsstoffe.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "121 Grad bei Sterilisierung fleischhaltiger Konserven steht so im Transkript und stimmt.",
+   "stand_note": "",
+   "statement": "Fleischhaltige Konserven und Eintöpfe in Dosen werden meist bei 121 Grad sterilisiert, wodurch alle lebensfähigen Organismen und Dauerformen abgetötet werden.",
+   "question": "Auf wie viel Grad Celsius werden Dosen-Eintöpfe mit Fleisch beim Sterilisieren typischerweise erhitzt?",
+   "answer": "121 Grad",
+   "distractors": [
+    "85 Grad",
+    "100 Grad",
+    "180 Grad"
+   ],
+   "aha": "Kochendes Wasser mit 100 Grad reicht nicht, weil manche Bakterien hitzefeste Sporen bilden. Mit 121 Grad unter Druck sind auch die erledigt, deshalb hält das Gulasch in der Dose so lange.",
+   "quote_clean": "Da ist es dann meistens eine Sterilisierung, das heißt, es wird bei 121 Grad erhitzt, und dadurch wird jeglicher lebensfähige Organismus und jede Dauerform abgetötet.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "135 Grad für 3 Sekunden bei H-Milch bei 1503 s belegt und fachlich plausibel.",
+   "stand_note": "",
+   "statement": "H-Milch wird nur ganz kurz sehr stark erhitzt, etwa auf rund 135 Grad für 3 Sekunden.",
+   "question": "Wie viele Sekunden wird H-Milch ungefähr auf rund 135 Grad erhitzt?",
+   "answer": "Etwa 3 Sekunden",
+   "distractors": [
+    "Etwa 30 Sekunden",
+    "Etwa 3 Minuten",
+    "Etwa 15 Minuten"
+   ],
+   "aha": "Der Trick ist: sehr heiß, aber extrem kurz. So sterben die Keime, während die Nährstoffe weitgehend heil bleiben. Molekular kann man die Behandlung nachweisen, der Nährwert leidet aber kaum.",
+   "quote_clean": "Das macht man zum Beispiel auch bei H-Milch, dass man sehr hoch geht mit der Temperatur, die aber nur ganz kurz hält, also zum Beispiel um die 135 Grad für 3 Sekunden.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Ascorbinsäure als Vitamin C bei 157 s klar belegt.",
+   "stand_note": "",
+   "statement": "Der Zusatzstoff Ascorbinsäure ist nichts anderes als Vitamin C, das auch natürlich im Apfel steckt.",
+   "question": "Was verbirgt sich hinter dem Zusatzstoff Ascorbinsäure?",
+   "answer": "Vitamin C",
+   "distractors": [
+    "Ein künstlicher Farbstoff",
+    "Ein Geschmacksverstärker",
+    "Ein Süßstoff"
+   ],
+   "aha": "Auf der Packung klingt Ascorbinsäure nach Labor, im Apfel steckt sie ganz selbstverständlich. Wer für einen Apfel alle Inhaltsstoffe aufschreibt, bekommt eine Zutatenliste, die locker mit jedem Fertigprodukt mithält.",
+   "quote_clean": "Beim Apfel finden wir auf jeden Fall auch zum Beispiel Vitamin C, und Vitamin C ist auch ein Zusatzstoff, den finden wir als Zusatzstoff dann eben als Ascorbinsäure.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Pektin aus Trester („drer“ = Trester) belegt; Distraktoren falsch für Pektin.",
+   "stand_note": "",
+   "statement": "Das Geliermittel Pektin wird aus dem Trester gewonnen, der beim Auspressen von Äpfeln für Saft übrig bleibt.",
+   "question": "Woraus wird das Geliermittel Pektin häufig gewonnen?",
+   "answer": "Aus Apfeltrester von der Saftherstellung",
+   "distractors": [
+    "Aus Schweinehaut und Knochen",
+    "Aus Erdöl-Nebenprodukten",
+    "Aus getrockneten Algen"
+   ],
+   "aha": "Pektin ist ein Baustein der pflanzlichen Zellwand, also eh im Apfel drin. Man holt es nur aus dem Pressrest und gibt es in die Marmelade, damit sie fest wird.",
+   "quote_clean": "Wenn der Apfel zur Saftgewinnung verwendet wird, wird er ausgepresst, es bleibt ein Trester zurück, und aus dem extrahiert man dann Pektin und setzt es zum Beispiel in Marmelade ein, damit sie geliert.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Tomaten und Parmesan mit hohem Glutamatgehalt bei 1609 s belegt.",
+   "stand_note": "",
+   "statement": "Tomaten und Parmesan enthalten von Natur aus recht viel Glutamat.",
+   "question": "Welche Lebensmittel enthalten von Natur aus recht viel Glutamat?",
+   "answer": "Tomaten und Parmesan",
+   "distractors": [
+    "Äpfel und Birnen",
+    "Reis und Kartoffeln",
+    "Gurken und Salat"
+   ],
+   "aha": "Glutamat ist eine natürliche Aminosäure und genau der Grund, warum Tomaten und Parmesan so herzhaft schmecken. Wer über die Tütensuppe noch Parmesan reibt, holt sich das Glutamat eben selber rein.",
+   "quote_clean": "Lebensmittel wie Tomaten oder Parmesan haben recht hohe Glutamatgehalte.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Erklärung bei 812 s wörtlich belegt.",
+   "stand_note": "",
+   "statement": "Zuckerreduzierte Marmelade hat mehr verfügbares Wasser, in dem Mikroorganismen wachsen können, und braucht deshalb eher Konservierungsstoffe.",
+   "question": "Warum braucht zuckerreduzierte Marmelade eher Konservierungsstoffe als normale?",
+   "answer": "Mehr verfügbares Wasser für Mikroorganismen",
+   "distractors": [
+    "Weniger Säure aus dem Obst",
+    "Sie wird weniger stark gekocht",
+    "Sie enthält mehr Pektin"
+   ],
+   "aha": "Zucker bindet Wasser, und Schimmel braucht freies Wasser zum Wachsen. Nimmt man Zucker raus, steht den Keimen mehr zur Verfügung, vor allem wenn jeden Morgen das abgeschleckte Messer reinwandert.",
+   "quote_clean": "Wenn wir zuckerreduzierte Marmelade haben, dann haben wir dadurch, dass wir weniger Zucker haben, mehr verfügbares Wasser, und Mikroorganismen können wachsen.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Aussage bei 922 s belegt; Frage ausdrücklich auf Wefers bezogen.",
+   "stand_note": "",
+   "statement": "Wir konkurrieren mit Mikroorganismen um unser Essen, und mikrobieller Befall trägt massiv zur Lebensmittelverschwendung bei.",
+   "question": "Mit wem konkurrieren wir laut Daniel Wefers ständig um unser Essen?",
+   "answer": "Mit Mikroorganismen",
+   "distractors": [
+    "Mit Nutztieren",
+    "Mit Insekten im Vorratsschrank",
+    "Mit der Lebensmittelindustrie"
+   ],
+   "aha": "Bakterien und Schimmelpilze wollen dasselbe Essen wie wir, und sie sind überall, auch auf deiner Haut. Konservierung ist im Grunde ein Wettrennen, damit wir als Erste zugreifen.",
+   "quote_clean": "Wir konkurrieren mit Mikroorganismen um unser Essen, und das ist letztendlich auch etwas, das zur Lebensmittelverschwendung massiv beiträgt: dass Sachen durch mikrobiellen Befall nicht mehr genießbar sind.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Aussage bei 1686 s belegt, Kontext (Mythen) stimmt.",
+   "stand_note": "",
+   "statement": "Aufschriften wie „ohne Geschmacksverstärker“ suggerieren, dass mit dem Stoff etwas nicht stimmt, und bestärken so Mythen.",
+   "question": "Was bewirken Aufschriften wie „ohne Geschmacksverstärker“ laut Daniel Wefers?",
+   "answer": "Sie suggerieren, der Stoff sei schädlich",
+   "distractors": [
+    "Sie belegen einen Gesundheitsvorteil",
+    "Sie sind gesetzlich vorgeschrieben",
+    "Sie haben auf Käufer keinen Einfluss"
+   ],
+   "aha": "Erst kommt ein Gerücht auf, dann druckt der Hersteller „ohne“ drauf, und schon wirkt das Gerücht bestätigt. Beim Gluten lief das ganz ähnlich, samt glutenfreien Produkten für Leute, die sie gar nicht brauchen.",
+   "quote_clean": "Das dann noch extra zu bewerben, suggeriert automatisch, dass damit etwas verkehrt sein muss, obwohl das gar nicht der Fall ist.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitat belegt, aber Wer-hat's-gesagt mit dem einzigen Gast ist leicht zu erraten.",
+   "stand_note": "",
+   "statement": "Das Argument „Da ist Chemie drin“ zählt nichts, weil in allem Chemie steckt.",
+   "question": "Wer hat's gesagt: „Das Argument ‚Chemie ist drin‘ zählt nichts, weil überall Chemie drin ist“?",
+   "answer": "Daniel Wefers",
+   "distractors": [
+    "Andreas Sator",
+    "Michael Pollan",
+    "Eine Ernährungswissenschaftlerin"
+   ],
+   "aha": "Alles besteht aus Molekülen, der Apfel genauso wie der Fertigpudding. Für den Lebensmittelchemiker ist „Chemie im Essen“ deshalb ungefähr so aussagekräftig wie „Wasser im Meer“.",
+   "quote_clean": "Das heißt, meiner Meinung nach zählt das Argument „Chemie ist drin“ nichts, weil überall Chemie drin ist.",
+   "quality": 2
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "quote_clean ließ das abschwächende „vielleicht“ weg; Aha-Metapher holprig.",
+   "stand_note": "",
+   "statement": "Süßstoffe muss man mit Zucker vergleichen, nicht mit Wasser, und auch Zucker sollte man nicht zu viel essen.",
+   "question": "Womit sollte man Süßstoffe laut Daniel Wefers fairerweise vergleichen?",
+   "answer": "Mit Zucker",
+   "distractors": [
+    "Mit Wasser",
+    "Mit Honig",
+    "Mit Salz"
+   ],
+   "aha": "Die Light-Limo ersetzt ja nicht das Glas Wasser, sondern die zuckrige Limo. Wer Süßstoffe schlechtredet, sollte also fragen: im Vergleich zu was?",
+   "quote_clean": "Man vergisst manchmal, womit man Süßstoffe eigentlich vergleicht: Man vergleicht sie mit Zucker, und bei Zucker wissen wir auch, dass wir vielleicht nicht zu viel davon essen sollten.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Aha enthielt nicht belegte Behauptungen (Fleischersatz, 15 Zutaten); auf Transkript begrenzt.",
+   "stand_note": "",
+   "statement": "Unter Lebensmitteln mit langen Zutatenlisten gibt es mehr ungesunde, aber eine lange Zutatenliste allein macht ein Produkt nicht ungesund.",
+   "question": "Was sagt eine lange Zutatenliste laut Daniel Wefers über ein Lebensmittel aus?",
+   "answer": "Ein grober Hinweis, aber kein Urteil",
+   "distractors": [
+    "Es ist sicher ungesund",
+    "Es ist besonders gut geprüft",
+    "Es ist hochwertiger als andere"
+   ],
+   "aha": "Als Faustregel für Leute, die sich wenig mit Ernährung befassen, taugt ein hoher Anteil an frischen Lebensmitteln schon. Aber in beiden Gruppen gibt es gesunde und ungesunde Produkte, die Liste allein entscheidet nichts.",
+   "quote_clean": "Dann kann man sicher sagen, dass sich in der einen Gruppe mehr ungesunde verbergen und in der anderen mehr gesunde, aber man kann nicht sagen, die sind alle ungesund und die sind alle gesund.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 273 s passt; „niemand“ zu „eigentlich nie“ abgeschwächt.",
+   "stand_note": "",
+   "statement": "Daniel Wefers hat eine vollständige Zutatenliste für Kuhmilch erstellt, und die Leute erkennen darin praktisch nie Milch.",
+   "question": "Für welches Lebensmittel hat Daniel Wefers eine lange Zutatenliste geschrieben, hinter der kaum jemand es vermutet?",
+   "answer": "Für Kuhmilch",
+   "distractors": [
+    "Für Schwarzbrot",
+    "Für Bananen",
+    "Für Bier"
+   ],
+   "aha": "Die Leute tippen auf irgendein Milchmischgetränk. Zutatenlisten braucht es halt nur, wenn Menschen mischen, wenn das im Euter der Kuh passiert, muss nichts draufstehen.",
+   "quote_clean": "Ich habe so eine Zutatenliste mal für Kuhmilch geschrieben und gepostet, ich zeige die auch manchmal in Vorträgen, und dann vermuten die Leute eigentlich nie Milch dahinter.",
+   "quality": 4
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Floskel als Frage ohne Erkenntniswert, nicht sinnvoll spielbar.",
+   "stand_note": "",
+   "statement": "Andreas fasst am Ende der Folge zusammen, was er sich mitnimmt, beginnend damit, dass jedes Lebensmittel chemisch ist.",
+   "question": "Mit welcher Formulierung leitet Andreas am Ende der Folge seine Zusammenfassung ein?",
+   "answer": "„Was nehme ich mir mit?“",
+   "distractors": [
+    "„Was lernen wir daraus?“",
+    "„Lass uns zusammenfassen.“",
+    "„Was ist dein Fazit?“"
+   ],
+   "aha": "Am Schluss sortiert Andreas das Gespräch in nummerierte Punkte. Punkt eins diesmal: Chemie ist überall, ob vom Acker, vom Baum oder aus dem Labor.",
+   "quote_clean": "Was nehme ich mir mit? Erstens: Jedes Lebensmittel ist chemisch, egal ob es auf einem Acker wächst, von einem Baum fällt oder in einem Labor produziert wurde.",
+   "quality": 1
+  }
+ ],
+ "id": "308",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

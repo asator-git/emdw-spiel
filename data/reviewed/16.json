@@ -1,0 +1,286 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "10 bis 20 Jahre oder lebenslang belegt (Paragraf 75 StGB); Aha-Satz ueberzog ('darunter geht es nicht', 'sympathisch wirken') und wurde entschaerft.",
+   "stand_note": "",
+   "statement": "In Österreich beträgt die Mindeststrafe für Mord 10 Jahre Freiheitsstrafe, die Höchststrafe ist lebenslang.",
+   "question": "Wie viele Jahre Haft beträgt in Österreich die Mindeststrafe für Mord?",
+   "answer": "10 Jahre",
+   "distractors": [
+    "5 Jahre",
+    "15 Jahre",
+    "3 Jahre"
+   ],
+   "aha": "Wer einen anderen vorsätzlich tötet, bekommt laut Gesetz 10 bis 20 Jahre oder lebenslang. Ein Mord ist also nie eine Kleinigkeit.",
+   "quote_clean": "Im Gesetz steht: Wer einen anderen tötet, ist mit Freiheitsstrafe von 10 bis zu 20 Jahren oder lebenslänglicher Freiheitsstrafe zu bestrafen.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Acht Geschworene und drei Berufsrichter klar belegt und korrekt.",
+   "stand_note": "",
+   "statement": "Über Mord entscheidet in Österreich ein Geschworenengericht mit acht Laien aus dem Volk und drei Berufsrichtern.",
+   "question": "Wie viele Leute aus dem Volk sitzen in Österreich in einem Geschworenengericht?",
+   "answer": "8",
+   "distractors": [
+    "12",
+    "6",
+    "3"
+   ],
+   "aha": "Bei Mord urteilen nicht nur Profis: Acht Geschworene aus dem Volk sitzen neben drei Berufsrichtern. Die zwölf aus den US-Gerichtsfilmen gibt es bei uns also nicht.",
+   "quote_clean": "In diesem Fall ist es ein Geschworenengericht, da sitzen acht Leute aus dem Volk und drei Berufsrichter.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Paragraf 75 belegt und korrekt; Paragraf 211 ist der deutsche Mordparagraf, also eindeutig falsch fuer Oesterreich.",
+   "stand_note": "",
+   "statement": "Der Mordparagraf im österreichischen Strafgesetzbuch ist Paragraf 75.",
+   "question": "Unter welchem Paragrafen steht Mord im österreichischen Strafgesetzbuch?",
+   "answer": "Paragraf 75",
+   "distractors": [
+    "Paragraf 1",
+    "Paragraf 211",
+    "Paragraf 13"
+   ],
+   "aha": "Paragraf 75 StGB ist erstaunlich kurz: Wer einen anderen tötet. Der ganze Rest, also Vorsatz, Schuld und Rechtfertigung, steckt woanders im Gesetz.",
+   "quote_clean": "Das steht im Gesetz unter Paragraf 75 des Strafgesetzbuches: Wer einen anderen tötet.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Inhalt belegt; Frage war holprig formuliert und wurde klarer gefasst.",
+   "stand_note": "",
+   "statement": "Wer jemanden tötet, ohne es ernsthaft für möglich zu halten und sich damit abzufinden, begeht keinen Mord, sondern eine fahrlässige Tötung.",
+   "question": "Wie nennt das Strafrecht es, wenn du mit dem Auto jemanden tötest, ohne den Tod in Kauf zu nehmen?",
+   "answer": "Fahrlässige Tötung",
+   "distractors": [
+    "Totschlag",
+    "Versuchter Mord",
+    "Notwehr"
+   ],
+   "aha": "Für Mord braucht es Vorsatz: Man hält den Tod ernsthaft für möglich und findet sich damit ab. Wer zu schnell fährt, rechnet vielleicht damit, will es aber nicht. 'Ich kann, aber ich will nicht', sagt Florian.",
+   "quote_clean": "Wenn ich zum Beispiel vor dem Haus mit dem Auto fahre und jemanden niederfahre, dann habe ich auch wen getötet, aber ich habe es nicht ernsthaft für möglich gehalten und mich damit abgefunden.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Floss-Beispiel belegt (Freispruch wegen entschuldigendem Notstand); Antwort war viel laenger als Distraktoren, Frage praezisiert auf den Rechtsbegriff.",
+   "stand_note": "",
+   "statement": "Wer in einer unverschuldeten Notlage einen anderen tötet, um das eigene Leben zu retten, kann wegen entschuldigenden Notstands freigesprochen werden.",
+   "question": "Zwei treiben auf einem Floß, das nur einen trägt, und einer stößt den anderen runter. Wie nennen Jurist:innen den Grund, warum man ihm das nicht vorwerfen kann?",
+   "answer": "Entschuldigender Notstand",
+   "distractors": [
+    "Notwehr",
+    "Schuldunfähigkeit",
+    "Fahrlässigkeit"
+   ],
+   "aha": "Das Floß ist der Lieblingsfall im Jusstudium. Beide sind unverschuldet in die Lage gekommen, und wer seine eigene Haut rettet, dem kann man das nicht vorwerfen. Getötet hat er trotzdem, nur schuldig ist er nicht.",
+   "quote_clean": "Wir beide treiben auf hoher See auf einem Floß und wir wissen, dieses Floß kann nur einen von uns halten. Einer muss leider ins Wasser. Und jetzt schubs ich dich runter, damit ich überlebe. Dann kann man mir das nicht vorwerfen.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Zitat belegt; im Aha war 'Rausch' im Ausschnitt nicht belegt, entfernt.",
+   "stand_note": "",
+   "statement": "Der Lieblingssatz vieler Strafrechtler lautet: Es kommt darauf an.",
+   "question": "Welchen Satz sagen sich laut Florian Klenk viele Strafrechtler?",
+   "answer": "Es kommt darauf an",
+   "distractors": [
+    "Im Zweifel schuldig",
+    "Das Gesetz ist eindeutig",
+    "Jeder Fall ist gleich"
+   ],
+   "aha": "Auf die Frage, was nach einer Tötung passiert, gibt es keine einfache Antwort. Notwehr, Notstand oder Krankheit können alles ändern. Darum der Klassiker unter Jurist:innen: Es kommt darauf an.",
+   "quote_clean": "Das ist der Satz, den viele Strafrechtler sich dann sagen: Es kommt darauf an, wie der Fall genau ist.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Aussage ist Klenks Einschaetzung ('groesster Milderungsgrund'); Aha wurde ueberspitzt ('Nichts drueckt die Strafe so sehr', 'meist') und ist entschaerft.",
+   "stand_note": "",
+   "statement": "Ein Geständnis ist im Strafverfahren der größte Milderungsgrund.",
+   "question": "Was ist laut Florian Klenk vor Gericht der größte Milderungsgrund?",
+   "answer": "Ein Geständnis",
+   "distractors": [
+    "Ein guter Leumund",
+    "Eine schwere Kindheit",
+    "Ein hohes Alter"
+   ],
+   "aha": "Klenk meint: Dein Anwalt wird dir beim ersten Verhör wahrscheinlich raten, ein Geständnis abzulegen, wenn es stimmt. Es mildert die Strafe am stärksten.",
+   "quote_clean": "Ein Geständnis ist der größte Milderungsgrund. Und dann wird der Staatsanwalt, meistens dauert das rund ein Jahr oder ein Dreivierteljahr,",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Transkript 'pöne' ist verhoert, Spruch nulla poena sine lege korrekt; Bedeutung belegt.",
+   "stand_note": "",
+   "statement": "Der Grundsatz „nulla poena sine lege“ bedeutet: keine Strafe ohne Gesetz.",
+   "question": "Was bedeutet der lateinische Rechtsgrundsatz „nulla poena sine lege“?",
+   "answer": "Keine Strafe ohne Gesetz",
+   "distractors": [
+    "Im Zweifel für den Angeklagten",
+    "Niemand steht über dem Gesetz",
+    "Unwissenheit schützt nicht vor Strafe"
+   ],
+   "aha": "Verurteilt werden darf nur, wer gegen ein Gesetz verstößt, das diese Strafe vorsieht. Gibt es keins, muss freigesprochen werden, auch wenn die Tat noch so unappetitlich ist. Das ist Rechtssicherheit.",
+   "quote_clean": "Es gibt einen Grundsatz, der heißt: Keine Strafe ohne Gesetz. Das ist ein lateinischer Spruch: nulla poena sine lege.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Begriff belegt; urspruengliche Distraktoren waren absurd und 'muessen' ist Regelfall (Ausnahmen existieren). Frage auf den Fachbegriff umgestellt.",
+   "stand_note": "",
+   "statement": "Nach dem Unmittelbarkeitsprinzip sollen Zeugen in der Regel persönlich im Gerichtssaal aussagen, damit die Richter ihre Reaktionen sehen können.",
+   "question": "Wie heißt der Grundsatz, nach dem Zeugen vor Gericht persönlich aussagen, damit Richter ihnen in die Augen schauen können?",
+   "answer": "Unmittelbarkeitsprinzip",
+   "distractors": [
+    "Öffentlichkeitsprinzip",
+    "Legalitätsprinzip",
+    "Verhältnismäßigkeitsprinzip"
+   ],
+   "aha": "Ein Protokoll zeigt nicht, ob jemand rot wird, zittert oder weint. Darum wiederholt sich vor Gericht im Grunde alles, was die Polizei schon ermittelt hat, nur diesmal live.",
+   "quote_clean": "Das nennt sich Unmittelbarkeitsprinzip: Die Zeugen müssen unmittelbar in diesem Gerichtssaal auftreten. Warum? Weil die Richter den Zeugen in die Augen schauen wollen. Sie wollen schauen, ob die rot werden im Gesicht.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "kontext"
+   ],
+   "note": "70 bis 80 ist Klenks grobe Angabe fuer 2018; Zahl schwankt und kann je nach Zaehlweise abweichen, daher 'laut Klenk' und Stand-Hinweis.",
+   "stand_note": "Stand 2018",
+   "statement": "Laut Florian Klenk gibt es in Österreich pro Jahr nur etwa 70 bis 80 Morde.",
+   "question": "Wie viele Morde gibt es laut Florian Klenk in Österreich ungefähr pro Jahr?",
+   "answer": "70 bis 80",
+   "distractors": [
+    "700 bis 800",
+    "rund 20",
+    "rund 300"
+   ],
+   "aha": "Im Krimi stirbt jeden Sonntag wer, in der Wirklichkeit ist Mord bei uns ein Verbrechen, das fast nie stattfindet. Und wenn, dann sind die meisten Täter geständig.",
+   "quote_clean": "Mord ist ja ganz selten. Morde gibt es im Jahr nur 70 bis 80. Das ist ein Verbrechen, das fast nie stattfindet.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-das-Frage war trivial (nur Gast oder Host); Zitat ist inhaltlich stark und wurde als Inhaltsfrage gestellt (Klenk verwirft Theater und religioese Verhandlung ausdruecklich).",
+   "stand_note": "",
+   "statement": "Laut Florian Klenk ist ein Strafverfahren kein Theater und keine religiöse Verhandlung, sondern der Zugriff des Staates auf den Bürger.",
+   "question": "Was ist ein Strafverfahren laut Florian Klenk in Wirklichkeit?",
+   "answer": "Zugriff des Staates auf den Bürger",
+   "distractors": [
+    "Theater für die Öffentlichkeit",
+    "Eine Art religiöse Verhandlung",
+    "Streit zwischen zwei Privatleuten"
+   ],
+   "aha": "Der Schwurgerichtssaal schaut aus wie eine Theaterbühne, ist aber keine. Dort wird Menschen das genommen, was sie zu Menschen macht: frei zu sein. Darum muss man sich so sicher sein.",
+   "quote_clean": "Ein Gerichtsverfahren ist in Wirklichkeit der Zugriff des Staates auf den Bürger. Der Bürger wird in den Kerker geschmissen, wenn man so will.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "Zitat belegt; Aha war holprig ('nur nicht vorhersehbar', 'die meisten') und wurde mit Klenks Angabe 15 bis 18 Jahre praezisiert.",
+   "stand_note": "Stand 2018",
+   "statement": "Die lebenslange Freiheitsstrafe wurde früher als kleine Schwester der Todesstrafe bezeichnet.",
+   "question": "Welche Strafe wurde früher „die kleine Schwester der Todesstrafe“ genannt?",
+   "answer": "Lebenslange Freiheitsstrafe",
+   "distractors": [
+    "Die Zwangsarbeit",
+    "Die Verbannung",
+    "Die Einzelhaft"
+   ],
+   "aha": "Das Haftende ist der Tod, so die alte Logik. Heute ist das Ende nur nicht vorhersehbar: Im Schnitt sitzen Lebenslängliche 15 bis 18 Jahre, dann können sie einen Antrag auf Freilassung stellen.",
+   "quote_clean": "Man hat früher gesagt, die lebenslange Freiheitsstrafe ist die kleine Schwester der Todesstrafe, weil das Haftende der Tod ist.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Folgenstart ohne Wissensgewinn; zudem macht der Gast den Host zum hypothetischen Moerder.",
+   "stand_note": "",
+   "statement": "Andreas steigt in die Strafrechtsfolge mit dem Gedankenexperiment ein, er gehe vor die Falter-Redaktion und bringe jemanden um.",
+   "question": "Mit welchem Gedankenexperiment startet Andreas die Folge über Strafrecht?",
+   "answer": "Er bringt vor dem Falter jemanden um",
+   "distractors": [
+    "Er stiehlt ein Fahrrad",
+    "Er fährt bei Rot über die Kreuzung",
+    "Er überfällt eine Bank"
+   ],
+   "aha": "Plakativer geht es kaum: Andreas spaziert gedanklich in die Mark-Aurel-Straße und begeht einen Mord. Florians erste Antwort ist sehr pragmatisch: Hat dich wer gesehen?",
+   "quote_clean": "Florian, ich beginne mit einem plakativen Beispiel. Ich gehe jetzt auf die Straße. Wir sitzen beim Falter. Ich gehe jetzt in die Mark-Aurel-Straße und bringe jemanden um.",
+   "quality": 2
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Meta-Frage; die Rueknahme bezieht sich laut Transkript auf 'nicht so sexy' (t=57) nur sinngemaess, 'lustig' ist halb ironisch; kein Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Mitten in der Folge nimmt Andreas zurück, dass Strafrecht nicht sexy klinge, und findet es doch ganz lustig.",
+   "question": "Was nimmt Andreas mitten in der Strafrechtsfolge zurück?",
+   "answer": "Dass Strafrecht nicht sexy klingt",
+   "distractors": [
+    "Seinen hypothetischen Mord",
+    "Seine Frage nach lebenslang",
+    "Dass er Jus studieren will"
+   ],
+   "aha": "Am Anfang kündigt Andreas das Strafrecht noch als nicht so sexy an. Nach Floß, Puppe im Bett und Kugel, die den Falschen trifft, ist er bekehrt.",
+   "quote_clean": "Ich ziehe zurück, was ich zu Beginn gesagt habe. Strafrecht ist doch ganz lustig.",
+   "quality": 2
+  }
+ ],
+ "id": "16",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

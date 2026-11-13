@@ -1,0 +1,279 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zum Folgenauftakt ohne Wissensgewinn, Distraktoren beliebig; im aha stehen 'Krieg ist Politik' und 'Natur ändert sich über Jahrtausende nicht' nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Andreas eröffnet die Kriegsserie mit der großen Frage, ob es jemals eine Welt ohne Kriege geben kann.",
+   "question": "Mit welcher Frage eröffnet Andreas die Serie „Erklär mir den Krieg“?",
+   "answer": "Kann es eine Welt ohne Kriege geben?",
+   "distractors": [
+    "Wer gewinnt den Krieg in der Ukraine?",
+    "Braucht Österreich ein Berufsheer?",
+    "Wie viele Atomwaffen gibt es weltweit?"
+   ],
+   "aha": "Franz-Stefans Antwort ist ernüchternd: nein. Krieg ist für ihn Politik, und Politik gehört zur menschlichen Natur, die sich über Jahrtausende nicht ändert.",
+   "quote_clean": "Darum meine Frage an dich: Hat es Kriege immer gegeben, wird es Kriege immer geben, oder kann so etwas irgendwann mal funktionieren, eine Welt ohne Kriege?",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Drei Gründe sind belegt und historisch korrekt; die Behauptung im aha über Kriegstheorien an der Uni steht nicht im Ausschnitt und wird ersetzt.",
+   "stand_note": "",
+   "statement": "Laut dem antiken Geschichtsschreiber Thukydides brechen Kriege aus drei Gründen aus: Interessen, Furcht und Ehre.",
+   "question": "Welche drei Kriegsgründe nennt der antike Historiker Thukydides?",
+   "answer": "Interessen, Furcht und Ehre",
+   "distractors": [
+    "Hunger, Glaube und Rache",
+    "Gold, Land und Frauen",
+    "Armut, Neid und Zufall"
+   ],
+   "aha": "Thukydides hat den Peloponnesischen Krieg im 5. Jahrhundert vor Christus beschrieben und daraus Grundprinzipien für jeden Krieg abgeleitet. Ehre meint dabei weniger Ehre im heutigen Sinn als die persönlichen Ambitionen von Herrschern und Generälen.",
+   "quote_clean": "Und er hat grundsätzlich gesagt, es gibt drei Gründe, warum Kriege ausbrechen. Der erste Grund ist Interessen.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Im Ausschnitt belegt und historisch korrekt (Machtzuwachs Athens, Furcht Spartas).",
+   "stand_note": "",
+   "statement": "Laut Thukydides brach der Peloponnesische Krieg aus, weil Athens wachsende Macht in Sparta Furcht auslöste.",
+   "question": "Warum brach laut Thukydides der Peloponnesische Krieg aus?",
+   "answer": "Spartas Furcht vor Athens Machtzuwachs",
+   "distractors": [
+    "Ein Streit um Olympische Spiele",
+    "Ein persischer Überfall auf Athen",
+    "Eine Hungersnot in Sparta"
+   ],
+   "aha": "Das ist einer der berühmtesten Sätze der Geschichtsschreibung: Eine aufsteigende Macht macht der etablierten Angst. Furcht ist damit einer der drei großen Kriegsgründe bei Thukydides.",
+   "quote_clean": "Krieg ausgebrochen ist wegen des Zuwachses der Macht Athens und der Furcht, die das in Sparta ausgelöst hat – den zwei Großmächten im antiken Griechenland.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt; der Distraktor 'Zug nach Ägypten' ist heikel, weil Athen tatsächlich eine gescheiterte Ägypten-Expedition hatte. Ersetzt.",
+   "stand_note": "",
+   "statement": "Athen verlor den Peloponnesischen Krieg vor allem wegen der katastrophalen Sizilianischen Expedition, gewissermaßen seinem Vietnamkrieg.",
+   "question": "Welcher Feldzug gilt als „Vietnamkrieg Athens“ und Schlüssel zu seiner Niederlage gegen Sparta?",
+   "answer": "Die Sizilianische Expedition",
+   "distractors": [
+    "Die Schlacht bei Marathon",
+    "Die Schlacht bei Salamis",
+    "Die Belagerung von Troja"
+   ],
+   "aha": "Athen wollte das reiche Syrakus erobern und schickte eine riesige Flotte samt Heer. Das gesamte Heer geriet in Gefangenschaft, die Flotte wurde zerstört, die Überlebenden schufteten als Sklaven in den Steinbrüchen.",
+   "quote_clean": "Warum das passiert ist, geht auf die sogenannte Sizilianische Expedition zurück. Das ist quasi der Vietnamkrieg Athens gewesen.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Alkibiades als Rädelsführer mit populistischen Parolen ist belegt (Gadys Einordnung), Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Treibende Kraft hinter Athens desaströser Sizilien-Expedition war der populistische Redner Alkibiades, ein Schüler des Sokrates.",
+   "question": "Wer trieb die Athener mit populistischen Parolen zur verhängnisvollen Sizilien-Expedition?",
+   "answer": "Alkibiades, ein Schüler des Sokrates",
+   "distractors": [
+    "Perikles, der Stratege Athens",
+    "Platon, Schüler des Sokrates",
+    "Leonidas, König von Sparta"
+   ],
+   "aha": "Ausgerechnet die Demokratie Athens ließ sich von einem Populisten mit eigenen Interessen in den Krieg reden. Für Franz-Stefan das klassische Beispiel, dass Gewaltenteilung allein nicht vor Kriegsbegeisterung schützt.",
+   "quote_clean": "Und interessanterweise war das vor allem eine Person, die hat Alkibiades geheißen, ein Schüler von Sokrates, der hier der Rädelsführer war",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Vergleich mit dem Fußballstadion ist wörtlich belegt, aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Kollektive Kriegsbegeisterung gleicht der Irrationalität im Fußballstadion, wo sonst rationale Menschen in Hysterie verfallen.",
+   "question": "Womit vergleicht Franz-Stefan Gady die kollektive Irrationalität vor einer Kriegserklärung?",
+   "answer": "Mit einem Fußballstadion",
+   "distractors": [
+    "Mit einem Börsencrash",
+    "Mit einem Rockkonzert",
+    "Mit einer Wahlparty"
+   ],
+   "aha": "Unter der Woche vernünftig, am Wochenende im Rapid- oder Sturm-Leiberl beim Sprechchor. Genau diese Emotionen nutzen Leute wie Alkibiades aus, und das funktioniert auch in Demokratien leichter, als man glaubt.",
+   "quote_clean": "Es ist oft vergleichbar mit der Irrationalität, wenn Leute, die die ganze Woche komplett rational sind, sich einmal in der Woche ein Rapid-Leiberl anziehen",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt; Antwort 'im Kopf des Gegners' entspricht dem Kontext (nicht in die Köpfe anderer schauen).",
+   "stand_note": "",
+   "statement": "Abschreckung nach dem römischen Grundsatz „Wer Frieden will, rüste für den Krieg“ findet vor allem im Kopf des Gegners statt.",
+   "question": "Wo findet Abschreckung laut Franz-Stefan Gady hauptsächlich statt?",
+   "answer": "Im Kopf des Gegners",
+   "distractors": [
+    "In der Rüstungsindustrie",
+    "Im UN-Sicherheitsrat",
+    "An den Landesgrenzen"
+   ],
+   "aha": "Ob der andere sich abschrecken lässt, hängt davon ab, was er glaubt. Und weil niemand in fremde Köpfe schauen kann, bleibt immer Unsicherheit.",
+   "quote_clean": "… muss sich auf den Krieg vorbereiten. Abschreckung findet hauptsächlich im Kopf statt, und wir können natürlich nicht in die Köpfe anderer Menschen hineinschauen",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Jom-Kippur-Krieg Oktober 1973 ist wörtlich belegt und historisch korrekt.",
+   "stand_note": "",
+   "statement": "Im Jom-Kippur-Krieg im Oktober 1973 wurde Israel überrascht, obwohl die Geheimdienstdaten vorlagen – sie wurden nur falsch eingeschätzt.",
+   "question": "In welchem Jahr wurde Israel im Jom-Kippur-Krieg von arabischen Staaten überrascht?",
+   "answer": "1973",
+   "distractors": [
+    "1948",
+    "1967",
+    "1982"
+   ],
+   "aha": "Auch einer der besten Geheimdienste der Welt hatte die Hinweise und hat sie falsch gedeutet. Franz-Stefan verweist darauf, dass auch beim 7. Oktober 2023 die Einschätzung versagte, weil Analyse immer auch von eigenen Annahmen gefärbt ist.",
+   "quote_clean": "Was aber eine große Tradition in Israel hat, wenn man an den Jom-Kippur-Krieg im Oktober 1973 denkt, wo auch die Daten da waren, sie wurden nur falsch eingeschätzt",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "1861 bis 1865 belegt und korrekt; West-Point-Anekdote ist belegt, Mexiko-Krieg ist gesichertes Wissen.",
+   "stand_note": "",
+   "statement": "Der amerikanische Bürgerkrieg dauerte von 1861 bis 1865 und war der blutigste Krieg der USA im 19. Jahrhundert.",
+   "question": "In welchem Jahr begann der amerikanische Bürgerkrieg?",
+   "answer": "1861",
+   "distractors": [
+    "1812",
+    "1848",
+    "1877"
+   ],
+   "aha": "Vier Jahre lang bekriegten sich Nord- und Südstaaten aufs Erbittertste. Und das, obwohl viele Offiziere beider Seiten gemeinsam in West Point studiert hatten und sich teils sogar Zimmer teilten.",
+   "quote_clean": "Denk mal daran: Der blutigste Krieg in den Vereinigten Staaten im 19. Jahrhundert war der amerikanische Bürgerkrieg von 1861 bis 1865",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Reine Allgemeinwissensfrage ohne Bezug zur Aussage der Folge; das aha gibt Gadys Einschätzung zum Ende des US-Schutzes als Tatsache aus und ist tagesaktuell.",
+   "stand_note": "",
+   "statement": "Franz-Stefan Gady vergleicht den heutigen Rückzug der USA aus Europa mit der Zeitenwende durch den Fall der Berliner Mauer 1989.",
+   "question": "In welchem Jahr fiel die Berliner Mauer?",
+   "answer": "1989",
+   "distractors": [
+    "1961",
+    "1975",
+    "1995"
+   ],
+   "aha": "Damals endete eine Weltordnung, und Franz-Stefan sieht uns wieder an so einem Punkt. Diesmal geht das amerikanische Imperium verloren, unter dessen Schutz Europa jahrzehntelang gemütlich leben konnte.",
+   "quote_clean": "Wir befinden uns gerade in einer Zeit, die ich wahrscheinlich mit dem Fall der Berliner Mauer 1989 vergleichen würde, einer tatsächlichen Zeitenwende",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "fairness"
+   ],
+   "note": "Gady sagt selbst, der Satz sei von seinem Vater (und über Schopenhauer) abgeleitet; 'Wer hat's gesagt: Gady' wäre irreführend. Das aha verkürzt zudem eine politische Position zu ESG-Regeln.",
+   "stand_note": "",
+   "statement": "Sicherheit ist nicht alles, aber ohne Sicherheit ist alles nichts – sie ist das Grundelement von allem anderen.",
+   "question": "Wer hat's gesagt: „Sicherheit ist nicht alles, aber ohne Sicherheit ist alles nichts“?",
+   "answer": "Franz-Stefan Gady",
+   "distractors": [
+    "Andreas Sator",
+    "Thukydides",
+    "Helmut Schmidt"
+   ],
+   "aha": "Abgeleitet hat er das von seinem verstorbenen Vater, der das über die Wirtschaft gesagt hat, und der wiederum von Schopenhauers Satz über die Gesundheit. Deshalb sollen auch Nachhaltigkeitskriterien für Banken Rüstung nicht automatisch abwerten.",
+   "quote_clean": "Es gibt nichts Nachhaltigeres als Sicherheit. Sicherheit ist nicht alles, aber ohne Sicherheit ist alles nichts.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Belegt als Gadys Einschätzung; im aha war 'kaum jemand kann sich vorstellen, das Land zu verteidigen' stärker als im Ausschnitt (er sagt: man kann sich nicht vorstellen, was Krieg bedeutet). Stand-Hinweis ergänzt.",
+   "stand_note": "Stand 2025",
+   "statement": "Krieg ist immer ein Wettbewerb des Willens – und Russland hält Europa laut Gady nicht materiell, sondern beim Wehrwillen für schwach.",
+   "question": "Warum hält Russland Europa laut Franz-Stefan Gady für schwach?",
+   "answer": "Weil der Wehrwille fehlt",
+   "distractors": [
+    "Weil die Wirtschaft schrumpft",
+    "Weil Waffen veraltet sind",
+    "Weil Europa zu klein ist"
+   ],
+   "aha": "Wirtschaftlich und im Handel ist die EU laut Franz-Stefan eine Großmacht. Aber in einer postheroischen Gesellschaft, sagt er, können wir uns kaum vorstellen, was Krieg und Kriegsführung bedeuten.",
+   "quote_clean": "Mein erster Punkt wäre, dass Krieg immer ein Wettbewerb des Willens ist. Das heißt, Russland sieht uns grundsätzlich als schwach an",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat wörtlich belegt und korrekt zugeordnet; als Wer-hat's-gesagt-Frage nur mittelmäßig.",
+   "stand_note": "",
+   "statement": "Krieg ist ein eigenes, irrationales, sich selbst nährendes Wesen, das von Hass und Emotionen angetrieben wird.",
+   "question": "Wer beschreibt Krieg als „eigenes irrationales selbstnährendes Wesen“?",
+   "answer": "Franz-Stefan Gady",
+   "distractors": [
+    "Andreas Sator",
+    "Carl von Clausewitz",
+    "Platon"
+   ],
+   "aha": "Selbstnährend, weil im Krieg so viel Schlimmes passiert, dass beide Seiten einander danach noch mehr hassen. Irrational zu sein und Hass zu empfinden ist für Franz-Stefan leider zutiefst menschlich.",
+   "quote_clean": "Und Krieg an sich – das beschreibe ich auch im Buch – ist ein eigenes irrationales, selbstnährendes Wesen, das wirklich vom Hass, von Emotionen genährt wird",
+   "quality": 2
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "transkription"
+   ],
+   "note": "Drei Tage nach der Geburt ist belegt; der Platzname im Transkript ist verhört ('Kurm'), quote_clean daher auf das sicher Gesagte beschränkt.",
+   "stand_note": "",
+   "statement": "Franz-Stefan Gady ist Sturm-Graz-Fan und wurde schon drei Tage nach seiner Geburt auf den legendären Sturmplatz gebracht.",
+   "question": "Wie alt war Franz-Stefan Gady, als er zum ersten Mal auf den Sturm-Platz in Graz gebracht wurde?",
+   "answer": "Drei Tage",
+   "distractors": [
+    "Drei Wochen",
+    "Drei Monate",
+    "Drei Jahre"
+   ],
+   "aha": "Seine Sturm-Liebe ist so instinktiv, dass er sich jedes Mal freut, wenn Sturm gewinnt, obwohl er keinen einzigen Spieler mehr nennen könnte. Andreas geht dagegen zu Rapid in den Block West.",
+   "quote_clean": "Wie gesagt, ich bin Sturm-Fan, ich wurde drei Tage nach meiner Geburt schon auf den Sturmplatz geschafft, den legendären in Graz",
+   "quality": 3
+  }
+ ],
+ "id": "342",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

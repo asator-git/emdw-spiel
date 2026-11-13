@@ -1,0 +1,281 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "„Seit circa 2013“ klar belegt und historisch korrekt.",
+   "stand_note": "",
+   "statement": "Die Black-Lives-Matter-Bewegung entstand um 2013 in den USA.",
+   "question": "Seit welchem Jahr gibt es die Black-Lives-Matter-Bewegung in den USA ungefähr?",
+   "answer": "2013",
+   "distractors": [
+    "2005",
+    "2017",
+    "1998"
+   ],
+   "aha": "Black Lives Matter ist also keine Erfindung des Sommers 2020. Die Bewegung demonstriert in den USA seit rund 2013 gegen Polizeigewalt, wurde aber lange kaum gehört. Erst der Tod von George Floyd hat sie weltweit groß gemacht.",
+   "quote_clean": "Die Bewegung kommt eigentlich aus Amerika. Dort gibt es sie schon seit circa 2013.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "50.000 belegt (Andreas, Kontext: Demo vom 4. Juni, die Ngosso mitinitiiert hat). Im Aha stand „eine der größten seit Jahren“, das steht nicht im Ausschnitt; entfernt.",
+   "stand_note": "Stand 2020",
+   "statement": "Bei der Black-Lives-Matter-Demo am 4. Juni 2020 in Wien waren rund 50.000 Menschen auf der Straße.",
+   "question": "Wie viele Menschen demonstrierten am 4. Juni 2020 in Wien für Black Lives Matter?",
+   "answer": "rund 50.000",
+   "distractors": [
+    "rund 5.000",
+    "rund 15.000",
+    "rund 150.000"
+   ],
+   "aha": "Rund 50.000 Menschen, mitten in der Corona-Zeit. Mireille Ngosso hat die Demo mitinitiiert. Ihre Einschätzung: Durch das Video von George Floyd hat die weiße Mehrheitsgesellschaft zum ersten Mal richtig Einblick bekommen, was es bedeutet, schwarz zu sein.",
+   "quote_clean": "In Wien waren 50.000 Menschen auf der Straße.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Belegt als Einschätzung von Ngosso (2020); Ursachen waren vielfältiger, daher als „nennt als Grund“ formuliert. Aha-Detail zur Versicherung stand nicht im Ausschnitt.",
+   "stand_note": "Stand 2020",
+   "statement": "Mireille Ngosso nennt schlechteren Zugang zur Gesundheitsversorgung als einen Grund, warum in der Corona-Zeit in den USA viele Schwarze gestorben sind.",
+   "question": "Welchen Grund nennt Mireille Ngosso dafür, dass Corona in den USA schwarze Menschen besonders hart traf?",
+   "answer": "Schlechter Zugang zur Gesundheitsversorgung",
+   "distractors": [
+    "Genetisch höhere Anfälligkeit",
+    "Seltenere Maskenpflicht in ihren Bundesstaaten",
+    "Höheres Durchschnittsalter"
+   ],
+   "aha": "Afroamerikaner:innen sind in den USA meist sozial schwächer gestellt. Für Ngosso ist Black Lives Matter dort deshalb beides: ein Protest gegen Polizeigewalt und ein Stück Klassenkampf.",
+   "quote_clean": "Man hat in der Corona-Zeit sehr gut gesehen, wie viele schwarze Menschen dort umgekommen sind, weil sie keinen guten Zugang zur Gesundheitsversorgung haben.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg im Ausschnitt, historisch korrekt (Angelo Soliman, 18. Jahrhundert, Wien).",
+   "stand_note": "",
+   "statement": "Angelo Soliman war ein als Sklave nach Europa verschleppter Afrikaner, der im 18. Jahrhundert in Wien lebte.",
+   "question": "Wer war Angelo Soliman?",
+   "answer": "ein ehemaliger Sklave im Wien des 18. Jahrhunderts",
+   "distractors": [
+    "ein afrikanischer Gesandter am Kaiserhof",
+    "ein Wiener Bürgermeister",
+    "ein Fußballer bei Rapid Wien"
+   ],
+   "aha": "Angelo Soliman kam als versklavtes Kind nach Europa und landete schließlich in Wien. Er zeigt, dass schwarze Menschen schon sehr lange Teil der österreichischen Geschichte sind, auch wenn das in kaum einem Schulbuch steht.",
+   "quote_clean": "Da reden wir von Angelo Soliman, der ein Sklave war.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar, historisch vertretbar.",
+   "stand_note": "",
+   "statement": "Österreich hatte zwar keine Kolonien, aber Adelige holten sich Sklaven aus Spanien oder Portugal, um sich mit ihnen zu schmücken.",
+   "question": "Hatte es in Österreich trotz fehlender Kolonien Sklaven?",
+   "answer": "Ja, Adelige holten sie aus Spanien und Portugal",
+   "distractors": [
+    "Nein, Sklaverei war in Österreich immer verboten",
+    "Nur in den Kolonien in Afrika",
+    "Nur als Matrosen in der Kriegsmarine"
+   ],
+   "aha": "Keine Kolonien heißt nicht keine Verbindung zur Sklaverei. Adelige kauften Menschen über Spanien oder Portugal und stellten sie als eine Art Statussymbol zur Schau. Angelo Soliman ist das bekannteste Beispiel.",
+   "quote_clean": "Österreich hatte keine Kolonien, aber Österreich hatte Sklaven, die die Adeligen aus Spanien oder Portugal geholt und sich hier mit ihnen geschmückt haben.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Andreas formuliert vorsichtig („ich glaube“), Ngosso bestätigt; historisch korrekt.",
+   "stand_note": "",
+   "statement": "Angelo Soliman wurde nach seinem Tod ausgestopft und im Vorgänger des Naturhistorischen Museums ausgestellt.",
+   "question": "Was geschah mit Angelo Soliman nach seinem Tod?",
+   "answer": "Er wurde ausgestopft und ausgestellt",
+   "distractors": [
+    "Er bekam ein Ehrengrab am Zentralfriedhof",
+    "Er wurde im Stephansdom beigesetzt",
+    "Sein Körper kam zurück nach Afrika"
+   ],
+   "aha": "Er wurde ausgestopft und im kaiserlichen Naturalienkabinett gezeigt, dem Vorgänger des Naturhistorischen Museums. Seine Tochter hat dagegen gekämpft. Heute gibt es in Wien immerhin einen Angelo-Soliman-Weg.",
+   "quote_clean": "Angelo Soliman wurde nach seinem Tod sogar ausgestopft und im Vorgänger des Naturhistorischen Museums aufgestellt.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "„Erste Generation“ ist missverständlich und widerspricht den Beispielen, die Ngosso unmittelbar davor nennt (Soliman, Weltkriege); als Fakt irreführend.",
+   "stand_note": "",
+   "statement": "Eine erste größere Generation schwarzer Österreicher:innen waren Kinder von US-Soldaten und Wienerinnen nach dem Zweiten Weltkrieg.",
+   "question": "Wer war laut Mireille Ngosso die erste Generation schwarzer Menschen in Österreich?",
+   "answer": "Kinder von US-Soldaten und Wienerinnen",
+   "distractors": [
+    "Studierende aus Afrika in den 1960ern",
+    "Gastarbeiter aus Nordafrika",
+    "Geflüchtete aus dem Kongo in den 1980ern"
+   ],
+   "aha": "Nach 1945 waren in Wien auch afroamerikanische US-Soldaten stationiert.",
+   "quote_clean": "Die erste Generation schwarzer Menschen in Österreich waren eigentlich die Kinder, die US-Soldaten nach dem Zweiten Weltkrieg mit Wienerinnen gezeugt haben.",
+   "quality": 1
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "91 belegt und rechnerisch richtig (geboren 15. Jänner 1929).",
+   "stand_note": "",
+   "statement": "Martin Luther King wäre im Jahr 2020 91 Jahre alt gewesen.",
+   "question": "Wie alt wäre Martin Luther King im Jahr 2020 gewesen, wenn er noch leben würde?",
+   "answer": "91 Jahre",
+   "distractors": [
+    "78 Jahre",
+    "104 Jahre",
+    "85 Jahre"
+   ],
+   "aha": "King wurde 1929 geboren und 1968 ermordet. Er könnte also gut noch leben. Andreas' Punkt: Rassentrennung ist nichts aus grauer Vorzeit, sondern Geschichte, die Zeitzeug:innen noch erlebt haben.",
+   "quote_clean": "Martin Luther King wäre heute 91.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Beleg klar, als persönliche Sicht von Ngosso („für mich“). Im Aha stand „Gemeint ist es meist nicht böse“, das steht nicht im Ausschnitt; entfernt.",
+   "stand_note": "",
+   "statement": "Alltagsrassismus beginnt laut Mireille Ngosso schon mit der Frage, woher jemand eigentlich komme.",
+   "question": "Womit fängt Alltagsrassismus für Mireille Ngosso schon an?",
+   "answer": "Mit der Frage „Woher kommen Sie eigentlich?“",
+   "distractors": [
+    "Mit offenen Beschimpfungen auf der Straße",
+    "Mit Polizeikontrollen ohne Grund",
+    "Mit Witzen im Fernsehen"
+   ],
+   "aha": "Wer „Wien“ antwortet, wird oft weitergefragt: ursprünglich, und die Eltern? Für Ngosso zeigt das, dass es für die weiße Mehrheitsgesellschaft nicht selbstverständlich ist, dass schwarze Menschen Teil der Gesellschaft sind.",
+   "quote_clean": "Der Alltagsrassismus fängt für mich schon damit an, dass mich Leute fragen: Woher kommen Sie denn eigentlich?",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "fairness"
+   ],
+   "note": "Beleg klar; Definition ist Position von Ngosso und wird so gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Weißes Privileg bedeutet laut Mireille Ngosso nicht, dass man es leicht hat, sondern dass die eigene Hautfarbe nie ein Problem oder Thema ist.",
+   "question": "Was bedeutet weißes Privileg laut Mireille Ngosso?",
+   "answer": "Die Hautfarbe ist nie ein Thema",
+   "distractors": [
+    "Man ist automatisch reich",
+    "Man hatte nie Probleme im Leben",
+    "Man bekommt jeden Job"
+   ],
+   "aha": "Natürlich haben alle ihre Probleme, je nach sozialer Schicht, Religion oder Herkunft. Privileg heißt hier nur: Wegen der Hautfarbe wird man nicht diskriminiert. Bei schwarzen Menschen ist sie dagegen größtenteils immer ein Thema.",
+   "quote_clean": "Man muss sich das so vorstellen: Die Hautfarbe war nie ein Problem und nie ein Thema.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg klar; Wer-sagte-das-Frage, inhaltlich dünn.",
+   "stand_note": "",
+   "statement": "Ein Ally zu sein beginnt laut Mireille Ngosso damit, aktiv zuzuhören.",
+   "question": "Wer sagte in Erklär mir die Welt: „Ally fängt schon mal damit an, dass man aktiv zuhört“?",
+   "answer": "Mireille Ngosso",
+   "distractors": [
+    "Andreas Sator",
+    "Alice Hasters",
+    "Tupoka Ogette"
+   ],
+   "aha": "Zuhören und dann den Mund aufmachen: wenn am Familientisch ein blöder Spruch fällt oder jemand in der U-Bahn beschimpft wird. Ngosso erzählt, dass ihr dort nur sehr selten jemand beigestanden ist.",
+   "quote_clean": "Ally sein fängt schon damit an, dass man aktiv zuhört.",
+   "quality": 2
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [
+    "fairness"
+   ],
+   "note": "Beleg klar und als politische Forderung der Gästin (SPÖ) korrekt zugeordnet; sie nennt die Dauer selbst diskutierbar.",
+   "stand_note": "",
+   "statement": "Mireille Ngosso fordert eine Wahlrechtsreform: Wer fünf Jahre in Österreich lebt, soll ihrer Meinung nach mitbestimmen dürfen.",
+   "question": "Nach wie vielen Jahren in Österreich sollte man laut Mireille Ngosso mitbestimmen dürfen?",
+   "answer": "nach fünf Jahren",
+   "distractors": [
+    "nach zwei Jahren",
+    "nach zehn Jahren",
+    "nach fünfzehn Jahren"
+   ],
+   "aha": "Ihr Argument: Wer hier lebt und Steuern zahlt, soll auch mitreden. Über die genaue Dauer könne man diskutieren, sagt sie, fünf Jahre schlägt sie als Richtwert vor.",
+   "quote_clean": "Ich finde, wer fünf Jahre in diesem Land lebt, sollte auch mitbestimmen dürfen.",
+   "quality": 2
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar, als Position von Ngosso formuliert.",
+   "stand_note": "",
+   "statement": "Vorbilder aus der schwarzen Community sind laut Mireille Ngosso der Schlüssel, um Alltagsrassismus abzubauen.",
+   "question": "Was braucht es laut Mireille Ngosso, um Alltagsrassismus abzubauen?",
+   "answer": "Vorbilder",
+   "distractors": [
+    "strengere Strafen",
+    "mehr Polizeikontrollen",
+    "eigene Schulen"
+   ],
+   "aha": "Wenn man People of Color überall sieht, in der Politik, im Fernsehen, in Führungsjobs, dann wird es normal, und Rassismus baut sich Stück für Stück ab. Deshalb will sie Türen öffnen, und zwar nicht nur für eine Person.",
+   "quote_clean": "Wir brauchen Vorbilder. Mit Vorbildern können wir erst Alltagsrassismus abbauen.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Zitat belegt; die Behauptung „am Ende jeder Folge“ ist nicht belegt und wurde entfernt. Inhaltlich dünn.",
+   "stand_note": "",
+   "statement": "In seinem Fazit sagt Andreas: Um ein Problem zu lösen, muss man es erst einmal benennen.",
+   "question": "Was sagt Andreas in seinem Fazit, wie man ein Problem lösen kann?",
+   "answer": "Man muss es erst einmal benennen",
+   "distractors": [
+    "Man muss es zuerst ignorieren",
+    "Man muss Schuldige finden",
+    "Man muss es gesetzlich verbieten"
+   ],
+   "aha": "Sein Fazit in dieser Folge: eingestehen, dass es strukturellen Rassismus gibt, nicht in den Abwehrreflex verfallen und anfangen zuzuhören. Sechs Buchtipps hat er auch mitgenommen.",
+   "quote_clean": "Um ein Problem zu lösen, muss man es erst einmal benennen.",
+   "quality": 2
+  }
+ ],
+ "id": "118",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

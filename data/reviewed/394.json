@@ -1,0 +1,278 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Nachgerechnet: 10.000 Euro, 5 %, 20 Jahre ergibt Zinseszins rund 16.500 vs. einfach 10.000, Differenz rund 6.500 (Gast sagt 'über 6.000'). Passt.",
+   "stand_note": "",
+   "statement": "Legt man 10.000 Euro 20 Jahre lang zu 5 Prozent an, bringt der Zinseszins über 6.000 Euro mehr Zinsen als einfache Verzinsung.",
+   "question": "Du legst 10.000 Euro 20 Jahre lang zu 5 Prozent an. Wie viele Euro mehr Zinsen bringt dir der Zinseszins gegenüber einfacher Verzinsung?",
+   "answer": "Rund 6.500 Euro",
+   "distractors": [
+    "Rund 500 Euro",
+    "Rund 2.000 Euro",
+    "Rund 15.000 Euro"
+   ],
+   "aha": "Mit einfachen Zinsen bekommst du 20 mal 500 Euro, also 10.000. Mit Zinseszins verzinsen sich auch die Zinsen selbst, und am Ende stehen rund 16.500 Euro Zinsen da. Bettina sagt, genau diesen Effekt unterschätzen die meisten ganz krass.",
+   "quote_clean": "10.000 Euro jedes Jahr 5 % verzinst: Wie viel ist das mit normalen Zinsen im Vergleich zu Zinseszinsen? Nach einem Zeitraum von 20 Jahren ist der Unterschied schon über 6.000 Euro.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "EZB-Ziel 2 Prozent, auch 2026 gültig.",
+   "stand_note": "Stand 2026",
+   "statement": "Das Inflationsziel der Europäischen Zentralbank liegt bei 2 Prozent pro Jahr.",
+   "question": "Wie viel Prozent Inflation pro Jahr strebt die Europäische Zentralbank als Ziel an?",
+   "answer": "2 Prozent",
+   "distractors": [
+    "0 Prozent",
+    "1 Prozent",
+    "4 Prozent"
+   ],
+   "aha": "Null Inflation ist gar nicht das Ziel, ein bisschen Teuerung gilt als gesund. Bei 2 Prozent klopfen sich laut Bettina alle auf die Schulter und reden von Geldwertstabilität.",
+   "quote_clean": "Wenn wir 2 % Inflation pro Jahr hätten – das ist ja das Inflationsziel der Europäischen Zentralbank.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Gast rundet 'schlampig' auf 20 %; exakt sind es rund 18 %, Antwort als 'knapp 20 Prozent' präzisiert.",
+   "stand_note": "",
+   "statement": "Selbst bei nur 2 Prozent Inflation pro Jahr verliert Geld auf dem Konto in zehn Jahren knapp ein Fünftel seiner Kaufkraft.",
+   "question": "Bei 2 Prozent Inflation pro Jahr: Wie viel Prozent Kaufkraft verliert Geld am Konto ungefähr in zehn Jahren?",
+   "answer": "Knapp 20 Prozent",
+   "distractors": [
+    "Rund 2 Prozent",
+    "Rund 10 Prozent",
+    "Rund 40 Prozent"
+   ],
+   "aha": "Am Konto steht zwar noch derselbe Betrag, aber du kannst dir weniger darum kaufen. Genau gerechnet sind es etwa 18 Prozent, Bettina hat bewusst schlampig auf 20 gerundet.",
+   "quote_clean": "Über 10 Jahre habe ich, wenn ich mir diesen kumulativen Effekt anschaue, schlampig gerechnet 20 % verloren.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar, Begriff korrekt, aha gedeckt.",
+   "stand_note": "",
+   "statement": "Opportunitätskosten bedeuten: Wer Geld für eine Sache ausgibt, kann es nicht mehr für eine andere ausgeben.",
+   "question": "Wie heißt das Prinzip, dass jede Entscheidung für eine Ausgabe zugleich eine Entscheidung gegen etwas anderes ist?",
+   "answer": "Opportunitätskosten",
+   "distractors": [
+    "Grenznutzen",
+    "Skaleneffekt",
+    "Zinseszins"
+   ],
+   "aha": "Klingt banal, sagt Bettina, ist aber ein Grundprinzip des Wirtschaftens. Wer das Comic-Heftel kauft, hat das Geld fürs Lego-Set nicht mehr. Kinder lernen das am besten, wenn die Eltern nicht jedes Mal die Geldbörse aufmachen.",
+   "quote_clean": "Dieses Opportunitätskostenkonzept: Wenn ich mir um mein Taschengeld ein Comic-Heftel kaufe, dann kann ich mit diesem Geld nichts anderes mehr kaufen.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok; aha gedeckt.",
+   "stand_note": "",
+   "statement": "Den Zinseszins unterschätzen viele, weil unsere Intuition linear denkt, der Effekt aber überproportional wächst.",
+   "question": "Warum unterschätzen so viele Menschen den Zinseszinseffekt?",
+   "answer": "Wir denken linear, er wächst überproportional",
+   "distractors": [
+    "Banken verschweigen ihn absichtlich",
+    "Er wirkt erst nach 50 Jahren",
+    "Die Inflation hebt ihn immer auf"
+   ],
+   "aha": "Gleichmäßig mehr können wir uns gut vorstellen, überproportional eher nicht. Bettina empfiehlt deshalb einen Zinsrechner im Internet. Und der Effekt arbeitet auch gegen dich, wenn du Schulden nicht zurückzahlst.",
+   "quote_clean": "Ich merke immer wieder: Menschen haben wenig Probleme, sich einen linearen Zusammenhang vorzustellen, dass es mit den Zinsen gleichmäßig mehr wird. Aber beim Zinseszinseffekt wird es überproportional, und das können sie sich schwerer vorstellen.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "'Faustregel' war unscharf (Grundvoraussetzung ist leistbare Rate); Frage auf die Laufzeit-Aussage präzisiert, Distraktoren ersetzt.",
+   "stand_note": "",
+   "statement": "Als Faustregel sollte die Laufzeit eines Kredits zur Nutzungsdauer dessen passen, was man damit kauft.",
+   "question": "Woran sollte sich die Laufzeit eines Kredits laut Bettina Fuhrmann in der Regel orientieren?",
+   "answer": "An der Nutzungsdauer des Gekauften",
+   "distractors": [
+    "An der Höhe des Zinssatzes",
+    "Am Kaufpreis",
+    "An der Dauer der Zinsbindung"
+   ],
+   "aha": "Sonst ist das Gekaufte längst verbraucht, und du zahlst immer noch zurück. Eine Wohnung oder eine Ausbildung hält lange, ein Urlaub oder ein Essen nicht. Dafür einen langen Kredit aufzunehmen, ist wirtschaftlich wenig sinnvoll.",
+   "quote_clean": "In der Regel schaut man, ob die Nutzungsdauer von dem, was ich mit dem Kredit kaufe, halbwegs im Einklang mit der Laufzeit des Kredits ist.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "'Wer hat's gesagt' war wertlos; auf den Inhalt umgestellt.",
+   "stand_note": "",
+   "statement": "Schnell viel Geld zu machen ist laut Bettina Fuhrmann immer mit viel Risiko verbunden.",
+   "question": "Womit ist die Aussicht auf „schnell viel Geld“ laut Bettina Fuhrmann immer verbunden?",
+   "answer": "Mit viel Risiko",
+   "distractors": [
+    "Mit hohen Steuern",
+    "Mit viel Fachwissen",
+    "Mit langer Laufzeit"
+   ],
+   "aha": "Gerade bei jungen Leuten mit Krypto-Träumen sei das eine ganz wichtige Botschaft, sagt Bettina. Hoher Gewinn ist die Prämie dafür, dass man viel Risiko in Kauf nimmt. Wer dir dagegen sicheren Gewinn verspricht, bei dem ist laut Bettina in der Regel was faul.",
+   "quote_clean": "Schnell viel Geld ist halt immer verbunden mit viel Risiko, und wenn dir das jemand verspricht und sagt, das ist sicher, dann lügt er dich an.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg klar, Erklärung korrekt.",
+   "stand_note": "",
+   "statement": "Hohe Rendite bei geringem Risiko kann nicht lange bestehen, weil alle dorthin investieren würden und der Gewinn dadurch schrumpft.",
+   "question": "Warum gibt es laut Bettina Fuhrmann kaum hohe Gewinne ohne hohes Risiko?",
+   "answer": "Alle würden hinlaufen, der Gewinn schrumpft",
+   "distractors": [
+    "Der Staat verbietet solche Anlagen",
+    "Banken behalten sie für sich",
+    "Die Steuern fressen alles auf"
+   ],
+   "aha": "Ein sicheres Geschäft mit hoher Rendite wäre sofort überlaufen. Darum gehen Risiko und Rendite in der Regel Hand in Hand, und bei versprochenen sicheren Riesengewinnen ist meistens was faul.",
+   "quote_clean": "Wenn es für wenig Risiko viel Gewinn gäbe, würden ja alle dorthin laufen, und das würde dann den Gewinn wieder reduzieren.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Inhaltlich korrekt, aber Antwort recht offensichtlich.",
+   "stand_note": "",
+   "statement": "Eine einzelne Aktie schwankt deutlich stärker als ein breit gestreutes Portfolio aus vielen verschiedenen Titeln.",
+   "question": "Was ist laut Bettina Fuhrmann riskanter: alles in eine vielversprechende Aktie oder in viele verschiedene Titel?",
+   "answer": "Alles in eine einzelne Aktie",
+   "distractors": [
+    "Viele verschiedene Titel",
+    "Beides gleich riskant",
+    "Hängt nur von der Branche ab"
+   ],
+   "aha": "Wichtig ist, dass die Titel nicht zusammenhängen: also nicht 20 verschiedene KI-Aktien, sondern unterschiedliche Branchen, Regionen und Währungsgebiete. Breit streuen ist laut Bettina absolut die Devise.",
+   "quote_clean": "In der Regel ist das Investment in so einen Einzeltitel wesentlich riskanter, und da muss ich mit sehr viel mehr Abweichungen rechnen, als wenn ich in viele verschiedene Titel investiere.",
+   "quality": 2
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Gesichert (SPIVA u. a.), Gebührenargument belegt.",
+   "stand_note": "",
+   "statement": "Die große Mehrheit aktiv gemanagter Fonds schlägt einen breiten Index nicht und ist wegen der Gebühren zusätzlich teurer.",
+   "question": "Schaffen es aktiv gemanagte Fonds meistens, einen breiten Aktienindex zu schlagen?",
+   "answer": "Nein, die große Mehrheit nicht",
+   "distractors": [
+    "Ja, fast immer",
+    "Ja, etwa jeder zweite",
+    "Nur in Krisenjahren nicht"
+   ],
+   "aha": "Fondsmanager wollen gut bezahlt werden, und diese Gebühren gehen von deiner Rendite ab. Darum sind passive ETFs, die einfach einen Index nachbilden, eine spesensparende Möglichkeit, breit zu streuen.",
+   "quote_clean": "Die bei weitem überwiegende Mehrheit schafft es nicht und ist zusätzlich teurer, weil sie für das Management des Fonds Gebühren einheben, und das zehrt an meiner Rendite.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "'Wer hat's gesagt' auf Inhalt umgestellt; aha sprach vom Sparbuch, im Ausschnitt geht es um das Konto.",
+   "stand_note": "",
+   "statement": "Laut Bettina Fuhrmann zählt beim Geld nicht der Betrag auf dem Konto, sondern was man sich damit kaufen kann.",
+   "question": "Was zählt beim Geld laut Bettina Fuhrmann am Ende des Tages?",
+   "answer": "Was ich mir darum kaufen kann",
+   "distractors": [
+    "Der Betrag, der am Konto steht",
+    "Der Zinssatz der Bank",
+    "Die Höhe der Einlagensicherung"
+   ],
+   "aha": "Der Nominalbetrag am Konto ist durch die Einlagensicherung bis 100.000 Euro pro Person und Bank sicher, die Kaufkraft aber nicht. Darum wird Geld auf dem Konto im Lauf der Zeit immer weniger wert.",
+   "quote_clean": "Am Ende des Tages zählt nicht, welcher Betrag dasteht, sondern am Ende des Tages zählt, was ich mir darum kaufen kann.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Redewendungs-Zitat ohne Faktenwert, Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Bettina Fuhrmann beschreibt ein Unternehmen in der Krise mit dem Wiener Bild „kracht wie eine Kaisersemmel“.",
+   "question": "Wie beschreibt Bettina Fuhrmann ein Unternehmen, dessen neue Aktien niemand kaufen will?",
+   "answer": "Es kracht wie eine Kaisersemmel",
+   "distractors": [
+    "Es zerbröselt wie ein Kipferl",
+    "Es geht unter wie die Titanic",
+    "Es schmilzt wie ein Eislutscher"
+   ],
+   "aha": "Ein schönes Wiener Bild für ein Unternehmen, das gerade auseinanderbricht.",
+   "quote_clean": "Keiner kauft Aktien von einem Unternehmen, das kracht wie eine Kaisersemmel.",
+   "quality": 2
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Private Familienanekdote, Antwort unscharf und Statement (Opportunitätskosten erklärt) nicht ganz im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Bettina Fuhrmanns Sternstunde als Mutter: Ihre Tochter erklärte dem Bruder im Supermarkt die Opportunitätskosten.",
+   "question": "Was war für Bettina Fuhrmann als Mutter eine echte Sternstunde?",
+   "answer": "Tochter erklärt Sohn das Sparen",
+   "distractors": [
+    "Sohn eröffnet ein Aktiendepot",
+    "Tochter verdient ihr erstes Geld",
+    "Kinder schenken ihr Taschengeld her"
+   ],
+   "aha": "Konsequent bleiben beim Taschengeld hat sich ausgezahlt.",
+   "quote_clean": "Das war für mich eine Sternstunde, als meine ältere Tochter meinem jüngeren Sohn einmal mitten im Supermarkt erklärt hat: Nein, kauf dir das jetzt nicht.",
+   "quality": 2
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Standard-Begrüßung, kein Faktenwert.",
+   "stand_note": "",
+   "statement": "So begrüßt Andreas Sator seine Hörer:innen zu Beginn jeder Folge.",
+   "question": "Wie geht Andreas' Begrüßung weiter: „Das ist Erklär mir die Welt, der Podcast, mit dem du …“?",
+   "answer": "die Welt jede Woche besser verstehst",
+   "distractors": [
+    "jeden Tag etwas Neues lernst",
+    "die Wissenschaft einfach erklärt bekommst",
+    "klüger als deine Freunde wirst"
+   ],
+   "aha": "Die Begrüßung fällt zu Beginn jeder Folge.",
+   "quote_clean": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quality": 1
+  }
+ ],
+ "id": "394",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

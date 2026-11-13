@@ -1,0 +1,736 @@
+{
+ "theme": "Wirtschaft & Arbeit",
+ "summary": "Bettina Fuhrmann erklärt, was man über Geld wissen sollte: Humankapital, Sparen, Kredite, Zinseszins, Inflation und warum breit streuen meistens gewinnt.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1261,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "Also 10.000 Euro jedes Jahr 5% verzinst, wie viel ist das mit normalen Zinsen im Vergleich zu mit Zinses-Zinsen und das sieht man zum Beispiel nach einem Zeitraum von 20 Jahren, habe ich mir jetzt halbwegs auswendig gemerkt, ist der Unterschied schon über 6.000 Euro",
+   "quote_clean": "10.000 Euro jedes Jahr 5 % verzinst: Wie viel ist das mit normalen Zinsen im Vergleich zu Zinseszinsen? Nach einem Zeitraum von 20 Jahren ist der Unterschied schon über 6.000 Euro.",
+   "statement": "Legt man 10.000 Euro 20 Jahre lang zu 5 Prozent an, bringt der Zinseszins über 6.000 Euro mehr Zinsen als einfache Verzinsung.",
+   "question": "Du legst 10.000 Euro 20 Jahre lang zu 5 Prozent an. Wie viele Euro mehr Zinsen bringt dir der Zinseszins gegenüber einfacher Verzinsung?",
+   "answer": "Rund 6.500 Euro",
+   "distractors": [
+    "Rund 500 Euro",
+    "Rund 2.000 Euro",
+    "Rund 15.000 Euro"
+   ],
+   "number_value": 6500,
+   "number_unit": "Euro",
+   "slider_min": 0,
+   "slider_max": 20000,
+   "log_scale": false,
+   "aha": "Mit einfachen Zinsen bekommst du 20 mal 500 Euro, also 10.000. Mit Zinseszins verzinsen sich auch die Zinsen selbst, und am Ende stehen rund 16.500 Euro Zinsen da. Bettina sagt, genau diesen Effekt unterschätzen die meisten ganz krass.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zinseszins",
+    "Sparen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2669,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "wenn wir 2% Inflation pro Jahr hätten das ist ja das Inflationsziel der Europäischen Zentralbank",
+   "quote_clean": "Wenn wir 2 % Inflation pro Jahr hätten – das ist ja das Inflationsziel der Europäischen Zentralbank.",
+   "statement": "Das Inflationsziel der Europäischen Zentralbank liegt bei 2 Prozent pro Jahr.",
+   "question": "Wie viel Prozent Inflation pro Jahr strebt die Europäische Zentralbank als Ziel an?",
+   "answer": "2 Prozent",
+   "distractors": [
+    "0 Prozent",
+    "1 Prozent",
+    "4 Prozent"
+   ],
+   "number_value": 2,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 8,
+   "log_scale": false,
+   "aha": "Null Inflation ist gar nicht das Ziel, sondern ein bisschen Teuerung gilt als gesund. Bei 2 Prozent klopfen sich laut Bettina alle auf die Schulter und reden von Geldwertstabilität.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Inflation",
+    "EZB"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2699,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "habe ich über 10 Jahre wenn ich mir diesen kumulativen Effekt anschaue einfach ja wie du zuerst schon gesagt hast also schlampig gerechnet habe ich 20% verloren",
+   "quote_clean": "Über 10 Jahre habe ich, wenn ich mir diesen kumulativen Effekt anschaue, schlampig gerechnet 20 % verloren.",
+   "statement": "Selbst bei nur 2 Prozent Inflation pro Jahr verliert Geld auf dem Konto in zehn Jahren grob ein Fünftel seiner Kaufkraft.",
+   "question": "Bei 2 Prozent Inflation pro Jahr: Wie viel Prozent Kaufkraft verliert Geld am Konto ungefähr in zehn Jahren?",
+   "answer": "Rund 20 Prozent",
+   "distractors": [
+    "Rund 2 Prozent",
+    "Rund 10 Prozent",
+    "Rund 40 Prozent"
+   ],
+   "number_value": 20,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Am Konto steht zwar noch derselbe Betrag, aber du kannst dir weniger darum kaufen. Genau gerechnet sind es etwa 18 Prozent, Bettina hat bewusst schlampig gerundet. Darum braucht Geld, das lange liegt, eine Anlage, die zumindest die Inflation schlägt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Inflation",
+    "Kaufkraft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2621,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "wir haben eine Einlagensicherung bis 100.000 Euro pro Person pro Bank pro Finanzinstitut",
+   "quote_clean": "Wir haben eine Einlagensicherung bis 100.000 Euro pro Person, pro Bank, pro Finanzinstitut.",
+   "statement": "Die Einlagensicherung schützt Guthaben bis 100.000 Euro pro Person und Bank.",
+   "question": "Bis zu welchem Betrag pro Person und Bank ist dein Geld am Konto durch die Einlagensicherung geschützt?",
+   "answer": "100.000 Euro",
+   "distractors": [
+    "20.000 Euro",
+    "50.000 Euro",
+    "250.000 Euro"
+   ],
+   "number_value": 100000,
+   "number_unit": "Euro",
+   "slider_min": 5000,
+   "slider_max": 1000000,
+   "log_scale": true,
+   "aha": "Der Nominalbetrag ist also ziemlich sicher, auch wenn die Bank pleitegeht. Was nicht sicher ist, sagt Bettina, ist die Kaufkraft: Die Inflation knabbert trotzdem dran.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Einlagensicherung",
+    "Bank"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1817,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "ich erinnere mich an eine Untersuchung wo wir da so ungefähr 40 Prozent der Befragten hatten die gesagt haben ich muss jetzt auf den perfekten Zeitpunkt warten",
+   "quote_clean": "Ich erinnere mich an eine Untersuchung, wo ungefähr 40 Prozent der Befragten gesagt haben: Ich muss jetzt auf den perfekten Zeitpunkt warten.",
+   "statement": "In einer Untersuchung sagten rund 40 Prozent der Befragten, sie müssten mit dem Investieren auf den perfekten Zeitpunkt warten.",
+   "question": "Wie viel Prozent der Befragten sagten in Bettinas Untersuchung, sie müssten fürs Investieren auf den perfekten Zeitpunkt warten?",
+   "answer": "Rund 40 Prozent",
+   "distractors": [
+    "Rund 10 Prozent",
+    "Rund 20 Prozent",
+    "Rund 70 Prozent"
+   ],
+   "number_value": 40,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Das Problem: Den perfekten Zeitpunkt erkennt man meistens erst im Nachhinein. Bettinas Rat ist deshalb, einfach anzufangen, sobald man Geld übrig hat, das man länger nicht braucht, und breit zu streuen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Investieren",
+    "Psychologie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2986,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "in der Regel ist so ein eigenes Konto dann erst bei Kindern ab zehn über zehn ein Thema",
+   "quote_clean": "In der Regel ist so ein eigenes Konto erst bei Kindern ab zehn ein Thema.",
+   "statement": "Ein eigenes Bankkonto ist für Kinder in der Regel erst ab etwa zehn Jahren ein Thema.",
+   "question": "Ab welchem Alter ist ein eigenes Konto für Kinder laut Bettina Fuhrmann in der Regel ein Thema?",
+   "answer": "Ab etwa zehn Jahren",
+   "distractors": [
+    "Ab etwa vier Jahren",
+    "Ab etwa sechs Jahren",
+    "Ab etwa 16 Jahren"
+   ],
+   "number_value": 10,
+   "number_unit": "Jahre",
+   "slider_min": 3,
+   "slider_max": 18,
+   "log_scale": false,
+   "aha": "Übers Sparen reden kann man schon viel früher, nämlich sobald es Taschengeld gibt. Für die Kleinen ist die Spardose sogar wichtig, weil sie Geld noch angreifen wollen, damit sie es verstehen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kinder",
+    "Finanzbildung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1989,
+   "speaker": "Andreas Sator",
+   "quote": "wenn man jetzt einfach blinkt in einen Aktien ETF der einen Index abbildet zum Beispiel die größten 500 amerikanische Unternehmen nimmt wo niemand irgendwie was tun muss",
+   "quote_clean": "Wenn man jetzt einfach blind in einen Aktien-ETF investiert, der einen Index abbildet, der zum Beispiel die größten 500 amerikanischen Unternehmen nimmt, wo niemand irgendwas tun muss.",
+   "statement": "Ein bekannter Aktienindex bildet die 500 größten US-Unternehmen ab, ein ETF darauf braucht kein aktives Management.",
+   "question": "Wie viele der größten US-Unternehmen bildet der Index ab, den Andreas als Beispiel für einen Aktien-ETF nennt?",
+   "answer": "500",
+   "distractors": [
+    "30",
+    "100",
+    "2.000"
+   ],
+   "number_value": 500,
+   "number_unit": "Unternehmen",
+   "slider_min": 10,
+   "slider_max": 5000,
+   "log_scale": true,
+   "aha": "Gemeint ist der S&P 500. So ein ETF kauft einfach den ganzen Index nach, da muss niemand Aktien aussuchen. Andreas sagt trocken: So kann ein Affe anlegen, und Bettina kann nur zustimmend nicken.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "ETF",
+    "Aktien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2578,
+   "speaker": "Andreas Sator",
+   "quote": "okay wir haben jetzt ca. 25% Inflation gehabt das heißt deine 100.000 Euro sind jetzt also steht noch immer 100.000 Euro aber eigentlich sind es noch 75.000 Euro",
+   "quote_clean": "Okay, wir haben jetzt ca. 25 % Inflation gehabt. Das heißt, bei deinen 100.000 Euro steht noch immer 100.000 Euro, aber eigentlich sind es noch 75.000 Euro.",
+   "statement": "Bekannte von Andreas ließen 100.000 Euro fünf Jahre am Konto liegen; nach rund 25 Prozent Inflation waren sie real nur noch etwa 75.000 Euro wert.",
+   "question": "Andreas' Bekannte ließen 100.000 Euro fünf Jahre am Konto liegen. Wie viel Inflation hatte es laut Andreas in dieser Zeit ungefähr gegeben?",
+   "answer": "Rund 25 Prozent",
+   "distractors": [
+    "Rund 5 Prozent",
+    "Rund 10 Prozent",
+    "Rund 50 Prozent"
+   ],
+   "number_value": 25,
+   "number_unit": "%",
+   "slider_min": 0,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Am Kontoauszug standen weiterhin 100.000 Euro, gekauft hätten sie sich davon aber nur noch so viel wie früher mit 75.000. Andreas nennt das die Geldwertillusion, die er auf der WU gelernt hat.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Inflation",
+    "Geldwertillusion"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 828,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "Also dieses Opportunitätskostenkonzept, wenn ich mir um mein Taschengeld ein Comic-Heftel kaufe, dann kann ich mit diesem Geld nicht mehr was anderes kaufen.",
+   "quote_clean": "Dieses Opportunitätskostenkonzept: Wenn ich mir um mein Taschengeld ein Comic-Heftel kaufe, dann kann ich mit diesem Geld nichts anderes mehr kaufen.",
+   "statement": "Opportunitätskosten bedeuten: Wer Geld für eine Sache ausgibt, kann es nicht mehr für eine andere ausgeben.",
+   "question": "Wie heißt das Prinzip, dass jede Entscheidung für eine Ausgabe zugleich eine Entscheidung gegen etwas anderes ist?",
+   "answer": "Opportunitätskosten",
+   "distractors": [
+    "Grenznutzen",
+    "Skaleneffekt",
+    "Zinseszins"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Klingt banal, gibt Bettina zu, ist aber ein Grundprinzip des Wirtschaftens. Wer das Comic-Heftel kauft, hat das Geld fürs Lego-Set nicht mehr. Kinder lernen das am besten, wenn die Eltern nicht jedes Mal die Geldbörse aufmachen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Opportunitätskosten",
+    "Kinder"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1231,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "ich merke immer wieder, Menschen haben wenig Probleme, sich einen linearen Zusammenhang vorzustellen, also dass das irgendwie gleichmäßig mehr wird mit den Zinsen, aber beim Zinses-Zinseffekt wird es ja dann irgendwie überproportional und das können Sie sich schwerer vorstellen.",
+   "quote_clean": "Ich merke immer wieder: Menschen haben wenig Probleme, sich einen linearen Zusammenhang vorzustellen, dass es mit den Zinsen gleichmäßig mehr wird. Aber beim Zinseszinseffekt wird es überproportional, und das können sie sich schwerer vorstellen.",
+   "statement": "Den Zinseszins unterschätzen viele, weil unsere Intuition linear denkt, der Effekt aber überproportional wächst.",
+   "question": "Warum unterschätzen so viele Menschen den Zinseszinseffekt?",
+   "answer": "Wir denken linear, er wächst überproportional",
+   "distractors": [
+    "Banken verschweigen ihn absichtlich",
+    "Er wirkt erst nach 50 Jahren",
+    "Die Inflation hebt ihn immer auf"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gleichmäßig mehr können wir uns gut vorstellen, exponentiell eher nicht. Bettina empfiehlt deshalb einen Zinsrechner im Internet. Und Achtung: Der Effekt arbeitet auch gegen dich, wenn du Schulden und Zinsen nicht zurückzahlst.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zinseszins",
+    "Intuition"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1436,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "In der Regel schaut man, ob die Nutzungsdauer von dem, was ich mit dem Kredit kaufe, halbwegs im Einklang ist mit der Laufzeit des Kredites.",
+   "quote_clean": "In der Regel schaut man, ob die Nutzungsdauer von dem, was ich mit dem Kredit kaufe, halbwegs im Einklang mit der Laufzeit des Kredits ist.",
+   "statement": "Als Faustregel sollte die Laufzeit eines Kredits zur Nutzungsdauer dessen passen, was man damit kauft.",
+   "question": "Welche Faustregel gilt laut Bettina Fuhrmann für einen sinnvollen Kredit?",
+   "answer": "Laufzeit passt zur Nutzungsdauer",
+   "distractors": [
+    "Laufzeit immer unter einem Jahr",
+    "Nur bei 0 Prozent Zinsen",
+    "Rate höchstens 10 Prozent vom Gehalt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Sonst ist das Gekaufte längst verbraucht, und du zahlst immer noch zurück. Eine Wohnung oder eine Ausbildung hält lange, ein Urlaub oder ein Essen nicht. Einen einwöchigen Urlaub zwei Jahre abzustottern, ist also eher keine gute Idee.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kredit",
+    "Schulden"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2263,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "schnell viel Geld ist halt immer verbunden mit viel Risiko und wenn dir das jemand verspricht und sagt das ist sicher dann lügt er dich an",
+   "quote_clean": "Schnell viel Geld ist halt immer verbunden mit viel Risiko, und wenn dir das jemand verspricht und sagt, das ist sicher, dann lügt er dich an.",
+   "statement": "Schnelle hohe Gewinne sind immer mit hohem Risiko verbunden; wer sie als sicher verspricht, lügt.",
+   "question": "Wer hat's gesagt: „Schnell viel Geld ist halt immer verbunden mit viel Risiko, und wenn dir das jemand als sicher verspricht, dann lügt er dich an.“",
+   "answer": "Bettina Fuhrmann",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Krypto-Influencer",
+    "Die Wiener Börse"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Bettina ist das die wichtigste Botschaft der Finanzbildung, gerade an junge Leute mit Krypto-Träumen. Hoher Gewinn ist die Prämie dafür, dass man viel Risiko in Kauf nimmt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Risiko",
+    "Krypto"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2292,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "wenn es für wenig Risiko viel Gewinn gäbe würden ja alle dorthin laufen und das würde ja dann all along den Gewinn wieder reduzieren",
+   "quote_clean": "Wenn es für wenig Risiko viel Gewinn gäbe, würden ja alle dorthin laufen, und das würde dann den Gewinn wieder reduzieren.",
+   "statement": "Hohe Rendite bei geringem Risiko kann nicht lange bestehen, weil alle dorthin investieren würden und der Gewinn dadurch schrumpft.",
+   "question": "Warum gibt es laut Bettina Fuhrmann kaum hohe Gewinne ohne hohes Risiko?",
+   "answer": "Alle würden hinlaufen, der Gewinn schrumpft",
+   "distractors": [
+    "Der Staat verbietet solche Anlagen",
+    "Banken behalten sie für sich",
+    "Die Steuern fressen alles auf"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Angebot und Nachfrage regeln das: Ein sicheres Geschäft mit hoher Rendite wäre sofort überlaufen. Darum gehen Risiko und Rendite Hand in Hand, und bei sicheren Riesengewinnen ist meistens was faul.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Risiko",
+    "Rendite"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1695,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "in der Regel ist das Investment in so einen Einzeltitel wesentlich riskanter und da muss ich mit sehr viel mehr Abweichungen rechnen als wenn ich in viele verschiedene Titel investiere",
+   "quote_clean": "In der Regel ist das Investment in so einen Einzeltitel wesentlich riskanter, und da muss ich mit sehr viel mehr Abweichungen rechnen, als wenn ich in viele verschiedene Titel investiere.",
+   "statement": "Eine einzelne Aktie schwankt deutlich stärker als ein breit gestreutes Portfolio aus vielen verschiedenen Titeln.",
+   "question": "Was ist laut Bettina Fuhrmann riskanter: alles in eine vielversprechende Aktie oder in viele verschiedene Titel?",
+   "answer": "Alles in eine einzelne Aktie",
+   "distractors": [
+    "Viele verschiedene Titel",
+    "Beides gleich riskant",
+    "Hängt nur von der Branche ab"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wichtig ist, dass die Titel nicht zusammenhängen: also nicht 20 verschiedene KI-Aktien, sondern unterschiedliche Branchen, Regionen und Währungen. Breit streuen ist laut Bettina absolut die Devise, dann schläft man auch besser.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Aktien",
+    "Streuung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2058,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "wirklich bei weitem überwiegend Mehrheit schafft es nicht und ist zusätzlich teurer weil sie natürlich auch für das Management von diesem Fonds Gebühren einheben und das zehrt natürlich an meiner Rendite",
+   "quote_clean": "Die bei weitem überwiegende Mehrheit schafft es nicht und ist zusätzlich teurer, weil sie für das Management des Fonds Gebühren einheben, und das zehrt an meiner Rendite.",
+   "statement": "Die große Mehrheit aktiv gemanagter Fonds schlägt einen breiten Index nicht und ist wegen der Gebühren zusätzlich teurer.",
+   "question": "Schaffen es aktiv gemanagte Fonds meistens, einen breiten Aktienindex zu schlagen?",
+   "answer": "Nein, die große Mehrheit nicht",
+   "distractors": [
+    "Ja, fast immer",
+    "Ja, etwa jeder zweite",
+    "Nur in Krisenjahren nicht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Fondsmanager wollen gut bezahlt werden, und diese Gebühren gehen von deiner Rendite ab. Darum sind passive ETFs, die einfach einen Index nachbilden, eine spesensparende Möglichkeit, breit zu streuen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Fonds",
+    "ETF"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2921,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "wir wissen dass man mit Karte ja viel leichter Geld ausgibt als wenn man Bargeld verwendet",
+   "quote_clean": "Wir wissen, dass man mit Karte viel leichter Geld ausgibt, als wenn man Bargeld verwendet.",
+   "statement": "Mit Karte gibt man leichter Geld aus als mit Bargeld.",
+   "question": "Womit gibt man laut Forschung leichter Geld aus?",
+   "answer": "Mit der Karte",
+   "distractors": [
+    "Mit Bargeld",
+    "Beides gleich",
+    "Mit Überweisung per Erlagschein"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Scheine aus der Geldbörse zu geben, tut spürbar weh, Karte hinhalten kaum. Bettinas Tipp, wenn die Ausgaben aus dem Ruder laufen: einen fixen Betrag bar abheben, und wenn der weg ist, ist er weg.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Bargeld",
+    "Konsum"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2484,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "Gold wirft halt irgendwie keine laufenden Erträge ab also der Ertrag den du hast wenn du in Gold oder andere Edelmetalle investierst ist dass du darauf hoffst dass der Preis steigt",
+   "quote_clean": "Gold wirft keine laufenden Erträge ab. Der Ertrag, den du hast, wenn du in Gold oder andere Edelmetalle investierst, ist, dass du darauf hoffst, dass der Preis steigt.",
+   "statement": "Gold bringt keine laufenden Erträge wie Zinsen oder Dividenden; man verdient nur, wenn der Preis steigt.",
+   "question": "Wie verdient man Geld, wenn man in Gold investiert?",
+   "answer": "Nur wenn der Goldpreis steigt",
+   "distractors": [
+    "Durch jährliche Dividenden",
+    "Durch fixe Zinsen",
+    "Durch Mieteinnahmen der Tresore"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Aktien zahlen Dividenden, Anleihen Zinsen, Gold liegt einfach herum. Dass Gold mit Krypto verwandt ist, glaubt Bettina übrigens nicht: Es gab Phasen, da ging Gold rauf und Krypto runter.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Gold",
+    "Geldanlage"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 3756,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "da fließt dann kein Geld mehr an das Unternehmen sondern da fließt dann das Geld zwischen den Aktionären die kaufen und verkaufen",
+   "quote_clean": "Da fließt dann kein Geld mehr an das Unternehmen, sondern das Geld fließt zwischen den Aktionären, die kaufen und verkaufen.",
+   "statement": "Nur bei der Ausgabe neuer Aktien bekommt das Unternehmen Geld; beim späteren Handel an der Börse fließt es zwischen den Aktionären.",
+   "question": "Wer bekommt das Geld, wenn du eine bereits gehandelte Aktie an der Börse kaufst?",
+   "answer": "Der Aktionär, der verkauft",
+   "distractors": [
+    "Das Unternehmen selbst",
+    "Die Börse als Betreiberin",
+    "Die Nationalbank"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei der Emission bekommt die Firma Eigenkapital, das sie nie zurückzahlen muss. Danach hilfst du indirekt: Steigt der Kurs, kann das Unternehmen später leichter neue Aktien ausgeben. Ein Pyramidenspiel ist das laut Bettina nicht, weil die Zahl der Aktien begrenzt ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Aktien",
+    "Börse"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3369,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "wenn sie bei Job Ausschreibungen von zehn Anforderungen nur neun erfüllen dann wollen sie sich schon gar nicht gleich bewerben",
+   "quote_clean": "Wenn sie bei Jobausschreibungen von zehn Anforderungen nur neun erfüllen, dann wollen sie sich schon gar nicht bewerben.",
+   "statement": "Frauen bewerben sich oft nicht, wenn sie nur neun von zehn Anforderungen einer Stelle erfüllen.",
+   "question": "Was tun Frauen laut Bettina Fuhrmann oft, wenn sie neun von zehn Anforderungen einer Stellenausschreibung erfüllen?",
+   "answer": "Sie bewerben sich gar nicht",
+   "distractors": [
+    "Sie verlangen mehr Gehalt",
+    "Sie bewerben sich sofort",
+    "Sie fragen nach Teilzeit"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Den Job bekommt dann womöglich jemand, der nur fünf Anforderungen erfüllt. Bettina sieht ein ähnliches Muster beim Geld: Viele Frauen wissen etwas, trauen ihrem Wissen aber nicht und treffen deshalb keine Entscheidungen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Frauen",
+    "Selbstvertrauen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3514,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "wir haben in Österreich eine nationale Finanzbildung Strategie diese Finanzbildung Strategie hat eine Plattform die Sie im Internet finden sie heißt Finanznavi",
+   "quote_clean": "Wir haben in Österreich eine nationale Finanzbildungsstrategie. Diese Finanzbildungsstrategie hat eine Plattform, die Sie im Internet finden, sie heißt Finanznavi.",
+   "statement": "Österreich hat eine nationale Finanzbildungsstrategie mit der Online-Plattform Finanznavi.",
+   "question": "Wie heißt die Online-Plattform der nationalen Finanzbildungsstrategie in Österreich?",
+   "answer": "Finanznavi",
+   "distractors": [
+    "Geldkompass",
+    "Finanzfluss",
+    "Sparfuchs"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Daran haben Ministerien, die Nationalbank und viele Organisationen mitgearbeitet, und sie ist nach Lebensphasen sortiert. Da musst du laut Bettina nicht einmal auf einen Workshop warten, sondern kannst gleich durchklicken.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Finanzbildung",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2637,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "am Ende des Tages zählt halt nicht welcher Betrag steht da sondern am Ende des Tages zählt was kann ich darum kaufen",
+   "quote_clean": "Am Ende des Tages zählt nicht, welcher Betrag dasteht, sondern am Ende des Tages zählt, was ich mir darum kaufen kann.",
+   "statement": "Entscheidend ist nicht der Betrag am Konto, sondern was man sich damit kaufen kann.",
+   "question": "Wer hat's gesagt: „Am Ende des Tages zählt nicht, welcher Betrag dasteht, sondern was ich mir darum kaufen kann.“",
+   "answer": "Bettina Fuhrmann",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Hörer im Publikum",
+    "Natascha Regelin"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Geld am Konto ist nominell sicher, die Kaufkraft aber nicht. Darum, sagt Bettina, ist das Sparbuch für lange Zeiträume trügerisch sicher.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kaufkraft",
+    "Inflation"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 327,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "dass die Investition in das eigene Wissen und in das eigene Können ganz, ganz wichtig ist und natürlich genauso eine Investition darstellt, wie wenn ich in ein Gut investiere, in Wertpapiere, in Immobilien.",
+   "quote_clean": "Die Investition in das eigene Wissen und in das eigene Können ist ganz wichtig und stellt genauso eine Investition dar, wie wenn ich in ein Gut investiere, in Wertpapiere, in Immobilien.",
+   "statement": "In das eigene Wissen und Können zu investieren ist genauso eine Investition wie in Wertpapiere oder Immobilien.",
+   "question": "Was ist laut Bettina Fuhrmann eine Investition genauso wie Wertpapiere oder Immobilien?",
+   "answer": "Das eigene Wissen und Können",
+   "distractors": [
+    "Ein neues Auto",
+    "Ein teurer Urlaub",
+    "Ein Lottoschein pro Woche"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ökonominnen nennen das ein bisschen unsexy Humankapital. Für die meisten Menschen ist es der wichtigste Vermögenswert überhaupt, weil es jedes Monat Geld aufs Konto bringt, quasi als Dividende.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Humankapital",
+    "Bildung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 3904,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "keiner kauft Aktien von einem Unternehmen das kracht wie eine Kaisersemmel",
+   "quote_clean": "Keiner kauft Aktien von einem Unternehmen, das kracht wie eine Kaisersemmel.",
+   "statement": "Bettina Fuhrmann beschreibt ein Unternehmen in der Krise mit dem Wiener Bild „kracht wie eine Kaisersemmel“.",
+   "question": "Wie beschreibt Bettina Fuhrmann ein Unternehmen, dessen neue Aktien niemand kaufen will?",
+   "answer": "Es kracht wie eine Kaisersemmel",
+   "distractors": [
+    "Es zerbröselt wie ein Kipferl",
+    "Es geht unter wie die Titanic",
+    "Es schmilzt wie ein Eislutscher"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein schönes Wiener Bild für ein Unternehmen, das gerade auseinanderbricht. Der Punkt dahinter: Wer Aktien eines erfolgreichen Unternehmens kauft, hilft ihm indirekt, später wieder frisches Kapital zu bekommen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Aktien",
+    "Wienerisch"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 912,
+   "speaker": "Bettina Fuhrmann",
+   "quote": "Und das war für mich eigentlich eine Sternstunde, als dann meine ältere Tochter meinem jüngeren Sohn einmal mitten im Supermarkt erklärt hat, nein, kaufe dir das jetzt nicht",
+   "quote_clean": "Das war für mich eine Sternstunde, als meine ältere Tochter meinem jüngeren Sohn einmal mitten im Supermarkt erklärt hat: Nein, kauf dir das jetzt nicht.",
+   "statement": "Bettina Fuhrmanns Sternstunde als Mutter: Ihre Tochter erklärte dem Bruder im Supermarkt die Opportunitätskosten.",
+   "question": "Was war für Bettina Fuhrmann als Mutter eine echte Sternstunde?",
+   "answer": "Tochter erklärt Sohn das Sparen",
+   "distractors": [
+    "Sohn eröffnet ein Aktiendepot",
+    "Tochter verdient ihr erstes Geld",
+    "Kinder schenken ihr Taschengeld her"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Mitten im Supermarkt sagte die Tochter zum kleinen Bruder: Überleg, dann ist das Geld weg und du kannst dir was anderes nicht kaufen. Konsequent bleiben beim Taschengeld hat sich also ausgezahlt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Kinder",
+    "Taschengeld"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 178,
+   "speaker": "Andreas Sator",
+   "quote": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quote_clean": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "statement": "So begrüßt Andreas Sator seine Hörer:innen zu Beginn jeder Folge.",
+   "question": "Wie geht Andreas' Begrüßung weiter: „Das ist Erklär mir die Welt, der Podcast, mit dem du …“?",
+   "answer": "die Welt jede Woche besser verstehst",
+   "distractors": [
+    "jeden Tag etwas Neues lernst",
+    "die Wissenschaft einfach erklärt bekommst",
+    "klüger als deine Freunde wirst"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Genau genommen: mit dem du die Welt jede Woche ein bisschen besser verstehen sollst. Diesmal sogar live vor Publikum im Audimax der WU bei der Langen Nacht der Forschung.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Intro"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "394",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

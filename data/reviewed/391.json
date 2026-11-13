@@ -1,0 +1,283 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "transkription",
+    "kontext"
+   ],
+   "note": "Jannis nennt die Summe nur vage („ich glaube 230 oder 220“); tatsächlich lagen Musks Ausgaben für den Wahlkampf 2024 nach gängigen Berichten höher. Aha enthält zudem Ausschmückungen (Kabinettstisch) ohne Beleg.",
+   "stand_note": "",
+   "statement": "Elon Musk hat den Wahlkampf von Donald Trump 2024 mit rund 220 bis 230 Millionen Dollar unterstützt.",
+   "question": "Mit wie vielen Millionen Dollar hat Elon Musk Trumps Wahlkampf 2024 ungefähr unterstützt?",
+   "answer": "Rund 220 bis 230 Millionen Dollar",
+   "distractors": [
+    "Rund 20 bis 30 Millionen Dollar",
+    "Rund 60 bis 70 Millionen Dollar",
+    "Rund 900 Millionen Dollar"
+   ],
+   "aha": "In den USA gibt es kaum Grenzen dafür, wie viel Geld Reiche in Wahlkämpfe pumpen.",
+   "quote_clean": "Und tatsächlich war das natürlich auch die Grundlage dafür, dass Elon Musk mit, ich glaube, 230 oder 220 Millionen Dollar den Wahlkampf von Donald Trump unterstützen konnte.",
+   "quality": 2
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Zahl (2 Billionen = 2 Trillion) passt zu Musks angekündigtem Ziel und zum Transkript. Aha: Wertung als Einschätzung von Jannis gekennzeichnet.",
+   "stand_note": "Stand 2026",
+   "statement": "Elon Musk hatte mit seiner Sparkommission DOGE Einsparungen von rund 2 Billionen Dollar angekündigt, die er laut Jannis Brühl nicht annähernd erreicht hat.",
+   "question": "Wie viele Billionen Dollar wollte Elon Musk mit seiner Sparkommission DOGE im US-Haushalt einsparen?",
+   "answer": "Rund 2 Billionen Dollar",
+   "distractors": [
+    "Rund 0,2 Billionen Dollar",
+    "Rund 5 Billionen Dollar",
+    "Rund 10 Billionen Dollar"
+   ],
+   "aha": "Musk hat Behörden geschlossen und tausende Leute entlassen, manche mussten nach Gerichtsentscheidungen wieder eingestellt werden. Die versprochenen Billionen kamen laut Jannis nicht einmal ansatzweise zusammen, die Disruption der Verwaltung sei gescheitert.",
+   "quote_clean": "Die behaupteten Einsparungen in Höhe von, ich glaube, 2 Billionen Dollar hat er auch nicht mal ansatzweise erreicht.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt zum Transkript (ProPublica, 5 Milliarden steuerfrei in Altersvorsorgekonto) und deckt sich mit dem bekannten ProPublica-Bericht von 2021.",
+   "stand_note": "Bericht von 2021",
+   "statement": "Laut einem Bericht von ProPublica hat Peter Thiel rund 5 Milliarden Dollar steuerfrei in einer Art Rentenfonds liegen.",
+   "question": "Wie viel Geld hat Peter Thiel laut ProPublica steuerfrei in einer Art Rentenfonds geparkt?",
+   "answer": "Rund 5 Milliarden Dollar",
+   "distractors": [
+    "Rund 50 Millionen Dollar",
+    "Rund 500 Millionen Dollar",
+    "Rund 30 Milliarden Dollar"
+   ],
+   "aha": "Thiel hat Anteile an seinen Start-ups früh und billig in ein steuerbegünstigtes Altersvorsorgekonto gesteckt, das dann enorm gewachsen ist. Das könnte die größte Rente sein, die jemals jemand bekommen hat, sagt Jannis.",
+   "quote_clean": "Jemand wie Peter Thiel hat einem Bericht von ProPublica zufolge 5 Milliarden Dollar steuerfrei in einer Art Rentenfonds.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt: Speziallaser für die Chip-Fertigungsmaschinen kommen aus Deutschland (Trumpf). Aha entspricht dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Die Speziallaser in den Maschinen, mit denen Computerchips hergestellt werden, kommen aus Deutschland.",
+   "question": "Woher kommen die Speziallaser, die in den Maschinen zur Chipherstellung verbaut sind?",
+   "answer": "Aus Deutschland",
+   "distractors": [
+    "Aus Taiwan",
+    "Aus den USA",
+    "Aus Japan"
+   ],
+   "aha": "Das glitzert nicht wie eine App am Handy, ist aber für die ganze Chipbranche unverzichtbar. Genau solche Technik ist laut Jannis Europas Verhandlungsmasse: Wer unverzichtbare Technologie baut, ist nicht nur abhängig, sondern macht auch andere ein Stück von sich abhängig.",
+   "quote_clean": "Zum Beispiel die Speziallaser, die in den Geräten verbaut werden, mit denen die Chips hergestellt werden. Die kommen aus Deutschland.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "spielbarkeit"
+   ],
+   "note": "Amtsinhaber-Frage, deren Gültigkeit im November 2026 nicht gesichert ist. Das aha behauptet außerdem ein Verbot für Bundesstaaten, das so nicht im Ausschnitt steht.",
+   "stand_note": "",
+   "statement": "Der Investor David Sacks, einst früh bei PayPal, ist in der Trump-Regierung für künstliche Intelligenz und Kryptowährungen zuständig.",
+   "question": "Wofür ist der Tech-Investor David Sacks in der Trump-Regierung zuständig?",
+   "answer": "Künstliche Intelligenz und Kryptowährungen",
+   "distractors": [
+    "Raumfahrt und Satelliten",
+    "Telekommunikation und Breitband",
+    "Cybersicherheit und Geheimdienste"
+   ],
+   "aha": "Ausgerechnet ein Investor aus der Branche kümmert sich also um die Regeln für die Branche.",
+   "quote_clean": "David Sacks hat auch eine hochrangige Stellung, der ist für künstliche Intelligenz und Kryptowährungen zuständig in der Trump-Regierung.",
+   "quality": 2
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Jannis sagt „wohl“; die Frage formuliert korrekt „soll“. Die Details im aha zu Vance und Thiel sind allgemein bekannt und stimmen.",
+   "stand_note": "Stand 2026",
+   "statement": "Peter Thiel soll Donald Trump empfohlen haben, JD Vance als Vizepräsidentschaftskandidaten aufzustellen.",
+   "question": "Welcher Tech-Milliardär soll Trump empfohlen haben, JD Vance zum Vize-Kandidaten zu machen?",
+   "answer": "Peter Thiel",
+   "distractors": [
+    "Elon Musk",
+    "Mark Zuckerberg",
+    "Jeff Bezos"
+   ],
+   "aha": "Vance hat früher für eine Investmentfirma von Thiel gearbeitet, und Thiel hat auch seinen Senatswahlkampf mitfinanziert. Der Vizepräsident der USA ist also gewissermaßen ein Thiel-Gewächs.",
+   "quote_clean": "Peter Thiel hat Donald Trump wohl die Empfehlung gegeben, JD Vance als Vizepräsidentschaftskandidaten mit in den Wahlkampf zu nehmen.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Definition und Palantir-Bezug stehen so im Ausschnitt (mit Verweis auf den Irankrieg 2026).",
+   "stand_note": "Stand 2026",
+   "statement": "Die Kill Chain, also die Zeit zwischen dem Erkennen eines militärischen Ziels und seiner Zerstörung, wird mit Palantir-Software massiv verkürzt.",
+   "question": "Was beschleunigt die Software von Palantir im Militär massiv?",
+   "answer": "Die Kette vom Zielerkennen bis zum Angriff",
+   "distractors": [
+    "Den Nachschub von Munition an die Front",
+    "Die Rekrutierung neuer Soldaten",
+    "Die Verschlüsselung von Funksprüchen"
+   ],
+   "aha": "Früher mussten viele Soldaten Satellitenbilder durchforsten, heute macht das die Palantir-KI, laut Jannis sicher auch mit Fehlern, und die können tödlich sein.",
+   "quote_clean": "Die sogenannte Kill Chain, also die Todeskette zwischen der Identifikation von einem Ziel und der Zerstörung des Ziels. Das geschieht mit Palantir-Software, und die ist massiv komprimiert worden.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beschreibung der Disruption steht im Ausschnitt, Beispiele Tesla, Uber, Social Media ebenfalls.",
+   "stand_note": "",
+   "statement": "Disruption bedeutet: Etablierte Unternehmen werden bequem und rostig, bis Start-ups mit einer neuen Idee schnell und wendig den Markt umkrempeln, wie Tesla bei Autos oder Uber bei Taxis.",
+   "question": "Wie heißt das Prinzip, bei dem wendige Start-ups bequem gewordene Platzhirsche vom Markt drängen?",
+   "answer": "Disruption",
+   "distractors": [
+    "Konsolidierung",
+    "Deregulierung",
+    "Rationalisierung"
+   ],
+   "aha": "Die Autobranche hat das durch Tesla erlebt, die Taxis durch Uber, die Medien durch soziale Netzwerke. Das Problem laut Jannis: Wer mit dieser Brille reich geworden ist, überträgt sie auch auf den demokratischen Staat.",
+   "quote_clean": "Sobald sich ein Geschäftsmodell und ein Unternehmen etabliert hat, fängt es an, bequem zu werden, rostig zu werden und oft auch weniger innovativ zu werden. Und die Start-up-Gründer sind dann quasi die Revolutionäre, die mit einer innovativen Idee schnell und wendig auf den Markt kommen.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Philosophie und Gegenbild (Investoren tauschen Gründer aus) stehen im Ausschnitt; Zuordnung „laut Jannis“ ist korrekt.",
+   "stand_note": "",
+   "statement": "Statt Gründer durch brave Manager zu ersetzen, setzt Investor Peter Thiel laut Jannis Brühl darauf, unangepasste, verrückte Genies zu finanzieren und sie machen zu lassen.",
+   "question": "Was ist laut Jannis Brühl die Investment-Philosophie von Peter Thiel?",
+   "answer": "Unangepassten Genies Geld geben, sie machen lassen",
+   "distractors": [
+    "Gründer schnell durch Profi-Manager ersetzen",
+    "Nur in profitable Traditionsfirmen investieren",
+    "Möglichst viele kleine Wetten breit streuen"
+   ],
+   "aha": "Klassisch haben Investoren die Gründer eng kontrolliert und oft gegen nette Manager im weißen Hemd ausgetauscht. Thiel macht es umgekehrt, und in Trump hat er laut Jannis ebenfalls so einen unangepassten Disruptor gesehen.",
+   "quote_clean": "Und die Peter-Thiel-Philosophie ist, die verrückten Genies, die Unangepassten, ausfindig zu machen, ihnen Geld zu geben und sie dann aber machen zu lassen.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "fairness",
+    "ton"
+   ],
+   "note": "Das ist Jannis’ persönliche Einschätzung; in Frage und aha klar als solche gekennzeichnet, aha nicht als Tatsache über die US-Regierung formuliert.",
+   "stand_note": "",
+   "statement": "Jannis Brühl ist überzeugt, dass das Erfolgsgeheimnis der MAGA-Bewegung vor allem darin liegt, in den sozialen Medien die Wut hochzuhalten.",
+   "question": "Worin liegt laut Jannis Brühl das Erfolgsgeheimnis der MAGA-Bewegung vor allem?",
+   "answer": "In sozialen Medien die Wut hochhalten",
+   "distractors": [
+    "Mit Fernsehwerbung Wechselwähler überzeugen",
+    "Mit Hausbesuchen die Basis mobilisieren",
+    "Mit Steuersenkungen die Mitte gewinnen"
+   ],
+   "aha": "Das ist Jannis’ Einschätzung, je mehr er sich mit dem Thema beschäftigt. Er sieht darin auch den Grund, warum die US-Regierung Plattformen möglichst enthemmt lassen will – egal, ob mit KI-Videos, falsch etikettierten Clips oder echten Verbrechen.",
+   "quote_clean": "dass das Geheimnis ihres Erfolgs, davon bin ich immer stärker überzeugt, je mehr ich mich damit beschäftige, vor allem darin liegt, in den sozialen Medien die Wut hochzuhalten.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "„Wer sagt“ bei einem Gast ist trivial; der Distraktor Ezra Klein ist unpassend.",
+   "stand_note": "",
+   "statement": "Jannis Brühl sieht Trumps Politik stark vom Disruptionsdenken des Silicon Valley inspiriert und meint, wir leben mitten in der Disruption.",
+   "question": "Wer sagt im Podcast: „Und wir leben mitten in der Disruption“?",
+   "answer": "Jannis Brühl",
+   "distractors": [
+    "Peter Thiel",
+    "Andreas Sator",
+    "Ezra Klein"
+   ],
+   "aha": "Die Disruption der US-Verwaltung durch Musk ist laut Jannis gescheitert, die der Weltordnung läuft dagegen weiter.",
+   "quote_clean": "Völkerrecht interessiert keinen mehr, sodass man sagen kann, dass die Politik von Trump auf jeden Fall auch von diesem Disruptionsdenken stark inspiriert ist. Und wir leben mitten in der Disruption.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "fairness",
+    "kontext"
+   ],
+   "note": "Aussage stammt von Jannis und ist mit „angeblich“ versehen; in der Frage deshalb als Jannis’ Bericht kenntlich gemacht.",
+   "stand_note": "",
+   "statement": "Laut Jannis Brühl hat Peter Thiel in einer Präsentation die angeblich niedrige Spermienzahl als eines der großen Probleme der westlichen Welt ausgemacht.",
+   "question": "Was hat Peter Thiel laut Jannis Brühl einmal als eines der großen Probleme der westlichen Welt präsentiert?",
+   "answer": "Die angeblich niedrige Spermienzahl",
+   "distractors": [
+    "Zu viele Feiertage",
+    "Zu viel Bildschirmzeit bei Kindern",
+    "Den Rückgang des Schachspielens"
+   ],
+   "aha": "Das passt laut Jannis zu Thiels Erzählung vom verweichlichten, dekadenten Westen. Auch dass Männer in Sportklamotten herumlaufen, sieht er als Zeichen moralischer Verkommenheit.",
+   "quote_clean": "Das treibt teilweise absurde Blüten, dass Peter Thiel in einer Präsentation wirklich als eines der großen Probleme der westlichen Welt die angeblich niedrige Spermienzahl ausgemacht hat.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Reine Gesprächseröffnung ohne Erkenntnisgewinn; aha behauptet Details (WhatsApp, Instagram, PayPal) nicht aus dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Andreas steigt in die Folge mit der Frage ein, warum uns die Ideologie von Elon Musk und Co. nicht wurscht sein sollte.",
+   "question": "Mit welcher Frage steigt Andreas in die Folge über die Tech-Oligarchen ein?",
+   "answer": "Warum sollte uns das nicht wurscht sein?",
+   "distractors": [
+    "Wie reich ist Elon Musk eigentlich?",
+    "Hast du selbst ein Tesla?",
+    "Wann hast du Musk zuletzt getroffen?"
+   ],
+   "aha": "Zuerst zugeben, dass das Thema keine Gaudi ist, dann fragen, warum es uns trotzdem angeht.",
+   "quote_clean": "Es gibt lustigere Themen, als sich mit der Ideologie von Elon Musk und Co. zu beschäftigen. Warum war dir das wichtig? Warum sollte uns das nicht wurscht sein?",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zum Format ohne Erkenntnisgewinn; „am Ende jeder Folge“ und Talebs Buch sind im Ausschnitt nicht belegt.",
+   "stand_note": "",
+   "statement": "Zum Schluss bittet Andreas seinen Gast um drei Büchertipps für die Hörer:innen.",
+   "question": "Worum bittet Andreas seine Gäste am Ende jeder Folge?",
+   "answer": "Um drei Büchertipps",
+   "distractors": [
+    "Um drei Filmtipps",
+    "Um eine Zukunftsprognose",
+    "Um einen Lieblingsort in Wien"
+   ],
+   "aha": "Jannis empfiehlt unter anderem Tim Wu über Tech-Monopole und Sam Harris über Meditation.",
+   "quote_clean": "Jannis, am Ende noch drei Büchertipps bitte für meine Hörerinnen.",
+   "quality": 1
+  }
+ ],
+ "id": "391",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

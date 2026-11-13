@@ -1,0 +1,285 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei t=893 ('2010 angefangen'); Jahr passt zur Muslim Jewish Conference, aha stimmt mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Die Muslim Jewish Conference wurde 2010 gegründet, als es international kaum muslimisch-jüdische Dialoginitiativen gab.",
+   "question": "In welchem Jahr fand die erste Muslim Jewish Conference statt?",
+   "answer": "2010",
+   "distractors": [
+    "2001",
+    "2006",
+    "2015"
+   ],
+   "aha": "Ilja und seine Mitstreiter haben damals gegoogelt und konnten kaum glauben, dass der Name Muslim Jewish Conference noch frei war. Es gab Initiativen in einzelnen Schulen oder Bezirken, aber nichts, wo jemand aus Indonesien jemanden aus Argentinien trifft.",
+   "quote_clean": "Weil vor 15 Jahren, als wir 2010 angefangen haben, wirklich nicht viel passiert ist. Und schon gar nicht international.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei t=932 (45 Personen, Wien); aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Die erste Muslim Jewish Conference in Wien hatte 45 Teilnehmende.",
+   "question": "Wie viele Personen nahmen an der ersten Muslim Jewish Conference in Wien teil?",
+   "answer": "45",
+   "distractors": [
+    "12",
+    "150",
+    "400"
+   ],
+   "aha": "Ganz bescheiden im alten AKH in Wien, ziemlich größenwahnsinnig eingeladen, wie Ilja selbst sagt. Die Nachfrage war so groß, dass ein Jahr später gleich die zweite Konferenz folgte.",
+   "quote_clean": "Und das hat in Wien mit 45 Personen damals fantastisch funktioniert. Und wir haben dann gemerkt, dass die Nachfrage sehr viel größer ist als das, was wir damals zu bieten hatten.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "'Mehr als fünf Jahrzehnte' ist eine vage Untergrenze (der Konflikt dauert deutlich länger); als Antwort einer Zahlenfrage irreführend und unsauber gegen 'mehr als zehn' abgegrenzt.",
+   "stand_note": "",
+   "statement": "Der Nahostkonflikt ist ein gewaltsamer Konflikt, der seit mehr als fünf Jahrzehnten andauert.",
+   "question": "Seit wie vielen Jahrzehnten dauert der gewaltsame Nahostkonflikt laut Ilja Sichrovsky schon an?",
+   "answer": "Mehr als fünf",
+   "distractors": [
+    "Etwa zwei",
+    "Etwa drei",
+    "Mehr als zehn"
+   ],
+   "aha": "In so einer langen Zeit sammelt sich auf beiden Seiten jede Menge Desinformation an. Viele haben den Krieg nie selbst erlebt, übernehmen aber die Gefühle von Eltern und Großeltern.",
+   "quote_clean": "Aber ich glaube, was man einfach verstehen muss, ist, dass das ein gewaltsamer Konflikt ist, der jetzt über mehr als fünf Jahrzehnte geht.",
+   "quality": 1
+  },
+  {
+   "i": 4,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Ilja sagt es pauschal; faktisch gibt es in Pakistan eine winzige jüdische Restgemeinde. 'Es gibt keine' wäre als Spielfakt nicht sauber.",
+   "stand_note": "",
+   "statement": "In Pakistan gibt es keine jüdische Gemeinde, was Vorurteile begünstigt, weil Kontakt fehlt.",
+   "question": "Wie groß ist die jüdische Community in Pakistan?",
+   "answer": "Es gibt keine",
+   "distractors": [
+    "Rund 10.000 Menschen",
+    "Rund 50.000 Menschen",
+    "Rund 2000 Menschen"
+   ],
+   "aha": "Mustafa, Iljas erster muslimischer Freund, kam aus Pakistan und hatte davor noch nie einen Juden getroffen. Wo niemand da ist, mit dem man reden kann, wird aus Unwissen ganz schnell Vorurteil.",
+   "quote_clean": "Und natürlich aufgrund der Nicht-Existenz des anderen. Es gibt in Pakistan keine jüdische Community.",
+   "quality": 2
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Aussage belegt (t=1789–1815); das aha enthielt ausgeschmückte Details (Fasten, Speisegebote, Cousin), die nicht im Ausschnitt stehen.",
+   "stand_note": "",
+   "statement": "Sehr religiöse Juden und Muslime merken oft, dass sie miteinander mehr gemeinsam haben als mit säkularen Menschen ihrer eigenen Religion.",
+   "question": "Womit haben sehr religiöse Juden laut Iljas Erfahrung oft mehr gemeinsam als mit säkularen Juden?",
+   "answer": "Mit sehr religiösen Muslimen",
+   "distractors": [
+    "Mit säkularen Muslimen",
+    "Mit Atheisten aus Europa",
+    "Mit niemandem außerhalb ihrer Gemeinde"
+   ],
+   "aha": "Bei der Konferenz gab es am zweiten Tag einen Dialog innerhalb der Religionen. Die Teilnehmenden merkten schnell: Wem Religion sehr wichtig ist, der hat mit anderen Gläubigen mehr gemeinsam als mit Menschen der eigenen Religion, denen sie egal ist. Dadurch hat sich das Wir- und Ihr-Gefühl ein Stück verschoben.",
+   "quote_clean": "Und haben einen intrareligiösen Dialog angefangen, wo Teilnehmer recht schnell realisiert haben, dass sie manchmal mit den Religiösen der anderen Seite viel mehr gemeinsam haben als mit den Säkularen der eigenen Seite.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt (t=1134–1149, Zwischenfrage bei 1118); im aha wurde Iljas Aussage etwas freier formuliert, jetzt näher am Gesagten.",
+   "stand_note": "",
+   "statement": "Auch Menschen, die sich selbst für offen halten, tragen oft einen großen Rucksack an Vorurteilen gegenüber der anderen Gruppe mit sich.",
+   "question": "Was stellten die Organisatoren bei den angeblich offenen, gemäßigten Teilnehmenden fest?",
+   "answer": "Auch sie hatten massive Vorurteile",
+   "distractors": [
+    "Sie waren völlig vorurteilsfrei",
+    "Sie kamen nur wegen des Programms",
+    "Sie verließen die Konferenz früh"
+   ],
+   "aha": "Andreas hatte nachgefragt, ob da nicht ohnehin nur die Offenen hinfahren. Iljas Antwort: Auch wer sich für offen hielt, kam mit einem Rucksack an Vorurteilen, der so schwer war, dass es mehr als genug zu tun gab.",
+   "quote_clean": "Wir hatten damals die Erkenntnis, dass auch die gemäßigten Stimmen radikal waren. Auch die, die gedacht haben, sie sind eh offen, sind mit einem Rucksack an Vorurteilen gekommen.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Kette belegt (t=600–608); Frage präzisiert, weil Ilja die Kette nicht mit 'fehlendem Kontakt' beginnt, sondern erst danach auf fehlende Kommunikation zurückführt.",
+   "stand_note": "",
+   "statement": "Ilja beschreibt eine Kette: Unwissen erzeugt Angst, Angst Wut, Wut Hass, und irgendwann endet es in Gewalt.",
+   "question": "Welche Kette beschreibt Ilja Sichrovsky, an deren Ende Gewalt steht?",
+   "answer": "Unwissen, Angst, Wut, Hass",
+   "distractors": [
+    "Neid, Gier, Streit, Hass",
+    "Armut, Wut, Angst, Hass",
+    "Stolz, Angst, Neid, Wut"
+   ],
+   "aha": "Das ganze lässt sich für Ilja, auch wenn es naiv klingen mag, auf ein Fehlen von Kommunikation zurückführen. Wer miteinander redet, beginnt zu hinterfragen, ob stimmt, was man von Oma, Opa oder dem Fernsehsender gehört hat.",
+   "quote_clean": "Und das erzeugt Unwissen. Und Unwissen erzeugt Angst. Und Angst erzeugt Wut. Und Wut erzeugt Hass. Und im Endeffekt bist du irgendwann in der Gewalt.",
+   "quality": 4
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Vergleich belegt (t=1451–1469); das aha beschrieb Inhalte, die im Ausschnitt nicht stehen (Kanada, Sudan, Rapid/Austria). Ilja betont, den Konflikt nicht kleinzureden.",
+   "stand_note": "",
+   "statement": "Ilja vergleicht die Unterstützer des Nahostkonflikts aus aller Welt mit grölenden Fans in einer Fankurve, die den Konflikt anheizen.",
+   "question": "Womit vergleicht Ilja Sichrovsky die Menschen weltweit, die im Nahostkonflikt eine Seite anfeuern?",
+   "answer": "Mit Fans in der Fankurve",
+   "distractors": [
+    "Mit Zuschauern im Theater",
+    "Mit Schiedsrichtern am Spielfeld",
+    "Mit Anwälten vor Gericht"
+   ],
+   "aha": "Ilja sagt dazu ausdrücklich, dass er den Konflikt nicht kleinreden will. Aber ihm kam es oft vor wie zwei Seiten mit einem Problem und Fans in der Kurve, die mit Fahnen und Bierkübeln so tun, als wäre es das letzte Match. Seine Frage: Würde die Auseinandersetzung weniger heftig, wenn dieser Anfeuerungscharakter wegfiele?",
+   "quote_clean": "Vorgekommen wie zwei Seiten, die ein Problem miteinander haben, und dann die Fans, die in der Fankurve stehen und grölend ihre Fahnen schwenken.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Bild belegt (t=2765–2800); im aha stand 'Nach dem 7. Oktober', das im Ausschnitt nicht vorkommt, ersetzt durch 'in den letzten Monaten'.",
+   "stand_note": "",
+   "statement": "Dialogstrukturen müssen vor einer Eskalation aufgebaut werden, so wie man Feuerwehrstationen nicht erst während eines Waldbrands baut.",
+   "question": "Warum sollte man laut Ilja Sichrovsky Dialogprojekte nicht erst starten, wenn ein Konflikt eskaliert?",
+   "answer": "Feuerwehr baut man vor dem Brand",
+   "distractors": [
+    "Weil dann niemand Zeit hat",
+    "Weil Förderungen dann verboten sind",
+    "Weil Medien dann nicht berichten"
+   ],
+   "aha": "In den letzten Monaten wurde Ilja oft gefragt, was man jetzt ins Leben rufen könnte. Seine Antwort: bestehende Brücken so festigen, dass sie den Tornado aushalten, und genug Feuerwehrstationen haben, bevor es brennt – denn dass es brennen wird, wisse man ja.",
+   "quote_clean": "Du kannst in einem Waldbrand keine Feuerwehrstation bauen, das ist einfach größenwahnsinnig, oder in einem Tornado eine Brücke bauen.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zitat belegt (t=2937–2941); die Wer-sagt-Frage war bei zwei Sprechern mit Scherz-Distraktoren nicht spielbar, deshalb als Inhaltsfrage umformuliert.",
+   "stand_note": "",
+   "statement": "Zerstören ist immer viel einfacher als aufbauen.",
+   "question": "Was ist laut Ilja Sichrovsky „immer sehr viel einfacher“ als aufzubauen?",
+   "answer": "Zerstören",
+   "distractors": [
+    "Verhandeln",
+    "Vergessen",
+    "Verzeihen"
+   ],
+   "aha": "Ilja spricht von 50 Jahren, in denen Menschen die Chance hatten, etwas zu zerstören. Für ihn heißt das: Es wird harte Arbeit, und vorgestern wäre schon zu spät gewesen, um anzufangen.",
+   "quote_clean": "Hatten, etwas zu zerstören, und zerstören ist immer sehr viel einfacher, als etwas aufzubauen.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Wer-sagt-Frage mit nur zwei realen Sprechern und Scherz-Distraktoren; der Witz ist ein bekannter Spruch, das aha deutet ihn über den Ausschnitt hinaus.",
+   "stand_note": "",
+   "statement": "Es gibt zwei Arten von Menschen: die, die glauben, es gebe zwei Arten von Menschen, und die anderen.",
+   "question": "Wer beendet das Gespräch mit dem Satz über „zwei Arten von Menschen“?",
+   "answer": "Ilja Sichrovsky",
+   "distractors": [
+    "Andreas Sator",
+    "Mustafa",
+    "Die Hörerin des Monats"
+   ],
+   "aha": "Ein Augenzwinkern zum Schluss, das trotzdem den Kern trifft: Wer die Welt in zwei Lager teilt, ist schon Teil des Problems.",
+   "quote_clean": "Aber es gibt nur zwei Arten von Menschen auf dieser Welt. Es gibt die, die glauben, dass es zwei Arten von Menschen auf dieser Welt gibt, und die anderen.",
+   "quality": 1
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei t=2704–2736; aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Wer einen Freund auf der anderen Seite hat, kann die ganze Gruppe kaum noch pauschal verurteilen.",
+   "question": "Was macht es laut Ilja Sichrovsky schwer, eine ganze Gruppe zu verallgemeinern?",
+   "answer": "Ein Freund aus dieser Gruppe",
+   "distractors": [
+    "Ein gutes Geschichtsbuch",
+    "Eine Reise in deren Land",
+    "Ein Dokumentarfilm über sie"
+   ],
+   "aha": "Beim ersten Freund redest du dir noch ein, er sei die Ausnahme. Dann stellt er dir einen zweiten vor, der genauso nett ist, und dann hast du den Salat, wie Ilja sagt.",
+   "quote_clean": "Weil wenn du einen Freund auf der anderen Seite hast, wenn du einen Menschen findest, den du wirklich magst, aufgrund seiner Menschlichkeit",
+   "quality": 4
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Belegt (t=299); im aha stand 'drei muslimisch aussehende Männer', im Ausschnitt heißt es 'Personen'.",
+   "stand_note": "",
+   "statement": "Mustafa sprach Ilja auf einer Studentenkonferenz an, weil er noch nie einen Juden getroffen hatte, und lud ihn auf einen Kaffee ein.",
+   "question": "Was schlug Mustafa vor, nachdem er Ilja als ersten Juden seines Lebens getroffen hatte?",
+   "answer": "Auf einen Kaffee zu gehen",
+   "distractors": [
+    "Gemeinsam zu beten",
+    "Eine Diskussion zu führen",
+    "Ein Foto zu machen"
+   ],
+   "aha": "Ilja reagierte zuerst ängstlich, als ihm im Hotelflur drei muslimisch aussehende Personen sagten, sie hätten herausgefunden, dass er Jude ist. Mustafas Wärme und Menschlichkeit packten ihn dann, und im Gespräch merkten die beiden, wie ähnlich ihre Werte waren.",
+   "quote_clean": "Und der zweite Satz war dann: Hallo, ich bin Mustafa, du bist der erste Jude, den ich je in meinem Leben getroffen habe, hast du nicht Lust, auf einen Kaffee zu gehen?",
+   "quality": 4
+  },
+  {
+   "i": 19,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei t=1332–1341; sensibel, aber sachlich wiedergegeben, aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "Selbst radikale Teilnehmende standen nach einer Konferenzwoche weinend in einem KZ und gaben zu, verwirrt zu sein.",
+   "question": "Was sagten selbst radikale Teilnehmende nach einer Woche Konferenz zu Ilja?",
+   "answer": "„Ich bin verwirrt“",
+   "distractors": [
+    "„Ich bleibe dabei“",
+    "„Ich komme wieder“",
+    "„Ihr habt gewonnen“"
+   ],
+   "aha": "Manche hatten sich bewusst angemeldet, um ihre radikale Message loszuwerden. Dass sie am Ende verwirrt waren, macht Ilja und sein Team besonders stolz.",
+   "quote_clean": "Dass sie nach einer Woche weinend im Konzentrationslager gestanden sind, mich böse angeschaut und mit einem Lächeln im Gesicht gesagt haben: Ich bin verwirrt.",
+   "quality": 4
+  }
+ ],
+ "id": "365",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

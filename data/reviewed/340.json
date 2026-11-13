@@ -1,0 +1,273 @@
+{
+ "reviews": [
+  {
+   "statement": "ChatGPT wurde Ende 2022 veröffentlicht und hat vor allem den Bildungssektor kalt erwischt.",
+   "question": "In welchem Jahr wurde ChatGPT veröffentlicht?",
+   "answer": "2022",
+   "distractors": [
+    "2019",
+    "2020",
+    "2024"
+   ],
+   "aha": "Ende 2022 ging ChatGPT online, und plötzlich war klar: So wie das Bildungssystem jetzt ist, kann es nicht weiterlaufen. Laut Elke Höfler hat gerade die Bildung das Thema KI davor jahrzehntelang recht gemütlich ausgeblendet.",
+   "quote_clean": "Das heißt, wir sind alle ziemlich überrascht worden, als Ende 2022 ChatGPT veröffentlicht wurde.",
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt, aber sehr einfach.",
+   "stand_note": "",
+   "quality": 2
+  },
+  {
+   "statement": "KI ist seit dem Zweiten Weltkrieg ein Thema, und einen ersten Vorläufer von ChatGPT gab es bereits in den 1960er-Jahren.",
+   "question": "In welchem Jahrzehnt gab es den ersten Vorläufer von ChatGPT?",
+   "answer": "in den 1960er-Jahren",
+   "distractors": [
+    "in den 1980er-Jahren",
+    "in den 1990er-Jahren",
+    "in den 2000er-Jahren"
+   ],
+   "aha": "Chatbots gibt's schon seit den 60ern, KI als Thema seit dem Zweiten Weltkrieg. Neu ist also weniger die Idee als das, was die Technik heute draus macht.",
+   "quote_clean": "Das ist per se seit dem Zweiten Weltkrieg Thema. Den ersten Vorläufer oder die Mutter von ChatGPT gibt's in den 60er-Jahren.",
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Mondlandungs-Vergleich nicht belegt; entfernt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Ein Sprachmodell wie GPT liefert Antworten nach dem Prinzip der Wahrscheinlichkeit: Es gibt aus, was nach den Trainingsdaten am wahrscheinlichsten ist.",
+   "question": "Nach welchem Prinzip erzeugt ChatGPT seine Antworten?",
+   "answer": "nach Wahrscheinlichkeit",
+   "distractors": [
+    "durch Nachschlagen in Wikipedia",
+    "durch echtes Verstehen der Frage",
+    "durch Abfrage einer Faktendatenbank"
+   ],
+   "aha": "GPT steht für Generative Pre-trained Transformer und klingt komplizierter, als es ist. Das Modell denkt nicht nach, es rechnet aus, welches Wort am wahrscheinlichsten als nächstes kommt. Deshalb klingt es so menschlich und liegt trotzdem manchmal daneben.",
+   "quote_clean": "Einen Trainingsdatensatz, und in dem Trainingsdatensatz gibt es gewisse Wege, die beschritten werden können. Ich stelle eine Frage, der Transformer durchsucht den Trainingsdatensatz und liefert mir eine Antwort nach dem Prinzip der Wahrscheinlichkeit.",
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "'Durchsucht den Datensatz' ist vereinfacht; Antwort auf Kernprinzip verkürzt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Elke Höfler vergleicht den Trainingsdatensatz einer KI mit einem Smoothie: Alles wird vermixt, und am Ende weiß niemand mehr genau, was drin ist.",
+   "question": "Womit vergleicht Elke Höfler den Trainingsdatensatz einer KI?",
+   "answer": "mit einem Smoothie",
+   "distractors": [
+    "mit einer Bibliothek",
+    "mit einem Puzzle",
+    "mit einem Eintopf"
+   ],
+   "aha": "Wer den Smoothie trinkt, weiß nicht, ob irgendwo eine Spur Sellerie drin ist. Bei der KI ist es genauso: Was im Trainingsdatensatz steckt, wird nicht offengelegt. Also muss man alles, was rauskommt, selbst überprüfen.",
+   "quote_clean": "Man kann sich das vielleicht so vorstellen, wie wenn man einen Smoothie macht: Da kommt Obst und Gemüse rein, was man halt gerade im Kühlschrank hat, und am Ende mixt man das durch.",
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Die KI ist laut Elke Höfler derzeit wie ein pubertierendes Kind: Wer nicht genau sagt, was er will, bekommt nicht das, was er meint.",
+   "question": "Womit vergleicht Elke Höfler die heutige KI, wenn es ums Prompten geht?",
+   "answer": "mit einem pubertierenden Kind",
+   "distractors": [
+    "mit einem strengen Lehrer",
+    "mit einem neugierigen Kleinkind",
+    "mit einem müden Beamten"
+   ],
+   "aha": "Sag einem Teenager „Räum dein Zimmer zusammen“ und schau, was passiert. Seine Definition von aufgeräumt ist halt nicht deine. Bei der KI genauso: Ohne gute Prompts spart man sich nichts, sondern macht sich sogar mehr Arbeit.",
+   "quote_clean": "Aktuell ist die KI noch ein bisschen, wie ich immer ganz salopp sage, wie ein pubertierendes Kind.",
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt.",
+   "stand_note": "Stand 2025",
+   "quality": 3
+  },
+  {
+   "statement": "In einem Test von Elke Höfler nannte die KI als Lieblingsessen einer österreichischen Familie nicht Schnitzel, sondern Kaiserschmarrn und Knödel, weil ihre Trainingsdaten vor allem englischsprachig sind.",
+   "question": "Welches Lieblingsessen nannte die KI in Elke Höflers Test für eine typische österreichische Familie?",
+   "answer": "Kaiserschmarrn und Knödel",
+   "distractors": [
+    "Wiener Schnitzel",
+    "Tafelspitz",
+    "Sachertorte"
+   ],
+   "aha": "Das Bild stammt laut Höfler eher aus „The Sound of Music“ und der Nachkriegszeit, als Fleisch teuer war. Harmlos, solange man selbst weiß, dass es Schnitzel wäre. Heikel wird's bei Themen, bei denen man keine Ahnung hat und das Stereotyp nicht erkennt.",
+   "quote_clean": "Jeder Österreicher, jede Österreicherin wird sagen: Schnitzel. Nur die KI nicht, weil der Trainingsdatensatz primär englischsprachig ist.",
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Bezieht sich auf Höflers Test; präzisiert.",
+   "stand_note": "Stand 2025",
+   "quality": 4
+  },
+  {
+   "statement": "Laut OpenAI nutzten Anfang 2025 rund 300 Millionen Menschen weltweit ChatGPT regelmäßig.",
+   "question": "Wie viele Menschen nutzten laut Andreas Sator unter Berufung auf OpenAI ChatGPT regelmäßig (Stand Anfang 2025)?",
+   "answer": "rund 300 Millionen",
+   "distractors": [
+    "rund 30 Millionen",
+    "rund 1 Milliarde",
+    "rund 3 Milliarden"
+   ],
+   "aha": "300 Millionen in so kurzer Zeit ist ziemlich heftig. Umgekehrt heißt das aber auch: Der allergrößte Teil der Menschheit hatte damals noch nie damit zu tun.",
+   "quote_clean": "Da gibt es laut OpenAI, der Firma, die ChatGPT macht, so 300 Millionen Nutzer:innen, die dieses Tool regelmäßig verwenden, auf der Welt.",
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Zahl war 2025 aktuell, heute überholt; Stand und Quelle klargestellt.",
+   "stand_note": "Stand 2025",
+   "quality": 2
+  },
+  {
+   "statement": "Ein bekannter Test, an dem ChatGPT lange scheiterte: Buchstaben in einem Wort wie Erdbeere (Strawberry) richtig zu zählen.",
+   "question": "An welcher scheinbar simplen Aufgabe ist ChatGPT lange gescheitert?",
+   "answer": "die R in Erdbeere zählen",
+   "distractors": [
+    "eins plus eins rechnen",
+    "das heutige Datum nennen",
+    "einen Witz erzählen"
+   ],
+   "aha": "Für Skeptiker:innen der Beweis, dass alles nur Hype ist. Der Grund ist eher banal: Sprachmodelle sehen Wörter nicht Buchstabe für Buchstabe, sondern in Stücken. Gut bei Texten, schlecht beim Zählen.",
+   "quote_clean": "Es ist so ein Klassiker bei ChatGPT: Im Wort Erdbeere, wie viele R kommen darin vor? Und dann scheitert es daran.",
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt, Modelle zählen heute meist richtig.",
+   "stand_note": "Stand 2025",
+   "quality": 3
+  },
+  {
+   "statement": "Österreich ließ beim EU-Beitritt eigene Wörter wie Paradeis und Erdapfel offiziell festschreiben, damit sie verwendet werden dürfen.",
+   "question": "Was hat Österreich beim EU-Beitritt extra eintragen lassen?",
+   "answer": "österreichische Wörter wie Paradeis und Erdapfel",
+   "distractors": [
+    "das Recht auf eigene Euro-Münzen",
+    "den Schilling als Zweitwährung",
+    "Dialekt als Amtssprache"
+   ],
+   "aha": "Paradeiser und Erdäpfel sind EU-rechtlich abgesichert. Gegen die KI hilft das wenig: Was wenige Menschen schreiben, ist für sie unwahrscheinlich, also spuckt sie es seltener aus.",
+   "quote_clean": "Aber wer sagt noch Paradeis statt Tomate oder Erdapfel statt Kartoffel? Das sind Vokabeln, die verschwinden. Die haben wir extra damals beim EU-Beitritt eintragen lassen.",
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt.",
+   "stand_note": "",
+   "quality": 4
+  },
+  {
+   "statement": "Elke Höfler betont, dass man ohne Faktenwissen nichts begründen kann und alles glauben muss.",
+   "question": "Wer sagt im Gespräch über KI: „Wer nichts weiß, muss alles glauben“?",
+   "answer": "Elke Höfler",
+   "distractors": [
+    "Andreas Sator",
+    "David Autor",
+    "Manfred Spitzer"
+   ],
+   "aha": "Für Höfler ist das der Kern, warum wir mit KI mehr wissen müssen, nicht weniger. Wer eine Entscheidung begründen will, auch die, einen KI-Text zu verwenden, braucht eigenes Wissen. Sonst bleibt nur glauben.",
+   "quote_clean": "Da sind wir wieder beim Faktenwissen: Wer nichts weiß, muss alles glauben. Ich kann nichts begründen, wenn ich nichts weiß.",
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt.",
+   "stand_note": "",
+   "quality": 2
+  },
+  {
+   "statement": "Elke Höfler zitiert sinngemäß Nietzsche: Eine Schule ohne Muße ist keine Schule mehr.",
+   "question": "Welchen Ort braucht die Schule laut dem Zitat, das Elke Höfler Nietzsche zuschreibt?",
+   "answer": "einen Ort der Muße",
+   "distractors": [
+    "einen Ort der Disziplin",
+    "einen Ort des Wettbewerbs",
+    "einen Ort der Technik"
+   ],
+   "aha": "Kinder, die dauernd bespaßt werden, kennen keine Langeweile mehr. Höfler meint: Wir brauchen geistige Leerläufe, um zu verarbeiten, was wir wahrnehmen. Vielleicht sogar als eigenes Unterrichtsfach.",
+   "quote_clean": "Aber wenn die Schule keinen Ort der Muße mehr darstellt, dann ist sie keine Schule mehr.",
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Attribution an Nietzsche von Elke selbst als unsicher markiert, Frage formuliert das.",
+   "stand_note": "",
+   "quality": 3
+  },
+  {
+   "statement": "Andreas Sator fragt seine Gäste am Ende jeder Folge nach Büchertipps.",
+   "question": "Wonach fragt Andreas seine Gäste am Ende einer Folge immer?",
+   "answer": "nach Büchertipps",
+   "distractors": [
+    "nach ihrem Lieblingsessen",
+    "nach ihrer größten Angst",
+    "nach ihrem Lieblingsort in Wien"
+   ],
+   "aha": "Elke Höfler hatte da schon eine halbe Bibliothek empfohlen und legte trotzdem nach, unter anderem Katharina Zweigs „Die KI war's!“. Die Liste steht wie immer in der Folgenbeschreibung.",
+   "quote_clean": "Am Ende frage ich immer nach Büchertipps. Du hast schon so viele gegeben, gibt's noch ein Buch, das dir am Herzen liegt?",
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsende.",
+   "stand_note": "",
+   "quality": 1
+  },
+  {
+   "statement": "Unter Lehrkräften kursiert der Running Gag: Zwei Gründe, Lehrer zu werden? Juli und August.",
+   "question": "Welche zwei Gründe, Lehrer zu werden, nennt der Running Gag, den Elke Höfler erzählt?",
+   "answer": "Juli und August",
+   "distractors": [
+    "Weihnachten und Ostern",
+    "Gehalt und Pension",
+    "Montag und Freitag"
+   ],
+   "aha": "Ihr Geografielehrer hat ihr das schon im Gymnasium so erzählt, war aber trotzdem ein guter Lehrer, Grüße gehen raus. Höfler meint ernsthaft: Wer ohne Begeisterung nur Dienst nach Vorschrift macht, hat in der Schule wenig verloren.",
+   "quote_clean": "Da gibt's diesen Running Gag unter Lehrerinnen und Lehrern: Nenne zwei Gründe, warum du Lehrer geworden bist. Juli und August.",
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "fairness"
+   ],
+   "note": "Pauschaler Witz auf Kosten von Lehrkräften.",
+   "stand_note": "",
+   "quality": 1
+  },
+  {
+   "statement": "Elke Höflers liebstes KI-Werkzeug ist der Foliendesigner in PowerPoint, weil sie verschobene Elemente auf Folien nicht aushält.",
+   "question": "Welches KI-Tool nennt Elke Höfler als Erstes, wenn sie nach ihren Lieblingswerkzeugen gefragt wird?",
+   "answer": "den Foliendesigner in PowerPoint",
+   "distractors": [
+    "den Bildgenerator Midjourney",
+    "die Sprachsuche von Siri",
+    "den Musikgenerator Suno"
+   ],
+   "aha": "Früher hat sie Stunden damit verbracht, Folien millimetergenau auszurichten. Jetzt erledigt das die KI, und ihr innerer Monk ist zufrieden. Täglich nutzt sie aber vor allem ChatGPT, auch für die Frage, was man aus dem Kühlschrank kochen kann.",
+   "quote_clean": "Den Foliendesigner von PowerPoint. Ich bin nämlich so ein Monk, ich hasse es, wenn bei einer Folie Teile um Millimeter verschoben sind.",
+   "i": 24,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Passt.",
+   "stand_note": "Stand 2025",
+   "quality": 2
+  }
+ ],
+ "id": "340",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

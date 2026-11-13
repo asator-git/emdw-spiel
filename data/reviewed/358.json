@@ -1,0 +1,280 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Frage verallgemeinerte medizinisch falsch; auf Jasmins Fall begrenzt, aha-Detail unbelegt.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Zu wenige Thrombozyten, also Blutplättchen, führen zu vielen blauen Flecken.",
+   "question": "Was war bei Jasmin die Ursache für ihre vielen blauen Flecken?",
+   "answer": "Zu wenige Blutplättchen (Thrombozyten)",
+   "distractors": [
+    "Zu viel Eisen im Blut",
+    "Zu wenige rote Blutkörperchen",
+    "Zu hoher Blutdruck"
+   ],
+   "aha": "Blutplättchen sind dafür da, Blutungen zu stoppen, auch die kleinen unter der Haut. Bei Jasmin waren sie extrem niedrig – das war der erste Hinweis auf ihre Erkrankung.",
+   "quote_clean": "Die Thrombozyten, also die Blutplättchen, sind extrem niedrig, deswegen die vielen blauen Flecken."
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "MDS war schon vorher eine Neoplasie; 2022 wurde die Bezeichnung geändert.",
+   "stand_note": "",
+   "quality": 2,
+   "statement": "Seit 2022 bezeichnet die WHO das myelodysplastische Syndrom (MDS) als myelodysplastische Neoplasie, also als bösartige Neubildung der Blutbildung.",
+   "question": "Seit welchem Jahr heißt MDS laut WHO „myelodysplastische Neoplasie“?",
+   "answer": "Seit 2022",
+   "distractors": [
+    "Seit 2008",
+    "Seit 2016",
+    "Seit 1999"
+   ],
+   "aha": "Aus dem sperrigen „Syndrom“ wurde 2022 bei der WHO eine „Neoplasie“, also eine bösartige Neubildung der Blutbildung.",
+   "quote_clean": "MDS, myelodysplastisches Syndrom, seit 2022 laut WHO myelodysplastische Neoplasien, also bösartige Neubildungen, was die Blutbildung angeht."
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok, allgemein gesichertes Wissen.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Blutstammzellen im Knochenmark bilden alle Blutzellen; versagen sie, entstehen Erkrankungen wie MDS.",
+   "question": "Welche Zellen im Knochenmark sind dafür zuständig, alle unsere Blutzellen zu bilden?",
+   "answer": "Die Blutstammzellen",
+   "distractors": [
+    "Die Fresszellen",
+    "Die Knochenzellen",
+    "Die Lymphknotenzellen"
+   ],
+   "aha": "Jasmin nennt die Stammzelle die Mutter aller Zellen: Aus ihr entstehen rote und weiße Blutkörperchen und Blutplättchen. Macht sie Fehler, oft wegen genetischer Mutationen, gerät die ganze Blutbildung durcheinander.",
+   "quote_clean": "Oder die Mutter aller Zellen, die Stammzelle, die eigentlich dafür verantwortlich ist, unsere Blutzellen zu bilden, versagt ihren Job."
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Unreife Blutzellen heißen Blasten; bei Blutkrebs verdrängen sie die normalen Blutzellen.",
+   "question": "Wie nennt man unreife Blutzellen, die bei Blutkrebs die gesunden verdrängen?",
+   "answer": "Blasten",
+   "distractors": [
+    "Plasmide",
+    "Phagen",
+    "Granula"
+   ],
+   "aha": "Blasten sind sozusagen halbfertige Blutzellen, die ihren Job nicht können. Je mehr davon im Blut schwimmen, desto weniger Platz bleibt für die funktionierenden.",
+   "quote_clean": "Das heißt, man hat immer mehr unreife Zellen, man nennt sie Blasten, und wenn die zunehmend die normalen Blutzellen vertreiben, hat das verschiedenste Folgen."
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok, einfach.",
+   "stand_note": "",
+   "quality": 2,
+   "statement": "Wer zu wenige weiße Blutkörperchen hat, wird anfälliger für Infekte.",
+   "question": "Was passiert, wenn du zu wenige weiße Blutkörperchen hast?",
+   "answer": "Du bekommst leichter Infekte",
+   "distractors": [
+    "Du bekommst leichter blaue Flecken",
+    "Du wirst blass und müde",
+    "Dein Blutdruck steigt stark"
+   ],
+   "aha": "Weiße Blutkörperchen sind die Abwehr, ohne sie geht ein Infekt in den nächsten über. Fehlen dagegen rote, wirst du müde und blass, fehlen Blutplättchen, bekommst du blaue Flecken.",
+   "quote_clean": "Wenn man zu wenig weiße Blutkörperchen hat, ist man anfälliger für Infekte. Das heißt, man ist oft krank."
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "aha nannte genaues Alter 27, im Ausschnitt nur Mitte/Ende 20.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "MDS ist typischerweise eine Erkrankung älterer Männer um die 75 Jahre.",
+   "question": "In welchem Alter erkranken typischerweise Menschen an MDS, einer Vorstufe von Blutkrebs?",
+   "answer": "Rund 75 Jahre",
+   "distractors": [
+    "Rund 35 Jahre",
+    "Rund 55 Jahre",
+    "Rund 15 Jahre"
+   ],
+   "aha": "MDS trifft meist Männer um die 75. Jasmin war Mitte, Ende 20 und eine Frau – sie nennt das mit schwarzem Humor einen dreifachen Jackpot.",
+   "quote_clean": "Ich wollte in meinem Leben eigentlich nicht einzigartig sein, weil das diagnostisch eher eine Erkrankung von 75-jährigen Männern ist."
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Bei einer Stammzelltransplantation werden die eigenen blutbildenden Stammzellen zerstört und durch fremde ersetzt, die dann gesundes Blut bilden.",
+   "question": "Was passiert bei einer Stammzelltransplantation gegen Blutkrebs?",
+   "answer": "Eigene Stammzellen werden durch fremde ersetzt",
+   "distractors": [
+    "Kranke Organe werden ausgetauscht",
+    "Fremdes Blut wird dauerhaft zugeführt",
+    "Eigene Stammzellen werden nur gereinigt"
+   ],
+   "aha": "Jasmin vergleicht es mit einer Festplatte: komplett löschen, neu aufsetzen. Chemo zerstört die eigenen Stammzellen, die gespendeten bauen danach ein ganz neues Blutsystem auf.",
+   "quote_clean": "Die Festplatte resetten: Im Endeffekt wird die Festplatte gelöscht, also die eigenen Stammzellen, und fremde Stammzellen werden übertragen, die dann wieder neues, gesundes Blut produzieren sollen."
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "kontext"
+   ],
+   "note": "Schwelle ist klassische Grenze MDS zu akuter Leukämie; neuere Klassifikationen differenzierter.",
+   "stand_note": "Stand 2025: klassische Schwelle, neuere Klassifikationen sind differenzierter",
+   "quality": 3,
+   "statement": "Von Leukämie spricht man, wenn mehr als 20 Prozent der Zellen im Knochenmark unreife Blasten sind.",
+   "question": "Ab wie viel Prozent unreifer Zellen im Knochenmark spricht man laut Jasmin Poschmaier von Leukämie?",
+   "answer": "Ab 20 Prozent",
+   "distractors": [
+    "Ab 5 Prozent",
+    "Ab 50 Prozent",
+    "Ab 80 Prozent"
+   ],
+   "aha": "Die 20 Prozent sind die Grenze zwischen Vorstufe und echtem Blutkrebs. Bei Jasmin war sie im Jänner 2023 überschritten, und dann ging es Schlag auf Schlag.",
+   "quote_clean": "Leukämie ist es dann, wenn man mehr als 20 % von diesen unreifen Zellen hat, das ist so ein Schwellenwert."
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Zahl ist Jasmins Angabe; Quelle in Frage ergänzt.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Die Chance, eine perfekt passende fremde Stammzellspenderin zu finden, liegt laut Jasmin bei etwa 1 zu 500.000.",
+   "question": "Wie hoch ist laut Jasmin Poschmaier normalerweise die Chance, eine perfekt passende fremde Stammzellspenderin zu finden? 1 zu …",
+   "answer": "1 zu 500.000",
+   "distractors": [
+    "1 zu 5.000",
+    "1 zu 50.000",
+    "1 zu 5 Millionen"
+   ],
+   "aha": "Gewebemerkmale sind so vielfältig, dass ein perfekter Fit mit einer Fremden wie ein Lottogewinn ist. Genau deshalb braucht es so viele Registrierte, je mehr im Pool, desto mehr Treffer.",
+   "quote_clean": "Aber die Chance für mich als Betroffene, eine passende Spenderin wie sie gefunden zu haben, liegt normalerweise bei 1 zu 500.000."
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok.",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Vor der Spende spritzen sich Stammzellspender:innen mehrere Tage lang Medikamente, damit der Körper mehr Stammzellen bildet, als er braucht.",
+   "question": "Was machen Stammzellspender:innen in den Tagen vor der Entnahme?",
+   "answer": "Sie spritzen stammzellanregende Medikamente",
+   "distractors": [
+    "Sie fasten mehrere Tage lang",
+    "Sie bekommen eine leichte Chemo",
+    "Sie spenden vorab Blutplasma"
+   ],
+   "aha": "Der Körper soll einen Überschuss an Stammzellen bilden, damit die Spenderin nichts hergibt, was ihr fehlt. Das wird genau getimt: Während Jasmin ihre Chemo bekam, spritzte die Spenderin in Deutschland.",
+   "quote_clean": "Wird auch die Spenderin an ein Spezialklinikum verwiesen, in dem sie zunächst über mehrere Tage Stammzellen anreichernde Medikamente spritzt. Das heißt, man produziert dann mehr Stammzellen, als man braucht."
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg ok, sympathischer Moment.",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Jasmin vergleicht die Farbe des Stammzellbeutels mit einem Aperol Spritz.",
+   "question": "Womit vergleicht Jasmin die Farbe des Beutels mit den gespendeten Stammzellen?",
+   "answer": "Mit einem Aperol Spritz",
+   "distractors": [
+    "Mit Himbeersaft",
+    "Mit Rotwein",
+    "Mit Tomatensaft"
+   ],
+   "aha": "Der Beutel, der ihr Leben rettete, sieht laut Jasmin aus wie ein Aperol Spritz. Andreas wollte danach eh nie wieder einen trinken, Jasmin trinkt ihn weiterhin gern.",
+   "quote_clean": "Würde ich jetzt nicht raten, aber vielleicht ein bisschen wie ein Aperol Spritz, also von der Farbe."
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-Frage ohne Wissensgehalt.",
+   "stand_note": "",
+   "quality": 1,
+   "statement": "Jasmin sagt: Ein Leben muss nicht immer schön sein, um ein erfülltes Leben zu sein.",
+   "question": "Wer sagt: „Es muss nicht immer schön sein, um ein erfülltes Leben zu sein“?",
+   "answer": "Jasmin Poschmaier",
+   "distractors": [
+    "Andreas Sator",
+    "Glennon Doyle",
+    "Laura Malina Seiler"
+   ],
+   "aha": "Jasmin hält wenig von toxischer Positivität, also dem Gefühl, alles müsse immer schön sein. Ihr Punkt: Auch die Scherben gehören zu einem vollen Leben.",
+   "quote_clean": "Ich hüpfe halt so durch mein Leben, und alles ist schön. Es muss nicht immer schön sein, um trotzdem ein erfülltes Leben zu sein."
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "aha enthielt unbelegte Details zu Verschiebungen.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Jasmin erlebte die Angst vor der Krise als schlimmer als die Krise selbst.",
+   "question": "Was war für Jasmin belastender als die Transplantation selbst?",
+   "answer": "Die Angst und das Warten davor",
+   "distractors": [
+    "Die Schmerzen danach",
+    "Die Nebenwirkungen der Chemo",
+    "Die lange Reha danach"
+   ],
+   "aha": "Jasmin hatte vor der Aufnahme große Sorge, wieder heimgeschickt zu werden. Als es dann wirklich losging, war die Erwartung von Angst und Schmerz schlimmer als die Erfahrung selbst.",
+   "quote_clean": "Ich glaube, ganz oft ist die Angst und Erwartung vor einer Krise schlimmer als die Krise selbst, und das Gedankenkarussell war für mich so viel anstrengender als der Kampf selber."
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zur Moderation, kein Wissen.",
+   "stand_note": "",
+   "quality": 1,
+   "statement": "Andreas fasst am Ende der Folge unter „Was nehme ich mir mit?“ seine wichtigsten Erkenntnisse zusammen.",
+   "question": "Mit welcher Frage leitet Andreas am Ende seine Zusammenfassung ein?",
+   "answer": "Was nehme ich mir mit?",
+   "distractors": [
+    "Was haben wir heute gelernt?",
+    "Was bleibt am Ende übrig?",
+    "Was sollte ich noch wissen?"
+   ],
+   "aha": "„Was nehme ich mir mit?“ ist Andreas' fixer Schlusspunkt. Diesmal Platz eins: Registrieren dauert keine drei Minuten und kann ein Leben retten.",
+   "quote_clean": "Was nehme ich mir mit? Erstens: Eine Stammzellenspende kann Leben retten."
+  }
+ ],
+ "id": "358",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

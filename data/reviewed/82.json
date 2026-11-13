@@ -1,0 +1,278 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 869: Aufnahme 2017 (von Andreas gesagt, faktisch korrekt: Juli 2017); Veröffentlichung Mai 2019 steht bei 875.",
+   "stand_note": "",
+   "statement": "Das Ibiza-Video wurde 2017 aufgenommen, veröffentlicht wurde es erst im Mai 2019.",
+   "question": "In welchem Jahr wurde das Ibiza-Video aufgenommen?",
+   "answer": "2017",
+   "distractors": [
+    "2015",
+    "2018",
+    "2019"
+   ],
+   "aha": "Die Aufnahme stammt aus dem Sommer 2017, also noch vor der Nationalratswahl, nach der die FPÖ in die Regierung kam. Bis die Öffentlichkeit davon erfuhr, vergingen fast zwei Jahre.",
+   "quote_clean": "Das Video wurde 2017 aufgenommen. Im Sommer 2018, wenn ich das richtig in Erinnerung habe, wurdet ihr kontaktiert.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 728: sieben Stunden, von Andreas als Strache-Zitat wiedergegeben; deckt sich mit den bekannten Angaben (rund sieben Stunden), Obermaier widerspricht nicht.",
+   "stand_note": "",
+   "statement": "Das gesamte Ibiza-Video ist rund sieben Stunden lang.",
+   "question": "Wie viele Stunden ist das gesamte Ibiza-Video ungefähr lang?",
+   "answer": "Etwa sieben Stunden",
+   "distractors": [
+    "Etwa eine Stunde",
+    "Etwa drei Stunden",
+    "Etwa zwölf Stunden"
+   ],
+   "aha": "Gesehen haben wir alle nur ein paar Minuten, das Material dauert aber rund sieben Stunden. Veröffentlicht wurden nur ganz wenige Passagen, bei denen das öffentliche Interesse überragend war.",
+   "quote_clean": "Strache sagt bis heute: Legt das ganze Video vor, die ganzen sieben Stunden, alles aus dem Kontext einer langen Nacht gerissen.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1155-1165: Panama Papers 2016, korrekt.",
+   "stand_note": "",
+   "statement": "Die Panama Papers, ein Leak aus Steueroasen, wurden 2016 veröffentlicht.",
+   "question": "In welchem Jahr wurden die Panama Papers veröffentlicht?",
+   "answer": "2016",
+   "distractors": [
+    "2010",
+    "2013",
+    "2019"
+   ],
+   "aha": "Dieselben zwei SZ-Journalisten, die das Ibiza-Video bekamen, hatten schon die Panama Papers zugespielt bekommen. Die internationale Recherche dazu ging 2016 an die Öffentlichkeit.",
+   "quote_clean": "Die Panama Papers waren ein Leak aus mehreren Steueroasen, der mir zugespielt worden ist und aus dem wir eine internationale Recherche gemacht haben, die 2016 veröffentlicht worden ist.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg ok (592-600). Aha behauptet Arbeitsteilung, die nicht belegt ist.",
+   "stand_note": "",
+   "statement": "Die Süddeutsche Zeitung recherchierte das Ibiza-Video gemeinsam mit dem Spiegel und ließ es von zwei Gutachtern prüfen.",
+   "question": "Mit welchem Medium hat die Süddeutsche Zeitung beim Ibiza-Video zusammengearbeitet?",
+   "answer": "Mit dem Spiegel",
+   "distractors": [
+    "Mit dem Falter",
+    "Mit der Zeit",
+    "Mit dem ORF"
+   ],
+   "aha": "Süddeutsche und Spiegel recherchierten gemeinsam und beauftragten zwei Gutachter. Die prüften, ob Bild und Ton zusammenpassen und die Datei nicht manipuliert wurde.",
+   "quote_clean": "Ein Schritt war: Wir haben zusammen mit dem Spiegel, mit dem wir bei dieser Recherche kooperiert haben, zwei Gutachter beauftragt.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Beleg ok (434-439), aber absolute Rechtsaussage ist eine Fangfrage-Gefahr; als Aussage von Obermaier kennzeichnen und schwachen Distraktor ersetzen.",
+   "stand_note": "",
+   "statement": "Laut Frederik Obermaier können Journalist:innen aufgrund eines verfassungsrechtlich verbrieften Rechts nicht gezwungen werden, ihre Quelle zu verraten.",
+   "question": "Was sagt Frederik Obermaier: Können Journalist:innen gezwungen werden, ihre Quelle zu verraten?",
+   "answer": "Nein, der Quellenschutz ist verfassungsrechtlich verbrieft",
+   "distractors": [
+    "Ja, vor jedem Gericht",
+    "Ja, wenn die Polizei sie vorlädt",
+    "Ja, wenn die Staatsanwaltschaft es verlangt"
+   ],
+   "aha": "Quellenschutz ist laut Obermaier ein Pfeiler der Pressefreiheit, mehrere europäische Gerichte haben ihn bestätigt. Ohne ihn würde sich kaum noch jemand mit heiklem Material melden.",
+   "quote_clean": "Das ist ein verfassungsrechtlich verbrieftes Recht. Das haben auch mehrere europäische Gerichte schon bestätigt. Ich als Journalist kann nicht gezwungen werden, die Quelle zu verraten.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Beleg ok (634). Distraktor 'Englisch' könnte auch vorkommen, daher ersetzt; Aha spekuliert über Gründe.",
+   "stand_note": "",
+   "statement": "Teile des Ibiza-Videos sind auf Russisch und wurden von einer beeidigten Gerichtsdolmetscherin übersetzt.",
+   "question": "Welche Sprache kommt im Ibiza-Video neben Deutsch auch vor?",
+   "answer": "Russisch",
+   "distractors": [
+    "Spanisch",
+    "Ungarisch",
+    "Türkisch"
+   ],
+   "aha": "Teile des Videos sind auf Russisch. Für die Übersetzung holten sich die Journalisten eine beeidigte Übersetzerin, die sonst an einem Gericht in München arbeitet.",
+   "quote_clean": "Wir haben Passagen, die zum Teil auf Russisch sind, von einer beeidigten Übersetzerin, die sonst an einem Gericht in München übersetzt, übersetzen lassen.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Obermaier ist unsicher ('ich glaube sogar'), und aufgefallen ist vor allem, dass nichts mehr zusammenpasste; Statement und Aha entsprechend abgeschwächt.",
+   "stand_note": "",
+   "statement": "Bei einer gefälschten Mail im Namen eines SZ-Kollegen passte laut Obermaier nichts mehr zusammen – er glaubt sogar, dass darin gesiezt wurde.",
+   "question": "Was fiel den SZ-Journalisten laut Obermaier an der gefälschten Mail ihres Kollegen unter anderem auf?",
+   "answer": "Er hat sie plötzlich gesiezt",
+   "distractors": [
+    "Sie war auf Englisch",
+    "Sie kam um drei Uhr früh",
+    "Sie hatte keinen Betreff"
+   ],
+   "aha": "Das E-Mail-Konto des Kollegen war gehackt, die echte Korrespondenz hing sogar noch unten dran. Verdächtig wurde es, weil auf einmal nichts mehr zusammenpasste – Obermaier erinnert sich sogar an ein Sie, obwohl man sich unter guten Freunden duzt.",
+   "quote_clean": "Ich glaube sogar, dass er uns gesiezt hat, obwohl wir uns ganz klar duzen, weil wir gute Freunde sind.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 375-381 stimmt wörtlich; Sprecher Obermaier. Als Wer-hat's-gesagt-Frage nur mäßig spielbar.",
+   "stand_note": "",
+   "statement": "Investigative Journalisten hören auch Menschen zu, die paranoid klingen, weil deren Geschichten trotzdem stimmen können.",
+   "question": "Wer hat's gesagt: „Nur weil jemand paranoid klingt, heißt es nicht, dass die Geschichte verrückt ist.“",
+   "answer": "Frederik Obermaier",
+   "distractors": [
+    "Andreas Sator",
+    "Florian Klenk",
+    "Jan Böhmermann"
+   ],
+   "aha": "Die SZ-Investigativen nehmen sich viel Zeit für Mails und Leute, die einfach in der Redaktion auftauchen. Und manchmal gibt's einen guten Grund für Paranoia, etwa wenn die FPÖ gerade den Verfassungsschutz kontrolliert.",
+   "quote_clean": "Ich glaube, nur so kommt man an die wichtigen Geschichten. Nur weil jemand paranoid klingt, heißt es nicht, dass die Geschichte verrückt ist.",
+   "quality": 2
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "fairness",
+    "ton"
+   ],
+   "note": "Beleg ok (1604-1608), ist Obermaiers Meinung; Aha formulierte sie als Tatsache und etwas hart. Neutral umformuliert.",
+   "stand_note": "",
+   "statement": "Obermaier sieht nicht die Journalisten, sondern Strache und Gudenus selbst als Verursacher des Regierungssturzes.",
+   "question": "Wer hat laut Frederik Obermaier die türkis-blaue Regierung gestürzt?",
+   "answer": "Strache und Gudenus selbst",
+   "distractors": [
+    "Die Süddeutsche Zeitung",
+    "Der Spiegel",
+    "Die Quelle des Videos"
+   ],
+   "aha": "Für Obermaier war der Job mit der Veröffentlichung getan. Das Ziel sei nie gewesen, eine Wahl zu beeinflussen oder eine Regierung zu stürzen, sondern einen klaren Missstand öffentlich zu machen.",
+   "quote_clean": "Das waren Herr Strache und Herr Gudenus, die die Regierung gestürzt haben, mit ihrem Verhalten auf Ibiza.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1047-1054: Medienlandschaft 'wie ein Dorf'. Gut belegt.",
+   "stand_note": "",
+   "statement": "Österreichs Medienlandschaft ist so klein, dass sich heikles Material dort schnell herumspricht, darum war ein ausländisches Medium für die Quelle sicherer.",
+   "question": "Womit vergleicht Obermaier die österreichische Medienlandschaft?",
+   "answer": "Mit einem Dorf",
+   "distractors": [
+    "Mit einem Wespennest",
+    "Mit einem Kaffeehaus",
+    "Mit einem Familienbetrieb"
+   ],
+   "aha": "Gibst du in Österreich einem Journalisten so ein Video, wissen es bald sehr viele. Nach einem Glas Wein zu viel wird halt gern ein bisschen angegeben, und für die Quelle ist das gefährlich.",
+   "quote_clean": "Ich habe durch die Recherche gemerkt: In Österreich ist die Medienlandschaft sehr klein, das ist wie ein Dorf. Sobald man so etwas einem Journalisten gibt, muss man damit rechnen, dass es sehr viele Journalisten wissen.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg ok (1070-1079). Distraktor 'auf Deutsch verboten' unsinnig, ersetzt; Stand 2019 vermerkt.",
+   "stand_note": "Stand 2019",
+   "statement": "Weil die FPÖ damals das Innenministerium und damit Polizei und Verfassungsschutz kontrollierte, war die Quelle des Ibiza-Videos in Österreich besonders gefährdet.",
+   "question": "Warum war es für die Ibiza-Quelle besonders riskant, sich an österreichische Medien zu wenden?",
+   "answer": "Die FPÖ kontrollierte Polizei und Verfassungsschutz",
+   "distractors": [
+    "Österreich kennt keinen Quellenschutz",
+    "Alle großen Zeitungen gehörten der FPÖ",
+    "Das Video wäre in Österreich verboten gewesen"
+   ],
+   "aha": "Mit Polizei und Verfassungsschutz im eigenen Ministerium hätte man einen großen Apparat gehabt, um nach der Quelle zu jagen. Der Weg übers Ausland war da einfach sicherer.",
+   "quote_clean": "Das ist für eine Quelle natürlich eine Gefahr, zumal man damals wusste: Die FPÖ kontrolliert den Verfassungsschutz und im Endeffekt auch die Polizei.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 254-274 passt: Deepfake-Sorge, Datei zur Echtheitsprüfung selbst in Händen halten.",
+   "stand_note": "",
+   "statement": "Wegen Deepfakes reichte es den Journalisten nicht, das Video zu sehen, sie mussten die Datei selbst prüfen können.",
+   "question": "Warum wollten die SZ-Journalisten das Ibiza-Video unbedingt selbst in Händen halten?",
+   "answer": "Um es auf Fälschung prüfen zu können",
+   "distractors": [
+    "Um es sofort online zu stellen",
+    "Um es der Polizei zu übergeben",
+    "Um es zu verkaufen"
+   ],
+   "aha": "Mit genug Rechenleistung kann man Leuten heute fast alles in den Mund legen. Darum ließen die Journalisten prüfen, ob die Datei manipuliert ist und ob das wirklich Strache und Gudenus sind.",
+   "quote_clean": "Wir leben in einer Zeit, Stichwort Deepfake, in der man mit einigermaßen Rechnerleistung und dem richtigen Programm Obama sagen lassen kann, dass Trump ein Vollidiot ist.",
+   "quality": 4
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Interviewfrage ohne Wissensgehalt; als Spielfrage nicht sinnvoll.",
+   "stand_note": "",
+   "statement": "Andreas will wissen, wie investigative Journalisten von Quellen kontaktiert werden.",
+   "question": "Was fragt Andreas, als er „drei Schritte zurück“ gehen will?",
+   "answer": "Wie man da kontaktiert wird",
+   "distractors": [
+    "Wer das Video bezahlt hat",
+    "Wo die Villa auf Ibiza steht",
+    "Wie viel die Recherche kostete"
+   ],
+   "aha": "Andreas hakt gern ganz konkret nach: Ruft wer an, lauert einer auf der Straße? Die Antwort war dann tatsächlich filmreif, mit Treffen in Hotels und Verfolgungsfahrten ab der Tankstelle.",
+   "quote_clean": "Gehen wir noch einmal drei Schritte zurück. Wie wird man da kontaktiert? Ruft wer an? Lauert einer auf der Straße auf?",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 443-462: Vorladung, Berufsgeheimnisträger, Zettel 'brauchen doch nicht kommen'.",
+   "stand_note": "",
+   "statement": "Als die Polizei Obermaier in einem anderen Fall vorlud, kündigte er an, nichts über Quellen zu sagen, worauf die Vorladung abgesagt wurde.",
+   "question": "Was passierte, als Obermaier der Polizei schrieb, er werde über Quellen nichts sagen?",
+   "answer": "Er musste doch nicht kommen",
+   "distractors": [
+    "Er bekam eine Geldstrafe",
+    "Er wurde verhaftet",
+    "Er musste trotzdem aussagen"
+   ],
+   "aha": "Kurz nach seiner Antwort kam ein Zettel: Sie brauchen doch nicht kommen. Als Berufsgeheimnisträger muss er über seine Quellen eben nichts sagen.",
+   "quote_clean": "Da habe ich auf die Vorladung geantwortet: Leute, ihr könnt mich gern vorladen, ich komme auch gern. Aber ich sage euch jetzt schon, ich bin Berufsgeheimnisträger.",
+   "quality": 3
+  }
+ ],
+ "id": "82",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

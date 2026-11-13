@@ -1,0 +1,280 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 610-616 eindeutig, 20 Mio. als konservative Schätzung.",
+   "stand_note": "",
+   "statement": "Die Grippepandemie von 1918 forderte nach Schätzungen zwischen 20 und 100 Millionen Tote.",
+   "question": "Wie viele Millionen Tote forderte die Pandemie von 1918 mindestens, nach konservativer Schätzung?",
+   "answer": "Rund 20 Millionen",
+   "distractors": [
+    "Rund 2 Millionen",
+    "Rund 5 Millionen",
+    "Rund 200 Millionen"
+   ],
+   "aha": "Und das bei einer Weltbevölkerung, die damals viel kleiner war. Pro Kopf war 1918 also um einiges schlimmer als Corona.",
+   "quote_clean": "Wir hatten eine 1918, die hat damals zwischen 20 und 100 Millionen Tote verursacht. Man kann das schwer abschätzen. 20 Millionen ist die konservative Schätzung.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 624-628 stimmt, Distraktoren klar falsch.",
+   "stand_note": "",
+   "statement": "Die Grippepandemien von 1957 und 1968 forderten jeweils etwa ein bis drei Millionen Tote.",
+   "question": "Wie viele Tote forderten die Grippepandemien von 1957 und 1968 jeweils ungefähr?",
+   "answer": "Ein bis drei Millionen",
+   "distractors": [
+    "Zehn- bis fünfzigtausend",
+    "Zehn bis zwanzig Millionen",
+    "Rund 50 Millionen"
+   ],
+   "aha": "Pandemien sind also keine Jahrhundertereignisse, sondern kommen alle paar Jahrzehnte. Danach kamen noch HIV und 2009 die Schweinegrippe.",
+   "quote_clean": "Wir hatten 1957 eine Pandemie. Wir hatten 1968 eine Pandemie. Da waren immer so ein bis drei Millionen Tote im Spiel.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2969-2973, Weltwissen (40-75 Prozent) passt zu etwa 50.",
+   "stand_note": "",
+   "statement": "Das Nipah-Virus tötet etwa die Hälfte der Menschen, die es infiziert.",
+   "question": "Wie viel Prozent der Infizierten tötet das Nipah-Virus ungefähr?",
+   "answer": "Rund 50 Prozent",
+   "distractors": [
+    "Rund 5 Prozent",
+    "Rund 15 Prozent",
+    "Rund 90 Prozent"
+   ],
+   "aha": "Florian nennt Nipah seinen nächsten Albtraumkandidaten, weil es auch von Mensch zu Mensch übertragen werden kann. Bei so einem Virus würde man wohl gar nicht mehr lange testen, sondern sofort impfen.",
+   "quote_clean": "Ein Nipah-Virus, ich weiß nicht, ob Ihnen das bekannt ist, tötet etwa 50 Prozent der Leute, die es infiziert.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 821-830, Aussage korrekt (Proofreading-Enzym der Coronaviren).",
+   "stand_note": "",
+   "statement": "Coronaviren haben, anders als etwa Influenzaviren, einen Korrekturlesemechanismus, der Kopierfehler im Genom ausbessert.",
+   "question": "Was unterscheidet Coronaviren von vielen anderen RNA-Viren wie der Grippe?",
+   "answer": "Sie korrigieren Kopierfehler im Genom",
+   "distractors": [
+    "Sie haben gar kein Genom",
+    "Sie bestehen aus DNA statt RNA",
+    "Sie vermehren sich nur in Tieren"
+   ],
+   "aha": "Deshalb hat Florian nicht erwartet, dass so schnell so viele Varianten auftauchen. Die Haupthypothese: Sie entstehen in Menschen, die monatelang infiziert sind.",
+   "quote_clean": "Aber Coronaviren sind etwas Spezielles. Die haben einen Korrekturlesemechanismus. Das heißt, die bessern Fehler aus, wenn sie das Genom kopieren.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 838-857, ausdrücklich als Haupthypothese gerahmt; Frage übernimmt das.",
+   "stand_note": "Stand 2022",
+   "statement": "Neue Corona-Varianten entstehen nach der Haupthypothese in Menschen mit monatelangen Infektionen, in denen das Immunsystem Druck aufbaut, das Virus aber nicht verschwindet.",
+   "question": "Wo entstehen neue Corona-Varianten nach der wichtigsten Hypothese?",
+   "answer": "In monatelang infizierten Menschen",
+   "distractors": [
+    "In Fledermäusen in Höhlen",
+    "In Abwasserkanälen",
+    "In frisch Geimpften"
+   ],
+   "aha": "Im Körper eines chronisch Infizierten hat das Virus Zeit, unter Druck des Immunsystems viele Mutationen anzusammeln, es kann sogar zur Rekombination kommen. Für Florian eine der spannendsten neuen Erkenntnisse.",
+   "quote_clean": "Die Haupthypothese ist jetzt, dass diese Varianten in Leuten entstehen, die persistente Infektionen haben, die vier, fünf, sechs Monate infiziert sind, wo das Immunsystem Druck aufbaut, die Viren aber nicht verschwinden.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 4163-4172 stimmt; der Distraktor 'Corona der Sonne' ist mehrdeutig, weil der Name tatsächlich auch auf die Sonnenkorona anspielt. Ersetzt.",
+   "stand_note": "",
+   "statement": "Corona bedeutet Krone: Unter dem Elektronenmikroskop sieht das Virus mit seinen abstehenden Spikes aus wie eine Krone von oben.",
+   "question": "Woher hat das Coronavirus seinen Namen?",
+   "answer": "Es sieht aus wie eine Krone",
+   "distractors": [
+    "Vom Ort des ersten Ausbruchs",
+    "Vom Namen seines Entdeckers",
+    "Von der Farbe seiner Hülle"
+   ],
+   "aha": "Die Zacken der Krone sind die Spike-Proteine, die rundherum rausstehen. Genau die nehmen auch die Impfstoffe ins Visier.",
+   "quote_clean": "Das heißt Krone. Wenn man diese Coronaviren im Elektronenmikroskop anschaut, schaut das aus, wie wenn man von oben auf eine Krone schauen würde.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 645-660, Aussage so gemeint.",
+   "stand_note": "",
+   "statement": "Mehr Menschen bedeuten mehr Tierhaltung und mehr zerstörte Lebensräume – dadurch wächst die Reibungsfläche zwischen Mensch und Tier und damit das Pandemierisiko.",
+   "question": "Warum steigt laut Florian Krammer das Risiko für neue Pandemien?",
+   "answer": "Mehr Kontakt zwischen Menschen und Tieren",
+   "distractors": [
+    "Weil Viren immer tödlicher werden",
+    "Weil weniger geimpft wird",
+    "Weil Labore mehr experimentieren"
+   ],
+   "aha": "Ein Virus in Affen tief im brasilianischen Dschungel ist harmlos, solange niemand hinkommt. Wird gerodet, kommt man in Berührung und das Virus kann springen.",
+   "quote_clean": "Was jetzt passiert ist: Wir haben mehr Menschen. Das heißt, wir brauchen mehr Tierhaltung. Das heißt, die Reibungsfläche zwischen Menschen und Tieren wird größer. Und die Viren kommen alle von Tieren.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Dengue-Fälle in Frankreich gab es lokal schon seit 2010; 'früher nicht möglich' ist als Quizfakt ungenau, zudem sind auch Italien und Spanien betroffen.",
+   "stand_note": "",
+   "statement": "Durch die Klimaerwärmung kann man sich im Sommer inzwischen auch in Frankreich mit Dengue-Fieber anstecken.",
+   "question": "In welchem europäischen Land kann man sich im Sommer inzwischen mit Dengue anstecken, was früher nicht möglich war?",
+   "answer": "Frankreich",
+   "distractors": [
+    "Norwegen",
+    "Irland",
+    "Polen"
+   ],
+   "aha": "Mücken und Zecken, die Viren übertragen, mögen es warm und wandern mit der Klimaerwärmung nach Norden.",
+   "quote_clean": "Wir sehen jetzt im Sommer zum Beispiel, dass man sich in Frankreich mit Dengue anstecken kann. Das war früher nicht der Fall.",
+   "quality": 2
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Zitat bei 1892 stimmt; Statement war zu stark interpretiert und der Lab-Leak-Teil im aha ist im Ausschnitt nicht belegt. Entschärft.",
+   "stand_note": "",
+   "statement": "Florian Krammer sagt, Mutter Natur sei eigentlich der größte Bioterrorist.",
+   "question": "Wen bezeichnet Florian Krammer als den größten Bioterroristen?",
+   "answer": "Mutter Natur",
+   "distractors": [
+    "Schlecht gesicherte Labore",
+    "Terrorgruppen",
+    "Geheimdienste"
+   ],
+   "aha": "Sein Argument: Ein Terrorist bräuchte kein Hochsicherheitslabor, die Natur liefert gefährliche Viren ohnehin. Was gerade an Vogelgrippe H5 in Vögeln und Säugetieren unterwegs ist, nennt Florian einen Wahnsinn.",
+   "quote_clean": "Und die Wahrheit ist, dass Mutter Natur eigentlich der größte Bioterrorist ist.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 2519-2555 stimmt; UV-Lampen sind real eine wirksame Maßnahme, daher als Distraktor unfair. Ersetzt.",
+   "stand_note": "",
+   "statement": "Gute Belüftungssysteme senken die Ansteckungsrate bei Atemwegsinfektionen – unabhängig davon, um welches Virus es sich handelt.",
+   "question": "Welche unspezifische Maßnahme gegen Atemwegsviren sollte man laut Florian Krammer beim Bauen gleich mitplanen?",
+   "answer": "Gute Lüftung mit Luftumwälzung",
+   "distractors": [
+    "Besonders dichte Fenster",
+    "Desinfektionsmittelspender",
+    "Höhere Raumtemperaturen"
+   ],
+   "aha": "Das Schöne daran: Lüftung ist dem Virus egal, sie hilft gegen Grippe, Corona oder Nipah gleichermaßen. Wer neu baut oder umbaut, könnte das einfach gleich einplanen.",
+   "quote_clean": "Und was ganz wichtig ist, ist ein Lüftungssystem mit Luftumwälzung. Wenn man ein richtig gutes Belüftungssystem hat, geht die Rate von Infektionen runter. Wenn die Luft in einem Raum steht, geht sie rauf.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Persönliche Einschätzung ('ich glaube') zu einer umstrittenen These, ohne klaren Fakt; Frage ist Meinungsabfrage.",
+   "stand_note": "",
+   "statement": "Die These einer schädlichen Immunschuld weist Florian Krammer zurück: Weniger Infektionen sind immer gut.",
+   "question": "Was sagt Florian Krammer zur Sorge, dass Masken unser Immunsystem verkümmern lassen?",
+   "answer": "Weniger Infektionen sind immer gut",
+   "distractors": [
+    "Kinder brauchen viele Infekte",
+    "Masken schwächen das Immunsystem",
+    "Man sollte Infekte bewusst nachholen"
+   ],
+   "aha": "",
+   "quote_clean": "Ich glaube, weniger Infektionen ist eigentlich immer eine gute Sache.",
+   "quality": 2
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Moderationsfrage, kein Faktum; als Spielfrage wertlos.",
+   "stand_note": "",
+   "statement": "Andreas steigt in das Gespräch mit der Frage ein, wann Florian Krammer zum ersten Mal sein Uff-Moment zur Pandemie hatte.",
+   "question": "Mit welcher Frage steigt Andreas in das Live-Gespräch mit Florian Krammer ein?",
+   "answer": "Wann hattest du deinen Uff-Moment?",
+   "distractors": [
+    "Wie funktioniert die Impfung?",
+    "Woher kommt das Virus?",
+    "Wann ist die Pandemie vorbei?"
+   ],
+   "aha": "",
+   "quote_clean": "Wann war bei dir der Zeitpunkt, wo du dir zum ersten Mal gedacht hast: Uff?",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 3737 stimmt; Antwort war zu vage und Distraktor 'nur dieses Angebot' widerspricht den drei Angeboten. Neu gefasst.",
+   "stand_note": "",
+   "statement": "Florian Krammer entschied sich für New York, weil seine Frau weder nach Frankreich noch nach Wisconsin wollte.",
+   "question": "Was gab den Ausschlag, dass Florian Krammer das Angebot aus New York annahm?",
+   "answer": "Seine Frau wollte weder nach Frankreich noch nach Wisconsin",
+   "distractors": [
+    "New York zahlte von allen Labors am besten",
+    "Sein Doktorvater riet ihm ausdrücklich dazu",
+    "Die anderen Labors sagten ihm wieder ab"
+   ],
+   "aha": "Er hatte sich bei den acht besten Influenza-Labors der Welt beworben und drei Angebote bekommen. Am Ende war die Entscheidung ziemlich schnell gefallen.",
+   "quote_clean": "Meine Frau hat gesagt, nach Frankreich geht sie nicht und nach Wisconsin auch nicht. Damit war die Geschichte gegessen.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "transkription",
+    "fairness"
+   ],
+   "note": "Ortsname ist im Transkript verhört ('Fadelberg'), Vorarlberg ist nur geraten; außerdem wird ein Dritter vorgeführt.",
+   "stand_note": "",
+   "statement": "Auf eine böse Zuschrift antwortete Florian Krammer einmal einem Mann, der Patente auf UFO-Antriebe hielt.",
+   "question": "Welche Patente hatte ein Mann, mit dem Florian Krammer nach einer bösen Mail diskutierte?",
+   "answer": "Patente auf UFO-Antriebe",
+   "distractors": [
+    "Patente auf Impfstoffe",
+    "Patente auf Luftfilter",
+    "Patente auf Perpetuum mobile"
+   ],
+   "aha": "",
+   "quote_clean": "Und ein anderes Mal habe ich irgendeinen erwischt. Der hat Patente auf UFO-Antriebe. Mit dem hatte ich eigentlich eine interessante Diskussion.",
+   "quality": 1
+  }
+ ],
+ "id": "s20221201",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

@@ -1,0 +1,288 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Unbelegte Behauptung des Gasts; im Transkript kein 'im Schnitt'; Antwort 'über zehn' überschneidet sich mit Distraktor 'über dreißig'.",
+   "stand_note": "",
+   "statement": "Wer heute in Europa die Schule abschließt, hat bis zur Pension im Schnitt über zehn verschiedene Anstellungsverhältnisse.",
+   "question": "Wie viele verschiedene Jobs hat jemand, der heute in Europa die Schule abschließt, bis zur Pension ungefähr?",
+   "answer": "über zehn",
+   "distractors": [
+    "etwa drei",
+    "etwa fünf",
+    "über dreißig"
+   ],
+   "aha": "Der eine Arbeitgeber fürs ganze Leben, den die Großeltern noch kannten, ist eher die Ausnahme geworden. Wer heute ein paarmal wechselt, ist also kein Jobhopper, sondern ziemlich normal.",
+   "quote_clean": "Jemand, der heute in Europa die Schule fertig macht, hat zwischen Ende der Schule und dem Eintritt in die Pension über zehn verschiedene Anstellungsverhältnisse.",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "transkription",
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Transkript 'seit drei bis fünf Jahren' unklar, Zahl ungesichert und Bereichsantwort für Schieberegler ungeeignet.",
+   "stand_note": "",
+   "statement": "Ein Jobwechsel alle drei bis fünf Jahre ist heute normal.",
+   "question": "Alle wie viele Jahre wechselt man heute laut Ali im Schnitt den Job?",
+   "answer": "alle drei bis fünf Jahre",
+   "distractors": [
+    "jedes Jahr",
+    "alle zehn Jahre",
+    "alle fünfzehn Jahre"
+   ],
+   "aha": "Rechnet man über zehn Jobs auf ein Berufsleben von rund 40 Jahren, kommt man genau dort hin. Wenn dich der erste Job also nicht glücklich macht, ist das eh nur eine Etappe.",
+   "quote_clean": "Das ist ein Jobwechsel alle drei bis fünf Jahre. Das ist heute normal geworden.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Ungeprüfte Zahl ohne Quelle (100.000 Jobtitel), als Fakt nicht belastbar.",
+   "stand_note": "",
+   "statement": "Weltweit gibt es über 100.000 verschiedene Jobtitel, die Hälfte davon gab es vor zehn Jahren noch nicht.",
+   "question": "Wie viele verschiedene Jobtitel gibt es laut Ali weltweit?",
+   "answer": "über 100.000",
+   "distractors": [
+    "etwa 5.000",
+    "etwa 20.000",
+    "über 1.000.000"
+   ],
+   "aha": "Und die Hälfte davon gab es zehn Jahre davor noch gar nicht. Kein Wunder also, dass dir in der Schule niemand sagen konnte, was du einmal werden sollst.",
+   "quote_clean": "Denn wir haben jetzt auf der Welt aktuell über 100.000 verschiedene Jobtitel, von denen es die Hälfte vor zehn Jahren nicht gab.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Die 65-Prozent-Zahl ist eine bekannte, nicht belegbare Schätzung; zu unsicher für das Spiel.",
+   "stand_note": "",
+   "statement": "Laut einer oft zitierten Schätzung gibt es 65 Prozent der Jobs, die wir in zehn Jahren machen werden, heute noch nicht.",
+   "question": "Wie viel Prozent der Jobs, die wir in zehn Jahren machen, gibt es laut Ali heute noch nicht?",
+   "answer": "65 Prozent",
+   "distractors": [
+    "15 Prozent",
+    "35 Prozent",
+    "90 Prozent"
+   ],
+   "aha": "Die Zahl geistert seit Jahren durch Studien und Vorträge, ganz exakt nachprüfen lässt sie sich schwer. Die Richtung stimmt aber: Viele Berufe von morgen haben heute noch nicht einmal einen Namen.",
+   "quote_clean": "Kein Mensch kennt diese Jobs, und 65 Prozent der Jobs, die wir in zehn Jahren machen, gibt es heute noch nicht.",
+   "quality": 2
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Beleg passt, aber Aussage ist Alis Darstellung; Frage und Statement mit 'laut Ali' und vorsichtiger formuliert.",
+   "stand_note": "",
+   "statement": "Laut Ali werden die Telomere bei mehr Stress kürzer, bei tiefen Beziehungen länger.",
+   "question": "Was passiert laut Ali mit den Telomeren in deinen Zellen, wenn du mehr Stress hast?",
+   "answer": "Sie werden kürzer",
+   "distractors": [
+    "Sie werden länger",
+    "Sie verdoppeln sich",
+    "Sie bleiben unverändert"
+   ],
+   "aha": "Telomere sind die Schutzkappen an den Enden der Chromosomen und werden mit jeder Zellteilung ein Stück kürzer. Stress wird mit schnellerem Kürzerwerden in Verbindung gebracht, tiefe Beziehungen mit dem Gegenteil, sagt Ali. Freund:innen treffen ist also quasi Zellpflege.",
+   "quote_clean": "Wenn wir tiefe Beziehungen zu Menschen haben, werden die Telomere, die für die Verjüngung zuständig sind, länger. Haben wir mehr Stress, werden sie kürzer und die Lebenserwartung geht zurück.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg und Kontext passen, gut spielbar.",
+   "stand_note": "",
+   "statement": "Laut Büchern von Sterbebegleiter:innen wünschen sich Sterbende rückblickend mehr Zeit für Familie, Freunde und sich selbst, nicht mehr Arbeit.",
+   "question": "Was wünschen sich Sterbende laut Berichten von Sterbebegleiter:innen rückblickend am ehesten?",
+   "answer": "Mehr Zeit für Familie und Freunde",
+   "distractors": [
+    "Mehr Erfolg im Beruf",
+    "Mehr Geld gespart zu haben",
+    "Ein größeres Haus gehabt zu haben"
+   ],
+   "aha": "Niemand sagt am Ende: Hätte ich doch noch härter reingehaut. Für Ali ist das die Kernfrage, die man sich irgendwann stellen muss: Wessen Leben hast du eigentlich gelebt?",
+   "quote_clean": "Es gibt Bücher von Leuten, die Sterbebegleiter waren, und kein Mensch hat gesagt: Arbeite härter, hau noch mehr rein. Sondern: Mehr Zeit für Familie, für Freunde, für dich selbst.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt; Jordans bekanntes Zitat über seine Fehlwürfe deckt sich sinngemäß.",
+   "stand_note": "",
+   "statement": "Michael Jordan führte seinen Erfolg darauf zurück, dass er so oft danebengeworfen hat.",
+   "question": "Worauf führte Basketball-Legende Michael Jordan seinen Erfolg zurück?",
+   "answer": "Auf seine vielen Fehlwürfe",
+   "distractors": [
+    "Auf seine Körpergröße",
+    "Auf seinen Trainer",
+    "Auf seine Sprungkraft"
+   ],
+   "aha": "Jordan hat sinngemäß gesagt, er sei so oft gescheitert und genau deshalb erfolgreich. Für Ali ist das dasselbe Prinzip wie beim Gehenlernen: Man fällt so lange auf die Schnauze, bis es klappt.",
+   "quote_clean": "Michael Jordan hat gesagt, er war deshalb der beste Spieler der Welt, weil er im Training so viele Würfe neben den Ring geworfen hat.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Pseudo-psychologische Behauptung des Gasts ('Trick'), als Faktenfrage nicht haltbar.",
+   "stand_note": "",
+   "statement": "Wer bewusst Dankbarkeit empfindet, kann laut Ali nicht gleichzeitig verärgert sein und Angst haben.",
+   "question": "Welche zwei Gefühle lassen sich laut Ali nicht gleichzeitig mit Dankbarkeit empfinden?",
+   "answer": "Ärger und Angst",
+   "distractors": [
+    "Freude und Stolz",
+    "Neid und Scham",
+    "Langeweile und Müdigkeit"
+   ],
+   "aha": "Alis Übung: In der Früh und vor dem Schlafengehen drei, vier Dinge aufschreiben, für die du dankbar bist, und das ein paar Wochen durchziehen. Dann geht halt was schief, aber zumindest hast du das in deinem Leben.",
+   "quote_clean": "Das Lustige ist, und das ist ein psychologischer Trick: Bist du dankbar für das, was du hast, kannst du nicht gleichzeitig verärgert sein und Angst haben.",
+   "quality": 2
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "kontext"
+   ],
+   "note": "Beleg passt (t=567-571); Aha enthielt Behauptung, die Ali so nicht sagt, daher als Alis Sicht formuliert.",
+   "stand_note": "",
+   "statement": "Das schulische Prinzip, möglichst keine Fehler zu machen, stammt laut Ali aus der Zeit der Industrialisierung.",
+   "question": "Aus welcher Zeit stammt laut Ali das Schulprinzip „Mach null Fehler“?",
+   "answer": "Aus der Industrialisierung",
+   "distractors": [
+    "Aus dem Mittelalter",
+    "Aus der Antike",
+    "Aus der Nachkriegszeit"
+   ],
+   "aha": "Gehen lernen wir, indem wir dauernd hinfallen, und kriegen dafür sogar Applaus. In der Schule gilt dann: möglichst keine Fehler. Ali sieht darin ein Erbe der Industrialisierung, als vor allem gefragt war, nach Vorgabe zu funktionieren.",
+   "quote_clean": "Du kommst in die Schule und lernst das Konzept: Mach null Fehler und du bist gut genug für diese Welt. Das ist ein Lernkonzept aus der Zeit der Industrialisierung.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=156 passt, Aha deckt sich mit 134-175.",
+   "stand_note": "",
+   "statement": "Ali Mahlodji setzt Glück mit Zufriedenheit gleich.",
+   "question": "Womit setzt Ali Mahlodji Glück gleich?",
+   "answer": "Mit Zufriedenheit",
+   "distractors": [
+    "Mit Erfolg",
+    "Mit Verliebtsein",
+    "Mit Freiheit"
+   ],
+   "aha": "Wer Glück als Dauerzustand jagt, kommt laut Ali nie an. Zufriedenheit heißt für ihn: Wissen, dass gute und schlechte Phasen eh beide zu einem guten Leben gehören.",
+   "quote_clean": "Für mich ist Glück eher gleichzusetzen mit Zufriedenheit. Ich glaube, dass wir im Leben kein großes Glück brauchen, sondern endlich Zufriedenheit.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Antwort 'Im Außen' ist vage; Distraktoren (Natur, Familie) sind ebenfalls 'außen', damit Fangfrage.",
+   "stand_note": "",
+   "statement": "Laut Ali Mahlodji findet man Glück nicht, solange man es im Außen sucht.",
+   "question": "Wo wirst du laut Ali das Glück nicht finden?",
+   "answer": "Im Außen",
+   "distractors": [
+    "In der Natur",
+    "In der Familie",
+    "In der Stille"
+   ],
+   "aha": "Das Wetter, die Regierung, die Laune der anderen kannst du nicht beeinflussen, aber welchen Wert du den Dingen gibst, schon. Mit sich selbst zufrieden zu sein, nennt Ali die schwierigste Kunst des Lebens.",
+   "quote_clean": "Wenn die Leute zu mir sagen: Wie kann ich glücklich werden? Denen sage ich immer: Solange du das Glück im Außen suchst, wirst du es nicht finden.",
+   "quality": 2
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg t=516 passt, Ali nennt später 'bis 30 oder 35'; deshalb 'ungefähr' in Frage und Antwort.",
+   "stand_note": "",
+   "statement": "Ali Mahlodji meint, bis etwa zum 30. Lebensjahr sei das Leben zum Umschauen und Ausprobieren da.",
+   "question": "Bis ungefähr zu welchem Alter ist das Leben laut Ali vor allem zum Umschauen da?",
+   "answer": "Bis etwa 30",
+   "distractors": [
+    "Bis etwa 18",
+    "Bis etwa 25",
+    "Bis etwa 45"
+   ],
+   "aha": "Die ersten 18 Jahre gehören laut Ali eh nicht dir, da fragst du ja noch, ob du aufs Klo darfst. Danach bleibt Zeit zum Probieren, und erst mit 30 bis 35 weiß man so richtig, was man will.",
+   "quote_clean": "Was man einem Jugendlichen wirklich als Strategie mitgeben kann: Bis zum 30. Lebensjahr ist das Leben dafür da, dass du dich einmal umschaust.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Gesprächsmeta-Frage ohne Erkenntnisgewinn; Einstiegsfrage nicht eindeutig (zuvor kam schon 'Was soll ich mit meinem Leben machen?').",
+   "stand_note": "",
+   "statement": "Andreas steigt ins Gespräch mit Ali Mahlodji gleich mit der Frage ein, wie man glücklich wird.",
+   "question": "Mit welcher Frage steigt Andreas ins Gespräch mit Ali Mahlodji ein?",
+   "answer": "Wie wird man glücklich?",
+   "distractors": [
+    "Was ist der Sinn des Lebens?",
+    "Wo siehst du dich in zehn Jahren?",
+    "Was ist dein Traumjob?"
+   ],
+   "aha": "Keine Aufwärmrunde, gleich die ganz große Frage. Ali nennt sie die aktuell wichtigste Frage der Welt und landet über die große Liebe beim Buddhismus.",
+   "quote_clean": "Deine Homepage Whatchado werde ich in der Podcast-Beschreibung verlinken. Ali, wir fangen gleich an: Wie wird man glücklich?",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=722-733 passt; Aha deckt sich mit 737-752.",
+   "stand_note": "",
+   "statement": "Ein Bodenputzer der ÖBB sah sich als wichtigsten Verkäufer des Unternehmens.",
+   "question": "Als was bezeichnete sich ein Bodenputzer in ÖBB-Bahnhöfen gegenüber Ali?",
+   "answer": "Als wichtigsten Verkäufer der ÖBB",
+   "distractors": [
+    "Als heimlichen Chef der ÖBB",
+    "Als unsichtbaren Bahnhofswächter",
+    "Als wichtigsten Zugbegleiter"
+   ],
+   "aha": "Ali dachte zuerst, der verarscht ihn. Aber ist der Bahnhof in der Früh dreckig, schimpfen die Leute über die ÖBB, ist er sauber, mögen sie das Unternehmen. Jeder Job wirkt, man muss nur sehen, wo.",
+   "quote_clean": "Ich habe einen Typen kennengelernt, der bei den ÖBB in den Bahnhöfen Boden putzt. Und er sagt vor ein, zwei Jahren so nebenbei zu mir, er ist der wichtigste Verkäufer des Unternehmens, als einer, der Boden putzt.",
+   "quality": 4
+  }
+ ],
+ "id": "5",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

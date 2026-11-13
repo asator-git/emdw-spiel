@@ -1,0 +1,738 @@
+{
+ "theme": "Wissenschaft & Technik",
+ "summary": "Eure Fragen zu ChatGPT, Claude und Co: Malcolm Werchota zeigt, wie man besser promptet, Halluzinationen austrickst und was KI für Schule und Arbeit heißt.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 4303,
+   "speaker": "Malcolm Werchota",
+   "quote": "die Stadt von Oslo hat für 110 000 Kinder eine chatgbt Lizenz gekauft i mean crazy und wir reden nicht von unistudent",
+   "quote_clean": "Die Stadt Oslo hat für 110.000 Kinder eine ChatGPT-Lizenz gekauft. Crazy. Und wir reden nicht von Unistudenten.",
+   "statement": "Die Stadt Oslo hat für rund 110.000 Kinder und Jugendliche Zugänge zu ChatGPT gekauft.",
+   "question": "Für wie viele Kinder und Jugendliche hat die Stadt Oslo ChatGPT-Zugänge gekauft?",
+   "answer": "110.000",
+   "distractors": [
+    "11.000",
+    "40.000",
+    "300.000"
+   ],
+   "number_value": 110000,
+   "number_unit": "Kinder",
+   "slider_min": 1000,
+   "slider_max": 500000,
+   "log_scale": true,
+   "aha": "Oslo setzt nicht auf Verbieten, sondern auf Üben: Schon Sechsjährige lernen dort mit dem Sprachmodell. Malcolm glaubt, dass man den Effekt in den Schulleistungen viel schneller sehen wird, als man denkt.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Bildung",
+    "Oslo",
+    "ChatGPT"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 5132,
+   "speaker": "Andreas Sator",
+   "quote": "weil z.B seit 1950 hat sich die Arbeitsproduktivität das aber was ein Mensch in Deutschland pro Stunde leistet um 800% erhöht gottesw und es hat noch nie so viele Jobs in Deutschland gegeben",
+   "quote_clean": "Seit 1950 hat sich die Arbeitsproduktivität, also das, was ein Mensch in Deutschland pro Stunde leistet, um 800 Prozent erhöht. Und es hat noch nie so viele Jobs in Deutschland gegeben.",
+   "statement": "Seit 1950 ist die Arbeitsproduktivität pro Stunde in Deutschland um rund 800 Prozent gestiegen, und trotzdem gibt es so viele Jobs wie nie.",
+   "question": "Um wie viel Prozent ist die Arbeitsproduktivität pro Stunde in Deutschland seit 1950 gestiegen?",
+   "answer": "Um rund 800 Prozent",
+   "distractors": [
+    "Um rund 80 Prozent",
+    "Um rund 250 Prozent",
+    "Um rund 3000 Prozent"
+   ],
+   "number_value": 800,
+   "number_unit": "Prozent",
+   "slider_min": 20,
+   "slider_max": 4000,
+   "log_scale": true,
+   "aha": "Wenn eine Stunde Arbeit neunmal so viel schafft, müssten eigentlich die Jobs ausgehen. Tun sie aber nicht: Mehr Produktivität heißt mehr Wohlstand, mehr Nachfrage und neue Berufe. Genau deshalb ist das Argument „KI frisst alle Jobs“ nicht so einfach.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Produktivität",
+    "Arbeit",
+    "Deutschland"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 5143,
+   "speaker": "Andreas Sator",
+   "quote": "wie heute also die Bevölkerung ist glaube ich um 15% gewachsen und die Zahl der Jobs um über 40%",
+   "quote_clean": "Die Bevölkerung ist, glaube ich, um 15 Prozent gewachsen und die Zahl der Jobs um über 40 Prozent.",
+   "statement": "Seit 1950 ist in Deutschland die Bevölkerung um etwa 15 Prozent gewachsen, die Zahl der Jobs aber um über 40 Prozent.",
+   "question": "Um wie viel Prozent ist die Zahl der Jobs in Deutschland seit 1950 ungefähr gewachsen?",
+   "answer": "Um über 40 Prozent",
+   "distractors": [
+    "Um rund 5 Prozent",
+    "Um rund 15 Prozent",
+    "Um rund 150 Prozent"
+   ],
+   "number_value": 40,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 150,
+   "log_scale": false,
+   "aha": "Die Jobs sind fast dreimal so stark gewachsen wie die Bevölkerung, obwohl Maschinen und Computer immer mehr Arbeit übernommen haben. Die Leute sind halt von den Feldern in die Fabriken und später ins Büro gewandert.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Arbeitsmarkt",
+    "Deutschland"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 5926,
+   "speaker": "Andreas Sator",
+   "quote": "also chbt ich habe mir angeschaut ist jetzt schon die am 13 meist benutzte Website der Welt oh wow",
+   "quote_clean": "ChatGPT, habe ich mir angeschaut, ist jetzt schon die am 13.-meisten benutzte Website der Welt.",
+   "statement": "Im Sommer 2024 war ChatGPT die 13.-meistbesuchte Website der Welt.",
+   "question": "Auf welchem Platz der meistbesuchten Websites der Welt lag ChatGPT im Sommer 2024?",
+   "answer": "Platz 13",
+   "distractors": [
+    "Platz 3",
+    "Platz 48",
+    "Platz 120"
+   ],
+   "number_value": 13,
+   "number_unit": "Platz",
+   "slider_min": 1,
+   "slider_max": 200,
+   "log_scale": true,
+   "aha": "Knapp zwei Jahre nach dem Start war ChatGPT schon fast so normal wie Suchmaschinen und Videoplattformen. Andreas merkt trocken an: neben Suchmaschinen und Pornoseiten eine ziemliche Leistung.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "ChatGPT",
+    "Internet"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3129,
+   "speaker": "Malcolm Werchota",
+   "quote": "bei Chat GPT kannst du ja 20 30 Dokumente reinwerfen und und bei sonet so sobald du ich glaube 200.000 Tokens context reingeworfen hast ist das System schon max out",
+   "quote_clean": "Bei ChatGPT kannst du ja 20, 30 Dokumente reinwerfen, und bei Sonnet ist das System, sobald du 200.000 Tokens Kontext reingeworfen hast, schon ausgereizt.",
+   "statement": "Das Kontextfenster von Claude 3.5 Sonnet war auf etwa 200.000 Tokens begrenzt.",
+   "question": "Wie viele Tokens passten 2024 ungefähr in das Kontextfenster von Claude 3.5 Sonnet?",
+   "answer": "Rund 200.000 Tokens",
+   "distractors": [
+    "Rund 8.000 Tokens",
+    "Rund 32.000 Tokens",
+    "Rund 2 Millionen Tokens"
+   ],
+   "number_value": 200000,
+   "number_unit": "Tokens",
+   "slider_min": 1000,
+   "slider_max": 5000000,
+   "log_scale": true,
+   "aha": "Das Kontextfenster ist das Kurzzeitgedächtnis des Modells: alles, was es auf einmal im Blick haben kann. 200.000 Tokens sind grob ein dickes Buch, danach wird es vergesslich und verwirrt.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Kontextfenster",
+    "Claude"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 4782,
+   "speaker": "Malcolm Werchota",
+   "quote": "Singapur hat heute schon gesagt hey wenn du über 40 bist hier ist dein Bonus hier sind so viele tausende Euros die du benützt kannst um dich in der KI weiterzubilden",
+   "quote_clean": "Singapur hat heute schon gesagt: Hey, wenn du über 40 bist, hier ist dein Bonus, hier sind so viele tausend Euro, die du benützen kannst, um dich in der KI weiterzubilden.",
+   "statement": "Singapur gibt Menschen ab 40 ein Weiterbildungsguthaben von mehreren tausend, mit dem sie sich etwa in KI weiterbilden können.",
+   "question": "Ab welchem Alter bekommen Menschen in Singapur ein extra Guthaben für Weiterbildung, etwa in KI?",
+   "answer": "Ab 40 Jahren",
+   "distractors": [
+    "Ab 25 Jahren",
+    "Ab 55 Jahren",
+    "Ab 65 Jahren"
+   ],
+   "number_value": 40,
+   "number_unit": "Jahre",
+   "slider_min": 25,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Singapur fängt bewusst bei den Älteren an, weil die im Job am meisten umlernen müssen. Malcolm erwartet, dass das Alter dafür bald nach unten wandert.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Weiterbildung",
+    "Singapur"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 799,
+   "speaker": "Malcolm Werchota",
+   "quote": "das kostet wieder mehr Geld Token sind diese kleinen Einheiten in die das Wort unterteilt wir richtig also ein Token ist mehr oder weniger ein halbes",
+   "quote_clean": "Das kostet wieder mehr Geld. – Token sind diese kleinen Einheiten, in die das Wort unterteilt wird? – Richtig, ein Token ist mehr oder weniger ein halbes Wort.",
+   "statement": "Sprachmodelle zerlegen Text in Tokens; ein Token entspricht ungefähr einem halben Wort.",
+   "question": "Was ist ein „Token“, mit dem Sprachmodelle wie ChatGPT rechnen, ungefähr?",
+   "answer": "Etwa ein halbes Wort",
+   "distractors": [
+    "Ein ganzer Satz",
+    "Ein einzelner Buchstabe",
+    "Eine ganze Seite"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Jedes Token kostet Rechenleistung und damit Geld. Darum ist die KI laut Malcolm „faul“ und gibt dir lieber eine kurze Antwort, wenn du nicht mehr einforderst.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Tokens",
+    "Sprachmodelle"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 719,
+   "speaker": "Malcolm Werchota",
+   "quote": "large language Model ist einfach nur ein Word prediction Model hey alle Wege führen nach Rom und das ist eben diese Natur von einem large language Model die muss man verstehen",
+   "quote_clean": "Ein Large Language Model ist einfach nur ein Word-Prediction-Model: „Alle Wege führen nach …“ – Rom. Und diese Natur eines Large Language Models muss man verstehen.",
+   "statement": "Ein großes Sprachmodell sagt im Kern nur das wahrscheinlichste nächste Wort voraus und weiß daher nicht von selbst, was wahr ist.",
+   "question": "Was macht ein großes Sprachmodell wie ChatGPT im Kern?",
+   "answer": "Es sagt das nächste Wort voraus",
+   "distractors": [
+    "Es schlägt Fakten in einer Datenbank nach",
+    "Es führt fix programmierte Regeln aus",
+    "Es kopiert passende Webseiten wörtlich"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Klassische Programme machen aus A immer B, da gibt es kaum falsche Antworten. Ein Sprachmodell ergänzt nur „Alle Wege führen nach …“ mit dem wahrscheinlichsten Wort. Darum weiß es manchmal nicht einmal, welcher Wochentag der 15. Juli ist.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Sprachmodelle",
+    "Halluzinationen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2838,
+   "speaker": "Malcolm Werchota",
+   "quote": "und eigentlich sit large langage Models nicht gut in Mathe und im rechnen aber solche prompt Technics eben wie chain of thought wurden eingebaut in solchen Modellen damit sie auch mathematisch oder statistisch oder viele Daten eben ausrechnen können",
+   "quote_clean": "Eigentlich sind Large Language Models nicht gut in Mathe und im Rechnen, aber solche Prompt-Techniken wie Chain of Thought wurden in solche Modelle eingebaut, damit sie auch mathematisch oder statistisch viele Daten ausrechnen können.",
+   "statement": "Sprachmodelle sind von Natur aus schlecht im Rechnen; erst Techniken wie „Chain of Thought“, also Schritt-für-Schritt-Denken, machen sie bei Mathe brauchbar.",
+   "question": "Welcher Trick macht Sprachmodelle bei Rechenaufgaben deutlich besser?",
+   "answer": "Schritt für Schritt denken lassen",
+   "distractors": [
+    "Die Frage auf Englisch stellen",
+    "Die Antwort möglichst kurz verlangen",
+    "Mehrmals dieselbe Frage stellen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im berühmten Paper ging es um 23 Äpfel, von denen 20 verkocht und 6 dazugekauft werden. Das schafft eine Fünfjährige, viele Modelle scheiterten trotzdem. Mit „Sag mir Schritt für Schritt, wie du rechnest“ kam plötzlich die richtige Antwort.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Chain of Thought",
+    "Mathe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2858,
+   "speaker": "Malcolm Werchota",
+   "quote": "vorher haben wir z.B Wolfram Alpha dazu gebracht damit dieses rechnen auch gut funktioniert aber large language Models sind generell extrem schlecht in matthte",
+   "quote_clean": "Vorher haben wir zum Beispiel Wolfram Alpha dazugebracht, damit das Rechnen auch gut funktioniert, aber Large Language Models sind generell extrem schlecht in Mathe.",
+   "statement": "Weil Sprachmodelle schlecht rechnen, wurden ihnen eigene Rechenmodule wie Wolfram Alpha zur Seite gestellt.",
+   "question": "Welches Werkzeug wurde ChatGPT früh angehängt, damit es besser rechnen kann?",
+   "answer": "Wolfram Alpha",
+   "distractors": [
+    "Google Maps",
+    "Wikipedia",
+    "Microsoft Paint"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Wortvorhersager ist halt kein Taschenrechner. Also gibt man ihm einen echten dazu: Das Sprachmodell versteht die Frage, das Rechenmodul liefert die Zahl.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mathe",
+    "Werkzeuge"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2176,
+   "speaker": "Malcolm Werchota",
+   "quote": "large language Models understand and can be enhanced by emotional Stimuli das heißt wenn du mit Emotionen mit dem System redest bekommst du bessere Antworten",
+   "quote_clean": "„Large Language Models Understand and Can Be Enhanced by Emotional Stimuli“ – das heißt, wenn du mit Emotionen mit dem System redest, bekommst du bessere Antworten.",
+   "statement": "Laut einer Studie liefern Sprachmodelle bessere Antworten, wenn man sie emotional anspricht, etwa mit „Das ist wirklich wichtig für meinen Job“.",
+   "question": "Was verbessert laut einer Studie die Antworten von Sprachmodellen überraschend?",
+   "answer": "Emotionale Sätze im Prompt",
+   "distractors": [
+    "Möglichst kurze Prompts",
+    "Prompts in Großbuchstaben",
+    "Prompts ohne Satzzeichen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "An dem Paper hat auch eine Psychologie-Abteilung mitgearbeitet. Die Modelle haben von uns Menschen gelernt, also reagieren sie auch ein bisschen wie wir: Wenn's wichtig ist, strengt man sich mehr an.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Emotional Prompting",
+    "Studie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2225,
+   "speaker": "Malcolm Werchota",
+   "quote": "du stellst deine Frage und dann sagst du noch ein glückskeksspruch und dann kriegst du eine bessere Antwort ja und wie wie kriegst du eine bessere Antwort du kriegst auf viele viele Ebenen eine bessere Antwort du kriegst einen längeren Text mehr Performance mehr Tokens du kriegst weniger Halluzinationen",
+   "quote_clean": "Du stellst deine Frage und dann sagst du noch einen Glückskeksspruch, und dann kriegst du eine bessere Antwort. Auf vielen Ebenen: einen längeren Text, mehr Performance, mehr Tokens, weniger Halluzinationen.",
+   "statement": "Ein aufmunternder Satz wie aus dem Glückskeks am Ende eines Prompts führt zu längeren Antworten mit weniger Halluzinationen.",
+   "question": "Was bewirkt ein Glückskeks-Spruch wie „Bleib fokussiert, du machst das toll“ am Ende eines Prompts?",
+   "answer": "Längere Antworten, weniger Halluzinationen",
+   "distractors": [
+    "Gar nichts, die KI ignoriert ihn",
+    "Kürzere, aber witzigere Antworten",
+    "Die KI verweigert die Antwort"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Klingt nach Esoterik, ist aber gemessen. Wir reden ja auch mit Menschen so: „Ich pepp dich auf, du machst einen guten Job, los geht's.“ Und die KI hat genau so von uns sprechen gelernt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Emotional Prompting",
+    "Prompting"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2085,
+   "speaker": "Malcolm Werchota",
+   "quote": "Note zwischen 0 und 1 wie sicher du bist dass diese Antwort richtig ist und das habe ich dann bei meinem eigenen Datensatz gemacht",
+   "quote_clean": "Gib dir selber eine Note zwischen 0 und 1, wie sicher du bist, dass diese Antwort richtig ist. Und das habe ich dann bei meinem eigenen Datensatz gemacht.",
+   "statement": "Man kann ein Sprachmodell bitten, sich selbst eine Note zwischen 0 und 1 zu geben, wie sicher es sich bei einer Antwort ist, und entlarvt so erfundene Aussagen.",
+   "question": "Mit welcher Nachfrage kann man erfundene Antworten einer KI oft entlarven?",
+   "answer": "„Wie sicher bist du dir?“",
+   "distractors": [
+    "„Antworte bitte kürzer.“",
+    "„Schreib es auf Englisch.“",
+    "„Wiederhol deine Antwort.“"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Malcolm hat das mit dem Transkript seines eigenen Vortrags probiert. Die KI gab ihren vorherigen Aussagen 0 Prozent, sinngemäß: Ich habe dich angelogen, aber ich bin mir zu 100 Prozent sicher, dass ich dich angelogen habe.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Halluzinationen",
+    "Prompting"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 834,
+   "speaker": "Malcolm Werchota",
+   "quote": "verification heißt geh bitte nicht online und such mir die Antwort ob es richtig ist geh online und such mir vier oder fünf Fakten um sicherzustellen dass die Antwort richtig ist",
+   "quote_clean": "Chain of Verification heißt: Geh bitte nicht online und such mir die Antwort, ob es richtig ist, sondern geh online und such mir vier oder fünf Fakten, um sicherzustellen, dass die Antwort richtig ist.",
+   "statement": "Bei „Chain of Verification“ lässt man die KI ihre eigene Antwort prüfen, indem sie mehrere Fakten sucht, die die Antwort bestätigen müssen.",
+   "question": "Wie funktioniert die Technik „Chain of Verification“ gegen KI-Halluzinationen?",
+   "answer": "Die KI sucht Fakten zur Überprüfung",
+   "distractors": [
+    "Die KI antwortet nur mit Ja oder Nein",
+    "Zwei Menschen lesen die Antwort gegen",
+    "Die KI darf nicht ins Internet"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Malcolm vergleicht die KI mit einem extrem gescheiten Azubi, der einen super Report bringt. Erst wenn du nach den Quellen fragst, merkt er: Ah, die muss ich dir noch holen. Hilft es nicht, verlang einfach zehn Quellen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Halluzinationen",
+    "Quellen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 153,
+   "speaker": "Malcolm Werchota",
+   "quote": "und die KI weiß okay von der ganzen Welt von chatpt muss ich mir jetzt nur einen kleinen 0,1% anschauen und mir daraus die Information holen und das nennt sich primen primen heißt der KI eine Rolle zuweisen",
+   "quote_clean": "Und die KI weiß: Okay, von der ganzen Welt von ChatGPT muss ich mir jetzt nur einen kleinen Teil, 0,1 Prozent, anschauen und mir daraus die Information holen. Das nennt sich Primen. Primen heißt, der KI eine Rolle zuweisen.",
+   "statement": "Beim „Primen“ weist man der KI zuerst eine Rolle und Kontext zu, damit sie aus ihrem riesigen Wissen nur den passenden Ausschnitt nutzt.",
+   "question": "Was bedeutet „Primen“ beim Prompten einer KI?",
+   "answer": "Der KI eine Rolle zuweisen",
+   "distractors": [
+    "Die KI neu starten",
+    "Die Antwort kürzen lassen",
+    "Die KI bezahlen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "„Fass mir das zusammen“ reicht nicht. Sag der KI zuerst, wer du bist und was dir wichtig ist, etwa „Ich bin Psychologin, das hier interessiert mich“. Dann sucht sie im richtigen Eck und nicht nach deinen Witzen im Workshop.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Prompting",
+    "Kontext"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 5077,
+   "speaker": "Malcolm Werchota",
+   "quote": "genauso wie seitdem es bankautomaten gibt ist es ja nicht so als ob es weniger Leute in der Bank gibt nee weil jetzt gehst du zur Bank und holst immer Geld ab",
+   "quote_clean": "Genauso wie es, seitdem es Bankomaten gibt, ja nicht so ist, als ob es weniger Leute in der Bank gibt. Weil jetzt gehst du nicht zur Bank und holst immer Geld ab.",
+   "statement": "Seit es Bankomaten gibt, arbeiten nicht weniger Menschen in Banken; sie erledigen nun anspruchsvollere Aufgaben wie Kreditberatung.",
+   "question": "Was ist mit den Bankangestellten passiert, seit es Bankomaten gibt?",
+   "answer": "Sie machen anspruchsvollere Aufgaben",
+   "distractors": [
+    "Fast alle wurden gekündigt",
+    "Sie warten jetzt die Automaten",
+    "Sie arbeiten nur noch Teilzeit"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am Schalter wird heute kaum noch Bargeld ausgezahlt, dafür über Kredite und Hausfinanzierung geredet. Malcolm nennt das das Produktivitätsparadoxon: Die Technik nimmt dir die mühsamen Sachen weg, und es entstehen neue.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Arbeit",
+    "Automatisierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2487,
+   "speaker": "Malcolm Werchota",
+   "quote": "Version wo sie ein bisschen mehr zahlen aber dann werden die Daten nicht benutzt um das Modell anzutrainieren",
+   "quote_clean": "Firmen holen sich eine Team-Version, wo sie ein bisschen mehr zahlen, aber dann werden die Daten nicht benutzt, um das Modell zu trainieren.",
+   "statement": "Bei der Team-Version von ChatGPT werden die eingegebenen Daten nicht zum Training des Modells verwendet, bei der Gratis- und Plus-Version standardmäßig schon.",
+   "question": "Mit welcher ChatGPT-Variante werden deine Daten standardmäßig nicht zum Training verwendet?",
+   "answer": "Mit der Team-Version",
+   "distractors": [
+    "Mit der Gratis-Version",
+    "Mit der Plus-Version",
+    "Mit der Handy-App"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer sensible Firmendaten hochlädt, sollte das wissen. Malcolm sagt, drei Viertel der Firmen wissen auch nicht, dass man mit einer Privacy-Anfrage bei OpenAI das Training mit den eigenen Daten abdrehen kann.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Datenschutz",
+    "ChatGPT"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2633,
+   "speaker": "Malcolm Werchota",
+   "quote": "auf diesen kann ich ein Lama 8b Modell fahren lassen by the way Lama 8b kannst du auch auf dein Handy fahren lassen okay und das nennen sich so onprem solutions also lokale solutions",
+   "quote_clean": "Auf diesem kann ich ein Llama-8B-Modell laufen lassen. Llama 8B kannst du übrigens auch auf deinem Handy laufen lassen. Und das nennt sich On-Prem-Lösungen, also lokale Lösungen.",
+   "statement": "Kleinere Sprachmodelle wie Llama 8B laufen lokal auf einem Laptop oder sogar auf einem Handy, ganz ohne Cloud.",
+   "question": "Wo kann ein kleines Sprachmodell wie Llama 8B laufen?",
+   "answer": "Sogar auf einem Handy",
+   "distractors": [
+    "Nur im Rechenzentrum",
+    "Nur auf Supercomputern",
+    "Nur in der Cloud von Meta"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Firmen mit heiklen Daten, etwa im Engineering, lassen solche Modelle lokal laufen. Dann verlässt keine Anfrage das Haus, und niemand in der Cloud liest mit.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Datenschutz",
+    "Lokale KI"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3499,
+   "speaker": "Malcolm Werchota",
+   "quote": "warum weil hinter Chat GPT die Engine ist ja Bing hättest du je vorher Bing benutzt ne du bist nur auf Google unterwegs gewesen",
+   "quote_clean": "Warum? Weil hinter ChatGPT die Suchmaschine Bing steckt. Hättest du vorher je Bing benutzt? Nein, du bist nur auf Google unterwegs gewesen.",
+   "statement": "Wenn ChatGPT im Internet sucht, nutzt es die Suchmaschine Bing von Microsoft.",
+   "question": "Welche Suchmaschine steckte 2024 hinter der Internetsuche von ChatGPT?",
+   "answer": "Bing",
+   "distractors": [
+    "Google",
+    "DuckDuckGo",
+    "Yahoo"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Microsoft ist großer Geldgeber von OpenAI, da liegt Bing nahe. Für Recherche empfiehlt Malcolm darum eher spezialisierte Werkzeuge wie Perplexity oder You.com, die gleich alle Quellen mitliefern.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Recherche",
+    "Suchmaschinen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4928,
+   "speaker": "Andreas Sator",
+   "quote": "transversale Kompetenz noch nie gehört aber dazu gehört Anpassungsfähigkeit Kreativität kritisches Denken Problemlösen oder schreibt da ganz einfach lernen zu lernen",
+   "quote_clean": "Transversale Kompetenzen, noch nie gehört, aber dazu gehören Anpassungsfähigkeit, Kreativität, kritisches Denken, Problemlösen oder, schreibt er, ganz einfach: lernen zu lernen.",
+   "statement": "Fähigkeiten wie Anpassungsfähigkeit, Kreativität, kritisches Denken und „Lernen lernen“ nennt die Bildungsforschung transversale Kompetenzen.",
+   "question": "Wie nennt die Bildungsforschung Fähigkeiten wie Kreativität, kritisches Denken und „Lernen lernen“?",
+   "answer": "Transversale Kompetenzen",
+   "distractors": [
+    "Kognitive Basiskompetenzen",
+    "Digitale Kernkompetenzen",
+    "Vertikale Kompetenzen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Bildungsökonom Ludger Wößmann meint: Wer heute in die Schule geht, braucht auch in 40 Jahren noch einen Job, in einer Welt, die keiner kennt. Programmieren allein macht nicht zukunftsfit, sich immer wieder neu einzulernen schon.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Bildung",
+    "Kompetenzen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 5994,
+   "speaker": "Malcolm Werchota",
+   "quote": "ne so fange ich wirklich immer an damit alle checken Leute e wenn ihr nicht zehn Mal am Tag chpt benut dann wohnt ihr nicht hinter Mond sondern Galaxien entfernt",
+   "quote_clean": "So fange ich wirklich immer an, damit alle checken: Leute, wenn ihr nicht zehnmal am Tag ChatGPT benutzt, dann wohnt ihr nicht hinterm Mond, sondern Galaxien entfernt.",
+   "statement": "Malcolm Werchota beginnt Firmenworkshops mit dem Satz, wer ChatGPT nicht zehnmal am Tag nutze, wohne nicht hinterm Mond, sondern Galaxien entfernt.",
+   "question": "Wer sagt in „Erklär mir die Welt“: „Wenn ihr nicht zehnmal am Tag ChatGPT benutzt, dann wohnt ihr nicht hinterm Mond, sondern Galaxien entfernt“?",
+   "answer": "Malcolm Werchota",
+   "distractors": [
+    "Andreas Sator",
+    "Ethan Mollick",
+    "Ludger Wößmann"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "So startet Malcolm, Ex-Manager bei Novartis, seine Workshops in Firmen. Danach zeigt er Anwendungsfälle, und dann reden die Leute laut ihm erst einmal eine Viertelstunde gar nichts.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "KI im Job",
+    "Zitat"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 4437,
+   "speaker": "Malcolm Werchota",
+   "quote": "Bildungsunternehmen fährt egal wie alt die Kinder sind und denen nicht beibringt wie man mit large language Models die Lernphasen acceleriert ich würde das Wort sogar kriminell benutzen",
+   "quote_clean": "Wer heute ein Bildungsunternehmen führt, egal wie alt die Kinder sind, und ihnen nicht beibringt, wie man mit Large Language Models das Lernen beschleunigt – ich würde sogar das Wort kriminell benutzen.",
+   "statement": "Malcolm Werchota hält es für „kriminell“, Kindern nicht beizubringen, wie sie mit Sprachmodellen schneller lernen.",
+   "question": "Welches Wort verwendet Malcolm Werchota für Bildungseinrichtungen, die Kindern den Umgang mit KI nicht beibringen?",
+   "answer": "Kriminell",
+   "distractors": [
+    "Altmodisch",
+    "Fahrlässig",
+    "Verantwortungslos"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Sein Argument: Mit KI hat jedes Kind den besten Lehrer der Welt an der Seite, der alles personalisiert. Ein Lehrer kann so für 30 Kinder 30 verschiedene Hausaufgaben erstellen, zum Beispiel für ein Mädchen, das gerade erst Deutsch lernt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Bildung",
+    "Zitat"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 6110,
+   "speaker": "Malcolm Werchota",
+   "quote": "ich glaube wirklich dass nicht dreiviertel sondern 90% alle Firmen auf der ganzen Welt noch nicht gecheckt haben Leute wir werden unseren Wettbewerbsvorteil total verlieren",
+   "quote_clean": "Ich glaube wirklich, dass nicht drei Viertel, sondern 90 Prozent aller Firmen auf der ganzen Welt noch nicht gecheckt haben: Leute, wir werden unseren Wettbewerbsvorteil total verlieren.",
+   "statement": "Malcolm Werchota schätzt, dass 90 Prozent aller Firmen weltweit noch nicht verstanden haben, dass sie ohne generative KI ihren Wettbewerbsvorteil verlieren.",
+   "question": "Wie viel Prozent der Firmen haben laut Malcolm Werchota noch nicht gecheckt, dass sie ohne KI ihren Wettbewerbsvorteil verlieren?",
+   "answer": "90 Prozent",
+   "distractors": [
+    "25 Prozent",
+    "50 Prozent",
+    "10 Prozent"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas hatte von drei Vierteln gesprochen, Malcolm legt noch eins drauf. Für ihn ist das kein Weltuntergangsgerede, sondern schlicht die Realität.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "KI im Job",
+    "Zitat"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 6284,
+   "speaker": "Andreas Sator",
+   "quote": "und am Ende machen wir jetzt neu immer so ein shoutout an erstens ein traditionelles Medium wo du dich gerne informierst ja sehr schön äh um das zu vor den Vorhang zu holen",
+   "quote_clean": "Und am Ende machen wir jetzt neu immer einen Shoutout: erstens an ein traditionelles Medium, wo du dich gerne informierst, um das vor den Vorhang zu holen.",
+   "statement": "Am Ende jeder Folge bittet Andreas seine Gäste um einen Shoutout an ein traditionelles Medium und an einen Creator oder eine Creatorin.",
+   "question": "Worum bittet Andreas seine Gäste neuerdings am Ende der Folge?",
+   "answer": "Um Shoutouts an Medium und Creator",
+   "distractors": [
+    "Um ein Lieblingsrezept",
+    "Um eine Prognose fürs nächste Jahr",
+    "Um ihren peinlichsten Moment"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein klassisches Medium und eine Creatorin oder ein Creator kommen „vor den Vorhang“. Malcolm wählt die Financial Times und den TikToker Nate Jones, seinen Mentor.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Shoutout"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 4366,
+   "speaker": "Malcolm Werchota",
+   "quote": "jeden Tag kommt sie von der Schule zurück und redet eine Stunde mit ch B ja warum weil sie ganz genau weiß Papa ist full of shit",
+   "quote_clean": "Jeden Tag kommt sie von der Schule zurück und redet eine Stunde mit ChatGPT. Warum? Weil sie ganz genau weiß: Papa ist full of shit.",
+   "statement": "Malcolms Tochter redet nach der Schule jeden Tag eine Stunde mit ChatGPT, weil Papa bei Fragen wie „Wie funktioniert ein Regenbogen?“ ins Schwimmen kommt.",
+   "question": "Warum redet Malcolms Tochter nach der Schule lieber mit ChatGPT als mit ihm?",
+   "answer": "Papa kann vieles nicht erklären",
+   "distractors": [
+    "Papa hat nie Zeit",
+    "Die Schule schreibt es vor",
+    "ChatGPT erzählt bessere Witze"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Beim Regenbogen fällt Malcolm nur noch „Reflexion“ ein, und die Tochter sagt sofort: Kann ich ChatGPT fragen? Danach geht's um Platon und darum, warum Mücken so viele Augen haben.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Familie",
+    "Lernen"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "313",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

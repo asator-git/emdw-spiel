@@ -1,0 +1,283 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Standard-Begrüßungsformel des Podcasts, kein Wissen aus der Folge; Lückentext ohne Aha.",
+   "stand_note": "",
+   "statement": "Andreas begrüßt seine Hörer:innen mit dem Satz, dass man mit dem Podcast die Welt jede Woche ein bisschen besser verstehen soll.",
+   "question": "Wie geht der Satz weiter, mit dem Andreas den Podcast vorstellt: „… der Podcast, mit dem du die Welt …“?",
+   "answer": "jede Woche ein bisschen besser verstehen sollst",
+   "distractors": [
+    "jeden Tag ein Stück neu entdeckst",
+    "endlich einmal ganz durchschaust",
+    "Folge für Folge besser erklären kannst"
+   ],
+   "aha": "So fängt fast jede Folge an.",
+   "quote_clean": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 340-352 passt; Distraktoren eindeutig falsch bzw. nicht Hackls Erklärung für das Suhlen.",
+   "stand_note": "",
+   "statement": "Schweine können ähnlich wie Hunde nicht schwitzen und kühlen sich deshalb im Schlamm ab.",
+   "question": "Warum suhlen sich Schweine im Schlamm?",
+   "answer": "Sie können nicht schwitzen und kühlen sich ab",
+   "distractors": [
+    "Sie suchen im Schlamm nach Würmern",
+    "Sie markieren damit ihr Revier",
+    "Sie schützen sich vor Kälte"
+   ],
+   "aha": "Wer nicht schwitzen kann, braucht eine andere Klimaanlage. Beim Schwein ist das die Schlammsuhle: Die Feuchtigkeit auf der Haut kühlt.",
+   "quote_clean": "Schweine können, so wie ein Hund, nicht transpirieren, können nicht schwitzen, und brauchen diese Abkühlung zumindest in der warmen Jahreszeit.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 357-365 passt; überraschende, klar belegte Aussage.",
+   "stand_note": "",
+   "statement": "Hochträchtige Sauen suchen laut Norbert Hackl sogar im Winter die Schlammsuhle auf und brechen dafür notfalls das Eis.",
+   "question": "Was machen hochträchtige Schweine im Freiland manchmal sogar im Winter?",
+   "answer": "Sie brechen Eis, um sich zu suhlen",
+   "distractors": [
+    "Sie graben sich Höhlen in den Schnee",
+    "Sie fressen Schnee statt zu trinken",
+    "Sie schlafen dicht an Bäumen gelehnt"
+   ],
+   "aha": "Ein praller Bauch voller Ferkel heizt ordentlich. Die Abkühlung ist der Sau dann wichtiger als ein bisschen Eis auf der Suhle.",
+   "quote_clean": "Hochträchtige Schweine gehen auch im Winter in die Suhle, weil ihre Bäuche so prall gefüllt und so heiß sind, dass sie diese Abkühlung sogar suchen, wenn sie dafür Eis brechen müssen.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Distraktoren nicht eindeutig falsch (Schweine können schwimmen, springen und kurz aufrecht stehen); Frage ist ohne Kontext unscharf.",
+   "stand_note": "",
+   "statement": "Auch ausgewachsene Schweine können galoppieren, haben in Ställen aber keinen Platz dafür.",
+   "question": "Was können auch ausgewachsene Schweine mit 200 bis 300 Kilo, wenn sie Platz haben?",
+   "answer": "galoppieren",
+   "distractors": [
+    "schwimmen über weite Strecken",
+    "auf Hinterbeinen stehen",
+    "über Zäune springen"
+   ],
+   "aha": "Von Ferkeln kennt man das Herumflitzen noch.",
+   "quote_clean": "Schweine können tatsächlich galoppieren. Das kennt man vielleicht von Ferkeln, aber von ausgewachsenen Schweinen kennt man das überhaupt nicht, weil sie es nirgends können.",
+   "quality": 2
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 450-458 passt (circa 24 Stunden vor der Geburt, Hormonsignal zum Nestbau).",
+   "stand_note": "",
+   "statement": "Etwa 24 Stunden vor der Geburt schießt bei der Sau die Milch ein und sie bekommt das hormonelle Signal, ein Geburtsnest zu bauen.",
+   "question": "Wie viele Stunden vor der Geburt bekommt eine Sau ungefähr das Signal, ihr Geburtsnest zu bauen?",
+   "answer": "etwa 24 Stunden",
+   "distractors": [
+    "etwa 2 Stunden",
+    "etwa 72 Stunden",
+    "etwa 7 Stunden"
+   ],
+   "aha": "Die Hormone geben das Startsignal: Die Milch schießt ein, und die Sau trägt Heu, Gras, Äste und Laub zusammen. Im Winter werden das richtig dicke, isolierende Nester.",
+   "quote_clean": "Circa 24 Stunden vor der Geburt schießt die Milch ein, die Hormone verändern sich, das Schwein kriegt hormonelle Signale: Bau dir jetzt das Geburtsnest für deine Geburt.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Beleg bei 631-650 passt, ist aber Hackls grobe Schätzung ('circa') für die damalige Standardhaltung; Regeln zum Kastenstand wurden seither teils geändert.",
+   "stand_note": "Stand 2021",
+   "statement": "Laut Norbert Hackl verbringen Mutterschweine in der konventionellen Standardhaltung (Stand 2021) circa ein Viertel des Jahres im Einzelstand, in dem sie sich nicht umdrehen können.",
+   "question": "Wie viel Prozent des Jahres verbringen Mutterschweine laut Norbert Hackl in der damaligen konventionellen Standardhaltung ungefähr im Einzelstand?",
+   "answer": "circa 25 Prozent",
+   "distractors": [
+    "circa 5 Prozent",
+    "circa 60 Prozent",
+    "circa 45 Prozent"
+   ],
+   "aha": "Im Einzelstand geht es nur ein paar Zentimeter vor und zurück, umdrehen ist nicht drin. Bei der künstlichen Besamung und rund um die Geburt stehen die Sauen dort, das läppert sich laut Norbert auf ein Viertel des Jahres.",
+   "quote_clean": "Die Zuchttiere, also die Mutterschweine, leben circa 25 Prozent der Zeit im Jahr in einem Einzelstand, einem Käfig. Sie können sich nur nach vorne und nach hinten ein paar Zentimeter bewegen und können sich nicht umdrehen.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 723-742 passt, ist aber Hackls eigene Erklärung; Distraktor 'Insekten' wäre nicht eindeutig falsch, ersetzt.",
+   "stand_note": "",
+   "statement": "Laut Norbert Hackl suhlen sich Schweine im Stall in den eigenen Exkrementen, weil es dort keinen Schlamm zur Abkühlung gibt.",
+   "question": "Warum suhlen sich Schweine laut Norbert Hackl im Stall oft in ihren eigenen Exkrementen?",
+   "answer": "Mangels Schlamm brauchen sie trotzdem Abkühlung",
+   "distractors": [
+    "Der Geruch beruhigt sie",
+    "Sie markieren damit ihren Schlafplatz",
+    "Sie sind von Natur aus unsauber"
+   ],
+   "aha": "Norbert erklärt damit auch, warum „dreckig wie ein Schwein“ ein Spruch ist. Eigentlich ist es ein Notbehelf: Das Schwein braucht eine Abkühlung, und wenn es keinen Schlamm gibt, nimmt es, was da ist.",
+   "quote_clean": "Im Stall hat es aber keinen Schlamm zum Suhlen. Da suhlt es sich in den eigenen Exkrementen, weil es diese Abkühlung braucht.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Reine Zuordnungsfrage 'Wer hat's gesagt?' mit trivialen Distraktoren; Aussage zudem ein persönlicher Appell zu Ernährung und Einkommen.",
+   "stand_note": "",
+   "statement": "Wer sich teures Freilandfleisch nicht leisten kann, soll laut Norbert Hackl lieber ein Drittel davon essen und gleich viel zahlen.",
+   "question": "Wer hat's gesagt: „Nur weil du dir das nicht leisten kannst, was kann jetzt das Schwein dafür?“",
+   "answer": "Norbert Hackl",
+   "distractors": [
+    "Andreas Sator",
+    "Herwig Grimm",
+    "Sepp Holzer"
+   ],
+   "aha": "Norberts Rechnung: Ein Schnitzel um 30 Euro ist dreimal so teuer, also isst du ein Drittel davon.",
+   "quote_clean": "Dann sage ich: Okay, aber nur weil du dir das nicht leisten kannst, was kann jetzt das Schwein dafür? Kannst du nicht vielleicht nur ein Drittel davon essen? Dann kommst du gleich teuer.",
+   "quality": 1
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Beleg bei 934-957 passt für 10 Euro (Karree/Schnitzelfleisch, Aktionen 5 Euro, Hackl etwas über 30); die Bio-Angabe (20 Euro) steht nicht im Ausschnitt und wurde entfernt. Preis ist Stand 2021.",
+   "stand_note": "Stand 2021",
+   "statement": "Laut Norbert Hackl kostete normales Schweine-Karree aus Österreich im Supermarkt 2021 um die 10 Euro pro Kilo, sein Freilandfleisch etwas über 30 Euro.",
+   "question": "Wie viel kostete laut Norbert Hackl 2021 ein Kilo normales österreichisches Schweine-Schnitzelfleisch im Supermarkt ungefähr?",
+   "answer": "um die 10 Euro",
+   "distractors": [
+    "um die 4 Euro",
+    "um die 20 Euro",
+    "um die 15 Euro"
+   ],
+   "aha": "Billigaktionen gehen sogar runter auf 5 Euro, die rechnen sich laut Norbert für niemanden. Sein Freilandfleisch kostet etwas über 30 Euro, also ungefähr das Dreifache. Die Preise sind von 2021 und seither gestiegen.",
+   "quote_clean": "Ein normales Schnitzelfleisch im Supermarkt kostet um die 10 Euro das Kilo.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1122-1135 passt (2003, Zenzi und Amanda); Schreibweise 'Zensi' im Transkript ist nur Variante desselben Namens.",
+   "stand_note": "",
+   "statement": "2003 setzte Norbert Hackl seine ersten beiden trächtigen Sauen, Zenzi und Amanda, ins Freie, um zu sehen, ob die Geburt draußen klappt.",
+   "question": "Wie hießen die ersten beiden Sauen, die Norbert Hackl 2003 ins Freie ließ?",
+   "answer": "Zenzi und Amanda",
+   "distractors": [
+    "Mizi und Punkti",
+    "Resi und Berta",
+    "Lotte und Frieda"
+   ],
+   "aha": "Amanda ferkelte im September unter einem Kirschbaum, Zenzi mitten im Winter, vermutlich zu Silvester bei leichten Minusgraden. Beides ging gut, und da war für Norbert klar: So wollen wir Bauern sein.",
+   "quote_clean": "Die ersten Schweine, die Zenzi und die Amanda, ins Freie zu geben und einmal nur zu beobachten, wie ihre Geburten ablaufen werden. Die waren schon trächtig.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1426-1431 passt (Andreas zitiert Vier Pfoten); Aha enthielt nicht belegte Details (Wildschwein, Sauen mit 15 Jahren), durch Belegtes ersetzt; Distraktor '10 Jahre' war nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Laut der Tierschutzorganisation Vier Pfoten könnte ein Schwein natürlicherweise etwa 20 Jahre alt werden.",
+   "question": "Wie alt könnte ein Schwein laut der Tierschutzorganisation Vier Pfoten natürlicherweise werden?",
+   "answer": "circa 20 Jahre",
+   "distractors": [
+    "circa 5 Jahre",
+    "circa 40 Jahre",
+    "circa 3 Jahre"
+   ],
+   "aha": "In der konventionellen Haltung werden Schweine mit etwa sechs Monaten geschlachtet, bei Norbert mit zehn bis zwölf Monaten. Von den möglichen 20 Jahren bleibt also nur ein Bruchteil.",
+   "quote_clean": "Die schreiben, dass ein Schwein natürlich circa 20 Jahre alt werden würde.",
+   "quality": 4
+  },
+  {
+   "i": 15,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Zuordnungsfrage 'Wer hat's gesagt?' mit trivialen Distraktoren; kein Wissen, das man mitnimmt.",
+   "stand_note": "",
+   "statement": "Norbert Hackl sieht es als seine Verantwortung als Bauer, dass seine Tiere ordentlich und ohne Angst sterben.",
+   "question": "Wer hat's gesagt: „Für alles bin ich verantwortlich, also nehme ich auch die Verantwortung in die Hand, damit es ordentlich und ohne Angst aus dem Leben scheidet“?",
+   "answer": "Norbert Hackl",
+   "distractors": [
+    "Andreas Sator",
+    "Herwig Grimm",
+    "Sepp Holzer"
+   ],
+   "aha": "Für Norbert gehört das Töten zur Tierhaltung dazu.",
+   "quote_clean": "Für alles bin ich verantwortlich, also nehme ich auch die Verantwortung in die Hand, damit es ordentlich und ohne Angst aus dem Leben scheidet.",
+   "quality": 1
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 1884-1930 passt (Wartestall durch Weide ersetzt); 'erstes Weideschlachthaus Europas' ist von Hackl selbst hedged ('vielleicht auch noch ist') und das Jahr 2015 steht nicht im Ausschnitt, Aha entsprechend angepasst.",
+   "stand_note": "",
+   "statement": "Weil Schlachten auf der Weide abgelehnt wurde, ersetzte Norbert Hackl den vorgeschriebenen Wartestall eines Schlachthofs durch eine Weide.",
+   "question": "Wie hat Norbert Hackl sein Weideschlachthaus rechtlich möglich gemacht?",
+   "answer": "Er ersetzte den Wartestall durch eine Weide",
+   "distractors": [
+    "Er bekam eine EU-Sondergenehmigung",
+    "Er meldete den Hof als Jagdrevier an",
+    "Er baute einen mobilen Schlachtanhänger"
+   ],
+   "aha": "Auf der Weide schlachten durfte er nicht, also hat er den Spieß umgedreht und die Weide zum zertifizierten Schlachthof geholt: Ein Wartestall ist vorgeschrieben, aber jeden Stall darf man durch eine Weide ersetzen. Es galt als das erste zertifizierte Weideschlachthaus Europas.",
+   "quote_clean": "Es steht geschrieben, dass jeder Schlachthof einen Wartestall haben muss, wo die Tiere angeliefert werden und warten, bis sie zur Schlachtung kommen. Und aus der Nutztierhaltungsverordnung weiß ich, weil ich Bauer bin, dass ich jeden Stall durch eine Weide ersetzen kann.",
+   "quality": 4
+  },
+  {
+   "i": 18,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 2065-2093 passt (Leckerlis, Seitenteil, Elektrozange hinter den Ohren); sachlich beschrieben.",
+   "stand_note": "",
+   "statement": "Im Weideschlachthaus werden die Schweine laut Norbert Hackl einzeln mit Leckerlis in einen Seitenteil gelockt und mit einer Elektrozange hinter den Ohren betäubt.",
+   "question": "Wie werden die Schweine in Norbert Hackls Weideschlachthaus betäubt?",
+   "answer": "Mit einer Elektrozange hinter den Ohren",
+   "distractors": [
+    "Mit CO2 in einer Gondel",
+    "Mit einem Bolzenschuss in die Stirn",
+    "Mit einer Betäubungsspritze"
+   ],
+   "aha": "Das Schwein wird mit Leckerlis in einen Seitenteil gelockt, den Kopf nach unten, die anderen sehen nichts. Ob es ruhig abläuft, liest Norbert an der Herde ab: Die bleibt einfach da und bleibt ruhig.",
+   "quote_clean": "Es wird elektrisch mit einer Elektrozange betäubt. Das heißt, man zwickt mit dieser Zange hinter den Ohren zusammen, und in einer tausendstel Sekunde ist es betäubt und spürt nichts mehr.",
+   "quality": 3
+  }
+ ],
+ "id": "181",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

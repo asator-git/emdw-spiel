@@ -1,0 +1,534 @@
+{
+ "theme": "Gesellschaft & Kultur",
+ "summary": "Valentina und ich reden über euer Feedback, unsere Hörerzahlen, Pläne für den Herbst und was wir zuletzt auf Festivals und Events erlebt haben.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 449,
+   "speaker": "Andreas Sator",
+   "quote": "geändert und wir hätten dann über 1000 € im Monat zahlen müssen, damit wir weiterhin den Leuten Nachrichten schicken können. Und diese 12000 € im Jahr, die können wir für andere Sachen besser ausgeben.",
+   "quote_clean": "Wir hätten dann über 1000 € im Monat zahlen müssen, damit wir weiterhin den Leuten Nachrichten schicken können. Und diese 12.000 € im Jahr können wir für andere Sachen besser ausgeben.",
+   "statement": "Nach einer Änderung der WhatsApp-Regeln durch Meta hätte EMDW über 1000 Euro im Monat zahlen müssen, um weiter Nachrichten an Hörer:innen zu verschicken.",
+   "question": "Wie viel Euro pro Monat hätte EMDW nach Metas Regeländerung zahlen müssen, um weiter WhatsApp-Nachrichten zu verschicken?",
+   "answer": "Über 1000 Euro im Monat",
+   "distractors": [
+    "Rund 100 Euro im Monat",
+    "Rund 300 Euro im Monat",
+    "Rund 5000 Euro im Monat"
+   ],
+   "number_value": 1000,
+   "number_unit": "Euro pro Monat",
+   "slider_min": 50,
+   "slider_max": 5000,
+   "log_scale": true,
+   "aha": "Seit Meta Nachrichten von Firmen an viele Empfänger:innen verrechnet, wird so ein Kanal schnell teuer. Für EMDW wären das rund 12.000 Euro im Jahr gewesen, also hat man den Kanal schweren Herzens eingestellt und setzt jetzt auf Signal, Telegram und Newsletter.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "WhatsApp",
+    "Meta",
+    "Kosten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 852,
+   "speaker": "Andreas Sator",
+   "quote": "in der Woche ca. 20.000 Leute den Audio Podcast hören. Ähm und das schwankt ein bisschen, wenn man sich das anschaut.",
+   "quote_clean": "In der Woche hören ca. 20.000 Leute den Audio-Podcast. Das schwankt ein bisschen.",
+   "statement": "Erklär mir die Welt wird pro Woche von rund 20.000 Menschen als Audio-Podcast gehört.",
+   "question": "Wie viele Leute hören Erklär mir die Welt pro Woche als Audio-Podcast?",
+   "answer": "Rund 20.000",
+   "distractors": [
+    "Rund 5.000",
+    "Rund 60.000",
+    "Rund 150.000"
+   ],
+   "number_value": 20000,
+   "number_unit": "Hörer:innen pro Woche",
+   "slider_min": 1000,
+   "slider_max": 100000,
+   "log_scale": true,
+   "aha": "Beim Audio-Podcast ist das erstaunlich stabil, Woche für Woche um die 20.000. Ausreißer gab's rund um den 7. Geburtstag, als eine Woche lang jeden Tag eine Folge erschienen ist.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Podcast",
+    "Reichweite"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 996,
+   "speaker": "Andreas Sator",
+   "quote": "Ähm, aber was man sieht, im Audiobereich hören die Leute so im Schnitt dreiviertel der Folge und das ist halt genial und das ist kennt eh jeder. Wie verhält man sich, wenn man Podcast hört? Man führt den Hund aus oder putzt die Wohnung",
+   "quote_clean": "Was man sieht: Im Audiobereich hören die Leute im Schnitt drei Viertel der Folge. Und das kennt eh jeder: Wie verhält man sich, wenn man Podcast hört? Man führt den Hund aus oder putzt die Wohnung.",
+   "statement": "Wer einen Podcast als Audio hört, hört im Schnitt etwa drei Viertel einer Folge, weil man nebenbei Hund ausführt oder putzt und nicht ständig weiterklickt.",
+   "question": "Wie viel Prozent einer Folge hören Audio-Hörer:innen von Erklär mir die Welt im Schnitt?",
+   "answer": "Rund 75 Prozent",
+   "distractors": [
+    "Rund 25 Prozent",
+    "Rund 40 Prozent",
+    "Rund 95 Prozent"
+   ],
+   "number_value": 75,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Beim Podcasthören hast du meistens was anderes in der Hand, den Hundeleinen-Griff oder den Putzfetzen. Da klickst du nicht nach drei Minuten weiter, sondern lässt laufen. Auf YouTube sind es im Schnitt nur etwa 25 Prozent.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Podcast",
+    "Medienverhalten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 981,
+   "speaker": "Andreas Sator",
+   "quote": "YouTube ähm da schauen die Leute im Schnitt zur Viertelstunde. Ähm was eh cool ist ähm ein Viertel, also wenn die Folge im Schnitt der Stunde dauert",
+   "quote_clean": "Auf YouTube schauen die Leute im Schnitt eine Viertelstunde. Was eh cool ist: ein Viertel, wenn die Folge im Schnitt eine Stunde dauert.",
+   "statement": "Ein Aufruf einer EMDW-Folge auf YouTube dauert im Schnitt etwa eine Viertelstunde, bei Folgen von rund einer Stunde Länge.",
+   "question": "Wie viele Minuten schauen Leute eine EMDW-Folge auf YouTube im Schnitt?",
+   "answer": "Rund 15 Minuten",
+   "distractors": [
+    "Rund 3 Minuten",
+    "Rund 35 Minuten",
+    "Rund 50 Minuten"
+   ],
+   "number_value": 15,
+   "number_unit": "Minuten",
+   "slider_min": 0,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Eine Viertelstunde klingt wenig, ist auf YouTube aber ein ziemliches Commitment. Dort lockt nach jeder Sekunde das nächste Video, beim Audio-Podcast bleiben die Leute viel länger dran.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "YouTube",
+    "Podcast"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1024,
+   "speaker": "Andreas Sator",
+   "quote": "ist am Handy, also die meisten Leute, ich glaube über die Hälfte schauen gleich mit Wählt am Handy auf YouTube und dann ist halt immer eine Millisekunde ein Klick und das nächste Video, das interessanter sein könnte.",
+   "quote_clean": "Die meisten Leute, ich glaube über die Hälfte, schauen am Handy auf YouTube, und dann ist das nächste Video, das interessanter sein könnte, immer nur eine Millisekunde, einen Klick entfernt.",
+   "statement": "Weil mehr als die Hälfte am Handy auf YouTube schaut, ist das nächste, vielleicht interessantere Video immer nur einen Klick entfernt; deshalb schauen die Leute kürzer als beim Podcast.",
+   "question": "Warum schauen Leute eine Folge auf YouTube kürzer, als sie sie als Podcast hören?",
+   "answer": "Das nächste Video ist nur einen Klick entfernt",
+   "distractors": [
+    "YouTube-Videos laden am Handy zu langsam",
+    "Auf YouTube gibt es mehr Werbeunterbrechungen",
+    "Videos verbrauchen zu viel Datenvolumen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am Handy hast du auf YouTube eine unendliche Auswahl direkt unterm Daumen. Beim Podcast dagegen putzt du nebenbei die Wohnung und lässt die Folge einfach durchlaufen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "YouTube",
+    "Aufmerksamkeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 931,
+   "speaker": "Andreas Sator",
+   "quote": "Ähm und manche Folgen gehen dann besser, weil sie weiterempfohlen werden, aber YouTube ist halt Wilder Westen und der Algorithmus kann Dinge riesig aufblasen, aber auch dafür sorgen, dass manche Videos nur ein paar hundert Aufrufe haben",
+   "quote_clean": "Manche Folgen gehen besser, weil sie weiterempfohlen werden, aber YouTube ist halt Wilder Westen: Der Algorithmus kann Dinge riesig aufblasen, aber auch dafür sorgen, dass manche Videos nur ein paar hundert Aufrufe haben.",
+   "statement": "Beim Audio-Podcast sind die Zahlen recht berechenbar, auf YouTube entscheidet der Algorithmus, ob ein Video riesig wird oder nur ein paar hundert Aufrufe bekommt.",
+   "question": "Womit vergleicht Andreas YouTube, weil der Algorithmus so unberechenbar ist?",
+   "answer": "Mit dem Wilden Westen",
+   "distractors": [
+    "Mit einem Lotteriespiel",
+    "Mit einem Casino",
+    "Mit dem Börsenparkett"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Beim Podcast verbreiten sich Folgen vor allem über Empfehlungen, das ist ziemlich stabil. Auf YouTube kann dieselbe Art Video einmal 40.000 und einmal nur ein paar hundert Aufrufe holen, je nachdem, was der Algorithmus damit macht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "YouTube",
+    "Algorithmus"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1470,
+   "speaker": "Andreas Sator",
+   "quote": "Dann lese ich gerade urgeiles Buch von Michael Pollen. Verändere dein Bewusstsein, die neuesten Erkenntnisse der klinischen Erforschung von Psychedelika zu Angst, Depression, Sucht und Transzendenz.",
+   "quote_clean": "Dann lese ich gerade ein urgeiles Buch von Michael Pollan: Verändere dein Bewusstsein. Die neuesten Erkenntnisse der klinischen Erforschung von Psychedelika zu Angst, Depression, Sucht und Transzendenz.",
+   "statement": "Michael Pollan hat mit „Verändere dein Bewusstsein“ ein Buch über die klinische Erforschung von Psychedelika bei Angst, Depression und Sucht geschrieben.",
+   "question": "Worum geht es in Michael Pollans Buch „Verändere dein Bewusstsein“?",
+   "answer": "Klinische Forschung zu Psychedelika",
+   "distractors": [
+    "Meditation und Achtsamkeit im Alltag",
+    "Die Geschichte der Psychoanalyse",
+    "Schlafforschung und Träume"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Pollan, eigentlich bekannt als Ernährungsautor, hat sich in die Forschung zu Substanzen wie LSD und Psilocybin eingelesen. Es geht darum, ob sie bei Angst, Depression oder Sucht helfen können, und Andreas war ziemlich hin und weg davon.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Psychedelika",
+    "Bücher"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1480,
+   "speaker": "Andreas Sator",
+   "quote": "Ähm extrem faszinierend, was der da berichtet. Ähm und interessiert mich auch gerade sehr. Ich muss man nur noch überlegen, also viele dieser, also in der Schweiz kann man das teilweise machen, in den USA, oft aber nur in Begleitung von Therapeutinnen.",
+   "quote_clean": "Extrem faszinierend, was der da berichtet, und interessiert mich auch gerade sehr. In der Schweiz kann man das teilweise machen, in den USA, oft aber nur in Begleitung von Therapeutinnen.",
+   "statement": "Therapie mit Psychedelika ist etwa in der Schweiz und den USA teilweise möglich, oft aber nur in Begleitung von Therapeut:innen.",
+   "question": "Unter welcher Bedingung ist Therapie mit Psychedelika etwa in der Schweiz teilweise möglich?",
+   "answer": "Oft nur in therapeutischer Begleitung",
+   "distractors": [
+    "Nur in Kombination mit Antidepressiva",
+    "Nur für Menschen über 65 Jahre",
+    "Nur im Rahmen von Militärforschung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Substanzen wie LSD oder Psilocybin aus Magic Mushrooms sind in den meisten Ländern illegal. In der Schweiz und Teilen der USA darf man sie unter Auflagen therapeutisch einsetzen, meist mit Therapeut:innen an der Seite.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Psychedelika",
+    "Recht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2076,
+   "speaker": "Andreas Sator",
+   "quote": "ich bin in Berlin, ich habe mal Studio gemietet bei der DPA, also der deutschen Presseagentur so das Pond APA also Nachrichtenagentur.",
+   "quote_clean": "In Berlin habe ich ein Studio gemietet bei der dpa, also der Deutschen Presse-Agentur, das Pendant zur APA, also eine Nachrichtenagentur.",
+   "statement": "Die dpa ist die Deutsche Presse-Agentur, das deutsche Gegenstück zur österreichischen APA.",
+   "question": "Was ist die dpa?",
+   "answer": "Die Deutsche Presse-Agentur",
+   "distractors": [
+    "Ein deutscher Privatsender",
+    "Der Deutsche Presserat",
+    "Ein Berliner Podcast-Netzwerk"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nachrichtenagenturen liefern den Rohstoff, aus dem Zeitungen und Sender ihre Meldungen machen. In Österreich ist das die APA, in Deutschland die dpa, und die vermietet in Berlin sogar ein Podcast-Studio, in dem Andreas vier Folgen an einem Tag aufgenommen hat.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Medien",
+    "Journalismus"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2150,
+   "speaker": "Andreas Sator",
+   "quote": "Und dann war ich noch am nächsten Tag auf der Republika und am also nächsten zwei Tage auf der Republika das so große Messe über digitale Medien, Internet Politik sehr",
+   "quote_clean": "Und dann war ich noch die nächsten zwei Tage auf der re:publica, das ist so eine große Messe über digitale Medien und Internetpolitik.",
+   "statement": "Die re:publica in Berlin ist eine große Konferenz über digitale Medien und Netzpolitik.",
+   "question": "Worum geht es bei der re:publica in Berlin?",
+   "answer": "Digitale Medien und Netzpolitik",
+   "distractors": [
+    "Klassische Literatur und Lyrik",
+    "Erneuerbare Energien",
+    "Kunst und Design"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die re:publica ist so etwas wie das Klassentreffen der deutschsprachigen Netzszene. Andreas schätzt dort vor allem, dass er mitbekommt, was im Mediengeschäft und in der Netzpolitik gerade die großen Themen sind.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Medien",
+    "Internet"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2218,
+   "speaker": "Andreas Sator",
+   "quote": "Journalismusfestival. Ähm, es gab da z.B. von ZLD, das ist sänisches Medium. Ähm, das ist auch so der heiße Scheiß, die machen ganz viel tolle Sachen, was alle anderen dann jetzt kopieren.",
+   "quote_clean": "Beim Journalismusfestival gab es zum Beispiel Zetland, das ist ein dänisches Medium. Das ist so der heiße Scheiß, die machen ganz viel tolle Sachen, die alle anderen jetzt kopieren.",
+   "statement": "Das dänische Medium Zetland gilt in der Journalismusbranche als Vorreiter, dessen Ideen viele andere Medien kopieren.",
+   "question": "Aus welchem Land kommt das Medium Zetland, das in der Branche als Vorbild gilt?",
+   "answer": "Aus Dänemark",
+   "distractors": [
+    "Aus Schweden",
+    "Aus den Niederlanden",
+    "Aus Finnland"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Zetland ist ein dänisches Medium, das viel ausprobiert und dessen Ideen dann andere übernehmen. In Perugia sind die Leute von dort sogar mit eigenem Merch herumgelaufen, und das will EMDW jetzt auch.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Journalismus",
+    "Medien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1961,
+   "speaker": "Valentina Pfattner",
+   "quote": "Wir waren auch im Peru beim internationalen Journalismusfestival im April, was für mich unglaublich war.",
+   "quote_clean": "Wir waren auch in Perugia beim internationalen Journalismusfestival im April, was für mich unglaublich war.",
+   "statement": "Das International Journalism Festival findet jedes Frühjahr im italienischen Perugia statt.",
+   "question": "In welcher Stadt findet das große Internationale Journalismusfestival im April statt?",
+   "answer": "In Perugia",
+   "distractors": [
+    "In Florenz",
+    "In Lyon",
+    "In Barcelona"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Perugia treffen sich jedes Frühjahr Journalist:innen von der New York Times bis zu Reporter:innen aus der Ukraine oder Afghanistan. Dazu eine wunderschöne Altstadt, gutes Essen und Klassentreffen-Stimmung.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Journalismus",
+    "Italien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2731,
+   "speaker": "Andreas Sator",
+   "quote": "Die Buch Wien ist vom 12. bis 16. November. Genau. Genau. Liebe ich. Erstens ähm gehe ich da immer schon gerne hin.",
+   "quote_clean": "Die Buch Wien ist vom 12. bis 16. November. Liebe ich. Erstens gehe ich da immer schon gerne hin.",
+   "statement": "Die Buchmesse Buch Wien findet im November statt, heuer vom 12. bis 16. November.",
+   "question": "In welchem Monat findet die Buchmesse Buch Wien statt?",
+   "answer": "Im November",
+   "distractors": [
+    "Im März",
+    "Im Juni",
+    "Im September"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Buch Wien ist Österreichs große Buchmesse und fällt in den grauen November, perfekt zum Lesen. Andreas wohnt nicht weit weg und mag, dass dort zehntausende Leute sind, die alle gern Bücher lesen.",
+   "difficulty": 1,
+   "time_sensitive": true,
+   "tags": [
+    "Bücher",
+    "Wien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2487,
+   "speaker": "Andreas Sator",
+   "quote": "Ja. Ja, ich kann es allen empfehlen. Ich habe es beide Bücher sehr geliebt, also 22 Bannen und Windst 17 und im Herbst kommt der dritte Teil raus und freue mich schon sehr.",
+   "quote_clean": "Ich kann es allen empfehlen. Ich habe beide Bücher sehr geliebt, also 22 Bahnen und Windstärke 17, und im Herbst kommt der dritte Teil raus, ich freue mich schon sehr.",
+   "statement": "Caroline Wahl hat die Romane „22 Bahnen“ und „Windstärke 17“ geschrieben; „22 Bahnen“ wurde auch verfilmt.",
+   "question": "Welcher dieser Romane stammt von Caroline Wahl?",
+   "answer": "22 Bahnen",
+   "distractors": [
+    "Die Mittagsfrau",
+    "Blasmusikpop",
+    "Kruso"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In „22 Bahnen“ spielt viel im Freibad, deshalb muss Valentina seither bei jedem Schwimmbadbesuch an das Buch denken. Der Roman wurde ein Bestseller und auch fürs Kino verfilmt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bücher",
+    "Literatur"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1219,
+   "speaker": "Andreas Sator",
+   "quote": "weil ich auch einfach merke, wenn mich Thema nicht voll interessiert oder Gast oder Gäste nicht voll interessiert, dann wird das auch keine gute Folge und dann will auch niemand diesen Podcast hören",
+   "quote_clean": "Weil ich einfach merke: Wenn mich ein Thema oder ein Gast nicht voll interessiert, dann wird das auch keine gute Folge, und dann will auch niemand diesen Podcast hören.",
+   "statement": "Andreas sagt, eine Folge wird nur gut, wenn ihn Thema und Gast selbst voll interessieren.",
+   "question": "Wer sagt: Wenn mich ein Thema nicht voll interessiert, wird das auch keine gute Folge?",
+   "answer": "Andreas Sator",
+   "distractors": [
+    "Valentina Pfattner",
+    "Thomas Pelkmann",
+    "Florian Klenk"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Erklär mir die Welt läuft stark nach Andreas' eigener Neugier. Darum gab's mal viel Nachhaltigkeit, dann Geopolitik, dann Psychotherapie und jetzt Beziehungen und Freundschaft.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Podcast",
+    "Neugier"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 421,
+   "speaker": "Andreas Sator",
+   "quote": "haben, ein paar wenige Dinge machen und diese Dinge gut und mit Sorgfalt und auch den nötigen Ressourcen machen und Discord haben wir dann eigentlich nie offiziell eingestellt, aber es ist so leist gestorben.",
+   "quote_clean": "Ein paar wenige Dinge machen und diese Dinge gut, mit Sorgfalt und den nötigen Ressourcen machen. Discord haben wir eigentlich nie offiziell eingestellt, aber es ist so leise gestorben.",
+   "statement": "Aus dem gescheiterten Discord-Kanal hat das EMDW-Team gelernt, lieber wenige Dinge gut und mit Sorgfalt zu machen.",
+   "question": "Was ist mit dem Discord-Kanal von Erklär mir die Welt passiert?",
+   "answer": "Er ist leise gestorben",
+   "distractors": [
+    "Er wurde wegen Hasspostings geschlossen",
+    "Er wurde zu WhatsApp verlegt",
+    "Er läuft mit 5000 Mitgliedern weiter"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Hoffnung war, dass sich Hörer:innen dort einfach untereinander austauschen. Ohne jemanden, der den Kanal täglich bespielt, ist das nicht passiert, und offiziell eingestellt hat ihn auch nie jemand.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Community",
+    "Discord"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 3172,
+   "speaker": "Andreas Sator",
+   "quote": "Würd mich einfach interessieren, ob euch das interessiert. Also mt gerne. Ja. Und was ist dein Bauchgefühl so ganz intuitiv, Valentina?",
+   "quote_clean": "Würd mich einfach interessieren, ob euch das interessiert. Und was ist dein Bauchgefühl, so ganz intuitiv, Valentina?",
+   "statement": "Andreas fragt Valentina nach ihrem Bauchgefühl zur Idee eines Jahresrückblicks im Podcast.",
+   "question": "Wie fragt Andreas Valentina nach ihrer Meinung zur Jahresrückblick-Idee?",
+   "answer": "Was ist dein Bauchgefühl, ganz intuitiv?",
+   "distractors": [
+    "Was sagen die Zahlen dazu?",
+    "Würdest du das selber hören?",
+    "Wie würdest du das verkaufen?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas überlegt laut, ob es eine Art Erklär mir das Jahr geben soll, für alle, die das ganze Jahr keine Zeitung gelesen haben. Valentina findet's spannend, würde aber thematisch spezialisieren.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Jahresrückblick"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1509,
+   "speaker": "Andreas Sator",
+   "quote": "damit auch über sein eigenes Bewusstsein lernen, aber ich bin mir noch nicht sicher, wie ich die Folge mache, ohne ins Gefängnis zu kommen.",
+   "quote_clean": "Man kann damit viel über sein eigenes Bewusstsein lernen, aber ich bin mir noch nicht sicher, wie ich die Folge mache, ohne ins Gefängnis zu kommen.",
+   "statement": "Andreas will eine Folge über Psychedelika machen, überlegt aber noch, wie das geht, ohne ins Gefängnis zu kommen.",
+   "question": "Was hält Andreas bisher von einer Folge über Psychedelika ab?",
+   "answer": "Er will nicht ins Gefängnis",
+   "distractors": [
+    "Er findet keinen Gast",
+    "Die Hörer:innen sind dagegen",
+    "YouTube würde die Folge sperren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Weil LSD oder Magic Mushrooms meist illegal sind, ist der Selbstversuch keine gute Idee. Als Journalist kann man aber eh viel darüber berichten, meint Andreas, er muss nur noch die richtige Form finden.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Psychedelika",
+    "Podcast"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "youtube",
+ "id": "356",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

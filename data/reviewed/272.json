@@ -1,0 +1,276 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Gesprächseröffnung ohne Wissenswert.",
+   "stand_note": "",
+   "statement": "Andreas fragt zum Einstieg, warum man sich für Victor Adler interessieren sollte, wenn man nie von ihm gehört hat.",
+   "question": "Mit welcher Frage steigt Andreas in das Gespräch über Victor Adler ein?",
+   "answer": "Warum sollte mich der kümmern?",
+   "distractors": [
+    "Wo genau ist Adler aufgewachsen?",
+    "Was hat Adler beruflich gemacht?",
+    "Wie bist du auf Adler gekommen?"
+   ],
+   "aha": "Andreas fängt gern bei der Frage an, die sich eh alle denken: Warum soll mich das interessieren?",
+   "quote_clean": "Robert, wenn man noch nie von Victor Adler gehört hat: Warum sollte mich das jetzt kümmern?",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt, als Einschätzung von Robert Misik klar zugeordnet.",
+   "stand_note": "",
+   "statement": "Robert Misik hält Victor Adler für den größten Titan der österreichischen Geschichte, größer als Franz Joseph oder Maria Theresia.",
+   "question": "Wen bezeichnet Robert Misik als den größten Titan der österreichischen Geschichte?",
+   "answer": "Victor Adler",
+   "distractors": [
+    "Kaiser Franz Joseph",
+    "Maria Theresia",
+    "Bruno Kreisky"
+   ],
+   "aha": "Alle reden von Franz Joseph und Maria Theresia, aber für Robert hat Adler das Land mehr geprägt: von der Versammlungsfreiheit bis zum Parlamentarismus, mit sehr langem Atem.",
+   "quote_clean": "Eigentlich ist er der größte Titan, Gigant der österreichischen Geschichte. Wir reden ja so viel von Kaiser Franz Joseph oder von Maria Theresia.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Geburtsjahr 1852 in Prag stimmt, im Transkript belegt.",
+   "stand_note": "",
+   "statement": "Victor Adler wurde 1852 in Prag in eine wohlhabende jüdische Familie geboren.",
+   "question": "In welchem Jahr wurde Victor Adler geboren?",
+   "answer": "1852",
+   "distractors": [
+    "1832",
+    "1868",
+    "1879"
+   ],
+   "aha": "Adler kam 1852 in Prag zur Welt, nur vier Jahre nach der niedergeschlagenen Revolution von 1848. Sein Vater hatte als Kaufmann ein großes Vermögen gemacht, das Adler später für Arme, Partei und Zeitung ausgab.",
+   "quote_clean": "Adler ist 1852 geboren, er kommt aus einer Familie reicher bzw. zu Wohlstand gekommener Juden aus Prag.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Schottengymnasium für Adler stimmt; die Mitschüler-Liste (Bahr, Mahler) ist im Transkript unscharf und historisch fraglich, daher entfernt.",
+   "stand_note": "",
+   "statement": "Victor Adler besuchte in Wien das Schottengymnasium.",
+   "question": "Welche Wiener Schule besuchte der junge Victor Adler?",
+   "answer": "Das Schottengymnasium",
+   "distractors": [
+    "Das Theresianum",
+    "Das Akademische Gymnasium",
+    "Das Piaristengymnasium"
+   ],
+   "aha": "Aus Adlers Schulfreundeskreis wurde eine Clique, die sich regelmäßig bei den Adlers traf. Der Treffpunkt hieß deshalb Adlerhorst.",
+   "quote_clean": "Die gemeinsam in die Schule gegangen sind, hier in Wien, das Schottengymnasium, und das waren Victor Adler …",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Freundschaft Adler-Mahler im Jugendkreis stimmt und ist belegt.",
+   "stand_note": "",
+   "statement": "Der Komponist Gustav Mahler war ein Jugendfreund von Victor Adler und traf sich regelmäßig bei den Adlers.",
+   "question": "Welcher berühmte Komponist war ein Jugendfreund von Victor Adler?",
+   "answer": "Gustav Mahler",
+   "distractors": [
+    "Johann Strauss",
+    "Anton Bruckner",
+    "Arnold Schönberg"
+   ],
+   "aha": "Der spätere Hofoperndirektor und der spätere Arbeiterführer hingen als Jugendliche zusammen ab. Die Treffen bei den Adlers waren so legendär, dass man den Ort Adlerhorst nannte.",
+   "quote_clean": "Der große Begründer der neuen modernen Musik, Gustav Mahler, der später Hofoperndirektor des Kaisers wurde – die waren als Jugendliche zusammen und haben sich regelmäßig bei den Adlers getroffen.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Misik relativiert selbst (antisemitische Schlagseite bei manchen); Verallgemeinerung zu Deutschnational ist verkürzt und die Frage damit angreifbar.",
+   "stand_note": "",
+   "statement": "Im 19. Jahrhundert bedeutete deutschnational in Österreich vor allem demokratisch zu sein und die deutsche Kultur der Klassik hochzuhalten.",
+   "question": "Wofür stand „deutschnational“ in Adlers Jugend vor allem?",
+   "answer": "Demokratie und deutsche Klassik",
+   "distractors": [
+    "Anschluss an Preußen",
+    "Treue zum Kaiserhaus",
+    "Katholische Kirche und Tradition"
+   ],
+   "aha": "Das Wort hatte damals eine ganz andere Färbung.",
+   "quote_clean": "Aber deutschnational hieß damals eigentlich vor allem, demokratisch zu sein und die große deutsche Kultur mit allem, was man damit verbindet – Goethe, Schiller, Klassik – hochzuhalten.",
+   "quality": 2
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Hainfelder Parteitag Jahreswechsel 1888/89 stimmt.",
+   "stand_note": "",
+   "statement": "Auf dem Einigungsparteitag in Hainfeld 1888/89 vereinte Victor Adler die zerstrittene österreichische Sozialdemokratie.",
+   "question": "Um welches Jahr fand der Einigungsparteitag der Sozialdemokratie in Hainfeld statt?",
+   "answer": "1888/89",
+   "distractors": [
+    "1848",
+    "1867",
+    "1907"
+   ],
+   "aha": "Hainfeld in Niederösterreich, heute würde man Speckgürtel sagen. Dort ging das, weil ein Polizeichef vor Ort eher ein Auge zudrückte, offiziell war es nämlich nicht erlaubt.",
+   "quote_clean": "Ist er dann so weit gekommen, dass er im Jahr 1888/89 sagen konnte: Okay, jetzt ist man bereit, eine neue Partei zu gründen. Und dann gab es einen Einigungsparteitag in Hainfeld, das ist in Niederösterreich.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Erklärung ist Misiks Version einer umstrittenen Etymologie; als solche gerahmt, Distraktoren ersetzt, weil „Donausand“ eine reale Konkurrenzerklärung ist.",
+   "stand_note": "",
+   "statement": "Laut Robert Misik kommt das Wort „Sandler“ von den Ziegelarbeitern, die Sand in die Formen streuten, damit der Lehm nicht kleben blieb.",
+   "question": "Woher kommt laut Robert Misik das Wiener Wort „Sandler“?",
+   "answer": "Von Ziegelarbeitern, die Sand einfüllten",
+   "distractors": [
+    "Von Glasbläsern am Ofen",
+    "Von Soldaten mit Sandsäcken",
+    "Von der Wiener Sandgasse"
+   ],
+   "aha": "Die Sandler waren das Unterste vom Unteren in den Ziegelwerken: Sie streuten Sand in die Formen, damit der Lehm nicht pickt. So die Erklärung von Robert Misik, und so ist das Wort für Menschen ganz unten geblieben.",
+   "quote_clean": "Und die am schlechtesten Qualifizierten waren die, die den Sand in die Formen gefüllt haben, damit der Lehm nicht in den Formen picken bleibt. Und deswegen gibt es den Begriff Sandler heute.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt (Kantinenzwang fiel, Wirte reagierten).",
+   "stand_note": "",
+   "statement": "Als die Arbeiter nicht mehr in den Kantinen einkaufen mussten, machten die Wirte daraus einen Vergnügungspark, um weiter Kundschaft zu haben.",
+   "question": "Warum wurden die Kantinen am Wienerberg zu einem Vergnügungspark?",
+   "answer": "Die Wirte brauchten neue Kundschaft",
+   "distractors": [
+    "Die Stadt kaufte das Gelände",
+    "Der Kaiser ordnete es an",
+    "Die Ziegelwerke schlossen damals"
+   ],
+   "aha": "Nach Adlers Reportagen fiel der Kantinenzwang weg, und die Betreiber verloren ihre fixe Kundschaft. Also boten sie Unterhaltung an, damit die Leute freiwillig kommen.",
+   "quote_clean": "Die Wirte haben sich dann gedacht: Hey, wenn die Arbeiter jetzt nicht mehr bei uns einkaufen müssen, dann müssen wir uns was überlegen, damit sie zu uns kommen – und haben einfach einen Vergnügungspark draus gemacht.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt (Engels-Anekdote, Bedingung klar genannt).",
+   "stand_note": "",
+   "statement": "Friedrich Engels bot Adler seine Autorenhonorare an, unter der Bedingung, dass Adler das Geld für sich selbst verwendet und nicht für die Partei.",
+   "question": "Welche Bedingung stellte Friedrich Engels, als er Adler seine Honorare anbot?",
+   "answer": "Adler muss es für sich nehmen",
+   "distractors": [
+    "Adler muss eine Zeitung gründen",
+    "Adler muss nach London ziehen",
+    "Adler muss es zurückzahlen"
+   ],
+   "aha": "Adler hatte sein ganzes Erbe für Arme, Partei und Zeitung ausgegeben und konnte die eigene Familie kaum ernähren. Engels hatte das durchschaut und wollte, dass er endlich auf sich selbst schaut.",
+   "quote_clean": "Ich mache den Vorschlag: Alle Honorare, die ich als Autor bekomme, überweise ich dir. Aber es gibt eine Bedingung: Du nimmst es für dich und nicht für die Partei.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Misik ist bei der Zahl selbst unsicher („wenn ich die Zahl richtig im Kopf habe“); als seine Angabe gerahmt.",
+   "stand_note": "",
+   "statement": "Laut Robert Misik saß Victor Adler wegen Verstößen gegen Zensur und Ausnahmerecht insgesamt etwa 17 Monate im Gefängnis.",
+   "question": "Wie viele Monate seines Lebens saß Victor Adler laut Robert Misik insgesamt etwa im Gefängnis?",
+   "answer": "Etwa 17 Monate",
+   "distractors": [
+    "Etwa 3 Monate",
+    "Etwa 40 Monate",
+    "Etwa 8 Monate"
+   ],
+   "aha": "Immer nur ein paar Monate, aber zusammen fast eineinhalb Jahre, sagt Robert Misik. Der Grund waren Verstöße gegen Zensur und Ausnahmerecht.",
+   "quote_clean": "Immer nur ein paar Monate, aber immerhin 17 Monate seines Lebens, also fast eineinhalb Jahre, wenn ich die Zahl richtig im Kopf habe, ist er selbst im Gefängnis gesessen.",
+   "quality": 2
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Kern belegt; Details im Aha (Topfenstrudel, Nachhilfe-Details) stehen im gezeigten Ausschnitt nicht, entfernt.",
+   "stand_note": "",
+   "statement": "Adlers Lieblingsgefängnis war jenes in Rudolfsheim-Fünfhaus, weil dort der Gefängnisdirektor ein Genosse war.",
+   "question": "Warum war Fünfhaus Victor Adlers Lieblingsgefängnis?",
+   "answer": "Der Direktor war ein Genosse",
+   "distractors": [
+    "Es lag neben seiner Praxis",
+    "Dort gab es eine Bibliothek",
+    "Seine Familie wohnte nebenan"
+   ],
+   "aha": "Im Fünfhauser Gefängnis ging es sehr freundlich zu: Die inhaftierten Sozialdemokraten gaben sogar dem Kind des Direktors Nachhilfe.",
+   "quote_clean": "Fünfhaus, das war sein Lieblingsgefängnis, weil es dort einen Gefängnisdirektor gab, der eigentlich ein Genosse war, und wo es dann sehr freundlich zugegangen ist.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt, als Misiks Sicht gerahmt.",
+   "stand_note": "",
+   "statement": "Robert Misik betont, dass nachhaltiger politischer Erfolg aus geduldigem Aufbau entsteht, wie Adlers 15 Jahre Wahlrechtskampagnen zeigen.",
+   "question": "Was ist laut Robert Misik das Geheimnis nachhaltiger Politik à la Adler?",
+   "answer": "Geduldiger Aufbau, Schritt für Schritt",
+   "distractors": [
+    "Ein großer revolutionärer Knall",
+    "Schöne Bilder auf Social Media",
+    "Ein charismatischer Volkstribun"
+   ],
+   "aha": "Ein schöner Wahlkampf mit Videos ist schnell gemacht, hält aber nicht lange. Adler hat lieber 15 Jahre lang Leute gesammelt, die Partei aufgebaut und für das Wahlrecht getrommelt.",
+   "quote_clean": "Nachhaltig ist Aufbau, Aufbau, und eines der Elemente war eben auch, de facto 15 Jahre lang Wahlrechtskampagnen zu machen.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Historische Deutung von Misik; als seine Einschätzung gerahmt.",
+   "stand_note": "",
+   "statement": "Laut Robert Misik ging Adler für das allgemeine Männerwahlrecht taktisch ein Bündnis mit dem Kaiser ein, weil es auch den Adel als Zwischenschicht entmachtete.",
+   "question": "Mit wem ging Victor Adler laut Robert Misik ein taktisches Bündnis für das allgemeine Wahlrecht ein?",
+   "answer": "Mit dem Kaiser",
+   "distractors": [
+    "Mit der katholischen Kirche",
+    "Mit den Großgrundbesitzern",
+    "Mit dem ungarischen Adel"
+   ],
+   "aha": "Der Kaiser und die Arbeiter hatten einen gemeinsamen Gegner: die aristokratische Schicht dazwischen. Robert Misik nennt das ein prinzipienloses Bündnis, das funktioniert hat.",
+   "quote_clean": "Interessant auch, dass Adler ein guter Taktiker war und dazu auch ein Bündnis mit dem Kaiser eingegangen ist, weil es natürlich auch eine Entmachtung der aristokratischen Mittelschichten war.",
+   "quality": 3
+  }
+ ],
+ "id": "272",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

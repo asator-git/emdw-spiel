@@ -1,0 +1,710 @@
+{
+ "theme": "Welt & Konflikte",
+ "summary": "Warum wählen die USA so seltsam? Reinhard Heinisch erklärt Wahlkollegium, Mehrheitswahlrecht, Zweiparteiensystem und warum die Polarisierung alles blockiert.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 283,
+   "speaker": "Reinhard Heinisch",
+   "quote": "um Präsident zu werden, brauchst du 270 Stimmen in diesem Kollegium. Und wer diese 270 erreicht, wird Präsident.",
+   "quote_clean": "Um Präsident zu werden, brauchst du 270 Stimmen in diesem Kollegium. Wer diese 270 erreicht, wird Präsident.",
+   "statement": "Wer US-Präsident werden will, braucht 270 Stimmen im Electoral College.",
+   "question": "Wie viele Stimmen im Electoral College braucht man, um US-Präsident:in zu werden?",
+   "answer": "270",
+   "distractors": [
+    "218",
+    "300",
+    "350"
+   ],
+   "number_value": 270,
+   "number_unit": "Stimmen",
+   "slider_min": 100,
+   "slider_max": 600,
+   "log_scale": false,
+   "aha": "Das Wahlkollegium hat 538 Stimmen, 270 ist die knappe Mehrheit davon. Darum rechnen in der Wahlnacht alle nur noch Bundesstaaten zusammen, nicht Millionen von Stimmen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "USA",
+    "Wahlkollegium"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 374,
+   "speaker": "Reinhard Heinisch",
+   "quote": "weil diese Wahlmänner oder Frauen können ja irgendjemanden wählen, aber da das immer an die Parteien übertragen wird, suchen die immer die loyalsten Leute aus.",
+   "quote_clean": "Diese Wahlmänner oder -frauen können ja irgendjemanden wählen, aber da das immer an die Parteien übertragen wird, suchen die immer die loyalsten Leute aus.",
+   "statement": "Wahlleute im Electoral College können theoretisch für jede Person stimmen; die Parteien schicken deshalb besonders loyale Leute.",
+   "question": "Wie sorgen US-Parteien dafür, dass ihre Wahlleute nicht für jemand anderen stimmen?",
+   "answer": "Sie nominieren besonders loyale Leute",
+   "distractors": [
+    "Wahlleute stimmen öffentlich per Handzeichen",
+    "Sie unterschreiben einen Vertrag mit Strafe",
+    "Die Stimmen werden automatisch gezählt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Theoretisch dürfen die Wahlleute wählen, wen sie wollen. Damit das nicht passiert, suchen die Parteien die treuesten Leute aus, und tatsächlich weicht ganz selten jemand ab.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "USA",
+    "Wahlkollegium"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 416,
+   "speaker": "Reinhard Heinisch",
+   "quote": "da findet sich halt ein Satz drinnen, da steht drinnen, es gibt dieses Wahlmännerkollegium und dass die Bundesstaaten, also die Landesregierungen entscheiden, wer gewählt wird.",
+   "quote_clean": "Da findet sich ein Satz drinnen: Es gibt dieses Wahlmännerkollegium, und die Bundesstaaten, also die Landesregierungen, entscheiden, wer gewählt wird.",
+   "statement": "Die US-Verfassung regelt die Präsidentenwahl kaum: Sie nennt das Wahlkollegium und überlässt den Bundesstaaten, wie ihre Wahlleute bestimmt werden.",
+   "question": "Wer legt laut US-Verfassung fest, wie die Wahlleute eines Staates bestimmt werden?",
+   "answer": "Die einzelnen Bundesstaaten",
+   "distractors": [
+    "Der Oberste Gerichtshof",
+    "Der US-Kongress",
+    "Die Bundeswahlbehörde"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Schau in Artikel 2 der Verfassung, da steht erstaunlich wenig. Wie ein Staat seine Wahlleute auswählt, ist komplett Sache der Bundesstaaten, die Volkswahl ist eigentlich nur eine Gewohnheit, die sich durchgesetzt hat.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "USA",
+    "Verfassung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 481,
+   "speaker": "Reinhard Heinisch",
+   "quote": "Und daher hat sich das so durchgesetzt mit zwei Ausnahmen, die ihre Wahlmänner splitten, dass die meisten Staaten versuchen, dem letztlichen Gewinner alle Kandidaten, alle Stimmen mitzubringen.",
+   "quote_clean": "Daher hat sich das so durchgesetzt, mit zwei Ausnahmen, die ihre Wahlmänner splitten: Die meisten Staaten versuchen, dem letztlichen Gewinner alle Stimmen mitzubringen.",
+   "statement": "Bis auf zwei Bundesstaaten vergeben alle US-Staaten sämtliche Wahlleute an den Sieger im Staat.",
+   "question": "Wie viele US-Bundesstaaten teilen ihre Wahlleute auf, statt alle dem Sieger zu geben?",
+   "answer": "2",
+   "distractors": [
+    "0",
+    "5",
+    "9"
+   ],
+   "number_value": 2,
+   "number_unit": "Bundesstaaten",
+   "slider_min": 0,
+   "slider_max": 15,
+   "log_scale": false,
+   "aha": "Die beiden Ausnahmen sind Maine und Nebraska. Überall sonst gilt: Wer im Staat vorne liegt, kriegt alles, weil ein Staat dem künftigen Präsidenten so alle Stimmen auf einmal versprechen kann.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "USA",
+    "Wahlkollegium"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 494,
+   "speaker": "Reinhard Heinisch",
+   "quote": "Aber das könnte morgen geändert werden, bedarf auch keiner Verfassungsänderung, weil das ganz allein das Bundes-, also Landesrecht ist quasi.",
+   "quote_clean": "Aber das könnte morgen geändert werden, es bedarf auch keiner Verfassungsänderung, weil das ganz allein Landesrecht ist.",
+   "statement": "Das Prinzip „Der Sieger bekommt alle Wahlleute“ könnten US-Bundesstaaten ohne Verfassungsänderung abschaffen.",
+   "question": "Was bräuchte es, damit ein US-Bundesstaat seine Wahlleute proportional verteilt?",
+   "answer": "Nur ein Landesgesetz des Staates",
+   "distractors": [
+    "Eine Änderung der US-Verfassung",
+    "Ein Urteil des Supreme Court",
+    "Die Zustimmung des Präsidenten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das „Winner takes all“ steht nirgends in der Verfassung, es ist einfach Landesrecht. Jeder Staat könnte es morgen ändern, nur hätte er dann bei der Bundesregierung weniger zu bieten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "USA",
+    "Wahlrecht"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 560,
+   "speaker": "Reinhard Heinisch",
+   "quote": "Dann findet in Vorarlberg kein Wahlkampf statt, weil das ist ohnehin klar, wo die hingehen. Es findet in Wien kein Wahlkampf statt.",
+   "quote_clean": "Dann findet in Vorarlberg kein Wahlkampf statt, weil ohnehin klar ist, wo die hingehen. Es findet in Wien kein Wahlkampf statt.",
+   "statement": "Im US-Mehrheitswahlrecht konzentriert sich der Wahlkampf auf wenige umkämpfte Staaten; sichere Staaten werden kaum umworben.",
+   "question": "Warum gibt es in US-Staaten wie Kalifornien kaum Präsidentschaftswahlkampf?",
+   "answer": "Das Ergebnis dort gilt als sicher",
+   "distractors": [
+    "Wahlwerbung ist dort verboten",
+    "Dort wird nicht direkt gewählt",
+    "Die Parteien teilen sich die Staaten auf"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Reinhard übersetzt das auf Österreich: Wenn Vorarlberg eh immer schwarz und Wien eh immer rot wählt, fährt dort niemand hin. Gekämpft wird um Steiermark und Oberösterreich, und dort um ein paar Bezirke in Hintertupfing.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "USA",
+    "Wahlkampf",
+    "Swing States"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 680,
+   "speaker": "Reinhard Heinisch",
+   "quote": "Aber da gibt es ein Gesetz, nennt sich DuVagees Gesetz, nämlich, wenn ich ein Mehrheitswahlrecht habe, ist es immer so, dass dritte Parteien sich schwer tun,",
+   "quote_clean": "Aber da gibt es ein Gesetz, das nennt sich Duvergers Gesetz: Wenn ich ein Mehrheitswahlrecht habe, ist es immer so, dass dritte Parteien sich schwertun.",
+   "statement": "Duvergers Gesetz besagt, dass Mehrheitswahlrecht zu einem Zweiparteiensystem führt, weil dritte Parteien kaum Wahlkreise gewinnen.",
+   "question": "Wie heißt die Regel, nach der Mehrheitswahlrecht zu zwei großen Parteien führt?",
+   "answer": "Duvergers Gesetz",
+   "distractors": [
+    "Arrows Theorem",
+    "Hotellings Gesetz",
+    "Condorcet-Paradoxon"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In den Sozialwissenschaften gibt es kaum echte Gesetze, aber das ist eines. Wenn nur der Erste im Wahlkreis gewinnt, bringen dir zehn Prozent genau nichts, darum gibt es in den USA und in Großbritannien zwei große Parteien.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlsystem",
+    "Parteien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 712,
+   "speaker": "Reinhard Heinisch",
+   "quote": "ich habe entweder eine sehr proportionale Abbildung der Bevölkerungsinteressen, aber dann Schwierigkeiten bei der Durchsetzung von Entscheidungen, oder ich habe klare Entscheidungen, aber viele Stimmen, die quasi nur indirekt berücksichtigt werden. Und beides zusammen geht nicht.",
+   "quote_clean": "Ich habe entweder eine sehr proportionale Abbildung der Bevölkerungsinteressen, aber dann Schwierigkeiten bei der Durchsetzung von Entscheidungen, oder ich habe klare Entscheidungen, aber viele Stimmen, die nur indirekt berücksichtigt werden. Beides zusammen geht nicht.",
+   "statement": "Wahlsysteme müssen zwischen proportionaler Abbildung der Interessen und klaren Entscheidungen wählen; beides zugleich geht nicht.",
+   "question": "Wer sagt: Entweder proportionale Abbildung oder klare Entscheidungen, beides zusammen geht nicht?",
+   "answer": "Reinhard Heinisch",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Hörer in einer Zuschrift",
+    "Ein US-Verfassungsrichter"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das ist der Kern des Vergleichs Österreich gegen USA. Verhältniswahl holt alle an den Tisch, Mehrheitswahl sorgt dafür, dass man weiß, wer schuld ist.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Wahlsystem",
+    "Demokratie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 763,
+   "speaker": "Reinhard Heinisch",
+   "quote": "wenn jetzt der Klimawandel den Menschen wichtig ist, dann gibt es plötzlich die Grünen, die haben dann 15 Prozent, und in den USA passiert das dann aber innerparteilich.",
+   "quote_clean": "Wenn der Klimawandel den Menschen wichtig ist, dann gibt es plötzlich die Grünen, die haben dann 15 Prozent, und in den USA passiert das dann aber innerparteilich.",
+   "statement": "Neue Anliegen wie Klimaschutz führen in Verhältniswahlsystemen zu neuen Parteien, in den USA werden sie innerhalb der zwei großen Parteien ausgefochten.",
+   "question": "Wo setzen sich in den USA neue politische Anliegen wie Klimaschutz typischerweise durch?",
+   "answer": "Innerhalb der bestehenden Parteien",
+   "distractors": [
+    "In neuen Kleinparteien im Kongress",
+    "In landesweiten Volksabstimmungen",
+    "In eigenen Klimaministerien"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Österreich gründest du eine Partei und sitzt mit 15 Prozent im Parlament. In den USA musst du dich in einer der zwei großen Parteien durchboxen, sonst bleibst du bei null.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "USA",
+    "Parteien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 796,
+   "speaker": "Reinhard Heinisch",
+   "quote": "In einem Mehrheitswahlsystem ist es besser, ich eine Lobby oder eine Interessensgruppe wäre und die bestehenden Parteien belobbiert. Dadurch haben wir auch dieses große Phänomen mit dem Lobbying in den USA,",
+   "quote_clean": "In einem Mehrheitswahlsystem ist es besser, wenn ich eine Lobby oder eine Interessensgruppe wäre und die bestehenden Parteien belobbye. Dadurch haben wir auch dieses große Phänomen mit dem Lobbying in den USA.",
+   "statement": "Weil dritte Parteien im Mehrheitswahlrecht chancenlos sind, organisieren sich Interessen in den USA als Lobbys statt als Parteien.",
+   "question": "Warum ist Lobbying in den USA so groß?",
+   "answer": "Interessengruppen werden dort Lobbys statt Parteien",
+   "distractors": [
+    "Lobbying ist dort steuerlich absetzbar",
+    "Abgeordnete verdienen dort sehr wenig",
+    "Der Kongress tagt nur selten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Was bei uns eine Partei wäre, ist dort eine Interessensgruppe, die die beiden großen Parteien bearbeitet. Das Lobbying ist also auch eine Folge des Wahlsystems.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "USA",
+    "Lobbying"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 866,
+   "speaker": "Reinhard Heinisch",
+   "quote": "Wenn wir Umfragen machen, also nach Demokratiezufriedenheit zum Beispiel, schneiden in der Regel die Mehrheitswahlsysteme an sich besser ab, weil es viel öfter zu einem Wechsel,",
+   "quote_clean": "Wenn wir Umfragen nach Demokratiezufriedenheit machen, schneiden in der Regel die Mehrheitswahlsysteme besser ab, weil es viel öfter zu einem Wechsel kommt.",
+   "statement": "In Umfragen zur Demokratiezufriedenheit schneiden Länder mit Mehrheitswahlrecht in der Regel besser ab, weil Regierungswechsel häufiger sind.",
+   "question": "Wo ist die Zufriedenheit mit der Demokratie laut Umfragen meist höher?",
+   "answer": "In Ländern mit Mehrheitswahlrecht",
+   "distractors": [
+    "In Ländern mit Verhältniswahlrecht",
+    "Gleich hoch in beiden Systemen",
+    "In Ländern mit Wahlpflicht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn Regierung und Opposition öfter die Plätze tauschen, haben die Leute eher das Gefühl, dass sich was bewegt. Die USA sind derzeit allerdings die Ausnahme, dort ist das Vertrauen massiv gesunken.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Demokratie",
+    "Wahlsystem"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 990,
+   "speaker": "Reinhard Heinisch",
+   "quote": "Parteien in den USA sind Vehikel, um Geld aufzustellen, also sind Fundraising-Vehicles, die dazu angetan sind, den wählbarsten",
+   "quote_clean": "Parteien in den USA sind Vehikel, um Geld aufzustellen, also Fundraising-Vehikel, die dazu da sind, den wählbarsten Kandidaten zum Wahlsieg zu verhelfen.",
+   "statement": "US-Parteien sind keine Mitgliederparteien wie in Europa, sondern vor allem Vehikel zum Geldsammeln für aussichtsreiche Kandidat:innen.",
+   "question": "Wie beschreibt Reinhard Heinisch die US-Parteien im Vergleich zu Europa?",
+   "answer": "Als Vehikel zum Geldsammeln",
+   "distractors": [
+    "Als Kopien von ÖVP und SPÖ",
+    "Als streng geführte Mitgliederparteien",
+    "Als reine Lobbyverbände der Wirtschaft"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Republikaner gleich ÖVP, Demokraten gleich SPÖ? Vergiss es. Eine US-Partei ist vor allem ein Apparat, der Geld sammelt und den Sieger der Vorwahl ins Ziel bringen soll.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "USA",
+    "Parteien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1026,
+   "speaker": "Reinhard Heinisch",
+   "quote": "dass ja Bernie Sanders, der ist ja ein Vertreter einer dritten Partei, der ist Sozialist und ist halt einer der wenigen der einer dritten Partei in den Kongress,",
+   "quote_clean": "Bernie Sanders ist ja ein Vertreter einer dritten Partei, er ist Sozialist und einer der wenigen einer dritten Partei im Kongress,",
+   "statement": "Bernie Sanders sitzt nicht als Demokrat im Senat, tritt aber bei den Präsidentschaftsvorwahlen der Demokraten an.",
+   "question": "Was ist das Besondere an Bernie Sanders' Kandidaturen bei den Demokraten?",
+   "answer": "Er gehört gar nicht zu den Demokraten",
+   "distractors": [
+    "Er war früher Republikaner",
+    "Er kandidierte ohne Vorwahl",
+    "Er ist nicht in den USA geboren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Österreich wäre das undenkbar: jemand von einer anderen Partei bewirbt sich um die Spitzenkandidatur. In den USA ist die Partei so offen, dass das akzeptiert wird.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "USA",
+    "Parteien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1164,
+   "speaker": "Reinhard Heinisch",
+   "quote": "da gibt es den Spruch Republicans fall in line, das heißt, die werden dann immer,",
+   "quote_clean": "Da gibt es den Spruch „Republicans fall in line“, das heißt, die ordnen sich dann unter.",
+   "statement": "Ein US-Spruch lautet: Republikaner reihen sich hinter dem Kandidaten ein, Demokraten müssen sich erst verlieben.",
+   "question": "Wie geht der US-Spruch weiter: „Democrats fall in love, Republicans …“?",
+   "answer": "fall in line",
+   "distractors": [
+    "fall apart",
+    "fall behind",
+    "fall in place"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Republikaner ordnen sich nach der Vorwahl dem Sieger unter, Demokraten müssen sich mit dem Kandidaten richtig identifizieren können. Hillary Clinton hat erlebt, was passiert, wenn das viele nicht schaffen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "USA",
+    "Parteien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1256,
+   "speaker": "Reinhard Heinisch",
+   "quote": "also Österreich war ja extrem in Lager segmentiert, wir hatten ja Autofahrerclubs und Tennisvereine und Fußballvereine, die alle nach Parteien organisiert waren,",
+   "quote_clean": "Österreich war ja extrem in Lager segmentiert, wir hatten ja Autofahrerclubs und Tennisvereine und Fußballvereine, die alle nach Parteien organisiert waren.",
+   "statement": "Im Nachkriegsösterreich waren sogar Autofahrerclubs und Sportvereine nach politischen Lagern organisiert.",
+   "question": "Was war im Nachkriegsösterreich nach Parteien organisiert?",
+   "answer": "Sogar Autofahrerclubs und Sportvereine",
+   "distractors": [
+    "Nur Gewerkschaften und Kammern",
+    "Nur die Schulen",
+    "Nur die Zeitungen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Rote und schwarze Autofahrerclubs, rote und schwarze Fußballvereine: Europa kannte tiefe Lagergräben. Deshalb hat man nach dem Krieg Konsenssysteme gebaut, die USA mit ihrer breiten Mitte brauchten das nie.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Österreich",
+    "Geschichte",
+    "Lager"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1297,
+   "speaker": "Reinhard Heinisch",
+   "quote": "weil die Veto-Punkte, die Veto-Spieler in den USA so stark sind, weil so viele diese Checks and Balances, das heißt, dass es überall Institutionen gibt, die Nein sagen können",
+   "quote_clean": "Weil die Veto-Punkte, die Veto-Spieler in den USA so stark sind, wegen dieser Checks and Balances, das heißt, es gibt überall Institutionen, die Nein sagen können.",
+   "statement": "Weil in den USA überall Institutionen Nein sagen können, braucht es für Veränderungen breite Mehrheiten aus der Mitte.",
+   "question": "Warum war die US-Politik lange sehr mittig?",
+   "answer": "Viele Veto-Spieler erzwingen breite Mehrheiten",
+   "distractors": [
+    "Es gab nur eine Partei",
+    "Die Verfassung verbietet Extreme",
+    "Der Präsident hat alle Macht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Checks and Balances heißt: Überall sitzt jemand, der blockieren kann. Um das zu überwinden, brauchst du breite Mehrheiten, und das hat die USA lange sehr mittig gemacht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "USA",
+    "Checks and Balances"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1370,
+   "speaker": "Reinhard Heinisch",
+   "quote": "Die Polarisierung führt zur Paralyse, die Paralyse führt zum Frust über das System und so sind wir momentan",
+   "quote_clean": "Die Polarisierung führt zur Paralyse, die Paralyse führt zum Frust über das System, und da sind wir momentan.",
+   "statement": "In den USA führt Polarisierung zu Blockade und Blockade zu Frust über das politische System.",
+   "question": "Wer beschreibt die US-Politik so: „Die Polarisierung führt zur Paralyse, die Paralyse zum Frust“?",
+   "answer": "Reinhard Heinisch",
+   "distractors": [
+    "Andreas Sator",
+    "Barack Obama",
+    "Ein Hörer in einer Zuschrift"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn ein System Einigung braucht, aber keiner mehr mitspielt, wird nichts entschieden. Das sieht man an der sinkenden Zahl beschlossener Gesetze, und davon profitieren die, die gegen das System anrennen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "USA",
+    "Polarisierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1390,
+   "speaker": "Reinhard Heinisch",
+   "quote": "das war ein Problem für 12% der Leute in den 70ern, jetzt sind wir bei fast 50%",
+   "quote_clean": "Das war ein Problem für 12 Prozent der Leute in den 70ern, jetzt sind wir bei fast 50 Prozent.",
+   "statement": "Fast die Hälfte der US-Amerikaner:innen hätte ein Problem, wenn ihr Kind jemanden von der anderen Partei heiratet; in den 1970ern waren es 12 Prozent.",
+   "question": "Wie viel Prozent der US-Amerikaner:innen stört es, wenn ihr Kind jemanden von der anderen Partei heiratet?",
+   "answer": "fast 50 Prozent",
+   "distractors": [
+    "etwa 12 Prozent",
+    "etwa 25 Prozent",
+    "etwa 75 Prozent"
+   ],
+   "number_value": 48,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "In den 70ern war das gerade einmal für 12 Prozent ein Problem. Dass es jetzt fast die Hälfte ist, zeigt, wie tief die Verachtung zwischen den Lagern inzwischen reicht.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "USA",
+    "Polarisierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1517,
+   "speaker": "Reinhard Heinisch",
+   "quote": "Es gibt ja keine Meldepflicht, es gibt keine Ausweispflicht, sie haben weder einen Pass noch einen Personalausweis,",
+   "quote_clean": "Es gibt ja keine Meldepflicht, es gibt keine Ausweispflicht, sie haben weder einen Pass noch einen Personalausweis.",
+   "statement": "In den USA gibt es weder Meldepflicht noch Ausweispflicht noch einen Personalausweis.",
+   "question": "Was gibt es in den USA im Gegensatz zu Österreich nicht?",
+   "answer": "Melde- und Ausweispflicht",
+   "distractors": [
+    "Briefwahl",
+    "Wahlbehörden",
+    "Wahlkreise"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine Wahl für 300 Millionen Leute ohne Identitätsnachweis, das wäre bei uns unvorstellbar. Darum musst du dich drüben eigens zur Wahl registrieren, oft reicht dafür die Stromrechnung.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "USA",
+    "Wahlen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1542,
+   "speaker": "Reinhard Heinisch",
+   "quote": "die Amerikaner zieht ja alle sieben Jahre um und zieht ja in andere Gegenden und da ist keine Meldepflicht,",
+   "quote_clean": "Die Amerikaner ziehen ja alle sieben Jahre um, in andere Gegenden, und da gibt es keine Meldepflicht.",
+   "statement": "Laut Reinhard Heinisch ziehen Amerikaner:innen im Schnitt etwa alle sieben Jahre um.",
+   "question": "Alle wie viele Jahre zieht ein:e Amerikaner:in im Schnitt um?",
+   "answer": "Alle 7 Jahre",
+   "distractors": [
+    "Alle 2 Jahre",
+    "Alle 15 Jahre",
+    "Alle 25 Jahre"
+   ],
+   "number_value": 7,
+   "number_unit": "Jahre",
+   "slider_min": 1,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Weil die Leute so oft umziehen und es keine Meldepflicht gibt, weiß der Staat schlicht nicht, wer wo wohnt. Deshalb muss man sich vor jeder Wahl selbst anmelden.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "USA",
+    "Wahlen",
+    "Mobilität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1553,
+   "speaker": "Reinhard Heinisch",
+   "quote": "Und das Ganze, die Organisation der Wahl ist rein auf lokaler Ebene. Also da gibt es kein Ministerium für Wahlen",
+   "quote_clean": "Die Organisation der Wahl ist rein auf lokaler Ebene. Da gibt es kein Ministerium für Wahlen.",
+   "statement": "US-Wahlen werden rein lokal organisiert, es gibt kein Wahlministerium und je nach Ort völlig unterschiedliche Regeln.",
+   "question": "Wer organisiert in den USA die Präsidentschaftswahl?",
+   "answer": "Lokale Behörden mit eigenen Regeln",
+   "distractors": [
+    "Ein nationales Wahlministerium",
+    "Die Bundespolizei FBI",
+    "Das Weiße Haus"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Es gibt zwar eine Bundeswahlbehörde, aber die sammelt nur die Zahlen ein. Organisiert wird vor Ort, finanziert aus den Gemeindesteuern, mit völlig unterschiedlichen Regeln von Ort zu Ort.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "USA",
+    "Wahlen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1887,
+   "speaker": "Reinhard Heinisch",
+   "quote": "die letzte Verfassungsänderung, der 27. Zusatz, der wurde noch vom Jefferson vorgeschlagen, also der hat 200 Jahre gedauert,",
+   "quote_clean": "Die letzte Verfassungsänderung, der 27. Zusatz, wurde noch zur Gründerzeit vorgeschlagen, der hat also 200 Jahre gedauert.",
+   "statement": "Der 27. Zusatzartikel, die bisher letzte Änderung der US-Verfassung, brauchte rund 200 Jahre vom Vorschlag bis zum Inkrafttreten.",
+   "question": "Wie viele Jahre dauerte es, bis die bisher letzte US-Verfassungsänderung in Kraft trat?",
+   "answer": "rund 200 Jahre",
+   "distractors": [
+    "rund 20 Jahre",
+    "rund 50 Jahre",
+    "rund 100 Jahre"
+   ],
+   "number_value": 200,
+   "number_unit": "Jahre",
+   "slider_min": 5,
+   "slider_max": 400,
+   "log_scale": true,
+   "aha": "Vorgeschlagen wurde der Zusatz 1789, ratifiziert erst 1992. Darum glaubt Reinhard nicht an eine Verfassungsreform, eher an einfache Gesetze, die den Präsidenten stärker einhegen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "USA",
+    "Verfassung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1984,
+   "speaker": "Andreas Sator",
+   "quote": "Es gibt auch nie unklare Mehrheiten, wie zum Beispiel in Belgien, wo es manchmal über ein Jahr keine Regierung gibt,",
+   "quote_clean": "Es gibt auch nie unklare Mehrheiten, wie zum Beispiel in Belgien, wo es manchmal über ein Jahr keine Regierung gibt.",
+   "statement": "In Belgien gab es wegen schwieriger Koalitionsbildung schon über ein Jahr lang keine reguläre Regierung.",
+   "question": "In welchem EU-Land gab es schon über ein Jahr lang keine gewählte Regierung?",
+   "answer": "Belgien",
+   "distractors": [
+    "Österreich",
+    "Dänemark",
+    "Portugal"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das ist die Kehrseite der Verhältniswahl: Viele Parteien müssen sich erst einigen, und das kann dauern. Belgien hat 2010/11 mehr als 500 Tage ohne neue Regierung geschafft, und das Land lief trotzdem weiter.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Belgien",
+    "Koalition"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 154,
+   "speaker": "Andreas Sator",
+   "quote": "Die mit Abstand häufigste Frage war relativ simpel. Warum haben die Amerikaner eigentlich so ein komisches Wahlsystem?",
+   "quote_clean": "Die mit Abstand häufigste Frage war relativ simpel: Warum haben die Amerikaner eigentlich so ein komisches Wahlsystem?",
+   "statement": "Die häufigste Hörer:innen-Frage zur Folge war, warum die USA so ein komisches Wahlsystem haben.",
+   "question": "Welche Frage haben Hörer:innen Andreas vor dieser Folge am häufigsten geschickt?",
+   "answer": "Warum die USA so komisch wählen",
+   "distractors": [
+    "Wer die Wahl gewinnen wird",
+    "Warum Wahlen am Dienstag sind",
+    "Wie Briefwahl in den USA geht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas sammelt vor jeder Folge Fragen von euch. Reinhards Antwort darauf: So komisch ist es gar nicht, viele englischsprachige Länder haben ein Mehrheitswahlrecht.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Podcast",
+    "USA"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "138",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

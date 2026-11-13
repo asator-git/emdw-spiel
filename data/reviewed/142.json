@@ -1,0 +1,275 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahl steht klar bei 1429 s und wird bei 1446/1469 wiederholt; als Schätzfrage gut spielbar.",
+   "stand_note": "Stand 2020",
+   "statement": "Ein Aufsichtsratsmandat in Österreich bringt laut Brigitte Ederer meist höchstens rund 20.000 Euro Aufwandsentschädigung pro Jahr.",
+   "question": "Bis zu wie viel Euro im Jahr bekommt ein Aufsichtsrat in Österreich laut Brigitte Ederer meistens?",
+   "answer": "Rund 20.000 Euro",
+   "distractors": [
+    "Rund 5.000 Euro",
+    "Rund 80.000 Euro",
+    "Rund 200.000 Euro"
+   ],
+   "aha": "Meistens sind es zwischen 10.000 und 20.000 Euro im Jahr, ohne Sitzungsgelder obendrauf. Auch Andreas hätte mit viel, viel mehr gerechnet. In großen deutschen Konzernen schaut das allerdings anders aus.",
+   "quote_clean": "In den meisten Fällen gibt es in Österreich in den Aufsichtsräten ungefähr 10.000 bis 20.000 Euro an Aufwandsentschädigung.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Andreas formuliert vorsichtig (\"denke ich\"), die 30 Prozent entsprechen aber dem österreichischen Gesetz (seit 2018); Aha enthielt nicht belegte Behauptung, daher umformuliert.",
+   "stand_note": "",
+   "statement": "In Österreich müssen in den Aufsichtsräten großer Unternehmen per Gesetz mindestens 30 Prozent Frauen sitzen.",
+   "question": "Wie viel Prozent der Aufsichtsratsmitglieder großer Unternehmen müssen in Österreich gesetzlich Frauen sein?",
+   "answer": "30 Prozent",
+   "distractors": [
+    "20 Prozent",
+    "40 Prozent",
+    "50 Prozent"
+   ],
+   "aha": "Für die ganz großen Unternehmen gibt es diese Quote, und Brigitte Ederer findet das wichtig und gut. Bei Vorständen gibt es so eine Regel nicht, und dort sitzen deutlich weniger Frauen als in Aufsichtsräten.",
+   "quote_clean": "Es gibt in Österreich ein Gesetz, wonach, denke ich, 30 Prozent des Aufsichtsrats von großen Unternehmen Frauen sein müssen.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Jahr 2018 stimmt (Andreas sagt \"ich glaube\"); quote_clean ließ die Unsicherheit weg, wiederhergestellt.",
+   "stand_note": "",
+   "statement": "Die gesetzliche Frauenquote für Aufsichtsräte großer Unternehmen gilt in Österreich seit 2018.",
+   "question": "Seit welchem Jahr gilt in Österreich die Frauenquote für Aufsichtsräte großer Unternehmen?",
+   "answer": "2018",
+   "distractors": [
+    "2008",
+    "2013",
+    "2022"
+   ],
+   "aha": "Die Quote ist also noch ziemlich jung. Für Vorstände gibt es so eine Regel laut Brigitte Ederer übrigens nicht.",
+   "quote_clean": "Es gibt in Österreich, ich glaube seit 2018, ein Gesetz.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Kernaussage belegt (1535 s); Aha enthielt Details (Wirtschaftsprüfer, Rechtsabteilung), die dort nicht stehen.",
+   "stand_note": "",
+   "statement": "Ein Aufsichtsrat trifft sich mindestens einmal pro Quartal, also mindestens viermal im Jahr, mit dem Vorstand.",
+   "question": "Wie oft im Jahr tagt ein Aufsichtsrat mindestens mit dem Vorstand?",
+   "answer": "Viermal",
+   "distractors": [
+    "Einmal",
+    "Zweimal",
+    "Zwölfmal"
+   ],
+   "aha": "Mindestens einmal pro Quartal sitzt der Aufsichtsrat mit dem Vorstand zusammen und bespricht, ob die Zahlen passen. Bei Bedarf kommen noch andere Leute aus dem Unternehmen dazu.",
+   "quote_clean": "Mindestens einmal im Quartal finden Sitzungen statt, wo der Aufsichtsrat mit dem Vorstand all diese Dinge und mehr bespricht.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Direkt belegt bei 248 s und 455 s; eindeutig.",
+   "stand_note": "",
+   "statement": "Der Aufsichtsrat entscheidet, wer in den Vorstand eines Unternehmens kommt und wer gehen muss.",
+   "question": "Wer bestellt in einer Aktiengesellschaft den Vorstand?",
+   "answer": "Der Aufsichtsrat",
+   "distractors": [
+    "Die Belegschaft",
+    "Der Wirtschaftsprüfer",
+    "Der Vorstand selbst"
+   ],
+   "aha": "Das Personalthema ist laut Brigitte Ederer eine der wichtigsten Aufgaben überhaupt. Ein Vorstandschef kann sich ja nicht selber bestellen, das macht der Aufsichtsrat.",
+   "quote_clean": "Eine der wichtigsten Aufgaben des Aufsichtsrats ist die Bestellung oder Abberufung von Vorständen.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Belegt bei 305-320 s; Antwort \"stellt fest\" ist Juristendeutsch und die Distraktoren ungleich lang, daher vereinfacht.",
+   "stand_note": "",
+   "statement": "Der Jahresabschluss eines Unternehmens wird vom Aufsichtsrat nicht nur zur Kenntnis genommen, sondern beschlossen.",
+   "question": "Was macht der Aufsichtsrat mit dem Jahresabschluss des Unternehmens?",
+   "answer": "Er beschließt ihn",
+   "distractors": [
+    "Er nimmt ihn nur zur Kenntnis",
+    "Er erstellt ihn selbst",
+    "Er hat damit nichts zu tun"
+   ],
+   "aha": "Am Ende des Jahres wird abgerechnet, und der Aufsichtsrat muss das Ergebnis aktiv beschließen. Er nickt also nicht nur ab, sondern trägt die Verantwortung mit.",
+   "quote_clean": "Und das muss der Aufsichtsrat letztendlich nicht nur zur Kenntnis nehmen, sondern auch beschließen.",
+   "quality": 2
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 328-363 s inklusive enger Zusammenarbeit mit dem Aufsichtsrat.",
+   "stand_note": "",
+   "statement": "Den Jahresabschluss prüfen externe Wirtschaftsprüfer, die eng mit dem Aufsichtsrat zusammenarbeiten.",
+   "question": "Wer prüft von außen, ob die Zahlen im Jahresabschluss stimmen?",
+   "answer": "Externe Wirtschaftsprüfer",
+   "distractors": [
+    "Die Finanzabteilung",
+    "Der Vorstand",
+    "Die Hauptversammlung"
+   ],
+   "aha": "Die Abschlussprüfer kommen bewusst von außerhalb des Unternehmens. Gemeinsam mit dem Aufsichtsrat schauen sie, ob das, was der Vorstand an Gewinn- und Verlustrechnungen vorlegt, wirklich okay ist.",
+   "quote_clean": "Ein weiterer wichtiger Punkt ist, dass der Abschluss von Externen geprüft wird, also von Menschen, die nicht im Unternehmen sind. Das sind Wirtschaftsprüfer, die schauen: Stimmen die Zahlen?",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 419-452 s; Antwort eindeutig.",
+   "stand_note": "",
+   "statement": "Der Aufsichtsrat ist nur bei der Bestellung des Vorstands der „Chef des Chefs“, ins Tagesgeschäft soll er sich nicht einmischen.",
+   "question": "Darf sich der Aufsichtsrat ins Tagesgeschäft eines Unternehmens einmischen?",
+   "answer": "Nein, das ist Sache des Vorstands",
+   "distractors": [
+    "Ja, er ist der oberste Chef",
+    "Nur der Vorsitzende darf das",
+    "Ja, aber nur bei Verlusten"
+   ],
+   "aha": "Der Aufsichtsrat übt Kontrolle aus, er führt das Unternehmen nicht. Chef des Chefs ist er nur in dem Moment, in dem er entscheidet, wer Vorstand wird.",
+   "quote_clean": "Im täglichen Geschäft ist man nicht der Chef, und der Aufsichtsrat sollte sich nicht in die Tagesarbeit einmischen.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 844-874 s (Grundrunde: Aufsichtsräte, Vorstand, Protokoll).",
+   "stand_note": "",
+   "statement": "Bei Aufsichtsratssitzungen sitzt normalerweise auch der Vorstand mit am Tisch, dazu jemand, der Protokoll führt.",
+   "question": "Wer sitzt bei einer normalen Aufsichtsratssitzung neben den Aufsichtsräten fix mit am Tisch?",
+   "answer": "Der Vorstand",
+   "distractors": [
+    "Die Betriebsversammlung",
+    "Die Aktionärinnen",
+    "Niemand sonst"
+   ],
+   "aha": "Die Grundrunde sind Aufsichtsräte, Vorstand und eine Person fürs Protokoll. Sitzungen ganz ohne Vorstand hat Brigitte Ederer in ihrer ganzen Laufbahn nur zwei- oder dreimal erlebt.",
+   "quote_clean": "Bei den Aufsichtsratssitzungen sind die Aufsichtsratsmitglieder und die Vorstände immer dabei.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 804-811 s; sinngemäß korrekt.",
+   "stand_note": "",
+   "statement": "Brigitte Ederer hält es für ein Problem, dass Aufsichtsräte zu wenig fragen, weil sie glauben, als Einzige etwas nicht zu verstehen.",
+   "question": "Welches Problem sieht Brigitte Ederer bei vielen Aufsichtsräten?",
+   "answer": "Sie fragen zu wenig nach",
+   "distractors": [
+    "Sie verdienen zu viel",
+    "Sie treffen sich zu oft",
+    "Sie mischen sich zu viel ein"
+   ],
+   "aha": "Ihr Rat: so lange fragen und dranbleiben, bis der Hausverstand es wirklich begriffen hat. Wer schweigt, weil er glaubt, als Einziger nichts zu checken, ist eine große Gefahr für das Gremium.",
+   "quote_clean": "Ich glaube, ein Problem von Aufsichtsräten ist, dass sie möglicherweise zu wenig fragen, weil sie denken, ich bin die Einzige, die das nicht versteht.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 770 s; Kontext (Studium der Unterlagen) stimmt.",
+   "stand_note": "",
+   "statement": "Brigitte Ederer sagt, man müsse sich als Aufsichtsrat beim Studieren der Unterlagen auf sein Bauchgefühl verlassen können.",
+   "question": "Worauf muss man sich laut Brigitte Ederer als Aufsichtsrat verlassen können, auch wenn es banal klingt?",
+   "answer": "Auf das eigene Bauchgefühl",
+   "distractors": [
+    "Auf den Wirtschaftsprüfer",
+    "Auf den Vorstandschef",
+    "Auf die Quartalszahlen allein"
+   ],
+   "aha": "Bei den Unterlagen fragt sie sich: Ist das gescheit, geht sich das alles aus, macht das Sinn? Ohne ein gutes Gespür bringt einem der dickste Stapel Papier wenig.",
+   "quote_clean": "Das klingt sehr banal, aber man muss sich auf sein Bauchgefühl verlassen können.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1487-1520 s (Andreas' Zusammenfassung); Frage klar und gut erklärend.",
+   "stand_note": "",
+   "statement": "Bei Aktiengesellschaften vertritt der Aufsichtsrat die vielen Aktionärinnen und Aktionäre, die dem Unternehmen ihr Geld gegeben haben.",
+   "question": "Warum braucht eine große Aktiengesellschaft einen Aufsichtsrat, ein kleines Ein-Personen-Unternehmen aber nicht?",
+   "answer": "Er vertritt die vielen Aktionär:innen",
+   "distractors": [
+    "Er zahlt die Steuern",
+    "Er ersetzt den Betriebsrat",
+    "Er führt die Buchhaltung"
+   ],
+   "aha": "Geht dein eigenes kleines Unternehmen pleite, ist das dein Geld und deine Sache. Bei einer AG haben aber oft Tausende Aktien gekauft, und der Aufsichtsrat schaut für sie, dass der Vorstand das Geld gut einsetzt.",
+   "quote_clean": "Da geben manchmal viele Tausend, Zehntausend Leute Geld, nämlich indem sie sich Aktien kaufen.",
+   "quality": 4
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Redundant zu Kandidat 0, als Frage schwach; Aha behauptet Details (Vorbereitung, \"Nein\" als Antwort auf Andreas), die so nicht belegt sind.",
+   "stand_note": "",
+   "statement": "Andreas ist überrascht, wie wenig Aufsichtsräte in Österreich verdienen, er hätte mit viel mehr gerechnet.",
+   "question": "Wie reagiert Andreas, als er hört, was Aufsichtsräte in Österreich verdienen?",
+   "answer": "Er hätte viel mehr erwartet",
+   "distractors": [
+    "Er findet es viel zu viel",
+    "Er will selbst Aufsichtsrat werden",
+    "Er glaubt es ihr nicht"
+   ],
+   "aha": "Die Frage nach dem Verdienst kam in der Vorbereitung gleich mehrmals. Brigitte Ederers trockene Antwort auf Andreas' Überraschung: „Nein.“ Bei ihren Mandaten bleibt es bei 10.000 bis 20.000 Euro im Jahr.",
+   "quote_clean": "Überrascht mich, ich hätte mit viel, viel mehr gerechnet.",
+   "quality": 1
+  },
+  {
+   "i": 19,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Meta-Frage ohne Wissensgewinn; Distraktoren sind reines Raten, Aha unterstellt etwas (\"Typisch Andreas\").",
+   "stand_note": "",
+   "statement": "Andreas steigt ins Thema ein, indem er so tut, als hätte er noch nie von einem Aufsichtsrat gehört, und ganz bei den Grundlagen anfängt.",
+   "question": "Wie steigt Andreas in das Gespräch über Aufsichtsräte ein?",
+   "answer": "Ganz bei den Grundlagen",
+   "distractors": [
+    "Mit dem Wirecard-Skandal",
+    "Mit der Frage nach dem Gehalt",
+    "Mit der Frauenquote"
+   ],
+   "aha": "Typisch Andreas: Er stellt sich ahnungslos, damit wirklich alle mitkommen. Die Fragen nach Skandalen und Geld kommen dann eh später.",
+   "quote_clean": "Brigitte, wir fangen einmal ganz bei den Grundlagen an. Wenn ich noch nie davon gehört habe, dass es überhaupt einen Aufsichtsrat gibt: Was ist das?",
+   "quality": 1
+  }
+ ],
+ "id": "142",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

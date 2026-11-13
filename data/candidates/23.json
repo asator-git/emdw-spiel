@@ -1,0 +1,737 @@
+{
+ "theme": "Gesellschaft & Kultur",
+ "summary": "Warum Kärntner anders reden als Mostviertler, woher das Hochdeutsche kommt und warum wir eh alle ein bisserl mehrsprachig sind.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 145,
+   "speaker": "Johanna Fanta",
+   "quote": "Man kann Österreich eben unter Teilen sozusagen vier Sprachräume. Wir haben das Alemannische ganz im Westen.",
+   "quote_clean": "Man kann Österreich in vier Sprachräume unterteilen. Wir haben das Alemannische ganz im Westen.",
+   "statement": "Österreich lässt sich in vier Dialekträume unterteilen.",
+   "question": "In wie viele Dialekträume lässt sich Österreich grob unterteilen?",
+   "answer": "4",
+   "distractors": [
+    "2",
+    "6",
+    "9"
+   ],
+   "number_value": 4,
+   "number_unit": "Dialekträume",
+   "slider_min": 1,
+   "slider_max": 12,
+   "log_scale": false,
+   "aha": "Alemannisch im Westen, dazu Mittelbairisch, Südbairisch und die südmittelbairische Übergangszone. Klingt überschaubar, aber innerhalb dieser Räume kann eh jedes Dorf sein eigenes Süppchen kochen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Dialekträume",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 151,
+   "speaker": "Johanna Fanta",
+   "quote": "Wir haben das Alemannische ganz im Westen. Das ist der Grund, warum wir Vorarlberger zum Beispiel nicht verstehen, weil es eben Alemannisch ist.",
+   "quote_clean": "Wir haben das Alemannische ganz im Westen. Das ist der Grund, warum wir Vorarlberger zum Beispiel nicht verstehen, weil es Alemannisch ist.",
+   "statement": "In Vorarlberg spricht man Alemannisch und nicht Bairisch wie im Rest Österreichs.",
+   "question": "Zu welcher Dialektfamilie gehört der Vorarlberger Dialekt?",
+   "answer": "Alemannisch",
+   "distractors": [
+    "Südbairisch",
+    "Mittelbairisch",
+    "Fränkisch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Vorarlberg gehört sprachlich zur selben Familie wie die Schweiz und Schwaben. Deshalb versteht man in Wien oft nur Bahnhof, wenn jemand aus Dornbirn loslegt.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Vorarlberg",
+    "Alemannisch"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 159,
+   "speaker": "Johanna Fanta",
+   "quote": "Der Rest von Österreich spricht normalerweise, oder der Dialektraum ist das Bayerische, Bayerisch mit AI geschrieben, also nicht nur das Bundesland Bayern.",
+   "quote_clean": "Der Dialektraum im Rest von Österreich ist das Bairische, Bairisch mit ai geschrieben, also nicht nur das Bundesland Bayern.",
+   "statement": "Fast ganz Österreich gehört zum bairischen Dialektraum, der mit „ai“ geschrieben wird und mehr als das Bundesland Bayern meint.",
+   "question": "Zu welcher Dialektfamilie gehören die meisten Dialekte in Österreich?",
+   "answer": "Zum Bairischen",
+   "distractors": [
+    "Zum Alemannischen",
+    "Zum Österreichischen",
+    "Zum Fränkischen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Mit „ai“ geschrieben ist Bairisch der Name der ganzen Dialektfamilie, nicht des deutschen Bundeslands. Ein Steirer redet also sprachwissenschaftlich gesehen Bairisch, ob er will oder nicht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bairisch",
+    "Dialektfamilie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 248,
+   "speaker": "Johanna Fanta",
+   "quote": "Also sozusagen ein Norddeutscher hat sich ja früher, wenn man jetzt vor 500 Jahren denkt, wohl kaum mit einem Menschen eben vielleicht aus dem Burgenland unterhalten können.",
+   "quote_clean": "Ein Norddeutscher hat sich früher, wenn man an die Zeit vor 500 Jahren denkt, wohl kaum mit einem Menschen aus dem Burgenland unterhalten können.",
+   "statement": "Vor rund 500 Jahren hätten sich ein Norddeutscher und ein Burgenländer kaum miteinander unterhalten können.",
+   "question": "Vor wie vielen Jahren hätten sich ein Norddeutscher und ein Burgenländer laut Johanna kaum verständigen können?",
+   "answer": "Vor rund 500 Jahren",
+   "distractors": [
+    "Vor rund 100 Jahren",
+    "Vor rund 1500 Jahren",
+    "Vor rund 50 Jahren"
+   ],
+   "number_value": 500,
+   "number_unit": "Jahre",
+   "slider_min": 50,
+   "slider_max": 1500,
+   "log_scale": false,
+   "aha": "Große Distanzen, Berge und Flüsse dazwischen, keine gemeinsame Standardsprache. Ohne Buchdruck, Radio und Schule hätten die beiden aneinander vorbeigeredet, obwohl sie im Prinzip Deutsch sprechen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sprachgeschichte",
+    "Verständigung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 279,
+   "speaker": "Johanna Fanta",
+   "quote": "Und das liegt dann oft einfach daran, dass wir natürliche Grenzen haben, wie zum Beispiel Berge oder Flüsse, die sozusagen einfach als Grenze da waren und die dann dazu geführt haben, dass gewisse Dinge nur in dem einen Ort geblieben sind.",
+   "quote_clean": "Und das liegt oft daran, dass wir natürliche Grenzen haben, wie zum Beispiel Berge oder Flüsse, die als Grenze da waren und dazu geführt haben, dass gewisse Dinge nur in dem einen Ort geblieben sind.",
+   "statement": "Natürliche Grenzen wie Berge und Flüsse sind ein Grund, warum sich schon benachbarte Dörfer im Dialekt unterscheiden.",
+   "question": "Warum können zwei Nachbardörfer in Österreich ganz unterschiedliche Dialekte haben?",
+   "answer": "Wegen natürlicher Grenzen wie Bergen",
+   "distractors": [
+    "Wegen verschiedener Pfarren",
+    "Wegen unterschiedlicher Schulbücher",
+    "Wegen alter Zollgrenzen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn ein Tal im Winter abgeschnitten war, blieben Wörter und Eigenheiten einfach dort. In einem Land mit so vielen Bergen wie Österreich ergibt das einen ordentlichen Fleckerlteppich.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Geografie",
+    "Dialekte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 404,
+   "speaker": "Johanna Fanta",
+   "quote": "Also Niederländisch zum Beispiel gehört auch zur niederdeutschen Sprachfamilie. Und es ist verwandt und man kann die Gemeinsamkeiten sehen,",
+   "quote_clean": "Niederländisch zum Beispiel gehört auch zur niederdeutschen Sprachfamilie. Es ist verwandt und man kann die Gemeinsamkeiten sehen.",
+   "statement": "Niederländisch gehört zur niederdeutschen Sprachfamilie, wie das Plattdeutsche.",
+   "question": "Zu welcher Sprachfamilie gehört Niederländisch?",
+   "answer": "Zur niederdeutschen",
+   "distractors": [
+    "Zur oberdeutschen",
+    "Zur nordgermanischen",
+    "Zur romanischen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Nieder- und Oberdeutsch haben sich schon sehr früh getrennt. Darum ist Plattdeutsch für uns fast eine Fremdsprache, während Niederländisch ein naher Verwandter davon ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Niederländisch",
+    "Sprachfamilie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 434,
+   "speaker": "Johanna Fanta",
+   "quote": "Aber man muss schon dazu sagen, dass der Dialekt wohl sozusagen in dem Sinne die natürlichere Sprache ist und man eher sich die Frage stellen muss, woher kommt eigentlich das Hochdeutsche,",
+   "quote_clean": "Man muss dazu sagen, dass der Dialekt in dem Sinne die natürlichere Sprache ist und man sich eher die Frage stellen muss, woher eigentlich das Hochdeutsche kommt.",
+   "statement": "Der Dialekt ist die natürlichere Sprache; erklärungsbedürftig ist eher, woher das Hochdeutsche kommt.",
+   "question": "Was ist laut Johanna die eigentlich spannendere Frage?",
+   "answer": "Woher das Hochdeutsche kommt",
+   "distractors": [
+    "Woher die Dialekte kommen",
+    "Warum Dialekte aussterben",
+    "Wer Dialekte erfunden hat"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Früher haben überall die Leute ihren lokalen Dialekt geredet. Kurios ist also nicht der Dialekt, sondern dass wir heute so etwas wie eine gemeinsame Standardsprache haben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Standardsprache",
+    "Hochdeutsch"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 496,
+   "speaker": "Johanna Fanta",
+   "quote": "Also man sagt eben bewusst auch in der Forschung deshalb Standardsprache und nicht Hochdeutsch, weil sozusagen nicht, man will nicht automatisch sagen, dass das eine besser oder höher wäre als das andere.",
+   "quote_clean": "Man sagt in der Forschung bewusst Standardsprache und nicht Hochdeutsch, weil man nicht automatisch sagen will, dass das eine besser oder höher wäre als das andere.",
+   "statement": "In der Sprachwissenschaft sagt man Standardsprache statt Hochdeutsch, um keine Wertung auszudrücken.",
+   "question": "Warum sagt die Sprachforschung lieber „Standardsprache“ als „Hochdeutsch“?",
+   "answer": "Es soll nicht besser klingen",
+   "distractors": [
+    "Hochdeutsch meint nur Norddeutschland",
+    "Der Begriff ist veraltet",
+    "Hochdeutsch ist ein Dialekt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "„Hoch“ klingt nach oben und unten, und genau diese Hierarchie will die Forschung vermeiden. Standard kommt von Standardisierung, also dem gemeinsamen Nenner, nicht von vornehm.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Standardsprache",
+    "Begriffe"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 538,
+   "speaker": "Johanna Fanta",
+   "quote": "Luther hat zum Beispiel versucht, Begriffe zu finden in seinen Übersetzungen, die im gesamten Sprachraum verstanden werden.",
+   "quote_clean": "Luther hat zum Beispiel versucht, in seinen Übersetzungen Begriffe zu finden, die im gesamten Sprachraum verstanden werden.",
+   "statement": "Martin Luther suchte für seine Bibelübersetzung Wörter, die im ganzen deutschen Sprachraum verstanden wurden.",
+   "question": "Wer trug mit einer Übersetzung zur Entstehung eines einheitlichen Deutsch bei?",
+   "answer": "Martin Luther",
+   "distractors": [
+    "Johann Wolfgang von Goethe",
+    "Johannes Gutenberg",
+    "Kaiserin Maria Theresia"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Luther stand vor dem Problem, welche Wörter er nimmt, damit ihn möglichst viele verstehen. Seine Bibel wurde dann zu einem der Bausteine für das gemeinsame Deutsch.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Luther",
+    "Bibel",
+    "Standardsprache"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 547,
+   "speaker": "Johanna Fanta",
+   "quote": "Und als das dann eben durch den Buchdruck quasi multipliziert wurde, also vermehrt wurde, die Bücher in die Privathaushalte gekommen sind, hat das beigetragen zu einer Sanatisierung.",
+   "quote_clean": "Und als das durch den Buchdruck multipliziert wurde und die Bücher in die Privathaushalte gekommen sind, hat das zu einer Standardisierung beigetragen.",
+   "statement": "Der Buchdruck brachte Bücher in die Haushalte und trug so zur Standardisierung des Deutschen bei.",
+   "question": "Welche Erfindung half, Luthers einheitliche Wörter im ganzen Sprachraum zu verbreiten?",
+   "answer": "Der Buchdruck",
+   "distractors": [
+    "Die Eisenbahn",
+    "Der Telegraf",
+    "Die Post"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Erst als Bücher massenhaft in die Haushalte kamen, verbreitete sich eine gemeinsame Schriftsprache. Später erledigten Radio und Fernsehen denselben Job, nur lauter.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Buchdruck",
+    "Standardsprache"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 606,
+   "speaker": "Johanna Fanta",
+   "quote": "Also auch unsere Großeltern sind wahrscheinlich von ihren Großeltern schon gerügt worden für ihre schlechte Sprache.",
+   "quote_clean": "Auch unsere Großeltern sind wahrscheinlich von ihren Großeltern schon gerügt worden für ihre schlechte Sprache.",
+   "statement": "Die Klage über den Verfall der Sprache ist uralt, schon frühere Generationen wurden dafür gerügt.",
+   "question": "Wer sagt: „Auch unsere Großeltern sind wahrscheinlich von ihren Großeltern schon gerügt worden für ihre schlechte Sprache“?",
+   "answer": "Johanna Fanta",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Hörer namens Lukas",
+    "Martin Luther"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Dialektsterben ist ein Dauerbrenner in den Medien. Johanna sieht Sprache aber als etwas, das sich ständig wandelt, und das ist nicht automatisch schlecht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sprachwandel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 682,
+   "speaker": "Johanna Fanta",
+   "quote": "Dialekt ist sozusagen die kleinste räumliche Sprachform, die es gibt. So könnte man es ja vereinfacht ausdrücken.",
+   "quote_clean": "Dialekt ist die kleinste räumliche Sprachform, die es gibt. So könnte man es vereinfacht ausdrücken.",
+   "statement": "Eine Definition von Dialekt lautet: die kleinste räumliche Sprachform, die es gibt.",
+   "question": "Wie lässt sich ein Dialekt vereinfacht definieren?",
+   "answer": "Kleinste räumliche Sprachform",
+   "distractors": [
+    "Falsch gesprochene Standardsprache",
+    "Sprache ohne Schriftform",
+    "Sprache einer Altersgruppe"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Es gibt viele Definitionen und die Fachleute streiten gern darüber. Räumlich gedacht ist der Dialekt aber die Sprache des kleinsten Gebiets, manchmal eines einzelnen Dorfs.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Definition",
+    "Dialekt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 713,
+   "speaker": "Johanna Fanta",
+   "quote": "Aber gleichzeitig bilden sich sozusagen wieder Untergruppen heraus, also Subsprachen, kleinere. Und die sind dann aber nicht unbedingt regional, sondern dann eben zum Beispiel auf ein Medium bezogen, Chatsprache oder auf eine Altersgruppe.",
+   "quote_clean": "Aber gleichzeitig bilden sich wieder Untergruppen heraus, also kleinere Subsprachen. Die sind dann nicht unbedingt regional, sondern zum Beispiel auf ein Medium bezogen, Chatsprache, oder auf eine Altersgruppe.",
+   "statement": "Während regionale Unterschiede schrumpfen, entstehen neue Subsprachen, etwa Chatsprache oder Jugendsprache.",
+   "question": "Was entsteht, während die regionalen Dialektunterschiede kleiner werden?",
+   "answer": "Neue Subsprachen wie Chatsprache",
+   "distractors": [
+    "Gar nichts Neues",
+    "Neue Dorfdialekte",
+    "Eine einheitliche Weltsprache"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Sprache wird großräumiger, aber nicht langweiliger. Statt nach Dorf sortiert sie sich jetzt eben nach Medium oder Alter, lol inklusive.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Jugendsprache",
+    "Internet"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 933,
+   "speaker": "Johanna Fanta",
+   "quote": "In Frankreich zum Beispiel war Paris immer recht zentral, also für alles. Die meisten Entscheidungen wurden immer in Paris getroffen, also sehr zentralistisch. Und dadurch ist auch die französische Sprachpolitik anders.",
+   "quote_clean": "In Frankreich zum Beispiel war Paris immer sehr zentral, für alles. Die meisten Entscheidungen wurden in Paris getroffen, sehr zentralistisch. Dadurch ist auch die französische Sprachpolitik anders.",
+   "statement": "Weil in Frankreich Paris immer das Zentrum war, ist die Sprachpolitik dort zentralistisch mit klaren Regeln.",
+   "question": "Warum gibt es im Französischen so klare Regeln, was richtig und falsch ist?",
+   "answer": "Paris war immer das Zentrum",
+   "distractors": [
+    "Französisch hat keine Dialekte",
+    "Wegen der Kolonien",
+    "Wegen der EU-Sprachregeln"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Im deutschen Sprachraum gab es dagegen nie nur ein Zentrum, sondern Wien, Berlin, Zürich und viele mehr. Darum hat sich bei uns alles parallel entwickelt, und kein Amt in einer Hauptstadt sagt allen, wie es geht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Frankreich",
+    "Sprachpolitik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 995,
+   "speaker": "Johanna Fanta",
+   "quote": "Da ist es zum Beispiel auch so, dass man immer schon gesagt hat, Forma villach oder Gemma stadt. Und es gibt schon, also es gibt legitime Theorien, dass es zum Beispiel aus dem Slowenischen kommt,",
+   "quote_clean": "Da ist es auch so, dass man immer schon gesagt hat: Fahr ma Villach oder Gemma Stadt. Und es gibt legitime Theorien, dass das zum Beispiel aus dem Slowenischen kommt.",
+   "statement": "Das Kärntner „Gemma Stadt“ ohne Präposition stammt laut einer Theorie aus dem Slowenischen.",
+   "question": "Aus welcher Sprache könnte laut einer Theorie das Kärntner „Gemma Stadt“ kommen?",
+   "answer": "Aus dem Slowenischen",
+   "distractors": [
+    "Aus dem Italienischen",
+    "Aus dem Ungarischen",
+    "Aus dem Türkischen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Wiener „Treff ma uns Stephansplatz“ ist also gar nicht so neu, wie man glaubt. In Kärnten lässt man die Präposition schon lange weg, wahrscheinlich dank der slowenischen Nachbarschaft.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kärnten",
+    "Slowenisch",
+    "Migration"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1031,
+   "speaker": "Johanna Fanta",
+   "quote": "Und das ist für bundesdeutsche Sprecher ganz schräg. Also für die ist es seltsam, wenn man auf etwas denkt. Für die ist es an etwas denken. Und da gibt es eben Theorien, dass das noch aus der Zeit der Monarchie aus dem Tschechischen kommt.",
+   "quote_clean": "Das ist für bundesdeutsche Sprecher ganz schräg. Für die ist es seltsam, wenn man auf etwas denkt. Für die ist es an etwas denken. Es gibt Theorien, dass das noch aus der Zeit der Monarchie aus dem Tschechischen kommt.",
+   "statement": "Das österreichische „auf etwas denken“ stammt laut einer Theorie aus der Monarchie und aus dem Tschechischen.",
+   "question": "Woher könnte das österreichische „auf etwas denken“ stammen?",
+   "answer": "Aus dem Tschechischen",
+   "distractors": [
+    "Aus dem Französischen",
+    "Aus dem Jiddischen",
+    "Aus dem Lateinischen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Deutsche denken „an“ den Schlüssel, wir „auf“ ihn. Die Theorie dahinter: Zuwanderung aus Böhmen und Mähren zur Zeit der Monarchie hat das Wienerische geprägt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Tschechisch",
+    "Monarchie",
+    "Migration"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1244,
+   "speaker": "Johanna Fanta",
+   "quote": "Und das aber führt eigentlich zu diesem wunderbaren Phänomen, dass wir in Österreich, ich sage es jetzt pauschal, das trifft vielleicht nicht auf jeden Menschen zu, aber dass wir so eine Art innere Mehrsprachigkeit haben.",
+   "quote_clean": "Das führt eigentlich zu diesem wunderbaren Phänomen, dass wir in Österreich, pauschal gesagt, so eine Art innere Mehrsprachigkeit haben.",
+   "statement": "Viele Menschen in Österreich haben eine Art innere Mehrsprachigkeit: Sie wechseln je nach Situation zwischen Dialekt und Standard.",
+   "question": "Wie nennt Johanna die Fähigkeit vieler Österreicher:innen, je nach Situation zwischen Sprachformen zu wechseln?",
+   "answer": "Innere Mehrsprachigkeit",
+   "distractors": [
+    "Dialektschwund",
+    "Sprachverlust",
+    "Doppelte Muttersprache"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Beim Wirt redest du anders als im Bewerbungsgespräch, und das ganz automatisch. Johanna findet das wunderbar, weil darin auch mehrere Identitäten stecken.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mehrsprachigkeit",
+    "Identität"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1229,
+   "speaker": "Johanna Fanta",
+   "quote": "diese Wahrnehmungen, diese Meinungen, auch jetzt in den letzten 15 Jahren viel stärker auch in die Forschung gelangt sind.",
+   "quote_clean": "Diese Wahrnehmungen, diese Meinungen sind in den letzten 15 Jahren viel stärker in die Forschung gelangt.",
+   "statement": "Wie Menschen Dialekte wahrnehmen und bewerten, ist erst in den letzten rund 15 Jahren stärker in die Forschung gelangt.",
+   "question": "Seit wie vielen Jahren spielen persönliche Wahrnehmungen von Sprache laut Johanna stärker in der Forschung mit (Stand 2018)?",
+   "answer": "Seit rund 15 Jahren",
+   "distractors": [
+    "Seit rund 50 Jahren",
+    "Seit rund 3 Jahren",
+    "Seit rund 100 Jahren"
+   ],
+   "number_value": 15,
+   "number_unit": "Jahre",
+   "slider_min": 1,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Früher galt: ein Ort, ein Dialekt. Heute fragt die Forschung auch, wie Sprache wirkt, etwa ob Standarddeutsch kompetenter klingt, und warum wir uns danach richten.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Sprachforschung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1445,
+   "speaker": "Johanna Fanta",
+   "quote": "die meisten Österreicherinnen und Österreicher unterscheiden zum Beispiel nicht zwischen P und B. Also es ist relativ, man sagt der Paul und der Peter und es ist ein relativ weiches B.",
+   "quote_clean": "Die meisten Österreicherinnen und Österreicher unterscheiden zum Beispiel nicht zwischen P und B. Man sagt der Paul und der Peter mit einem relativ weichen B.",
+   "statement": "Die meisten Österreicher:innen unterscheiden beim Sprechen kaum zwischen P und B, während man in Deutschland das P behaucht.",
+   "question": "Welche zwei Laute unterscheiden die meisten Österreicher:innen kaum?",
+   "answer": "P und B",
+   "distractors": [
+    "S und Z",
+    "F und W",
+    "K und T"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Deutschland und im Englischen wird das P behaucht, bei uns klingt Peter eher wie Beter. Im Spanischen ist das wiederum ein Vorteil, weil man dort genau so weich spricht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Aussprache",
+    "Phonetik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1471,
+   "speaker": "Johanna Fanta",
+   "quote": "in den romanischen Sprachen sagt man eben Pedro, zum Beispiel im Spanischen und dann wird dann das gleiche B wie in Österreich verlangt.",
+   "quote_clean": "In den romanischen Sprachen, zum Beispiel im Spanischen, sagt man Pedro, und da wird das gleiche B wie in Österreich verlangt.",
+   "statement": "Das weiche österreichische P entspricht der Aussprache in romanischen Sprachen wie Spanisch.",
+   "question": "Beim Lernen welcher Sprache hilft die österreichische Aussprache von P eher?",
+   "answer": "Spanisch",
+   "distractors": [
+    "Englisch",
+    "Deutsch aus Deutschland",
+    "Dänisch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Beim Englischen machen wir das P ohne Hauch unter Anführungszeichen falsch. Beim Spanischen aber passt unser weiches P genau, der Dialekt kann also beim Sprachenlernen helfen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Sprachenlernen",
+    "Aussprache"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1565,
+   "speaker": "Andreas Sator",
+   "quote": "Je weiter man nach Oberösterreich geht, desto eher sagen die Leute, es ist, wenn es jetzt 18.15 Uhr ist, ist es Viertel sieben.",
+   "quote_clean": "Je weiter man nach Oberösterreich geht, desto eher sagen die Leute, wenn es 18.15 Uhr ist: Es ist Viertel sieben.",
+   "statement": "In Teilen Oberösterreichs bedeutet „Viertel sieben“ 18.15 Uhr.",
+   "question": "Wie spät ist es, wenn jemand in Oberösterreich „Viertel sieben“ sagt?",
+   "answer": "18.15 Uhr",
+   "distractors": [
+    "18.45 Uhr",
+    "19.15 Uhr",
+    "18.30 Uhr"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gemeint ist: Ein Viertel der Stunde auf sieben ist schon vergangen. Im Atlas der deutschen Alltagssprache sieht man, dass sich das wie ein Fleckerlteppich über den ganzen Sprachraum zieht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Uhrzeit",
+    "Alltagssprache"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1632,
+   "speaker": "Johanna Fanta",
+   "quote": "also die sogenannte L-Vokalisierung, sprichst du ein L aus oder nicht bei Fördern wie zum Beispiel Geld.",
+   "quote_clean": "Die sogenannte L-Vokalisierung: Sprichst du ein L aus oder nicht, bei Wörtern wie zum Beispiel Geld.",
+   "statement": "Ob man das L in Wörtern wie „Geld“ ausspricht oder zu einem Vokal macht, nennt man L-Vokalisierung.",
+   "question": "Wie heißt es in der Sprachwissenschaft, wenn das L in „Geld“ zu einem Vokal wird?",
+   "answer": "L-Vokalisierung",
+   "distractors": [
+    "L-Assimilation",
+    "Konsonantenschwund",
+    "Lautverschiebung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das mittelbairische „Göd“ und das kärntnerische Geld mit L verraten sofort, woher jemand kommt. Je weiter nach Osten, desto eher wird aus Spiel ein Spü.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Aussprache",
+    "L-Vokalisierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1540,
+   "speaker": "Johanna Fanta",
+   "quote": "dass halt gerade im Kabarett ist einfach die perfekte Plattform, um diese Klischees bewusst einzusetzen.",
+   "quote_clean": "Gerade das Kabarett ist die perfekte Plattform, um diese Klischees bewusst einzusetzen.",
+   "statement": "Kabarettist:innen setzen Dialekt bewusst ein, um mit Klischees zu spielen.",
+   "question": "Warum arbeiten laut Johanna so viele Kabarettist:innen mit Dialekt?",
+   "answer": "Um bewusst mit Klischees zu spielen",
+   "distractors": [
+    "Weil Dialekt lustiger klingt",
+    "Weil das Publikum es verlangt",
+    "Weil sie Hochdeutsch nicht können"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer kurz aristokratisch redet und dann wie ein Straßenverkäufer, zeichnet mit zwei Sätzen zwei Figuren. Der Dialekt ist im Kabarett also eher Werkzeug als Zufall.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kabarett",
+    "Humor"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 57,
+   "speaker": "Andreas Sator",
+   "quote": "Das war jetzt Mostviertlerisch, denn heute reden wir über Dialekte, woher sie kommen und was man über sie wissen muss.",
+   "quote_clean": "Das war jetzt Mostviertlerisch, denn heute reden wir über Dialekte, woher sie kommen und was man über sie wissen muss.",
+   "statement": "Andreas begrüßt in dieser Folge auf Mostviertlerisch.",
+   "question": "In welchem Dialekt begrüßt Andreas in der Dialekt-Folge?",
+   "answer": "Mostviertlerisch",
+   "distractors": [
+    "Wienerisch",
+    "Kärntnerisch",
+    "Vorarlbergerisch"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas ist Bauernkind aus dem Mostviertel und hat dort seine Sprache gelernt. Für eine Dialekt-Folge war das Intro also quasi Heimvorteil.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Mostviertel",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 1579,
+   "speaker": "Andreas Sator",
+   "quote": "Was mich seit 15 Jahren verrückt macht und ich bis heute nachdenken muss. Weiß man, woher das kommt?",
+   "quote_clean": "Was mich seit 15 Jahren verrückt macht und worüber ich bis heute nachdenken muss. Weiß man, woher das kommt?",
+   "statement": "Andreas macht die Uhrzeitangabe „Viertel sieben“ seit 15 Jahren verrückt.",
+   "question": "Was macht Andreas laut eigener Aussage seit 15 Jahren verrückt?",
+   "answer": "„Viertel sieben“ als Uhrzeit",
+   "distractors": [
+    "Das Wort „Treffma“",
+    "Der Vorarlberger Dialekt",
+    "Das weiche B"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "An der Grenze von Nieder- zu Oberösterreich sagt man einmal „Viertel über Sechse“ und ein paar Kilometer weiter „Viertel sieben“. Für Andreas seit der Schulzeit ein Rechenrätsel.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Uhrzeit",
+    "Andreas"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "23",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

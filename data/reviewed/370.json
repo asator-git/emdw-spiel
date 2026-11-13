@@ -1,0 +1,282 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg passt (Claude-Agenten, 30 Stunden; 'Clod' ist verhört für Claude). Momentaufnahme Herbst 2025.",
+   "stand_note": "Stand 2025",
+   "statement": "Im Herbst 2025 präsentierte Anthropic KI-Agenten von Claude, die rund 30 Stunden am Stück autonom arbeiten können.",
+   "question": "Wie viele Stunden am Stück konnten die neuesten Claude-Agenten im Herbst 2025 laut Malcolm autonom arbeiten?",
+   "answer": "30 Stunden",
+   "distractors": [
+    "3 Stunden",
+    "8 Stunden",
+    "72 Stunden"
+   ],
+   "aha": "Ein Jahr davor haben sich Agenten nach etwa 20 Minuten verlaufen, dann waren es zwei Stunden, jetzt 30. Kein Mensch arbeitet so lang konzentriert durch, eh klar, aber das Tempo der Kurve ist das eigentlich Verrückte.",
+   "quote_clean": "Vor ein, zwei Monaten konnten sie zwei Stunden lang funktionieren, und vor einem Monat hat Claude Agenten gezeigt, die 30 Stunden laufen.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt; 66 Tage entspricht der bekannten Studie (Durchschnitt, große Streuung).",
+   "stand_note": "",
+   "statement": "Laut Gewohnheitsforschung braucht es im Schnitt etwa 66 Tage, bis eine neue Routine sitzt.",
+   "question": "Wie viele Tage braucht es laut Forschung im Schnitt, bis eine neue Gewohnheit sitzt?",
+   "answer": "66 Tage",
+   "distractors": [
+    "21 Tage",
+    "30 Tage",
+    "120 Tage"
+   ],
+   "aha": "Die berühmten 21 Tage sind ein Mythos, die Studie dazu kommt im Schnitt auf rund 66. Darum rät Malcolm, sich KI-Agenten nicht drei Tage lang anzuschauen, sondern 66 Tage jeden Tag ein paar Minuten.",
+   "quote_clean": "Die Forschung zeigt: 66 Tage, um eine Routine aufzubauen.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "veraltet"
+   ],
+   "note": "Zahl steht so im Transkript, ist aber eine anschauliche Größenordnung; Aha-Behauptung über Browser-Absturz war nicht belegt und wurde entfernt.",
+   "stand_note": "Stand 2025",
+   "statement": "Eine Deep-Research-Anfrage öffnet laut Malcolm innerhalb von etwa zehn Minuten rund 300 Webseiten und fasst sie zu einem Bericht zusammen.",
+   "question": "Wie viele Tabs öffnet eine Deep-Research-KI laut Malcolm in etwa zehn Minuten?",
+   "answer": "Rund 300 Tabs",
+   "distractors": [
+    "Rund 15 Tabs",
+    "Rund 50 Tabs",
+    "Rund 5000 Tabs"
+   ],
+   "aha": "Die KI klappert in kurzer Zeit hunderte Seiten ab und fasst sie zusammen. Raus kommt ein Bericht, für den du dann selbst eine halbe Stunde zum Lesen brauchst.",
+   "quote_clean": "Du sagst: Was sind die Top 20 Sachen, die ich machen muss, um mich in meinem Job zu verbessern? Und der macht innerhalb von zehn Minuten 300 Tabs auf.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "beleg"
+   ],
+   "note": "Gerichtsanordnung (NYT-Verfahren) wurde später gelockert/aufgehoben; Aussage ist heute irreführend und von Malcolm ungenau wiedergegeben ('verloren').",
+   "stand_note": "",
+   "statement": "Nach einer Gerichtsentscheidung in den USA im Juni 2025 durfte OpenAI Chats von Nutzer:innen nicht mehr löschen.",
+   "question": "Was musste OpenAI nach einer US-Gerichtsentscheidung im Juni 2025 tun?",
+   "answer": "Chats dürfen nicht mehr gelöscht werden",
+   "distractors": [
+    "Alle Chats sofort löschen",
+    "Werbung in Chats verbieten",
+    "Gratisversion komplett abschalten"
+   ],
+   "aha": "Hintergrund ist eine Urheberrechtsklage, in der Chats als Beweismittel aufbewahrt werden müssen. Für Firmen heißt das: Was Mitarbeitende in Gratis-Konten eintippen, kann eines Tages vor einem US-Gericht landen.",
+   "quote_clean": "Die haben im Juni vor Gericht verloren. Und dieses Gerichtsurteil hat gesagt: Ihr dürft keine Chats mehr löschen.",
+   "quality": 1
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Begriff Shadow AI belegt; 70-Prozent-Angabe im aha ist Malcolms Aussage aus Firmenerfahrung.",
+   "stand_note": "",
+   "statement": "Wenn Mitarbeitende ohne Freigabe der Firma private KI-Tools für die Arbeit nutzen, nennt man das Shadow AI.",
+   "question": "Wie nennt man es, wenn Mitarbeitende heimlich private KI-Tools für die Arbeit verwenden?",
+   "answer": "Shadow AI",
+   "distractors": [
+    "Ghost Computing",
+    "Dark Prompting",
+    "Silent Cloud"
+   ],
+   "aha": "Während die Chefetage noch an der KI-Strategie feilt, tippen die Leute längst in ChatGPT. Malcolm erzählt von Firmen, in denen das laut seinem Eindruck rund 70 Prozent der Belegschaft tun, und die Firmendaten wandern dabei munter mit.",
+   "quote_clean": "Eure Mitarbeiter nutzen das schon. Das nennt sich nicht Shadow IT, das nennt sich Shadow AI.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Lovable und 100 Mio. wiederkehrender Umsatz in wenigen Monaten stimmen; aha zu Siebenjähriger präzisiert, da nicht klar ist, dass es seine Tochter ist.",
+   "stand_note": "Stand 2025",
+   "statement": "Die KI-Plattform Lovable, mit der man per Texteingabe Websites und Programme bauen kann, wuchs in nur wenigen Monaten auf 100 Millionen wiederkehrenden Jahresumsatz.",
+   "question": "Welche KI-Plattform zum Bauen von Websites wuchs in wenigen Monaten auf 100 Millionen wiederkehrenden Umsatz?",
+   "answer": "Lovable",
+   "distractors": [
+    "Canva",
+    "Notion",
+    "Wix"
+   ],
+   "aha": "Man beschreibt einfach, was man will, und Lovable baut die Seite samt Design. Malcolms Beispiel: Eine Siebenjährige tippt ein, sie möchte etwas über Aktien lernen, und bekommt eine interaktive Website mit Bildern.",
+   "quote_clean": "Es ist die Website, die am schnellsten in der Geschichte der Menschheit von 0 auf 100 Millionen wiederkehrenden Umsatz gewachsen ist. In Monaten.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt, Analogie klar, aha deckt sich mit dem Ausschnitt.",
+   "stand_note": "",
+   "statement": "KI-Agenten kann man sich vorstellen wie die Szene aus Matrix, in der sich Neo Kung-Fu als fertige Fähigkeit herunterlädt.",
+   "question": "Mit welcher Filmszene erklärt Malcolm, was KI-Agenten sind?",
+   "answer": "Neo lädt sich in Matrix Kung-Fu herunter",
+   "distractors": [
+    "HAL 9000 verweigert in 2001 den Befehl",
+    "R2-D2 hackt in Star Wars Türen",
+    "Marty springt mit dem DeLorean zurück"
+   ],
+   "aha": "Du weißt nicht, wie man eine Unternehmensstrategie aufsetzt? Statt lang zu prompten, holst du dir einen Agenten, der das kann, gibst ihm deine Daten und sagst: fang an. Das Bild hat Malcolm übrigens aus einem TikTok.",
+   "quote_clean": "Weißt du, wo Neo sagt, ich will jetzt Kung-Fu lernen, und eine Minute später kann er Kung-Fu. Das ist für sich ein Skill, den hat sich Neo in einer Sekunde runtergeladen.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Ford-Vergleich belegt; 'Reisekostenabrechnung' im aha ist im Ausschnitt nicht belegt und wurde neutral formuliert.",
+   "stand_note": "",
+   "statement": "KI-Agenten funktionieren wie Henry Fords Fließband: Ein großer Arbeitsschritt wird in viele kleine zerlegt, und jeder Agent übernimmt einen davon.",
+   "question": "Mit welchem Pionier der Industriegeschichte vergleicht Malcolm das Arbeiten mit mehreren KI-Agenten?",
+   "answer": "Henry Ford und dem Fließband",
+   "distractors": [
+    "Thomas Edison und der Glühbirne",
+    "James Watt und der Dampfmaschine",
+    "Gottlieb Daimler und dem Motor"
+   ],
+   "aha": "Bei Ford hat nicht mehr eine Person alles gebaut, sondern einer schraubt, einer legt zusammen, einer kontrolliert. Genauso bei Agenten: Einer benennt PDFs um, einer trägt sie in Excel ein, einer prüft noch einmal drüber.",
+   "quote_clean": "Eigentlich würden wir heute sagen, Ford war der Erste, der Agenten genutzt hat.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Beleg passt (Malcolms Meinung); schwache Distraktoren ersetzt; Zusagen zum Training sind Stand 2025.",
+   "stand_note": "Stand 2025",
+   "statement": "Viele Firmen scheuen aus Datenschutzgründen Microsofts KI, obwohl ihre geheimen E-Mails und Dateien in Outlook und OneDrive ohnehin in der Microsoft-Cloud liegen.",
+   "question": "Warum hält Malcolm Datenschutz bei vielen Firmen für eine Ausrede, Microsofts KI nicht zu nutzen?",
+   "answer": "Ihre Daten liegen schon in Microsofts Cloud",
+   "distractors": [
+    "Ihre Daten liegen auf eigenen Servern",
+    "KI verarbeitet keine personenbezogenen Daten",
+    "Datenschutzgesetze gelten für KI nicht"
+   ],
+   "aha": "Die eigentliche Sorge ist, dass das Modell mit den Firmendaten trainiert wird. Laut Malcolm schließt Microsoft das bei Copilot aus, und bei Claude oder ChatGPT gibt es Einstellungen oder Enterprise-Lizenzen dafür.",
+   "quote_clean": "Das heißt, wenn die in Outlook sind, liegen sie auf der Cloud von Microsoft.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Zitat belegt; aha enthielt Details (Claude für Texte und Dashboards), die im Ausschnitt fehlen. Als Wer-hat's-gesagt eher schwach.",
+   "stand_note": "",
+   "statement": "Malcolm rät, nicht nur ein einziges KI-Modell zu nutzen, sondern mehrere, weil jedes für etwas anderes gut ist.",
+   "question": "Wer rät im Podcast: „Sei nicht monogamisch“ – gemeint ist die Treue zu nur einem KI-Modell?",
+   "answer": "Malcolm Werchota",
+   "distractors": [
+    "Andreas Sator",
+    "Ethan Mollick",
+    "Richard David Precht"
+   ],
+   "aha": "Die meisten haben sich in ChatGPT verliebt und bleiben dabei. Malcolm nennt das Gegenmittel Multi-LLM-Ansatz: mehrere KI nutzen, weil jede für etwas anderes gut ist, und bei größeren Fragen ruhig alle drei fragen.",
+   "quote_clean": "Ich würde einfach sagen: Sei nicht monogamisch. Ich weiß, es heißt angeblich monogam, man korrigiert mich immer, aber bitte hört auf, monogamisch zu sein, Leute.",
+   "quality": 2
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Panzer-Vergleich belegt (CEO mit Panzergrenadier-Erfahrung); Aussage ist Malcolms Bild.",
+   "stand_note": "",
+   "statement": "KI-Agenten funktionieren in Firmen gut, wenn jemand da ist, der Fehler erkennen und beheben kann – wie ein Panzerfahrer, der selbst schrauben kann.",
+   "question": "Wer vergleicht KI-Agenten mit einem Panzer, den nur jemand gut fährt, der ihn auch reparieren kann?",
+   "answer": "Malcolm Werchota",
+   "distractors": [
+    "Andreas Sator",
+    "Ethan Mollick",
+    "Sam Altman"
+   ],
+   "aha": "Auf dem Papier ist Panzerfahren wie Autofahren, in echt muss man ständig schrauben. Gibst du ihn einer normalen Autofahrerin, bleibt sie beim ersten Wehwehchen stecken – und genauso ist es mit KI ohne geschulte Leute.",
+   "quote_clean": "In Unternehmen funktionieren diese Prozesse, wo man mit KI oder mit Agenten arbeitet, sehr gut, wenn man jemanden hat, der weiß, wie man das troubleshooten kann.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Inhaltlich belegt, aber redundant zu Kandidat 18 (gleiche Aussage, Meinung des Gastes).",
+   "stand_note": "",
+   "statement": "Malcolm hält Datenschutz für die größte Ausrede von Firmen, KI nicht zu nutzen.",
+   "question": "Was hält Malcolm für „die größte Ausrede, die KI nicht zu nutzen“?",
+   "answer": "Den Datenschutz",
+   "distractors": [
+    "Die hohen Kosten",
+    "Fehlende Rechenleistung",
+    "Die Angst vor Jobverlust"
+   ],
+   "aha": "Seine Gegenfrage an Firmen: Habt ihr E-Mails in Outlook und Dateien auf OneDrive? Dann liegt das Geheime eh schon in der Cloud. Seine Devise: KI-Strategie in zwei Wochen, dann gleich umsetzen.",
+   "quote_clean": "Klar, es ist für mich die größte Ausrede, die KI nicht zu nutzen. Schau mal, wir gehen in Firmen rein …",
+   "quality": 2
+  },
+  {
+   "i": 23,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg passt; Einstiegsfrage ist eher Meta, aber korrekt wiedergegeben.",
+   "stand_note": "",
+   "statement": "Andreas steigt ins KI-Update mit einem Gedankenexperiment ein: eine Person, die ein Jahr lang nichts über KI mitbekommen hat.",
+   "question": "Mit welchem Gedankenexperiment startet Andreas das KI-Update?",
+   "answer": "Jemand war ein Jahr lang offline",
+   "distractors": [
+    "Jemand kommt aus dem Jahr 1990",
+    "Jemand trifft einen Roboter",
+    "Jemand verliert seinen Job an KI"
+   ],
+   "aha": "Handy, Laptop, Fernseher abgegeben, keine Zeitung, kein Wort über KI – und jetzt bringen wir die Person up to date. Malcolms Antwort: Die Frage könnte genauso lauten, was sich seit letzter Woche getan hat.",
+   "quote_clean": "Malcolm, stellen wir uns mal vor: Eine Person hat im Herbst 2024 ihr Handy abgegeben …",
+   "quality": 2
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Selbstironische Übertreibung ('nach 2 Minuten wird mir langweilig') würde wörtlich genommen; keine verlässliche Tatsache.",
+   "stand_note": "",
+   "statement": "Malcolm gibt zu, dass ihm selbst nach zwei Minuten langweilig wird – während ein KI-Browser zweieinhalb Stunden am Stück durcharbeitet.",
+   "question": "Nach wie vielen Minuten wird Malcolm nach eigener Aussage langweilig?",
+   "answer": "Nach 2 Minuten",
+   "distractors": [
+    "Nach 20 Minuten",
+    "Nach einer Stunde",
+    "Nach 10 Sekunden"
+   ],
+   "aha": "Der Kontrast ist herrlich: Sein Agentic Browser Strawberry hat zweieinhalb Stunden ohne Pause gearbeitet, um 20 Euro im Monat. Malcolm dagegen bezeichnet sich als TikTok-Generation.",
+   "quote_clean": "Ich kann keine 20 Stunden durcharbeiten, oder zwei Stunden. Ich bin so TikTok-Generation, nach zwei Minuten wird mir langweilig.",
+   "quality": 1
+  }
+ ],
+ "id": "370",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

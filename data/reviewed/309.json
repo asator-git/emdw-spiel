@@ -1,0 +1,274 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "18.000 belegt (Österreich/Deutschland, 'derzeit'); Stand Juli 2024. Aha-Floskel entfernt.",
+   "stand_note": "Stand Juli 2024",
+   "statement": "Die Watchlist Internet warnte 2024 vor rund 18.000 Fake-Shops, die für Österreich relevant sein könnten.",
+   "question": "Vor wie vielen Fake-Shops warnte die Watchlist Internet 2024 für Österreich?",
+   "answer": "rund 18.000",
+   "distractors": [
+    "rund 1.800",
+    "rund 4.500",
+    "rund 60.000"
+   ],
+   "aha": "So viele gefälschte Online-Shops standen auf der Warnliste, von E-Bikes bis Sofas. Und weil viele nur ein paar Tage online sind, wächst die Liste ständig nach.",
+   "quote_clean": "Wir warnen derzeit vor 18.000 Fake-Shops in Österreich und Deutschland, die für Österreich relevant sein könnten.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt: zwei bis drei Tage, manche länger.",
+   "stand_note": "",
+   "statement": "Viele Fake-Shops sind nur zwei bis drei Tage online, bevor sie wieder verschwinden.",
+   "question": "Wie viele Tage sind viele Fake-Shops typischerweise online?",
+   "answer": "zwei bis drei Tage",
+   "distractors": [
+    "zwei bis drei Wochen",
+    "etwa drei Monate",
+    "rund ein Jahr"
+   ],
+   "aha": "Ein Fake-Shop ist keine liebevolle Einzelarbeit, sondern Massenware: Die Betrüger werfen viele gleichzeitig ins Netz und lassen sie schnell wieder verschwinden. Bis sich die Beschwerden häufen, ist die Seite eh schon weg.",
+   "quote_clean": "Da wird massiv rausgegangen mit unterschiedlichsten Fake-Shops, die sind dann zwei Tage online, drei Tage online, manche halten sich auch länger.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt; Aha sprach von 'denselben' Impressen/Shopsystemen, Louise sagt ähnliche bzw. falsche.",
+   "stand_note": "",
+   "statement": "Fake-Shops ähneln einander, weil sie ähnliche Shopsysteme, kopierte Texte und falsche Impressumsdaten verwenden, deshalb kann man sie gut automatisch erkennen.",
+   "question": "Warum lassen sich Fake-Shops gut mit maschinellem Lernen erkennen?",
+   "answer": "Sie ähneln sich stark untereinander",
+   "distractors": [
+    "Sie sind alle in China registriert",
+    "Sie haben nie ein Logo",
+    "Sie verlangen immer Kryptowährung"
+   ],
+   "aha": "Ähnliche Shopsysteme, abgeschriebene Texte, falsche Impressumsdaten: Für die Betrüger ist das effizient, für Algorithmen ein gefundenes Fressen. Louises Kolleginnen erkennen oft schon auf den ersten Blick: dasselbe in Grün.",
+   "quote_clean": "Weil sie die Texte voneinander kopieren, weil sie teilweise einfach falsche Impressumsdaten verwenden. Und ich glaube, dass gerade in dem Bereich automatisierte Überprüfungen gut funktionieren.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Ampel belegt; Distraktor 'Prozentwert in Euro' unsinnig, ersetzt. Angebot Stand 2024.",
+   "stand_note": "Stand 2024",
+   "statement": "Der Fake-Shop Detector der Watchlist Internet ist ein kostenloses Browser-Plugin, das Onlineshops mit einer Ampel bewertet.",
+   "question": "Wie zeigt der kostenlose Fake-Shop Detector an, ob ein Shop vertrauenswürdig ist?",
+   "answer": "Mit einer Ampel: grün, gelb, rot",
+   "distractors": [
+    "Mit Schulnoten von eins bis fünf",
+    "Mit einem Sterne-Rating",
+    "Mit einem Prozentwert für das Risiko"
+   ],
+   "aha": "Grün heißt bekannt und gut, gelb heißt unbekannt, schau dir Impressum und Co. genauer an, rot heißt mit hoher Wahrscheinlichkeit Fake. Dahinter stecken Warnlisten und eine KI, die die Ähnlichkeiten zwischen Fake-Shops erkennt.",
+   "quote_clean": "Wir haben den Fake-Shop-Detector entwickelt, das ist ein Browser-Plugin, das man sich kostenlos installieren kann und das Onlineshops entweder überprüft oder, falls sie schon auf Warnlisten sind, ein Resultat im Ampelformat ausspielt.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, wenn auch eher simple Frage.",
+   "stand_note": "",
+   "statement": "Im Frühling sind Fake-Shops mit Fahrrädern und E-Bikes besonders typisch, und dabei geht viel Geld verloren.",
+   "question": "Welche Fake-Shops tauchen im Frühling besonders häufig auf?",
+   "answer": "Shops mit Fahrrädern und E-Bikes",
+   "distractors": [
+    "Shops mit Winterreifen",
+    "Shops mit Christbaumschmuck",
+    "Shops mit Skiausrüstung"
+   ],
+   "aha": "Wenn es warm wird, denken viele: Mein altes Radl tut's nicht mehr, ein E-Bike wär fein. Beim echten Händler ist die Lieferzeit zu lang oder der Preis zu hoch, und dann taucht das Angebot auf, das ein bisschen zu gut wirkt, um wahr zu sein.",
+   "quote_clean": "Ich habe das Beispiel mit den Fahrrädern geschickt, weil das im Frühling ganz klassische Fake-Shops sind, die kommen und bei denen viel Geld verloren wird.",
+   "quality": 2
+  },
+  {
+   "i": 7,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Belegt; Aha-Details (Scrollen, Rückgabebedingungen) waren dazuerfunden, gekürzt.",
+   "stand_note": "",
+   "statement": "Wer am Handy einkauft, sieht weniger von einer Seite und übersieht Warnsignale eher als am Computer.",
+   "question": "Warum fällt man beim Einkaufen am Handy leichter auf Fake-Shops herein?",
+   "answer": "Man sieht weniger von der Seite",
+   "distractors": [
+    "Handys haben keinen Virenschutz",
+    "Apps zeigen keine Preise an",
+    "Mobile Zahlungen sind unversichert"
+   ],
+   "aha": "Am kleinen Bildschirm übersieht man leichter, was einen skeptisch machen müsste. Louises Rat: sich mehr Zeit lassen, jemanden fragen und den Shopnamen plus „Erfahrung“ googeln.",
+   "quote_clean": "Wenn man das am Handy macht, dann hat man noch viel weniger Einblick in die Seite, man sieht weniger.",
+   "quality": 2
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Belegt als Erfahrung aus der Undercover-Recherche; Aha behauptete 'Bank' ohne Beleg, Frage präzisiert.",
+   "stand_note": "",
+   "statement": "Love-Scammer bauen durch ständiges Schreiben und Wechsel zwischen Vorwürfen und Zuneigung eine intensive Bindung auf.",
+   "question": "Wie bauten die Love-Scammer in der Undercover-Recherche der Watchlist eine enge Bindung auf?",
+   "answer": "Durch Dauerkontakt und Wechsel von Vorwurf und Zuneigung",
+   "distractors": [
+    "Durch teure Geschenke per Post",
+    "Durch frühe Videoanrufe mit Familie",
+    "Durch völlige Funkstille über Wochen"
+   ],
+   "aha": "Guten Morgen, das ist mein Frühstück, wie geht's dir: Es wird ununterbrochen geschrieben. Zwei Stunden Pause, und schon kommt der beleidigte Ton, nach der Entschuldigung wieder Zuckerbrot. Das erklärt, warum es für Außenstehende so schwer ist, einzugreifen.",
+   "quote_clean": "Wenn wir dann zwei Stunden nicht geschrieben haben, hat der Ton gewechselt, dann wurde es eher ungut: Warum schreibst du nicht? Wenn du kein Interesse hast, dann musst du gar nicht schreiben.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, anschaulicher Moment; 'Austr' ist als Australia klar.",
+   "stand_note": "",
+   "statement": "Beim Undercover-Chatten mit einem Scammer klappte die Registrierung auf der Betrugsplattform nicht, weil er Austria mit Australia verwechselt hatte.",
+   "question": "Warum klappte die Registrierung auf der Betrugsplattform beim Undercover-Test zuerst nicht?",
+   "answer": "Der Scammer verwechselte Austria mit Australia",
+   "distractors": [
+    "Die Plattform war schon gesperrt",
+    "Das Fake-Profil hatte keine Telefonnummer",
+    "Die Seite akzeptierte keine Euro"
+   ],
+   "aha": "Ein Klassiker, der nicht nur Touristen passiert. Louise und das Gegenüber konnten dann sogar gemeinsam lachen, „Ups, machst du das noch nicht lang?“, was zeigt, wie menschlich solche Chats werden.",
+   "quote_clean": "Bis uns dann aufgefallen ist: Ach so, das ist eine australische Plattform, der hat Austria mit Australia verwechselt.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zitat sinngemäß belegt.",
+   "stand_note": "",
+   "statement": "Das Gefühl „Mir passiert das nie“ macht Menschen besonders anfällig für Betrug.",
+   "question": "Welche Einstellung macht laut Louise Beltzung besonders verletzlich für Online-Betrug?",
+   "answer": "„Das wird mir nie passieren“",
+   "distractors": [
+    "„Ich kaufe nie online ein“",
+    "„Ich vertraue nur meiner Bank“",
+    "„Ich habe eh nichts zu verlieren“"
+   ],
+   "aha": "Wer sich drüber stehend fühlt, schaut nicht genau hin und trägt eine Brille, die alles verzerrt. Genau deshalb hat das Watchlist-Team die Love-Scams auf Tinder untersucht, wo die Jüngeren sind.",
+   "quote_clean": "Wer fällt denn auf den Piloten, das Erbe oder den Prinzen rein, würd mir nie passieren. Und ich glaube, dieses Gefühl von „das wird mir nie passieren“ ist eine der Kernaussagen, die Leute am verletzlichsten macht.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt.",
+   "stand_note": "",
+   "statement": "Die meisten Betrugsfallen funktionieren nicht, weil sie perfekt sind, sondern weil Menschen gut darin sind, auszublenden und zu sehen, was sie sehen wollen.",
+   "question": "Warum tappen laut Louise Beltzung so viele in Betrugsfallen?",
+   "answer": "Wir sehen, was wir sehen wollen",
+   "distractors": [
+    "Die Fallen sind technisch perfekt",
+    "Die Polizei warnt zu selten",
+    "Banken prüfen Überweisungen nicht"
+   ],
+   "aha": "Viele Fallen sind gar nicht perfekt, ein schiefes Impressum, ein zu guter Preis. Aber wenn man sich etwas sehr wünscht, drückt man gern ein Auge zu. Das macht Mut: Genau hinschauen hilft.",
+   "quote_clean": "Nicht weil sie so perfekt sind, sondern eher, weil wir die Perfektion nicht brauchen, weil wir als Menschen sehr gut darin sind, Sachen auszublenden und das, was wir sehen wollen, auch zu sehen.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "200 Euro belegt (Beispielfall, 'ähnlich wie wir ihn oft sehen').",
+   "stand_note": "",
+   "statement": "Investmentbetrug beginnt oft mit einer kleinen Einstiegssumme von etwa 200 Euro und dem Versprechen, dass sie sich in wenigen Monaten vervielfacht.",
+   "question": "Mit welcher Einstiegssumme beginnt typischer Investmentbetrug laut Watchlist Internet oft?",
+   "answer": "rund 200 Euro",
+   "distractors": [
+    "rund 20 Euro",
+    "rund 2.000 Euro",
+    "rund 20.000 Euro"
+   ],
+   "aha": "200 Euro sind greifbar genug, um mitzumachen. Dann kommt eine erste kleine Auszahlung, das beruhigt, und erst danach wird richtig investiert, oft bis zu Hunderttausenden Euro.",
+   "quote_clean": "Das Versprechen wäre: Du registrierst dich, du fängst an mit 200 Euro Investition, und innerhalb von einigen Monaten wird sich das multiplizieren.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt.",
+   "stand_note": "",
+   "statement": "Investmentbetrüger zahlen anfangs kleine Gewinne tatsächlich aus, um Vertrauen aufzubauen, bevor Opfer große Summen investieren.",
+   "question": "Mit welchem Trick gewinnen Investmentbetrüger das Vertrauen ihrer Opfer?",
+   "answer": "Sie zahlen anfangs kleine Gewinne aus",
+   "distractors": [
+    "Sie schicken einen Vertrag per Post",
+    "Sie verlangen anfangs gar kein Geld",
+    "Sie nennen eine echte Bankleitzahl"
+   ],
+   "aha": "Eine erste, vielleicht sogar zweite Auszahlung wirkt wie ein Beweis, dass alles seriös ist. In Wahrheit ist es nur der Köder für die große Summe.",
+   "quote_clean": "Und so startet eine Form von Betrug, bei der man kleine Summen investiert, mit einem Support, sieht, das funktioniert super, dann auch eine erste Summe ausbezahlt bekommt, und das beruhigt.",
+   "quality": 4
+  },
+  {
+   "i": 25,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Belegt; Aha behauptete 'seither', Andreas sagt aber 'immer schon' ein Kennwort.",
+   "stand_note": "",
+   "statement": "Andreas hat mit Familie und engen Freunden ein telefonisches Kennwort vereinbart, weil seine Stimme aus vielen Podcastfolgen geklont werden könnte.",
+   "question": "Wie schützt sich Andreas gegen Betrug mit seiner geklonten Stimme?",
+   "answer": "Mit einem Kennwort für Familie und Freunde",
+   "distractors": [
+    "Er telefoniert nur noch per Video",
+    "Er hat alle Podcastfolgen gelöscht",
+    "Er verwendet einen Stimmverzerrer"
+   ],
+   "aha": "Nach rund 300 Podcastfolgen liegt Andreas' Stimme im Netz wie auf dem Präsentierteller. Als er sie selbst klonte, war das einer seiner Gänsehaut-Momente mit KI. Mit engen Freunden hat er ein Kennwort ausgemacht: Im Zweifel nachfragen.",
+   "quote_clean": "Ich habe mit Freunden und Familie, also mit engen Freunden, immer schon ein telefonisches Kennwort ausgemacht: Wenn ihr im Zweifel seid, fragt nach diesem Kennwort.",
+   "quality": 3
+  },
+  {
+   "i": 27,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, wenn auch lockere Anekdote (leichte Übertreibung von Louise selbst).",
+   "stand_note": "",
+   "statement": "Nach einer Phishing-Simulation verdächtigte Louise Beltzung schon jede dritte E-Mail.",
+   "question": "Was passierte Louise Beltzung, nachdem sie an einer Phishing-Simulation teilgenommen hatte?",
+   "answer": "Sie verdächtigte jede dritte E-Mail",
+   "distractors": [
+    "Sie klickte auf jeden Link",
+    "Sie löschte ihr E-Mail-Konto",
+    "Sie bekam gar keine E-Mails mehr"
+   ],
+   "aha": "Berufskrankheit, wie bei Ärztinnen, die überall Krankheiten sehen. Louise will aber nicht in einen halbparanoiden Zustand kommen, denn den meisten Menschen kann man eh vertrauen.",
+   "quote_clean": "Ich bezichtige jetzt schon jede dritte E-Mail. Je besser sie gemacht ist, desto misstrauischer werde ich.",
+   "quality": 2
+  }
+ ],
+ "id": "309",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

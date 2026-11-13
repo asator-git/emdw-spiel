@@ -1,0 +1,284 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg t=336 passt; DSGVO-Höchststrafe ist bis zu 4 Prozent des weltweiten Jahresumsatzes (alternativ 20 Mio. Euro), daher 'bis zu' in Frage und Antwort.",
+   "stand_note": "",
+   "statement": "Bei Verstößen gegen die DSGVO drohen Strafen von bis zu vier Prozent des weltweiten Jahresumsatzes eines Unternehmens.",
+   "question": "Bis zu wie viel Prozent des weltweiten Jahresumsatzes kann eine DSGVO-Strafe für ein Unternehmen betragen?",
+   "answer": "4 Prozent",
+   "distractors": [
+    "1 Prozent",
+    "10 Prozent",
+    "25 Prozent"
+   ],
+   "aha": "Vier Prozent klingt wenig, aber vom Weltumsatz eines Konzerns wie Facebook sind das schnell ein paar Milliarden. Und es zählt der ganze Unternehmenskomplex, herausreden über eine Tochterfirma geht also nicht so leicht.",
+   "quote_clean": "Die Strafen sind jetzt neuerdings vier Prozent des Weltumsatzes. Das ist sehr hoch.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Beleg t=736-741 passt (ein Monat laut DSGVO); im Aha stand 'Anwalt nicht nötig', das sagt Armin nicht, entfernt.",
+   "stand_note": "",
+   "statement": "Fragt man ein Unternehmen per E-Mail, welche Daten es über einen gespeichert hat, muss es innerhalb von 30 Tagen antworten.",
+   "question": "Wie viele Tage hat ein Unternehmen Zeit, deine Auskunftsanfrage zu deinen gespeicherten Daten zu beantworten?",
+   "answer": "30 Tage",
+   "distractors": [
+    "7 Tage",
+    "14 Tage",
+    "90 Tage"
+   ],
+   "aha": "Eine einfache E-Mail an die Firma genügt als Anfrage. Neu ist vor allem, dass Unternehmen das nicht mehr einfach ignorieren können, weil du dich sonst an die Datenschutzbehörde wenden kannst.",
+   "quote_clean": "Du kannst ihnen einfach eine E-Mail schicken und sagen, ich möchte wissen, was für mich gespeichert ist. Und sie haben das innerhalb von 30 Tagen zu beantworten.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Datum stimmt (25. Mai 2018) und ist im Transkript belegt; Aha erwähnte Instagram-Hinweise, die nicht belegt sind, daher geändert.",
+   "stand_note": "",
+   "statement": "Die Datenschutz-Grundverordnung der EU ist am 25. Mai 2018 in Anwendung getreten.",
+   "question": "Seit wann gilt die Datenschutz-Grundverordnung (DSGVO) in der EU?",
+   "answer": "Seit 25. Mai 2018",
+   "distractors": [
+    "Seit 1. Jänner 2016",
+    "Seit 1. Juli 2019",
+    "Seit 25. Mai 2020"
+   ],
+   "aha": "Die Folge ist genau an diesem Tag erschienen, Andreas hat das Timing also perfekt erwischt. In den Wochen davor haben Unternehmen mit neuen Datenschutzhinweisen und Verträgen nachgerüstet.",
+   "quote_clean": "Wir nehmen die Folge Anfang Mai auf. Erscheinen tut sie genau am Tag, an dem die neue Datenschutzverordnung in Anwendung tritt, am 25. Mai.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=224-232 passt, Abkürzung korrekt; eher simple Wissensfrage.",
+   "stand_note": "",
+   "statement": "Die Datenschutz-Grundverordnung (DSGVO) heißt international auf Englisch GDPR.",
+   "question": "Unter welcher Abkürzung kennt man die DSGVO international?",
+   "answer": "GDPR",
+   "distractors": [
+    "GDPA",
+    "EUDP",
+    "PDPR"
+   ],
+   "aha": "GDPR steht für General Data Protection Regulation. Weil die Regeln für jedes Unternehmen gelten, das Daten von Menschen in der EU verarbeitet, kennt man das Kürzel auch im Silicon Valley.",
+   "quote_clean": "Diese neue Regelung ist die Datenschutzgrundverordnung, DSGVO auf Deutsch. Der englische, internationale Begriff ist GDPR.",
+   "quality": 2
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg t=491-503 passt; Distraktor 'Gar nichts, wenn die Daten anonym sind' ist juristisch nicht eindeutig falsch, ersetzt.",
+   "stand_note": "",
+   "statement": "Mit der DSGVO reicht die Zustimmung zu den AGB nicht mehr: Für die Weitergabe von Nutzerdaten an Marketingfirmen braucht es eine eigene, ausdrückliche Zustimmung (Opt-in).",
+   "question": "Was braucht es seit der DSGVO, damit eine App deine Daten an eine Marketingfirma weitergeben darf?",
+   "answer": "Deine separate, ausdrückliche Zustimmung",
+   "distractors": [
+    "Nur deine Zustimmung zu den AGB",
+    "Eine Meldung an die Behörde",
+    "Eine Unterschrift beim Notar"
+   ],
+   "aha": "Früher hast du einmal die Nutzungsbedingungen abgenickt und das Unternehmen konnte so ziemlich alles machen. Jetzt gibt es das Basisprodukt mit den AGB, die Weitergabe ist aber ein eigenes Häkchen, und das ist nicht automatisch gesetzt.",
+   "quote_clean": "Für die Weitergabe deiner Benutzerdaten an eine Marketingfirma musst du separat zustimmen. Das ist ein explizites, sogenanntes Opt-in. Du musst explizit zustimmen, das ist nicht automatisch an.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=513-531 passt (Standard.at-Beispiel, Tracking-Firma im Hintergrund).",
+   "stand_note": "",
+   "statement": "Auch ohne Anmeldung werden Besucher:innen von Webseiten oft von Drittfirmen getrackt, die herausfinden wollen, welche anderen Seiten man besucht; dafür braucht es nun eine ausdrückliche Zustimmung.",
+   "question": "Was versuchen Tracking-Firmen im Hintergrund von Nachrichtenseiten über dich herauszufinden?",
+   "answer": "Welche anderen Webseiten du besuchst",
+   "distractors": [
+    "Wie schnell du tippst",
+    "Welche Partei du gewählt hast",
+    "Wie lange dein Akku hält"
+   ],
+   "aha": "Auf vielen Seiten sitzt im Hintergrund eine Firma, die Nutzungsstatistiken sammelt und dich quer durchs Netz verfolgt. Seit der DSGVO muss sie dich dafür explizit fragen, und du musst Nein sagen können.",
+   "quote_clean": "Zum Beispiel, wenn du auf eine Webseite gehst und dich gar nicht anmeldest, aber trotzdem getrackt wirst.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=419-437 passt; Aha deckt sich mit 373-377 und 433.",
+   "stand_note": "",
+   "statement": "Gibt ein Unternehmen Daten an einen Dienstleister (Auftragsverarbeiter) weiter, muss es laut DSGVO einen Vertrag mit ihm abschließen und nachweisen können, wofür die Daten verarbeitet werden.",
+   "question": "Was muss ein Unternehmen laut DSGVO tun, bevor es Daten an einen externen Datenverarbeiter weitergibt?",
+   "answer": "Einen Vertrag mit ihm abschließen",
+   "distractors": [
+    "Die Daten vorher löschen",
+    "Eine Gebühr an die EU zahlen",
+    "Jeden Nutzer anrufen"
+   ],
+   "aha": "Früher haben sich viele Subunternehmer schlicht nicht um Datenschutz geschert. Jetzt hängt die ganze Kette per Vertrag mit drin, meist sind das digitale Dokumente, die einfach online unterzeichnet werden.",
+   "quote_clean": "In der Praxis schaut das so aus: Wenn du Daten verarbeitest und diese an jemand anderen weiterleiten musst, an einen sogenannten Data Processor oder Datenverarbeiter, dann musst du mit dem einen Vertrag abschließen.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg t=878-895 passt, Aussage deckt sich mit Armins Erklärung.",
+   "stand_note": "",
+   "statement": "Gratis-Plattformen wie Instagram verdienen ihr Geld vor allem damit, dass sie personalisierte Werbung zeigen, auf die Nutzer:innen öfter klicken als auf zufällige Werbung.",
+   "question": "Woraus entsteht für eine Gratis-Plattform wie Instagram in der Regel der Wert deiner Daten?",
+   "answer": "Gezielte Werbung mit höherer Klickrate",
+   "distractors": [
+    "Verkauf von Fotos an Zeitungen",
+    "Gebühren für jeden Like",
+    "Weitergabe an Finanzämter"
+   ],
+   "aha": "Die Annahme ist simpel: Zeigt man dir zufällige Werbung, klickst du seltener, als wenn genau das Produkt kommt, das du eh haben willst. Wer gerne Fußballvideos schaut, kriegt also Fußballwerbung.",
+   "quote_clean": "Wenn man einen Service wie Instagram verwendet, entsteht der Wert für das Unternehmen in der Regel darin, dass dir Marketingangebote zugespielt werden, die eine höhere sogenannte Durchklickrate haben als eine zufällige Werbung.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg t=950-963 passt, aber Antwort war unklar formuliert und Distraktoren nicht parallel; Antwort präzisiert.",
+   "stand_note": "",
+   "statement": "Bei gezielter Werbung auf Plattformen wie Instagram bekommen Werbefirmen meist nicht die Nutzerdaten selbst, sondern wählen Interessengruppen aus, an die die Plattform die Werbung ausspielt.",
+   "question": "Was bekommt eine Werbefirma typischerweise, wenn sie auf Instagram Fußballfans ansprechen will?",
+   "answer": "Gezielte Werbeplätze, ohne zu erfahren, wer du bist",
+   "distractors": [
+    "Deinen Namen und deine E-Mail-Adresse",
+    "Eine Namensliste aller Fußballfans",
+    "Deine Fotos zur Auswertung"
+   ],
+   "aha": "Die Plattform speichert Präferenzen wie Interesse für Fußball oder Kinderprodukte in deinem Profil. Die Werbefirma bucht nur die Zielgruppe, wer du bist, weiß nur die Plattform selbst.",
+   "quote_clean": "Ein Marketingunternehmen, das bei Instagram eine Werbung schalten will, kann dann sagen: Ich möchte eine Werbung für Leute schalten, die sich für Fußball interessieren. Die bekommen also nicht direkt mit, wer du eigentlich bist.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage in einer Folge mit nur einem Gast; Antwort ist erratbar, wenig Erkenntnis; Zitat in der Frage zudem gekürzt.",
+   "stand_note": "",
+   "statement": "Armin Ronacher sieht die größte Schwierigkeit beim Datenschutz darin, dass Einzelne kaum verhindern können, dass ihre Daten missbraucht werden.",
+   "question": "Wer hat's gesagt: „Das wirklich Schwierige an Datenschutz ist, dass man als Individuum sehr wenig Chance hat, dazu beizutragen, dass seine Daten nicht missbräuchlich verwendet werden“?",
+   "answer": "Armin Ronacher",
+   "distractors": [
+    "Max Schrems",
+    "Andreas Sator",
+    "Mark Zuckerberg"
+   ],
+   "aha": "Selbst wer versucht, im Internet gar nicht aufzutauchen, taucht trotzdem irgendwo auf, weil andere Leute Daten über einen anlegen. Deshalb setzt Armin mehr auf die Masse als auf den Einzelnen.",
+   "quote_clean": "Das wirklich Schwierige an Datenschutz ist, dass man als Individuum sehr wenig Chance hat, wirklich positiv dazu beizutragen, dass seine Daten nicht missbräuchlich verwendet werden.",
+   "quality": 1
+  },
+  {
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meinungsaussage mit schwachen und teils mehrdeutigen Distraktoren (Konzerne, Schulen); Antwort zu erraten.",
+   "stand_note": "",
+   "statement": "Armin Ronacher glaubt, dass besserer Datenschutz vor allem über die Gesellschaft als Ganzes kommt, nicht über einzelne Menschen.",
+   "question": "Wo wird sich laut Armin Ronacher beim Datenschutz vor allem etwas verbessern?",
+   "answer": "In der Gesellschaft als Ganzes",
+   "distractors": [
+    "Bei jedem Einzelnen",
+    "Nur bei den Konzernen",
+    "Nur in den Schulen"
+   ],
+   "aha": "Seine Hoffnung: Wenn viele Nutzer:innen gemeinsam fragen, wo eine Plattform eigentlich ihren Gewinn macht, entsteht ein Markt für Dienste, die sorgsam mit Daten umgehen, auch wenn sie dafür etwas kosten.",
+   "quote_clean": "Ich glaube, das ist ein Prozess, der hauptsächlich in der Gesellschaft als Ganzes eine Verbesserung bewirken wird, nicht beim Individuum.",
+   "quality": 2
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage mit nur einem Gast; wenig Erkenntnis.",
+   "stand_note": "",
+   "statement": "Armin Ronacher warnt: Gesammelte Daten mögen heute harmlos sein, können aber in Zukunft zum Problem werden.",
+   "question": "Wer hat's gesagt: „Diese Sammlung an Daten ist vielleicht jetzt noch nicht problematisch, kann aber in der Zukunft mal problematisch sein“?",
+   "answer": "Armin Ronacher",
+   "distractors": [
+    "Andreas Sator",
+    "Edward Snowden",
+    "Max Schrems"
+   ],
+   "aha": "Armin bringt dazu das Beispiel des Staates, der Daten für gute Entscheidungen erhebt. Kippt der Staat, sind die Daten aber schon da.",
+   "quote_clean": "Man muss immer davon ausgehen, dass diese Sammlung an Daten vielleicht jetzt noch nicht problematisch ist, aber in der Zukunft einmal problematisch sein kann.",
+   "quality": 1
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Reine Gesprächsmeta-Frage ohne Erkenntnis; Distraktor 'Warum hasst du Facebook?' unterstellt etwas.",
+   "stand_note": "",
+   "statement": "Andreas steigt ohne Umschweife ein und fragt, was sich für ihn persönlich durch die neuen Datenschutzregeln ändert.",
+   "question": "Mit welcher Frage steigt Andreas in das Gespräch über die DSGVO ein?",
+   "answer": "Was ändert sich für mich?",
+   "distractors": [
+    "Wer hat die Regeln erfunden?",
+    "Wie viele Seiten hat das Gesetz?",
+    "Warum hasst du Facebook?"
+   ],
+   "aha": "Typisch Andreas: erst mal ganz konkret aus Sicht der Hörer:innen. Armins Antwort: Die Rechte gab es in der Theorie schon, jetzt hast du aber eine viel höhere Chance, dass du sie auch wirklich bekommst.",
+   "quote_clean": "Ich fange gleich direkt an, Armin. Was ändert sich für mich durch die neuen Datenschutzregeln?",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Persönliches Eingeständnis des Moderators, als Spielfrage mit wenig Erkenntnis und leicht bloßstellend; Aha ergänzt unbelegte Unterstellung.",
+   "stand_note": "",
+   "statement": "Andreas gibt zu, dass er die neuen Datenschutzeinstellungen bei Facebook seit Wochen wegklickt.",
+   "question": "Was gibt Andreas über die neuen Datenschutzhinweise von Facebook zu?",
+   "answer": "Er klickt sie seit Wochen weg",
+   "distractors": [
+    "Er hat sie genau gelesen",
+    "Er hat Facebook deswegen gelöscht",
+    "Er hat sie ausgedruckt"
+   ],
+   "aha": "Sehr ehrlich und sehr menschlich, so geht es wohl vielen. Und genau darauf bauen Firmen, wenn sie den Nein-Knopf irgendwo im Kleingedruckten verstecken.",
+   "quote_clean": "Ich drücke das seit Wochen weg bei Facebook, die neuen Datenschutzeinstellungen.",
+   "quality": 1
+  }
+ ],
+ "id": "11",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

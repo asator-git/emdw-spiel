@@ -1,0 +1,490 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zahl im Transkript belegt (t=337 und 384); passt zu Nationalratswahlen bis heute.",
+   "stand_note": "Stand 2019",
+   "quality": 3,
+   "statement": "Bei österreichischen Nationalratswahlen nehmen rund 20 bis 25 Prozent der Wahlberechtigten ihr Wahlrecht nicht wahr.",
+   "question": "Wie viel Prozent der Wahlberechtigten gehen bei Nationalratswahlen in Österreich ungefähr nicht wählen?",
+   "answer": "20 bis 25 Prozent",
+   "distractors": [
+    "5 bis 10 Prozent",
+    "35 bis 40 Prozent",
+    "45 bis 50 Prozent"
+   ],
+   "aha": "Obwohl Wählen mit Briefwahl so leicht ist wie nie, bleibt jede vierte bis fünfte Stimme liegen. Und bei Landtags- und Gemeinderatswahlen ist die Beteiligung oft noch deutlich niedriger.",
+   "quote_clean": "Da wurden sukzessive Barrieren abgebaut, und wir sehen trotzdem, dass bei Nationalratswahlen immer noch 20 bis 25 Prozent ihr Wahlrecht nicht wahrnehmen."
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Wahlpflicht gab es nur teils (in einzelnen Ländern); präzisiert, Andreas-Bloßstellung im aha entfernt.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "In Österreich gab es bei Nationalratswahlen bis 1992 (in einzelnen Bundesländern) noch eine Wahlpflicht.",
+   "question": "Bis zu welchem Jahr gab es laut Tamara Ehs bei Nationalratswahlen in Österreich noch eine Wahlpflicht?",
+   "answer": "1992",
+   "distractors": [
+    "1955",
+    "1970",
+    "2008"
+   ],
+   "aha": "Wählen war lange Pflicht, wer fernblieb, riskierte eine Verwaltungsstrafe. Bei Bundespräsidentschaftswahlen hielt sich die Pflicht in manchen Bundesländern sogar noch länger.",
+   "quote_clean": "Bis 1992 hatten wir noch eine Wahlpflicht. Seitdem ist es jedem Einzelnen und jeder Einzelnen selbst überlassen, wählen zu gehen."
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Im Transkript belegt (t=433), Antwort und Distraktoren passen.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Wer in Österreich zur Zeit der Wahlpflicht nicht wählen ging, musste eine Verwaltungsstrafe zahlen.",
+   "question": "Was drohte in Österreich zur Zeit der Wahlpflicht, wenn man nicht wählen ging?",
+   "answer": "Eine Verwaltungsstrafe",
+   "distractors": [
+    "Verlust des Wahlrechts",
+    "Eine Haftstrafe",
+    "Nichts, sie war symbolisch"
+   ],
+   "aha": "Ganz zahnlos war die Wahlpflicht also nicht. Mit den Jahren wurde aber immer weniger gestraft, bis sie quasi totes Recht war und abgeschafft wurde.",
+   "quote_clean": "Ja, es waren Verwaltungsstrafen zu bezahlen. Es wurde natürlich auch immer darauf geschaut, was und warum."
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Im Transkript belegt (t=455-463).",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "Früher durfte in Österreich am Wahltag bis zu einer bestimmten Uhrzeit kein Alkohol ausgeschenkt werden.",
+   "question": "Was war in Österreich früher am Wahltag bis zu einer gewissen Uhrzeit verboten?",
+   "answer": "Alkohol auszuschenken",
+   "distractors": [
+    "Geschäfte zu öffnen",
+    "Wahlplakate aufzuhängen",
+    "Fußballspiele auszutragen"
+   ],
+   "aha": "Die Idee dahinter war wörtlich gemeint: Man sollte eine nüchterne Entscheidung treffen. Das Wirtshaus musste also warten, bis die Stimme abgegeben war.",
+   "quote_clean": "Früher war es auch verboten, am Wahltag bis zu einer gewissen Uhrzeit Alkohol auszuschenken – um eine nüchterne Entscheidung zu ermöglichen."
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "\"besonders\" überzieht die Aussage (nur \"ein Faktor\"); Frage abgeschwächt.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Laut einer SORA-Studie zur Nationalratswahl 2013 senken Arbeitslosigkeit, vor allem Langzeitarbeitslosigkeit, die Wahlteilnahme.",
+   "question": "Welcher Faktor mindert laut einer SORA-Studie zur Nationalratswahl 2013 die Wahlteilnahme?",
+   "answer": "Langzeitarbeitslosigkeit",
+   "distractors": [
+    "Wohnen am Land",
+    "Hohes Alter",
+    "Ein Studium"
+   ],
+   "aha": "Wer lang ohne Job ist, ist oft auch von einem Stück gesellschaftlichem Leben abgeschnitten. Dazu kommt das Gefühl, dass die Politik ohnehin keine Antworten für einen hat.",
+   "quote_clean": "Da hat man gesehen: Arbeitslosigkeit und vor allem Langzeitarbeitslosigkeit ist ein Faktor, der die Wahlteilnahme mindert."
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (t=567-585); Distraktoren etwas leicht.",
+   "stand_note": "",
+   "quality": 2,
+   "statement": "Menschen mit wenig Einkommen und niedriger formaler Bildung gehen in Europa seltener wählen.",
+   "question": "Welche Gruppe geht laut europäischen Langzeitstudien seltener wählen?",
+   "answer": "Menschen mit wenig Einkommen und Bildung",
+   "distractors": [
+    "Menschen mit hohem Einkommen",
+    "Pensionistinnen und Pensionisten",
+    "Menschen mit Uni-Abschluss"
+   ],
+   "aha": "Die Wahlbeteiligung hat eine soziale Schieflage. Und wer nicht wählt, dessen Interessen werden auch schlechter vertreten, weil Parteien sich an denen orientieren, die tatsächlich zur Urne gehen.",
+   "quote_clean": "Arme, Armutsgefährdete, Menschen mit niedrigen formalen Bildungsabschlüssen oder mit weniger hohem Einkommen gehen seltener wählen."
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Begriff \"Responsivitätsstudien\" belegt (t=596); Inhalt korrekt wiedergegeben.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Sogenannte Responsivitätsstudien zum Deutschen Bundestag zeigen eine große Lücke zwischen dem, was Menschen in Umfragen wollen, und dem, was beschlossen wird.",
+   "question": "Wie nennt man Studien, die messen, wie stark Politik auf die Wünsche der Bevölkerung reagiert?",
+   "answer": "Responsivitätsstudien",
+   "distractors": [
+    "Legitimitätsstudien",
+    "Partizipationsindizes",
+    "Repräsentationsaudits"
+   ],
+   "aha": "Forschende haben Umfragen seit den 1980ern mit den Beschlüssen im Bundestag verglichen, vor allem in der Arbeits- und Sozialpolitik. Ergebnis: eine immense Schieflage zwischen Wunsch und Umsetzung.",
+   "quote_clean": "Und sie haben sich angeschaut, was die Politik, der Deutsche Bundestag, vor allem in der Arbeits- und Sozialpolitik macht. Da gab es eine immense Schieflage zwischen dem, was die Menschen in diesen Umfragen eigentlich wollten, und dem, was dann wirklich durchgesetzt wurde."
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Spirale im Transkript belegt (t=652-680).",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Wer sich politisch nicht vertreten fühlt, beteiligt sich weniger – und wird dadurch noch weniger vertreten, eine sich selbst verstärkende Spirale.",
+   "question": "Was passiert laut Tamara Ehs, wenn sich Menschen politisch nicht vertreten fühlen?",
+   "answer": "Sie beteiligen sich weniger, eine Spirale",
+   "distractors": [
+    "Sie gründen häufiger Parteien",
+    "Sie wählen öfter, um aufzuholen",
+    "Ihr Einfluss bleibt gleich"
+   ],
+   "aha": "Parteien bedienen ihre Wählerschaft. Wer wegbleibt, wird weniger gehört, fühlt sich noch weniger vertreten und bleibt erst recht weg. Am Ende werden nur die servisiert, die eh schon besser gestellt sind.",
+   "quote_clean": "Und wenn sie das weniger tun, setzt sich eine Spirale in Gang: Die, die sich schon weniger vertreten sehen, denken sich, es hat keinen Sinn, an diesen Verständigungsinstrumenten der Demokratie teilzunehmen."
+  },
+  {
+   "i": 8,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Antwort steckt im Wort \"Zeitreichtum\"; zu leicht, Distraktoren beliebig.",
+   "stand_note": "",
+   "quality": 2,
+   "statement": "Politisches Engagement braucht Zeit – Tamara Ehs nennt das Zeitreichtum.",
+   "question": "Welche Ressource fürs politische Engagement nennt Tamara Ehs „Zeitreichtum“?",
+   "answer": "Freie Zeit",
+   "distractors": [
+    "Geld für Spenden",
+    "Gute Kontakte",
+    "Ein Studium"
+   ],
+   "aha": "Nach einem Zwölf-Stunden-Tag organisiert niemand mehr ein Volksbegehren. Darum hätte sie sich in der Debatte um den Zwölf-Stunden-Tag auch die Frage gewünscht, was das für die Demokratie heißt.",
+   "quote_clean": "Es geht auch um Zeitreichtum. Wenn ich mich politisch, demokratisch engagieren möchte, brauche ich auch Zeit."
+  },
+  {
+   "i": 9,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (t=732); Aussage zur OECD gilt im Kern weiter.",
+   "stand_note": "Stand 2019",
+   "quality": 3,
+   "statement": "Laut OECD-Studie „Education at a Glance“ gehört Österreich zu den Ländern, in denen Bildung besonders stark vererbt wird.",
+   "question": "Wie schneidet Österreich bei der „Vererbung“ von Bildung laut OECD ab?",
+   "answer": "Bildung wird sehr stark vererbt",
+   "distractors": [
+    "Bildung wird kaum vererbt",
+    "Genau im OECD-Durchschnitt",
+    "Vorbild bei Bildungsaufstieg"
+   ],
+   "aha": "Ob du maturierst oder studierst, hängt in Österreich auffällig stark von den Eltern ab. Und Bildung ist eben auch das Werkzeug, um sich politisch einzubringen und sich das Reden überhaupt zuzutrauen.",
+   "quote_clean": "Und da sieht man, dass Österreich zu den Ländern zählt, in denen Bildung sehr stark vererbt wird."
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (t=778-894); Haltung als Stand der Folge.",
+   "stand_note": "Stand 2019",
+   "quality": 3,
+   "statement": "Tamara Ehs lehnt eine Wahlpflicht nicht mehr reflexartig ab, ist aber noch unentschlossen.",
+   "question": "Wie steht Tamara Ehs zur Wiedereinführung der Wahlpflicht?",
+   "answer": "Nicht mehr reflexartig dagegen",
+   "distractors": [
+    "Klar dafür, sofort",
+    "Strikt dagegen",
+    "Nur für Gemeinderatswahlen"
+   ],
+   "aha": "Ihr erster Reflex war lange: Freiheit des Individuums. Inzwischen sieht sie in der Wahlpflicht eine Möglichkeit, übersehene Perspektiven ins System zu holen – will aber die Politik nicht so billig davonkommen lassen.",
+   "quote_clean": "Je länger ich mich wissenschaftlich damit befasse, desto eher neige ich dazu, das nicht reflexartig zu verneinen."
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Distraktoren waren albern; ersetzt durch plausibleren Gegenpol.",
+   "stand_note": "",
+   "quality": 2,
+   "statement": "Ob jemand wählen geht, hängt stark vom sozialen Umfeld ab – etwa davon, ob die Eltern einen zum Wählen mitgenommen haben.",
+   "question": "Wovon hängt laut Tamara Ehs stark ab, ob jemand wählen geht?",
+   "answer": "Vom sozialen Umfeld",
+   "distractors": [
+    "Allein von der persönlichen Entscheidung",
+    "Vom Wetter am Wahltag",
+    "Von der Länge des Stimmzettels"
+   ],
+   "aha": "Die Entscheidung trifft man allein in der Wahlkabine, aber nie ganz allein. Arbeitskolleg:innen, Nachbarschaft und Eltern prägen mit, ob man Politik als etwas sieht, das einen betrifft.",
+   "quote_clean": "Haben mich meine Eltern zum ersten Mal zum Wählen mitgenommen? Oder haben sie gesagt, die Politiker tun eh, was sie wollen, was brauchst du da mitmachen? Das ist eben mein soziales Umfeld."
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Transkript: in den 80ern ähnlich verteilt, aufgeklafft \"seit einigen Jahren\", nicht seit den 1980ern; korrigiert.",
+   "stand_note": "Stand 2019",
+   "quality": 3,
+   "statement": "In den 1980ern war die Wahlbeteiligung zwischen den Einkommensschichten ähnlich; seit einigen Jahren bricht vor allem das unterste Einkommensdrittel weg.",
+   "question": "Bei welcher Gruppe ist die Wahlbeteiligung laut Tamara Ehs in den letzten Jahren vor allem weggebrochen?",
+   "answer": "Beim untersten Einkommensdrittel",
+   "distractors": [
+    "Bei der Oberschicht",
+    "Bei der Mittelschicht",
+    "Bei allen gleich stark"
+   ],
+   "aha": "In den 80ern gingen alle Einkommensschichten ähnlich oft wählen. Inzwischen bleiben vor allem die weg, die am wenigsten haben, weil sich Wählen für sie, ökonomisch gesprochen, nicht auszahlt.",
+   "quote_clean": "Seit einigen Jahren klafft das vollkommen auf, vor allem das unterste Einkommensdrittel bricht weg. Mittel- und Oberschicht gehen noch fast im gleichen Prozentausmaß wählen wie früher."
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Aussage ist die der Gästin; Frage entsprechend attribuiert.",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "In Bulgarien wurde bei einer Wahl eine Lotterie veranstaltet: Mit jeder abgegebenen Stimme bekam man ein Los.",
+   "question": "In welchem Land gab es laut Tamara Ehs bei einer Wahl mit jeder Stimme ein Lotterielos?",
+   "answer": "Bulgarien",
+   "distractors": [
+    "Rumänien",
+    "Griechenland",
+    "Portugal"
+   ],
+   "aha": "Zu gewinnen gab's Fernseher, ein Auto oder einen kleinen Urlaub. Ob das die Wahlbeteiligung wirklich gehoben hat, weiß man nicht genau – dafür hätte man es öfter als einmal probieren müssen.",
+   "quote_clean": "Das hat man zum Beispiel in Bulgarien vor einigen Jahren ausprobiert – ich weiß nicht, ob es Parlaments- oder Präsidentschaftswahlen waren –, da wurde eine Lotterie ausgeschrieben. Mit jeder abgegebenen Stimme hat man gleichzeitig ein Los erworben."
+  },
+  {
+   "i": 14,
+   "verdict": "drop",
+   "issues": [
+    "veraltet",
+    "spielbarkeit"
+   ],
+   "note": "Regelung zu Mutter-Kind-Pass und Kinderbetreuungsgeld ist reformiert (Eltern-Kind-Pass); Distraktoren (Klimabonus) wirken zudem überholt.",
+   "stand_note": "",
+   "quality": 1,
+   "statement": "Beim Mutter-Kind-Pass ist das volle Kinderbetreuungsgeld an die Einhaltung bestimmter Untersuchungen geknüpft – ein Beispiel dafür, wie der Staat erwünschtes Verhalten mit Geld belohnt.",
+   "question": "Welches österreichische Beispiel nennt Tamara Ehs dafür, dass der Staat erwünschtes Verhalten an Geld knüpft?",
+   "answer": "Mutter-Kind-Pass und Kinderbetreuungsgeld",
+   "distractors": [
+    "Pendlerpauschale und Fahrtenbuch",
+    "Klimabonus und Öffi-Ticket",
+    "Familienbeihilfe und Schulnoten"
+   ],
+   "aha": "Wer die Untersuchungen auslässt, bekommt nicht das ganze Kinderbetreuungsgeld. Für Tamara Ehs ein Argument, warum finanzielle Anreize fürs Wählen nicht so abwegig sind, wie der erste Reflex sagt.",
+   "quote_clean": "Ich sage nur: Mutter-Kind-Pass. Wenn ich beim Mutter-Kind-Pass eine Reihe von Untersuchungen beim Gynäkologen oder bei der Gynäkologin nicht einhalte, bekomme ich auch nicht das gesamte Kinderbetreuungsgeld ausbezahlt."
+  },
+  {
+   "i": 15,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "aha gab ihre vereinfachende Behauptung zur Parteienförderung als Fakt wieder; neutral formuliert.",
+   "stand_note": "Stand 2019",
+   "quality": 3,
+   "statement": "Tamara Ehs schlägt vor, die Parteienförderung um den Anteil der Nichtwähler:innen zu kürzen und das Geld in Demokratieförderung zu stecken.",
+   "question": "Was schlägt Tamara Ehs mit dem Anteil der Nichtwähler:innen vor?",
+   "answer": "Parteienförderung entsprechend kürzen",
+   "distractors": [
+    "Strafen für Nichtwähler:innen",
+    "Mehr Abgeordnete einsetzen",
+    "Wahlen öfter wiederholen"
+   ],
+   "aha": "Ihr Vorschlag: Der Anteil, der auf Nichtwähler:innen entfällt, soll nicht an Parteien gehen, sondern in einen Demokratieförderungstopf wandern. Daraus würde sie etwa Projekte der politischen Bildung fördern, auch Podcasts.",
+   "quote_clean": "Wieso nicht zum Beispiel bei einer Nichtwahlbeteiligung von 20 Prozent diese 20 Prozent vom allgemeinen Parteienförderungstopf abziehen und in einen Demokratieförderungstopf überführen?"
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (t=1316, Kontext Vorarlberg ab t=1284).",
+   "stand_note": "",
+   "quality": 4,
+   "statement": "In Vorarlberg werden Mitglieder von Bürgerräten per Los aus dem Melderegister ausgewählt.",
+   "question": "Wie werden die Teilnehmer:innen von Bürgerräten in Vorarlberg ausgewählt?",
+   "answer": "Per Los aus dem Melderegister",
+   "distractors": [
+    "Von den Parteien nominiert",
+    "Per Online-Bewerbung",
+    "Vom Landtag gewählt"
+   ],
+   "aha": "Das Los holt genau die Leute an den Tisch, die sonst nie auf die Idee kämen mitzureden. So wird die soziale Schieflage zumindest in diesem Gremium ausgeglichen.",
+   "quote_clean": "Da geht es darum, dass Menschen aus dem Melderegister gelost und eingeladen werden, an Bürgerräten teilzunehmen."
+  },
+  {
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "transkription"
+   ],
+   "note": "Vorarlberger Bürgerräte haben nach meinem Wissen meist 12 bis 16 Personen; die 20 sind zu unsicher.",
+   "stand_note": "",
+   "quality": 2,
+   "statement": "Ein Vorarlberger Bürgerrat besteht aus rund 20 gelosten Personen, die ein Abbild der Bevölkerung sein sollen.",
+   "question": "Aus wie vielen Personen besteht ein Bürgerrat in Vorarlberg?",
+   "answer": "20 Personen",
+   "distractors": [
+    "8 Personen",
+    "50 Personen",
+    "120 Personen"
+   ],
+   "aha": "Zwanzig Menschen als Mini-Vorarlberg: Sie treffen sich zu einem Thema für einen halben bis eineinhalb Tage. Jedes Mal mit neuen Leuten.",
+   "quote_clean": "So eine Mini-Bevölkerung, also das Abbild Vorarlbergs, soll sich dann in diesem Gremium von 20 Personen abbilden, die als Bürgerrätinnen und Bürgerräte fungieren."
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Andere Länder hatten ebenfalls Bürgerversammlungen; Distraktor Niederlande ersetzt, Frage attribuiert.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "In Irland hat eine geloste Citizens' Assembly umstrittene Verfassungsfragen vorbereitet.",
+   "question": "In welchem Land bereitete laut Tamara Ehs eine geloste Citizens' Assembly umstrittene Verfassungsfragen vor?",
+   "answer": "Irland",
+   "distractors": [
+    "Dänemark",
+    "Schweiz",
+    "Norwegen"
+   ],
+   "aha": "Irland hat Bürgerräte im großen Stil ausprobiert, öffentlich per Livestream. Studien zeigen danach mehr Vertrauen in Demokratie und Institutionen.",
+   "quote_clean": "Das kann man aber auch viel größer probieren, wie zum Beispiel in Irland, wo man eine ganze Constitutional and Citizens' Assembly hatte, die auch schwierige, gesellschaftspolitisch umstrittene Verfassungsfragen vorbereitet hat."
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Madrid-Hinweis im aha ist unsicher/überholt; entfernt.",
+   "stand_note": "Stand 2019",
+   "quality": 3,
+   "statement": "In Ostbelgien, der deutschsprachigen Gemeinschaft Belgiens, wurde 2019 ein dauerhafter, institutioneller Bürgerrat eingerichtet.",
+   "question": "Wo startete 2019 ein dauerhafter Bürgerrat beim deutschsprachigen Parlament?",
+   "answer": "In Ostbelgien",
+   "distractors": [
+    "In Südtirol",
+    "In Liechtenstein",
+    "Im Elsass"
+   ],
+   "aha": "Dort wird das politische System quasi um eine zusätzliche Kammer erweitert: ein Gremium, in dem Menschen und Perspektiven gehört werden, die sonst kaum vertreten sind.",
+   "quote_clean": "Jetzt im September beginnt auch ein neuer institutioneller Bürgerrat in Ostbelgien, beim deutschsprachigen Parlament dort."
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (t=1617-1654); Distraktoren etwas leicht.",
+   "stand_note": "",
+   "quality": 2,
+   "statement": "Einige Teilnehmer:innen der irischen Citizens' Assembly engagierten sich danach in anderen politischen Gremien, etwa in ihrer Gemeinde.",
+   "question": "Was haben einige Mitglieder der irischen Citizens' Assembly danach gemacht?",
+   "answer": "Sich in der Gemeindepolitik engagiert",
+   "distractors": [
+    "Sich aus der Politik zurückgezogen",
+    "Eine eigene Partei gegründet",
+    "Gegen die Ergebnisse geklagt"
+   ],
+   "aha": "Sie haben gemerkt: Politisch handeln ist keine Hexerei, dafür muss man nicht studiert haben. Man traut ihnen etwas zu, also trauen sie es sich selbst auch zu.",
+   "quote_clean": "Und wir haben in Irland gesehen, dass sich durchaus einige Teilnehmerinnen und Teilnehmer dieser Citizens' Assembly nachher in anderen politischen Gremien, zum Beispiel in ihrer Gemeinde, engagiert haben."
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (t=1696-1700).",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Für Tamara Ehs ist das Wesen der Demokratie der Kompromiss.",
+   "question": "Was ist laut Tamara Ehs das Wesen der Demokratie?",
+   "answer": "Der Kompromiss",
+   "distractors": [
+    "Die Mehrheit",
+    "Die Wahl",
+    "Die Freiheit"
+   ],
+   "aha": "Darum braucht Demokratie Solidarität: Man muss über sich selbst hinausdenken. Und das kann man täglich üben, nicht nur alle paar Jahre in der Wahlkabine.",
+   "quote_clean": "Im Zentrum der Demokratie steht immer die Kompromissfindung. Das Wesen der Demokratie ist eigentlich der Kompromiss."
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (t=1730-1744); Betriebsrätegesetz 1919 stimmt.",
+   "stand_note": "",
+   "quality": 3,
+   "statement": "Das österreichische Betriebsrätegesetz wurde 1919 beschlossen.",
+   "question": "In welchem Jahr wurde in Österreich das Betriebsrätegesetz beschlossen?",
+   "answer": "1919",
+   "distractors": [
+    "1848",
+    "1945",
+    "1974"
+   ],
+   "aha": "Mitbestimmung im Betrieb ist in Österreich über hundert Jahre alt. Damals, 1919, waren die Ideen sogar noch radikaler, wie weit man das ausbauen könnte.",
+   "quote_clean": "Wir haben gerade im Mai 100 Jahre Betriebsrätegesetz begangen. Da geht es auch um demokratische Mitbestimmung dort, wo ich arbeite, in meinem Betrieb."
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Im Ausschnitt fragt Andreas nur diese Gästin; \"seine Gäste in der Serie\" nicht belegt, inhaltlich dünn.",
+   "stand_note": "",
+   "quality": 1,
+   "statement": "In der Demokratie-Serie fragt Andreas seine Gäste aus Transparenzgründen, ob sie in einem Verhältnis zu einer Partei stehen.",
+   "question": "Was fragt Andreas seine Gäste in der Demokratie-Serie „im Sinne der Transparenz“?",
+   "answer": "Ob sie einer Partei nahestehen",
+   "distractors": [
+    "Wen sie zuletzt gewählt haben",
+    "Wie viel sie verdienen",
+    "Ob sie schon kandidiert haben"
+   ],
+   "aha": "Tamara Ehs war nie Parteimitglied, berät aber Parteien quer durchs Spektrum in Demokratiefragen. Bei einer Serie über Demokratie ist so eine Offenlegung eh das Mindeste.",
+   "quote_clean": "Perfekt. Und nur im Sinne der Transparenz: Bist du derzeit in irgendeinem Verhältnis mit einer Partei in Österreich?"
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Gesprächsfloskel, keine echte Spielfrage.",
+   "stand_note": "",
+   "quality": 1,
+   "statement": "Zum Schluss fragt Andreas, was Hörer:innen konkret tun können, wenn sie selbst mitwirken wollen.",
+   "question": "Womit leitet Andreas seine Schlussfrage an Tamara Ehs ein?",
+   "answer": "„Letzte Frage.“",
+   "distractors": [
+    "„Zum Abschluss ein Gedankenspiel.“",
+    "„Ganz ehrlich jetzt.“",
+    "„Eine Sache noch, bevor du gehst.“"
+   ],
+   "aha": "Andreas will am Ende gern was Praktisches mitgeben. Tamaras Rat: die Vereinzelung überwinden und ruhig auch bei der Nachbarin klingeln und sie mitnehmen.",
+   "quote_clean": "Letzte Frage. Es gibt da draußen jetzt sicher ein paar Leute, die zuhören und sich denken: Du hast mich überzeugt, Tamara, ich finde das super und ich will auch was machen."
+  }
+ ],
+ "id": "76",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

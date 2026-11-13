@@ -1,0 +1,652 @@
+{
+ "theme": "Klima & Energie",
+ "summary": "Was passiert mit unserem Müll, nachdem er in der Tonne landet – und bringt Mülltrennen wirklich was? Christian Pladerer erklärt's.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 190,
+   "speaker": "Christian Pladerer",
+   "quote": "Aber in Summe kann man sagen, dass in ganz Österreich so zwischen 20 und 25 Prozent biogenes, das heißt Lebensmittel, Obst und Gemüse, Gartenabfälle im Restmüll sind.",
+   "quote_clean": "In Summe kann man sagen, dass in ganz Österreich zwischen 20 und 25 Prozent biogenes Material, das heißt Lebensmittel, Obst und Gemüse, Gartenabfälle, im Restmüll sind.",
+   "statement": "Im österreichischen Restmüll sind rund 20 bis 25 Prozent biogene Abfälle wie Lebensmittel, Obst, Gemüse und Gartenabfälle.",
+   "question": "Wie viel Prozent des österreichischen Restmülls sind ungefähr biogene Abfälle wie Essensreste und Gartenabfälle?",
+   "answer": "Rund 20 bis 25 Prozent",
+   "distractors": [
+    "Rund 5 bis 10 Prozent",
+    "Rund 40 bis 45 Prozent",
+    "Rund 60 bis 65 Prozent"
+   ],
+   "number_value": 22,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 70,
+   "log_scale": false,
+   "aha": "Bananenschalen, Kaffeesatz, alte Salatblätter: Das ist laut Christian die größte einzelne Fraktion im Restmüll. In der Stadt ist es sogar mehr, weil dort weniger mit der Biotonne gesammelt wird.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Restmüll",
+    "Biomüll"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 229,
+   "speaker": "Christian Pladerer",
+   "quote": "Dann habe ich so ungefähr 60, 70 Prozent sogenannte Wertstoffe im Restmüll.",
+   "quote_clean": "Dann habe ich ungefähr 60, 70 Prozent sogenannte Wertstoffe im Restmüll.",
+   "statement": "Zählt man Biomüll, Papier und Kunststoff zusammen, bestehen 60 bis 70 Prozent des Restmülls eigentlich aus verwertbaren Wertstoffen.",
+   "question": "Wie viel Prozent des Restmülls sind eigentlich verwertbare Wertstoffe wie Biomüll, Papier oder Kunststoff?",
+   "answer": "Etwa 60 bis 70 Prozent",
+   "distractors": [
+    "Etwa 10 bis 20 Prozent",
+    "Etwa 30 bis 40 Prozent",
+    "Etwa 85 bis 95 Prozent"
+   ],
+   "number_value": 65,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Der Großteil von dem, was du in den Restmüll wirfst, wäre eigentlich zu Kompost, Biogas, neuem Papier oder neuen Kunststoffprodukten verarbeitbar. Stattdessen fährt es meistens in die Müllverbrennung, und das Material ist weg.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Restmüll",
+    "Recycling"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 328,
+   "speaker": "Christian Pladerer",
+   "quote": "Am Beispiel von Wien sieht man, dass aus der Energie Fernwärme produziert wird und im Heizsystem landet.",
+   "quote_clean": "Am Beispiel von Wien sieht man, dass aus der Energie Fernwärme produziert wird und im Heizsystem landet.",
+   "statement": "In Wien wird aus der Energie der Müllverbrennung Fernwärme erzeugt, mit der Wohnungen geheizt werden.",
+   "question": "Was passiert in Wien mit der Energie aus der Müllverbrennung?",
+   "answer": "Sie wird zu Fernwärme fürs Heizen",
+   "distractors": [
+    "Sie treibt die U-Bahn direkt an",
+    "Sie verpufft ungenutzt im Schornstein",
+    "Sie wird als Gas exportiert"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer in Wien an der Fernwärme hängt, heizt also zum Teil mit verbranntem Restmüll. Klingt praktisch, aber die Stoffe selbst sind danach verloren.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Müllverbrennung",
+    "Fernwärme",
+    "Wien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 277,
+   "speaker": "Christian Pladerer",
+   "quote": "eine sogenannte mechanisch-biologische Methode, wo man versucht, über Magnetabscheider einerseits die Eisenverpackungen, die Metallverpackungen herauszubekommen und versucht, über eine Rotte das biogene Material zu reduzieren.",
+   "quote_clean": "Eine sogenannte mechanisch-biologische Methode, wo man versucht, über Magnetabscheider einerseits die Eisen- und Metallverpackungen herauszubekommen, und über eine Rotte das biogene Material zu reduzieren.",
+   "statement": "Neben der Verbrennung gibt es die mechanisch-biologische Restmüllbehandlung: Magnete holen Metalle heraus, eine Rotte ähnlich der Kompostierung baut das Organische ab.",
+   "question": "Wie funktioniert die mechanisch-biologische Restmüllbehandlung?",
+   "answer": "Magnete plus eine kompostartige Rotte",
+   "distractors": [
+    "Hitze plus chemische Lösungsmittel",
+    "Wasserbad plus Zentrifuge",
+    "Handsortierung plus Pressung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Magnetabscheider fischen Dosen und Metallverpackungen raus, dann wird das Organische ähnlich wie beim Kompostieren stark abgebaut. Was übrig bleibt, geht in die Verbrennung, in die Zementindustrie oder auf die Deponie.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Restmüll",
+    "Abfallbehandlung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 622,
+   "speaker": "Christian Pladerer",
+   "quote": "Man darf eben nicht vergessen, dass von diesen 100 Prozent, die in eine Müllverbrennungsanlage reingehen, 20, 30 Prozent als Asche, Schlacke, Filterkuchen übrig bleiben.",
+   "quote_clean": "Man darf nicht vergessen, dass von den 100 Prozent, die in eine Müllverbrennungsanlage reingehen, 20, 30 Prozent als Asche, Schlacke und Filterkuchen übrig bleiben.",
+   "statement": "Von dem, was in eine Müllverbrennungsanlage hineingeht, bleiben 20 bis 30 Prozent als Asche, Schlacke und Filterkuchen übrig.",
+   "question": "Wie viel Prozent des Mülls bleiben nach der Verbrennung als Asche, Schlacke und Filterkuchen übrig?",
+   "answer": "Etwa 20 bis 30 Prozent",
+   "distractors": [
+    "Etwa 1 bis 5 Prozent",
+    "Etwa 50 bis 60 Prozent",
+    "Etwa 70 bis 80 Prozent"
+   ],
+   "number_value": 25,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Verbrennen lässt den Müll nicht einfach verschwinden. Ein Viertel ungefähr bleibt als Abfall vom Abfall übrig, und den muss man wieder irgendwo deponieren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Müllverbrennung",
+    "Schlacke"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 566,
+   "speaker": "Christian Pladerer",
+   "quote": "Wenn ich mir Müllverbrennungsanlagen anschaue, dort, wo die Verbrennung stattfindet, das ist ein ganz kleiner Teil. Das meiste von diesem Gebäude ist die sogenannte Reinigung der Abgase,",
+   "quote_clean": "Wenn ich mir Müllverbrennungsanlagen anschaue: Dort, wo die Verbrennung stattfindet, das ist ein ganz kleiner Teil. Das meiste von diesem Gebäude ist die sogenannte Reinigung der Abgase.",
+   "statement": "In einer Müllverbrennungsanlage nimmt die eigentliche Verbrennung nur einen kleinen Teil ein, der Großteil des Gebäudes dient der Abgasreinigung.",
+   "question": "Wofür ist der größte Teil einer Müllverbrennungsanlage da?",
+   "answer": "Für die Reinigung der Abgase",
+   "distractors": [
+    "Für die Verbrennungsöfen",
+    "Für die Mülllagerung vor dem Ofen",
+    "Für die Stromturbinen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Damit aus dem Schornstein nur Gas oder Dampf kommt, der die Grenzwerte einhält, braucht es irrsinnigen Aufwand mit Filteranlagen. Das Feuer selbst ist fast die Nebensache.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Müllverbrennung",
+    "Abgase"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 601,
+   "speaker": "Christian Pladerer",
+   "quote": "Das ist ein gefährlicher Abfall. Der kann in Österreich gar nicht deponiert werden. Der wird in Deutschland unter Tage deponiert, sehr kostenintensiv.",
+   "quote_clean": "Das ist ein gefährlicher Abfall. Der kann in Österreich gar nicht deponiert werden. Der wird in Deutschland unter Tage deponiert, sehr kostenintensiv.",
+   "statement": "Der gefährliche Filterkuchen aus österreichischen Müllverbrennungsanlagen kann in Österreich nicht deponiert werden und wird in Deutschland unter Tage gelagert.",
+   "question": "Wo landet der giftige Filterkuchen aus österreichischen Müllverbrennungsanlagen?",
+   "answer": "Unter Tage in Deutschland",
+   "distractors": [
+    "Auf einer Deponie in Niederösterreich",
+    "Im Zement für den Straßenbau",
+    "In einer Sondermülldeponie in Italien"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Filterkuchen ist das, was die Abgasreinigung herausholt, und der ist so gefährlich, dass Österreich ihn nicht selbst lagern kann. Also wird er teuer nach Deutschland gebracht und dort unter Tage deponiert.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Müllverbrennung",
+    "Sondermüll"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 647,
+   "speaker": "Christian Pladerer",
+   "quote": "Also zum Beispiel die Schlacke in Wien wird auf der Deponie Rautenweg verwendet. Zum Beispiel, dass die Stabilität der Deponie passt.",
+   "quote_clean": "Zum Beispiel wird die Schlacke in Wien auf der Deponie Rautenweg verwendet, damit die Stabilität der Deponie passt.",
+   "statement": "Die Schlacke aus der Wiener Müllverbrennung wird auf der Deponie Rautenweg eingesetzt, unter anderem für deren Stabilität.",
+   "question": "Wofür wird Schlacke aus der Wiener Müllverbrennung unter anderem verwendet?",
+   "answer": "Zur Stabilisierung der Deponie Rautenweg",
+   "distractors": [
+    "Als Streugut im Winter",
+    "Als Dünger für Parkanlagen",
+    "Als Zusatz in Ziegeln"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Schlacke wird also gleich selbst zum Baumaterial für den Müllberg. Neuere Verfahren versuchen außerdem, noch Metalle aus der Schlacke herauszuholen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Schlacke",
+    "Deponie",
+    "Wien"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 734,
+   "speaker": "Christian Pladerer",
+   "quote": "Das heißt, es soll eigentlich in Europa kein Abfall mehr deponiert werden, der reaktiv ist. Das heißt, der einen biogenischen Bestandteil hat, also organische Lebensmittel, Obst und Gemüse. Damit er nicht CO2 freisetzt, damit er nicht Methan freisetzt,",
+   "quote_clean": "Das heißt, es soll in Europa kein Abfall mehr deponiert werden, der reaktiv ist, also einen biogenen Bestandteil hat wie Lebensmittel, Obst und Gemüse. Damit er nicht CO2 und nicht Methan freisetzt.",
+   "statement": "Das europäische Deponieverbot soll verhindern, dass reaktiver Abfall mit organischen Bestandteilen abgelagert wird, weil er CO2 und Methan freisetzt.",
+   "question": "Warum soll in Europa kein Müll mit organischen Resten mehr deponiert werden?",
+   "answer": "Er setzt CO2 und Methan frei",
+   "distractors": [
+    "Er lockt zu viele Ratten an",
+    "Er verbraucht zu viel Deponiefläche",
+    "Er wird zu schnell radioaktiv"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wenn Essensreste auf einer Deponie vor sich hin gammeln, entstehen klimawirksame Gase, vor allem Methan. Deshalb gilt in Europa ein Deponieverbot für solchen reaktiven Abfall, auch wenn sich nicht alle Länder daran halten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Deponie",
+    "Klima",
+    "EU"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 762,
+   "speaker": "Christian Pladerer",
+   "quote": "Nicht alle, vor allem in Spanien, aber auch in Griechenland und in Italien gibt es da noch immer Deponien, wo der Hausmüll, der Restmüll einfach deponiert wird.",
+   "quote_clean": "Nicht alle. Vor allem in Spanien, aber auch in Griechenland und in Italien gibt es noch immer Deponien, wo der Hausmüll, der Restmüll, einfach deponiert wird.",
+   "statement": "In Spanien, Griechenland und Italien wird Restmüll teilweise noch immer unbehandelt auf Deponien abgelagert.",
+   "question": "In welchem dieser Länder wird laut der Folge Restmüll noch einfach auf Deponien gekippt?",
+   "answer": "Spanien",
+   "distractors": [
+    "Österreich",
+    "Schweden",
+    "Niederlande"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Christian nennt vor allem Spanien, aber auch Griechenland und Italien. Unbehandelten Restmüll einfach abzulagern ist für ihn die schlechteste Variante für uns alle.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Deponie",
+    "Europa"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 792,
+   "speaker": "Christian Pladerer",
+   "quote": "Nein, zusammengemischt wird nichts mehr, was einmal getrennt worden ist. Das Mülltrennen macht viel Sinn, weil ich beispielsweise, wenn ich Glas sammle, aus Glas wieder neues Glas produzieren kann.",
+   "quote_clean": "Nein, zusammengemischt wird nichts mehr, was einmal getrennt worden ist. Mülltrennen macht viel Sinn, weil ich zum Beispiel aus gesammeltem Glas wieder neues Glas produzieren kann.",
+   "statement": "Getrennt gesammelter Müll wird nicht wieder zusammengemischt; Mülltrennen ist sinnvoll, weil etwa aus Glas wieder neues Glas wird.",
+   "question": "Wird getrennt gesammelter Müll am Ende wieder zusammengemischt?",
+   "answer": "Nein, er bleibt getrennt",
+   "distractors": [
+    "Ja, fast immer",
+    "Ja, aber nur Papier und Plastik",
+    "Nur in größeren Städten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das war die mit Abstand häufigste Hörer:innenfrage zu dieser Folge. Christians Antwort ist eindeutig: Was getrennt wurde, bleibt getrennt, und aus Glas wird wieder Glas, aus Papier Papier.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Mülltrennung",
+    "Recycling"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 866,
+   "speaker": "Christian Pladerer",
+   "quote": "Bei Kunststoff haben wir im Moment eine Recyclingquote von 34%.",
+   "quote_clean": "Bei Kunststoff haben wir im Moment eine Recyclingquote von 34 Prozent.",
+   "statement": "Österreich hatte bei Kunststoff 2018 eine Recyclingquote von 34 Prozent; Ziel sind langfristig 50 bis 60 Prozent.",
+   "question": "Wie hoch war Österreichs Recyclingquote bei Kunststoff 2018?",
+   "answer": "34 Prozent",
+   "distractors": [
+    "12 Prozent",
+    "58 Prozent",
+    "81 Prozent"
+   ],
+   "number_value": 34,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Also grob ein Drittel des Plastiks wurde recycelt, der Rest meist verbrannt. Mit dem EU-Kreislaufwirtschaftspaket muss die Quote in Richtung 50 bis 60 Prozent steigen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Plastik",
+    "Recycling",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 443,
+   "speaker": "Christian Pladerer",
+   "quote": "dass man auf sogenannte Hohlkörper, das heißt Flaschensammlung, reduziert hat, weil man behauptet hat, einerseits die Hohlkörper kann man besser recyceln. Und das stimmt auch, aus Bettflaschen kann man wieder neue Bettflaschen generieren oder herstellen.",
+   "quote_clean": "Dass man auf sogenannte Hohlkörper, das heißt die Flaschensammlung, reduziert hat, weil man gesagt hat, die Hohlkörper kann man besser recyceln. Und das stimmt auch: Aus PET-Flaschen kann man wieder neue PET-Flaschen herstellen.",
+   "statement": "Manche Regionen wie Wien sammeln nur noch Plastikflaschen getrennt, weil sich diese Hohlkörper besser recyceln lassen als andere Kunststoffverpackungen.",
+   "question": "Warum wird in Wien beim Plastik nur noch die Flaschen getrennt gesammelt?",
+   "answer": "Flaschen lassen sich besser recyceln",
+   "distractors": [
+    "Andere Verpackungen sind verboten",
+    "Flaschen sind leichter zu transportieren",
+    "Andere Plastikarten zersetzen sich selbst"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Aus PET-Flaschen werden wieder PET-Flaschen, beim Joghurtbecher hat das nicht geklappt. Dort, wo es Müllverbrennungsanlagen gibt, hat man die übrige Kunststoffsammlung deshalb zurückgefahren.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Plastik",
+    "Mülltrennung",
+    "Wien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 476,
+   "speaker": "Christian Pladerer",
+   "quote": "Dann war es wirklich schwierig im Verfahren, weil die innere Schichte, die mit dem Joghurt in Verbindung war, konnte man damals nicht aus einem Rezyklat, das heißt aus einem Recyclingmaterial herstellen.",
+   "quote_clean": "Dann war es wirklich schwierig im Verfahren, weil man die innere Schicht, die mit dem Joghurt in Verbindung war, damals nicht aus einem Rezyklat, also aus Recyclingmaterial, herstellen konnte.",
+   "statement": "Aus alten Joghurtbechern neue zu machen scheiterte, weil die Innenschicht mit Lebensmittelkontakt damals nicht aus Recyclingmaterial hergestellt werden konnte.",
+   "question": "Warum ließen sich aus alten Joghurtbechern lange keine neuen machen?",
+   "answer": "Die Innenschicht durfte kein Recyclingmaterial sein",
+   "distractors": [
+    "Das Material schmilzt nicht",
+    "Joghurtreste verkleben die Maschinen",
+    "Die Becher sind zu leicht zum Sortieren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Joghurtbecher sind aus Polystyrol, und die Schicht, die das Joghurt berührt, konnte man damals nicht aus Rezyklat herstellen. So ist die schöne Idee, den ganzen Kunststoff zu sammeln, an einem Becher gescheitert.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Plastik",
+    "Recycling"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1008,
+   "speaker": "Christian Pladerer",
+   "quote": "also ich glaube es gibt 2000 verschiedene Kunststoffarten, die unterschiedliche Funktionen erfüllen.",
+   "quote_clean": "Ich glaube, es gibt 2000 verschiedene Kunststoffarten, die unterschiedliche Funktionen erfüllen.",
+   "statement": "Die Chemieindustrie stellt aus Erdöl rund 2000 verschiedene Kunststoffarten mit unterschiedlichen Funktionen her.",
+   "question": "Wie viele verschiedene Kunststoffarten gibt es ungefähr?",
+   "answer": "Rund 2000",
+   "distractors": [
+    "Rund 20",
+    "Rund 200",
+    "Rund 200.000"
+   ],
+   "number_value": 2000,
+   "number_unit": "Kunststoffarten",
+   "slider_min": 10,
+   "slider_max": 100000,
+   "log_scale": true,
+   "aha": "Manche müssen starr sein, manche elastisch, manche stecken als künstliches Gelenk im Körper. Kunststoff an sich ist für Christian ein wertvolles Material, verschwendet wird er bei kurzlebigen Wegwerfprodukten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Plastik",
+    "Erdöl"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1154,
+   "speaker": "Christian Pladerer",
+   "quote": "Er geht über die WCs, über die Duschtasse in die Kläranlage und ich kenne keine Kläranlage der Welt, die dieses Material raussortiert, rausfiltert. Dann landet es in der Donau, dann landet es im Schwarzen Meer und so weiter.",
+   "quote_clean": "Er geht über die WCs und die Duschtasse in die Kläranlage, und ich kenne keine Kläranlage der Welt, die dieses Material heraussortiert oder herausfiltert. Dann landet es in der Donau, dann im Schwarzen Meer und so weiter.",
+   "statement": "Mikroplastik aus Kosmetik gelangt über Abfluss und Kläranlage, die es nicht herausfiltert, in die Donau und weiter ins Schwarze Meer.",
+   "question": "Wohin gelangt Mikroplastik aus österreichischem Duschgel letztlich?",
+   "answer": "Über die Donau ins Schwarze Meer",
+   "distractors": [
+    "In den Klärschlamm, der verbrannt wird",
+    "Ins Grundwasser unter Wien",
+    "Über den Rhein in die Nordsee"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kläranlagen sind laut Christian nicht dafür gebaut, diese winzigen Teilchen herauszufiltern. Was in Wien in die Duschtasse rinnt, kann also am Ende im Schwarzen Meer landen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mikroplastik",
+    "Donau"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1300,
+   "speaker": "Christian Pladerer",
+   "quote": "Also die herkömmlichen Biokunststoffe in Österreich sind aus Maisstärke, Kartoffelstärke und Weizenstärke. Und dann gibt es noch den sogenannten PLA-Becher oder PLA-Material. Das stammt aus der Milchsäure,",
+   "quote_clean": "Die herkömmlichen Biokunststoffe in Österreich sind aus Maisstärke, Kartoffelstärke und Weizenstärke. Und dann gibt es noch das sogenannte PLA-Material, das aus der Milchsäure stammt.",
+   "statement": "Gängige Biokunststoffe werden aus Mais-, Kartoffel- oder Weizenstärke hergestellt, PLA-Material aus Milchsäure.",
+   "question": "Woraus wird der Biokunststoff PLA hergestellt?",
+   "answer": "Aus Milchsäure",
+   "distractors": [
+    "Aus Holzfasern",
+    "Aus Algen",
+    "Aus Altspeiseöl"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "PLA kommt aus der Fermentation von Milchsäure, ein ziemlich aufwendiges chemisches Verfahren. Und Achtung: Nicht jeder Biokunststoff ist automatisch aus nachwachsenden Rohstoffen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Biokunststoff"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1482,
+   "speaker": "Christian Pladerer",
+   "quote": "die Landwirtschaft ist schon in erster Linie dafür da, die Menschen zu ernähren und nicht Treibstoff zu produzieren. Und wenn wir jetzt auch noch Verpackungen auf unseren Ackern produzieren, dann ist es auch nicht wirklich sinnvoll.",
+   "quote_clean": "Die Landwirtschaft ist in erster Linie dafür da, die Menschen zu ernähren, und nicht, Treibstoff zu produzieren. Und wenn wir jetzt auch noch Verpackungen auf unseren Äckern produzieren, dann ist das auch nicht wirklich sinnvoll.",
+   "statement": "Landwirtschaft soll in erster Linie Menschen ernähren, nicht Treibstoff oder Verpackungsmaterial liefern.",
+   "question": "Wer sagt: Die Landwirtschaft ist in erster Linie dafür da, die Menschen zu ernähren, nicht Verpackungen zu liefern?",
+   "answer": "Christian Pladerer",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Sprecher der Agrarindustrie",
+    "Ein Biokunststoff-Hersteller"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Darum ist Biokunststoff aus Mais oder Kartoffeln für Christian nur die zweitbeste Lösung. Besser wäre, ihn aus Abfällen zu machen, etwa aus Zuckerrübenschalen, damit Teller, Tank und Verpackung nicht konkurrieren.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Biokunststoff",
+    "Landwirtschaft"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1564,
+   "speaker": "Christian Pladerer",
+   "quote": "dass 76 Prozent der gesamten Abfälle, die liegen gelassen werden, sind Getränkeverpackungen. Und der Großteil davon sind Dosen und Bettflaschen.",
+   "quote_clean": "Dass 76 Prozent der gesamten Abfälle, die liegen gelassen werden, Getränkeverpackungen sind. Und der Großteil davon sind Dosen und PET-Flaschen.",
+   "statement": "Bei einer Zählung am Salzachkai in Salzburg waren 76 Prozent des liegen gelassenen Abfalls Getränkeverpackungen, vor allem Dosen und PET-Flaschen.",
+   "question": "Wie viel Prozent des achtlos liegen gelassenen Mülls am Salzachkai in Salzburg waren Getränkeverpackungen?",
+   "answer": "76 Prozent",
+   "distractors": [
+    "21 Prozent",
+    "44 Prozent",
+    "93 Prozent"
+   ],
+   "number_value": 76,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Das Ökologie Institut ist den ganzen Kai entlang gegangen und hat jedes Stück Müll gezählt. Gut drei Viertel waren Getränkeverpackungen, und je kleiner das Plastik zerfällt, desto weiter trägt es der Fluss.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Littering",
+    "Getränkeverpackungen",
+    "Salzburg"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1652,
+   "speaker": "Christian Pladerer",
+   "quote": "Ich will ja nicht einen Fernseher kaufen, weil ich ihn besitzen will. Ich will Fernseher schauen.",
+   "quote_clean": "Ich will ja nicht einen Fernseher kaufen, weil ich ihn besitzen will. Ich will fernsehen.",
+   "statement": "Es geht nicht ums Besitzen, sondern um den Nutzen: Teilen und Mieten ist ein großer Hebel gegen Abfall.",
+   "question": "Wer sagt: Ich will ja nicht einen Fernseher kaufen, weil ich ihn besitzen will. Ich will fernsehen?",
+   "answer": "Christian Pladerer",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Elektrohändler im Werbespot",
+    "Ein Hörer in einer Sprachnachricht"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Christian ist das der größte Hebel: vor dem Kauf fragen, ob man etwas wirklich braucht. Lieber teilen, mieten, gemeinsam nutzen, dann entsteht der Müll gar nicht erst.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Konsum",
+    "Abfallvermeidung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1709,
+   "speaker": "Christian Pladerer",
+   "quote": "Wir treffen ja jeden Tag, wenn wir einkaufen gehen, am Point of Sale, also am Regal, nicht nur eine Kaufentscheidung, es ist ja auch eine politische Entscheidung.",
+   "quote_clean": "Wir treffen jeden Tag, wenn wir einkaufen gehen, am Point of Sale, also am Regal, nicht nur eine Kaufentscheidung, sondern auch eine politische Entscheidung.",
+   "statement": "Jeder Einkauf am Regal ist nicht nur eine Kauf-, sondern auch eine politische Entscheidung, weil Nachfrage das Angebot formt.",
+   "question": "Was ist laut Christian Pladerer jeder Einkauf am Regal auch?",
+   "answer": "Eine politische Entscheidung",
+   "distractors": [
+    "Eine reine Preisfrage",
+    "Eine Gewohnheitssache",
+    "Eine Entscheidung des Handels"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Handel stellt uns zwar viel hin, aber was wir nachfragen, bestimmt mit, wie die Regale ausschauen. Als Orientierung nennt Christian Bio-Siegel und das Österreichische Umweltzeichen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Konsum"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 539,
+   "speaker": "Andreas Sator",
+   "quote": "Christian, sag mal, wenn wir unseren Müll einfach verbrennen und es entsteht daraus Energie, warum machen wir uns dann eigentlich so viele Gedanken, wie wir mit Müll umgehen? Ist doch super, wir verbrennen ihn einfach und heizen unsere Wohnungen.",
+   "quote_clean": "Christian, sag mal, wenn wir unseren Müll einfach verbrennen und daraus Energie entsteht, warum machen wir uns dann eigentlich so viele Gedanken, wie wir mit Müll umgehen? Ist doch super, wir verbrennen ihn einfach und heizen unsere Wohnungen.",
+   "statement": "Andreas fragt provokant nach, warum man sich um Müll Gedanken macht, wenn man ihn doch verbrennen und damit heizen kann.",
+   "question": "Mit welcher provokanten Frage hakt Andreas beim Thema Müllverbrennung nach?",
+   "answer": "Warum nicht einfach alles verbrennen?",
+   "distractors": [
+    "Warum nicht alles ins Ausland schicken?",
+    "Warum nicht alles vergraben?",
+    "Warum nicht Müll einfach verbieten?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Typisch Andreas: Er stellt sich ein bisschen naiv, damit der Gast das Problem erklären muss. Die Antwort: Ein Viertel bleibt als Schlacke und giftiger Filterkuchen übrig, und das Material ist verloren.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Müllverbrennung"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "40",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

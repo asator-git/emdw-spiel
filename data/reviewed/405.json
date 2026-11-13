@@ -1,0 +1,296 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt; Wert deckt sich mit publizierten Apfel-Messungen (ca. 10^8 Bakterien).",
+   "stand_note": "",
+   "statement": "Ein durchschnittlicher Apfel beherbergt rund 100 Millionen Mikroorganismen.",
+   "question": "Wie viele Mikroorganismen stecken ungefähr in einem durchschnittlichen Apfel?",
+   "answer": "Rund 100 Millionen",
+   "distractors": [
+    "Rund 1000",
+    "Rund 100.000",
+    "Rund 10 Milliarden"
+   ],
+   "number_value": 100000000,
+   "number_unit": "Mikroorganismen",
+   "slider_min": 100000,
+   "slider_max": 10000000000,
+   "aha": "Das Team von Gabriele Berg wollte Schüler:innen zeigen, dass Mikroben Gesundheit bringen, nicht nur Krankheit – und war selbst überrascht, wie viele es im Apfel sind. Ein bisschen gruselig, aber eh gut für dich.",
+   "quote_clean": "Du hast gesagt, im Durchschnitt sind so 100 Millionen Mikroorganismen auf einem Apfel.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Beleg stimmt; Ess-Ratschlag im aha war nicht belegt und wurde entfernt.",
+   "stand_note": "",
+   "statement": "Die meisten Mikroorganismen eines Apfels sitzen nicht auf der Schale, sondern im Fruchtfleisch und im Kerngehäuse.",
+   "question": "Wo sitzen die meisten Mikroorganismen eines Apfels?",
+   "answer": "Im Fruchtfleisch und Kerngehäuse",
+   "distractors": [
+    "Auf der Schale",
+    "Am Stiel",
+    "In der Wachsschicht"
+   ],
+   "aha": "Abwaschen entfernt Schmutz und was außen draufsitzt – aber ein großer Teil der Mikroben wohnt im Inneren des Apfels, im Fruchtfleisch und im Kerngehäuse.",
+   "quote_clean": "Da bleibt so viel drauf, weil die Mikroorganismen nicht auf der Schale sitzen, sondern im Fruchtfleisch und im Kerngehäuse.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "transkription"
+   ],
+   "note": "Mikroorganismen sind seit Leeuwenhoek (um 1675) bekannt, also rund 350 Jahre; die runde Zahl 400 ist ungenau.",
+   "stand_note": "",
+   "statement": "Seit der Entdeckung der Mikroorganismen vor rund 400 Jahren werden sie vor allem mit Krankheiten in Verbindung gebracht.",
+   "question": "Seit ungefähr wie vielen Jahren weiß die Menschheit von Mikroorganismen?",
+   "answer": "Rund 400 Jahre",
+   "distractors": [
+    "Rund 150 Jahre",
+    "Rund 800 Jahre",
+    "Rund 2000 Jahre"
+   ],
+   "aha": "",
+   "quote_clean": "Das Problem ist: Seitdem wir Mikroorganismen kennen, seit wir wissen, dass es sie gibt, also 400 Jahre lang, werden sie mit Krankheiten assoziiert.",
+   "quality": 1
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "veraltet"
+   ],
+   "note": "Als Aussage der Forscherin gerahmt; Zahl ist grobe Angabe.",
+   "stand_note": "Stand 2026",
+   "statement": "Laut Gabriele Berg hat sich die technologiegetriebene Mikrobiomforschung erst in den letzten rund 20 Jahren entwickelt.",
+   "question": "Wie lange hat sich die Mikrobiomforschung laut Gabriele Berg erst entwickelt?",
+   "answer": "Rund 20 Jahre",
+   "distractors": [
+    "Rund 5 Jahre",
+    "Rund 60 Jahre",
+    "Rund 100 Jahre"
+   ],
+   "number_value": 20,
+   "number_unit": "Jahre",
+   "slider_min": 2,
+   "slider_max": 100,
+   "aha": "Erst neue Technologien haben gezeigt, dass jeder Organismus – vom Menschen bis zum Gänseblümchen – ein Gesamtpaket aus sich selbst und seinen Mikroorganismen ist. Ein junges Feld also, das gerade viel umschreibt.",
+   "quote_clean": "Die Mikrobiomforschung, die insgesamt extrem technologiegetrieben ist und die sich erst in den letzten 20 Jahren entwickelt hat,",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt; Aha-Details (Name, genügsam, überall) stehen im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Archäen, winzige Einzeller, gelten als unsere Vorfahren und stehen evolutionär zwischen den Bakterien und uns.",
+   "question": "Welche Mikroorganismen gelten als unsere Vorfahren und stehen zwischen Bakterien und uns?",
+   "answer": "Archäen",
+   "distractors": [
+    "Viren",
+    "Hefepilze",
+    "Amöben"
+   ],
+   "aha": "Der Name kommt daher, dass man sie früher für älter als Bakterien hielt – archaisch eben. Heute weiß man: Diese genügsamen Winzlinge sind fast überall und stehen in der Ahnenreihe näher bei uns.",
+   "quote_clean": "Genau. Und jetzt wissen wir aber, dass das unsere Vorfahren sind. Die stehen zwischen den Bakterien und uns.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt (Arbeitstausch = Arbeitsteilung).",
+   "stand_note": "",
+   "statement": "Ein Mikrobiom funktioniert wie eine kleine Stadt mit Arbeitsteilung: Jeder Mikroorganismus produziert und verdaut andere Stoffe.",
+   "question": "Womit vergleicht Gabriele Berg ein Mikrobiom?",
+   "answer": "Mit einer kleinen Stadt",
+   "distractors": [
+    "Mit einem Ameisenhaufen",
+    "Mit einem Orchester",
+    "Mit einer Fabrikhalle"
+   ],
+   "aha": "Die einen bauen ab, was die anderen übrig lassen, und deren Stoffwechselprodukte nutzt wieder jemand anderer. So ein Mikrobiom funktioniert nur als Gemeinschaft – auch mit ihrem Wirt zusammen.",
+   "quote_clean": "Man muss sich so ein Mikrobiom eigentlich wie eine kleine Stadt vorstellen. Die haben eine Arbeitsteilung: Jeder hat andere Funktionen, produziert andere Stoffe und kann andere Stoffe verdauen.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "ton"
+   ],
+   "note": "Überlebens- und 'alle'-Aussage als Zuspitzung entfernt; Frage nur auf 'unter anderem' bezogen.",
+   "stand_note": "",
+   "statement": "Darmmikroben bilden unter anderem Vitamine und Botenstoffe, die für uns wichtig sind.",
+   "question": "Was bilden Mikroorganismen in deinem Darm unter anderem für dich?",
+   "answer": "Vitamine und Botenstoffe",
+   "distractors": [
+    "Rote Blutkörperchen",
+    "Magensäure",
+    "Insulin"
+   ],
+   "aha": "Einige Stoffe, die du brauchst, stellen nicht deine Zellen her, sondern deine Darmbewohner. Dieses Zusammenspiel hat sich laut Gabriele Berg über Millionen von Jahren entwickelt.",
+   "quote_clean": "Vitamine und Botenstoffe, also Kommunikationsstoffe, werden von Mikroorganismen in unserem Darm gebildet.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg stimmt; Darm-Hirn-Achse im Ausschnitt genannt.",
+   "stand_note": "",
+   "statement": "Der Darm funktioniert wie ein großer Fermenter, in dem ein vielfältiges, individuelles Mikrobiom die Nahrung verdaut.",
+   "question": "Womit vergleicht die Mikrobiomforscherin den Darm?",
+   "answer": "Mit einem großen Fermenter",
+   "distractors": [
+    "Mit einem Abwasserkanal",
+    "Mit einem Mixer",
+    "Mit einem Kühlschrank"
+   ],
+   "aha": "Im Darm verdauen Mikroben deine Nahrung und produzieren lebensnotwendige Stoffe. Über die berühmte Darm-Hirn-Achse beeinflusst das sogar dein Denken, Fühlen und Wohlbefinden.",
+   "quote_clean": "Dann kommt es in den Darm, und der Darm ist wie eine Art großer Fermenter, ein Reaktor, und dort wird die Nahrung von einem hochdiversen, sehr individuellen Mikrobiom verdaut.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Beleg stimmt; erfundene Details im aha (Krautsalat, Ballaststoffabbau) entfernt.",
+   "stand_note": "",
+   "statement": "Fermentierte Lebensmittel sind ein Zwischenschritt zwischen Pflanzen- und Darmmikrobiom: Die Verdauung hat schon außerhalb des Körpers begonnen.",
+   "question": "Warum sind fermentierte Lebensmittel wie Sauerkraut laut Gabriele Berg leichter verdaulich?",
+   "answer": "Die Verdauung hat schon außen begonnen",
+   "distractors": [
+    "Sie enthalten keine Ballaststoffe",
+    "Sie sind besonders fettarm",
+    "Salz löst die Zellwände auf"
+   ],
+   "aha": "Fermentieren machen wir seit Tausenden von Jahren. Dabei sind schon besonders viele Produzenten wertvoller Substanzen angereichert – ein Teil der Arbeit ist also erledigt, bevor das Essen überhaupt in dir landet.",
+   "quote_clean": "Diese fermentierten Lebensmittel sind sehr alt. Das machen wir seit tausenden Jahren, und sie bilden einen Zwischenschritt zwischen unserem Darmmikrobiom und dem Pflanzenmikrobiom.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage ohne Wissensgewinn; Distraktor Katharina Seiser kommt im Ausschnitt nicht vor.",
+   "stand_note": "",
+   "statement": "Gabriele Berg sieht Ernährung als Medizin, die langfristig besonders bei chronischen Krankheiten wirkt.",
+   "question": "Wer sagt im Podcast: Lebensmittel und Ernährung sind definitiv Medizin?",
+   "answer": "Gabriele Berg",
+   "distractors": [
+    "Katharina Seiser",
+    "Andreas Sator",
+    "Mai Thi Nguyen-Kim"
+   ],
+   "aha": "",
+   "quote_clean": "Lebensmittel und Ernährung sind definitiv Medizin, und langfristig wirkt sich eine Nahrungsumstellung positiv auf die Gesundheit aus, insbesondere bei chronischen Krankheiten.",
+   "quality": 1
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage ohne Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Die Mikrobiomforschung verlangt einen Paradigmenwechsel: Mikroorganismen sind nicht nur Krankheitserreger.",
+   "question": "Wer spricht beim Blick auf Mikroorganismen von einem richtigen Paradigmenwechsel?",
+   "answer": "Gabriele Berg",
+   "distractors": [
+    "Florian Krammer",
+    "Andreas Sator",
+    "Hans Rosling"
+   ],
+   "aha": "",
+   "quote_clean": "Diese Mikrobiomwelt bedeutet, dass wir die Mikroorganismen komplett anders sehen müssen. Das ist wirklich ein richtiger Paradigmenwechsel.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "spielbarkeit"
+   ],
+   "note": "Beleg stimmt; übertriebene Aha-Aussage ('schadet eher') entschärft, Distraktoren realistischer.",
+   "stand_note": "",
+   "statement": "Gesundheit ist laut Gabriele Berg eine Balance zwischen mikrobieller Vielfalt und Hygiene; Händewaschen bleibt wichtig, Desinfektionsmittel braucht man im normalen Leben eigentlich nicht.",
+   "question": "Was empfiehlt die Mikrobiomforscherin Gabriele Berg im Alltag zwischen Keimangst und Vielfalt?",
+   "answer": "Balance: Händewaschen ja, Desinfektion im Alltag kaum",
+   "distractors": [
+    "Alles täglich desinfizieren",
+    "Hygiene ist unnötig, Vielfalt zählt",
+    "Nur noch sterile Lebensmittel essen"
+   ],
+   "aha": "In einer Pandemie oder im Operationssaal braucht es Desinfektion und Sterilität, im normalen Alltag eigentlich nicht. Beim Erholen oder auf Reha ist es laut Berg dagegen gut, sich wieder mit Vielfalt zu umgeben.",
+   "quote_clean": "Es ist wirklich eine Frage der Balance zwischen Biodiversität und Hygiene. Hygiene, Händewaschen, ist etwas ganz Wichtiges.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Scherzhafter Gesprächsmoment; Berg nennt '80 Millionen beim Kuss' nur mit 'ich glaube', Hörer-Kontext nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Küssen vor dem Zähneputzen ist unbedenklich, solange der Partner nicht krank ist.",
+   "question": "Was gibt Andreas Hörer Karl auf seine Frage zum Küssen am Morgen mit?",
+   "answer": "Er darf vor dem Zähneputzen schmusen",
+   "distractors": [
+    "Erst nach dem Frühstück küssen",
+    "Nur mit Mundspülung küssen",
+    "Morgens lieber gar nicht küssen"
+   ],
+   "aha": "",
+   "quote_clean": "Außer der Partner ist krank, das ist was anderes. Aber sonst darf der Karl vor dem Zähneputzen schmusen.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Kein Wissensfakt, bloßer Gesprächsscherz auf Andreas' Kosten.",
+   "stand_note": "",
+   "statement": "Als Andreas erleichtert ist, dass im Auge keine Mikroben leben, meint Gabriele Berg, an seinem Verhältnis zu Mikroorganismen müsse man noch arbeiten.",
+   "question": "Woran müssen Andreas und Gabriele Berg laut ihr noch ein bisschen arbeiten?",
+   "answer": "An Andreas' Verhältnis zu Mikroben",
+   "distractors": [
+    "An Andreas' Ernährung",
+    "An Andreas' Hygiene",
+    "An Andreas' Biologiewissen"
+   ],
+   "aha": "",
+   "quote_clean": "Ich glaube, wir müssen noch ein bisschen an deinem Verhältnis zu Mikroorganismen arbeiten. – Ja, ich glaube auch.",
+   "quality": 1
+  }
+ ],
+ "id": "405",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

@@ -1,0 +1,281 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei t=335 und 1315 stimmt; 'ältestes Salzbergwerk der Welt' als Aussage von Kern gekennzeichnet.",
+   "stand_note": "",
+   "statement": "In Hallstatt wird seit rund 7000 Jahren Salz gefördert.",
+   "question": "Seit wie vielen Jahren wird in Hallstatt Salz gefördert?",
+   "answer": "Seit rund 7000 Jahren",
+   "distractors": [
+    "Seit rund 2000 Jahren",
+    "Seit rund 1200 Jahren",
+    "Seit rund 3500 Jahren"
+   ],
+   "aha": "Anton Kern nennt das Hallstätter Bergwerk das älteste Salzbergwerk der Welt. Das abgelegene Dorf im Salzkammergut war durch das Salz schon in der Urzeit mit der großen, weiten Welt verbunden, lange bevor die Reisebusse kamen.",
+   "quote_clean": "Durch das Salz, das dort seit 7000 Jahren gefördert wird, ist Hallstatt relativ früh – mit heutigen Worten – auf der internationalen Bühne tätig.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=427-445 stimmt (1874, Archäologiekongress, 800 bis 400 v. Chr.).",
+   "stand_note": "",
+   "statement": "1874 wurde auf einem Archäologiekongress beschlossen, die ältere Eisenzeit nach Hallstatt zu benennen.",
+   "question": "In welchem Jahr wurde beschlossen, die ältere Eisenzeit „Hallstattzeit“ zu nennen?",
+   "answer": "1874",
+   "distractors": [
+    "1912",
+    "1815",
+    "1938"
+   ],
+   "aha": "Mitte des 19. Jahrhunderts wurden in Hallstatt die Gräber entdeckt, und die Funde waren so spektakulär, dass ein Archäologiekongress gleich eine ganze Epoche danach benannt hat. Seither heißt die Zeit von etwa 800 bis 400 v. Chr. Hallstattzeit.",
+   "quote_clean": "So hat man 1874 an einem Archäologiekongress beschlossen, den Zeitraum der älteren Eisenzeit, also von 800 bis 400 v. Chr., nach Hallstatt zu benennen.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=662-669 stimmt (um 800, teils etwas früher), Kontext der Hallstattzeit eindeutig.",
+   "stand_note": "",
+   "statement": "Um 800 v. Chr. begann in Mitteleuropa der Siegeszug des Eisens.",
+   "question": "Um welches Jahr v. Chr. begann in Mitteleuropa der Siegeszug des Eisens?",
+   "answer": "Um 800 v. Chr.",
+   "distractors": [
+    "Um 2500 v. Chr.",
+    "Um 100 n. Chr.",
+    "Um 1800 v. Chr."
+   ],
+   "aha": "Um 800 v. Chr. kippt in Mitteleuropa die Bronzezeit in die Eisenzeit. Das Know-how kam aus dem Vorderen Orient über Anatolien und den Balkan zu uns herauf.",
+   "quote_clean": "Deswegen hat es dann einen Umbruch gegeben, um 800, ein bisschen früher schon begonnen. Und das Eisen hat seinen Siegeszug begonnen.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=239-247 stimmt, Aha deckt sich mit t=250-298.",
+   "stand_note": "",
+   "statement": "Urgeschichte bezeichnet die Zeit, bevor es Schrift gab – und die endet je nach Weltregion zu unterschiedlichen Zeiten.",
+   "question": "Was definiert die Urgeschichte?",
+   "answer": "Die Zeit ohne Schrift",
+   "distractors": [
+    "Die Zeit vor dem Ackerbau",
+    "Die Zeit vor Christi Geburt",
+    "Die Zeit vor der Bronze"
+   ],
+   "aha": "Bei uns reicht die Urgeschichte vom Auftreten des Menschen bis in die Römerzeit, dann kommt die Frühgeschichte bis zu den Babenbergern. Ohne Schrift bleiben nur Bodenfunde, also wird gegraben.",
+   "quote_clean": "Die Urgeschichte ist die Geschichte, wo es noch keine Schrift gibt. Das ist natürlich auf der ganzen Welt verschieden. Hier bei uns in Europa ist es die schriftlose Zeit.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=635-662 stimmt, Distraktoren sind eindeutig nicht die Begründung.",
+   "stand_note": "",
+   "statement": "Eisen setzte sich gegen Bronze durch, weil Raseneisen fast überall vorkommt, während man für Bronze Kupfer und Zinn aus verstreuten Lagerstätten braucht.",
+   "question": "Warum hat Eisen die Bronze im Alltag verdrängt?",
+   "answer": "Eisenerz gab es fast überall",
+   "distractors": [
+    "Eisen war leichter zu schmelzen",
+    "Bronze wurde verboten",
+    "Eisen glänzte schöner"
+   ],
+   "aha": "Bronze ist eine Legierung aus Kupfer und Zinn, und deren Lagerstätten sind über ganz Europa verstreut. Raseneisen dagegen liegt quasi vor der Haustür – das macht Eisen zum praktischen Massenmaterial.",
+   "quote_clean": "Nachdem Eisen, also das Raseneisen, aus dem man Eisenobjekte machen kann, fast überall zu finden ist, hat es sich relativ schnell durchgesetzt, weil man für Bronze bekanntlich Kupfer und Zinn braucht.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Vereinfachung von Kern; er selbst nennt später Bronzegefäße in den Gräbern, und Distraktoren wie Waffen oder Münzen sind nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Mit dem Aufkommen des Eisens wurde Bronze hauptsächlich nur noch für Schmuck verwendet.",
+   "question": "Wofür wurde Bronze in der Eisenzeit hauptsächlich noch verwendet?",
+   "answer": "Für Schmuck",
+   "distractors": [
+    "Für Waffen",
+    "Für Pflüge",
+    "Für Münzen"
+   ],
+   "aha": "Werkzeuge in der Landwirtschaft und Waffen waren bald aus Eisen. Die Bronze bekam sozusagen die Pension als Schmuckmaterial.",
+   "quote_clean": "Das Eisen übernimmt die Vorherrschaft, und Bronze zieht sich zurück und wird hauptsächlich nur mehr für Schmuck verwendet.",
+   "quality": 2
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-es-Frage ohne Erkenntnisgewinn; das Zitat ist eine allgemeine Randbemerkung.",
+   "stand_note": "",
+   "statement": "Bei jeder neuen Technologie macht der Mensch damit gleich Waffen.",
+   "question": "Wer sagt im Podcast: „Eine neue Technologie, der Mensch macht dann gleich Sachen, damit er den anderen wehtun kann“?",
+   "answer": "Archäologe Anton Kern",
+   "distractors": [
+    "Historikerin Sabine Ladstätter",
+    "Andreas Sator",
+    "Ein Hallstätter Bergmann"
+   ],
+   "aha": "Gesagt hat das der Prähistoriker Toni Kern über den Siegeszug des Eisens: Kaum war es da, wurden daraus nicht nur Pflugscharen, sondern gleich auch Waffen. Eine Konstante der Menschheitsgeschichte, die man ihm schwer widerlegen kann.",
+   "quote_clean": "Natürlich auch gleich die Waffen, das ist immer so: eine neue Technologie, und der Mensch macht dann gleich Sachen, damit er den anderen wehtun, ihn verletzen kann.",
+   "quality": 1
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Aussage ist hedgend ('relativ wenig', 'nicht überbordend'), Hallstatt selbst nennt Kern einen Sonderfall; keine eindeutige Antwort.",
+   "stand_note": "",
+   "statement": "Selbst in Fürstengräbern der Hallstattkultur findet man relativ wenig Gold.",
+   "question": "Wie viel Gold findet man in den Fürstengräbern der Hallstattkultur?",
+   "answer": "Relativ wenig",
+   "distractors": [
+    "Sehr viel, oft kiloweise",
+    "Gar keines",
+    "Nur in Frauengräbern"
+   ],
+   "aha": "Die Hallstattkultur war vor allem eine bäuerliche Welt. Die Gräber strotzen nicht vor Reichtum, eher findet man Proviant in Gefäßen und Trachtschmuck.",
+   "quote_clean": "Was auch auffallend ist: Es gibt relativ wenig Gold, auch in den Fürstengräbern. Die haben zwar Gold, aber nicht überbordend viel.",
+   "quality": 2
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=995-1008 stimmt; Bezug auf das Hallstätter Gräberfeld (Sonderfall wegen Salzhandel) passt zur Aussage.",
+   "stand_note": "",
+   "statement": "In Hallstätter Gräbern fand man Elfenbein, Glas und Bernstein, die über Handel ins Salzkammergut kamen.",
+   "question": "Welche importierten Materialien fand man in den Gräbern von Hallstatt?",
+   "answer": "Elfenbein, Glas und Bernstein",
+   "distractors": [
+    "Seide, Jade und Porzellan",
+    "Silber, Marmor und Papyrus",
+    "Kaffee, Zucker und Baumwolle"
+   ],
+   "aha": "Die Hallstätter haben ihr Salz nicht selbst bis Afrika oder Indien gebracht, aber über Handel und Zwischenhandel konnten sie sich solche Dinge leisten. Das Salz war quasi ihr Exportschlager.",
+   "quote_clean": "Das sind zum Beispiel Objekte aus Elfenbein, Glas, Bernstein. Das sind Sachen, die gibt es bei uns nicht. Die kommen über Handel und Zwischenhandel von außen nach Hallstatt herein.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Die Angabe 'bis vor 200 Jahren' ist nur beiläufig und sachlich ungenau (Wurmerkrankungen blieben in Europa bis ins 20. Jahrhundert verbreitet).",
+   "stand_note": "",
+   "statement": "Wurmerkrankungen waren in Mitteleuropa bis vor etwa 200 Jahren weit verbreitet.",
+   "question": "Bis vor wie vielen Jahren waren Wurmerkrankungen bei uns gang und gäbe?",
+   "answer": "Rund 200 Jahre",
+   "distractors": [
+    "Rund 1000 Jahre",
+    "Rund 50 Jahre",
+    "Rund 600 Jahre"
+   ],
+   "aha": "In den Koprolithen, also versteinertem oder konserviertem Kot, findet man auch Parasiten. Die Bergleute hatten Würmer – und damit waren sie bis ins 19. Jahrhundert in guter Gesellschaft.",
+   "quote_clean": "Die Parasiten können wir teilweise nachweisen, das sind die Wurmerkrankungen, die eigentlich bis vor 200 Jahren auch bei uns gang und gäbe waren.",
+   "quality": 2
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei t=1360-1413 stimmt; als Annahme ('vermutlich') korrekt gerahmt.",
+   "stand_note": "",
+   "statement": "Vermutlich fanden die Menschen das Hallstätter Salz, indem sie Wild ins Hochtal folgten, wo Salzquellen waren.",
+   "question": "Wie haben die Menschen das Salz in Hallstatt vermutlich entdeckt?",
+   "answer": "Sie folgten Wild zu Salzquellen",
+   "distractors": [
+    "Beim Brunnenbohren im Ort",
+    "Durch Händler aus dem Süden",
+    "Beim Abbau von Kupfer"
+   ],
+   "aha": "Oben im Hochtal gibt es heute noch kleine Lacken mit salzig schmeckendem Wasser. Zuerst hat man das wohl eingekocht, dann hat irgendein heller Kopf gedacht: Wenn das Salz aus dem Wasser kommt, muss es im Berg drin sein.",
+   "quote_clean": "Wir nehmen an, dass man das Wild verfolgt hat, und die sind dann ins Hochtal hinaufgegangen und haben dort die Salzquellen gefunden.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Derber Scherz von Andreas ohne Wissensgehalt; als Spielfrage ungeeignet.",
+   "stand_note": "",
+   "statement": "Andreas stellt sich vor, wie bei der Grabung jemand ruft, er habe einen Haufen Kot gefunden.",
+   "question": "Wie stellt sich Andreas den Fund prähistorischer Ausscheidungen bei der Grabung vor?",
+   "answer": "„Toni, ich habe einen Haufen Scheiße gefunden“",
+   "distractors": [
+    "„Toni, das ist ja Gold“",
+    "„Toni, hier liegt ein Schädel“",
+    "„Toni, der Stollen bricht ein“"
+   ],
+   "aha": "Toni Kern nimmt es gelassen: Im Berg erhält sich eben alles, und die Bergleute hatten ihre Nischen fürs Geschäft. Für die Forschung ist so ein Haufen tatsächlich Gold wert.",
+   "quote_clean": "Wie kann man sich das bei der Ausgrabung vorstellen, wenn du sagst, man findet auch Ausscheidungen? „So, Toni, ich habe einen Haufen Scheiße gefunden“?",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Reine Show-Floskel ohne Wissensgehalt; 'seit Jahren' nicht belegt und der Einstieg kann sich ändern.",
+   "stand_note": "",
+   "statement": "Andreas beginnt seine Folgen mit dem Satz, dass man mit dem Podcast die Welt jede Woche ein bisschen besser verstehen soll.",
+   "question": "Wie vervollständigt Andreas seinen Einstieg: „Erklär mir die Welt, der Podcast, mit dem du …“?",
+   "answer": "die Welt jede Woche besser verstehen sollst",
+   "distractors": [
+    "jeden Tag etwas Neues lernst",
+    "die Welt neu entdecken kannst",
+    "klüger einschlafen kannst"
+   ],
+   "aha": "So begrüßt Andreas seit Jahren seine Hörer:innen. Diesmal ging es nach Hallstatt, aber nicht zum See, sondern in 7000 Jahre Geschichte.",
+   "quote_clean": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei t=1439-1480 stimmt (um 1500 v. Chr., Hightech, Spezialwerkzeuge); von sinnloser Wer-sagt-es-Frage auf Sachfrage umgestellt.",
+   "stand_note": "",
+   "statement": "Der bronzezeitliche Salzbergbau in Hallstatt war laut Anton Kern die Hightech seiner Zeit, mit eigenen Spezialwerkzeugen.",
+   "question": "Was war in Hallstatt um 1500 v. Chr. laut Anton Kern „die Hightech der damaligen Zeit“?",
+   "answer": "Der Salzabbau im Bergwerk",
+   "distractors": [
+    "Die Eisenverhüttung",
+    "Der Schiffsbau auf dem See",
+    "Der Bau von Pfahlhäusern"
+   ],
+   "aha": "Um 1500 v. Chr. gab es in Hallstatt schon einen regelrechten Industriebetrieb mit Spezialwerkzeugen für einzelne Arbeitsschritte. Solche Werkzeuge findet man laut Toni Kern sonst nirgendwo.",
+   "quote_clean": "Man muss sagen, das muss damals die Hightech der damaligen Zeit gewesen sein. Spezielle Werkzeuge, die nur für gewisse Arbeitsschritte für den Salzabbau hergestellt worden sind.",
+   "quality": 3
+  }
+ ],
+ "id": "113",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

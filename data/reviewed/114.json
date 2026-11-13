@@ -1,0 +1,287 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Beleg bei 726-734 s eindeutig ('zwei Prozent', wiederholt); Zahl ist Einschätzung der Tierschutz-Direktorin, Stand 2020. Aha enthielt unbelegte Aussage zu Bio bei Gemüse und Getreide, entfernt.",
+   "stand_note": "Stand 2020",
+   "statement": "Laut Eva Rosenberg leben nur rund zwei Prozent der Schweine in Österreich in Bio- oder artgerechter Haltung.",
+   "question": "Wie viel Prozent der Schweine in Österreich leben laut Eva Rosenberg in Bio- oder artgerechter Haltung?",
+   "answer": "2 Prozent",
+   "distractors": [
+    "10 Prozent",
+    "18 Prozent",
+    "25 Prozent"
+   ],
+   "aha": "Zwei von hundert. Der Rest steht im konventionellen Stall, auch weil Schweinefleisch in Österreich vor allem eines sein soll: billig.",
+   "quote_clean": "Wenn wir uns anschauen, dass nur zwei Prozent der Schweine, und du hast die Zahlen vorher genannt, wie enorm die sind, in einer Bio- und einer artgerechten Haltung leben.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg bei 271-277 s, Zahl plausibel (Österreich schlachtet gut 5 Mio. Schweine pro Jahr).",
+   "stand_note": "Stand 2020",
+   "statement": "In Österreich werden pro Jahr rund 5 Millionen Schweine geschlachtet, weil die Mast so kurz ist, dass zwei Durchgänge pro Jahr möglich sind.",
+   "question": "Wie viele Schweine werden in Österreich pro Jahr ungefähr geschlachtet?",
+   "answer": "rund 5 Millionen",
+   "distractors": [
+    "rund 500.000",
+    "rund 1,5 Millionen",
+    "rund 12 Millionen"
+   ],
+   "aha": "Im Stall stehen zu jedem Zeitpunkt etwa 3 Millionen Schweine, aber ein Mastschwein lebt nur ein paar Monate. Darum gehen pro Jahr zwei Durchgänge durch, und die Zahl der Geschlachteten liegt deutlich höher als der Bestand.",
+   "quote_clean": "Bei den Tieren sind wir sogar bei noch mehr: Bei den Schweinen sind es 5 Millionen, weil sie zweimal im Jahr geschlachtet werden.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Zahl stammt von Andreas' Notizen (248 s), Größenordnung plausibel; Aha behauptete, Hühner sehe man kaum, was Rosenberg bei 313 s so nicht sagt (nur Schweine), korrigiert.",
+   "stand_note": "Stand 2020",
+   "statement": "In Österreich schlüpfen pro Jahr rund 100 Millionen Küken.",
+   "question": "Wie viele Küken schlüpfen laut Andreas in Österreich pro Jahr ungefähr?",
+   "answer": "rund 100 Millionen",
+   "distractors": [
+    "rund 5 Millionen",
+    "rund 20 Millionen",
+    "rund 500 Millionen"
+   ],
+   "aha": "Das sind gut zehn Küken pro Einwohner:in, Jahr für Jahr. Zum Vergleich nennt Andreas im selben Atemzug rund 2 Millionen Rinder und 3 Millionen Schweine.",
+   "quote_clean": "Gleichzeitig gibt es in Österreich, ich habe mir das aufgeschrieben, 2 Millionen Rinder, 3 Millionen Schweine, und 100 Millionen Küken schlüpfen im Jahr.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Die genannte Zahl ('über 19 Millionen') ist im Zusammenhang unklar, die Aussage 'fast so viele exportiert wie importiert' eine emotionale Einschätzung ohne Quelle; Distraktor 'Beides ist verboten' unplausibel.",
+   "stand_note": "Stand 2020",
+   "statement": "Österreich exportiert fast so viele lebende Tiere, wie es importiert.",
+   "question": "Wie verhalten sich Österreichs Exporte lebender Tiere zu den Importen?",
+   "answer": "Fast gleich viele Exporte wie Importe",
+   "distractors": [
+    "Fast nur Importe, kaum Exporte",
+    "Fast nur Exporte, kaum Importe",
+    "Beides ist seit Jahren verboten"
+   ],
+   "aha": "Tiere werden hier gezüchtet, zur Mast ins Ausland gefahren, und das Fleisch kommt wieder zurück. Manche Transporte gehen bis nach Russland oder Aserbaidschan. Für Eva Rosenberg ist das ein Symptom eines überindustrialisierten Systems.",
+   "quote_clean": "Wenn man sich vorstellt, dass Österreich fast so viele Tiere exportiert, wie es importiert, da sind wir bei über 19 Millionen, dann wird einem eigentlich schlecht.",
+   "quality": 1
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 460-465 s, Vier Pfoten wurde 1988 gegründet.",
+   "stand_note": "",
+   "statement": "Die Tierschutzorganisation Vier Pfoten wurde in den 1980er-Jahren gegründet.",
+   "question": "In welchem Jahrzehnt ist die Tierschutzorganisation Vier Pfoten entstanden?",
+   "answer": "In den 1980er-Jahren",
+   "distractors": [
+    "In den 1950er-Jahren",
+    "In den 1960er-Jahren",
+    "In den 2000er-Jahren"
+   ],
+   "aha": "Nach dem Krieg ist der Fleischkonsum explodiert, die Landwirtschaft wurde industriell. Als Gegenbewegung sind in den 80ern große Organisationen wie Vier Pfoten entstanden, die Missstände sichtbar gemacht haben.",
+   "quote_clean": "Es sind große und wichtige Tierschutzorganisationen entstanden, darunter Vier Pfoten in den 80er-Jahren.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 1393-1399 s; Aha nannte 'Kinderzimmer', das nicht im Transkript steht, entfernt. Distraktor 'mehr als vier' zu konstruiert, ersetzt.",
+   "stand_note": "Stand 2020",
+   "statement": "In Österreich ist es gesetzlich verboten, ein Kaninchen allein zu halten.",
+   "question": "Was ist in Österreich bei der Kaninchenhaltung gesetzlich verboten?",
+   "answer": "Ein Kaninchen allein zu halten",
+   "distractors": [
+    "Kaninchen in der Wohnung zu halten",
+    "Kaninchen draußen zu halten",
+    "Kaninchen mit Meerschweinchen zu halten"
+   ],
+   "aha": "Kaninchen sind Gruppentiere, allein leiden sie. Das passiert oft in Wohnungen, ohne dass man es weiß. Nur weil ein Tier klein ist und im Käfig sitzt, heißt das nicht, dass es in der Ecke stehen kann.",
+   "quote_clean": "Es ist eine wahnsinnige Tierqual, ein Kaninchen alleine zu halten. Das hat sich Gott sei Dank auch in einem Gesetz niedergeschlagen, und es ist verboten.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 673-696 s (Transkript: 'kopieren' = kupieren); Aussage als Kritik der Gästin korrekt wiedergegeben.",
+   "stand_note": "",
+   "statement": "In der Massentierhaltung wird oft das Tier an den Stall angepasst, etwa durch Enthornen oder Schwanzkupieren, statt den Stall an das Tier.",
+   "question": "Welche Tendenz kritisiert Eva Rosenberg an der industriellen Massentierhaltung?",
+   "answer": "Das Tier wird an den Stall angepasst",
+   "distractors": [
+    "Ställe werden zu groß gebaut",
+    "Tiere bekommen zu viel Auslauf",
+    "Tiere werden zu spät geschlachtet"
+   ],
+   "aha": "Wenn Schweine auf engem Raum aggressiv werden, kupiert man die Schwänze, statt die Enge zu beheben. Eigentlich sollte man zuerst fragen, was das Tier braucht, und dann den Stall danach bauen.",
+   "quote_clean": "Wir haben in der industriellen Massentierhaltung die Tendenz, das Tier an die Haltung und den Stall anzupassen. Sprich Hörner wegschneiden, Schwanz kupieren, alles Mögliche.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 298-326 s (Nutztiere sind nicht sichtbar); Aha nannte Fernsehwerbung, die nicht im Transkript steht, entfernt.",
+   "stand_note": "",
+   "statement": "Viele Menschen haben seit langem kein lebendes Schwein gesehen, weil Fleischproduktion meist in geschlossenen Ställen stattfindet.",
+   "question": "Warum lösen Schweine laut Eva Rosenberg weniger Empathie aus als Hunde und Katzen?",
+   "answer": "Weil man sie kaum je sieht",
+   "distractors": [
+    "Weil sie weniger intelligent sind",
+    "Weil sie keine Schmerzen spüren",
+    "Weil sie in Österreich selten sind"
+   ],
+   "aha": "Kühe sieht man noch von der Autobahn aus, Schweine fast nie. Was hinter verschlossenen Stalltüren passiert, will auch niemand so genau wissen.",
+   "quote_clean": "Und wenn du dann fragst, ob man im letzten Jahr ein Schwein gesehen hat, ist meistens die große Stille, weil die Fleischproduktion ganz oft in geschlossenen Systemen stattfindet.",
+   "quality": 4
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 646-658 s; die Verätzungen sind Rosenbergs Darstellung und daher zugeschrieben; Distraktoren waren zu albern, ersetzt.",
+   "stand_note": "Stand 2020",
+   "statement": "Laut Eva Rosenberg leiden Schweine auf Vollspaltenböden unter Fäkaliendunst, der ihre Atemwege verätzt.",
+   "question": "Welches Problem nennt Eva Rosenberg beim Vollspaltenboden in Schweineställen?",
+   "answer": "Verätzungen der Atemwege durch Fäkaliendunst",
+   "distractors": [
+    "Mangel an Trinkwasser",
+    "Zu wenig Futter",
+    "Zu starke Sonneneinstrahlung"
+   ],
+   "aha": "Durch die Spalten fällt der Mist in die Grube darunter, der Dunst steigt direkt zur Schweinenase. Für ein Tier, das so gut riecht, ist das doppelt bitter, und die Enge macht die Schweine auch noch aggressiv.",
+   "quote_clean": "Dann sehen wir die Vollspaltenböden, wo wahnsinniger Fäkaliendunst ist. Die Schweine haben Verätzungen in den Atemwegen. Sie sind in kleine Boxen eingepfercht.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 957-964 s eindeutig; Meinung der Gästin, im Text klar ihr zugeschrieben.",
+   "stand_note": "",
+   "statement": "Auf das Argument, Fleisch müsse leistbar sein, antwortet Eva Rosenberg mit der Gegenfrage, ob man zweimal am Tag Fleisch essen müsse.",
+   "question": "Mit welcher Gegenfrage kontert Eva Rosenberg das Argument, Fleisch müsse leistbar bleiben?",
+   "answer": "Muss man zweimal am Tag Fleisch essen?",
+   "distractors": [
+    "Wer zahlt die Subventionen?",
+    "Wer hat das letzte Schwein gesehen?",
+    "Was kostet ein Bio-Ei?"
+   ],
+   "aha": "Ihre Rechnung: weniger Fleisch, dafür besseres. Dann ist Fleisch wieder leistbar und ein Qualitätsprodukt, zu dem man bewusst greift.",
+   "quote_clean": "Aber ich sage als Gegenfrage: Muss ein Mensch zweimal am Tag Fleisch essen? Nein. Ich gebe die Antwort auf meine Gegenfrage: Nein, muss er nicht.",
+   "quality": 2
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Beleg bei 1573-1582 s eindeutig; Aha etwas belehrend, neutraler formuliert.",
+   "stand_note": "",
+   "statement": "Heli Dungler, der Gründer von Vier Pfoten, wünschte sich, dass seine Organisation unnötig wird.",
+   "question": "Was wünschte sich Vier-Pfoten-Gründer Heli Dungler für seine Organisation?",
+   "answer": "Dass sie unnötig wird",
+   "distractors": [
+    "Dass sie weltweit wächst",
+    "Dass sie eine Partei gründet",
+    "Dass sie staatlich finanziert wird"
+   ],
+   "aha": "Ein schöner Wunsch für eine Organisation: sich selbst überflüssig zu machen. Eva Rosenberg beschreibt diese Welt als gelebte Menschlichkeit, in der Tiere eine Würde haben, die man ihnen nicht nimmt.",
+   "quote_clean": "Der Gründer von Vier Pfoten, der Anfang des Jahres verstorben ist, hat auf genau diese Frage, was er sich wünscht, einmal gesagt: Ich wünsche mir, dass Vier Pfoten unnötig wird.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Beleg bei 588-590 s und Einordnung bei 563-587 s; Einschätzung von 2020.",
+   "stand_note": "Stand 2020",
+   "statement": "Eva Rosenberg findet, dass Österreich beim Tierschutz noch lange nicht auf der Insel der Seligen ist.",
+   "question": "Wie beschreibt Eva Rosenberg den Stand des Tierschutzes in Österreich?",
+   "answer": "Noch lange nicht die Insel der Seligen",
+   "distractors": [
+    "Europas unangefochtener Musterschüler",
+    "Schlechter als überall sonst in der EU",
+    "Ein hoffnungsloser Fall"
+   ],
+   "aha": "Die Insel der Seligen, das alte Selbstbild Österreichs, gilt beim Tierschutz laut Rosenberg vor allem bei den Hennen. Bei Schweinen und Rindern bleibt noch einiges zu tun.",
+   "quote_clean": "Es gibt in Österreich noch viel zu tun. Wir sind hier noch lange nicht auf der Insel der Seligen.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 1561-1570 s; Aha behauptete einen 'Klassiker' der Sendung, was im Ausschnitt nicht belegt ist, entfernt. Reine Format-Frage.",
+   "stand_note": "",
+   "statement": "Andreas bittet Eva Rosenberg zum Schluss, ihre ideale Welt zu beschreiben.",
+   "question": "Worum bittet Andreas Eva Rosenberg gegen Ende der Folge?",
+   "answer": "Ihre ideale Welt zu beschreiben",
+   "distractors": [
+    "Ihr Lieblingstier zu nennen",
+    "Ein Rezept zu verraten",
+    "Ihren größten Fehler zu erzählen"
+   ],
+   "aha": "Eine Welt, in der man gar nicht mehr über Tierwohl reden muss, weil es selbstverständlich gelebt wird. Rosenberg antwortet mit einem Satz des verstorbenen Vier-Pfoten-Gründers.",
+   "quote_clean": "Zum Ende hätte ich gerne, dass du mir deine ideale Welt beschreibst, in der wir uns gar nicht mehr über Tierwohl unterhalten müssen, weil es einfach ganz selbstverständlich gelebt wird.",
+   "quality": 2
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Anekdote macht Restaurantpersonal als Dritte lächerlich, Antwort ist ein Witz und ohne Erkenntnisgewinn.",
+   "stand_note": "",
+   "statement": "Wenn Eva Rosenberg im Restaurant nach der Herkunft der Eier fragt, bekommt sie manchmal Antworten wie: von der Henne.",
+   "question": "Welche Antwort bekam Eva Rosenberg im Restaurant auf die Frage, wo das Ei herkommt?",
+   "answer": "Von der Henne",
+   "distractors": [
+    "Aus dem Kühlschrank",
+    "Aus Thailand",
+    "Vom Bauern nebenan"
+   ],
+   "aha": "Sie nennt sich selbst einen unangenehmen Gast, Berufskrankheit. Fragt sie dann nach, wie die Henne gehalten wurde, gibt es meistens eine kurze Nachdenkpause.",
+   "quote_clean": "Wenn ich frage, wo das Ei herkommt, heißt es: von der Henne. Oder wenn ich frage, wie das Ei ist, kommt: Na, das Ei ist rund.",
+   "quality": 1
+  }
+ ],
+ "id": "114",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

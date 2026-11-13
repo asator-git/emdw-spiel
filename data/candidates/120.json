@@ -1,0 +1,683 @@
+{
+ "theme": "Wirtschaft & Arbeit",
+ "summary": "Madeleine Alizadeh erklärt, wie man ein faires Modelabel aufbaut, warum Färben so dreckig ist und was ein T-Shirt wirklich kostet.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 812,
+   "speaker": "Dariadaria",
+   "quote": "und ein T-Shirt aus 100% Bio-Baumwolle kaufe, da steht dann auch 100% Bio-Baumwolle drin. Es kann aber einen bis zu 3%igen Fremdfaseranteil haben, der nicht deklariert werden muss.",
+   "quote_clean": "Und ein T-Shirt aus 100 % Bio-Baumwolle kaufe, da steht dann auch 100 % Bio-Baumwolle drin. Es kann aber einen bis zu 3-prozentigen Fremdfaseranteil haben, der nicht deklariert werden muss.",
+   "statement": "Ein als 100 % Bio-Baumwolle verkauftes T-Shirt darf laut Madeleine Alizadeh bis zu 3 % nicht deklarierte Fremdfasern enthalten.",
+   "question": "Wie viel Prozent Fremdfasern darf ein T-Shirt mit dem Etikett „100 % Bio-Baumwolle“ laut Madeleine Alizadeh undeklariert enthalten?",
+   "answer": "bis zu 3 Prozent",
+   "distractors": [
+    "bis zu 0,5 Prozent",
+    "bis zu 10 Prozent",
+    "bis zu 15 Prozent"
+   ],
+   "number_value": 3,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 20,
+   "log_scale": false,
+   "aha": "100 % heißt im Modegeschäft nicht ganz 100 %. Bis zu 3 % andere Fasern müssen nicht aufs Etikett, und das sind oft genau die Polyester-Nähte, die das Shirt zusammenhalten.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Mode",
+    "Etikett",
+    "Baumwolle"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 823,
+   "speaker": "Dariadaria",
+   "quote": "Das heißt, die Nähte, mit denen dieses T-Shirt zusammengenäht ist, sind in der Regel aus Polyester.",
+   "quote_clean": "Das heißt, die Nähte, mit denen dieses T-Shirt zusammengenäht ist, sind in der Regel aus Polyester.",
+   "statement": "Auch bei T-Shirts aus Bio-Baumwolle sind die Nähte in der Regel aus Polyester.",
+   "question": "Woraus ist bei einem Bio-Baumwoll-Shirt aus dem Modehandel meistens der Nähfaden?",
+   "answer": "aus Polyester",
+   "distractors": [
+    "aus Bio-Baumwolle",
+    "aus Leinen",
+    "aus Seide"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer sein Bio-Shirt am Ende auf den Kompost wirft, hat trotzdem Plastik drin. Der Faden ist meist Polyester, und der zerfällt in Rückstände statt zu verrotten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Mode",
+    "Plastik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1425,
+   "speaker": "Dariadaria",
+   "quote": "Genau, das Färben ist der größte Poluter, der größte Verschmutzer in dieser ganzen Kette,",
+   "quote_clean": "Genau, das Färben ist der größte Polluter, der größte Verschmutzer in dieser ganzen Kette.",
+   "statement": "Das Färben ist laut Madeleine Alizadeh der größte Umweltverschmutzer in der textilen Lieferkette.",
+   "question": "Welcher Schritt ist laut Madeleine Alizadeh der größte Umweltverschmutzer in der Textilkette?",
+   "answer": "das Färben",
+   "distractors": [
+    "das Nähen",
+    "der Versand",
+    "das Spinnen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Selbst wenn Baumwolle, Fabrik und Versand sauber sind, bleibt das Färben das Sorgenkind: viel Wasser, viel Chemie. Siegel wie GOTS verbieten zwar Schwermetalle und Chrom, aber Wasser schlucken die Färbebäder trotzdem.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Färben",
+    "Umwelt",
+    "Mode"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1440,
+   "speaker": "Dariadaria",
+   "quote": "es gibt natürliche pflanzliche Farbe, mit der man färben kann, aber die performt natürlich nicht so gut, wie das chemische Pendant. Das heißt, das wird in der Sonne ausbleichen, das wird beim Waschen ausbleichen",
+   "quote_clean": "Es gibt natürliche pflanzliche Farbe, mit der man färben kann, aber die performt natürlich nicht so gut wie das chemische Pendant. Das heißt, das wird in der Sonne ausbleichen, das wird beim Waschen ausbleichen.",
+   "statement": "Pflanzenfarben bleichen in der Sonne und beim Waschen schneller aus als chemische Textilfarben.",
+   "question": "Warum färben die meisten Modemarken nicht mit Pflanzenfarben?",
+   "answer": "Sie bleichen schneller aus",
+   "distractors": [
+    "Sie sind gesundheitsschädlich",
+    "Sie sind gesetzlich verboten",
+    "Sie riechen unangenehm"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Pflanzenfarbe ist sanfter zur Umwelt, aber nicht so treu: Sonne und Waschmaschine ziehen sie raus. Madeleine mag den Look, der Massenmarkt eher nicht.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Färben",
+    "Mode"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1511,
+   "speaker": "Dariadaria",
+   "quote": "Also es gibt aus Food Waste, also aus Lebensmittelresten, kann man Farbe extrahieren und mit dem färben. Das hält dann auch besser als eine pflanzliche Farbe, aber es gibt nur ein gewisses Farbspektrum, das man rauskriegt.",
+   "quote_clean": "Aus Food Waste, also aus Lebensmittelresten, kann man Farbe extrahieren und damit färben. Das hält dann auch besser als eine pflanzliche Farbe, aber es gibt nur ein gewisses Farbspektrum, das man rauskriegt.",
+   "statement": "Aus Lebensmittelresten lässt sich Textilfarbe gewinnen, die besser hält als Pflanzenfarbe, aber nur ein begrenztes Farbspektrum bietet.",
+   "question": "Woraus lässt sich laut Madeleine Alizadeh Textilfarbe gewinnen, die besser hält als Pflanzenfarbe?",
+   "answer": "aus Lebensmittelresten",
+   "distractors": [
+    "aus Altöl",
+    "aus Algenschaum",
+    "aus Holzasche"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Aus Food Waste kann man Farbe rausholen, die länger hält als Pflanzenfarbe. Der Haken: Es kommen fast nur Pastelltöne raus, ein Knallblau oder tiefes Schwarz geht nicht.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Färben",
+    "Lebensmittel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1778,
+   "speaker": "Dariadaria",
+   "quote": "Also in Bangladesch kriegt man ein T-Shirt für 30 Cent, in Portugal zahlen wir aktuell für unser T-Shirt 8,70 Euro.",
+   "quote_clean": "In Bangladesch kriegt man ein T-Shirt für 30 Cent, in Portugal zahlen wir aktuell für unser T-Shirt 8,70 Euro.",
+   "statement": "Die Herstellung eines T-Shirts in Bangladesch kostet im billigsten Fall rund 30 Cent.",
+   "question": "Wie viel kostet die Herstellung eines T-Shirts in Bangladesch im billigsten Fall?",
+   "answer": "rund 30 Cent",
+   "distractors": [
+    "rund 2 Euro",
+    "rund 5 Cent",
+    "rund 1,20 Euro"
+   ],
+   "number_value": 30,
+   "number_unit": "Cent",
+   "slider_min": 5,
+   "slider_max": 500,
+   "log_scale": true,
+   "aha": "30 Cent ist laut Madeleine der unterste Preis, den man in Bangladesch für ein Shirt zahlt. In Portugal kostet ihres 8,70 Euro, also fast dreißigmal so viel, noch bevor Stoff-Extras, Versand oder Marge dazukommen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Preis",
+    "Bangladesch",
+    "Mode"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1782,
+   "speaker": "Dariadaria",
+   "quote": "in Portugal zahlen wir aktuell für unser T-Shirt 8,70 Euro. Wow. Also das ist halt einfach ein Unterschied und dann eben auch die Komponenten.",
+   "quote_clean": "In Portugal zahlen wir aktuell für unser T-Shirt 8,70 Euro. – Wow. – Das ist halt einfach ein Unterschied, und dann eben auch die Komponenten.",
+   "statement": "Dariadéh zahlte 2020 für die Produktion eines T-Shirts in Portugal 8,70 Euro.",
+   "question": "Wie viel zahlte dariadéh 2020 für die Produktion eines T-Shirts in Portugal?",
+   "answer": "8,70 Euro",
+   "distractors": [
+    "2,40 Euro",
+    "19,90 Euro",
+    "4,50 Euro"
+   ],
+   "number_value": 8.7,
+   "number_unit": "Euro",
+   "slider_min": 1,
+   "slider_max": 40,
+   "log_scale": false,
+   "aha": "Andreas ist hörbar baff. Portugal heißt: Sozialsystem, kurze Wege, Kontrolle vor Ort, und ein Tencel-Faden kostet einfach mehr als einer aus Polyester.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Preis",
+    "Portugal"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1682,
+   "speaker": "Dariadaria",
+   "quote": "wir haben eine Gewinnmarge von 10 bis 15 Prozent, momentan eher 15 Prozent, wenn man den Durchschnitt nimmt",
+   "quote_clean": "Wir haben eine Gewinnmarge von 10 bis 15 Prozent, momentan eher 15 Prozent, wenn man den Durchschnitt nimmt.",
+   "statement": "Das Label dariadéh arbeitet mit einer durchschnittlichen Gewinnmarge von etwa 15 Prozent.",
+   "question": "Wie hoch ist laut Madeleine Alizadeh die durchschnittliche Gewinnmarge ihres Labels?",
+   "answer": "etwa 15 Prozent",
+   "distractors": [
+    "etwa 3 Prozent",
+    "etwa 35 Prozent",
+    "etwa 60 Prozent"
+   ],
+   "number_value": 15,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 60,
+   "log_scale": false,
+   "aha": "Die schmale Marge geht nur, weil das Label schlank ist: kein Geschäftslokal, wenig Fixangestellte, Verkauf nur online. Und wer will, sieht die Aufschlüsselung bei jedem Stück im Shop.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Marge",
+    "Unternehmen"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 511,
+   "speaker": "Dariadaria",
+   "quote": "Ich habe mit einem Kapital von 2.000 Euro begonnen. Das war tatsächlich das Kapital für die ersten zwei T-Shirts und Baumwolltaschen,",
+   "quote_clean": "Ich habe mit einem Kapital von 2.000 Euro begonnen. Das war tatsächlich das Kapital für die ersten zwei T-Shirts und Baumwolltaschen.",
+   "statement": "Madeleine Alizadeh startete ihr Modelabel mit einem Kapital von 2.000 Euro, ohne Kredite oder Investoren.",
+   "question": "Mit wie viel Startkapital gründete Madeleine Alizadeh ihr Modelabel?",
+   "answer": "2.000 Euro",
+   "distractors": [
+    "20.000 Euro",
+    "500 Euro",
+    "80.000 Euro"
+   ],
+   "number_value": 2000,
+   "number_unit": "Euro",
+   "slider_min": 100,
+   "slider_max": 200000,
+   "log_scale": true,
+   "aha": "Weder reich noch billig, sagt sie selbst: 2.000 Euro für zwei Shirts und eine Tasche, und dann wurde jeder eingenommene Euro wieder reingesteckt. Keine Kredite, keine Investoren.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Gründung",
+    "Geld"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 861,
+   "speaker": "Dariadaria",
+   "quote": "Da wurde mir vorab auch gesagt, dass das nicht gehen würde, weil das verschmutzt und beschädigt wird. Jetzt nach drei Jahren wissen wir, die Quote liegt unter einem Prozent.",
+   "quote_clean": "Da wurde mir vorab auch gesagt, dass das nicht gehen würde, weil das verschmutzt und beschädigt wird. Jetzt nach drei Jahren wissen wir: Die Quote liegt unter einem Prozent.",
+   "statement": "Bei dariadéh, das Kleidung ohne Schutzhülle verschickt, kommen weniger als ein Prozent der Stücke verschmutzt oder beschädigt an.",
+   "question": "Wie viel Prozent der unverpackt verschickten Kleidungsstücke von dariadéh kommen verschmutzt oder beschädigt an?",
+   "answer": "unter 1 Prozent",
+   "distractors": [
+    "rund 8 Prozent",
+    "rund 15 Prozent",
+    "rund 25 Prozent"
+   ],
+   "number_value": 1,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 30,
+   "log_scale": false,
+   "aha": "Alle haben gewarnt, dass Kleidung ohne Plastikhülle im Karton schmutzig ankommt. Nach drei Jahren ist klar: passiert fast nie.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Verpackung",
+    "Versand"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2170,
+   "speaker": "Dariadaria",
+   "quote": "Also um Gotts zertifiziert zu sein, muss die ganze Lieferkette Gotts zertifiziert sein. Von der Person, die das anbaut, über die Weberei, über die Spinnerei, bis hin zum Färbhaus,",
+   "quote_clean": "Um GOTS-zertifiziert zu sein, muss die ganze Lieferkette GOTS-zertifiziert sein: von der Person, die das anbaut, über die Weberei, über die Spinnerei bis hin zum Färbehaus.",
+   "statement": "Für das GOTS-Siegel muss die gesamte Lieferkette zertifiziert sein, vom Anbau über Spinnerei und Weberei bis zur Färberei und zur Marke.",
+   "question": "Was muss für das Textilsiegel GOTS zertifiziert sein?",
+   "answer": "die gesamte Lieferkette",
+   "distractors": [
+    "nur der Baumwollanbau",
+    "nur die Nähfabrik",
+    "nur die Färberei"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "GOTS, der Global Organic Textile Standard, schaut sich jeden Schritt an, vom Feld bis zur Marke. Genau deshalb ist ein echtes GOTS-Teil selten, und das Siegel gilt als verlässlich.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Siegel",
+    "GOTS",
+    "Lieferkette"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2196,
+   "speaker": "Dariadaria",
+   "quote": "Und Gotts gibt auch vor, dass man Gotts nur auf seiner Website oder in der Kommunikation verwenden darf, wenn auch wirklich jeder dieser Schritte Gotts zertifiziert ist.",
+   "quote_clean": "Und GOTS gibt auch vor, dass man GOTS nur auf seiner Website oder in der Kommunikation verwenden darf, wenn auch wirklich jeder dieser Schritte GOTS-zertifiziert ist.",
+   "statement": "Eine Marke darf mit GOTS nur werben, wenn jeder einzelne Produktionsschritt GOTS-zertifiziert ist; ein GOTS-zertifiziertes Färben allein reicht nicht.",
+   "question": "Darf eine Marke mit „GOTS-zertifiziert gefärbt“ werben, wenn nur die Färberei zertifiziert ist?",
+   "answer": "Nein, alle Schritte müssen zertifiziert sein",
+   "distractors": [
+    "Ja, ein Schritt reicht",
+    "Ja, wenn die Baumwolle bio ist",
+    "Nur außerhalb der EU"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Viele Labels schreiben trotzdem „GOTS-gefärbt“ dazu, und genau das ist laut Regelwerk nicht erlaubt. Madeleines eigene Teile werden GOTS-zertifiziert gefärbt, sie darf es aber nicht auf die Website schreiben.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Siegel",
+    "GOTS",
+    "Greenwashing"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1114,
+   "speaker": "Dariadaria",
+   "quote": "Also Subcontracting bedeutet, wenn zum Beispiel eine Baumwollbauer, Bäuerin einen Riesenauftrag gibt, dass sie das dann an andere auch weiterleiten und man dann auch nicht mehr weiß und das verwässert, dann wer hat jetzt eigentlich das angebaut.",
+   "quote_clean": "Subcontracting bedeutet: Wenn man zum Beispiel einer Baumwollbäuerin einen Riesenauftrag gibt, dann leitet sie den an andere weiter, und man weiß nicht mehr, wer das eigentlich angebaut hat.",
+   "statement": "Beim Subcontracting geben Zulieferer große Aufträge an Dritte weiter, sodass nicht mehr nachvollziehbar ist, wer tatsächlich produziert hat.",
+   "question": "Warum ist es für faire Modelabels leichter, mit kleinen Zulieferern zu arbeiten?",
+   "answer": "Weniger Weitergabe an Subunternehmen",
+   "distractors": [
+    "Kleine Zulieferer zahlen keine Steuern",
+    "Kleine Betriebe nutzen nur Bio-Baumwolle",
+    "Kleine Betriebe liefern immer schneller"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei einem Riesenauftrag reicht ein Betrieb Teile an andere weiter, und schon weiß niemand mehr, wo die Baumwolle wirklich herkommt. Kleine Zulieferer machen das seltener, darum ist die Kette dort durchschaubarer.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Lieferkette",
+    "Fairness"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1005,
+   "speaker": "Dariadaria",
+   "quote": "und das machen aber viele große Unternehmen, dass sie es eher noch entsorgen, weil das profitabler ist, als es noch günstig zu verkaufen.",
+   "quote_clean": "Das machen aber viele große Unternehmen, dass sie es eher entsorgen, weil das profitabler ist, als es noch günstig zu verkaufen.",
+   "statement": "Viele große Modeunternehmen entsorgen unverkaufte Ware lieber, weil das profitabler ist, als sie billig abzuverkaufen.",
+   "question": "Was machen viele große Modekonzerne laut Madeleine Alizadeh mit Überschussware, weil es sich mehr rechnet?",
+   "answer": "Sie entsorgen sie",
+   "distractors": [
+    "Sie spenden sie",
+    "Sie verkaufen sie billig ab",
+    "Sie lagern sie jahrelang ein"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Überschussware heißt in der Branche Deadstock, also Ware, die tot im Lager liegt. Wegwerfen ist für viele Konzerne billiger als ein Abverkauf, der den Preis der Marke drückt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Deadstock",
+    "Verschwendung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 629,
+   "speaker": "Dariadaria",
+   "quote": "Ich wusste vorher nicht mal, wie man Warn bezeichnet, eine SKU. Also das sind alles Dinge, die ich einfach... Was heißt das? Irgendwas mit Unit am Ende.",
+   "quote_clean": "Ich wusste vorher nicht mal, wie man Waren bezeichnet: eine SKU. Das sind alles Dinge, die ich einfach … – Was heißt das? – Irgendwas mit Unit am Ende.",
+   "statement": "Im Warenwirtschaftssystem bekommt jeder Artikel eine eigene Kennnummer, die SKU (Stock Keeping Unit).",
+   "question": "Wofür steht die Abkürzung SKU, mit der Händler jeden Artikel im System kennzeichnen?",
+   "answer": "Stock Keeping Unit",
+   "distractors": [
+    "Standard Knitting Unit",
+    "Store Key Unit",
+    "Sales Kit Unit"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein schwarzer Pulli heißt im System nicht „schwarzer Pulli“, sondern bekommt eine eigene Nummer. Madeleine fällt im Gespräch nur noch das „Unit“ ein, das ganze Ding heißt Stock Keeping Unit.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Handel",
+    "Logistik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1606,
+   "speaker": "Dariadaria",
+   "quote": "Koss ist ein Label, das preislich bei vielen Kleidungsstücken ähnlich aufgestellt ist wie wir, gehört aber zur H&M-Gruppe, das heißt, die haben dieselben Supply Chains,",
+   "quote_clean": "COS ist ein Label, das preislich bei vielen Kleidungsstücken ähnlich aufgestellt ist wie wir, gehört aber zur H&M-Gruppe. Das heißt, die haben dieselben Supply Chains.",
+   "statement": "Das Modelabel COS gehört zur H&M-Gruppe und nutzt dieselben Lieferketten.",
+   "question": "Zu welchem Konzern gehört das Modelabel COS?",
+   "answer": "zur H&M-Gruppe",
+   "distractors": [
+    "zur Inditex-Gruppe",
+    "zur C&A-Gruppe",
+    "zur Otto Group"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "COS wirkt edler und kostet mehr, kommt aber aus demselben Haus wie H&M, mit denselben Lieferketten. Teurer heißt also nicht automatisch fairer.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Fast Fashion",
+    "Marken"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 727,
+   "speaker": "Dariadaria",
+   "quote": "Also ich verstehe Daria D. ein bisschen als konstruktiv-kapitalistisches Projekt. Also man kann es nicht als ein politisches Statement wirklich sehen,",
+   "quote_clean": "Ich verstehe dariadéh ein bisschen als konstruktiv-kapitalistisches Projekt. Man kann es nicht wirklich als politisches Statement sehen.",
+   "statement": "Madeleine Alizadeh bezeichnet ihr Modelabel als „konstruktiv-kapitalistisches Projekt“.",
+   "question": "Wer beschreibt das eigene Modelabel als „konstruktiv-kapitalistisches Projekt“?",
+   "answer": "Madeleine Alizadeh",
+   "distractors": [
+    "Christian Felber",
+    "Maja Göpel",
+    "Kathrin Hartmann"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Weil das Label Waren herstellt, die verkauft und irgendwann entsorgt werden, will Madeleine es nicht als politisches Statement verkaufen. Andreas gefällt das Wort so gut, dass er es am Ende der Folge noch einmal lobt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Unternehmen",
+    "Kapitalismus"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1632,
+   "speaker": "Dariadaria",
+   "quote": "Aktuell geht es nicht, weil es einfach, man steuerlich begünstigt wird, wenn man ethisch und ökologisch inkorrekt handelt, also es gibt einfach keine Incentives, um das zu tun.",
+   "quote_clean": "Aktuell geht es nicht, weil man steuerlich begünstigt wird, wenn man ethisch und ökologisch inkorrekt handelt. Es gibt einfach keine Incentives, um das zu tun.",
+   "statement": "Madeleine Alizadeh sagt, faire Mode könne derzeit nicht leistbar sein, weil unethisches und unökologisches Wirtschaften steuerlich begünstigt werde.",
+   "question": "Warum ist faire Mode laut Madeleine Alizadeh derzeit nicht so billig wie Fast Fashion?",
+   "answer": "Unfaires Produzieren wird steuerlich begünstigt",
+   "distractors": [
+    "Bio-Baumwolle ist weltweit knapp",
+    "Faire Labels zahlen höhere Mieten",
+    "Der Versand ist viel teurer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für Madeleine geht es um Kostenwahrheit: Wer sauber produziert, bekommt keine Steuererleichterung. Ihre Hoffnung ist, dass etwa eine CO2-Steuer das irgendwann dreht.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Steuern",
+    "Kostenwahrheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 667,
+   "speaker": "Dariadaria",
+   "quote": "Und wenn zum Beispiel mal nur die Knöpfeverspätung haben, dass dann der ganze Prozess sich verzögert und das Kleidungsstück dann einfach vielleicht zwei Wochen später da ist. Und dann ist vielleicht aber schon Hochsommer und niemand will mehr ein Sommeroberteil kaufen.",
+   "quote_clean": "Und wenn zum Beispiel nur die Knöpfe Verspätung haben, dann verzögert sich der ganze Prozess und das Kleidungsstück ist vielleicht zwei Wochen später da. Und dann ist vielleicht schon Hochsommer und niemand will mehr ein Sommeroberteil kaufen.",
+   "statement": "In der Modeproduktion kann schon eine Verspätung bei Knöpfen ein ganzes Kleidungsstück so verzögern, dass es zu spät für die Saison kommt.",
+   "question": "Was kann laut Madeleine Alizadeh passieren, wenn nur die Knöpfe zu spät geliefert werden?",
+   "answer": "Das Teil verpasst die Saison",
+   "distractors": [
+    "Die Knöpfe werden einfach weggelassen",
+    "Das Teil wird teurer verkauft",
+    "Die Fabrik zahlt eine Strafe"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Kleidungsstück besteht aus erstaunlich vielen Teilen von vielen Lieferanten. Hängt ein einziges, hängt alles, und ein Sommeroberteil im Hochsommer will keiner mehr.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Lieferkette",
+    "Mode"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 1910,
+   "speaker": "Andreas Sator",
+   "quote": "Wir kommen langsam zum Schluss. Ich hätte gerne, dass du mir eine ideale Modewelt skizzierst.",
+   "quote_clean": "Wir kommen langsam zum Schluss. Ich hätte gerne, dass du mir eine ideale Modewelt skizzierst.",
+   "statement": "Gegen Ende der Folge bittet Andreas Sator seinen Gast, eine ideale Modewelt der Zukunft zu skizzieren.",
+   "question": "Worum bittet Andreas Madeleine Alizadeh, als das Gespräch zum Schluss kommt?",
+   "answer": "eine ideale Modewelt zu skizzieren",
+   "distractors": [
+    "ihr Lieblingsstück zu beschreiben",
+    "eine Marke zu empfehlen",
+    "ihren größten Fehler zu nennen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas will wissen, wie eine Welt ausschaut, in der man beim Einkaufen gar nicht mehr nachdenken muss. Madeleines Antwort beginnt nicht im Geschäft, sondern bei der Politik.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Zukunft"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 294,
+   "speaker": "Andreas Sator",
+   "quote": "Wie man da im Hintergrund hat, ist der erste Hund in Erklär mir die Welt.",
+   "quote_clean": "Wie man da im Hintergrund hört, ist das der erste Hund bei Erklär mir die Welt.",
+   "statement": "In dieser Folge war zum ersten Mal ein Hund bei einer Aufnahme von Erklär mir die Welt dabei.",
+   "question": "Welche Premiere gab es in der Folge mit Dariadaria im Studio?",
+   "answer": "der erste Hund bei EMDW",
+   "distractors": [
+    "das erste Live-Publikum",
+    "die erste Videoaufzeichnung",
+    "der erste Gast per Telefon"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Madeleine hat ihren Hund mitgebracht, und der schnüffelt während des Gesprächs fleißig das Studio ab. Später fragt Andreas noch, ob der Hund eh auf die Couch darf.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Hund",
+    "Studio"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1853,
+   "speaker": "Dariadaria",
+   "quote": "also C&A hat auch wirklich sehr viel Geld in die Hand genommen, um eine Fabrik, ich glaube, die ist im Süden von Indien, auch Cradle to Cradle zu zertifizieren.",
+   "quote_clean": "C&A hat auch wirklich sehr viel Geld in die Hand genommen, um eine Fabrik – ich glaube, die ist im Süden von Indien – Cradle to Cradle zu zertifizieren.",
+   "statement": "C&A hat viel Geld investiert, um eine Fabrik in Indien nach Cradle to Cradle zertifizieren zu lassen.",
+   "question": "Welche Handelskette hebt Madeleine Alizadeh hervor, weil sie eine Fabrik nach Cradle to Cradle zertifizieren ließ?",
+   "answer": "C&A",
+   "distractors": [
+    "Primark",
+    "Zara",
+    "Kik"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ausgerechnet eine große Kette bekommt Lob: C&A hat Shirts und Unterhosen mit dem Cradle-to-Cradle-Siegel. Madeleines Rechnung: Was sie mit 2.000 Euro in drei Jahren geschafft hat, könnte ein Riese in einer Woche.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Siegel",
+    "Cradle to Cradle"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2010,
+   "speaker": "Dariadaria",
+   "quote": "dann sieht man auch, dass ein geringer Teil der sehr privilegierten Menschen für einen großen Teil der Emissionen zuständig ist oder verantwortlich ist.",
+   "quote_clean": "Dann sieht man auch, dass ein geringer Teil der sehr privilegierten Menschen für einen großen Teil der Emissionen verantwortlich ist.",
+   "statement": "Ein kleiner Teil sehr wohlhabender Menschen ist für einen großen Teil der weltweiten Emissionen verantwortlich.",
+   "question": "Wer verursacht laut Madeleine Alizadeh einen großen Teil der Emissionen?",
+   "answer": "ein kleiner, sehr wohlhabender Teil",
+   "distractors": [
+    "die ärmsten Länder",
+    "vor allem die Landwirtschaft",
+    "gleichmäßig alle Menschen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Darum sieht Madeleine die Verantwortung beim Einkaufen vor allem bei denen, die es sich leisten können. Wer 300 Euro im Monat für Kleidung hat, könnte sie auch zu einem fairen Label tragen statt zu Zara.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Emissionen",
+    "Ungleichheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "120",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

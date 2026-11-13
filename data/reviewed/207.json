@@ -1,0 +1,278 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächseinstieg ohne Wissensgehalt.",
+   "stand_note": "",
+   "statement": "Andreas steigt in die Folge mit der Frage ein, was mit seinem „kostbaren Blut“ nach der Spende passiert.",
+   "question": "Mit welcher Frage startet Andreas ins Gespräch über die Blutspende?",
+   "answer": "Was passiert mit meinem kostbaren Blut?",
+   "distractors": [
+    "Tut Blutspenden eigentlich weh?",
+    "Wie oft darf ich Blut spenden?",
+    "Warum gibt es Frankfurter danach?"
+   ],
+   "aha": "Ganz Andreas: er fängt beim eigenen Arm an und lässt sich dann den ganzen Weg erklären. Und „kostbar“ ist gar nicht so übertrieben, wie sich später herausstellt.",
+   "quote_clean": "Ursula, wenn ich jetzt zu euch komme und mein kostbares Blut dalasse, was passiert damit dann?",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg passt (191 s); Zahl gilt für die Spende beim Roten Kreuz in der Blutspendezentrale, nicht pauschal für ganz Österreich.",
+   "stand_note": "Stand 2022",
+   "statement": "Bei einer Vollblutspende werden laut Ursula Kreil (Blutspendezentrale Wien) 465 Milliliter Blut entnommen.",
+   "question": "Wie viele Milliliter Blut werden laut Transfusionsmedizinerin Kreil bei einer Vollblutspende entnommen?",
+   "answer": "465 Milliliter",
+   "distractors": [
+    "250 Milliliter",
+    "750 Milliliter",
+    "1.000 Milliliter"
+   ],
+   "aha": "Knapp ein halber Liter, also ungefähr ein Krügerl. Ein Erwachsener hat rund fünf Liter Blut im Körper, das steckt man also gut weg.",
+   "quote_clean": "Ein paar Minuten, im Durchschnitt sind es sechs Minuten, und wir entnehmen 465 Milliliter Blut.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 198-223 s.",
+   "stand_note": "",
+   "statement": "Gespendetes Blut ruht zuerst rund drei Stunden, damit weiße Blutzellen darin noch aufräumen können.",
+   "question": "Was passiert mit dem Blut direkt nach der Spende?",
+   "answer": "Es ruht etwa drei Stunden",
+   "distractors": [
+    "Es wird sofort tiefgefroren",
+    "Es wird gleich ins Spital gebracht",
+    "Es wird mit anderen Spenden gemischt"
+   ],
+   "aha": "Die sogenannte Phagozytose-Zeit: weiße Blutzellen fressen in dieser Pause noch Unerwünschtes weg. Danach werden genau diese weißen Zellen herausgefiltert, weil sie bei Empfänger:innen oft Unverträglichkeiten auslösen.",
+   "quote_clean": "Dieses Blut ruht dann drei Stunden lang. Man nennt das Phagozytose-Zeit, weil da noch einige Abräummechanismen innerhalb des Blutes durch weiße Blutzellen passieren.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Belegt bei 242-253 s; Rate ist Stand 2022.",
+   "stand_note": "Stand 2022",
+   "statement": "In Österreich wird rund alle 90 Sekunden eine Blutkonserve verabreicht.",
+   "question": "Wie oft wird in Österreich im Schnitt eine Blutkonserve verabreicht – alle wie viele Sekunden?",
+   "answer": "Alle 90 Sekunden",
+   "distractors": [
+    "Alle 10 Sekunden",
+    "Alle 15 Minuten",
+    "Alle 2 Stunden"
+   ],
+   "aha": "Rund um die Uhr, an jedem Tag im Jahr. Rechnet man das hoch, landet man bei ein paar hunderttausend Konserven pro Jahr – und jede davon kommt von einem Menschen, der freiwillig den Ärmel hochgekrempelt hat.",
+   "quote_clean": "Das ist diese dunkelrote Flüssigkeit, die als unersetzbares, lebensnotwendiges Notfallmedikament in den Spitälern eingesetzt wird. Und österreichweit rund alle 90 Sekunden einmal.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 264-282 s.",
+   "stand_note": "",
+   "statement": "Beim Zentrifugieren setzen sich die schweren roten Blutkörperchen unten ab, das leichte Plasma bleibt oben.",
+   "question": "Was landet beim Zentrifugieren von Blut ganz unten?",
+   "answer": "Die roten Blutkörperchen",
+   "distractors": [
+    "Das Blutplasma",
+    "Die weißen Blutkörperchen",
+    "Die Blutplättchen"
+   ],
+   "aha": "Ein bisschen wie eine Salatschleuder, nur viel schneller. Was schwer ist, wandert nach unten, und das sind eben die roten Blutkörperchen.",
+   "quote_clean": "Zentrifugieren bedeutet, das Blut mit einer sehr hohen Zahl an Umdrehungen dazu zu bringen, dass sich unten alles absetzt, was schwer ist. Das sind die roten Blutkörperchen. Und oben die leichten Teile des Blutes, das ist das Blutplasma.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 285-312 s.",
+   "stand_note": "",
+   "statement": "Blutplasma ist nicht rot, sondern eine hellgelbe Flüssigkeit.",
+   "question": "Welche Farbe hat Blutplasma?",
+   "answer": "Hellgelb",
+   "distractors": [
+    "Hellrot",
+    "Durchsichtig blau",
+    "Milchig weiß"
+   ],
+   "aha": "Das Rot im Blut kommt ausschließlich von den roten Blutkörperchen. Nimmt man die weg, bleibt eine gelbliche Flüssigkeit übrig – auch Andreas war überrascht, als er das auf der Homepage gesehen hat.",
+   "quote_clean": "Wenn man Blutplasma einmal gesehen hat, ist man überrascht, weil Blutplasma eine hellgelbe Flüssigkeit ist.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 461-501 s.",
+   "stand_note": "",
+   "statement": "Chemotherapie trifft alle sich schnell teilenden Zellen – deshalb fallen Haare aus und auch die Blutbildung leidet.",
+   "question": "Warum brauchen Menschen in Chemotherapie oft Bluttransfusionen?",
+   "answer": "Chemo bremst auch die Blutbildung",
+   "distractors": [
+    "Chemo zerstört direkt das Plasma",
+    "Chemo macht das Blut zu dick",
+    "Chemo verursacht häufig Blutgruppenwechsel"
+   ],
+   "aha": "Krebszellen teilen sich schnell, Haarwurzelzellen und blutbildende Zellen aber auch. Die Chemo unterscheidet da oft nicht sauber – darum fehlen danach nicht nur Haare, sondern auch Blutzellen.",
+   "quote_clean": "Warum gerade die Haare? Weil da Zellen beteiligt sind, die sich schnell teilen, und Chemotherapien sind in vielen Fällen nicht so gezielt wirksam, dass sie nur auf die Krebszellen wirken, sondern sie greifen auch andere Zellen an.",
+   "quality": 4
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 585-598 s.",
+   "stand_note": "",
+   "statement": "Eine Blutkonserve mit roten Blutkörperchen ist bei rund vier Grad maximal 42 Tage haltbar.",
+   "question": "Wie viele Tage ist eine Blutkonserve höchstens haltbar?",
+   "answer": "42 Tage",
+   "distractors": [
+    "7 Tage",
+    "100 Tage",
+    "365 Tage"
+   ],
+   "aha": "Sechs Wochen im Kühlhaus bei vier Grad, dann ist Schluss. Darum kann man Blut nicht einfach auf Vorrat horten, sondern braucht laufend neue Spender:innen.",
+   "quote_clean": "Der wird kühl gelagert bei vier Grad plus minus zwei Grad. Bis maximal 42 Tage ist so eine Blutkonserve haltbar.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 831-841 s; Wert entspricht der österreichischen Verteilung.",
+   "stand_note": "Stand 2022",
+   "statement": "A-positiv ist in Österreich die häufigste Blutgruppe, rund 37 Prozent haben sie.",
+   "question": "Wie viel Prozent der Menschen in Österreich haben die häufigste Blutgruppe A-positiv?",
+   "answer": "37 Prozent",
+   "distractors": [
+    "12 Prozent",
+    "55 Prozent",
+    "70 Prozent"
+   ],
+   "aha": "Mehr als jede dritte Person ist A-positiv. Für die Blutbank heißt das: diese Gruppe ist meistens leicht zu bekommen – bei den seltenen wird es spannend.",
+   "quote_clean": "Man muss ja überlegen, es gibt Blutgruppen, die recht häufig vorkommen, wie die Blutgruppe A-positiv. Sie ist die häufigste Blutgruppe mit 37 Prozent.",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 969-989 s.",
+   "stand_note": "",
+   "statement": "Blutgruppe 0-negativ gilt als Universalspender, weil Patient:innen jeder AB0- und Rhesus-Gruppe sie vertragen.",
+   "question": "Welche Blutgruppe gilt als Universalspender für rote Blutkörperchen?",
+   "answer": "0-negativ",
+   "distractors": [
+    "AB-positiv",
+    "A-positiv",
+    "B-negativ"
+   ],
+   "aha": "Blutgruppe 0 vertragen auch A, B und AB, und Rhesus-negativ vertragen auch die Rhesus-Positiven. Zusammen ergibt das 0-negativ – das Blut, das jede und jeder bekommen kann. Andreas hat es übrigens.",
+   "quote_clean": "Und die Blutgruppe Null vertragen Patienten mit der Blutgruppe A, B und AB auch. Dazu kommt, dass Rhesusfaktor negativ auch von allen Menschen vertragen wird, die ein Rhesusfaktor-positives Merkmal in ihrer Blutgruppe haben.",
+   "quality": 4
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Beleg passt (1139-1152 s); Ausweis-Zusatz im Ausschnitt nicht belegt, ein Distraktor unplausibel.",
+   "stand_note": "",
+   "statement": "In einer Schwangerschaft kann die Mutter Antikörper gegen Blutmerkmale bilden, die das Kind vom Vater geerbt hat.",
+   "question": "Wodurch kann eine Frau Antikörper gegen fremde Blutgruppenmerkmale entwickeln?",
+   "answer": "Durch eine Schwangerschaft",
+   "distractors": [
+    "Durch eine Grippeimpfung",
+    "Durch Eisenmangel",
+    "Durch häufiges Sporteln"
+   ],
+   "aha": "Das Kind trägt Merkmale vom Vater, die der Mutter fremd sind, und ihr Immunsystem kann dagegen einen Abwehrstoff bilden. Es gibt über 30 Blutgruppensysteme mit mehr als 300 Merkmalen, deshalb wird vor jeder Konserve genau geprüft, ob sie passt.",
+   "quote_clean": "Das kann zum Beispiel Frauen betreffen. So ein Antikörper entsteht im Zuge einer Schwangerschaft. Wenn das ungeborene Kind vom Vater ein Merkmal mitbekommen hat, das die Mutter nicht hat, kann es sein, dass so ein Abwehrstoff gebildet wird.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Beleg passt (1672-1700 s); Distraktoren teils unplausibel/kindisch, Antwort präzisiert.",
+   "stand_note": "",
+   "statement": "Blutspenden ist unbezahlt, damit niemand aus Geldnot Gesundheitsprobleme verschweigt.",
+   "question": "Warum wird man in Österreich fürs Vollblutspenden nicht bezahlt – unter anderem aus Sicherheitsgründen?",
+   "answer": "Damit niemand aus Geldnot Gesundheitsprobleme verschweigt",
+   "distractors": [
+    "Weil bezahltes Blut schneller verdirbt",
+    "Weil sonst die Spenden zu teuer würden",
+    "Weil weniger Menschen kommen würden"
+   ],
+   "aha": "Wer auf das Geld angewiesen ist, hat einen Anreiz, beim Fragebogen zu schwindeln. Freiwilligkeit ist also nicht nur eine nette Idee, sondern eine von drei Säulen der Sicherheit – neben Spenderauswahl und Tests.",
+   "quote_clean": "Der Hintergrund ist, dass man davon ausgeht, dass ein Spender, dem eine finanzielle Entschädigung in Aussicht gestellt würde, auf die er vielleicht aus wirtschaftlichen Gründen angewiesen ist, dazu verleitet sein könnte, Gesundheitsangaben nicht zu machen.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-Frage ohne Wissensgewinn; Distraktoren aus dem Nichts.",
+   "stand_note": "",
+   "statement": "Das österreichische Blutspendesystem funktioniert seit fast 65 Jahren – dank der Blutspender:innen.",
+   "question": "Wer sagt: „Dieses System funktioniert, aber es funktioniert dank der Blutspender und Blutspenderinnen“?",
+   "answer": "Ursula Kreil",
+   "distractors": [
+    "Andreas Sator",
+    "Helga Dröscher",
+    "Eine Hörerin namens Viviane"
+   ],
+   "aha": "Ursula Kreil ist seit mehr als 25 Jahren in der Blutspendezentrale und wundert sich nach eigener Aussage immer noch, wie gut die freiwillige, unbezahlte Spende funktioniert. Das Rote Kreuz hat sich die Vollversorgung zur Pflicht gemacht.",
+   "quote_clean": "Dieses System gibt es mittlerweile seit fast 65 Jahren, und dieses System funktioniert, aber es funktioniert dank der Blutspender und Blutspenderinnen.",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg",
+    "veraltet"
+   ],
+   "note": "Beleg passt (2844-2867 s), aber Gewohnheit wurde laut Kreil in Corona-Zeiten ausgesetzt und umfasst auch Debreziner; Aha-Zusatz 'Mannerschnitten' nicht belegt.",
+   "stand_note": "Stand 2022",
+   "statement": "Nach dem Blutspenden gab es in der Blutspendezentrale traditionell Frankfurter Würstchen und Debreziner; in Corona-Zeiten wurde das ausgesetzt.",
+   "question": "Was gab es laut Ursula Kreil traditionell nach der Blutspende, bevor es in Corona-Zeiten ausgesetzt wurde?",
+   "answer": "Frankfurter Würstchen und Debreziner",
+   "distractors": [
+    "Leberkässemmeln und Gulaschsuppe",
+    "Schnitzelsemmeln und Gebäck",
+    "Toast und warme Getränke"
+   ],
+   "aha": "Die Würstel nach der Spende sind Tradition, in Corona-Zeiten wurden sie aber ausgesetzt. Das gemütliche Beisammensein danach sorgt laut Ursula Kreil mit dafür, dass man gern zur Blutspende kommt.",
+   "quote_clean": "Die letzte Hörer:innenfrage ist die beste, finde ich, und das ist auch unser Abschluss, von Jonas: Warum gibt es in der Spendezentrale immer nur Frankfurter und keine Burenwurst oder Debreziner?",
+   "quality": 3
+  }
+ ],
+ "id": "207",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

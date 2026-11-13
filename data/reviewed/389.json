@@ -1,0 +1,292 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Die 7 % sind eine vage, ausdrücklich unsichere Erinnerung ('glaube ich') ohne Quelle und ohne klare Bezugsgruppe.",
+   "stand_note": "",
+   "statement": "Fragt man Menschen direkt, ob sie bisexuell sind, sagen laut Julia Shaw nur rund 7 Prozent Ja.",
+   "question": "Wie viel Prozent der Menschen sagen Ja, wenn man sie direkt fragt, ob sie bisexuell sind?",
+   "answer": "Rund 7 Prozent",
+   "distractors": [
+    "Rund 1 Prozent",
+    "Rund 20 Prozent",
+    "Rund 35 Prozent"
+   ],
+   "aha": "Das Label ist halt noch immer ein bisschen heikel. Bei Jüngeren ist die Zahl deutlich höher, und wenn man nicht nach dem Wort, sondern nach Gefühlen fragt, schaut das Bild gleich ganz anders aus.",
+   "quote_clean": "Es kommt immer drauf an, wie man die Frage stellt. Wenn man Menschen fragt, bist du bi, sagen, glaube ich, immer noch nur so 7 %.",
+   "quality": 1
+  },
+  {
+   "i": 1,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Zweifach abgeschwächte Schätzung ('glaube ich', 'ungefähr') ohne Quelle; Frageformulierung der Umfrage unklar, daher nicht belastbar.",
+   "stand_note": "",
+   "statement": "Fragt man Menschen, die sich als hetero bezeichnen, ob sie sich in die richtige Person des gleichen Geschlechts verlieben könnten, sagen laut Umfragen etwa 30 Prozent Ja.",
+   "question": "Wie viel Prozent der Menschen, die sich als hetero bezeichnen, sagen in Umfragen, sie könnten sich in die richtige Person des gleichen Geschlechts verlieben?",
+   "answer": "Etwa 30 Prozent",
+   "distractors": [
+    "Etwa 5 Prozent",
+    "Etwa 12 Prozent",
+    "Etwa 60 Prozent"
+   ],
+   "aha": "Zwischen „Ich bin hetero“ und „Ich könnte mich nie in eine Frau oder einen Mann verlieben“ liegt offenbar eine ziemliche Lücke.",
+   "quote_clean": "Und da sagen inzwischen in Umfragen ungefähr 30 % der Menschen ja.",
+   "quality": 1
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Beleg bei 1584 s (größte Gruppe innerhalb der queeren Community, entspricht Umfragedaten); Aha enthielt unbelegte Behauptungen über Andreas und wurde auf den Ausschnitt reduziert.",
+   "stand_note": "",
+   "statement": "Innerhalb der queeren Community sind Bisexuelle die größte Gruppe, es gibt mehr bisexuelle als lesbische oder schwule Menschen.",
+   "question": "Welche Gruppe ist innerhalb der queeren Community die größte sexuelle Minderheit?",
+   "answer": "Bisexuelle Menschen",
+   "distractors": [
+    "Schwule Männer",
+    "Lesbische Frauen",
+    "Asexuelle Menschen"
+   ],
+   "aha": "Obwohl es mehr bisexuelle als schwule oder lesbische Menschen gibt, kommen sie in der öffentlichen Wahrnehmung kaum vor. Andreas sagt in der Folge selbst, dass er in seinem Umfeld keinen einzigen bisexuellen Mann kennt.",
+   "quote_clean": "Innerhalb der queeren Community ist Bisexualität die größte sexuelle Minderheit. Das heißt, es gibt mehr bisexuelle Menschen als lesbische oder schwule Menschen.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Beleg bei 427 s (Julia: 'wahrscheinlich schwuler Mann'); Distraktoren waren teils albern, Antwort sauberer formuliert.",
+   "stand_note": "",
+   "statement": "Die Begriffe „Homosexualität“ und „Heterosexualität“ stammen Mitte des 19. Jahrhunderts laut Julia Shaw von einem wahrscheinlich schwulen Mann, der für die Rechte von schwulen Menschen kämpfte.",
+   "question": "Wer hat laut Julia Shaw den Begriff „Heterosexualität“ erfunden?",
+   "answer": "Ein Aktivist, der für die Rechte schwuler Menschen kämpfte",
+   "distractors": [
+    "Ein katholischer Moraltheologe",
+    "Ein Psychiater der Kaiserzeit",
+    "Ein Gegner von Homosexuellenrechten"
+   ],
+   "aha": "Er brauchte ein Wort für Männer, die gerne mit Männern zusammen sind, also „homo“. Und damit auch eines für alle anderen: „hetero“. Die vermeintliche Norm hat ihren Namen also quasi als Nebenprodukt bekommen.",
+   "quote_clean": "dass Heterosexualität erfunden wurde von einem wahrscheinlich schwulen Mann, der für die Rechte von schwulen Menschen kämpfte.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 400 s; Griechisch 'heteros' = anders stimmt.",
+   "stand_note": "",
+   "statement": "„Homo“ bedeutet gleich, „hetero“ bedeutet anders: Heterosexuelle mögen ein anderes Geschlecht als das eigene.",
+   "question": "Was bedeutet die griechische Vorsilbe „hetero“ in „heterosexuell“?",
+   "answer": "Anders",
+   "distractors": [
+    "Normal",
+    "Gleich",
+    "Viele"
+   ],
+   "aha": "Homo heißt gleich, hetero heißt anders. Erfunden wurde das Paar Mitte des 19. Jahrhunderts, weil man für das eine Wort halt auch ein Gegenstück gebraucht hat.",
+   "quote_clean": "Und er hat gesagt, homo, also gleich, daher kommt homo, und hat gesagt, da haben wir Homosexualität. Man braucht aber dann auch eine Beschreibung für Menschen, die nicht so sind, und dann hat er gesagt, dann sind das die Heterosexuellen, anders.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "fix",
+   "issues": [
+    "ton",
+    "beleg"
+   ],
+   "note": "Beleg bei 455-482 s (Wissenschaft, spätes 19. Jahrhundert, Havelock Ellis); die Behauptung 'Identität erst nach dem Zweiten Weltkrieg' steht nicht im Ausschnitt und wurde gestrichen.",
+   "stand_note": "",
+   "statement": "Das Wort „bisexuell“ wurde in der Wissenschaft schon im späten 19. Jahrhundert verwendet, nicht erst seit den 1970ern.",
+   "question": "Seit wann wird das Wort „bisexuell“ in der Wissenschaft verwendet?",
+   "answer": "Seit dem späten 19. Jahrhundert",
+   "distractors": [
+    "Seit den 1970er-Jahren",
+    "Seit den 1990er-Jahren",
+    "Seit der Nachkriegszeit"
+   ],
+   "aha": "Viele denken, „bi“ sei ein Wort aus den 1970ern. Tatsächlich tauchte es kurz nach „homosexuell“ auf, etwa beim Forscher Havelock Ellis, der es schon im späten 19. Jahrhundert in seinen Studien benutzt hat.",
+   "quote_clean": "Und ich glaube, das überrascht Menschen, weil man denkt, bi, das hat man seit den 70ern irgendwie, aber das stimmt nicht.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1107 s (Skala 0 bis 6), stimmt mit der Kinsey-Skala überein; Transkript wirkt chaotisch, Ergebnis aber klar.",
+   "stand_note": "",
+   "statement": "Die Kinsey-Skala reicht von 0 (ausschließlich heterosexuell) bis 6 (ausschließlich homosexuell).",
+   "question": "Auf der Kinsey-Skala steht 0 für ausschließlich heterosexuell. Welche Zahl steht für ausschließlich homosexuell?",
+   "answer": "6",
+   "distractors": [
+    "5",
+    "10",
+    "3"
+   ],
+   "aha": "Alfred Kinsey hat Menschen ähnlich befragt, wie man das sonst bei Tieren macht. Sein Befund Ende der 40er: Die meisten landen irgendwo in der Mitte der Skala, nicht bei 0 oder 6.",
+   "quote_clean": "Die Hetero-Homosexuell-Skala war für Kinsey 0 bis 6, und 0 war 100 % heterosexuell und 6 war 100 % homosexuell.",
+   "quality": 3
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Beleg bei 1367-1397 s; 'ziehen Junge groß' und die Aussage zur Monosexualität stehen nicht im Ausschnitt; Aha und Distraktoren überarbeitet.",
+   "stand_note": "",
+   "statement": "Gibt es bei manchen Vogelarten in einem Jahr deutlich mehr Weibchen, nisten Weibchen laut Julia Shaw gemeinsam.",
+   "question": "Was machen Vogelweibchen mancher Arten laut Julia Shaw, wenn es in einem Jahr deutlich mehr Weibchen als Männchen gibt?",
+   "answer": "Sie nisten miteinander",
+   "distractors": [
+    "Sie legen keine Eier",
+    "Sie wandern in andere Gebiete ab",
+    "Sie bleiben allein"
+   ],
+   "aha": "Wenn es in einem Jahr sehr viele Weibchen gibt, setzen sie sich zusammen und nisten gemeinsam. Deshalb sagen inzwischen viele in der Tierforschung, Bisexualität sei die anpassungsfähigste Variante: Fortpflanzen geht trotzdem, aber man ist flexibel, wie der Haushalt ausschaut.",
+   "quote_clean": "oder 70 % Vogelweibchen in einem Jahr gibt, dann tun sich die Weibchen zusammen und nisten zusammen, weil sie dann genauso wie wir, wenn wir einen Haushalt haben, das teilen",
+   "quality": 3
+  },
+  {
+   "i": 11,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-hat's-gesagt-Frage ohne Rätselwert (die Gästin spricht), Zitat im Ausschnitt abgeschnitten.",
+   "stand_note": "",
+   "statement": "Julia Shaw möchte, dass Menschen in sich die Möglichkeit sehen, dass das Geschlecht nicht entscheidet, in wen sie sich verlieben.",
+   "question": "Wer hat's gesagt: „Ich möchte, dass Menschen in sich selbst die Möglichkeit sehen, dass das Geschlecht vielleicht nicht das Ausschlaggebende ist“?",
+   "answer": "Julia Shaw",
+   "distractors": [
+    "Andreas Sator",
+    "Alfred Kinsey",
+    "Fritz Klein"
+   ],
+   "aha": "Julia will niemandem vorschreiben, wie er sich nennen soll. Sie will nur, dass man nicht blind ist für mögliche Liebe, weil es eh schon schwer genug ist, sich zu verlieben.",
+   "quote_clean": "Ich möchte, dass Menschen in sich selbst die Möglichkeit sehen, dass das Geschlecht vielleicht nicht das Ausschlaggebende ist, in wen man sich verlieben kann.",
+   "quality": 1
+  },
+  {
+   "i": 12,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Pauschale Meinung ('Mythos', 'die meisten gehen fremd') ohne Beleg, als Fakt nicht tauglich; Wer-hat's-gesagt trivial.",
+   "stand_note": "",
+   "statement": "Julia Shaw hält Monogamie für hauptsächlich einen Mythos, weil die meisten Menschen in langen Beziehungen irgendwann fremdgehen.",
+   "question": "Wer hat's gesagt: „Monogamie ist hauptsächlich ein Mythos, würde ich sagen“?",
+   "answer": "Julia Shaw",
+   "distractors": [
+    "Andreas Sator",
+    "Paul Bloom",
+    "Alfred Kinsey"
+   ],
+   "aha": "Statt alle als unmoralisch abzustempeln, fragt Julia: Haben wir vielleicht eine Beziehungsnorm erfunden, die den meisten nicht reicht?",
+   "quote_clean": "Monogamie ist hauptsächlich ein Mythos, würde ich sagen. Klar gibt es da: Was heißt das, in welchem Kontext und so weiter, aber die meisten Menschen, die in langjährigen Beziehungen waren oder sind, sind in der Vergangenheit fremdgegangen",
+   "quality": 1
+  },
+  {
+   "i": 13,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Subjektive Schätzung ('ich glaube schon') ohne Anker, als Quizzahl mit beliebigen Distraktoren nicht eindeutig prüfbar.",
+   "stand_note": "",
+   "statement": "Julia Shaw meint, die gesellschaftliche Debatte über Bisexualität hinke der über Homosexualität etwa 20 Jahre hinterher.",
+   "question": "Wie viele Jahre hinkt laut Julia Shaw das Gespräch über Bisexualität dem über Homosexualität hinterher?",
+   "answer": "Etwa 20 Jahre",
+   "distractors": [
+    "Etwa 5 Jahre",
+    "Etwa 50 Jahre",
+    "Etwa 100 Jahre"
+   ],
+   "aha": "Wer sagt, „ich bin bi“, hört oft: Warum erzählst du mir, was du im Bett machst? Genau diese Reaktion haben schwule Menschen vor 20 Jahren auch bekommen.",
+   "quote_clean": "Und genau die Reaktion haben wir jetzt immer noch, und ich glaube schon, dass wir so 20 Jahre zurück sind, was das Gespräch über Bisexualität angeht, im Vergleich zu Homosexualität.",
+   "quality": 2
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 643 s; der Begriff ist breiter (Adrienne Rich), daher auf Julias Erklärung bezogen; Distraktoren zu offensichtlich, ersetzt.",
+   "stand_note": "",
+   "statement": "„Compulsory Heterosexuality“ nennt Julia Shaw das Phänomen, dass queere Menschen lange nach außen eine heterosexuelle Familie führten, weil das die Norm war.",
+   "question": "Wie nennt Julia Shaw es, wenn queere Menschen nach außen eine Hetero-Familie führen, weil das die Norm ist?",
+   "answer": "Compulsory Heterosexuality",
+   "distractors": [
+    "Internalisierte Homophobie",
+    "Coming-out",
+    "Konversionstherapie"
+   ],
+   "aha": "Schwule Männer und lesbische Frauen hatten trotzdem Ehepartner, privat lebten sie anders. Manchmal haben sich auch Lesben und Schwule gefunden und eine Art Abkommen geschlossen.",
+   "quote_clean": "Und das ist die sogenannte Compulsory Heterosexuality. Das ist die erzwungene Heteronormativität, dass man nach außen hin und gesellschaftlich immer noch eine Familie hat, weil das die Norm ist.",
+   "quality": 3
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 3011 s; Anekdote aus ihrem Buch, harmlos und charmant, Distraktor 'Kauf ich euch nicht ab' ist ein guter Gegenspieler.",
+   "stand_note": "",
+   "statement": "Als Julia Shaw bei einem Date in einer lesbischen Bar schief angeschaut wurde, rief ein schwuler Mann vom Nebentisch: „Ich finde euch hot.“",
+   "question": "Was rief ein schwuler Mann Julia Shaw und ihrem Date in einer lesbischen Bar zu?",
+   "answer": "„Ich finde euch hot“",
+   "distractors": [
+    "„Ihr seid hier falsch“",
+    "„Die nächste Runde zahl ich“",
+    "„Kauf ich euch nicht ab“"
+   ],
+   "aha": "Eine andere Besucherin hatte ihnen vorher gesagt, sie kaufe ihnen das nicht ab, vermutlich weil beide direkt von der Arbeit kamen und eher professionell angezogen waren. Der Zwischenruf war quasi die Gegenwehr.",
+   "quote_clean": "Ich beschreibe dann auch den süßen Moment: Es war auch ein schwuler Mann in der Bar, und er hat dann vom Tisch dahinter geschrien: „Ich finde euch hot.“",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "'Typischerweise ganz am Schluss' ist aus dem Ausschnitt nicht belegt; Frage über Show-Ritual wenig spielbar.",
+   "stand_note": "",
+   "statement": "Andreas fragt seine Gäste am Ende, was ihr liebstes Medium ist, um sich über die Welt zu informieren.",
+   "question": "Welche Frage stellt Andreas seinen Gästen typischerweise ganz am Schluss?",
+   "answer": "Ihr liebstes Medium, um sich zu informieren",
+   "distractors": [
+    "Ihr peinlichster Moment im Studium",
+    "Ihr Lieblingsort in Wien",
+    "Ihre größte Angst für die Zukunft"
+   ],
+   "aha": "Julia hat geantwortet: Instagram, mit BBC und Guardian, und Bluesky für die Forschenden.",
+   "quote_clean": "Was ist dein liebstes Medium, um dich über die Welt zu informieren? Mein liebstes Medium ist, da schäme ich mich vielleicht, tatsächlich Instagram",
+   "quality": 1
+  }
+ ],
+ "id": "389",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

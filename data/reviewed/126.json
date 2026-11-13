@@ -1,0 +1,278 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 266 s; 1848 stimmt historisch.",
+   "stand_note": "",
+   "statement": "Erst seit der Revolution von 1848 dürfen in Österreich nicht mehr nur Adelige jagen.",
+   "question": "In welchem Jahr endete in Österreich das Jagdprivileg des Adels?",
+   "answer": "1848",
+   "distractors": [
+    "1789",
+    "1867",
+    "1918"
+   ],
+   "aha": "Davor durfte der Bauer nicht einmal seine Felder gegen Wildschweine verteidigen, Entschädigung gab's auch keine. Nach 1848 ist das Wild dann so heftig verfolgt worden, dass man rasch die ersten Jagdgesetze gebraucht hat.",
+   "quote_clean": "Und das war relativ lange so, bis zur Revolution 1848, wo dann wieder alle jagen gehen durften.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 256-261 s; 'stand' ist vermutlich 'stammt', Sinn klar.",
+   "stand_note": "",
+   "statement": "Die Begriffe Hochwild und Niederwild stammen daher, wer die Tiere jagen durfte: der hohe oder der niedere Adel.",
+   "question": "Woher kommen die Begriffe „Hochwild“ und „Niederwild“?",
+   "answer": "Vom hohen und niederen Adel",
+   "distractors": [
+    "Von der Körpergröße der Tiere",
+    "Vom Lebensraum Berg oder Tal",
+    "Vom Preis des Fleisches"
+   ],
+   "aha": "Mit der Größe der Tiere hat das nur zufällig zu tun. Die Begriffe sind ein Überbleibsel aus der Zeit, als Jagen ein Standesprivileg war: Hochwild für den hohen, Niederwild für den niederen Adel.",
+   "quote_clean": "Aus der Zeit stammt zum Beispiel der Begriff des Hochwildes oder des Niederwildes. Das Hochwild war dem hohen Adel vorbehalten, das Niederwild dem niederen Adel.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 306-312 s; neun Bundesländer, neun Gesetze.",
+   "stand_note": "",
+   "statement": "Jagd ist in Österreich Landessache, es gibt neun verschiedene Landesjagdgesetze.",
+   "question": "Wie viele verschiedene Jagdgesetze gibt es in Österreich?",
+   "answer": "9",
+   "distractors": [
+    "1",
+    "3",
+    "12"
+   ],
+   "aha": "Jedes Bundesland macht sein eigenes. Darum können sich etwa Schonzeiten und Jagdzeiten von Land zu Land unterscheiden. Gemeinsam ist allen aber der Auftrag, einen artenreichen und gesunden Wildbestand zu erhalten.",
+   "quote_clean": "Wir haben neun verschiedene Landesjagdgesetze. Die ähneln sich alle, aber letztendlich ist Jagd immer Landessache.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 382-407 s; Aussage deckt sich mit dem Transkript.",
+   "stand_note": "",
+   "statement": "Nicht jedes Wildtier ist jagdbar: Nur Arten, die im Jagdgesetz stehen, dürfen gejagt werden, die Amsel etwa nicht.",
+   "question": "Darf ein Jäger in Österreich eine Amsel im Wald schießen?",
+   "answer": "Nein, sie ist kein jagdbares Wild",
+   "distractors": [
+    "Ja, mit Jagdkarte jederzeit",
+    "Nur außerhalb der Brutzeit",
+    "Nur mit Abschussplan"
+   ],
+   "aha": "Jagdbar ist nur, was ausdrücklich im Landesjagdgesetz steht. Die Amsel steht da nicht drin, und im verbauten Gebiet ruht die Jagd sowieso.",
+   "quote_clean": "Das heißt, die Amsel im Garten dürfte der Jäger nicht jagen, abgesehen davon, dass die Jagd im verbauten Gebiet ruht.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "transkription"
+   ],
+   "note": "Beleg bei 431-446 s; Gast sagt 'im Grunde' und 'unterschiedliche Regelungen', daher 'in der Regel'. 'abgekolbt' ist verhört für 'abgegolten'.",
+   "stand_note": "",
+   "statement": "Richtet jagdbares Wild Schäden auf Feldern an, muss in Österreich in der Regel der Jagdausübungsberechtigte dafür geradestehen.",
+   "question": "Wer kommt in Österreich in der Regel für Wildschäden auf einem Maisacker auf?",
+   "answer": "Der Jäger bzw. Jagdpächter",
+   "distractors": [
+    "Das Land",
+    "Die Versicherung des Bauern",
+    "Niemand"
+   ],
+   "aha": "Zu Adelszeiten hat der Bauer durch die Finger geschaut. Heute steht im Grunde der Jagdausübungsberechtigte für Wildschäden gerade, auch wenn die Regeln je nach Bundesland variieren.",
+   "quote_clean": "Heute, wenn da ein Maisacker, Getreideacker oder Zuckerrübenfeld ist und ein jagdbares Tier Schäden verursacht, dann wird das vom Jagdausübungsberechtigten abgegolten.",
+   "quality": 3
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 463-489 s; Vergrämungseffekt korrekt wiedergegeben.",
+   "stand_note": "",
+   "statement": "Jagd vertreibt Wild auch: Wird gezielt an gefährdeten Äckern gejagt, lernen Wildschweine, diese Flächen zu meiden.",
+   "question": "Wie hilft Jagd, Wildschweine von Äckern fernzuhalten, ohne alle zu schießen?",
+   "answer": "Die Tiere lernen, diese Orte zu meiden",
+   "distractors": [
+    "Sie fressen dann lieber im Wald Eicheln",
+    "Jäger stellen Duftzäune auf",
+    "Jäger füttern sie anderswo"
+   ],
+   "aha": "Wildschweine sind lernfähig: Wo öfter gejagt wird, wird's ihnen ungemütlich. Das erspart, jeden Acker einzuzäunen, und die Landschaft ist eh schon zerschnitten genug.",
+   "quote_clean": "Weil Jagd auch einen Vergrämungseffekt haben kann, kann man sich das, um beim Beispiel Wildschweine zu bleiben, zunutze machen, indem man schwerpunktmäßig an schadensanfälligen Äckern jagt. Das lernen die Wildtiere und halten sich von solchen Kulturen eher fern.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 578-598 s; Aha behauptete Details (Hunger, Parasiten, Schutzwald), die im Ausschnitt nicht stehen. Auf Belegtes gekürzt.",
+   "stand_note": "",
+   "statement": "Wildtierpopulationen werden über Geburten- und Sterberate gesteuert; der Jäger beeinflusst vor allem die Sterberate.",
+   "question": "An welchem Regler dreht der Jäger bei einer Wildtierpopulation hauptsächlich?",
+   "answer": "An der Sterberate",
+   "distractors": [
+    "An der Geburtenrate",
+    "Am Nahrungsangebot",
+    "An der Zuwanderung"
+   ],
+   "aha": "Ohne Jagd würden die Bestände zunächst wachsen. Natürliche Bremsen wie Krankheiten und Beutegreifer gibt es zwar auch, aber der Jäger greift eben bei der Sterberate ein.",
+   "quote_clean": "Populationen werden durch zwei Faktoren reguliert: die Geburtenrate und die Sterberate. Und der Jäger dreht hauptsächlich an der Sterberate, wenn er einen Abschuss tätigt.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 957-975 s; Aha deckt sich mit Blühstreifen-Beispiel im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Jagdbare Arten wirken als „Regenschirmarten“: Lebensraumverbesserungen für sie helfen vielen anderen Tier- und Pflanzenarten.",
+   "question": "Was meint man mit einer „Umbrella Species“?",
+   "answer": "Ihr Schutz hilft vielen anderen Arten mit",
+   "distractors": [
+    "Eine Art, die unter Bäumen lebt",
+    "Eine Art, die andere verdrängt",
+    "Eine Art ohne natürliche Feinde"
+   ],
+   "aha": "Legt ein Jäger fürs Rebhuhn einen Blühstreifen an, freuen sich auch Feldlerche und Insekten. Der Schirm, den man über die eine Art spannt, schützt eine ganze Reihe anderer mit.",
+   "quote_clean": "Die jagbaren Wildarten könnte man als Umbrella Species bezeichnen: eine Regenschirmspezies, die ganz viele andere Arten mitnimmt.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Nur die Antwort ist Englisch, die Distraktoren sind deutsche Sprichwörter: Antwort ist erratbar. Zudem Wertung des Gastes (Jagd erhält Arten) als Spielfakt dünn.",
+   "stand_note": "",
+   "statement": "Ronald Knapp argumentiert mit „use it or lose it“: Wer Interesse an einer Art hat, kümmert sich auch um ihren Erhalt.",
+   "question": "Welcher Leitspruch fasst für Ronald Knapp zusammen, warum Jäger seltene Arten erhalten?",
+   "answer": "Use it or lose it",
+   "distractors": [
+    "Leben und leben lassen",
+    "Weniger ist mehr",
+    "Wer rastet, der rostet"
+   ],
+   "aha": "Gemeint sind etwa Rebhuhn und Raufußhühner.",
+   "quote_clean": "Es gibt diesen Leitspruch: use it or lose it. Und das trifft auf solche Arten auch zu. Solange eine Gruppe von Menschen da ist, die wesentliches Interesse an solchen Arten hat, wird sie sich auch darum kümmern, sie zu erhalten.",
+   "quality": 2
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Beleg bei 1261-1268 s; Gast relativiert ('meines Wissens', 'ich hoffe, ich sage nichts Falsches'). Als Aussage des Gastes mit Stand 2020 formuliert.",
+   "stand_note": "Stand 2020",
+   "statement": "Laut Ronald Knapp ist rund ein Drittel der Teilnehmenden an Jungjägerkursen in Österreich weiblich.",
+   "question": "Wie viel Prozent der Teilnehmenden an Jungjägerkursen sind laut Ronald Knapp ungefähr Frauen?",
+   "answer": "Rund ein Drittel (33 %)",
+   "distractors": [
+    "Rund 5 %",
+    "Rund 15 %",
+    "Rund 50 %"
+   ],
+   "aha": "Vor 50 Jahren war eine Jägerin noch eine Ausnahme. Heute ist laut Knapp ein Drittel der Neuen weiblich. Nicht alle gehen danach auch jagen, manche machen den Kurs aus Neugier, sogar Vegetarierinnen.",
+   "quote_clean": "Meines Wissens ist bei den Jagdkursen für Anfänger, den Jungjägerinnen- und Jungjägerkursen, ein Drittel weiblich.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Beleg bei 1371-1384 s; 'zusammenhängend' sagt der Gast nicht, entfernt. Zahl 115 passt zu den meisten Landesjagdgesetzen.",
+   "stand_note": "",
+   "statement": "Für eine Eigenjagd braucht man in Österreich in der Regel mindestens 115 Hektar Grund.",
+   "question": "Wie viele Hektar Grund braucht man in Österreich in der Regel für eine eigene Jagd?",
+   "answer": "115 Hektar",
+   "distractors": [
+    "15 Hektar",
+    "50 Hektar",
+    "500 Hektar"
+   ],
+   "aha": "Wer weniger hat, etwa drei, vier Hektar, landet mit seinem Grund in der Genossenschaftsjagd. Die wird verpachtet, und der Pächter zahlt den Grundbesitzern dafür, dass er jagen darf.",
+   "quote_clean": "Wenn man eine Fläche besitzt, die groß genug ist, in der Regel 115 Hektar, in manchen Bundesländern auch mehr, dann hat man eine sogenannte Eigenjagd.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1487-1501 s; Vergleich korrekt als Meinung des Gastes formuliert.",
+   "stand_note": "",
+   "statement": "Ronald Knapp vergleicht Jäger mit der freiwilligen Feuerwehr: Ehrenamtliche, die Zeit und Geld für die Allgemeinheit einsetzen.",
+   "question": "Womit vergleicht Ronald Knapp Jägerinnen und Jäger, die für ihr Revier sogar Pacht zahlen?",
+   "answer": "Mit der freiwilligen Feuerwehr",
+   "distractors": [
+    "Mit dem Roten Kreuz",
+    "Mit Bergführern",
+    "Mit Fußballvereinen"
+   ],
+   "aha": "Andreas wollte wissen, warum der Jäger zahlt statt bezahlt zu werden. Die Antwort: Die meisten machen das aus Leidenschaft neben dem Beruf, würden ein Honorar aber auch mit Handkuss nehmen.",
+   "quote_clean": "Vielleicht am besten mit der freiwilligen Feuerwehr. Das sind auch Leute, die einen Beruf haben und trotzdem Zeit, Herzblut und vielleicht auch Geld in diese Tätigkeit stecken, die der Allgemeinheit zugutekommt.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Meta-Frage zur Moderation; Aha enthält Aussagen (Hunger, Krankheit, Schutzwald), die im Ausschnitt nicht belegt sind; Distraktoren beliebig.",
+   "stand_note": "",
+   "statement": "Andreas stellt die häufigste Frage der Hörer:innen: Warum regelt das nicht die Natur selbst?",
+   "question": "Welches Gedankenexperiment schlägt Andreas in der Jagd-Folge vor?",
+   "answer": "Die Jagd von heute auf morgen abschaffen",
+   "distractors": [
+    "Den Wolf überall wieder ansiedeln",
+    "Nur noch Frauen jagen lassen",
+    "Alle Äcker einzäunen"
+   ],
+   "aha": "Die Frage kam von euch im Vorfeld am häufigsten.",
+   "quote_clean": "Spielen wir das Experiment vielleicht durch, weil das eine Frage ist, die im Vorfeld sehr häufig kam: Warum lässt man das die Natur nicht selber regeln?",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "fairness",
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage, die Andreas leicht bloßstellt und kein Wissen vermittelt.",
+   "stand_note": "",
+   "statement": "Andreas gibt zu, noch nie eine Jägerin gesehen zu haben.",
+   "question": "Was gibt Andreas mitten in der Jagd-Folge zu?",
+   "answer": "Er hat noch nie eine Jägerin gesehen",
+   "distractors": [
+    "Er hat noch nie Wild gegessen",
+    "Er war schon einmal auf einer Treibjagd",
+    "Er hat selbst einen Jagdkurs gemacht"
+   ],
+   "aha": "Ronald hat ihn prompt aufgeklärt: Jägerinnen gibt's gar nicht mehr so wenige.",
+   "quote_clean": "Und wie kann man sich das in der Praxis vorstellen, wenn ein Jäger oder eine Jägerin – soll es ja auch geben, ich habe noch nie eine gesehen?",
+   "quality": 1
+  }
+ ],
+ "id": "126",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

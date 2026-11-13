@@ -1,0 +1,285 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 404 s klar, 90 Minuten korrekt.",
+   "stand_note": "",
+   "statement": "Ein Schlafzyklus dauert rund 90 Minuten.",
+   "question": "Wie viele Minuten dauert ein Schlafzyklus ungefähr?",
+   "answer": "Rund 90 Minuten",
+   "distractors": [
+    "Rund 30 Minuten",
+    "Rund 45 Minuten",
+    "Rund 150 Minuten"
+   ],
+   "aha": "Ein Zyklus führt dich vom Einschlafen über den Tiefschlaf zurück in die leichteren Stadien und dann in den REM-Schlaf. Danach geht das Spiel von vorne los, die ganze Nacht lang.",
+   "quote_clean": "Ein Schlafzyklus dauert rund 90 Minuten.",
+   "quality": 4
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 541-544 s; Rechnung im Aha stimmt, Aussage im Transkript enthalten.",
+   "stand_note": "",
+   "statement": "Pro Nacht durchläuft man je nach Schlafdauer vier bis fünf Schlafzyklen.",
+   "question": "Wie viele Schlafzyklen durchläufst du in einer normalen Nacht?",
+   "answer": "Vier bis fünf",
+   "distractors": [
+    "Zwei bis drei",
+    "Sieben bis acht",
+    "Zehn bis zwölf"
+   ],
+   "aha": "Bei rund 90 Minuten pro Zyklus kommst du in einer Nacht mit siebeneinhalb Stunden auf etwa fünf Durchgänge. Mit jedem Zyklus wird der Tiefschlaf kürzer und der REM-Schlaf länger.",
+   "quote_clean": "Und das geht dann, je nachdem, wie lange man schläft, vier bis fünf Mal, bis man aufwacht.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 587-594 s stimmt; Zahl ist Holzingers Angabe, daher Attribution ergänzt.",
+   "stand_note": "",
+   "statement": "Laut Holzinger wacht man im Schlaf vier- bis siebenmal pro Stunde kurz auf, ohne es zu bemerken.",
+   "question": "Wie oft pro Stunde wachst du im Schlaf laut Brigitte Holzinger kurz auf, ohne es zu merken?",
+   "answer": "Vier bis sieben Mal",
+   "distractors": [
+    "Gar nicht",
+    "Ein bis zwei Mal",
+    "Zwanzig bis dreißig Mal"
+   ],
+   "aha": "Diese Mini-Aufwacher sind so kurz, dass sie dein Bewusstsein gar nicht erreichen, etwa wenn du dich umdrehst. Du glaubst also durchzuschlafen und bist in Wahrheit dauernd kurz da.",
+   "quote_clean": "Wir wachen nämlich vier bis sieben Mal pro Stunde sowieso auf, aber nur so kurz, dass man es nicht merkt.",
+   "quality": 4
+  },
+  {
+   "i": 8,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Aussage ist vage und im Transkript hedged (dürfte so sein); Distraktoren wie rote Blutkörperchen sind nicht eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Im Tiefschlaf werden Proteine und Aminosäuren regeneriert, die im Wachzustand abgebaut werden.",
+   "question": "Was wird im Tiefschlaf unter anderem regeneriert?",
+   "answer": "Proteine und Aminosäuren",
+   "distractors": [
+    "Rote Blutkörperchen",
+    "Fettzellen",
+    "Zahnschmelz"
+   ],
+   "aha": "Während du wach bist, verlieren diese Stoffe da und dort Teile. Im Tiefschlaf werden sie wieder zusammengebaut.",
+   "quote_clean": "Wir regenerieren im Tiefschlaf Proteine und Aminosäuren. Unser Körper braucht die, damit er funktioniert, und die werden abgebaut,",
+   "quality": 2
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Beleg bei 313-320 s stimmt (Holzinger bildhaft); Aha mit 'erst seit Kurzem' und Putz-Floskel korrigiert, Forschungsstand 2018.",
+   "stand_note": "Stand 2018",
+   "statement": "Im Schlaf wird überflüssiges Material aus dem Gehirn abtransportiert, Holzinger spricht von einer Art Hirnputz.",
+   "question": "Womit vergleicht Brigitte Holzinger das, was im Schlaf im Gehirn passiert?",
+   "answer": "Mit einem Hirnputz",
+   "distractors": [
+    "Mit einem Festplatten-Backup",
+    "Mit einem Stromausfall",
+    "Mit einem Ölwechsel"
+   ],
+   "aha": "Was das Gehirn nicht mehr braucht, wird laut Holzinger über die Flüssigkeit rund ums Gehirn abtransportiert. Das hat man damals erst seit Kurzem gewusst, und der Vergleich mit dem Hirnputz ist ziemlich einprägsam.",
+   "quote_clean": "Und die transportiert dann das überflüssige Zeug ab. Es ist tatsächlich so, als ob man einen Hirnputz macht, wenn man schläft.",
+   "quality": 4
+  },
+  {
+   "i": 10,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 575-627 s stimmt; pauschale Aussage über Apps ist Holzingers Sicht, daher im Statement attribuiert.",
+   "stand_note": "",
+   "statement": "Laut Holzinger wecken Schlafphasen-Apps in Wahrheit nur in Momenten, in denen man ohnehin kurz aufgewacht ist.",
+   "question": "Was machen Schlafphasen-Wecker-Apps laut Brigitte Holzinger in Wahrheit?",
+   "answer": "Wecken, wenn man ohnehin kurz wach ist",
+   "distractors": [
+    "Sie messen den REM-Schlaf exakt",
+    "Sie verlängern den Tiefschlaf",
+    "Sie verkürzen die Einschlafzeit"
+   ],
+   "aha": "Weil wir mehrmals pro Stunde kurz aufwachen, ohne es zu merken, hat die App laut Holzinger genug Gelegenheiten. In so einem Moment klingelt sie oder fährt das Licht hoch, mehr könne sie nicht.",
+   "quote_clean": "Die Wahrheit ist, was sie wirklich tun: Sie wecken einen, wenn man selber aufgewacht ist.",
+   "quality": 4
+  },
+  {
+   "i": 11,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 429 s stimmt; einen schiefen Distraktor ersetzt.",
+   "stand_note": "",
+   "statement": "Im REM-Schlaf ist das Gehirn so aktiv wie im Wachzustand.",
+   "question": "Wie aktiv ist dein Gehirn im REM-Schlaf?",
+   "answer": "So aktiv wie im Wachzustand",
+   "distractors": [
+    "Fast völlig inaktiv",
+    "Nur halb so aktiv wie im Wachzustand",
+    "Nur im Sehzentrum aktiv"
+   ],
+   "aha": "REM steht für Rapid Eye Movements, also schnelle Augenbewegungen. Herzschlag und Atmung können unregelmäßig werden, wahrscheinlich passend zu dem, was du gerade träumst.",
+   "quote_clean": "Und da ist das Hirn plötzlich wieder so aktiv wie im Wachzustand.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1021-1038 s; Frage enthält die Hedge 'grob vereinfacht', Aha deckt sich mit dem Transkript.",
+   "stand_note": "",
+   "statement": "Grob vereinfacht ist der Tiefschlaf für die körperliche Regeneration zuständig, der REM-Schlaf für seelische Vorgänge.",
+   "question": "Wofür ist der REM-Schlaf grob vereinfacht vor allem zuständig?",
+   "answer": "Für seelische Vorgänge",
+   "distractors": [
+    "Für den Muskelaufbau",
+    "Für die Verdauung",
+    "Für das Immunsystem"
+   ],
+   "aha": "Zu den seelischen Vorgängen gehören Gedächtnis, Gefühle und ihre Verarbeitung, aber auch Lernen. Dass man im REM-Schlaf lernt, ist laut Brigitte heute belegt.",
+   "quote_clean": "Man könnte ganz grob vereinfacht sagen, wahrscheinlich ist der Tiefschlaf für die körperliche Regeneration zuständig, der REM-Schlaf eher für seelische Vorgänge.",
+   "quality": 3
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg bei 1393-1418 s; Holzinger formuliert vorsichtig ('offenbar', 'so kann man sich das vorstellen'), Statement entsprechend abgeschwächt.",
+   "stand_note": "",
+   "statement": "Laut Holzinger bleiben bei sitzender Tätigkeit Reste von Stresshormonen im Körper, weil sie nicht körperlich abgebaut werden, und das stört den Schlaf.",
+   "question": "Warum bleiben Stresshormone laut Brigitte Holzinger oft im Körper und stören den Schlaf?",
+   "answer": "Wir bauen sie nicht körperlich ab",
+   "distractors": [
+    "Wir trinken zu wenig Wasser",
+    "Wir schlafen zu lange",
+    "Wir essen zu wenig Eiweiß"
+   ],
+   "aha": "Adrenalin und Cortisol sind eigentlich für die Flucht vor dem Tiger gedacht. Sitzt du nur im Büro, bleiben laut Holzinger Reste übrig und erzeugen ein Hintergrundrauschen, das man Hyperarousal nennt.",
+   "quote_clean": "Aber nachdem wir körperlich eher weniger leisten, sondern eher im Sitzen, beim Sprechen und so weiter, werden die Stresshormone nicht so körperlich abgebaut, wie wenn man vor einem Tiger davonlaufen würde.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-das-Frage ohne Erkenntnisgewinn; Aha deutet den Satz zudem zu stark.",
+   "stand_note": "",
+   "statement": "Brigitte Holzinger vergleicht den Menschen mit Musik, weil mehrere Rhythmen ineinandergreifen.",
+   "question": "Wer sagt: „Ein Mensch ist wie Musik“?",
+   "answer": "Brigitte Holzinger",
+   "distractors": [
+    "Andreas Sator",
+    "Ein Hörer über WhatsApp",
+    "Ein Schlafmediziner aus Berlin"
+   ],
+   "aha": "Gemeint sind die 90-Minuten-Schlafzyklen und der 24-Stunden-Rhythmus.",
+   "quote_clean": "Ich sage immer, ein Mensch ist wie Musik. Es gibt noch einen anderen Rhythmus, der noch viel weiter ist,",
+   "quality": 2
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Wer-sagt-das-Frage mit Gast als Antwort, Distraktoren schwach; kaum Spielwert.",
+   "stand_note": "",
+   "statement": "Wer erwartet, schlecht zu schlafen, schläft oft tatsächlich schlecht, und umgekehrt.",
+   "question": "Wer sagt: „Wenn die erwarten, dass sie schlecht schlafen, schlafen sie dann schlecht“?",
+   "answer": "Brigitte Holzinger",
+   "distractors": [
+    "Andreas Sator",
+    "Christoph über WhatsApp",
+    "Niemand, das steht in einer Studie"
+   ],
+   "aha": "Da beißt sich die Katze in den Schwanz, sagt sie.",
+   "quote_clean": "Wenn die erwarten, dass sie schlecht schlafen, schlafen sie dann schlecht. Würden sie erwarten, dass sie gut schlafen, würden sie wahrscheinlich besser schlafen.",
+   "quality": 2
+  },
+  {
+   "i": 22,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Beleg bei 1491-1493 s stimmt; Frage so umgestellt, dass die Antwort eine Empfehlung ist; Aha-Zuschreibung (Schlafexperten) korrigiert, das sagte Andreas.",
+   "stand_note": "",
+   "statement": "Brigitte Holzinger findet Lesen vor dem Einschlafen in Ordnung, wenn es einem guttut.",
+   "question": "Was rät Brigitte Holzinger zum Lesen vor dem Einschlafen, wenn es dir guttut?",
+   "answer": "Beibehalten („Never change a winning team“)",
+   "distractors": [
+    "Sofort damit aufhören",
+    "Nur noch Sachbücher lesen",
+    "Höchstens fünf Minuten lesen"
+   ],
+   "aha": "Manche raten vom Lesen im Bett ab, aber viele Leute blättern zweimal um und sind schon weg. Holzinger findet es wunderbar, sich so eine eigene Welt zum Hinübergleiten zu schaffen.",
+   "quote_clean": "Ich sage: Never change a winning team. Wenn das für einen so ist, soll man es beibehalten.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Reine Gesprächs-Trivia (wie Andreas einsteigt), kein Erkenntnisgewinn.",
+   "stand_note": "",
+   "statement": "Andreas steigt mit der Frage ein, warum wir eigentlich müde werden.",
+   "question": "Mit welcher Frage steigt Andreas in die Folge übers Schlafen ein?",
+   "answer": "Warum werden wir eigentlich müde?",
+   "distractors": [
+    "Wie viele Stunden schläfst du?",
+    "Was hast du heute geträumt?",
+    "Schnarchst du eigentlich?"
+   ],
+   "aha": "Bevor es ums Schlafen geht, will Andreas das Stadium davor klären.",
+   "quote_clean": "nämlich das Müdewerden. Warum werden wir eigentlich müde? Geht uns da die Energie aus?",
+   "quality": 1
+  },
+  {
+   "i": 24,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Persönliche Anekdote von Andreas, kein Faktenwert; Trivia-Frage.",
+   "stand_note": "",
+   "statement": "Andreas hat in der Schulzeit vor dem Einschlafen gelernt und fühlt sich bestätigt, dass man im Schlaf lernt.",
+   "question": "Was hat Andreas in der Schule vor dem Einschlafen immer gemacht?",
+   "answer": "Den Lernstoff wiederholt",
+   "distractors": [
+    "Hörbücher gehört",
+    "Tagebuch geschrieben",
+    "Kreuzworträtsel gelöst"
+   ],
+   "aha": "Brigitte bestätigt, dass das Lernen im REM-Schlaf heute bewiesen ist.",
+   "quote_clean": "Das ist kein Mythos, weil ich das immer in der Schule gemacht habe. Ich habe vor dem Einschlafen Dinge wiederholt",
+   "quality": 2
+  }
+ ],
+ "id": "33",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

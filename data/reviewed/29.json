@@ -1,0 +1,286 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "fix",
+   "issues": [
+    "veraltet",
+    "ton"
+   ],
+   "note": "Zahl steht so im Transkript (circa 700.000); quote_clean war verstümmelt und wurde korrigiert; Zahl ist Stand 2018.",
+   "stand_note": "Stand 2018",
+   "statement": "In Österreich leben rund 700.000 Musliminnen und Muslime.",
+   "question": "Wie viele Musliminnen und Muslime leben ungefähr in Österreich?",
+   "answer": "Rund 700.000",
+   "distractors": [
+    "Rund 150.000",
+    "Rund 300.000",
+    "Rund 1,5 Millionen"
+   ],
+   "aha": "Das sind grob acht Prozent der Bevölkerung, also ungefähr jede zwölfte Person. Manche davon sind sehr religiös, viele aber auch nur auf dem Papier, sagt Andreas.",
+   "quote_clean": "700.000 von uns in Österreich sind circa Musliminnen und Muslime, manche davon sehr religiös, viele nur auf dem Papier.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Steht wörtlich so im Intro, Fakt stimmt weiterhin; als Frage einfach.",
+   "stand_note": "",
+   "statement": "Der Islam ist die zweitgrößte Religion der Welt.",
+   "question": "Welchen Platz belegt der Islam unter den größten Religionen der Welt?",
+   "answer": "Platz zwei",
+   "distractors": [
+    "Platz eins",
+    "Platz drei",
+    "Platz vier"
+   ],
+   "aha": "Nur das Christentum hat mehr Anhänger:innen. Weltweit bekennen sich rund zwei Milliarden Menschen zum Islam, Tendenz steigend.",
+   "quote_clean": "Darin widmen wir uns der zweitgrößten Religion der Welt und versuchen, sie besser zu verstehen.",
+   "quality": 2
+  },
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Zuckerfest und Opferfest belegt (Transkript: Zuckelfest = Verhörer), Distraktoren eindeutig falsch.",
+   "stand_note": "",
+   "statement": "Im Islam gibt es zwei große Feste: das Zuckerfest und das Opferfest.",
+   "question": "Welche zwei großen Feste feiern Musliminnen und Muslime?",
+   "answer": "Zuckerfest und Opferfest",
+   "distractors": [
+    "Zuckerfest und Lichterfest",
+    "Opferfest und Neujahrsfest",
+    "Fastenfest und Erntefest"
+   ],
+   "aha": "Was bei uns Weihnachten ist, sind im Islam gleich zwei Feste. Das Zuckerfest kommt direkt nach dem Ramadan, das Opferfest am Ende der Pilgerfahrt nach Mekka.",
+   "quote_clean": "Im Islam gibt es zwei große Feste, die gefeiert werden. Das eine ist das Zuckerfest,",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Mondkalender-Erklärung belegt; aha nennt vorsichtig 'ein paar Tage' statt Gözdes ungenauer 'zwei Wochen'.",
+   "stand_note": "",
+   "statement": "Der Ramadan wandert durchs Jahr, weil sich der Islam nach dem kürzeren Mondjahr richtet.",
+   "question": "Warum fällt der Ramadan jedes Jahr auf einen anderen Zeitpunkt?",
+   "answer": "Er richtet sich nach dem Mondkalender",
+   "distractors": [
+    "Er wird jedes Jahr neu ausgelost",
+    "Er richtet sich nach der Weizenernte",
+    "Er folgt dem chinesischen Kalender"
+   ],
+   "aha": "Das Mondjahr ist ein paar Tage kürzer als unser Sonnenjahr, also rutscht der Ramadan jedes Jahr ein Stück nach vorn. Deshalb fastet man über die Jahre einmal im Sommer und irgendwann im Winter.",
+   "quote_clean": "Im Islam geht man nach dem Mondkalender. Und das Mondjahr ist natürlich kürzer als das Sonnenjahr.",
+   "quality": 4
+  },
+  {
+   "i": 4,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 234 s; Frage einfach, aber korrekt.",
+   "stand_note": "",
+   "statement": "Im Ramadan wird von Sonnenaufgang bis Sonnenuntergang gefastet, viele essen vorher noch eine Kleinigkeit.",
+   "question": "Von wann bis wann wird im Ramadan gefastet?",
+   "answer": "Von Sonnenaufgang bis Sonnenuntergang",
+   "distractors": [
+    "Von Mitternacht bis Mittag",
+    "Von Mittag bis Mitternacht",
+    "Rund um die Uhr, drei Tage lang"
+   ],
+   "aha": "Und zwar streng: kein Essen und auch kein Wasser. Viele Familien stehen deshalb vor Sonnenaufgang auf, essen schnell etwas, beten das Morgengebet und legen sich dann wieder hin.",
+   "quote_clean": "Man fastet von Sonnenaufgang bis Sonnenuntergang. Und viele Familien stehen noch kurz vor dem Sonnenaufgang auf",
+   "quality": 2
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "transkription"
+   ],
+   "note": "Gözdes 21:30 ist eine ungefähre Erinnerung; Sonnenuntergang in Wien liegt auch zur Sonnenwende bei ca. 20:55, die Zahl ist als Fakt nicht belastbar.",
+   "stand_note": "",
+   "statement": "Fällt der Ramadan in den Hochsommer, ist das Fastenbrechen in Österreich erst gegen 21:30 Uhr.",
+   "question": "Um wie viel Uhr ist im Hochsommer in Österreich ungefähr das Fastenbrechen?",
+   "answer": "Gegen 21:30 Uhr",
+   "distractors": [
+    "Gegen 18:00 Uhr",
+    "Gegen 19:30 Uhr",
+    "Gegen 23:00 Uhr"
+   ],
+   "aha": "",
+   "quote_clean": "Um ungefähr halb zehn ist dann schon das Fastenbrechen.",
+   "quality": 1
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "kontext"
+   ],
+   "note": "Transkript sagt nur 'Deutschland, weiter nördlich'; 'Norddeutschland' und 'Wien' waren hineininterpretiert. Frage allgemeiner gefasst.",
+   "stand_note": "",
+   "statement": "Im Sommer ist das Fastenbrechen weiter im Norden später, weil die Sonne dort später untergeht.",
+   "question": "Warum fällt das Fastenbrechen im Sommer weiter im Norden später aus?",
+   "answer": "Die Sonne geht dort später unter",
+   "distractors": [
+    "Dort gilt eine andere Rechtsschule",
+    "Dort wird ein anderer Kalender verwendet",
+    "Dort fasten Familien freiwillig länger"
+   ],
+   "aha": "Gözdes Schwester lebt in Deutschland, und dort war das Fastenbrechen etwas später als bei ihr. Im Sommer sind die Tage weiter nördlich länger, also dauert auch der Fastentag länger.",
+   "quote_clean": "Meine Schwester wohnt in Deutschland. Bei ihnen war es etwas später, weil sie weiter nördlich sind.",
+   "quality": 2
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "'Vor allem' überhöht Gözdes persönliche Deutung zur allgemeinen religiösen Lehre; Frage auf ihre Aussage bezogen.",
+   "stand_note": "",
+   "statement": "Laut Gözde soll das Fasten im Ramadan Dankbarkeit wecken: Wer fastet, schätzt Essen und Wasser umso mehr und denkt an Menschen, die zu wenig haben.",
+   "question": "Was soll das Fasten im Ramadan laut Gözde bewirken?",
+   "answer": "Dankbarkeit und Mitgefühl",
+   "distractors": [
+    "Gewichtsverlust",
+    "Buße für Sünden der Eltern",
+    "Vorbereitung auf den Winter"
+   ],
+   "aha": "Wenn du einen ganzen Tag nichts trinkst, ist das erste Glas Wasser am Abend ziemlich viel wert. Genau das ist der Punkt: an die denken, für die das nicht selbstverständlich ist.",
+   "quote_clean": "Dadurch, dass man nichts essen und nichts trinken darf, schätzt man umso mehr das Wasser und das Essen auf dem Tisch.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Fünf Säulen belegt (989 s), Aufzählung im aha stimmt.",
+   "stand_note": "",
+   "statement": "Die Pilgerfahrt nach Mekka, die Hadsch, ist eine der fünf Säulen des Islam.",
+   "question": "Aus wie vielen Säulen besteht der Islam, zu denen auch die Pilgerfahrt nach Mekka gehört?",
+   "answer": "Fünf",
+   "distractors": [
+    "Drei",
+    "Sieben",
+    "Zehn"
+   ],
+   "aha": "Neben der Hadsch gehören Glaubensbekenntnis, Gebet, Fasten im Ramadan und die Armenabgabe dazu. Am Ende der Pilgerfahrt steht übrigens das Opferfest.",
+   "quote_clean": "Die Pilgerfahrt ist eine der fünf Säulen des Islams. Da müssen Muslime und Musliminnen nach Mekka reisen",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Antwort fünfmal belegt; die Schlusszeile im aha ('Fasten tun mehr als beten') steht nicht im Ausschnitt und wurde entfernt.",
+   "stand_note": "",
+   "statement": "Vorgeschrieben ist im Islam, fünfmal am Tag zu beten.",
+   "question": "Wie oft am Tag ist das Gebet im Islam vorgeschrieben?",
+   "answer": "Fünfmal",
+   "distractors": [
+    "Dreimal",
+    "Siebenmal",
+    "Zweimal"
+   ],
+   "aha": "Gözde erzählt, dass es auch Rechtsschulen gibt, in denen man dreimal betet. Und wer arbeitet oder auf Reisen ist, darf Gebete zusammenlegen.",
+   "quote_clean": "Vorgeschrieben ist, dass man fünfmal am Tag betet. Es gibt natürlich auch andere Rechtsschulen, in denen man dreimal am Tag betet.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness"
+   ],
+   "note": "Wer-sagt-das-Frage mit Gast als Antwort ist trivial; Distraktoren sind Personen aus anderen Folgen; heikles Thema ohne Spielwert.",
+   "stand_note": "",
+   "statement": "Ob man ein Kopftuch trägt, hängt laut Gözde Taskaya stark von der eigenen spirituellen Phase ab.",
+   "question": "Wer sagt im Podcast: Ob man Kopftuch trägt, hängt von der spirituellen Phase ab?",
+   "answer": "Gözde Taskaya",
+   "distractors": [
+    "Andreas Sator",
+    "Mouhanad Khorchide",
+    "Thomas Schmidinger"
+   ],
+   "aha": "",
+   "quote_clean": "Ob man ein Kopftuch trägt oder nicht, hat sehr viel damit zu tun, in welcher spirituellen Phase man gerade ist.",
+   "quality": 1
+  },
+  {
+   "i": 18,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "fairness",
+    "kontext"
+   ],
+   "note": "Triviale Zuordnung zum Gast; 'kein Zwang im Islam' ist eine umstrittene Selbstaussage, die als Spielfakt einseitig wirkt.",
+   "stand_note": "",
+   "statement": "Gözde Taskaya betont, dass es im Islam keinen Zwang gibt.",
+   "question": "Wer sagt im Podcast: Im Islam gibt es absolut gar keinen Zwang?",
+   "answer": "Gözde Taskaya",
+   "distractors": [
+    "Andreas Sator",
+    "Mouhanad Khorchide",
+    "Thomas Schmidinger"
+   ],
+   "aha": "",
+   "quote_clean": "Und natürlich gibt es im Islam absolut keinen Zwang. Man ist nicht gezwungen zu beten, man ist nicht gezwungen zu fasten,",
+   "quality": 1
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Anekdote belegt (1047 s); aha enthielt eigene Zusatzdeutung, jetzt näher an Gözdes Erzählung.",
+   "stand_note": "",
+   "statement": "Nach der Pilgerfahrt nach Mekka waren Gözdes Eltern so ruhig und entspannt, dass sie den Kindern alles erlaubten.",
+   "question": "Was fiel Gözde an ihren Eltern auf, als sie von der Pilgerfahrt zurückkamen?",
+   "answer": "Sie erlaubten den Kindern alles",
+   "distractors": [
+    "Sie redeten nur noch Arabisch",
+    "Sie wollten sofort wieder hin",
+    "Sie aßen kein Fleisch mehr"
+   ],
+   "aha": "Gözdes Eltern erzählten, Mekka sei trotz Millionen Menschen ein total schöner, spiritueller Ort. Zurück zu Hause waren sie ruhig und leise, und für die Kinder offenbar sehr großzügig.",
+   "quote_clean": "Und das hat man auch gemerkt, als meine Eltern zurückgekommen sind. Die waren dann sehr ruhig, leise und haben uns alles erlaubt.",
+   "quality": 3
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Originalwortlaut ist 'verstehen sollst'; Antwort und Distraktoren grammatisch angepasst.",
+   "stand_note": "",
+   "statement": "Andreas begrüßt seine Hörer:innen mit dem Versprechen, die Welt jede Woche ein bisschen besser zu verstehen.",
+   "question": "Wie geht der Satz weiter: Erklär mir die Welt, der Podcast, mit dem du die Welt …?",
+   "answer": "jede Woche ein bisschen besser verstehen sollst",
+   "distractors": [
+    "endlich ganz verstehen sollst",
+    "jeden Tag neu entdecken sollst",
+    "in zehn Minuten erklärt bekommen sollst"
+   ],
+   "aha": "So fing das 2018 an, mitten in der ersten Serie Erklär mir den Islam. Bescheiden formuliert: ein bisschen besser, nicht gleich alles.",
+   "quote_clean": "Hallo, ich bin der Andreas und das ist Erklär mir die Welt, der Podcast, mit dem du die Welt jede Woche ein bisschen besser verstehen sollst.",
+   "quality": 2
+  }
+ ],
+ "id": "29",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

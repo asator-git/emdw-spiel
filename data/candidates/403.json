@@ -1,0 +1,736 @@
+{
+ "theme": "Wissenschaft & Technik",
+ "summary": "Wie bohrt man ein Loch durch einen Berg, und wohin mit dem ganzen Gestein? Ingenieur Konrad Bergmeister erklärt, warum man Tunnel nur mit dem Berg baut.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1473,
+   "speaker": "Konrad Bergmeister",
+   "quote": "auch im modernen Tunnelbau mit Tunnelbohrmaschinen, wo man mit sozusagen verschiedensten Methoden des maschinellen Tunnelvortriebes heute über 60 Meter am Tag ausbrechen kann,",
+   "quote_clean": "auch im modernen Tunnelbau mit Tunnelbohrmaschinen, wo man mit verschiedensten Methoden des maschinellen Tunnelvortriebs heute über 60 Meter am Tag ausbrechen kann,",
+   "statement": "Moderne Tunnelbohrmaschinen können heute über 60 Meter Tunnel pro Tag ausbrechen.",
+   "question": "Wie viele Meter Tunnel schafft eine moderne Tunnelbohrmaschine heute an einem Tag?",
+   "answer": "Über 60 Meter",
+   "distractors": [
+    "Etwa 5 Meter",
+    "Etwa 15 Meter",
+    "Über 500 Meter"
+   ],
+   "number_value": 60,
+   "number_unit": "Meter pro Tag",
+   "slider_min": 1,
+   "slider_max": 1000,
+   "log_scale": true,
+   "aha": "Bei einem 60 Kilometer langen Tunnel wären das rein rechnerisch nur ein paar Jahre. In der Praxis bremsen Geologie, Wasser und Überraschungen im Gestein. Selbst die Maschinenführer horchen deshalb ständig auf die Antwort des Gebirges.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Tunnelbohrmaschine",
+    "Bau"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1310,
+   "speaker": "Konrad Bergmeister",
+   "quote": "bis herüber zum Brenner, dem Brennerbasistunnel mit 64 Kilometer und hier eben den Semmering",
+   "quote_clean": "bis herüber zum Brenner, dem Brenner-Basistunnel mit 64 Kilometern, und hier eben den Semmering",
+   "statement": "Der Brenner-Basistunnel zwischen Österreich und Italien wird mit Umfahrung rund 64 Kilometer lang.",
+   "question": "Wie viele Kilometer lang wird der Brenner-Basistunnel?",
+   "answer": "Rund 64 Kilometer",
+   "distractors": [
+    "Rund 18 Kilometer",
+    "Rund 35 Kilometer",
+    "Rund 120 Kilometer"
+   ],
+   "number_value": 64,
+   "number_unit": "Kilometer",
+   "slider_min": 5,
+   "slider_max": 150,
+   "log_scale": false,
+   "aha": "Damit wird er zur längsten unterirdischen Eisenbahnverbindung der Welt. Er reiht sich in die großen Alpen-Basistunnel ein, wie den Gotthard mit 57 Kilometern. Ideen dafür gab es schon im 19. Jahrhundert, gebaut wird erst jetzt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Brenner",
+    "Bahn"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2595,
+   "speaker": "Konrad Bergmeister",
+   "quote": "Das bedeutet, ich habe etwa bei einem Meter Vortrieb etwa 100 Kubikmeter an Material, das ich abtransportieren muss.",
+   "quote_clean": "Das bedeutet, ich habe bei einem Meter Vortrieb etwa 100 Kubikmeter an Material, das ich abtransportieren muss.",
+   "statement": "Pro Meter Eisenbahntunnel fallen etwa 100 Kubikmeter Ausbruchmaterial an.",
+   "question": "Wie viele Kubikmeter Material muss man pro Meter Eisenbahntunnel ungefähr abtransportieren?",
+   "answer": "Etwa 100 Kubikmeter",
+   "distractors": [
+    "Etwa 10 Kubikmeter",
+    "Etwa 30 Kubikmeter",
+    "Etwa 1000 Kubikmeter"
+   ],
+   "number_value": 100,
+   "number_unit": "Kubikmeter",
+   "slider_min": 1,
+   "slider_max": 2000,
+   "log_scale": true,
+   "aha": "Ein Bahntunnel hat außen rund 9,5 Meter Durchmesser, das sind 70 bis 80 Quadratmeter Querschnitt. Herausgelöst lockert sich das Gestein noch um 10 bis 15 Prozent auf. So wird aus jedem Meter Tunnel ein ganzer Berg Schotter.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ausbruchmaterial",
+    "Bau"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2669,
+   "speaker": "Konrad Bergmeister",
+   "quote": "dass man bei den derzeit im Bau befindlichen Basistunnels eine Wiederverwertungsrate über 40% hat, wo das Material dann vom Berg heraus wiederverwendet wird.",
+   "quote_clean": "dass man bei den derzeit im Bau befindlichen Basistunneln eine Wiederverwertungsrate von über 40 Prozent hat, wo das Material aus dem Berg wiederverwendet wird.",
+   "statement": "Bei den derzeit gebauten Basistunneln werden über 40 Prozent des Ausbruchmaterials wiederverwertet.",
+   "question": "Wie viel Prozent des Ausbruchmaterials werden bei aktuellen Basistunneln wiederverwertet?",
+   "answer": "Über 40 Prozent",
+   "distractors": [
+    "Unter 5 Prozent",
+    "Etwa 15 Prozent",
+    "Über 90 Prozent"
+   ],
+   "number_value": 40,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Das Gestein wird gebrochen, gesiebt und als Gesteinskörnung für Beton verwendet, oft gleich im selben Tunnel. Der Berg liefert also einen Teil seiner eigenen Auskleidung. Wie viel geht, hängt stark von der Mineralogie ab.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Recycling",
+    "Kreislaufwirtschaft"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3343,
+   "speaker": "Konrad Bergmeister",
+   "quote": "denn wenn ich im Berg 100 Meter nach unten gehe, nimmt normalerweise die Temperatur um 2 bis 3 Grad zu.",
+   "quote_clean": "Denn wenn ich im Berg 100 Meter nach unten gehe, nimmt die Temperatur normalerweise um 2 bis 3 Grad zu.",
+   "statement": "Pro 100 Meter Tiefe im Berg steigt die Temperatur normalerweise um 2 bis 3 Grad.",
+   "question": "Um wie viel Grad steigt die Temperatur im Berg ungefähr pro 100 Meter Tiefe?",
+   "answer": "Um 2 bis 3 Grad",
+   "distractors": [
+    "Um 0,1 Grad",
+    "Um 10 bis 12 Grad",
+    "Um 20 Grad"
+   ],
+   "number_value": 2.5,
+   "number_unit": "Grad pro 100 Meter",
+   "slider_min": 0,
+   "slider_max": 12,
+   "log_scale": false,
+   "aha": "In tiefen Tunneln kann es deshalb über 30 Grad haben. Darum wird rund um die Uhr kalte Frischluft über Lutten, also große Rohre, hineingeblasen. Sonst wäre das für die Mineure kaum auszuhalten.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erdwärme",
+    "Tunnelbau"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3691,
+   "speaker": "Konrad Bergmeister",
+   "quote": "Eine Tunnelbohrmaschine hat eine Länge von etwa 200 bis 300 Metern. Vorne ist der Fräskopf, der rotiert,",
+   "quote_clean": "Eine Tunnelbohrmaschine hat eine Länge von etwa 200 bis 300 Metern. Vorne ist der Fräskopf, der rotiert,",
+   "statement": "Eine Tunnelbohrmaschine ist etwa 200 bis 300 Meter lang.",
+   "question": "Wie lang ist eine Tunnelbohrmaschine ungefähr?",
+   "answer": "Etwa 200 bis 300 Meter",
+   "distractors": [
+    "Etwa 10 bis 20 Meter",
+    "Etwa 40 bis 60 Meter",
+    "Etwa 1 bis 2 Kilometer"
+   ],
+   "number_value": 250,
+   "number_unit": "Meter",
+   "slider_min": 5,
+   "slider_max": 2000,
+   "log_scale": true,
+   "aha": "Vorne dreht sich der Fräskopf, dahinter drücken sich riesige Gripper an die Tunnelwand, damit sich das Ganze vorwärtsschiebt. In diesem fahrenden Werk ist sogar ein Notfallcontainer für die Crew eingebaut.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Tunnelbohrmaschine",
+    "Technik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3846,
+   "speaker": "Konrad Bergmeister",
+   "quote": "Die europäischen Richtlinien sagen, ich muss alle 500 Meter so einen Querstollen haben.",
+   "quote_clean": "Die europäischen Richtlinien sagen, ich muss alle 500 Meter so einen Querstollen haben.",
+   "statement": "Laut europäischen Richtlinien braucht ein zweiröhriger Tunnel alle 500 Meter einen Querstollen als Fluchtweg.",
+   "question": "Alle wie viele Meter schreibt Europa in zweiröhrigen Tunneln einen Querstollen vor?",
+   "answer": "Alle 500 Meter",
+   "distractors": [
+    "Alle 50 Meter",
+    "Alle 2000 Meter",
+    "Alle 5000 Meter"
+   ],
+   "number_value": 500,
+   "number_unit": "Meter",
+   "slider_min": 10,
+   "slider_max": 10000,
+   "log_scale": true,
+   "aha": "Bei einem Unfall flüchtest du durch den Querstollen in die andere Röhre. Bei den großen Alpentunneln wie Gotthard und Brenner sind die Abstände sogar kürzer, etwa 325 bis 333 Meter.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sicherheit",
+    "Tunnel"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3993,
+   "speaker": "Konrad Bergmeister",
+   "quote": "Bei langen Basistunnels, die über 20 Kilometer lang sind, schreibt Europa vor, dass man alle 20 Kilometer Nothaltestellen machen muss. Das sind unterirdische Bahnhöfe im Grunde,",
+   "quote_clean": "Bei langen Basistunneln, die über 20 Kilometer lang sind, schreibt Europa vor, dass man alle 20 Kilometer Nothaltestellen machen muss. Das sind im Grunde unterirdische Bahnhöfe,",
+   "statement": "In Bahntunneln über 20 Kilometer Länge schreibt Europa alle 20 Kilometer eine unterirdische Nothaltestelle vor.",
+   "question": "Alle wie viele Kilometer muss es in langen Basistunneln eine Nothaltestelle geben?",
+   "answer": "Alle 20 Kilometer",
+   "distractors": [
+    "Alle 2 Kilometer",
+    "Alle 5 Kilometer",
+    "Alle 50 Kilometer"
+   ],
+   "number_value": 20,
+   "number_unit": "Kilometer",
+   "slider_min": 1,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Ein brennender Zug fährt bis zur Nothaltestelle weiter, dort steigen alle in einen sicheren Raum mit Frischluft aus. Da haben vier-, fünfhundert Leute Platz. Abgeholt wird man von einem Zug aus der Gegenröhre.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Sicherheit",
+    "Bahn"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3572,
+   "speaker": "Andreas Sator",
+   "quote": "1999 im Mont Blanc Tunnel, glaube ich 39 Tote nach einem Lkw-Unfall.",
+   "quote_clean": "1999 im Mont-Blanc-Tunnel, ich glaube 39 Tote nach einem Lkw-Unfall.",
+   "statement": "Beim Brand im Mont-Blanc-Tunnel 1999 nach einem Lkw-Unfall starben 39 Menschen.",
+   "question": "Wie viele Menschen starben 1999 beim Lkw-Brand im Mont-Blanc-Tunnel?",
+   "answer": "39 Menschen",
+   "distractors": [
+    "7 Menschen",
+    "15 Menschen",
+    "120 Menschen"
+   ],
+   "number_value": 39,
+   "number_unit": "Tote",
+   "slider_min": 1,
+   "slider_max": 150,
+   "log_scale": false,
+   "aha": "Lokal entstanden über 1000 Grad, Teile der Innenschale brachen herunter. Getötet hat aber vor allem der Rauch. Seither setzt man auf zwei Röhren, Querstollen, Ventilation und Wassernebel-Anlagen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Mont Blanc",
+    "Unglück"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 4574,
+   "speaker": "Konrad Bergmeister",
+   "quote": "50% mehr Kosten als Risikovorsorge habe, habe ich sie beim Einreichprojekt, Genehmigungsprojekt wahrscheinlich in einer Größenordnung noch von 30% und beim Ausführungsprojekt von 15%,",
+   "quote_clean": "50 Prozent mehr Kosten als Risikovorsorge habe, habe ich sie beim Einreich- oder Genehmigungsprojekt wahrscheinlich noch in einer Größenordnung von 30 Prozent und beim Ausführungsprojekt von 15 Prozent,",
+   "statement": "Im Vorprojekt eines Tunnels rechnet man rund 50 Prozent Risikovorsorge auf die Kosten auf, später nur noch 30 und dann 15 Prozent.",
+   "question": "Wie viel Prozent Risikovorsorge schlägt man im frühen Vorprojekt eines Tunnels auf die Kosten auf?",
+   "answer": "Rund 50 Prozent",
+   "distractors": [
+    "Rund 5 Prozent",
+    "Rund 15 Prozent",
+    "Rund 200 Prozent"
+   ],
+   "number_value": 50,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 200,
+   "log_scale": false,
+   "aha": "Am Anfang weiß man nur ansatzweise, was im Berg wartet. Mit jeder Planungsphase werden Risiken zu echten, bekannten Kosten. Deshalb schrumpft der Puffer von 50 über 30 auf 15 Prozent.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Kosten",
+    "Risiko"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4120,
+   "speaker": "Konrad Bergmeister",
+   "quote": "bei Tunnel-Unfällen mit Brand ist nicht oder im Normalfall nicht die hohe Temperatur das Problem, sondern die Menschen sterben früher durch den Rauch und die sehr starken Rauchgase,",
+   "quote_clean": "Bei Tunnelunfällen mit Brand ist im Normalfall nicht die hohe Temperatur das Problem, sondern die Menschen sterben früher durch den Rauch und die sehr starken Rauchgase,",
+   "statement": "Bei Tunnelbränden sterben Menschen meist nicht an der Hitze, sondern früher am Rauch und an den Rauchgasen.",
+   "question": "Woran sterben Menschen bei einem Tunnelbrand meistens?",
+   "answer": "Am Rauch und den Rauchgasen",
+   "distractors": [
+    "An der großen Hitze",
+    "An herabstürzendem Gestein",
+    "Am Sauerstoffmangel durch Löschgas"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wird der Rauch nicht abgezogen, erstickt man innerhalb von etwa fünf Minuten. Darum ist Selbstrettung das oberste Prinzip: raus in den nächsten Querstollen, bevor die Feuerwehr überhaupt da ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Brand",
+    "Sicherheit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1793,
+   "speaker": "Konrad Bergmeister",
+   "quote": "da haben wir in etwa von der Tunnels vergehen doch zwischen 30 und 45 Jahren.",
+   "quote_clean": "Da vergehen bei Tunneln doch zwischen 30 und 45 Jahren.",
+   "statement": "Von der Planung bis zur Fertigstellung eines großen Basistunnels vergehen 30 bis 45 Jahre.",
+   "question": "Wie lange dauert es ungefähr von der Planung bis zur Fertigstellung eines großen Basistunnels?",
+   "answer": "30 bis 45 Jahre",
+   "distractors": [
+    "3 bis 5 Jahre",
+    "8 bis 12 Jahre",
+    "80 bis 100 Jahre"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Lange Planung, lange Genehmigung, lange Bauzeit: Das dauert über eine Generation. Man baut also für eine Welt, von der man nicht genau weiß, wie sie ausschauen wird.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Planung",
+    "Infrastruktur"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2460,
+   "speaker": "Konrad Bergmeister",
+   "quote": "Da gibt es auch diesen Spruch, vor der Hacke ist der Berg dunkel, das heißt, man weiß einfach nicht, was einem hier erwartet.",
+   "quote_clean": "Da gibt es auch diesen Spruch: Vor der Hacke ist der Berg dunkel. Das heißt, man weiß einfach nicht, was einen erwartet.",
+   "statement": "Der Tunnelbauer-Spruch „Vor der Hacke ist der Berg dunkel“ bedeutet, dass man nie genau weiß, was im Berg wartet.",
+   "question": "Was bedeutet der Bergmanns-Spruch „Vor der Hacke ist der Berg dunkel“?",
+   "answer": "Man weiß nie, was kommt",
+   "distractors": [
+    "Im Tunnel braucht man Licht",
+    "Nachtarbeit ist verboten",
+    "Der Berg schläft nachts"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Beim Brenner brachen in horizontal liegenden Gesteinsplatten plötzlich metergroße Blöcke herunter, über 20 Meter hoch brach es nach. Vorhergesagt hatte das niemand. Da tasten auch Fachleute fast im Dunkeln.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Bergbau",
+    "Risiko"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3396,
+   "speaker": "Konrad Bergmeister",
+   "quote": "Der Mineur und die Mineurin ist im Endeffekt der Tunnelbauarbeiter, das nennt man die Mineure.",
+   "quote_clean": "Der Mineur und die Mineurin sind im Endeffekt die Tunnelbauarbeiter, das nennt man die Mineure.",
+   "statement": "Tunnelbauarbeiter:innen werden Mineure genannt.",
+   "question": "Wie nennt man Tunnelbauarbeiter:innen im Fachjargon?",
+   "answer": "Mineure",
+   "distractors": [
+    "Stollner",
+    "Kumpel",
+    "Tunneliere"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Österreich, der Schweiz und Norditalien gibt es Dörfer, aus denen seit Generationen Mineure kommen. Die ziehen von Baustelle zu Baustelle und horchen nach jeder Sprengung genau, wie sich der Berg bewegt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Beruf",
+    "Tunnelbau"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3000,
+   "speaker": "Konrad Bergmeister",
+   "quote": "Wir haben in Österreich hier die 15 Kilowolt 16 Zweidrittelherz, europäisch hat man hier die 25 Kilowolt 50 Hertz, es gibt dann noch in Italien die 3 Kilowolt Gleichstrom Loks,",
+   "quote_clean": "Wir haben in Österreich 15 Kilovolt mit 16 2/3 Hertz, europäisch hat man 25 Kilovolt mit 50 Hertz, und in Italien gibt es noch die 3-Kilovolt-Gleichstrom-Loks,",
+   "statement": "Bahnen in Europa fahren mit unterschiedlichen Stromsystemen, etwa Österreich mit 15 Kilovolt und 16 2/3 Hertz, Italien teils mit 3 Kilovolt Gleichstrom.",
+   "question": "Warum brauchen Züge für Fahrten etwa von Österreich nach Italien spezielle Lokomotiven?",
+   "answer": "Wegen unterschiedlicher Bahnstromsysteme",
+   "distractors": [
+    "Wegen unterschiedlicher Spurweiten",
+    "Wegen Tempolimits in Tunneln",
+    "Wegen anderer Signalfarben"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Österreich fährt mit 15 Kilovolt und 16 2/3 Hertz, vieles in Europa mit 25 Kilovolt und 50 Hertz, Italiens Bestandsstrecken mit 3 Kilovolt Gleichstrom. Grenzüberschreitende Loks müssen also mehrsprachig sein, elektrisch gesehen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Bahn",
+    "Strom"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3740,
+   "speaker": "Konrad Bergmeister",
+   "quote": "Diese Tunnelbohrmaschinen werden aber dann, wenn sie ihren Auftrag für einen Tunnel erfüllt haben, abgebaut und die Teile werden wiederverwendet.",
+   "quote_clean": "Diese Tunnelbohrmaschinen werden, wenn sie ihren Auftrag für einen Tunnel erfüllt haben, abgebaut und die Teile werden wiederverwendet.",
+   "statement": "Tunnelbohrmaschinen werden nach ihrem Einsatz zerlegt und ihre Teile großteils wiederverwendet.",
+   "question": "Was passiert mit einer Tunnelbohrmaschine, wenn der Tunnel fertig ist?",
+   "answer": "Sie wird zerlegt und wiederverwendet",
+   "distractors": [
+    "Sie bleibt im Berg eingemauert",
+    "Sie wird komplett verschrottet",
+    "Sie kommt ins Museum"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "So eine Maschine kostet mehrere Millionen bis zu 10, 20 Millionen. Darum wird sie im Tunnel aufgebaut, danach wieder abgebaut und funktionstüchtig gemacht. Sie hat also einen Wiederverkaufswert.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Tunnelbohrmaschine",
+    "Recycling"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 542,
+   "speaker": "Konrad Bergmeister",
+   "quote": "Denken wir nur an ein Ei. Ein Ei hat eine ganz dünne Schale. Und wenn ich jetzt versuche, dieses Ei zu zerdrücken, dann brauche ich eine irrsinnig große Kraft, wenn ich sie gleichmäßig außen aufbringe. Und so funktioniert der Tunnel.",
+   "quote_clean": "Denken wir an ein Ei. Ein Ei hat eine ganz dünne Schale. Wenn ich versuche, dieses Ei zu zerdrücken, brauche ich eine irrsinnig große Kraft, wenn ich sie gleichmäßig von außen aufbringe. Und so funktioniert der Tunnel.",
+   "statement": "Ein runder Tunnel trägt wie eine Eierschale: Gleichmäßiger Druck von außen erzeugt nur Druckkräfte, die das Gebirge gut aufnehmen kann.",
+   "question": "Mit welchem Alltagsgegenstand erklärt Konrad Bergmeister, warum ein runder Tunnel hält?",
+   "answer": "Mit einem Ei",
+   "distractors": [
+    "Mit einem Luftballon",
+    "Mit einer Konservendose",
+    "Mit einem Fahrradreifen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Drückst du ein Ei gleichmäßig rundherum, brauchst du irrsinnig viel Kraft, obwohl die Schale hauchdünn ist. Die kreisrunde Schale ist das wohl beste Flächentragwerk der Natur. Genau deshalb sind Tunnel rund.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Statik",
+    "Physik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 706,
+   "speaker": "Konrad Bergmeister",
+   "quote": "Und das ist die österreichische Tunnelbauweise. Man wartet also ab, bis sich das Gebirge wieder so lange verformt hat, dass es einen Gleichgewichtszustand wieder hat und alleine ohne Stützkräfte stehen bleibt.",
+   "quote_clean": "Und das ist die österreichische Tunnelbauweise. Man wartet also ab, bis sich das Gebirge so lange verformt hat, dass es wieder einen Gleichgewichtszustand hat und allein ohne Stützkräfte stehen bleibt.",
+   "statement": "Bei der Neuen Österreichischen Tunnelbauweise lässt man das Gebirge sich verformen, bis es von selbst ein neues Gleichgewicht findet.",
+   "question": "Was ist der Grundgedanke der österreichischen Tunnelbauweise?",
+   "answer": "Warten, bis der Berg Gleichgewicht findet",
+   "distractors": [
+    "Den Berg komplett einbetonieren",
+    "Möglichst schnell durchsprengen",
+    "Den Berg vorher einfrieren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Loch stört den Fels, und der sucht sich durch kleine Verschiebungen ein neues Gleichgewicht. Entwickelt haben das Leopold Müller, Ladislaus von Rabcewicz und Franz Pacher. Weil man oft nicht ewig warten kann, hilft man mit Spritzbeton und Ankern nach.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Tunnelbauweise",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 4521,
+   "speaker": "Konrad Bergmeister",
+   "quote": "Aber das sind nicht Mehrkosten, das ist eine reine statistisch belegbare Inflationsanpassung, eine Steigerung der wirtschaftlichen und der Lebenshaltungskosten und die hat halt auch eine Auswirkung auf die Tunnelkosten.",
+   "quote_clean": "Aber das sind keine Mehrkosten, das ist eine rein statistisch belegbare Inflationsanpassung, eine Steigerung der wirtschaftlichen und der Lebenshaltungskosten, und die hat auch eine Auswirkung auf die Tunnelkosten.",
+   "statement": "Ein großer Teil der scheinbaren Kostensteigerungen bei Tunneln ist laut Konrad Bergmeister reine Inflationsanpassung über die lange Projektdauer.",
+   "question": "Was steckt laut Konrad Bergmeister oft hinter scheinbar explodierenden Tunnelkosten?",
+   "answer": "Inflationsanpassung über viele Jahre",
+   "distractors": [
+    "Hauptsächlich Korruption",
+    "Vor allem teurere Maschinen",
+    "Fehler beim Betonmischen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ein Projekt, das vor 20 Jahren geplant wurde, kann sich so bis zur Umsetzung verdoppeln, ohne dass irgendwer etwas dazugebaut hat. Darum plädiert er dafür, Kosten jährlich zu aktualisieren und immer dazuzusagen, auf welches Jahr sie sich beziehen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kosten",
+    "Inflation"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1438,
+   "speaker": "Konrad Bergmeister",
+   "quote": "Das Gebirge ist sozusagen das Ingenieurbauwerk. Nicht das, was wir hineinbauen, sondern das Gebirge selber bildet hier diese Tragstruktur ab. Und wir veredelten nur die Öffnung,",
+   "quote_clean": "Das Gebirge ist sozusagen das Ingenieurbauwerk. Nicht das, was wir hineinbauen, sondern das Gebirge selbst bildet diese Tragstruktur. Und wir veredeln nur die Öffnung,",
+   "statement": "Für Konrad Bergmeister ist das Gebirge selbst das tragende Bauwerk, der Mensch veredelt nur die Öffnung.",
+   "question": "Wer sagt: „Das Gebirge ist sozusagen das Ingenieurbauwerk … wir veredeln nur die Öffnung“?",
+   "answer": "Konrad Bergmeister",
+   "distractors": [
+    "Andreas Sator",
+    "Leopold Müller",
+    "Nassim Nicholas Taleb"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Beton, Anker und Co. sorgen nur dafür, dass der Tunnel eine bestimmte Nutzungsdauer hält. Die eigentliche Arbeit macht der Berg. Andreas hat sich genau das mitgenommen: Man baut nie gegen den Berg, nur mit ihm.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Mensch und Natur",
+    "Tunnelbau"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1930,
+   "speaker": "Konrad Bergmeister",
+   "quote": "Heute würde ich einmal die Frage stellen, braucht es überhaupt eine Verbindung? Ist die notwendig? Warum?",
+   "quote_clean": "Heute würde ich einmal die Frage stellen: Braucht es überhaupt eine Verbindung? Ist die notwendig? Warum?",
+   "statement": "Konrad Bergmeister würde heute vor jedem Tunnelprojekt zuerst fragen, ob es die Verbindung überhaupt braucht.",
+   "question": "Welcher Tunnelbauer fragt heute als Erstes: „Braucht es überhaupt eine Verbindung?“",
+   "answer": "Konrad Bergmeister",
+   "distractors": [
+    "Andreas Sator",
+    "Leopold Müller",
+    "Florian Krammer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Als junger Ingenieur hätte er sofort Trassenvarianten gezeichnet. Heute will er erst wissen, was die Verbindung bringt, wem sie schadet und ob es Alternativen gibt. Man ist ja auch jahrtausendelang über den Berg gegangen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Planung",
+    "Nachhaltigkeit"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 4670,
+   "speaker": "Konrad Bergmeister",
+   "quote": "so sollte man eigentlich die Städte weiterentwickeln, in dem man sämtliche funktionale Beziehungen unterirdisch hat, damit man an der Oberfläche etwas mehr Grün und damit auch etwas mehr Lebensqualität findet.",
+   "quote_clean": "So sollte man eigentlich die Städte weiterentwickeln, indem man sämtliche funktionalen Beziehungen unterirdisch hat, damit man an der Oberfläche etwas mehr Grün und damit mehr Lebensqualität findet.",
+   "statement": "Konrad Bergmeister plädiert dafür, Verkehr und Leitungen in Städten unter die Erde zu verlegen, damit oben mehr Grün bleibt.",
+   "question": "Wer möchte Städte so weiterentwickeln, dass alle Verbindungen unterirdisch liegen und oben mehr Grün ist?",
+   "answer": "Konrad Bergmeister",
+   "distractors": [
+    "Andreas Sator",
+    "Papst Franziskus",
+    "Viktor Frankl"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Mit 8 Milliarden Menschen und immer mehr Zuzug in die Städte wird oben der Platz knapp. Straßen, Leitungen und Bahnen könnten nach unten wandern. Für den Tunnelbauer ist das die eigentliche Zukunftsfrage seines Fachs.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Stadt",
+    "Zukunft"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 4895,
+   "speaker": "Konrad Bergmeister",
+   "quote": "Mein persönliches Ziel ist, Spuren zu hinterlassen, damit die nächste Generation eine Zukunft hat. Für mich ist das das Wichtigste.",
+   "quote_clean": "Mein persönliches Ziel ist, Spuren zu hinterlassen, damit die nächste Generation eine Zukunft hat. Für mich ist das das Wichtigste.",
+   "statement": "Konrad Bergmeister sieht den Sinn seines Lebens darin, Spuren für die nächste Generation zu hinterlassen.",
+   "question": "Wer nennt als Lebensziel, „Spuren zu hinterlassen, damit die nächste Generation eine Zukunft hat“?",
+   "answer": "Konrad Bergmeister",
+   "distractors": [
+    "Andreas Sator",
+    "Viktor Frankl",
+    "Leopold Müller"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Publikationen, sagt er, sind vergänglich, nach ein paar Jahren ist das weg. Bleibender ist für ihn, jungen Menschen eine Methode mitzugeben, mit der sie das Leben besser meistern. Ein Tunnel hält übrigens auch bis zu 200 Jahre.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Lebenssinn",
+    "Generationen"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 5190,
+   "speaker": "Andreas Sator",
+   "quote": "Gibt es ein Medium, das du gerne konsumierst, ein Radiosender, TV, Sendung, eine Zeitung, um dich über die Welt zu informieren?",
+   "quote_clean": "Gibt es ein Medium, das du gerne konsumierst, einen Radiosender, eine TV-Sendung, eine Zeitung, um dich über die Welt zu informieren?",
+   "statement": "Andreas fragt seine Gäste am Ende nach Büchertipps und nach ihrem Lieblingsmedium, um sich über die Welt zu informieren.",
+   "question": "Wonach fragt Andreas seine Gäste am Ende der Folge, neben drei Büchertipps?",
+   "answer": "Nach ihrem Lieblingsmedium",
+   "distractors": [
+    "Nach ihrem Lieblingsessen",
+    "Nach ihrem größten Fehler",
+    "Nach ihrem Lieblingsurlaubsort"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Konrad liest die Zeit seit seinem 17. Lebensjahr und hört Radio Swiss Classic. Früher interessierte ihn dort die Politik, später das Wissen, heute Kunst und Kultur.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Abschlussfrage",
+    "Medien"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 4709,
+   "speaker": "Andreas Sator",
+   "quote": "und du hast ihm gesagt, es gibt keine unsympathischen Menschen und ich habe extra nicht nachgefragt, weil ich wollte dich jetzt fragen, was meinst du damit, es gibt keine unsympathischen Menschen?",
+   "quote_clean": "Und du hast ihm gesagt, es gibt keine unsympathischen Menschen. Ich habe extra nicht nachgefragt, weil ich dich jetzt fragen wollte: Was meinst du damit, es gibt keine unsympathischen Menschen?",
+   "statement": "Konrad Bergmeister sagte vor der Aufnahme, es gebe keine unsympathischen Menschen, und Andreas hob sich die Nachfrage fürs Mikrofon auf.",
+   "question": "Welchen Satz hatte Konrad im Vorgespräch gesagt, nach dem Andreas extra erst im Interview fragt?",
+   "answer": "Es gibt keine unsympathischen Menschen",
+   "distractors": [
+    "Jeder Berg hat eine Seele",
+    "Beton ist schöner als Holz",
+    "Tunnel sind wie Kathedralen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Konrad sieht in jedem Menschen etwas Positives, selbst in denen, die ihn angefeindet haben. Wer gemeinsam in einem Loch steht, sinnbildlich oder echt im Tunnel, kommt nur raus, wenn man sich die Hand gibt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Vorgespräch",
+    "Menschen"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "403",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

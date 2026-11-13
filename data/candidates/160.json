@@ -1,0 +1,736 @@
+{
+ "theme": "Gesundheit & Körper",
+ "summary": "Monika Stickler vom Roten Kreuz frischt in 25 Minuten auf, was bei Erster Hilfe zählt: drücken, rufen, lagern, und vor allem nicht weggehen.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 322,
+   "speaker": "Monika Stickler",
+   "quote": "Beide Hände auf der Mitte des Brustkorbes ungefähr 100 Mal pro Minute regelmäßig so 5 bis 6 Zentimeter hineindrücken.",
+   "quote_clean": "Beide Hände auf die Mitte des Brustkorbs, ungefähr 100 Mal pro Minute regelmäßig 5 bis 6 Zentimeter hineindrücken.",
+   "statement": "Bei der Herzdruckmassage drückt man ungefähr 100 Mal pro Minute auf die Mitte des Brustkorbs.",
+   "question": "Wie oft pro Minute solltest du bei einer Herzdruckmassage ungefähr drücken?",
+   "answer": "Ungefähr 100 Mal",
+   "distractors": [
+    "Ungefähr 30 Mal",
+    "Ungefähr 60 Mal",
+    "Ungefähr 180 Mal"
+   ],
+   "number_value": 100,
+   "number_unit": "Mal pro Minute",
+   "slider_min": 30,
+   "slider_max": 220,
+   "log_scale": false,
+   "aha": "Rund 100 Mal pro Minute, also fast zwei Mal pro Sekunde. Das ist anstrengender, als es klingt, darum wechselt man sich ab, wenn noch wer da ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Herzdruckmassage",
+    "Wiederbelebung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 325,
+   "speaker": "Monika Stickler",
+   "quote": "ungefähr 100 Mal pro Minute regelmäßig so 5 bis 6 Zentimeter hineindrücken. Brauchen mehr, ist es nicht.",
+   "quote_clean": "Ungefähr 100 Mal pro Minute regelmäßig 5 bis 6 Zentimeter hineindrücken. Mehr braucht es nicht.",
+   "statement": "Bei der Herzdruckmassage drückt man den Brustkorb 5 bis 6 Zentimeter tief hinein.",
+   "question": "Wie tief drückst du bei einer Herzdruckmassage den Brustkorb eines Erwachsenen hinein?",
+   "answer": "5 bis 6 Zentimeter",
+   "distractors": [
+    "1 bis 2 Zentimeter",
+    "2 bis 3 Zentimeter",
+    "9 bis 10 Zentimeter"
+   ],
+   "number_value": 5.5,
+   "number_unit": "Zentimeter",
+   "slider_min": 1,
+   "slider_max": 15,
+   "log_scale": false,
+   "aha": "5 bis 6 Zentimeter ist ganz schön tief, da darf man ruhig sein Körpergewicht hineinlegen. Das Herz muss ja zwischen Brustbein und Wirbelsäule zusammengedrückt werden.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Herzdruckmassage",
+    "Wiederbelebung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 473,
+   "speaker": "Andreas Sator",
+   "quote": "Und die alte Regel steht noch, 30 Mal Herzdruck, zweimal beatmen, wenn man beatmet. Korrekt.",
+   "quote_clean": "Und die alte Regel gilt noch: 30 Mal Herzdruck, zweimal beatmen, wenn man beatmet. Korrekt.",
+   "statement": "Bei der Wiederbelebung gilt: 30 Mal Herzdruckmassage, dann zweimal beatmen.",
+   "question": "Wie oft drückst du bei der Wiederbelebung auf den Brustkorb, bevor du zweimal beatmest?",
+   "answer": "30 Mal",
+   "distractors": [
+    "10 Mal",
+    "15 Mal",
+    "50 Mal"
+   ],
+   "number_value": 30,
+   "number_unit": "Mal",
+   "slider_min": 5,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "30 zu 2 ist die Regel, die Monika im Studio bestätigt. Und wer sich beim Beatmen unsicher ist, lässt es einfach weg und drückt durch.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wiederbelebung",
+    "Beatmung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 262,
+   "speaker": "Monika Stickler",
+   "quote": "Einen Notruf absetzen, also mit der 144 die Rettung rufen und dort sagen, dass halt jemand da liegt und nicht mehr atmet.",
+   "quote_clean": "Einen Notruf absetzen, also mit der 144 die Rettung rufen und dort sagen, dass jemand daliegt und nicht mehr atmet.",
+   "statement": "In Österreich erreicht man die Rettung unter der Notrufnummer 144.",
+   "question": "Welche Nummer wählst du in Österreich, um die Rettung zu rufen?",
+   "answer": "144",
+   "distractors": [
+    "133",
+    "122",
+    "141"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "144 ist die Rettung, 133 die Polizei, 122 die Feuerwehr. Wenn wer nicht atmet, ist dieser Anruf das Allererste, noch vor dem Drücken.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Notruf",
+    "Österreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 294,
+   "speaker": "Monika Stickler",
+   "quote": "In der Zwischenzeit am besten ist, du stellst dein Telefon auf Lautsprecher und legst es neben dir hin. Wenn sich die Leitstelle dann meldet, die sind so gut geschult, dass sie dich auch anleiten, was zu tun ist.",
+   "quote_clean": "Am besten stellst du dein Telefon auf Lautsprecher und legst es neben dich. Wenn sich die Leitstelle meldet: Die sind so gut geschult, dass sie dich anleiten, was zu tun ist.",
+   "statement": "Beim Notruf stellt man das Handy am besten auf Lautsprecher, weil die Leitstelle einen durch die Wiederbelebung anleitet.",
+   "question": "Was machst du laut Roter-Kreuz-Expertin am besten mit dem Handy, nachdem du 144 gewählt hast?",
+   "answer": "Auf Lautsprecher stellen und hinlegen",
+   "distractors": [
+    "Auflegen und sofort losdrücken",
+    "Einer zweiten Person zum Filmen geben",
+    "Ausschalten, damit es nicht stört"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Du musst dir nicht alles aus dem Erste-Hilfe-Kurs von vor 15 Jahren merken. Die Leitstelle sagt dir am Telefon, was zu tun ist, und mit Lautsprecher hast du beide Hände frei.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Notruf",
+    "Leitstelle"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 349,
+   "speaker": "Monika Stickler",
+   "quote": "Ja, also ich würde es nicht mit Karacho, aber man kann natürlich schon sein Gewicht da hineinlegen, weil das Herz muss zwischen der Wirbelsäule und dem Brustbein zusammen gedrückt werden.",
+   "quote_clean": "Ich würde es nicht mit Karacho machen, aber man kann natürlich sein Gewicht hineinlegen, weil das Herz zwischen der Wirbelsäule und dem Brustbein zusammengedrückt werden muss.",
+   "statement": "Bei der Herzdruckmassage wird das Herz zwischen Brustbein und Wirbelsäule zusammengedrückt, deshalb darf man sein Körpergewicht einsetzen.",
+   "question": "Warum musst du bei der Herzdruckmassage so kräftig drücken?",
+   "answer": "Herz wird zwischen Brustbein und Wirbelsäule gepresst",
+   "distractors": [
+    "Damit die Lunge sich mit Luft füllt",
+    "Um den Magen zu entleeren",
+    "Damit die Rippen das Herz massieren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Herz liegt eingeklemmt zwischen Brustbein vorne und Wirbelsäule hinten. Drückst du fest genug, pumpst du quasi von außen Blut durch den Körper. Mit Karacho muss es trotzdem nicht sein.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Herzdruckmassage",
+    "Körper"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 360,
+   "speaker": "Monika Stickler",
+   "quote": "Und selbst wenn im Falle eines Falles, wenn man drückt und es knackst, weil halt eine Rippe bricht, das ist das Problem, das wird ihn nicht töten. Aber wenn nicht gedrückt wird, dann wird er das nicht überleben.",
+   "quote_clean": "Und selbst wenn es beim Drücken knackst, weil eine Rippe bricht: Das wird ihn nicht töten. Aber wenn nicht gedrückt wird, wird er das nicht überleben.",
+   "statement": "Eine gebrochene Rippe bei der Herzdruckmassage ist kein Grund aufzuhören, ohne Drücken überlebt der Betroffene nicht.",
+   "question": "Beim Drücken knackst es, eine Rippe ist gebrochen. Was tust du?",
+   "answer": "Weiterdrücken",
+   "distractors": [
+    "Sofort aufhören",
+    "Nur noch beatmen",
+    "Person in Seitenlage drehen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Klingt furchtbar, ist aber halb so wild: Eine gebrochene Rippe heilt, ein stehendes Herz nicht. Wer nicht atmet, braucht den Druck, auch wenn es knackst.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Herzdruckmassage",
+    "Wiederbelebung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 382,
+   "speaker": "Monika Stickler",
+   "quote": "Also man muss rein und raus quasi, also hinunterdrücken die 5 Zentimeter und auch wieder ganz heraus, also entlasten, sodass das Herz halt Zeit hat, sich wieder mit Blut zu füllen",
+   "quote_clean": "Man muss rein und raus: die 5 Zentimeter hinunterdrücken und auch wieder ganz heraus, also entlasten, sodass das Herz Zeit hat, sich wieder mit Blut zu füllen.",
+   "statement": "Nach jedem Drücken muss der Brustkorb ganz entlastet werden, damit sich das Herz wieder mit Blut füllen kann.",
+   "question": "Warum musst du den Brustkorb nach jedem Drücken wieder ganz loslassen?",
+   "answer": "Damit sich das Herz mit Blut füllt",
+   "distractors": [
+    "Damit die Rippen nicht brechen",
+    "Damit du dich kurz ausrasten kannst",
+    "Damit die Person selbst einatmet"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Herz ist eine Pumpe: Beim Drücken geht Blut raus, beim Loslassen strömt neues hinein. Wer halb drinnen bleibt, pumpt ins Leere.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Herzdruckmassage",
+    "Kreislauf"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 519,
+   "speaker": "Monika Stickler",
+   "quote": "Also wenn ein Herz gar nichts mehr macht, dann wird der Defibrillator auch nichts machen. Wenn beim Herz der Rhythmus so außer Takt ist, also man spricht dann von Kammerflimmern, dann kann dieser Stromstoß von außen dazu führen,",
+   "quote_clean": "Wenn ein Herz gar nichts mehr macht, dann wird der Defibrillator auch nichts machen. Wenn beim Herz der Rhythmus außer Takt ist, man spricht dann von Kammerflimmern, dann kann dieser Stromstoß von außen helfen.",
+   "statement": "Ein Defibrillator hilft bei Kammerflimmern, also einem chaotischen Herzrhythmus, nicht aber, wenn das Herz gar nichts mehr macht.",
+   "question": "Wann kann der Stromstoß eines Defibrillators helfen?",
+   "answer": "Bei Kammerflimmern",
+   "distractors": [
+    "Bei völligem Herzstillstand ohne Aktivität",
+    "Bei einem gebrochenen Brustbein",
+    "Bei niedrigem Blutdruck"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Anders als im Fernsehen startet der Defi kein komplett stehendes Herz neu. Er bringt ein flimmerndes Herz wieder in den Takt. Ob ein Schock nötig ist, entscheidet das Gerät eh selbst.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Defibrillator",
+    "Herz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 568,
+   "speaker": "Monika Stickler",
+   "quote": "Es gibt eine Verpflichtung zur Erste-Hilfe-Leistung, aber natürlich je nachdem, was man kann und wie man drauf ist. Und es zählt auch schon das Absetzen eines Notrufs zur Erste-Hilfe-Leistung.",
+   "quote_clean": "Es gibt eine Verpflichtung zur Erste-Hilfe-Leistung, natürlich je nachdem, was man kann und wie man drauf ist. Und auch das Absetzen eines Notrufs zählt schon zur Erste-Hilfe-Leistung.",
+   "statement": "In Österreich ist man zur Ersten Hilfe verpflichtet, und schon das Absetzen eines Notrufs zählt als Erste-Hilfe-Leistung.",
+   "question": "Du siehst jemanden umkippen. Was ist rechtlich das Mindeste, das du tun musst?",
+   "answer": "Zumindest den Notruf absetzen",
+   "distractors": [
+    "Nichts, Helfen ist freiwillig",
+    "Immer selbst wiederbeleben",
+    "Nur bei Verwandten helfen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Einfach weitergehen ist strafbar. Aber niemand verlangt Heldentaten, die man nicht kann: Schon der Anruf bei 144 zählt als Erste Hilfe.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Recht",
+    "Notruf"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 669,
+   "speaker": "Monika Stickler",
+   "quote": "Wenn der Kopf in Rückenlage ist, dann fällt die Zunge nach hinten, wenn jemand bewusstlos ist. Und das kann sein, dass das die Atmung dann behindert.",
+   "quote_clean": "Wenn der Kopf in Rückenlage ist, fällt die Zunge nach hinten, wenn jemand bewusstlos ist. Und das kann die Atmung behindern.",
+   "statement": "Bewusstlose dreht man in die stabile Seitenlage, weil in Rückenlage die Zunge nach hinten fällt und die Atmung behindern kann.",
+   "question": "Warum drehst du eine bewusstlose Person, die noch atmet, auf die Seite?",
+   "answer": "Sonst kann die Zunge die Atemwege blockieren",
+   "distractors": [
+    "Damit das Herz leichter pumpt",
+    "Damit die Person nicht auskühlt",
+    "Damit die Rettung sie leichter hebt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei Bewusstlosen erschlafft die Muskulatur, und in Rückenlage rutscht die Zunge nach hinten in den Rachen. In der Seitenlage passiert das nicht so leicht, und die Atemwege bleiben frei.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Seitenlage",
+    "Atemwege"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 765,
+   "speaker": "Monika Stickler",
+   "quote": "Das heißt, alles, was Atmung betrifft, was Herzschlag betrifft, also so wie du geschildert hast, Druck in der Brust, das vielleicht ein Herzinfarkt sein könnte, den Oberkörper hoch zu geben.",
+   "quote_clean": "Das heißt, bei allem, was Atmung oder Herzschlag betrifft, wie Druck in der Brust, der vielleicht ein Herzinfarkt sein könnte: den Oberkörper hochlagern.",
+   "statement": "Bei Atemnot oder Verdacht auf Herzinfarkt lagert man den Oberkörper hoch.",
+   "question": "Jemand hat Druck in der Brust, vielleicht ein Herzinfarkt. Wie lagerst du ihn?",
+   "answer": "Mit erhöhtem Oberkörper",
+   "distractors": [
+    "Flach mit hochgelagerten Beinen",
+    "Auf dem Bauch liegend",
+    "In stabiler Seitenlage"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das macht der Körper eh von selbst: Wer schlecht Luft kriegt, setzt sich auf, weil das die Atemmuskulatur entlastet. Bei Herz und Atmung also immer Oberkörper hoch.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Lagerung",
+    "Herzinfarkt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 803,
+   "speaker": "Monika Stickler",
+   "quote": "Und nur dann, wenn es zum Beispiel ein Kollaps ist, also es wird einem so schwindelig und schummrig und man kippt einfach um, dann gibt man die Beine hoch.",
+   "quote_clean": "Und nur dann, wenn es zum Beispiel ein Kollaps ist, wenn einem schwindelig und schummrig wird und man einfach umkippt, dann gibt man die Beine hoch.",
+   "statement": "Die Beine lagert man nur bei einem Kollaps hoch, also wenn jemandem schwindlig wird und er umkippt.",
+   "question": "In welcher Situation gibst du einer Person die Beine hoch?",
+   "answer": "Bei einem Kollaps mit Schwindel",
+   "distractors": [
+    "Bei Atemnot",
+    "Bei Druck in der Brust",
+    "Bei Bauchkrämpfen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Beine hoch ist kein Allheilmittel. Es hilft, wenn der Kreislauf kurz wegsackt und das Blut zurück Richtung Kopf soll. Bei Herz- oder Atemproblemen wäre es genau falsch herum.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Lagerung",
+    "Kreislauf"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 781,
+   "speaker": "Monika Stickler",
+   "quote": "Die Lagerung, wenn es zum Beispiel im Bauch grummelt, auch das kennt man wahrscheinlich von sich selber. Man legt sich auf die Seite und zieht die Knie an. Das ist einfach, um die Bauchmuskulatur zu entlasten.",
+   "quote_clean": "Die Lagerung, wenn es zum Beispiel im Bauch grummelt, kennt man wahrscheinlich von sich selbst: Man legt sich auf die Seite und zieht die Knie an, um die Bauchmuskulatur zu entlasten.",
+   "statement": "Bei Bauchschmerzen legt man sich auf die Seite und zieht die Knie an, um die Bauchmuskulatur zu entlasten.",
+   "question": "Wie lagerst du jemanden mit starken Bauchschmerzen?",
+   "answer": "Seitlich mit angezogenen Knien",
+   "distractors": [
+    "Flach mit gestreckten Beinen",
+    "Sitzend mit erhöhtem Oberkörper",
+    "Auf dem Bauch liegend"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Angezogene Knie entspannen die Bauchdecke, das tut man instinktiv eh selbst. Liegt jemand am Rücken, hilft eine Deckenrolle unter den Knien.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Lagerung",
+    "Bauch"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1122,
+   "speaker": "Monika Stickler",
+   "quote": "Genau, das ist korrekt. Man soll diese Dinge nicht rausziehen, weil wenn man das rauszieht, quasi dann mit einer Blutung reagieren kann.",
+   "quote_clean": "Genau, das ist korrekt. Man soll diese Dinge nicht herausziehen, weil der Körper dann mit einer Blutung reagieren kann.",
+   "statement": "Steckt ein Messer oder eine Glasscherbe in einer Wunde, zieht man es nicht heraus, sondern fixiert es, weil sonst eine starke Blutung droht.",
+   "question": "In einer Wunde steckt eine Glasscherbe. Was machst du?",
+   "answer": "Drinlassen und fixieren",
+   "distractors": [
+    "Vorsichtig herausziehen",
+    "Schnell herausziehen und abdrücken",
+    "Mit Wasser herausspülen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Der Gegenstand verschließt die Wunde oft selbst ein Stück weit. Ziehst du ihn raus, kann es richtig zu bluten anfangen. Also mit Wundauflagen und Mullbinden fixieren und die Profis machen lassen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Wunden",
+    "Blutung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1167,
+   "speaker": "Monika Stickler",
+   "quote": "Also wenn man sich vorstellt, dass die Arterie, die da am Oberschenkel zum Beispiel ist, ist ungefähr so daumendick.",
+   "quote_clean": "Wenn man sich vorstellt: Die Arterie am Oberschenkel ist ungefähr daumendick.",
+   "statement": "Die große Arterie am Oberschenkel ist ungefähr daumendick, darum ist eine starke Blutung dort am besten mit Finger oder Faust abzudrücken.",
+   "question": "Wie dick ist die große Arterie im Oberschenkel ungefähr?",
+   "answer": "Ungefähr daumendick",
+   "distractors": [
+    "Ungefähr so dick wie ein Haar",
+    "Ungefähr so dick wie ein Strohhalm",
+    "Ungefähr so dick wie ein Handgelenk"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Daumendick, da geht ordentlich Blut durch. Ein Druckverband hält das kaum, deshalb rät Monika: Finger oder notfalls die Faust drauf und drücken, bis die Rettung da ist.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Blutung",
+    "Körper"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1219,
+   "speaker": "Monika Stickler",
+   "quote": "weil man hat halt so die Gewohnheit, sich zwar ein neues Auto zu kaufen, aber keine neue Autoapotheke, sondern die halt immer von einem Auto ins andere mitzunehmen und irgendwann sind diese Dinge halt nicht mehr steril,",
+   "quote_clean": "Man hat die Gewohnheit, sich zwar ein neues Auto zu kaufen, aber keine neue Autoapotheke, sondern die immer von einem Auto ins andere mitzunehmen, und irgendwann sind diese Dinge nicht mehr steril.",
+   "statement": "Viele nehmen ihre Autoapotheke von Auto zu Auto mit, bis das Material abgelaufen und nicht mehr steril ist.",
+   "question": "Was ist laut Roter-Kreuz-Expertin das häufigste Problem mit dem Verbandskasten im Auto?",
+   "answer": "Er ist abgelaufen und nicht mehr steril",
+   "distractors": [
+    "Es fehlt meistens ein Defibrillator",
+    "Er ist für Kinder ungeeignet",
+    "Er liegt meist im Kofferraum"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Auto ist neu, die Autoapotheke reist seit drei Autos mit. Der Inhalt reicht für die meisten Notfälle eh, nur ablaufen sollte er nicht. Also ab und zu reinschauen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Verbandskasten",
+    "Auto"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1433,
+   "speaker": "Monika Stickler",
+   "quote": "Also bei kleinen Kindern ist es relativ einfach. Die legt man sich quasi über die Knie und klopft da zwischen die Schulterblätter und versucht, das rauszukriegen. Bei Größeren gibt es dann das Heimlichmanöver.",
+   "quote_clean": "Bei kleinen Kindern ist es relativ einfach: Die legt man sich über die Knie und klopft zwischen die Schulterblätter, um das rauszukriegen. Bei Größeren gibt es dann das Heimlichmanöver.",
+   "statement": "Verschluckt sich ein kleines Kind, legt man es über die Knie und klopft zwischen die Schulterblätter; bei Größeren hilft das Heimlichmanöver.",
+   "question": "Ein kleines Kind hat sich verschluckt. Was machst du zuerst?",
+   "answer": "Übers Knie legen, zwischen Schulterblätter klopfen",
+   "distractors": [
+    "Mit dem Finger tief in den Rachen greifen",
+    "Ein Glas Wasser trinken lassen",
+    "Flach auf den Rücken legen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Kopf nach unten, Klopfen zwischen die Schulterblätter, dann hilft die Schwerkraft mit. Bei Größeren drückt man beim Heimlichmanöver von hinten in die Magengrube schräg nach oben. Üben kann man beides im Kurs.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kinder",
+    "Verschlucken"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 840,
+   "speaker": "Monika Stickler",
+   "quote": "Wenn man sich überlegt, dass der Rettungsdienst nicht innerhalb von ein, zwei Minuten vor Ort ist, also das ist nicht die Regel in Österreich, obwohl wir relativ schnell sind, dann kann man sich auch vorstellen, wenn jemand nicht atmet, dass die Zeit zu lang ist.",
+   "quote_clean": "Der Rettungsdienst ist nicht innerhalb von ein, zwei Minuten vor Ort, das ist nicht die Regel in Österreich, obwohl wir relativ schnell sind. Wenn jemand nicht atmet, ist diese Zeit zu lang.",
+   "statement": "Weil auch ein schneller Rettungsdienst nicht in ein, zwei Minuten da ist, hängen die Überlebenschancen bei Atemstillstand von Ersthelfer:innen ab.",
+   "question": "Warum sind Ersthelfer:innen bei einem Atemstillstand so entscheidend?",
+   "answer": "Die Rettung braucht länger als ein, zwei Minuten",
+   "distractors": [
+    "Sie dürfen Medikamente verabreichen",
+    "Die Rettung kommt nur mit Zeugen",
+    "Sanitäter dürfen nicht beatmen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "So schnell kann der schnellste Rettungsdienst gar nicht sein. Die Minuten bis zum Eintreffen überbrückt nur, wer schon vor Ort ist und zu drücken anfängt.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Rettungsdienst",
+    "Ersthelfer"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1532,
+   "speaker": "Monika Stickler",
+   "quote": "Erste Hilfe ist einfach. Also man kann nichts falsch machen. Falsch wäre nur nichts zu tun.",
+   "quote_clean": "Erste Hilfe ist einfach. Man kann nichts falsch machen. Falsch wäre nur, nichts zu tun.",
+   "statement": "Monika Stickler: Erste Hilfe ist einfach, falsch wäre nur, nichts zu tun.",
+   "question": "Welcher Gast sagte zum Abschluss: „Erste Hilfe ist einfach. Man kann nichts falsch machen. Falsch wäre nur, nichts zu tun.“?",
+   "answer": "Monika Stickler",
+   "distractors": [
+    "Andreas Sator",
+    "Martin Moder",
+    "Eine Notärztin aus Graz"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Botschaft der Rotkreuz-Lehrbeauftragten in einem Satz. Die größte Gefahr ist nicht der falsche Handgriff, sondern das Wegschauen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Erste Hilfe",
+    "Mut"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1003,
+   "speaker": "Monika Stickler",
+   "quote": "wenn einer die Initiative ergreift, dann passt es. Weil der zieht dann auch die anderen mit. Und wenn einer dort steht und quasi die Menschen einteilt, du holst dein Verbandszeug, du holst einen Defibrillator, dann läuft die Maschinerie an",
+   "quote_clean": "Wenn einer die Initiative ergreift, dann passt es, weil der die anderen mitzieht. Und wenn einer dort steht und die Menschen einteilt, du holst Verbandszeug, du holst einen Defibrillator, dann läuft die Maschinerie an.",
+   "statement": "Stehen viele Leute bei einem Notfall herum, hilft es, wenn eine Person die Initiative ergreift und konkrete Aufgaben verteilt.",
+   "question": "Viele Schaulustige, keiner tut was. Was hilft laut Rotem Kreuz am meisten?",
+   "answer": "Einer übernimmt und verteilt Aufgaben",
+   "distractors": [
+    "Alle warten auf die Rettung",
+    "Alle rufen gleichzeitig 144 an",
+    "Jeder hilft auf eigene Faust"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In der Gruppe schiebt jede:r die Verantwortung ein bisschen weiter. Sobald eine Person sagt: du rufst an, du holst den Defi, läuft die Maschinerie an.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zuschauereffekt",
+    "Notfall"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1373,
+   "speaker": "Monika Stickler",
+   "quote": "Also da wird ganz speziell auf diese Dinge eingegangen, weil halt Kinder keine kleinen Erwachsenen sind.",
+   "quote_clean": "Da wird ganz speziell auf diese Dinge eingegangen, weil Kinder keine kleinen Erwachsenen sind.",
+   "statement": "Es gibt eigene Kindernotfallkurse, weil Kinder keine kleinen Erwachsenen sind.",
+   "question": "Warum empfiehlt das Rote Kreuz Eltern einen eigenen Kindernotfallkurs?",
+   "answer": "Kinder sind keine kleinen Erwachsenen",
+   "distractors": [
+    "Normale Kurse sind für Eltern verboten",
+    "Kinder brauchen immer einen Defibrillator",
+    "Kinder verletzen sich nur zu Hause"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei Kindern funktionieren manche Handgriffe anders, etwa beim Verschlucken. Monikas Tipp: die Zeit nutzen, bevor das Kind alles in den Mund steckt, und gleich die Wohnung sicherer machen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Kinder",
+    "Kurs"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 1322,
+   "speaker": "Monika Stickler",
+   "quote": "Aber der Betroffene, der kann sich nicht schützen. Der ist dem ausgeliefert und das ist nicht in Ordnung.",
+   "quote_clean": "Aber der Betroffene kann sich nicht schützen. Der ist dem ausgeliefert, und das ist nicht in Ordnung.",
+   "statement": "Wer bei einem Notfall filmt, verletzt die Privatsphäre von Betroffenen, die sich nicht wehren können.",
+   "question": "Warum sollst du bei einem Rettungseinsatz nicht mit dem Handy filmen?",
+   "answer": "Betroffene können sich nicht schützen",
+   "distractors": [
+    "Filmen ist nur der Polizei erlaubt",
+    "Das Handy stört den Defibrillator",
+    "Die Sanitäter wollen nicht gefilmt werden"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Monika selbst ist es wurscht, ob man sie filmt, sie macht ja nur ihre Arbeit. Aber der Mensch am Boden ist in seinem verletzlichsten Moment. Handy einstecken, Platz machen.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Privatsphäre",
+    "Schaulustige"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 961,
+   "speaker": "Andreas Sator",
+   "quote": "Ich habe gerade eine Erinnerung an den Marathon in Wien vor ein paar Jahren. Da ist jemand umgekippt, weiß ich nicht, 10, 20 Meter von mir entfernt.",
+   "quote_clean": "Ich habe gerade eine Erinnerung an den Marathon in Wien vor ein paar Jahren. Da ist jemand umgekippt, 10, 20 Meter von mir entfernt.",
+   "statement": "Andreas erzählt, wie beim Wien-Marathon jemand in seiner Nähe umkippte und er kurz zögerte, weil andere Leute da waren.",
+   "question": "Bei welchem Ereignis hat Andreas erlebt, wie jemand neben ihm umkippte?",
+   "answer": "Beim Marathon in Wien",
+   "distractors": [
+    "Beim Donauinselfest",
+    "In der U-Bahn-Station",
+    "Bei einem Konzert"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas gibt zu, ein paar Sekunden gezögert zu haben, weil eh andere Leute da waren, und dann eh wer anderer hingegangen ist. Genau dieses Zögern kennt fast jede:r.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Marathon",
+    "Zögern"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 1525,
+   "speaker": "Andreas Sator",
+   "quote": "Ganz zum Schluss, möchtest du meinen Hörer, innen und Hörern noch etwas mitgeben zum Thema erste Hilfe?",
+   "quote_clean": "Ganz zum Schluss: Möchtest du meinen Hörerinnen und Hörern noch etwas mitgeben zum Thema Erste Hilfe?",
+   "statement": "Andreas fragt zum Abschluss, was der Gast den Hörer:innen noch mitgeben möchte.",
+   "question": "Mit welcher Frage beendet Andreas das Gespräch mit Monika Stickler?",
+   "answer": "Was sie den Hörer:innen mitgeben möchte",
+   "distractors": [
+    "Ob sie selbst schon jemanden gerettet hat",
+    "Welches Buch sie empfehlen würde",
+    "Was sie heute anders machen würde"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Antwort ist kurz und bündig: Erste Hilfe ist einfach, falsch wäre nur, nichts zu tun.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Andreas",
+    "Abschluss"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "160",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-11"
+}

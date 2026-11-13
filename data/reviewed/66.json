@@ -1,0 +1,277 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [
+    "veraltet"
+   ],
+   "note": "Belegt (t=440 und Bestätigung bei 1490 'ein bisschen mehr'); Marktanteil hat sich seither verändert, daher Stand-Hinweis.",
+   "stand_note": "Stand 2019",
+   "statement": "Bio-Lebensmittel hatten in Österreich 2019 einen Marktanteil von etwas mehr als 10 Prozent.",
+   "question": "Wie viel Prozent Marktanteil hatten Bio-Lebensmittel in Österreich 2019 ungefähr?",
+   "answer": "Etwas mehr als 10 Prozent",
+   "distractors": [
+    "Etwa 3 Prozent",
+    "Etwa 25 Prozent",
+    "Etwa 40 Prozent"
+   ],
+   "aha": "Österreich gilt als Bioland Nummer eins, und trotzdem landet nur gut jedes zehnte Lebensmittel als Bio im Einkaufswagerl. Je nach Produkt schwankt das stark: bei manchen Sparten ist der Anteil weit höher, bei anderen weit niedriger.",
+   "quote_clean": "Wir argumentieren seit 30 Jahren die biologische Landwirtschaft über Zahlen und haben momentan einen Marktanteil von etwas mehr als 10 Prozent.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Im Ausschnitt belegt ('ein Drittel', später 'bis zu einem Drittel'), korrekt dem Wuppertal-Institut zugeschrieben.",
+   "stand_note": "",
+   "statement": "Laut Wuppertal-Institut geht rund ein Drittel des ökologischen Rucksacks auf das Ernährungssystem zurück.",
+   "question": "Welcher Anteil des ökologischen Rucksacks geht laut Wuppertal-Institut auf unser Ernährungssystem zurück?",
+   "answer": "Ein Drittel",
+   "distractors": [
+    "Ein Zehntel",
+    "Die Hälfte",
+    "Zwei Drittel"
+   ],
+   "aha": "Essen klingt harmlos, ist aber einer der ganz großen Brocken beim Ressourcenverbrauch. Für Lothar Greger ist das die Brücke: Wenn es beim Klima und bei der Artenvielfalt brennt, dann hat das sehr viel mit unseren Tellern zu tun.",
+   "quote_clean": "Zum Beispiel das Wuppertal-Institut sagt ganz klar: Ein Drittel des ökologischen Rucksacks, also der Ressourcen, geht auf Kosten des jetzigen Ernährungssystems.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt als Einschätzung des Gastes ('ungefähr ein Drittel'); Studien nennen teils geringere Ertragsunterschiede, daher im Statement klar dem Gast zugeschrieben.",
+   "stand_note": "",
+   "statement": "Laut Lothar Greger ist bei biologischer Landwirtschaft mit ungefähr einem Drittel weniger Ernte zu rechnen als bei konventioneller.",
+   "question": "Um wie viel fällt die Ernte im Bio-Landbau laut Lothar Greger ungefähr geringer aus?",
+   "answer": "Um etwa ein Drittel",
+   "distractors": [
+    "Um etwa 5 Prozent",
+    "Um etwa die Hälfte",
+    "Um etwa zwei Drittel"
+   ],
+   "aha": "Bio liefert pro Hektar weniger Ertrag. Genau deshalb reicht es laut Greger nicht, nur auf Bio umzusteigen und sonst alles gleich zu lassen.",
+   "quote_clean": "Allein aus dem Grund heraus, dass wir der nachhaltigen Produktionsweise Bio gegenüberstellen müssen, dass ungefähr ein Drittel weniger an Ernten zu erwarten ist.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Belegt als Aussage des Gastes unter der Annahme gleichen Lebensstils; im Statement als solche gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Laut Lothar Greger bräuchte man bei gleichem Lebensstil und 100 Prozent Bio rund ein Drittel mehr Agrarfläche.",
+   "question": "Was würde laut Lothar Greger passieren, wenn alle auf 100 Prozent Bio umsteigen, aber sonst gleich viel essen wie bisher?",
+   "answer": "Es bräuchte ein Drittel mehr Fläche",
+   "distractors": [
+    "Die Fläche bliebe genau gleich",
+    "Es bräuchte halb so viel Fläche",
+    "Es bräuchte doppelt so viel Fläche"
+   ],
+   "aha": "Weniger Ertrag pro Hektar heißt: Für die gleiche Menge brauchst du mehr Acker, und der kommt im Zweifel aus gerodetem Wald. Bio funktioniert also nur gemeinsam mit weniger Fleisch und weniger Wegwerfen.",
+   "quote_clean": "Wenn wir diesen schlaraffenlandartigen Lebensstil unserer imperialen Lebensweise mit 100 Prozent Bio aufrechterhalten würden, bräuchten wir um ein Drittel mehr Flächen, die aus Urwäldern und so weiter gerodet werden müssten.",
+   "quality": 4
+  },
+  {
+   "i": 6,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "EU-weite gesetzliche Regelung seit den 90ern belegt; die Länderbeispiele im aha stehen nicht im Transkript, entfernt.",
+   "stand_note": "",
+   "statement": "Was Bio ist, ist seit den 1990er-Jahren EU-weit gesetzlich geregelt.",
+   "question": "Wer legt fest, was sich in Österreich Bio nennen darf?",
+   "answer": "Ein EU-weites Gesetz",
+   "distractors": [
+    "Jede Supermarktkette selbst",
+    "Die Landwirtschaftskammer",
+    "Ein freiwilliger Branchenverband"
+   ],
+   "aha": "Seit den Neunzigern steht in EU-Recht, was und wie Bio produziert werden muss, und zwar von der Produktion über die Verarbeitung bis zum Handel. Bio ist also kein freiwilliges Marketing-Etikett.",
+   "quote_clean": "Es ist seit den 90er Jahren EU-weit gesetzlich geregelt, wo genau festgehalten ist, was und wie Bio produziert wird.",
+   "quality": 3
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Wörtlich belegt; Distraktoren eindeutig falsch, aha gedeckt.",
+   "stand_note": "",
+   "statement": "In der Bio-Landwirtschaft sind chemisch-synthetische Pflanzenschutzmittel nicht erlaubt.",
+   "question": "Welche Art von Pflanzenschutzmitteln ist im Bio-Landbau verboten?",
+   "answer": "Chemisch-synthetische",
+   "distractors": [
+    "Alle, auch natürliche",
+    "Nur importierte",
+    "Nur solche für Obst"
+   ],
+   "aha": "Bio heißt nicht, dass gar nichts gespritzt wird, sondern dass die chemisch-synthetischen Mittel tabu sind. Dazu kommen kein leicht löslicher Kunstdünger und keine grüne Gentechnik.",
+   "quote_clean": "Das eine sind die sogenannten Spritzmittel, die nicht eingesetzt werden, also chemisch-synthetische Pflanzenschutzmittel, die in der biologischen Landwirtschaft nicht verwendet werden.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Wörtlich belegt; Distraktoren eindeutig nicht verboten.",
+   "stand_note": "",
+   "statement": "Verarbeitete Bio-Produkte dürfen keine künstlichen Aromen, Geschmacksverstärker, Farb- oder Konservierungsstoffe enthalten.",
+   "question": "Was darf in verarbeiteten Bio-Lebensmitteln nicht drin sein?",
+   "answer": "Künstliche Aromen und Geschmacksverstärker",
+   "distractors": [
+    "Salz und Zucker",
+    "Zutaten aus dem Ausland",
+    "Tiefgekühlte Zutaten"
+   ],
+   "aha": "Die Bio-Regeln gelten nicht nur am Feld, sondern für die ganze Kette bis ins Supermarktregal. Wer also Bio-Chips kauft, kriegt zumindest keine künstlichen Geschmacksverstärker dazu.",
+   "quote_clean": "In der Verarbeitung ist es wichtig zu wissen, dass keine künstlichen Aromen, keine künstlichen Geschmacksverstärker, keine künstlichen Farb- und Konservierungsstoffe eingesetzt werden.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "beleg"
+   ],
+   "note": "Belegt als Einschätzung des Gastes; im aha war 'Gurke' ein nicht belegtes Beispiel, entfernt, Aussage dem Gast zugeschrieben.",
+   "stand_note": "",
+   "statement": "Laut Lothar Greger schneidet Bio bei der CO2-Bilanz pro Fläche gut ab, pro Ertrag wegen der höheren konventionellen Erträge schlechter.",
+   "question": "Wann schneidet Bio laut Lothar Greger bei der CO2-Bilanz besonders gut ab?",
+   "answer": "Wenn man pro Fläche rechnet",
+   "distractors": [
+    "Wenn man pro Kilo Ertrag rechnet",
+    "Wenn man den Transport mitrechnet",
+    "Bei jeder Berechnungsart gleich"
+   ],
+   "aha": "Es kommt drauf an, worauf du die Rechnung beziehst. Pro Hektar steht Bio beim CO2 gut da, bezogen auf den Ertrag schneidet es wegen der höheren Erträge der konventionellen Landwirtschaft nicht so gut ab.",
+   "quote_clean": "Wenn man die CO2-Bilanz der biologischen Lebensmittel bezogen auf die Fläche betrachtet, schneidet Bio sehr gut ab. Betrachtet man sie aufgrund der höheren Erträge der konventionellen Landwirtschaft, schneidet es nicht so gut ab.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Definition im Ausschnitt belegt; im aha waren Dünger und Spritzmittel als Ursache hinzugefügt, im Transkript nur 'Wasser verschmutzt'.",
+   "stand_note": "",
+   "statement": "Externalisierte Kosten sind Schäden wie verschmutztes Wasser, die bei der Produktion billiger Lebensmittel entstehen und die die Allgemeinheit zahlt.",
+   "question": "Was sind externalisierte Kosten bei Lebensmitteln?",
+   "answer": "Schäden, die die Allgemeinheit bezahlt",
+   "distractors": [
+    "Kosten für den Export",
+    "Zusatzkosten für Bio-Siegel",
+    "Gebühren der Supermärkte"
+   ],
+   "aha": "Billig an der Kasse heißt nicht billig insgesamt. Wird bei der Produktion Wasser verschmutzt, zahlst du als Steuerzahler:in später für die Reparatur, zum Beispiel fürs Filtern. Laut Greger zahlst du so für jedes Lebensmittel quasi dreimal.",
+   "quote_clean": "Dass für jedes Lebensmittel, das produziert wird, vor allem wenn es um billige Lebensmittel geht, meistens mir als Steuerzahler oder Steuerzahlerin ein Schaden entsteht, indem das Wasser verschmutzt wird und so weiter.",
+   "quality": 4
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (Erfahrungen mit Jugendlichen und Schülern, t=192); korrekt als Greger-Aussage formuliert.",
+   "stand_note": "",
+   "statement": "Jugendliche fassen Bio laut Lothar Greger meist so zusammen: Bio ist super, na und?",
+   "question": "Wie fassen Jugendliche Bio laut Lothar Greger meistens zusammen?",
+   "answer": "Bio ist super, na und?",
+   "distractors": [
+    "Bio ist nur Marketing",
+    "Bio ist zu teuer",
+    "Bio schmeckt einfach besser"
+   ],
+   "aha": "Lothar Greger arbeitet seit Jahren mit Schüler:innen, und die bringen es auf den Punkt: Bio ist super, aber was heißt das für den eigenen Alltag?",
+   "quote_clean": "Und die sagen in etwa immer das Gleiche: Bio ist super, na und?",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Wörtlich belegt, Aussage klar dem Gast zugeordnet, aha gedeckt.",
+   "stand_note": "",
+   "statement": "Der Biomarkt erzählte lange die einfache Geschichte, man könne weiterleben wie bisher und einfach Bio kaufen, das reicht aber nicht.",
+   "question": "Welche einfache Geschichte hat der Biomarkt laut Lothar Greger lange erzählt?",
+   "answer": "Weiterleben wie bisher, halt Bio kaufen",
+   "distractors": [
+    "Bio ist immer billiger",
+    "Bio rettet allein das Klima",
+    "Nur Bauern können etwas ändern"
+   ],
+   "aha": "Am Anfang brauchte Bio eine simple Botschaft, um überhaupt ins Regal zu kommen. Heute weiß man: Ohne weniger Fleisch und weniger Wegwerfen geht sich das nicht aus.",
+   "quote_clean": "Und die einfache Geschichte lautet: Leben wir weiter wie bisher und kauft halt Bio. Das reicht. Mittlerweile wissen wir, es reicht eben nicht.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (t=841ff.), Aussage und Beispiel Bio-Steak im Ausschnitt; Distraktoren falsch.",
+   "stand_note": "",
+   "statement": "Bio als Produktionsmethode ist vorzuziehen, muss aber in einen nachhaltigen Ernährungsstil eingebettet werden.",
+   "question": "Was ist laut Lothar Greger nötig, damit Bio der Umwelt wirklich hilft?",
+   "answer": "Ein nachhaltiger Ernährungsstil rundherum",
+   "distractors": [
+    "Mehr Bio-Steaks essen",
+    "Nur Produkte aus Übersee kaufen",
+    "Strengere Bio-Siegel allein"
+   ],
+   "aha": "Ein tägliches Bio-Steak hat trotzdem einen großen Fußabdruck. Bio entfaltet seine Wirkung erst zusammen mit weniger Fleisch, weniger Wegwerfen und mehr saisonalen, regionalen Produkten.",
+   "quote_clean": "Das Ja heißt, dass die Produktionsmethode per se auf alle Fälle vorzuziehen ist. Das heißt aber, wir müssen diese Produktionsmethode Bio in einen nachhaltigen Ernährungsstil integrieren.",
+   "quality": 3
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Frage und Gurken-Antwort belegt; der Wunsch an die Politik im aha steht nicht im Ausschnitt, entfernt.",
+   "stand_note": "",
+   "statement": "Die häufigste Hörer:innenfrage zur Bio-Folge war, ob man zur Bio-Gurke aus Spanien oder zur konventionellen aus Österreich greifen soll.",
+   "question": "Was war die mit Abstand häufigste Hörer:innenfrage für die Bio-Folge?",
+   "answer": "Bio-Gurke aus Spanien oder konventionelle aus Österreich?",
+   "distractors": [
+    "Ist Bio-Fleisch gesünder als normales?",
+    "Warum ist Bio so teuer?",
+    "Welches Bio-Siegel ist das beste?"
+   ],
+   "aha": "Die Gurkenfrage hat sogar den Experten erwischt: Lothar Greger stand neulich selbst im Geschäft und hat sich für die Nicht-Gurke entschieden. Zeigt, wie schwierig das im Alltag ist.",
+   "quote_clean": "Ich habe im Vorfeld meine Hörerinnen und Hörer um Fragen gebeten. Die mit Abstand häufigste war: die Bio-Gurke aus Spanien oder die konventionelle aus Österreich, wozu greifen?",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Premiere live vor Publikum und FAIR FAIR belegt; Andreas' Nervosität im aha ist nicht belegt, entfernt.",
+   "stand_note": "",
+   "statement": "Die Bio-Folge mit Lothar Greger war die erste Folge von Erklär mir die Welt, die live vor Publikum aufgenommen wurde.",
+   "question": "Was war an der Bio-Folge mit Lothar Greger eine Premiere?",
+   "answer": "Erste Live-Aufnahme vor Publikum",
+   "distractors": [
+    "Erste Folge mit zwei Gästen",
+    "Erste Folge auf Englisch",
+    "Erste Folge mit Video"
+   ],
+   "aha": "Aufgenommen wurde auf der FAIR FAIR, einer Messe für Nachhaltigkeit, organisiert von Biorama. Passend zum Thema Bio.",
+   "quote_clean": "Das ist heute eine Premiere, denn das ist die erste Folge, die live vor Publikum aufgenommen wird.",
+   "quality": 3
+  }
+ ],
+ "id": "66",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

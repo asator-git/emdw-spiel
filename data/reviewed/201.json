@@ -1,0 +1,277 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 164-176 s.",
+   "stand_note": "",
+   "statement": "Für Pilot:innen ist das Landen schwieriger als das Starten, weil man bei Wind die Piste präzise treffen und die Geschwindigkeit halten muss.",
+   "question": "Was ist für Pilot:innen laut einem AUA-Co-Piloten schwieriger?",
+   "answer": "Das Landen",
+   "distractors": [
+    "Das Starten",
+    "Der Reiseflug",
+    "Das Rollen zur Piste"
+   ],
+   "aha": "Abheben ist vergleichsweise simpel, aber beim Landen musst du einen schmalen Streifen treffen, während dich Böen nach links, rechts, oben und unten schubsen. Dazu noch Geschwindigkeit halten und die Piste im Blick behalten.",
+   "quote_clean": "Definitiv das Landen. Warum? Man muss die Piste treffen. Vor allem, wenn es böig ist, wird der Flieger manchmal nach links, rechts, oben und unten geweht.",
+   "quality": 3
+  },
+  {
+   "i": 1,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 195-222 s.",
+   "stand_note": "",
+   "statement": "Im Cockpit teilen sich Kapitän und Co-Pilot die Rollen auf; der Co-Pilot steuert etwa jeden zweiten Flug selbst.",
+   "question": "Wie oft steuert ein Co-Pilot das Flugzeug ungefähr selbst?",
+   "answer": "Etwa jeden zweiten Flug",
+   "distractors": [
+    "Nur im Notfall",
+    "Nur beim Reiseflug",
+    "Etwa jeden zehnten Flug"
+   ],
+   "aha": "Vor dem Flug wird ausgemacht, wer „Pilot Flying“ ist und wer „Pilot Monitoring“. Der eine steuert, der andere funkt, arbeitet Checklisten ab und kontrolliert den Kollegen – und das muss nicht immer der Kapitän sein.",
+   "quote_clean": "Genau, und das ist so: Jeden zweiten Flug übernehme ich als Co-Pilot das Steuer und fliege.",
+   "quality": 3
+  },
+  {
+   "i": 2,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg passt (570-607 s); Frage präzisiert, da 'in der Regel' missverständlich war.",
+   "stand_note": "",
+   "statement": "Verkehrsflugzeuge landen meist von Hand; vollautomatisch gelandet wird vor allem bei Nebel.",
+   "question": "Unter welchen Bedingungen landet ein Linienflugzeug laut Pilot Koc vollautomatisch?",
+   "answer": "Bei Nebel",
+   "distractors": [
+    "Bei starkem Seitenwind",
+    "Bei jeder Nachtlandung",
+    "Bei jeder Landung"
+   ],
+   "aha": "Im Reiseflug macht der Autopilot den Großteil, beim Landen greifen die Pilot:innen meist selbst ins Steuer. Nur wenn Nebel die Piste verschluckt, darf die Technik ran – und dafür müssen Flughafen, Flugzeug und Crew eigens zertifiziert sein.",
+   "quote_clean": "Der Landeanflug selbst passiert zum größten Teil manuell. Der Autopilot bleibt selten für die Landung an. Nur bei Nebel landet der Flieger vollautomatisch.",
+   "quality": 4
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 607-652 s.",
+   "stand_note": "",
+   "statement": "Das Instrumentenlandesystem leitet Flugzeuge mit einem vertikalen und einem horizontalen Funkstrahl zur Piste; Flugzeuge in der Nähe können diese Signale stören.",
+   "question": "Warum brauchen automatische Landungen mehr Abstand zwischen den Flugzeugen?",
+   "answer": "Andere Flieger können die Leitstrahlen stören",
+   "distractors": [
+    "Der Autopilot bremst langsamer",
+    "Der Treibstoff reicht sonst nicht",
+    "Die Fluglotsen sehen sonst nichts"
+   ],
+   "aha": "Das Landesystem funktioniert wie zwei unsichtbare Strahlen, einer für die Richtung, einer für den Sinkwinkel. Steht ein anderes Flugzeug im Weg, wird das Signal gestört – deshalb wird bei Automatiklandungen mehr Abstand gehalten.",
+   "quote_clean": "Das Problem ist: Wenn Flieger nah beieinander sind, können sie das Landesystem beeinträchtigen. Das kann man sich als zwei Strahlen vorstellen, ein vertikaler und ein horizontaler Strahl, die uns zur Piste leiten.",
+   "quality": 4
+  },
+  {
+   "i": 5,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 853-877 s.",
+   "stand_note": "",
+   "statement": "Kurz nach dem Start werden die Triebwerke leiser, weil für den Start mehr Leistung nötig ist als für den anschließenden Steigflug.",
+   "question": "Warum werden die Triebwerke kurz nach dem Start plötzlich leiser?",
+   "answer": "Der Steigflug braucht weniger Leistung als der Start",
+   "distractors": [
+    "Ein Triebwerk wird ganz abgeschaltet",
+    "Die Klimaanlage wird eingeschaltet",
+    "Das Fahrwerk wird ausgefahren"
+   ],
+   "aha": "Für viele mit Flugangst der Moment zum Festkrallen: Die Nase senkt sich, es wird leiser. Dabei ist das reine Routine – der Start braucht einfach mehr Schub als das weitere Steigen.",
+   "quote_clean": "Kurz nach dem Start reduzieren wir die Triebwerksleistung. Das ist für viele ein ungutes Gefühl. Die Nase senkt sich, die Triebwerksleistung wird verringert. Das ist deswegen, weil wir beim Start eine höhere Leistung brauchen als für den Steigflug selbst.",
+   "quality": 4
+  },
+  {
+   "i": 9,
+   "verdict": "drop",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "2000 Fuß ist nur ein hypothetisches Beispiel ('kann sein'), keine feste Größe; Distraktoren trivial.",
+   "stand_note": "",
+   "statement": "Schon rund 2000 Fuß (etwa 600 Meter) höher oder tiefer kann ein Flugzeug ganz ohne Turbulenzen fliegen.",
+   "question": "Wie viel Fuß höher oder tiefer reichen manchmal, um Turbulenzen ganz zu entkommen?",
+   "answer": "Etwa 2000 Fuß",
+   "distractors": [
+    "Etwa 50 Fuß",
+    "Etwa 200 Fuß",
+    "Etwa 20.000 Fuß"
+   ],
+   "aha": "2000 Fuß sind gut 600 Meter – für ein Flugzeug ein kleiner Hupfer. Pilot:innen fragen über die Fluglotsen nach, wie es den Fliegern vor ihnen geht, und wechseln dann notfalls die Höhe.",
+   "quote_clean": "Es kann auch sein, dass es, wenn wir 2000 Fuß höher oder tiefer fliegen, dort gar keine Turbulenzen gibt.",
+   "quality": 2
+  },
+  {
+   "i": 10,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1012-1029 s.",
+   "stand_note": "",
+   "statement": "Bei Turbulenzen steuern Pilot:innen nicht gegen, sondern fliegen mit einer eigenen, langsameren Turbulenzgeschwindigkeit.",
+   "question": "Was machen Pilot:innen typischerweise, wenn sie durch eine Turbulenzzone fliegen müssen?",
+   "answer": "Sie fliegen langsamer",
+   "distractors": [
+    "Sie steuern ständig von Hand gegen",
+    "Sie geben Vollgas",
+    "Sie schalten den Autopilot ab"
+   ],
+   "aha": "Wie beim Auto auf einer Schotterstraße: Langsamer rüttelt es weniger. Gegensteuern übernimmt ohnehin der Autopilot ganz gut, die Crew passt Tempo und eventuell die Höhe an.",
+   "quote_clean": "Was wir tatsächlich machen: Es gibt eine Geschwindigkeit, die ideal für Turbulenzen ist, weil man dann langsamer fliegt und einen Turbulenzen weniger betreffen.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "fix",
+   "issues": [
+    "kontext"
+   ],
+   "note": "Beleg passt (1955 s); Zeitangabe gilt für Koc' Ausbildung, daher attribuiert.",
+   "stand_note": "",
+   "statement": "Laut dem AUA-Piloten Christoph Koc dauert die Ausbildung zum Piloten etwa zwei Jahre und besteht aus Theorie und Praxis.",
+   "question": "Wie lange dauert laut Pilot Christoph Koc die Ausbildung zum Piloten ungefähr?",
+   "answer": "Etwa zwei Jahre",
+   "distractors": [
+    "Etwa ein halbes Jahr",
+    "Etwa fünf Jahre",
+    "Etwa acht Jahre"
+   ],
+   "aha": "Vorher gibt's ein Auswahlverfahren mit Reaktions- und Kopfrechentests, Gruppenspielen und Medizincheck. Dann lernst du Flugrecht, Meteorologie, Gewichtsverteilung – und erst mal Sichtflug, mit Autobahnen und Seen als Wegweiser.",
+   "quote_clean": "Die Ausbildung selbst dauert etwa zwei Jahre. Sie besteht aus einem Theorie- und einem Praxisteil.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 2138-2162 s; Aha durch Zapfluft-Erklärung gedeckt.",
+   "stand_note": "",
+   "statement": "Beim Start wird die Klimaanlage ausgeschaltet und erst ein bis zwei Minuten danach wieder eingeschaltet; das spart Triebwerksleistung und Treibstoff.",
+   "question": "Wie viele Minuten nach dem Start wird die Klimaanlage im Flugzeug oft wieder eingeschaltet?",
+   "answer": "Nach etwa ein, zwei Minuten",
+   "distractors": [
+    "Nach etwa 10 Sekunden",
+    "Nach etwa 20 Minuten",
+    "Erst nach der Landung"
+   ],
+   "aha": "Die Klimaanlage zapft Luft von den Triebwerken ab. Ist sie beim Start aus, braucht's weniger Triebwerksleistung bei gleicher Startstrecke – und du merkst davon in der Kabine nichts.",
+   "quote_clean": "Wir haben dieselbe Startdistanz und schalten rund ein, zwei Minuten nach dem Start die Klimaanlage an. Das merken die Passagiere nicht, und wir verbrauchen weniger Sprit.",
+   "quality": 4
+  },
+  {
+   "i": 20,
+   "verdict": "fix",
+   "issues": [
+    "beleg"
+   ],
+   "note": "Tipp belegt (833-847 s, 2285 s); Aha-Zusatz zu Koc' eigenem Mulmigsein steht nicht im Ausschnitt.",
+   "stand_note": "",
+   "statement": "Menschen mit Flugangst hilft es oft, vor dem Start kurz im Cockpit Hallo zu sagen, weil das Gefühl des Kontrollverlusts dann weniger anonym ist.",
+   "question": "Welchen Tipp gibt AUA-Pilot Christoph Koc Menschen mit Flugangst?",
+   "answer": "Vor dem Start im Cockpit Hallo sagen",
+   "distractors": [
+    "Ganz hinten im Flugzeug sitzen",
+    "Vor dem Flug viel Kaffee trinken",
+    "Während des Flugs die Augen schließen"
+   ],
+   "aha": "Das größte Problem bei Flugangst ist laut Christoph der Kontrollverlust. Zu sehen, dass da vorne zwei konzentrierte Menschen sitzen, nimmt dem Ganzen das Anonyme.",
+   "quote_clean": "Es hilft vielen Leuten mit Flugangst, vor dem Start kurz im Cockpit Hallo zu sagen, um zu sehen: Da sitzen zwei Menschen drinnen. Es ist dann nicht mehr so anonym.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Aha verwechselt Sprecher (Andreas stellt die Fragen); Wer-sagt-Frage ohne echten Wissensgewinn.",
+   "stand_note": "",
+   "statement": "Selbst ein Linienpilot findet es immer wieder faszinierend, dass so schwere Maschinen fliegen, und hält es manchmal für Magie.",
+   "question": "Wer sagt: „Ich glaube manchmal immer noch, dass das Magie ist“ – übers Fliegen?",
+   "answer": "AUA-Co-Pilot Christoph Koc",
+   "distractors": [
+    "Ein Passagier mit Flugangst",
+    "Ein Physikprofessor",
+    "Ein Fluglotse"
+   ],
+   "aha": "Christoph hat gefragt, wie sich das erste Mal Fliegen angefühlt hat – „unbeschreiblich“. Andreas stellt dann klar: keine Magie, sondern Physik. Und lässt sich den Auftrieb erklären.",
+   "quote_clean": "Es ist immer wieder faszinierend, was für Gewichte in der Luft fliegen können. Und ich glaube manchmal immer noch, dass das Magie ist.",
+   "quality": 1
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt bei 1085-1124 s.",
+   "stand_note": "",
+   "statement": "Auf die Frage, ob er schon einmal Angst vor einem Absturz hatte, sagt Pilot Christoph Koc: Stress ja, Angst nein.",
+   "question": "Was antwortet Pilot Christoph Koc auf die Frage, ob er schon einmal Angst vor einem Absturz hatte?",
+   "answer": "Stress schon, aber Angst nicht",
+   "distractors": [
+    "Ja, bei jedem Gewitter",
+    "Nur bei Nachtflügen",
+    "Ja, beim allerersten Flug"
+   ],
+   "aha": "Stressig wird's etwa bei böigen Anflügen, wenn der Flieger kurz über der Piste weggeweht wird und man durchstarten muss. Dann ist man aber so konzentriert, dass für Angst kein Platz bleibt.",
+   "quote_clean": "Das nicht. Angst nicht. Es kommt schon vor, dass es stressige Situationen gibt. Aber da ist man so konzentriert, dass es, wenn, dann eher Stress ist, aber nicht Angst.",
+   "quality": 3
+  },
+  {
+   "i": 23,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Anekdote belegt (1430-1444 s); Aha-Erklärung zum Horizont physikalisch unsauber und nicht im Transkript, ersetzt.",
+   "stand_note": "",
+   "statement": "Christoph Koc erinnert sich an eine Landung in Amsterdam, bei der die Sonne genau hinter der Piste und genau beim Aufsetzen unterging.",
+   "question": "Welchen fast kitschigen Moment hat Pilot Christoph Koc bei einer Landung in Amsterdam erlebt?",
+   "answer": "Die Sonne ging genau beim Aufsetzen unter",
+   "distractors": [
+    "Ein Regenbogen über der Piste",
+    "Ein Heiratsantrag an Bord",
+    "Polarlichter beim Anflug"
+   ],
+   "aha": "Im Landeanflug sinkt das Flugzeug, und der Sonnenuntergang kommt dadurch noch ein Stück schneller. In Amsterdam lag die Sonne genau in der Verlängerung der Piste und war beim Aufsetzen verschwunden.",
+   "quote_clean": "An einen kann ich mich erinnern, in Amsterdam, das war schon fast kitschig. Da war hinter der Piste der Sonnenuntergang, genau auf der Achse. Wenn wir im Landeanflug sinken, geht die Sonne umso schneller unter. Und genau beim Aufsetzen war die Sonne verschwunden.",
+   "quality": 2
+  },
+  {
+   "i": 24,
+   "verdict": "fix",
+   "issues": [
+    "ton"
+   ],
+   "note": "Belegt bei 2249-2260 s; Aha überzieht (Streitfrage 'geklärt'), nur eine Pilotenmeinung.",
+   "stand_note": "",
+   "statement": "Auf die Frage, ob man nach der Landung klatschen soll, sagt AUA-Pilot Christoph Koc: Warum nicht – er klatsche selbst gern, und im Cockpit höre man es teilweise.",
+   "question": "Was hält AUA-Pilot Christoph Koc vom Klatschen nach der Landung?",
+   "answer": "Warum nicht, er klatscht selbst gern",
+   "distractors": [
+    "Es nervt die Crew gewaltig",
+    "Es ist bei der AUA verboten",
+    "Im Cockpit hört man es nie"
+   ],
+   "aha": "Zumindest dieser Pilot klatscht selbst gern mit, und vorne im Cockpit hört man den Applaus teilweise sogar.",
+   "quote_clean": "Letzte Frage: Klatschen im Flugzeug, ja oder nein? Warum nicht? Ja, warum nicht? Wir hören es teilweise sogar durch die Cockpittür. Ich klatsche auch gerne.",
+   "quality": 3
+  }
+ ],
+ "id": "201",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

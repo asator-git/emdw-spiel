@@ -1,0 +1,279 @@
+{
+ "reviews": [
+  {
+   "i": 2,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt und als Aussage der Agentur korrekt attribuiert.",
+   "stand_note": "Stand 2019",
+   "statement": "Laut Manuel Rubeys Agentur werden höchstens zehn Prozent der infrage kommenden Schauspieler:innen überhaupt zu einem Casting eingeladen.",
+   "question": "Wie viel Prozent der infrage kommenden Schauspieler:innen werden laut Rubeys Agentur höchstens zu einem Casting eingeladen?",
+   "answer": "Höchstens 10 Prozent",
+   "distractors": [
+    "Höchstens 30 Prozent",
+    "Höchstens 50 Prozent",
+    "Höchstens 2 Prozent"
+   ],
+   "aha": "Wer eingeladen wird, ist also schon eine Runde weiter. Dann gibt es meistens keine Warterei mehr, sondern ein Gespräch mit der Regie und eine Stunde zum Ausprobieren.",
+   "quote_clean": "Meine Agentur sagt immer, dass höchstens zehn Prozent der infrage kommenden Schauspieler überhaupt zum Casting eingeladen werden.",
+   "quality": 3
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, als Rubeys Einschätzung formuliert.",
+   "stand_note": "",
+   "statement": "Beim Fernsehen wird kaum geprobt; rund 90 Prozent der schauspielerischen Arbeit passieren vor dem Dreh.",
+   "question": "Wie viel Prozent der Arbeit passieren beim Fernsehdreh laut Manuel Rubey schon vor dem Drehtag?",
+   "answer": "Rund 90 Prozent",
+   "distractors": [
+    "Rund 30 Prozent",
+    "Rund 50 Prozent",
+    "Rund 70 Prozent"
+   ],
+   "aha": "Am Set ist keine Zeit. Vielleicht wird drei Stunden lang dein Gegenüber gefilmt, dann wird umgebaut, und du hast einen Take, in dem du abliefern musst.",
+   "quote_clean": "Gerade beim Fernsehen wird nicht mehr groß geprobt, sondern eigentlich sind 90 Prozent der Arbeit vorher passiert.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "fix",
+   "issues": [
+    "beleg",
+    "ton"
+   ],
+   "note": "Zahl mit glaube ich hedged, daher als Rubeys Erinnerung belassen; Aha korrigiert (kleine Schauspielschule, nicht Privatschule).",
+   "stand_note": "",
+   "statement": "Am Max Reinhardt Seminar bewarben sich laut Manuel Rubeys Erinnerung rund 900 Menschen, an einer kleinen Wiener Schauspielschule nur etwa 90.",
+   "question": "Wie viele Bewerber:innen gab es laut Manuel Rubeys Erinnerung ungefähr am Max Reinhardt Seminar, als er vorsprach?",
+   "answer": "Rund 900",
+   "distractors": [
+    "Rund 50",
+    "Rund 200",
+    "Rund 5.000"
+   ],
+   "aha": "Mit 17 ging er ans Reinhardt-Seminar und dachte, man habe dort auf ihn gewartet. Hatte man nicht. An einer kleinen Wiener Schauspielschule mit einem Zehntel der Konkurrenz klappte es dann.",
+   "quote_clean": "Das war dann leichter, weil dort statt 900, glaube ich, nur 90 Bewerber waren.",
+   "quality": 3
+  },
+  {
+   "i": 6,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Mehrfach hedged (glaube ich, ich glaube) und als Faktum über Drehortmieten nicht belastbar; Aha unterstellt eine nicht belegte Ursache.",
+   "stand_note": "",
+   "statement": "Wer seine Wohnung als Drehort vermietet, bekommt als Richtwert für einen Drehtag etwa eine Monatsmiete.",
+   "question": "Wie viel bekommt man laut Manuel Rubey als Richtwert, wenn man seine Wohnung einen Tag lang einem Filmteam überlässt?",
+   "answer": "Etwa eine Monatsmiete",
+   "distractors": [
+    "Etwa eine Wochenmiete",
+    "Etwa eine Tagesmiete",
+    "Etwa drei Monatsmieten"
+   ],
+   "aha": "Darum sind Studenten-WGs bei Filmteams so beliebt. Für einen Tag Chaos in der Küche gleich die ganze Miete reinholen, das zahlt sich aus.",
+   "quote_clean": "Da ist das sehr beliebt, weil es üblicherweise so ist, glaube ich – der Richtwert ist: Für einen Tag gibt es die Monatsmiete.",
+   "quality": 2
+  },
+  {
+   "i": 7,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt (Villen vs. WGs und kleine Wohnungen).",
+   "stand_note": "",
+   "statement": "Teure Villen sind als Drehorte viel schwerer zu bekommen als kleine Wohnungen, weil die Besitzer:innen das Geld nicht brauchen.",
+   "question": "Welche Drehorte sind für Filmteams laut Manuel Rubey besonders schwer zu finden?",
+   "answer": "Teure Villen",
+   "distractors": [
+    "Studenten-WGs",
+    "Kleine Mietwohnungen",
+    "Leere Büros"
+   ],
+   "aha": "Wer reich ist, lässt sich nicht so leicht mit Geld locken. Und 40 Leute, die über den Teppich stiefeln, will sich auch nicht jede:r antun.",
+   "quote_clean": "Zum Beispiel teure Villen, wo Geld keine Rolle spielt, sind viel schwerer zu finden, weil die Leute sagen: Ist mir egal, ich brauche das Geld nicht, und ich habe eigentlich keine Lust, dass mir da 40 Leute auf meinen Teppich stiefeln.",
+   "quality": 3
+  },
+  {
+   "i": 8,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt; Schauspielerei ist in Österreich tatsächlich kein geschützter Beruf.",
+   "stand_note": "",
+   "statement": "Schauspieler:in ist kein geschützter Beruf, deshalb gibt es viele Quereinsteiger:innen ohne Schauspielschule.",
+   "question": "Warum gibt es beim Schauspielen so viele Quereinsteiger:innen?",
+   "answer": "Es ist kein geschützter Beruf",
+   "distractors": [
+    "Schauspielschulen sind kostenlos",
+    "Es gibt eine Quotenregel",
+    "Theater stellen nur Laien ein"
+   ],
+   "aha": "Anders als bei Ärztin oder Anwalt braucht man für den Titel Schauspieler keinen Abschluss. Viele kommen also durch die Hintertür.",
+   "quote_clean": "Da Schauspieler kein geschützter Beruf ist, es also kein Lehrbuch gibt, gibt es viele Quereinsteiger und Quereinsteigerinnen, die von ganz woanders kommen.",
+   "quality": 3
+  },
+  {
+   "i": 15,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt, als Rubeys Einschätzung (laut, oft) formuliert.",
+   "stand_note": "",
+   "statement": "Schauspieler:innen wirken oft unglaubwürdig, weil sie ihren Text nicht gut genug können und dadurch unnatürliche Pausen machen.",
+   "question": "Woran liegt es laut Manuel Rubey oft, wenn Schauspieler:innen unglaubwürdig wirken?",
+   "answer": "Sie können den Text nicht gut genug",
+   "distractors": [
+    "Sie haben zu wenig Talent",
+    "Sie sprechen zu laut",
+    "Sie schauen in die Kamera"
+   ],
+   "aha": "Im echten Leben verhaspeln wir uns oder stottern, aber wir werden nicht langsamer, weil wir nach Wörtern suchen. Darum muss der Text so sitzen, dass man ihn unter der Dusche oder in der U-Bahn jederzeit abrufen kann.",
+   "quote_clean": "Ganz oft wirken Schauspieler, glaube ich, deswegen unglaubwürdig, weil sie einfach den Text nicht gut genug können und deswegen unnatürliche Nachdenkpausen machen, wo man merkt, der sucht einfach nach seinem Text.",
+   "quality": 4
+  },
+  {
+   "i": 16,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "transkription"
+   ],
+   "note": "Name im Transkript verhört (Philipp Simon Hoffmann), eindeutig Philip Seymour Hoffman; Aussage als Rubeys Wiedergabe gekennzeichnet.",
+   "stand_note": "",
+   "statement": "Laut Manuel Rubey hat Philip Seymour Hoffman gesagt, er gehe so lange spazieren, bis er einen Menschen finde, der optisch oder mit einer Geste zum Vorbild für die Figur tauge.",
+   "question": "Wie fand der Schauspieler Philip Seymour Hoffman laut Manuel Rubey Vorbilder für seine Rollen?",
+   "answer": "Er ging spazieren und beobachtete Fremde",
+   "distractors": [
+    "Er las alte Tagebücher",
+    "Er schaute Stummfilme an",
+    "Er befragte seine Familie"
+   ],
+   "aha": "Aus einem Blick oder einer Geste baut man sich in der Fantasie die ganze Figur. Rubey macht das nach der faktischen Recherche auch so, die Vorbilder wissen natürlich nichts davon.",
+   "quote_clean": "Ich habe mich da von Philip Seymour Hoffman, den ich wahnsinnig verehre, inspirieren lassen, der gesagt hat, er geht so lange spazieren, bis er irgendwo da draußen einen Menschen findet, der rein optisch oder mit einer Geste oder mit einem Blick Vorbild für die Figur ist.",
+   "quality": 3
+  },
+  {
+   "i": 17,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Distraktor Kein Publikum im Saal war ebenfalls plausibel richtig; ersetzt.",
+   "stand_note": "",
+   "statement": "Am Filmset beobachtet einen kaum jemand, weil alle auf ihre eigene Aufgabe konzentriert sind; am Theater reden dagegen viele mit.",
+   "question": "Warum ist der Druck am Filmset laut Manuel Rubey oft kleiner als bei Theaterproben?",
+   "answer": "Alle sind mit ihrer Aufgabe beschäftigt",
+   "distractors": [
+    "Man hat deutlich mehr Zeit zum Proben",
+    "Man darf jede Szene beliebig oft wiederholen",
+    "Die Regie ist meist nicht da"
+   ],
+   "aha": "Das Licht leuchtet aus, das Catering schmiert Brote, der Ton jagt Nebengeräusche. Zum Beurteilen ist nur die Regie da, alle anderen kämpfen gegen die Zeit.",
+   "quote_clean": "Und das Tolle ist auch, wenn man das einmal begriffen hat, dass es einem den Druck nimmt. Am Theater schauen immer wahnsinnig viele Menschen, auch bei den Proben schon, zu, und jeder gibt seinen Senf dazu. Am Set ist das in der Regel überhaupt nicht der Fall, weil jeder auf seine Aufgabe konzentriert ist.",
+   "quality": 3
+  },
+  {
+   "i": 18,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Wer-hat-es-gesagt war trivial; zur inhaltlichen Frage umgebaut.",
+   "stand_note": "",
+   "statement": "Manuel Rubey vergleicht ein Filmset mit einem schönen Wohnzimmer, in dem viele erwachsene, wahlberechtigte Menschen herumwuseln und ernsthaft Illusionen herstellen.",
+   "question": "Womit vergleicht Manuel Rubey ein Filmset?",
+   "answer": "Mit einem schönen Wohnzimmer",
+   "distractors": [
+    "Mit einer Großküche zur Stoßzeit",
+    "Mit einem Bahnhof in der Rushhour",
+    "Mit einem Zirkuszelt vor der Show"
+   ],
+   "aha": "Rubey findet das Set eigentlich gemütlich: lauter Erwachsene, die ernsthaft daran arbeiten, Illusionen herzustellen. Das macht ihn immer wieder demütig.",
+   "quote_clean": "Für mich ist das eigentlich mittlerweile wie ein schönes Wohnzimmer, wo viele Menschen herumwuseln und man sich immer wieder denkt: Das sind alles erwachsene, wahlberechtigte Menschen, die versuchen, ernsthaft Illusionen herzustellen.",
+   "quality": 3
+  },
+  {
+   "i": 19,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit",
+    "ton"
+   ],
+   "note": "Wer-hat-es-gesagt war trivial; zur inhaltlichen Frage umgebaut.",
+   "stand_note": "",
+   "statement": "Manuel Rubey sagt, Schauspielerei habe viel mit Scheitern zu tun, und der Umgang damit entscheide über Gelingen, auch im Leben.",
+   "question": "Womit hat Schauspielerei laut Manuel Rubey ganz viel zu tun?",
+   "answer": "Mit Scheitern",
+   "distractors": [
+    "Mit Glück",
+    "Mit Eitelkeit",
+    "Mit Networking"
+   ],
+   "aha": "Er beruft sich auf Becketts berühmtes „besser scheitern“. Sein Rezept: dem inneren Kind, wenn es sich auf die Goschen haut, liebevoll aufhelfen und weiter ausprobieren lassen.",
+   "quote_clean": "Schauspielerei hat ganz viel mit Scheitern zu tun, und der Umgang damit entscheidet, finde ich, ob es gelingt oder nicht. Und das gilt fürs Leben auch.",
+   "quality": 3
+  },
+  {
+   "i": 21,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt; unterhaltsame persönliche Anekdote.",
+   "stand_note": "",
+   "statement": "Bei seinen ersten Werbecastings wartete Manuel Rubey stundenlang und musste dann Zähne und Hände herzeigen.",
+   "question": "Was musste Manuel Rubey bei seinen ersten Werbecastings nach stundenlangem Warten herzeigen?",
+   "answer": "Zähne und Hände",
+   "distractors": [
+    "Ausweis und Zeugnis",
+    "Füße und Ohren",
+    "Tanzschritte und Liedtext"
+   ],
+   "aha": "Dann ein Satz, „klingt wie auf einem Begräbnis, sei freundlicher“, noch einmal, danke, tschüss. Und gehört hat er davon nie wieder was.",
+   "quote_clean": "Da sitzt man dann fünf Stunden in einem Warteraum, und dann kommt irgendeine unfreundliche Person und ruft dich rein, und dann musst du deine Zähne und deine Hände herzeigen.",
+   "quality": 4
+  },
+  {
+   "i": 22,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Belegt; Rubey betont auch, dass es nicht ganz klappt.",
+   "stand_note": "",
+   "statement": "Manuel Rubey dreht ungern in eigener Kleidung; das Kostüm am Abend auszuziehen ist für ihn ein Ritual, um die Rolle abzulegen.",
+   "question": "Welches Ritual hilft Manuel Rubey, seine Rolle nach dem Drehtag abzulegen?",
+   "answer": "Das Kostüm am Abend ausziehen",
+   "distractors": [
+    "Eine Runde laufen gehen",
+    "Den Text laut verbrennen",
+    "Mit dem Rad heimfahren"
+   ],
+   "aha": "Die Rolle bleibt symbolisch mit dem Gewand am Set. Ganz klappt das trotzdem nicht, wie ihm seine Frau oft genug gesagt hat, irgendein Schatten bleibt hängen.",
+   "quote_clean": "Ich drehe sehr, sehr ungern in Privatklamotten. Da ist mir Arbeitskleidung im wahrsten Sinne des Wortes wirklich wichtig. Das ist für mich auch ein Ritual.",
+   "quality": 4
+  },
+  {
+   "i": 23,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Meta-Frage zum Gesprächsende ohne Wissenswert.",
+   "stand_note": "",
+   "statement": "Andreas Sator schließt das Gespräch mit der Frage, was man vom Schauspielen über das Leben lernen kann.",
+   "question": "Mit welcher Frage beendet Andreas das Gespräch mit Manuel Rubey?",
+   "answer": "Was lernt man daraus fürs Leben?",
+   "distractors": [
+    "Würdest du es wieder machen?",
+    "Was ist deine Lieblingsrolle?",
+    "Wovon träumst du noch?"
+   ],
+   "aha": "Eine typische Andreas-Schlussfrage: vom Fachgebiet zurück ins eigene Leben. Rubeys Antwort war das Scheitern, mit Beckett und dem inneren Kind.",
+   "quote_clean": "Meine letzte Frage ist eine große: Was kann man vom Schauspielen über das Leben lernen?",
+   "quality": 1
+  }
+ ],
+ "id": "56",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

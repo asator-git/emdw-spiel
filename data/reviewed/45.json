@@ -1,0 +1,290 @@
+{
+ "reviews": [
+  {
+   "i": 0,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Beleg bei 375 s stimmt, aber die Zahl ist sachlich zweifelhaft (üblich genannt werden etwa 16 Prozent der Insektizide für Baumwolle); als Faktenfrage zu riskant.",
+   "stand_note": "",
+   "statement": "Rund ein Drittel aller weltweit produzierten Insektizide wird im Baumwollanbau eingesetzt.",
+   "question": "Wie viel Prozent aller weltweit produzierten Insektizide landen laut Nunu Kaller auf Baumwolle?",
+   "answer": "Rund ein Drittel (ca. 33 %)",
+   "distractors": [
+    "Rund 5 %",
+    "Rund 12 %",
+    "Rund 60 %"
+   ],
+   "aha": "Baumwolle ist eine Lieblingspflanze von Schädlingen, und konventionell angebaut wird da ordentlich gespritzt.",
+   "quote_clean": "Ein Drittel aller weltweit produzierten Insektizide landet auf der Baumwolle.",
+   "quality": 2
+  },
+  {
+   "i": 1,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "veraltet"
+   ],
+   "note": "Beleg bei 439-452 s stimmt; Aussage ist Kallers Angabe zu den ganz großen Anbietern, Attribution und Stand ergänzt.",
+   "stand_note": "Stand 2019",
+   "statement": "Laut Nunu Kaller dauert es bei Anbietern wie Zara und H&M von der ersten Designidee bis zum Kleidungsstück im Laden nur zwei bis drei Wochen.",
+   "question": "Wie viele Wochen dauert es laut Nunu Kaller bei ganz großen Fast-Fashion-Ketten von der Designidee bis zum Teil im Laden?",
+   "answer": "Zwei bis drei Wochen",
+   "distractors": [
+    "Drei bis vier Monate",
+    "Ein halbes Jahr",
+    "Acht bis zehn Wochen"
+   ],
+   "aha": "Zara, H&M und Co. bringen ein Design laut Kaller in rund zwei bis drei Wochen um die halbe Welt bis an die Kleiderstange. Da entsteht ordentlich Druck auf die ganze Lieferkette.",
+   "quote_clean": "Die gesamte Lieferkette von der ersten Idee bis dahin, dass es in aller Welt in den Läden ist, liegt inzwischen bei zwei bis drei Wochen.",
+   "quality": 4
+  },
+  {
+   "i": 2,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext"
+   ],
+   "note": "Pauschale Lieferketten-Beschreibung; 'Baumwolle wächst nur in Äquatornähe' ist sachlich falsch (z. B. USA, China, Usbekistan), Türkei-Station nur vage 'meistens'.",
+   "stand_note": "",
+   "statement": "Baumwolle wächst nur in Äquatornähe, wird oft in der Türkei gesponnen und verwebt und dann in Bangladesch genäht.",
+   "question": "Wo wird Baumwolle laut Nunu Kaller meistens gesponnen und verwebt, bevor sie zum Nähen nach Bangladesch geht?",
+   "answer": "In der Türkei",
+   "distractors": [
+    "In Italien",
+    "In Indien",
+    "In Rumänien"
+   ],
+   "aha": "Ein T-Shirt ist ein ziemlicher Weltenbummler.",
+   "quote_clean": "Man hat das Transportthema, weil Baumwolle nur in Äquatornähe wächst. Von dort wird sie transportiert, meistens in die Türkei, wo sie gesponnen und verwebt wird. Dann landet sie in Bangladesch, wo genäht wird.",
+   "quality": 2
+  },
+  {
+   "i": 3,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 421-426 s eindeutig; Begriffserklärung stimmt, Distraktoren klar falsch.",
+   "stand_note": "",
+   "statement": "Mit Nassfertigung bezeichnet man in der Textilproduktion das Färben und Bedrucken von Stoffen.",
+   "question": "Was versteht man in der Textilproduktion unter Nassfertigung?",
+   "answer": "Färben und Bedrucken",
+   "distractors": [
+    "Waschen fertiger Kleidung im Laden",
+    "Anbau bewässerter Baumwolle",
+    "Imprägnieren von Regenjacken"
+   ],
+   "aha": "Nassfertigung klingt nach Waschstraße, meint aber Färben und Bedrucken. Und das passiert laut Kaller oft in einem ganz anderen Land, nämlich China, bevor die Ware weiterreist.",
+   "quote_clean": "Von den Nähereien landet sie oft noch in China, wo die Nassfertigung stattfindet, also wo bedruckt und gefärbt wird.",
+   "quality": 3
+  },
+  {
+   "i": 4,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "'Von keiner Kläranlage aufgehalten' ist überzogen (Kläranlagen halten den Großteil zurück, Fasern gelangen eher über Klärschlamm und Reste in die Umwelt); der Distraktor 'Kläranlagen filtern sie fast komplett heraus' wäre näher an der Realität.",
+   "stand_note": "",
+   "statement": "Beim Waschen von Polyesterkleidung lösen sich Mikroplastikfasern, die so fein sind, dass Kläranlagen sie nicht zurückhalten.",
+   "question": "Was passiert mit den Fasern, die sich beim Waschen von Polyesterkleidung lösen?",
+   "answer": "Sie gehen als Mikroplastik durch Kläranlagen",
+   "distractors": [
+    "Sie lösen sich im Wasser vollständig auf",
+    "Kläranlagen filtern sie fast komplett heraus",
+    "Sie bleiben vollständig im Flusensieb hängen"
+   ],
+   "aha": "Polyester ist Plastik in Faserform.",
+   "quote_clean": "Polyester ist nichts anderes als Plastik. Jedes Kleidungsstück, das ich wasche, lässt Fasern. Nur die Polyesterfasern sind reines Mikroplastik, und zwar so fein, dass sie von keiner Kläranlage aufgehalten werden können.",
+   "quality": 2
+  },
+  {
+   "i": 5,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "spielbarkeit"
+   ],
+   "note": "Behauptung 'kein Material lässt sich so schnell bearbeiten' ist eine nicht belegte Einzelmeinung; der Hauptgrund für Polyester in Fast Fashion ist eher der Preis. Als Faktenfrage zu wackelig.",
+   "stand_note": "",
+   "statement": "Fast-Fashion-Hersteller setzen stark auf Polyester, weil sich kein anderes Material so schnell verarbeiten lässt.",
+   "question": "Warum setzen Fast-Fashion-Hersteller laut Nunu Kaller so stark auf Polyester?",
+   "answer": "Kein Material lässt sich so schnell bearbeiten",
+   "distractors": [
+    "Es ist reißfester als jede Naturfaser",
+    "Es lässt sich am leichtesten recyceln",
+    "Es ist gesetzlich vorgeschrieben"
+   ],
+   "aha": "Wenn ein Design in zwei, drei Wochen im Laden hängen soll, zählt jede Stunde.",
+   "quote_clean": "Es gibt kein Material, das du so schnell bearbeiten kannst. Dementsprechend sind auch die klassischen billigen Fast-Fashion-Hersteller inzwischen voll mit Polyesterkleidung.",
+   "quality": 2
+  },
+  {
+   "i": 7,
+   "verdict": "drop",
+   "issues": [
+    "beleg",
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Neurochemie des Shoppens (Adrenalin vs. Endorphine) ist eine laienhafte, wissenschaftlich unsichere Behauptung; Endorphine als Distraktor taucht im selben Zitatzusammenhang als Antwort auf und macht die Frage mehrdeutig.",
+   "stand_note": "",
+   "statement": "Ein Schnäppchenkauf löst einen Adrenalinschub aus, der Kauf eines lang ersehnten Stücks dagegen Endorphine.",
+   "question": "Welcher Stoff schießt laut Nunu Kaller beim Ergattern eines Schnäppchens durch den Körper?",
+   "answer": "Adrenalin",
+   "distractors": [
+    "Endorphine",
+    "Melatonin",
+    "Cortisol"
+   ],
+   "aha": "Schnäppchen gibt einen Adrenalinkick, das lang ersehnte Lieblingsteil eher Endorphine.",
+   "quote_clean": "Kaufe ich ein Schnäppchen, finde ich also etwas Billiges, das mir total taugt, dann schießt mir das Adrenalin durch meine Gefäße. Das ist ein Drogenkick.",
+   "quality": 2
+  },
+  {
+   "i": 8,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1081 s klar; Wer-sagt-das in eine inhaltliche Frage umgebaut, Distraktoren ersetzt.",
+   "stand_note": "",
+   "statement": "Nunu Kaller sagt, das ökologischste Kleidungsstück sei jenes, das nie produziert wird.",
+   "question": "Was ist laut Nunu Kaller das ökologischste Kleidungsstück?",
+   "answer": "Das, das nie produziert wird",
+   "distractors": [
+    "Eines aus Bio-Baumwolle",
+    "Eines aus recyceltem Polyester",
+    "Eines aus Hanf"
+   ],
+   "aha": "Für Nunu ist es ökologisch nicht so dramatisch, ein konventionell produziertes Teil zu kaufen, Hauptsache es landet nicht im Mülleimer. Am besten ist trotzdem das Teil, das gar nicht erst gemacht wird: also lange tragen.",
+   "quote_clean": "Das ökologischste Kleidungsstück ist das, das nie produziert wird. Das heißt: Trage deine Kleidung so lang wie möglich, achte auf Langlebigkeit.",
+   "quality": 3
+  },
+  {
+   "i": 9,
+   "verdict": "fix",
+   "issues": [
+    "kontext",
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1004-1025 s stimmt, ist aber Kallers Einschätzung (Attribution im Statement ergänzt); schiefe Distraktoren ersetzt.",
+   "stand_note": "",
+   "statement": "Laut Nunu Kaller ändert sich bei Biolinien großer Modeketten oft nur der Stoff, während die Näherin in derselben Fabrik arbeitet.",
+   "question": "Warum misstraut Nunu Kaller den Biolinien großer Modeketten?",
+   "answer": "Nur der Stoff ändert sich, nicht die Fabrik",
+   "distractors": [
+    "Biobaumwolle ist schlechter für die Umwelt",
+    "Die Stoffe sind meist gar nicht echt bio",
+    "Die Kleidung wird nur online verkauft"
+   ],
+   "aha": "Eine Bio-Jeans klingt gut, aber wenn die Näherin in derselben Fabrik bloß einen anderen Stoffballen bekommt, ist sozial nichts gewonnen. Das ist Nunu zu wenig, deshalb achtet sie auf Gütezeichen wie GOTS und Fairtrade.",
+   "quote_clean": "Was heißt das im Endeffekt, wenn zum Beispiel eine große Modekette mir eine Jeans aus Biobaumwolle verkaufen will? Dass die Näherin in der gleichen Fabrik einen anderen Stoffballen vorgelegt bekommt.",
+   "quality": 3
+  },
+  {
+   "i": 12,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1137-1155 s eindeutig; als Kallers Beispiel markiert, Fairtrade korrekt.",
+   "stand_note": "",
+   "statement": "Als der H&M-Chef ein Gütezeichen für faire Produktion forderte, verwies Nunu Kaller darauf, dass es mit Fairtrade längst eines gibt.",
+   "question": "Welches Siegel gibt es laut Nunu Kaller „schon längst“, als der H&M-Chef ein Gütezeichen für faire Produktion forderte?",
+   "answer": "Fairtrade",
+   "distractors": [
+    "Cradle to Cradle",
+    "BSCI",
+    "Der Blaue Engel"
+   ],
+   "aha": "Nunus Lieblingsbeispiel: Der H&M-Chef wünscht sich ein Fairness-Siegel für alle. Gibt's eh, heißt Fairtrade, er müsste nur einsteigen. Unabhängige Siegel haben strengere Regeln als selbstgeschriebene.",
+   "quote_clean": "Vor ein paar Jahren hat sich der CEO von H&M hingestellt und gesagt, er möchte ein Gütezeichen, das faire Produktion garantiert, und dem sollen sich alle anschließen. Haha, das gibt es schon längst.",
+   "quality": 3
+  },
+  {
+   "i": 13,
+   "verdict": "fix",
+   "issues": [
+    "spielbarkeit"
+   ],
+   "note": "Beleg bei 1515-1518 s klar; Wer-sagt-das in inhaltliche Frage umgebaut.",
+   "stand_note": "",
+   "statement": "Nunu Kaller sieht in jedem Einkauf eine politische Handlung, nicht nur im Wählen.",
+   "question": "Was ist laut Nunu Kaller in Wahrheit jede Kaufhandlung?",
+   "answer": "Eine politische Handlung",
+   "distractors": [
+    "Eine rein private Entscheidung",
+    "Ein Beitrag zum Wirtschaftswachstum",
+    "Eine Form der Belohnung"
+   ],
+   "aha": "Wir glauben, unser politischer Beitrag ist das Kreuzerl alle paar Jahre. Für Nunu entscheiden wir mit jedem Einkauf, wohin unser Geld geht, und damit haben wir eine ziemliche Macht.",
+   "quote_clean": "In Wahrheit ist jede Kaufhandlung, die wir tätigen, eine politische Handlung.",
+   "quality": 3
+  },
+  {
+   "i": 14,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 1401-1404 s; Zitat stammt tatsächlich von Adorno (Minima Moralia), Kaller sagt 'frei nach Adorno'.",
+   "stand_note": "",
+   "statement": "Der Satz „Es gibt kein richtiges Leben im Falschen“ stammt vom Philosophen Theodor W. Adorno.",
+   "question": "Auf welchen Philosophen geht der Satz „Es gibt kein richtiges Leben im Falschen“ zurück?",
+   "answer": "Theodor W. Adorno",
+   "distractors": [
+    "Karl Marx",
+    "Jürgen Habermas",
+    "Hannah Arendt"
+   ],
+   "aha": "Nunu zitiert Adorno, um zu sagen: In unserer Konsumwelt kann man es gar nicht ganz richtig machen. Wichtig ist, dass der Wunsch da ist, es besser zu machen, dann ist schon viel getan.",
+   "quote_clean": "Das ist frei nach Adorno: Es gibt kein richtiges Leben im Falschen.",
+   "quality": 4
+  },
+  {
+   "i": 17,
+   "verdict": "keep",
+   "issues": [],
+   "note": "Beleg bei 217-232 s klar; persönliche Angabe der Gästin, harmlos, Aha deckt sich mit dem Transkript.",
+   "stand_note": "",
+   "statement": "Als Nunu Kaller ihren Kleiderschrank durchzählte, kam sie auf 33 Jacken und Mäntel.",
+   "question": "Wie viele Jacken und Mäntel fand Nunu Kaller beim Durchzählen ihres Kleiderschranks?",
+   "answer": "33",
+   "distractors": [
+    "12",
+    "21",
+    "48"
+   ],
+   "aha": "Jeansjacke, Lederjacke, Regenjacke, Winterjacke und alles noch in einer anderen Farbe: So kommt man auf 33 Stück. Im Freundinnenkreis war sie damit übrigens eh nur Durchschnitt.",
+   "quote_clean": "Ich habe dann festgestellt, dass ich zum Beispiel 33 Jacken und Mäntel hatte.",
+   "quality": 4
+  },
+  {
+   "i": 20,
+   "verdict": "drop",
+   "issues": [
+    "spielbarkeit",
+    "beleg"
+   ],
+   "note": "Reine Gesprächs-Trivia; 'typischerweise' ist durch den Ausschnitt nicht belegt, kein Erkenntnisgewinn.",
+   "stand_note": "",
+   "statement": "Andreas bittet Nunu Kaller, sich kurz vorzustellen.",
+   "question": "Womit startet Andreas typischerweise ins Gespräch mit seinem Gast?",
+   "answer": "Er bittet ihn, sich kurz vorzustellen",
+   "distractors": [
+    "Er fragt nach dem Lieblingsbuch",
+    "Er erzählt einen Witz",
+    "Er fragt nach der Kindheit"
+   ],
+   "aha": "Bei Nunu: Wienerin, ehemals Journalistin, Konsumentensprecherin bei Greenpeace.",
+   "quote_clean": "Nunu, bevor wir loslegen, stell dich bitte kurz vor.",
+   "quality": 1
+  }
+ ],
+ "id": "45",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}

@@ -1,0 +1,737 @@
+{
+ "theme": "Gesellschaft & Kultur",
+ "summary": "Christoph Biermann erklärt, wie Daten und Expected Goals den Fußball verändern, warum Zufall so viel entscheidet und warum Sportwetten keine gute Idee sind.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 1178,
+   "speaker": "Christoph Biermann",
+   "quote": "Das heißt, du hast eine 77-prozentige Chance oder sagen wir mal einfach 0,75 Expected Goals, also eine 75-prozentige Chance, dass der Ball reingeht.",
+   "quote_clean": "Das heißt, du hast eine 77-prozentige Chance, oder sagen wir einfach 0,75 Expected Goals, also eine 75-prozentige Chance, dass der Ball reingeht.",
+   "statement": "Ein Elfmeter wird in etwa drei von vier Fällen verwandelt, sein Expected-Goals-Wert liegt bei rund 0,75.",
+   "question": "Wie viel Prozent aller Elfmeter landen ungefähr im Tor?",
+   "answer": "rund 75 Prozent",
+   "distractors": [
+    "rund 55 Prozent",
+    "rund 65 Prozent",
+    "rund 90 Prozent"
+   ],
+   "number_value": 75,
+   "number_unit": "Prozent",
+   "slider_min": 20,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "Der Elfmeter ist die einfachste Situation zum Rechnen: immer elf Meter, ein Schütze, ein Tormann. Deshalb weiß man ziemlich genau, dass rund drei Viertel reingehen – und jeder vierte eben nicht, was die Nerven erklärt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Elfmeter",
+    "Expected Goals"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 543,
+   "speaker": "Christoph Biermann",
+   "quote": "Das ist also dieser berühmte Wert der Expected Goals, der also misst, wenn man so will, oder ermittelt, wie gut die Chancenqualität von Mannschaften ist oder wie viele Chancen sie im Laufe eines Spiels angehäuft haben.",
+   "quote_clean": "Das ist dieser berühmte Wert der Expected Goals, der misst oder ermittelt, wie gut die Chancenqualität von Mannschaften ist oder wie viele Chancen sie im Laufe eines Spiels angehäuft haben.",
+   "statement": "Expected Goals messen die Qualität der Torchancen, die eine Mannschaft im Laufe eines Spiels herausgespielt hat.",
+   "question": "Was misst der Wert „Expected Goals“ im Fußball?",
+   "answer": "Die Qualität der herausgespielten Torchancen",
+   "distractors": [
+    "Die tatsächlich geschossenen Tore",
+    "Die gelaufenen Kilometer pro Spieler",
+    "Den Ballbesitz in Prozent"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Expected Goals schauen nicht aufs Ergebnis, sondern darauf, wie gute Chancen eine Mannschaft hatte. Liegt das echte Ergebnis weit daneben, war eben Glück oder Pech im Spiel.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Expected Goals",
+    "Statistik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1211,
+   "speaker": "Christoph Biermann",
+   "quote": "Also das ist von der Entfernung abhängig. Also wenn man aus 40 Metern schießt, ist es unwahrscheinlicher als aus 5 Metern. Wenn man aus 20 Metern köpft, ist es unwahrscheinlicher, als wenn man aus 20 Metern schießt.",
+   "quote_clean": "Das ist von der Entfernung abhängig. Wenn man aus 40 Metern schießt, ist es unwahrscheinlicher als aus 5 Metern. Wenn man aus 20 Metern köpft, ist es unwahrscheinlicher, als wenn man aus 20 Metern schießt.",
+   "statement": "Die Torwahrscheinlichkeit eines Abschlusses hängt unter anderem von Entfernung, Winkel, Kopfball oder Schuss und der Zahl der Gegner im Weg ab.",
+   "question": "Was ist bei gleicher Entfernung von 20 Metern laut Expected-Goals-Modellen wahrscheinlicher ein Tor?",
+   "answer": "Ein Schuss mit dem Fuß",
+   "distractors": [
+    "Ein Kopfball",
+    "Beides gleich wahrscheinlich",
+    "Ein Volley mit dem Knie"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Für jeden Abschluss gibt es ein kleines Preisschildchen: Entfernung, Winkel, Kopf oder Fuß, wie viele Leute im Weg stehen. Ein Kopfball aus 20 Metern ist da ziemlich billig zu haben.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Expected Goals",
+    "Torschuss"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 377,
+   "speaker": "Christoph Biermann",
+   "quote": "das ist etwas, was dem Fußball ganz tief inne wohnt und meiner Meinung nach auch die Erklärung dafür ist, warum Fußball überhaupt so populär ist. Dass Fußball nämlich ungerecht ist",
+   "quote_clean": "Das ist etwas, was dem Fußball ganz tief innewohnt und meiner Meinung nach auch die Erklärung dafür ist, warum Fußball überhaupt so populär ist: dass Fußball nämlich ungerecht ist.",
+   "statement": "Christoph Biermann meint, Fußball sei gerade deshalb so populär, weil er ungerecht sein kann – zwischen Leistung und Ertrag klafft oft eine Lücke.",
+   "question": "Warum ist Fußball laut Christoph Biermann überhaupt so populär?",
+   "answer": "Weil er ungerecht sein kann",
+   "distractors": [
+    "Weil er so leicht zu lernen ist",
+    "Weil er im Fernsehen läuft",
+    "Weil die Spiele so kurz sind"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine Mannschaft spielt toll, vergibt alles, der Gegner schießt einmal aufs Tor und gewinnt. Genau diese Lücke zwischen Leistung und Ergebnis macht laut Biermann den Zauber aus – bis hin zum Cup-Wunder des Unterklassigen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zufall",
+    "Fußball"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 777,
+   "speaker": "Christoph Biermann",
+   "quote": "sie wären, glaube ich, normalerweise Dritter oder Vierter gewesen, waren aber Fünfzehnter.",
+   "quote_clean": "Sie wären normalerweise Dritter oder Vierter gewesen, waren aber Fünfzehnter.",
+   "statement": "In Jürgen Klopps letzter Saison bei Borussia Dortmund wäre das Team nach den erwarteten Punkten etwa Dritter oder Vierter gewesen, stand aber zwischenzeitlich auf Platz 15.",
+   "question": "Auf welchem Tabellenplatz stand Borussia Dortmund in Klopps letzter Saison, obwohl die Daten eher Platz 3 oder 4 erwarten ließen?",
+   "answer": "Platz 15",
+   "distractors": [
+    "Platz 8",
+    "Platz 11",
+    "Platz 18"
+   ],
+   "number_value": 15,
+   "number_unit": "Tabellenplatz",
+   "slider_min": 1,
+   "slider_max": 18,
+   "log_scale": false,
+   "aha": "Nach Chancenqualität war das eine ganz okaye Saison, nach Punkten fast Abstiegskampf. Über Wochen Pech produziert eine Dynamik, die selbst einen Klopp zweifeln lässt.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Klopp",
+    "Dortmund",
+    "Pech"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 821,
+   "speaker": "Christoph Biermann",
+   "quote": "Und sie haben ihm genau das gesagt. Also, hey Jürgen, wir haben gesehen, dass du irgendwie unglaublich viel Pech hattest in der Saison.",
+   "quote_clean": "Und sie haben ihm genau das gesagt: Hey Jürgen, wir haben gesehen, dass du unglaublich viel Pech hattest in der Saison.",
+   "statement": "Als Jürgen Klopp zum FC Liverpool kam, sagte ihm dessen Datenabteilung, dass er in seiner letzten Dortmund-Saison vor allem enormes Pech gehabt habe.",
+   "question": "Was sagte die Datenabteilung des FC Liverpool Jürgen Klopp über seine letzte Saison in Dortmund?",
+   "answer": "Dass er unglaublich viel Pech hatte",
+   "distractors": [
+    "Dass seine Taktik veraltet war",
+    "Dass die Mannschaft zu wenig lief",
+    "Dass der Tormann das Problem war"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Klopp hatte die vergebenen Chancen und abgefälschten Fernschüsse eh alle im Kopf, er war nur nie systematisch damit konfrontiert worden. In Dortmund gab es so eine Datenabteilung damals nicht.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Klopp",
+    "Liverpool",
+    "Daten"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 623,
+   "speaker": "Christoph Biermann",
+   "quote": "Also, ich will es mal konkret machen, eine Mannschaft hat unheimlich viel Pech und schmeißt den Trainer raus, was ja nicht selten passiert. Soll man wirklich jemanden rauswerfen, nur weil er Pech hat?",
+   "quote_clean": "Ich will es konkret machen: Eine Mannschaft hat unheimlich viel Pech und schmeißt den Trainer raus, was nicht selten passiert. Soll man wirklich jemanden rauswerfen, nur weil er Pech hat?",
+   "statement": "Wer Glück und Pech nicht von Leistung trennt, zieht falsche Schlüsse – etwa einen Trainer zu entlassen, der nur Pech hatte, oder sich bei Glückssträhnen nicht zu verbessern.",
+   "question": "Welchen typischen Fehler können Expected-Goals-Daten laut Christoph Biermann verhindern helfen?",
+   "answer": "Einen Trainer nur wegen Pech entlassen",
+   "distractors": [
+    "Zu viele Elfmeter zu trainieren",
+    "Zu teure Stürmer zu kaufen",
+    "Zu oft das System zu wechseln"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Über eine Halbsaison kann man deutlich weniger Punkte holen, als man verdient hätte – oder umgekehrt. Danach kommt die Regression zur Mitte, und wer das nicht sieht, wundert sich oder wirft den Falschen raus.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Zufall",
+    "Regression zur Mitte"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 2034,
+   "speaker": "Christoph Biermann",
+   "quote": "Und dieser Verein ist in diesem Sommer in die Premier League aufgestiegen und ist damit zum ersten Mal, ich weiß nicht ganz genau, seit 74 Jahren oder sowas wieder erstklassig.",
+   "quote_clean": "Und dieser Verein ist in diesem Sommer in die Premier League aufgestiegen und ist damit zum ersten Mal seit etwa 74 Jahren wieder erstklassig.",
+   "statement": "Der FC Brentford stieg 2021 in die Premier League auf und spielte damit zum ersten Mal seit rund 74 Jahren wieder erstklassig.",
+   "question": "Seit wie vielen Jahren hatte der FC Brentford vor seinem Aufstieg 2021 nicht mehr in der höchsten englischen Liga gespielt?",
+   "answer": "rund 74 Jahre",
+   "distractors": [
+    "rund 25 Jahre",
+    "rund 45 Jahre",
+    "rund 100 Jahre"
+   ],
+   "number_value": 74,
+   "number_unit": "Jahre",
+   "slider_min": 5,
+   "slider_max": 120,
+   "log_scale": false,
+   "aha": "Brentford ist ein kleiner Londoner Klub, dessen Stadion quasi auf dem Weg nach Heathrow liegt. Dass der nach Jahrzehnten wieder oben mitspielt, hat viel mit Wahrscheinlichkeitsrechnung zu tun.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Brentford",
+    "Premier League"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2046,
+   "speaker": "Christoph Biermann",
+   "quote": "Und dieser Verein gehört besagten Matthew Benham, der ein Fan dieses Vereins sein Leben lang auch ist. Und der hat sehr viel Geld verdient und ich denke, er verdient auch weiterhin sehr viel Geld mit Fußballwetten.",
+   "quote_clean": "Und dieser Verein gehört Matthew Benham, der sein Leben lang Fan dieses Vereins ist. Er hat sehr viel Geld verdient und verdient auch weiterhin sehr viel Geld mit Fußballwetten.",
+   "statement": "Brentford-Besitzer Matthew Benham ist mit industriell betriebenen, algorithmusgestützten Fußballwetten reich geworden.",
+   "question": "Womit hat Brentford-Besitzer Matthew Benham sein Vermögen gemacht?",
+   "answer": "Mit Fußballwetten",
+   "distractors": [
+    "Mit Spielerberatung",
+    "Mit Fernsehrechten",
+    "Mit Immobilien in London"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Benham wettet nicht auf zwei, drei Spiele am Wochenende, sondern auf hunderte, mit komplizierten Algorithmen gegen den Wettmarkt. Ein Teil des Gewinns floss in seinen Herzensklub.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Brentford",
+    "Sportwetten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2540,
+   "speaker": "Christoph Biermann",
+   "quote": "Wo es übrigens auch einen Besitzer gibt, der mit Sportwetten sehr reich geworden ist.",
+   "quote_clean": "Wo es übrigens auch einen Besitzer gibt, der mit Sportwetten sehr reich geworden ist.",
+   "statement": "Auch der Besitzer von Brighton & Hove Albion ist mit Sportwetten reich geworden und setzt stark auf Daten.",
+   "question": "Welcher Premier-League-Klub hat – wie Brentford – einen Besitzer, der mit Sportwetten reich wurde?",
+   "answer": "Brighton & Hove Albion",
+   "distractors": [
+    "Manchester United",
+    "FC Arsenal",
+    "Newcastle United"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Brighton holte über Daten den Ingolstädter Pascal Groß für eine bescheidene Ablöse, und der etablierte sich in der Premier League. Biermann nennt ihn eine unterbewertete Aktie.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Brighton",
+    "Sportwetten"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 2709,
+   "speaker": "Christoph Biermann",
+   "quote": "Also natürlich leben die Wettanbieter von der Selbstüberschätzung der Fußballfans.",
+   "quote_clean": "Natürlich leben die Wettanbieter von der Selbstüberschätzung der Fußballfans.",
+   "statement": "Christoph Biermann sagt, Wettanbieter leben von der Selbstüberschätzung der Fußballfans – deshalb wettet er nie.",
+   "question": "Wovon leben Wettanbieter laut Christoph Biermann?",
+   "answer": "Von der Selbstüberschätzung der Fans",
+   "distractors": [
+    "Von manipulierten Spielen",
+    "Von der Werbung im Stadion",
+    "Von den Gebühren der Klubs"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Weil es zwischendurch auch Gewinne gibt, fühlt man sich in seinem guten Näschen bestätigt – zu Unrecht. Biermann rät dann eher zum Lottoschein, und auch das nur halb im Ernst.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Sportwetten",
+    "Psychologie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2753,
+   "speaker": "Christoph Biermann",
+   "quote": "Also, ah, die 23, die war jetzt schon, keine Ahnung, 27 Wochen nicht mehr, die müsste doch jetzt eigentlich kommen, als ob die 23 das wüsste.",
+   "quote_clean": "Ah, die 23 war jetzt schon 27 Wochen nicht mehr, die müsste doch jetzt eigentlich kommen – als ob die 23 das wüsste.",
+   "statement": "Menschen glauben auch in Lottozahlen Muster zu erkennen, etwa dass eine lange nicht gezogene Zahl bald kommen müsse – obwohl jede Ziehung unabhängig ist.",
+   "question": "Eine Lottozahl wurde 27 Wochen nicht gezogen. Wie verändert das ihre Chance bei der nächsten Ziehung?",
+   "answer": "Gar nicht",
+   "distractors": [
+    "Sie steigt deutlich",
+    "Sie sinkt leicht",
+    "Sie verdoppelt sich"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Kugeln haben kein Gedächtnis – als ob die 23 das wüsste. Wir Menschen sind aber so gebaut, dass wir überall Muster und Geschichten sehen, auch dort, wo keine sind.",
+   "difficulty": 1,
+   "time_sensitive": false,
+   "tags": [
+    "Zufall",
+    "Lotto"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2923,
+   "speaker": "Christoph Biermann",
+   "quote": "Und wir sehen ja übrigens auch, dass der Heimvorteil in den letzten Jahren generell deutlich abgenommen hat. Also nicht nur unter diesen Corona-Bedingungen, wo kein Publikum im Stadion war",
+   "quote_clean": "Und wir sehen übrigens auch, dass der Heimvorteil in den letzten Jahren generell deutlich abgenommen hat – nicht nur unter Corona-Bedingungen, wo kein Publikum im Stadion war.",
+   "statement": "Der Heimvorteil im Fußball hat in den letzten Jahren generell deutlich abgenommen, nicht nur während der Geisterspiele in der Pandemie.",
+   "question": "Wie hat sich der Heimvorteil im Profifußball in den letzten Jahren entwickelt?",
+   "answer": "Er hat deutlich abgenommen",
+   "distractors": [
+    "Er ist deutlich gestiegen",
+    "Er ist gleich geblieben",
+    "Er existiert nur im Derby"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Früher hieß ein weites Auswärtsspiel eine lange Busfahrt, heute fliegt Freiburg nach Berlin. Dazu kamen die Geisterspiele ohne Fans, in denen der Vorteil zeitweise fast weg war.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Heimvorteil",
+    "Statistik"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 3196,
+   "speaker": "Christoph Biermann",
+   "quote": "Und weil sie zu dem Zeitpunkt eine geringe Wahrscheinlichkeit hatten, noch aufsteigen zu können und eine fast nicht existente Wahrscheinlichkeit hatten, noch absteigen zu können, haben sie gesagt, wir nehmen dieses Angebot an",
+   "quote_clean": "Und weil sie zu dem Zeitpunkt eine geringe Wahrscheinlichkeit hatten, noch aufzusteigen, und eine fast nicht existente Wahrscheinlichkeit, noch abzusteigen, haben sie gesagt: Wir nehmen dieses Angebot an.",
+   "statement": "Brentford verkaufte mitten in der Saison einen Stammspieler, weil Auf- und Abstieg nach den Wahrscheinlichkeiten ohnehin kaum mehr möglich waren und der Verkauf viel Geld brachte.",
+   "question": "Warum verkaufte Brentford in der Winterpause einen beliebten Innenverteidiger, obwohl die Fans protestiert hätten?",
+   "answer": "Weder Auf- noch Abstieg waren wahrscheinlich",
+   "distractors": [
+    "Er hatte Streit mit dem Trainer",
+    "Er war dauerhaft verletzt",
+    "Die Liga zwang sie dazu"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Schwächung der Mannschaft würde am Saisonergebnis kaum etwas ändern, das Geld aber sehr wohl. Kaltherzig, sagt Biermann – und bei Schalke oder Rapid wohl undenkbar.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Brentford",
+    "Transfers"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 3507,
+   "speaker": "Christoph Biermann",
+   "quote": "Und mit Fluch des Geldes meine ich, dass halt der, natürlich insgesamt der Zusammenhang zwischen Geldeinsatz und sportlichem Erfolg so hoch ist. Also wer mehr Geld ausgibt, wird am Ende in aller Regel auch erfolgreicher sein als die anderen.",
+   "quote_clean": "Mit Fluch des Geldes meine ich, dass insgesamt der Zusammenhang zwischen Geldeinsatz und sportlichem Erfolg so hoch ist. Wer mehr Geld ausgibt, wird am Ende in aller Regel auch erfolgreicher sein als die anderen.",
+   "statement": "Im Fußball hängen Geldeinsatz und sportlicher Erfolg stark zusammen; klug genutzte Informationen können diesen Fluch des Geldes manchmal überwinden.",
+   "question": "Was meint Christoph Biermann mit dem „Fluch des Geldes“ im Fußball?",
+   "answer": "Wer mehr ausgibt, ist meist erfolgreicher",
+   "distractors": [
+    "Reiche Klubs verlieren ihre Fans",
+    "Hohe Gehälter machen Spieler faul",
+    "Geld zerstört die Jugendarbeit"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Am Ende gewinnt in aller Regel, wer am meisten zahlt. Klubs wie Brentford, Leicester oder Red Bull Salzburg zeigen aber, dass man mit Daten und Gespür zumindest manchmal dagegen ankommt.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Geld",
+    "Erfolg"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3680,
+   "speaker": "Christoph Biermann",
+   "quote": "sie haben als einer der ersten Clubs einen Trainer für Standardsituationen beschäftigt und ihm auch Zeit gegeben, mit der Mannschaft zu arbeiten",
+   "quote_clean": "Sie haben als einer der ersten Clubs einen Trainer für Standardsituationen beschäftigt und ihm auch Zeit gegeben, mit der Mannschaft zu arbeiten.",
+   "statement": "Der FC Brentford beschäftigte als einer der ersten Klubs einen eigenen Trainer für Standardsituationen.",
+   "question": "Welche Spezialisten-Rolle führte der FC Brentford als einer der ersten Klubs ein?",
+   "answer": "Trainer für Standardsituationen",
+   "distractors": [
+    "Trainer für Tormänner",
+    "Trainer für Ernährung",
+    "Trainer für Mentaltraining"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ecken, Freistöße, Einwürfe – lange als lästiges Beiwerk trainiert. Inzwischen hat sogar die deutsche Nationalmannschaft unter Hansi Flick so einen Spezialisten im Team.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Standards",
+    "Brentford"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3747,
+   "speaker": "Christoph Biermann",
+   "quote": "aber vor der WM 2014 in Brasilien hat sich dann Flick in der Frage durchsetzen können und hat sehr viel mit der Mannschaft Standards trainiert",
+   "quote_clean": "Aber vor der WM 2014 in Brasilien hat sich Flick in der Frage durchsetzen können und hat sehr viel mit der Mannschaft Standards trainiert.",
+   "statement": "Vor der WM 2014 setzte Assistent Hansi Flick bei Jogi Löw intensives Standardtraining durch; mehrere wichtige Tore Deutschlands fielen danach aus Standards.",
+   "question": "Wer setzte vor der WM 2014 in der deutschen Nationalmannschaft durch, dass viel mehr Standardsituationen trainiert wurden?",
+   "answer": "Hansi Flick",
+   "distractors": [
+    "Jogi Löw",
+    "Oliver Bierhoff",
+    "Thomas Müller"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Löw fand Standards eher fad, sein Assistent Flick nicht. Flick ließ Kleingruppen eigene Varianten erfinden und im Training testen – und Deutschland wurde auch dank Standardtoren Weltmeister.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "WM 2014",
+    "Standards"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3810,
+   "speaker": "Christoph Biermann",
+   "quote": "weil dieser Davidson hat beim dänischen Club FC Midtjylland gearbeitet, die auf eine ganz ähnliche Art und Weise wie Brentford zu einem dänischen Spitzenclub geworden sind und die gehören, besagten Matthew Burnham auch noch.",
+   "quote_clean": "Weil dieser Davidson beim dänischen Club FC Midtjylland gearbeitet hat, der auf ganz ähnliche Art und Weise wie Brentford zu einem dänischen Spitzenclub geworden ist – und der gehört auch Matthew Benham.",
+   "statement": "Matthew Benham besitzt neben Brentford auch den dänischen Klub FC Midtjylland, der mit einem ähnlichen datengetriebenen Ansatz zum Spitzenklub wurde.",
+   "question": "Welcher dänische Klub gehört ebenfalls dem Brentford-Besitzer Matthew Benham?",
+   "answer": "FC Midtjylland",
+   "distractors": [
+    "FC Kopenhagen",
+    "Brøndby IF",
+    "Aalborg BK"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Von Midtjylland kam auch der Standard-Spezialist, den Hansi Flick ins Nationalteam holte. Die Datenwelt im Fußball ist offenbar ein recht kleines Dorf.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Midtjylland",
+    "Benham"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3912,
+   "speaker": "Christoph Biermann",
+   "quote": "sie haben ein B-Team gegründet und dieses B-Team spielt in keiner Liga, das heißt, sie müssen diesem B-Team ihren eigenen Spielbetrieb organisieren",
+   "quote_clean": "Sie haben ein B-Team gegründet, und dieses B-Team spielt in keiner Liga. Das heißt, sie müssen diesem B-Team einen eigenen Spielbetrieb organisieren.",
+   "statement": "Brentford schaffte seine Jugendakademie ab und gründete stattdessen ein B-Team aus Talenten, die anderswo aussortiert wurden – es spielt in keiner Liga.",
+   "question": "Was machte der FC Brentford, nachdem er seine Jugendakademie abgeschafft hatte?",
+   "answer": "Ein B-Team aus aussortierten Talenten gegründet",
+   "distractors": [
+    "Nur noch fertige Profis gekauft",
+    "Eine Akademie in Afrika eröffnet",
+    "Mit einem Partnerklub fusioniert"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Gute eigene Talente wurden Brentford ohnehin sofort weggeschnappt, die Entschädigungen waren minimal. Also sammelt das B-Team die Aussortierten anderer Akademien – und bringt mehr Profis hervor als vorher die eigene Jugend.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Brentford",
+    "Nachwuchs"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3890,
+   "speaker": "Christoph Biermann",
+   "quote": "das ist in England auch nicht vorgeschrieben, dass du deine eigene Jugendarbeit machst, in Deutschland würde das nicht gehen, weil das da sozusagen Teil der Lizenzierung ist, dass man eine Jugendmannschaft hat",
+   "quote_clean": "Das ist in England auch nicht vorgeschrieben, dass du deine eigene Jugendarbeit machst. In Deutschland würde das nicht gehen, weil es dort Teil der Lizenzierung ist, dass man eine Jugendmannschaft hat.",
+   "statement": "In Deutschland ist eine eigene Jugendmannschaft Teil der Lizenzierung von Profiklubs, in England nicht.",
+   "question": "Warum könnte ein deutscher Profiklub seine Jugendmannschaft nicht einfach abschaffen wie Brentford?",
+   "answer": "Sie ist Teil der Lizenzierung",
+   "distractors": [
+    "Das Jugendschutzgesetz verbietet es",
+    "Die Fans müssten zustimmen",
+    "Die UEFA würde ihn sperren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In England darf ein Klub sagen: Jugendarbeit rechnet sich nicht, wir steigen aus. In Deutschland bekommt man ohne Nachwuchsmannschaft gar keine Lizenz.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Nachwuchs",
+    "Lizenzierung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 4300,
+   "speaker": "Christoph Biermann",
+   "quote": "weil das Verrückte ist, dass wir Fußball mit dem Fuß spielen. Und das ist ja was sinnlos Kompliziertes, während man beim Basketball die Hände benutzt und beim Football die Hände benutzt",
+   "quote_clean": "Weil das Verrückte ist, dass wir Fußball mit dem Fuß spielen. Und das ist etwas sinnlos Kompliziertes, während man beim Basketball und beim Football die Hände benutzt.",
+   "statement": "Fußball ist schwerer vorherzusagen als Basketball oder Football, weil mit dem Fuß gespielt wird – das macht alles unpräziser und erhöht den Zufall.",
+   "question": "Warum ist Fußball laut Christoph Biermann schwerer vorherzusagen als Basketball oder American Football?",
+   "answer": "Weil mit dem Fuß gespielt wird",
+   "distractors": [
+    "Weil es weniger Daten gibt",
+    "Weil die Spiele länger dauern",
+    "Weil es mehr Schiedsrichter gibt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Mit den Füßen einen Ball zu kontrollieren ist eigentlich eine absurde Idee. Genau diese Unpräzision bringt den Zufall ins Spiel – und macht Fußball schwerer berechenbar als Sportarten mit Händen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Prognose",
+    "Zufall"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4337,
+   "speaker": "Christoph Biermann",
+   "quote": "Ich glaube, dass die US-Sportarten da immer noch einen großen Vorsprung haben. Ich glaube auch natürlich, weil ihre Sportarten über Daten noch besser zu fassen sind als Fußball. Aber Fußball holt auf.",
+   "quote_clean": "Ich glaube, dass die US-Sportarten da immer noch einen großen Vorsprung haben, natürlich auch, weil ihre Sportarten über Daten noch besser zu fassen sind als Fußball. Aber Fußball holt auf.",
+   "statement": "Beim Stellenwert von Daten haben US-Sportarten wie Baseball oder Basketball noch einen großen Vorsprung vor dem Fußball, der aber aufholt.",
+   "question": "Wo haben Daten laut Christoph Biermann den größeren Stellenwert: im Fußball oder in US-Sportarten?",
+   "answer": "In den US-Sportarten",
+   "distractors": [
+    "Im Fußball",
+    "Überall gleich",
+    "Nur im Eishockey"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Baseball oder Basketball lassen sich viel leichter in Zahlen fassen: klare Spielzüge, viele Würfe, wenig Chaos. Der Fußball holt aber auf.",
+   "difficulty": 1,
+   "time_sensitive": true,
+   "tags": [
+    "Daten",
+    "US-Sport"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1772,
+   "speaker": "Christoph Biermann",
+   "quote": "dass inzwischen fast alle Vereine was mit Daten machen, ähm, also ich sage das jetzt mal so bewusst, ähm, ähm, unspezifisch, ähm, ähm, und das allerdings wahrscheinlich nicht so viele Vereine, das richtig systematisch auf hohem Niveau in ihre Entscheidungsprozesse eingewoben haben.",
+   "quote_clean": "Dass inzwischen fast alle Vereine etwas mit Daten machen, ich sage das bewusst unspezifisch, aber wahrscheinlich nicht so viele Vereine das richtig systematisch auf hohem Niveau in ihre Entscheidungsprozesse eingewoben haben.",
+   "statement": "Fast alle Profiklubs arbeiten heute irgendwie mit Daten, aber nur wenige haben sie systematisch in ihre Entscheidungen eingebaut.",
+   "question": "Wie verbreitet ist laut Christoph Biermann die systematische Datennutzung im Profifußball?",
+   "answer": "Fast alle nutzen Daten, wenige systematisch",
+   "distractors": [
+    "Kaum ein Klub nutzt Daten",
+    "Alle Klubs entscheiden rein datenbasiert",
+    "Nur die Nationalteams nutzen Daten"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Oft macht man es, um erzählen zu können, dass man beim modernen Zeug dabei ist. Viele Trainer und Manager sind damit nicht aufgewachsen, und so entsteht ein Übersetzungsproblem zwischen Analysten und Praktikern.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Daten",
+    "Vereine"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "andreas_frage",
+   "t": 4113,
+   "speaker": "Andreas Sator",
+   "quote": "Woran erkennt man einen guten Fußballspieler?",
+   "quote_clean": "Woran erkennt man einen guten Fußballspieler?",
+   "statement": "Andreas stellt eine Hörerfrage, die simpel klingt, aber Biermann ins Grübeln bringt: Woran erkennt man einen guten Fußballspieler?",
+   "question": "Welche scheinbar simple Hörerfrage stellt Andreas Christoph Biermann gegen Ende der Folge?",
+   "answer": "Woran erkennt man einen guten Fußballspieler?",
+   "distractors": [
+    "Wer ist der beste Spieler aller Zeiten?",
+    "Wie wird man Profifußballer?",
+    "Warum verdienen Fußballer so viel?"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Biermanns Antwort: einer, der die gestellten Aufgaben löst und dadurch seiner Mannschaft hilft – egal ob Kreisliga oder Premier League. Die bessere Antwort falle ihm aber sicher erst nach dem Podcast ein.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Hörerfrage"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 2772,
+   "speaker": "Andreas Sator",
+   "quote": "Und da habe ich immer noch den Muster gespielt, 7, 12, 21, 32, also so ein Muster in diesen völlig beliebigen, zufälligen Zahlen, die gezogen werden, zu finden.",
+   "quote_clean": "Und da habe ich immer ein Muster gespielt, 7, 12, 21, 32, also versucht, ein Muster in diesen völlig beliebigen, zufälligen Zahlen zu finden.",
+   "statement": "Andreas gesteht, dass er beim Lotto früher immer nach einem Zahlenmuster getippt hat – obwohl 1, 2, 3, 4, 5, 6 genauso wahrscheinlich ist.",
+   "question": "Was gesteht Andreas über seine früheren Lottotipps?",
+   "answer": "Er hat immer ein Zahlenmuster getippt",
+   "distractors": [
+    "Er hat immer Geburtstage getippt",
+    "Er hat nie selbst getippt",
+    "Er hat einmal gewonnen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Andreas nennt es selbst ziemlich stumpfsinnig: 1, 2, 3, 4, 5, 6 ist genauso wahrscheinlich. Biermann tröstet ihn – wir Menschen erkennen halt überall Muster, auch wo keine sind.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Lotto",
+    "Muster"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "s20211229",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-13"
+}

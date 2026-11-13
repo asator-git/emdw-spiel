@@ -1,0 +1,821 @@
+{
+ "theme": "Wirtschaft & Arbeit",
+ "summary": "Vermögenssteuer, Erbschaftssteuer, Grundsteuer: Margit Schratzenstaller dröselt auf, was Österreich besteuert, was nicht mehr und was sinnvoll wäre.",
+ "candidates": [
+  {
+   "kind": "zahl",
+   "t": 188,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "Insgesamt geht es ungefähr um 110 Milliarden Euro, die hier eingehoben werden. Nur Steuern, dazu kommen noch die Sozialversicherungsbeiträge.",
+   "quote_clean": "Insgesamt geht es um ungefähr 110 Milliarden Euro, die hier eingehoben werden. Nur Steuern, dazu kommen noch die Sozialversicherungsbeiträge.",
+   "statement": "Der österreichische Staat nimmt pro Jahr rund 110 Milliarden Euro an Steuern ein, Sozialversicherungsbeiträge noch nicht mitgerechnet.",
+   "question": "Wie viele Milliarden Euro nimmt Österreich ungefähr pro Jahr an Steuern ein, ohne Sozialversicherungsbeiträge?",
+   "answer": "Rund 110 Milliarden Euro",
+   "distractors": [
+    "Rund 40 Milliarden Euro",
+    "Rund 250 Milliarden Euro",
+    "Rund 70 Milliarden Euro"
+   ],
+   "number_value": 110,
+   "number_unit": "Milliarden Euro",
+   "slider_min": 10,
+   "slider_max": 500,
+   "log_scale": false,
+   "aha": "Das sind nur die Steuern, die Sozialversicherungsbeiträge kommen noch obendrauf. Rund 30 Prozent davon wandern über den Finanzausgleich weiter an Länder und Gemeinden.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Steuern",
+    "Staatshaushalt"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 199,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "ein Teil dieser Steuern eben über den Finanzausgleich an Länder und Gemeinden geht, ungefähr 30 Prozent, damit die ihre Aufgaben und die entsprechenden Ausgaben finanzieren können.",
+   "quote_clean": "Ein Teil dieser Steuern geht über den Finanzausgleich an Länder und Gemeinden, ungefähr 30 Prozent, damit die ihre Aufgaben und Ausgaben finanzieren können.",
+   "statement": "Rund 30 Prozent der österreichischen Steuereinnahmen gehen über den Finanzausgleich an Länder und Gemeinden.",
+   "question": "Wie viel Prozent der Steuereinnahmen gibt der Bund über den Finanzausgleich ungefähr an Länder und Gemeinden weiter?",
+   "answer": "Ungefähr 30 Prozent",
+   "distractors": [
+    "Ungefähr 10 Prozent",
+    "Ungefähr 50 Prozent",
+    "Ungefähr 70 Prozent"
+   ],
+   "number_value": 30,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 80,
+   "log_scale": false,
+   "aha": "Länder und Gemeinden heben selbst nur wenige Steuern ein. Im Finanzausgleich wird ausgehandelt, wer wie viel vom gemeinsamen Topf kriegt, etwa für Schulen oder Spitäler.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Finanzausgleich",
+    "Gemeinden"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 216,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "Die wird auf ungefähr 33 Milliarden Euro budgetiert für das Jahr 2023. Und die Mehrwertsteuer, die wird auf 37 Milliarden Euro für 2023 budgetiert.",
+   "quote_clean": "Die Lohnsteuer wird für das Jahr 2023 auf ungefähr 33 Milliarden Euro budgetiert, und die Mehrwertsteuer auf 37 Milliarden Euro.",
+   "statement": "2023 hat die Mehrwertsteuer (rund 37 Milliarden Euro) die Lohnsteuer (rund 33 Milliarden Euro) als größte Steuer Österreichs überholt.",
+   "question": "Welche Steuer brachte Österreich 2023 laut Budget am meisten ein?",
+   "answer": "Die Mehrwertsteuer",
+   "distractors": [
+    "Die Lohnsteuer",
+    "Die Körperschaftsteuer",
+    "Die Mineralölsteuer"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wegen der hohen Inflation steigen die Preise und damit die Basis für die Mehrwertsteuer. Gleichzeitig dämpfen eine Steuerreform und das Ende der kalten Progression die Lohnsteuer.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Mehrwertsteuer",
+    "Lohnsteuer"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 343,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "Also insgesamt für große Teile des Einkommens wirkt die Umsatzsteuer, wir nennen das regressiv, das heißt die Steuerbelastung sinkt mit steigendem Einkommen.",
+   "quote_clean": "Insgesamt wirkt die Umsatzsteuer für große Teile des Einkommens regressiv, das heißt, die Steuerbelastung sinkt mit steigendem Einkommen.",
+   "statement": "Die Umsatzsteuer wirkt regressiv: Gemessen am Einkommen zahlen Ärmere anteilig mehr als Reiche.",
+   "question": "Was bedeutet es, dass die Umsatzsteuer „regressiv“ wirkt?",
+   "answer": "Die Belastung sinkt mit steigendem Einkommen",
+   "distractors": [
+    "Die Belastung steigt mit dem Einkommen",
+    "Alle zahlen den gleichen Anteil",
+    "Nur Reiche zahlen sie überhaupt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer wenig verdient, gibt fast alles für Konsum aus, wer viel verdient, spart einen Teil. Absolut zahlt der Milliardär zwar mehr Umsatzsteuer, gemessen am Einkommen aber viel weniger als jemand mit 10.000 Euro im Jahr.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Umsatzsteuer",
+    "Verteilung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 596,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "Wenn ich an der Lohnsteuer und im Übrigen nicht nur an der Lohnsteuer, sondern an den Sozialversicherungsbeiträgen drehe, dann reagiert das Arbeitsangebot der Frauen, wenn sie Kinder haben, viel, viel sensibler als das der Männer.",
+   "quote_clean": "Wenn ich an der Lohnsteuer und an den Sozialversicherungsbeiträgen drehe, dann reagiert das Arbeitsangebot von Frauen mit Kindern viel, viel sensibler als das der Männer.",
+   "statement": "Wie viel Menschen arbeiten, reagiert bei Frauen mit Kindern viel stärker auf Steuern und Abgaben als bei Männern.",
+   "question": "Wessen Arbeitsangebot reagiert laut Studien am stärksten auf Änderungen bei Lohnsteuer und Abgaben?",
+   "answer": "Das von Frauen mit Kindern",
+   "distractors": [
+    "Das von Männern mittleren Alters",
+    "Das von Gutverdienenden",
+    "Das von Frauen ohne Kinder"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Bei den meisten Männern passiert fast nichts, egal ob die Steuern steigen oder sinken. Bei Müttern spielen Kinderbetreuung, der große Lohnunterschied und soziale Normen mit, da können ein paar Prozent mehr Netto schon den Ausschlag für mehr Stunden geben.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Arbeitsmarkt",
+    "Frauen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 769,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "Ungefähr, also ganz grob gesagt, die Hälfte der Sozialversicherungsbeiträge entfällt auf die Unternehmen.",
+   "quote_clean": "Ganz grob gesagt entfällt ungefähr die Hälfte der Sozialversicherungsbeiträge auf die Unternehmen.",
+   "statement": "In Österreich zahlen die Unternehmen grob die Hälfte der Sozialversicherungsbeiträge.",
+   "question": "Wie viel Prozent der Sozialversicherungsbeiträge entfallen in Österreich grob auf die Unternehmen?",
+   "answer": "Ungefähr 50 Prozent",
+   "distractors": [
+    "Ungefähr 20 Prozent",
+    "Ungefähr 80 Prozent",
+    "Ungefähr 35 Prozent"
+   ],
+   "number_value": 50,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 90,
+   "log_scale": false,
+   "aha": "Dazu kommen für Betriebe noch Kommunalsteuer und Beiträge wie jener zum Familienlastenausgleichsfonds. Arbeit ist in Österreich also auch für Arbeitgeber ziemlich teuer.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Lohnnebenkosten",
+    "Sozialversicherung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 863,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "Ja, das ist eine Idee, die nicht nur von linker Seite kommt, sondern die eigentlich von sehr vielen Ökonomen, Ökonominnen geteilt wird. Auch von Mainstream-Ökonomen, Ökonominnen. Im Übrigen auch einhellig von der EU-Kommission, von der OECD und vom Internationalen Währungsfonds.",
+   "quote_clean": "Das ist eine Idee, die nicht nur von linker Seite kommt, sondern die von sehr vielen Ökonominnen und Ökonomen geteilt wird, auch vom Mainstream. Im Übrigen auch einhellig von der EU-Kommission, der OECD und dem Internationalen Währungsfonds.",
+   "statement": "Die Idee, Arbeit steuerlich zu entlasten und dafür Vermögen stärker zu besteuern, wird auch von EU-Kommission, OECD und Internationalem Währungsfonds vertreten.",
+   "question": "Welche Institutionen empfehlen laut Schratzenstaller, Arbeit zu entlasten und Vermögen stärker zu besteuern?",
+   "answer": "EU-Kommission, OECD und IWF",
+   "distractors": [
+    "Nur Gewerkschaften und Arbeiterkammer",
+    "Nur linke Parteien",
+    "Weltbank, Nato und UNO"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das klingt nach einer linken Forderung, kommt aber von ziemlich unverdächtigen Stellen. In Österreich ist das Ungleichgewicht zwischen hohen Abgaben auf Arbeit und niedrigen auf Vermögen besonders groß.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Steuerstruktur",
+    "OECD"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 914,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "Und die Idee, eine sogenannte doppelte Dividende zu erzielen, indem man die Umweltsteuern erhöht, mit den zusätzlichen Einnahmen die Arbeit entlastet und damit sowohl positive Umwelteffekte erzielt, als auch positive Beschäftigungseffekte.",
+   "quote_clean": "Die Idee ist, eine sogenannte doppelte Dividende zu erzielen, indem man die Umweltsteuern erhöht, mit den zusätzlichen Einnahmen die Arbeit entlastet und damit sowohl positive Umwelteffekte als auch positive Beschäftigungseffekte erzielt.",
+   "statement": "Die „doppelte Dividende“ meint: Umweltsteuern erhöhen und mit dem Geld Arbeit entlasten, das hilft Umwelt und Beschäftigung zugleich.",
+   "question": "Was meinen Ökonom:innen mit der „doppelten Dividende“ einer Steuerreform?",
+   "answer": "Gut für Umwelt und Beschäftigung zugleich",
+   "distractors": [
+    "Doppelte Steuer auf Aktiengewinne",
+    "Zwei Steuersenkungen pro Jahr",
+    "Gewinn für Staat und Banken"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das Schlagwort dazu gibt es nur auf Englisch: tax what you burn, not what you earn. Was verbrannt wird, wird teurer, Arbeit wird billiger, und beides ist erwünscht.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Ökosteuer",
+    "Arbeit"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1005,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "In den 70er Jahren gab es zum letzten Mal bei der Grundsteuer, also nicht die für Land- und Forstwirtschaft, sondern die für private Haushalte und Unternehmen, eine sogenannte Hauptfeststellung der sogenannten Einheitswerte.",
+   "quote_clean": "In den 70er-Jahren gab es bei der Grundsteuer für private Haushalte und Unternehmen zum letzten Mal eine sogenannte Hauptfeststellung der Einheitswerte.",
+   "statement": "Die Einheitswerte, auf denen die österreichische Grundsteuer beruht, wurden zuletzt in den 1970er-Jahren neu festgestellt.",
+   "question": "Wann wurden die Einheitswerte, auf denen Österreichs Grundsteuer beruht, zuletzt neu festgestellt?",
+   "answer": "In den 1970er-Jahren",
+   "distractors": [
+    "In den 1990er-Jahren",
+    "Im Jahr 2010",
+    "In den 1950er-Jahren"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Seither entfernen sich die Werte immer weiter vom echten Marktwert. Ein Haus mit 20.000 Euro Einheitswert kann locker 300.000 oder 400.000 Euro wert sein, besteuert wird nur ein Bruchteil davon.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Grundsteuer",
+    "Einheitswert"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1113,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "Wir hatten letztes Jahr Grundsteuereinnahmen von ungefähr 650 Millionen Euro. Ich habe vorher gesagt, die Lohnsteuer macht 33 Milliarden aus, die Umsatzsteuer macht 37 Milliarden aus.",
+   "quote_clean": "Wir hatten letztes Jahr Grundsteuereinnahmen von ungefähr 650 Millionen Euro. Die Lohnsteuer macht 33 Milliarden aus, die Umsatzsteuer 37 Milliarden.",
+   "statement": "Die Grundsteuer brachte Österreich zuletzt nur rund 650 Millionen Euro im Jahr, verglichen mit über 30 Milliarden bei Lohn- und Umsatzsteuer.",
+   "question": "Wie viele Millionen Euro brachte die Grundsteuer in Österreich zuletzt pro Jahr ein?",
+   "answer": "Rund 650 Millionen Euro",
+   "distractors": [
+    "Rund 6,5 Milliarden Euro",
+    "Rund 65 Millionen Euro",
+    "Rund 2 Milliarden Euro"
+   ],
+   "number_value": 650,
+   "number_unit": "Millionen Euro",
+   "slider_min": 20,
+   "slider_max": 20000,
+   "log_scale": true,
+   "aha": "Im Vergleich zu Lohnsteuer und Umsatzsteuer sind das Peanuts. Der Grund: Die Bemessungsgrundlage stammt aus den 70ern und hat mit heutigen Immobilienpreisen nichts mehr zu tun.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Grundsteuer"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1192,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "oder sie muss zum August 2008 auslaufen und darf nicht mehr erhoben werden. Und die damalige Regierung hat auf eine Reparatur verzichtet und seitdem gibt es die Erbschaftsteuer nicht mehr.",
+   "quote_clean": "Oder sie muss mit August 2008 auslaufen und darf nicht mehr erhoben werden. Die damalige Regierung hat auf eine Reparatur verzichtet, und seitdem gibt es die Erbschaftsteuer nicht mehr.",
+   "statement": "Seit August 2008 gibt es in Österreich keine Erbschaftssteuer mehr, weil die Regierung sie nach einem Urteil des Verfassungsgerichtshofs nicht repariert hat.",
+   "question": "Seit welchem Jahr gibt es in Österreich keine Erbschaftssteuer mehr?",
+   "answer": "Seit 2008",
+   "distractors": [
+    "Seit 1994",
+    "Seit 2000",
+    "Seit 2015"
+   ],
+   "number_value": 2008,
+   "number_unit": "Jahr",
+   "slider_min": 1980,
+   "slider_max": 2023,
+   "log_scale": false,
+   "aha": "Der VfGH kippte die Steuer 2007, weil Bargeld und Aktien zum Marktwert, Grund und Häuser aber nur zu den uralten Einheitswerten besteuert wurden. Die Regierung Gusenbauer ließ sie bewusst auslaufen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erbschaftssteuer",
+    "Verfassungsgerichtshof"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1299,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "So, Norwegen, Schweiz, Spanien sind eigentlich die einzigen europäischen Länder, und auch OECD-Länder, die noch eine allgemeine Vermögenssteuer einheben.",
+   "quote_clean": "Norwegen, die Schweiz und Spanien sind eigentlich die einzigen europäischen Länder und auch OECD-Länder, die noch eine allgemeine Vermögenssteuer einheben.",
+   "statement": "Norwegen, die Schweiz und Spanien sind die einzigen europäischen und OECD-Länder, die noch eine allgemeine Vermögenssteuer einheben.",
+   "question": "Welche Länder heben als einzige in Europa noch eine allgemeine Vermögenssteuer ein?",
+   "answer": "Norwegen, Schweiz und Spanien",
+   "distractors": [
+    "Deutschland, Frankreich und Italien",
+    "Schweden, Dänemark und Finnland",
+    "Österreich, Belgien und Portugal"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Ausgerechnet die Schweiz hat eine relativ hohe. Spanien hatte sie vor der Finanzkrise abgeschafft und dann zur Budgetsanierung befristet wieder eingeführt, seither wird sie immer wieder verlängert.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Vermögenssteuer",
+    "Europa"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 1382,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "In Norwegen hat man jetzt die Vermögenssteuer, die vorher bei 1,1 Prozent des Vermögens gelegen hat, auf 1,3 Prozent erhöht.",
+   "quote_clean": "In Norwegen hat man jetzt die Vermögenssteuer, die vorher bei 1,1 Prozent des Vermögens gelegen hat, auf 1,3 Prozent erhöht.",
+   "statement": "Norwegen hat seine Vermögenssteuer von 1,1 auf 1,3 Prozent des Vermögens erhöht.",
+   "question": "Auf wie viel Prozent des Vermögens hat Norwegen seine Vermögenssteuer erhöht?",
+   "answer": "1,3 Prozent",
+   "distractors": [
+    "0,3 Prozent",
+    "3 Prozent",
+    "5 Prozent"
+   ],
+   "number_value": 1.3,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 5,
+   "log_scale": false,
+   "aha": "Klingt nach wenig, löste aber eine wilde Debatte aus: Rund 30 Milliardäre und Multimillionäre kündigten an, das Land zu verlassen. Was davon real ist und was Drohung, lässt sich laut Margit schwer nachweisen.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Norwegen",
+    "Vermögenssteuer"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 1369,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "Aus Spanien gibt es Evidenz dafür oder wird immer wieder beklagt, dass die Leute dann quasi Scheinwohnsitze irgendwo anmelden, wo die Steuer gering ist.",
+   "quote_clean": "Aus Spanien gibt es Evidenz dafür, oder es wird immer wieder beklagt, dass die Leute Scheinwohnsitze irgendwo anmelden, wo die Steuer gering ist.",
+   "statement": "Weil in Spanien die Regionen die Vermögenssteuersätze festlegen, melden Vermögende teils Scheinwohnsitze in Regionen mit niedriger Steuer an.",
+   "question": "Wie weichen Vermögende in Spanien der regional unterschiedlichen Vermögenssteuer teilweise aus?",
+   "answer": "Mit Scheinwohnsitzen in billigen Regionen",
+   "distractors": [
+    "Indem sie ihr Vermögen verschenken",
+    "Indem sie in Gold investieren",
+    "Mit Firmengründungen in Portugal"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "In Spanien und der Schweiz werden die Sätze regional festgelegt, und schon innerhalb eines Landes führt das zu deutlichen Ausweichreaktionen. Genau deshalb hält Margit eine rein nationale Vermögenssteuer für schwierig.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Steuerflucht",
+    "Spanien"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 1895,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "eigentlich ist so eine Vermögensteuer, die immer anfällt, egal ob ich Gewinne erwirtschafte oder nicht, eigentlich eine gewisse Produktivitätspeitsche",
+   "quote_clean": "Eigentlich ist so eine Vermögensteuer, die immer anfällt, egal ob ich Gewinne erwirtschafte oder nicht, eine gewisse Produktivitätspeitsche.",
+   "statement": "Manche Ökonom:innen sehen die Vermögenssteuer als „Produktivitätspeitsche“, weil sie unabhängig vom Ertrag anfällt und so dazu drängt, Vermögen möglichst rentabel anzulegen.",
+   "question": "Warum nennen manche Ökonom:innen die Vermögenssteuer eine „Produktivitätspeitsche“?",
+   "answer": "Sie drängt zu ertragreichen Anlagen",
+   "distractors": [
+    "Sie bestraft Unternehmen mit Verlusten",
+    "Sie fällt nur bei hohen Gewinnen an",
+    "Sie erhöht die Arbeitszeit der Reichen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Steuer bemisst sich am Wert, nicht am Ertrag. Wer sein Vermögen gut anlegt, zahlt also relativ zu den Erträgen wenig, wer es herumliegen lässt, relativ viel. Der Haken: Bei der Gerechtigkeit punktet dafür die Kapitalertragsteuer.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Vermögenssteuer",
+    "Effizienz"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2522,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "wir bei der Erbschaftsteuer ein Phänomen haben, was in der internationalen Literatur Denial of Death Thematik heißt, nämlich die Weigerung, sich mit der Tatsache auseinanderzusetzen, dass man irgendwann einmal sterben muss.",
+   "quote_clean": "Bei der Erbschaftsteuer haben wir ein Phänomen, das in der internationalen Literatur Denial of Death heißt, nämlich die Weigerung, sich mit der Tatsache auseinanderzusetzen, dass man irgendwann einmal sterben muss.",
+   "statement": "Der Erbschaftssteuer weichen Menschen weniger aus als der Vermögenssteuer, auch weil sie verdrängen, dass sie sterben werden („Denial of Death“).",
+   "question": "Welches Phänomen sorgt laut Forschung dafür, dass Menschen der Erbschaftssteuer seltener ausweichen?",
+   "answer": "Sie verdrängen den eigenen Tod",
+   "distractors": [
+    "Sie kennen die Steuer nicht",
+    "Sie haben keine Steuerberater",
+    "Sie wollen dem Staat helfen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Die Vermögenssteuer kommt jedes Jahr und erinnert einen ständig daran, sie zu vermeiden. Beim Erben müsste man sich mit dem eigenen Sterben beschäftigen, und das tun die meisten ungern. Studien zeigen auch, dass Leute ihr Sterberisiko unterschätzen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erbschaftssteuer",
+    "Psychologie"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 2603,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "Das ist ganz sicher einer der Gründe, weshalb eine Erbschaftsteuer wesentlich weniger beliebt ist als Vermögenssteuern.",
+   "quote_clean": "Das ist ganz sicher einer der Gründe, weshalb eine Erbschaftsteuer wesentlich weniger beliebt ist als Vermögenssteuern.",
+   "statement": "In Umfragen ist die Erbschaftssteuer in Österreich und anderen Ländern deutlich unbeliebter als die Vermögenssteuer.",
+   "question": "Welche Steuer ist in Umfragen unbeliebter: Erbschaftssteuer oder Vermögenssteuer?",
+   "answer": "Die Erbschaftssteuer",
+   "distractors": [
+    "Die Vermögenssteuer",
+    "Beide gleich unbeliebt",
+    "Keine, beide sind beliebt"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Obwohl Ökonom:innen die Erbschaftssteuer oft für die bessere halten, mögen die Leute sie weniger. Gründe: Der Staat verdient an einem Todesfall mit, man will das Vermögen in der Familie halten, und viele glauben fälschlich, sie wären selbst betroffen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Erbschaftssteuer",
+    "Umfragen"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "erklaerung",
+   "t": 2921,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "Es gibt zwei Modelle. Das eine ist eine sogenannte Erbanfallsteuer. Das heißt, da zahlt der Erbe, die Erbin und das andere ist eine Nachlasssteuer. Das heißt, da zahlt derjenige, der oder die vererbt.",
+   "quote_clean": "Es gibt zwei Modelle: Bei der sogenannten Erbanfallsteuer zahlt der Erbe oder die Erbin, bei der Nachlasssteuer zahlt derjenige oder diejenige, der oder die vererbt.",
+   "statement": "Bei der Erbanfallsteuer zahlen die Erb:innen, bei der Nachlasssteuer wird der Nachlass der verstorbenen Person besteuert; in Europa dominiert die Erbanfallsteuer.",
+   "question": "Wer zahlt bei einer „Erbanfallsteuer“, dem in Europa üblichen Modell?",
+   "answer": "Die Erbin oder der Erbe",
+   "distractors": [
+    "Der Nachlass der verstorbenen Person",
+    "Der Notar oder die Notarin",
+    "Die Wohngemeinde des Erblassers"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Das ist für das Argument der Doppelbesteuerung wichtig: Bei der Nachlasssteuer wird bereits versteuertes Vermögen nochmals besteuert. Bei der Erbanfallsteuer ist das Erbe für die Erbin ein neuer Zufluss, der ihre Leistungsfähigkeit erhöht.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Erbschaftssteuer",
+    "Doppelbesteuerung"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3005,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "Es sind 19 EU-Länder, die noch eine Erbschaftssteuer haben. Das gibt es ja auch in anderen OECD-Ländern.",
+   "quote_clean": "Es sind 19 EU-Länder, die noch eine Erbschaftssteuer haben. Das gibt es auch in anderen OECD-Ländern.",
+   "statement": "19 EU-Länder heben eine Erbschaftssteuer ein.",
+   "question": "Wie viele EU-Länder haben laut Schratzenstaller noch eine Erbschaftssteuer?",
+   "answer": "19",
+   "distractors": [
+    "3",
+    "8",
+    "26"
+   ],
+   "number_value": 19,
+   "number_unit": "Länder",
+   "slider_min": 0,
+   "slider_max": 27,
+   "log_scale": false,
+   "aha": "Die Vermögenssteuer ist in Europa fast ausgestorben, die Erbschaftssteuer gibt es in einer klaren Mehrheit der EU-Länder. Allerdings bringt sie wegen vieler Ausnahmen oft eher wenig ein, obwohl die vererbten Vermögen wachsen.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Erbschaftssteuer",
+    "EU"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3107,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "das geht also von vier bis acht Prozent bei Italien bis zu einem sehr progressiv ausgestalteten Satz für Frankreich bis zu 50, 60 Prozent in der Spitze.",
+   "quote_clean": "Das geht von vier bis acht Prozent in Italien bis zu einem sehr progressiv ausgestalteten Satz in Frankreich mit 50, 60 Prozent in der Spitze.",
+   "statement": "Die Erbschaftssteuersätze in Europa reichen von vier bis acht Prozent in Italien bis zu einem Spitzensatz von 50 bis 60 Prozent in Frankreich.",
+   "question": "Welches Land hat einen sehr progressiven Erbschaftssteuer-Spitzensatz von 50 bis 60 Prozent?",
+   "answer": "Frankreich",
+   "distractors": [
+    "Italien",
+    "Schweiz",
+    "Irland"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Italien besteuert Erbschaften mit vier bis acht Prozent eher mild, Frankreich langt in der Spitze ordentlich zu. Dazu kommt: Viele Systeme behandeln Schenkungen zu Lebzeiten günstiger, ein beliebter Weg, die Steuer kleinzuhalten.",
+   "difficulty": 2,
+   "time_sensitive": true,
+   "tags": [
+    "Erbschaftssteuer",
+    "Frankreich"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3337,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "In Deutschland gibt es zum Beispiel für Stiftungen ein sogenanntes Erbschaftsteuer Äquivalent. Da wird so getan, als würde alle 30 Jahre dieses Vermögen eben vererbt und damit eine fiktive Erbschaftsteuer dann errechnet",
+   "quote_clean": "In Deutschland gibt es für Stiftungen ein sogenanntes Erbschaftsteuer-Äquivalent. Da wird so getan, als würde dieses Vermögen alle 30 Jahre vererbt, und damit eine fiktive Erbschaftsteuer errechnet.",
+   "statement": "In Deutschland wird bei Familienstiftungen so getan, als würde das Vermögen alle 30 Jahre vererbt, und darauf eine fiktive Erbschaftssteuer berechnet.",
+   "question": "Alle wie viele Jahre wird in Deutschland bei Stiftungen eine fiktive Erbschaft besteuert?",
+   "answer": "Alle 30 Jahre",
+   "distractors": [
+    "Alle 5 Jahre",
+    "Alle 10 Jahre",
+    "Alle 50 Jahre"
+   ],
+   "number_value": 30,
+   "number_unit": "Jahre",
+   "slider_min": 1,
+   "slider_max": 100,
+   "log_scale": false,
+   "aha": "30 Jahre entsprechen ungefähr einer Generation. In Österreich haben viele Vermögende ihr Geld in Privatstiftungen gesteckt, die von der Erbschaftssteuer befreit waren, eine Wiedereinführung bräuchte also eine Lösung dafür.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Stiftungen",
+    "Deutschland"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 3605,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "zum einen würde es die Gemeindefinanzautonomie stärken, die Einnahmen aus der Grundsteuer gehen ja an die Gemeinden, die dann eben neben der Kommunalsteuer eine zweite sehr ergiebige Einnahmenquelle verfügen würden",
+   "quote_clean": "Zum einen würde es die Finanzautonomie der Gemeinden stärken. Die Einnahmen aus der Grundsteuer gehen ja an die Gemeinden, die dann neben der Kommunalsteuer über eine zweite sehr ergiebige Einnahmenquelle verfügen würden.",
+   "statement": "Die Einnahmen aus der Grundsteuer gehen in Österreich an die Gemeinden.",
+   "question": "Wer bekommt in Österreich die Einnahmen aus der Grundsteuer?",
+   "answer": "Die Gemeinden",
+   "distractors": [
+    "Der Bund",
+    "Die Bundesländer",
+    "Die Sozialversicherung"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Eine reformierte Grundsteuer wäre also vor allem ein Geschenk an die Gemeindekassen. Und sie lässt sich gut national einheben, denn ein Grundstück kann man nicht in die Schweiz mitnehmen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Grundsteuer",
+    "Gemeinden"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 3910,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "dass man eben Eigenheimbesitzer und Besitzerinnen 50 Prozent der Haushalte in Österreich leben in Eigenheimen, eben auch nicht über Gebühr belastet.",
+   "quote_clean": "Dass man Eigenheimbesitzerinnen und -besitzer – 50 Prozent der Haushalte in Österreich leben in Eigenheimen – nicht über Gebühr belastet.",
+   "statement": "Rund die Hälfte der Haushalte in Österreich lebt im Eigenheim.",
+   "question": "Wie viel Prozent der Haushalte in Österreich leben laut Schratzenstaller in Eigenheimen?",
+   "answer": "Rund 50 Prozent",
+   "distractors": [
+    "Rund 25 Prozent",
+    "Rund 75 Prozent",
+    "Rund 90 Prozent"
+   ],
+   "number_value": 50,
+   "number_unit": "Prozent",
+   "slider_min": 0,
+   "slider_max": 90,
+   "log_scale": false,
+   "aha": "Deshalb muss eine höhere Grundsteuer sozial verträglich sein, etwa mit gestaffelten Sätzen, wie sie der IWF vorschlägt. Und ein Teil der Grundsteuer landet über die Betriebskosten bei den Mieter:innen.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "Wohnen",
+    "Eigentum"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "aha",
+   "t": 4113,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "Wir haben ja so etwas wie eine Bodenwertabgabe in Österreich, die ist nur total zahnlos, weil die beruht auch auf den Einheitswerten und der Steuersatz ist total niedrig",
+   "quote_clean": "Wir haben so etwas wie eine Bodenwertabgabe in Österreich, die ist nur total zahnlos, weil sie auch auf den Einheitswerten beruht und der Steuersatz total niedrig ist.",
+   "statement": "Österreich hat eine Bodenwertabgabe auf unbebautes Bauland, sie ist aber wirkungslos, weil sie auf veralteten Einheitswerten und einem sehr niedrigen Satz beruht.",
+   "question": "Warum hilft Österreichs Bodenwertabgabe kaum gegen gehortetes, unbebautes Bauland?",
+   "answer": "Veraltete Einheitswerte und winziger Steuersatz",
+   "distractors": [
+    "Sie gilt nur in Wien",
+    "Sie wurde 2008 abgeschafft",
+    "Sie trifft nur Landwirte"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer ein schönes Grundstück unbebaut liegen lässt, zahlt kaum etwas. Das hat keinen Lenkungseffekt, und so werden weiter draußen neue Flächen gewidmet, während zentrumsnahe Gründe leer stehen.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Bodenverbrauch",
+    "Bauland"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zahl",
+   "t": 4488,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "Wo Österreich ein bisschen ein Nachzügler war, ist eben mit der Einführung der CO2-Bepreisung, die ja erst im Oktober 2022 eingeführt worden ist und mit einem, auch wenn man sich das im internationalen Vergleich so anschaut, relativmäßigen Satz von zunächst 30 Euro.",
+   "quote_clean": "Wo Österreich ein bisschen Nachzügler war, ist die Einführung der CO2-Bepreisung, die erst im Oktober 2022 eingeführt worden ist, mit einem im internationalen Vergleich relativ mäßigen Satz von zunächst 30 Euro.",
+   "statement": "Österreich führte im Oktober 2022 einen CO2-Preis von zunächst 30 Euro pro Tonne ein, international ein eher mäßiger Wert.",
+   "question": "Mit wie viel Euro pro Tonne startete Österreichs CO2-Preis im Oktober 2022?",
+   "answer": "30 Euro",
+   "distractors": [
+    "5 Euro",
+    "100 Euro",
+    "60 Euro"
+   ],
+   "number_value": 30,
+   "number_unit": "Euro pro Tonne",
+   "slider_min": 0,
+   "slider_max": 150,
+   "log_scale": false,
+   "aha": "Bis 2025 sollte er schrittweise auf 55 Euro steigen. Ein Preisstabilisierungsmechanismus bremste die Erhöhung aber, weil die Energiepreise stark gestiegen waren, statt 35 Euro waren es 2023 deshalb 32,50 Euro.",
+   "difficulty": 2,
+   "time_sensitive": false,
+   "tags": [
+    "CO2-Preis",
+    "Klima"
+   ],
+   "scope": "welt",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 4909,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "Unsere Abgabensysteme sind sehr komplex und sie sind zu komplex und die Leute verstehen sie nicht mehr und das ist auch ein demokratiepolitisches Problem und verursacht auch zunehmend Steuerwiderstand.",
+   "quote_clean": "Unsere Abgabensysteme sind sehr komplex, sie sind zu komplex, die Leute verstehen sie nicht mehr, und das ist auch ein demokratiepolitisches Problem und verursacht zunehmend Steuerwiderstand.",
+   "statement": "Margit Schratzenstaller hält die Steuersysteme für zu komplex, was sie als demokratiepolitisches Problem sieht.",
+   "question": "Welche Ökonomin nannte zu komplexe Steuersysteme „ein demokratiepolitisches Problem“?",
+   "answer": "Margit Schratzenstaller",
+   "distractors": [
+    "Isabel Schnabel",
+    "Bettina Fuhrmann",
+    "Monika Köppl-Turyna"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Wer nicht mehr versteht, warum er wie viel zahlt, hat immer weniger Lust darauf. Trotzdem ist Margit skeptisch bei Vorschlägen, die zu einfach klingen, wie Flat Taxes oder eine reine Konsumsteuer.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Steuersystem",
+    "Demokratie"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "zitat",
+   "t": 4630,
+   "speaker": "Margit Schratzenstaller",
+   "quote": "Ich glaube, angesichts der Problematiken, denen wir gegenüberstehen, ist es im Moment so realistisch wie überhaupt noch nie.",
+   "quote_clean": "Ich glaube, angesichts der Probleme, denen wir gegenüberstehen, ist es im Moment so realistisch wie noch nie.",
+   "statement": "Margit Schratzenstaller hält eine große ökosoziale Steuerstrukturreform angesichts von Klimakrise und wachsender Vermögensungleichheit für so realistisch wie noch nie.",
+   "question": "Wie realistisch hält Margit Schratzenstaller eine große ökosoziale Steuerreform?",
+   "answer": "So realistisch wie noch nie",
+   "distractors": [
+    "Völlig unrealistisch",
+    "Erst in 30 Jahren denkbar",
+    "Nur auf EU-Ebene möglich"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Klimakrise und neue EZB-Zahlen zur wachsenden Vermögensungleichheit erhöhen den Druck. An den einen großen Wurf glaubt sie nach 20 Jahren im Geschäft trotzdem nicht, eher an mehrere Schritte.",
+   "difficulty": 3,
+   "time_sensitive": true,
+   "tags": [
+    "Reform",
+    "Klima"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  },
+  {
+   "kind": "moment",
+   "t": 101,
+   "speaker": "Andreas Sator",
+   "quote": "Wir machen das heute super sexy und unterhaltsam, bin mir ganz sicher.",
+   "quote_clean": "Wir machen das heute super sexy und unterhaltsam, bin mir ganz sicher.",
+   "statement": "Als Margit sich für das Interesse an „trockenen steuerpolitischen Fragen“ bedankt, verspricht Andreas, das Thema super sexy und unterhaltsam zu machen.",
+   "question": "Was verspricht Andreas, als Margit Schratzenstaller von „trockenen steuerpolitischen Fragen“ spricht?",
+   "answer": "Es wird super sexy und unterhaltsam",
+   "distractors": [
+    "Es wird kurz und schmerzlos",
+    "Es gibt danach eine Pause",
+    "Er erklärt alles mit Kuchen"
+   ],
+   "number_value": 0,
+   "number_unit": "",
+   "slider_min": 0,
+   "slider_max": 0,
+   "log_scale": false,
+   "aha": "Steuern gelten als Schlafmittel, Andreas sieht das anders. Ob es geklappt hat, entscheidest du selbst, immerhin kommt eine Wurstsemmel und ein Schlossbesitzer drin vor.",
+   "difficulty": 3,
+   "time_sensitive": false,
+   "tags": [
+    "Einstieg"
+   ],
+   "scope": "folge",
+   "quote_match": 1.0
+  }
+ ],
+ "transcript_source": "whisper",
+ "id": "263",
+ "model": "claude-opus-5-5",
+ "via": "agent",
+ "at": "2026-11-12"
+}
